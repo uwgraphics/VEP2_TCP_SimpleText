@@ -1,0 +1,773 @@
+Robert Norton to the courteous Readers.
+ALthough I have too often been an unwilling witness of the ouer-rash
+disposition of diverse unadvised censurers, that would have themselves esteemed
+skillful, and yet either will not, or rather cannot do any thing of worth
+themselves, not sparing to cavil, detract, and injuriously to burden other
+men's well pretended endeavors, with unworthy and undeserved scoffs and
+scandalls: but in stead of reading to understand, and then to examine their
+true validity, that so with judgment they might censure them, have
+crittically played the right Momes: And though I hope not as Jack alone, to
+escape that which few or none have done before me: yet the respect I have to
+the public good, that you my Countrymen, such as either want leisure or
+language, may become partakers of these excellent inventions of that famous
+foreign Author, more prevailing with me, then the careless regard I have
+of such injuries could hinder, I have, as you see, adventured to provide for
+this worthy stranger, this English welcome, and have preferred some few of mine
+own friends (though unworthy) to accompany him: And so commending him to your
+courteous entertainements, do bid you heartily farewell.
+
+Yours in all courtesy, R. N.
+
+DEFINITIONS appertaining to Arithmeticall whole Numbers.
+The first Definition.
+ARithmeticke is the Science of Numbers.
+
+The second Definition.
+NVmber is that which expresses the quantity of each thing.
+
+The third Definition.
+THe Characters by which Numbers are denoted, are ten; namely, 0 signifying the
+beginning of Number? and 1, and 2, and 3, and 4, and 5, and 6, and 7, and 8,
+and 9.
+
+The fourth Definition.
+EVery three Characters of a Number is called a Member, whereof the first are
+the three first toward the right hand, the second, the three Characters next
+following toward the left hand: And so by order, for the third Member and
+others following, as many as there shall be found threes in the Number
+propounded.
+
+The Explication.
+AS in the number 357876297, the 297 is called the first Member: and 876 the
+second: and 357 the third.
+
+The fifth Definition.
+THe first Character of the first Member, beginning from the right hand to the
+left, does simply signify his own value: the second, so many times ten, as
+that contains unities: the third, so many times a hundred, as that contains
+unities: and the first Character of the second Member so many times a thousand,
+as that contains unities: and so by the tenth progression of all the rest of
+the Characters contained in the number proposed.
+
+Explication.
+LEt the Number propounded be 756871387130789276. Then according to this
+definition, the first Character 6, makes six: and the 7 following (...) and
+the 2 following, two hundred: and the 9, nine thousand and so of the rest. To
+express thi^ ^umber, place over every first Character of each Member (except
+the first Member) a prick or point, as you see above: then say, seven hundred
+fifty six thousand thousand thousand thousand thousand, (namely, so many
+times thousand, as there are pricks or points from 7 to the end) eight hundred
+seventy one thousand thousand thousand thousand, three hundred eighty seven
+thousand thousand thousand, one hundred thirty thousand thousand, seven hundred
+eighty nine thousand, two hundred seventy six.
+
+The sixth Definition.
+A Whole number is either a unity, or a compounded multitude of unities.
+
+The seventh Definition.
+THe Golden Rule, or Rule of three, is that by which to three terms given,
+the fourth proportional term is found.
+
+The operation of Arithmeticall whole Numbers.
+Of the Addition of whole Numbers. The first Problem.
+ARithmeticall whole numbers being given to find their Sum, Explication
+propounded, let the Numbers given to be added, be 379, and 7692, and 4545,
+Explication required, to find their sum. Construction: the Numbers given,
+shall be disposed as follows: ^ so as their first Characters toward the
+right hand, stand directly one under another: and likewise their second
+Characters, and so also the rest following, drawing under them a line: then
+shall all the Characters of the first rank toward the right hand be added,
+saying, 9 and 2 make 11, and 5 make 16, whereof the 6 shall be placed under the
+first rank, and the 1 of the same 16, shall be added to the second rank,
+saying, 1 and 7 make 8, and 9 make 17, and 4 make 21. of which the 1 shall be
+placed directly under the second rank, and the 2 shall be added to the third
+rank, saying, 2 and 3 make 5, and 6 make 11, and 5 make 16, whereof the 6
+shall be placed under the third rank, and the 1 shall be added to the fourth,
+saying, 1 and 7 make 8, and 4 make 12, which shall be wholly placed in their
+rank thus.
+
+I say, 12616 is the sum required. ^
+
+Demonstration: if from the three Numbers given, the two first be taken away,
+and there remains 4545. And if from the Sum 12616, the two first given be
+subtracted also, there remains likewise 4545: But by the common Axiom, if
+from things equal, equal things be subtracted, their rests shall be equal:
+And things subtracted equal to things subtracted, all shall be equal.
+Therefore, 12616 is equal to three Numbers given, which is the thing required.
+Conclusion: Arithmeticall whole Numbers being given to be added, we have found
+their sum as was required.
+
+Substraction of whole Numbers. The second Problem.
+AN Arithmeticall whole Number being given, out of which to substract, and
+another Arithmeticall whole Number to be subtracted: to find their Rest.
+
+Explication propounded, be the Number out of which to substract, 238754207:
+And the number to be subtracted 71572604 given Explication required to find
+their Rest. Construction: the Number to be subtracted, shall be to placed
+under the Number out of which it is to be subtracted, as that the 4 stand
+directly under the 7, and the 0 under the 0, and so of the rest, drawing a line
+between the numbers given, and another under the number which is to be
+subtracted, as hereunder appears. ^ Then beginning at the right hand,
+substract 4 from 7, and there rests 3, which shall be set directly under the
+4, and then say, 0 out of 0 rests 0, placing 0 under the 0: then 6 from 2,
+which being impossible, say, 6 from 10, and 2 (which is 12) rests 6, placing
+that under the 6: then 2 from 3, (true it is that you should have said 2 from
+4, had it not been that you borrowed 1 from the 4 to make the other 2 to value
+12) rests 1, placing that under the 2: and so of all the other. The
+disposition of their Characters are as here appears. I say that 167181603 is
+the Rest required. Demonstration: adding the Rest 167181603 to the number to be
+subtracted 71572604, the sum shall be equal to the number from which the
+substraction was made: wherefore seeing that 167181603 is the difference
+between the number from which the substraction was made, and the number to be
+subtracted; therefore that is their Rest which was to be demonstrated.
+Conclusion. An Arithmeticall whole Number from which to be subtracted, and
+another to substract, being given, we have found their Rest which was required.
+
+Multiplication of whole Numbers. The third Problem.
+AN Arithmeticall whole Number given to be multiplied, and another to multiply,
+to find their product. Explication propounded: Be the Multiplicand or Number to
+be multiplied 546, and the Multiplicator or number to multiply 37. Explication
+required: To find their product, Note, that for the more easy solution of
+this proposition, it were necessary to have in memory the multiplication of the
+9 simple Characters among themselves, learning them by rote out of the Table
+here placed, seeking the Multiplicand in the superior line of squares, and the
+Multiplicator in the diagonall or slope line of squares: and in the common
+Angle answering them both, you shall find their product. Pythagoras Table.
+1 2 3 4 5 6 7 8 9 2 4 6 8 10 12 14 16 18 3 9 12 15 18 21 24 27 4 16 20 24 29
+32 36 5 25 30 35 40 45 6 36 42 48 54 7 49 56 63 8 64 72 9 81
+
+As we would know ye product of 3 and 8, seek 8 in ye upper line, and 3 in the
+slope or diagonall: and in the common Angle you shall find 24 their product,
+and so of all the rest, as by the Table will plainly appear.
+
+Construction: place the first numbers on the right hand (of the given) one
+directly under another, and then draw a line, as heere-under is done. Then say,
+7 times 6 make 42, place 2 under the 7, and retain the 4 (because of the 4
+tenths) in memory: then say, 7 times 4 make 28, and the 4 which you had in
+mind, make 32, whereof place the 2 under the 3, and retain 3, and say, 7
+times 5 make 35, and 3 which was borne in mind, make 38, which shall be placed
+in order under the line, as you see. ^ In the like sort shall the 546 be
+multiplied by the 3 of the multiplicator, saying, 3 times 6 make 18, placing
+the 8 under the 3: and so of the rest. Then shall be drawn a line, adding all
+that is between ye two lines in this sort.
+
+I say, that 20202 is the Product required.
+
+Demonstration. The 20202 contains the 37 so many times as there is unities
+in the 546: therefore 20202 is the product which was to be found. Conclusion.
+An Arithmetical whole number being given to be multiplied, and another to
+multiply, we have found their required product.
+
+Division of Arithmeticall whole Numbers. The fourth Problem.
+AN Arithmeticall whole Number being given to be divided, and another to
+divide, to find their Quotient.
+
+Explication propounded: Be the number to be divided, 995, and the number to
+divide, 28 given. Explication required: to find their Quotient. Construction:
+The number to be divided (or diuident) and the number to divide (or divisor)
+shall be placed in order, drawing a crooked line, as hereunder follows,
+saying, how many times 2 in 9? three times, (true it is that there are 4 times
+2 in 9, and 1 remaining) but we will show ye reason hereafter why we must say
+but three times) set down 3 for the first Character of the Quotient, behynd
+the crooked line, and the 3 remaining of ye 9 cancelling the 2 and 9: then
+multiply 8 by the divisor, by 3, the Quotient it makes 24, which substract
+from 39 (here appears the occasion why we said that 2 is but only 3 times in
+9: for if we had said 4 times, resting of the 9, and had multiplied 8 by 4 it
+would have been 32 which should be subtracted from 19 which then remained of
+the diuident, which is impossible; therefore there must be such a number taken,
+and placed behind the crooked line, as that the product thereof may be
+subtracted from the remaynder) rests 15, which place over 39, cancelling the
+39, and the 8, so shall the disposition of the Characters be in this manner. ^
+Now to find the second Character of the Quotient, the divisor must again be
+set under the diuident, placing the 8 of the divisor under the 5 of the
+diuident, and the 2 under the 8, saying how many times 2 in 15? five times,
+which 5 shall be placed near the 3 at the oblique line, for the second Character
+of the Quotient rests 5 which shall be placed over the 5 of the 15 cancelling
+the said 15 and 2: then multiplying the divisor 8 by the Quotie^t 5 makes 40,
+which substract from 55 remains 15, cancelling the 55 and the 8 and
+distinguishing the 15 with crooked lines from the other Characters: then draw a
+line near the Quotient 35, placing over the same the said remaynder, and under
+the same the divisor 28, and the disposition of the Characters will be as
+appears above, I say that 35 15/28 is the Quotient required.
+
+Demonstration: the 35 15/28 contains the unity so often as the 995
+contains the divisor 28: therefore 35 15/28 is the Quotient required which
+was to be demonstrated, Conclusion: an Arithmeticall whole number for diuident,
+and one for divisor given, we have found their Quotient required.
+
+The Rule of Three, or Golden Rule of Arithmeticall whole Numbers. The fifth
+Problem.
+THree Terms of Arithmeticall Numbers, being given to find their
+proportional Term.
+
+Explication propounded: Be the three terms given 234. Explication required:
+To find their fourth proporcionall Term: that is to say, in such Reason to
+the third term 4, as the second term 3, is to the first term 2.
+Construction: Multiply the second term 3, by the third term 4, yt gives the
+product 12: which dividing by the first term 2, gives the Quotient 6: I say
+that 6 is the fourth proportional term required. Demonstration: there is from
+6 to 4, Reason sesquialter, and the same Reason is there from 3 to 2: therefore
+6 is the fourth proportional term to be demonstrated. Conclusion: three
+Arithmeticall numbers being given, we have found their fourth proportional
+term required.
+
+The Preface of Simon Steuin.
+To Astronomers, Land-meaters, Measurers of Tapistry, Gaudgers, Stereometers in
+general, Monty-Masters, and to all Merchants, Simon Steuin
+wishes health.
+MAny seeing the smalnes of this Book, and considering your worthynes to who^
+it is dedicated, may perchance esteem this our conceyte absurd: But if the
+proportion be considered, the small quantity hereof compared to humane
+imbecility, and the great vtility unto high and ingenious intendiments, it will
+be found to have made comparison of the extreme terms, which permit not any
+conversion of proportion. But what of that? is this an admirable invention? No
+certainly: for it is so mean, as that it scant deserves the name of an
+invention: for as the cou^tryman by chance sometime finds a great treasure,
+without any use of skill or cunning, so has it happened herein. Therefore if any
+will think, that I vaunt my self of my knowledge, because of the explication
+of these vtilities, out of doubt, he shows himself to have neither
+judgment, understanding, nor knowledge to discern simple things from
+ingenious inventions, but he (rather) seems envious of the common benefit:
+yet howsoever, it were not fit to omit the benefit hereof, for the
+inconvenience of such calumny. But as the Mariner having by hap found a
+certain unknown Island, spares not to declare to his Prince the riches and
+profits thereof; as the fair fruits, precious mineralls, pleasant champions,
+etc. and that without imputation of Philautry: even so shall we speak freely
+of the great use of this invention; I call it great, being greater then any of
+you expect to come from me. Seeing then that the matter of this Disme (the
+cause of the name whereof shall be declared by the first difinition following) is
+number, the use and effects of which, yourselues shall sufficiently witness by
+your continual experiences, therefore it were not necessary to use many words
+thereof: for the Astrologer knows, that the world is become by computation
+Astronomicall (seeing it teaches the Pilot the elevation of the Equator and of
+the Pole, by means of the declination of the Sun, to describe the true
+Longitudes, La^titudes, situatio^s and distances of places, etc.) a Paradise,
+abou^ding in some places with such things as the Earth cannot bring forth in
+other. But as the sweet is never without the sour: so the travail in such
+computations cannot be unto him hidden, namely, in the busy multiplications and
+divisions which proceed of the 60 progression of degrees, minutes, seconds,
+thirds, etc. And the Surueyor or Land-meater knows, what great benefit the
+world receives from his science, by which many dissensions and difficulties
+are avoided, which otherwise would arise by reason of the unknown capacity of
+Land: besides, he is not ignorant (especially whose business and employment is
+great) of the troublesome multiplications of Roods, Feet, and oftentimes of
+inches, the one by the other, which not only molesteth, but also often (though
+he be very well experienced) causes error, tending to the damage of both
+parties, as also to the discredit of Land-meater or surueyor, and so for the
+Money-masters, Merchants and each one in his business: therefore how much they
+are more worthy, and the means to attain them the more laborious, so much the
+greater and better is this Disme, taking away those difficulties: But how? it
+teaches (to speak in a word) the easy performance of all reckonings,
+computations, and accounts, without broken numbers, which can happen in man's
+business, in such sort, as that the four Principles of Arithmetic namely,
+Addition, Substractio^, Multiplication, and Devisio^, by whole numbers, may
+satisfy these effects, affording the like facility unto those that use
+Cou^ters. Now if by those means we gain the time which is precious, if
+hereby that be saved which otherwise should be lost, if so, the pains,
+controversy, error, damage, and other inconveniences commonly happening therein,
+be eased, or taken away, then I leave it willingly unto your judgments to be
+censured: and for that, that some may say that certain inventions at the first
+seem good, which when they come to be practiced, effect nothing of worth, as
+it often happens to the serchers of strong moving, which seem good in small
+proofs and modells, when in great, or coming to the effect, they are not
+worth a Button: whereto we answer, that herein is no such doubt: for
+experience daily shows the same: namely, by the practice of diverse expert
+Land-meaters of Holland, unto whom we have showed it, who (laying aside that
+which each of them had, according to his own manner, invented to lessen their
+pains in their computations) do use the same to their great contentment, and
+by such fruit as the nature of it witnesses, the due effect necessarily
+follows: The like shall also happen to each of your selves using the same as
+they do: mean while live in all felicity.
+
+The Argument.
+THe Disme has two parts, that is, Definitions and Operations: by ye first
+definition is declared what Disme is, by the second, third, and fourth, what
+Comencement, Prime, Second etc. and Disme numbers are: the Operation is
+declared by four propositions, The Addition, Substraction, Multiplication and
+Division of Disme numbers. The order whereof may be successively represented by
+this Table.
+
+The Disme has two parts. Definitions, as what is Disme, Comencement, Prime,
+Second etc. Disme number. Operations or Practice of the Addition, Substraction,
+Multiplication, Division.
+
+And to y^ end the premises may ye better be explaned, there shall be hereunto an
+Appendix adjoined, declaring the use of the Disme in many things by certain
+examples, and also definitions and operations, to teach such as do not already
+know the use and practice of Numeration, and the four principles of common
+Arithmetic, in whole numbers, namely, Addition, Substraction, Multiplication,
+and Division, together with the Golden Rule, sufficient to instruct the most
+ignorant in ye usual practice of this Art of Disme or Decimall Arithmeticke.
+
+The first Part. Of the Definitions of the Dismes.
+The first Definition.
+DIsme is a kind of Arithmeticke, invented by the tenth progression, consisting
+in Characters of Ciphers; whereby a certain number is described, and by which
+also all accounts which happen in humane affairs, are dispatched by whole
+numbers, without fractions or broken numbers.
+
+Explication.
+LEt the certain number be one thousand, one hundred and eleven, described by
+the Characters of Ciphers thus 1111, in which it apeareth that each 1 is the
+10th part of his precedent character 1: likewise in 2378, each unity of 8 is
+the tenth of each unity of 7, and so of all the others: But because it is
+convenient that the things whereof we would speak, have names, and that this
+manner of computation is found by the consideration of such tenth or disme
+progression; that is, that it consists therein entirely, as shall hereafter
+appear: We call this Treatise fitly by the name of Disme, whereby all
+accounts happening in the affairs of man, may be wrought and effected without
+fractions or broken numbers, as hereafter appears.
+
+The second Definition.
+EVery number propounded, is called Comencement, wose sign is thus (0).
+
+Explication.
+BY example, a certain number is propounded of three hundred sixty four: we
+call the 364 Comencements, described thus 364 (0) and so of all other like.
+
+The third Definition.
+ANd each tenth part of the unity of the Comencement, we call the Prime, whose
+sign is thus (1), and each tenth part of ye unity of the Prime, we call the
+Second, whose sign is (2), and so of ye other: each tenth part of the unity of
+the precedent sign, always in order, one further.
+
+Explication.
+AS 3 (1) 7 (2) 5 (3) 9 (4) that is to say, 3 Primes, 7 Seconds, 5 Thirds, 9
+Fourths, and so proceeding infinitely: but to speak of their value, you may
+note, that according to this definition, the said numbers are 3/10 7/100 5/1000
+9/10000, together 3759/10000 and likewise 8 (0) 9 (1) 3 (2) 7 (3) are worth 8
+9/10 3/100 7/1000 together 8 937/1000 and so of other like. Also you may
+understand, that in this Disme we use no fractions, and that the multitude of
+signs, except (0) never exceed 9: as for example, not 7 (1) 12 (2) but in
+their place 8 (1) 2 (2), for they value as much.
+
+The fourth Definition.
+THe numbers of the second and third Definitions before going, are generally
+called Disme numbers.
+
+The end of the Definitions.
+The second part of the Disme. Of the Operation or Practice.
+The first proposition of Addition.
+DIsme numbers being given how to add them to find their sum.
+
+The explication propounded; there are 3 orders of Disme numbers given, of
+which the first 27 (0), 8 (1), 4 (2), 7 (3), the second 37 (0), 8 (1), 7 (2), 5
+(3), the third 875 (0), 7 (1) 8 (2), 2 (3). The explication required, we must
+find their total sum.
+
+Construction.
+The numbers given, must be placed in order as here adjoining, ^ adding them in
+the vulgar manner of adding of whole numbers in this manner: The sum (by ye
+first Problem of Arithmetic following) is 941504, which are (that which the
+signs above the numbers do show) 941 (0) 5 (1) 0 (2) 4 (3). I say, they are
+the sum required. Demonstration: the 27 (0) 8 (1) 4 (2) 7 (3) given, make by
+the 3 Definition before 27 8/10 4/100 7/1000, together 27 847/1000, and by the
+same reason, the 37 (0) 8 (1) 7 (2) 5 (3) shall make 37 875/1000, and the 875
+(0) 7 (1) 8 (2) 4 (3) will make 875 782/1000, which three numbers make by
+common addition of vulgar Arithmeticke 941 304/1000. But so much is the sum
+941 (0) 5 (1) 0 (2) 4 (3): therefore it is the true sum to be demonstrated.
+Conclusion: Then Disme numbers being given to be added, we have found their
+sum, which is the thing required.
+
+Note, that if in the number given, there want some signs of their natural
+order, the place of the defectant shall be filled. As for example, let the
+numbers given be 8 (0) 5 (1) 6 (2) and 5 (0) 7 (2): ^ in which, the latter
+wanted the sign of (1), in the place thereof shall 0 (1) be put, take then
+for that latter number given 5 (0) 0 (1) 7 (2) adding them in this sort.
+
+This advertisement shall also serve in the three following propositions,
+wherein the order of the defayling figures must be supplied, as was done in the
+former example.
+
+The second Proposition. Of Substraction.
+A Disme number being given to substract: another less Disme number given out
+of the same to find their rest.
+
+Explication propounded: be the numbers given 237 (0) 5 (1) 7 (2) 8 (3) and 59
+(0) 7 (1) 3 (2) 9 (3) The Explication required; to find their rest.
+
+Construction: the numbers given shall be placed in this sort, substracting
+according to vulgar manner of substractio^ of whole numbers, thus ^
+
+The rest is 177839 which valueth as the signs over them do denote 177 (0) 8
+(1) 3 (2) 9 (3), I affirm ye same to be the rest required.
+
+Demonstration: the 237 (0) 5 (1) 7 (2) 8 (3) make by the third Definition of
+this Disme, 237 5/10 7/100 8/1000 together 237, 578/1000 and by the same
+reason, the 59 (0) 7 (1) 4 (2) 9 (3) value 59 749/1000 which subtracted from
+237 578/1000 there rests 177 839/1000 but so much does 177 (0) 8 (1) 3 (2) 9
+(3) value: that is then the true rest which should be made manifest.
+Conclusion: a Disme being given, to substract it out of another Disme number,
+and to know the rest, which we have found.
+
+The third Proposition: of Multiplication.
+A Disme number being given to be multiplied, and a multiplicator given to find
+their product:
+
+The Explication propounded: be the number to be multiplied 32 (0) 5 (1) 7 (2),
+and the multiplicator 89 (0) 4 (1) 6 (2)
+
+The Explication required: to find the product. Construction: the given numbers
+are to be placed as here is showed, ^ multiplying according to the vulgar manner
+of multiplication by whole numbers, in this manner, giving ye product, 29137122:
+^ Now to know how much they value, join the two last signs together as the
+one (2) and the other (2) also, which together make (4), and say yt the last
+sign of the product shall be (4) which being known, all the rest are also
+known by their continued order. So that the product required, is 2913 (0) 7
+(1) 1 (2) 2 (3) 2 (4).
+
+Demonstration: The number given to be multiplied, 32 (0) 5 (1) 7 (2) (as
+appears by the third Definition of this Disme) 32 5/10 7/100 together 32
+57/100: and by the same reason the multiplicator 89 (0) 4 (1) 6 (2) value 89
+46/100 by the same, the said 32 57/100 multiplied, gives the product 2913,
+7122/10000 But it valueth 2913 (0) 7 (1) 1 (2) 2 (3) 2 (4). It is then the true
+product which we were to demonstrate. But to show why (2) multiplied by (2)
+gives the product (4) which is the sum of their numbers, also why (4) by (5)
+produces (9), and why (0) by (3) produces (3) etc. Let us take 2/10 and 3/100
+which (by the third Definition of this Disme) are 2 (1) 3 (2) their product is
+6/10000 which value by the said third Definition 6 (3), multiplying then (1) by
+(2) the product is (3) namely a sign compounded of the sum of the numbers of
+the signs given.
+
+Conclusion.
+A Disme number to multiply, and to be multiplied, being given, we have found
+the product, as we ought.
+
+Note.
+IF the latter sign of the number to be multiplied, be unequal to the
+latter sign of the multiplicator, as for example, the one 3 (4) 7 (5) 8 (6),
+the other 5 (1) 4 (2), they shall he handled as aforesaid, and the disposition
+thereof shall be thus. ^
+
+The fourth Proposition: of Division.
+A Disme number for the diuident, and divisor, being given to find the Quotient.
+
+Explication proposed: let the number for the diuident be 3 (0) 4 (1) 4 (2) 3
+(3) 5 (4) 2 (5) and the divisor 9 (1) 6 (2). Explication required: to find
+their Quotient.
+
+COnstruction: the numbers given divided (omitting the signs) according to the
+vulgar manner of dividing of whole numbers, gives the Quotient, 3587; now to
+know what they value; the latter sign of the divisor (2) must be subtracted
+from the latter sign of the diuident which is (5), rests (3) for the latter
+sign of the latter Character of ye Quotient, which being so known, all ye
+rest are also manifest by their continued order, thus 3 (0) 5 (1) 8 (2) 7 (3)
+are the Quotient required.
+
+DEmonstration: the number diuident given 3 (0) 4 (1) 4 (2) 3 (3) 5 (4) 2 (5)
+makes (by the third Definition of this Disme) 3 4/10 4/100 3/1000 5/10000
+2/100000 together 3 44352/100000 and by ye same reason, the divisor 9 (1) 6 (2)
+valueth 96/100, by which 3 44352/100000 being divided, gives the Quotient 3
+587/1000; but the said Quotient valueth 3 (0) 5 (1) 8 (2) 7 (3): therefore it
+is the true Quotient to be demonstrated.
+
+Conclusion: a Disme number being given for the diuident and divisor, we have
+found the Quotient required.
+
+Note, if the diuisors signs be higher then the signs of the diuident, there
+may be as many such Ciphers 0 joined to the diuident as you will, or many as
+shall be necessary: as for example, ^ 7 (2) are to be divided by 4 (5), I place
+after the 7 certain 0 thus 7000, dividing them as aforesaid, and in this sort
+it gives for the Quotient 1750 (7).
+
+It happens also sometimes, that the Quotient cannot be expressed by whole
+numbers, as 4 (1) divided by 3 (2) in this sort, ^ whereby appears, that
+there will infinitely come from the 3 the rest of and in such an accident you
+may come so near as the thing requires, omitting the remaynder, it is true,
+that 13 (0) 3 (1) 3 (2) etc. shall be the perfect Quotient required: but our
+intention in this Disme is to work all by whole numbers: for seeing that in any
+affairs, men reckon not of the thousandth part of a mile, grain, etc. as the
+like is also used of the principal Geometricians, and Astronomers, in
+co^putacions of great consequence, as Ptolome and Johannes Monta-regio have not
+described their Tables of Arches, Chords, or Sines, in extreme perfection (as
+possibly they might have done by Multinomall numbers,) because that
+imperfection (considering the scope and end of those Tables) is more convenient
+then such perfection.
+
+Note 2. the extraction of all kinds of Roots may also be made by these Disme
+numbers: as for example, To extract the square root of 5 (2) 2 (3) 9 (4),
+which is performed in the vulgar manner of extraction in this sort, ^ and the
+root shall be 2 (1) 3 (2), for the moitye or half of the latter sign of the
+numbers given, is always the latter sign of the root: wherefore if the
+latter sign given were of a number imper: the sign of the next following
+shall be added, and then it shall be a number per; and then extract the Root as
+before. Likewise in the extraction of the Cubique Root, the third part of the
+latter sign given shall be always the sign of the Root: and so of all other
+kind of Roots.
+
+The end of the Disme.
+The Appendix.
+The Preface.
+Seeing that we have already described the Disme, we will now come to the use
+thereof, showing by vi. Articles, how all computations which can happen in any
+man's business, may be easily performed thereby: beginning first to show how they
+are to be put in practice, in the casting up of the content or quantity of Land
+measured as follows.
+
+The first Article, of the Computations of Land-meating.
+CAll the Perch or Rood also Comencement, which is 1 (0), dividing that into
+10 equal parts, whereof each one shall be 1 (1); the^ divide each prime again
+into 10 equal parts, each of which shall be 1 (2); and again each of them into
+10 equal parts, and each of them shall be 1 (3); proceeding further so, if need
+be; but in Land-meating, divisions of second will be small enough: yet for such
+things as require more exactnes, as Fathom of the Lead, Bodies etc. there may
+be thirds used: and for as much as the greater number of Land-meaters use not
+the Pole, but a chain line of three, four or five Perch long marking upon the
+yard of their cross staff certain feet 5 or 6 with fingers, palms etc. the
+like may be done here: for in the place of their five or six feet with their
+fingers, they may put 5 or 6 primes with their seconds.
+
+THis being so prepared, these shall be used in measuring, without regarding the
+feet and fingers of the Pole, according to the Custom of the place: and that
+which must be added, subtracted, multiplied or divided according to this
+measure, shall be performed according to the doctrine of the precedent examples.
+
+AS for example, we are to add 4. tryangles or surfaces of Land, whereof the
+first 345 (0) 7 (1) 2 (2), ye second 872 (0) 5 (1) 3 (2), the third 615 (0) 4
+(1) 8 (2) ye fourth 956 (0) 8 (1) 6 (2); ^
+
+THese being added according to the manner declared in the first Proposition of
+this Disme in this sort, their sum will be 2790 (0) or Perches 5 (1) 9 (2),
+the said Roods or Perches, divided according to the custom of the place; (for
+every Acre contains certain Perches) by the number of perches you shall have
+the Acres sought. But if one would know how many feet and fingers are in the 5
+(1) 9 (2) (that which Land-meater shall need to do but once, and that at the
+end of the casting up of the proprietaries, although most men esteem it
+unnecessary to make any mention of feet and fingers) it will appear upon the
+Pole how many feet and fingers (which are marked, joining the tenth part upon
+another side of the Rood) accord with themselves.
+
+In the second, out of 57 (0) 3 (1) 2 (2) subtracted 32 (0) 5 (1) 7 (2) it may
+be effected according to the second proposition of this Disme, in this manner: ^
+
+In the third (for multiplication of the sides of certain Triangles and
+Quadrangles) multiply 8 (0) 7 (1) 3 (2), by 7 (0) 5 (1) 4 (2) 2 this may be
+performed according to the third proposition of this Disme, in this manner: ^
+
+And gives for the product or superfices 65 (0) 8 (1) etc.
+
+In the fourth let A, B, C, D, be a certain Quadrangle Rectangular (from which
+we must cut 367 (0) 6 (1) and the side A D: makes 26 (0) 3 (1): The question
+is, how much we shall measure from A, toward B, to cut off, (I mean by a line
+parallel to A D,) the said 367 (0) 3 (1)
+
+Divide 367 (0) 6 (1) by 26 (0) 3 (1) according to the fourth proposition of
+this Disme: so the Quotient gives from A, toward B, 13 (0) 9 (1) 7 (2), which
+is A E.
+
+And if we will, we may come nearer (although it be needles) by the second
+note of the fourth Proposition, the demonstrations of all these examples are
+already made in their propositions. ^
+
+The II. Article: of the Computations of the measures of Tapistry, or Cloth.
+THe Ell of the Measurer of Tapistrie or cloth, shall be to him 1 (0), the
+which he shall divide (upon the side whereon the partitions, which are
+according to the ordinance of ye Town, is not set out) as is done above on ye
+Pole of ye Land meater, namely into 10 equal parts, whereof each shall be 1
+(0), then each 1 (1) into 10 equal parts, of which each shall be 1 (2) etc.
+And for the practice seeing that these examples do altogether accord with
+those of the first Article of Landmeating, it is thereby sufficiently manifest,
+so as we need not here make any mention again of them.
+
+The III. Article: of the Computations, serving to Gaudging, and the measures
+of all Liquor vessels.
+ONe Ame (which makes 100 pots Antwerp) shall be 1 (0), the same shall be
+divided in length and deepnes, into 10 equal parts (namely, equal to respect
+of the wine, not of the Rod; of which the parts of the pro^ditie shall be
+unequal) and each part shall be 1 (1) containing 10 pots, then again each 1 (1)
+into 10, parts equal as before, and each will make 1 (2) worth 1 pot, then each
+1 (2) into 10. equal parts making each 1 (3).
+
+Now the Ro^ being so divided, to know the content of the Tun, multiply and
+work as in the precedent first Article, of which (being sufficiently manifest)
+we will not speak here any farther.
+
+But seeing that this tenth division of the deepnes is not vulgar, we will
+explain the same. Let the rod be one Ame. A. B. which is 1 (0) divided
+(according to the custom) into the points of the deepnes of these nine: C, D,
+E, F, G, H, I, K, A, making each part 1 (1) which shall be again each part
+divided into 10. thus. Let each 1 (1) be divided into two so: draw the line, B
+M. with a right angle upon A B. and equal to 1 (1), B C, then (by the 13
+proposition of Euclid his 6: book) find the mean proportional between B M
+and his moytie, which is B N: cutting B O: equal to B N: And if N O: be
+equal to B C: the operation is good. Then note the length N C: from B toward
+A, as B P: the which being equal to N C: the operation is good: likewise the
+length of B N: from B to Q: and so of the rest.
+
+It remains yet to divide each length as B O and O C, etc. into five, thus:
+Seek the mean proportional between B M: and his 10 part which shall be B R:
+cutting B S: equal to B R: Then the length S R. noted from B toward A: as B T:
+and likewise the length T R: from B to V: and so of the others: and in like
+sort proceeding to divide B S: and S T: etc. into (3), I say that B S: S T: and
+T V: etc. are the desired (2) which is thus to be demonstrated.
+
+For that B N: is the mean proportional line (by the Hipothesis between B M:
+and his moytie, the square of B N: (by the 17. proposition of the sixth book of
+Euclide) shall be equal to the Rectangle of B M: and his moytie: But the same
+Rectangle is the moytie of ye square of B M: the square then of B N: is equal
+to the moytie of the square of B M: But B O is (by Hipothesis) equal to B N:
+and B C: to B M: the square then of B O: is equal to the moitie of the square
+of B C. And in like sort it is to be demonstrated, that the square of B S is
+equal to the tenth part of the square of B M. Wherefore etc. we have made the
+demonstration brief, because we write not this to learners, but unto masters
+in their science.
+
+The IIII. Article: of Computations of Stereometrie in general.
+TRue it is, that Gaudgerie which we have before declared, is Stereometrie (yt
+is to say, the Art of measuring of bodies) but considering the diverse divisions
+of the Rod, Yard, or Measure of the one and other, and that and this do so
+much differ, as the Genus and the Species: they ought by good reason to be
+distinguished. For all Stereometrie is not Gaudgerie. To come to the point, the
+Stereometrian shall use the measure of the town or place, as the Yard, Ell
+etc. with his ten partitions, as is described in the first and second
+Articles, the use and practice thereof, (as is before showed) is thus: Put case
+we have a Quadrangular, Rectangular Column to be measured, the length
+whereof is 3 (1) 2 (2), the breadth 2 (1) 4 (2), the height 2 (0) 3 (1) 5 (2),
+The question is, how much the substance or matter of that Pillar is: Multiply
+(according to the doctrine of the 4. proposition of this Disme) the length by
+the breadth, and the product again by the height in this manner, ^
+
+And the product appears to be 1 (1) 8 (2) 4 (4) 8 (5).
+
+NOte, some ignorant (and understanding not that we speak here) of the
+Principles of Stereometry, may maruayle wherefore it is said, that the greatness
+of ye abouesaid colu^n is but 1 (1) etc. seeing that it co^tayneth more then 180
+cubes, of which the length of each side is 1 (1), he must know that the body of
+one yard is not a body of 10 (1) as a yard in length, but 1000 (1) in respect
+whereof 1 (1) makes 100 Cubes, each of 1 (1) as the like is sufficiently
+manifest amongst Land-meats in surfaces: for when they say 2 Roodes, 3 Feet of
+Land, it is not barelymeant 2 square Roods, and three square feet, but two
+Roods (and counting but 12 feet to the Rood) 36 feet square: therefore if the
+said Question had been how many Cubes each being 1 (1) was in the greatness of
+the said Pillar, the solution should have been fitted accordingly, considering
+that each of these 1 (1) does make 100 (1) of those; and each 1 (2) of these
+makes 10 (1) of those etc. or otherwise, if the tenth part of the yard be the
+greatest measure that the Stereometrian proposes, he may call it 1 (0), and so
+as abouesayd.
+
+The fifth Article; of Astronomicall Computations.
+THe ancient Astronomers having divided their Circles each into 360 degrees,
+they saw, that the Astronomicall Computations of them with their parts was too
+laborious: and therefore they divided also each degree into certain parts, and
+those again into as many, etc. to the end thereby to work always by whole
+numbers, choosing the 60th progression, because that 60 is a number measurable
+by many whole measures, namely, 1, 2, 3, 4, 5, 6 10, 12, 15, 20, 30: but if
+experience may be credited (we say with reverence to the venerable antiquity,
+and moved with the common vtility) the 60th progression was not the most
+convenient, (at least) amongst those that in nature consist potentially, but
+the tenth which is thus: we call the 360 degrees also Comencements, expressing
+them so 360 (0), and each of them a degree 12 1 (0) to be divided into 10
+equal parts, of which each shall make 1 (1), and again each 1 (1) into 10 (2)
+and so of the rest, as the like has already been often done.
+
+Now this division being understood, we may describe more easily that we
+promised in Addition, Substraction, Multiplication, and Division; but because
+there is no difference between the operation of these, and the four former
+propositions of this book, it would but be loss of time, and therefore they
+shall serve for examples of this Article: yet adding thus much, that we will
+use this manner of partition in all the Tables and computations which happen in
+Astronomy, such as we keep to diuulge in our vulgar Germane Language, which to
+the most rich adorned and perfect Tongue of all other, and of the most
+singularity, of which we attend a more abundant demonstration, then Peter and
+John have made thereof in the Bewysconst and Dialectique, lately diuulged, and
+have in the lease following placed a necessary Table, for the reducing of the
+minutes, seconds, etc. of the 60, progression, into primes, seconds, etc. of
+the tenth progression: the use whereof follows.
+
+The use of this Table.
+When any number of minutes, seconds, thirds, fourths etc. of the 60th
+progressio^, are given to be reduced into the primes, seconds, thirds, etc. of
+the tenth progression, seek the given number in this Table, or if the number
+be not there to be found, take the nearest: if none be there great enough, take
+half or one quarter of the given: if there be none small enough, double,
+treble, or quadruple, the given, and then as aforesaid seek the nearest number
+thereunto in the Table, and the two numbers in whose common Angle the given
+number is found, or nearest found, shall show you the quantity and quality of
+the subdiuisions of the ten progressions proper to that given number, namely,
+the number standing in the top or front of the table directly over it, shall
+show the quantity, and the number directly against it in the first Column
+toward the left hand, shall denote the quality; as for example, be the
+pronumber given ^, seek it in the Table, and you shall find to stand in the
+front directly over it the figure 7, and in ye first Column directly against
+it toward the left hand (5): therefore according to the rule above mentioned, I
+conclude, that ^ of the 60 progression valueth just 7 (5) of the tenth
+progression etc. This example I think sufficient to enlighten the ingenious
+practizer: only this, that if there be no number to be found in the Table,
+just or near the number given, you may take two, three or more of those that
+will come nearest, and so work as before: as for example also, be the number
+given ^ of the 60 progression; you shall find them all by taking 4 of the
+numbers of ye colu^ne under 3, to be ^ of the tenth progression: and so with a
+small diligence may any other number of the one progression be reduced into the
+other, which I omit to speak any further of at this time.
+
+The sixth Article; of the Computations of Money-masters, Merchants, and of all
+estates in general.
+TO the end we speak in general and briefly of the su^me and contents of this
+Article, it must be always understood, yt all measures (be they of length,
+liquors, of money etc.) be parted by the tenth progression, and each notable
+species of them, shall be called Comencement: as a Mark, comencement of weight,
+by the which Silver and Gold are wayed, Pound of other common weights,
+Liuers-degros in Flanders, Pound sterling in England, Ducat in Spain etc.
+Comencement of Money: the highest sign of the Mark shall be (4), for 1 (4)
+shall weigh about the half of one Es of Antwerp, the (3) shall serve for the
+highest sign of the Liver de gros, seeing that 1 (3) makes less then the
+quarter of one DS.
+
+The subdiuisions of weight to weigh al things, shall be (in place of the half
+pound, quarter, half quarter, ounce, half ounce, esterlin, grain, Es, etc.
+of each sign, 5, 3, 2, 1, that is to say, that after the pound or 1 (0) shall
+follow the half pound or 5 (1), then the 3 (1) then the 2 (1) then the 1 (1),
+and the like subdiuisions have also the 1 (1) and the other following.
+
+WE think it necessary, that each subdiuision, what matter soever the subject
+be of, be called Prime, Second, Third, etc. and that because it is notable unto
+us, yt the Second, being multiplied by the Third, gives in ye product the
+Fifth (because two and three make five, as is said before) also the Third
+divided by the Second, gives ye Quotient Prime etc. that which so properly
+cannot be done by any other names: but when it shall be named for distinction of
+the matters (as to say, half an Ell, half a pound, half a pynte etc.) we may
+call them Prime of Marc, Second of Marc, Second of Pound, Second of Ell, etc.
+
+But to the'nd we may give example, suppose 1 Mark of Gold value 36 lib. 5 (1)
+3 (2) the Question what valueth 8 Marks 3 (1) 5 (2) 4 (3): multiply 3653 by
+8354 giving the product by the fourth Proposition (which is also the solution
+required) 395 lib. 1 (1) 7 (2) 1 (3); as for the 6 (4) and 2 (5) they are here
+of no estimation.
+
+SVppose again, yt 2 Else and 3 (1) cost 3 lib. 2 (1) 5 (2) ye question is,
+what shall 7 Else 5 (1) 3 (2) cost: multiply according to the custom the last
+term given by the second, and divide the product by the first, that is to say,
+753 by 325 makes 244725, which divided by 23, gives the Quotient and Solution
+10 lib. 6 (1) 4 (2).
+
+WE could also more amply demonstrate by easy examples of broken numbers, ye
+comparison and great difference of the facility of this more then that, but we
+will pass them over for breuity sake.
+
+LAstly, it may be said, that there is some difference between this last sixth
+Article, and the 5 precedent Articles, which is, that each one may exercise for
+them selves the tenth partition of the said precedent 5 Articles, thoughst be
+not given by the Magistrate of the place as a general order, but it is not so
+in this latter: for the examples hereof, are vulgar computations, which do
+almost continually happen to every man, to whom it were necessary that the
+solution so found, were of each accepted for good and lawful: Therefore
+considering the so great use, it would be a commendable thing, if some of those
+who expect the greatest commodity, would solicit to put ye same in execution to
+effect, namely, that joining the vulgar partitions that are now in weight,
+measures, and moneys (continuing still each Capital measure, weight and Coin
+in all places vnaltred) that the same tenth progression might be lawfully
+ordained by the superiors, for every one that would use the same it might also
+do well, if the values of Moneys, principally the new Coins, might be valued
+and reckned upon certain Primes, Seconds, Thirds etc But if all this be not
+put in practice so soon as we could wish, yet it will first content us, yt it
+will be beneficial to our successors, if future men shall hereafter be of such
+nature as our predecessors, who were never negligent of so great advantage.
+Secondly, that it is not unnecessary for each in particular, for so much as
+concerns him, for that they may all deliver them selves when they will, from
+so much and so great labor. And lastly, although the effects of the sixth
+Article appear not immediately, yet it may be; and in the mean time may each
+one exercise himself in the five precedent, such as shall be most convenient for
+them; as some of them have already practiced.
+
+The end of the Appendix.
+

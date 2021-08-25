@@ -1,0 +1,52 @@
+A Table showing the true value of the Hundred, and the half Quartern of
+Haperdepois weight: at any price whatsoever, this being observed, that if the
+price of the Hundred weight be not expressed in any one sum, then to add such
+two sums together as will make the even price thereof, or else such two
+sums as come nearest to it. As for example, if you would know at 1 pound 16
+shillings the Hundred weight, what cost the pound? look in the Table for 1
+pound 15 shillings (which is the nearest to it) whereunto add the first sum
+in the Table, which is 1 shilling 2 pence, and it will appear that 1 pound 16
+shillings the hundred weight, will cost 3 pence 3 farthings half farthing the
+pound wanting 2 pence in the hundred weight. The like may speedily be done
+after this manner for any other price.
+Pound. C weight. Half Quar. d q half q l s d s d q 0 0 1 is 00 01 02 00 01 3
+0 1 0 is 00 02 04 00 03 2 0 1 1 is 00 03 06 00 05 1 0 2 0 is 00 04 08 00 07 0 0
+2 1 is 00 05 10 00 08 3 0 3 0 is 00 07 00 00 10 2 0 3 1 is 00 08 02 01 00 1 1 0
+0 is 00 09 04 01 02 0 1 1 0 is 00 11 08 01 05 2 1 2 0 is 00 14 00 01 09 0 1 3 0
+is 00 16 04 02 00 2 2 0 0 is 00 18 08 02 04 0 2 1 0 is 01 01 00 02 07 2 2 2 0
+is 01 03 04 02 11 0 2 3 0 is 01 05 08 03 02 2 3 0 0 is 01 08 00 03 06 0 3 1 0
+is 01 10 04 03 09 2 3 2 0 is 01 12 08 04 01 0 3 3 0 is 01 15 00 04 04 2 4 0 0
+is 01 17 04 04 08 0 4 1 0 is 01 19 08 04 11 2 4 2 0 is 02 02 00 05 03 0 4 3 0
+is 02 04 04 05 06 2 5 0 0 is 02 06 08 05 10 0 5 1 0 is 02 09 00 06 01 2 5 2 0
+is 02 11 04 06 05 0 5 3 0 is 02 13 08 06 08 2 6 0 0 is 02 16 00 07 00 0 6 1 0
+is 02 18 04 07 03 2 6 2 0 is 03 00 08 07 07 0 6 3 0 is 03 03 00 07 10 2 7 0 0
+is 03 05 04 08 02 0 7 1 0 is 03 07 08 08 05 2 7 2 0 is 03 10 00 08 09 0 7 3 0
+is 03 12 04 09 00 2 8 0 0 is 03 14 08 09 04 0 8 1 0 is 03 17 00 09 07 2 8 2 0
+is 03 19 04 09 11 0 8 3 0 is 04 01 08 10 02 2 9 0 0 is 04 04 00 10 06 0 9 1 0
+is 04 06 04 10 09 2 Pound. C weight. Half Quar. s d q l s d. l s d q 00 09 2 is
+004 08 08 00 11 01 0 00 09 3 is 004 11 00 00 11 04 2 00 10 0 is 004 13 04 00 11
+08 0 00 10 1 is 004 15 08 00 11 11 2 00 10 2 is 004 18 00 00 12 03 0 00 10 3 is
+005 00 04 00 12 06 2 00 11 0 is 005 02 08 00 12 10 0 00 11 1 is 005 05 00 00 13
+01 2 00 11 2 is 005 07 04 00 13 05 0 00 11 3 is 005 09 08 00 13 08 2 00 12 0 is
+005 12 00 00 14 00 0 00 13 0 is 006 01 04 00 15 02 0 00 14 0 is 006 10 08 00 16
+04 0 00 15 0 is 007 00 00 00 17 06 0 00 16 0 is 007 09 04 00 18 08 0 00 17 0 is
+007 18 08 00 19 10 0 00 18 0 is 008 08 00 01 01 00 0 00 19 0 is 008 17 04 01 02
+02 0 00 20 0 is 009 06 08 01 03 04 0 00 21 0 is 009 16 00 01 04 06 0 00 22 0 is
+010 05 04 01 05 08 0 00 23 0 is 010 14 08 01 06 10 0 02 00 0 is 011 04 00 01 08
+00 0 03 00 0 is 016 16 00 02 02 00 0 04 00 0 is 022 08 00 02 16 00 0 05 00 0 is
+028 00 00 03 10 00 0 06 00 0 is 033 12 00 04 04 00 0 07 00 0 is 039 04 00 04 18
+00 0 08 00 0 is 044 16 00 05 12 00 0 09 00 0 is 050 08 00 06 06 00 0 10 00 0 is
+056 00 00 07 00 00 0 11 00 0 is 061 12 00 07 14 00 0 12 00 0 is 067 04 00 08 08
+00 0 13 00 0 is 072 16 00 09 02 00 0 14 00 0 is 078 08 00 09 16 00 0 15 00 0 is
+084 00 00 10 10 00 0 16 00 0 is 089 12 00 11 04 00 0 17 00 0 is 095 04 00 11 18
+00 0 18 00 0 is 100 16 00 12 12 00 0 19 00 0 is 106 08 00 13 06 00 0 20 00 0 is
+112 00 00 14 00 00 0
+
+For the half Hundred weight, take the half of the Hundred: for the Quartern
+weight, double the half Quartern: for the 7 pound weight, take the half of
+the half Quartern.
+
+Printed at London by W. I. and are to be sold by N. Bourne, at the South Entry
+of the Royal Exchange. 1625.
+
+

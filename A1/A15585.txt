@@ -1,0 +1,379 @@
+The Line of Proportion
+depiction of a logarithmic number line
+
+continuation of logarithmic number line
+
+continuation of logarithmic number line
+
+THE CONSTRVCTION, And Use of the Line of PROPORTION.
+
+By help whereof the hardes^ Questions of Arithmetique and Geometry, as well
+in broken as whole numbers, are resolved by Addition and Substraction.
+
+BY EDM WINGATE, Gent.
+
+Nulla dies sine Linea. LONDON Printed by John Dawson. 1628.
+
+The Preface.
+HAVING not many months ago published a discourse, declaring the nature and
+use of the Logarithmeticall Tables, and observing the Table of Numbers there to
+be too small for ordinary use, not giving indeed without much difficulty the
+Logarithme of any number that exceeds 1000; I have invented this tabular Scale,
+or Line of Proportion, by means whereof (as I take it) you shall find that
+defect fully supplied: this Instrument yielding you the resolution of the
+hardest questions of Arithmetique or Geometry, both in broken, and whole
+Numbers, only by Addition and Substraction, when the term required happens
+not to exceed 10000. although the terms propounded consist of never so many
+places, as shall further appear by the Treatise following.
+
+CHAP. I. The Definition of the Line of Proportion. CHAP. II. The Description
+and Use of the Scale of Logarithmes. CHAP. III. The Description, Construction,
+and Use of the Scale of Numbers. CHAP. IIII. The joint Use of the Scale of
+Numbers, and the Scale of Logarithmes together.
+THE CONSTRVCTION, and Use of the Line of PROPORTION.
+CHAP. I. The Definition thereof.
+THE Line of Proportion is a double scale, broken off into ten Fractions,
+upon which the Logarithmes of numbers are found out.
+
+To understand the nature of Logarithmes, I refer you to Master Brigges his
+learned Work, entitled Arithmetica Logarithmica, and to the Treatise
+mentioned in the Preface.
+
+A Fraction is a tenth part of the Line of Proportion, consisting of six Lines
+and five spaces; such as are the parts a b c d, and c d e f.
+
+The Lines are those, by which the spaces are distinguished; So a b is the
+first, g h the second, and c d the last line of the first Fraction, which c d
+is also the first line of c d e f the Fraction following.
+
+The spaces are the distances betwixt the lines; And they are either greater,
+as the first and last spaces of each fraction; or less, such as are the other
+three placed in the midst of each fraction.
+
+These fractions, together with their Lines and spaces, must be understood to
+join respectively one to another, in such sort that the whole Line of
+Proportion may be conceived to be one entire and continued Line; As the left
+end of the first fraction, marked by the Letters a g c must be conceived to
+join with the right end of the second fraction, noted by d f, and the left end
+of the second fraction, signed by c e, must be understood to join with the
+right end of the third Fraction, marked by f k; and so of the rest: So that the
+whole Line of Proportion, beginning at the right end of the first Fraction,
+marked by b h a d, and ending at the left end of the last Fraction, signed by l
+O m, must be conceived to be one entire Line, as is aforesaid.
+
+A double scale, is when two several scales meet both upon one common Line;
+So the Line of Proportion being composed of the two scales, which meet upon
+the fourth Line (marked at the beginning by a, and at the end by O) may fitly
+be called a double scale.
+
+CHAP. II. The Description and Use of the scale of Logarithmes.
+THe scales, whereof the Line of Proportion consists, are 1. the scale of
+Logarithmes, 2. the scale of Numbers.
+
+The scale of Logarithmes, is that described under the common Line a O; viz. in
+the two last spaces of the Line of Proportion, which are first divided into ten
+equal parts by the fractions themselves (each fraction being the tenth part of
+the whole Line;) and these parts are signed at the right end of the fractions
+by the figures 0. 1. 2. 3. 4. 5. 6. 7. 8. 9. and in the use of this scale for
+the finding of any number upon it, are called thousands: Again, the same
+spaces are divided upon each fraction (by cross lines struck through them)
+into ten other equal parts, which are likewise noted in the last space of each
+fraction, at the beginning of each part by the figures 0. 1. 2. 3. 4. 5. 6. 7.
+8. 9. and are hereafter called hundreds; then each of these hundreds is
+subdivided in the fourth space of each fraction into ten other equal parts,
+which hereafter are termed tenths: Lastly, each of those tenths is again
+supposed to be divided into ten parts, which are called units.
+
+The use of this scale follows in the resolution of the proposition following.
+
+A number being given that exceedes not 10000, to find it upon the scale of
+Logarithmes.
+
+BEfore we come to the resolution of this proposition, it must be observed that
+the numbers propounded to be found upon this scale, must always consist of
+four places, being either significant figures of ciphers, such as are 2372.
+2370. 2300. 2080. 2008. 2000. 0264. 0064. 0008. 0004. etc. This being premised,
+you may find any such number upon that scale by this direction following.
+
+Find the first figure of the number given amongst the thousands, viz. the
+figures placed at the right end of the fractions; thou amongst the hundreds
+described upon the fraction, unto which that first figure directs you, search
+the second figure of the number given; again, for the third figure count so
+many tenths, as that figure has unities; And for the last figure count so many
+units: This done the point of the common Line a O, where the last figure
+happens to fall, is the point that represents the number given.
+
+Example, 2 3 7 2 being given, I demand the point upon the common Line, that
+represents the same number; 2 the first figure directs me to the third
+fraction, signed by the figure 2; 3 the second figure leads me to the hundred,
+marked upon that fraction by the figure 3; For 7. the third figure I count
+seven tenths of that hundred, viz. to the point p; and for 2 the last figure I
+count two units of that tenth: which done, I find the number given to be
+represented upon the third fraction, at the point n. So 2370. is represented at
+the point p; 2300. upon the same fraction at the beginning of the hundred,
+signed by the figure 3; and 2000. at the beginning of the same fraction, the
+three ciphers following 2. signifying that no hundreds, tenths, or units, are
+to be taken in finding the point, which represents that number: So likewise
+2080. is found upon the same fraction at the point q, the cipher in the second
+place showing that no hundreds, and the other in the last place, that no units
+are to be taken in finding out that number upon the scale: In like manner 2008,
+is represented upon the same fraction at the point r: And 0264. 0064. 0008. and
+0004. upon the first fraction at the points s, t, u, x.
+
+Contrariwise, by inverting the rules of this proposition, any point of the
+common Line being given, you may find the number represented by it: So the
+points p n q r being given, the numbers represented by them are 2370. 2372.
+2080. and 2008.
+
+CHAP. III. The Description, Construction, and Use of the Scale of Numbers.
+THe scale of Numbers, is that described abouc the common Line a O, viz. in the
+three first spaces of the Line of Proportion, which are first divided into nine
+proportional parts (distinguished by the great figures 0. 1. 2. 3. 4. 5. 6. 7.
+8. 9.) the first beginning at the beginning of the Line noted by 1. and ending
+at the line that crosses those three spaces upon the fourth fraction, marked
+by the figure 2 on the right hand, and by a little cipher on the left: The
+second beginning there, and ending at such another cross Line upon the fifth
+fraction, signed by the figure 3: The third reaching from thence to another
+cross line upon the seventh fractio^, noted by the figure 4. In like manner,
+shall you find the fifth part to begin near the left end of the seventh
+fraction, the sixth upon the eight, the seventh upon the ninth, and the eight
+and nine parts upon the last fraction, all signed by their proper figures 5. 6.
+7. 8. 9. Which parts are hereafter called Primes, and are each of them again
+divided into ten other parts, according to the same proportion, noted in the
+first space of the Line by the little figures 0. 1. 2. 3. 4. 5. 6. 7. 8. 9.
+(each of them having the Primefigure unto which they belong annexed respectively
+unto them) which parts are hereafter called seconds, which seconds are each of
+them again subdivided into ten other parts by cross Lines struck through the
+second and third spaces, and are hereafter termed thirds; which thirds are each
+of them again divided, or at least supposed to be divided into ten parts, viz.
+the thirds contained in the first, second, and third Primes, are really divided
+into ten parts; but those betwixt the beginning of the fourth Prime, and the
+end of the Line, are only divided into two parts, and therefore each of those
+parts are conceived to have the value of five, which ten parts of the thirds
+are hereafter called fourths: Lastly, each fourth in the first second and third
+Primes is conceived to be again divided into ten parts, which are hereafter
+termed fifts. Now the construction of this scale is in this manner:
+
+Repair unto Mr. Brigges his Tables of Logarithmes, and supposing 1000. to be
+represented at the beginning of the Line of Proportion, find in those Tables
+the Logarithme of 1001. which is 3,00042, 40774, 7932, whereof take only
+3,0004, the first five figures; then casting away 3 the Characteristique (his
+office being only to show of how many places the number, unto which the
+Logarithme belongs, consists, as I have formerly showed in the Treatise
+aboue-mentioned) find by the proposition of the last chapter upon the scale of
+Logarithmes 0004, the figures that remain, which are represented upon the
+first Fraction at the point x; this done, just against that point in the scale
+of Numbers mark the point z, which represents the number 1001 upon that scale,
+then taking the Logarithme of 1002. do in like manner, and so proceed till
+you have described all the divisions of the scale of Numbers upon the Line.
+
+The use of this scale appears in the resolution of the propositions following.
+
+PROPOSITION I. A whole number being given to find it upon the scale of
+Numbers.
+Find the first figure of the number given amongst the Primes of that scale;
+then find the second figure amongst the seconds of that Prime; 3. for the third
+figure count so many thirds of that second; 4. for the fourth count so many
+fourths of that third; and lastly, if the number fall in the first, second, or
+third Prime, for the fifth figure count so many fifts of the last fourth: this
+done, the point, where the last figure falls upon the common Line a O, is the
+point that represents the number given.
+
+Example, 17268. being given, I demand the point upon the common Line, where it
+is represented: 1. the first figure directs me to the first Prime, and 7. to
+the seventh second of that Prime, placed upon the third fraction at the little
+figures 71. then for 2 I count two thirds of that second, viz. to the point m,
+and for 6 I count six fourths of that third, that is, to the point n; And last
+of all for 8 the last figure, I take eight fifts of that fourth, so that I find
+17268. the number given to be represented at the point e upon the third
+fraction; So 1726. or 17260. is found at the point n; 172, 1720, or 17200. at
+the point m; 17, 170, 1700, or 17000 at the seventh second of the first Prime,
+1. 10. 100. 1000. etc. at the beginning of the Line; And 2. 20. 200. 2000. etc.
+at the beginning of the second Prime: In like manner 2040. is represented at
+the point ph upon the fourth fraction, the cipher in the second place
+signifying that no seconds, and the other in the fourth or last place, showing
+that no fourths are to be taken in finding out that number upon the scale: So
+likewise 2008, is represented upon the same fraction at the point ps, the
+ciphers in the second and third places showing that no seconds or thirds are to
+be taken in the discovery of that number.
+
+Contrariwise, by changing the rules of this proposition, any point of the
+common Line being given, you may find the number represented by it, so the
+points e upon the third fraction, and ps upon the fourth, represent the numbers
+17268. and 2008.
+
+From the premises arisethese corrollaries.
+
+1. A number that consists of more figures then five, and falls in the first,
+second, or third Prime, is represented at the point where the fifth figure
+falls: So 17268347. is represented upon the third fraction at the points, and
+20080372. upon the fourth at the p^^nt ps.
+
+2. A number that consists of more figures then four, and falls between the
+beginning of the fourth Prime, and the end of the Line, is represented at the
+point, where the fourth figure falls: So 4236, and 4236873. are both
+represented upon the seventh fraction at the point th.
+
+3. A point of the common Line in the first, second, or third Prime, always
+gives you a number, that consists of fine places; So the points e, n, and m
+being given, the numbers represented by them are 17268, 17260 and 17200.
+
+4. A point of the common Line between the beginning of the fourth Prime, and
+the end of the Line, always yields you a number composed of four places: So
+th, and ch upon the seventh fraction represent 4236, and 4230.
+
+PROP: 2. A broken number being given to find it upon the scale of Numbers.
+PRefixe the whole parts of the number given before the numerator of the
+fraction, and thereby make them as it were one entire number; then by the
+proposition aforegoing find the point which represents that number, which also
+will be the point, that represents the broken number propounded.
+
+Example, 172 68 / 100 being given, 172 being prefixed before 68, the numerator
+of the fraction, constitutes the whole number 17268, which by the proposition
+aforegoing is represented upon the third fraction at the point ^: So 17.26,
+that is 17 26 / 100, and 1. 726, viz. 1 726 / 1000 are both represented upon
+the same fraction at the point n; in like manner 20.40. and 20.08. are found
+upon the fourth fraction at the points ph, and ps.
+
+But here it is to be observed, that the fractions of the broken numbers
+propounded to be found upon this scale, must always have for their denominator
+a number consisting of an unit in the first place toward the left hand, and
+nothing but ciphers toward the right, such as are 10. 100. 1000. 10000. etc.
+And if the fractions of the broken numbers given be not such, they ought to be
+reduced to fractions of that kind.
+
+Now other fractions are reduced to fractions of that kind for the most part
+upon view, as if the number given were 12. foot, and 9. inches, that number
+being reduced is 12.75. viz. 12 75 / 100; and 12. pounds 14 shillings after
+reduction is 12.7, that is 12 1 / 10. But when you meet with a broken number,
+whose fraction is not reduccable upon view, it may be reduced by the rule of
+three; for as the denominator of the fraction given is to 10. 100. or 1000.
+etc. so is the numerator of the same fraction to the numerator of the fraction
+required: So 17 98 / 305, that is, 17 years, and 98 days being given, the
+proportion will be;
+
+As 365 to 1000: So 98 to 268.
+
+So that 1000 being the denominator, and 268 the numerator of the fraction
+required, your number after reduction will stand thus 17 268 / 1000, or thus
+17.268. Now to find 268. the fourth proportional by the help of the
+Logarithmes, I refer you to the third Problem of the fifth chapter of my
+book abouementioned: But in this case let the denominator of the fraction
+required always exceed the denominator of the fraction given, as in the
+example aforegoing 1000 exceeds 365.
+
+CHAP. IIII. The joint Use of the scale of Numbers, and the scale of
+Logarithmes together.
+PROP. I. A whole number being given to find the Logarithme thereof.
+Find upon the scale of Numbers, by the first proposition of the last chapter
+the point that represents the number given, then by the proposition of the
+second chapter observe upon the scale of Logarithmes the number represented by
+that point; this done, if you prefixe before that number his proper
+Characteristique, that entire number is the Logarithme required.
+
+Now the Characteristique is the first figure of the Logarithme, consisting of
+as many unities within one, as the number, unto which that Logarithme belongs,
+consists of places: So the Characteristique of the numbers betwixt 1, and 10 is
+0; betwixt 10, and 100 is 1; betwixt 100, and 1000 is 2; betwixt 1000, and
+10000 is 3, etc.
+
+Example, 17268 being given, I demand his Logarithme, by the first proposition
+of the last Chapter I find 17268 upon the third fraction at the point ^, which
+gives me upon the scale of Logarithmes by the proposition of the second chapter
+the number 2372, before which, because the number given consists of five
+places, I prefixe four, so that the entire Logarithme of 17268 the number
+given is 42372: So the Logarithme of 2040 is 33096; and the Logarithme of 2008
+is 33028, etc.
+
+PROP. 2. A broken number being given, to find the Logarithme thereof.
+Find upon the scale of Numbers by the last proposition of the last chapter
+the point that represents the number given; then by the proposition of the
+second chapter take upon the scale of Logarithmes the number represented by
+that point; this done, if you place before that number his proper
+Characteristique, that is, a figure consisting of so many unities, save one, as
+the whole parts of the number given consists of places, that entire number is
+that you look for.
+
+Example, 172. 68 being given, I demand his Logarisme, that number is found by
+the last proposition of the last chapter upon the third fraction at the point
+^, which yields you upon the scale of Logarithmes by the proposition of the
+second chapter the number 2372; And now because 172 (being the whole parts of
+the number given) consists of three places, prefixe before 2372 the
+Charactcristique 2; which done, the entire Logarithme of 172.68 will be found
+22372: so the Logarithme of 17.26 is 12370, and the Logarithme of 1.726 is
+02370.
+
+PROP. 3. A Logarithme being given to find the number unto which it belongs.
+NEglecting the Characteristique of the Logarithme given, find by the
+proposition of the second chapter the point where the other figures thereof are
+represented upon the scale of Logarithmes, then by the first proposition of the
+last chapter take off upon the scale of Numbers the number represented by that
+point; this done, observing of how many unities the Characteristique of the
+Logarithme given consists, take one more of the first figures, that the number
+taken upon the scale of numbers has toward the left hand, as if the
+Characteristique be 0, take one of those figures, if it be 1, take two, if 2,
+take three, etc. which figures will be the whole parts of the number required,
+and if there remain any figures toward the right hand, they are the numerator
+of a Fraction, whose denominator is a number consisting of an unity in the
+first place toward the left hand, and of so many ciphers toward the right, as
+there are figures remaining, which fraction is the broken parts of the number
+demanded.
+
+Example; The Logarithme 42372 being given, I demand the number unto which it
+belongs; 2372 the other figures besides 4 the Characteristique I find by the
+prop of the 2. chap. to be represented in the scale of Logarithmes upon the
+third Fraction at the point n, at which point upon the scale of Numbers I find
+by the 1 prop. of the last chapter to be represented the number 17268; and now
+because the Characteristique of the Logarithme given is 4 the whole number
+17268 is the number, unto which the Logarithme given appertains, but if the
+Logar. given were 22372, his number would be 172.68; the Charact. 2 showing
+that 172 the three first figures of the number found ought to be taken for the
+whole parts, and 68 for the fraction of the number, unto which that Logarithme
+belongs.
+
+From this Proposition arise these Corrallaries.
+
+1. When a Logarithme, whose Charact. exceeds 4, falls within the first,
+second, or third Prime, the first five figures of the number, unto which it
+belongs, can only be known; So if the Logarithine given were 72372, the five
+first figures of the number, unto which it belongs are 17268.
+
+2. When a Logarithme, whose Charact. exceedes 3 happens to fall betwixt the
+beginning of the fourth Prime and the end of the Line, the first four figures
+of the number, unto which it belongs, are only discoverable upon the Line: So
+the Logarithme 76270 being given, the four first figures of the number, unto
+which it belongs, are 4236, which you shall find represented upon the seventh
+fraction at the point th.
+
+But now in taking the numbers upon either of the scales observe this rule.
+
+When you have directed your eye unto a point upon the common Line in taking a
+n^mber upon either of the scales, first take the least parts represented by
+that point, and then the rest in the same order.
+
+As in the Example of the last proposition, the Logarithme 42372 being
+propounded, your eye is directed by it upon the scale of Logarithmes unto the
+point n; and therefore in remooving your view for taking upon the scale of
+Numbers the number, unto which that Logarithme belongs, first take the filts,
+viz. 8, then 6 the fourths, and so the rest in order; which done, carrying in
+you mind, eight, six, two, seven, one, and beginning with 8 first, set them
+down thus, 17268, as before.
+
+In like manner, in the example of the 1. Prop. of this chapter the number 17268,
+being given, your eye is directed upon the scale of Numbers unto the point ^;
+and therefore in remooving your view for taking upon the scale of Logarithmes
+the Logarithme of that number, first observe the units, viz. 2, then 7 the
+tenths, and so the rest in order; this done, keeping in your mind the figures
+so taken, set them down as before, thus, 2372. And in observing this Rule,
+after a little practice, you shall find much ease, and readiness.
+
+Thus having showed you how to find upon the Line of Proportion the number of
+any Logarithme, and the Logarithme of any number propounded under the several
+limitations of the rules aforegoing; for the use of the Logarithmes being
+found, I refer you to the Treatises mentioned at the beginning of this
+Discourse.
+
+*
+
+FINIS.
+

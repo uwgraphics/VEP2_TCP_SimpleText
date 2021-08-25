@@ -1,0 +1,1971 @@
+De Numeris Geometricis. OF THE NATVRE AND PROPRIETIES OF GEOMETRICAL NVMBERS.
+
+First written by Lazarus Schonerus, and now Englished, enlarged and
+illustrated with diverse and sundry Tables and observations concerning the
+measuring of Plains and Solids:
+
+All teaching the fabric, demonstration and use of a singular Instrument, or
+Rular, long since invented and perfitted by THOMAS BEDWELL Esquire.
+
+LONDON, Printed by RICHARD FIELD. 1614.
+
+TO THE HONORABLE KNIGHT, Sir Robert Coke.
+HONORABLE SIR,
+HIstorians report, that the Scythians were so far out of love with learning,
+that it was a shame and disgrace for any man amongst them to be esteemed a
+scholar. The name of a Scythian, all Christians cannot choose but detest and
+abhor. And yet is this their opinion, as we hear, maintained by the
+Nobility of some Nations. An argument, as I think, sufficient alone, if
+historians were silent, to show from what race such men are descended.
+Barbarous, I am sure it is, and no way consonant to the nature of man. For as
+the Philosopher says, Omnes homines naturascire desiderant. And, Prudentia
+(says the Orator) quae in vericognitione consistit, maxim naturam attingit
+humanam. The Nobility therefore of England, are in this most highly to be
+commended, who do generally so much esteem of learning, that they think
+nothing more honorable then either to be accounted learned, or great pa trons
+of learning: Knowing indeed that, as the Poet says, In prudentia Nobilitas
+sita est. This generallitie first: and then next, your honorable affection and
+favor to me in particular, has emboldened me to offer this small Pamphlet
+unto your patronage, vt aliquod saltem extaret meae inte obseruantiae and
+gratitudinis monumentum. Vale, V. O. ac nos tibi iampridem deuinctissimos,
+deuinctiores, si fieri potest, reddito. Londini Anglorum viij Kalend. Martias,
+an. MDCXIIII.
+
+Your H. in all true affection, Wilham Bedwell.
+
+TO THE COURTEOUS READER.
+IT is now, as far as I remember, well near forty years since a Rular, for
+the measuring of Plains and Solids, was first devised by mine uncle M. Thomas
+Bedwell. The use of this, himself has taught in a little Treatise, which I
+have seen long ago in his study amongst other his writings of like nature and
+argument. The fabric or manner of making it, he did not, to my knowledge,
+impart to any. That I suppose be reserved for a larger volume of diverse other
+such inventions of his, which he bad purposed to have published, if God had
+spared him longer life. But these all being suppressed by some, who have, as it
+seems, more respected their own private gain, then either his honor or the
+common good; I did, about a dozen years ago, as some learned lovers of these
+studies can testify, labor to shadow out that work of his. And at last
+having finished a Treatise, both of the construction and use of the same, I
+offered it unto some to have it imprinted: But they seeing in the copy diverse
+figures and diagrammes, refused to meddle with it, except my self would bear
+a great part of the charge of that first impression. That I being unwilling to
+do, I was forced to defer the publishing of it until I might meet with some
+one that would of himself undertake the business. In this interim, I found
+yet another scruple, which I thought necessary first to be removed. For as the
+construction of the first Author was merely Geometrical, so that of ours was
+wholly Arithmeticall, and could not be done without the help of numbers: and
+therefore was such as might not easily be taught or conceived, except first the
+nature and proprieties of such like numbers were well understood. Whereupon,
+before that Treatise of the Rular, this of GEOMETRICAL NVMBERS was first to be
+published. Geometrical numbers I call them; not Figurate or Cossicke numbers,
+as commonly they are called: For of those infinite sorts of this kind of
+numbers, we have to do with none but such as do represent and express some
+true Geometrical figure, such as the Quadrate, Parallelogramoblong, Prisma,
+and the Cubicke are. Now whereas happily some man may object and say, that these
+things have been often handled and sufficiently taught by others; let him know,
+that although in general we do confess it to be true, yet no man, to our
+knowledge, has applied those rules to that use that we have done: And
+therefore those Treatises of theirs, do in no ways fit our purpose. For first
+out of these rules, as afterward shall appear, we have framed certain Tables
+for sundry uses in measuring of Plains and Solids. One of these, called
+TRIGONVM ARCHITECTONICVM, The Carpenters Squire, we caused for the public
+good, more then a twelue-moneth since, to be imprinted at our own cost and
+charges. Moreover, sundry practices and works of these rules more plain and
+easy then commonly are used, are here showed and discovered. Lastly, we have
+here given thee a taste or sample of a form and manner of resolving any
+intricate demonstration mathematical, whereby it shall be made so plain and
+easy, that it may be conceived of the simplest. This we have used these seven
+or eight and twenty years; and because we see it to be approved of the most
+learned Mathematicians of this kingdom, we shall ere long, God willing, more
+fully manifest it by many examples.
+
+OF A RATIONAL FIGVRATE NVMBER.
+CHAP. I. Of the Extraction of a Quadrate root, or side.
+1. A rational figur ate number is, a number that is made by the
+multiplication of numbers between themselves.
+
+SVch a combination and affinity there is between Arithmeticke and Geometry,
+that the whole nature and property of the one cannot well be taught and
+conceived without the other. For so Ramus says, Geometria sui and generis and
+iuris magnam quidem partem est, neque aliter quam geometrice tractabilis.
+Attamen part quadam numeris associatur, and eis explicatur, numerique,
+geometricaru^ affectionum interpretes, geometricis vocabulis appellantur, vt
+Planus, Quadratus, Solidus, and Cubus, a geometrico Plano, Quadrato, Solido,
+Cubo; quorum vmbr ae quoedam tales numers sunt. Ite^, Aristoteles affirmat
+gener aliser arithmetica^ demonstrationem magnitudinum accidentibus conucnire,
+cu^ magnitadines numerifiunt: Et Proclus ait, Quicquid in Geometria (...)
+explicabile and cognobile sit, numeris explicari and cognosci. And indeed a
+great part of Euclides Elements are wholly arithmeticall, that is, that book
+of Euclide, whose purpose is to teach the general grounds of Geometry, has
+notwithstanding many arithmeticall conclusions here and there intermedled
+among; and to speak the truth, the vij, viij, ix, and x books of that his
+work, are in a manner wholly arithmeticall. All this, I say, does teath us that
+Geometry connot be understood without the knowledge and use of Arithmeticke. Of
+this kind most properly are those figurate numbers, which do participate of
+both natures. And therefore one defines a figurate number thus; Figuratus
+numerus est numerus qui per siguras and appellationes geometricas exprimitur, A
+figurate number is a number which is expressed by geometrical names and
+terms. Whereupon some have called it a Geometrical number. Now a Figure, as
+Euclide says, is that which is contained on every side with one or more
+bounds, 14 dj. Such an one is a circle, contained with one line, which they
+call a Peripherie. Item, a Triangle, which is bounded with three lines: or a
+Quadrate, with four lines. Such in bodies is a Cube, bounded with six equal
+surfaces, and a Prisma, bounded with six unequal surfaces, etc. Now a
+Rational figure is a sigure that is comprehended of the Base and Height
+rational between themselves, 9 e iiij R: And the Base and Height are said to
+be rational one to another, when as the rate or reason of both may be expressed
+by a number of the same measure given; by the 8 e j R. As for example, if the
+length of a quadrangle given be 14 inches, and the breadth 12, it is said that
+that quadrangle is a rational figure; because the length, that is, the Base,
+and again the breadth, or Height are both expressed by a number of the measure
+given, that is, by a certain number of inches, to wit, that by 14 inches, this
+by 12. Now to be comprehended of the Base and Height, is when the length is
+multiplied by the breadth. For this geometrical comprehensio^, which here is
+understood, is as it were a multiplication by numbers. So in the former example
+the Quadrangle before named is comprehended of the Base 14, and of the Height
+12. Therefore if thou ^ shall grant that the Base and Height are rational
+between themselves, or that their rate may be expressed by a number of the
+measure assigned: then I affirm, that the numbers of those sides being
+multiplied the one by the other, shall show the content of that figure. Item
+that the product of them, that is, 168, is the figurate number expressing that
+content, as here thou see.
+
+2 The numbers thus multiplied, or the numbers which make the figurate number,
+are called Sides or Roots: and the art whereby the Sides of a figurate number
+given are found, is called The extraction of a root.
+
+That number which expresses the area, or content of a rational figure, is
+called, as we have showed before, a Figurate number: and the numbers
+representing or expressing the Height and Base, that is, the numbers thus
+multiplied, or making this figurate, are by the geometrical term called
+Latera, Sides: but vulgarly of the Arithmeticians they are called Roots. For
+as plants and tres do spring from their roots: so these figurate numbers,
+whether plains or solides, do arise and have their beginning from their
+roots. If then the sides be given, the figurate is easily found by
+multiplication. But to find the sides, roots, or numbers whereof any figurate
+number was made, is a matter not so easy: That art or rule that teaches to
+perform this, is called, The extraction of a root; of the Latins it is
+called, Analysis Lateris: as the multiplication aforesaid or manner of making a
+figurate number, is called of them Genesis figurati.
+
+3 A figurate number is made by one multiplication, or by many: And either of
+them is equilater, or vnequilater.
+
+4 An equilater figurate is made of equal numbers, or of one number multiplied
+by it self; which multiplier is also specially called the Side or Root: An
+vnequilater is that which is made of numbers which are unequal between
+themselves.
+
+As for example, the figurate 4, is made by one multiplication of one number by
+it self, to wit, of the side 2 by it self; Therefore 4 is a figurate
+equilater, and the side or root of it is 2: So 9 is an equilater, whose side
+is 3. This side of the equilater by the Arabians is called Radix, that is, The
+Root, as Schoner testifies. Item 6 is a figurate of unequal sides, made, I
+say, of the multiplication of 2 by 3, and therefore 6 is an vnequilater
+figurate.
+
+Here observe that an unity does imitate every kind of equilater: For 1, by
+multiplication increases not, neither yet does it diminish any whit at all. It
+remains therefore that an unity multiplying an unity, makes but an unity,
+that is, it takes upon it the nature of an equilater.
+
+5 Moreover, an equilater figurate is twofold: either it is that whose true
+side is to be expressed by a number; or such whose true side may not be
+expressed by any number.
+
+6 The equilater whose side is to be expressed by a number, is that whose rate
+or reason unto an 1, may be showed.
+
+This division although it be not altogether proper to this place, yet because
+it is commonly used by the vulgar sort of Artists in this case, we would not
+omit it. The first sort they call (...), effabile, that is, such as may truly
+be pronounced or spoken by some arithmeticall number: As for example, 16 is an
+equilater, or a figurate of equal sides, and the true side is 4, that is, a
+number which may be spoken, uttered and set down by arithmeticall figures; I
+mean whose quantity may be conceived by the reason of it unto 1. For in the
+quadrate or plain equilater, as the reason of the number given is unto the
+root thereof: so is the same root unto an unity. For the root or side is
+the mean proportional between the figurate given, and 1. As in our example;
+as 16 is unto 4, so is 4 unto 1. And indeed al absolute numbers are conceived
+and understood by the reason they bear unto an unity; and whatsoever they are,
+that they are said to be in respect and comparison of an unity.
+
+7 The equilater whose true side cannot be expressed, is a figurate, the reason
+of whose side unto 1, cannot be told or declared.
+
+As for example, 3 may be conceived to be an Eequilater, that is, to be a
+product made of two equal numbers, or of one and the same number multiplied by
+it self, which number thus multiplied is, by the former, the side of the said
+Figurate made. Now this side or number multiplied, is greater then 1. For 1,
+multiplied by it self, by the 4 e, does make the Equilater 1; which is lesser
+then 3. Again the same side is lesser then 2. For 2 multiplied by 2, does make
+4, which is an Equilater greater then 3. Therefore the root or side of 3, does
+fall to be some mean quantity between 1, and 2. And yet what that number or
+difference is, or how specially it is to be understood or conceived, no man may
+possibly tell. Therefore such a like side is called arrheton, inexplicabile,
+irrationale, Surde, irrational, or not to be uttered, as the Arithmeticians do
+call it.
+
+8 A figurate made by one multiplication, is called a Plain: which is a
+figurate number made by the multiplication of two sides equal one to the
+other.
+
+A figurate made by multiplication, as before is declared, is a number
+representing a parallelogram, and yet not any indifferently, but that only
+which is right-angled. Now A Parallelogram is a Quadrangle whose opposite sides
+are parallel, 6 e x R. And A right-angled parallelogram is a parallelogram all
+whose angles are right-tangles, 2 e x j R. And because that all parallelograms
+are plains; and for that plains have but two dime^sio^s, to wit Length and
+Breadth: therefore, by the 1 e, a plain figurate is made by one multiplicatio^
+only; that is, by multiplying of the length by the breadth. As for example, 9
+is a figurate made of two sides, to wit, of 3 multiplied by 3; and therefore 9
+is a plain figurate. Item 12 is a figurate made of two sides; to wit, of 3
+multiplied by 4. Therefore 12 is plain figurate, representing a right-angled
+prarallelogramme surface.
+
+Therefore
+
+9 If thou shall divide an inequilater parallelogramme by one side given, the
+quotient shall be the other side desired.
+
+As for example, Suppose the figurate plains were 12, and the one side thereof
+given were 3: here I say that the other side shall be 4, to wit, the quotient of
+12, divided by the same 3. This is plain by the 1 e 6 j lib. Arithmet.
+Salignaci. The argument is thus concluded:
+
+If a number be made of two numbers given, the one of the numbers given shall
+divide the product by the other: and contrariwise. But a figurate plain is
+made by the multiplication of two sides one by the other: 8 e. Ergo, The one
+side shall divide the figurate plain by the other.
+This rule only has place in those examples where the one side of the
+vnequilater plain is given: that which follows is more general.
+
+10 All the rotes of the squares contained in a Figurate plain given, which
+shall measure the said figurate, with their quotients, shall be all the sides of
+the said plain given.
+
+As for example; Let the figurate plain given, al whose sides are to be found,
+be 20: the squares contained in the same, whose sides 1, 2, 4, do measure 20,
+let the^ be 1, 4, 16: And the quotients by the same sides, let the^ be 20, 10
+and, 5: I say that 1, 2, 4, 5, 10, 20, are all the sides measuring 20, the
+figurate plain given. For although 9, be a quadrate also contained in the said
+figurate; yet because that 3, the side of the same, does not measure the same
+figurate given, it is neglected as nothing pertaining to this our purpose. By
+this rule, as you see, may be performed that which the 2 verse of the 13
+Chapter of the first book of Salignacus his Arithmeticke, does teach; to wit,
+How to find out all the measures of many, of any compound number given.
+
+Let the compound number given, all whose measures of many are to be found, be
+60: Here all the squares contained in 60, whose sides may measure the same, are
+1, 4, 9, 16, 25, 36: And the quotients of 60, by 1, 2, 3, 4, 5, 6, the sides of
+the said squares, are 60, 30, 20, 15, 12, 10: Therefore these twelve numbers 1,
+2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60, are all the measures of 60, the compound
+number given.
+
+11 Like-plaines have a doubled reason of their correspondent sides; and one
+mean proportional comprehended of the extreme, or mean proportional sides.
+20 p. v j: Item 11 and 18 p. viij E.
+
+Figurates have their denomination of Figures, (as we have showed at the 1 e:)
+And therefore their nature cannot otherwise be concelued and taught but from
+the same. Like figures therefore, as Ramus at the 14 e iiij, teaches, are
+figures whose corners are equal and proportional to the shankes of the equal
+angles. Now plains have but two dimensions, and solides three. Wherefore they
+shall have a doubled reason, these a trebled reason of the correspondent sides.
+Again here, as Salignacus at the 2 e of the 14 Chap. of the ij book of his
+Arithmeticke, teaches, to double, treble, or quaduple a reason, is not to add
+the same reason unto it self twice, thrice, or foure-times: But to multiply it
+by it self, twice, thrice, or four times. For example, let 8 and 18 be the
+two figurates given: And let their correspondent sides be 2 and 3: Item 4 and
+6: those the Bases, these the Heights. I say, that the reason of 8 unto 18, is
+the reason of 2 unto 3, or of 4 to 6, doubled: The reason is thus doubled, ^:
+or thus, ^. The reason then of the first figurate unto the second, is the
+reason of 4 unto 9: or of 16 unto 36, that is, the reason of the first figurate
+unto the second, is Subdupla-sesquiquarta. For the consequent being divided by
+the antecedent, the quotient is 2. Therefore in Plains, where the dimensions
+are but two, to wit, Length and Breadth, the reason is only doubled. This then
+is the reason of rightangled parallelogrammes, to which Plain numbers do
+answer. And thus much of the first part of this proposition: The second part,
+of the mean proportional, follows. Like Plains therefore, says our
+Author, have but one mean proportional, comprehended of the proportional
+sides. The cause is understood out of the grounds of Arithmeticke: For if the
+reason of a number unto a number be but doubled, then by the rule and nature of
+numbers continually proportional, there can possibly be but one mean
+proportional between them. The rule of this invention, is thus, laid down by
+Salignacus, at the 2 e 12 c ij book of his Arithmeticke: If having two reasons
+given, the second bound of the first reason, do multiply both the bounds of the
+first reason: and the first bound of the second, do multiply the first bound of
+the first reason, the products shall be continually proportional to the four
+numbers given. In the two plains before mentioned, 8 and 18, the proportional
+sides, or the two reasons given, were 2, 3: 4, 6: The mean continually
+proportional, according to this rule, is thus: ^ The mean plain then
+continually proportional, between the plains given, is 12: that is, as 2 is
+unto 3, so is 8 unto 12: and as 4 is unto 6, so is the same 12 unto 18. This
+mean proportional therefore now found, is made or comprehended of 4, the
+length of the first figurate, and of 3, the height of the second: or
+contrariwise of 2, the height of the first figurate, and of 6, the length of
+the second: For the product, is still the same: Therefore
+
+12 If the sides of the two like Plains be given, the mean proportional of
+the same Plains is also given.
+
+This is manifest by the former: For there the mean proportional was made
+either of the middle proportionals, or of the two extremes of the four
+numbers given. As for example, let the two Plains given be 12 and 48: the
+length of the first, let it be 4; of the second, let it be 8: The height or
+breadth of the first, 3; of the second, 6: The product of 3 by 8; or of 4 by 6,
+that is, 24, is the mean proportional desired. The example is thus: ^ I say,
+as 12 is unto 24, so is the same 24 unto 48. For the reason in both is
+subdupla. Thus much in general of Figurate rational numbers, or Figurate
+plains: it follows now in particular of their several kinds.
+
+CHAP. II. Of the Quadrate.
+1 An equilater or equal-sided plain is called a Quadrate, 18 d vij, and 3 e
+xij R. The vnequal-sided plain is called an Oblong.
+
+OF the diverse sorts of Plains, handled by the Geometers, that only is a
+Rational plain, all whose corners are equal, and opposite sides parallel.
+Such an one is the Right-angled parallelogramme, which alone of all the
+Geometticall plains is comprehended of the base and height, as before is
+showed. Now the figurate of a rational right-angled parallelogramme, is called
+a Plain. Admit for examples sake, that the Height of a right-angled
+parallelogramme were 3, and the Base were 4: Here if thou shall multiply 4 by
+3, the product 12, shall be the figurate, or content of the right-angled
+parallelogramme assigned. This product 12, is called a Plain; and 3 and 4, the
+numbers whereof it was made, are called Sides, by a Geometrical name. And
+indeed this manner of multiplication, as we have taught before, is merely
+Geometrical. Place 12 unities, (or, in stead of ^ them, 12 ciphers) in equal
+distances one from another, as here thou see; and it shall represent the
+figure, that is made of two right lines, whereof the one is 3 inches, the other
+4. For if thou shall first divide thelines given into equal parts; the one
+into 3 parts, the other into 4: and again shall suppose, the Height to be
+erected perpendicularly upon the end of the Length: And lastly, conceive first
+the Height to be carried or moved all along from the one end of the Length unto
+the other: And in like manner, the Length to be moved upward, for all that
+whole plumme-line: The traces that are to be supposed those divisions will make
+upon the plain, shall make 12 squares, within the Oblong thus: This kind of
+multiplication, I say, is geometrical: ^ For here by this means, of lines are
+not made lines, (as there of unities do arise unities only,) but a magnitude
+or bigness, exceeding a line by one dimension, to wit, a surface. Before it
+was observed, that the figure thus made, is a Right-angled parallelogramme. Now
+a right-angled parallelogramme, is either an Oblong, or a Quadrate. An Oblong
+is a right-angled parallelogramme of unequal sides: A Quadrate or Square is a
+right-angled parallelogramme of equal sides: 1 and 2 e xij: The figurate of a
+Quadrate is called also a Quadrate: which is a figurate made of two equal
+numbers multiplied between themselves. This figurate above all other is to be
+accounted a Rational: and yet every Quadrate is not a Rational number: For
+that only is a Rational, whose number is a true Quadrate; that is, such a
+number is a rational quadrate, whose side is to be expressed by a number. Of
+this kind is that number only that is made by the multiplication of one
+number by it self: c 3 e xij: Such are these nine following, made by the
+multiplication of the nine single figures, or digittes, as they call them,
+between themselves:
+
+The Quadrates: 1 4 9 16 25 36 49 64 81 The Sides, or Roots: 1 2 3 4 5 6 7 8 9
+The Quadrate or Square number, is called of the Arabians, Zensus: of the
+Greeks Dynamis a power or valor, as Euclide, Diophantus, and Barlaam do
+testify. Wherefore wheresoever, in these arts, thou shall meet with these
+phrases, Potentia rectae est quadratum, The power of a right line is a square,
+or, Potentia numeri est quadratus, The power of a number is a Quadrate: there
+understand that any number given, multiplied in it self, does make a Quadrate.
+Item, Si basis trianguli subtendit rectum, aeque potest cruribus: 5 e xij R. If
+the base of a tria^gle be over against a right-corner, then the power of it is
+as much, as the power of both the other sides: that is, if of the three sides
+of a right-angled triangle thou shall make three several squares, the square
+of that side shall be equal to the other two squares, made of those sides
+which do enclose or contain the right-angle. Thus in Arithmeticke one number
+is said to be able to do as much as two other numbers, when as that number
+multiplied by it self, shall make as much as those two shall make, multiplied by
+themselves: thus 10 multiplied by 10 makes 100. Item 6 by 6, gives for the
+product 36: And 8 by 8, yields 64. Now because that 36 x 64, that is, 36
+added to 64, do make for the sum 100: And that 100, are equal to 100;
+Therefore I say that the power of 10 is as much as the powers, or possibilities
+of 6, and of 8.
+
+This kind of multiplication of a number by it self, is called Quadratura
+numeri, or Genesis quadrati, the squaring of a number, or the making of a
+Quadrate: And contrariwise, the division of such a like square or quadrate, by
+the side whereof it was made, is called Analysis lateris quadrati, The
+extraction or invention of a square root. Now as every Multiplication, and
+Division, so also this squaring of a number, and division or extraction of a
+square root, is done either jointly by the whole, or severally by parts, at
+many operations. The first is to be done and performed by Pythagoras table,
+which is set down a little before: The second is to be done by the prescript
+of the Rule next following. But first that Table is to be learned by heart.
+
+2 If a number be divided into two parts, the Square of the whole number shall
+be equal unto the squares of the parts, with a double plain made of them
+both.
+
+This in Geometry, spoken of a right-line, is the 8 e xij R: and is thus laid
+down by Ramus: Si recta est secta in duo segmenta, quadratum totius aequatur
+quadratis segmentorum, cum duplici rectangulo vtriusque; If a right line be cut
+into two portions, the square of the whole line, is equal to the squares of
+the portios, with two right-angled parallelogrammes made of both the said
+portions. It is a consectarie drawn out of the 3 c II e x book of Ramus his
+Geometry. Suppose the right-line ^ given were a c: let it be in b, divided
+into two parts, a b, and b c. Now let the quadrate made of the whole line a c,
+be a c l d: and from the division b, drawn a line parallel to the side c l:
+Item, at the same distance, draw another parallel to a c; and thou shall
+divide the quadrate a c l d, into two sorts of right-angled parallelogrammes,
+to wit, into c i, and d i, two diagonals: Item, into a i, and l i, two
+complements, as the Geometers call them. Now that these two diagonals, with the
+two complements, are equal unto a c l d, the quadrate made of the whole line a
+c, it is most manifest. For the whole is equal to all his parts jointly taken.
+But the two Diagonals, and two Complements aforesaid, are all the parts of the
+Quadrate a c l d, as here thou see. Therefore if a right-line be divided etc.
+This rule the Arithmeticians, speaking of numbers, do set down in these
+terms: If a number, etc. Which Barlaam has arithmetically demonstrated; to
+whom I refer thee. Out of this rule is framed the Quadrature or Fabric of
+the whole square, by the two segments or portions of the side; and that in this
+manner: As for example, let the number given be 7, and the quadrate of the whole
+number let it be 49. Then divide the same into two portions, to wit, into 4 and
+3. And let these two numbers multiply one another, the four products 9, 12,
+12, and 16 added, shall make 49, equal unto the former product, made of 7, the
+whole number. Again, let the number given be 13; and the square of this whole
+number let it be 169. Now let 13 the whole line, be divided into two parts, to
+wit, into 10 and 3: let these multiply one another, and the several products
+shall be four, the sum of which added together, shall be equal unto the
+quadrate or product made of the whole line 13: the example is thus: ^ Therefore
+
+3 The side of the greater Quadrate, is the side of one of the Plains; and
+being doubled, it is the side of them both together: The other side of both the
+Plains jointly taken, is the side of the lesser Quadrate.
+
+It follows necessarily of the former. This rule teaches how to resolve a
+Quadrate given, or the manner of Extraction of a square or quadrate root. The
+former rule taught that the true squaring of a number, divided into parts,
+consisted of two squares and two plains. So that the true resolution of a
+Quadrate so made, must be the invention of the several sides of the said
+particular squares and plains, whereof the whole Quadrate given consists.
+For it is the same way from Cambridge to London, that it is from London to
+Cambridge. By the former, the side of the square 169, was 13: which side or
+number consists of two several numbers, to wit, of the article 10, and the
+digit 3. Here, by the former rule, the greater square is 100, and the side
+thereof is 10: The one Complement or Plain is 30, made of two sides, where of
+the one is 10, the side of the former square: Therefore 30, is the side of 60,
+the sum of both the plains. The other side of the Plain (single or double)
+is 3, which is also the side of 9, the lesser square. These grounds thus laid,
+the practice is to be performed according to the direction of this rule next
+following.
+
+4 If the side of some greater square be sought, first beginning at the
+right hand, distinguish the number given continually by paires, for so many
+particular squares: Then setting down the side of the first particular square
+found within the Quotient, shall double the side found, for the base of the
+first Complement. Lastly, the Complement divided by the Base, the Quotient
+shall be the side of the next succeeding Square.
+
+As in 144, the example so often mentioned, first beginning at the right hand, or
+first figures, I distinguish it thus, I, 44; whereby I understand that the
+particular squares, whereof the whole side is comprehended, are two. This done,
+I seek amongst the squares of the single figures, at the 1 e, for the side of
+1, the first square, and I find the side to be also 1: This side I place in
+the quotient. This square I subtract from 1, the last period, and there
+remains nothing. Secondarily, I double the same quotient, or side found, and
+I make 20 (for indeed the first diagonall's side is 10; and the side of both
+together jointly taken is 20; as we saw at the 3e.) By this I divide 44, the
+whole period, or number remaining, and I find the quotient to be 2, for the
+other side of the Complements, and the root of the lesser Diagonall: Therefore
+I multiply first this quotient last found by itself, and I make 4, for the
+lesser Diagonall or square. Again I multiply the same quotient by 20 the
+Deuisor, and I make 40, for the doubled Complement. Lastly, I subtract 44, the
+sum of the said doubled complement, and lesser diagonall, from 44, the number
+remaining, and there remains nothing: Therefore I say that, 144 the figurate
+given, is a true Quadrate; And the side or Root thereof is 12, which was
+desired.
+
+Item, Let the side of the Quadrate 9604 be sought. First, beginning at the
+right hand, I distinguish the quadrate given continually into payres of
+degrees, thus 96, 04; and I find the number to contain two such paires: And
+therefore I conclude that the whole side of the quadrate given does consist of
+two single figures. This done, I first seek amongst the squares of the single
+figures, at the 1 e, for the square 96; which number, because I find it not
+amongst them, I say is no true square. Now the greatest square contained in 96
+I find to be 81, and the side or Root of it to be 9. This side I place within
+the quotient. Then multiplying 9 by it self, I make 81, for the greatest
+Diagonall, which placed under 96, and subtracted from the same, there do
+remain over the head thereof 15: Now cancelling 04, I place them also over the
+head, as high as the said 15. Secondarily, doubling 9 my quotient now found, I
+make 18 (or, for the reason before recited, 180) for the Base of the
+Complement: Then by this base I divide 1504, the number remaining, and I find
+the quotient 8. This therefore I likewise set down by 9, for the other side of
+the Plains, as also for the side of the lesser Quadrate. For the proof of
+this later work, I multiply first the said quotient by it self: Then I
+multiply the same quotient by the doubled Complement, that is, by the Deuisor:
+Lastly I subtract the sum of these two products from the number remaining. As
+in this our example, I multiply 8, the quotient, by it self, and I make 64, for
+the second or lesser quadrate: Then I multiply 180, my deuisour, or base of the
+complements, by the same quotient 8, and I make 1440, for the said double
+Complement: Now 1440 x 64, or the sum of 1440 and 64, is 1504. This I subduct
+from 1504, the number remaining, and there is left nothing: Therefore I say
+that 9604, the number given, is a true Quadrate, and the side or Root thereof
+is 98, which was desired. The example is thus: ^ ^ Therefore if thou shall
+multiply 98 in it self, thou shall make 9604, the number given. For the
+Quadrates of the Segments 90, and 8, with their Plains or Complements, are the
+parts of the Quadrate of the whole number 98. The genesis or making of this
+Quadrate, after our prescript, is thus: ^
+
+5 Having found the Quotient of two, or more figures, if yet the whole side of
+the Quadrate given be not found, thou shall double the whole quotient already
+found: And then shall in all things else whatsoever, observe the same order as
+was prescribed in the former.
+
+And in this example: The side of 15129 is desired: First, having divided it,
+as in the former we have taught, continually into paires, thus, 1, 51, 29, I
+find 1 to be a Quadrate; and 1 also to be the side thereof. This side I write
+in the Quotient. The quadrate of this quotient I subtract from 1, and there
+remains nothing. Then I double the said quotient 1, and I make 2, (which in
+respect of the next period I call 20) for the base of the doubled Complement: By
+this I divide 51, the next period, and I find the quotient 2, for the height of
+the said Complement, and side of the lesser quadrate. This latter quotient
+therefore I multiply first in it self, and I make the quadrate 4: Then again by
+the same quotient I multiply my deuisor 20, and I make 40, for the doubled
+complement: Now 40 x 4, are 44, which I subtract from 51, and there remain 7:
+Therefore the doubled Complement, with the second Quadrate, is 729. Lastly by
+this rule, I double the whole quotient 12, and I make 24, or in respect of the
+period following 240, for the base of the doubled Co^plement: now the quotient
+of 729, by 240, is 3, for the side of the lesser quadrate, and height of the
+said Complements. This done I multiply 3, the last quotient found by it self,
+and I make 9, for the lesser quadrate. Item I multiply by the same quotient 3,
+the deuisour 240, and I make 720, for the doubled Complement. Now 720 x 9, that
+is, 729, I subtract from 729, and there remains nothing. Therefore I conclude
+that 15129 the number given, is a quadrate: And the side thereof is 123,
+consisting of three figures. The whole work is thus: ^ In greater examples
+there is yet greater variety to be observed. Let therefore the practioner
+resolve this one great Quadrate, 61929672906515252224, such as are often to be
+resolved in the making of those tables of Sines, Secants, and Tangents, of so
+great and wonderful use in many businesses, where the use of these Arts are
+required.
+
+From hence do follow many particular Consectaries, First the Single figures of
+any Quadrate given cannot exceed the double of the number of the single figures
+of the side thereof. The reason is from the 1 e ij: to wit, because the product
+of the greatest single figure by it self, consists not of more then two
+figures.
+
+And 2 If the number given beginning at an unity, and so increasing according
+to the natural order of numbers unto the middlemost, shall from the same, in
+the same manner decrease unto an unity, the side of the said quadrate shall
+consist of unities: And the same middle number shall show the number of them.
+As for example: Suppose the number given were 1234321, here because it
+begins at an unity, and so increases unto the middlemost, and from the
+same middlemost decreaseth in like manner continually unto an unity: And for
+that the same middlemost number is 4: I say that the side or root of the
+quadrate given consists altogether of unities: And that the number of them is
+but 4, thus 1111. Item, the side of this quadrate following, 12345678987654321,
+is 111111111. Therefore on the contrary, If a number to be multiplied by it
+self, do consist altogether of unities, under the number of ten, the product
+shall from an unity increase and decrease, as aforesaid.
+
+6 The difference of two unequal quadrates given, is the quadrate of the
+difference of their sides, with a double plain made of the same difference,
+and the lesser side. This is called the Gnomon, or squire, 2 d xij; or 12 e x R.
+
+As for example, Let the two Quadrates given be 144, and 100; And their
+Difference let it be 44. Again, Let their Sides be 12 and 10; And their
+difference let it be 2. Now let the Quadrate of 2, the Difference of the sides
+be 4. Again, Let the Plain made of 10, the lesser side, and of 2, the
+Difference of the sides, be 20. Now 20 x 20, are 40. And 40 x 4, are 44, the
+Gnomon or difference, whereby the two Quadrates 144, and 100, do differ one
+from another.
+
+Therefore
+
+7 If the number given be not a true Quadrate, the remain (to be added unto
+the side of the greatest Quadrate contained in the said number given) shall be
+denominated of the Gnomon, or difference of that said greatest Quadrate, and
+that which is next above it.
+
+Let the number given be 148, which by the 5 e, is no true Quadrate: and
+therefore the true side thereof can never be found. But the side, somewhat
+near unto the true side, is thus found. The greatest Quadrate contained in
+148, the number given, 144, whose side by the said 5 e, is 12. Item, the
+Remain or difference of 144, and 148, is 4, for the Numerator of the parts
+sought. Again, the Quadrate next greater then 144, is 169, and the side
+thereof is 13. Lastly, the Gnomon or Difference between 169, and 144, is 25,
+the denominator sought. Therefore 4/25, are the parts desired. The side then of
+148, near unto the true side, is 12 4/25. Briefly,1 The Denominator of the
+parts sought, is the difference of the greatest square contained in the number
+given, and the next greater above it. Let the number given be 11: the greater
+Quadrate contained in it is 9, whose side is 3. Now 11 -- 9, is 2, for the
+Nummerator desired. Item, the next Square greater then 9, or 11, is 16, and the
+side thereof is 4. Now 16 -- 9, is 7, for the Denominator of the said parts.
+The side of 11, near unto the true side, is, 3 2/7. Ite^,2 The said
+Denominator is the double of the side of the greatest Quadrate increased by an
+unity. In the last example, the side of the greatest quadrate contained in 11,
+is 3; whose double is 6. Therefore 6 + 1, that is 7, is the Denominator sought,
+and the parts are 2/7. Again,3 The denominator of such like parts shall be the
+sum of the side found, and of the side of the next greater quadrate above it.
+In the former example, the side of 9, the greatest Quadrate contained in 11, is
+3: and the side of 16, the quadrate next above 9, is 4. Now 4 x 3, that is 7,
+is the Denominator desired: and the side sought is 3 2/7.
+
+8 The product made of two like-plaines, is a Quadrate: and the side thereof is
+the product of the base of the one, by the height of the other.
+
+Like-plaines, are plains whose sides are proportional, 20 d vij. Let the
+Like-plaines given be 6, and 24: whose sides, 3, 2, 6, 4, are proportional:
+that is, as 3, the base of 6, is unto 2, the height of the same: so let 6, the
+base of 24, be unto 4, the height thereof. Here first I say, that 144, the
+product of 24, by 6, is a quadrate. Again I say, that 12, the product of 3,
+the base of 6, the first plain, by 4, the height of 24, the second plain: or
+contrariwise, the product of 2, the height of 6, the first plain; by 6, the
+base of 24, the second plain, shall be the root or side of the said Quadrate.
+The example is thus: ^ The Quadrate. ^ The side or root thereof.
+
+9 If three numbers be continually proportional, the product of the first and
+the last shall be equal to the quadrate of the middle numbers; And contrariwise,
+If the quadrate of the middle number be equal to the product of the first and
+the last, the three numbers given shall be continually proportional.
+
+Let the three numbers given continually proportional, be 4, 6, 9, the product
+of 4, by 9, the first and the last, shall be 36: Item the square or the product
+of 6 by it self shall also be 36: On the contrary, if the quadrate, square, or
+product of the middlemost be equal unto the product of the first and the last,
+the three numbers given are continually proportional: As Euclid does
+demonstrate and teach at the 16 p vj, and 20 p vij, of his Elements. Item,
+Ramus handles this proposition in three several places; to wit at the 15 eij
+of his Arithmeticke: At the ij consect. of the 14 ex, and again more specially
+at the 4 e x ij, of his Geom. Yet in deed, says Schoner, there is something in
+this more then may be performed by that 15 chap. of the second book of his
+Arithmeticke. For division cannot always find out the mean proportional:
+But in diverse cases there is required, to the performance of this, the
+extraction of a square root (of which we have spoken before at the 4 and 5 e:)
+by the which also the Deuisour is sought. As for example, suppose the mean
+proportional between 16, and 64, the extremes given, were to be sought. Here
+the product of 64 by 16, is 1024; and the side of 1024, by the 4 e, is 32, the
+mean proportional desired.
+
+A proportion requires four bounds or numbers. If the second and third bound
+be the same, as in this our example, it is called a Continual proportion: If
+they be diverse, it is named a Disioyned proportion. Now generally, whether the
+proportion be disioyned or continual, this rule is true: If four numbers be
+proportional, the product of two middle numbers shall be equal to the product of
+the first and the last. As for example, As 12 is to 4, so let 6 be to 2. I say
+the product of 6 by 4, shall be equal to the product of 12 by 2. For let the
+product of 12 by 6, be 72. Here therefore the product of 6 by 12, shall be also
+72, by the 3 c iiij c j Saligna.
+
+If two numbers be proportional to one and the same number, they are equal
+between themselves: 16 e v c j Salig. But 72 is proportional unto the product
+of 12 by 2: and again, to the product of 6 by 4 10 If one number do multiply
+many numbers, the products shall be proportional unto the numbers multiplied: 5
+e vj. But 12 does multiply 6 (and makes 72 by the construction:) Item it
+multiplieth 2. Therefore as 72 is unto the product of 12 by 2: so is 6 unto 2:
+and so, by the grant, is 12 unto 4.
+
+20 If one number do multiply many, etc. 5 e vj c j Salign. But 6 does multiply
+12, and 4. Therefore as 72 (which is the product of 6 by 12, as before was
+manifest) is unto the product of 6 by 4, so is 12 unto 4.
+
+
+Therefore the products of 12 by 2, and of 6 by 4, are equal. q. e. d.
+This proposition is commonly called the Golden rule: and indeed truth it is
+that the Mathematical arts do daily reap from hence fruits in value more
+worth then gold.
+
+10 If the three numbers continually proportional given, be simple between
+themselves, the first and the last shall be quadrate or square numbers: Item, If
+of three numbers continually proportional given, the first be a quadrate, the
+third also shall be a quadrate.
+
+As for example, Let the three numbers continually proportional, and simple
+between themselves given, be 4, 6, 9; the first and the last, to wit 4 and 9,
+are quadrate numbers.
+
+Again, if 16, 32, 64, be continually proportional, and 16, the first bound be
+a quadrate; 64 also, the third bound shall be a quadrate. These both are
+demo^strated by Euclid, and his Expositours at the 2, and again at the 22
+prop. of his viij book.
+
+11 If a quadrate do multiply a quadrate (or one many continually) the product
+shall be a quadrate; and the side of the quadrate so made, shall be the product
+made by a continual multiplication of the sever all sides of the particular
+quadrates given.
+
+As for example; Let the quadrate 4, multiply the quadrate 9, and let the
+product thus made be 36: Here first I say, the product of 36 is also a
+quadrate. Item I say, that 6, the product of 2 by 3, the sides of 4 and 9, the
+particular quadrates given, shall be the side of 36, the compound quadrate.
+
+Ite^, 25401600, the product continually made of 4, 9, 16, 25, 36, 49, is a
+compound quadrate: And the side thereof is 5040, which is the product made of
+2, 3, 4, 5, 6, 7, continually multiplied between themselves.
+
+12 If a Quadrate do divide a number assigned by a Quadrate, the assigned
+shall be a Quadrate.
+
+This also arises from the same fountain. As for example, Let 4, a quadrate
+divide 64, the number assigned by 16, a quadrate. I say that 64, the number
+assigned is likewise a quadrate.
+
+13 If the product of two numbers assigned be a quadrate, the side of that
+quadrate shall be the mean proportional between the assigned.
+
+As for example, Let the nuumber assigned, between which we desire the mean
+proportional, be the quadrates 144, and 64; and let the product of them be
+9216: I say that 96, the side of the said compound quadrate made, shall be the
+mean proportional desired, that is, as 144 is unto 96: So 96 is unto 64. The
+demonstration is built upon the 9 evj cj Salign. which is a special consectary
+drawn from the 2 c 14 e, of the x book of Ramus his Geometry: The argument is
+thus framed
+
+If the product of the two middlemost numbers be equal to the product of the
+first and the last, the four numbers given are proportional between
+themselves: 9 e vj cj Sal. But the product of 144 by 64, is 9216 by the grant:
+And the product of 96 by 96, the 2 middle numbers, is also 9216. The side is a
+number, which multiplied in it self, does make a quadratc. But 96 is the side
+of 9216, by the construction and grant. Therefore 9216 is made of 96,
+multiplied by it self.
+
+Therefore 144,96,96,64, the four numbers given, are proportional between
+themselves: and so the mean proportional between 144, and 64, the two
+numbers given, is found, q. e. f.
+Therefore
+
+14 If a number shall by it self divide a number made of any two numbers
+given, the quotient shall be the mean proportional between the two assigned: 10
+e v j c i Salig.
+
+The rule is general thus: If one number shall divide the product of two
+assigned, the deuisour and the quotient shallbe the mean continually
+proportional, betweexe the assigned. As for example, let 6, multiplying 4,
+make 24: And let 8 divide 24 by 3: I say, as 6 is to 8, so is 3 to 4. But the
+special consectarie is more fitter for our purpose. Therefore for example, Let
+the product 144 by 64, be 9216, and let 96 divide 9216, the said product, by
+96: I say, that 96 is the mean proportional between 144, and 64, the two
+numbers given: that is, as 144 is unto 96, so is 96 unto 64.
+
+CHAP. III. Of the making and use of certain Tables and Instruments, devised
+for the more exact and speedy measuring of all sorts of Plains.
+1 Plains, according to their diverse nature and quality, are measured by
+diverse and sundry kinds of measures: For some are measured by the Foot,
+others by the Yard or Elne, othersome by the Rod or Perch, and such like. Now
+these measures being defined by Act of Parliament, it shall not be amiss to
+set down the words of the Statute, so far forth as it shall concern this
+argument. It is ordained, says the Statute, that three grains of barley dry
+and round, do make an Inch; twelues inches do make a Foot; three foot do
+make a Yard; five yards and an half, do make a Perch; and forty Perches in
+length, and four in breadth, do make an Akre. 33. Edw. I, De terris
+mensurandis. Item, De compositione Vlnarum and Perticarum. See also more of
+this hereafter.
+
+By the Foot we measure Board and Glass. A Foot therefore of flat measure,
+is a right-angled square, 12 inches long, and 12 inches broad, that is, a
+foot of board is a plain, containing 144 square inches: For such is the
+product of 12 by 12. Here, as also in the other which follow, observe, That the
+Breadth is always given; the Length is desired. If therefore the breadth given
+be 12 inches, it is plain by the former definition, that 12 inches of length
+does make a foot of flat measure. But if the breadth given, be either greater
+or lesser then 12, the length desired is not so easily found. For here some art
+is often times required. This then is to be conceived and done by the 14 c of the
+former Chapter: For there we learned how to equal plains of diverse breadths.
+Admit now a board to be measured were but 9 inches broad; here, as those rules
+did teach us, I divide 144, by 9 the breadth given, and I find in the quotient
+16, for the length desired. For as 12 is to 9, so is 16 to 12; that is, 16
+inches in length, of the breadth of 9, are equal to 12 inches of length, of
+the breadth of 12. Thus you may make a Table or Instrument to serve readily at
+all times, for the more speedy and exact measuring of all sorts of plains by
+the foot square. For, If you shall divide 144, by the sever all breadths
+given, the quotients shall show the length desired, answering to their sever
+all diuisors or breadths given. Now where you do begin (I mean whether at
+the greater breadth, and so descending shall end at the lesser, or
+contrariwise) the matter is not great. Again, the Carpenters or workemens
+instrument which they use in this case, being but two foot in length, it shall
+not be necessary to begin at any breadth greater then 24, as shall be
+manifest hereafter, when we come to show the use of this Instrument or Rular.
+Beginning then at 24, and so descending to the lesser, the Table is thus: ^ The
+use of this Table, to him that understands the former, is plain and easy.
+For having any breadth given, between 24 and 1, I seek it amongst the
+breadths in that column upon the left hand, and in the other column upon the
+right hand oueragainst it, I find the length desired.
+
+1 As for example; A board to be measured is 18 inches broad, I desire to know
+what length of that breadth shall make a foot. R In the second column,
+oueragainst 18, in the first column, I find 8. Therefore I say, every 8
+inches in length, of that board that is 18 inches broad, shall make a foot of
+flat measure.
+
+2 Again, suppose the breadth of a piece of Glass to be measured, were 5
+inches broad. Here I find, that every 28 inches, and of one inch, does make a
+foot of that kind of measure.
+
+3 But what if the breadth given be greater, or lesser then any breadth between
+24 and 1? I answer, the question is answered with as great facility. For first
+admit the breadth given were 36, which is greater then any breadth in our
+Table, here if I take some such known part of 36 ( partem aliquotam, a known
+part, the Arithmeticians call it) as may be found in our Table, the length
+desired shall answer unto it in the like proportion: As for example, if I
+take 18 the of 36: then it is manifest, the length desired shall be but 4
+inches, the one half of 8, which is the length answering to the breadth 18.
+Or, if I shall amongst the Breadths take 12, which is but the third part of 36,
+my breadth given: then also shall 4, which is the of 12, the length found, be
+the length desired, answerable to 36 the breadth given: Or which is all one,
+every X2 inches in length, of that board that is 36 inches broad, shall
+contain three foot of flat measure.
+
+4 Again, suppose the breadth given were an 100 inches. R Here 20, is but the
+part of 100. Therefore I say that 7 ^ in length, of that plain that is 100
+inches broad, shall contain five foot of flat measure.
+
+5 Lastly, Admit that the breadth given were but inch, which is lesser then
+any one of those set down in our Table. R, Here I double, treble, or quadruple
+the number given, until I may find it in the Table, and then it is manifest,
+that the length found shall be answearable to the breadth given in the like
+proportion. As for example, If I double, I make 1. Now to the breadth of 1
+inch, in the Table there answeareth 144 inches of length: Therefore the double
+of 144, that is, 288 shall be the length desired answearing to inch of breadth.
+Or, which is all one, 144 inches of length of that breadth, that is but inch
+broad, shall be but foot of flat measure. The reason of this is manifest, out
+of the 14 element of the tenth book of Ramus his Geometry.
+
+By this Table you may make a Ruler or instrument, whereby the same may be
+performed yet with greater speed and more facility. For this instrument is
+none other then that which Attificers do use in this case. It is, I say, no
+other but a Rule, as they call it, of two foot long (more or less, as you
+shall think most convenient for your use) and of what breadth you please,
+divided, as the manner is, into inches and parts of inches, with a thwarting or
+beuelling line drawn from side to side, beating the several lengths above
+mentioned in our Table. That, for thy better understanding, we do more
+particularly thus describe. First with the iage I strike two parallel lines,
+the one as near unto the one edge, the other unto the other, as shall be
+thought most convenient: These are the breadths, 24 and 6. Now to the breadth
+24, in the Table, there answers 6 inches for the length: Therefore in the
+upper line beginning at the right hand, I account toward the left, 6 inches:
+There I make a mark. Again, to the breadth 6, in the same Table, there
+answers 24 inches for the length: Therefore in the nether line counting as
+before, I make a mark at the 24 inch. From these two marks I draw a line
+overthwart the Rular. In this beuelling or thwarting line, by the help of a
+squire, I note all the lengths noted in my Table, between 24 and 6. As for
+example, To the breadth 23, in the Table, there answers for the length 6
+inches, and 6/23 parts of one inch. This length, I note, beginning mine
+account as before, in one of the parallel lines. Then by the help of the squire
+I note the same upon the beuelling line. In like manner I set all the rest of
+the breadths from this, unto 6. This being done the Rular is perfected, and fit
+for use in all cases, as before is prescribed in the use of the Table.
+
+The use of this Rular is plain and easy, if either that of the table, or the
+manner of making this be well understood. For, If you shall seek out the breadth
+given in the beuelling line, the inches and parts of inches from thence unto
+the end of the Rular toward the right hand, shall be the length desired. I. As
+for example, Suppose the breadth given were 12 inches: Here I find the breadth
+12 noted at the twelfth inch from the beginning of the Rular: Therefore I say,
+Every 12 inches in length, of that plain that is 12 inches broad, shall be a
+foot of flat measure. II. Again, Admit the Breadth were 9 inches. This is
+noted in the thwarting line at 16 inches from the said end. Therefore I say,
+That 16 in length of this breadth, shall make a foot of flat measure. III.
+Admit the breadth given were 64 inches. Here because I have none so great, I
+take 16, the of it. Now the breadth 16, is noted on the beuelling line, 9
+inches from the said end. Therefore I say that every 9 inches in length, of
+that plain that is 64 inches broad, does contain 4 foot of flat measure. IV.
+If the breadth given beleffer then any upon the beuelling line, then double,
+treble, or quadruple, etc. the same, as before is taught; and the length found
+shall be but the half, third part, or fourth part etc. of the length desired.
+As for example, Admit the breadth given were 2 inches: Here because upon the
+beuelling line I find no number less then 6: Therefore I treble 2, and I make
+6. Now 6 being placed upon the line of breadths, or beuelling line, 24 inches
+from the said foreend, I say, That 24 inches of length, of that plain that is
+but 2 inches broad, is but part of a foot of flat measure. V. If the breadth
+given, besides the whole inches, do contain also some part or parts of an
+inch, then that is to be proportioned out between the whole number given, and
+the next greater above it. As for example, Admit the breadth given were 9
+inches and: Here the length desired will fall out proportionally between 9
+inches of breadth and 10, about 15 inches and 3/19, from the said end.
+
+Of the measuring of Cloth, Wainscot, Painting, Pauing etc. by the yard.
+2 By the Yard we do measure Cloth, Wainscot, Painting, Pauing, etc. The yard,
+as is aforesaid, does contain in length 3 foot, or 36 inches. Therefore the
+yardsquare, or a yard of flat measure does contain 9 foot, or 1296 inches.
+This kind of measure they commonly divide into 4 quarters: And every quarter
+into 4 nails.
+
+Upon the former grounds the like Table and instrument for this kind of
+measure, may be framed as was for that of board, if any man shall think it
+worth the while. But it shall not be much loss of time or labor, to show in a
+word or two how it may be done. In a yard-square there is 16 quarters of a
+yard; or 64 nails: Therefore if you shall divide 16, or 64, by the breadth
+given, the quotient shall be the length desired. The Table then for this kind
+of measure is thus: ^
+
+The use is plain. I. Admit a piece of Wainscotte were three quarters of a
+yard broad, what length of that breadth shall make a yard of flat measure?
+R. one yard, one quarter, one nail and half, or thereabout. The proportion,
+as before, is thus: As 4 is to 3, so is 5 unto 4.
+
+2 A piece of painting is 2 quarters, that is, half a yard broad; what length
+shall make a yard square? R. two yards in length.
+
+3 But the use of this is better seen in buying and selling of cloth: For here
+often times the skillful Taylour, although he do well know how much cloth or
+stuff of this or that breadth will serve to make such a garment, is clean to
+seek how much shall make the like garment of stuff of any other kind of
+breadth: Only this advantage he has, that he will be sure to ask enough,
+which shall be no loss to himself.
+
+1 Admit 4 yards of cloth of 1 yard broad did make a garment: how much stuff
+of broad shall make the like? R. The Table for the breadth 1 y, gives 1 y,
+for the length of 1 yard square: Therefore 4 yards of this breadth, do make 4
+yards square. Secondarily, the same Table for breadth, gives the length 1 y 1
+q 1n. Therefore four times 1 y 1 q 1n, that is, 5 y 1 q 1 n shall make the
+same garment.
+
+2 Again, 12 yards of stuff of broad, did make a gown; how much cloth of 1
+y 3 q broad shall make the like? R. The Table for breath, does give the length
+1 y 1 q 1n: This length I seek how many times I may find in 12 yards: that
+is, I seek how many square yards 12 yards of broad does contain. Again, the
+same Table for 1 y 3 q breadth, gives 2 q n. This length so many times taken
+as you found the former length in 12, is the number of yards required.
+
+Of measuring of Land by the Aker.
+3 BY the Rod we measure Land, Mcdowes, Wood, Grass, Corn, etc. The Rod,
+Lugge, Perch, or Pole does contain, as we have heard, 16 foot, or 5 yards. This
+kind of measure did vary according to their customs with the country: But now
+by Act of Parliament that variety is taken away. The words of which Statute,
+entitled, An Act for restrains of new buildings, etc. in and near to the
+cities of London and Westminster, made in the xxv year of the reign of Queen
+Elizabeth, are these: Be it enacted by the authority aforesaid, that a Mile
+shall be taken and reckoned in this manner, and no otherwise: that is to say, a
+Mile to contain eight Furlongs; and every Furlong to contain forty Lugges or
+Poles; and every Lugge or Pole to contain sixteen foot and an half. Thus
+far that Statute. Now an Aker of land, as we have showed before, is a plot of
+ground containing 40 Rods in length, and 4 in breadth; or, which is all one,
+an Aker of land contains 160 square Rods or Poles of ground. If therefore
+you shall divide 160 by all the sever all breadths between 40 and 1, the
+products shall show the lengths desired, answering to those sever all breadths
+given. The Table then of Land-measure is thus: ^ The use of this Table is in
+all respects like unto that of boord-measure: Therefore one or two examples
+shall be sufficient to make it known unto the simplest.
+
+I Suppose a piece of ground to be measured were 32 pole in Length: I demand
+how much in breadth is required to make an Aker. R. To 32, the length in the
+first column answers in the next column 5: Therefore I say, every 5 rods in
+breadth, shall be equal to that field or plot which is 40 pole long, and 4
+pole broad.
+
+II Admit the field to be measured were 23 pole long. R. To 23 in the first
+column I find answering in the second column 6 22/33, that is, 6 pole, and
+22 parts of a pole divided into 23 parts. Therefore I say every 6 22/33 poles,
+or 7 pole fere, is equal unto that which is 40 long, and 4 broad, that is, to
+160 square poles.
+
+III But what if the length be greater then any number found in the first
+column? R. Here as before, I take some parte^ aliquota^, as one half, one
+third, one fourth etc. As for example, suppose the field to be measured were
+100 poles in length, here because I find no number so great as 100, therefore
+I take 20, the fifth part of 100: To which 20 I find 8 pole for the breadth.
+Wherefore the fifth part of 8 rods, that is, 1 rod and parts of one rod
+of that length shall be equal to that plot which is 40 long, and 4 pole
+broad. Or, which is the same in effect, Every 8 pole in breadth, of that field
+which is 100 pole in length shall contain 5 Akers of land.
+
+IV Admit it were 84 pole in length. R. Here the fourth part is 21. Now to 21
+pole of length, there do answer 7 poles and 13/21 parts of one pole in breadth.
+Therefore every 7 poles, and about two third parts of a pole in breadth, of
+that length, shall make 4 Akers. For if it were but 21 pole long, then every 7
+pole and 13/21 of breadth, shall make one Aker. But 84 contains the length
+21, four times: Therefore 7 13/21 of the whole length 84, shall contain 4
+Akers.
+
+Having finished this Treatise, and it being altogether ready for the Press,
+turning over the Statutes, to see what I might find more for this our purpose,
+I light upon the very like Table, made many years since, by Act of Parliament,
+in the time, as I take it, of Edward the first, entitled De terris
+mensurandis. See the latter Abridgement of the Statutes of Rastall or Poulton,
+in the title of Weights and Measures.
+
+A very speedy and ready way or manner of Division in this case of surueying.
+4 SVrueyours, which are often employed in measuring of whole Farms, Lordships
+and Towns, are at last to give an estimate of the gross sum or number of
+Akers contained in some very great sum or number of Rods, after
+multiplication of the sides, and addition of many several parts, etc. This
+usually they perform and find by dividing of the product or sum by 160, the
+number of poles that one Aker does contain. Now here because the Divisor
+consists of many several or single figures, if especially the product or
+dividend be any thing great, the work, as every one meanly practiced in
+Arishmeticke does know, must needs be long, and peradventure (except great heed
+be taken) not without some error. And again because, Facilius and expeditius
+numer amus numeros paruos, quam magnos, we do more readily, and with greater
+facility number small numbers, then great: If any man shall teach how this
+Divisor may be reduced to a small number, consisting of one single figure, he
+shall much shorten the work, and deserve much thank of all Surueyors or
+others delighted in these studies. Ingenui pudoris est, says Pliny, fateri
+per quos profeceris. I confess the invention is not mine: but I am the first,
+if I be not deceived, that has made it publici iuris, common to all. Thus then
+this matter is to be done. If you shall divide the number given, and likewise
+the quotient now found, continually by 20 four times, the last quotlent (with
+the parts, if any do remain) shall show the Akens, and parts of an Aker
+contained in the number given: or, if you shall like better, shall divide the
+number given, by 40 twice. Let the examples be those following.
+
+I. Suppose a field being measured and cast up by multiplication, the product
+or number of perches were 1280, I would know how many Akers it does contain.
+Here note out of an abridgement of division, because my Divisor 20, has for
+his last figure a cipher or naught: therefore I cut off the last figure of my
+Dividend, thus 128(0. ^ Or thus, ^
+
+R. I answer by the last quotient of both forms, that that field which
+contains 1280 square perches, does contain 8 Akres.
+
+II. Item, Suppose the product or gross sum of some piece of land surueyed
+were 102400 perches. ^ Or thus, ^ Here I say, that 102400 perches, do make 640
+akers of la^d.
+
+These examples may suffice in such cases where no fraction shall remain: but
+if in any of the works of division, any parts shall remain, the value of
+those parts shall be esteemed by these rules following.
+
+1 If the first figure (the last, some peradventure would call it) of the
+number given be a significant figure, then it is manifest, that over and above
+certain akers, etc. there are some odd perches.
+
+2 Secondarily, if dividing by 20, there do remain ought in the first
+division, that remainder shall be of 2 Roode or 10 perches: if in the second,
+Roode or 20 perches: if in the third,, of an Aker, or 40 perches: if in the
+fourth, of an aker, or 80 perches.
+
+3 Lastly, if dividing by 40, there shall ought remain at the first division,
+those parts shall be parts of a Roode: if at the second, they shall be parts of
+an aker. The examples following, shall make all plain and easy. ^ Or thus by
+40: ^ Therefore that field that contains 939 perches, does contain 5 Akers,
+3 Roodes, and 19 Perches.
+
+II ^ Or thus: ^ The number 13593, contains in land-measure, 84A, 3R, 33P. or
+84 Akers, 3 Roodes, and 33 Perches. The like may be done in Boord-measure, and
+Timber-measure, if any man shall find it of any such use, as it is in this
+kind.
+
+CHAP. IIII. Of the Extraction of a Cubicke root.
+1 A Cube is a right-angled solid, comprehended of equal sides: 25 d xj E.
+
+HItherto we have spoken of the Quadrate, and of such proprieties and
+corrollaries as did belong unto this our purpose. Now it remains that we in
+like manner do handle the Cube and Cubicke number, and that with as few words,
+and as briefly as we may. For as the uses of the Quadrate, and of the
+extraction of his Root were many: So the Cube, being of a more excellent
+nature, cannot yield fewer, if not more, and those also of more and greater
+worth. For as Vitruuius, in the preface to his fifth book of Architecture,
+writes, Pythagoras was so much delighted with the Cube, that he wrote all his
+precepts in cubicall numbers. His words are these: Etiamque Pythagora, hisque
+qui eius haeresim fuerunt secuti, placuit Cubisis rationibus pracepta in
+voluminibus scribere, constitueruntque Cubum 216 versuum, cosque non plus quam
+tres in vna conscriptione oportere esse pusarunt, etc. Moreover also
+Pythagoras, and those which followed his faction, were much delighted to write
+their precepts and rules of Philosophy in a kind of cubicall proportion,
+making a Cube of 216 verses; deeming that there ought not to be above three in
+one staff. Now a Cube is a square body, consisting of six sides, plain and
+equal one to another. This kind of body, when it is cast at an adventure out
+of the hand, upon which side soever it pitcheth, no man touching it, stands
+firm and constant. Such are the dice, which gamesters that play at Tables do
+use. The Greek comicall Poets also, which in the midst of their plays do
+cause the Quiristers to sing a song, have so divided the pauses of their
+comedies, that making the parts in a kind of Cubicall proportion, they much,
+by such rest, do ease and help the pronunciation of their actors. Thus far
+Vitruuius. This Cube or Cubicall number of 216, has for his side 6. For 6
+times 6, do make 36, for the one side, or square plain including the Cube. And
+6 times 36, are 216, the Cubicke number of the Cube here mentioned. The
+mystery hereof conceived by Pythagoras and his scholars, I leave to others to
+unfold. That pertains not to the Mathematician: that other also belongs to
+the Poets, whereof our age does afford plenty. That which the same author in
+another place has, of the answer of the oracle of Apollo: Item, that of
+Eratosthenes unto Ptolomey king of Egypt, of Glaucus his tomb, do more
+concern our business: And therefore hereafter, in their place, we shall
+handle them at full, if God permit.
+
+Hereyou see how the definition of the Cube does answer to the definition of
+the Quadrate: for each of them is a right-angled and straight-bounded figure:
+And as the general differences of bodies or solids, were drawn from the
+general differences of surfaces, plain and oblique: So here the particular
+differences are taken from the special differences of the same surfaces. A
+plain solid is that which is comprehended of plain surfaces: this is general
+of what kind soever those plains are of: but a Cube, or cubicall body, is
+that which is comprehended of square or quadrate surfaces. The nature then of
+those surfaces which do comprehend them, is that they must be plain, not
+oblique or uneven: Secondarily, they must be squares or Quadrata, that is,
+Right-angled, and of equal sides. This is Euclids definition, and meaning. The
+number of these surfaces Vitruuius does tell: Cubus est corpus ex sex lateribus
+aequali letitudine planitierum quadratum: that is, A Cube is a square body
+comprehended of six plain sides of equal breadth. Item, Martianus Capella in
+these words: Solida figura Quadrati sex superficies habet: The solid square (so
+he calls the Cube) has six surfaces. From hence is it that they attribute
+stabilitie or constancy unto this kind of body. For (...), corpus quadratum,
+is such a body, if I mistake not, that consists of such an equal
+temperature of the humors, ( eucrasia,) that it is not subject to that
+alteration and change that others are. And Aristotle calls a good man (...),
+virum quadratum, that is, Cubicum, as I understand him, meaning such a man as
+is constant, and not easily moved upon every chance and misfortune, that in
+this world does happen to mortal men. Such an one'as they report Bias, one of
+the seven wise men of Greece to have been. For Cubus cum est iactus, says
+Vitruuius, quam in partem incubuit, dum est intactus, immotam habet
+stabilitatem: vti sunt etiam tessera, quas in aluso ludentes iaciunt. A Cube
+when it is cast out of the hand at an adventure, look upon what side soever it
+lights, it stands fast and stable; like as those dice also do, which
+gamesters use that play at Tables. Therefore, If six equal squares be joined
+with solid corners, they shall comprehend a Cube. Item, the sides of a Cube (
+hedrae) are six: the edges ( latera) are twelve: the plaine-angles, twenty
+four: the solid-angles are eight; as the author of the Scholium upon the xv
+book of Euclids elements, has taught.
+
+2 The power of the Diagonall line of the Cube, is thrice so much as the power
+of the side of the Square comprehending it.
+
+Harmonia, says our Author, est musica literaetura obscura and difficilis;
+maxim quidem quibus Graecae literae non sunt notae, quam si volumus
+explicare-necesse est etiam Graecis verbis vti, quod nonnulla eorum Latinas non
+habent adpellationes: that is, The theory of Music is very hard and
+difficult: especially to those which are ignorant of the Greek toongue: For
+whosoever shall take upon him to write of this argument, in what language
+soever, he shall be forced to use many Greek words, because many of them have
+no terms answerable to them in other languages. The same may I say of
+Geometry, where the most terms or words of art are merely Greek, or at
+leastwise fained in imitation ofthem, and that often times not very fitly. For
+surely I doubt not but at the first those words seemed harsh enough, even to
+the first inuentors of them: but time and use have made them familiar and
+pleasing. Of this sort is (...), and (...), Potentia, power, we call it: and
+posse, to be able, to be of value and power. Both which do signify in this
+place or this art, naught else but a Geometrical multiplication, as they are
+often used by Euclid the great Geometer, and Diophantus the ancient Algebraist,
+and that by the testimony of Aristotle the Prince of Philosophers. For of this
+rule, Potentia rectae est quadratum; or as Diophantus speaks, Appellatur
+quadratus Facultas, that is, the power of a right-line is a square: the meaning
+is, that if a right line be multipled in it self geometrically, it shall make
+a Quadratum or square surface. Likewise then in this place this proposition,
+Diagonius Cubi potest triplum lateris, The power of a Diagonall line of a Cube,
+is thrice so much as is the power of the side; is thus to be understood: If the
+Diagonall of a Cube be multiplied by it self geometrically; and the side of
+that square which comprehends the same Cube, be also multiplied by it self,
+the square that is made of the Diagonall line, shall be three times so great as
+is that which is made of the quadrate including the same Cube.
+
+Item, again here observe, that that right line which crossing a plain from
+side to side by the center, is called the Diameter: in a solid, the Axis or
+axeltree; in both, if it pass from corner to corner, is properly termed the
+Diagonius, or the Diagonall line. The power of this line, says our author, is
+thrice so great as is the power of the said side or edge, as I call it. That we
+thus demonstrate:
+
+The power of the Diagonius of a Cube, is three times so much as the power of
+the side. That, whose power is as much as is the power of any thing single, and
+of that whose power is doubled to the power of the same single, jointly: is of
+treble power unto the single. Axio. Logicum. But the power of the Diagonall
+line in a Cube, is as much as is the power of the single side of the square:
+and the Diagonall of the same square, which is by the 365e xij R, double to the
+side. The power of that side in a right-angled triangle, which is opposite to
+the right-angle, is equal to the single powers of the two other sides. 5 e xij
+R. But the Diagonall in the Cube, the side of the square, with the Diagonal of
+the same square, do make a rightangled triangle; and this Diagonall of the
+Cube, is opposite to the rightangle, ex thesi. Therefore the power of the
+Diagonall of the Cube, is as much as is the power of the side, and diagonall of
+the square.
+
+Therefore the power of the Diagonall line of the Cube, is thrice so much as is
+the power of the side of the square. q. e. d.
+
+3 If of four right-lines continually proportional, the First be the half of
+the Fourth; the Cube of the first, shall be the half of the Cube of the second.
+
+This proposition is a consequent or corrollary drawn out of the 15 e iiij R,
+which teaches that, if certain rightlines be proportional (to wit, more in
+number by one then are the dimensions of the like figures, alike situated unto
+the First and Second) it shall be as the First right-line is unto the Last, so
+the First figure shall be unto the Second: and contrariwise. Now a Cube, by the
+I e xxj R, is a figure of three dimensions; because it is a body, which has
+length, breadth and thickness. Therefore here the lines compared in the
+proportion must be four. The truth of this rule will easily appear by an
+example in numbers. But here observe, that you must not expect that our example
+shall altogether directly answer to this rule of doubling the Cube; but to some
+other. For truth it is, that Arithmeticke, as hereafter shall more plainly
+appear, cannot double the Cube; that is, Arithmeticke although it can tell
+what shall be the double of the Cube given, yet it can by no means tell thee
+in numbers, what the Latus or side of that Cube shall be. Let the four numbers
+continually proportional given, be 2, 4, 8, 16: that is, as 2 is unto 4, so
+let 4 be to 8: and as 4 is to 8, so let 8 be to 16. Here I say by that 15 e
+iiij R, as 2 the first number is unto 16 the last: so shall the Cube of 2 the
+first number, be unto the Cube of 4 the second. But 2 is but the eighth part of
+16: Therefore the Cube of 2 shall be but the eighth part of the Cube of 4. ^
+The Cube of 2, is 8. ^ The Cube of 4 is 64. Now ^ and ^
+
+Here you see, that the quotient of 16, the last number, by 2, the first: Item,
+the quotient of 64, the Cube of the second, by 8, the Cube of the first, to be
+alike, or the same: And therefore the proportion is the same. q. e. o.
+
+By this rule an answer was made unto that great and strange question, moved by
+the oracle of Apollo at Delphos. The invention of this proposition, that is, of
+the first answer to that problem, by some is attributed to Plato the divine
+Philosopher, a though certain it is, that Eratosthenes, in an epistle of this
+argument written to Ptolomey king of Egypt, does ascribe it to Hippocrates
+Chius. The history is briefly touched by Vitruuius in these words: Alius enim
+alia ratione explicare curauit, quod Delo imperauerat responsis Apollo, vti
+arae eius quantum haberet quadratorum id duplicaretur, and it a fore, vt hi qui
+essent in ea insula tunc religione liber arentur. For each of them (meaning
+Architas Tarentinus, and Eratosthenes Cyrenaeus) labored by sundry ways to
+perform that which Apollo at Delos had given in charge in his answer, whereby
+he commanded, that look how much soever the altar that was before him should
+contain in square feet, it should be doubled, and so it should come to pass,
+that those in that Island, which were sick of the plague, should be freed from
+that curse. But Eratosthenes before mentioned, lays down the history more
+largely and plainly, thus: To king Ptolomaeus, Eratosthenes sends greeting;
+It is reported that one of the ancient tragedians brings in Minos, purposing
+to reedifie Glaucus his tomb. And being given to understand, that it was every
+way an hundred foot, said, That is too little for the sepulcher of so great a
+king. Let it be therefore doubled. It seems that Minos understood not what he
+said: For if you shall double the sides, the plain shall be four times so
+great, and the solid eight times. It was demanded therefore of the
+Geometricians, How the solid given, might be made just as big again as it was
+at the first, and yet the form and nature of the figure to remain the same
+still. This proposition is called, The doubling of the Cube. For making the
+question of the Cube, they labored to make that double or as big again. All
+men therefore doubting and studying a long time how this should be done, at
+length Hippocrates Chius found that, If unto two right-lines given, whereof the
+greater should be double unto the lesser, two mean proportionals might be
+found, then the Cube might be doubled. But thus this doubt was to be resolved
+by another thing, as difficult and as hard to be done as that other. Within a
+while after, they report that the citizens of Delos being commanded by the
+Oracle to double a certain altar, and falling into the same doubt and
+difficulty, were constrained to seek unto the Geometricians which were with
+Plato in the University, that they would at their request, find out some way
+how to perform the same. Now these students diligently conferring upon the
+matter, and laying their heads together to find out how, unto two right-lines
+given, two mean proportionals might be found, it is said that Architas
+Tarentinus found them by semicylinders, and Eudoxus by those lines that are
+called crooked lines, (...), curuae, etc. Thus far Eratosthenes. How then to
+satisfy the demand of the citizens of Delos, to perform, I say, the command
+of Apollo and Minos, was demonstrated by Plato, or Hippocrates Chius, to wit,
+by the finding out of two mean proportionals, between two right-lines given,
+whereof the one is double unto the other. But now again here arises there
+question, or as Eratosthenes says, (...), that this doubt of Apollo was to be
+resolved by another doubt, no less difficult then it self. For how this was
+to be done, had not as then by any before that time been taught. But upon these
+occasions given (moved also partly with glory) many fine wits in sundry ages
+have found out diverse and sundry ways how to perform the same, as Eutocius
+Askalonita, Archimedes his learned interpreter, has at large set down in his
+commentary upon his second book De cylindro. These authors, as there you
+shall sinde, are thus and in this order named by him: Plato, Heron, Philo
+Bizantius, Apollonius, Diocles, Pappus, Sporus, Menechmus, Architas Tarentinus,
+Eratosthenes, Nicomedes, and Eudoxus Cnidius, whose invention he rejects, as
+not answering to the purpose of his own proposition. Of all these P. Ramus, at
+the 8 e xiij of his Geometry, describes that of Heron only, neglecting all
+the rest. Hinc existit, faith he, Mesographus Heronis Mechanici seu Mesolabus,
+dictus ab inuentione duarum continue mediarum proportionalium inter duas datas:
+vnde existit problema Deliacum quod Apollinem ipsum exercuit. Mesographus autem
+Heronis est infinita regula, quae sistitur cochleato vnco per cauum mobili. Est
+vero, vt Pappus ait initio libritertij, Mesographus iste architectis
+aptissimus, multoque promptior Platonis Mesographo. Mesographi mechanica est
+apud Eutocium secundt de sphaera, sed paulo facilius a nobis ita proponctur: Si
+duas dat as rect as comprehendentes rectangulum, and infinite continuat as,
+mesographus tangens oppositum angulum angulo datarum intersecet aequidistanter
+a centro, intersegmenta erunt media continue proportionalia datis: that is,
+From hence (he means out of the 7 e of that book) arises the Mesographus of
+Heron the inginer, which otherwise is called a Mesolabus: For the use of it is
+to find out two lines continually proportional between two other lines
+given. By this means was found how to answer that problem of Delos, which did
+much trouble Apollo himself. Now this Mesographus of Heron, is an infinite
+tight-line which is fastened with a screw-pin, that is to be slid up and down
+in a riddie. This Mesographus, as Pappus Alexandrinus in the beginning of his
+third book writes, is a marvelous commodious instrument for Architects and
+Carpenters, and is much more convenient and ready then the Mesographus of
+Plato. A mechanical description and use of this Mesographus, is set down by
+Eutocius in his commentary upon the ij book of Archimedes De sphaera and
+cylindro, but is somewhat more plainly set out by us in this manner: 8 If (a
+right-angled parallelogramme being made of the two lines given, the same also
+being continued as sarre as need shall require) the Mesographus touching the
+angle, that is opposite unto the angle contained of the lines given, shall cut
+those continued lines equally distant from the center, the portions of those
+continuations thus cut, shall be the middle lines continually proportional
+between the two lines given. Thus far Ramus, unto whom I refer thee for
+further satisfaction. But whereas P. Ramus, as we have showed before, does
+affirm that the Mesographus of Heron, as Pappus Alexandrinus writes in the
+beginning of his third book, is a marvelous commodious instrument for
+architects, and is much more ready and convenient then the Mesographus of
+Plato; it is so to be understood, that those words, Multoque promptior Platonis
+mesographe, be not supposed to be spoken by Pappus: For indeed in that place he
+does not once name Platoes mesographus. His words at the 4 p iij, as
+Commandinus, his interpreter has expressed them, are these: Exponemus igitur
+quatuor eius constructiones, vna cum quadam nostra tractatione; quarum prima
+quidem est Eratosthenis, secunda Nicomedis, tertia Heronis maxim ad manuum
+operationem accommodata, ijs qui architecti esse volunt. Of those many and
+sundry instruments, that have been found out by diverse men for the invention of
+two proportionals, etc. we will describe the use and making of four, adding
+thereto a certain treatise of our own. The first is Eratosthenes his way, the
+second is Nicomedes, the third is Herons, most commodious for all handy-crafts,
+or mechanics, and such as are desirous to be architects. Here you see is no
+mention of Platoes invention. But howsoever, that of Platoes, in mine opinion,
+is more proper to this place and purpose of ours; because it is to be done with
+the Carpenters tools, which are always at his hand: And therefore we will here
+also, out of the same Eutocius, describe that more fully. This Mesographus, or
+instrument devised by Plato, is described by Eutocius to have been a
+right-angled parallelogramme, consisting of four straight rulars, so contrived
+and put together, that they might be put nearer or farther off, as occasion
+should require. We have used two Carpenters squires, so placing the side of the
+one squire upon the side of the other, that the other two sides might
+continually be parallel, and contain right-angles between them. Or if any
+man so please, one squire may serve the turn with the rule which they use in
+measuring. The instrument now according to these directions, is thus to be
+used: If (the two lines given comprchending a right-angle, and from the angle
+infinitely continued) the instrument be so applied, that when in each corner
+the infinite (...) do fall, the sides of the same instrument do touch the ends
+of the lines given; the portions of the continued lines intercepted between the
+said corner, and the corners of the instrument, shall be the two middle lines
+continually proportional between the two lines given. Concerning the
+Diagramme, I must refer thee either to Eutocius upon Archimedes, or Daniel
+Barbarus upon Vitruuius: Let the instrument be f m, the squire: The ruler to be
+moved up and down, let it be n o. The use according to our rule is thus: Let
+the two lines, whereof the one is double to the other, be e b, and b g; the one
+falling upon the other perpendicularly, that is, they both containing the
+right-angle e b g. Again, let e b, be drawn out infinitely toward c: and g b,
+in like manner toward d. Now apply the instrument to this figure in this manner,
+that when by moving n o, the moveable side, up and down, the two continued
+lines falling precisely in the corners m, n; the two parallels sides m, and n
+o, may at the same instant touch e and g, the ends of the lines given. I say
+that b d, and b e, the portions of the continued lines, cut or intercepted
+between the corner b, and n, m, the corners of the instrument, are the two
+middle lines continually proportional between e b, and b g, the two lines
+given. The words of Daniel Barbarus at the 3 chap. of the ix book, are these:
+Coniungantur in b, ad rectum angulum duae rectae, inter quas duae comparabiles,
+ac ratione pendentes medias vis inuenire. Esto b g, mayor: e b, minor: vtrag,
+vero extra angulum b producatur: Mayor, ad d: minor, ad c: and ad duos rectos
+angulos, vnum in c; alterum in d: in suis respondentibus lineis. Estoque
+angulus vnus, g c d; alter c de: Aio inter duas datas c b, and b g, esse duas
+medias comparabiles inuentas: bd, scilicet, and b c. Quoniam posuimus angulum e
+d c rectum: etc d aequedistantem ipsi c g; Ideo sequitur, ex 29 e j, angulum g
+c d, rectum esse: and aequalem angulo c d e, quem similiter rectum esse
+posuimus. Sed a b, ex constructione supra c b e, ad rectos cadit, similiter c b
+perpendicularis est ipsid bg. Ex corollario itaque 8 e vj, b d est comparabilis
+illi quae cadit inter c b, and b c: Pari quoque ratione b e, est media inter b
+d, and bg. etc. Vide page 276 and 277.
+
+That d b, and b e, are continually proportional to c b, and b g. Continua
+proportio est, in qua idem terminus pro secundo and tertio sumitur. A
+continual proportion is that where the same bound, is taken for the second and
+third: 8 e 2 c ij Salig. But here d b: and c b, the several mean bounds, are
+each of them taken for two: 10 A plum-line falling from a right-angle upon the
+base, is the mean proportional between the portions so made: 1 c 4 c viij R.
+But e d c, being a right-angle (ex thesi and fabrica) and d b falling plum upon
+e c, cutteth the portions e b, and b c. Therefore d b is the mean
+proportional between e b, and b c: that is, as e b, is to db, so is bd, to
+bc.
+
+20 A plum-line falling, etc. 1 c 4 e viij R. But d c g being a right-angle;
+and c b falling upon d g, does make the portions d b, and b g. Therefore c b,
+is the mean proportional between d b, and b g: that is, as d b, is to b e:
+so is b e, unto b g.
+
+
+
+Therefore d b, and b e, are continually proportional between c b, and b g,
+the two lines given. That is, as c b, is to d b; so is d b, unto b e: And as b
+d, is unto b c; so is b c, unto b g. quod erat demonstrandum.
+
+Thus you see, that that which was then so difficult, how easily it is now to
+be done, and that by many and sundry manner of ways; and yet neither of these
+do satisfy the Geometrician: The reason is, for that, as Pappus Alexandrinus
+says, those authors quod natura solidum est, Geometrica ratione innixi,
+construere non potuerunt. Instrumentis enim tantum ipsum in operationem
+manualem, and commodam, aptamque constructionem mirabiliter traduxerunt.
+Because, says he, those authors, although they have all showed how to do this
+wonderfully fitly and well; yet all of them have done it but mechanically
+only, by the help of certain instruments, none of them yet having found how
+it may be done geometrically.
+
+4 The Solid number of a Cube, is called a Cubicke.
+
+5 A Cubicke number is that which is made by multiplying of any number given
+into his quadrate.
+
+A Quadrate number is a number that is made by the multiplication of a number
+in it self. Therefore a Cube is a number which is made by the multiplication of
+three equal numbers; or, a Cubicke number is that which is made by the
+multiplication of any number by it self, and again, by the multiplication of
+himself into the said product. As for example, 2 by 2, do make the quadrate 4:
+Now 2 by the said 4, do make 8, a Cubicke. Of this number, Martianus Capella
+thus writes: Octonarius numerus, primus cubus est, and perfectus, Vulcano
+dicatus: Nam ex primo motu, id est, Diade, quae Iuro est, constat. Nam dias per
+diadem, facit tetradem: At bis ducta, facit octadem. Perfectus item, quod a
+septenario tegitur. Omnis enim Cubus sex superficies habet. Item, Ex imparibus
+consecutis impletur. Nam primus imparium trias, fecundum pentas, ambo octadem
+faciunt. Item, Cubum, qui a triade venit, id est, 27, sequentes impares
+reddunt, id est, heptas, enneas, and 11: qui omnes faciunt 27. Item, Tertius
+Cubus, qui a tetrade venit, id est, 64. Nam quater quaterni sunt sedecim. Hoc
+quater, 64 fit. Et hic ex imparibus quatuor, qui supcriores sequuntur, id est,
+13, 15, 17, 19, fiu^t simul 64. Et sic omnes Cubi per imparium incrementa
+inueniuntur, sui duntaxat numeri. Sane hic octonarius Cubus, it a omnium
+Cuborum primus est, vt monas omnium numerorum. Cubus autem omnis etiam matri
+Deum tribuitur: Nam ideo Cybele nominatur. Thus far Capella. This rule is
+conceived in few words thus: Digestis a ternario imparibus, si duo priores;
+postea tres; deinde quatuor, etc. coniungantur, Cubos proferunt: that is, If
+odd numbers digested according to their natural order, be added, (an unity
+only, which is of it self a Cube, excepted) first two; then three; then
+four, etc. they shall make the Cubes naturally following one another, thus: ^
+1 Therefore look of how many unities the radix or side of any Cube does
+consist, of so many odd numbers is the same Cube composed and made. Item,2 If
+the first figure (I mean that on the right hand) of a Cube given, be an odd
+number, the number of odd numbers whereof it was made, is odd: If it be an
+even number, the number of odd numbers whereof it consists, is even. Item,3
+If a Cube do multiply a Cube, the product shall be a Cube; and the side of that
+Cube shall be the product made by the multiplication of the sides of the Cubes
+given. As for example, Let the two Cubes given be 8 and 27; whose sides let
+them be 2 and 3: Now let 8 multiply 27, and let the product be 216: I say the
+side of the Cube 216, is 6, which is the product of 2 by 3. Thus have you an
+easy way, by the help of the xiiij Chapter of the second book of Salignacus
+his Arithmetic, how to find out the cube of any place, and the fide thereof,
+without any farther ado, only by the help of one multiplication. Now the
+sides of cubes less then 1000, being single figures, to wit, what cube is made
+of every single figure multiplied in it self cubically, and what the side of
+every such cube is, must first be known before we go any farther: That is done
+by this table: ^
+
+6 If a right-line be cut into two portions, the Cube of the whole line shall be
+equal to the Cubes of the segments, and a double solid thrice comprehended of
+the quadrate of his portion, and the other portion.
+
+The general invention of a Cube, both Geometrical and Arithmeticall, was
+showed at the former proposition: The special or particular invention of the
+same is diverse and manifold by numbers continually proportional and out of the
+cubes themselves, as Euclid teaches, of whom thou may learn, if thou shall
+think the fruit of that knowledge may counteruaile thy travel. Analysis
+quadrati lateris, The extraction of a square root, as they call it, has in
+Euclids Geometry a proper element, theoreme, or rule, teaching how to perform
+it; but the extraction of a cubicke root has not any at all: Notwithstanding
+according to that of the square by him laid down, it is not difficult by
+analogy to make one, whereby the root also of the Cube may be found. The
+proposition therefore according to that analogy, teaching this skill, is thus
+laid down by Ramus: If a right-line be cut into, etc.
+
+As for example, Let the side or root 12, be cut into two portions, 10 and 2:
+I say the Cube 1728, made of 12, the whole line, is equal to 1000, and 8, the
+cubes made of 10 and 2, the said portions: and two diverse solids, whereof the
+first is 600, comprehended thrice of 100, the square of 10, his segment; and of
+2, the other segment: The second, 120, which is thrice comprehended of 4, the
+square of his segment 2, and of 10 the other segment. But the frame and making
+of the whole cube, will make the matter more plain and easy in one example,
+to wit, how the outter and mean solids are made. Let therefore a cube be made
+of 12, 12, and 12, three equal sides: and first let the second side be
+multiplied by the first, thus: ^
+
+Let not the products 24, and 120, be added together; but let the other side
+multiply them severally, and then add the several degrees by themselves,
+thus: ^ Or thus, ^
+
+This is the making the Cube of the whole line: Now the making of the same
+according to the former division of the said line, is thus: ^
+
+But in this manner which follows, of our invention, the particular solids, in
+this kind of making the cube of the several segments, do more plainly
+appear, then in that practiced by Ramus: as these examples do show. ^
+
+Now that we may apply this example unto our rule, add the solids of the same
+kind and quality together, that is, 40, 40 and 40, together: Item, 200, 200
+and 200 together, and add the sums of them, 120, and 600, unto 1000, and 8,
+the cubes of the segments, and the sum 1728, shall be equal unto 1728, the
+cube of the whole line. ^
+
+If any man shall think this rule to be true only in this case where the line
+is divided according to the nature of the number, thus consisting of two
+digits, as they call them, he is deceived: For the same effect will fall out,
+howsoever the line shall be divided. Let therefore the same number first be
+divided into two other segments unequal between themselves, to wit, into 8
+and 4. ^
+
+Secondarily let the fame line be cut into two equal segments, to wit, 6, amd
+6. ^ Therefore, if the right-line given be cut into two equal segments, the
+several solids of the segments shall be equal unto the Cubes that are also
+equal between themselves, that is, there shall be eight solids all equal one
+unto another: or, that which is all one, the solids are the same with the cubes.
+
+Therefore
+
+7 The side of the first particular Cube, is the one side of the second solid,
+and the square of the same side is the other side of the first solid, whose
+other side is the side of the scond Cube; and the square of the same other
+side, is the other side of the second solid.
+
+In this equalling then of four solids with one solid, there is to be observed
+a singular kind of frame and composition: First, that the last cube be made of
+2, the last segment: Then, that the second solid made of 4, the square of 2 his
+segment, and of 10, the other segment, be thrice taken. Again, that the first
+solid made of 100, the square of 10 his own segment, and of 2 the other
+segment, be also thrice taken. Lastly, that the cube 1000, be made of 10, the
+greater segment. Out of this frame or making of a Cube, the contrary Analysis
+or resolution of the same is derived, out of the mutual combination of the
+Cubes with the solids, such as we have before showed in the Analysis of a
+square. For here, although a solid be named only, yet there are two sides to
+be considered: because that the one is compound and plain. Therefore 10, the
+side of 1000, the first cube, is the key for the opening of the two solids and
+cube following. For it is the one side of the second solid, to wit, thrice
+comprehended of it and of the square of the second segment. Again, 100, the
+square of the same side 10, is the one side of 600, the first solid, to wit,
+thrice comprehended of this quadrate 100, and the other segment 2. Item 2, the
+other side of the first solid, is the side of the next cube. And lastly, the
+square of 2, the same side, is the other side of the second solid. By this
+means then, the great variety and difficulty of this business is unfolded,
+like as was done in the square. For when you have found the sides of the
+several cubes, then have you withal also found the side of the whole cube:
+For although the whole Cube be greater then the cubes of the parts; yet the
+whole side is equal to the sides of the several cubes: For we use the solids
+that are considered between the cubes, only as a means to find out the side
+of the following cube. Thus much concerning the true form of analyzing or
+resolving of a Cube: But because this may seem somewhat difficult and hard
+unto a learner, out of this proposition we have framed another, which does as
+it were more distinctly express and point at every particular in this practice.
+
+8 If the side of any greater Cube shall be sought, thou shall from the
+right hand toward the left distinguish the number given into perfect periods,
+for so many particular Cubes: Then having found the side of the first
+particular Cube, thou shall set it down within the quotient: Again, having
+squared this side now found, thou shall treble the product for the base of the
+first solid; but for the height or other side of the second solid, thou shall
+only square it. Lastly, the first solid divided by his base, the quotient
+shall be the side of the next following Cube.
+
+As for example; Let the side of the cube 1728, be sought. I. Here first
+beginning at the right hand, I distinguish it into perfect periods, that is,
+into three degrees thus: 1, 728. Now because after this distinction it
+appears, that our number given is a compound period, composed of two single
+periods; therefore by the former rule I say that the whole consists of two
+particular cubes. II. Secondarily, the first particular cube being 1, I seek
+his side amongst the cubes of single figures, at the 5 e, and I find the side
+to be 1: that I set down therefore in my quotient. Now, as the manner is in
+division, I set down 1, the cube of this quotient or side, underneath the
+first figure of the number given: Item, subtracting the one out of the other, I
+cancel all the figures of the number given, setting the remain, or the whole
+next period, above the head right over their degrees. III. Thirdly, I square 1,
+the side found, and I make 1, which I treble for the base of the first solid,
+and I make 3: by this base, or treble 3, I divide 7, the first solid or first
+complement; the quotient 2, I place in the quotient for the side of the
+succedent cube: By this quotient 2, I multiply 3, the Diuisour, and I make 6
+for the first solid: Then by 4, the square of the same quotient, I multiply 3,
+the treble before reserved; and I make 12 for the second solid: Thirdly, I
+multiply 2, the quotient cubically, and I make 8: Fourthly, placing all these
+products in their true places, just one degree behind another, so that the
+first solid be placed in the first degree; the second solid one degree farther
+toward the right hand: the cube one degree farther then that, or next of all to
+the right hand, in this manner:
+
+Again, they being thus placed, I add them, and I find the sum 728: Now this
+sum I subtract from the remain 728: Lastly, because after subtraction there
+remains nothing, I say, that 1728, the number given, is a cubicke, and the
+side of it is 12. The example of this practice is thus: ^ But here observe, for
+that the first solid (or complement) is the third degree from the second cube;
+and the second solid, the second or next unto the same; therefore unto the
+first solid I add two siphers, and unto the second but one: For these figures
+do so guide the practitioner, that he cannot easily err in the addition of
+them. Or thus, as Salignacus an excellent artist, sets it down. Let the
+side of the cubicke 389017, be found. Here first, because that 389 is not found
+amongst the cubes at the 5 e, that is, because that 389 is not a cubick number,
+therefore I take 343, the next lesser cubicke before it, whose side 7 I place
+within the quotient. II. Then taking 343 out of 389, there do remain 46:
+Therefore here the two complements with the second cube, are 46017. III. This
+done, I square 7 the side found, and I make it 49. IV. This square I treble,
+and I make 147, for the base of the first complement. V. Again, I treble the
+side found, and I make 21 for the height of the second complement. VI. Lastly,
+dividing 460, the first complement by 147 his base, I find the quotient 3,
+which I set down in the quotient, for the side of the second cubicke.
+
+For the proof of this work or practice, First we multiply the quotient in it
+self cubically: Secondly, we multiply the height of the cube by the base of
+the first complement: Thirdly, we multiply the base of the same cube, by the
+height of the second complement: Fourthly, we add all these products together:
+Lastly, we subtract the sum found, out of the upper number. As for example: I
+cube 3, or multiply it in it self cubically, and I make 27. Now the height of
+this cube is 3; the base is 9: Therefore I multiply 3, this height of the cube,
+by 147, the base of the first complement, and I make 441. Again, I multiply 9,
+the base of the said cube, by 21, the height of the second complement, and I
+make 189. Now I add all these products, and the sum is 46017: which sum
+subtracted out of 46017, the upper number, nothing remains. Therefore if you
+shall square 73, the quotient; and then shall multiply this square by the same
+73, thou shall make the cubick 389017. For the cubes of the segments 70, and 3,
+with the two complements now found, are the parts of the cube that is made of
+the whole 73; as may easily be tried by that which we have taught in the
+former. Briefly then, and in this order is this whole work to be done. Let the
+example be the cube 1728. I. By the 5 e, I find the side of the cubick 1, to
+be also 1, which I set down in the quotient. II. This quotient now found, I
+treble, and I make 3. III. Again, this treble I multiply by the said quotient,
+and I find 3 also for the Divisor. By this Divisor 3, I divide 7, the first
+complement or solid: and I find the quotient 2 for the side. IV. Now by this
+quotient I multiply the Divisor 3, and I make 6, for the first complement:
+Therefore to it I add two ciphers, and I make 600. V. Again, I square the
+quotient 2, that is, I multiply it by it self, and I make 4: This 4, I
+multiply by the treble 3, and I make 12, for the second complement: Therefore I
+add to it one cipher, and I make 120. VI. This done, I multiply the same
+quotient 2, in it self cubically, and I make 8. VII. Lastly, placing all these
+orderly one under another, I add them, and I find the sum 728, which
+subtracted from 728 the number remaining, nothing is left: Therefore I say that
+1728 is a cubicke.
+
+9 If, having found the quotient of two or more figures, as yet the whole side
+of the Cubicke given be not found, then for the finding out of the quotient
+following, thou shall square the whole quotient now found for the base of the
+next complement; and shall treble the same square; and then shall in all things
+follow the prescript of the former rule, the whole side shall be found.
+
+Suppose the side of 34, 012, 224, were to be sought: Item of 320, 013, 504:
+The examples would be thus: ^ ^
+
+Sometimes after that you have found the cubicall side, I mean, having
+subtracted the cube of the first period, there will remain in the next places
+neither solid nor cube. Therefore in this case unto the side found, you shall
+adioyne a cipher, as in this cube 8120601(201.
+
+If the second side of the first complement be greater then the side of the
+cube following, then the solid divided did contain a part of the second
+complement: And therefore that side must be diminished, as in the cube 17, 576,
+the first side shall be 2; then if thou shall make the second side 7, as it
+seems at the first view it should be, thou shall make the second side of the
+first complement greater then the side of the cube following. Therefore that
+side must be taken less, and for 7 I take 6, and so thou shall find the true
+side of the cubicke given to be 26. The example is thus: ^
+
+This is the general and common way of finding of the side of any cubick
+whatsoever, though never so great. Thus also parts, whose bounds are cubicall
+numbers, may be resolved into lesser bounds, by finding out of the sides of the
+same bounds; As 8/27 by this means are resolved into, And 1782/2197, into
+12/13.
+
+In parts (fractions they commonly call them) there is also a kind of cube.
+For if fo be the number given be not a cubick, then it has no side that may be
+expressed in numbers; and yet the true side of the greatest cube contained in
+any number given, may be found: As in this number 17, 616, which is not a
+cubicke, the greatest cubicke is 17, 576, and the side of it is 26, and there
+do remain, over and above the cubicke, 40. Therefore, there cannot possibly
+any side of a number that is not a cubicke, be found so near, but it is
+possible to find one more near; as is also before taught of the Quadrate.
+There are also here two manner of ways of finding out a cubicall side in such
+like numbers very near to the true side, such as were before showed in the
+quadrate. The first subducteth the two complements and the last cubick,
+contained in the next greater cubicke above it; whereby may be understood the
+difference of two continual cubickes, like as before the difference of two
+quadrates was understood. For here there is to be understood a certain
+cubicall Gnomon or squire, which you may conceive to be made of three plains
+or sides of the cube, as before you conceived the squire or gnomon of the
+quadrate to be made of two sides of the quadrate. So in this example 17, 616,
+where the side is 26, and there do remain 40, of the cube next following, thou
+shall divide 27, the next greater cubicke, into 26 and 1, and, as before thou
+have learned, thou shall make two complements and one solid of them. The first
+complement 676, made of the square of 26, the one segment; and of 1 the other
+segment; which being thrice taken, shall be 2028. The second complement is 26,
+comprehended of the square of 1, the one segment; and of 26, the other segment:
+which being thrice taken, do make 78. Now the cube of 1, is 1. This done, add
+all these, and the sum 2107, shall be the denominator of the fraction sought.
+The parts therefore to be added unto 26, the former side, shall be 40/2107. So
+that the whole side of 17, 616, the number given, somewhat near unto the true
+side, is 26 40/2107. Whereby it is to be understood as above in the quadrate,
+that look how much the numerator 40, does want of 2107, so much the cubicke
+given does differ from the next cubick above it. And therefore if you subtract
+40 the numerator, from 2107 the denominator; and shall add the remain 2067,
+unto 17,616, the cubicke given, the whole shall be 19,686, the cubicke of the
+side 27.
+
+The second way is by parts of some great denomination, so as it be understood
+that they be cubicall parts, that their side may be certainly known before. As
+for example, the same number 17,616, reduced unto one hundred cubicall parts,
+that is, unto 1,000,000, do make 17,616,000,000, for the numerator. The parts
+then are thus; 17,616,000,000/1,000000. Now the side of the numerator is 2,601,
+for the numerator of the one hundred parts given: (For the former denominator
+being made by the multiplication of 100, by it self cubically; the root or
+side of it must needs be 100, for the denominator of the parts sought.)
+Therefore the parts desired are 2,601/100, that is, by reduction 26 1/100, and
+besides that, there do remain 19,712,199, which cannot add so much as 1/100
+part unto the side found; because that the difference of this cubicke from the
+next greater above it, is greater then this remain: And therefore that remain
+is neglected, as not of any moment. Thus far of the extraction or finding out
+of a cubicke side or root.
+
+10 The two complements are the two means continually proportional between
+the two cubes: that is, as the greater cube is unto the greater complement; so
+is the greater complement unto the lesser: and so is the lesser complement unto
+the lesser cube.
+
+As for example, Let the whole cubicke be 1728. Here the two several cubes,
+let them be 1000, and 8. The greater complement let it be 200, and the lesser
+40, as we have showed at the 6. p. Here I say 200 and 40 are the mean
+proportionals between the two cubes 1000 and 8: That is, as 1000 are to 200,
+so are 200 to 40; and so are 40 to 8. The cause of this is manifest by the 5 e
+xxij R, which teaches, that, Solids that are alike, have a trebled reason of
+their correspondent sides; And also they have two mean proportionals
+comprehended of the cross multiplication of the base and height of the
+extremes: 19 p viij E. But the two complements here are contained of the base
+and height of the extremes crossely multiplied. Therefore the two complements
+are the mean proportionals between the two cubes, that is, the two extremes.
+
+11 If four numbers be continually proportional, the products of the extremes
+by the each other squares, shall be the cubes of the middle numbers: to wit,
+the greater of the greater; and the lesser of the lesser. Iordanus 57 p 6, of
+his Arithmeticke.
+
+Let 16, 24, 36, and 54, be four numbers continually proportional: And let
+the quadrate of 16, be 256; of 54, be 2916. Again, let the product of 16, the
+lesser extreme, by 2916, the square of 54, the greater number, be 46,656. Item,
+let the product of 54 the greater extreme, by 256, the square of 16 the lesser
+extreme, be 13,824. Here I say, the side of 46,656, the greater cubicke, shall
+be 36: and the side of 13,824, the lesser, shall be 24, as may be proved for
+experience, by the former. The example is thus: The product of the greaters
+square by the lesser extreme, ^ The product of the lessers square by the
+greater extreme: ^
+
+Now the side of 46, 656, the greater, is 36; of 13, 824, the lesser, it is 24.
+But 24, and 36, are the middle numbers of the four number: Therefore, If four
+numbers be continually proportional, the products of the extremes by their each
+other squares, are the cubes of the mean.
+
+This rule then, as you see, is a kind of Mesolabium, that is, a way to find
+out the middle numbers, or mean proportionals: whereby I mean, the extremes
+being given, the mean proportionals are easily found.
+
+Any two numbers are thus in the manner of solids alike between themselves,
+conceived, as often as between them two mean continually proportional, are
+sought. But many times these middle numbers, the cubicall sides of the products
+of the extremes by the each other quadrates or squares, are surd numbers, as
+they call them, that is, such as cannot be expressed by arithmeticall numbers,
+but by such characters as are devised by the Algebraists.
+
+Many other rules might hither be added, but we especially in this place regard
+such as may any kind of way help, either to the understanding of this present
+argument of extraction of the square and cubicke root; or may be of use for
+the making of our Mesolabium architectonicum, or Carpenters rular.
+
+12 The product made continual of three numbers continually proportional,
+shall be the cube of the mean or middlemost number. 36 p 11 E.
+
+Let 4, 6, 9, be three numbers continually proportional: And let them be
+multiplied continually between themselves: 216, the product so made, shall be
+the cube of 6, the middle number. This proposition, says Schoner, is a kind
+of golden rule in solids, by which having the one of the extremes of the three
+proportionals given, with the solid made of them all multiplied between
+themselves continually, the rest are also given. As for example, Let 216 be the
+solid given, made after this order of three proportional numbers, and let 4 be
+the one extreme given. Here I say, the middle number by this rule shall be 6.
+For the Cubicke root of 216, is 6. Now the product of 4 by 6, is 24; and the
+quotient of 216, by 24, is 9, the third or greatest extreme. Or, the product
+of 6 by it self, is 36. Now 36 divided by 4, does yield 9, for the other
+extreme. For, if three numbers be continually proportional, the product of
+the middlemost by it self, shall be equal to the product of the two extremes
+by themselves, by the rule of proportion. Therefore, if one of the extremes
+given shall divide the product of the middlemost by it self, the quotient
+shall be the other extreme that was desired.
+
+13 Having found the one of the mean proportionals, the other also shall be
+found, if the mean proportional given be multiplied by the extreme that is
+farthest from it, the root of the product shall be the mean proportional
+desired.
+
+As for example, Let 32, 16, 8, 4, be four proportionals given; and suppose
+that the third bound were not known. Here therefore I multiply 16 by 4, the
+extreme that is farthest from it, and I make 64: Now the square side of 64, by
+the 5 ej, is 8, the third proportional sought. Item, suppose that 16, the
+first of the two mean proportionals were unknown; Here 8 shall multiply 32,
+the first bound; not 4, the last; because that is farthest off from it: The
+root of 256, the product, by the ej, is 16. This root is the first mean
+proportional of the two, between 32 and 4, the extremes given.
+
+CHAP. V. Of the measuring of Timber by the Foot.
+BY the Foot we do also measure Timber: but Timber being a solid body of three
+dimensions, to wit, length, thickness and breadth; by a foot of timber we
+understand here a cube of 12 inches square, as they call it: (For here they
+abuse the word, as also some even of the learned have done, as before we have
+showed:) That is, a foot of timber does contain 1728 square inches. Here
+therefore commonly two dimensions are given, to wit, breadth and thickness:
+the length is sought. If then the square timber to be measured be 12 inches
+thick, and 12 inches broad; there is no question of the length: For every 12
+inches of that piece shall make a foot of timber. But if the breadth and
+thickness do vary never so little from these two cases nominated by the
+statute, although they vary no whit one from another, that is, although the
+breadth be equal to the thickness, here presently rises a question, what the
+length should be (according to that breadth and thickness) that must make a
+foot square, or that must be equal to that piece which is 12 in length, 12 in
+breadth, and 12 in thickness. Yet this every one can do, that knows ought
+in this business: For the Carpenters have upon their Rulars, or upon some
+piece of paper or parchment, all the square measures set down, from 1 inch
+square, unto 24, 36, or 40 inches square. But if the breadth and thickness be
+different one from another whether little or much, this is not only
+troublesome and unready, as the former, but very false and erroneous, as some
+of their own company have truly noted. For that of the squares, was made, as
+seems, by some skillful in the Mathematics; but their practice in the latter
+case, is deceitful, false, and wholly against the rules of Geometry, and can
+no way be justified Now because that all men that have occasion to use this
+skill of measuring, do not understand how these tables or rules are made: as
+also for that the same being copied out often times by unskillful men; I think
+it not amiss here to set down by the former grounds, as we have done before
+for boord-measure and others, the manner of calculating and making of the same:
+and that especially because that these tables tend directly to the making of
+our Rular, which is the chief cause that first moved me to undertake this
+labor, or to write of this argument. The Rule therefore whereby this is
+performed, is thus: If by the product of the breadth and thickness given, thou
+shall divide the cube of 12, (that is, 1728) the quotient shall show the length
+required to make a foot of timber. The forms of timber which commonly are to
+be measured of Carpenters, are long squares (such as the Geometers call
+Parallellepipida oblonga) or Rounds, otherwise called by them Cylinders, which
+the vulgar sort of carpenters do also account, as we have showed, amongst the
+number of squares, whose breadth and thickness are the same. A foot square (a
+cubicall foot I mean) says our statute, as we have before taught, must
+contain 1728 square inches. If therefore the breadth and thickness be greater
+or less then 12, the length shall be found by the prescript of the former
+rule. Suppose, for example, that a piece of squared timber were to be measured,
+whose breadth and thickness are equal, yet greater then 12 as namely 16
+inches: Here I multiply the breadth by the thickness, that is, 16 by 16; and I
+make 256. By this product I divide 1728, and I find the quotient 6: Therefore I
+say, that every 6 inches, and three quarters of one inch, shall, of that
+breadth and thickness, make a foot of timber, according to the intention of
+that Statute.
+
+Item, suppose the piece to be measured, whose breadth and thickness is
+equal, were 6 inches square, and it were demanded, how much of that in length
+would make a foot of timber? R. The product of 6 by 6, is 36: Now the quotient
+of 1728 by 36, is 48. Therefore I say, that 48 inches of that stick are
+required to make a foot of timber.
+
+Now suppose the breadth and thickness were unequal; as for example, first
+let the breadth be 18, and the thickness 12: here the product of 18 by 12, is
+216; and the quotient of 1728 by 216, is 8: Therefore I say, every 8 inches of
+that piece of timber shall be equal to a foot of solid measure.
+
+Admit a planke or table were to be measured after the manner of timber measure,
+whose breadth is 36 inches, and thickness 4: how much in length fhall make a
+foot of solid timber? R. The product of 36 by 4, is 144. And the quotient of
+1728, by 144, is 12, the desired length. Thus then a Table for solid or timber
+measure is to be made, like unto those which we have before showed for board
+and land-measure. Only this is to be observed, that this table is only of
+such pieces as are square, that is, of such whose breadth and thickness are
+equal; although it may also be extended and made for all, if need so require.
+
+If beginning at an unity, and so ascending upward unto the greatest, thou
+shall divide 1728 by the square of any number asigned, and so forth, the
+several quotients placed against the number given, shall make the table of
+timber measure. As for example, The square of 1 is 13 and the quotient of 1728
+by 1, is 1728. Item, the square of 2 is 4; and the quotient of 1728 by 4, is
+432. Lastly, the square of 12 is 144, and the quotient of 1728 by 144, is 12,
+for the length desired. The Table then for square measure, that is, for the
+measuring of such timber where the breadth and thickness are equal, is thus. ^
+
+The use of this Table is easy out of the former: only this difference is to
+be observed, that because plains have but two dimensions, therefore one
+dimension given there was sufficient for the finding out of the other unknown.
+But here, for that solids have three dimensions, two (to wit, breadth and
+thickness) are required for the finding out of the third desired. Yet now
+again, seeing that here the said two dimensions given, are equal one to
+another; if you shall with either of the dimensions given, enter the first
+column of the Table, the column on the right hand shall yield the length
+desired. As for example, Admit a timber stick to be measured were 4 inches
+square, that is, were 4 inches thick, and 4 inches broad; I demand, how much
+of that stick in length, shall be required to make a foot of solid measure.
+R. Here because 4 is equal unto 4, that is, for that the breadth and
+thickness are equal, I enter the column on the left hand with 4, and I find
+answering to it, in the column on the right hand, 9f: Therefore I say, every 9
+foot in length, of that breadth and thickness, shall make a foot of solid
+measure; The product, I say, made continually of 4, 4, and 108, shall be equal
+to the product continually made of 12, 12, and 12; that is, the product
+continually made of 4, 4, and 108, shall be 1728, thus: ^
+
+Item, suppose a timber stick to be measured were 16 inches square. The
+column on the right hand answering to 16, gives 6i: Therefore I say, every 6
+inches, and 3 quarters of an inch in length, of that breadth and thickness,
+shall make a foot of solid measure.
+
+Again, admit it were 48 inches square: what length shall be required to make
+a foot of solid measure: R. Here 48 is greater then any number contained in the
+column of breadth, on the left hand: Therefore I take 24, the half of 48, and
+with that entering the Table, I find 3j to answer for the length desired. But
+here observe, 24 as it is but the half of 48i, the breadth: so is it also but
+the half of the thicknes, which is supposed likewise to be 48i. Therefore 24
+is but the one quarter of both the assigned: Wherefore I say that 3i in length,
+of that breadth and thicknes, shall contain 4 foot of solid measure.
+
+Lastly, admit a pillar were but half an inch square: Here I find no number
+amongst the breadths of the left hand so little as: Therefore I enter the Table
+with 1i, the double of, and I find for the length desired 144f. But here
+because 1i, the breadth, is twice so much as i, the breadth given; and is also
+twice so great as the thickness, which is supposed to be equal to the
+breadth. Therefore 144f, or 1728i in length, shall contain but of a foot of
+solid measure: or every 576f in length, of that breadth and thicknes, shall be
+equal to the cube of 12i.
+
+Having finished the former Table for timber-measure, and knowing it to be
+serviceable in those cases only where the two dimensions given are equal one
+to another, I bethought me of a Table more general, for the measuring of all
+sorts of squared timber whatsoever. That this might be done, I doubted not; but
+that it might be done in few words, or within so little a compass as here thou
+see, I knew not until I had made trial: And having contrived it, in the
+manner of Pythagoras tables, into a triangular form, like unto that musical
+instrument which Swidas, as I remember, calls Trigonum musicum, I thought
+good to name it of the form and use, Trigonum architectonicum, The Carpenters
+squire. Now that by this Table all those foul and gross errors are avoided,
+which in measuring of timber are by the common sort of workmen committed, that
+is, that by this our Table the Carpenter may not only measure all sorts of
+squared timber most exactly and truly, but also more easily and speedily then
+by any way commonly practiced or published; besides that, it is demonstrable
+out of the grounds of these arts, every man of mean understanding, that shall
+please to compare them, shall be able to testify with me.
+
+The making of this Table is in a manner the same with that of the former: the
+difference only is this, that there 1728, the cube of 12, was divided only by
+the square of every several number given: Here the same cube is to be divided,
+not only by the square, that is, by the product of every such number by it
+self, but also by the products of every such several number by any other
+assigned whatsoever. Now it is manifest, that the quotient thus found (which
+answers unto the third dimension sought) is to be placed in the common angle
+or meeting of the columns of the two dimensions given, that is, of those two
+numbers, by whose product this quotient was found.
+
+First therefore having made a right-angled triangle, I place the numbers given
+upon the sides without the same: These two ranks of numbers answering (as we
+have said) unto the two dimensions given, the one of them at the top begins
+with the greatest of the numbers given, and ends at the right-corner with an
+unity: The other running along underneath the triangle, begins at the same
+right corner with the greatest, and ends with the least. These numbers also,
+for the better help and guide unto the eye, may also be placed upon the
+hypotenusa, or slanting side of the triangle which is opposite unto the said
+right-corner. This being done, I begin either at the greatest or least numbers,
+it skilleth not whether, and I find the numbers for the third dimension, as
+before is taught, which I place within the triangle in their several columns,
+as the factors shall appoint. As for example, beginning at the greatest, I
+multiply 24 by 24; and with 576 the product, I divide 1728, and I find 3,
+which I place within the triangle in the first column against 24, etc. Again,
+I multiply the same 24 by 23, and with the product 552, I divide 1728, and the
+quotient 3 72/552 (or 3 3/13, being reduced unto parts of the least
+denomination) I set in the same first column against 23. In like manner I
+multiply 23 by 23; and by the product 519, I divide 1728, and I find 3 ^,
+which I place in the second column from the right hand, against the same 23 on
+the outside. Item, thus I multiply 22, first by 24; then by 23; and lastly by
+22; by the products still dividing the same 1728, I set the quotients in their
+several places. Thus dealing with all the numbers on the right hand of the
+Triangle, until thou come unto 1, the lowest on that side, the Table shall
+be made.
+
+The use of the Table in Timber-measure.
+This Table, as the Title shows, serves generally for the measuring both of
+Plains and Solids by the foot. Now Solids, such as Timber and Stone are, have
+three dimensions, to wit, breadth, thickness and length. Of these, two,
+breadth and thickness, are given: The third, I mean length, is sought. Here
+therefore, Seek the one of the dimensions given amongst those numbers on the
+outside of the Triangle, which at the top begin at 24, and so descend to 1: The
+other seek amongst those at the base underneath the same: The space within the
+Triangle, to which these two do point, shall show the length desired. As for
+example, Suppose a piece of squared timber were 12 inches broad, and 12 inches
+thick: In the common angle, or meeting of these two numbers, next to the
+beuelling or slanting line of the Triangle, I find 12 for the length desired.
+Again, suppose the breadth of some stone to be measured were 18 inches, and
+the thickness 6. These numbers do show the length desired to be 16 inches: Not
+12, as the vulgar rules do teach.
+
+In Boord-measure.
+In board: measure, only breadth and length are considered: Therefore here,
+The breadth given, is sought sometimes amongst those numbers on the outside
+upon the righthand: Sometimes amongst those underneath the same, as occasion
+shall serve: For it must so be taken, that it may meet continually with 12. An
+example or two shall-make all plain: Suppose a board were 9 inches broad;
+here I seek 9 amongst those numbers on the right hand: The common angle or
+meeting of this with 12, of those numbers at the bottom, does show that 16
+inches is the length desired. Again, suppose it were 18 inches broad; here no
+number on the right hand, greater then 12, can meet with 12, in the
+vnder-ranke: Therefore I seek 18 amongst those of the lower rank; And I find
+the common angle of 18 of this rank, and of 12, of the numbers amongst those on
+the right hand, to give 18 inches for the length desired.
+
+If any man shall desire that the fractions should be made more serviceable for
+the use of practitioners, it may easily be done if any man will take the pains.
+
+FINIS.
+TRIGONVM ARCHITECTONICVM: OR, THE CARPENTERS SQVIRE:
+that is, A Table serving for the measuring of Board, Glass, Stone, Timber,
+and such like Plains and Solids by the Foot.
+
+^ ^ ^
