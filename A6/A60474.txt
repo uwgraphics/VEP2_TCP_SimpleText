@@ -1,0 +1,525 @@
+OF THE UNEQUALITY OF NATURAL TIME, WITH ITS REASON and CAUSES. TOGETHER WITH A
+TABLE OF THE TRUE AEQUATION OF NATURAL DAYS. Drawn up Chiefly for the Use of
+The GENTRY, in Order to their more true Adjusting, and right Managing of
+Pendulum Clocks, and Watches. By John Smith, C. M.
+
+LONDON, Printed for Joseph Watts, at the Half Moon in St. Paul's Churchyard.
+1686.
+
+A TABLE of Equations, FOR REDUCING The Unequality of NATURAL DAYS TO A MEAN
+and EQUAL TIME. Designed chiefly in order to the more true Adjusting, and right
+Managing of Pendulum CLOCKS and WATCHES. By JOHN SMITH, C. M.
+Day. Janua. Sec Febru. Sec. March Sec. April Sec. May. Sec. June. Sec. July.
+Sec. Aug. Sec. Sept. Sec. October. Sec. Nov. Sec. Dec. Sec. 1 Natural days
+longer than the mean day, and Clocks gain. 24 0 Natural days shorter than the
+mean day, and Clocks lose. 17 Natural days shorter than the mean day, and
+Clocks lose. 17 3 Natural days longer than the mean day, and Clocks gain. 11
+Natural days longer. 7 Not. days shorter than the mean, and Clocks lose. 9
+Not. days shorter than the mean, and Clocks lose. 20 Not. days shorter, Clocks
+lose. 14 Natural days longer than the mean, and Clocks gain. 9 Natural days
+longer than the mean, and Clocks gain. 29 2 23 Natural days shorter than the
+mean day, and Clocks lose. 2 17 16 3 11 7 9 20 14 10 30 3 22 2 18 16 1 12 7 9
+21 13 10 30 4 21 4 18 15 0 12 6 11 21 13 10 30 5 20 4 18 15 0 12 6 12 21 13 11
+30 6 19 4 18 14 Not. days longer than the mean day, and Clocks gain: 1 13 6 13
+21 13 12 30 7 18 5 18 14 2 13 6 13 22 12 12 30 8 17 5 18 14 2 13 5 14 22 11 13
+30 9 16 6 18 14 3 13 4 14 22 10 15 30 10 16 8 18 13 3 13 4 15 21 9 17 30 11 16
+8 18 13 3 13 3 15 21 8 17 30 12 16 9 18 12 4 13 2 15 20 7 18 30 13 16 9 19 12 4
+13 2 16 20 7 18 30 14 15 10 19 11 5 13 1 16 20 6 19 31 15 15 10 20 11 5 13 0 17
+20 6 20 31 16 14 11 20 10 6 12 0 17 20 5 21 31 17 13 12 20 10 6 12 Not. days
+shorter. 1 17 20 4 22 31 18 12 13 20 10 6 11 2 18 20 3 23 30 19 11 13 20 10 6
+11 3 18 19 3 23 30 20 11 13 19 10 7 11 4 19 19 2 24 30 21 10 14 19 9 8 11 4 19
+19 0 24 30 22 9 14 19 7 8 11 4 19 19 0 24 30 23 8 15 19 7 9 10 4 19 19 0 25 30
+24 6 15 19 7 10 10 5 19 18 Longer. 1 25 29 25 5 15 19 6 10 10 5 20 17 2 25 28
+26 4 15 19 5 11 10 5 20 17 2 25 28 27 3 16 19 5 11 10 5 20 16 3 26 28 28 3 17
+19 5 11 9 6 20 16 4 26 27 29 2 19 4 11 9 7 20 15 6 27 27 30 1 18 4 11 8 8 20 15
+7 27 25 31 0 17 11 9 20 8 24 Clocks gain this Month Clocks lose this Month
+Clocks lose this Month Clocks lose this Month Clocks gain this Month Clocks
+gain this Month Clocks lose this Month Clocks lose this Month Clocks lose this
+Month Clocks lose this Month Clocks gain this Month Clocks gain this Month Sum
+Min. Sec. Min. Sec. Min. Sec. Min. Sec. Min. Sec. Min. Sec. Min. Sec. Min. Sec.
+Min. Sec. Min. Sec. Min. Sec. Min. Sec. 6 26 4 29 9 37 5 16 2 47 5 43 0 6 8 23
+9 41 2 20 9 38 15 9
+
+This Table contains those Seconds of Time that each natural Day is either
+longer or shorter than the mean or equal day, or such a one as contains in
+length the just time of 24 hours; from which Mean Day the Natural ones
+differing almost continually in length, this Table shall still give you the
+difference between them, and (by inspection only) inform you what quantity of
+time each natural day is either more than 24 hours long, or less.
+
+Note, That upon each particular day, a Clock that is well adjusted to a mean
+or 24 hour day, shall then either gain or lose just so much time, as that
+natural day is either longer or shorter than the mean day:
+
+Therefore, if a Clock, having been first set right to the Sun the first day of
+any particular Month, shall either gain or lose in that whole Month so much in
+time as the whole sum of Equations for that Month amounts to, (which you shall
+find noted down at the bottom of every particular Column) then is it well
+adjusted to the mean, Equal or 24 hour Day; but if it have not either got or
+lost so much as the whole sum of Equations for the whole time it has gone in
+does amount to, then must its motion be regulated as occasion requires, by
+skrewing up the Bob to make it go faster, in case it has not got enough; or
+else letting the Bob down lower to make it go slower, in case it has not lost
+so much as the whole sum of Equations do amount to for the time it has gone in.
+
+OF THE UNEQUALITY OF NATURAL TIME, etc.
+THE Vibrations of a long and weighty Pendulum, although it be justly esteemed
+to be the most exact and steady of all Natural Motion; yet is it not capable of
+regulating the Index of a Clock to such a pitch of Perfection, as continually
+to point out the same time that shall be given by the Sun on the Lines of an
+exact and true Dial.
+
+The truth of which is sufficiently made evident by the most exact and critical
+Experiments: For, let all the moving parts, of a Pendulum Clock, be contrived
+with the greatest Skill and Judgment, and then made up by the most cunning and
+curious Hand, and after all this be adjusted by the utmost Care and Diligence
+of Man; yet shall not the Motion of it correspond so continually with the Hours
+given by the Sun, but that in some considerable quantity of Time you shall be
+sensible of gain or loss in the Motion of it.
+
+The true Reason of which Variation proceeds not from any Defect that may be
+attributed to the Motion of the Pendulum, (of whose exactness we are by many
+curious Experiments sufficiently sensible;) but rather from an Unequality
+legible and easy enough to be discovered in the diurnal Motions of the Sun.
+
+Vulgarly, for the most part, the Sun is indeed accounted to be the Standard
+and Measure of all equal Time, and Men generally esteem Natural Days to be all
+of one length, as containing the just time of 24 Hours; but upon a more exact
+and curious Scrutiny, these vulgar Suppositions are found to be false: For,
+neither is the Sun's Motion found to be exact, being in appearance to us,
+sometimes swift, and at other times more slow; nor are the Days themselves,
+accounted from Noon to Noon, of equal lengths, some Days containing more Time
+than some, and others less; there being a natural necessity, that the unequal
+Motions of the Sun should produce such inequalities in the lengths of those
+natural Days that are bounded by it.
+
+For a natural Day being composed of that space of Time, in which any one Place
+or Point of the Earth is moved in its diurnal Motion Eastward, from the
+Meridian Sun of any one Day, to that of the next; it will follow, that these
+Days can never be equal, unless the Sun in that space of Time be so moved in
+her annual Orb, as to cut out equal Divisions on the Aequinoctial upon the
+Meridian of every Day; which Divisions so intersected, are by the Learned
+termed, the Right Ascensions: For whenever the Right Ascension either of Sun or
+Star is mentioned, we are to understand by it, those Degrees of the
+Aequinoctial that are intersected by that Meridian, on which either Sun or Star
+have then their place.
+
+But that the Sun between each Meridian does not move such just and certain
+Spaces in her own Orb, as thus to intersect equal Divisions on the Aequi-nox,
+upon every Meridian, needs no other evidence than what either Calculation it
+self affords, or Globes by an occular Inspection demonstrate to us. By
+Calculation, if an exact Table of Right Ascensions be composed, for the
+Meridian, or Noon-time of each particular Day, there will be found almost a
+continual difference in the length of those Intersections that are made by the
+Sun on the Aequi-nox, upon every Meridian; so that there will by this means be
+found nothing but an almost continual unequalness in the Right Ascensions*
+Which will be the more apparent, if you make an Estimation of the Right
+Ascensions of about 10 Days together, and compare that with those of the same
+Number. The like will appear plainly, if tried on the Globe; for if you mark
+out on the Ecliptic any 10, or more Day's Motion of the Sun, according to his
+true place found out in an exact Ephimeris, and passing these 10, or more Days
+motion under the Meridian, noting what Degrees on the Aequmoctial are then
+traced out, which compared with the Degrees traced out, by making the same
+number of Day's Motion in some other part of the Ecliptic, to pass the
+Meridian, and the difference of Right Ascensions included between those two
+equal number of Days will plainly appear.
+
+All which Irregularities, or difference in Right Ascension, proceed from two
+principal Causes: 1. From the different Positions: And, 2. From the different
+Centres of those Orbs in which, and according to which the Sun and Earth do
+move; from whence arises a natural necessity, that between two such regular and
+equal Motions, whose Position is thus oblique, those appearing differences
+should still arise; for though both Sun and Earth, the one in his annual the
+other in it is diurnal Revolutions, be rationally supposed to be regular and
+equal in their own Motions; yet in regard of the different Positions of their
+Spheres, the Right Ascensions that are made by them cannot be equal; it being
+impossible that the Sun, when near Aries and Libra, where he moves cross the
+Equinoctial, should then in any particular number of days make so great an
+alteration in Right Ascension, as he must do near the two Tropicks, where both
+Equinoctial and Ecliptic run parallel one to the other; and accordingly by the
+best Tables of Right Ascension, it is found that the Right Ascensions of 10
+days motion of the Sun near the Tropic of Capricorn, shall arise to above 11
+degrees 30 minutes, whereas that of the same number of days near the
+Equinoctial Point of Aries shall scarcely amount to 9 degrees.
+
+Moreover, from the eccentricity of these Orbs, another irregularity does
+happen in the Right Ascensions, for the Center of the Earth, upon which it
+turns round in it is daily Revolutions, being not the same with the Center of
+the Suns Orb, it follows that the apparent Equinoxes pointed out by an
+imaginary line drawn through the center of the Earth, and intersecting the
+Ecliptic, shall divide that Circle into two unequal parts; from whence it
+arises, that the Sun must spend more days in passing through one half of the
+Ecliptic, than he does in passing through the other; and accordingly by
+experience he is found to move through that part between Libra and Aries in 179
+days, but in passing between Aries and Libra he takes up 186, which is 7 days
+more; so that in that part of the Year between September and March, he seems to
+us to be swift in motion, but in the other part between March and September his
+apparent course is more slow; which seeming swiftness and slowness of the Suns
+motion, is the cause that the Right Ascensions near both the Tropicks are not
+alike, but differ much, as do also those that are nigh the Equinoxes: for the
+Right Ascension of 10 days motion near the Winter Tropic, is more by 60
+Minutes, than that of the same number of days near that of the Summer one; so
+also the Right Ascension of 10 days time near Libra, amounts to above 30
+Minutes more than those of the same number of days near Aries does.
+
+Having thus plainly demonstrated that natural days must needs be unequal, and
+laid down the Causes from whence those unequalities do still arise; I suppose
+it may now be concluded to be extremely unreasonable, for those that are so
+Nice and Curious as some are, to expect an exact correspondence between the
+times given by the motions of a Clock, and those divisions of it that are made
+by these unsteady motions of the Sun on the Lines of a Dial; for if from the
+Reasons before laid down, there be in nature a necessity for those differences
+of Right Ascension before asserted, and that the days which they bound, must
+differ also in length, correspondent to what those differences in Right
+Ascension do amount to; how then is it possible that those exact and regular
+motions of a Pendulum, to what pitch soever it be set, should agree with these
+motions of the Sun, and truly divide those days that are not so regular as it
+self is: For,
+
+Suppose a Clock should be adjusted to the hour at a time when natural days
+are shortest, as about the middle of March, this Clock with the same pitch of
+motion, shall in June or December finish it is diurnal Revolutions sooner than
+the day shall do, by reason the natural days are now longer than those of
+March, to which the Clock had been formerly adjusted; and by consequence it
+shall now gain upon every day, just so much time as these days in December are
+longer than those of March. So on the contrary, if a Clock be adjusted to go
+true with the Sun in the Month of December, at which time the natural day is
+always longest, this Clock when natural days are shorter, as in March or
+September, shall not finish it is daily Revolutions so soon as the day it self
+shall be accomplished, and by consequence go each day so much too slow, as
+those days of March or September are more short than them to which the Clock
+before had been exactly adjusted.
+
+Since therefore there is no tolerable exactness in thus adjusting Clocks to
+the Sun it self, because being thus adjusted at times when days are either
+shortest or longest, their gaining or losing will be the more extreme in the
+contrary parts of the year: for Example; Clocks adjusted to the Sun in March
+shall upon most days in December gain almost 50 Seconds, which in the Months
+time shall amount to near half an hour; and on the contrary, if adjusted to go
+true with the Sun in December, it shall in March lose the same time, and so for
+any other, according as days do differ in length.
+
+That Clocks therefore may be reduced to a more exact pitch of motion, that
+their gain or loss may never be so extreme, it will be necessary to adjust
+them, so as that their motion may be agreeable to that of a middle day, or such
+a one as is a mean between natural days that are most long, and those others
+that are most short; to which pitch if a Clock be once adjusted, it is gain or
+loss shall then be the less sensible (for gain and lose it will still)
+amounting in December but to about 15 Minutes in the whole Month, and in March
+to but about 9, which is vastly more exact than when it shall happen to be
+adjusted to the longest or shortest of Natural days, or to any other that is
+not equal to a mean or middle day, of which there are but few, which in the
+Table are expressed by the Character Sol.
+
+But to this exact pitch of motion, that may thus correspond to a mean day (the
+greatest exactness that a Pendulum is capable of being brought to) there is no
+way certainly to adjust a Clock without the help and assistance of a Table of
+Equations, that give the daily differences between a mean day and those which
+are either longer or shorter than the mean day is; which Equations having
+formerly been computed by the Worthy and Ingenious Mr. Christian Hugens de
+Zulechim, (who is reported to be the first that ever applied the Pendulum to
+regulate the motion of a Clock) and not long since Printed in number 49.
+Philos. Trans. I have made bold, in regard of its exactness, to transcribe in
+it is more natural form of an Equation, by only expressing the Equations
+themselves, without adding them together, and substracting, as Mr. Hugens has
+done for a particular use, to show the nature of a Pendulums going, when set
+right the first of February, and let go the whole year round, without setting
+afterward.
+
+Now for their sakes that desire to know the manner of Composing such a Table
+themselves, that thereby they may the better understand the nature of it; they
+may Note, that the Equations are to be found out, and a Table composed in the
+manner following: First find out a mean Right Ascension, by dividing the 360
+degrees of the Equinox into 365 parts, and a quarter, equal to the days of a
+year, and the product shall be the mean Right Ascension desired, which will be
+found to be about three Minutes 56 Seconds (according to Sir Jonas Moors
+account of it in his Mathematical Compendium) then by the help of an exact
+Ephemerides (here lies the difficulty) let the natural Right Ascensions of the
+Sun be computed by Calculation, for the Meridian Position of the Sun for every
+day, to Minutes and Seconds; which having done, compare the daily differences
+of these Natural Right Ascensions with the mean one, by still substracting the
+lesser from the greater; and what remains shall be the Equations desired; still
+noting down either the excess or defect, that is, whether the natural be more
+than the mean or less: as for example; Suppose the Right Ascension between the
+Meridians of the 1st. and 2d. of January be found to amount to 4 Minutes, 20
+Seconds, this compared with the mean Right Ascensions, 3 Minutes, 56 Seconds,
+and by substracting the lesser from the greater, the remainder will be found to
+be 24 Seconds, and so much the Natural Right Ascension does then exceed the
+mean one; this 24 Seconds is the Equation for that day, it being from noon to
+noon 24 Seconds longer than a mean day is; and shows you, that a Clock when
+well adjusted to a mean day, shall then gain 24 Seconds, because it finishes
+it is Diurnal Revolutions sooner by 24 Seconds than the day it self does: on the
+contrary, when the Right Ascensions of Natural days are less than the mean
+ones, as they are about the middle of March, by almost 20 Seconds, this 20
+Seconds being the Equations belonging to such a day, shall show you, that upon
+such a like day a well adjusted Clock shall then lose 20 Seconds; for the mean
+day to which it is adjusted being longer than the natural one by 20 Seconds,
+the Natural Day shall be finished sooner by 20 Seconds than the Clock at that
+time shall accomplish it is diurnal or daily Revolutions, and by consequence it
+shall then lose 20 Seconds. The Equations thus found for every particular day,
+and a Table composed of them, shall resemble that which is here inserted, whose
+Use we now come to show more particular in some Cases.
+
+For Explanation, take notice, that the first Column contains the days common
+to every Month, the other 12 Columns that belong to the several Months
+themselves, contain those Seconds of time that all natural days are either
+longer or shorter than the mean day. Note, that in four parts of the Table are
+placed this Character, which denotes the times wherein natural days having
+before been longer than the mean day, do then begin to be shorter; or having
+before been shorter, do then begin to grow more long: Note also, that those
+days upon which this Character is affixed, have no Equation, they being equal
+in their length to the mean day; as for the words inserted among the Columns,
+they are at sight to inform you, that the Equations in those parts of the Table
+are either more or else less than the mean day, as the words themselves do
+fully express; they also note, that where the Equations are more, there Clocks
+shall gain each day so much as the Equation belonging to it does then express;
+but if the Equations are less, they then shall lose; and how much this gain or
+loss for every particular Months time shall amount to, is by continual addition
+of the Equations belonging to each day summed up, and the quantity of time it
+amounts to, set down apart at the bottom of every Column.
+
+Note also, that since Clocks do either gain or lose, during the whole number
+of days included between those days on whom this Character is affixed, the
+whole quantity of time either got or lost does amount to the sums that follow,
+viz. Between the 1st of February and the 4th of May, the time that a well
+adjusted Clock shall lose, amounts by continual adding the Equations together,
+to about 19 Minutes, 29 Seconds; between this 4th of May and the 15th of July
+it shall gain about 9 Minutes 43 Seconds; from the 15th of July to the 23d of
+October, it shall lose 22 Minutes 9 Seconds; from the 23d of October to the
+last of January, it shall gain 31 Minutes 55 Seconds: All this is to be
+understood of a well adjusted Clock, set right to the Sun at the beginning of
+each time of either gaining or losing.
+
+By this Table, if you would adjust a Clock to a mean time, which is the
+greatest exactness to which it is possible to be brought, do thus: First set it
+true to the Sun, and note the day, then let it is motion be continued without
+setting a new, for about 30 or more days: Observe then the time that it has
+got or lost by the Sun, then sum up the whole number of Seconds included in
+the Table, between those two days of first setting and last Observation
+(allowing 60 Seconds to a Minute) and if the gain or loss of your Clock be
+equal to the sum of time that it should have gained or lost by the Table, then
+is it well adjusted; but if it have not, then must its motion be reduced to a
+more near agreement, by shortning the Pendulum in case the Clock have gone too
+slow, or letting the Bob down longer in case it have gone too fast: Then set it
+anew, and try it for about 30 days more, and then comparing its loss or gain
+with the sum of those Equations contained in the Table, as before you did, let
+the Bob be again rectified as the nature of it is motion requires; and continue
+to do thus, till you find its gain or loss exactly to correspond with the sum
+of time given by the Equations contained in the Table, for the time that the
+Clock has gone.
+
+When it is thus well adjusted to a mean time, it will be so exact, as that,
+being set right at any time of the Year, and so let go the whole Year about, it
+shall come right with the same Dial by which it was set the same day
+Twelvemonth; but ^n all other parts of the Year it shall still differ from the
+same Dial. For Example: If set right the first of February, and so continued in
+Motion the whole Year about, it shall continually be too slow the whole Year,
+either more or less, till the same day on which it was set: The reason of this
+is plain enough; for from the first of February to the 4th of May, it shall
+continually lose to the quantity of 19 Minutes, 29 Seconds; then from the 4th
+of May to the 15th of July, it shall gain; but this gaining amounting to but
+about nine Minutes, 43 Seconds, it shall still be too slow by 9 Minutes, 46
+Seconds; because its gaining now shall not be so much as it lost before, by 9
+Minutes, 43 Seconds: Then again, from the 16th of July it shall lose afresh
+till the 21st of October; which second loss amounting to about 22 Minutes, 9
+Seconds, this added to the time that it was too slow on the last account, shall
+amount to 31 Minutes, 55 Seconds, and so much it shall be too slow on the 21st
+of October; from whence it shall gain afresh till the last of January, to the
+quantity of 31 Minutes, 55 Seconds; which being equal to what it was before too
+slow, shall cause it to come right to the same Dial with which it was set
+twelve Months before, although it went too slow the whole Year beside.
+
+Again, let a Clock be set right the 23d of October, it shall from thence gain
+time till the last of January; and this gain shall amount to 31 Minutes, 55
+Seconds; then from the first of February to the 4th of May, it shall lose 19
+Minutes, 29 Seconds, which being less than the 31 Minutes, 55 Seconds, which
+before it had got, by about 12 Minutes, 26 Seconds, it shall still be too fast
+by 12 Minutes 26 Seconds: Then from the 4th of May, to the 15th of July, it
+shall gain anew to the quantity of about 9 Minutes 43 Seconds* which added to
+the time it was too fast before, shall amount to 22 Minutes, 9 Seconds, and so
+much it shall be too fast on the 15th of July; from which time till the 23d of
+October, it shall lose this 22 Minutes, 9 Seconds, and by Consequence come
+right to the same Dial with which it was set twelve Months before.
+
+Thus shall one and the same Clock, with the same pitch of Motion, go always
+too slow if set at one time of the Year, and always too fast if set at another
+time, if it be let go the whole Year about.
+
+Moreover, if set at some other times, and then continued in its Motion for a
+Year, without setting anew, it shall both gain and lose, be sometimes too fast*
+and sometimes too slow: For if a well adjusted Pendulum be set right to the Sun
+the 4th of May, by the 15th of July it shall be 9 Minutes, 43 Seconds too fast:
+From this 15th of July to the 23d of October, having lost 22 Minutes, 9
+Seconds; from which substracting the 9 Minutes, 43 Seconds that it was before
+too fast, there remains 12 Minutes, 26 Seconds; and so much it shall be too
+slow on the 23d of October; from which day it shall begin to gain, and continue
+so to do till the first of January, by which time the Clock having got 31
+Minutes, 55 Seconds, which amounting to about 19 Minutes, 29 Seconds above what
+it was too slow on the 23d of October, it shall by Consequence be now 19
+Minutes, 29 Seconds too fast; from whence to the 4th of May, it shall lose what
+now it is too fast, and so come right to the same Dial with. which it was
+before set.
+
+Again, set a Clock to the Sun the 15th of July, and if it be well adjusted, it
+shall by the 23d of October be 22 Minutes, 9 Seconds too slow; from whence to
+the last of January, it being to gain 31 Minutes, 55 Seconds, it shall be then
+9 Minutes, 46 Second* too fast; from which time to the 4th of May, it losing 19
+Minutes, 29 Seconds, it shall then be 9 Minutes, 29 Seconds too slow; which
+time by the 15th of July shall again be got, and so the Clock shall come right
+to the same Dial.
+
+Thus, by this Table, are these great Varieties discoverable in the Motion of
+the best adjusted Pendulum, according to the different times of the Year that
+it is set in; that the same Pendulum set right upon the first of February,
+shall go always too slow till the same day twelvemonth; but if set right the
+23d of October, it shall the whole Year round be still too fast, till the same
+day on which it was set: The same Clock being also set to the Hour on the 4th
+of May, or the 15th of July, shall on the following Year be sometimes too fast,
+and at other times too slow. These are all strange and unaccountable things to
+such as understand not the Nature of the Unequality of Time, from whence all
+these Varieties do still arise, and are scarcely to be demonstrated to the
+Understanding by any other way, than by this or some other Table of the
+Aequation of Time.
+
+Since therefore there is a necessity for setting Clocks anew to the Sun, at
+some times, that they may be kept as near as possible to the apparent time
+given by a Dial; I advise that this setting may be, if possible, the first day
+of every Month; so may you the better discern by the Time set down at the
+bottom of every Column, whether your Clock have gone right to the mean time,
+and be as exact in his Motion as it is possible to bring him to: For if it be
+exactly adjusted, it will then either gain or lose near that time that is set
+down at the bottom of every Month, those Sums being nothing else but the
+Aequations of the whole Month added together into one Sum, as before I
+directed, when I gave you the Method of adjusting a Pendulum to the true or
+mean time: But in case you cannot set it right the first day, then must you be
+at a little trouble to add together the Aequations your self, at such time as
+you come to set it anew; but when the Clock is well adjusted, there needs
+little of this trouble, being assured that it is brought to the nearest pitch of
+Motion it is capable of; and that when it is at any time found to differ from
+the Sun, it must be looked upon as the natural Consequence of the Unequality of
+Time, and not any Deficiency in the Motion of the Clock.
+
+I speak this of those long and curious Pendulums that vibrate within the
+Compass of 2 or 3 Inches; for the less Compass a Pendulum takes, the more
+steady is it is Motion, not being so subject to rise and fall, as others are,
+that vibrate in a larger Compass. As for those shorter Pendulums of a Foot
+long, or under, although they may go very steady for the most part, if Frost or
+foulness hinder not, yet are they not at all intended in this Discourse, their
+Motion being apt to an Alteration in some Cases; for a short Pendulum that goes
+well when clean, shall go faster than the mean time when foul, because the
+Pendulum is by the foulness hindered from taking its wonted Compass: The same
+effect does Frost produce; for by congealing the Oil in the Pevets, its freedom
+of Motion is interrupted, so that the Pendulum not fetching it is wonted
+Compass, shall go too fast; but those long and curious Pendulums of 40 Inches,
+that fetch not above three Inches compass, they are so exact, that being once
+adjusted they shall always keep the same time, if their motion continue; for
+if the Pendulum should fetch a smaller compass, their Motion would cease, and
+themselves stand still.
+
+When such a Pendulum as this is well adjusted, you may trust to it, as to it is
+correspondence in Motion with the mean time, and only give your self the
+trouble sometimes to set it a little forward or backward, according to what the
+unequality of Time has made it to differ from the same Dial with which you did
+use to set it; which times of setting may be, as I said before, once in a
+Month; yet if the Table be well noted, you shall find, there be some times in
+the year in which a good Clock may go a longer time without any material
+difference from the time given by a Dial: For Example,
+
+Suppose you set a Clock right to the Sun the first of January, this Clock if
+let go till the first of March, shall then be but two Minutes four Seconds too
+fast; for though it gain in January six Minutes, no great matter, yet losing in
+the next Month about four Minutes, it shall at the end of that Month be but two
+Minutes to fast; nay, if let go another Month, as to the last of March is, it
+shall then differ but about seven Minutes, which is no great matter. Moreover,
+if you set a Clock the first of May, it shall, if let go till June, lose but
+two Minutes thirty five Seconds in the whole, though it shall at the beginning
+of May be about five Minutes to slow, which is no great matter; so also if it
+be set right the first of June, it may well go without setting till the first
+of September; for though it gain five Minutes in June, yet losing eight Minutes
+in August, it shall then be but about three Minutes too slow in this three
+Months time; but at some other times, as from February to May, if a Clock were
+let go 'twill be extremely out, losing above eighteen Minutes; so also in
+November, December and January, in which time it will gain above thirty Minutes.
+
+By the Table you may also readily find out, what difference there is between
+the lengths of any two days in this manner: First, If the days are both
+shorter, or both longer than the mean day, then substract the Equation in the
+Table belonging to one day from the Equation of the other, and the remainder
+shall show their difference in length. But if the days be one longer than the
+mean, and the other shorter, then add the two Equations together, and the sum
+shall be the time that they differ in length: Thus the tenth of January will be
+found to be thirteen Seconds longer than the tenth of May; also the fifteenth
+of September will be found to be fifty one Seconds shorter than the fifteenth
+of December.
+
+Note, That if men be very nice in keeping a Clock true to the Sun, they should
+then make use, if possible, of but one time on the Dial that they set it with,
+and that pretty near noon; for few Dials being drawn exactly true, great
+mistakes may arise, when a Clock is set to one hour and then compared with
+another; and by reason of refractions great errors may also arise; for the Sun
+by Refractions being made to appear higher than really she is, there can be no
+certain account taken of the time till near Noon, where Refractions cease: And
+when all this care is taken, in regard it is so very hard to distinguish
+Minutes by the shadow of a Dial, you will be much more exact if you do thus:
+Let two plain and flat plates or boards, about ten Inches square, be joined so
+close together that a Sixpence may but just go between; let them be fixed so,
+that this Cranney between them may respect the true South; this will give you
+the time to less than half a Minute, by observing the first moment that the
+Suns beam is darted through it, and cast upon some dark body that is plac^d on
+the North-part to receive the light; so that having thus the exact time, when
+the Sun comes to every Meridian, it will be found a much better way to adjust
+Clocks by such a device as this, than by the truest Dial.
+
+One use more, and that a Principal one, I shall add, that is this: When a
+Clock is once well adjusted to the mean or equal day, you may then by this
+Table keep it right to the time given by the Sun, although you never set it
+right to a Dial, nor see the Sun above once a Year; to perform this do thus:
+set your Clock right to the Sun the first day of any one Month, and then the
+Table still giving you the time it should lose or gain in that whole Months
+^ime, it is then but setting it forward or backward the first day of the next
+Month what it either has got or lost in the Month immediately preceding, and
+it will then be right with the Sun as if it had been set by a Dial, and so from
+Month to Month you may (by still setting it either forward or backward
+according to what the Table tells you it will gain or lose) keep it true to the
+time given by the Sun, though it should never shine so as to give you an
+opportunity to set it by a Dial above once in the whole Year; but be sure your
+Clock be first well adjusted, or else there may be some error: Note, that for
+this purpose it will be very convenient to Paste the Table it self on a board,
+and then putting it into a handsome Frame, let it be hung up near the Clock,
+that you may have ready recourse to it on all occasions, especially for this in
+particular; for without the assistance of such a Table as this, I know no way
+in the World to keep a Clock right to the apparent time, in case Clouds should
+intercept the Beams of the Sun for any long time together.
+
+FINIS.
+BOOKS Sold by Joseph Watts, at the Half Moon in St. Paul's Churchyard.
+JOsephus's Wars of the Jews. Fol. The Trials of Thomas Walcot, William Hone,
+William Lord Russel, John Rouse, and William Blagg.
+
+The Confession, Prayers and Meditations of John Stern, published by Doctor
+Burnet and Doctor Horneck.
+
+The Earl of Danby's Case, and Answer to Sir Robert Howard, and his Answer to
+the Examination of his Case, and Reply.
+
+The Bishops of England may, and ought to vote in Cases of Blood.
+
+Baxter against Baxter.
+
+A serious Expostulation with the Whiggs in Scotland.
+
+Dr. Jane's Sermon before the Commons, April 11. 1679.
+
+Dr. Perinchief against Toleration.
+
+Fowler's Catechism of the Church of England poetically paraphrased.
+
+Cave's Sermon on the 30th of January.
+
+James's Visitation Sermon, and on the 24th of December, 1682.
+
+A Disquisition upon our Saviors Sanction of Tithes, Mat. 23. 23. Luke 11. 42.
+
+Stubbs's Justification of the Dutch War, In two parts, with Figures.
+
+

@@ -1,0 +1,275 @@
+A PROPOSAL About Printing a TREATISE of ALGEBRA, HISTORICAL and PRACTICAL:
+Written by the Reverend and Learned Dr. John Wallis (Savilian Professor of
+Geometry in the University of Oxford), containing not only a History, but an
+Institution of ALGEBRA, according to several Methods hitherto in practice; with
+many Additions of his own.
+IT contains an Account of the Original, Progress, and Advancement of (what we
+now call) Algebra, from time to time, and by what steps it has attained to
+that height at which now it is.
+
+Asserting, That it was in use of old among the Grecians; but studiously
+concealed as a great Secret.
+
+Examples we have of it in Euclid, at lest in Theon, upon him; who ascribes the
+invention of it (amongst them) to Plato.
+
+Other Examples we have of it in Pappus, and the effects of it in Archimedes,
+Apollonius, and others, though obscurely covered and disguised.
+
+But we have no professed Treatise of it (among them) ancienter than that of
+Diophantus, first published (in Latin) by Xylander, and since (in Greek and
+Latin) by Bachetus, with diverse Additions of his own; and reprinted lately with
+Additions of Monsieur Fermat.
+
+That it was of ancient use among the Arabs (and perhaps sooner than amongst
+the Greeks), which they are supposed to have received from the Persians, and
+these from the Indians.
+
+From the Arabs (by means of the Saracens and Moors) it was brought into Spain,
+and thence into England (together with the use of the Numeral Figures, and
+other Parts of Mathematical Learning, and particularly the Astronomical),
+before Diophantus seems to have been known amongst us. And from those we have
+the name of Algebra.
+
+And indeed most of the Greek Learning came to us the same way, the first
+Translations of Euclid, Ptolomy, and others, into Latin, being from the Arabic
+Copies, and not from the Greek Originals.
+
+That the use of the Numeral Figures (which the Greeks had not) was a great
+advantage to the improvement of Algebra.
+
+These Figures seem to have come in use in these Parts about the middle of the
+Eleventh Century (about the year 1050), though some others think not 'till
+about 200 years after, and it seems they did scarce come to be of common use
+'till about that time.
+
+The Sexagesimal Fractions (introduced it seems by Ptolomy) did but imperfectly
+supply the want of such a Method of Numeral Figures.
+
+The use of Numeral Figures have received two great Improvements, The one is
+that of Decimal Parts, which seems to have been introduced (silently and
+unobserved) by Regiomontanus, in his Trigonometrical Canons, about the year
+1450, but much advanced in the last and present Century, by Simon Stevin and
+Mr. Briggs, etc.
+
+And this is much to be preferred before Ptolomy's Sexagesimal way, as is
+showed by the comparative use of both.
+
+The other Improvement is that of Logarithms, which is of great use in
+Astronomical and other Trigonometrical Calculations, introduced by the Lord
+Neper, and perfected by Mr. Briggs (about the beginning of this Century). The
+ground and practice of which is here declared.
+
+And these things, though they be not properly Parts of Algebra, are yet of
+great advantage in the practice of it.
+
+The first printed Author which treats of Algebra is Lucas Pacciolus, or Lucas
+de Burgo a Minorite Friar, of whom we have a Treatise in Italian, printed at
+Venice in the year 1494, (soon after the first Invention of Printing.)
+
+But he therein mentions Leonardus Pisanus, and diverse others more ancient than
+himself, from whom he learned it, but whose Works are not now extant.
+
+This Friar Lucas, in his Summa Arithmetica and Geometrica, (for he has other
+Works extant) has a very full Treatise of Arithmetic in all the Parts of it;
+in Integers, Fractions, Surds, Binomials; Extraction of Roots, Quadratic,
+Cubic, etc. and the several Rules of Proportion, Fellowship, about Accounts,
+Alligation, False Position; and of Algebra, with the Appurtenances thereunto,
+as far as Quadratic Equations reach, but no farther: And this he tells us was
+derived from the Arabs, (to whom we are beholding for this kind of Learning,)
+without taking notice of Diophantus (or other Greek Authors), who it seems was
+not known here in those days.
+
+After him followed Stiphelius (a good Author), and others by him cited, who
+also proceed no farther than Quadratic Equations.
+
+Afterward Scipio Ferreus, Cardan, Tartalea, and others, proceeded to the
+Solution of (some) Cubic Equations.
+
+And Bombelli goes yet farther, and shows how to reduce a Biquadratic Equation
+(by the help of a Cubic) to two Quadratics.
+
+And Nonnius (or Nunnez, in Spanish) Ramus, Schonerus, Salignacus, Clavius, and
+others, (in the last Century) pursued the same Subject, in different ways; but
+(for the most part) proceed no farther than Quadratic Equations.
+
+In the mean time, Diophantus, first by Xylander (in Latin), and afterward by
+Bachetus was made public, whose Method differs much from that of the Arabs
+(whom those others followed), and particularly in the order of denominating the
+Powers; as taking no notice of Sursolids, but using only the names of Square
+and Cube, with the Compounds of these.
+
+And hitherto no other than the unknown Quantities were wont to be denoted in
+Algebra by particular Notes or Symbols, but the known Quantities by the
+ordinary Numeral Figures.
+
+The next great step, for the improvement of Algebra, was that of Specious
+Arithmetic, first introduced by Vieta about the year 1590.
+
+The Specious Arithmetic, which gives Notes or Symbols (which he calls Species)
+to Quantities both known and unknown, furnishes us with a short and convenient
+way of Notation; whereby the whole process of many Operations is at once
+exposed to the Eye in a short Synopsis.
+
+By help of this he makes many Discoveries, in the process of Algebra, not
+before taken notice of.
+
+And he introduces his Numeral Exegesis, of affected Equations, extracting the
+Roots of these in Numbers. Which had before been applied to single Equations,
+such as the extracting the Roots of Squares, Cubes, etc. singly proposed; but
+had not been applied to Equations affected. And in the Denomination of Powers,
+he follows the order of Diophantus, not that derived from the Arabs, which
+others had before used.
+
+The method of Vieta is followed and much improved by Mr. Oughtred in his
+Clavis (first published in the year 1631) and other Treatises of his; and it
+does in a brief compendious method declare in short what had before been the
+Subject of large Volumes.
+
+And for this reason, here is a pretty full account of his Method inserted,
+together with an Institution for the practice of Algebra according thereunto;
+and though much of it had been before taught in the Authors abovementioned,
+yet this was thought the most proper place to insert such an Institution,
+because by him delivered in the most compendious form.
+
+And in pursuance of his Method, and as an Exemplification thereof, there is
+here inserted a Discourse of Angular Sections, and several things thereon
+depending.
+
+Mr. Harriot was contemporary with Mr. Oughtred, but died before him, and left
+many good things behind him in writing, of which there is nothing hitherto made
+public, but only his Algebra or Analytice, which was published by Mr. Warner
+soon after that of Mr. Oughtred, in the same year 1631.
+
+He alters the way of Notation, used by Vieta and Oughtred, for another more
+convenient.
+
+And he has also made a strange improvement of Algebra, by discovering the
+true construction of Compound Equations, and how they be raised by a
+Multiplication of Simple Equations, and may therefore be resolved into such.
+
+By this means he shows the number of Roots (real or imaginary) in every
+Equation, and the Ingredients of all the Coefficients, in each degree of
+Affection.
+
+He shows also how to increase or diminish the Roots, yet unknown by any
+Excess, or in any Proportion assigned; to destroy some of the intermediate
+Terms, to turn Negative Roots into Affirmative, or these into those; with many
+other things very advantageous in the practice of Algebra.
+
+In sum, He has taught (in a manner) all that which has since passed for the
+Cartesian method of Algebra, there being scarce any thing of (pure) Algebra in
+Des Carts, which was not before in Harriot, from whom Des Carts seems to have
+taken what he has, that is purely Algebra, but without naming him.
+
+But the Application thereof to Geometry, or other particular Subjects, is not
+the business of that Treatise, (but what he has handled in other Writings of
+his, which have not yet the good hap to be made public;) the design of this
+being purely Algebra, abstract for particular Subjects.
+
+Of this Treatise here is the fuller account inserted, because the Book it self
+has been but little known abroad; that it may hence appear to what estate
+Harriot had brought Algebra before his death.
+
+After this follows an account of Dr. Pell's Method, who has a particular way
+of Notation, by keeping a Register (in the Margin) of the several steps in his
+Demonstrations, with References from one to another.
+
+Of this, some Examples are here inserted of his own, and others in imitation
+thereof; with intimation how that innumerable Solutions of undetermined Cases
+are by his method easily discoverable, where great Mathematicians have thought
+it a great work to find out some one.
+
+On this occasion there is a farther Discourse of Undetermined Questions, and
+the Limitation of them, and particularly of the Rule of Alligation, and of
+(what they call) Geometrical Places, which are of a like nature, and but the
+Geometrical Construction of (some of) these Undetermined Questions.
+
+After this is a Discourse of Negative Squares, and the Roots of them, on which
+depend (what they call) imaginary Roots of impossible Equations, showing what
+is the true Import thereof in nature, with diverse Geometrical Constructions
+suiting thereunto.
+
+Then follows a Discourse of the Method of Exhaustions (used by Ancients and
+Moderns), with the foundation of it.
+
+And in pursuance thereof, the Geometrica Indivisibilium of Cavalerius, showing
+the true import thereof, and its agreement with the Ancients Method of
+Exhaustions, as being but a compendious Expression thereof, and grounded
+thereupon.
+
+Consequent to this, is the Arithmetica Infinitorum, which depends also on the
+method of Exhaustions; taking that to be equal, which is proved to differ by
+less than any assignable Quantity.
+
+And lastly, the method of infinite Series, or continual Approximations,
+(grounded on the same Principles) arising principally from Divisions and
+Extraction of Roots, in Species, infinitely continued; invented by Mr. Isaac
+Newton, and pursued by Mr. Nicholas Mercator, and others, which is of great use
+for the rectifying of Curve Lines, squaring of Curve-lined Figures, and other
+abstruse Difficulties in Geometry.
+
+Several other Discourses are in several places inserted; as, Of Aliquote
+Parts, and other Questions depending thereon; and diverse other particulars,
+which will be seen in the Work it self.
+
+The whole being written in English, is submitted to the Royal Society, to be
+printed or otherwise disposed of as they please; and if printed, will contain
+(as is supposed) about three or four Quires of Paper.
+
+PROPOSAL.
+THE Council of the Royal Society have approved this Treatise, and to encourage
+the Bookseller to print it, have agreed to give Security to take off 60 Books
+in Quires as soon as printed at Three Halfpence each Sheet, and as much each
+print of a Plate of Schemes; and seeing such a Subscription is not sufficient
+to incite an Undertaker, others that are desirous to promote this kind of
+Learning, (which contains the very Kernel of the Mathematics in it) are desired
+to encourage the Bookseller to proceed, by subscribing to take off a Book or
+more at the Rates aforesaid, paying or advancing toward each Book Five
+Shillings in hand.
+
+RICHARD DAVIS, Bookseller in the University of Oxford, having undertaken the
+Printing the abovesaid Treatise, does propose,
+
+1. That he will begin printing the same by or before the First day of August
+next, 1683. and print constantly two Sheets every Week 'till the whole be
+finished, which is the greatest Expedition can be made in a Work of this Nature.
+
+2. That the said Book shall be printed on the same Paper, and with the same
+Letter, as this Sheet of Proposals.
+
+3. He is willing to accept of all Subscribers, that will pay in their five
+Shillings in part for each Book (after the Rate abovementioned) betwixt this
+and the first of December, 1683; assuring all Men, that whatsoever
+Subscriptions shall be tendered afterward, will not be accepted under four
+Shillings above the Rate of Three Halfpence per Sheet for every Book; and that
+no Subscriptions will be taken after the first of February following.
+
+4. That the said Book shall be ready to be delivered to each Subscriber (by
+the Person to whom they subscribe) by St. Thomas's Day, 1684. each Person
+paying upon the Delivery of every Book what it shall amount to more than five
+Shillings paid at subscribing after the Rate abovesaid.
+
+For the Ease of the Subscribers, they may pay in their Money either to Richard
+Davis in Oxford, or to any of the Booksellers under-named, from whom they shall
+receive Acquittances under the Hand and Seal of Richard Davis aforesaid, and
+this Sheet gratis to any one that desires it.
+
+Ben. Took at the Ship, and W. Kettilby at the Bishops-head, in S. Paul's
+Churchyard. Fincham Gardener at the White-horse in Ludgate Street. T. Sawbridge
+at the Bible on Ludgate Hill. Tho. Dring at the Harrow in Fleet Street, at the
+corner of Chancery Lane. Jacob Tonson at the Judges-head in Chancery Lane near
+Fleet Street. Gabriel Kunholt at the King's Head against the Mews, near
+Charing Cross. Henry Mortlack at the White-hart in Westminster Hall, and at the
+Phoenix in St. Paul' s mChurch-yard. Thomas Sawbridge at the Flower-de-Luce in
+Little-Britain. Brab. Ailmer at the Three-Pidgeons against the Royal Exchange
+in Cornhill. Richard Green in Cambridge. George Rose in Norwich. Sampson Evans
+John Jones
+in Worcester. John Courtney Senior, in Salisbury. And Richard Lambert in York.
+Subscriptions are likewise taken by Mr. George Tollet, Professor of the
+Mathematics in Dublin.
+
+I Do Subscribe for Book after the Rate abovementioned. Witness my Hand this
+(...) day of (...) 1683.
+
+

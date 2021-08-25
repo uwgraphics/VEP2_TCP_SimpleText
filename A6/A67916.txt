@@ -1,0 +1,1485 @@
+AN Introduction of the First Grounds or Rudiments OF Arithmetic; Plainly
+explaining the five Common parts of that most useful and Necessary Art, In
+whole Numbers and Fractions, With their use in Reduction, and The Rule of
+three: Direct. Reverse. Double.
+
+By way of Question and Answer, for the ease of the Teacher, and benefit of the
+Learner.
+
+Composed not only for general good, but also for fitting Youth for Trade.
+
+By W. Iackson Student in Arithmetic.
+
+LONDON, Printed by R. I. for F Smith, near Temple Bar. 166^
+
+Courteous Reader,
+I Have on purpose omitted Progression, as also many other Rules following,
+partly because that these being well learned, not only by rote, but also by
+reason, the young learner (for whose sake I wrote this) will be enabled hereby
+in a good measure to understand what he finds in other books concerning such;
+And if this prove but as useful, as I wish it may, and hope it will (by the
+Teachers care, and Scholars diligence) I may be encouraged to add somewhat to
+it hereafter, that may be of further use, or else these weak endeavors may
+provoke some others of better parts to bring them to the public Treasury of
+Art. In the mean time accept of this mite from him that is one that would count
+it an honor to be but one of the meanest of those that might present any
+thing on the behalf of this most Noble, and most Necessary Art of Arithmetic;
+that might further the growth of such as are entering upon the practice of the
+same, which I presume, if this small Tract may be as a small Table wherein to
+see the first Rudiments in, briefly and plainly, which being by the Masters
+discretion appointed the young Scholar to get by heart, may prove an ease to
+both; to the Master, in that (if he please to spend some set time in examining
+his Scholars, as they use to catechize little ones) he by that means may teach
+the Rules to twenty in teaching one, and not only print the Rules in the memory
+of such as are past such Rules, who perhaps may be apt to forget, but also
+teach the Rudiments to other, even before they come to the practice of them,
+whereby he may save the pains of often telling them, and may only fit them
+with examples suitable to the Rule, sometimes descanting a little upon the
+Rules as they lie in order, as he finds occasion; and by this course, being
+observed, he will with the blessing of God find by the childrens growth in
+knowledge, that the pains bestowed will not be in vain; but not to be tedious,
+I leave each to use his own discretion, how to use this or any other help, only
+I have thoughts, that a thing of this nature will be profitable, and have its
+use; So wishing this most Noble Art, and all those that love it, to flourish in
+our Land, I bid thee farewell.
+
+W. J.
+
+AN Introduction of the First Grounds and Rudiments of Arithmetic.
+NUMERATION.
+Quest. WHat is Arithmetic?
+
+Answ. It is the Art of numbering.
+
+Q. What is the subject of this Art?
+
+A. The subject of it is Number.
+
+Q. Whereof does Number consist?
+
+A. It consists of unites.
+
+Q. What is an unite?
+
+A. It is the original, or beginning of number, and is of it self indivisible,
+so that it still remains one.
+
+Q. Is not one a Number then?
+
+A. No, for Number is a collection of unites.
+
+Q. How are Numbers said to be divided into kinds?
+
+A. They are divided into many sorts, but vulgarly into whole numbers, and
+broken numbers called fractions.
+
+Q. Are fractions numbers?
+
+A. Not properly, for number consists of a multitude of unites, but every
+fraction is lesser than its unite.
+
+Q. How many several parts are accounted in common Arithmetic?
+
+A. These five, Numeration, Addition, Substraction, Multiplication, and
+Division.
+
+Q. What then is extraction of roots?
+
+A. Although it be another part of Arithmetic, yet it is not so common.
+
+Q. What teaches Numeration?
+
+A. It teaches how to set down any number in figures, and also to express, or
+read any such number so set down.
+
+Q. How many figures are there?
+
+A. Nine significant figures, and a cipher, which cipher signifies nothing of
+it self, only it serves to supply a place, and thereby increases the value of
+the other figures.
+
+Q. Which be the significant figure?
+
+A. 1, 2, 3, 4, 5, 6, 7, 8, 9.
+
+Q. What do these signify?
+
+A. They signify only each their own simple value being alone.
+
+Q. What if they be joined with other figures, or ciphers, is their
+signification altered?
+
+A. Yea, their value is thereby much increased, according to the place they
+stand in, removed from the place of unites.
+
+Q. Do Ciphers then only supply places that are void, and so increase the value
+of the other figures?
+
+A. No, they do also in decimal fractions, diminish the value of those figures
+that stand toward the right hand of them, according to the place they stand in
+removed from the unite place.
+
+Q. Which is the place of unites?
+
+A. In whole numbers it is the first place toward the right hand, and any
+figure standing in that place, signifies only its own simple value.
+
+Q. Why make you a distinction here of whole numbers? does it differ infraction?
+
+A. Yea, for in decimal fractions, the unite place stands to the left hand of
+the fraction.
+
+Q. Why say you its own simple value?
+
+A. Because a figure by being put in the second, third, or fourth place, etc.
+may signify ten times, an hundred times or a thousand times its own value, etc.
+
+Q. What is the reason of that?
+
+A. Because every place exceeds the place next before it ten times in value, so
+that the figure that signifies but four in the first place, signifies ten times
+4 in the second, and an hundred times four in the third place, and a thousand
+times four in the fourth place, etc. and in that proportion increases
+infinitely, according as its place is further removed from the unite place.
+
+Q. Is the proportion of diminishing decimal fractions, like this of augmenting
+whole numbers?
+
+A. Yea; for as these are augmented in a decupled proportion, so those are
+diminished, or made less, in a decupled proportion, by being removed from the
+unite place.
+
+Q. What must you do when you have a number to set down, where some have not a
+significant figure to stand in it?
+
+A. I must supply that place with a cipher (0) for no place must be void.
+
+Q. How will you set down, one thousand six hundred and sixty?
+
+A. First I consider the fourth place is the place of thousands, and there I
+set down 1, then 6 in the third place, which betokens so many hundreds, then
+6 in the second place, signifying six tens, or sixty, and because there is no
+figure to set in the place of unites, I supply it with a (0) cipher, to make
+the number consist of its due number of places, thus (1660)
+
+Q. How set you down four thousand five hundred and six?
+
+A. First I set 4 in the place of thousands, then five in the place of
+hundreds, then in regard thee is no tens, I supply that place with a (0) and
+lastly I place 6 in the unite place thus, (4506)
+
+Q. How value you your places in order to the tenth place?
+
+A. Thus, Unites, Tens, Hundreds, Thousands, Tens of Thousands, Hundreds of
+Thousands, Millions, Tens of Millions, Hundreds of Millions, Thousands of
+Millions.
+
+Q. Can you repeat your places backwards?
+
+A. Yea, thus, Thousands of Millions, Hundreds of Millions, Tens of Millions,
+Millions, Hundreds of Thousands, Ten of Thousands, Thousands, Hundreds, Tens,
+Unites.
+
+Addition.
+Q. Now show what Addition teaches.
+
+A. Addition teaches of several numbers to make one total equal to them all.
+
+Q. How is that done?
+
+A. First I set my numbers down one right under another, observing still to set
+the first place or figure toward the right hand of each number under the first
+place or figure of the uppermost number, and so the second under the second,
+and the third under the third, etc.
+
+Q. After you have set down your numbers each in his due place, what do you
+then?
+
+A. I must begin at the first place toward the right hand, and count all the
+figures in that place together, and if they be less than ten, set it down
+under the first place, a line being first drawn under my sum to place my total
+below.
+
+Q. What if it come to ten or above?
+
+A. Then I must consider how many tens it contains, and carry so many unites in
+my mind to the next place, and set down the overplus if there be any, but if
+it be even tens, then set down a (0) in that place.
+
+Q. And what do you next?
+
+A. I must remember to reckon the tens that I bear in mind for unites, and add
+them to the figures in the next place, and then do in all points as I did in
+the former place.
+
+Q. Why do you count tens in one place, but for unites in the next?
+
+A. because the place answers to the value thereof, being ten times the value
+of the former place.
+
+Q. What is further to be considered?
+
+A. When I have gone through all the places, if at the last I have any Tens to
+carry, seeing there are no figures to add them withal, I set a figure
+signifying the number of Tens, in a place nearer the left hand.
+
+Q. Give an example hereof.
+
+A. Then thus, Four men owe my Master money; A. owes 4560 l. B. owes 5607 l.
+C. owes 6078 l. D: owes 385 l. I would know how much these four debts amount
+to in all.
+
+Q. And how will you do that?
+
+A. First I set the several sums right under each other thus, 4560 5607 6078
+0385 16630
+Then I begin with those figures next the right hand, and say, 5 and 8 is 13,
+and 7 makes 20, now in regard it is just 2 times Ten, I set a cipher underneath
+the line in that place, and bear in mind 2 to reckon with the figures in the
+next place, and say, 2 that I bear in my mind, and 8 is 10, and 7 is 17, and 6
+makes 23, then I set down the odd 3 in the second place below the line, and for
+the 2 Tens, I carry 2 in mind to the next place, then I say, 2 that I carry
+and 3 is 5, and 6 is 11, and 5 is 16, the odd 6 I set below the line, and carry
+one in lieu of the ten to the next place, and say, 1 I carry, and 6 is 7, and
+5, is 12, and 4 is 16, so I set the 6 below the line, and in regard there is
+not another place to reckon the one, I bear in mind withal, I set that 1 a
+place nearer the left hand, and so the total is 16630 l. the sum of those four
+debts.
+
+Q. What if you have numbers of several kinds or denominations to add together?
+
+A. I must set down each number under the denomination of the same kind, as
+pounds under pounds, shillings under shillings, and pence under pence, etc. and
+the like is to be observed of weight, measure, or any other kind.
+
+Q. And how must they be added together?
+
+A. I must begin with the smallest denomination, which is next the right hand,
+and count all those figures together, and consider how many of the next
+denomination is contained in them, and carry so many unites to the next place,
+and set down the overplus (if there be any) right under beneath the line, and
+it there be no overplus, I set a cipher in the place; And the like I observe
+in every several denomination.
+
+Q. Show two or three examples of several denominations.
+
+A. First, then for pounds, shillings, and pence, take this, l. s. d. 365 6 8
+456 7 6 567 8 4 1389 2 6
+
+Then beginning with the smallest denomination toward the right hand, which is
+pence, I say, 4 and 6 is 10, and 8 is 18, which is 1 shilling and 6 pence, the
+6 pence I set down in its place below the line, under its own denomination, and
+carry the one shilling in my mind to the next place, which is the place of
+shillings, and say, 1 I carry and 8 is 9, and 7 is 16, and 6 is 22, that is one
+pound and two shillings, the 2 odd shillings I set in its place under its own
+denomination below the line, and carry one pound in mind to reckon with the
+pounds, then I come to the first place of pounds, and say, 1 I carry and 7 is
+8, and 6 is 14, and 5 is 19, so I set down 9, and carry 1, then I say, one I
+carry and 6 is 7, and 5 is 12, and 6 makes 18, the 8 I set down, and carry one,
+and then I say, one I carry and 5 is 6, and 4 is 10, and 3 is 13, the odd 3 I
+set right under, and the one ten I set one place further toward the left hand,
+so the total is 1389 l. 2 s. 6. d.
+
+Q. What is your next example?
+
+A. Take this, of haberdupoize weight, wherein note that 16 ounces make a
+pound, 28 pound make a quartern, 4 quarterns make a hundred weight, and 20
+hundred make a tun weight: Example.
+tun. C. q. l. o 123 9 3 16 10 234 8 2 12 8 345 7 1 08 6 703 5 3 09 8
+
+Where as before, I begin with the least denomination next the right hand, and
+say, 6 and 8 is 14, and 10 is 24, which is one pound and eight ounces, the 8
+ounces I set down below, and I carry one in mind to the pounds, then I say,
+one I carry and 8 is 9, and 12 is 21, and 16 is 37, that is one quartern, and 9
+pound, the 9 I set down and carry one, and say, one that I carry, and one is
+two, and two makes 4, and 3 is 7, that is one hundred and three quarterns, the
+three quarterns I set down, and carry one, and say further, one I carry and 7
+is 8, and 8 is 16, and 9 makes 25, that is one tun and five hundred, the five
+hundred I set down, and carry one to the tuns, and say, one that I carry and 5
+is 6, and 4 is 10, and 3 makes 13, then I set down 3, and carry one, saying,
+one I carry and 4 is 5, and 3 is 8, and 2 makes 10, now being it is just 10, I
+set down a cipher, and carry one, saying, one I carry and 3 is 4, and 2 is 6,
+and one makes 7, which I set down in its place below the line, and so the total
+is tun. C. q l. o. 703 5 3 09 8 as in the example.
+
+A third Example shall be of liquid measure, in which note, that one tun is 4
+hogs-heads, one hogs-head is 63 gallons, one gallon is 8 pints. tuns. hhd. gal.
+pints. 234 3 24 6 345 2 21 4 456 1 18 2 1036 3 01 4
+
+Here I only set down the example, and cast it up, without describing the work,
+to move the learner to take some pains to do the like for his practice.
+
+Substraction.
+Q. Tell me now what Substraction teaches?
+
+A. Substraction teaches to abate, or withdraw a lesser sum or number out of a
+greater, and to show the remainder or overplus.
+
+Q. How is that performed?
+
+A. First I set down the greater sum or number uppermost, and under it I draw a
+line, then I set the lesser sum under the line, observing to set each figure in
+its due place, under the greater sum, and then I begin at the first place, and
+abate the lower figure out of the higher, setting the remainder under it, a
+line being first drawn to separate them.
+
+Q. But what if the lower figure be greatest, how then shall it be abated
+from the higher?
+
+A. Then I must borrow one of the next place, which here signifies the value of
+ten, and abate it from ten, and the uppermost figure added together, and set
+down the overplus, or which is all one, abate it from ten, and adding the
+overplus with the uppermost figure, set the same down beneath the line for
+remainder.
+
+Q. What is next to be done?
+
+A. Then for the unite I borrowed, I add one to my lower figure in the next
+place, abating the same out of the figure over it, doing in all respects as
+before.
+
+Q. Give an example hereof.
+
+A. Then thus, If I have borrowed 4567 l. of which I have repaid 3675, what is
+behind? borrowed 4567 l. repaid 3675. rest behind 0892 proof 4567
+
+Where having placed my numbers duly under each other, I begin as before at the
+right hand, and say, 5 out of 7, there rests 2, which 2 I set underneath, as in
+the example, then I come to the next figure, saying, 7 from 6, I cannot,
+wherefore I borrow one of the next place, which signifies ten here, and so
+abate 7 out of 16, and set down the rest, which is 9 below the line; and
+insomuch as I borrowed one, therefore I carry one in mind, and say, in the
+next place, one that I borrowed and 6 is 7, which I should abate from 5 over
+it, which seeing I cannot do, I borrow one as I did before, and say, 7 out of
+15, there rests 8, which I set underneath the line, and go on as before,
+saying, one that I borrowed, and 3 is 4, which being abated from the 4 above
+it, rests nothing to set below, so that there remains behind 892 l. as in the
+example, the proof hereof is by adding the sum paid, and the remainder
+together, if they make up the sum borrowed, it is right, or else not.
+
+Q. But when you have a sum of several denominations to substract from another,
+how do you then?
+
+A. As in Addition I began at the smallest denomination to add, so here I begin
+with the same to substract, abating the lowest from the highest.
+
+Q. What if the upper figure be the least?
+
+A. Then I borrow one of the next denomination, and considering how many of the
+smaller is contained in one of those, I abate my figure or number to be
+abated, out of that which I borrowed, and the uppermost number being added
+together, and set the overplus below the line for the remainder.
+
+Q. Show by an example or two what you mean?
+
+A. To substract 8 d. from 1 s. 4 d. I say 8 d. from 4 d. I cannot, then I
+borrow one shilling, being the next place, which is 12 d. to which I add the 4
+d. that is above the line, it makes 16 d. and say, 8 d. from 16 d. rests 8 d.
+Again, 17 s. from 2 l. 12s. I say, 17 s. from 12 s. I cannot, but 17 s. from 1
+l. 12s. or 32 s. there rests 15 s. then considering I borrowed one pound, I say
+one pound that I borrowed from 2 l. rests one pound, so that there rests 1 l.
+15s. to set below the line, And I must always remember to reckon the one I
+borrowed to the figure that is to be subtracted in the next place.
+
+Q. Show this by an example or two of several denominations.
+
+A. Then here is one, if I abate 345 l. -- 16s, -- 8d. from 476 l. -- 13s. --
+4d. I would see what remains.
+
+I set my sums thus, l. s. d. 476 13 4 345 16 8 rest 130 16 8 proof 476 13 4
+
+Then beginning with the least denomination, which is pence, I say, 8 d. from 4
+d. I cannot, but I borrow one of the next denomination, which is shillings, and
+say, 8 d. from 1 s. 4d. and there rests 8 d. which I set under the pence, and
+then I say, one shilling I borrowed and 16 makes 17 s. from 13 s. I cannot, but
+I borrow one pound, and say, 17 s. from 1 l. 13 s. rests 16 s. then I say, 1 l.
+that I borrowed, and 5 l. is 6 l. from 6 l. rests nothing, so I set down a
+cipher in this place under the line, and go forward, saying 4 from 7, rests 3,
+which I set down, and then say, 3 from 4, rests 1, which I set beneath; and so
+there rests 130 l. 16 s. 8d.
+
+And as in Addition I left one example only cast up, for the learner to pause
+upon himself, and to imitate, so here I do the like. tun C. q l. o 345 11 2 24
+4 Substr. 256 13 3 20 8 rests 088 17 3 03 12 proof 345 11 2 24 4
+
+Multiplication.
+Q. What does Multiplication teach?
+
+A. Multiplication teaches after a brief and compendious way, to increase or
+augment any number, by so many times it self, as is any number propounded, as 4
+times, 10 times, etc.
+
+Q. What is considerable in this Rule?
+
+A. Three numbers are specially considerable, to wit, the multiplicand, or
+number that is to be multiplied, secondly, the multiplier, or number we
+multiply by, and thirdly, the product, which is the number produced by the
+multiplication of those two numbers each by other.
+
+Q. How many times does the product contain the multiplicand?
+
+A. Just so many times as there is unites in the multiplier.
+
+Q. How is Multiplication done?
+
+A. First I set down the multiplicand, which customarily is the greater number,
+and under it I set the multiplier, each figure in its due place, and draw a
+line underneath, then I begin at the first figure of the multiplier toward the
+right hand, and multiply it by the first figure of the multiplicand, and set
+the product right under it beneath the line, if it exceed not nine.
+
+Q. If it exceed nine, what then?
+
+A. Then I must keep in mind how many tens is in it, and carry so many unites
+to the next place, and set down the odd figure that is more than even tens
+underneath, but if it be even tens, then set down a cipher underneath.
+
+Q. And what is then to be done?
+
+A. Then I multiply the said first figure of the multiplier by the second
+figure of the multiplicand, and to the product add the unites reserved in my
+mind, and then do in all respects as I did before, and so I continue my work,
+till I have multiplied the first figure of the multiplier by all the figures of
+the multiplicand in order.
+
+Q. And what do you next?
+
+A. Then I multiply the second figure of the multiplier by all the figures of
+the multiplicand, in like sort as I did the first, only I must observe to set
+my first place in this second work, one place nearer the left hand, that it may
+fall right under the figure I multiply by.
+
+Q. What is the reason of that?
+
+A. Because every unite in the second place signifies 10, in the third place,
+100, etc.
+
+Q. Is this order then to be kept in a sum of many figures or places?
+
+A. Yea, the same order is to be observed in any sum, be the places never so
+many, I must still set my first figure right under the figure I multiply by,
+and then the rest in order toward the left hand.
+
+Q. Having so set down all your figures, what remains further to be done?
+
+A. Only to add the several numbers together in order, beginning still at the
+first place next the right hand.
+
+Q. Give one Example.
+
+A. Let this be it then. 2345 234 9380 7035 4690 548730
+
+
+Where first I say, 4 times 5 is 20, where I set a cipher below the line, and
+carry 2, then I say, 4 times 4 is 16, and 2 that I carried is 18, the 8 I set
+down below, and carry 1, then 4 times 3 is 12, and 1 that I carried is 13, then
+I set down 3, and carry one, 4 times 2 (or 2 times 4, for it is all one) makes
+8, and one that I carried is 9, which I set down in its place, and cancel the
+first figure of my multiplier, with a dash through it, to signify that it has
+done its office, then I begin with the next figure, saying, 3 times 5 is 15,
+the five I set down right under the 3 I multiply by, and carry one in mind,
+then I say, 3 times 4 is 12, and one that I carried is 13, the 3 I set down in
+the second place, and carry one, and say, 3 times 3 is 9, and one I carried is
+10, where I set down a (0) and carry one, then I say, 3 times 2 is 6, and one I
+carry is 7, which I set down, and cancel my second figure of the multiplier,
+and begin with the third, saying, 2 times 5 is 10, then I set down a cipher in
+that place right under my multiplier 2, and carry one in mind to the next
+place, then I say, 2 times 4 is 8, and one I carried is 9, which I set down in
+the next place, in order, then I say, 2 times 3 is 6, which I set in its due
+place, and lastly, I say, 2 times 2 is 4, which I write down also, so have I
+multiplied all my figures of the multiplier, by all the figures of the
+multiplicand, there remains to add up all into one sum, which to do I begin at
+the right hand, and work as in Addition, and so the product is 548730, as in
+the example.
+
+Here is another Example for Imitation.
+
+963852 3741 963852 3855408 6746964 2891556 3605770332
+Q. What proof is for Multiplication?
+
+A. The truest proof is by Division, but it is ordinarily proved thus, they
+make a cross X
+
+And then cast away so many nines as can be found in the multiplicand, and set
+the remainder on the upper side of the cross, and do the like with the
+multiplier, and set the remainder under the cross, then multiply the 2
+remaidners 1 by another, and cast out the nines out of the product of them,
+setting the rest at one side of the cross; and last of all cast out the nines
+out of the product of the Multiplication, and mark the rest, if it be like that
+which is placed on the side of the cross, it appears to be right, or else it
+is not well done. A Table for Multiplication to be got by heart.
+2 times 2 is 4 2 3 6 3 4 8 2 5 10 2 6 12 2 7 14 2 8 16 2 9 18 3 times 3 is 9 3
+4 12 3 5 15 3 6 18 3 7 21 3 8 24 3 9 27 4 times 4 is 16 4 5 20 4 6 24 4 times 7
+is 28 4 8 32 4 9 36 5 times 5 is 25 5 6 30 5 7 35 5 8 40 5 9 45 6 times 6 is 36
+6 7 42 6 8 48 6 9 54 7 times 7 is 49 7 8 56 7 9 63 8 times 8 is 64 8 9 72 9
+times 9 is 81
+
+Division.
+Q. Now show me what Division teaches?
+
+A. Division teaches to find how many times one number is contained in
+another number.
+
+Q. How many numbers are to be noted in any Division?
+
+A. Three, namely, the dividend, or number to be divided, secondly, the
+divisor, or number dividing, thirdly, the quotient, which shows how often the
+divisor is contained in the dividend.
+
+Q. In what manner is Division performed?
+
+A. First I set down my dividend, and under it I place my divisor, in such
+sort, that the figures next the left hand stand right under one another, and so
+each following place in order, except the divisor be a greater number than so
+many figures of the dividend as stand over it, for then the divisor must be
+removed a place nearer the right hand.
+
+Q. And what do you then?
+
+A. Then I draw a crooked line to the right hand of my figures, to place my
+quotient beyond, and I consider how often I can take the divisor, out of the
+number over it, and set the number of times in the quotient, and multiplying
+the said quotient figure by the divisor, I substract the product from the
+figures above the divisor, setting the remainder over head, cancelling the
+other figures that were over the divisor, and also the divisor.
+
+Q. And how proceed your further?
+
+A. Then I remove my divisor one place nearer the right hand, and consider as
+before how often I may take it out of the figures over head, and work in all
+points as before.
+
+Q. If there be many removings of the divisor, is that order still to be
+observed?
+
+A. Yea, where the divisor can be subtracted once or oftener out of the
+dividend.
+
+Q. But what if you cannot take the divisor out of the figures over it?
+
+A. I must then place a cipher in the quotient, and cancel the divisor, and
+remove it a place nearer the right hand, without cancelling the figures over
+head, and continue the work as before.
+
+Q. What else is to be observed in Division?
+
+A. If the divisor have any ciphers in the first places, they may be placed
+under the first places of the dividend, and divide only by the other figures,
+till I come to those ciphers.
+
+Q. What must be done with the number that remains after the division is ended?
+
+A. If any remainder be, I set it after the quotient, and the divisor under it,
+with a line drawn betwixt them, to express it in a fraction.
+
+Q. Give an Example or two in Division.
+
+A. Take this for one, to divid 30038 by 23, I set it down thus, 30038 ( 23
+
+
+Then having drawn a crooked line, to set the quotient in, I consider how often
+I can have my divisor, 23 in the number over it, which is 30, which I can have
+but once, therefore I say, once 2 is 2 from 3 that is over it, and there
+remains I, which I set over the 3, and cancel the 3, and also the 2 under it,
+and it stands thus, 1 30038 (1 23
+
+
+Then I say, once 3 is 3, from 10 that is over it, and there rests 7, and
+stands thus, 17 30038 (1 23
+
+
+Then I remove the divisor one place nearer the right hand,
+
+And it stands thus, 17 30038 (1 233 2
+
+
+Now I consider again as before, how often I can take 23 out of 70 that is over
+it, which I find I may do 3 times, therefore I put 3 down in the quotient, and
+say, 3 times 2 is 6, 6 out of 7, rests one, which I set over the 7, and cancel
+the 7, and the 2 under it, and say, 3 times 3 is 9, from 10 over it, rests one,
+and that I set over head, and cancel the 10, and the 3 under it, And then it
+stands thus, 1 171 30038 (13 233 ^
+
+
+Then I remove the divisor again, And it stands thus, 1 171 30038 (13 2333 22
+
+
+Then I consider that I cannot take my divisor 23 out of the number over it
+being but 13, so I set a cipher in the quotient, and cancel the divisor, and
+remove it one place more, and let the figures over it stand as they were, And
+then it stands thus, 1 171 30038 (130 23333 222
+
+
+Now I consider again how often I may take my divisor out of the number over
+it, which I find I may do 6 times, wherefore I set 6 in the quotient, and say,
+6 times 2 is 12, from 13 that is over it, and there rests one, which I set over
+head, and cancel 13, and 2 under it, And so it stands thus, 1 1711 30038 (1306
+23333 222
+
+
+Then I say 6 times 3 is 18, from 18 that is over it, rests nothing, And the
+whole work stands thus, 1 1711 30038 (1306 23333 222
+
+
+Here also I set an Example or two, for Imitation. Example.
+1 4231 20673 (5 456780 (18271 255555 2222
+(1 135 49253 (5 3692580 (82057 455555 4444
+
+
+Q. What proof is for Division?
+
+A. This, multiply the quotient by the divisor, and to the product add what
+remained after the Division was ended, if any such remainder, if then it amount
+justly to the dividend, it is well done, or else not.
+
+Q. You said Multiplication was best proved by Division, how is that proof done?
+
+A. By dividing the product of the Multiplication by the multiplier, if then,
+the quotient comes justly to the multiplicand, it is well done, or else you
+have failed.
+
+Q Now having spoken of the five first kinds or rules of Arithmetic, let us
+come to the application of them, to use, therefore now tell me what use may
+be made thereof?
+
+A The uses are so many, and so necessary, that it would require a large volume
+to declare them, and I resolve brevity.
+
+Q. Yet I desire to hear some of them, where the same may be made profitable?
+
+A. Then for as much as many of the applications hereof require Reduction, I
+think it needful to begin first with it.
+
+Reduction.
+Q. What does Reduction teach?
+
+A. It teaches to turn or change numbers of one denomination, into another
+denomination, as pounds into shillings, or shillings into pence, or pence into
+farthings; or contrarily, farthings into pence, pence into shillings, or
+shillings into pounds, etc. The like may be said of weight, measures, time,
+etc.
+
+Q. How do you turn pounds into shillings?
+
+A. I consider 20 s. is one pound, therefore there must be 20 times so many
+shillings, as there is pounds, so that multiplying the number of pounds by 20,
+the product shows the number of shillings.
+
+Q. Is the worth or value of the things so reduced (changed or) altered?
+
+A. No, only the number and denomination is changed, but the first value
+remains still, like as 20 s. is just equal to one pound, and 12 d. equal to
+one shilling, etc.
+
+Q. How change you a number of shillings into a number of pence?
+
+A. For as much as 12 d. is in each shilling, there must be 12 times so many
+pence as there is shillings, therefore I multiply the number of shillings by
+12, and the product is my desire.
+
+Q. How reduce you farthings into pence?
+
+A. Seeing 4 farthings make but one penny, therefore there is but a fourth part
+so many pence as there is farthings, wherefore I divide the number of farthings
+by 4, and the quotient is my desire.
+
+Q. And how will you turn pence into shillings, and shillings into pounds?
+
+A. I divide pence by 12, to turn them into shillings, and shillings by 20 to
+turn them into pounds.
+
+Q. Why so?
+
+A. Because 12 d. is but one shilling, and 20 s. is but one pound.
+
+Q. Is there the like reason for weight, measures, time, etc?
+
+A. Yea, altogether, for I am to consider how many of the one sort or
+denomination will make one of the other, and so multiply by that number, to
+turn the greater parts into the smaller, or divide by the same number to turn
+the smaller parts into the greater.
+
+Q. Give an Example in weight.
+
+A. To turn 256 tuns, into C. q. l. o. I do thus,
+
+First I multiply 256 by 20, because there are 20 C. in each tun, and then the
+product is Cds. then to turn those into q I multiply by 4, and that product is
+my desire; to turn that into ls. I multiply by 28, for that each q is 28 l. and
+the product is pounds, then to turn those pounds into ounces, I multiply by 16,
+and the product is the solution, etc. Example.
+256 tuns. 20 5120 C. 4 20480 q s. 28 163840 4096 573440 l. 16 3440640 57344
+9175040 o.
+
+
+To turn ounces into pounds, divide by 16, the quotient is ls. divide pounds by
+28, the quotient is q s, divide the q s by 4, the quotient is C. divide Cds. by
+20, the quotient is tuns, as may be proved by working the Example above
+backwards, and this I judge will suffice to explain this part of the Rule.
+
+Q. Is there no kind of Reduction that requires both Multiplication and
+Division?
+
+A. Yes, when a certain number of the one sort makes another number of the
+other sort; As for example, when 3 marks makes 2 pounds, then to turn marks
+into pounds, I must multiply by 2, and divide by 3, the quotient is my desire,
+but to turn pounds into marks, I must multiply by 3, and divide by 2, and the
+quotient is my desired number.
+
+Q. Show the like instance in long measures.
+
+A. Four Else is equal to five Yards, therefore any number of Yards given, to
+know how many Else it contains, I multiply by 4, and divide by 5, but if the
+number given be Else, and I would know how many Yards it is, I multiply by 5,
+and divide by 4, and the quotient is my desire.
+
+Q. May the like Reduction be made in other things?
+
+A. Yea, for 3 l. starling is worth 5 l. Flemmish, therefore any number of
+pounds starling being multiplied by 5, and the product divided by 3, the
+quotient shows the number of pounds Flemmish, or-any number of pounds Flemmish,
+being multiplied by 3, and the product divided by 5, declares the number of
+pounds starling in the quotient, the like proportion is in Flemmish Else, and
+English Else, because 5 Else Flemmish is but 3 Else English, etc.
+
+Q. Is there the like reason for other things?
+
+A. Yea, whether coins, weights, measures, etc.
+
+Q. But what if any remainder be in the Division?
+
+A. It must be expressed in a fraction as before.
+
+The Rule of Three.
+Q. What other use is it for?
+
+A. The next use I shall apply it to, is the Rule of proportion, commonly
+called, the Rule of Three, and for the usefulnes of it, the Golden Rule.
+
+Q. What does the Rule of Three teach?
+
+A. It teaches by 3 known numbers to find a fourth, either in continual
+proportion, or discontinual proportion.
+
+Q. What call you continual proportion?
+
+A. When the numbers are such as hold such proportion among themselves, that
+what proportion the first has to the second, the like has the second to the
+third, and the third to the fourth, as are 1, 3, 9, 27, and also 2, 4, 8, 16,
+etc.
+
+Q. How find you a number in continual proportion?
+
+A. I multiply the second number by it self, and divide the product by the
+first number, and the quotient is my desire.
+
+Q. But how agrees this with your former words, where you said, that this Rule
+teaches by three numbers to find a fourth?
+
+A. Very well, for the second number here is taken twice, that is, both for the
+second and third, and the fourth number that is found out, is the third number
+in continual proportion.
+
+Q. Show an Example.
+
+A. Thus, if 3 give 9, what gives 9, here I multiply 9 by 9, gives 81, which
+divided by 3, the first number, the quotient is 27, being the third number in
+continual proportion, so that the 3 numbers are here, 3. 9. 27.
+
+Q. And how find you a fourth number in continual proportion?
+
+A. Here I may either multiply the third by it self, and divide by the second,
+or else multiply the second and third together, and divide by the first, and
+the quotient is my desire.
+
+Q. Give an Example.
+
+A. Take the former numbers, and first the former way, I multiply the 3 by it
+self ( viz.) 27 by 27 thus, 27 27 189 0 54 729 (81 729 99 comes 81 for the
+fourth.
+
+Or secondly, multiply the second and third together, and divide by the first
+thus, 27 00 9 243 (81 243 33 comes 81 as before.
+
+Q. What is discontinual proportion?
+
+A. Where the first and second hold like proportion each to other, as the third
+and fourth do each to other, but the second and third hold not that proportion
+together.
+
+Q. How is the fourth number in discontinual proportion found?
+
+A. By multiplying the second number by the third, and dividing by the first,
+as before.
+
+Q. What use may be made of these proportionals thus found?
+
+A. They may be applied to many uses, according to the several employments men
+are exercised in; as in Merchandising, Measuring heights or distances,
+magnitudes or quantities, etc.
+
+Q. How may they be so applied?
+
+A. Thus, if 3 yards of cloth cost 12 s. what will 5 yards cost at that rate?
+here 3 yards is the first number, and 12 s. the second, and 5 yards the third,
+therefore I multiply the second by the third, comes 60, which divided by the
+first, the quotient is 20 s. my demand.
+
+Q. How shall I know which number ought to be first, that I may not mistake,
+and so work false?
+
+A. You must observe that the first number and the third are of one kind, and
+are, or ought to be reduced to one denomination, and the second number is of
+that kind which is sought in the question, so that the first and second
+declare the proportion, and the third number is annexed with the demand.
+
+Q. Make this plainer by Example.
+
+A. In the former Example 3 yards and 5 yards are both of one kind, to wit,
+yards, the second or middle number is 12, and is of another kind, namely,
+shillings, now 3 yards and 12 s. declare the proportion, and are the first and
+second numbers; Now, 5 being that with which the demand is joined (as what cost
+5 yards) is the third number, and the fourth number (resolving the question) is
+of the same kind the second is of, to wit, here shillings.
+
+Q. What if the numbers be of several denominations, as of l. -- s. -- d. etc?
+
+A. They must be reduced to one denomination first, before you apply them to
+the Rule, and the second (or middle) number must be reduced into the
+denomination of its smallest parts, in which parts the question is resolved by
+the fourth number.
+
+Q. Give an Example hereof.
+
+A. If 3 yards and 3 quarters cost 11 s. 3d. what cost 16 yards; here the first
+and third numbers being both measure, must be turned into q s, and the first
+will be 15, and the third 64, the second or middle number must be turned into
+pence, and will be 135 d. now work by the Rule, multiply the second and third
+together, being set in order thus,
+
+If 15 q s. cost 135 d. what cost 64 q s? 64 540 810 8640
+
+
+Divide the product by the first. 143 3190 8640 (576 1555 11
+
+
+Comes 576 for solution, which are pence, like the middle number, which I
+reduce into shillings and pounds thus, 1 190 (0 576 (4 8 (2 122 (20 1
+
+
+Comes for solution -- 2 l. -- 8s. ^d.
+
+Q. And what do you further?
+
+A. I reduce those smallest parts into a denomination of greater parts of its
+own kind if I can, for the more easy estimation of their value.
+
+The Backer Rule of Three.
+Q. Is there any other manner of Work in the Rule of Three?
+
+A. Yea, there is another manner of work called the Backer Rule of Three.
+
+Q. Why is it called the Backer Rule of Three?
+
+A. Because in the former we multiply the second by the third, and divide by
+the first, but in this we multiply the first by the second, and divide by the
+third number.
+
+Q. What is the use of this Rule?
+
+A. It serves to find out a number that holds proportion to the first, as the
+third does to the second.
+
+Q. Of what use is such proportional numbers?
+
+A. The use is manifold, as by example may appear.
+
+Show 2 or 3 Examples.
+
+A. First, if 5 men do a piece of work in 15 days, how many men will do the
+like in 3 days? here I multiply the first by the second, comes 75, which
+divided by the third, yields 25 in the quotient, being the number of men
+demanded.
+
+Q. What is a second Example?
+
+A. This, if a quantity of provision serve 40 men 30 days, how many men will
+it serve 80 days? here I multiply and divide according to rule, and find 15
+men.
+
+Q. Give one example more.
+
+A. Then thus, If 9 yards of cloth, of yard broad, make a man a suit and
+cloak, how much broad cloth of yard and half broad will make another so large;
+here I multiply 4 q, the breadth of the first cloth, by 9 yards the length
+thereof, and divide by 6 q the second breadth, and it yields 6 yards for the
+length of the second cloth.
+
+Q. Is there any other use hereof?
+
+A. Yea, many, which the studious may find by practice, but these shall serve
+at present for an entrance.
+
+Q. What if any thing remain after the Division is ended?
+
+A. It must be annexed to the whole number in the quotient, with the divisor
+under it, and a small line drawn between them, so expressing it in a fraction.
+
+Numeration in fractions.
+Q. Now tell me what use fractions are of in Arithmetic?
+
+A. They are of like use with whole numbers.
+
+Q. And are there the same kinds or species in fractions, as in whole numbers?
+
+A. Yea, only some put a difference in the order of teaching them, that the
+easiest may be first taught.
+
+Q. But what mean you by species?
+
+A. I mean several kinds of working, or several Rules, as some call them.
+
+Q. Then rehearse the order of Rules as they are taught.
+
+A. Numeration, Reduction, Multiplication, Division, Addition, Substraction.
+
+Q. What shows Numeration in fractions?
+
+A. It shows how to set down, or express any fraction, part or parts of an
+unite.
+
+Q. how is that done?
+
+A. It is done by setting down two numbers one over another, with a line drawn
+betwixt them, whereof the lower number signifies how many parts the whole
+unite is divided (or supposed to be divided) into; and the uppermost number
+shows how many of those parts the fraction contains.
+
+Q. How are those two numbers called?
+
+A. The uppermost, (or number above the line) is called the numerator, and the
+other below the line is called the denominator.
+
+Q. Show an Example or two to explain this.
+
+A. Three quarters is set down, with a 4 under the line, signifying the number
+of parts the unite is divided into; and 3 above the line, showing how many of
+those parts the fraction expresses or signifies.
+
+Q. Give another Example.
+
+A. Five seventh parts is expressed by 5 above the line, and 7 below it, thus 5/7.
+
+Q. Is the greatest number always set lowest?
+
+A. Yea, in such as are proper fractions.
+
+Q. Are there then any improper fractions?
+
+A. There are sometimes whole numbers or mixed numbers expressed in form of
+fractions, which are not properly fractions, because a fraction is always
+lesser than an unite, but these are either equal to, or greater than an unite.
+
+Q. Explain this by an Example or two.
+
+A. Two halfs 2/2, three thirds 3/3, five fifths, 5/5, etc. are whole unites,
+only expressed like fractions; also nine quarters is a mixed number expressed thus,
+9/4, and signifies two unites and a quarter more.
+
+Q. Why are such expressed like fractions?
+
+A. For aptness, or for ease in working.
+
+Q. What else is considerable in Numeration?
+
+A. This, that as numbers increase infinitely above an unite, so fractions
+decrease or grow less infinitely under an unite.
+
+Q. I remember you mentioned decimal fractions before, how are such expressed?
+
+A. They are expressed by an unite, and 1, 2, 3, 4. or more ciphers below the
+line, according to the number of places, or parts the fraction is expressed in,
+and with figures and ciphers above the line, expressing the number of such
+parts that the fraction contains.
+
+Q. Make this plain by an Example, two or three.
+
+A. One half or 5 tenths is expressed by 5 above the line, and an unite with one
+cipher, signifying ten or tenths under the line thus 5/10.
+
+Secondly, 1/4, or 25 hundreds, is writ with 25 above the line, and 100 under
+the line thus 35/100.
+
+Q. How set you down 75 thousand parts?
+
+A. Thus with a cipher, a 7, and a 5 above the line, and an unite and three
+ciphers below the line, 075/1000.
+
+Q. Are decimals always expressed thus?
+
+A. They are often expressed by their numerator, only separated from the unite
+place by a prick, and the denominator is understood to consist of so many
+ciphers, as there are places in the numerator, and an unite before them to the
+left hand.
+
+Q. Show me one Example or two.
+
+A. First, Five hundreths is writ with a cipher, and a 5 thus 05, where 100 is
+understood for denominator.
+
+Secondly, 34 ten thousand parts is expressed thus 0034, where 10000 is
+understood for denominator.
+
+Q. Is there any thing more herein to be noted, before we leave numeration?
+
+A. Yea, that not an unite only may be divided infinitely into fractions or
+parts, but also any of those parts or fractions may be divided also infinitely
+into other parts, called fractions of fractions, and those also again
+subdivided infinitely, etc.
+
+Reduction.
+Q. Now tell me what is Reduction?
+
+A. Reduction is a changing of numbers or fractions out of one form or
+denomination, into another.
+
+Q. Why are they so reduced?
+
+A. Either for more ease in working, or for the more easy estimation of the
+value of two or more fractions, either compared one with another, or adding
+them together, or substracting one from another.
+
+Q. How are fractions of several denominations reduced to one denomination?
+
+A. First multiply the denominators together, and set the product for a common
+denominator; then multiply the numerator of the first, by the denominator of
+the second, and set the product for a new numerator for the first fraction; and
+multiply the numerator of the second, by the denominator of the first, and set
+the product for the new numerator of the second fraction, and so are both those
+fractions brought into one denomination.
+
+Q. Give an Example hereof?
+
+A. Two thirds and three quarters, being so reduced, make 8/12 for 2/3, and
+9/12 for 3/4, which yet still retain their first value, but are now both of one
+denomination.
+
+Q. You have showed how to reduce two Fractions into one denomination, but what
+if there be three or more?
+
+A. Then I must multiply all the denominators together, and set the product
+down so many times as there be fractions, for a common denominator to them;
+and then multiply the numerator of the first, by the denominator of the second,
+and the product by the denominator of the third, and that by the denominator of
+the fourth, if I have so many, and so forward, and the product is a new
+numerator for the first fraction; then multiply the numerator of the second, by
+the denominator of the first, and the product by the denominators of the third
+and fourth, and so forward, if you have so many, and set the product for a new
+numerator for the second fraction, and multiply your third numerator by the
+first and second denominators, and the product by the denominator of the
+fourth, if you have to many, and that product is your third numerator; then if
+you have so many, multiply the numerator of the fourth by the other three
+denominators, the product is a new numerator for the fourth fraction, etc.
+
+Q. Must this order then be observed still, when you have many fractions?
+
+A. Yea, always multiply all the denominators together for a new denominator,
+and one numerator by all the other denominators, except its own, the product is
+a new numerator for that fraction whose numerator was taken to multiply by.
+
+Q. Is there any other form of reducing to one denomination?
+
+A. Yea, several varieties.
+
+Q. What is one way?
+
+A. This is one, when you have found a new denominator as above, then divide
+the same by the denominator of any of your fractions, and multiply the quotient
+by the numerator of the same, and the product shall be a new numerator for
+that fraction, etc.
+
+Q. What is another way?
+
+A. If the lesser denominator will by any multiplication make the greater, then
+note the multiplier, and by it multiply the numerator over the lesser
+denominator, and in place of the lesser put the greater denominator, and so it
+is done without any of the other fractions.
+
+Q. What other sort of Reduction is there?
+
+A. A second sort is when fractions of fractions are to be reduced to one
+denomination.
+
+Q. How is that done?
+
+A. By multiplying the numerators each into other, and setting the product for
+a new numerator, and in like sort multiply all the denominators each into
+other, and take that product for a new denominator, and then they express it in
+the parts of a simple fraction.
+
+Q. What if I have a mixed number of unites, and parts to be reduced into
+fraction form?
+
+A. Multiply the unites or whole number by the denominator of the fraction, and
+thereto add the numerator of the fraction, and set the offcome above the line
+over the said denominator.
+
+Q And how reduce you such an improper fraction into its unites and parts?
+
+A. I must divide the numerator by the denominator, and the quotient shows how
+many unites it contains, and the remainder, if any be, is the numerator of a
+fraction, over and above the said unites in the quotient, to which the divisor
+is denominator.
+
+Q. How is a whole number reduced into the form of a fraction?
+
+A. By multiplying it by that number, which you would have denominator to it.
+
+Q. What is next in Reduction of Fractions?
+
+A. To reduce a fraction into its smallest or least t^rms.
+
+Q. What be the terms of a Fraction?
+
+A. The terms be the numerator and denominator whereby it is expressed.
+
+Q. What mean you by greatness and smalness of terms?
+
+A. By great, I mean, when a fraction is expressed in great numbers, as 480/960
+which in its smallest terms is (1/2) one half.
+
+Q. How are such reduced into their smallest terms?
+
+A. If they be both even numbers by halfing them both so often as you can, but
+if they come to be odd, or either of them odd, then by dividing them by 3, 5,
+7, 9, etc. which will divide them both, without any remainder, and take the
+last numbers for the terms of the fraction.
+
+Q. But is there no way to discover what number would reduce a fraction into
+its smallest terms, but by halfing or parting in that sort?
+
+A. Yes, thus, divide the denominator by the numerator, and if any thing
+remain, divide the numerator by it, and if yet any thing remain, divide the
+last divisor by it, and so do till nothing remain, and with your last divisor,
+which leaves no remainder, divide the numerator of the fraction, and the
+quotient is a new numerator, and divide the denominator in like sort by it, and
+the quotient is a new denominator.
+
+Q. What if no number will divide them evenly, till it come to one?
+
+A. Then the fraction is in its smallest terms already.
+
+Q. How reduce you fractions of one denomination, into another denomination?
+
+A. I multiply the numerator by the denominator, into which I would reduce it,
+and divide the product by the first denominator, and the quotient is the new
+numerator.
+
+Q. Give an Example of this.
+
+A. If 3/4 be to be turned into twelfth parts, I multiply 12 by 3 comes 36,
+which I divide by 4, the quotient is 9, so it is 9/12, equal to 3/4.
+
+Multiplication in Fractions.
+Q. How do you multiply in Fractions?
+
+A. I multiply the numerators together for a new numerator, and multiply the
+denominators together for a new denominator, which numerator and denominator,
+so found, express the product of that multiplication.
+
+Q. What other thing of note it observable in Multiplication of Fractions?
+
+A. That two Fractions multiplied together, the product is lesser than either
+of the fractions.
+
+Q. How comes that to be, seeing the very name of Multiplication signifies to
+augment or increase a thing manifold, or many times?
+
+A. That is true, in whole numbers. where a number is increased by so many
+times as the multiplier contains unites, but in fractions we must note, that
+the multiplier being less than one, it makes the product lesser than the
+multiplicand; for so often as the multiplier contains unites, just so often
+does the product contain the multiplicand, therefore (in fractions) feeing the
+multiplier does contain but such a part or parts of an unite, even so the
+product does contain but the like part or parts of the multiplicand.
+
+Division in Fractions.
+Q. How is Division in Fractions performed?
+
+A. Thus, I multiply the numerator of the dividend by the denominator of the
+divisor, the product is a new numerator, then multiply the numerator of the
+divisor by the denominator of the dividend, the product is a new denominator,
+and this third fraction is the quotient of that division.
+
+Q. Show an Example.
+
+A. If I divide 3/^ by 1/^, the quotient is 3/4.
+
+Q. How comes it to pass that in Division by a fraction the quotion is greater
+than the dividend?
+
+A. Because the divisor being lesser than an unite, is consequently oftener
+contained in the dividend, for always the quotient shows how often the divisor
+is contained in the dividend.
+
+Q. How is a whole number divided by a fraction?
+
+A. I multiply the whole number by the denominator of the fraction, and set the
+product for numerator, and for a denominator, I set the numerator of the
+fraction.
+
+Q. How is a fraction divided by a whole number?
+
+A. By multiplying the denominator by the whole number, setting the product for
+a new denominator, without changing the numerator at all.
+
+Q. May this be done otherwise?
+
+A. Yea, if the whole number will evenly divide the numerator of the fraction,
+then divide it by it, and set the quotient for numerator, and change not the
+denominator at all.
+
+Addition in Fractions.
+Q. How are two or more fractions added together?
+
+A. If they be of one denomination, then add the numerators together in one,
+and under it place the common denominator, and that fraction represents the
+total of that Addition.
+
+Q. But what if they be of several denominations?
+
+A. Then I first reduce them to one denomination, and then add their numerators
+together.
+
+Substraction in Fractions.
+Q. How substract you one fraction from another?
+
+A. If they be not of one denomination, I reduce them to one, and then
+substract the lesser numerator from the greater, and set the rest for a new
+numerator over the common denominator.
+
+Q. But what if you be to substract a mixed number from another, or from a
+whole number?
+
+A. I may as before reduce them to one denomination, and then substract one
+numerator from the other, or I may substract the fraction of it from an unite
+converted into the same denomination, and carry one in mind to the whole
+number, and then substract it out of the other whole number.
+
+Several other means may be used in these works of fractions, but I forbear to
+mention them, for brevity sake, and come to the Rule of Three.
+
+The Rule of Three in Fractions.
+Q. How work you the Rule of Three in Fractions?
+
+A. First I place the numbers as was showed in whole numbers, and then multiply
+the numerator of the first by the denominator of the second, and the product by
+the denominator of the third, and the product thereof must be my divisor; then
+I multiply the denominator of the first, by the numerator of the second, and
+the product by the numerator of the third, and the offcome is my dividend, then
+I divide the dividend by the divisor, and the quotient is the fourth number,
+and answers the question.
+
+Q. Is there any other way to work the Rule of Three?
+
+A. Yea diverse, whereof this is one, find the divisor or first number, as
+before, then for the second number, take the numerator of the second fraction,
+and for the third number, take the number that comes by Multiplication of the
+numerator of the third by the denominator of the first fraction, and then work
+as in whole numbers.
+
+Q. What proof is there for the Rule of Three?
+
+A. Multiply the second and third numbers together, and multiply the first and
+fourth numbers together, and if the products be equal, it is right, or else it
+is not right.
+
+Q. Give an Example in the Rule of Three.
+
+A. If 4/5 of an Ell cost 3/^ of a pound, what is 1/^ of an Ell worth? here I
+multiply 4 by 8, comes 32, and that by 3 comes 96 for divisor, then multiply 5
+by 3 is 15, and that by 2 makes 30, for dividend or numerator, so it is 30/^6,
+or in the smallest terms, 5/16 of a pound.
+
+Q. Examine this by the proof.
+
+A. Multiply 3/^ by 2/^ comes 6/24, or 1/4, again multiply 4/5 by 5/16 comes
+20/80, or 1/4 likewise.
+
+The Backer Rule of Three.
+Q. How work you the Backer Rule of Three in Fractions?
+
+A. Thus, I multiply the numerators of the first and second numbers together,
+and the offcome by the denominator of the third, and the product is my
+dividend, then I multiply the denominators of the first and second together;
+and the offcome by the numerator of the third, and that product is my divisor,
+wherewith I divide my dividend, and the quotient resolves the question.
+
+Q. Show an Example hereof.
+
+A. If my friend lend me 4/^ of a pound for 2/3 of a year, or 8 months, how
+long ought I to lend him 2/^ of a pound to requite his courtesy?
+
+A. I say, if 4/^ give 2/^, what shall 2/^ give, where I multiply 4 by 2 yields
+8, and 8 by 3 comes 24 for dividend, then I multiply 5 by 3 comes 15, and that
+by 2 gives 30 for divisor, and so placing the dividend over the divisor, I have
+24/^^, or in the smallest terms 4/^ of a year, for the resolution of the
+question, which is the time I ought to lend him 2/^ l. to requite his courtesy.
+
+Q. I observe, that where the Rule of Three Direct would give the fourth number
+more than the second, this gives it less, and where it would give it less, this
+gives it more, what is the reason of that?
+
+A. We are to consider in this Rule, that the less money lent, requires the more
+time forbearance to balance the other; and in like sort, the less breadth a
+thing is of, the more length it requires to make it equal with a quantity of
+more breadth; in like manner, the more men that are employed to do a piece of
+work in, the less time they will do it; so the fewer men that are to live upon
+a quantity of provision, the longer time it will last, etc.
+
+The Double Rule of Three.
+Q. Is there any other form in the Rule of Three, besides the above said?
+
+A. Yea, there is diverse which resolve double questions, and therefore are
+called, the Double Rule of Three, or the Rule of Three composed of 5 numbers.
+
+Q. What manner of questions does this Rule resolve?
+
+A. Either such as are uncompound, or compound.
+
+Q. What mean you by uncompound, or compound?
+
+A. I mean by uncompound, such as are done by the Rule of Three Direct at two
+workings, by compound, such as are done by once working by the Rule of Three
+Direct, and another by the Backer Rule of Three.
+
+Q. What is one question of the former sort?
+
+A. If 5 men in 6 days earn 3 l. how much will 10 men earn in 12 days?
+
+Q. And how is this done?
+
+A. Either by two several workings by the Rule of Three, or it may be resolved
+at once.
+
+Q. First show me how it is done at two workings?
+
+A. First I say, if 5 men earn 3 l. what will 10 men earn, it gives 6 l. for 6
+days; then again, if 6 days gives 6 l. what gives 13 days? facit 12l.
+
+Or secondly, I may say 6 days gives 3 l. what gives 12 days? comes 6 l. for
+5 men; and then, if 5 men earn 6 l. what will 10 men earn? and it comes to 12
+l. as before.
+
+Q. How is this performed at one working?
+
+A. Thus, I say according to the question, If 5 men in 6 days earn 3 l. what
+earn 10 men in 12 days, then I multiply the first by the second, viz. 5 by 6
+comes 30, which I keep for my divisor, then I multiply the other three numbers
+each into other, comes 360 for my dividend, which being divided by my divisor,
+gives 12 in the quotient, which signifies so many pounds, being of the
+denomination of the middle number.
+
+Q. Now show an Example of a compound question.
+
+A. Take this, if 5 men in 6 days earn 3 l. in how long time will 3 men earn 5
+l. where first I say, if 3 l. give 6 days, what will 5 l. give? comes 10
+days; then by the Backer Rule of Three, If 5 men be 10 days in earning it,
+how long will 3 men be? and it gives 16 2/^ days.
+
+Q. And how is this done at one working?
+
+A. I say, if to earn 3 l. 5 men be employed 6 days, then to earn 5 l. by 3
+men, what time is required? where I multiply the first number and the fifth
+number together (being the least sum of money, and the least number of men)
+comes 9 for divisor, then I multiply the other three numbers together, comes
+150 for my dividend, which being divided, gives 16 in the quotient, and 6
+remains, which abreviated or reduced to the least terms, is 2/3 so the whole is
+16 2/3 days, as before.
+
+Q. What is another question of this sort?
+
+A. This, 30 men work 40 yards of Arras in 6 days, in how long time will 15
+men work 80 yards of the like Arras?
+
+Q. How is this done at two workings?
+
+A. First I say, if 40 yards require 6 days, how long time will 80 yards
+require? (by the Rule of Three Direct) comes 12 days; then I say, if 30 men
+be 12 days about it, how long will 15 men be about it by the Backer Rule?
+and it comes to 24 days.
+
+Q. How is this performed at one working?
+
+A. I say thus, if 40 yards require 30 men for 6 days, then to do 80 yards by
+15 men, how long time will it require? where I multiply the first number, being
+40 yards, by the fifth number, being 15 men, that is the least number of yards,
+and the least number of men together, that is, 40 by 15 comes 600 for my
+divisor, then I multiply the other three numbers together, ( viz.) 30 by 6
+comes 180, and that by 80 comes 14400 for my dividend, which I divide by my
+divisor, the quotient is 24 as before, being so many days, according to the
+denomination of the middle number.
+
+Thus having briefly and plainly explained the Rules, I shall set down some
+questions, with their resolutions, omitting the work, that the young learner
+may practice himself in them, or such like, to make himself the more ready in
+this Art.
+
+In Reduction.
+In 264 l. how many shillings is there? facit 5280s.
+
+In 10560 s. how many pence is there? facit 126720d.
+
+In 63360 d. how many shillings is there? facit 5280s.
+
+In 10560 s. how many pounds is there? facit 528l.
+
+In 2650 Else Flemmish, how many Else English? facit 1590.
+
+In 3180 English Else, how many Flemmish Else is there? facit 5300.
+
+In the Rule of Three.
+If 42 yards cost 28 l. what cost 30 yards? facit 20l.
+
+If 20 l. buy 30 yards, how much will 28 l. buy? facit 42 yards.
+
+If 30 yards cost 20 l. what will 42 yards cost? facit 28l.
+
+If 28 l. buy 42 yards, how much will 20 l. buy? facit 30 yards.
+
+I have varied this question purposely to show the learner how he may do the
+like with any other.
+
+If 3 marks be worth 2 l. what is 369 marks worth? facit 246l.
+
+If 20 nobles be worth 6 l. 13s. 4d. what is 1000 nobles worth? facit 333l. 6s.
+8d.
+
+If 6 o. of cloves cost 2 s. 6d. what cost 16 o. facit 6s. 8d.
+
+If 1 C weight cost 18 s. 8d. what cost 12 l. facit 2s.
+
+If 6 l. cost 1 s. 6d. what cost 112 l. facit 1l. 8s.
+
+For the Backer Rule of Three.
+If 5 men do a piece of work in 8 days, how many men will do the like in 2
+days? facit 20 men.
+
+If 20 men do a piece of work in 2 days, in how long time will 8 men do the
+like? facit 5 days.
+
+If a quantity of provision serve 360 men 45 days, how long will it serve 288
+men? facit 56 ^^/^^^ days, or 65 1/4 days.
+
+If 5 yards of cloth that is yard and half broad, make a man a gown, how much
+baize of yard broad will line it throughout? facit 7 1/2 yards.
+
+If a foot of board be 12 inches long, and 12 inches broad, how much will make
+a foot of that board that is but 9 inches broad? facit 16 inches in length.
+
+If I have a plot of ground that is 36 foot broad, and 64 foot long, which I
+would exchange for so much of another field that is 48 foot broad, how much
+ought I to have in length of the second? facit 6^ foot.
+
+FINIS.
+

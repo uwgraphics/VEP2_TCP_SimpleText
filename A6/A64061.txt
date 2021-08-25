@@ -1,0 +1,1095 @@
+THE USE OF THE General Planisphere, CALLED THE Analemma, In the Resolution of
+some of the Chief and most useful PROBLEMS OF ASTRONOMY.
+
+By Dr. John Twysden.
+
+LONDON, Printed by J. Gain, for Walter Hayes, Mathematical-Instrument Maker;
+and are to be sold at his House at the Cross Daggers in Moor-Fields, 1685.
+
+The EPISTLE TO THE READER.
+Courteous Reader,
+I Did not think to have appeared any more in the World in a Subject of this
+Nature, being now far declined in Years; and in that regard, more fit to have
+employed the short Remains of my now languishing Taper in such Meditations as
+might make me ready to appear before that Tribunal, where those who shall be
+thought Worthy, shall know the truth of these things, not by Discourse and
+Connection of Consequences, but by that Intuition which shall proceed from the
+Author of all Causes and Things, even God himself.
+
+But the Desire of Friends has overruled my own Inclinations, and prevailed
+with me to present to thy View and Perusal these ensuing Treatises. The first
+contains the Uses of the Analemma, an Old Instrument, but in my Judgment, a
+very good one, and by which most Problems in the Solution of Plain or Spherical
+Triangles, are Resolved with great Facility, and without much cumber or use of
+Compasses. It Is an Instrument easily made, there being only the great Meridian,
+which is a Circle, the other Meridians are Ellipses, which by Elliptical
+Compasses fitly placed, may be as easily and truly drawn as Circles are with a
+Beam or Bow; the other are all straight Lines, and divided Sinically. I have
+one newly drawn by me by Hand, upon a Board pasted over with Pastboard, between
+nine or ten Inches Diameter, which I have made use of in the Solution of many
+Astronomical Problems, with as much Accuracy as can be expected from an
+Instrument of that size. Let not any man believe that I go about here to
+commend the Use of Instruments any way to stand in Competion with the natural
+way of Computation by the Canon, but only as Assistants to those, who being
+engaged in great Computations, may easily commit an Error, which an Instrument
+well made will soon discover. I shall not describe the manner of making it,
+that being sufficiently done by many others. Mr. Blagrave in his Mathematical
+Jewel finds fault, that the Meridians toward the Noon-Line are very narrow and
+close together. It Is true, they are so, the manner of this Projection of the
+Sphere requiring it: but to compensate this, the Reader may consider, that the
+Hour-Spaces farther from the Meridian, enlarge themselves where his grow
+narrower: nay, where they are broadest, the Parallels in the Matter, and
+Almicanters in the Rete will sometimes, run in the same Line, so that it will
+be troublesome to find the Meridian you desire. I would not be thought to speak
+this in the least manner to lessen the Honor of Mr. Blagrave in his most
+excellent Invention of applying a Rete to the Matter of Gemm-Friseus his
+Astrolabe; by which Addition the Triangle lies open to your eye, or the careful
+Embellishing, I should rather say, new Moulding, or Framing it, by my very
+Learned Friend, and Skilful Mathematician Mr. John Palmer, Rector of Ecton, and
+Archdeacon of Northampton. But to show the Difficulty in the making it, where
+besides the cutting out the Rete, the Circles must exactly agree to one
+another, or else the Instrument will be of little Value; which to observe, will
+require a greater Care than you will easily persuade a Workman to take. I have
+lately had two made for me in Brass, of about eight Inches Diamiter, the one an
+Analemma, the other Blagrave's Jewel, both very well made by my very good
+Friend Mr. Walter Hays, who does employ and direct the best, or as good Workmen
+as any are, to perform what his Age or Infirmity makes him unable to perform
+with his own Hands. In this he is much to be commended, that you will very
+seldom find him out of Doors, and to be sought in Alehouses or Taverns, where
+many a good Workman spends much of his time. The Uses now given thee, were by
+me applied to this Instrument many years since, when I was at Paris, about the
+Year 1645, which has made me in some of the Examples make use of the Elevation
+of the Pole of that Place. Many others I have applied to other Latitudes,
+because by various Examples the Precepts will, I think, be made more easy. I
+have added two other Tractates, the one called, The Planetary Instrument, by
+which the Places of all the Planets, except the Moon, may be easily found out,
+and sooner than the Place of any one of them can be found out by the Tables.
+The other is a Nocturnal; by which the Hour of the Night may be very accurately
+known by any Star in the Meridian. The first was the Contrivance of my Worthy
+Friend Mr. Palmer; the other is the Invention of my very good Friend Mr.
+Foster, sometime Professor of Astronomy in Gresham-Colledge; both whose
+Memories I must ever honor, as Persons to whose Conduct I must acknowledge to
+owe a great part of that Knowledge I have attained in these Sciences. Thus,
+Reader, thou have my Design and End in the Publication of these Trifles, which
+is no other than to Confirm those that are Learned in their further Search into
+them, and to facilitate others in the Practice of these most Useful Sciences;
+in the Commendation of which I will not now enlarge my self, who shall be glad
+to hear these Papers please any; if they have other Fortune, let them pass
+among those Idle Pamphlets, under the Burden of which the Press now daily
+labors.
+
+diagram of a planisphere W: Hayes fe:
+
+THE USE OF THE General Planisphere CALLED THE Analemma, In the Resolution of
+some of the Chief and most Useful PROBLEMS of ASTRONOMY.
+PROBLEM I. The Sun's Place being given, to find his Declination.
+COUNT what Parallel from the Equinoctial does cut the Place of the Sun in the
+Ecliptic, for that is the Declination required. So in 00 00 you will find the
+11 30 Parallel cuts the Ecliptic.
+
+PROB. II. Contrarily, the Declination being given, to find the Sun's Place.
+Count 11 30 among the Parallels, and that will cut 00 00 of.
+
+PROB. III. The Place of the Sun being given, to find his Right Ascension.
+Look what Meridian, reckoning from the Center, does pass through the Suns
+place, for that in Degrees is the Rig^ Ascension required. So will the Right
+Ascension for (...) beginning of be found 27 54. So likewise f^ (...) beginning
+of; to which adding 180, because (...) Southern Sign, the Right Ascension will
+be found 207 ^
+
+PROB. IV. The Elevation of the Pole, and Degree of the Ecliptic being given,
+to find, 1 st. The Ortive Latitude. 2 dly. The Rising and Setting of the Sun. 3
+dly. The Semidiurnal Arch.
+Place the Finitor to the Latitude, then see what degree thereof does cross the
+Sun's Parallel, for the Degree in the Ecliptic given, for that is the Ortive
+Latitude sought, being reckoned from the Center, or East point in the
+Instrument. So in the Latitude of 49 I find the Ortive Latitude about 38 in the
+Tropic of Cancer. 2 dly, The Meridian there passing, shows the Sun's Rising to
+be very near four in the Morning. And 3 dly. The Semidiurnal Arch to be 8
+hours, and so the longest day there 16 hours.
+
+PROB. V. The same things being given, to find the Ascensional Difference.
+The Horizon, as before, being set to the Latitude, count from the Center to
+the Meridian that cuts it in the Sun's Place for that day; that is to say, in
+the Sun's Parallel for the place of the Eccliptick given. So shall you find the
+Ascensional Difference for the beginning of in the foresaid Latitude of 49 to
+be 13 32.
+
+PROB. VI. To find the Oblique Ascension.
+First, find the Right Ascension by the third Problem, and the Ascensional
+Difference by the preceding one. In Northern Signs subduct the Ascensional
+Difference out of the Right Ascension, but in Southern Signs add it. So shall
+the Sum, or Difference give you the Oblique Ascension required. So in the
+beginning of I find the Sun's Right Ascension 27 54, and in the Latitude of 49
+00, his Ascentional Difference 13 32, their Difference is 14 22, which is the
+Oblique Ascension for the beginning of. So the Oblique Ascension for the
+beginning of, will be found 221 26 by adding 13 32 to 207 54, the Right
+Ascension before found.
+
+PROB. VII. To find the Oblique Ascension of any other Point in the Ecliptic,
+not reckoning from the Aequinoctial points, by which you may know whether the
+said Sign does ascend Right, or Obliquely.
+By the preceding Problem find the Oblique Ascension for the beginning and end
+of, or any other Arch propounded, then subducting the lesser out of the
+greater, the residue is the Oblique Ascension required. So in the Latitude of
+49 00 I desire to know what degrees of the Aequinoctial do in an Oblique Sphere
+ascend between the beginning and end of, I find the oblique Ascension for the
+beginning of to be 14 22, and of the latter end 32 45, their Difference is 18
+23, the Oblique Ascension required. Where note, because the remaining Sum is
+in the Example less than the given Arch, the said Sign does ascend Obliquely,
+contrarily if it had been greater.
+
+PROB. VIII. To sind the Hour of the day, the Altitude of the Sun being first
+observed.
+Set the Ruler to the Latitude, and remove the Vertical till it cross the Sun's
+Parallel in the Altitude observed, the Meridian there passing shows the hour of
+the day. So in the beginning of in the Latitude of 52 00 I observed the
+Altitude 27 18, and the 60 th. Meridian does cross the Sun's Parallel in that
+Altitude, therefore it was then eight of the Clock in the Morning. Thus also
+may you make a Table of Altitudes for every hour of the day, by removing the
+Vertical from hour to hour, and observing the Degrees of Altitude cut off by
+the several Meridians.
+
+PROB. IX. To find what Degree of the Ecliptic is in the Meridian at any hour
+given.
+Find the Right Ascension by the third Problem, then turn the hour given from
+the Meridian into degrees and minutes of the Aequinoctial, add unto these the
+Right Ascension found, then examine what point in the Ecliptic does answer to
+those Degrees of Right Ascension, which is done by following the Meridian,
+which shows the Right Ascension up to the Ecliptic, for that part of the
+Ecliptic is in the Meridian.
+
+So in the beginning of, and at the hour of nine in the Morning, I find the
+Right Ascension 27 54, the hours from the Meridian last past 21 00 in degrees
+315, to which I add 27 54, it makes 342 54 which is the Right Ascension for the
+11 th. Degree of, or near, which was the degree of the Ecliptic then in the
+Meridian, which will be 11 30.
+
+PROB. X. To find the Sun's Azimuth at any Altitude given.
+Place the Finitor to your Latitude, and remove the Vertical till it intersect
+the Sun's Parallel in the Altitude given, then applying it over in the
+Aequinoctial-line, the Meridian which intersects the Vertical in the given
+Altitude, shows the Sun's Azimuth, or Distance from the South or East, as you
+shall please to account it. So in the Latitude of 48 50, the Sun's Altitude
+being 31 40 in the Tropic of. Then moving the Vertical till it cross the
+Parallel of in that Altitude, I there find it, and then moving the Horizon over
+in the terms of the Aequinoctial, I find that 88 2 Meridian does cross the
+Vertical in the Altitude given, which is the Azimuth from the South. Here you
+are to take notice, that those which were before Meridians are now become
+Vertical Circles in this manner of working.
+
+PROB. XI. To make an Horizontal DIAL.
+Set the Horizon or Finitor to the Latitude of that place for which you desire
+to make your Dial, and then observe the several Angles made by the Meridians
+upon the Horizon, which express upon your Plain, and let your Style make an
+Angle equal to the Latitude of your Place for which you make your Dial. This
+needs no Example.
+
+PROB. XII. To make an Upright Vertical DIAL.
+Set the Ruler to your Latitude, and the moveable Vertical in the Center of
+your Instrument, then observe the several Angles made between the 12 of Clock
+line and the other Meridians, not upon the Horizon, as you did before; but upon
+the Vertical, and those shall be the hour spaces required. So in the Latitude
+of 49 the angle of 11 will be 9 57, and also for 1; 20 44 for 10 h. and 2 h. 33
+16 for 9 h. and 3 h. and so the rest.
+
+PROB. XIII. To make a Upright Declining DIAL.
+For the placing the Style, and drawing the Hour Lines there must necessarily
+be resolved a Sperical Rect-angled Triangle, in which there will be given,
+beside the Right Angle, the Complement of your plains Declination (which I
+allways count from the Pole of the Plain to the North or South Points) and
+thirdly, the Complement of your Latitude; by help whereof you may find, 1st.
+The Elevation of the Pole above the Plain. 2dly. The distance of the Substyler
+from the Vertical in your Plain. And 3dly. The Difference of Longitude, or the
+Angle comprehended between the Meridian of the Plain, and Meridian of the
+Place. All which will be made plain by the Figure following: in which,
+
+The Scheme following represents a South Plain Declining from the North
+Westward 55 30 in the North Latitude 46 12.
+
+scheme The Latitude is 46 12.
+
+
+
+Let ENWS be the Horizon of the place and the letters as they are in their
+order, mark, the East, North, and West and South points. Let then a plain BC be
+given, the pole whereof will be D, the Meridian of the Plain which passes
+always through P, the pole of the world, and D the pole of the plain DPR, the
+Declination DZN the Complement thereof NZC, the Triangle to be resolved PZR, in
+which are given; 1st. PZR the Complement of the Declination: 34 30. 2dly. PZ
+the Complement of the Latitude 43 48. 3dly. PRZ the Right Angle.
+
+
+Things required are,
+
+1 st. PR the Elevation of the Pole above the Plain.
+
+2 dly. ZR the distance of the Substylar from the Vertical, or the angle made
+between the Substylar and the Meridian, or line of 12 h.
+
+3 dly. ZPR, the Difference of Longitude, or the angle comprehended between the
+Meridian of the Plain, and of the Place.
+
+Now these things are thus found at one Operation by this Instrument.
+
+1 st. Reckon from the Aequinoctial toward the Pole, the Complement of the
+Declination of your Plain, which in our Example will be 34 30, at that point
+place the Horizontal Ruler, then from the Center of your Instrument toward the
+Limb, reckon upon the Horizontal Ruler, the side given PZ the Complement of
+your Latitude, and the Parallel there intersecting being reckoned from the
+Aequinoctial, shall be PR the Elevation of the Pole above your Plain.
+
+2 dly. The Instrument standing in the same situation, count from the Limb of
+your Instrument toward the Center among the Meridians, the Complement of your
+Latitude, for the Meridian, there intersecting the Horizon, shall, upon the
+Degrees of the Horizon give you ZR, the Distance of the Substylar from the
+Meridian of the Place.
+
+3dly. the Parallel of Declination in the common Intersection of the foresaid
+Meridian with the Horizon, being numbered from the Pole of the World, does give
+you the Angle sought, ZPR, or the difference of Longitude. But because it may
+some times fall out, that the said Intersection will be more then 23 30, and in
+little Instruments the Parallels not drawn beyond the Tropicks, which are 23
+from the Aequinoctial: in that case you may thus help your self: at the common
+Intersection make a little spot of ink or red Ocre with your pen, and then
+putting the Horizon back to the terms of the Aequinoctial, run the movable
+Vertical to the said mark, the degrees of which shall show you the Angle
+sought, counted from the Pole of the world; or otherwise place one foot of your
+compasses in the said Intersection, and take the nearest Distance between that
+and the Aequinoctial, which being applied over, either in the limb, or
+Vertical, shall give from the Aequinoctial the Angle required.
+
+EXAMPLE.
+In the Latitude of 46 12 a South Plain declines from the North Westward 55 30
+I place the Finitor to 34 degrees, 30 minutes upon the Limb, which is the
+Complement of my Declination, and is represented by the Arch NC in the Scheme
+equal to WD, and from the Center reckon the Complement of the Latitude for
+which the Declining Dial is made, Viz. 43 48, and there I find the Parallel 23
+05 to meet or intersect 43 28 which is PR, the Elevation of the Pole above the
+Plain.
+
+2 dly. In the same situation of the Instrument, reckoning the Complement of my
+Latitude among the Meridians, from 12 of the Clock, or first Meridian, I find
+the 43 48 Meridian does cut the Horizon in 38 19, which is the Distance of the
+Substylar from the Meridian of the Place, Viz. ZR.
+
+3 dly, and lastly, I find from the Pole, the 63 37 Parallel does pass through
+that Meridian in its common Intersection with the Horizon, or ZPR the
+Difference of Longitude.
+
+These things being thus found, Viz. The Elevation of the Pole above the Plain,
+23 05 The Angle of the Substylar, 38 19. The Difference of Longitude, 63 37.
+
+The hour spaces are thus found. By the Difference of Longitude you may know
+that the Substylar falls four hours 3 37 from the Meridian, place therefore to
+3 37 from the Meridian the Horizontal Ruler upon the Limb, and then reckon from
+the Center among the Meridians the Elevation of the Pole above your Plain, and
+look what Parallel does intersect that Meridian, and the Horizon; for that
+counted from the Equinoctial, is the Angle between the Substylar and the first
+hour toward the Meridian, which in our Example will be found to be 1 25 then
+remove the Horizon 15 higher, that is to 18 37 upon the Limb, and you shall
+find 7 31 among the Parallels intersect the Horizon in the 23 5 Meridian, and
+so forth for all the hours on that side of the Substylar. In like manner for
+the hours on the other side; set the Fini or to 11 23 in the Limb, and you
+shall find the Angle upon the ^lain to be 4 30, then removing it 15 higher, yo
+shall fin 10 58, and consequently the rest as they follow.
+
+Lastly, Because the Plain is a South Plain Declining from South Eastward, that
+is, from the North Westward, the Style must be placed among the Morning hours
+on the Western side, and the Dial will be as follows.
+
+Morning Hours. h. 8 1 25 9 7 15 10 14 35 11 23 57 12 18 19 1 62 48 7 4 30 6 10
+38 5 19 01 4 30 28
+
+diagram of a dial plane
+
+PROB. XIV. To draw the Hour Lines upon a Reclining Plain, whose Face looks
+directly toward the North or South.
+Let a Plain be given, reclining from the Zenith toward the North 20 in the
+Latitude of 49 00. Here I set the Finitor to the Latitude, and the moveable
+Vertical to the Degree of Reclination, reckoning from the Zenith toward that
+Pole toward which the Reclination is. As in our Example of 20 Reclination
+toward the North Pole, the Meridians there intersecting denote the Horary
+Angles, and the Degrees between the Pole and the Vertical, that is to say, in
+our Example 22 00 is the Elevation of the Pole above the Plain. This is very
+little different from the way of making an upright Vertical Dial, and therefore
+needs no Example.
+
+diagram of a spherical triangle
+PROB. XV. In any Spherical Triangle whatever, having two sides given with the
+Angle comprehended to find the rest.
+In the foregoing Triangle BAC let BA be 60, AC 50, and the angle BAC 30.
+
+Reckon on the Limb from the Equator toward the North Pole, and on that side
+of your Instrument that is on your Right Hand, one of the sides given, Viz. AC
+50, and there place the Horizontal Ruler, and then among the Parallels from the
+North count the other side AB 60, and among the Meridians from the Left Hand,
+there count the Angle given, Viz. 30 BAC, and at the common Intersection of
+that Meridian with the Parallel, place the Moveable Vertical; this being done,
+apply the Horizontal Ruler over in the terms of the Aequinoctial, so shall the
+Degree in the Vertical, which was before observed, viz. 26, in the common
+Intersection of the Meridian with the Parallel, give you among the Parallels,
+reckoning from the Pole the Base 26, and among the Meridians, from the utmost
+on the Right Hand toward the Left you shall find the Angle C. 103. Now for the
+Angle B, count AB 60 in the Limb, and there place the Horizon, and count the
+side AC 50 among the Parallels, and among the Meridians toward the Right Hand,
+count the Angle given 30, and apply the Vertical to the common Intersection,
+then apply the Horizon as before over in the Aequinoctial; so among the
+Meridians from the utmost on the Right Hand toward the Left, you shall in the
+common Intersection find the Angle unknown B 59 So have you now in your
+Triangle the three sides and two Angles, the third Angle may be found either by
+letting fall a Perpendicular, or continuation of the sides to a Semicircle
+
+PROB. XVI. To find when the Twilight begins and ends.
+The Twilight in the Morning begins when the Sun is distant 18 degrees from the
+Horizon, and continues till it Rise; and at Night begins at Sun Set, and
+continues till he is 18 degrees below the Horizon, and the^ Darkness begins.
+
+To find this, you must know the Place of the Sun, and his Declination. The
+Sun's Place may be known by most Almanacks, or by a Scale, which may be annexed
+to any convenient Place in the Instrument. The 2 d. to wit, the 's Declination,
+is found by the first Problem.
+
+Example First. If the be in the Aequinoctial, he has no Declination; if you
+therefore place the Finitor to the Latitude of your Place, move your Vertical
+till the 18 th. degree thereof crosses the Aequinoctial, and mark what Meridian
+that is, counting from the Center of your Planisphere, which in the Latitude of
+52 degrees, you will find to be the 30 th. Meridian; so that you may conclude
+the Twilight begins two hours before Rise, and at Night ends two hours after
+Set.
+
+But if the have Declination, you must observe that Meridian which crosses the
+18 th. degree of the Vertical in the Parallel of Declination.
+
+Example. Suppose the to be in 00 00 in the Latitude of 52 00. When the has 20
+of Declination, and observe the Intersection made by the 18 th. degree of the
+Vertical, and the 20 th. Parallel of Declination, and there you may observe the
+33 Meridian, or thereabout, from Rising, passing which shows the Twilight
+will then end, to wit, 2 hours and 12 before the should rise, but at this time
+you will find the is up, which teaches you there is then no Twilight at all. So
+in the Winter, the Sets so much before 8 h. that it will not come to be 18
+degrees below the Horizon till Rise, and will continue so till the comes back
+to, there will be no dark time in that Latitude, if the Sky be not Cloudy.
+
+PROB. XVII. Of Spherical Rect-angled Triangles in all their Varieties.
+I have in the third and ^ourth Problems foregoing, showed you the Solution of
+some Questions, wherein the Triangle has been Rect-angled and Spherical. I
+shall now handle the Use of them more fully, and show you how three parts, that
+is, two beside the Rectangle, which is always known, being given; the other
+parts sought, either Sides or Angles may be by this Planisphere many ways
+concluded, as will appear in Practice.
+
+1. In the Scheme. BC 60 00 Data. BA 57 48 Rad.
+
+2 Or, BC 60 00 Data. CA 20 12 Rad.
+
+diagram of a triangle
+
+The Data in the Triangle in our following Geniture are 3 00 Long. 1 Declin.
+with the Rect. and the Angle at C will be found 66 32, which will be
+demonstrated by the Scheme, N 4.
+
+The Proportions in Trigonometry are thus: BC Rad. BA.C Scheme 1. Or, CA.
+Scheme 2.
+
+PC Rad. PD.C. That is, As the Cosine of the Declination given is to the
+Radius, so is the Cosine of the greatest Declination to the Angle sought.
+
+In the Triangle BAC Rect-angled, at A the Longitude, BC is 60 00; the Right
+Ascension may be found by Problem 3 d. 57.48, and the Angle at B 23 30. Now to
+find the Declination, do thus: Choose out the 57 48 Meridian, and then move the
+Horizontal Ruler till the 60 th. degree from the Center meets the 57 48
+Meridian, which you will find will be 20 12 the Declination sought, if you
+count the Parallels from the Aequinoctial till the Intersection is made in the
+57 and 48 Meridian: or if you have the Declination given, bring down the
+Horizontal Ruler to the Aequinoctial, and you will find the 57 48 of the Ruler
+will be cut by the 57 48 Meridian.
+
+But we still want the Angle C; to obtain this, we must turn the Triangle, and
+as in the annexed Scheme, diagram of a triangle call BA 20 12 and AC 57 48:
+choose now the 20 12 Meridian, and remove the Horizontal Ruler till the
+Longitude given, Viz. 60 does intersect the 20 12 Meridian, then count from the
+Aequinoctial upon the Limb the Degrees cut off by the Ruler, which you will
+find to be 77 43, for the Acute Angle at C, and its Supplement 113 17 will be
+the Obtuse Angle. So you have all the Angles and Sides of your Triangle.
+
+Though I have a very low opinion of Astrology, especially as our
+Genethliacall-men, or rather Fortune Tellers use it; yet that I may show the
+excellent use of this Planisphere, and because it may be useful to know the
+figure of the Heavens in Eclipses, and the Ingress of the Sun into the
+Aequinoctial points: I shall now show you how to place the 12 Houses with the
+Signs to them belonging. In this I shall take for Example ageniture long since
+past, and not agreeable to any Example before given, that by variety of
+Operations the Reader may better comprehend the use of the Instrument.
+
+PROB. XVIII. How to erect a Figure of the Heavens.
+First for the time propounded you must first find the Suns place, that is, in
+what Degree of the Ecliptic the Sun is in at the time proposed; and afterward,
+in the following Example; I shall teach you to find the Medium-Coeli, or that
+degree of the Ecliptic that is in the Meridian.
+
+EXAMPLE.
+Suppose a Geniture to be upon the ninth day of December, at six of the Clock
+in the Evening, in the Year 1571. The place of the Sun was then found 27 17 of,
+and his Right Ascension will be found 267 Add to this 90 which is six hours
+after Noon in the degrees of the Aequinoctial, which will give you the Right
+Ascension of the Mid-heaven, Viz. 357 to which will answer 27 or rather 26 46;
+for the Medium-Coeli, and his opposite 27 or 26 46 of for the Imum-Coeli, so
+you have the 10th and 4th House found,
+
+Your next work will be to find the degree of the Ecliptic, which will be in
+the Ascendant for the Latitude [Lat. 53 00] of the place of Birth. Now by
+adding 90 to the Right Ascension of the Mid-heaven, you will have the Oblique
+Ascension of the Ascendant: In our Example the Right Ascension of the
+Mid-heaven is 357, to which, by adding 90 the Sum will be 447; out of which
+take 360, the residue will be 87, which is the Oblique Ascension of the
+Ascendant. Now to know to what Degree of the Eccliptick this belongs, must be
+known by a Table of Oblique Ascensions fitted to your Latitude, which you may
+make by the fifth and sixth Problem, but it is better to take it out of the
+Table at the end of this Treatise, where the Oblique Ascension may be found for
+every Degree of the Eccliptick for several Latitudes; by which you may see,
+that in 53 of Latitude, the Oblique Ascension 87 will be between the 25 or 26
+of, the Ascendant will be in between 25 and 26.
+
+The Ascending Signs, Descendant.
+
+By this you may know the four Cardinal Points or Angles, to wit, the 10 th.
+the 1st. the 4 th. and the Seventh. By which all Questions of Life, Parents,
+Marriage, and Preferment, or Honor are (according to their Rules) foretold
+
+PROB. XIX. In order to find the Cusps of the other Houses, diverse Spherical
+Triangles are to be Resolved.
+We had before showed how to find the Angle between the Meridian and the
+Eccliptick, to be 66, by Prob. 7. which we shall now find another way.
+
+The Degree culminating, or the Medium-coeli was 26, and consequently its
+Distance from was 3; count therefore 3 among the Meridians, from the utmost
+toward the Center, then remove the Horizontal Ruler downward toward the
+Antartick Pole, the Fiducial Edge of the Vertical remaining fixed at the Center,
+till such time as the Vertical shall cross the 3 Meridian in the Artick Circle,
+that is, in the 23 Parallel from the Pose, and in the Limb you shall meet the
+66, which is the Angle between the Meridian and the Eccliptick.
+
+2 dly. Things standing all in this Posture, look from the extremity of the
+Vertical Ruler to the 3 Meridian, there you will find 1 crossing, which is the
+Declination of the Mid-heaven Southward; take this out of 37 the Complement of
+your Latitude, there rests 35 30, which is the Altitude of the Mid-heaven, or
+the Degree culminant, because the Declination is Southward, otherwise it must
+have been added.
+
+3 dly. Number 35 30 from the extremity of the Vertical, and this will, among
+the Parallels from the Pole, show about 42, or thereabout, which is the Angle
+made between the Eccliptick and the Horizon.
+
+4 thly. Count among the Meridians from the utmost to that point, and you shall
+find the 61st. Meridian there, which is the degree of the Eccliptick between
+the Meridian and the Horizon.
+
+Lastly, You shall find the same Degrees of the Eccliptick, ( Viz. 61) if you
+count the 35 or thereabout, from the Center for those Degrees of the Ruler will
+show you 61, as before.
+
+Thus we have obtained, 1. The Degree Culminant, 26 2. The Angle between the
+Meridian and the Eccliptick. 66 3. The Distance of the Point Culminant from 03.
+4. The Declination of the Mid-Caeli. 01. 5. The Altitude or the Mid-Caeli. 35.
+6. The Angle between the Eccliptick and the Horizon, 42. 7. The same Degrees,
+that is to say, of the Eccliptick and Horizon two ways, 61.
+
+All these things will be made plain by the following SCHEMES.
+
+scheme N. 1
+scheme N. 2
+
+
+1. The Degree Culminant, that is, the Mid-Caeli was before found between 26
+and 27 of, near the 27.
+
+2. The Ascendant was found between 25 and 26 of.
+
+scheme N 3
+scheme N. 4
+
+
+3. The Angle between the Meridian and Eccliptick represented in the Scheme,
+No. 2, by the angle at L, may be found by the Precept of the 15 th. Problem,
+and will be 66, and the Triangle BAC in the Scheme, No. 4, is equipollent to
+that wrought by the Analemma, where you have the same Data, Viz. The Right
+Angle at A, the greatest Declination at B, the present Declination at the
+Parallel 1, and the third Meridian, and where they cross, will be 66 from the
+Aequinoctial. The Proportion in Trigonometry will be, As Cosine of the
+Declination given is to the Radius, so will the Cosine of the Declination be to
+tht Angle sought. Sch. No. 5.
+
+As BC.BAC Rad. to C.
+
+4. In the Scheme, No. 1. I seek the Angle at 11, which is the Angle between
+the Meridian and Circle of Position for the 9 th. and 11 th. Houses. As HAE
+Sin. to DAE Tang. Rad. to the Tang. of the Angle at H. which will be found
+44.47.
+
+scheme N 5
+
+
+In the Scheme, No. 1. in the Rect-angled Triangle PRO Rect-angled at R.PR, the
+Elevation of the Pole above that Circle of Position, is found by this
+Proportion.
+
+As Rad. to the Lat. So the Angle at will be to the side PR.
+
+Rad. to OP POR.PR. But this Work will be shortened by the Table annexed, where
+you have the Elevation of the Pole given to several Latitudes.
+
+6. I seek the Altitude of the Mid-Caeli in the Scheme, No. 2. HL. There are
+given HAE the Complement of the Latitude. 2 dly. 1 the Declination of the
+Mid-Coeli in our Example. Now because this is a Southern Sign, I take 1 from 37
+the Complement of my Latitude, the Residue will be 35 30, the Altitude of the
+Mid-Coeli in our Example.
+
+7. I still want No. 2. LG, which is the Degree of the Eccliptick between the
+Meridian and the Circle of Position. In the Oblique-Angled Triangle HLG you
+have given HL, the height of the Mid-Caeli, with the two Angles at O and L, by
+which LG may be found by Trigonometry, according to the Rules delivered by
+Artists, by letting fall a Perpendicular either within or without the Triangle,
+when two Angles and the adjacent side is given. In this manner you may set a
+Figure of the 12 Houses, which will be near as the Figure adjoining.
+
+diagram of the 12 zodiacal houses
+
+A Table of the Houses
+Lati. Locorum. Undecim. and 3ae, nec non 9ae 74 Duodecimae and secundae, nec
+non 8ae and 6ae Domorum. 46 27.22 41.53 47 28.11 52.53 48 29.02 43.53 49 29.54
+44.55 50 30.47 45.55 51 31.41 46.56 52 32.37 47.57 53 33.34 48.59 54 34.32
+50.01 55 35.42 51.03
+
+FINIS.
+Advertisement.
+FOrasmuch as the Practice of Astronomy depends much upon the exact making of
+the Instruments; These are to give notice, that these, and all other
+Instruments for the Mathematical Practice, are accurately Made and Sold by Mr.
+Walter Hayes, at the Cross-Daggers in Moor-Fields, next Door to the
+Popes-Head-Tavern, London; where they may be furnished with Books to show the
+Use of them: As also with all sorts of Maps, Globes, Sea-Plats,
+Carpenters-Rules, Post, and Pocket-Dials for any Latitude, at Reasonable Rates.
+
+diagram of a planetary instrument W: Hayes fecit.
+
+THE Planetary Instrument. OR THE Description and Use of the Theories of the
+Planets: drawn in true Proportion, either in one, or two Plates, of eight
+Inches Diameter; by Walter Hayes, at the Cross-Daggers in Moor-Fields.
+Being excellent Schemes to help the Conceptions of Young Astronomers; and
+ready Instruments for finding the Distances, Longitudes, Latitudes, Aspects,
+Directions, Stations, and Retrogradations of the Planets; either Mechanically,
+or Arithmetically; with Ease and Speed.
+By Mr. John Palmer, Rector of Ecton, and Archdeacon of Northampton.
+The DESCRIPTION.
+THE first Plate (which I call Saturn's Plate) contains the Theories of: also
+short, but sufficient Tables of their Anomalies; and a Scale for measuring
+their Distances in Semidiameters of the Earth.
+
+The second Plate (which I call Mars's Plate) contains the Theories of, with
+like Tables of their Anomalies, and Scale of Distances.
+
+The Sun is in the Center of the Plate. The other Planets have their several
+Eccentrics and Orbits. These should be Ellipses, but Circles will serve
+sufficiently, especially for Instruments. Mr. S. Foster disposed these Planets
+in four Plates, and added thereto other Devices, to be seen in a Book published
+since his Death. Here they are all contrived in two Plates, or two sides of one
+Plate: and whereas Mr. F. supposed the Apheliums and Nodes moveable, in these
+Thories they are fixed, according to Mr. Street's Hypothesis: by which means,
+though they be framed to the end of 1680, yet not only for this Age, but (with
+allowance of the Procession of the Aequinoctial) they may serve perpetually.
+
+The Aphelium of a Planet is the point of his Eccentric, which is furthest from
+^he Sun, and from Aphelium is the Anomaly counted.
+
+The Anomaly is the circular Distance of a Planet from his Aphelium. But though
+the Anomalies be equal, yet their Divisions in every Eccentric are unequal,
+because they are made to contain the Aggregates of the Anomalies, and
+Prosthaphoreses of the Orb compounded together.
+
+Where you see two or three pricks on one side the Orbit, and on the other
+side, there the Planet goes into North Latitude, and at the opposite Point over
+the Center, is the Place of, where he goes into South Latitude.
+
+The Use of the THEORIES.
+This shall be shown in three Examples only, which may suffice.
+But, Note 1. That I begin the Years and Days 24 hours later than Mr. Street;
+for I count the last day of December to end in the Noon of the Circumcision;
+which is the old way: and to that Account these Theories and Tables are fitted:
+and all Years and Days here are counted Complete.
+
+Note 2. That in gathering the Anomalies out of the Tables, if the same exceed
+a Circle, (or 360) you must by Subtraction, or Division, cast away all whole
+Circles, take the Remainder for the Anomaly sought. The Numbers in the Tables
+are Degrees, and Centesimal parts, and for the Diurnal Motion, another Figure
+is added, to make the Parts Millesimal. In the Tables, A. stands for Anni, that
+is, Years: D. stands for Days: Incl. stands for Inclination; which is set down
+in Degrees and Minutes.
+
+EXAMPLE. I.
+1675. April 1. I saw Mars above the foremost foot of Apollo, and he seemed to
+be much diminished in Magnitude.
+
+First out of the Table for. For. write out for 1672 194.59. 259.51. for two
+Years more 359.75. 191.27. 359.75. 191.27. for 90 days the product of 986 by 90
+is 88.74. 524 in 90 47.16. 1002.83. 689.21. for 2 Circles deduct 720. deduct
+360. Anomaly of 282.83. Anomaly of 329.21.
+
+Now in the Earths Orbit, at 283, make a prick with Ink for; for there is for
+this time: and likewise prick in his Orbit at 329.
+
+Lay a Ruler from the Place of over the (in the Center) and it shall cut in the
+Limb 21 38, the 's Longitude. Again, lay a Ruler from to (I mean, the pricks
+set for them) and know, that a Line Parallel to your Ruler, passing through the
+(or Center) will cut in the Limb the Longitude of.
+
+Take therefore with your Compasses the nearest distance of the Center from the
+Ruler, and let one foot slide along the Ruler from to, and beyond him; and let
+the other foot, keeping even pace with his fellows, pass from the Center to the
+Limb, and so it shall touch in the Limb 29, the Longitude of.
+
+Another way. Mark well the Triangle made by your two Pricks and the Center,
+that is, by and. Measure the sides upon your Scale, and you shall find 3500
+Semid. of 5700 6000
+
+Now if you have 2 Thrids from the Center, and lay one upon, and the other
+upon, the Arch of the Limb between them, is the Measure of the Angle at the,
+(or of Commutation) and is here 77 42. With this Angle and the Sides
+comprehending it (which are 35 and 57, as before) you may by Pitiscus his third
+Axiom, Calculate the other Angles, and find Ang. at (or Elongation) 67. 41,
+and Ang. at (or Paralloxis Orbis) 34 37. The Elongation of (67 41) added to the
+Long. of ( 21 38) makes the Long. of, 89.17. that is 29.17.
+
+Another way. Transfer your Triangle upon Paper, and there, by help of a Scale
+of Chords, or a small Quadrant, and Compasses, you may easily find all the
+Angles very near the truth; Viz. Ang. ad 77 42. Ang. ad 67 54. Ang. ad 34 24.
+
+Note, That the reason of his Diminution is the Increase of his Distance from
+the Earth; for you may measure it upon the Plate 6000: but in his he may be
+distant but 1320, and never above 2350.
+
+For the Latitude of, lay one Third from the Center to, and another Third to,
+the Arch of the Limb intercepted by the Thrids (76.10.) is Argumentum
+Latitudinis.
+
+Now as the Radius to the Tang. of 1.52, the Inclination of: So is the Sine of
+76.10 to the Tang. of 1.49; the North Latitude of seen at the Sun.
+
+And as to; so is the Tang. of the Lat. at the Sun, to 1.44; the Tang. of Lat.
+seen at the Earth.
+
+EXAMPLE II.
+1677. October. 28. (being St. Simon and Jude's) at Noon. ^ seek Place.
+
+1672. 194.59 155.83 A. 4. (or 4 Years) 359.98 218.90 Days 300 295.80 147.60
+850.37 522.33 Substract the Circles 720. 360. Anom. of 130.37 Anom. of 162.33.
+
+Prick the and in their Orbits, at the end of these Anomalies, and you shall
+see the Prick for fall in the very Node at; and laying a Third, or Ruler from
+the Center to or, it shall cut them both, and show that is in a Corporal
+Conjunction with. This would be observed: for by the help of fit Glasses, may
+be seen in the for several hours; and according to the best Tables, he shall
+pass within 4 or 5 minutes of the 's Center in North Lat.
+
+EXAMPLE III.
+1673. May 25. In the day time I saw with a Telescope, horned like the at 3 or
+4 days old; and though she was so much waned, she appeared bigger and brighter
+than at any time since she came last out of the Sunbeams.
+
+1672. 194.59 62.54. 144 days. 141.98 230.69 Anom. 336.57 Anom.. 293.23
+
+Prick these Planets in their Anomalies, as before was taught. Lay a Ruler from
+over the Center, and it shall cut in the Limb the Long. of the, 14.11. The
+Ruler thus lying, draw a Third from the Center over. Now between the Ruler and
+the Third is the Angle of Commutation (163) and there adjoyneth to it the
+Supplement thereof (17) which in your Triangle is Angulus ad, and is measured
+by the Limb.
+
+Lay your Ruler from to, and the Parallel Line made, or imagined to be made,
+with your Compasses through the Center, will cut 17; the Long. of, and the Arch
+between this and the 's Place before found, is the Elongation of from
+Eastwards, 32.49. And the Sum of the Commutation and Elongation taken out of
+180, leaves the Angle at 130.11.
+
+Another way. In the Triangle, you may take all the sides in your Compasses,
+and measure them upon the Scale, that is, 3520. 2450. and 1370. Then either by
+Protraction find the Angles: or, the Angle of Commutation being known (17) and
+the sides including by Ax. 3. Pitisci, you may compute the Angle at the 32.49
+and the Angle at 130.11.
+
+This Angle at measures her Waxing and Waning.
+
+Let the Radius be 100, the Diameter of 200, the Angle being 130.11, the versed
+Sine thereof (165) measures the dark part of the Diameter; the residue (35) is
+light: So is Waned 165/200 of her Diameter; that is almost 10 Digits; and yet
+she seems much bigger than when she was Full: because 2 Digits of light in her
+present Distance (of 1370) contain more Seconds of light than her full Disk
+could contain; when coming from the, she was distant about 6000, as you may
+measure upon the Plate.
+
+How these Plates may be also useful for Observing Altitudes, Azimuths,
+Declinations, and Inclinations of Plains, etc. They who have any Skill in the
+Mathematics, may easily discern without further Admonition.
+
+FINIS.
+The Description and Use of the NOCTURNAL; By Mr. Samuel Foster, late Reader of
+Astronomy in Gresham-Colledge.
+With the Addition of a Ruler, showing the Measures of Inches and other Parts
+of most Countries, compared with our English ones; Being useful for all
+Merchants and Tradesmen.
+THIS Nocturnal is made of two Plates; the thick Plate (which I call the Matter)
+and a Moveable Plate, representing the Aequinoctial. On the Matter, the Circle
+does represent the Eccliptick. All the rest of the Writing, is the Names of as
+many of the F^xed Stars as the bigness of the Instrument will give leave. To
+these must be added an Index or Label, fastened at the Center, to cut the
+several Circles upon the Instrument.
+
+The Use of the Nocturnal.
+1. SET the Label to the Sun's Place in the Zodiac, and the Hour of Twelve in
+the Aequinoctial to the Star, whose time of coming to the Meridian you enquire
+after; and then look what hour and minute is cut by the Label in the
+Aequinoctial, for that is the hour of the Day or Night that the same Star will
+come to the South Part of the Meridian.
+
+But you must observe, that the hours are marked in the Aequinoctial in this
+manner, 12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11. Now the Difficulty lies, in
+finding whether the minutes you shall find cut by the Label in the
+Aequinoctial, does belong to the upper row of hours, Viz. 12, 1, 2, 3, 4, 5, or
+to the under row, Viz. 6, 7, 8, 9, 10, 11; and whether from Noon, or from
+Midnight: In order to this you must know in what Sign the Star is that you
+observe, and take notice how far it is distant from the Place where the is that
+day; if it be not above three whole Signs, the Minute cut by the Label,
+belongs to the upper row of hours to be accounted from Noon; and if the
+Distance of the Star, and of the be four, five, or six Signs, then the said
+Minute cut by the Label belongs to the under row of hours, accounted also
+from Noon: but if the Distance of the and Star be 7, 8, or 9 Signs, then the
+Minute belongs to the upper row of hours accounted from Midnight. Lastly, if
+the Distance of the and Star be 10, 11, or 12 Signs then the Minute belongs
+to the under row of hours, accounted from Midnight. All which beforesaid shall
+be made clear by Examples.
+
+Example the first. The being in the beginning of, when will Spica come to the
+Meridian? Set the Label to the beginning of, and the hour 12 in the
+Aequinoctial to Spica then will the Label cut the 59 th. Minute after 4, or
+after 10; now this Star being in, which is not above three Signs from, it must
+be after 4 of the Clock from Noon. I conclude then that the being in the
+beginning of, the Spica will come to the Sonth at 4h. 59 past Noon.
+
+Example II. When will the same Star come to the Meridian, the being in the 10
+th. degree of? The Label being set to the 10 of, and 12 to the Star, as before,
+the Label shall cut the 35 Minute after 2 or 8; now it must be after 8, because
+the is above three Signs distant from the Star, and yet not seven Signs; so
+Spica will come to the Meridian at 8h. 35 past Noon.
+
+Example III. When will the same Spica come to the Meridian, the being in the 5
+th. Degree?
+
+The Label being set to the 5 of, shall cut 41 after 2, or 8; but it must be 2,
+and after Midnight past, because the distance of the and the Star is above six
+whole Signs, and not nine.
+
+Example IV. Working after the same manner, you will find that the same Star
+will come to the Meridian at 9 h. 58 past Midnight, the being in the 20 00 of.
+I take the lower row of hours, and say, that it is after Midnight, because the
+is above nine Signs distant from the Star. NB. These Precepts are fitted to an
+Instrument made for 1671.
+
+Additions to the Instrument, in Brass, made by Mr. R. Aug. 1st. 1684.
+Calculated for the Year 1700, which will make some little difference in the
+aforesaid Precepts.
+IF in this Instrument you set down to the several Stars their respective
+several Declinations, and by adding either an A, or B, according to the
+Declination of either Austral or Boreal, you shall have the height of the Star
+when it comes to the Meridian, Viz. by adding the Declination to the height of
+the Aequinoctial, when the said Declination is Northward, and by taking the
+Declination from the height of the Aequinoctial when the Declination is
+Southward.
+
+diagram of a nocturnal
+
+As for Example. Suppose I desire to know when Cor shall come to the Meridian,
+what will be his Altitude in the Latitude of London 51 30. The height of the
+Aequinoctial is 38 30, to which add the Stars North Declination, 13 02 38 30 13
+02 the Sum is 51 32 the Altitude required.
+
+So the Altitude of the Spica in the Meridian will be found to be 28 57 in the
+same Latitude; for the height of the Aequinoctial is 38 30; from which take the
+Stars South Declination 9 33, the Remainder is 28 57.
+
+I have so contrived this Instrument, that by making two little square holes in
+the Moveable Plate, the first shows you in what Sign the Star is, which is
+absolutely necessary to be known, to judge of the distance between the and the
+Star (as you have been taught before) and the second shows the Magnitude of the
+Star.
+
+To know at any time proposed, what Point of the Eccliptick is in the Meridian.
+Suppose the to be in the beginning of, I desire to know what Degree of the
+Eccliptick shall be in the Meridian at 15 past Five in the Afternoon.
+
+I lay the hour given to the Sun's Place, and then I find over against the 12 a
+Clock line of the Aequinoctial, 15 20 of; and that is the Degree that was then
+in the Meridian.
+
+To know when any of the Planets shall come to the Meridian.
+The Planets, because of their continual changing of Place, cannot be set fixed
+in this Nocturnal: Nevertheless, if at any time you desire to know their time
+of coming to the Meridian, you must look in some Ephemeris for the Place of the
+Planet, and according as you find it, set it with Black-Lead on your
+Instrument, which if it be in Brass, shall be easily put out. The Planet thus
+set, shall be as a Fixed Star, and its time of coming to the Meridian found
+out, as that of any of the Fixed Stars.
+
+But Note, that if it be the Moon that you observe, you must allow about a
+degree for every two hours past since Noon; and thus you shall have her true
+Place; for the Ephemeris gives you her Place only at Noon.
+
+For Example. When will the Moon come to the Meridian on January the 1 st.
+1684/5?
+
+The is then in 22 5, and the Moon in 10 12. Now placing ^e Moon on my
+Instrument in 10 12, I find that the Moon shall come to the Meridian at a
+little past 5 in the Afternoon: and because there are five hours past since
+Noon, I must for these five hours allow two degrees and a half to the Moon's
+Place, and so set it to 13 00* which being done, I shall find the Moon's true
+hour of coming to the Meridian, and that is at about 5 h. 15 past Five in the
+Afternoon.
+
+Hitherto is the Instrument general to all those that live on this side the
+Aequioctial; and may serve to any Intelligent Man that shall have South
+Declination.
+
+But besides, I have made two little Windows in the Moveable Plate, but the
+Figures of them are Calculated for the Meridian of London, or any other Place
+that is under the same Latitude of 51 30.
+
+The first Window shows the Semi-Nocturnal Arch of the Star in Hours and
+Minutes; and the Use of it is to know the time of the Stars Rising and Setting,
+as also how long it continues above the Horizon.
+
+First. For the Rising, take the Semi-Nocturnal Arch from the time of the Stars
+coming to the Meridian, and the Remainder gives you the time of the Stars
+Rising. So the being in the beginning of, the Spike of the Virgin comes to the
+Meridian at 9 h. 18 after Noon, from which take the Stars 5 11, Semi-Nocturnal
+Arch, there remains 4 07, which is the time of the Stars Rising in the
+Afternoon.
+
+Secondly, For the Setting, add the Semi-Nocturnal Arch to the time of coming
+to the Meridian, and the Sum gives the time of the Stars Setting.
+
+So on the same day, the being in the beginning of, the Spike of the Virgin
+coming to the Meridian at 9 h. 18 if you add to it the Star's Semi-nocturnal
+Arch, 5 11 the Sum is 14 h. 29 past Noon, or 2 h. 29 past Midnight.
+
+Thirdly, For the time of the Stars being above the Horizon, double the
+Semi-Nocturnal Arch, and the Sum is the time of the Star's being above the
+Horizon.
+
+The other Window shows the Star's Amplitude in Degrees and Minutes, which is
+counted f^ the East toward the North, when the Star's Declination is North;
+and from the East to South, when the Declination is South: Where note, that the
+Stars Set at the same Distance from the West that they Rise from the East.
+
+This Instrument was first invented by Mr. Samuel Foster, and given to me,
+drawn upon Pastboard by his own hand, which is still in my Power; but the
+Additions to it were put in by an Ingenious Gentleman of the French Nation, and
+by him drawn in Brass, which I received from him, and will keep for his Sake.
+
+The following Table is made to insert all the Stars expressed there according
+to their Right Ascensions, which is fourfold as great as the true is, the
+Nature of the Instrument requiring it to be so; because the Aequinoctial, which
+should be divided into twenty four hours, is divided but into six hours.
+
+A Table
+A. R. As Rec. 4. Decli. Semi-Diurnal Arch. Amplit. h. mi. Lucid. Comae Beren.
+182 45 731 00 30 06 8 48 53 30 Lucid. Lyrae. 276 42 1106 48 38 32 24 00 00 00
+Syrius. ^. 98 00 392 00 16 15 4 33 26 43 Vindemiatrix.. 191 53 767 32 2 35 7 05
+20 30 Spica Virginis.. 197 23 789 32 9 33 5 11 15 27 Procyon.. 110 57 443 48 6
+00 6 30 9 40 Aquila.. 294 06 1176 24 8 07 6 41 13 07 Luc. cap. Arieties.. 27 38
+110 32 22 03 8 04 37 05 Arcturus.. 210 34 842 16 20 49 7 55 34 49 Cauda
+Delphin.. 304 30 1218 00 10 14 6 54 16 35 Austra lanx.. 218 37 874 28 14 45 7
+17 24 09 Cap. Medus.. 42 15 169 00 39 47 12 00 00 00 Bo. lanx... 225 16 901 04
+8 14 5 18 13 18 Luc. Hydr.. 138 16 553 04 7 22 5 22 11 53 Luc. Pleiad.. 52 26
+209 44 23 10 8 11 39 12 Luc. Coron. Sep.. 230 31 922 4 27 45 8 46 48 25 Os
+Pega., 322 28 1289 52 8 31 6 44 13 46 Med. nox. col. Serp: 232 27 929 48 7 25 6
+38 11 52 Bo. Fron. Scor.. 237 02 948 08 18 57 4 18 31 27 Antares. cor. 242 50
+971 20 25 42 3 30 44 00 Cor Leonis.. 148 08 592 32 13 02 7 08 21 15 Luc. colli
+Leonis.. 150 51 603 24 21 21 7 58 35 48 Luc. colli Peg.. 336 30 1346 00 09 10 6
+47 14 50 In basi Crater.. 161 10 644 40 16 33 4 32 27 14 Marchab. Pega.. 342 30
+1370 00 13 37 7 11 22 13 Rigel.. 75 07 300 28 8 33 5 16 13 49 Sin. Hum. Orion..
+77 17 309 08 6 03 6 31 9 45 Cing. Orion.. 80 18 321 12 1 24 5 54 2 15 Caput
+Ophiuci. ^. 260 16 1041 04 12 49 7 06 20 52 Cauda Leonis.. 173 28 693 52 16 13
+7 26 26 39 Seq. Hum. Orion.. 84 48 339 12 7 20 6 37 11 50 Cufpis Sagit.. 266 00
+1064 00 30 22 2 50 54 18 Cap. Andromed.. 358 16 1433 04 27 28 8 44 47 48
+Extrem. Ala Pegas.. 359 30 1438 00 13 32 7 10 22 05 Aldeban Tauri.. 64 43 258
+52 15 53 7 24 26 05
+
+The 5. 10 15 20 25 00 00 18 20 36 44 55 12 73 48 92 36 111 36 130 48 150 16
+170 04 190 08 210 32 231 12 252 08 273 24 294 52 316 28 338 12 360 00 381 48
+403 32 425 08 446 36 467 48 488 48 509 28 529 52 549 56 569 44 589 12 608 24
+627 24 646 12 664 48 6^3 16 701 40
+
+FINIS.
+diagram of a scale ruler
+
+In the Diagonall Scale you have London foot Divided into 1000 Equal parts,
+Whereof (France) Paris Foot is 1:068 Lions Ell 3:976 Boloine Ell 2 076 The XVII
+Provinces Amsterdam foot 0:942 Amsterdam Ell 2:269 Antwerp foot 0:940 Brill
+foot 1:103 Dort foot 1:184 Leyden foot 1:133 Leyden Ell 2:260 Lorain foot 0:958
+Mecalin foot 0:919 Middleburg foot 0 991 Germany Strashurg foot 0:920 Bremen
+foot 0:964 Cologne foot 0:954 Francfort Menain foot 0:948 Francfort Menain Ell
+1:826 Hamburg Ell 1 905 Leipsig Ell 2:260 Lubeck Ell 1 90^ Noremberg foot 1:006
+Noremberg Ell 2:227 Bavaria foot 0:954 Vienna foot 1 053 Spain and Portugal
+Spainsh or Castil palm ^:751 Spanish Vare or rod 3:004 Spanish foot 1:001
+Lisbon Vare 2:750 Gibralter Vare 2:760 Toledo foot 0:899 Toledo Vare 2:685
+Italy Roman foot on the Monum of Cossutius 0:967 Roman foot on the Monum of
+Statelius 0 972 Roman foot for building wof 10 make ye Cauna 0 722 Bononia foot
+1 204 Bononia Ell 2 113 Bononian Perch wof 500 to a Mile 12:040 Florence Brace
+or ell 1:913 Naples Palm 0:861 Naples Brace 2:100 Naples Cauna 6:880 Genoa Palm
+0 830 Manlua foot 1 569 Milan Calamus 6 544 Parma Cubit 1:866 Venice foot 1 162
+Other Places Danzick foot 0:944 Danzick Ell 1:903 Copenhagen foot 0:965 Prague
+foot 1:026 Riga foot 1:831 China cubit 1 016 Turin foot 1 062 Cairo cubit 1 824
+Persian Arash 3 197 Turkish Pike at Constantinop: the greater 2:200 The Greek
+foot 1 007 Moutons universal foot 0 675 A Pendulum of which length will Vibrate
+(...) times in a minute, A Pendulum of 3 foot 268 par^s long will Vibrate 60
+times in a minu^
+
+Ex: per me Jonas* Moor
+Tabula Ascensionum Obliquarum ad Latitudinem 51 degrees. 00 min.
+0 0 00 13 21 30 46 57 31 95 10 137 33 180 00 222 27 264 50 302 29 329 14 346
+39 1 0 25 13 50 31 29 58 37 96 33 138 59 181 24 223 52 266 12 303 34 329 56 347
+08 2 0 50 14 20 32 13 59 44 97 56 140 24 182 49 225 17 267 34 304 38 330 38 347
+37 3 1 16 14 50 32 57 60 51 99 19 141 50 184 03 226 43 268 56 305 41 331 19 348
+05 4 1 41 15 20 33 42 61 59 100 42 143 15 185 38 228 0^ 270 18 306 44 331 59
+348 34 5 2 07 15 50 34 27 63 08 102 06 144 40 187 03 229 34 271 39 307 46 332
+58 349 02 6 2 32 16 21 35 13 64 18 103 30 146 06 188 27 230 59 272 59 308 47
+333 16 349 30 7 2 58 16 53 36 00 65 29 104 54 147 31 189 52 232 25 274 19 309
+47 333 54 349 58 8 3 24 17 24 36 48 66 40 106 18 148 56 191 16 233 52 275 39
+310 46 334 32 350 25 9 3 50 17 56 37 36 67 52 107 42 150 21 192 41 235 17 276
+58 311 44 335 10 350 53 10 4 16 18 28 38 25 69 04 109 07 151 46 194 ^6 236 42
+278 17 312 42 335 47 351 20 11 4 42 19 01 39 15 70 17 110 32 153 11 195 30 238
+08 279 35 313 39 336 23 351 47 12 5 08 19 34 40 05 71 30 111 57 154 36 196 55
+239 33 280 52 314 35 336 59 352 14 13 5 34 20 07 40 56 72 44 113 22 156 01 198
+20 240 58 282 10 315 30 337 35 352 41 14 6 00 20 40 41 48 73 59 114 47 157 26
+199 45 242 2^ 283 28 316 25 338 11 353 08 15 6 26 21 14 42 41 75 15 116 12 158
+50 201 10 243 48 284 45 317 19 338 46 353 34 16 6 52 21 40 43 35 76 32 117 37
+160 15 202 34 245 13 ^86 01 318 12 339 2^ 354 00 17 7 19 22 25 44 30 77 50 119
+02 161 40 203 59 246 38 287 16 319 04 339 53 354 26 18 7 46 23 01 45 25 79 08
+120 27 163 05 205 24 248 0^ 288 3^ 319 55 340 26 354 52 19 8 13 23 37 46 21 80
+25 121 52 164 30 206 4^ 249 28 289 43 320 45 340 59 355 18 20 8 42 24 13 47 18
+81 43 123 18 165 54 208 14 250 53 29^ 56 321 35 341 32 355 44 21 9 07 24 50 48
+16 83 02 124 43 167 19 209 39 252 18 292 ^8 322 24 342 ^4 356 10 22 9 35 25 28
+49 14 84 21 126 0^ 168 44 211 04 253 42 293 20 323 1^ 342 36 356 36 23 10 02 26
+06 50 13 85 41 127 35 170 08 212 ^9 255 ^6 294 31 324 ^^ 343 07 357 ^^ 24 10 30
+26 44 51 13 87 01 129 01 171 32 213 54 256 30 295 42 324 4^ 343 39 357 28 25 10
+58 27 22 52 14 88 21 130 26 172 57 215 20 257 54 296 52 325 33 344 10 357 53 26
+11 26 28 01 53 16 89 42 131 52 174 22 216 45 259 18 298 01 326 18 344 4^ 358 19
+27 11 55 28 41 54 19 91 04 133 17 175 47 218 10 260 41 299 09 327 ^3 345 1^ 358
+44 28 12 23 29 22 55 22 92 26 134 43 177 11 219 36 262 04 300 16 327 47 3^^ 4^
+35^ 10 29 12 52 30 04 56 26 93 48 136 08 178 36 221 01 263 27 301 23 328 31 3^6
+1^ 3^^ 35 30 13 21 30 46 57 31 95 10 137 33 180 00 222 27 264 50 302 29 329 14
+34^ 3^ 360 ^^
+
+Tabula Ascensionum Obliquarum ad Latitudinem 51 degrees. 30 min.
+0 0 00 13 04 30 12 56 48 94 3^ 137 15 180 00 222 45 265 24 303 12 329 48 346
+56 1 0 24 13 32 30 54 57 54 95 05 138 42 181 25 224 10 26^ 47 304 17 330 29 347
+^5 2 0 49 14 01 31 38 59 01 97 24 140 08 182 50 225 36 268 9 305 21 331 11 347
+53 3 1 14 14 30 32 21 60 08 98 46 141 34 184 15 227 02 269 32 306 24 331 51 348
+21 4 1 3^ 15 01 33 06 61 16 100 10 143 00 185 40 228 48 270 54 307 27 332 39
+348 49 5 2 04 15 30 33 50 62 25 101 35 144 26 187 0^ 229 54 272 16 308 29 333
+09 349 16 6 2 29 16 00 34 35 63 35 102 59 145 52 188 30 231 20 273 37 309 30
+333 47 349 44 7 2 54 16 31 35 22 64 46 104 23 147 1^ 189 5^ 232 46 274 57 310
+30 334 25 350 11 8 3 19 17 02 36 08 65 57 105 48 148 43 191 2^ 234 13 276 17
+311 29 335 2 350 38 9 3 45 17 33 36 37 67 10 107 13 150 09 192 4^ 235 39 277 36
+312 27 335 40 351 05 10 4 10 18 05 37 46 68 22 108 38 151 3^ 194 12 237 05 278
+56 313 24 336 17 351 32 11 4 36 18 37 38 35 69 35 110 0^ 153 00 195 37 238 32
+280 14 314 2^ 336 52 351 58 12 5 01 19 1^ 39 26 70 4^ 111 29 154 2^ 197 02 239
+57 281 32 315 16 337 27 352 25 13 5 26 19 42 4^ 16 72 0^ 112 5^ 155 51 198 28
+241 23 282 51 316 11 338 2 352 51 14 5 52 20 14 41 08 73 19 114 21 157 16 199
+53 242 49 284 8 317 6 338 38 353 17 15 6 17 20 48 42 01 74 35 115 46 158 44 201
+16 244 14 285 25 317 59 339 12 353 43 16 6 43 21 22 42 54 75 52 117 11 160 07
+202 44 245 39 286 41 318 52 339 46 354 8 17 7 09 21 58 43 49 77 0^ 118 37 161
+32 204 09 247 6 287 57 319 44 340 18 354 34 18 7 35 22 33 44 44 78 28 120 0^
+162 58 205 35 248 31 289 11 320 34 340 50 354 59 19 8 0^ 23 08 45 39 79 46 121
+2^ 164 23 207 00 249 57 290 25 321 25 341 23 355 24 20 8 28 23 43 46 26 81 04
+122 55 165 48 208 26 251 22 291 38 322 14 341 55 355 50 21 8 55 24 2^ 47 33 82
+24 124 21 167 14 209 51 352 47 292 50 323 3 342 27 356 15 22 9 22 24 58 48 31
+83 43 125 47 168 39 211 17 254 12 294 3 323 52 342 58 356 41 23 9 49 25 35 49
+30 85 03 127 14 170 04 212 43 255 37 295 14 324 38 343 29 357 6 24 10 16 26 13
+50 30 86 23 128 40 171 30 214 08 257 1 296 25 325 25 344 0 357 31 25 10 40 26
+51 51 31 87 44 130 06 172 54 215 34 258 25 297 35 326 10 344 30 357 36 26 11 11
+27 30 52 33 89 06 131 32 174 20 217 00 259 59 298 44 326 54 344 59 358 21 27 11
+3^ 28 09 53 36 90 2^ 132 58 175 45 218 26 261 14 299 52 327 39 345 35 358 46 28
+12 07 28 49 54 39 91 51 134 24 177 10 219 52 262 36 300 59 328 22 345 59 359 11
+29 12 35 29 31 55 43 93 13 135 50 178 35 221 18 264 1 302 6 329 6 346 28 359 36
+30 13 04 30 12 56 48 94 36 137 15 180 00 222 45 265 24 303 12 329 48 346 56 360
+0
+
+Tabula Ascensionum Obliquarum ad Latitudinem 52 degrees. 00 min.
+0 00 00 12 48 29 4^ 56 1^ 94 06 137 0^ 180 9 223 ^ 265 54 303 4^ 330 1^ 347 12
+1 00 24 13 16 30 24 57 17 95 3^ 138 2^ 181 25 224 26 267 1^ 304 5^ 330 5^ 347
+4^ 2 00 48 13 45 31 7 58 24 96 5^ 139 5^ 182 5^ 225 5^ 268 4^ 305 5^ 331 3^ 348
+7 3 1 13 14 14 31 50 59 3^ 98 18 141 20 184 16 227 1^ 270 3 307 1 332 1^ 348 35
+4 1 37 14 43 32 34 60 39 99 42 142 47 185 42 228 45 271 26 308 4 332 58 349 2 5
+2 02 15 12 33 18 61 48 101 9 144 1^ 187 8 230 12 272 48 309 6 333 3^ 349 29 6 2
+26 15 42 34 3 62 58 102 32 145 40 188 3^ 231 38 274 9 310 7 334 1^ 349 56 7 2
+51 16 13 34 49 64 09 103 57 147 6 189 59 233 5 275 4^ 311 7 334 5^ 350 23 8 3
+15 16 43 35 36 65 20 105 22 148 32 191 25 234 3^ 276 5^ 312 6 335 29 350 49 9 3
+40 17 14 36 24 66 32 106 47 149 5^ 192 51 235 58 278 1^ 313 4 336 6 351 16 10 4
+5 17 45 37 12 67 45 108 12 151 24 194 17 237 25 279 3^ 314 1 336 42 351 42 11 4
+30 18 16 38 1 68 59 109 38 152 5^ 195 42 238 ^2 280 4^ 314 57 337 1^ 352 8 12 4
+55 18 48 38 51 70 13 111 4 154 16 197 8 240 18 282 8 315 52 337 52 352 33 13 5
+20 19 20 39 42 71 28 112 3^ 155 42 198 34 241 45 283 26 316 47 338 2^ 352 59 14
+5 45 19 52 40 34 72 44 113 5^ 157 8 200 ^ 243 11 284 4^ 317 41 339 1 353 25 15
+6 10 20 25 41 26 74 0 115 23 158 54 201 26 244 37 286 0^ 318 34 339 3^ 353 50
+16 6 35 20 59 42 19 75 17 116 49 160 ^ 202 52 246 4 287 1^ 319 26 340 8 354 15
+17 7 1 21 3^ 43 13 76 34 118 15 161 26 204 1^ 247 30 288 32 320 18 340 4^ 354
+40 18 7 26 22 08 44 8 77 52 119 42 162 52 205 44 248 56 28^ 4^ 321 ^ 341 1^ 355
+5 19 7 52 22 43 45 3 79 11 121 8 164 18 207 1^ 250 22 291 1 321 5^ 341 4^ 355
+3^ 20 8 18 23 18 45 59 80 30 122 35 165 43 208 36 251 48 292 15 322 48 342 15
+355 55 21 8 44 23 54 46 56 81 50 124 2 167 9 210 2 253 1^ 293 2^ 323 36 342 4^
+356 20 22 9 11 24 31 47 54 83 10 125 28 168 3^ 211 28 254 38 294 4^ 324 2^ 343
+17 356 45 23 9 37 25 08 48 53 84 31 126 55 170 1 212 5^ 256 3 295 51 325 11 344
+18 357 9 24 10 4 25 45 49 53 85 51 128 22 171 27 214 20 257 28 297 ^ 325 57 344
+18 357 34 25 10 31 26 23 50 54 87 12 129 48 172 52 215 47 258 53 298 12 326 42
+344 48 357 58 26 10 58 27 2 51 56 88 3^ 131 15 174 18 217 1^ 260 18 299 21 32^
+26 345 17 358 23 27 11 25 27 41 52 59 89 5^ 132 41 175 44 218 4^ 261 42 300 2^
+328 10 345 46 358 47 28 11 53 28 21 54 2 91 2^ 134 8 177 9 220 6 263 6 301 3^
+328 53 346 15 359 12 29 12 2^ 29 01 55 6 92 43 135 34 178 35 221 33 264 30 302
+4^ 329 3^ 346 44 359 36 30 12 48 29 42 56 11 94 ^6 137 00 180 9 223 0 265 54
+303 49 330 18 347 12 360 0
+
+Tabula Ascensionum Obliquarum ad Latitudinem 53 degrees. 00 min.
+0 0 0 0 12 14 28 34 54 46 92 58 136 26 180 0 223 34 267 2 305 14 331 26 347 46
+1 0 23 12 41 29 15 55 52 94 23 137 54 181 26 225 1 268 27 306 20 332 6 348 13 2
+0 40 13 8 29 57 56 59 95 48 139 22 182 53 226 29 269 51 307 25 332 45 348 40 3
+1 09 13 36 30 39 58 6 97 13 140 49 184 20 227 56 271 15 308 28 333 24 349 6 4 1
+32 14 4 31 22 59 14 98 38 142 17 185 47 229 24 272 38 309 30 334 2 349 32 5 1
+56 14 32 32 6 60 23 100 4 143 44 187 14 230 52 274 0 310 31 334 40 349 58 6 2
+19 15 1 32 51 61 33 101 30 145 12 188 40 232 19 275 22 311 31 335 17 350 24 7 2
+43 15 30 33 36 62 44 102 56 146 39 190 7 233 47 276 44 312 30 335 53 350 50 8 3
+6 15 59 34 22 63 56 104 22 148 7 191 34 235 15 278 5 313 29 336 29 351 15 9 3
+30 16 29 35 8 65 9 105 48 149 34 193 1 236 43 279 26 314 27 337 4 351 40 10 3
+54 16 5^ 35 55 66 22 107 15 151 1 194 28 238 11 280 47 315 24 337 39 352 5 11 4
+17 17 2^ 36 43 67 36 108 42 152 29 195 55 239 19 282 7 316 21 338 13 352 30 12
+4 41 18 ^ 37 32 68 51 110 9 153 56 197 22 241 6 283 26 317 16 338 47 352 55 13
+5 5 18 31 38 22 70 6 111 36 155 23 198 49 242 34 284 45 318 10 339 20 353 19 14
+5 29 19 2 39 11 71 22 113 4 156 50 200 16 244 1 286 3 319 3 339 53 353 43 15 5
+53 19 34 40 5 72 3^ 114 32 158 17 201 43 245 28 287 21 319 55 340 26 354 7 16 6
+17 20 7 40 57 73 5^ 115 59 159 44 203 10 246 56 288 38 320 47 340 58 354 31 17
+6 41 20 4^ 41 50 75 1^ 117 26 161 11 204 37 248 24 289 54 321 38 341 29 354 55
+18 7 5 21 13 ^2 ^^ 76 34 118 54 162 38 206 4 249 51 291 9 322 28 342 0 355 19
+19 7 30 21 47 43 39 77 5^ 120 21 164 5 207 31 251 18 292 24 323 17 342 31 355
+43 20 7 55 22 2^ 44 3^ 79 13 121 49 165 32 208 59 252 45 293 38 324 5 343 1 356
+6 21 8 20 22 56 45 3^ ^0 3^ 123 17 166 59 210 26 254 12 294 51 324 52 343 31
+356 30 22 8 45 23 3^ 46 31 81 5^ 124 45 168 26 211 53 255 38 296 4 325 38 344 1
+356 54 23 9 10 24 7 47 3^ 83 16 126 13 169 53 213 21 257 4 297 26 326 24 344 30
+357 17 24 9 36 24 4^ ^8 2^ 84 38 127 41 171 20 214 48 258 30 298 27 327 9 344
+50 357 41 25 10 2 25 2^ 49 29 86 ^ 129 8 172 46 216 16 259 56 299 37 327 54 345
+28 358 4 26 10 28 25 58 50 3^ 87 22 130 36 174 13 217 43 261 22 300 46 328 38
+345 56 358 28 27 10 54 26 3^ 51 3^ ^8 45 132 4 175 40 219 11 262 47 301 54 329
+21 346 24 358 51 28 11 2^ 27 1^ 52 3^ 90 9 133 31 177 7 220 38 264 12 303 1 330
+3 346 52 359 14 29 11 47 27 5^ 53 4^ 91 33 134 59 178 34 222 6 265 37 304 8 330
+45 347 19 359 37 30 12 14 28 34 54 46 92 58 136 26 180 0 223 34 267 2 305 14
+331 26 347 46 360 0
+
+

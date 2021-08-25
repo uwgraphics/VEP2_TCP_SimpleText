@@ -1,0 +1,2393 @@
+Some Instructions In the Art of GRAMMAR; Writ to assist a Young Gentleman, in
+the speedy understanding of the LATIN TONGUE.
+
+Licensed, and Entered According to Order.
+
+LONDON. Printed by I. B. for William Miller, at the Gilded Acorn in St. Paul's
+Churchyard, where Gentlemen and others may be furnished with School-Books, and
+most sorts of Acts of Parliament, Kings, Lords Chancellors, Lord Keepers, and
+Speakers Speeches; and other sorts of discourses, and State-matters; as also
+Books of Divinity, Church Government, Humanity, Sermons on most Occasions etc.
+MDCLXXXXI.
+
+The PREFACE.
+Though Speech be Natural, yet Languages are Artificial; some also much more than
+others, and far different in their particular Rules, though in the Essential
+Parts they mostwhat agree. These Notes were many years ago drawn together as a
+short Scheme of the Artifice of the Latin Tongue, as also the causes or
+reasonableness of it; which (as was conceived) would very much conduce to both
+its perfecter learning and easilier remembering; since we much better both
+apprehend and retain what we understand than what we acquire only by rote. But
+it could not be made intelligible except compared with some other Language
+already known, as to us is the English. Now though both these Languages agree in
+brevity, yet there are many differences betwixt them, and in some things of
+very frequent use; (As, that the Latin wants the exact distinction betwixt
+definite and indefinite Articles etc.) Yet here is no more taken notice of,
+than what was necessary for the understanding of them: As chiefly that what the
+English mostwhat expresses by Particles, and Auxiliaries, the Latin uses
+variety of Cases and Terminations.
+
+This design must Apologize for the brevity of the whole discourse, i. e. for
+the omission of very many Rules, and more exceptions. For as the more general
+Rules need the fewer exceptions, so the exceptions (many times but few in
+number*) are mo^e easily learned, and better retained by the seasonable
+industry of the Instructor.
+
+The Schemes of the Declensions and Conjugations were designed to be in one
+Table, because the Learner having them all in his eye at once, might easily
+find out his own Termination, and by that* the most of the Accidents of his
+word. Thence also would he draw several Observations, which might give him a
+great insight into his work. As, that all Declinables (the others are very few*
+ending in ae are either Substantives of the first, or feminine Adjestives after
+the first, Declension. All ending in orum of the second; In ei of the fifth; In
+ubus of the fourth; in ebus of the fifth, etc.
+
+There are also some few references to Rhetoric and Logic. For the Learner, who
+intends to advance further into Arts and Sciences (and such only need to learn
+Grammar) will joyfully apprehend, that all these three Arts are concerning
+words and speech, though the manner of considering them be in each, diverse.
+
+Somewhat also is done toward rendering the English correspondent to the Latin
+in Syntax; though in truth, the English, using most particles and prepositions,
+has not much need of such Rules. By which it has the advantage of properly
+expressing the coherence of the words in other Languages. So that I think it
+hardly to be showed where good and proper Latin may not be also expressed in
+proper English: As, v. g. induo tibi tunicam, I put a coat on thee. Induo te
+tunica, I cloth thee with a coat. But induor fortitudinem being not
+expressible in English, is scarcely to be read, except in the most ancient
+Translation of the Holy Scripture, and some Ecclesiastical Authors, or perhaps
+also once in Plinies Natural History. But in these I suppose induor is taken
+for a Depoponent. Vescor Caseum, I eat cheese, vescor caseo, I feed upon
+cheese. Potior urbem, I obtain the City, which I had not; sine labor patria
+potitur, he makes-use- of or enjoys his Country. Me gravissime nocere posset,
+he could hurt me: nocet mihi, he is hurtful to me. But in the former sense
+laedo is more frequently used than noceo.
+
+Lastly, for the Prosodia; there is an endeavor (whether successful the
+Learned will judge) to fix pronunciation upon some certain Rules, partly
+natural, and partly from custom. For were there not somewhat of reason in it,
+it would be hardly credible what Tully, Quintilian, and others observe of the
+exact judgment of the ordinary People in their pronunciation. Whether these
+Rules be critically true, I know not; At least I hope what is here done may
+excite some others of greater experience and leisure to add, amend, and perfect.
+
+Corrigenda and addenda.
+PAge 14. line 14. for D, read D. l. 15. for M. read M. p. 16. l. ult. for
+cujus. r. cujas. p. 20 l. 30. for pacaruat. r. pacarunt. p. 25. l. 13. The
+Imperative etc. plainer thus. The Imperative has in pro^er speaking only the
+Second Person; Though the Latins use sometimes amato and amanto in the Third. But
+these not properly commands, but permission^, or the like^: The Subjunctive is
+also a distinct Mode, but the Optative, Potentiall (many others the like may be
+used) are not diverse manners of speaking, but serve instead of Auxiliary words,
+as, possum, volo, opto, utinam, etc. which are to be distinguished only by the
+sense. p. 28. l. 2. for did, r. do. p. 40. l. 25. for vere, r. vero. p. 51.
+Dative case. The Rule for the Dat. Case is better thus expres^ed.
+
+Whatever Substantive, Adjective, Verb, or Participle signifies good or bad to
+or for any one, requires that to whom or which it is good or bad to be of the
+Dat. Case. p. 52. l. 10. as they say commonly. p. 57. l. 20. for asuescimus, r.
+assuescimus. p. 61. l. 35. Academia -- part of this Paragraph is misplaced,
+belonging to Reg. I. p. 63. l. 10. for c^go, r. cogo. p. 64 l. 4. for
+veravolucris, r. ver^ volucris. p. 66. l. 13. for Str^jis and Phr^jis, r.
+Strygis, Phrygis. l. 14. r. Chalybis. p. 68. l. 17. for Grammatices, r.
+Grammatici* p. 69. l. 8. dele, vel altum, dele etiam lin. ult.
+
+In the Schemes of the Declensions*
+p. 4. l. ult. for Manis, r. Manu.
+
+In the Schemes of the Verbs.
+p. 2. l. 13. for ianto, r. iunto. All false-pointings it is hoped the Reader
+will correct.
+
+IN Latin Speech there be Eight parts.
+
+Noun, Pronoun, Verb, Participle,
+Adverb, Conjunction, Preposition, Interjection.
+WE cannot speak nor discourse except i^ be of somewhat, i. e. of some Subject*
+and something also we must say (affirm or deny) of that Subject; for either it
+is, or has, or does, or suffers something of another. So that these two are
+so necessary, that without them we cannot express our minds. The rest are
+Auxiliaries for the more easy, short and convenient expression: As Pronouns
+instead of Nouns. Participles partake both of Nouns and Verbs. Adverbs more
+fully express the signification of Verbs; sometimes also of Nouns. Prepositions
+and Conjunctions belong to Sentences.
+
+A Noun Noun.
+is the Name of Thing, or Subject, and every thing must be Signified by a Noun,
+which is its Name.
+
+Of Nouns some be Substantives, Substantive.
+which signify such things as subsist of themselves, and without the Addition
+of any other Noun may be the Subject of our Speech or discourse. In English
+also they may have, [ a, an] or [ the] applied to them, as Homo, a Man,
+Dominus, the Lord. A, or an, is used when we speak of a thing without
+determining which we mean. The, when we speak of one certain and determinate
+thing.
+
+Others be Adjectives, ^djective.
+or Adjuncts, which require to be joined to some Substantive to make their
+Signification distinct and Intelligible, and in English they may have [ thing]
+or [ person] joined to them. And Note, that Adjectives are sometimes placed
+without Substantives expressed; and then, if they be of the Masculine or
+Feminine Gender [ a Preson] He or She, Man or Woman, is understood, as Doctus
+est, [ He,] or [ the Man] is learned. But if of the Neuter Gender [ thing] is
+understood, as hoc album, this white [ thing.]
+
+Adjectives, (in Rhetoric called Epithetes, and in Logic Concretes,) frequently
+signify Accidents, or somewhat joined or belonging to the Subject, as Quantity,
+Quality, Place, or the like.
+
+Of Substantives some are the Names of one Single thing, or person, and are all
+called Proper Names (in Logic Singulars, Particulars, or Individuals) as
+Socrates, Ioannes, Bucephalus, Laelaps, etc. Some are Common Names, or the
+Names of whole kinds of things (and in Logic are called Universals) as Homo,
+Equus, Arbor, Virtus, etc. Some also are Collectives, signifying many things
+together, as Plebs the People; Exercitus an Army; Grex a flock or herd.
+
+Of Numbers.
+Nouns, Pronouns, Verbs and Participles are declined into Two Numbers, Numbers
+2. Singular and Plural.
+the Singular, when we speak of one, the Plural when of more. Greeks have a
+Dual Number when they speak of two or both, it is not very necessary, and
+therefore in our Language given over.
+
+Regularly in English the Plural Number is made by adding s to the Nominative
+Singular, as King Kings, House Houses, Table Tables, But there are many
+Irregulars; as when the old Saxon termination en is reserved, as Ox, Oxen, Man,
+Men for Manen.
+
+Of Cases.
+Nouns have diverse Relations to Nouns, Cases 6.
+and other parts of Speech, the which are in diverse Languages diversely
+expressed: Sometimes by Prepositions, as in English, though we have a Genitive
+Case by adding s to the Nominative, as Man, Genitive, Man's, as Man's wit.
+Sometimes by various terminations of the word it self, which are called Cases,
+of which in Latin there be Six. The Nominative Genitive Dative Accusative
+Vocati^e Ablative
+Case.
+
+Note, the Nominative is not properly a Case, [and Aptotes are not so called
+because they have no Case, but none proceeding from the Nominative] for
+
+The Noun or Name it self is said to be the Nominative Case, ^omina^^^e.
+it is the Foundation or Subject of Speech, i. e. when we speak it comes
+before the Verb, and answers to the Questions [ Who?] or [What?] as Venit
+Rex, the King comes.
+
+If in English two Nouns come together, and the Particle [ of] be applied to
+the later of them, that later in Latin is to be in the Genitive ^enitive.
+Case; as the Sword of Caesar, Caesaris gladius, the praise of Virtue, laus
+Virtutis, giving of thanks gratiarum actio: The same reason is if s be added to
+the Nominative Case of the Noun precedent, as Cesars Sword, Thanksgiving.
+
+If a Verb signify doing or giving to any Person or thing, the Name of such
+Person or thing is in Latin expressed by the 3d. or Dative Dative.
+Case. As, I do hurt to thee, Noceo tibi: it pro^iteth the Commonwealth,
+prodest Reipublicae: I, give thee Counsel, do tibi Consilium.
+
+If a Verb signifying doing or making precede a Noun signifying the object or
+effect of such action or making, that Noun is to be put in the 4th. or
+Accusative Accusative.
+Case, and it answers to a question made by [ Whom?] or [ What?] as, Lego
+Virgilium, I read Virgil.
+
+If a Noun signify a Person or thing spoken-or called-to, it is to be put in
+the Vocative Vocative.
+Case, and it is mostwhat the same with the Nominative.
+
+If any of these Prepositions, in, with, through, for, from, by, or than, or such
+others as are named in the Chapter of Prepositions come before a Noun, that
+Noun in Latin is to be put in the 6th or Ablative Ablative*
+Case. Instead, or place, vice, loco; with art, art; Learneder than Plato,
+doclior Platone.
+
+Note, that our English Language is in expressing these Relations more
+accurate, and distinct then the Latin; But the Latin more Elegant then the
+English, as avoiding the so frequent repetition of the same Monosyllables.
+
+Note, that in Construing Latin into English, you add always the sign of the
+Case, because it serves instead of the termination.
+
+Of Genders.
+Some Languages have no Genders, Genders ^* Masculine Feminine Neuter.
+but express Sexes some other way, as the English does the Male by [ He,] the
+Female by [ She;] these for Persons: All Things by [ it.] But the Latin has
+three Genders, the Masculine, the Feminine, and the Neuter; to which three they
+commonly apply the like Genders of the Pronoun Hic, Haec, Hoc. Some Nouns
+accordingly are declined with one Article, as hic vir: Some with two, and that
+two ways; first, if the word include both Sexes, as Homo, a Man or Woman,
+Conjux a Husband or Wife; and then that Gender must be used of which Sex you
+speak; these words are said to be common. 2ly. If you may use either of them
+indifferently, as, hic or haec Dies, a Day. Hic or ^oc Vulgus, the Common
+People; And this is called the Doubtful, and uncertain Gender. Some as
+Adjectives, are of all three, if they be applicable to Things, as well as
+Persons: but if to Persons only, they are not used but in two,(except
+improperly) as Pauper, Dives, etc. And so these at any time may be applied to a
+Neuter also, as Pauper tugurium, a poor Cottage.
+
+General Rules to know the Genders of Nouns.
+Genders being framed to express the several Sexes
+
+All He Is are Masculine, all She Is Feminine; And the English for all others use
+[ it.]
+
+Things that have no Sexes, though it matter not of what Gender their names be,
+yet have the Ancient Languages, and some of the Modern been diligent in
+assigning them Genders, and thereby have brought an unnecessary obligation upon
+themselves, and difficulty upon the Learners: Lapis, Petra, Saxum, the same
+signification of different Genders: Baculus, and Baculum, the termination only
+changed, both Masculine and Neuter. And genders of things having no foundation
+in signification are very difficultly comprehended in Rules, those of the
+Terminations are the best.
+
+When the Sexes are not easily distinguished, sometimes the word is of both
+Genders, as hic and haec Anguis, an he or she Snake, hic or h^c anas a duck or
+drake; Bubo, bos, canis, grus, halcyon, histrix, limax, linx, python, perdix,
+sus, talpa, dama, and the like.
+
+Many times the same Gender serves both Sexes, as, hic Passer a Sparrow, haec
+Aquila an Eagle, both he and she, haec Vulpes a Fox: These follow the Rules of
+the Declensions, and when they would express an he-fox they say Vulpes mas, if
+a she, Vulpes foemina.
+
+Those words which signify what belongs to either Sex, are both Masculines and
+Feminines, as Civis a Citizen, whether. Man or Woman, Sacerdos a Priest or
+Priestess, Parens a father or mother, infans, adolescens, a young Person, Comes
+a Companion, dux a Captain, host is an enemy, Iuvenis a young Person, Miles a
+Soldier, Princeps a Prince or Princess, Serpens a Serpent, Sodalis a companion,
+vates a Prophet, or Prophetess.
+
+Yet many Substantives which in signification agree to both Sexes, admit an
+Adjective of one only, as we say not, sur magna, but foemina furax; Many also
+have Feminines besides the Masculines, as Propheta, Prophetissa, Antistes,
+Antistita, Cantator, Cantatrix, -- trix being the termination of the Feminine
+Gender, and is changed into -- tress in English, as a Singstress. Yet Natrix a
+swimming or water-Serpent is of both Genders, as Serpens is,
+
+Also, Homo, latro, exul, praesul, pugil, eques, haeres, and the like, which
+are commonly applied to Males, are rarely, if at all, used in the Feminine
+Gender.
+
+Other Rules for the Genders.
+1. All Nouns ending in- um are Neuters, and of the second Declension; so are
+those that have no more syllables in the Genitive then in the Nominative Case,
+ending in -- on and are Greek words; and in -- e, making -- is in the Genitive,
+so are Nouns ending in -- le, -- al, -- ut.
+
+2. All indeclinable Verbs made Nouns, Nouns in -- i, and -- n indeclinable in
+the Singular number, are Neuters; so are words that signify materially, the
+word nomen being understood.
+
+3. Nouns of the 1st. and 5th. Declension generally are Feminine.
+
+4. Nouns of the 4th. Declension coming from Verbs, are Masculine, others (not
+coming from Verbs) are most Feminine.
+
+5. Most Nouns follow the Gender of their common Names, as Winds, Rivers,
+Mountains, Months, are Masculine, because Ventus, Fluvius, Mons, and Mensis
+are so, (though the names of Winds and Months are Adjectives.) So also Lands,
+Countries, Isles, Cities, Virtues, Trees, Herbs, Ships, and generally whatever
+bears, are Feminine. Yet these Rules are not so universal, but that sometimes
+they follow the Rules of the terminations, as those ending in -- us, and -- er,
+are Masculines, as Pontus, Spinus, Oleas^er: In -- a, Feminines,
+
+tween Page 10 and 11.
+
+I. The First Declension has the same number of Syllables in the Nom. and Genesis
+Cases; the Terminations are of Latin Nouns in a which are Feminine. Of Greek
+Nouns in (...) and es (most Masculine, and so are Latin Nouns derived from
+them) and e Feminines*
+
+Singulariter. N. haec Musa Pluraliter. hae Musae Sing. N. Aene^^ G. hujus
+Musae harum Musarum G. -- ae D. huic Musae his Musis D. -- ^e A. hanc Musam has
+Musas A. -- am vel an V. o Musa o Musae V. -- a A. hac Musa his Musis. A. -- a
+
+II. The Second Declension has 7 Terminations, whereof ir, ur, er, us, have
+^ometimes more Syllables in the Genesis then Nom. and are always Masc. So are
+those ^nding in o^, (Greek Nouns.) But humus, alvus, colus, vannus, are
+Feminines.
+
+Sing. N. hic Dominus hoc Regnum Plur. hi Domini haec Regna G. hujus Domin^
+hujus Regni horum Dominorum horum Regnorum D. huic Domino huic Regno his
+Dominis his Regnis A. hunc Dominum hoc Regnum hos Dominos haec Regna V. o
+Domine o Regnum o Domini o Regna A. hoc Domin^. hoc Regno his Dominis his
+Regnis
+
+III. The Third Declension has many Terminations: Those words that have the
+same Number of Syllables in the Nom. and Genesis Cases, are for the most part
+Feminine.
+
+Nouns whose Genesis increasing has the last Syllable but one long, together with
+Verbals ending in ti^ are Feminine, except such as end in n, o, or, os, ns,
+Compounds of Dens, as assis, and uncia, which are Masculine, as are also most
+Monosyllables.
+
+Nouns of many Syllables ending in all, and a^, are Neuters. Compounds of Frons
+are of the Common of two.
+
+Nouns whose Genesis increasing has the last Syllable save one short, are Masc.
+But those ending in do and go; as also Greek words ending in as, o^, is* are
+Feminines: and Latin Nouns ending in en, c, el, put, ur, and us, are Neuter;
+as also Greek Nouns in ma. Halec signifying the Pickle is Neuter, but
+signifying the Fish it self is Feminine.
+
+Neuters in all, ar, and e, have for the most part the Abl. in i.
+
+The Accus. ends sometimes in em, sometimes in im, accordingly the Abl. in e,
+or i, and then the Nom. Plur. (of Neuters) ends in ia, the Genesis in ium; As do
+all Nouns whose Nom. Sing. is terminated with 2 Consonants, as Urbium, Montium.
+^xcept Hyemum, and those whose Nom. ends in ps.
+
+Sing. N. haec Cuspis Rete Plur. hae Cuspides Reti^ G. hujus Cuspidis -- is
+harum Cuspidum -- ium D. huic Cuspidi -- i his Cuspidibus -- ibus A. hanc
+Cuspidem -- e has Cuspides -- ia V. o Cuspis -- e o Cuspides -- ia
+
+IV. The Fourth Declension has the same number of Syllables in the Nom. and
+Genesis Cases: The Terminations are us and u; Neuters in u in the singular Number
+have all Cases a like, and in the Plur. the Nom. Acc. and Voc. end all in (...).
+
+Nouns of this Decl^^sion, (especially those derived from Supines of the fourth
+Conjugations) are Masculine: Acus, domus, idus, socrus, colus, manus, porticus,
+tribus, are Feminines; specus, and penus, doubtfulls.
+
+Acus, la^us, artus, arcus, tribus, ficus, specus, quercus, partus, ver^, make
+the Dat. and Abl. Plur. in ubus only: quae^tus, portus, genu in ubus, or ibus,
+all the res^ in ibus.
+
+anciently
+Sing. N. haec Manus Manus Plur. hae Manus Manues us G. hujus Manus Manuis
+harum Manuum Manuium uum; D. huic Manui Manui his Manibus Manuibus ibus A. hanc
+Manum Manuem has Manus Manues us V. ^ Manus Manus o Manus Manues us A. hac
+Manis Manue his Manibus Manubus ibus
+
+V. The Fifth Declension has but one Termination, and all words of this
+Declension are Feminines; except Meridies, which is Masculine, and Dies, which
+is doubtful in the Singular, and Masculine in the Plural: And all have more
+Syllables in the Genesis then in the Nom. Case. Most Nouns ending in ies are of
+this Declension.
+
+Sing. N. haec Species Plur. hae Species G hujus Speciei harum (...) D. huic
+Speciei his Speciebus A. hanc Speciem has Species V. o Species o Species A. hac
+Speci^ his Speciebus
+
+
+
+as if Aq^a were understood, in names o^ Rivers, Matro^a the Marne: In -- um,
+Neuter, as Eboracum, York; Crustumium, a river so called; as if Oppidumor
+Flumen were understood: In -e, also Neuter, as Reate, Praeneste, Caere; Some in
+-ur also are Neuter, as Tybur; but Robur, Acer, signify more properly the wood
+or timber; Siler, the Cork or excrescence upon the bark; and Thus, the Gum
+rather then the Tree it self. And it is very frequent to have the fruit,
+product; or the part destined to use, of one gender, and the Tree of another,
+as, Malus, malum; Spinus, spina; Buxus, buxum.
+
+6. Primitives, and their Derivatives, and Diminutives, the Compounded, and
+that whereof it is compounded, as Centussis, are of the same gender.
+
+7. All Greek Nouns made Latin retain their Gender, as all the Compounds ending
+in -- odus, are Feminine, because of (...).
+
+These Rules are to be first observed, then those that follow in the particular
+Declensions.
+
+Rules for the Declensions.
+All Neuters have the Nom. Acc. and Voc. alike, and in the Plural number these
+Cases end all in -- a: Those that end in -- ^, have no Variation of Cases in
+the Singular Number.
+
+The Nom. and Voc. are the same; except in the Singular Number of the 2d.
+Declension, where when the Nom. ends in -- us, the Voc. ends in -- ^, and
+when the Nom. in -- ius, the Voc. sometimes in -- i, to hinder the ungrateful
+sound of 2 Vowells coming together, as Virgili, instead of Virgilie.
+
+The Abla. and Dat. Plural are always the same, and end always in -- is or --
+bus.
+
+The Genesis Plural always ends in -- um, and many times there is a Syllable cut
+off in the midst of the word, as virum for virorum.
+
+Nouns compounded of a Nom. and Genesis have only the Nom. declined, as
+Tribunus-plebis; but of two Nom. both are declined, as Ius-jurandum.
+
+Many words being derived of the Greek do retain much of their Greek manner of
+Variations of Cases. And this manner of expressing Cases in diverse Declensions
+came from the Greek, nor is it necessary to a Language, but it is more Elegant,
+by avoiding the same termination, which many times also would be harsh and
+unpleasant.
+
+Note, the Ancients never used Diphthongs, but pronounced, ae, as a ^, which is
+the reason of changing the later Vowel, as in the 1st. Declension ae is often
+changed into ai, (of a sound like unto it) as picta^i.
+
+Of Adjectives.
+Because Adjectives Adjectives
+must belong to Substantives of all Genders, they must be of all Genders; And
+sometimes the Genders also vary in Terminations, then the Masculine ends in --
+us, or -- er, the Neuter always in -- um; and both these are of the 2d.
+Declension, the Feminine always in -- a, and of the 1st. Declension, as Bonus,
+bona, bonum. Genesis Boni, bonae, boni, etc. Some Adjectives have two
+Terminations, then the 1st. is Masc. and Femin. as Tristis, the 2d. is Neuter,
+as Triste.
+
+And these, as also those of one Termination and all Genders as Foelix, follow
+the 3d. Declension, as hic and haec Tristis, and hoc triste, Genesis Tristis* Hic,
+haec, and hoc Foelix. Genesis Foelicis, of all Genders.
+
+Some few Irregulars there are as, Ambo and Duo, which are of a peculiar
+number, called the Dual, because they are never used but when we speak of two
+and no more: their declining is irregular. Also Vnus, Solus, hic, ille, iste,
+ipse, is, alius, alter, uter, neuter, qui, etc. make the Genesis in -- ius, the
+Dat. in -- i, as Vnius, Solius, etc. in other Cases they are like other
+Adjectives.
+
+Most Adjectives signify such things as are capable of more and less, as more
+white or whiter, less white (which the Philosophers call Intension and
+Remission) and may have magis and mini^s applied to them, as magis albus, minus
+albus; to express this there are two degrees of Comparison. Degrees of
+Comparison ^.
+
+
+(That which Signifies the thing it self is called the Positive, and is no
+degree.)
+
+1st. The Comparative Comparative.
+which Signifies [ more] and has after it [ than] with an Abl. Case, as
+Pulchrior Helena, more fair than Helena; and it is formed of the 1st. case of
+the Positive that ends in -- i, by putting to it -- or for the Masculine and
+Feminine, and -- us for the Neuter, Gender; as of Casti, castio^ and castius.
+All these follow the 3d. Declension.
+
+2d. The Superlative, Superlative.
+which Signifies [ most] and has after it [ of] or a Genesis Case of the Plural
+Number, as Sapientissimus omnium, the most wise or wisest of all: And is formed
+of the 1st. Case of the Positive that ends in -- i, by putting to it -ssimus,
+as of Casti, castissimus. Yet if the Adjective end in -er, it is made by adding
+-rimus, as ^ener, tenerrimus. And some in -lis make -llimus, as Facilis,
+facillimus. All these are declined of the 1st and 2d. Declension. Some other
+Irregulars there are, as also many Nouns, which do vary from the ordinary
+regula^ De^lensions, some because of a more graceful Sound: Some because their
+Primitives are disused, and new ones succeeded: Some also because of their
+derivations, of all which particulars other Grammarians must be consulted.
+
+Of Nouns some are (1) Primitives, some Derivatives, that are made from them,
+such are those called Patronymi^s, which are words derived from the Names of
+Parents, or some Relations, or their Country, City, or the like. The Masculines
+end in -- des, or -- on, as Anchisiades, Iapetion; Feminines in -as, -is, -ne,
+as Ilias, Priamis, Adrastine, Acrisione, those from the Stock or Country in
+-us, as Anglus, Romanus, or ensis, as Ox^niensis.
+
+2. Possessives, which signify some propriety or possession, and may be
+expounded for the Genesis Case of their Primitives, as Paternus, Patrius, Patris:
+Regalis, Regius, Regis; And end mostly in -- aris, -oris, eus, e^us, -- icus,
+^us, -- lis, -nus, -vas.
+
+Diminutives, ordinarily retaining the Gender of their Primitives. There is
+great variety of their Terminations, as -cio, -sio, -aster, ^ulius, -ellus,
+-ella, -ellum, -illus, -illum, -olus, -ola, -olum, -ulus, -ula, -ulum, -culus,
+-cula, -culum, -inulus, -unculus, -iscus.
+
+4. Denominatives, as, ferreus from ferrum, pietas from pius, some of th^se are
+Substantives, some Adjectives, some Masculines, some Feminines, some Neuters;
+and of all Terminations.
+
+5. Numerals, whereof some are called Cardinals or Principals, as, unus, duo,
+etc. and Answer to the Question made by Quot; These from tres to Centum are not
+declined. Others are called Ordinals, that signify Order, and answer to the
+question made by Quotus, as Primus, Secundus, etc. Others Distributives, which
+answer to Quoteni, as Bini, by two's, or two by two, Terni, by three and three.
+Others Multiplicatives, answering to Quotuplex, as Duplex, double, Triplex,
+triple. Others imply weight or time, as Lapis Centenarius, of an hundred pound
+weight, Bimus, of two years old.
+
+The Romans had a manner of counting, which was used also by our Forefathers
+the Saxons, and is by some Nations at this day: As for 2 and, they said
+Sestertius, a, um; i. e. Semistertius, the 3d. is an half, and it is thus
+marked IIS, or HS, for the usual Characters for Numerals were --
+
+I. the most obvious and easy to be written. V. quinque, five, the half of X.
+december, ten. But why noted by this Crux decussata, I know not. L. quinquaginta,
+fifty, half of C. Centum, one hundred. D. quingenti, five hundred, half of M.
+Mill, one thousand. Millia many thousands.
+1. Such Substantives as end in -tio, changed in English into -tion, as
+temptation, and -- itus, the English whereof ends in -ing, as hearing, are
+derived from Verbs, and signify either the Action it self, or the thing
+produced by the Action, as Lectio a reading, or a Lesson read; Sectio, a
+cutting, or a cut; Auditus a hearing or a thing heard.
+
+2. Those that end in -bilis come from Verbs, and augment the signification, as
+Laudabilis worthy to be praised, Flexibilis easy to be bent; And we express
+them by an Adjective ending in -ble, as Laudable, Flexible.
+
+3. Those that end in -tor, Masculines, and -trix, Feminines, augment the
+signification, as Cantator one that uses, or makes it his trade, to Sing,
+Amator, a Lover.
+
+4. Those that end in -bundus signify so also, as Ludibundus gamesome.
+
+5. Also Substantives and Adjectives are much alike in their signification, and
+therefore derived one of another, as Pius, godly, Pietas, godliness: Beatus,
+blessed, beatitudo blessedness. Those Substantives that end in -- t^s, -tudo,
+we English by a word ending in -ness, Feritas fierceness, pietas godliness,
+magnitudo greatness.
+
+Because that a Noun and Verb signify the same thing, it must needs be that
+there is great affinity between Nouns and Verbs, and that Nouns may be changed
+into Verbs, and Verbs into Nouns, as Amor, Amo; And again Substantives into
+Adjectives, and Adjectives into Substantives, as Amor, Amabilis, Albedo, Albeo,
+Albus and such like.
+
+Of Pronouns.
+They are called Pronouns because used for, or instead of Nouns, for they are
+not the Names of any things, and therefore not Nouns, yet are they Subjects in
+a Sentence; They regulate Verbs and Actjectives, and therefore have the same
+use as Nouns.
+
+They are not of absolute necessity to speak, (for instead of I and My, may be
+used my proper name) but of very great convenience for brevity, Elegance, and
+Perspicuity. They are used for and instead of Nouns which signify Persons, or
+appertaining to Persons; for
+
+As Things are signified by Nouns, so are Persons by Pronouns [in Logic a
+Person is nothing else, but one single or intellectual Man or Angel, but in
+Grammar it is otherwise, for] persons are either in speaking the Speaker,
+called the first person; or the spoken to, called the second; or the spoken of,
+called the third Person* And of this Person are all Things, except by some
+figure we either speak to them, or feig^ them speaking; and then we understand
+T^ or Ego.
+
+Of Pronouns, some are called Demonstratives, as Ego I, Tu thou, Sui of
+himself, Ille, Ipse, is, he, Hic this.
+
+Some Relatives, which referr to some Substantives spoken of before, ille,
+ipse, iste, hic, is; but not properly qui, which sometimes includes both the
+Antecedent and Relative, as* Qui male agit, odit lucem, He or that Man* who
+does evil, hates the light; Yea, though of diverse Cases, as [ Ei] Qui Simulat
+Verbis, nec cord est fidus amicus, Tu quoque fac simile. Do thou the like to
+him, who --
+
+Some Possessives, which Signify possession, as Meus mine, tuus thine, suus
+his, noster ours, vester yours, nostras of our Family or house, Vestras of
+yours.
+
+Quis is an Interrogative, Who? And is used both in the Masculine and Feminine
+Gender, Quid? What? of the Neuter. So Cujus, cuja, cujum, and Cujus whose is it?
+
+Singul.
+Nom. Ego, I. Tu, thou.
+
+Genesis Mei, of me. Tui, of thee. Sui, of him.
+
+Dat. Mihi, to me. Tibi, to thee. Sibi, to him.
+
+Accu. Me, me. Te, thee. Se him.
+
+Abla. Me, in, for me. Te, in, for thee. Se for him.
+
+Plural.
+Nom. Nos, we. Vos, ye.
+
+Genesis Nostrum, of us. Vestrum, of you.
+
+Dat. Nobis, to us. Vobis, to you.
+
+Acc. Nos, us. Vos, you.
+
+Abl. Nobis, with us. Vobis, in, with, for, from etc. you.
+
+Sing
+No. Ille, he, illa, she, illud, it,
+
+Ge. Illius, of him, her, it,
+
+Da. Illi, to him, her, it,
+
+Ac. Illum, him, illam, her, illud it,
+
+Ab. Illo, with him, illa, with her, illo, with it.
+
+Plur.
+No. Illi, they ( men) illae, they ( women) illa, those ( things)
+
+Ge. Illorum, of them ( men) illarum, of them ( women) illorum, of those (
+things)
+
+Da. Illis, to them ( men or women) to those ( things)
+
+Ac. Illos, them (men) illas, them (women) illa, those ( things)
+
+Ab. Illis with them ( men or women) with those (things.)
+
+In like manner is declined is, ea, id, the signi^ication is the same as ille.
+Hic, haec, hoc, etc. idem, eadem, idem, etc.
+
+Sing.
+No. Iste, he this, ista, she this, istud, this thing.
+
+Ge. Istius of this him, her, or it.
+
+Da. Isti, to this him, her, or it.
+
+Ac. Istum, this him, istam, this her, istud, this it.
+
+Ab. Isto, in this him, ista, in this her, isto, in this it.
+
+Plur.
+No. Isti, these he is, istae, these she is, ista, these things.
+
+Ge. Istorum, of these he is, istarum, of these She Is, istorum, of these things.
+
+Da. Istis, to these he is, she is, or things.
+
+Ac. Istos, these he is, istas, these she is, ista, these things.
+
+Ab. Istis with these he is, she is, or things.
+
+Ipse (and anciently ipsus) ipsa, ipsum, etc.
+
+Sing.
+No. Qui, who. Quis, who? quae, quod, what,
+
+Ge. Cujus, of whom, of what.
+
+Da. Cui, to whom, to what.
+
+Ac. Quem, quam, quod, whom, or what.
+
+Ab. Quo, qua quo, with whom or what
+
+Plural.
+No. Qui, quae, quae, who or what.
+
+Ge. Quorum, quarum, quorum, of whom or what.
+
+Da. Quibus vel queis, to whom or what.
+
+Ac. Quos, quas, quae, whom or what.
+
+Ab. Quibus vel queis, from whom or what.
+
+Quis is only used in asking a Question in the Nom. Case, concerning Persons,
+all other questions are asked by the other Cases.
+
+Pronouns are also variously compounded.
+With Pronouns, as, Egoipse, tuipse, tute, su^^psius, I my self, thou thy self,
+of himself, istic, illic, for iste hic, ille hic, this very same, sese,
+quisquis. With Nouns, as, Aliquis, i. e. alius quis, some other, quomodo, after
+what manner, hujusmodi, of this manner, etc. With Verbs, Quivis, who thou will,
+quilibet, who thou please, quisputas? With Adverbs, Numquis, whether any,
+nequis, least any, eccum, behold him, i. e. ecce eum, ellum, i. e. ecce illum.
+With a Conjunction, Ecquis, i. e. et quis, and who, siquis, if any, quisnam,
+for who? quisquam, quisque, nequis. With other Particles, Meapte, tuapte
+hujusce, Ejusce* huncce, huccine, hoccine, quidam, quispiam, quicunque, egomet,
+m^imet, I my self, of me my self, tuimet, of thy self, sibimet, to himself,
+etc.
+
+Of Verbs.
+Verbs signify the same thing as Nouns, Verbs.
+but after another manner, for, as Things are named, i. e. expressed or
+represented by their Names, i. e. by Nouns, so are their Actions, doing and
+suffering one from or by another, (without Action, Motion, and Power, there is
+no Entity) by Verbs. As the manner, time, place, and such other circumstances
+of action, are by Adverbs, and the relation of cause, effect, and such like, by
+Prepositio^s.
+
+A Verb then is a part of Speech, signifying doing or suffering, and has
+always adjoined to his signification some difference of time, past, present, or
+to come. In all action either the agent and patient are several, i. e. the
+action passes from one Subject to another (which actions are called by
+Philosophers Actiones transeuntes) and such Verbs are called Transitives:
+^ransitiv^.
+and then that, which is applied to the agent is a Verb Active, ^ctive.
+and it ends commonly in o; and that which is applied to the patient, is a
+Verb Passive, ^assive.
+and ends commonly in or: Or else the same Subject is both agent and patient,
+or the action, or rather motion, remains in its agent, (such are called by
+Philosophers Actiones immanentes) and then the action is signified by a Verb
+Neuter, Neuter.
+as ardeo, I burn, glorior, I boast. And these Verbs are known because they are
+not changed into Passives by taking -r to them, as all Actives are. Some Verbs
+called Neuters include an Accusative Case in their signification, and such are
+properly Actives, as Curro cursum, cursus curritur. This is more frequent
+amongst Poets, as Omnes se for as proruunt. Et mutata suos requierunt flumina
+cursus. But then they give such Verbs an Active sense, as if it were,
+proripiunt or pacaruat. Note, in general that some Neuters signify Action
+either transitive, as faveo, noceo, and these indeed are actives, but govern
+not an Accus. Case; or intransitive, as curro, ambulo; though curro be properly
+Active, and has its Passive, at least in the 3d. Person, as curritur
+(Subauditur cursus, or Stadium.) Sum, Volo, and some others are properly Verbs
+auxiliary. So that according to the signification there are no more then two
+sorts of Verbs (besides the auxiliaries) Active and Passive; for Neuters are
+sometimes Active sometimes Passive, but they are called Neuters because their
+form and termination does not correspond to their signification, as ardeo I am
+burning, ga^deo I am rejoicing, nor can they be made Passives. The Auxiliaries
+in Latin are but few (except you will so call those that require an Infinitive
+Mode always after them, as juvat, oportet and the like.)
+
+Sum, forem from fuo anciently of the same signification as sum, which also
+retains some of its Cases, as sui, and those derived of it, forem anciently was
+fuerem; existo; possum; Su^, or its Cases are understood in every Verb, as well
+Active as Passive, and its meaning is, that what is signified by the verb, of
+predicate agrees to that which is signified by the Subject.
+
+Some Irregular Verbs there are ending in -or, which retain both Active and
+Passive signification, and are called Common, Common.
+and have both Active and Passive Participles, their Participles in -ns, and
+-rus, are always Active, loquens, loquuturus; those in -^us, are both Active
+and Passive, as Veneratus is both worshipping and worshipped, in -dus as
+Venerandus, always Passive. But most of them have laid aside their Passive
+signification, and retain only their Active (and are therefore called Deponents
+Deponent.
+) as loquor I speak* amplector I embrace.
+
+All Actives require before them a Nom. Case signifying the agent, doer, or
+maker, i. e. if they signify to do, as lego libros, dormio somnum; and these
+have an Acc. Case after them signifying the Patient. Or if to make, as aedifico
+domum, scribo literas, the Acc. Case after these is the effect: And if the
+Active be changed into a Verb Passive, the Acc. becomes the Nom. and the Nom.
+(that from which it suffers or the doer) the Abla. as, Amo te, I love thee, is
+changed into, Tu amaris a me, thou art loved of me.
+
+And therefore many times the verb-Passive is used, the Nominative Case of
+Patient not expressed, (which some mistakingly call Impersonals) especially if
+the sense of the Nominative Case be included in the Verb, as curritur ab illis,
+i. e. cursus.
+
+Every Action is performed in some time, and therefore every Verb implies,
+above that which it signifies, Time either Present, Future, or Past; past
+either in passing, perfectly past, or a good while ago past. So there be five
+Tenses T^nses. 5.
+or Times; the Present. Imperfect. Pluperfect, or more then Future. Perfect.
+perfect, preterit.
+
+Pluperfect. ^ueram, ras, rat, Plur. ramus, r^tis, (...). Potueram, Volueram,
+etc. Tuleram, Future. Ero, ris, rit. Plur. rimus, ritis, runt. Potero, Volam,
+etc. es, et. Plur. emus, etis, ent. Ibo, bis, bit. Plur. bimus, bitis, bunt.
+Quibo, Feram, es, et. Plur. emus, etis, ent. Ferar, reris, rere, retur. Plur.
+remur, remi^i, rentur. Imperative Mode.
+Possum, Volo, Malo have no Imperative Mode. Es, esto, esto, este, estote,
+sunto. Noli, ito nolito, nolite, itote, I, ito, ito, ite, itote, eunto, Es,
+esto, esto, este, estote. Fer, ferto, fer^o, ferte, fertote, ferunto. Fere,
+fertor, fertor, feruntor.
+ferimini feriminor
+Subjunctive Mode*
+Present. Sim, sis, sit, fuat, simus, suis, sint. Fuam, Possim, Velim, etc. is,
+it, Plur. imus, itis, int. Feram, as. at, Plur. amus, atis, ant. Fiam, Ferar,
+raris rare, ratur, Plur. ramur, ramini, rantur. Imperfect. Essem, es, et, Plur.
+emus, etis, ent. Forem, Possem, Vellem, etc. Essem, Ferrem, Fierem, Ferrer,
+reris rere, retur Plur, remur. remini, rentur. Perferct. Fuerim, ris, rit, Plur
+rimus, ritis, rint. Potu^rim, Voluerim, etc. Tulerim, Pluperfe and Fuissem,
+ses, set, Plur. semus, setis, sent. Pot^issem, Voluissem, etc. Tulissem.
+Future. F^ero, ris, ris, Plur. rimus, ritis, rint. Potuero, Voluero, etc.
+Tulero. Infinitive Mode.
+Present and Imperfect. Esse. Perfect and Pluperfect Fuisse. Fore vel futurum
+esse. Posse. Potuisse. Future Velle. Voluisse. Nolle Noluisse. Malle. Maluisse.
+Esse. Edisse Esurum esse. Far. Tulisse. Laturum esse. Fieri. Facitum esse
+velfuisse. Factum La^um iri vel faciendum ferendum (...) Ferri. La^ium Present.
+Participles. Ens. Future. Potens. Volens. Malens. Ferens. Laturus. Factus.
+Faciendus. Latus. Ferendus.
+
+Note, that Fui, and its Cases come from the Ancient Verb Fuo; Forem being
+contracted from Fuerem, and fore from fuere, now mostly used in a Future sense.
+
+Note, only the Anomalous T^nses of diverse of these Verbs are expressed.
+
+
+
+In English they have these Signs,
+
+Do Did Had done. Shall or will. Have done.
+
+In the English Language we use very many Verbs Auxiliaries.
+
+For Actives, do, have, may, can, shall, will, ow.
+
+For Passives, am, are, art, etc. and Verbs Passive also instead of the
+Preter-perfect, Preterpluperfect, and in the oblique Modes the Future, use the
+like Tenses of the auxiliary sum and the Participle.
+
+Note, also that our English Language changes not the ^ermination in any Tense
+besides the Imperfect, and Singular number; for all the rest we use auxiliary
+Verbs, whereof we have diverse according to our intention; which expresses our
+meaning very distinctly: as I love, or do love: thon lo est, or do love: he
+loves or does love. The Plural Number has only love.
+
+The Imperfect. I loved or did love: thou lovedst or did love: he loved or
+did love. The Plural has only loved.
+
+The passive is formed of the active, by adding r to -o, as am-o, amo-r,
+amab-o, amabo-r, amat-o, amato-r.
+
+By changing m into r. Amaba-m, amaba^r.
+
+By changing s into ris or re. Ama-s, ama-ris, ama-re, amaba-s, ba-ris.
+
+By changing t into tur, ama-t, amat-ur, amaba-t, amaba-tur.
+
+By changing^ mus into mur, ama-mus, ama-mur, amaba-mus, amaba-mur.
+
+Hence we have two present Present.
+Tenses, the one more emphatical, as I love, I do love; two Imperfects, I
+loved, I did love; two Futures I shall, and I will, love; The one signifying
+somewhat of force, the other Voluntary.
+
+We have but one Preterperfect, Preterper^ect.
+which is by the Auxiliary have, and the Participle, loved; one also
+Preterpluperfect ^pluperfect.
+by the Imperfect Tense of have, as I had loved.
+
+The true importance of that called the Preterimperfect Preterimperfect.
+Tense, is that it signifies a thing beginning to be done, or suffered,
+wherefore many times the In^initive Mood is used for it, coeperam, or some such
+like Verb being then understood. ^pluperfect.
+The Preterpluperfect Tense is properly used to make up the later Clause of an
+Hypothetical proposition; as, cum venit (v^l veniebat) ad me Tabellarius, jam
+literas absolveram; and this may be the reason why it is called
+^lus-quam-perfectum, because it signifies a thing done before the other
+preterits: and therefore both these do properly belong to the Subjunctive Mode.
+
+The Future Future.
+Tense of the oblique Modes has a signi^ication many times mixed of past and
+future, as Dixeris egregie, thou shall have spoken excellently.
+
+There be also several manners of applying or using Verbs, Modes 6.
+for either we declare a thing to be, or, not to be; do, or, not to do; suffer,
+or, not to suffer. This manner or mode of speaking (making in Logic a
+Categorical Proposition) as also asking a question is called the Indicative
+Indicative.
+Mode. Or if we command a thing to be done, called the Imperative, Imperative.
+(and therefore the Imperative has no first person Singular but the Future
+Tense is used for it:) The Imperative, Optative. etc. all speak of that which
+is to do, to be, or to suffer, and therefore they dep^nd upon the Future Tense,
+to which they are like, and into which they are resolved.
+
+The Imperative has properly neither First nor Third Person Amemus v. g. is
+properly the Optative. Both that and Amanto are properly Permissions not
+Commands: As let us -- let him -- let them-love. Amet also is the other Mode.
+For this called the Imperative, is used also to express forbidding, exhorting,
+deprecating, and the like.
+
+If we wish a thing might be done, Optative.
+it is called the Optative, it is therefore like the Imperative, and used instead
+of it.
+
+Or if we say a thing may be done, it is called the Potential. Potential.
+
+
+Or imply the thing may be done upon some condition, called the Subjunctive,
+Subjunctive.
+or Conjunctive Mode, which is never used but with a Conjunction, i. e. when it
+serves to one part of an Hypothetical Proposition.
+
+But there may be as well other Modes named, as Optative and Potential, as the
+Volitive for will, would, so another for shall, should, etc. It is therefore
+much more Regular to name only the Subjunctive introduced by a Conjunction, and
+to say that the same terminations serve to the other Auxiliaries.
+
+The Potential is also called the Permissive, when it signifies a thing to be
+permitted or granted, as Habeat, Valeat, Vivat cum illa: but this is no other
+then possit understood, Possit habere he may have her.
+
+The Optative and Potential are expressed in English by diverse Verbs
+Auxiliaries, as can, could, will, would, shall, should, ow, ought, may, migh:
+Whereby it appears that our Language is more distinct then the Latin.
+
+The Infinitive, Infinitive.
+Infinite, Indefinite Mode has only the bare signification of the Verb,
+without cosignifying Person, Number or Time, for though it seems to have diverse
+Tenses, yet are they used promiscuously; It serves very well for distinguishing
+the Conjugations, which are four. Conjugations four.
+
+
+The First has a, before -re, and -ris, and the second Person pers^nt ends in
+-as, and a runs through the Tenses, Amo, amas, amare, amavi, amatum.
+
+The second has e^ long, before -re, and -ris, and the second Person ends in
+es, which e runs through the Tenses, Doceo, doces, doce^re.
+
+The Third has short, before -re and -ris, and the second person ends in -is,
+Lego, legis, legere, legi, lectum.
+
+The Fourth has i^ long, before -re, and -ris, and the second person ends in
+is, and i runs through the Tenses, as Audio, audis audi^re, audi^vi, audi^tum.
+
+There is no reason for them in Nature, but the variety of them conduces
+somewhat to the Ornament of Speech, and ease of pronunciation.
+
+Verbs Active are said to have three Gerunds Gerunds 3
+ending in, di, do, dum, but they seem to be Participles or Nouns, and the
+Rules for the Constructions of Nouns serve them: For those in -di, are
+Participles or Adjectives of the Genesis Case, as Amandi of Amandus; in -do, of
+the Ablative (rarely of the Dat.) in -dum of the Nom. and Accus. Gerunds also
+are sometimes taken passively, as Vritque videndo Foemina, i. e. by being seen:
+Memoria excolendo augetur, by being husbanded.
+
+As also two Supines, Supines*
+the one of an Active signification, ending in -um (which is no other then a
+Participle) the other in -u of a Passive signification; and therefore Verbs
+Neuter have none of that Supine, the first Supine having that signification as
+Vapulatum, to be beaten: This later Supine is the Abla. Case of a Noun of the
+fourth Declension.
+
+Whatsoever does or suffers is supposed to be a Person, so there be three
+Persons, Persons 3.
+and two Numbers. Number. 2.
+
+
+Indicative Mode.
+Amo, Present Tense.
+I love, or, I did love.
+
+-as, thou love, or do love, etc.
+
+Amabam, Imperfect.
+I loved, or, did love.
+
+-bas, thou love, or, did love, etc.
+
+Amavi, Perfect.
+I have loved.
+
+-visti, thou have loved, etc.
+
+Amaveram, Pl^perfect.
+I had loved,
+
+-ras, thou had loved, etc.
+
+Amabo, F^^re.
+I shall love, I will love.
+
+-bis, tho^ shall or wilt love, etc.
+
+Imperative Mode
+Has no distinction of time because it is only Future, nor first Person
+Singular, because no Person Commands himself, b^t instead of that is he will.
+
+Ama love thou. Amato let him love. Amato do thou love.
+
+Ame^^us. Let us love. It is the Optative Mode.
+
+The Forming through their Modes and Tenses of
+Verbs Active. Indicative Mode.
+1. 2. 3. 1. 2. 3. Present Tense Singular. Amo as at Plural. amus atis ant
+Doceo es et emus etis ent Lego is it imus itis unt Audio is it imus itis unt
+Preter-Imperfect. Amabam abas abat abamus abatis abant Docebam ebas ebat ebamus
+ebatis ebant Legebam ebas ebat ebamus ebatis ebant Audiebam iebas iebat iebamus
+iebatis iebant Perfect. Amavi avisti, avit avimus avistis averunt, vel, avere
+Docui uisti uit uimus uistis uerunt, vel, uere Legi isti it imus istis er^nt,
+vel, ere Audivi ivisti ivit vimus ivistis iverunt, vel, ivere Preter-pl^perfect
+Amaveram averas averat av^ramus averatis aver^nt Docueram ueras uerat ueramus,
+ueratis uerant Legeram eras erat eramus eratis erant Audiveram iveras iverat
+iveramus iveratis iverant Future. Amabo abis abit a^im^s abitis abunt Docebo
+ebis ebit ebimus ebitis ebunt Legam es et emus etis ent Audiam ies iet iem^s
+ietis ient
+
+Imperative Mode.
+Singular. Am^, (...), ato Plur. ate, atote anto Doce, eto, eto ete, etote ento
+Lege, ito, ito ite, itote unto Audi, ito, ito ite, itote ianto
+
+Subjunctive with Cum, Si, or other Conjunction.
+P^esent. Sing. Amem es et Plur. emus etis ent Doceam eas eat eamus eatis ea^t
+Leg^m as at amus atis ant (...) (...) (...) (...) (...) (...)
+
+
+
+The Optative and Potential Mode are the same.
+
+Amem, I may, Present.
+I can, I shall, I will, I ow to love, etc.
+
+Amarem, I might, Imperfect.
+I could, I should, I would, ought to love, etc.
+
+Amaverim, Amavissem I might etc. Perfect. Pluperfect.
+I ought to have loved, etc.
+
+Amavero, Future.
+I shall etc. have loved, etc.
+
+The Subjunctive Mode has always a Conjunction joined with it. Si if, eum
+when, quamvis although, or the like.
+
+Si amem, Present.
+if I may love.
+
+Si amarem, Imperfect.
+if I might love.
+
+Si amaverim, Perfect.
+if I might have loved.
+
+Si amavissem, Pluperfect.
+if I had loved.
+
+Si amavero, Future.
+if I shall have loved.
+
+The Preter- and Preterpluperfect-Tenses in these Modes are not distinguished
+in our Language, nor is it necessary they should; In the Latin there is either
+no difference, or very hard to be expressed.
+
+General Rules.
+The Preterperfect Tense ends in -i, and o^dinarily is framed of the second
+Person of the present Tense by changing -s, into vi, as amd^* amavi, Audis
+audivi, Fles flevi: But the u is no always a Consonant, but sometimes a vowel
+and then the former vowel is omitted, to avoi^ the concourse of so many Vowels
+(as it fall^ out frequently in the second Conjugation) ^ Domas domui, doces
+docui, mones monui.
+
+Also for better sound sometimes a Letter o^ Syllable is cut off, as Iuvas
+juvi, for juvavi (...) cavi: This is frequent in the third Conjugation, where
+the Preterperfect Tense man^ times follows the Consonants of the Present, ^^
+-bo makes by, bibo, bibi, and psi, scribo, scripsi.
+
+co, ci. vinco, vici. no, vi. sino, sivi. xi. dico, dixi. ui. gigno, genui. do,
+di. edo* edi. ni. cano, cecini. si. ludo, lusi. psi. temno, tempsi. go, gi.
+lego, legi. po, psi. repo, repsi. xi. rego, rexi. pi. rumpo, rupi. si. spargo,
+sparsi. ^i. strepo, strepui. guo, xi. distinguo, distinxi. quo, qui. linquo,
+liqui. ho, xi. veho, vexi. xi. coquo, coxi. jo, xi. mejo, minxi. to, vi, sero,
+sevi, and serui. lo, ^^i. colo, colui. ^^i. li. vello, velli. ssi. uro, ussi.
+mo, mi. emo, emi. ri. verro, verri. ^ii. tremo, tremui. so, vi. lacesso,
+lacessivi. psi. sumo, sumpsi. si. facesso, facessi. ssi. premo, pressi. ^^i.
+pinso, pinsui. to, vi. peto, petivi. dio, di. fodio, fodi. ti. verto, verti.
+gio, gi. fugio, fugi. ^^i. sterto, stertui. pio, pi. capio, cepi. si. mitto,
+misi. pui. rapio, rapui. vo, vi. volvo, volvi. pivi. cupio, cupivi. xi. vivo,
+vixi. rio, ri. pario, peperi. uo, ^i. arguo, argui. tio, ssi. quatio, quassi
+(obsolete) x^^. struo, struxi. xo, ^^i. nexo, nexui. sco, vi. pasco, pavi
+Composita (...). cto, xi. pecto, pexi. xui. pexui. dispesco, dispecui. cio, ci.
+facio, feci. ci. disco, didici. cui. elicio, elicui. sci. posco, poposci.
+
+These Rules hold in all Verbs of this Conjugation; But they are most what
+Regulated by the sound, or sometimes by the Original in words borrowed from the
+Greeks; sometimes also they borrow Tenses of Verbs of the same or like
+signification, which are out of use.
+
+There be certain Irregular Verbs in all or many of their Tenses, such as these
+that follow, whose Irregularities only are set down.
+
+Sum, and its Compound Possum(or potis sum.)
+
+Where any Person of Sum begineth with ( s) pos- is added, and where with a
+vowel pot- or potis, as pot-es, pos-sim, possem for potessem.
+
+Nolo, is as much as non volo.
+Malo, as magis volo.
+There are also Verbs derived from other Verbs, and their Terminations are used
+instead of Verbs Auxiliaries; as those ending in -urio (called commonly
+Frequentatives) signify a desire to, as Esurio, from Edo, is, sum, I desire to
+eat; Mi^^urio, from Mingo, nxi, mictum, I desire to piss.
+
+In -^sco, (called Inceptives) signify entering upon a thing or action, as
+Adolesco, I ent^r upon my growing Age; Quinisco, I am taking a napp or nod.
+
+As Adjectives are Adjuncts to Nouns, or Subjects, so are Participles
+Participles
+to Action and Passion, or Verbs; And they are half Adjectives, taking from
+them form and part of their signification, or signifying Verbally as
+Ad^ectives, and therefore are declined as Adjectives; and yet they partake
+(though Nouns) of Verbs, Tense, Signification and Derivation.
+
+Participles
+Are not a necessary part of Speech, for Adjectives may supply all their use,
+but are chiefly invented for short and elegant speaking.
+
+There are four sorts of Participles, two come from Verbs Active, i. e. such as
+end in -ans, from Verbs of the first Conjugation, and -em, from those of the
+thr^e other: and in -urus.
+
+Two also come from Verbs Passive, those in -tus, -sus, -xus, and others in
+-ndus.
+
+-- ans Amans loving. Are declined lik^ Faelix. Actives in -- ens Docens
+teaching. -- urus Amaturus, about to love. All these are declined like bonus,
+and in Syntax follow the Rules of Adjectives. Docturus, about to teach. -- tus
+Amatus, loved. Passives in -- s^s Visus, seen. -- xus Flexus, bent. -- ndus
+Amandus, to be loved. Docendus, to be taught.
+
+The two ending in -ans, or -ens, signify the Subject actually doing, being, or
+having, such a thing.
+
+Those ending in -urus signify the Subject inclined to be, do, or have, though
+not actually doing; and those are called Actives, because agreeing with, or
+belonging to, the Subject or Agent.
+
+Those in -tus, -sus, -xus, signify the object actually done, been, or had, as
+Amatus, actually l^ved.
+
+Those in -- ndus signify the object or thing ^it or worthy to be done, not
+expressing whether actually done or no; And these two last are called Passives*
+because they signify the object or Nominative Case of the Verb Passive.
+
+Of Adverbs.
+Adverb* are joined to Verbs and sometimes to Nouns, for the expressing of some
+circumstances or Modes of being or acting, as,
+
+1. In a Place, answering to the question, Vbi? as, Hic, istic, illic, (iste
+hic) (ille hic locus,) alibi, nusquam, intus, for as, ubicunque, ubivis, sicubi,
+superius, inferius, ubiubi* alicubi, inibi, necubi.
+
+2. To a Place, answering to the question, Quo? as, Huc, istuc, illuc, alio,
+aliquo, siquo, eodem, quolibet, quovis, neutro, quocunque.
+
+3. From a Place, answering to the question, Vnde? as, Hinc, istinc, illinc,
+inde, alicunde, aliunde, sicunde, necunde, indidem, undelibet.
+
+4. By a Place, answering to the question Qua? as, Hac, illac, istac, alia,
+etc. as if via were understood.
+
+5. Toward a Place, answering to the question, Quorsum? as Horsum, istorsum,
+illorsum, dext^rorsum, sinistrorsum, etc.
+
+1. In Time, answering to the question Quando? as, Cras, heri, hodie, pridie,
+etc.
+
+2. How long, answering to the question, Quamdiu? as Diu, etc.
+
+3. How often, answering to the question, Quoties? as, Saepe, raro, etc.
+
+Of Quantity, answering, etc. to quantum? as, Multum, parum, satis, nimium, etc.
+
+Of Number, semel, bis, ter, quater, centies, millies, etc.
+
+This comes in Page 34.
+
+Irregulars.
+Indicative Mode.
+^^^sent Tense Sing. S^m, es, est, Plur. sumus, estis, su^t. Possum, potes,
+potest, possum^s, potestis, possunt. Volo, vis, vul^, volumus, vultis, volunt.
+Nolo, nonvis, nonvult, nolumus, nonvultis, nolunt. Malo, mavis, ^avult,
+malumus, mavultis, malunt. Eo, i^, it, imus, itis, eunt. Q^eo, quis, quit,
+qui^us, quitis, queunt. Edo, es est, estis, Fero, fers, fert, ferimus, fertis,
+feru^^. Fio, fis, fit, fimus, fitis, fiunt. Feror, ferris, re, fertur, ferimur,
+ferimini, (...). ^^perfect. Eram, ras, rat, Plur. ramus, ratis, ra^^. Poteram.
+Volebam, Nolebam, Malebam, bas, bat, Plur. (...), batis, (...) Ibam, Quibam,
+Ferebam, Fiebam, Ferebar, baris, bare, ba^ur, Plur. ba^ur, bamini, bantur.
+
+Perfect. Fui, isti, it, Plur. imus, i^ti^s, erunt, ere. Po^ui, Volui, N^lui,
+Malui, Ivi, Quivi, Edi, Tuli, Preter. Imperfect. Sing. Amarem, ares are^ Plur.
+aremus aretis arent Docerem eres eret eremus eretis erent Legerem eres eret
+eremus eretis erent Audirem ires iret iremus iretis irent Perfect Amaverim
+averis averit averimus averitis averint Docuerim ueris uerit ^erimus ^eritis
+^erint Legerim eris erit erimus eritis erint Audiverim iveris iverit iverimus
+i^eritis iverint Pluperfect. Amavissem avisses avisset avissemus avissetis
+avissent Docuissem uisses uisset uissemus uissetis uissent Legissem isses isset
+issemus issetis issent Audivissem ivisses ivisset ivissemus ivissetis ivissent
+Future. Amavero averis averit averimus averitis averint Docuero ueris uerit
+uerimus ueritis uerint Legero eris erit erimus eritis erint Audivero iveris
+iverit iverimus iveritis iverint* Infinitive Mode.
+Present and Imperfect. Amare Perfect and Pluperfect Amavisse Docere Docuisse
+Legere Legisse A^dire A^divisse
+
+Participles.
+Present. Amans Future. Amaturus Docens Docturus Legens Lecturus Audiens
+Auditurus
+
+Gerunds 3, Supines 2. Amandi, ando, andum. Am^tum, Amatu Doce^di, endo, endum.
+Doctum, Doctu Legendi, endo, endum. Lectum, Lectu Audiendi iendo, iendum.
+Auditum, Auditu. Verbs Passive. Indicative Mode.
+Present Tense Sing. Amor aris, vel, are atur Plur. amur amini antur Doceor
+eris, vel, ere etur emur emini entur Legor eris, vel, ere itur imur imini untur
+Audior iris, vel, ire itur imur imini iuntur Preter-Imperfect. Amabar abari^,
+vel, abare abatur abamur abamini abant^^ Docebar ebaris, vel, ebare ebatur
+eba^ur ebamini ^bantur Legebar (...) (...) (...) Aud^^bar iebaris, vel, iebare
+iebatur Future. Amabor aberis, vel, abere abitur abi^ur abimini abuntur Docebor
+eberis, vel, ebere ebitur ebimur ebimini ebuntur Legar eris, vel, ere etur emur
+emin^ entur Audiar ieris, vel, iere ietur i^mur iemini ientu^
+
+Imperative Mode.
+Sing. Amare, ator Plur. aminor antor Docere, etor emi^or entor Logere, itor
+iminor untor Audire, itor iminor ^ntor Subjunctive.
+Present. Sing. Amer eris, vel, ere etur Plur. emur emini entur Docear earis,
+vel, ear eatur eamur eamini eantu^ Legar aris, vel, are atur amur amini antur
+Audiar iaris, vel, i^are iatur iamur iamini iantur Preter-Imperfect. A^arer
+areris, vel, arere aretur aremur aremini arentur Docere^ ereris, vel, erer^
+eretur eremur eremini erentu^ Legerer Audirer ireris, vel, ^ere iretur (...)
+(...) (...)
+
+Infinitive Mode.
+Pr^sent and Imperfect Amari Doceri Legi Audiri
+
+Participles.
+Present Amatu^ Future (...) Doctus Docendus Lectus Legeudus Audit^^
+A^diendut^^
+
+
+
+Of Order, inde, deinde, deinceps, praeterea, etc.
+
+Of Quality, docte, pulchre, been, male, fortiter, etc. many of these admit
+Comparison.
+
+Of Separating, seorsum, separatim, singulatim, etc.
+
+Of Gathering together, simul, una, pariter, etc.
+
+Of Doubting, forsan, forsitan, fortassis, etc.
+
+Of Calling to, O, heus, eho;
+
+Of Affirming, profecto, cert^, nae, ita, quidni, etc*
+
+Of Denying, non, hand n^quaquam, minime, etc.
+
+Of Forbidding, ne.
+
+Of Confirming, certe, sane, plane, nempe, utique, etc.
+
+Of Swearing, hercule, pol, aedipol, mehercules, etc.
+
+Of Choosing, potius, satius, potissimum, imo, etc.
+
+Of Exhorting, eja, age, agite, agedum, ehodum, etc.
+
+Of Wishing, utinam* o, osi, si, ut.
+
+Of Showing, en, ecce.
+
+Of Comparing, magis, minus, maxim, etc.
+
+Of Likeness, ita, itidem, tanquam, etc.
+
+Of Happening, forte, fortuito, casu, fortuna.
+
+Of Intension, valde, magnopere, impense, etc.
+
+Of Remission, sensim, paulatim, pededentim, vix, aegre.
+
+Of Excluding, tantu^, solum, tantu^modo, solummodo, etc.
+
+Of Diversity, aliter, secus.
+
+Of Granting, Licet, esto, sit it^, sit sane.
+
+Of a thing not finished, ferm^, fere, prope, propemodum, etc.
+
+Of Explaining, puta, utpote, utput^.
+
+Of Prepositions.
+Adverbs signify the manner, time, place, or some other circumstance of doing,
+and therefore are joined unto Verbs.
+
+Prepositions signify some Relation of one thing of Person to another, either
+as Distance, Situation, Cau^ality, or the like. As Of distanc^ and ^ Situation.
+Though these that signify local distance or Situation are ^orrowed to signi^y
+things of lik^ Nature.
+Cause, act, or dependence.
+Ad, to. * Apud, at. Adversus, against. Adversum, Contra Ante, before. * Cis,
+on this side. Citra, Circum, about. Circa, Erga, toward. Extra, without. In,
+into. Int^re between. * Infra, below. I^tra, within. Iuxta, by. Pone, behind.
+Praeter, besides. Super, above. Supra, Trans, beyond. Vltra, Versus, toward.
+Ob, * for. Propter, Per, by. Penes, in the power. Post after. * Secundum,
+according to. Vsque, until. A, from. Ab, Abs, De, of, or concerning. E. of,
+out of. Ex. Pro, for, or instead of. Absque, without. Sine, In, in. * Cum, with
+(in composition, con) * Prae, before.* Coram, before. Sub, under. * Cl^m,
+privily. Palam, openly. Tenus, until, up to.
+Accus. Case. Those marked * in composition with Verbs go vern mostwhat Da^.
+Case. Abla. Case.
+
+
+Note, Tenus, if the Substantive be of the Plural Number, governs a Genitive
+Case, Aurium t^nus, genuum tenus, (altitudini,) or some such word being
+understood, as up to the (height of the) ears, knees. Super, Gov^rn both Cases.
+Sub, Subt^r, Cum, tenus, Versus, usque, are often set after the Noun, Nobiscum,
+c^pulo te^^s, Londinum versus, ad Occidentem usque.
+
+Am, di, dis, re, se, con, are Prepositions never used but in composition.
+These Prepositions are also compared.
+
+Citra, citerior, citimus. Citer is also Read.
+
+I^tra, interior, intimus.
+
+Infra, inferior, in^imus.
+
+Ante, anterior.
+
+Vltra, ulterior, ultimus.
+
+Extra, exterior, extremus. Exter also. extimus. Supra, superior, supremus.
+Superi and Posteri still in use. summus. Post, posterior, postremus.
+
+Prope, propior, proximus, and hence proximior, Ovid.
+
+Of Conjunctions.
+Conjunctions are principally used to join Sentences together, and therefore
+they make those, which by the Logicians are called Hypothetical Propositions, a
+great force of Speech depends upon them.
+
+Sentences, I say, for when they seem to join only Nouns(no Sentence can be
+without a Verb) yet they intimate the Verb, or other Regiment expressed, which
+is to be repeated to every one of these Nou^s, though for brevity it be omit^ed;
+as, Emi (...) centum aurei^ and pluris, i. e. and emi pluris. Pater and Matter
+abijt oratum. And therefore many times the Verb is put in the Plural Number, as
+if ( illi) or ( nos) or ( vos) were understood; as, Ego and tu (nos) sumus in
+tuto. Xenophon and Plato (illi) fuere aequales.
+
+Copulatives, join the Sentences together, without showing any other dependence
+one upon another. First affirmatively, Et, que, quoque* ac, atque; Deinde,
+porro, insuper, which intimate the order. Cum, tum, vel, which are doubled or
+corresponding one to another. Secondly, or Negatively, Ne, neque.
+
+Disjunctives, Aut, ve, vel, seu, sive.
+
+Causals, which infer the reason of what was said before, Nam enim, etenim,
+na^^que, quia, quod, quippe, quoniam, quandoquidem.
+
+Illatives, which infer the Conclusion, upon somewhat preceding. Ergo, ideo,
+igitur, itaque, proinde, ideirco, etc.
+
+Conditionals argue such dependence of the Antecedent and Consequent Sentences,
+that if the first be true, the other is also true, but if the other be false,
+the former is also false; as, si, sin, dum, tum, modo, dummodo, ni, nisi.
+
+Discretives, which make a difference of the Consequent from the Antecedent,
+sed, vere, at, ast, atqui verum etc. Saltem, certe, etc.
+
+Dubitatives and Interrogatives, An, anne, number, utrum, nu^quid, ne^ne.
+
+Exceptives, which except the Consequent from the Antecedent, and their
+Redditives, deny the Consequent, as, Et si, tame^si, (...) etiamsi, quanquam,
+quamvis, etc. to which correspond, Tamen, attamen, veruntamen.
+
+Declaratives, as, Vti, veluti, sicut, sicuti, seu tanquam.
+
+Of Interjections,
+Interjections are questioned by some, whether they are to be accounted Parts
+of Speech, because they signifying sudden motions, or expressions of the
+Passions of the Soul, are rather sounds only then words; As are those of
+Beasts, which, having no Language, yet have cer^ain noises or sounds to express
+their wants, and other affections. In some Languages they are accounted
+Adverbs. There Is no need of any discourse concerning them, since they are known
+sufficiently by their Pronunciation.
+
+Of Syntax.
+HItherto we have spoken only of single words, it follows that we speak of them
+as united into Sentences.
+
+WOrds are joined together in a Sentence, either
+
+By Concord. or, Rection. 1. Between the Subject and the Verb. 2. Between the
+Subject (or Substantive) and the Adjective.
+
+
+To every Sentence are necessarily required
+
+First, a Suppositum, (most p^operly so called which comes before a
+Verb-Active) Subject, or Noun of the Nom. Case, of which the Speech is made, or
+something instead of it, to come before the Verb.
+
+2dly. A Verb, to agree with the Nom. Case, or Subject, showing the Relation of
+being, doing, or suffering, betwixt the Subject and the predica^e, which is
+that spoken of the Subject.
+
+3dl^. Somewhat to follow the Verb, which they call a Predicate, and is spoken
+of the other, and is many times included in the Verb, as Rex Venit, i. e. Rex
+est Veniens.
+
+Note, that there are diverse sorts of Sentences. 1. That which has no more
+then one Verb, and the dependents upon it, which some Authors call Periodus
+Supina; as Prosperum s^elus vulgo virtus vocatur. 2. Which consists of more
+then one Member, and of more then one Verb, but so that each Member stands by
+it self; as Christus e coelo, glorificate: Christus in terram, obviam prodite.
+Which period consists of four Members, the two later corresponding elegantly to
+the two former, separated by an half-period or colon* 3. Which consists of
+diverse Sentences, but some interposed between the parts of another; which
+interposition is either by a Conjunction; as Fortuna, cum blanditur, captatum,
+venit. Quae nocitura tibi, quamvis sint chara, relinque. Or by a Relative; as
+Deforme est, quos dignitate praestas, ab ijs virtute superari. Quem s^pe
+transit, casus aliquando invenit. Or by a Participle, or by an Ablative Case
+put absolutely, or by a Parenthesis.
+
+And therefore in Construing, it is best for a young Scholar to dispose the
+words after the natural order, separating the Sentences one from another;
+beginning with the Voc. Case, then the Nom. and what depends upon it, then the
+Verb with the Adverb joined to it, next the Accusative with its dependents,
+then the Abla. or Dative, as they follow* It is necessary also to supply all
+Ellipsis's, Antec^dents, Defective Cases, one Verb applied to diverse Nom.
+Cases, or the same Nom. Case to diverse Verbs, Subauditur's, etc.
+
+Ellipsis, or omission of a word is very frequent in the Latin, as it is in all
+Languages that affect brevity. Such words are of Nouns Substantive^ which
+signify a thing common or well known; Areola longa denum pedum [mensura.] Verbs
+also* especially Substantives, and Prepositions; Vacu^^ [a] curis. The
+particulars see in the Rule^ following.
+
+Note, also that the Latins seem to speak many times rather according to the
+matter and signification, then the words and ordinary Construction, as, Omnium
+rerum mors est extremum. Du^^millia viri. Abundantia earum rerum quae prima
+mortales ducunt. Salust. Post quam cremata est Ilion. Ovid. Decipimur specie
+recti pars maxima vatum. Populus super^mur ab uno. Ego Petrus and Paulus
+currimus. Tu mecum gaudemus. Alter alterius onera portate. Scelus ludificatus
+e^t Virginem. Infinite are there examples, which Grammarians reduce to
+Figurative and Anomalous expressions.
+
+The First Concord.
+The Verb agrees with its Nom. Case (Subject, Suppositum) in number and
+person, i. e. the Verb is the same number and person, as its Suppositum, as,
+Magister legit. But an Infinitive Mode requires an Accus. Case before it, which
+is resolved by quod, ut, ne, quin; as, Non dubito Christum dixisse, i. e. quin
+Christus dixerit. Yet In^initive Modes also sometimes have Persons going before
+them, i. e. when they are used for the Imperfect Tense, for then coepit, or the
+like is understood, as omnes omnia bona dicere [coeperunt.]
+
+Ordinarily the Person is the Nom. Case coming before the Verb, but in Verbs
+called Impersonals, the Thing comes before the Verb, as, Oportet me ire
+Oxonium, ire Oxonium comes before Oportet. And commonly the whole Sentence is
+the Subject. And indeed there are no Verbs Impersonals, but all have Persons
+(except Infinitive Modes) the most used in the third person Singular, when the
+Subject is well known, as, Pluit, i. e. Aqua pluit. But if there be an
+Extraordinary Subject, it is expressed, as Saxa pluunt. This is if Pluit be
+taken as a Verb-Neuter, But if as a Verb-Active, then Deus, or Jupiter ^luvius
+is understood.
+
+So the third Persons of Verbs-Passive are many times used, as if they were
+Impersonals, especially when the Subject or Nom. Case, is included in the
+Signification of the Verb, as [ potus] bibitur; vivitur [vita] exiguo melius;
+for vivitur is the same with vita ducitur, and is therefore used, as it were,
+impersonally.
+
+And for those generally called Impersonals, Oportet, libet, licet, (...),
+poenitet, piget, miseret. Some of them, as d^cet, poenitet, licet, are
+Personals, and have oftentimes their Suppositum expressed; the other also (
+oportet, piget, libet, licet) have always an Infinitive instead of a Noun to
+com^ before them: In the others their Subject is included in their
+signification; as [ taedium] tui me taedet, taedet being taedium capit, in
+poenitet, poena is included, in miseret, miseriae, and perhaps opus, in
+oportet. But because the matter requires ordinarily no other then a third
+person, they are improperly called Impersonals; wherefore if there be occasion
+to signify another person, these Verbs are so used. Si no^ dedecui tua jussa.
+Stat.
+
+The Second Concord.
+The Adjective, whether Noun, Pronoun, Participle, or Relative, is of the same
+Case, Gender and Number, with its Substantive, (suppositum or Subject:) But in
+Relatives the Substantive is to be repeated over again in the Case of the
+Relative, and therefore sometimes that Case of the Substantive only is
+expressed, as Bellum crudelissimum, qu^ [bello] omnes premebantur. Vltra eum
+locum qu^ [loco] Germani frequentes consederant. Popu^o ut placerent [fabulae]
+quas fecisset, fabulas.
+
+If a Verb has two Nom. Cases, Reg. I.
+or an Adjective two substantives joined together with a Conjunction, or in
+Poetry with [ cum] (as Remus cum fratre Quirino Iura dabant.) they agree with
+the more worthy person and gender; Ili^ cum Lauso de Numitore sati. But change
+many times the number, (the person being understood) two Singulars being equal
+to one Plural, as, Ego and Lelia sumus amici. Tu sororque boni estis. So Nouns
+of Number, and Collectives, many times have an Adjective or Verb Plural: Turba
+ruunt, i. e. Turba [ruit, hi and illi] ruunt. Pars in frusta secant.
+
+Many times the Verb (especially Substantive) is understood, Reg. II.
+and many times the Suppositum both to the Verb and Adjective; And if the
+Adjective without Substantive be of the Masculine gender, or Feminine, a person
+[ viz. vir or foemina,] if of the Neuter a thing [ negotium] is understood, as
+Triste [negotium] lupus [est] stabulis. Sunt [homines] quibus [hominibus] in
+Satyra videor [ego] nimis acer. Est [homo] qui nec Spernit. Sunt [aliqui
+homines] quos notaverat. Si ^d te mordet, sumptum filij quem faciunt, i. e. Si
+id [negotium scil. sumptus] t^ mordet, quem sumptum filij faciunt. Vrbem quam
+statuo vestra, i. e. Ea urbs quam Vrbem statuo. Eunuchum quem dedisti nobis
+quas turbas dedit, i. e. iste Eunuchus quem Eunuchum dedisti. Quam quisque
+norit artem in hac [arte] se exerceat.
+
+Many times a whole, Reg. III.
+or some part of Sentence is the Suppositum, as Ingenuas didicisse fideliter
+arts Emollit mores. In tempore veni quod primum est.
+
+If an Adjective or Verb be placed between two Suppositum's it may agree with
+either of them, Reg. IV.
+as Amantium irae amoris redintegratio est, sive, sunt. Avis quae (or qui)
+passer appellatur. Lutetia quam (or quos) Parisios dicimus: Tho it is better it
+should agree with that which is the Fonndation of the Sentence.
+
+Of Rection.
+I. Nominative Case.
+The Copula or bond of all Speech (as the Logicians observe) is Sum with its
+Cases: which in truth denotes nothing else but that the Subject and Predicate
+signify the same, as Homo est animal, the meaning is what is signified by Homo,
+is also signified by Animal. Wherefore it is necessary that Sum, and such like
+Verbs should have such a Case after them, as they have before them, which is
+the Nom. except in the Infinitive Mode, for then it is the Accus. both before
+and after.
+
+Such like Verbs they call. 1. Verbs Substantive. 2. Many Verbs Passive, as
+dicor, vocor, etc. 3. Many Neuters, as Maneo, dormio. Vt hoc Latr^cinium potius
+quam bellum nominaretur. Terra manet immobilis.
+
+Many times the Precedent Case is understood, and not expressed, as, Licet
+nobis [nos] esse bonos: Cupio [me] dici doctum: Fuit magni animi non esse
+Supplicem, Hoc, [nempe eum] non esse supplicem [signum] magni animi.
+
+En, ecce, and diverse Interjections govern not a Nom. Case, but a Verb is
+understood, or Voc. Case, and sometimes an Accus. Ecce homo i. e. [ hic est]
+homo. Ecce hominem, i. e. vide hunc hominem.
+
+II. Genitive Case.
+The General Rule is this that ( of) which cannot be changed into ( concerning)
+or ( from) before a Noun Substantive, requires that Substantive to be of the
+Genesis Case; And this happens generally when two Nouns, not signifying the same
+thing, come together: for then the later is of the Genesis Case. Dei misericordia,
+Gods mercy, or, the mercy of God; the Genesis Case in Englis^ being made by adding
+( s) to the Nom. Puer bonae indolis, a Youth of good towardliness. Instar
+Montis* for, Note that Instar is a Substantive undeclinable, and ad is commonly
+understood, as, ad instar [similitudinem] montis.
+
+Note, that many Adjectives, Participles, and Adverbs stand also instead of
+Substantives; and therefore govern a Genesis Case, as, Cupidus [cupitor] auri:
+Amans [amator] virtutis: Tenax [tentor] pecuniae: And many of such Substantives
+being disused, the Adjectives themselves, and Participles, stand for the
+Substantives, as, Conscius furti. Impatiens irae.
+
+For Adverbs, as, abunde fabularum; affatim pecuniae, i. e. abundantia sive
+copia. Tunc temporis; ubi gentium, or the like; for tunc signifies time, as ubi
+does place. Tunc, i. e. illa hora, vel part, temporis. Vbi, i e. in quo loco,
+gentium.
+
+Sometimes also the precedent Noun is understood, and not expressed as, Boni
+viri [officium] est.
+
+Verbs of esteeming, accusing, condemning, admonishing, acqui^ting, pietying,
+and such as are like the Adjectives of the Rule precedent, as of Possession:
+Sum, interest, refert, etc. govern a Genesis Case, because the general word is
+understood. Parvi [pretio] penditur pro^itas. Accusat eum [crimine] furti.
+Damnatur [crimine] repetundarum. Miseret me [miseria] tui. Hic animi [dubio]
+pendet. In these also more general some Substantive is implied in the Verb, or
+understood, as, Cura, causa, crimine, pretio, dubio, etc. and therefore most of
+these Verbs also do govern a Noun in the Abla. Case. Magno virtus aestimatur.
+Condemnabo te eodem crimine. Mea [causa, vel gratia] refert, interest,etc.
+
+So Memini, and the like, govern a Genesis Case, by an Ellipsis of a Noun. Meminit
+[memoriam] mei. Satagit [agit Sat] rerum suarum. Venit in mentem [recordatio]
+illius diei. And therefore many times they govern an Accus. of the Person, in
+whom is the Action or Passion, as taedet [taedium habet] me tui.
+
+So Miseret, misereor, pudet, piget, poenitet, etc. have a Genesis Case by an
+Ellipsis. [Ipse] miseret sui. [^udor] peccati pudet me.
+
+The Names of ^laces with the English ( at) are in the Genesis Case, where, (
+Vrbe, oppido,) or such like is understood, as, Vixit [in urbe] Londini. He
+lived at London.
+
+(...) govern a Genesis Case, a Noun being understood. Romanorum [Romanus] fortior.
+
+Many times a Genesis case is added to Verbs and Adjectives after the manner of
+the Greeks, or rather a N^^n being understood; Desine [mentionem facere]
+querelarum.
+
+In general all Verbs in Composition govern such Cases as they do out of
+Composition, as, Quod eos soire aut nostra aut ipsorum interesset [i. e. esset
+inter officia vel munera nostra, vel officia ipsorum] Interest Regis recte
+facere, i. e. est inter [munera] Regis, etc. Quae Superest Claudij aupona, i.
+e. Quae est super, etc. To which add Refert, i. e. rei fert. Vel dic quid
+referat intra Naturae fin^s viventi. i. e. rei ferat. Mea unius est Remp.
+defendere i. e. est inter mea [officia] [mei inquam unius [officia] etc. Or Mea
+[cura mei] unius est Remp. etc. Or. [de] mea [cura pars] est Remp. etc.
+
+III. Dative Case.
+All Verbs that either signify, or include in their signification any
+acquisition, getting, giving, offering, or the like, (that is almost all
+V^rbs,) also all Nouns and ^ articiples, which include or suppose such a Verb,
+govern a Dative ^ase, and those Datives have to before them; as (...)
+praesidio; a defense to thee; or, thou have obtained me for thy defense.
+Sacrificium, [quod Sacrificetur vel tribuatur] Deo. Huic habeo quod detur. So,
+tibi doceo; tibi soli amas; Matter, at cui vides, Med* But all these and the
+like in a different sense from the Accusative; i. e. to the advantage of any
+one. So, tibi decet; huic latuit; huic dormio; huic succurro, huic misereor;
+Sen. Iubeo tibi; I give thee Commandment. Vae [est] victis. Surripuit mihi
+(...) os; lac subducitur agnis; as we say to gain thy loss. Mihi cuncta pere^nt
+quisquis est Hecubae est miser. So when two Dative Cases, they both signify
+acquisition; erit tibi laudi; hoc, erit mihi curae. the one signifying the end
+why or the thing which is acquired, the other the Person to whom acquired.
+
+But attinet, pertinet, and such like, though the Participle ( to) belong to
+them, yet govern not a Dat. but an Accus. Case, with the Preposition ad. Heus!
+quid ad te pertinet? Perhaps because those words signify not the relation of
+Acquisition or the like, or because it so pleased the Founders of the Language,
+who have used their liberty, when no reason for it; as they say noceo tibi; but
+laedo te.
+
+IV. Accusative Case.
+The Accusative Case follows all Verbs Active* or, signifying actively, and
+there is no Active that has not an Accusative Case expressed, or understood,
+terra movet, [Se:] It also comes before an Infinitive Mode Passive. Amo te;
+cupio i^ amari a me; ardebat Alexin; ambulat maria; terras navigat. It also
+follows Verb Neuters, if a preposition be understood. Vixit annos centum, i. e.
+per annos centum; ante annos centum; in hunc annum. Eo [ad, in, versus] Romam.
+Pendet [ad^circa] libras centum. Nouns, also and Adverbs, have an Accusative
+with a Preposition, prid^^ [ante] Compitalia. Obsidio vix [in] paucos di^^
+tolerabilis. Albus [quoad] dentes. Fractus [quoad] membra. But sometimes a Verb
+is also understood; O! [miremini] curas hominum! E^ [videte] quatuor aras. Ecce
+[spectate] hominem.
+
+V. Ablative Case.
+The Ablative Case is always governed by a Preposition expressed or understood.
+Doctior [prae] omnibus. Major est calceus [quam pro] pede. [Sub] Paulo
+praeceptore discam. And is applied to all Verbs Passive where there is the
+Preposition a or ab: And by many Actives where of or from is expressed or
+understood; They are frequently expressed in Latin. Hoc a te petit, sperat,
+accipit, Distat a Lutetia. Liberatur a malo. Though sometimes also they be
+understood. Cavere malo. Tecto prohibere.
+
+Likewise Nouns that signify the matter whereof a thing is made, the Instrument
+whereby, the cause from which, the manner how, are all put after Adjectives and
+Verbs in the Abla. Case, as, Ardet [prae] dolor; Perfodere [cum] Sagittis;
+Punire supplicio: Tota [in] cute cont^emisco: Land floret: Foelix [in] nato:
+Dives opibus: [a] Jove natus: Ingenio vacuus: Vti [de] aliquo: Fungor [ab]
+officio: Dignatur honor. Sometimes Potior governs a Genesis Case, as, Potiri
+rerum, then facultate is understood. In all these the Prepositions are
+understood, which, in ours and most modern Languages, are commonly expresed;
+Insomuch that whereas we use diverse Verbs indifferently with or without
+Prepositions, the same Verbs in Latin govern sometimes an Accu. sometimes an
+^bl. Case. Vtor, I use, I make use
+
+Vescor carnes, carnibus, I eat flesh, I feed upon (...).
+
+When two Nouns, or more, one a Substantive, the other an Adje^^ive or
+^articiple, come together, and are not governed of any Verb, they are put in
+the Abl. ase absolutely. In our Language we expr^ss this by ( being) or a
+Participle Active, Me vivo, I being alive. Te amante, Thou loving, or ^eing in
+love with. And is used both for brevity and Elegancy, it being instead of an
+interposed Sentence, [a] rupto foedere regni. Marco [sub judice palles; so in
+these also a Preposition is understood.
+
+Note, that anciently the Abl. ended both in e and i, whence Ruri agit, i. e.
+ru^e.
+
+The Answer is made in the same Case in which the Question is asked: (except in
+Possessives, as, Cujum pecus? Aegonis. Cujus pecus? Meum: or when the Verb
+governs diverse Cases,
+
+Quanti Constitit? Denario. Furtine accusa^ an ho^icidij? Vtroque: which shows
+that in Verbs of valuing [pretio] or some such Noun is understood.) Quid
+agitur? Studetur. Quis dives? Qui nil cupit. Quis pauper? Avarus. This Rule is
+also observed when the Question is made by Adverbs, which signify as much as
+the Question made by the other: Such are, Vbi, i. e. in qui loco est; Vbi
+vivit? ^arthagine.
+
+No^ns of the First and Second Declension are many times put in the Genesis Case,
+and then Vrbe, or such like is understood.
+
+Q^o, i. e. in q^em locum? Quo vadis? in Angli^m
+
+Qua, i. e. per quam viam? Qua iter fecit? P^ Ga^^am. Vnde, i. e. a, e, ex, de
+quo loco? Vnde venis? Ab Inferis. Quamdiu, i. e. per quod tempus? Quamdiu
+vixit? Per tres annos. Quamdudum,
+
+Quando, i. e. quo tempore? Quando accidit? Superioribus diebus.
+
+And therefore since any Proposition may be expressed by a Question, whenever
+the answer is, though the Question be not, expressed, the Government is the same.
+
+Comparatives require an Abla Case, with the Sign [ than] (the Preposition
+prae, pro, or quam being understood) ^latone doctior. More learned, or
+learneder, than Plato.
+
+The Superlative, and Partitive Nouns (and Comparatives when they have the
+Nature of Superlatives, i. e. when preferred to more, or when a Partitive, as
+Animalium fortiora quibus crassior est Sanguis. Fortior manuum est dextra;) and
+Nouns of number require a Genesis Case: Philosophorum [Philosophus] maximus. Vter
+horum. Sapientum [Sapiens] octavus. The Subject being always understood.
+
+Comparatives and Superlatives also require the same Case their Positive does;
+Similior Patri. Literis quam Armis instructior. Gratissim^ mihi fuerunt.
+
+De Accentu.
+PRosodiam dicimus eam partem Grammatices, quae docet recte pronunciare
+Syllabas, q^oad Accentum and Quantit^tem sive tempus.
+
+Unusquisque inter loquendum duplici utitur Tono, sive Vocis modulamine. Gravi
+scil. sive ordinario, and Acuto sive vehementiore: Et in pronunciatione
+periodorum and Sententiarum voees magis notabil^s variatione Toni in acutiorem
+animis Auditorum firmius imprimuntur: Quales sunt illae locutiones Tropicae,
+Metaphoricae, Hyperbolicae etc. vel Figuratae, quales voces iteratae,
+correspondentes, oppositae; Aliae denique omnes quibus totius ^ententiae
+Emphasis inesse videtur; Sicut Epitheta, voces praecipuae in Exclamationibus,
+Interrogationibus, and quibuscunque sensum loquentis efficaius exprimentibus.
+Sed haec non ad Grammaticum sed Rhetorem spectant.
+
+2. At in pronunciatione vocum accentuatur ea Syllaba quae gratiorem efficit
+sonum; Et antiquitius quidem cum Lingua Latina (de qua solum hic tractare
+intendimus) fuit etiam vernacula, melius and accuratius de hac pronunciationis
+ratione judicabatur consuetudine and usu, tum de accentu tum de tempore; sive
+syllaba erat gravior aut acutior, brevior aut longior: Nec vero multitudo pedes
+novit, nec ullos numeros tenuit, nec illud quod offendit, aut ^ur, aut in quo
+offendat, intellexit: Et tamen omnium longitudinum and brevitatum in sonis,
+sicut a^utarum graviumque vocum, judicium ipsa Natura in auribus illorum
+collocavit, ^ic Orator. Idem in Paradoxis, Histrio, si paulo se movit extra
+numerum, aut si versus pronunciatus est una syllaba brevior aut longior,
+exibilatur and exploditur. Hodie fere in desuetudinem abijt Accentus, nec satis
+accurate de Tempore distinguitur, unaquaque Gente Latinae Linguae enunciationem
+propriae suae conformante. Franci quidem Accentum ultimae syllabae contra
+totius mundi consuetudinem imponunt, ut and breves frequenter producunt, ut
+Dominus, ac si scriberetur (...).
+
+3. Ratio autem and intentio Accentuum omnino alia est a differentia
+pronunciationis vocalium, sive literarum, (tempus enim vocales tantum respicit)
+haec enim omnino consistit in temporis and morae observatione qua quaeque
+vocalis pronunciabatur; illa autem in variatione Toni and elevatione vel
+depressione vocis, eo modo quo nos inter canendum a suescimus, neque ab
+hodiernis Graecis penitus omittitur: and in Carminum recitatione, quae eorum
+Cantus erat, maxima cura habebatur utriusque tum Accentus tum Temporis.
+
+4. Accentus Acutus sive Toni variatio apud nos (non loquimur hic de Scriptura
+qua nonnunquam tum Gravis tum Circumflexus notatur) nunquam fieri debet in
+ultima syllaba; Ut in ultima Accentus siat Latinitas vetat. Serve. nisi quis
+dicere velit Enclyticas que, ne, ve, ce, Accentum in ultimum praecedentis more
+Graecorum transfer. Sed cum illud praestant, ipsae quidem voci praecedenti
+tanquam parts adjunguntur, adeo ut penultima acuatur.
+
+5. Sed in Dyssyllabis omnibus and Polysyllabis longa penultima acuitur: Quod
+si penultima sit brevis Accentus est in antepenultima ut Dominus affatim. In
+compositis vero a facio fa -- retinentibus accentus est in fa -- ut benefacis,
+frigefacis, nobis pleniorem A sonum respicientibus: Antiquitus enim acuebatur
+in antepenultima. Monosyllabarum Gravis est pronunciatio, sit brevis vel longa;
+unde fit ut ultimae in Carmine syllabae ratio non habeatur.
+
+6. Polysyllaba accuuntur tantum in Antepenultima licet ultima acuatur ut
+Mensa. Antiquitus videtur fuisse differentia Temporis non Toni. In Virgili,
+Aemili and similibus accentus adhuc servatur in penultima, quia antiquitus
+dicebant Virgilie, Aemilie. Ultima enim Vocalis primo vix pronunciari coepit,
+dein and omitti, vel forte coalescere.
+
+De Tempore.
+1. UNaquaeque Vocalis duplex habet Tempus, Longum and Breve.. II.
+Graeci -- e and - o-diversa nomina and Characteres tribuerunt, (...) Sed pari
+ratione bina deberent esse a, i, u, quae ideo Communes dicuntur, quia idem
+Character utrique Tempori communiter inservit. Verum apud Latinos, prout and
+Nostrates, singuli sunt Characteres, potestates diversae: and usu and
+consuetudine quae longae, quae breves plerunque dignoscuntur, neque vernaculam,
+ut peregrinam Linguam, disc^ntibus adeo necessaria est Characterum varietas.
+Antiquitus tamen vocales longas duplicatione elongabant ut feelix, poopulus.
+(arbor) maalus (arbor) and pro i -- longum usurpabant -- ei.
+
+2. Temporis praeter longum and breve nullam differentiam agnoscimus: Et brevis
+Syllabae unum tempus esse dicitur, longae vero duo; hoc est Syllaba longa
+duabus brevibus est aequalis. Sed revera magna est differentia temporum tum
+longi tum brevis. Aliae enim multo celerius pronunciantur, adeo ut vix earum
+sonus audiatur, ut, Alvearia, Harpyia, Cui, Anteambulo, Eadem, Dij, Inquino,
+Anteire, etc. Syllabae quae pluribus constant Consonantibus, vel etiam
+vocalibus sonantioribus, majorem postulant dilationem and quo e pluribus eo
+impeditius and productius pronunciantur, ut, Ex, Rex, Grex; nulla autem syllaba
+contine^ plusquam sex literas, ut Stirps. Scrobi.
+
+3. A, and O, sonantiores sunt, majorem enim oris apertionem postulant; V, and
+I, suaviores cum sibilatione quadam pronunciantur; E, vero exilis.
+
+4. Notandum est antiquam in prounciatione consuetudinem etiam literis and
+scriptione variatis, fere semper r^tineri, ut Cai, Pompe^i, die^i, faciei^ and
+reliquis quintae Declinationis in -- iei desinentibus. Quoniam veteres dixerunt
+Caij, Pompeij, diei^j, facieij. Eeo, eis, eit, eitur, quae postea coaluerunt in
+Eo, is, it, itur, sic Punire erat poenire, Murus, moerus, Munire, moenire, and
+^^de moenia, Vti, oiti, Ludus, loidus, Cura, coira, Punicus a Poenus.
+
+DeVocibus Graecis inter Latinos.. II^^
+
+1. GRaeca retinentia formam Graecorum, retinent etiam quantitatem, hoc est
+(...), and (...), Reg. I.
+semper sunt Natura longae, (...), and (...), semper natura breves, (...),
+dubiae. Matter, Pater, Poe^ma, Orpheus, Aer, L^ertes, De^iphobus, Diatyposis,
+Metamorphosis, Antiphona. In Graecis autem diversimode Scriptis variatur etiam
+quantitas, ut Eous, aliquando (...), aliquando (...), scribitur (...) aliquando
+(...).
+
+2. Graeca vero sequentia formam and analogiam Latinorum sequuntur etiam
+Regulas quantitatum Latinas. II.
+Graeca nomina cum in Latinum vertuntur, nostra Regula pronunciantur, nisi
+maneant Graeca; Soph^a, Symphon^a, Monarch^a, Geograph^a, Crep^da, Oedipus, pi.
+
+3. E Graecis derivata, III.
+fi Diphthongum servent, sunt longa, ut ^^rphe^us, Cassiope^ia.
+
+Quod si diphthongum, servatis utrisque voca^^bus, dividant, prior est brevis,
+quia ante alteram, ut Orphus, Polymnia.
+
+Si vero una Vocalis tantum retineatur, and prior, brevis est, ut Plata,
+Caesara, Laodica, Cyclopa.
+
+Academia est dubia quia scribitur (...) and (...) frequentius autem brevis,
+quia saepius etiam (...) scribitur. Cheragra and non Chiragra scribitur apud
+Martial. Lib. 9. Epig. 93* quando scil. est brevis.
+
+Si posterior retineatur plerunque longa est, Aristobulus, Oedipus, podis,
+Dari^us, Alexandri^a, Thali^a.
+
+Regulae generales ante alias observandae.. IV.
+
+CUm minimum Temporis sit unius vocalis, Reg. I.
+necesse est ut vocalis ante alteram sit brevis. D^us, Iustit^a.
+
+Sed ^ inter i and i nominibus quintae Declinationis (ut dictum est) et
+aliquando etiam an^e i solum longa est, dicebant enim aliquando fideij, speij,
+reij etc. tunc enim ei est longa.
+
+Pari ratione Fi^ cum suis, ubi non est r, etiam longa est; quia olim scriptum
+erat Feio and feirem; feires, postea vero soluta diphthongo per Metathe^in
+vocalium facta est fierem, fieres, etc.
+
+Sic etiam Genitiva in -- ii^s sunt ambigua ut Vnius, illius, ipsius, olim enim
+dicebant Vneius, illeius, etc utrius, n^utri^us, alter utri^us, solius, autem
+and al^^s semper longae, alter^us semper brevis.
+
+Diana ^liquando producitur ac ^i esset Deiana, aliquando corripitur ae si
+esset Deana.
+
+Cum duo brevia Tempora uni longo aequivalen^, diphthongi omnes sunt longae,
+sunt enim aequales duabus ^ocalibus, II.
+Musae, era, nam olim ut distin^tae vocales pronunciabantur, ut, pictai,
+aulqi, aes, (...) scribebantur aesar, Phaethon -- (In prosa adhunc separat
+vocales.) Duae etiam vocales in ea^em syllaba post s longae sunt ut suavis,
+suetus, mansuetus; Prae^o tantum dubia est.
+
+Aliquando Diphthongus in duas resoluta vocales in priori, Diphthongi
+quantitatem retinet, in altera, omittit, ut Elige^ia; sed hanc Licentiam Poetae
+videntur sibi assump^^sse.
+
+Quid dicendum est de inqu^nat et de diphthongo ui generatim? Cum apud Horat.
+brevis est; Mihi videtur pronunciatum fuisse inkinat literis q et u
+coalescentibus.
+
+Duae vocales coalescentes per Crasin, II
+producuntur, ut, C^go a C^ago, Tibicen pro Tib^^cen, ^t pro ^^t, ali^us pro
+al^^us. Bi^gae pro b^jugae, malo a magis v^lo, retinent enim tempus duarum
+brevium.
+
+Sic et quae antiquum scribendi modum contrahunt, ut, Ius, juris, pro Ious,
+jouris, ufens pro Oufens, sic et cop^ruisse, ve^mens, de^ro, nil, conesto,
+bobus, cogito, b^cula, ex c^^peruisse, v^hmens, dro, nihil, c^h^nosto, b^vibus,
+c^agito, b^v^cula.
+
+Vocalis ante duas Consonantes vel duplicem, IV.
+( x et z) vel eandem iteratam, syllabam producit; licet ipsa vocalis non sit
+longa, neque semper ut longa pronuncietur. Pronunciatio enim talis Syllabae est
+impeditior, et hoc* sive in ^^dem Syllaba ut, ars, abs, d^ns. Sive si una
+Consonans sit in un^, ali^ in alia Syll^ba, ut ig-nis, bel-lum, v^r-te; ^ive
+vocalis in una, Consonae in alia syllaba ut ma-tris, a-mnis, a-cris,
+ambulacrum, vel una demum in unius vocabuli sine, altera in initio alterius,
+Formosamresonare, etc.
+
+Si, l, vel, r, sequantur mutam in eadem syllaba (^on in eadem cum vocali) in
+Carminibus, syllaba ista praecedens frequenter est communis, etsi vocalis sit
+brevis.
+
+Et primo similis volucri, mox veravolucris -- Ovid. etc.
+
+Nox tenbras profert, Phoebus fugat inde tene^bras. Idem.
+
+In eadem Syllaba] nam obruo, quamobrem et similes sunt semper longae.
+
+Si vocalis sit natura longa nunquam fit brevis
+
+Sustulit hic Matrem, Sustulit ille Patrem. Mart. Sio acris, atri, fratris,
+ambulacrum, delubrum, saluber, volutabrum. Et pronunciatio sequitur Naturam
+vocalis.
+
+Ratio autem Regulae est; quia vocalis (quae conjungitur in sono istarum
+consonantium) in pronunciatione includitur in muta and liquida; Et proinde
+binae istae Consonantes in eundem fere sonum coalescunt. F autem muta debet
+intelligi ut
+
+Si vocalis brevis in fine unius dictionis antecedit duas consonantes (maxim
+Sc -- Sp -- St --) in initio sequenti^, Poetae Licentia sua utuntur, (...)
+projudicio producunt, vel (ut soep^us) corripiunt.
+
+Imbuere^ fragilique viros faedare tri^umpho.
+Occulta spolia, etc.
+De Incrementis Nominum and Verborum.. V.
+
+QUae ex alijs siunt, sive per Variationem Casuum, sicut in Nominibus et
+Verbis; sive per Comp^^^^ionem, sive per Derivationem, sequuntur plerunque
+quantitatem eorum ex quibus siunt.
+
+Casus Nominum, quoad omnes syllabas praeter finalem, Reg. I.
+sequuntur quantitatem Nominativi. Musae, Magistri, Lapidis.
+
+Si Genitivus singularis habeat plures Syllabas quam Nom. II.
+penultima Genitivi habetur pro Incremento, and reliqui Casus servant
+quantitatem Genitivi in eorum incrementis. Sermonis, -- oni, -- one, -- ones,
+-- onibus.
+
+Iter (olim dicebatur (...)) and Supell^x, and composita a Caput in -- ps;
+duplex habent incrementum, utrumque breve, it^nris; supellectilis, prima est
+longa positione, altera brevis, and sola proprie dicitur incrementum. Et in
+bic^p^tis etiam posterior est incrementum, prior enim syllaba est tantum
+explicatio simplicis Caput contracti in Nominativo.
+
+Incrementum in prima declinatione null^m reperitur. In secunda vero brevis
+est, III.
+ut vir, viri, puer, puri. In tertia dissyllabi f^cti ex Monosyllabis
+Nominativis plerunque longi; ut Rex, re^gis, Lex legis, Plebs, plebis, sol,
+solis. Ver, veris. Quae s^rvant vocalem Nominativi natura longam. Sed grgis,
+d^^is, trucis, nucis, b^vis, I^vis, maris sunt breves.
+
+Incrementum in -- a est longum, Vectig^lis, Calcaris, Titanis. Masculina v^ro
+in -- al, and -- ar, and -- as corripiuntur, ^t, Sal, s^lis, par, p^ris cum
+composit is, mas, maris* Fax, facis, trabs, ^rabis, lampas lampadis, faeminina.
+
+Increm^ntum in -- e, breve est, abies, abitis, pes, pdis cum compositis and
+derivatis, Hymen, Hymnis.
+
+Excipiuntur in -- eni^, Lien, e^nis, Siren, e^nis.
+
+Incr^m^^tum in i, vel y breve est, Nix, n^vis, pix, picis, Stryx, Str^jgis;
+Phr^jgis, Stipis, poll^cis, chalijbis.
+
+Excipiuntur Vibex, vibicis, apsis, apsidis, and Genitivus in -- inis and --
+ynis a Graecis: Plurima item in -- ix and -- yx, sunt longa, felix, perdix;
+excipe ^il^cis, Histr^cis, forn^cis, natr^cis, mast^gis quae corripiuntur.
+
+O Incrementum longum est, Sol, solis, Ros, roris, and omnia Comparativa,
+Melior, -- oris.
+
+Brevia autem sunt Neutra, ut, Marmor, ^bur, frigus, corpus, tempus, etc. Et
+composita ex (...). Item Mem^ris, arb^ris, lepus lep^ris b^vis, compos
+comp^tis. Et quae consonantem habent ante -- s -- ut, Scrobs Scrobis, and
+nomina Gentium, ut, Cappad^cis, Allobr^gis.
+
+V Incrementum breve est, murmuris, furfuris, g^t^uris, pecudis.
+
+Excipiuntur Genitivi in -- udis, -- uris, and -- utis, a Nominibus in -- us,
+ut, Virtutis, telluris, paludis. Item. Pollucis, frugis.
+
+Penultima Genitivi and Dativi Imparisyllabici^ in Numero Plurali dicitur etiam
+Incrementum. IV.
+
+
+In -- a --, -- e --, -- o --, producuntur.
+
+In -- i --, and -- u --, corripiuntur, ut quibus, tr^bus, mont^bus, lacubus,
+in dativis; sed non semper in genitivis.
+
+Incrementum in quarta Declinatione non datur, and de incremento in quinta
+prius dictum est.
+
+De Incremento Verborum.. VI.
+
+PRima syllaba and Characteristica Conjugationis semper servant propriam
+quantitatem. Crementum Verbi est quod excedit secundam personam Numeri
+singularis praesentis temporis Indicativi, Activi.
+
+Et ultima vocalis illius personae dicitur ab aliquibus primum crementum,
+vocales sequentes dicuntur esse in secundo cremento.
+
+A in omni Cremento longa est, Am^mus, Reg. I.
+Legeb^mus; Excipitur damus, dare etc a do, cum compositis. Quae tamen in
+secundo cremento producitur, d^b^mus, dab^tis, dab^tur.
+
+E in utroque cremento producitur, II.
+nisi post ponatur -- r -- nam tunc corripitur; sic omne praesens tertiae
+Conjugationis cum praeterito imperfecto Subjunctivi Modi, ut, Legor, legris,
+legrimus, legrem.
+
+Re ante re vel ris semper producitur Amare^ris, amar^re, leger^ris, audire^ris.
+
+E, ante -- rim, -- to, semper corripitur, Amavrim, amavro.
+
+Sicut and e in bris and bre, Amabris, Docebris.
+
+In crementis primis Sum, Fero, and Volo, e semper corripitur, nisi obstet
+positio; Eram, to, fram, vlim.
+
+I, III.
+in primo Cremento Verbi quartae Conjugationis semper producitur Audimus; Item
+in Verbis sum Nolo and Volo (cum Compositis) sitis, nolito, vel^tis, vel^mus,
+possimus. Itidem in praeterito in -- vi, ^ etivi, petiveram.
+
+-- Imus, in omni praeterito corripitur, vid^mus, etc. In Subjunctivi
+praeterito ^aro, si unquam, producitur, in futuro autem tum corripitur tum
+producitur. Licet multi praesertim apud nos, and antiqui aliquot Grammaticis
+futurum producunt ut a praeterito distinguatur.
+
+O, IV.
+In cremento producitur, Legitote.
+
+V, Corripitur, Volumus, Quaesumus.
+
+Perfectum dissyllabum priorem, V.
+and in plurali etiam habet longam, exceptis, d^di, st^ti, bibi, tuli, fidi,
+sc^di: Prima syllaba iterata in praeterito brevis est, ut and secunda.
+Excipiuntur Pepedi. Ceci^di.
+
+Omne praeteritum in -- vi a^t -- si desinens penultimam producit.
+
+Omne supinum dissyllabum priorem habet longum, VI.
+ut citum a cio; excipe datum, statum, a stiti, satum, ^tum, ratum, c^tum a
+cieo, l^tum, s^tum, quitum, rutum. Omne supinum polysyllabum penultimam habet
+longam, Amatum, quaesitum, volutum, etc. Exceptis quae desinunt in -- itum
+praeteritis perfectis non desinentibus in -- ivi. Pos^tum, trad^tum, mon^tum,
+etc.
+
+Supina in -- tum post u, a, i, e, quorum praeterita desunt in -- vi longa
+sunt, ut vi^vi, vietum, flevi, fletum, sic deletum, and composita a pleo,
+adjutum, auditum, amatum, at -- ui corripiuntur, ut, monitum, mol^tum, al^tum,
+vel altum, vom^tum, frent^tum, gen^tum, strep^tum, sed inolevi, obsolevi^, and
+exolevi, -- e^tum: abolevi, abol^tum. Ac^tum ab acui, argutum, delibutum,
+ex^tum, fut^tum, imbutum, min^tum, plutum, sp^tum, sternutum, statutum, sutum,
+tributum, indutum, excipiuntur. Rutum autem breve est.
+
+De Compositis.. VII.
+
+COmpositum sequitur, Reg. I.
+in ijs Syllabis quae recipiuntur a simplicibus, Regulam simplicis; etiam
+Dipthongo aut Vocali variata. Ludo, colludo. Laedo, colli^do. Ami^cus,
+in^mi^cus. Cado, occ^do. Caedo, occi^do.
+
+Sed a Di^o, Nomina in -- d^cu^, corripiuntur, Causid^cus.
+
+a Nubo, Pronubus; Connubium vero dubium.
+
+a Sopio, fit semis^pitus.
+
+a Notus, agn^tus, and cogn^tus.
+
+a Iuro, dejro.
+
+a Fi^do, perf^dus, unde tamen inf^dus, etc.
+
+Praepositiones eandem in Compositione retinent Quantitatem, II.
+quam habuerunt extra compositionem.
+
+Longae autem sunt --
+A, amando^ averto. Excipe aperio, nisi forsan componatur cum ab, and rejiciat
+consonam, ut, operio cum ob) E, ^ligo, ^mitto. S^, s^paro. Se^curus. Di^,
+divido, praeterquam d^rimo and d^sertus. C^, sequente Consona, cogo. De^
+de^pono.
+Breves sunt.
+Ab, abeo. Ad, ^deo. In, ^neo. Ob, ^beo, ^mitto, ^perio. Pr, preo. Sub,
+Suborno. Supr, Supraddo. Intr, in^reo. R, rdeo, rnuo, rfero.
+Pro, natura longa est, tamen in aliquibus est brevis, ut in
+Prfiteor. Pr^tervus. Pr^ficiscor. Pr^cella. Pr^cus. Pr^fanus. Pr^fundus.
+Pr^fect^. Pr^nepos. Pr^fari. Pr^cello. Pr^fugus. Pr^fugio. Pr^festu. Pr^^eptis.
+Pr^pero.
+Et in reliquis quae proficiscunter a (...) ante ut pr^pheta. Procumbo,
+procurro, profundo, propello, propulso, propago, (Nomen and Verbum) propino,
+sunt communia.
+
+In ijs quae componuntur ex alijs non praepo. III.
+sitionibus, a and o, frequenter producuntur, quare, alioqui, quandoque.
+
+In e, i, u, frequentius breves; Nfas, trdecim, nqueo.
+
+Biceps, b^celox, b^vium, Agr^cola, al^ger, manumitto
+
+Exceptis quae vocalem natura habent longam; Se^decim, n^quam est enim a nec;
+memet, vene^icus, vid^licet. Tamen vid^sis breve est.
+
+Exceptis etiam Biduum, etc. Triceni, etc. Nimirum, ibidem, ubique, etc.
+
+O, brevis est in Hodie, qu^que, quand^quidom, and compositis cum Nomine,
+Sacr^sanctus.
+
+De Derivatis.. VIII.
+
+DErivata retinentia vocalem Primitivorum, sequuntur etiam Quantitatem.
+Salubris a sal^te. Scuris a sc^re. Lavacrum a Lavatum. Rf^rt a Rfero. R^fert a
+r^ -- fert.
+
+Suffoco a faux, Suff^co a f^cus, Scuris a s^o. Se^curus a Praepositione se.
+
+Longae sunt e Brevibus.
+Vox, vocis, a v^co. Lex, l^gis, a lgo. A Lectum supino potius. Re^gula and
+Rex, re^gis. a rgo. A rectum supino potius. Se^des, a sdeo. ( etiam se^dile.)
+M^bilis, a m^veo. A motum. Sopio, a s^por. Feralis, a frus. M^cero a macer.
+Secius a scus. Amb^tus, (participium) ab amb^tum. (Amb^tus vero Nomen est
+brevis.)
+Brevia derivata e longis.
+Dux, d^cis, a Duco. Apta Duci non est Vxor, non aptaque Regi. Quae d^ci non
+est apta, nec apta rgi. D^cax, and Adjectiva in -- us, a Di^co. Nato, a ^atum.
+Brev^a derivata e Longis.
+N^to, a notum. Quater, a quatuor ( antiquitus scribebatur quattuor.) F^des, a
+fi^do. Pagella, a pagina. Odium, ab odi. Sagax, a sagio. Arena, arista, ab
+areo. C^ma, a como. Curulis, a curro, vel c^rrus. Fragor, frag^lis, a frango.
+P^sui, a pono. Gnui, a gigno. Ofella, ab Offa. Lucerna, a luceo. Mamilla, a
+mamma. Quasillus, a qualus. Scutulatum, a scutum. S^gillum, a signum. S^lutum,
+a solvo. Tigillum, a tignum. Varicosus, a varix. V^lut^m, a volvo. Ag Cog n^tum
+ab Ag Cog novi. Rel^quum, a reli^qui.
+Derivata Adjectiva in -- osus, orus, aceus, II.
+longa: in -- ^tius, vel -- ^cius, -- ^nus, and -- ^mus fere semper brevia.
+
+Derivata frequenter addunt vel demunt Consonantem, III.
+ut Quantitatem mutent, ut Rettulit a rfero. D^sertus a dissero, farina a
+farris.
+
+Derivata in -- ites habent penultimam longam. IV.
+
+
+Adjectiva in -- i^nus a Rebus animatis sensitivis descendentia, V.
+item Distributiva Numeralia, Nomina cognationis, Propria and Gentilia
+penultimam producunt. Abelli^nus. Adulterinus. Agrigenti^nus. Amiti^nus.
+Albi^nus. Bombyci^nus, etc.
+
+Adjectiva in -- ^nus a Plantis, Lapidibus and alijs inanimata significantibus.
+Item ab Advervijs temporalibus, aut Substantivis Anni Tempestates notantibus,
+descendentia, penultimam corripiunt. Querc^nus. Corall^nus. Crast^nus,
+Chrystall^nus. Cedr^nus. Hornot^nus. Serotinus.
+
+Participia Passiva a Supinis facta seqnuntur plerunque Quantitatem Supinorum,
+Adjutus, Peti^tus.
+
+De Syllabis Medijs.. IX.
+
+A producitur ante, Reg. I.
+g, and u, bundus, bilis, culus, la, lum, cea, ceum, cius, cia, cium, cus, ca,
+cum, dus, lis and le. In infinitis in -- men and -- mentum, -- nius, -- nia, --
+nium; in habentibus vocalem aut a ante r in finitis in aris, are, arius, arium,
+ante t in finitis in atius, a^icus, ato, atus, atim, ates; in Ablativis and ab
+hisce derivatis.
+
+In Reliquis omnibus corripitur.
+
+E, II.
+producitur ante, c, d, l, m, t, r, in substantivis in -- erium, ante -- simus.
+
+In Reliquis Corripitur.
+
+I, III.
+producitur ante, qu; excipe rel^quum; rel^quiae. In Verbalibus ante -- bilis
+and -- bundus, in derivatis a supinis penultimam producentibus, ante -- culum,
+a Verbis quartae Conjugationis* ante do, dinis; Ante des, in Patronymicis a
+Nominibus in eus: ante go; in Neutris, ante le; in Verbalibus ante men and
+mentum, a verbis quartae Conjugationis. In -- inus exeuntibus modo non
+significent Materiam and tempus: Ante sinita in -- na and -- ne: Ante -- tus in
+derivatis a Substantivis: Excipiuntur Adverbia in ^tus, ut fund^tus, pen^tus.
+Ante ta, it is, tes, tos, tim, tius in Verbalibus a quarta Conjugatione.
+
+O, IV.
+producitur ante, n, s, t, cimum; In Neutris habentibus m, ante, vel post o;
+ante -- rius, ria, rium: rus, ra, rum.
+
+V, V.
+producitur ante, c, g, m, n, r, s, t, lis, and lium in derivatis.
+
+De^iderativa autem corripiuntur, Esurio, Par^turio. Excipe Scatu^io. Nomina in
+urius, uria, M^rcurius, luxuria. Etiam decurio.
+
+Excipiuntur etiam Nol^mus, volumus, quaesumus, etc.
+
+Et composita a ruo in supinis erutum, etc.
+
+De Finalibus.. ^*
+
+1 1 2 3
+
+FInita in b, Reg. I.
+d, t, l, r, brevia.
+
+4 5 6 7 8
+
+in, II.
+^, n, as, ^s, os, producuntur.
+
+9 10
+
+in, III.
+is, and us, corripiuntur.
+
+11 12
+
+in, IV.
+a, i, ^, longae.
+
+13 14
+
+in, V.
+e, breves; In, o, dubiae.
+
+in, y, breves.
+
+1. Excipe Hebraea ut Job, Jacob, Davi^d.
+
+2. Excipe s^l, sol, ni^l, pro nihil, and Hebraea, ut Joel.
+
+3. Excipe far, lar, nar, ve^r, fur, cur, and par, cum compositis, Graeca etiam
+in (...), ut Aer, crate^r, characte^r etc. nisi patr and matr quae brevia sunt.
+Cor producitur apud Ovid.
+
+4. Nc, donc Corripiuntur. Fac, Masc. hic and Neut. hoc sunt communia.
+
+5. Corripiuntur Forsan, forsitan, an, tamn, attamn, veruntamn, ^n, cum
+compositis exin, sub^n, de^n, pro^n: Quae patiuntur Apocopen, vidn, aud^n,
+nem^n, nost ^n; Nomina etiam in -- en quorum Genitivi exeunt in ^nis, ut
+Carm^n, crimn, etc. Graeca in (...). Ilion, ^elion, etc* Accusativi in in vel
+in, Alex^n, Ityn. etiam in an a Nominativis in a, Iphigenian. Aeginan.
+
+6. Excipiuntur ea quorum Genitivus exit in adis, ut Vas, Pallas. Et
+Accusativus pluralis Nominum Graecorum tertiae Declinationis, ut Heroas,
+Hectoras.
+
+7. Brevia sunt Nomina tertiae Declinationis imparisyllabica, in quibus
+penultima Genit* vi brevis est, ut mils, segs, divs, etc. (Longae sunt tamen
+abie^s, arie^s, cere^s, pe^s cum compositis, and pari^s;) s quoque a sum cum
+composit is, pots, ads, etc. pens etiam and neutra in es, Hippomans, Cacoeths,
+add Nominativos Graecorum plurales, Cyclops, Naiads, Dryad^s, etc.
+
+8. Exci^e Comp^s, imp^s, ^s ossis; and Graeca in (...) desinentia, Del^s,
+Cha^s, Pallad^s, Phillid^s.
+
+9. Longi sunt obliqui, ut Musis Dominis, Nominativi etiam ^ingul* longorum
+imparisyllabicorum, Samni^s, i^tis, Salam^s, ^nis, It^m Nomina in -- is a
+Graecis in (...) de^in^ntibus, Simoi^s. Mon^syllaba omnia praeter is, qu^s,
+b^s. Secundae etiam personae temporis praes. Indicat. Modi verborum qua^tae
+Conjugationis, ut, aud^s, add veli^s and sis cum compositis, and adverba
+fori^s, and grati^s.
+
+Commune est tempus futur. Modi Subjunct.
+
+Is, mihi dives eris, si causas eger^s, inquit. Martial.
+
+Da mihi te placidum, dederi^s in carmine vires. Ovid.
+
+10. Excipiuntur imparisyllabica quorum Genitivi habent penultimam longam,
+salus, utis, tellus, uris. Item Genitivi Singul. Nominativi, Accusativi,
+Vocativi, Plural* Nominum quartae Declinationis Hujus manu^s, hae manus, has
+manus, o manus. Monosyllaba etiam Crus, mus, sus. Nomina eitiam in -- us, facta
+e Graecis in ovs Panthus, Melampus, Clius; praeter Oedipus and Polypus secundae
+Declin.
+
+11. Brevia sunt eja, ita, quia. Omnes etiam Casus in -- a (exceptis Vocativis
+a Graecis in as, Aene^; and obliqus primae declin. Mus^.) Numeralia in -- (...)
+sunt communia.
+
+12. Corripiuntur nis^, quasi. Vocativi etiam and Dativi Graecorum quorum
+G^nitivus exit in os, Palladi, I hillid^, ^ Amarill^, o Alex^.
+
+Communia sunt mihi, tibi, sibi, ubi, ibi; Sicu^^ semper breve est, alibi
+longum.
+
+13. Producuntur obliqui quintae Declin. cum suis Adverbijs ^odie^, quotidie^,
+quibus add (...). Secundae etiam personae singul. Modi Imperat. Activi
+verborum secundae Conjugat* Doce^. Adverbia ab Adjectivis in -- us, aut -- er
+desinentibus, derivata, pulchre^, belle^. Ferm^ etiam fere^ and Ohe^: Sed ben,
+mal, mag corripiuntur.
+
+Monosyllaba producuntur omnia praeter qu, n, v Encliticas, c, t, pt,
+Adjectiones syllabicas.
+
+14. Producuntur obliqui in o, Domino. Adverbia ab Adjectivis derivata Tanto,
+etc. Eo cum compositis, ideo, etc. Communia sunt Sedulo, crebro, sero, mutuo.
+Semper brevia, modo, quomod^, cit^; saepius etiam sunt, Amb^, du^, eg^, hom^,
+sci^, nesci^, im^, illic^.
+
+Propriorum Nominum qu^^titates ad has Terminationes revocantur.
+A in penultima, brevis est in Nominibus quae desinunt in abus, aces, acus,
+agus, and agum, alus, (excipitur Sardanapalus) ames, ares, aris, arus, ala.
+
+Longa est in acum, (in iacum vero corripitu^ adus, and ^da, ^mus (excipe
+Graeca and Asiatica) ane, anes, anus (excipe Concanus, Dardanus, Marcomanus,
+enomanus, Sequanus, and (ut vulgo) Lipomanus) asis, asus, ^tus, ates, athes,
+(excipiuntur Pelates, Lapathes, Zelates) ata, ati^, avus, avum, (...).
+
+E, in penultima --
+
+Brevis est in res.
+
+Longa est in e^dus, e^ne, e^nus (praeter Diadumnus, Misumnus, and Ar^nus) crus
+and e^ra.
+
+I, in penultima --
+
+Brevis est in ^cus, si Nomina sint Latina vel a Latinis aut Grae^is orta. Si
+vero sint Nomina barbara producuntur excipiuntur C^pern^cus; ^ga, ^ta, ^ito.
+
+Longa est in i^cum, i^de, i^dus, i^mus, i^nus, and ina tum propria tum
+Gentili^ia, irus, isus, i^tus, and i^ta, tum propria tum Gentili^ia, i^tes
+nomina Gemmarum and Lapidum, Vinorum; and Gentilia, ^is Gentilia Foeminarum.
+
+O, in penultima --
+
+Brevis est in ^lus;, and ^rix.
+
+Longa est in odes, omus, onus, and ona, ota, otes, otis.
+
+V, in penultima --
+
+Longa est ubique.
+
+Hebraea, Syriaca, Arabica, Turcica, has sequuntur regulas.
+
+Quibus additur terminatio Latina, producuntur, ut Adamus, Abrahamus: Excipe
+crementa ab ar and or quae corripitur, ut Salmanasaris, Nabuchadonos^ris.
+
+Quae vero propriam terminationem retinent penultimam corripiunt, ut Absalon.
+Excipiuntur Aaron, ^biram, Abi^ron, Adiram, Aduram, Asate^la, Asemona, Aseroth,
+Arbona, Bahurim, Barje^su Barjona, Bethoron, Bethsura, C^rbona, Ele^le,
+Esricam, Gaderoh, Gaze^ta, Ierusa, Mammona, Noe^mi, Rabboni, Sabactani, Salome,
+Zabulon.
+
+Books Printed for and sold by Will. Miller, at the Golden-Acorn in St.
+Pauls-Church-Yard, London.
+Folio.
+BOok of Martyrs, in 3 Vol. Willets Synopsis Papismi -- - on Genesis and Exodus
+Charleton's Physiologia Extravagant Shepherd, a Romance Love and Revenge, a
+Romance, by James Hayward Hart's Diet for the Diseased Reconciler of the Bible
+Bishop Smiths Sermons Spanish Bawd Rycauts History of the Turkish Empire Nani's
+History of the affairs of Europe Violet's Proposals for calling to account all
+Committee Men, Sequestrators, Treasurers and Custom-Commissioners, Collectors
+of Monthly Assessments, and all that have been entrusted in the Public
+Revenues. Ben. Iohnson's Bartholomew-Fair, Staple of News, and the Devil is an
+Ass.
+Quarto.
+Iackson's Concordance Weemse of the Ceremonial Laws -- Observations ^atural
+and Moral -- of the Judicial Laws of Moses -- of the Moral Law Hookers Souls
+Preparation Hookers Souls Humiliation Strouds Anatomy of Mortality History of
+Prince Arthur C^mpleat Bolton's General Directions for Comfortable Walking with
+God. Quercitan's Practice of Chemical and Hermetical Physic for Preservation
+of Health. Feltham's Resolves White on the Sabbath Heylin's History of the
+Sabbath Sibbs on Hosea^ Cooper's Heaven Opened on Romans 8. 1. Benefield on the
+first Capter of Am^s Dodd on the Lords Prayer Chapman on the 117 Psalm Dodd and
+Cleaver on the Ten Commandments
+Octavo and Twelves.
+Milton Paradise regained Complete Chemist Government of the Tongue Janua
+Linguarum Vestibulum Reserata Scudder's Christian daily walk Louder de Cord
+Farnaby's Epigrams Childrens Dictionary History of the Great Mogul, first and
+secon^ Part. Fanshaw's Horace, Latin and English Holidays Persius in English
+Hopton's Concordance of Years Arundel's Secrets I. de Lunas Spanish Grammar
+Monarchy Asserted by a Committee* of Parli^ment in Speeches. Novae Solymae
+Nomen clatura, English, Latin and Greek New Light to Alchimy Bagshaw's Rights
+of the Crown of England Locker's Balm for Bleeding England and Irelan^ Heath's
+Tri^mph of King Charles II. Leigh's Description of England Nosce Te Ipsum, a
+Poem by Davies Ladies Calling Waraeus de Antiquitatibus Hiberniae Pantoni
+Apparatus Theologiae Epicurus's Morals, English Humes Jacob and Boaz, or the
+Steadfast and Unwave^ing Christian. Ward of Wit, Wisdom and Folly Brough's
+Sacred Principles in Welsh Beverley's Great Soul of Man Vines on the Sacrament
+Gourdon's Tyrocinium Linguae Latinae Dent on the Revelations Continuation of
+Sidney's Arcadia Smith's David's Blessed Man Arcandam by William Ward
+Traihern's Exposition of St. John's Gospel Times Silver Watch-Bell Frewen's
+Sermons on Romans 14. 2. to 9. Four General Heads, Christian Religion Surveyed
+and Explained. Ball's large Catechism Dig's Unlawfulness of taking up Arms
+against the King Hieron's Dignity of Preaching, 1 Thessalonians. 5. 20 Chetwind's
+Historical Collections Leeches Grammar Questions Crashaws Meat for Men, or
+Service on the Sament. Sharps Midwi^ery Merry Drollery Complete Lod. Vives
+Exercitationes Ling. Lat. Ross Virgilius Evangelizans Textoris Epistolae Tullii
+de Officiis Elborough's Exposition on the Common Prayer French Schoolmaster
+Daphnis and Cloe, a Romance Bunworth of the French-Disease Observations of
+Fulke of Meteors Knowles Rudiments of the English Grammar Justini Historia
+Nasmiths Divine Poems Ramsey of Poisons Stewards Catholic Divinity Lucius
+Florus in English Harrington's Art of Law Hows Marks of Salvation Starkies
+Natures Explication, and Helmonts Vindication Boteler of War in Marches,
+Battles and Sieges Hill's Natural and Artificial Conclusions St. Bernard's
+Meditations English Dictionary and Expositor Third part of the Bible and New
+Testament Herles Wisdoms Tripos Countess of Kents Rare and Select Secrets in
+Physic and Chyrurgery Staphurst Officina Chymica Londinensis Fettiplace's
+Christian Monitor Mall and Polhill of Holy Living Sibbs Christian Portion --
+-Fountain Sealed Ametius Bellarminus Enervatus L'Florus Notis Stadii Granado of
+Prayers and Meditation Cottons None but Christ Fettiplace's Holy Exercise
+Abbot's Young Man's Warning-piece Bradshaw and Hildersham On the Sacrament
+Bacons History of Life and Death Garbuts Demonstrations of the Resurrection
+Idiot in four Books by Cusanus White's Ground of Obedience Vade Mecum, a Manual
+of Essays, by T. D. Warwick's Meditations Web's arrignment of an Unruly Tongue
+-- - Agars Prayer Understanding Christians Duty Henshaw's spar^ hours of
+Meditations Resolution of Doubts between the Church of Rome and the Reformed
+Church. Midnight Trance. Nordeus Poor Man's Rest -- -Pensive Man's Practice Holy
+Sinner, by W. H. Barclaii Argenis -- -Euphormio Boltons Help to Humiliation
+Mothers Blessing Bradford on the Lords Prayer and Ten Commandments. Doctrine
+of the Bible Boltons Prayers Coral of Steel, Experiments in Physic Clark of
+Comfort Life of Mrs Clark Lukins Interest of the Spirits of Prayer Marshals
+Epigrams, by Busby Protestant Prayer Book Wit Revived (...) Novels Catechismus
+Pietatis E^^ons Catechism Fentons Catechism Goug^s Catechism Balls Catechism
+Bernards Catechism according to the Common Prayer. Pagits Catechism Veseys
+Catechism Mayers Catechism Drants Epigrams Ovid de Art Amandi in English
+Supplication of Saints Spurstow's Divine Meditation Smiths Complete Practice of
+Physic Moral Practice of the Jesuits Duty of every one that intends to be
+saved English and French Cook Oxford Jests Refined and Enlarged Smiths Joseph
+and his Mistress Combachii Metaphysicae Rusneri Symbola Tuckney's works
+Co^ntess of Kents Manual Lessius of Health 24o
+FINIS.
+

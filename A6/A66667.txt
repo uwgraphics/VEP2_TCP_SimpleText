@@ -1,0 +1,1146 @@
+Ludus Mathematicus: OR, THE MATHEMATICAL GAME: Explaining the description,
+construction,, and use of the Numericall Table of Proportion.
+
+By help whereof, and of certain Chessmen (fitted for that purpose) any
+Proposition Arithmetical or Geometrical (without any Calculation at all, or use
+of Pen) may be readily and with delight resolved, when the term required
+exceeds not 100000.
+
+By E. W.
+
+Omne tulit punctum, qui miscuit utile dulci.
+
+LONDON, Printed by R.and W. Leybourn, and are to be sold by Philemon Stephens
+at the Gilded Lion in Paul's Church yard, M DC LIVE.
+
+THE PREFACE.
+THis Instrument I at first intended for my own private use and delight, not
+conceiving it worthy to see the light: but being since informed by others,
+(well verst in the Mathematics) and finding also by experience, that it may
+prove useful for others (and, Bonum quo communas eo melius) I have permitted
+it to launch into the Ocean of censure: Howbeit, I present it chiefly to such
+as (in some competent manner) have already acquainetd themselves with the
+modern use of Arithmetic, I mean, by Logarithms, Decimals, and Scales; for,
+they may be able immediately to apprehend the use thereof, and that with some
+pleasure and delight. To other Arithmeticians not acquainted with that kind of
+Artificial Arithmetic, it may (at first) seem somewhat more difficult. But
+unto such as are not at all verst in Arithetick, I may object Plato's
+Inscription placed over the door of his Academie concerning Geometry
+(including also Arithmetic) Nemo Geometriae ignarus huc ingreditor. It
+professes to render you the term required in any question propounded, when it
+will not amount to above 100000, that is, when it exceeds not five figures or
+places, and that it will clearly do, (especially toward the beginning of the
+Scale) when the term or terms out of which the Question is to be produced, are
+rational numbers, viz. when the term required to be extracted from them, will
+be (precisely) a whole number, without a fraction attending it; but when the
+term or terms given are irrational numbers, which will produce a mixed number,
+consisting of a whole part together with a fraction, in that case it will
+represent unto you only the whole part thereof, without the broken part or
+fraction; which defect (nevertheless) will occasion no inconvenience in the
+practice of this Instrument, the broken part of a number of such an extent
+being not considerable in Questions of ordinary practice, as is well known to
+all Artists: This advertisement I have thought fit to premise, lest it might
+seem to promise more than it can perform, and so cause the Practitioner to be
+frustrated of his expectation.
+
+THE CONTENTS.
+CHAP. I. The Definition, description, and construction of the Numericall Table
+of Proportion. p. 1. CHAP. II. Numeration upon the Scale of Numbers. p. 15.
+CHAP. III. Numeration upon the Alphabets and transversals. p. 24 CHAP. IV.
+Application of the Table in the resolution of these Propositions following. p.
+46 1. To three numbers given, to find a fourth in a direct proportion ibid. 2.
+To three numbers given, to find a fourth in an inversed proportion. p. 52 3.
+One number being given to be multiplied by another, to find the Product. p. 54
+4. One number being given to be divided by another, to find the Quotient. p. 59
+5. Two numbers being given, to find a third Geometrically proportional unto
+them, and to three, a fourth, and to four, a fifth, etc. p. 63 6. To extract the
+squareroot of any number given under 10000000000. p. 64 7. To extract the
+Cube-root of any number given under 1000000000000000. p. 69
+
+ERRATA.
+PAge 4. line 23. for 100 read 107. p. 9. l. 22. f. here r. them. p. 13. l. 15.
+f. intervall r. internal. p. 16. l. 24. f. brought r. brings. p. 42. l. 18,
+19. f. Thus likewise you may, r. This likewise may. p. 46. l. 1. f. Rule r.
+Table. p. 47. l. 27. f. k, (r. k, which).
+
+THE MATHEMATICAL Game.
+CHAP. I, The Definition, Description, and Construction, of the Numericall
+Table of Proportion.
+I. A Table of Proportion is an Instrument framed by Logarithms, and invented
+for the more easy resolving of Arithmeticall and Geometrical Operations.
+
+In Natural or Vulgar Arithmetic, the Propositions are resolved by using the
+Numbers themselves, as if 4 were given to be multiplied by 2, we say, two times
+four makes 8, the Product. In Artificial Arithmetic, if the same Question
+were propounded, instead of 4 and 2, we take their Logarithms; so if the
+Logarithm of 4 (being 0,602060) be added to the Logarithm of 2 (being 0,301030)
+their sum is 0,903090 which being found in the Table of Logarithms, is the
+Logarithm of 8, the Product, as before. Howbeit here, in the use of this
+Instrument we need not Multiply or Divide, Add ar Substract, which for the
+most part perplex and discourage the Practitioner, but by the motion of certain
+Chesse-men (fitted for that purpose) we perform with pleasure and delight, the
+hardest Propositions of Arithmetic and Geometry without charging the mind or
+memory with any thing, which may seem burdensome or distasteful.
+
+II. This Instrument is twofold, Numericall or Trigonometricall.
+
+III. The Numericall Table of Proportion is an Instrument, by help whereof, and
+of certain moveable Chesse-men, all Questions Arithmeticall and Geometrical (
+performed by Multiplication, Division, or the Golden Rule, and not
+Trigonometricall) together with mean Proportionals, and the Extraction of the
+Roots of all Square-numbers under 11 places, and of all Cube-numbers under 16
+places, as well in mixed and broken, as in whole numbers ( when the term
+required exceeds not 100000) are with great ^ase and exactness Resolved. For
+we ^ntend not here to meddle with any questions, that are performed by the
+Doctrine of Triangles, referring them ^o be handled in the use of the Table of
+Proportion Trigonometricall.
+
+IV. Of the Numericall Table of Pro^^^tion these things offer themselves to
+(...) considered, viz. The Description and ^onstruction, or the Use.
+
+V. For the more plain describing of ^^is Instrument, it may be said to consist
+(...) two parts, viz. The Body of the Ta^^e it self and substantial part, or
+the Appendants and Circumstantiall part thereof.
+
+VI. The Body of the Table it self is a Scale of unequal parts broken off
+into Fractions, and hereafter (for distinction sake) called the Scale of
+Numbers. This Scale is nothing else but a line of Numbers broken off into 36
+fractions or equal parts; Now what a line of Numbers is, has been heretofore
+taught by Mr. Gunter in his Book of the Crosse-staffe, and is well enough known
+to all modern Artists.
+
+VII. A Fraction of the Scale of Numbers is an equal part of the same Scale,
+consisting of Lines, Spaces, and Divisions: So this Scale is broken of or
+divided into thirty six of those equal parts or fractions, numbered at their
+right ends by 1, 2, 3, etc. to 36, of which the part signed at the left end
+thereon by 100, is the first Fraction, that sign by 100, is the second, etc.
+
+VIII. Each of these Fractions consists of three lines and two spaces: so the
+pricked line which you find place under each Fraction, is not to be take as
+any part thereof, but has another use, as shall be declared in the proper
+place.
+
+IX. These Fractions, together with their Lines and Spaces must be understood
+to join respectively one to another, in such sort that the whole Scale of
+Numbers may be conceived to be one entire and continued Line: For Example. The
+right end of the first Fraction marked by 1 A. must be conceived to join with
+the left end of the second Fraction, signed by 107, and the right end of the
+second Fraction, marked by 2 B. must be understood to join with the left end of
+the third Fraction, noted by 114: And so consequently of the rest in their
+order: so that the whole Scale of Numbers, beginning at the left end of the
+first Fraction (signed by 100) and ending at the right end of the last Fraction
+(noted by 36 F.) must be conceived to be one entire and continued line, as
+aforesaid: And therefore (by farther consequence) in mounting up wards the lest
+end of the last Fraction, signed by 939, must be also conceived to join with
+the right end of that above it, signed by 35 E. and so of the rest, in
+ascending upwards, until you mount to the beginning of the Scale.
+
+X. The entire Scale of Numbers is first divided into a thousand unequal
+parts, which are hereafter called Hundreds, and distinguished by having three
+figures placed at the beginning of each of them: so 100 (at the beginning of
+the Scale) are the figures of the first Hundred; 101, of the second Hundred;
+102, of the third Hundred; 103, of the fourth Hundred, etc.
+
+XI. Each of these Hundreds are again sub-divided into ten other unequal
+parts, hereafter called Tenths; and each Tenth also supposed to be again
+divided into ten other parts, called Units: For the distances between the
+Tenths being small, they will not admit any real division of the same Tenths
+into ten other parts: And therefore you are to suppose them to be so divided;
+and hereafter when you shall have occasion to use those parts, you are to
+guess at them, as to direct your eye to the middle of them, when you are to
+take five of these Units; and somewhat beyond the middle, when six of them are
+propounded, etc. Howbeit, because at the beginning of the Scale of Numbers the
+distance of the Tenths are so large, that you cannot readily (in manner
+aforesaid) guess at the Units comprehended betwixt them, I have caused that
+distance upon the first fix Fractions to be divided into five parts, each part
+representing two Units; and from thence upon the six Fractions next after
+following into two parts, each part representing five Units; In the mean time,
+distinguishing the Tenths comprehended betwixt every two hundreds by sharp
+points rising from the middle line of the Scale into the uppermost space
+thereof, and upon all the rest of the Scale, leaving the Units to be guessed
+at, as aforesaid.
+
+XII. To describe the Hundreds and Tenths upon the Scale of Numbers; Having
+first prepared a Scale of 100 equal parts, containing in length the hundred
+part of the whole intended Scale of Numbers ( which Scale of equal parts must
+be supposed to be divided into 1000 equal parts, the distance betwixt each
+hundred part thereof being supposed to be divided into ten parts) repair to the
+Table of Logarithmes, and therein observing the first five figures of the
+Logarithme of 1001, besides the Characteristique or Index (viz. 00043) take
+with your compasses the distance from the beginning of your Scale of equal
+parts to the said 43; this done, if you apply that extent of the compasses
+toward the right hand from the beginning of your intended Scale of Numbers,
+the moveable point of the compasses will fall upon the first tenth of that
+Scale: In like manner, by the first five figures of the Logarithme of 1002,
+besides the Index (viz. 00086) you may mark out the second tenth of the same
+Scale, and so consequently all the rest in their due order.
+
+Example, If it were propounded to make a Scale of Numbers equal to this
+whereof we treat; this Scale being entirely taken together, as one continued
+Scale, according to the ninth Rule aforegoing) it conteins in length 75 feet,
+which amount to 900 Inches, whereof the hundred part is nine Inches; wherefore,
+having prepared a Scale nine Inches long, as is above directed, I take off with
+my compasses the parts 43, which extent being applied from the beginning of the
+Scale of Numbers toward the right hand, the moveable point will fall upon the
+first tenth of the first hundred of that Scale, just under the letter Z; so
+likewise if I again take off upon the Scale of equal parts the figures 86, and
+apply them from the beginning of the Scale of Numbers, as before; that extent
+will mark out the second tenth of the same Hundred just under the letter X. In
+like manner also may you proceed, until you have described all the divisions
+of the Scale of Numbers, as you see here drawn upon this Instrument.
+
+This may suffice to have spoken of the substantial part, or Body of the Table
+it self; in the next place follows the circumstantiall part, or Appendants
+thereof to be handled.
+
+XIII. The Appendants of the Table are either external, and placed without it;
+or internal, and placed within it.
+
+XIV. Those placed without it are either so placed at the top above it, or on
+each side thereof, viz. at the ends of the Fractions.
+
+XV. The Appendant placed at the top above it is the whole length of the Table
+divided into 36 equal parts, numbered by 1, 2, 3, etc. to 36, and signed by
+six Alphabets, each of them consisting of six letters, viz. A, B, C, D, E, and
+F. And all these Alphabets taken together, are bereafter (for distinction sake)
+called the Top-rank of Alphabets.
+
+XVI. The two ends of this Top-rank ought to be conceived to join
+interchangably to each other, in like manner as if the Alphabets and Letters
+were placed in a Circle.
+
+For Example; If B in the fourth Alphabet were propounded, and I were to
+account from that letter four Alphabets and three letters toward the right
+hand: The letter A in the fifth Alphabet makes one Alphabet, and A in the sixth
+Alphabet is the second Alphabet; but now because in proceeding to account
+another Alphabet, I shall go beyond the right end of the line; for the third
+Alphabet I take A in the first Alphabet; and for the fourth I take A in the
+second Alphabet; and so have I all the four Alphabets demanded: And then I
+account three letters from the last A taken, which leads me to the letter D in
+the said second Alphabet, being the letter required. In like manner, if I were
+to proceed toward the left hand, and C in the second Alphabet were the term
+given, from whence I am to account three Alphabets and five letters; D in the
+first Alphabet is the first Letter in that account, D in the last Alphabet is
+the second, and D in the fifth Alphabet is the third; from which if I account
+five letters the same way, viz. toward the left hand, at last I shall fall
+upon E in the fourth Alphabet, which is the letter required.
+
+XVII. The Appendants placed on each side of the Table, are so placed on the
+right hand, or on the left.
+
+XVIII. That placed on the right hand is another like rank of Alphabets, which
+is hereafter called the side-rank of Alphabets.
+
+XIX. The two ends also of this side-rank ought to be conceived to join
+interchangably to each other, as those of the top-rank.
+
+For Example, If D in the third Alphabet were propounded, and it be demanded
+from thence to account downwards five Alphabets and four letters; descending
+downwards, I find C in the fourth Alphabet to be the first; C in the fifth,
+the second; C in the sixth, the third; and then C in the first Alphabet is the
+fourth; and C in the second Alphabet is the fifth; from whence if I account
+four letters, at last I fall upon A in the third Alphabet, which is the letter
+required: so likewise if E in the second Alphabet be given, and it be required
+to account upwards four Alphabets and three letters; first, F in the first
+Alphabet is the first; F in the last Alphabet is the second; F in the fifth
+Alphabet is the third; and F in the fourth is the fourth; from whence I account
+three Letters upwards, which guides me to the letter C, in the said fourth
+Alphabet, being the letter desired.
+
+XX. The Appendant placed on the left hand is nothing else but a rank of
+Numbers, expressing the three figures of the first Hundred of every Fraction
+respectively, and serves for the more ready finding out of numbers upon the
+Scale, as shall be more clearly taught hereafter.
+
+XXI. The Interval appendants placed within the Table are either Alphabets or
+Parallels: The Alphabets are nothing else but the top-rank of Alphabets ten
+times repeated in the body of the Table: The Parallels are certain pricked
+lines, which cross one another at right angles, and are either Perpendiculars
+or Transversals.
+
+XXII. The Perpendiculars are pricked lines drawn downwards through the Body
+of the Table from every division of the top-rank of Alphabets.
+
+XXIII. The spaces comprehended betwixt every two perpendiculars are called
+Intervals.
+
+XXIV. The Transversals are also pricked lines drawn under the top-rank, and
+likewise under every Fraction respectively, whereof that placed under the
+top-rank is called the Chief Transversall: And each of those Transversals
+placed under the Fractions respectively, is termed the Transversall of the
+Fraction, under which it is so placed; and therefore the right end of each of
+them is to be conceived to join with the left of the next under it; as also the
+left end of each of them to join with the right end of that next above it: In
+like manner, as the Fractions are said to do in the ninth Rule aforegoing.
+
+XXV. The parts of the Transversals comprehended in the Intervals betwixt every
+two of the Perpendiculars are by points divided into six equal parts, called
+Digits, and each of those six parts are again supposed to be sub-divided into
+six other equal parts, termed Minimes.
+
+CHAP. II. Numeration upon the Scale of Numbers.
+I. THus far the description and construction of this Instrument; the use
+follows, which consists in Numeration and Application.
+
+II. Numeration upon the Table teaches how to find out numbers, and discover
+distances thereupon; and it is performed either upon the Scale of Numbers, or
+upon the Alphabets and Transversals.
+
+III. Numeration upon the Scale of Numbers is to find thereupon any number
+propounded, or any point thereof being assigned, to discover the figures or
+number represented at that point.
+
+IV. If a number consisting of five places or more be given, to find the point
+upon the Table, where that number is represented; proceed thus: First, find
+amongst the numbers placed at the left ends of the Fractions the three first
+figures of the number given, or if you cannot find the three figures exactly,
+take that number amongst them, which being less, comes nearest unto them; this
+done, upon that Fraction make search for the Hundred, which begins with those
+three first figures of the number propounded, and for the fourth figure count
+so many Tenths of that hundred, and for the fifth figure so many units of the
+tenth last taken; all this performed, that place is the point, at which the
+number propounded is represented.
+
+Example. let 11422 be the number given to be found upon the Scale of Numbers;
+here 114, the three first figures thereof are found at the left end of the
+third Fraction, which leads me to the first hundred of that Fraction, signed by
+the same figures; then for 2, the fourth figure of the number given, I count 2
+tenths from the beginning of that hundred, which brought me to the second tenth
+of that hundred: and for 2, the last figure of the number given, I count 2
+units of the tenth last taken, which leads me to the point of the Scale of
+Numbers placed just above the letter q, which point is the place where the
+number propounded is represented upon the same Scale: so likewise, if the
+number given did consist of more places than five, it would be represented at
+the same point, as 11422004500, or 1142212974 are also there represented: But
+if the number given were 32292, because I cannot find exactly the three first
+figures thereof at the left ends of the Fractions, as before, I take 317, which
+being less, comes nearest unto them, and guides me to the 19 Fraction upon
+which finding the three first figures of the number given at the sixth hundred
+thereof, I take those three figures to be there represented, and proceeding, as
+before, I find the last number given to be represented upon that 19 Fraction
+at the point placed just above the letter g. Again, if the number propounded
+were 32205, you shall find it represented upon the same 19 Fraction just above
+the letter y, for (in this case) there being a cipher in the place of tenths,
+no tenth is to be taken in the discovery of that or the like number upon the
+Scale.
+
+V. If a number consisting of four places, or (over and besides the four
+places) having a cipher in the fifth place, be propounded, it may be discovered
+upon the Scale in like manner as the first four figures are found out by the
+last Rule: So if 1142, or 114200000 were given, they would be both represented
+upon the third Fraction at the second tenth of the first hundred, as before,
+and if 32290000 or 322905321 were given they would be found upon the 19
+Fraction at the ninth tenth of the sixth hundred of that Fraction.
+
+VI. If a number consisting of three places, or (besides the three places)
+having ciphers in the fourth and fifth places thereof, were propounded, it is
+represented at the hundred, signed by the same three figures: So 114, or 11400,
+or 11400000 or 114005321 are all-represented at the first hundred upon the
+third Fraction; and 322, or 322000, or 32200273 are found at the sixth hundred
+of the 19 Fraction.
+
+VII. If a number consisting of two places, or (besides the two places) having
+ciphers in the third, fourth, or fifth places thereof were propounded, it is
+represented at the hundred, which has those two figures and a cipher annexed
+unto them: So if 13, or 13000, or 130000, or 1300000, or 13000734 were given,
+they are all represented at the first hundred of the fifth Fraction.
+
+VIII. If a number of one figure or place, or (besides that one place) having
+ciphers in the second, third, fourth, or fifth places thereof, were given, it
+would be represented at the hundred, which is signed by that one figure, and
+two ciphers annexed unto it: So if 1, or 10, or 100 or 1000, or 10000, or
+100000, or 10000426, etc. were assigned, they would be all represented at the
+beginning of the Scale, signed by 100: so likewise if 3, or 30, or 300, or
+3000, or 30000, or 300000, or 30000342 were propounded, they would be found at
+the fourth hundred of the 19 Fraction, etc.
+
+IX. When the number propounded is mixed, reduce the broken part thereof to a
+Decimall Fraction, and then find the whole upon the Scale, as if it were a
+whole number: So 5 3/4 being given, and the broken part thereof ( viz. 3/4)
+reduced to a decimall, viz. 75; the entire number given after such reduction
+will be found 5.75, which is represented at the 13 hundred of the 28 Fraction:
+In like manner, 12 l. 13 s. 5 d. being propounded, and 13 s. 5 d. (the broken
+part thereof) reduced to the Decimall 6708, that entire number will stand thus,
+12.6708, which is represented at the seventh tenth of the fifth hundred of the
+fourth Fraction.
+
+The great use and benefit of reducing ordinary broken numbers to Decimals is
+now so commonly known to most Artists, that I conceive it not necessary here to
+insist long thereupon: Only I will here insert certain Tabular Scales, which
+may serve for the ready reduction of compound Fractions ( viz. of Money,
+Weight, Measure, and Time, which usually incumber the Practitioner) to Decimals.
+
+Upon these Tabular Scales you shall find the compound Fractions described in
+the upper Scales thereof, and in the lower their respective Decimals; the first
+of them (being broken into ten equal parts or Fractions) reduces the
+Fractions of Money and Troy-weight, the Integers thereof being a pound sterling
+for Money, and an ounce Troy for Troy-weight: The second (broken off into two
+Fractions only) reduces Avoirdupoiz Great weight: The third Avoirdupoiz
+Little weight, and all other measures or weights, which divide themselves into
+halves, quarters, etc. And the fourth is made for the reduction of Time,
+Dozens, and Inches: so upon the first Tabular Scale the Decimall of 8 s. 3 d. 3
+q. is.4156, and the Decimall of nine penny weight and seven grains is.4646. Also
+upon the second, the Decimall of 3 quarters of C. 8 lb. and 7 ounces is.825.
+The like reduction may also be made upon the other two Tabular Scales,
+according to their several and respective divisions. Howbeit, if you please
+yet to have a more compendious way for the reduction of the Fractions of Money
+and Troy-weight, you may do it by the first of the double Scales, drawn at the
+left end of the Table of Proportion, by which pence and farthings (for money)
+and grains and half grains (for Troy-weight) may be readily reduced; there
+being no great difficulty in reducing shillings and peny-weights to Decimals,
+as is well known to all such as are competently acquainted with the nature of
+Fractions. The other little Scales there also placed (being for Avoirdupoiz
+weight and Time) give you the Decimall of one quarter, which is to be added to
+the Decimals of one quarter ( viz. 25) or of two quarters ( viz. 50) or of
+three quarters ( viz. 75) as the question may be propounded.
+
+X. When the term propounded is a Fraction or broken number, convert it to a
+Decimall, and then find it upon the Scale of Numbers, as if it were a whole
+number: So 1/4 or 25 is found at the fixed hundred of the 15 Fraction, and 8 s.
+3 d. 3 q. or 4156 at the sixth tenth of the seventh hundred of the 23 Fraction.
+
+XI. When a point upon the Scale of Numbers is assigned, to find out the
+number represented by that point, invert the rules aforegoing, and so shall you
+discover the number or figures you look for. So if the point q were given upon
+the third Fraction, the number or figures represented by it will be found
+11422: Also if the point g were assigned upon the 19 Fraction, the number or
+figures represented by it are 32292, as appears by the two examples of the
+fourth Rule aforegoing. The like also may be said of all the other examples
+above in this Chapter produced.
+
+CHAP. III. Numeration upon the Alphabets and Transversals.
+I. Numeration upon the Alphabets and Transversals, teaches how to discover
+distances betwixt points or terms assigned thereupon.
+
+II. Three letters in either rank of Alphabets being propounded, to find a
+fourth, which shall bear like distance from the third, that the second bears
+from the first; proceed thus, Count the entire Alphabets and Letters, which are
+intercepted betwixt the letters of the first and second terms, then from the
+letter of the third term account as many entire Alphabets and Letters the same
+way; that done, the letter placed next beyond the last letter so accounted, is
+the letter required.
+
+Example. In the top-rank of Alphabets let E in the first Alphabet, A in the
+third, and B in the fourth be given: In this case I place three pointed
+Chessemen in the Chief Transversal, viz. one under E, another under A, and a
+third under B; This done, and I finding one Alphabet and one letter betwixt the
+two first terms E and A, and accounting the like from B in the fourth Alphabet
+toward the right hand, at last I fall upon D in the fifth Alphabet, which is
+the letter required, where I also place another pointed Chesseman: So if C in
+the third Alphabet, D in the fifth, and B in the sixth be propounded, C in the
+second Alphabet will be the fourth term you look for, according to the 16 rule
+of the first Chapter. Again, if F in the fifth Alphabet, C in the third, and D
+in the first be given: In this case, working toward the left hand, the fourth
+term will be A in the fifth Alphabet: likewise if B in the third Alphabet be the
+first term, D in the first be the second, and C in the fourth be the third
+term, the fourth term will be E in the second Alphabet, etc. After the same
+manner, in the side-rank of Alphabets three letters being given, a fourth may
+be discovered by this Rule and the 19 Rule of the first Chapter, which being
+plain, I omit to exemplify: And in all these Cases and the like, it mattereth
+not whether you account the Alphabets and letters from the first term to the
+second, or to the third; as in the last example, if I account an Alphabet from
+the first term to the third toward the right hand, and then the like from the
+second term the same way, the fourth term will then also fall at E in the
+second Alphabet, as before: The like experiment you shall also find in the
+side-rank, etc. In like manner, if two letters were given, and it be desired to
+find a third, which may bear like distance from the second that the second
+bears from the first; In this case also count as many letters from the second
+toward the third, as you find intercepted betwixt the first and the second,
+and so shall you likewise have your desire. For example, if E in the first
+Alphabet, and A in the third were given, the third letter will fall to be C in
+the fourth Alphabet, etc. The like experiment may be also acted upon the side
+rank, as may plainly appear without further instruction.
+
+III. When three points are assigned upon the Chief transversal, to find out a
+fourth, which may bear the like distance from the third, that the second bears
+from the first, proceed thus; Having placed (as before) a Chesseman at each of
+the points given, and (by the Rule aforegoing) found the letter under which the
+fourth term is likely to fall, and there also placed another Chesseman, as
+before; draw back that last Chesseman quite through the last letter so counted,
+and place it upon the perpendicular, where that last letter begins; this done,
+observe how many entire digits are comprehended betwixt the first given point,
+and the next perpendicular toward the second point, as also how many such
+digits are contained betwixt the second given point, and the next perpendicular
+toward the first given point, and to these add the entire digits that are
+found betwixt the third given point, and the next perpendicular toward the
+same hand, according to which the digits of the second point were taken off.
+All this performed, if you add all these three numbers of digits together, and
+according to that aggregate advance the last Chesseman forward again, and
+proceed in like manner with the Minimes, as before with the digits, advancing
+also that Chesseman forward, according to the aggregate of the Minimes, over
+and above the digits so found, you will at last fall upon the fourth point
+required.
+
+Example, Admit the first point or term to be given at four digits, and four
+Minimes of the third letter in the first Alphabet (being C) viz. at a; the
+second at four digits and four Minimes of the last letter in the second
+Alphabet (being F) viz. at b; and the third at four digits and four Minimes of
+the third letter in the fourth Alphabet (being C) viz. at c, and let it be
+desired to find a fourth point, which shall bear like distance from c, that b
+bears from a. Here, by the rule aforegoing, I find F in the fifth Alphabet to
+be the letter where the Chesseman of the term inquired will rest, and therefore
+(according to this Rule) draw it back and set it upon the 29 perpendicular,,
+viz. at the beginning of the last of the entire letters intercepted: This done,
+I observe one entire digit betwizt the point a, and the nezt perpendicular
+toward b, signed by 4, and four digits betwixt b, and the next perpendicular
+toward a, signed by 12, these being added together make five, unto which I
+also add four for the number of entire digits contained betwixt c, and the
+perpendicular signed by 21, all rhese added together make nine, according to
+which I advance the Chesman of the fourth point or term (from the perpendicular
+29, where I last placed it) to the letter e, to the end there may be nine
+entire digits comprehended betwixt it and the place from whence I took it:
+Lastly, having observed two minimes at a, four minimes at b, and four likewise
+at c, and added them together, their sum is ten, according to which I yet
+again advance the fourth Chesseman ten minimes forward, and so at last the
+point or term required will be found to reside at the point d; so likewise, if
+d were the first term, c the second, and b the third, the fourth term would
+fall at a; also if b were the first, c the second, and d the third, the fourth
+term would then also fall at a, by going beyond the line, according to the 16
+Rule of the first Chapter before-cited. Again, if c were the first, b the
+second, and a the third, the fourth term would be found at d, etc. And here
+note, that the demonstration of this Rule may be produced from the nature and
+properties of Arithmeticall proportion, which (for brevitie sake) I leave to
+the further scrutinie of the Practitioner: In some cases also the first and
+second terms will fall out to be so near together, that you may easily
+discover the like distance betwixt the third and fourth terms upon view,
+without any farther trouble.
+
+IV. What has been here (by the two last Rules) practiced upon the top-rank of
+Alphabets (with the Transversals, Digits and Minimes thereunto belonging) may
+be likewise performed by the Alphabets repeated through the body of the Table,
+and their respective Transversals, Digits and Minimes placed under the
+Fractions: And that, albeit the terms or points given are propounded upon
+several Transversals; so as the Transversall, upon which the fourth term will
+fall, be also assigned.
+
+Example. Let the first term be given upon the transversal of the fifth Fraction
+at four digits and four minimes of the third Interval, signed by C, viz. at the
+point f, and the second term upon the transversal of the 19 Fraction at four
+digits and four minimes of the twelfth Interval, signed by F, viz. at the point
+g. And the third upon the transversal of the 10 Fraction at four digits and
+four minimes of the 21 Interval, signed by C, viz. at the point h, and let the
+demand be to find a 4th. point upon the transversal of the 24 Fraction, which
+may bear such like distance from the third point given, as the second bears
+from the first.
+
+Here first of all, having placed at each of the terms given a pointed
+Chessman, I find (as in the first example of the last Rule) eight Intervals,
+(or rather one Alphabet and two letters) to be intercepted betwixt the first
+and second terms, and therefore accounting as many (toward the same hand)
+from the third term, I find the fourth term to be likely to fall upon the
+Transversal of the said 24 Fraction in the 30 Interval, signed by F; where
+having placed another pointed Chesseman, I bring it back to the beginning of
+the last accounted letter, and then proceeding with the digits and Minimes of
+the terms propounded, and advancing that fourth Chesseman accordingly (as in
+the first example of the last Rule) at last I discover the fourth term required
+to fall upon the Transversal of the 24 Fraction at 4 digits and 4 Minimes of
+the said 30 Interval, viz. at the point k; so likewise if k were the first
+term, h the second, and g the third (working toward the left hand) f would be
+found to be the fourth, etc.
+
+V. Having three points given upon three several transversals, to discover the
+transversall upon which the fourth term will fall, and also the point of that
+transversall, where that fourth term will bear like distance from the third
+point, that the second bears from the first: Observe this direction, having
+placed (as before) three Chessemen at the three given points, place likewise
+three other plain Chessemen upon the side rank of Alphabets, at the right ends
+of the fractions or Transversals, whereupon the points given are situate
+respectively: This done (by the second Rule of this Chapter) find upon the said
+side-rank a fourth term to the three given, which will lead you to the
+Transversal upon which the fourth term required is to be found; then
+proceeding, according to the directions of the last Rule, you will discover the
+fourth point or term you look for.
+
+Example. If f, g, and h, (the points of the first example of the last Rule) be
+given, viz. upon the 5, 19, and 10 Fractions, as before; In this Case, I place
+a plain Chesseman at the right end of the fifth Fraction, another at the same
+end of the tenth Fraction, and a third at the like end of the nineteenth
+Fraction, and (in working downwards) discover upon that side-rank of Alphabets
+(by the second Rule of this Chapter) a fourth term correspondent to the other
+three given terms, which fourth term leads me to the 24 Fraction and
+transversal, upon which the fourth term in question is situate. And therefore
+proceeding thereupon, as in the first example of the last Rule, you will find
+the fourth term required (in this example) to fall upon the transversal of that
+24 Fraction, at four digits and four minimes of the 30 Interval, viz. at the
+point k, as before. In like manner, if k were the first term, h the second, and
+g the third, (in mounting upwards upon the side rank, and proceeding upon the
+Table toward the left hand, as I did before toward the right) the fourth term
+will (in that case) be found to fall upon the transversal of the fifth Fraction
+at four digits and four minimes of the third Interval signed by C, viz. at the
+point f. So if g be the first term, h the second, and k the third (the Fraction
+or transversal of the fourth term being found upon the side rank, and I guiding
+my work upon the Table toward the right hand) the fourth term will fall upon
+the transversal of the 15 Fraction at 4 digits and 4 minimes of the 3 Interval,
+signed by C, viz. at the point l, Howbeit you are not to take that for the true
+point, but (because in that case you go beyond the Table toward the right
+hand, and for that the right end of the 15 Fraction is conceived to join with
+the left end of the 16 Fraction, according to the directions of the 9, 16, and
+25 Rules of the first Chapter) you are to take 4 digits and 4 minimes of the
+transversal next under it in the same Interval, and so the true point required
+will be (in that case) found to reside upon the transversal of the 16 Fraction
+at 4 digits and 4 minimes of the said third Interval, viz. at the point m. In
+like manner, if the three terms propounded, were h, g, and f, and a fourth
+term be required answerable unto them: In that case (the proper Fraction or
+Transversal of that 4th term being discovered upon the side rank, and I
+proceeding toward the left hand) the 4th term will fall upon the Transversal
+of the 14 Fraction at 4 digits and 4 Minimes, of the 30 Interval, viz. at the
+point n. Howbeit (as in the last aforegoing example) you are not to take that
+for the true point; but in that case (because you go beyond the Table toward
+the left hand, and for that the left end of the 14 Fraction is conceived to
+join with the right end of the 13 Fraction, according to the said 9, 16, and 25
+Rules of the first Chapter) you are (instead thereof) to take 4 digits and 4
+Minimes of the transversal next above it in the same interval, and so true
+point required will be found to rest upon the transversal of the 13 Fraction at
+4 digits and 4 minimes of the said 30 Interval, viz. at the point p. And here,
+give me leave (once for all) to insert this direction, that in the motion of a
+Chesseman upon the Table, when you are constrained to over-shoot the table
+either on the right or left hand, take the Fraction next to it, either above or
+below it, viz. if on the right hand, then the Fraction below it, but if on the
+left hand, then that above it, as in the two last premised examples you find
+it practiced.
+
+Again, if f be the first term, g the second, and k the third, the fourth term
+will fall upon the third Fraction at 4 digits and 4 minimes of the third
+Interval, viz. at the point q; and in that case you do not only fall off at
+the lower end of the side-rank, taking it again at the top, but likewise
+overshoot the table upon the right hand, and take it again upon the left, and
+(in that respect) take not the fraction whereunto you are directed by the
+fourth term found in the side-rank, but take the next under it: On the other
+side, if k were the first term, h the second, and f the third, the fourth term
+will reside upon the 27 Fraction at 4 digits and 4 minimes of the 30 Interval,
+viz. at the point r. And (in that case also) you do not only mount off at the
+top of the side rank, taking it again at the lower end, but likewise over-shoot
+the Table upon the left hand, and take it again upon the right, and (in that
+regard also) take not the Fraction, unto which you are directed by the fourth
+term found in the side rank, but take the next above it, according to the
+direction of the afore-going examples.
+
+VI. After the same manner may you also discover a third term to two terms
+propounded, save only, that (in regard the second term does in a sort in that
+case represent the two middle terms) you are to double the digits and minimes
+of the second term, and then add them to the digits and minimes of the first
+term, to the end, you may understand by that sum how far to advance the
+Chesseman of the last term.
+
+For example. Let f be the first term, and g the second, and let a third term
+be desired, here (Chessemen being placed at the terms given, and likewise upon
+the side rank at the ends of the Fractions, upon which they are respectively
+situate) I find the third term to fall upon the 33 Fraction; and then
+observing eight Letters or Intervals to be intercepted betwixt the first and
+second terms, accounting as many from the second toward the third, I find the
+Chesseman of the third term to be likely to fall upon the said thirty third
+Fraction in the one and twentieth Interval, signed by C, and therefore draw
+that Chesseman back to the twenty perpendicular upon the same thirty third
+Fraction: this done, and I observing one digit at the first term, and four at
+the second, I double those four, and add them to the one, all which amounting
+to nine, I advance the Chesseman of the last term accordingly, setting it in
+the middle of the one and twentieth Interval; then finding also at the first
+term two minimes, and four at the second, I likewise double the four, and add
+them to the 2, all which amount to 10, according to which sum I advance the
+Chesseman of the third term ten minimes farther, and so at last I find the
+said third term to fix upon the 33 Fraction at four digits and four minimes of
+the 21 Interval, which is the term required. And if at any time in working
+questions of this kind you happen to descend below, or ascend above the
+side-rank, or otherwise overshoot the table either on the right hand, or left,
+you are (in such cases) to use the Rules aforegoing, but still doubling the
+digits and minimes of the second term, as in the premised example. In like
+manner may you also (if you please) discover a fourth term to those three
+known, and so (consequently) a fifth, sixth, seventh, etc. in infinitum.
+
+VII. A point upon any one of the transversals being given, to find half the
+distance betwixt that point, and the beginning or left end of that transversal;
+follow this direction: Take half the Alphabets, half the letters, half the
+digits, and half the minimes intercepted betwixt the beginning of that line and
+the point given, and so shall you have your desire. So if the point c upon the
+chief transversal were propounded, half the distance betwixt the beginning or
+left end thereof, and that point will be found at two digits and two minimes,
+of the letter E in the second Alphabet, viz. at the point S, for, in this case,
+there being three Alphabets and two letters intercepted betwixt the beginning
+of that traversal, and the letter wherein the point given is situate, I take
+one Alphabet and three letters for the three Alphabets, and one letter more for
+the two odd letters; then for the four digits I take two digits, and for the
+four minimes, two minimes; all which being accounted from the beginning of that
+transversal will fall at S, the point required: the same may likewise be acted
+upon any of the repeated Alphabets and transversals in the body of the table.
+
+VIII. Upon any one of the Transversals, to discover the third part of the
+distance betwixt the beginning or left end thereof, and any point thereupon
+propounded: this is the Rule; Take the third part of the distance in Alphabets,
+letters, digits, and minimes, and so shall you attain the point or term
+required. So the point c upon the chief transversal being again propounded, the
+point t will be third part of the distance inquired. For in liew of the three
+Alphabets I take one; for the third part of the two odd letters, I take four
+digits; for the four other digits I take one digit and two minimes. And for the
+four last minines I take one minime and somewhat more, by which means t will
+be found at last the point songht for: Thus likewise you may be practiced upon
+the repeated Alphabets and transversals.
+
+IX. A Fraction of the Scale of Numbers being given, to find upon the side
+rank of Alphabets the half distance betwixt it, and the first Fraction
+(including the first Fraction for one) proceed in this mnnnner; first, having
+placed a plain Chesseman (without a point) at the right end of the Fraction
+given, observe whether the number of the Fraction next above it b^ even or
+odd; if even, then take half the sum thereof, and place another plain
+Chesseman at the right end of the Fraction next under that half sum: but if
+the number be odd, neglecting the odd Fraction, proceed with the even number,
+as before, nnd so you shall accomplish your desire.
+
+Example. Let the Fraction signed at the right end thereof by 21 be given, and
+let the half distance betwixt it and the first Fraction be demanded. Here, the
+number above it is 20, whereof the half is 10; wherefore I taking a Chesseman,
+place it at the right end of the Fraction, signed by 11, which is the half
+distance demanded. And if the 22 Fraction were propounded, the half distance
+would still remain the same: Howbeit (in that case) the odd Fraction signed by
+21, would remain over and besides the two moities, which nevertheless will
+produce no error in the use of the table, as shall appear hereafter.
+
+X. A Fraction of the Scale of Numbers being propounded, to discover upon the
+side-rank of Alphabets the third part of the distance betwixt it and the first
+Fraction (including the first Fraction for one) use this Rule; Having placed a
+Chesseman at the right end of the Fraction given, as before, observe whether
+the number of the Fraction placed next above it may be divided into three even
+parts; if so, then take the third part thereof, and place another Chesseman at
+the right end of the Fraction next under that third part: but if that number
+will not admit such an equal division, then neglecting the odd Fraction or
+Fractions so remaining, proceed with the numbers, which do so equally divide
+themselves, as before, and so you shall discover the third part you look for.
+
+Example. Let the 22 Fraction be given, and the third part of the distances
+required: Here, the number next above it is 21, whereof the third part is 7;
+wherefore finding 7 amongst the numbers placed at the right ends of the
+Fractions, I place another Chessman at the right end of the eighth Fraction,
+which denotes the third part required: Howbeit the 23 Fraction being given, an
+odd Fraction will remain over and above the number, which so equally divides
+it self into three parrs, as aforesaid, and if the 24 Fraction were propounded,
+two such odd Fractions would remain; which (nevertheless) causes no
+inconvenience in the practice of this Instruments, as shall be manifested in
+the proper place.
+
+CHAP. IV. The Application of the Rule of Proportion.
+WE have done with Numeration, Application infues, which teaches the use of
+this Instrument for the easy and ready resolution of diverse Propositions in
+Arithmetic and Geometry, as follows;
+
+Prop. 1. To three numbers given, to find a fourn in a direct proportion.
+This is termed the Rule of Three (or more usually) the Golden Rule because it
+is of greatest use in Arithmetic and Geometry: For the performance thereof
+observe these ensuing directions.
+
+By the Instructions delivered in the second Chapter aforegoing find the
+numbers given upon the Scale of Numbers, setting at each of them a pointed
+Chesseman, as also three other plain Chessemen upon the side rank of Alphabets
+at the left ends of their respective Fractions; This done, if by the fourth and
+fifth Rules of the last Chapter you will discover a fourth term to the three
+terms propounded, you shall there find the number you look for.
+
+Example. If 12980 (represented upon the fifth Fraction at the point f) be the
+first term given, 32192 (represented upon the nineteenth Fraction at the point
+g) the second, and 18452 (represented upon the tenth Fraction at the point h)
+the third, the fourth term (by the fourth and fifth Rules of the last Chapter)
+will tall upon the four and twentieth Fraction at the the point k, (by the last
+Rule of the second Chapter) gives you the number 45907, the fourth proportional
+required: so if 45907 were given for the first term, 18452 for the second, and
+32292 for the third (in working upwards upon the side-rank, and toward the
+left hand upon the table) the fourth term will be found to rest upon the fifth
+Fraction at the point f, representing 12980, as before.
+
+In like manner, if g ( viz. 32292) were the first term given, h ( viz. 18452)
+the second, and k ( viz. 45907) the third, the fourth term would fall upon the
+15 Fraction at the point l, but (because in that case you go beyond the table
+toward the right hand) you are to take instead thereof (according to the
+direction given in the third example of the fifth Rule of the last Chapter) the
+point m upon the 16 Fraction, which represents 26231, the fourth proportional
+required: so likewise if h (representing 18452) be the first term, g
+(representing 32292) the second, and f (representing 12980) the third, the
+fourth term will reside upon the 14 Fraction at four digits and four minimes of
+the 30 Interval, viz. at the point n. Howbeit, in this case also you are not
+take that point, but (because you overshot the Table upon the left hand) you
+are (instead thereof) to take the digits and minimes of the Fraction next above
+it in the same Interval, viz. the point p, upon the 13 Fraction, which
+represents 22715, the fourth proportional required, according to the fourth
+example of the said fifth Rule of the last Chapter.
+
+Again, if f ( viz. 12980) be the first term, g ( viz. 32292) the second, and k
+( viz. 45707) the third. In this case the fourth term will (according to the
+fifth example of the fifth Rule of the last Chapter) at last reside upon the
+third Fraction at four digits and four minimes of the third Interval, viz. at
+the point q, which (by the fourth Rule of the second Chapter) represents 11422,
+the fourth proportional sought for: On the other side, if k ( viz. 45907) were
+the first term, h ( viz. 18452) the second, and f ( viz. 12980) the third, the
+fourth term will (according to the last example of the said fifth Rule of the
+last Chapter) at last fall upon the 27 Fraction at four digits and four minimes
+of the 30 Interval, viz. at the point r, which represents these figures 52169:
+Howbeit, because common sense tells me, that the fourth term to the other three
+last given terms cannot be so great, nor yet so little as 521.69; therefore I
+conclude the term required to be (in this case) 5216.9, or 5217, fere.
+
+If a Chest of Sugar, that weighs 7 C. 2 qu. and 17 lb. cost 36 l. 14 s. 10 d.
+what is the price of 2 C, 1 q, and 4 lib. thereof according to the same rate?
+Here (after the reduction of the broken parts of the number given into
+Decimals) the first term is 7.6518, the second, 36.7417, and the third, 2.2857,
+with which three terms, working upon the Table, according to the precepts
+before premised, I find the fourth term to be fixed upon the second Fraction at
+two digits and two minimes of the 17 Interval, which point yields me these
+figures ^0975, whereof I take the two fi^^^, ( viz. 1^) for 10 l. and the other
+three for a decimal Fraction of a pound Sterling, which (after Reduction)
+amounts to 19 s. 6 d. And therefore I conclude that 2 C. 1 qu. and 4 lb. of
+that Sugar is worth 10 l. 19 s. 6 d. which was the term required; for when I
+have those five figures given me upon the Table for the fourth term, common
+reason tells me, they cannot signify 109.75, for that were too great, nor
+1.0975, for that were too little, and therefore (in this case) I take 10.975, (
+viz. 10 l. 19 s. 6 d.) being the fourth term sought for. Now from this example,
+and the rest before premised, for the ready working of the digits and minimes
+of the three terms propounded, this general Rule, or Corollary may be
+inferred.
+
+In all questions that may be performed by the Golden Rule, the digits and
+minimes to be taken off from the first term are always so taken off from that
+side of the first term which inclines toward the second term, and then the
+digits and minimes of the other two terms are always taken off upon the
+contrary side to those of the first term; as is manifest by all the examples
+aforegoing, which Rule being always duly observed, you may with greater
+confidence proceed to resolve any question propounded. And because this
+Corollary is always to be kept in memory, I have expressed it in this Distick,
+
+Aurata in Regula bis laeva aut dextra petatur,
+Dum contragreditur Terminus ips^ prior.
+Thus Englished:
+
+For the Rule of Three each hand may be pursued two times,
+Whiles that the foremost term against them always climes.
+Prop. 2. To three numbers given, to find a four^^ in an inversed proportion.
+This Rule of Three Inverse is the same with that of the Rule of Three direct,
+if instead of the first term you take the third term given to be the first in
+the question, by transposing the last into the place of the first.
+
+Example. If when the price of wheat is 40 shillings the quarter, a penny white
+loaf weighs 8 ounces, and 9 peny-weight; how much ought a penny white loaf to
+weigh, when wheat is at 23 shillings, six pence the quarter? Here the terms
+given are, viz. 40 the first, 8.45 (after Reduction) the second, and 23.5 the
+third, which, as they are propounded in the question, stand in this form; 40 --
+8.45 -- 23.5
+
+But being inverted, stand thus; 23.5 -- 8.45 -- 40
+
+Unto which three, having (by the directions aforegoing) made search (upon the
+Table) for a fourth proportional, you shall find it to fall upon the sixth
+Fraction at three digits and three minimes of the 25 Interval, which point
+affords you these Figures 14.383, which (after Reduction) amount to 14 ounc. 7
+peny-weight, 16 grains, being the term required; for so much a penny white loaf
+ought to weigh (according to the abovesaid rate) when wheat is sold for 23 s. 6
+d. the quarter.
+
+Prop. 3. One number being given to be multiplied by another given number, to
+find the product.
+In multiplication there are four terms Geometrically proportional, whereof
+the first is always an unity, or 1, the multiplicator and multiplicand are the
+two means, and the product is the fourth term demanded; for, as 1 is to the
+multiplicand; so is the multiplicator, to the product: or, as 1 is to the
+multiplicator, so is the multiplicand, to the product. Now an unity or 1 being
+always represented at the beginning of the Scale of numbers (as appears by the
+eighth Rule of the second Chapter) you need not there place a pointed Chesseman
+to denote it (being notorious of it self) but only where the multiplicand or
+multiplicator are found upon the said Scale: when therefore any such
+proposition (as that above) is made, placing one pointed Chesseman upon the
+Multiplicator, and another upon the Multiplicand, as also two plain Chessemen
+upon the side rank at the right ends of their respective Fractious, and taking
+the beginning of the line to be always the first term in the question, by the
+directions given in the first proposition of this Chapter, find out a fourth
+term to those three terms propounded, which done, that fourth term is the
+product you look for.
+
+Example. 287 being given to be multiplied by 139, the three terms given are,
+1 -- 139 -- 287
+
+Unto which, if a fourth be sought for, by the instructions delivered in the
+first Proposition of this Chapter, it will be found upon the 22 Fraction at
+four digits and three minimes of the 23 Interval, which point gives you these
+figures 39893, the product required.
+
+What is a wedge of gold worth, that weighs 4 ounces, 6 peny-weight, and 15
+grains, at 3 l. 3 s. 2 d. the ounce? Here the weight of the wedge (after
+Reduction) is 4.3315, and the rate of an ounce is 3.1582; and therefore the
+terms given are, 1 -- 4.3315 -- 3.1582 --
+
+Whose fourth term I discover to fall upon the sixth Fraction at two digits and
+one minime of the 33 Interval, which gives me these figures 1368, whereof I
+take the two first for pounds Sterling, and the other two for the decimal
+Fraction of a pound Sterling, which (after Reduction) amounts to 13 s. 7 d. and
+somewhat more; for common-reason dictates to me, that it cannot be 136 l. nor
+so little as 1 l. and therefore I conclude the product to be 13 l. 13 s. 7 d.
+as before, being the value of the 4 ounc. 6 penny w. and 15 grains, the term
+required. In Multiplication observe these Rules.
+
+In performing Multiplication you always operate upon the Table toward the
+right hand, and upon the side-rank of Alphabets always downwards: for an unity
+or 1 being always the first term, you always begin the account of the
+Alphabets and Letters comprehended betwixt 1, and the term placed next to it,
+from the left side of the Table, which will always tend toward the right
+hand, and then (by consequence) in laying down the like distance betwixt the
+other term and the product, you are to proceed the same way, viz. toward the
+right hand; for the like reason it is, that you are always to work downwards
+upon the side-rank, because there also you are to begin your account from the
+first Fraction, being that, whereupon 1 (the first term) is represented: All
+which plainly appears by the premised examples.
+
+The digits and minimes which are to be taken off from the points of the terms
+given, are always so to be taken off upon the left hand, and never upon the
+right. Here, by the terms given are intended only the Multiplicand and
+Multiplicator; for, the first term ( viz. 1) has no digits or minimes
+attending it, being represented upon the first perpendicular at the beginning
+of the Scale of Numbers; but the Multiplicand and Multiplicator may have digits
+and minimes attending them, which are always to be taken off upon the left
+hand, according to the direction of this Rule, and as is manifest by the
+examples aforegoing.
+
+Prop. 4. One number being given to be divided by another given number, to
+find the Quotient.
+As in Multiplication, so in Division there are four terms Geomettically
+proportional; whereof the Divisor is always the first, an unity or 1, and the
+Dividend the two mean terms, and the Quotient is the fourth term required: for,
+as the Divisor is to 1, so is the Dividend, to the Quotient; or as the Divisor,
+is to the Dividend; so is 1, to the Quotient: and here (as in multiplication)
+an unity or 1 being always one of the terms you need not thereat place a
+pointed Chesseman to denote it; but only where the Divisor and Dividend are
+found upon the Scale, as also two plain Chessemen upon the side rank at the
+right ends of their respective Fractions; and then taking the Divisor to be
+always the first term in the question, by the directions given in the first
+Proposition of this Chapter, find out a fourth term to those three terms
+propounded; which done, that fourth term is the Quotient required.
+
+Example. 39893 being given to be divided by 287, the three terms given are,
+287 -- 1 -- 39893 --
+
+Or, 287 -- 39893 -- 1 --
+
+Unto which if a fourth term be found out by the instructions given in the said
+first Proposition of this Chapter, it will be found at the second Hundred of
+the sixth Fraction, which gives this number 139, for the quotient required: so
+likewise if 3989348 were given to be divided by 287, the first three figures of
+the quotient would be found 139, as before, but (in that case) you are to annex
+unto them two ciphers, to make the quotient consist of five places; for that
+(in this question) the divisor may be written under the dividend five times, as
+appears by the posture of the numbers hereunto annexed. 3 9 8 9 3 4 8 2 8 7....
+
+And therefore (in that case) the quotient required will be 13900; which case,
+with diverse others (as they happen) the Artist (after he perfectly understands,
+by practice, the nature of this Instrument) will be well able (by discretion)
+to order, as occasion shall serve.
+
+If a Pipe of wine (containing 126 Gallons) cost 25 l. 14 s. 5 d. what is the
+price of a Gallon thereof, according to the same rate? Here the terms in the
+question (after Reduction) are, 126 -- 25.721 -- 1 --
+
+For (in this case) the question is, if 126 Gallons give 25.721, how much will
+one Gallon yield? wherefore proceeding, according to the directions aforegoing,
+I find the fourth term to reside upon the 12 Fraction at three digits and five
+minimes of the fifth Interval, where I find these Figures represented, viz.
+20377, which (in reason) I conceive to be a decimal Fraction of a pound
+Sterling, and (after reduction thereof) discover it to represent 4 s. 1 d. and
+so much is the value of every Gallon in the Pipe, and the Quotient required. In
+Division, for taking off the digits and minimes observe this Rule.
+
+When the digits and minimes are taken off from the right hand of the Divisor,
+take the digits and minimes placed on the left hand of the Dividend; and when
+on the left hand of the Divisor, take them from the right hand of the Dividend.
+For the ready discovery and taking off the digits and minimes in Multiplication
+and Division, let this Hexameter be remembered.
+
+Multiplica laeve, sed divide dextrifinistre.
+Multiply by the right hand, with both the hands divide.
+Prop. 5. Two numbers being given, to find a third Geometrically proportional
+unto them, and to three a fourth, and to four a fifth, etc.
+This Proposition may be resolved by the directions given in the fixed Rule of
+the last Chapter; for, having two terms given, and placing Chessemen upon
+them, as also at the right ends of their respective Fractions, as in the
+aforegoing Propositions, if you (by the said sixth Rule) find a third term to
+the two other given terms, that third is the term you look for.
+
+Example. If 2 and 4 be the two terms given, a third proportional unto them (by
+the fixed Rule of the last Chapter) will be found upon the 33 Fraction at two
+digits and two minimes of the 19 Interval, which point represents 8, the third
+term required: In like manner, you may proceed to find a fourth term to those
+three, which will be 16, and a fifth to those 4 terms found, which will be 32,
+etc. And so you may (by this means) erect a rank of numbers Geometrically
+proportional, which in Arithmetic is called Geometrical Progression.
+
+Prop. 6. To extract the Square root of any number under 10000000000.
+FIrst, prepare the Square-number given for extraction (as in Vulgar
+Arithmetic) by subscribing a point under each other figure, beginning with the
+last first: so these numbers following being given for extraction, and
+prepared, as aforesaid, will stand thus, 3 2 8 1 5 3 2 2 5..... 1 4 5 2 7 5 3 2
+2 5.....
+
+And so many points as are in that manner subscribed, of so many figures will
+the root consist, viz. in these examples of five figures.
+
+Place a pointed Chesseman at the number given, and likewise another upon the
+side-rank at the left end of the Fraction, whereupon the number given is
+situate; Place this between page 64 and 65
+this done, by the seventh Rule of the last Chapter, find the half distance
+betwixt the point of the number given, and the left end of the Fraction whereon
+it is placed, as also (by the tenth Rule of the same Chapter) the half distance
+of that Fraction upon the side-rank: all this performed, if the first point
+toward the right hand happens to fall under the first figure of the number
+given, and there be no odd Fraction upon the side-rank, then the point, where
+the half distance of the Fraction of the number given meets with the Fraction
+of the half distance in the side-rank, will show you the root required.
+
+Example. Let 328153225 be the square number given, and the root thereof
+required. This number admits five points to be subscribed under it, (as appears
+before) and is found upon the 19 Fraction at five digits of the 21 Interval,
+also the half distance thereof (by the seventh Rule of the last Chapter) is
+likewise discovered at two digits and three minimes of the 11 Interval, as also
+the half distance in the side rank (by the tenth Rule of the said last Chapter)
+upon the tenth Fraction; wherefore if I place another pointed Chesseman upon
+the said 10 Fraction at two digits and three minimes of the 11 Interval (being
+the same with the half distance upon the Fraction of the number given) that
+point will discover these figures 18115, being the root required.
+
+But when the first point toward the right hand happens to fall under the
+second figure of the number given, and there be also an odd Fraction upon the
+side rank, proceed (as in the last Rule) to find the half distances upon the
+Fraction of the number given, and also upon the side rank: Howbeit, to discover
+the true Fraction, upon which the root (in such case) is to be found, account
+three Alphabets downwards from the half distance upon the side-rank (in regard
+the first figure of the number given has no point under it) and there place
+another plain Chesseman; Also (in regard of the odd Fraction upon the side
+rank) account in in like manner three Alphabets toward the right hand from the
+half distance upon the Fraction where the number given is situate, and there
+likewise place another pointed Chesseman: All this performed, in the angle of
+position, where the last placed Chesseman meets with the true Fraction of the
+root (before found upon the side rank) you shall discover the root required.
+
+Example. Let the Square root of the number subscribed be desired.
+
+1 4 5 2 7 5 3 2 2 5.....
+
+This number is found upon the sixth Fraction at one digit of the 31 Interval,
+and the half distance thereof at 3 minimes of the 16 Interval, as also the half
+distance in the side rank upon the 3 Fraction; but because I find no point
+under the first figure, I account upon the side rank 3 Alphabets downwards from
+that 3 Fraction, and thereupon set another plain Chesseman at the left end of
+the 21 Fraction: Also, in regard (in this case) the fifth Fraction in the side
+rank is an odd Fraction, I likewise account three Alphabets toward the right
+hand from the half distance upon the Fraction, where the number given resides,
+and thereupon place another pointed Chesseman at three minimes of the 34
+Interval; All this thus acted, I find the Chesseman last placed to meet wtih
+the 21 Fraction (being the true Fraction of the root, as aforesaid) at three
+minimes of the said 34 Interval, where having placed another pointed Chesseman,
+I discover these figures 38115, being the root sought for. And here, let me
+give you this Rule once for all, That whenever there is no point under the
+first figure of the number given, you are to account upon the side rank three
+Alphabets downwards from the half distance there found, and when there is an
+odd Fraction upon the side rank, you are likewise to account three Alphabets
+upon the Fraction of the number given toward the right hand from the half
+distance found upon that Fraction, as you find it practiced in the last
+Example. Note also, that when you have more figures discovered upon the Table
+for the root, then the number given requires, those that exceed are a decimal
+Fraction belonging to the root; likewise when a mixed number is given, you are
+to subscribe the points only under the significant figures thereof.
+
+And therefore if these two numbers, viz. 4 3 6 2 3..., and 1 7 6 2. 8.. were
+given; the Square root of the first would be 208.86, and of the other 41.985.
+All which observations, and the like (after some practice upon the Table)
+common reason will dictate unto you.
+
+Prop. 7. To extract the Cube-root of any number given, under 1000000000000000.
+Prepare the Cube-number given to be extracted (as in Vulgar Arithmetic) by
+subscribing a point under every third figure, and beginning with the last
+first: So the number hereafter following prepared for extraction, will stand
+thus; 2 2 1 9 8 9 4 0 6 6 1 2 5..... And so many points as are in this manner
+subscribed, of so many figures will the root consist, according to the
+aforesaid observation of the Square-root.
+
+Place a pointed Chesseman at the number given, and likewise another upon the
+side rank at the left end of the Fraction upon which the number given is
+situate; this done, by the eighth Rule of the last Chapter, find the third
+part of the distance betwixt the point of the number given, and the left end of
+the Fraction whereon it is placed, as also upon the side rank (by the eleventh
+Rule of the same Chapter) the third part of the distance betwixt that Fraction
+and the first Fraction. All this performed, when the first figure of the number
+given toward the left hand has a point placed under it, and you find no odd
+Fraction or Fractions upon the side rank, then the point where the third part
+of the distance of the Fraction of the number given meets with the Fraction of
+the third part of the distance in the side rank, will discover unto you the
+Cu^^-^oot required.
+
+Example. Let 2219894066125 be the Cube number to be extracted; this number
+admits five points to be subscribed under it (as appears above) and is found
+upon the 13 Fraction at five digits of the 17 Interval; also the third part of
+the distance, etc. (by the eighth Rule of the last Chapter) at three digits and
+four minimes of the sixth Interval, and likewise the third part of the distance
+in the side rank (by the 11 Rule of the last Chapter) upon the 5 Fraction;
+wherefore if I place another pointed Chesseman upon the said 5 Fraction at 3
+digits and 4 minimes of the 6 Interval (being the same with the third part of
+the distance upon the Fraction of the number given) that point represents these
+figures 13045. being the root you look for.
+
+But when the first point toward the right hand happens to fall under the
+second or third figures of the number given, and there be also one or two odd
+Fractions upon the side rank, proceed (as in the last Rule) to find the third
+part of the distance, etc. upon the Fraction of the number given, and also upon
+the side rank: Howbeit, to discover the true Fraction, upon which the root (in
+such case) is to be found, for every figure which the said first point has
+toward the left hand (being never more then two) account two Alphabets
+downwards from the third part of the distance found upon the side rank, and
+there place another plain Chesseman; also for every odd Fraction, (which will
+never likewise exceed two) account in like manner two Alphabets toward the
+right hand from the third part of the distance upon the Fraction, where the
+number given is situate, and there likewise place another pointed Chesseman:
+All this performed, in the angle of position, where the last placed Chesseman
+meets with the true Fraction of the root (before found upon the side rank) you
+shall discover the root required.
+
+Example. Let the Cube-root of the number underwritten be desired.
+
+6 4 1 9 2 1 9 2 0 6 4....
+
+This number is found upon the 30 fraction at two digits and five minimes of
+the third intervall, and the third part of the distance, etc. (by the eight
+Rule of the last chapter) at four digits four minimes and somewhat more of the
+first intervall, as also the third part of the distance in the side rank (by
+the 11 Rule of the last Chapter) upon the 10 Fraction; but because I find the
+first point of the number given to have a figure before it toward the left
+hand, I account two Alphabets downwards from the third part of the distance
+found upon the side rank ( viz. From the 10 Fraction to the 22 Fraction) and
+there place another plain Chesseman, which 22 Fraction is the Fraction,
+whereupon the root is to be found, and therefore I place there another plain
+Chesseman: Again, for the two odd Fractions ( viz. the 28, and 29) I account
+four Alphabets toward the right hand from the third part of the distance upon
+the Fraction of the number given, and there likewise place another pointed
+Chesseman: All this performed, I find the Chesseman last placed to meet with
+the 22 Fraction (being the true Fraction of the root, as aforesaid) at four
+digits and four minimes and somewhat more of the 25 Interval, where having
+placed another pointed Chesseman, I discover these figures 4004, being the root
+required. So 172.68 being propounded to be extracted, the Cube-root thereof
+will be found upon the 27 Fraction at three digits of the 31 Interval, where
+you shall find these figures represented 55686, whereof (common sense tells
+me) 5 are the Integers, and the rest of the figures are a decimal Fraction of
+the root, so as (in that example) the true root sought for (after separation of
+the Integral part from the broken part thereof) is 5.5686.
+
+Here I might proceed to show a further use of this Instrument for the
+resolving of diverse other Propositions in Arithmetic and Geometry; as, Betwixt
+two numbers given, to discover one, two, or more mean proportionals; To three
+numbers given, to find a fourth in a duplicated or triplicated proportion; To
+work Rules of plural Proportion; The double Golden Rules direct and Inverse;
+The Rules of Fellowship, Alligation, False position, etc. But I have deemed
+these (at present) sufficient to satisfy the curiosity of the Practitioner,
+who in obtaining the knowledge of these, (if he esteem them worthy his pains)
+may be thereby so perfectly acquainted with the nature of the Table, that he
+may afterward be able to resolve not only the Propositions abovementioned but
+all others, which may be performed by Arithmetic either Vulgar or Artifitial;
+And (perhaps upon further scrutiny) some others also, which cannot be resolved
+without Symbolicall Arithmetic, usually called Algebra: All which I will
+hereafter eudeavour also to explain, (as vacancie from other more pertinent
+affairs will permit) together with the Fabric and Use of a Trigonometricall
+Table of Proportion for the resolution of Plain and Sphericall Triangles, if I
+shall find the pains herein already taken may obtain grateful reception:
+This Tractate being (indeed) only intended as an Eschantillon, or glimpse of
+that which may be performed upon this and the other abovesaid Table applicable
+to Trigonometry. Praestat pauca avide discere, quam multa eumtaedio devorare.
+Erasm. in Coll. rel.
+
+FINIS.
+

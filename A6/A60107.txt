@@ -1,0 +1,871 @@
+Short Treatise OF THE DESCRIPTION OF THE SECTOR.
+
+WHEREIN Is also shown the great Use of that excellent Instrument, in the
+Solution of several Mathematical Problems.
+
+LONDON, Printed for and Sold by John Worgan, Mathematical Instrument-maker, at
+his Shop under St. Dunstan's Church, Fleetstreet, 1697.
+
+Where all sorts of Mathematick Instruments, both for Sea and Land, are made
+and Sold.
+
+TO THE READER.
+READER,
+THOU art here presented with a small Treatise of the Use of the Sector, in
+which I have Explained the true Nature and Property of the Construction of this
+admirable Instrument; and have Geometrically demonstrated the Grounds upon
+which all the Operations depend. I have also shown the Amendments that have
+been lately made in disposing the Lines hereon placed, and the advantages
+accrewing thereby.
+
+In the next place I have exhibited its general Use, and declared wherein the
+great benefit of this Noble Contrivance lies, and the Universal Usefulness of
+the same.
+
+Lastly, I have a little Illustrated its Excellency in the Solution of some few
+Mathematick Problems, particularly in Arithmetic, Geometry and Trigonometry;
+which indeed are the foundation of all the rest, and sufficient for the young
+Tyro's light to the Solution of many more. For to show (...) the (...) of (...)
+^^^^^ment were little less than to write a Body of the Mathematics, which is
+not my design at present. My principal intent here being only to show how this
+Instrument supplies the place of almost all others. Particularly of all kinds
+of Scales and Rules, which are made but to assigned or particular Radiuses,
+which is the main end, and sole design of this Instrument. If herein the
+Public Good be any way advanced, I shall be very Glad of it. Vale.
+
+sector (mathematical instrument) John Worgan Londini fecit
+
+
+CHAP. I. A Description of Chords, Sines, Tangents, etc.
+BEcause in the measuring of parts of a Circle (which is often required) there
+is no other way but by reducing them to strait Lines, therefore did the
+Ancients apply certain strait Lines to a Circle; which come in Competition to
+Arch-lines, and that several ways, viz. as they are drawn within a Circle,
+through it, or without a Circle.
+
+Lines within a Circle are Chords and Sines.
+
+A Chord of an Arch is a strait Line drawn from one end of an Arch to the
+other, as in Fig. 1. the Line A B is the Chord of the Arch A C B. It is also
+the Chord of the Arch A D B, for it is common to both parts of the Circle.
+
+So that from 15 Prop. of the 3 d Book of Euclid it is evident, the greatest
+Chord that can be drawn is the Diameter of the Circle, or Chord of 180 Degrees. or
+half the Circle, and consequently that all Chords of Arches greater than a
+Semicircle, are less than the Diameter.
+
+Sines be either Right or Versed.
+
+A right Sine of an Arch is a Line drawn from one end of that Arch
+perpendicular to a Diameter drawn from the other end of that Arch, and belongs
+to both parts of a Semicircle, as in Fig. 1. EB. is the right Sine of the Arch
+C B, and also of the Arch B D.
+
+And here you may observe from the aforecited Proposition of Euclid, that the
+greatest Sine is that of 90 Degrees. or a Quarter of a Circle: And therefore all
+Sines of Arches greater than a Quadrant, are less than the Sine of 90 Degrees.
+which is half the Diameter, or that which (in all Proportions) we call Radius.
+
+The Versed Sine of an Arch is that part of the Diameter betwixt the right
+Sine, and the end of that Arch it is the Versed Sine off, as in Fig. 1. E C is
+the Versed Sine of the Arch C B, and E D the Versed Sine of the Arch B D.
+
+From hence it is also evident that the greatest Versed Sine is that of 180 Degrees.
+
+Lines drawn through a Circle are Secants.
+
+A Secant is a strait Line drawn from the Center of a Circle through one end of
+that Arch (which it is the Secant off) till it meet with the Tangent which
+bounds it, as in Fig. 2. EI in the Secant of the Arch BH.
+
+Lines drawn without a Circle are Tangents.
+
+A Tangent is a strait Line that touches a Circle, and is erected perpendicular
+to a Diameter drawn from the Touch-point, being limited by the Secant which
+passes through the other end of the Arch, it is the Tangent off, as in Fig. 2.
+the strait Line HI is the Tangent of the Arch B H.
+
+Hence it is evident there can be no Secant nor Tangent of 90 Degrees, for the
+Secant of 90 Degrees is parallel to the Tangent Line, and therefore if
+infinitely produced will never meet with it.
+
+The Half Tangent is only the Tangent of half the Arch as the Tangant of 90
+Degrees is infinite, but the Half Tangent of 90 Degrees. is the Tangent of 45 Degrees.
+as in Fig. 2. FE is the Half Tangent of the Arch BH, which is but half the
+Angle B A H, for the Angle at the Center is double to the Angle at the
+Circumference by 20 Prop. of the Third Book of Euclid.
+
+CHAP. II. How the Sines of Chords, Natural Sines, Tangents, Secants, etc. are
+projected, and put on the Common Scales.
+FIrst, with any distance describe the Circle, A B C F and draw the Diameter A
+C, which cross at right Angles with the Line D B produced in Fig. 3. and draw A
+B, then divide the Arch A B into 9 equal parts, seting thereto the Figures 10,
+20, 30, etc. to 90; and each of those 9 Divisions again into 10 equal parts,
+one of which is a degree, or the 360 of the whole Circle. This done with one
+foot of the Compasses in A, transfer these Divisions of the Arch to the strait
+Line A B, placing thereto the Numbers 10, 20, etc. as was set to the Arch. The
+Line A B thus divided is a Line of Chords, and may be transferred from the Paper
+to a Silver, Brass, or Box-Scale.
+
+Secondly, For the Sines divide the arch B C as before, viz. into 90 equal
+parts, noting the 9 Grand Divisions with Figures as in the last. From these
+points in the arch B C let fall perpendiculars to the Diameter A C, these shall
+divide the Semi-diameter D C into a Line of right Sines, which may from hence
+be transferred to any Scale or Rule.
+
+Thirdly, For the Versed Sines, (which is only a double Scale of right Sines)
+let fall perpendiculars (as before to divide the Sines) from every degree in
+the whole Semicircle A B C, these Perpendiculars will divide the Diameter A C
+into a Line of Versed Sines, which are numbered according to the Figures under
+the Diameter, but are seldom put on any Scale, except required.
+
+Fourthly, From C raise a Perpendicular to A C, and from the Center D through
+each Division of the Quadrant draw Lines, producing them till they meet the
+Line C E, which Lines shall divide the said Line into a Scale of Tangents, to
+which set the Fig. 10, 20, 30, etc. as they were in the Arch.
+
+Fifthly, If the Extents D 10, D 20, D 30, etc. in the Tangent-Line be
+transferred to the Line D B produced, they will divide it into a Line of
+Secants, which with the Numbers 10, 20, 30, etc. may from the Scheme be put
+upon any Scale, and is continued on the line of Sines, for after the Sine of
+90, the Tangents begins.
+
+Hence you see that the Secant of Nothing, is the Radius or Semi-diameter of
+the Circle.
+
+Sixthly, If from A to each Division of the Arch B C you draw Lines, they shall
+divide the Radius B D into a Line of half Tangents, to which set the Numbers
+10, 20, 30, etc. to 90. Sometimes this Line is made to run as far as 150 or 160
+Degrees. which is of the same length with the whole Tangent of 75 or 80 Degrees. and
+when it is so divided the Line B D must be produced as it was for the Secant.
+For the half Tangent of 10 Degrees. is the whole Tangent of 5 Degrees. so also the half
+Tangent of 160 Degrees is the whole Tangent of 80 Degrees.
+
+Seventhly, Draw the Line A F and divide the Arch A F into 8 equal parts, these
+transferred from the Arch to the strait Line A F, as were the Chords, divides it
+into a Line of Rhumbs or Points: Its use is to lay of any Point of the Compass,
+which it does much more readier than a Line of Chords, though that will serve
+when you have not this.
+
+Lastly, You may divide the Semi-diameter F D into 100 equal parts, and it will
+serve for a Line of Equal parts, to take Leagues or Miles from; not but that it
+might be longer or shorter for there is no necessity of its being just of such
+a length.
+
+This Line is of great use, because from it all the other Lines might be
+divided, by supposing the Radius of the Circle to contain any number of equal
+parts, as 1000, 10000, etc. For then all the Chords, Sines, Tangents, etc. will
+consist of a certain number of those parts.
+
+CHAP. III. Of the Plain Scale.
+ASsume a Line whose length let be what you please, suppose ab. On this Line
+make a Parallelogram of any breadth at pleasure as abcd, divide the opposite
+sides ab and de each into 10 equal parts, as also ad, bc, seting thereto the
+Figures 1, 2, 3, etc. as you see in Fig. 4. This done draw from the Points 1,
+2, 3, etc. in the Line ad, the several Lines parallel to ab, then from the
+Points b, 1, 2, 3, etc. in the Line ab, to the Points 1, 2, 3, etc. in the Line
+dc; draw the Diagonal Lines, b. 1, 1. 2, 2. 3, 3. 4, etc. By which the Line ab
+or those equal to it, are actually divided into 100 equal parts. The reason of
+which is very clear from the 4th. of the 6th. of Euclid, for by that
+proposition 'twil hold as bc: be:: 1 c: he, and therefore if be is 1/10 of bc
+(which by construction it is) then shall he be 1/10 of 1 c that is 1/10 of 1/10
+(or 1/100) of dc or ab.
+
+If the Sides ab, dc, as also their Parallels 1, 2, 3, etc. be produced, and
+the distances ab, dc, repeated thereon, 1, 2, 3, or more Lines, as the lengths
+of the Rule on which you put them will permit, you have finished the said
+Diagonal Scale; the design of which is to supply the use of a Scale of equal
+parts, but with greater exactness than any of those kind of Scales can pretend
+to, for from it may be taken any Number under 1000 exactly.
+
+CHAP. IV. Of the construction of the Lines of Artificial Numbers, Sines and
+Tangents.
+BEsides the Lines before described there are another sort, which is generally
+put on Scales and Rules, called Artificial Numbers, Sines and Tangents, the
+rise and construction of which are from the Logarithmes. For they are only the
+Logarithms of the Natural Numbers, Sines and Tangents Transferred to a Scale.
+
+The Line of Numbers commonly known by Name of Gunter's Line, is a Line of
+Geometrical Proportion unequally divided into 9 parts, beginning at 1 toward
+the left hand and running with 2, 3, 4, etc. to 10, which is about the middle
+of the Line, where another Radius begins, and is continued to 100 toward the
+right hand, it has the Figures 10, 20, 30, etc. set thereto, and is divided
+just as was the first part of it.
+
+The Line being thus divided is called a Line of Numbers of two Radiuses, and
+the way of Numbering on it thus, (for herein lies the great difficulty in the
+use of it.) It is (as before was noted) divided into 18 unequal parts, the
+first 9 ending about the middle of the Scale, and the other 9 at the end next
+the right hand; then each of these Primes or first Grand Divisions are
+subdivided into 10 other parts according to the same reason called Tenths; and
+again each of those Tenths are subdivided into 10 other parts if the length of
+the Rule or Scale will permit.
+
+The Figures 1, 2, 3, etc. by which the Primes are distinguished, are all
+arbitrary points, and may each of them represent so many entire Unites, Tenns,
+Hundreds or Thousands; or they may also represent so many Tenth, Hundredth,
+Thousandth, or Ten Thousandth parts of an Unite.
+
+If the first 1 on the Line be taken for 1, then 10 in the middle of the Line
+is 10 as in course it falls, but if the first 1 be taken for 10, or 100, then
+the figure 10 in the middle of the Rule must be taken for 100 or 1000.
+
+Now when the first 1 or Prime represents 10 Unites, each Tenth in that Prime
+will be 1; and each Centesme in those Tenths (if there be any) will be one
+tenth part of an Unite.
+
+Again, let the first Prime represent 100, then the Figures 2, 3, 4, etc. will
+denote 200, 300, 400, etc. and so 10 at the end will be 10000, and according to
+this supposition 1 tenth in each Prime will be 10 Unites, and in those tenths
+each Centesme will be 1.
+
+For Decimal Fractions let 10 at the end of the Line, next the right hand,
+represent 1, then each Prime toward the left hand will be 1, and in those
+Primes each tenth will be.01, and in these tenths each Centesm will be.001 part
+of an Unite.
+
+The Divisions and way of Numbering on this Line being thus explained, it will
+not (I presume be difficult) to find the point upon the Line, where any Number
+given is represented.
+
+For Example: Suppose the Number 276 were proposed, for the first figure 2 I
+account 2 next the beginning of the Line that is 2 next the left hand, for the
+second figure 7 I tell 7 tenths next following, that is 7 of the 10 great
+Divisions betwixt 2 and 3, then from this point I count 6 Centesms. So that
+from 2 to this point represents 276.
+
+Again, suppose I would represent or find the Number 408 on the Line, then for
+the first figure 4 I take that 4 on the Line next the left hand, and for the 0
+in the second place, I must not take any tenths, but for the 8 in the third
+place I count 8 Centesms, and it gives that point which represents 408.
+
+The greatest Inconvenience of these Lines is this, all Numbers above 3 or 4
+places cannot precisely be represented unless the Lines are very long.
+
+As for Decimal Fractions and mixed Numbers, they are discovered after the same
+manner as whole Numbers were: For suppose 2. 76 was required to be represented,
+it will be found at the same point, and by the same Rule as the whole Number
+276 was. And therefore by what has been said it will be easy to find the
+point where any Number is represented on the Line especially if it be small.
+
+Next for the Line of Artificial Sines, which are only the Logarithms of the
+Natural, and are therefore transferred from a Table of Logarithms to the Scale,
+they begin toward the left hand, and are numbered toward the right with the
+Figures 1, 2, 3, etc. to 10, which stands about the middle of the Line, and
+signify single Degrees, after these it runs on with 10, 20, 30, etc. to 90,
+which stands at the end next the right hand, these Divisions are subdivided
+into 10 equal parts, and those again into 10, 5 or 2 parts, and sometimes not
+at all, according as the length of the Scale will permit. So that if betwixt 1
+and 2 in the first part it be divided into ten parts, one of these parts will
+represent 6 Minutes, and if each of these Divisions be again halv'd each part
+will represent 3 Min. If the grand Division in the later part be divided into
+10 equal parts, each division represents a degree, and if these are halv'd each
+division will be 30 Minutes.
+
+What is said of the Line of Sines, the same may be understood of the Line of
+Tangents, whose divisions begin at 1, and run to 10 in the middle of the Line,
+and signify only single Degrees, after 10 it runs on with 20, etc. to 45,
+which stands at the end of the Line; from 45 it runs back again to 90 where you
+begun, as the bare inspection of these Lines on any Scale, will more fully
+declare.
+
+These Lines are of most Excellent use, for by them all Questions of Proportion
+may be solved, whether Arithmetical or Geometrical. But their principal
+business is the solution of Plain and Spherick Triangles, which they do with
+great speed, and exact enough in many Cases, and therefore very necessary for
+proving your Arithmetic and Geometrick Operations.
+
+The method of working with them is thus: In all Proportions you have three
+terms given to find a fourth. Seek out therefore the first term whatever it be,
+viz. Number, Sine, or Tangent on its like Line, that is, if it be a Number look
+for it on the Line of Numbers, if it be a Sine, seek it on the Line of Sines,
+etc. and in that point set your Compasses, then extend the other to the 2 d or
+3 d term, that is, extend it to that which is of the same name with the first,
+(for either the 2 d or 3 d will be always like the first) the same extent laid
+from the other term the same way will reach to the fourth term required.
+
+An Example will make it plain:
+
+Suppose this Proportion was to be wrought, as the Sine of 67 d. 30 m. to the
+Numb. 64. So is Radius or Sine of 90, to the 4th Number required.
+
+Set one foot of your Compasses in the Line of Artificial Sines on the Number
+67 d. 30 m. and extend the other foot to 90 on that Line, the same extent will
+reach from 64 on the Line of Numbers, to 70 on the said Line, if applied the
+same way, which 70 is the 4th Number required. After the same manner may all
+other Questions be wrought.
+
+CHAP. V. Of the Sector, and the Description of the Lines thereon placed.
+HAving thus shown you how these Lines are originally divided, I shall now pass
+to show how they are placed on a Sector, or joint Rule, and then shall give a
+few Examples of their Excellent use as they are thus disposed.
+
+A Sector, as it is Geometrically defined, is a Figure bounded by two strait
+Lines, and part of the Circumference of a Circle, as Fig. 5.
+
+But by a Sector here spoken of, you are to understand an Instrument that opens
+upon a Center like a common Carpenter's Rule. The two pieces that moves upon
+the Center we call Legs, upon which are placed most of the Lines that are upon
+the Common Scales, but are here used after a different manner than they are
+upon those Scales.
+
+The principal Lines that are now generally put upon this Instrument to be used
+Sectorwise, are equal Parts, Chords, Sines, Tangents, Secants and Polygons.
+
+The Line of equal parts, called also the Line of Lines, is a Line divided into
+100 equal parts, and if the length of the Leg of the Sector will permit, is
+again subdivided into Halves and Quarters, they are placed on each Leg of the
+Sector on the same side, and are Numbered by 1, 2, 3, etc. to 10. which is very
+near the end of each Leg, these Lines are (as in the Printed Plate of the
+Sector hereunto annexed) noted with the Letter L.
+
+And here note, that this 1 may be taken for 10, or for 100, 1000, 10000, etc.
+as occasion requires, and then 2 will signify 20, 200, 2000, 20000, etc. and
+so of the rest.
+
+The Line of Chords, is a Line divided after the usual way of the Line of
+Chords, from a Circle whose Radius is nearly the length of one of the Legs;
+this Line is placed upon each Leg of the Sector, beginning at the Center, and
+running toward the end thereof. It is numbered with 10, 20, etc. to 60, and to
+this Line on each Leg is set the Letter C.
+
+Note, this Line on some Sectors run to 90 degrees.
+
+The Line of Sines, is a Line of common natural Sines, such as we have before
+defined, only it is divided from a Circle of the same Radius that the Line of
+Chords was; these are also placed upon each Leg of the Sector, and numbered with
+the Figures 10, 20, 30, etc. to 90, at the end of which on each Leg in the
+Print annexed, is set the letter S.
+
+The Line of Tangents, is a Line of common Tangents, divided from a Circle of
+the forementioned Radius, and is placed upon each Leg, and runs to 45. It has
+the Numbers 10, 20, etc. to 45 placed upon it, with the Letter T for Tangent.
+
+Beside this, is another small Line of Tangents, divided from a Radius of about
+2 Inches, and is placed upon each Leg of the Sector, it begins at 45, which
+stands at the length of the Radius from the Center, and runs to about (...) the
+sides ad, ae, also ac, ab, shall be proportional. That is ad to ac, as ae to
+ab. So that if ad be a half or a third of the side ac, then shall de be a half
+or a third of his Parallel cb. The like reason holds in all other Sections:
+Whence you see that if ad be the Chord, Sine or Tangent of any number of
+degrees to the Radius ac, then shall de be the Chord, Sine or Tangent of the
+same number of degrees to the Radius cb.
+
+Now the Lines found out by the Sector are of two sorts, viz. Lateral or
+Parallel. Lateral are such as are found upon the sides of the Sector as ad, ac
+in Fig. 6. Parallel are the Lines that run from one Leg of the Sector to the
+other in equal divisions from the Center, as de, cb in the said Figure.
+
+And here note, That the Innermost of the Parallels is the true divided Line,
+and therefore in using the Compasses you must always set them upon the
+innermost Line both in Lateral and Parallel Entrance.
+
+And further note, that the Lines are placed (upon Sectors now made) after a
+different way to what they were formerly, for instead of putting the same Lines
+at equal distances, from the inward edg, they now put them at unequal
+distances, as by inspection of the Print hereunto annexed you may see;
+whereupon one Leg, the Line of Chords is innermost, but upon the other the Line
+of Tangents is innermost. That is, the innermost line of Chords and Tangents
+are equally distant from the inward edg, and so are the outermost line of
+Chords and Tangents. The benefit of the Contrivance is this, when you have set
+the Sector to a Radius for the Chords, it serves also for the Sines and
+Tangents without stirring it. For the Parallel betwixt 60 and 60 of the Chords,
+90 and 90 of the Sines; also 45 and 45 of the Tangent are all equal, and this
+is the reason why they now make the Chords run but to 60 degrees. upon the leg of
+the Sector. Whereas they used to run to 90. But practice and Experience has
+found out the inconvenience.
+
+This being premised, I shall now proceed to show you the uses of the several
+lines. And first,
+
+CHAP. VII.
+PROB. I. Of the Line of Lines, or equal Parts. To divide any Line into any
+Number of equal Parts.
+IF you would divide any Line into the same Number of equal parts as the leg of
+the Sector is: Take the length of the line betwixt your Compasses, and set it
+over as a parallel betwixt 10 and 10 (which you may call 100 and 100, as before
+was hinted) then shall the parallel distances betwixt every point on each leg
+divide the given Line into the same equal parts: As if you would mark out 6 (or
+60) of those parts, the parallel distance betwixt 6 and 6 marked out upon the
+given Line, is 6 (or 60) of the said parts. If you would mark out 7.3 (or 73)
+parts, then count 3 of the next great Divisions from 7, and in that point take
+the parallel distance betwixt each, and it gives you 7.3 (or 73) parts of the
+proposed Line; and so of the rest.
+
+If you would divide a Line into any odd number of equal parts, as suppose I
+would divide the Line ab, Fig. 7. into 37 equal parts, Take the Line ab betwixt
+your Compasses, and make it a parallel betwixt 37 and 37 on the legs of the
+Sector, then the distance betwixt 36 and 36 (the Sector remaining at this
+angle) is 36 of them. Also the parallel distance betwixt 35 and 35, 34 and 34,
+33 and 33, are 35. 34 and 33 of such parts that the whole contains 37 off, and
+may be cut off as you see in Figure 7.
+
+In like manner may any other Line be divided into any Number of equal parts:
+But if the length of the line be such that it cannot be applied betwixt the
+parts desired, then take but half, or a quarter of the said Line. So shall 2
+(or 4) of those Divisions, be but one such part or division of the whole Line.
+
+PROB. II. To Increase or Diminish a Line in a given Proportion.
+SUppose a Line was given to be increased in such proportion as 5 to 7, that is
+thus, If the Line given contains 5 parts, I require another Line that shall
+have in it 7 of those parts: Take the given Line betwixt your Compasses, and
+open the Sector till that Extent lie betwixt 5 and 5 on the Line of Lines, then
+if you take the parallel distance betwixt 7 and 7, it will give you the Line
+required.
+
+If it were to be diminished: Suppose as 7 to 5, then make the given Line a
+parallel betwixt 7 and 7, and the parallel Extent betwixt 5 and 5 is the Line
+required.
+
+PROB. III. Two Lines given to find a third in continual proportion, both
+increasing and diminishing.
+IF it be increasing, take the two Lines given, and set them upon each Leg on
+the Line of Lines from the Center, and mark the points where both of them fall;
+then take the longest line betwixt your Compasses, and apply that Extent
+parallel wise in the Terms of the shortest, the Sector remaining at this angle,
+the parallel distance betwixt the Terms of the longest being taken and applied
+to the leg of the Sector from the Center, will give you the length of the third
+Proportional required.
+
+If it be Diminishing, then instead of making the longest of the two given
+Lines a parallel betwixt the Terms of the shortest, make the shortest of the
+two given Lines a parallel in the Terms of the longest, then the parallel
+distance betwixt the Terms of the shortest being applied to the leg from the
+Center, will give the 3d. Proportional required. Let the Lines given be ab 18,
+ac 24, then is cc 32 the 4th. Proportional increasing, as in Fig. 8.
+
+PROB. IV. Three Lines or Numbers given to find a fourth Proportional, both
+Increasing and Diminishing.
+THis Problem is almost the same with the last, and is therefore to be solved
+after the like manner: As first, If you would find it Increasing, set the two
+shortest Lines on the Line of equal parts on each leg of the Sector, then open
+the Sector till the third or longest Line will come betwixt the Terms of the
+shortest: The Sector thus standing, take the parallel Distance betwixt the
+Terms of the longest, and apply that Extent to the side of the Sector; it will
+give you the length of the 4th. proportional Increasing.
+
+If it be Diminishing, lay the two longest Lines on the legs of the Sector from
+the Center, and make the shortest of the 3 given Lines a parallel in the Terms
+of the longest; then the parallel betwixt the Terms of the shortest taken and
+applied as before, is the 4th. Proportional required, and is Decreasing or
+Diminishing. An Example would be needless.
+
+PROB. V. To find the Propotion that is betwixt any two given Lines.
+TAke the greater of the two given Lines, and make it a parallel betwixt 10 and
+10 at the end of the Sector, then take the lesser line and carry it parallel to
+the greater, till it rests in like points on each leg; so the number of Points
+where it rests, is the proportion to 100.
+
+Thus in Fig. 9. you will find the Line aa in proportion to bb as 7 to 10.
+
+PROB. VI. The length of one Line being givan, to find what length any other
+Line is in such parts.
+SUppose the Line aa in Fig. 9. was 44, and I would know what the Line bb is,
+make the Line aa a Parallel in 44, then take the Line bb, and carry it along
+Parallel to aa till it rests in like Points, so the number it rests in which is
+about 30, is the length of the Line bb in such parts as aa did contain 44.
+
+This Problem may be very useful sometimes, as in Case the Draught or
+Ground-plot of any place be taken and no Scale to it, then if the length of any
+one Line or side in the Draught be known, the length of all the rest is easily
+found by this artifice.
+
+PROB. VII. A right Line any how divided being given, to find how to divide any
+other Line of different length into the like parts.
+LET ch in Fig. 10. be the Line given, which is unequally divided in the Points
+e. f. g. And let hh be the other Line required to be divided into such parts as
+was the former; Lay the Line ch from the Center on both Legs of the Sector, and
+in the Points where this Line reaches apply the shortest Line Parallel-wise,
+that is open the Sector till the shortest Line may be applied betwixt the terms
+of the longest, this done lay the Divisions of the line ch, viz. ce, ch, cg, on
+both legs of the Sector from the Center, then the Parallel extent of these
+Divisions, viz. ee, ff, gg, being taken and applied to the line hh will will
+divide it into the like parts as was the line chapter
+
+CHAP. VIII. Of the General Use of the Line of Chords, Sines, Tangents and
+Secants.
+BY disposing and placing these lines as before directed on this Instrument we
+have Scales to several Raduis's, as I have already hinted, that is having a
+length or Radius given (not exceeding the length of the Sector when opened) we
+can by the Sector find the Chord, Sine, etc. thereto. For which property this
+Instrument is many times of great use.
+
+For Example, Suppose I would have the Chord, Sine; or Tangent of 10 degrees. to a
+Radius of 3 Inches. I take this 3 Inches and make it a Parallel betwixt 60 and
+60 on the line of Chords, then as I told you before the same extent will reach
+from 45 to 45 on the line of Tangents: Also on the other side of the Sector the
+same distance of 3 Inches will reach from 90 and 90 in the line of Sines, so
+that if the lines of Chords be set to any Radius the lines of Tangents and
+Sines are also set to the same; Now the Sector being thus set, if you take on
+the said line, the Parallel distance betwixt* 40 and 40 it will give you the
+Chord of 40 degrees: Also if you take the Parallel distance on the line of
+Sines between 40 and 40, it will give you the Sine of 40 degrees. Lastly, if
+you take the Parallel extent on the line of Tangents, betwixt 40 and 40, it
+will give you the Tangent of 40 degrees, and all to the same Radius.
+
+If the Chord or Tangent of 70 degrees had been required, then for the Chord
+you must take the Parallel distance of half the Arch proposed, that is the
+Chord of 35 degrees. and repeat that distance twice on the Arch you lay it down on,
+and you have the Chord of 70 degrees. and for finding the Tangent of 70 degrees. to
+this Radius, you must make use of the small line of Tangents, for the great one
+running but to 45 degrees. we cannot take the Parallel of 70 degrees. on that; I
+therefore take the aforesaid Radius of 3 Inches and make it a Parallel betwixt
+45 and 45 on this small line of Tangents, then the Parallel Extent of 70 degrees.
+on the said line, is the Tangent of 70 degrees. to 3 Inches Radius.
+
+If you would have the Secant of any Arch, then take the given Radius and make
+it a Parallel betwixt the beginning of the line of Secants, that is 0 and 0, so
+the Parallel distance betwixt 40 and 40, or 70 and 70 on the said Secant line,
+will give you the Secant of 40 or 70 degrees to the Radius of three Inches.
+
+After this manner may the Chord, Sine or Tangent, of any Arch be found,
+provided the Radius, can be made a Parallel betwixt 60 and 60 on the Line of
+Chords, or betwixt the small Tangent of 45, or Secant of 0 degrees. But if the
+Radius be so large that it cannot be made a Parallel betwixt 45 and 45 on the
+small Tangents, then no Tangent of any Arch above 45 degrees cannot be found;
+Nor the Secant of no Arch at all to such a Radius, because all Secants exceed
+the Radius, or Semi-diameter of the Circle.
+
+If the converse of any of these things be required, that is, If I require the
+Radius, to which a given Line is the Chord, Sine, Tangent or Secant of any
+Arch, suppose of 40 degrees. then it is but making that Line (if it be a Chord) a
+Parallel on the Line of Chords betwixt 40 and 40, so will the Sector stand at
+the Radius; That is the Parallel Extent betwixt 60 and 60 on the said
+Chord-line is the Radius.
+
+And so if it be a Sine, Tangent or Secant, it is but making it a Parallel
+betwixt the Sine, Tangent, or Secant of 40 degrees. according as it is given, then
+will the distance of 90 and 90 on the Sines, if it be a Tangent, the Extent of
+45 and 45 on the Tangents: And if it be a Secant, the Extent or distance
+between 0 and 0 on the said Line of Secants, will be the Radius.
+
+Hence you see it is very easy to find the Chord, Sine or Tangent to any Radius,
+which is the great Benefit and Advantage we receive from this ingenious
+Contrivance, and of great use it is, not only in delineating and projecting on
+Paper, but even on the Ground, in laying out any Parcel in any form or shape;
+for by a Sector of two or three Foot long when opened, we can furnish our
+selves with Scales big or little enough for any purpose or Design whatsoever.
+
+CHAP. IX. Of some particular Uses of the Circular Lines, viz. Chords, Sines,
+etc.
+PROB. I. An Angle being given, to find the Number of Degrees it contains.
+SUppose I would find the Quantity of the Angle a in Fig. 11. Take any
+distance, but so short that it may cut both sides of the Angle, with this
+distance on the Angular point a describe the Arch bc, and make that distance a
+Parallel betwixt the Chord of 60 and 60, then take the distance bc and carry it
+Parallel on the Line of Chords till it rests in like Points, so the place where
+it stays gives the Quantity of the Angle desired, which in our Example is
+about 35 degrees.
+
+But if the distance bc is so long that it cannot be made a Parallel on the
+Line of Chords, as it will when the Angle is above 60 degrees. Then take but
+half the Arch, and make it a Parallel Chord as afore-directed, and the Points
+where it stays will give you half the Angle, which doubled gives the whole.
+
+PROB. II. To divide the Circumference of a Circle into any Number of Equal
+Parts.
+DIvide 360 the Number of Degrees in every Circle, by the Number of Parts
+required, the Quotient gives the Number of Degrees, of which if you take the
+Chord off 'twill divide the Circumference.
+
+For Example, if I would divide a Circle into 5 equal parts, I divide 360 by 5,
+the Quote is 72 degrees. If therefore I take the Radius of the Circle I would so
+divide, and make it a parallel betwixt 60 and 60 on the Line of Chords, and
+then (because I cannot take the Chord of 72 degrees. the part of the Circle) take
+the Chord of 36 degrees. and repeat it twice on the Arch it will give the part of
+the Circle which was the thing required.
+
+But this Problem is more readier performed by the Polygon Line which is for
+this very purpose. The manner of doing it is thus, Take the Radius of the
+Circle you would so divide, and make it a parallel betwixt 6 and 6 on the
+Polygon Line (for the Radius or Semi-diameter always divides the Circumference
+of the Circle into 6 equal parts) then if you take the Parallel distance
+betwixt 4 and 4 on the Polygon-line, it will divide the Circle into 4 equal
+parts; if betwixt 5 and 5 it will cut it into 5 equl parts: So also if you take
+the Parallel distances betwixt 6 and 6, 7 and 7, 8 and 8, 9 and 9, and so to
+12, you may divide the Circle into 6. 7, 8. 9, 10. 11, or 12 equal parts.
+
+PROB. III. The Radius, or the right Sine of an Arch (by which Radius may be
+found) being given, to find the Versed Sine of any Arch.
+SUppose ab Fig. 12, were the Radius, and it were required to find the Versed
+Sine of 50 degrees. make the Line ab a Parallel betwixt the Sines of 90 and 90,
+then because the Arch is under 90 degrees, take the Sine Complement, that is
+take the Parallel betwixt 40 and 40, on the Line of Sines, and with that
+distance set one foot in a, and cut from the Line ab the Segment cb, which is
+the Versed Sine of 50 degrees. to that Radius.
+
+If ac be the given Sine of 40 degrees. and it be required to find the Versed Sine
+of 50 degrees. I take the Line ac and make it a Parallel betwixt the Sine of 40 and
+40, then taking the Parallel distance of 90, it gives me the Line ab for the
+Radius. From which if I take the Sine of 40 degrees. the Complement of the Arch
+whose Versed Sine is sought, it will leave me the Versed Sine of 50 degrees.
+
+But if the Arch whose Versed Sine is required be more than a Quadr. the Versed
+Sine will also be greater than a Quadrant, and that by so much as is the right
+Sine of the Excess of that Arch above 90.
+
+And therefore when ever the Versed Sine of an Arch exceeding 90 degrees, is
+required, suppose it were of 120 degrees, it is but taking the right Sine of the
+Excess above 90 degrees, viz. 30. and adding to Radius, so is the sum of
+Radius and this Sine of 30 degrees the Versed Sine required.
+
+PROB. IV. How by the Line of ^ines to describe an Elipsis to any length and
+breadth given.
+SUppose it were required to describe an Elipsis, whose length should be ab and
+breadth cd. Fig. 13.
+
+Set these two Lines at right Angles, and so as they may bisect each other in
+0; then take half of the longest Line, and make it a Parallel betwixt the Sine
+of 90, the Sector thus set, take the parallel Sine of 10, 20, 30, etc. to 90
+degrees. and lay from 0 both ways toward b and a, so have you several Points in the
+Line ab, through which if you draw Lines Parallel to cd, and lay thereon from
+the said Points the Sine of 80. 70, 60. 50, etc. to 10 degrees, upon the
+respective Parallels, they will give you several Points, through which if a
+Line be drawn with an even hand, it will form an Elipsis.
+
+By this Artifice may the Orthographick or Analemmatick Projection of the
+Sphere be delineated with great ease and exactness, the Circles which are
+beheld obliquely being in that Projection all Elipses.
+
+PROB. V. To open the Sector to any given Angle.
+IT is one thing to open the Sector to an Angle, and another thing to open the
+Lines on the Sector to the same Angle.
+
+Suppose I would open the Line of Chords on the Sector to an Angle of 38 Degrees. I
+take 38 from the Center laterally, and make that a parallel betwixt 60 and 60
+on the line of Chords, so is the line of Chords set to an Angle of 38 degrees. and
+not only the line of Chords, but also the Line of Lines, Line of Sines, and
+Line of Tangents, because they are all Equidistant from the inward edges of the
+Sector. If you would open the two inward Lines, suppose Chords and Tangents, or
+Sines and Lines, it is done after same manner, that is, by taking the lateral
+Chord of the Angle you would open the Sector to, and making it parallel betwixt
+45 and 60 on one side the Sector, or else betwixt 90 and 10 on the other side,
+so is the innermost Line of Sines and Lines on the other side set to the Angle
+required.
+
+After the same manner may the outermost Lines be set to any given Angle.
+
+But suppose you would open the very edges of the Sector to any given Angle,
+then having put the Sector close; Take the parallel Extent betwixt the
+innermost ine of Chords and Tangents, and apply that Extent laterally on the
+line of Chords from the Center, and it shows you what Angle those lines make
+when the Sector is shut, in the printed Plate of the Sector hereunto annexed,
+those lines make an Angle of 5 degrees. Suppose therefore you would open the Edges
+of the Sector to an angle of 40 Degrees. I take from the Scale of Chords the
+lateral Chord of 45 degrees. and apply that Extent parallelwise betwixt 60 on the
+innermost line of Chords, and 45 on the innermost line of Tangents, and it sets
+the Edges of the Sector to an Angle of 40 degrees. for those lines are set to an
+Angle of 45 degrees. Now the Edges of the Sector making an Angle less by 5 Degrees.
+than those lines do, must therefore by consequence be set to an Angle of 40
+Degrees.
+
+If you would open the Line of Lines to a right Angle, take the whole line of
+10 parts, and make it a parallel betwixt 8 and 6 of the same. The line of Sines
+may be opened to a right Angle, if the Sine of 45 degrees. be applied over in the
+Sines of 30 degrees. And here note, that having opened the Line of lines to a right
+Angle, the line of Chords, Sines and Tangents are opened to the same.
+
+PROB. VII. The Sector being opened to find the Quantity of the Angle it is
+opened to.
+THe Sector being opened, take the parallel distance betwixt 60 and 60 on the
+Chords, and apply that Extent laterally from the Center on the Chords, the
+number of Degrees it reaches to is the Angle those Lines are opened to. Or the
+parallel extent betwixt 60 on the Chords, and 45 on the Tangents so applied,
+shows you the Angle they are opened to, and if they are the two innermost
+Lines, then is the edges opened to an Angle less by 5 degrees. than those Lines
+are. If the Lines be at the same distance as in our Print.
+
+This Problem is exceeding useful, for by it the Bevel of all kind of Roofs may
+be readily found. Also the Ground-plot of any old Edifice or Structure may be
+much easier and better taken than with any other Instrument whatsoever:
+Likewise the Quantity of Inclination and Reclination of all Plains, which is of
+great use in Dyaling, as also the Angles of any kind of Fortifications, whether
+Regular or Irregular, may most easily and speedily be taken by this Instrument.
+In order for drawing the Ground-plot or Proffile of any kind of Works, which
+thing is of great use at this time of day.
+
+PROB. VII. Upon a right Line and from a Point given in it, to lay off any
+Angle proposed.
+LET the Line given be ab, and let it be required to lay off an Angle
+containing 40 degrees from the given point a. Upon the point a describe with
+any distance an Arch cuting the said Line in b. Fig. 14. this distance make a
+parallel betwixt the Chord of 60, then if you take the parallel betwixt 40 and
+40 on the said Lines, and lay the extent from b on the Arch to c drawing from
+the point a through c the line ac, and it will form the Angle required.
+
+PROB. VIII. To Cut a Line in Extreme and Mean Proportion: That is, to divide a
+Line into such parts that the whole Line shall be to the greater of the two
+Segments, at the greater, to the lesser.
+LEt ab Fig. 15. be the Line to be divided, I take the said Line ab, and make
+it a parallel betwixt the Chords of 60, to which Radius I find the Chord of 36
+degrees, that is, the Sector being at this Angle, I take the parallel Chord of
+36 degrees, and that extent being laid from a to c gives the greater Segment,
+and consequently cuts off the lesser Segment cb. For 'twill hold as ab: ac::
+ac: cb.
+
+The practice of this Problem is demonstrated in the 9th. Prop. of the 13th.
+Book of Euclid.
+
+CHAP. X. Trigonometry, Or the use of the Natural and Artificial Lines on the
+Sector, in the Solution of the Cases of Plain right Angled Triangles.
+Defin. Trigonometry is a Science that teaches how to Measure the Sides and
+Angles of all kinds of Triangles.
+
+CASE 1. Hypotenuse bc 496, and Angle b 38 d. 40 m. given to find the Legs.
+Geometrically, First draw a Line, as in Fig. 16. assume therein the Point b,
+on which as a Center with 60 degrees. from the Chords, describe the Arch cd, seting
+thereon, from e to d, 38 d. 40 m. From b through d draw a Line at pleasure on
+which set from b to c. 496 taken laterally from the Line of Lines, from c let
+fall the Perpendicular ca and the Triangle is completed.
+
+Note, The given Lines and Arches are drawn Black, the required pricked.
+
+If you take the Line ca betwixt your Compasses, and setting one foot in the
+Center of the Line of Lines, and pitch the other on the said Line, it will give
+you 310 for the length of that side.
+
+So also if you take the Line ba and apply it after the same manner, it will
+give you 388 for the length of this Line.
+
+And here Note, If this lateral distance of 496 be too big, or too little, it
+may be remedied, by opening the Sector to such a distance till the Parallel
+Extent betwixt 496 and 496 on the said Lines be of such a length as you would
+have it, then keeping the Sector at this Angle, take the Lines ba, ca, and
+apply them Parallelwise, till they rest in like Points, so shall these Points
+where they rest give the length of the Lines ba, ca, as before.
+
+Instrumentally. That is, by the Artificial Lines of Numbers, Sines, and
+Tangents.
+
+If you make the Hypotenuse Radius, the other two sides will be Sines of their
+opposite Angles. By Chap. I.
+
+And then it will hold as Radius, to the Hypotenuse, so is the Sine of the
+Angle b, to the side ca. And therefore extend your Compasses from the Sine of
+90 degrees. to the Sine of 38 degrees. 40 m. The same extent will reach on the Line of
+Numbers from 496 to 310 (being laid the same way) THE length of the Line ca.
+
+For the side ba extend your Compasses from Radius to the Sine 51 d. 20 m. The
+same extent will reach on the Line of Numbers from 496 to 388 the length of the
+side inquired.
+
+USE.
+By this Case we find the difference of Latitude and Departure in Navigation,
+when the Course and Distance sailed are given. Also by it may be found the
+Horizontal Line, or Perpendicular height of any Mountain: Having first measured
+the assent, and taken the Angle that its rise makes with the Horizontal Line,
+which may be easily done by fastening one leg of the Sector to a Walking-staff
+set perpendicular in the Ground, and Elevating the other leg, til by it you see
+the foot of the hill if you stand at top, or top of the hill if you stand at
+the foot, so is the Sector set to the Angle that the assent makes with the
+perpendicular, or Horizontal Line, according as you take it either from top or
+foot of the Hill.
+
+CASE 2. Base ba 388, and Angle b 38 d. 40 m. to find the Hypotenuse, and
+Perpendicular.
+Geom. Draw a Line at pleasure, as in Fig. 17. on which set from a to b 388
+taken from the Line of Lines, from a erect a perpendicular, and on the point b
+as a Center, describe with 60 degrees. from the Chords the Arch de seting thereon
+38 d. 40 m. from e to d. through which draw the Line bd till it meet the
+perpendicular in c so is the Triangle completed.
+
+If now the Lines bc, ca, be taken and seperately measured upon the same Scale
+ba was taken from, it will give you 496 for the Hypotenuse, and 310 for the
+Perpendicular required.
+
+Instrum. Making Hypotenuse Radius as in the last, the sides ba, ca, will be
+Sines of their opposite Angles. As by Chap. 1.
+
+So that it will hold as the Sine of the Angle c, to the Base ba; so is the
+Sine of the Angle b, to the perpendicular ca. Or so is Radius or Sine of 90 d.
+To the Hypotenuse bc. Extend the Compasses therefore from 51 d. 20 m. (the
+Complement of 38 d. 40 m. to 90 degrees.) on the Line of Sines, to 38 d. 40 m. on
+the said Line. The same Extent will reach on the Line of Numbers from 388 to
+310 the length of the perpendicular required.
+
+Again, if you extend the Compasses from 51 d. 20 m. on the Line of Sines to 90
+degrees. the same extent will reach on the Line of Numbers the same way, from 388
+to 496 the length of the Hypotenuse required.
+
+USE.
+It Is by this Case that we find the difference of Latitude and Distance sailed,
+when the Course and Departure is given.
+
+Also when the distance of the Base of any Object from the place where we stand
+to observe its height, with the Angle at the Base are given, we make use of
+this Case to Calculate its height.
+
+part of plate of mathematical diagrams referenced in the text, figures 11, 8,
+9, part of 10, 12, 16, 15, 4, 3
+
+part of plate of mathematical diagrams referenced in the text, figures 9, 10,
+8, 2, 1, 5, 6, 7, 11, 8, 9, 10, 12, 14, 15, and parts of 4 and 3
+
+CASE 3. Hypotenuse bc 496 and Base 388 given, to find the Perpendicular, and
+oblique Angles.
+Geom. First draw a Line, on which lay off 388 from b to a taken from the Line
+of Lines: From a erect a Perpendicular producing it, then take from the said
+Line of Lines 496, and setting one foot in b, pitch the other in the
+Perpendicular at c; join the points bc, and you complete the Triangle.
+
+This done take the Line ca and measure it on the Scale, it will give 310 for
+the length of the said Line. So also if on the point b you describe with 60
+degrees. from the Chords the Arch ed, and then take the distance ed, and measure it
+on the Scale of Chords it will give you 38 d. 40 m. for the Angle b. Which 38
+d. 40 m. taken from 90 will leave 51 d. 20 m. for the Angle c.
+
+Instrum. If you make the Hypotenuse Radius as before, then the Base and
+Perpendicular will be Sines of their opposite Angles. And then it will hold as
+the Hypotenuse bc is to the Radius or Sine of 90 d. So is the Base ba, to the
+Sine of the Angle c. Extend the Compasses therefore from 496 to 388 on the Line
+of Numbers, the same Extent will reach from 90 on the Line of Sines, to 51 d.
+20 m. which is the measure of the Angle c. which taken from 90 leaves 38 d. 40
+m. for the Angle b.
+
+Having gotten both the oblique Angles the Perpendicular is found by Case the
+1st.
+
+USE.
+It Is by this Case we find the Course and difference of Latitude, when the
+Distance sailed and Departure are given.
+
+CASE 4. Base ba 388, and Perpendicular ca 310 given. To find the Hypotenuse
+and oblique Angles.
+Geom. Draw a Line on which lay off from b to a 388, from a erect a
+Perpendicular, laying thereon from a to c. 310, then join bc and the Triangle
+is completed.
+
+From whence if you take the Hypotenuse bc and apply it to the Line of Lines,
+you shall have 496 for the length of it. And for the Angles, describe the Arch
+of a Circle as in the last Case was directed, then the intercepted part de
+taken and applied to the Scale of Chords, will give you 38 a. 40 m. for the
+measure of the Angle b. which 38 d. 40 m. taken from 90, will leave 51 d. 20 m.
+as before for the Angle c.
+
+Instrum. In this Case the Base must be made Radius, then by Chap. 1. the
+Perpendicular will be the Tangent of the Angle opposite to it, and the
+Hypotenuse the Secant of the said Angle.
+
+Which granting, it will then hold, as the Base ba, to Radius or Sine of 90 d.
+so in the Perpendicular ca, to the Tangent of the Angle b.
+
+Extend therefore the Compasses from 388 to 310 on the Line of Numbers, the
+same Extent will reach on the Line of Tangents, from 45 d. the Radius, to 38 d.
+40 m. the Measure of the Angle b. which taken from 90, leaves the Angle c.
+Having
+
+USE.
+It Is by this case (having the difference of Latitude and Departure) we find
+the Course and Distance sailed.
+
+Also having the breadth of a Moat, and height of a Tower, we can from hence
+find the length of a Scaling-Ladder that shall reach from one to the other.
+
+After the same manner may the oblique Cases in Plain Triangles be solved; and
+by the Artificial Lines may all the Proportions in both right and oblique
+Spherical Triangles, have their Solution, which thing is of great use, in that
+it so instantly proves our Arithmetic Operations.
+
+FINIS.
+identical figures 16, 17, 18, and 19
+

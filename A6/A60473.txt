@@ -1,0 +1,1453 @@
+Horological Disquisitions Concerning the NATURE of TIME, AND THE Reasons why
+all Days, from Noon to Noon, are not alike Twenty Four Hours long. In which
+appears the Impossibility of a Clock's being always kept exactly true to the
+Sun. With TABLES of EQUATION, and Newer and Better RULES than any yet extant,
+how thereby precisely to adjust ROYAL PENDULUMS, and keep them afterward, as
+near as possible to the apparent Time. With a TABLE of PENDULUMS, showing the
+BEATS that any Length makes in an Hour. A Work very necessay for all that would
+understand the true way of rightly managing Clocks and Watches.
+
+By JOHN SMITH, C. M.
+
+To which is added, The best Rules for the Ordering and Use both of the
+Quicksilver and Spirit Weather-Glasses: And Mr. S. Watson's Rules for
+adjusting a Clock by the Fixed Stars.
+
+LONDON: Printed for Richard Cumberland at the Angel in S. Paul' s Churchyard.
+1694.
+
+Licensed,
+
+January 17. 1693/4. D. Poplar.
+
+TO THE READER.
+THE Design of these Papers is not to cover the Clock-Makers Imperfections, as
+some have suggested, but plainly to demonstrate thetrue Reason of those
+unavoidable Variations between the Time given by the Sun and that of a good and
+well-adjusted Clock; and to give such Directions as may yet reduce them to a
+nearer Agreement in Time: In doing of which I have endeavored to express my
+self in such Words as I thought most proper to inform the Reader's
+Understanding. What is here exposed to public View is not the Result of mere
+Speculation, but of Skill and Practice, for as it has been my Profession, so it
+has been my Care and Concern also to understand exactly not only the Nature of
+a Clock, but that also of its Motion, and the Result of my Discoveries: As to
+the latter, you have very briefly laid down in the following Discourse; and I
+assure you that I have not spoken any thing of the Truth of which I was not
+first well satisfied.
+
+The Style indeed is purely Mechanic, but this is no Argument against its
+usefulness, since in Books Men ought not so much to heed who it is that speaks
+as what is spoken. He always writes best that from his own Knowledge and
+Experience can inform the World of something that is advantageous to Human Life,
+which was not known to Mankind in the Times before.
+
+Farewell.
+A Table of Equations, Showing the true Length of every Natural-Day, or the
+Seconds of Time that they are either Longer or shorter than XXIV. Hours.
+By JOHN SMITH C. M.
+Jan. Feb. Mar. April May June July Aug. Sept. Octo. Nov. Dec. 1 22 D 24 17 17
+3 11 7 9 20 14 9 20 2 23 2 17 16 3 11 7 9 20 14 10 30 3 23 2 18 16 1 12 7 9 21
+13 10 30 4 24 4 18 15 D 24 12 6 11 21 13 10 30 5 2^ 4 18 15 D 24 12 6 12 21 13
+11 30 6 2^ 4 18 14 1 13 6 13 21 13 12 30 7 19 5 18 14 2 13 6 13 22 13 12 30 8
+18 5 18 14 2 13 5 14 22 11 13 30 9 17 6 18 14 3 13 4 14 22 10 15 30 10 16 8 18
+13 3 13 4 15 21 9 17 30 11 16 8 18 13 3 13 3 15 21 8 17 33 12 16 9 18 12 4 13 2
+15 20 7 18 30 13 16 9 19 12 4 13 2 16 20 7 18 30 14 16 10 19 11 5 13 1 16 20 6
+19 31 15 15 10 20 11 5 13 D 24 17 20 6 20 31 16 1^ 11 20 10 6 12 D 24 17 20 5
+21 31 17 13 12 20 10 6 12 1 17 20 4 22 31 18 12 13 20 10 6 11 2 18 20 3 23 30
+19 11 13 20 10 6 11 3 18 19 3 23 30 20 11 13 19 10 7 11 4 19 19 2 24 30 21 10
+14 19 9 8 11 4 19 19 1 24 30 22 9 14 19 7 8 11 4 19 19 D 24 24 30 23 8 15 19 7
+9 10 4 19 19 D 24 25 30 24 ^ 15 19 7 10 10 5 19 18 1 25 30 25 5 15 19 6 10 10 5
+19 17 2 25 28 26 4 15 19 5 11 10 5 20 17 2 25 23 29 ^ 16 19 5 11 10 5 20 16 3
+26 23 28 ^ 17 19 5 11 9 6 20 16 4 26 27 29 ^ 18 4 11 9 7 20 16 6 27 27 30 1 17
+4 11 8 8 20 15 7 28 25 31 D 24 9 8 24
+
+The Character D 24, shows what Days are truly 24 Hours long, the Red Figures
+show the Seconds of Time, that those Days on which they are placed are longer
+than 24 Hours, and the Black Ones show how many Seconds those Days are shorter
+than 24 Hours: And here you are to note, That in those parts of the Year where
+days are above 24 Hours long, there a well adjusted Clock will gain, because
+the Pendulum-Day, which is the 24 Hours, of its own Motion will be finished
+before the Natural-Day is ended. On the contrary, Where the Days are less in
+length than 24 Hours, there the Clock will lose, or go too slow, because the
+Pendulum-Day will not be ended so soon as the Natural one.
+
+London: Printed for R. Cumberland, at the Angel in S. Paul's Churchyard.
+
+A Second Table of Equations, Showing how to order a well-adjusted Clock, so as
+that the whole Year round it shall not differ above the Sixteenth Part of an
+Hour from the Sun, or 3 45.
+By JOHN SMITH. C. M.
+Jan. Feb. Mar. Apr. May June July Aug. Sept. Octo. Nov. Dec. 1 7 8 2 49 1 40 3
+28 1 48 59 1 34 1 28 20 2 5 34 2 43 2 3 21 2 49 1 57 3 11 1 51 1 00 1 41 1 19
+00 2 19 43 3 12 3 2 58 2 47 2 14 2 55 1 54 1 11 1 48 1 10 20 2 33 53 7 28 4 2
+35 2 45 2 32 2 39 1 55 5 8 1 55 1 1 41 2 46 1 3 3 15 5 2 13 2 41 2 50 2 24 1 55
+3 33 2 1 50 1 2 2 59 1 13 2 45 6 1 52 2 37 3 8 2 9 1 55 3 11 2 7 38 1 23 3 12 1
+24 2 15 7 1 32 2 33 3 26 1 55 1 54 2 58 2 13 25 1 44 3 25 1 36 1 45 8 1 13 2 28
+7 29 1 41 1 52 2 45 2 19 12 2 6 5 10 1 48 1 15 9 55 2 23 3 27 1 27 1 50 2 32 2
+24 2 2 28 1 11 2 1 45 10 38 2 17 3 9 1 13 1 47 2 19 2 28 16 2 50 1 1 2 16 15 11
+22 2 9 2 51 1 0 1 44 2 6 2 32 31 3 11 52 2 33 15 12 6 2 1 2 33 47 1 41 1 53 2
+35 46 7 17 44 2 50 45 13 10 1 52 2 15 35 1 37 1 40 2 37 1 1 3 25 37 3 8 1 15 14
+26 1 43 1 56 28 1 33 1 27 2 39 1 17 3 5 30 3 26 1 45 15 42 1 33 1 37 12 1 28 1
+14 ^ 40 1 33 2 45 24 7 20 2 16 16 57 1 23 1 1 17 1 1 23 1 1 2 40 1 50 2 25 18 3
+25 2 47 17 1 1 1 12 57 9 1 17 49 2 40 2 7 2 5 13 3 4 7 3 18 1 24 1 00 37 19 1
+11 37 2 39 2 24 1 45 9 2 42 3 14 19 1 36 47 17 29 1 5 26 2 37 2 42 1 25 6 2 19
+2 44 20 1 47 34 3 39 59 15 2 34 3 00 1 9 3 1 56 2 14 21 1 58 21 22 49 52 4 2 30
+3 19 47 1 1 32 1 44 22 2 8 7 41 58 44 7 2 26 7 23 28 1 1 8 1 14 23 2 17 7 1 00
+1 5 36 18 2 22 3 26 9 1 44 44 24 2 25 22 1 19 1 12 27 28 2 18 3 7 10 1 19 14 25
+2 31 37 1 38 1 19 17 38 2 13 2 48 28 6 16 26 2 36 52 1 57 1 25 7 48 2 8 2 29 45
+4 31 41 27 2 40 1 7 2 16 1 30 4 38 2 3 2 9 1 2 6 56 1 12 28 2 43 1 23 2 35 1 35
+16 1 8 1 58 1 44 1 18 9 1 22 1 40 29 2 46 2 54 1 40 26 1 17 1 52 1 29 1 34 13 1
+48 2 7 30 2 48 3 13 1 44 37 1 26 1 45 1 00 1 50 19 2 15 2 34 31 2 49 7 16 48 1
+37 40 26 2 59
+
+Note, the Day on which this Mark is placed, are Rectifying Days; on any Day
+then that is not a Rectifying-Day, let the Clock be Set so much too Slow as the
+Black, or so much too Fast as the Red Figures express, and so let him go on
+till a Rectifying-Day, on which let Him be Set backward if the Figures on the
+Rectifying-Day are Black, or forward if the Figures are Red; just so many
+Minutes and Seconds as the sum of Figures are on the Rectifying-Day, and
+continue so to do each Rectifying-Day following; and then the Clock in the
+Intermediate Spaces between will agree with the Sun, as the Figures in the
+Table express, that is will be either so must too Fast, or so much too slow.
+
+London, Printed for Richard Cumberland at the Angel in S. Paul' s Churchyard,
+1694.
+
+(...) of use no longer than the Sun shines: The next to this, of any value and
+Esteem, was that of the Hourglass; an excellent Contrivance, if its Usefulness
+at all Times be considered; but the Care required to keep it in continual
+Motion did still excite the Ingenious to endeavor the Discovery of something
+else that might not only be yet more exact, but free too from the continual
+Toil, as I may call it, and Trouble of Attendance.
+
+In process of Time this came to be performed in part, by the way of
+Clock-Work; a Device first of all started among the Germans, from whom the Art
+of making Clocks dispersed it self over other Parts of Europe, but as yet
+Defective as to its exact and steady keeping of Time: At length, in Holland, an
+Ingenious and Learned Gentleman, Mr. Christian Hugens, by Name, found out the
+Way to regulate the uncertainty of its Motion by the Vibration of a Pendulum.
+
+From Holland, the fame of this Invention soon past over into England, where
+several eminent and ingenious Workmen applied themselves to rectify some
+Defects which as yet was found therein; among which that eminent and well-known
+Artist Mr. William Clement, had at last the good Fortune to give it the
+finishing Stroke, he being indeed the real Contriver of that curious kind of
+long Pendulum, which is at this Day so universally in use among us.
+
+An Invention that exceeds all others yet known, as to the Exactness and
+Steadiness of its Motion, which proceeds from Two Properties, peculiar to this
+Pendulum: The one is the weightiness of its Bob, and the other the little
+Compass in which it plays: The first of these makes it less apt to be commanded
+by those accidental differences of Strength that may sometimes happen in the
+Draught of the Wheels, and the other renders the Vibrations more equal and
+exact, as not being capable of altering so much in the distance of its Swinge,
+as those other kind of Pendulums are, who fetch a larger, and, by consequence,
+a less constant Compass.
+
+For Pendulums that swing or vibrate very far out, as all Crown-Wheel Pendulums
+do, are apt, by reason of many Accidents that happen to vary much in the
+Distance, they swing, and that is the reason they do not always go or move the
+same Pace, a larger Vibration taking up more Time to be performed in, than
+lesser ones do: But the Vibrations of this Pendulum of Mr. Clement's
+contrivance is so very exact and steady, that, when it is well in Order, and the
+Air of the same Consistence, it shall in Five hundred or a Thousand Revolutions
+of its Index, keep so equal a Time, that no Human Art can discover the least
+considerable Difference in any of its Revolutions, an excellence to which no
+other known Motion can as yet pretend, and for which I think it will not be
+improper now, at last, to call it the Royal Pendulum.
+
+But although the Motion thereof be so very curiously exact and equal, yet
+'twill not for all that regulate the Motion of a Clock in such a manner as that
+the Index or Hand shall continually agree with that Time which the Sun gives;
+for by constant Experience we find, that the best of Clocks, when exactly
+adjusted, will yet be found in some considerable Time of going to be either too
+fast or too flow for the Sun, although it was at the first set right therewith.
+
+Now this Disagreement cannot be occasioned by any Defect proper to the Motion
+of the Pendulum, each Twenty Four Hours; of which, when well rectified, being
+the same for length of Time, but it does proceed from an irregularity in the
+Sun's apparent Motion, which does occasion great diversity in the Lengths of
+Natural Days. It Is generally believed indeed that the natural Day, or the Time
+between 12. and 12. a Clock, is always in length just 24. Hours: But this is a
+great Mistake, for it will appear by the following Accounts of it, that it is
+but in some Parts of the Year that the Days are so; in all the other Parts,
+between these, they are found continually to differ, being sometimes above 24.
+Hours long, and sometimes less than 24. Hours; and though the Differences may
+seem but a small matter to some, the greatest excess being not above half a
+Minute, yet if these, seemingly but little Differences, be added together for
+the space of a Month or Two together, they will amount to a very considerable
+Sum of Time.
+
+Now, to make the reason of this irregular Length of Days as plain as I can, be
+pleased to take notice, That as Natural Days are that space of Time in which
+the Sun (or, as others think, the Earth) by the Motion of those Orbs, that
+divide Time into Days, is moved round just one whole diurnal Revolution, or
+passes from the Meridian, or Twelve a Clock Point of one Day to that of the
+next; so it must follow that all such natural Days cannot be of a true and
+equal Length, unlese the Sun, in that space of Time does also move in such a
+manner in his annual Orb, as that the Equinoctial may be always divided into
+equal Parts by those Meridians, on which the Sun is upon each particular Day:
+But that this is not done, is plain to all that are verst in Astronomy, and
+rightly understands the Use of the Globe.
+
+This, an exact Table of the Sun's Right Ascensions does demonstrate, for by
+that 'twill be found that the Meridian Sun of each Day does not divide the
+Equinoctial into equal parts, their Differences not being equal, but more on
+some Days than they are on others; and these their Differences will appear yet
+more plain and visible, if you will be but at the Pains to compute what the
+Right Ascensions amount to in to or 20 Days Time, in some parts of the Year,
+and compare that with those of the like Number of Days in some other part.
+
+So also, if on the Globe you mark out on the Ecliptic 10 or 20 Days Motion of
+the Sun, as it is found set down in an exact Ephemeris or Almanac, that shows
+the Sun's true Place; and passing this under the brazen Meridian, note what
+number of Degrees on the Equinoctial are included in that Space, the which
+compare with those of the like number of Days Motion in some other part of the
+Ecliptic, and the Degrees so compared will be found to differ, or be more in
+Number in some Places than they are in others; which plainly demonstrates the
+Thing asserted.
+
+Now the Reason of these Differences in the Right Ascensions, and, by
+consequence in the different Lengths of Days proceeds, in the First Place, from
+the cross Position of the Zodiac and the Equinoctial, which on Globes do
+represent the Circles of the Sun's yearly and daily Motion; for the Course of
+the Sun's daily Motion being directly from East to West, and the Circle of his
+yearly Motion being in position Crossways thereunto from the almost South West
+to the North East, as by the Globe is apparent, it follows that the Right
+Ascension will be still unequal; for it is impossible that the Sun, in his
+Motion, near Aries and Libra, where the Zodiac lies cross the Equinoctial,
+should in any certain number of Days make the same Number of Degrees in Right
+Ascension, as he will do near the two Tropicks of Cancer and Capricorn, where
+the Ecliptic runs in a manner parallel to the Equinoctial Circle.
+
+And accordingly it is sound by the best Tables of Right Ascension, that the
+Right Ascensions belonging to 10 Days Motion of the Sun, near the Tropic of
+Capricorn, amounts to about 11 Degrees 30 Minutes, whereas that of the same
+Number of Days, near the Equinoctial Points of Aries or Libra will be found to
+be hardly 9 Degrees.
+
+And as the Right Ascensions of the Tropicks differ from those of the
+Equinoctial Parts of the Ecliptic, so the Right Ascensions of one Tropic
+differs from that of the other: Now the Cause of this differs from the Cause of
+the former unequalities, for this proceeds from the excentricity of the Center
+of the Earth and the Center of the Sun's yearly Orb; for the Center of the
+Earth, on which we live, not being the same with the Center of the Ecliptic,
+in which the Sun moves, but distant from it, as some Astronomers affirm, about
+316000 Miles, it follows that there must be a greater part of the Sun's Orb on
+one Side of the Center of the Earth than there is on the other; for which
+Reason, though the Sun moves equally each Day in the Circle of his yearly
+Course, yet to us he seems to move faster in some Parts thereof than he does in
+others, and that makes the Right Ascensions greater near one Tropic than they
+are near the other.
+
+And accordingly, by the Tables of the Sun's Motion it is found that he takes up
+but about 179 Days in passing that part of the Ecliptic between Libra and
+Aries, whereas between the Two Points of Aries and Libra he spends above 186,
+so that he is almost 7 Days more in passing the Summer half of the Ecliptic
+than he is in passing that of the Winter, and this seemingly swift and slow
+Motion of the Sun is the Cause that the Right Ascensions of 10 Days Motion near
+the Winter Tropic are 60 Minutes, or a whole Degree more than those of the
+same Number of Days near that of the Summer one.
+
+The Right Ascensions of 10 Days Time near the 2 Equinoctial Points do also
+differ somewhat; for those of 10 Days Time, near Aries, are less by 30 Minutes
+than those near Libra; the Reason of which is from hence, in that the Suns
+greatest and nearest Distance to the Earth, happens now in our Times to be
+about 8 Degrees and something more from the Tropic Points, whereas had it
+fallen out exactly in the 2 Tropicks, then the Right Ascensions near the Two
+Equinoctials would have been both alike.
+
+Now, by what has been said, I hope the true Reason of the unequal Lengths of
+Natural Days will plainly appear, and by consequence Men will not hereafter be
+so unreasonably nice and curious, as some have heretofore been to expect always
+an exact Agreement between their Clocks and the Sun, for if there be from the
+Nature of the Fabric of the World, and the Celestial Orbs above us, a
+necessity for those Differences, as are found in the Sun's Right Ascensions,
+and there being for that Reason a Necessity also that the Days bounded thereby
+should be unequal in proportion to those Differences. It Is then plainly
+impossible that a Royal Pendulum (whose diurnal Revolutions are always equal,
+and, if well adjusted, gives you the true Time of 24 Hours) should agree with
+the Sun, which makes the length of Days almost continually to differ, and to be
+sometimes more than 24 Hours, and sometimes less.
+
+For, in the first Place, this makes it impossible to adjust a Clock well,
+barely by the Sun: For suppose one should attempt to adjust a Clock when the
+Natural Days are not fully 24 Hours long, as about the middle of March, where,
+as appears by the first annexed Table, the Day wants 20 of 24 Hours long, this
+Clock brought to go correspondent to the Days in March, shall in June finish
+his Pendulum Day or his two 12 Hours Revolutions before the Sun shall
+completely pass between one Meridian and another, that is, before the Sun shall
+pass from the Hour of 12 one Day, to that of the Hour of 12 on the next,
+because now the Natural Day is longer than 24 Hours by 13, whereas the Day to
+which it was before adjusted was 20 shorter than 24 Hours, and by consequence
+the Pendulum Day of the Clock must be finished sooner in June by 33 than the
+Natural Day, and gain each Day 33 Seconds.
+
+On the contrary, if a Clock could be adjusted to the Sun in the Month of
+December, at which Time the Natural Day is longest, being then 31, or half a
+Minute above 24 Hours in length, this Clock, when Natural Days are shortest, as
+in March, where they want 20 of 24 Hours, this Clock, I say, shall not then
+finish his diurnal Revolutions in so little a Time as those Days shall be
+accomplished, and by consequence shall go each Day 50 too slow, because those
+Days in March are shorter by 50 than those in December, to which your Clock is
+supposed to be adjusted.
+
+Supposed to be adjusted, I say, for to do it exactly by the Sun, we affirm to
+be impossible, for the Length of Days continually altering, he that would
+adjust a Clock to the Sun must be always altering of it accordingly; and if he
+should accidentally bring it to go slow enough, as he thinks, for some Days,
+such as those long ones in December are, the length of the Day soon altering,
+and becoming shorter, he must again alter the Length of his Pendulum, to make
+it go equal to Days that are now shorter, and so not understanding the Nature
+of Time truly, nor of what Length a mean or middle Day is, he will, in Hopes of
+making it go always true, be continually altering of it, as he sees it vary,
+and that without ever being so happy as to make it keep the Time desired; for
+it is impossible a Motion that keeps always the same Time that its particular
+Length or pitch of Pendulum does admit of, can be so adjusted by the bare Sun,
+as to accord therewith in all those various lengths of Days, which are made by
+its either slow or swift Motion.
+
+Since then things are thus, it remains that we show, How by Art that may be
+done which by mere Natural Observation can never be effected; that is, by what
+means a Clock, regulated by a Royal Pendulum, may be adjusted to such a middle
+Pitch of Motion as to make in a complete Year just 365 equal Revolutions, or so
+that each of its 24 Hours may be the same for Length, as the 365th part of a
+Year is, which is indeed the true Time of a 24 Hour Day, and that is the nearest
+and the most exact pitch to which it is possible to adjust the best of Pendulums.
+
+Now this is only to be done by the help of an exact Table of Equations, which
+shall as nearly as it is possible give you the true Length of every Day, so that
+knowing by this means not only which Days are truly 24 Hours long, but also
+which are shorter and which are longer, 'twill be easy then to know what must
+be taken from some or added unto others, to make them equal to them that are
+truly 24 Hours, which in short is the true Business of the Equation of Time:
+And though this cannot be done in the Natural Day it self, yet knowing how much
+all Days do differ from 24 Hours, the Motion of a Clock may yet be adjusted
+thereby to a true Pendulum or 24 Hour Day, by making it either lose or gain so
+much as the Days do exceed or fall short of 24 Hours.
+
+And this may well enough be performed by the Tables of Signs and Tangents, for
+by these you may readily frame a Table of the Sun's natural right Ascensions;
+and this shall show you what Degrees of the Equinoctial are each Day upon the
+true Meridian, when the Sun comes to it. Now these being in their measure of
+Degrees and Minutes sometimes more, and sometimes less, you must next find out
+what a mean or equal right Ascension will amount to by dividing the 360 Degrees
+of the Equinoctial into 365 Parts, agreeable to the number of Days contained in
+a Year; then compare each natural right Ascension with the mean ones, and by
+substracting the lesser from the greater, you will by turning the differences
+between them into Time, come to know their true Equation, that is, how much
+each Day is longer or shorter than 24 Hours; for so much as the natural right
+Ascension is more than the Mean in Time, so much is that Day longer than 24
+Hours; and so much as the Natural is less than the Mean, so much is that Day
+wanting of 24 Hours long.
+
+But Men may now well spare themselves the trouble of doing this, in regard
+that Tables of this nature are already published by diverse excellent and
+learned Men: As first, by Mr. Hugens, Printed Novem. 29. Of the Philosophical
+Transactions: Secondly, by Mr. Flamsteed, commonly made use of by Mr. Tompion,
+Printed also in Parker's Almanac. Thirdly, by Mr. Molyneux in his Sciothericum
+Telescopicum, or ingenious Tract of the Telescope Dial. Fourthly, by the
+learned Dr. William Salmon, in his Almanac for this Year 1694. And fifthly, by
+Mr. Samuel Watson, the curious Contriver of that rare Celestial Orbitery, now
+in the present Queen Mary's possession; in each of which the Equations are
+nearly enough the same for substance, as you will soon find by substracting any
+of their Numbers from the greater next it; and it is not material which you
+choose, provided you understand them rightly; but for my part I believe, from
+good Experience, there are not many that truly do this; and therefore having
+for some Reasons which I shall not now mention, made choice of Mr. Hugens's
+Equations, for the Uses intended in this Work; I have thought fit to cast them
+into such peculiar Forms of my own, as I judge more plain and natural than they
+are in the Form in which I find them published in the Philosophical
+Transactions; and I believe will, by the generality of them that are possessed of
+Royal Pendulums, be better understood too.
+
+Now in order to understand rightly the first Equation Table for length of
+Days; take notice, that the first Colume contains the Days common to every
+Month, the other 12 Columes belong to the Months whose Names are set over them;
+in the which, D 24. denotes which Days in the Year are just 24 Hours long; and
+where you find red Figures, there the Days are so many Seconds of Time above 24
+Hours long, as the Figures express; and wherever the Figures are black, there
+the Days want so much of being 24 Hours, as those Figures in Seconds of Time do
+amount to; so that by the Color of the Figures, you may discern at what times
+the Clock will naturally gain or lose, and by the sum thereof, you will know
+the time so lost or got each Day.
+
+The Table being thus briefly explained, I shall now show, how thereby to
+adjust a Royal Pendulum so exactly, as that its Diurnal, or Daily Revolutions,
+which is that of its twice 12 Hours going, may be equal to the true 24
+Hour-Day: To do this, let the Clock be set right to the Sun, and note the Day
+on which it is so set; then let it continue going till you find the Time given
+by the Sun, and that which the Clock shows, visibly to disagree; observe then
+how much the difference is; that is, how much it is either too fast, or too
+slow; then count how much the whole number of Seconds amounts to, included
+between the two Days of your first setting and last observing, save one, by
+allowing 60 Seconds to one Minute of Time, and if the difference between the
+Clock and the Sun be equal to what the sum of Equations so cast up amounts to,
+then is the Pendulum very well and truly ajusted.
+
+But in doing this, that is, in summing up the Equations contained in the
+Table, you must be sure to observe, as I said, to take in the Equation of the
+Day on which you set it, and leave out that which belongs to the Day of your
+last observing; for should the last be taken in, they would make the sum of
+Seconds lost or got to be so much more than the truth, and if it has both got
+or lost during the time it has gone, as it sometimes may happen, when the Sun
+appears not of a long time, to make an Observation, then you must substract the
+lesser sum of Equations from the greater, and the Remainder shall show the true
+time lost or got; as if the gaining Numbers be 20, and the losing 15, then the
+true time it should have got, is just 5 Minutes.
+
+But if the Clock have gone more too fast or too slow, than the sum of the
+Equations in the Table amounts to, then must the Motion of it be altered
+accordingly, by screwing up the Bob, or making the Pendulum shorter, in case it
+has gone too slow, or by letting the Bob down longer, in case it has gone 100
+fast; and then having set it true to the Sun a second time, try it again, as
+you were before directed, and if its disagreement with the Sun be not yet
+answerable to the sum of the Equations belonging to the time it has gone in,
+let the Bob be rectified a second time, and let the Clock be set a new; and
+thus continue to do, till you find its difference with the Sun to be nearly
+equal to the sum of Equations contained in the Table.
+
+Now when the Clock is by this means adjusted right, its Daily Revolutions, or
+each 24 Hours time of its going will be equal to the true 24 Hour-day, or the
+just 365th part of a Year; for if a Year be exactly divided into 365 parts,
+each of these parts will be equal in length to the 24 Hours motion of a
+welladjusted Pendulum, and the Motion of a Pendulum so exactly regulated, will
+be such, that if it be at any time set right, and so let go the whole Year
+about, it will the same Day Twelvemonth agree nearly with the Dial to which it
+was set a Year before.
+
+But yet in its Course of thus going a whole Year round, 'twill sometimes be
+found to differ very much from the same Dial 'twas at first set to; and these
+various Differences which its Motion will be subject to, will still be
+agreeable to what the nature of the time was 'twas set in: For set at one time
+of the Year, it will be always more or less too slow, till the time of its
+coming right the same Day Twelve month: Set at another time 'twill go always
+too fast till just the same Day Twelve month: Set at some other time, 'twill go
+sometimes too fast, and sometimes too slow; the Reason of which is plain and
+evident by the Table of Equations that gives the length of natural Days.
+
+For it appears by that, that in all that Space where black Figures are found,
+there the Clock will still go too slow, because the Pendulum Day is longer than
+the Natural Day: On the contrary, where the red Figures are found, there a well
+adjusted Clock will go always too fast, because there the Pendulum Day is
+shorter than the Natural Day, and by consequence is finished before it.
+
+Now it is plain, that if a Clock be set right to the Sun the First of February,
+it must go all the Year after too slow, because the losing between that and the
+Fourth of May, is so much, that it never gains it up till the very last part of
+its Years going: On the contrary, if it be set right the Twenty third of
+October, it will gain so much by the last of January, as no Loss shall
+afterward countervail; but that in the very last part of its Years going
+between the Sixteenth of July, and the Twenty first of October. It Is likewise
+as plain, that if a Clock be set right the Fourth of May, 'twill then in the
+time of a Years going, be both too fast, and too slow; for the gaining at first
+being less than the next losing, it will be too slow by the Twenty first of
+October, though 'twas too fast the Fifteenth of July; and the like will happen
+if it be set right the Seventeenth of July; for the losing that follows being
+less than the next gaining between October 24, and January 31. it must by
+consequence be sometimes too fast, and sometimes too slow.
+
+So that as a Clock may happen to be set, it may in some considerable time of
+going, be almost half an Hour too fast, or half an Hour too slow, though as to
+its own Motion it go exact and true, as it should do; and for this there is no
+help, unless you understand well the nature of Time, and know when and in what
+manner to set the Clock, so as that for some good length of time after, he may
+so humor the Sun's motion, as never to be very far distant from it; but
+sometimes too fast a little, and in a little time fall back again as it were,
+and so come to be right therewith, and then in a little time after be a little
+too slow.
+
+Now therefore in order to the reducing of the Motion of a well adjusted Clock
+much nearer the time given by the Sun, than as yet any known Rule will direct
+us; I have with great Care and Pains, Composed a Second Table of Equations,
+that shows how a good and well adjusted Pendulum may be kept all the Year round
+within a great deal less for the most part than 3 45 of the time given by the
+Sun, or the 4th part of a quarter of an Hour, which is so small a matter as not
+to be perceived in common business: Now in the explanation of the Second Table,
+note;
+
+That the First Colume contains the Days of every Month, the other Twelve
+Columes belong to the Twelve Months of the Year, whose Names are placed over
+them; the Black Figures in any part of the Columes, show where and how much a
+Clock in the Natural Course of its Motion, according to the design of the
+Table, will lose or go too slow; the Red Figures show in what parts of the
+Year, and how much in Minutes and Seconds of Time, the Clock will go too fast:
+As for the Days on which you find this Character, those Days I call Rectifying
+Days, because on them the Clock is still to be new set, in order to keep it the
+better within the Limits designed by the Table: The Table thus explained, I
+shall come now to show you the Uses that may be made thereof.
+
+And first, I will show you how by the Table also, as well as by the first, a
+Clock maybe adjusted now to do this. Let this Clock be set to the Sun on any
+Day, that is not a Rectifying Day; observing this always, to set it so much too
+fast, as the Red, or too slow, as the Black Figures do express, and then let it
+go for any considerable time, provided it be not beyond a Rectifying Day; and
+note whether its gain or loss be at any time equal to what the Table allows; if
+it is, then the Clock is truly adjusted; but if it have lost, or got more or
+less than it should do, then rectify the Bob, by making it shorter, if it have
+gone too slow, or screwing it down longer, in case it has gone too fast; then
+set it anew, and observe it a second time, continuing your altering of the Bob,
+and new setting, till you have brought it to rights.
+
+For example, Suppose you set it the Sixth of January, you must upon this Day
+set it too slow by one Minute fifty two Seconds, because the time is there set
+down in black Figures; let it go till the 11th of February, on which Day if it
+be well adjusted, it must be 2 9 too fast, because that sum of time is there
+set down in red Figures; but if it should happen to be too slow, or too fast
+for that time, as suppose 10 Minutes too fast, instead of 2 9, you must then
+adjust it nearer by screwing the Nut of the Bob down lower, or making it
+longer, by what means soever the same is to be effected; then set it anew just
+so much too fast as the Table for that Day does allow, and so let it go till
+the 4th or 5th of March, on which Day observe it again, and correct what you
+find to be amiss in the Motion: Note hear, that in adjusting by this Table, you
+save your self the labor of casting up the sum of those Equations that belong
+to the time the Clock has gone in, and by consequence the work of adjusting
+will be easier done by this, than by the former Table.
+
+When the Clock is well adjusted, it may then be kept the whole Year about as
+near the true time, as the design of the Table allows of, by the following
+method; about 12 a Clock on any Day, which is not a Rectifying Day, set it so
+much too fast or too slow for the Sun, as the Equation in the Table for that
+Day comes to, that is, too slow if the Figures are black, or too fast if the
+Figures are red; then let it go on till a Rectifying Day comes, which is known
+in the Table by this mark, upon which Day about Noon, set it backward from the
+place where the Hand then stood, if the Figures on that Day are black, or
+forward if they be red, so much in time as the Figures express, and observe to
+do the same upon every other Rectifying Day, and then if the Clock be well
+adjusted, it will go in all the intermediate parts, according to the time given
+by the Table.
+
+Take one Example to make this plain, Suppose you have not an Opportunity to
+set it till the 18th of January, the Equation for that Day is one Minute 24
+Seconds too fast; because the Figures are Red let it therefore be set so much
+too fast for the Sun, and let it go till the 8th of March, on which Day, about
+12 a Clock, set it forward from the Place the Hand is at 7 29, because the
+Figures are red, and then instead of being too slow, as it before was, it will
+be made to be 3 45 too fast; let it go till the 31st of that Month, and then
+set it again forward 7 16; after which, on the 4th of June, set it back 5 8,
+because there you find Black Figures: On the 22d of August set it also forward
+7 23, and on the 12th of September 7 17; set it forward likewise on the 8th of
+October 5 20, and also on the 15th of November 7 20; likewise on the 3d of
+December let it be set back 7 28, and on the 18th 7 3. and on the first Day of
+the next Year 7 8: And thus, with a very little Pains and Trouble you may keep
+a Clock near the true Time of the Day by a more easy Way and Method than has at
+any Time been practiced heretofore.
+
+But in case you should miss rectifying your Clock on a rectifying Day, then
+you must the next, or any other Day following set him by the Sun so much too
+fast or too slow, as the Nature of the Table requires; and then he will again
+go on in that Order which the Design of the Table makes necessary; that is, he
+will then be capable of humoring the Suns Motion so far as that (between being
+sometimes a little too slow and othertimes a little too fast) 'twill, with a
+little Rectification be always within less than a fourth Part of a quarter of
+an Hour of the true Time. In such Clocks as show not Minutes the Time of
+setting must be guest at as well as you can.
+
+Now the Reason of thus setting a Clock sometimes backward and sometimes
+forwards, upon the rectifying Days, is this, If a Clock, at the beginning of
+the Year, be set to the Sun, according to the former Directions, it will be too
+slow by the 8th of March at Noon, 3 44: Now the Design of the Table being to
+keep the Clock so as that it shall at no Time disagree with the Sun above 3 45,
+or the fourth part of a quarter of an Hour: I then (to prevent its being more
+too slow, as it will, if let go longer) am necessitated to set it forward 7 24,
+and then 'twill be too fast for the Sun 3 45. Now the Clock naturally losing,
+at this Time of the Year, it will again, by the 31st Day be too slow 3 31: Now
+the Clock being still naturally inclined to lose, I therefore, to prevent his
+being above 3 45 too slow, set him again 7 16 forward from the Place where the
+Hand then stands, and so he is again too fast for the Sun 3 45 (which is the
+most that I suffer him to differ from the apparent Time) Now, after this, he
+going on, for about 9 Weeks, will the 4th of June be too fast 1 23, at which
+Time I set him back 5 8, that so he may be now 3 45 too slow, for by thus doing
+he will continue going the longer, before he will require to be again new set;
+which next happens to be August 22d, which is above 11 Weeks Time: Now the like
+Reason is the Cause of his requiring to be set anew in any other Place or Part
+of the Year.
+
+And here I think fit to add one Caution to those that desire to adjust their
+Clocks very nicely; and that is, that among Dials, they make use only of the
+horizontal or brass Dials, which are fixed on Posts, for no other can possibly
+give the Time so near the Truth; neither on that should they make use of above
+one certain Hour; and the nearer Noon that is the better, for it is a difficult
+thing, even for the best Masters in this Art, to draw a Dial so true as to
+contain an equal Time between all its Hours; which though in other Cases it be
+not very material, yet in this of adjusting a Clock it may cause a considerable
+Error: Besides, few Dials are fitted truly to the Latitudes in which they
+stand; and if we could be certain that all were right, as to these Particulars,
+yet no Human Art can prevent the Sun's Refractions, which as they make his Body
+appear much bigger when near the Horizon, so they make him for a good part of
+the Day to show to us higher than really he is, and that must cause him to give
+a false Shadow on the truest Dial; so that these particulars considered
+together, it is plain that there can be no true account taken of the Time till
+near Noon, or 12 a Clock; and he that watches for that Moment need not matter
+the falsness of the Dial, wrong Latitudes, nor Refractions neither, because
+upon the Meridian let the Sun be higher or lower, yet it still gives you the
+true 12 a Clock.
+
+But in regard it is so very hard to distinguish to a Minute by the Shadow of
+the best Dial, small ones not admitting of minute Divisions, and in large ones
+the Haziness or Faintness of the Shadow renders a minute difficult to be
+discerned exactly; 'twill therefore be better if instead of a Dial you make use
+of the following Device, which I call a Meridian Cranny; Take then Two plain
+and flat Plates or Boards, about six or eight Inches square, join them so close
+as that an old Groat or a Six Pence at the most may but pass between them, let
+them be then fixed so as that the Chink or Cranny between them may respect, as
+near as may be, the Meridian or true South Point, this will plainly give you
+the Time to half a Minute and less, if you are careful to watch, for the very
+first Beam, that by the Sun's coming to the South shall be darted through it,
+which may be perceived in a Moment by the help of a smooth Board or Plate of
+Brass, made black, and placed near it, on the North Side, to receive the Light;
+by this means the true Time of the Sun's coming to the very same Point on the
+Meridian may be more exactly obtained than it can be by the best and truest
+Dial, except such a one as is described by Mr. Molyneux in his Sciothericum
+Telescopicum.
+
+But now, although the true Time of the Sun's coming to the South may, by this
+means be more nearly obtained, yet you will, for all that, find the Work of
+truly adjusting a Clock to be exceeding difficult, especially to do it
+precisely, when you have already brought to go pretty nearly true, and this has
+made some to censure the Equation Tables, as false, because they could never
+adjust a Clock so as to acord therewith exactly, or come Right the same Day
+twelve Month with that Dial, to which it was set a Year before.
+
+Now, that I may do right to Truth, I affirm that this proceeds not from any
+material Defect in the Tables, but either from their not rightly understanding
+which way to perform the Work they took in hand, or from some other unavoidable
+Accidents, with which Nature too often sportsher self in the Disappointment of
+Men's Designs: It Is probable indeed that there may be some Error in the Tables,
+as suppose a Minute at the most, this signifies little as to the Business in
+hand, and if it did, yet we ought to value a Guide that will bring us in sight
+of the thing we aim at, rather than follow an apparent Uncertainty, as I have
+proved those do that would attempt to adjust a Clock by barely setting of it
+true to the Sun; there must be grains of Allowance given for Human Infirmity,
+for no Man, that understands himself, dares pretend to an infallible certainty
+in things so much above him as those are about which Astronomy is conversant,
+there is no measuring the divisions of the Celestial Spheres with Scale and
+Compasses, all our Knowledge in things of this nature is derived from
+Observations made by Instruments, which we know is so difficult to be done
+exactly, that if ten Men should attempt at the same Time to find out the Sun's
+Declination (the Ground - work on which Equations are built) perhaps they would
+all differ, as to their Accounts thereof: Now, we know, if the Premises are
+never so little out, the Conclusions drawn therefrom can never be exactly and
+critically true.
+
+Therefore, granting the Possibility of some inconsiderable Error in the Tables
+of Equation, yet still we are sure of this, That they come so near the Truth,
+that perhaps no Man can here after Mend 'em; and the Work of adjusting a Clock
+is thereby made a hundred Times more easy than it would be to do it with out
+them: Besides, we see that the most learned in Astronomy agree all of them as
+to the mean thing, namely, That there is such a thing as Difference in the
+length of Natural Days, and their Tables all agree as to the Parts of the Year
+in which these Differences happen; they also accord very nearly so as to the
+Quantity of Time that any natural Day is longer or shorter than 24 Hours, and
+therefore we may very well rest satisfied that there are no material Errors
+committed therein; and perhaps could we demonstrate any Table of Equations to
+be really exact to a tittle, yet this Work of adjusting a Clock truly would not
+be found more easy to do then than now it is, for much of this depends not only
+upon the right understanding which way to perform best the Work we are about,
+but on the Constant Temper of the Air, as will hereafter appear.
+
+But, to the end that we may not be in the dark, as to the true Nature of this
+Difficulty, I affirm that it chiefly proceeds from the exceeding niceness of
+rectifying the Bob exactly, when you have already brought the Clock to go
+pretty near the true Time; as suppose, for example, that a Royal Pendulum were
+so well rectified, that being kept going the whole Year round, it should be
+just at the same Day Twelve Month but 6 5 too slow for the Sun, which some
+perhaps will account a great matter; now this turned all into Seconds makes
+just 365, and by consequence the Clock has gone each Day but a Second of Time
+too slow.
+
+Now, by the following Table of Pendulums, we find that a Royal Pendulum 41
+Inches long, each Blow of which is a Second of Time, strikes just 3600 Blows in
+an Hour: Now this Pendulum will go faster by 45 Blows in an Hour, if screwed up
+an Inch shorter, which is faster in a Day near 1080 Seconds; now if an Inch
+shorter makes a Pendulum go near 1080 Seconds in a Day faster 'twill then
+require the Bob to be screwed up but the thousand and eigtieth part of an Inch
+to make it go in a Day but one Second faster, or so much as the Clock is said
+to have lost; which is so very small a matter that no Man living can by guess
+hit it exactly, the least Turn that shall be given it may perhaps make it go
+ten Times as much too fast as it before went too slow.
+
+Now to the end that this may, if possible, be done by some more certain Rule
+and Method than any yet commonly known, I will here make bold to propose a way
+by which this may be performed more exactly than heretofore, and by which you
+may make a near Estimation how much a Royal Pendulum that strikes Seconds (for
+this sort only is here intended) ought to be made shorter or longer, to go
+faster or slower a Second in a Day, and the same Rule by which you know how to
+alter it one Second will direct you how to alter it 2 or 3, or more if occasion
+require it.
+
+By the forementioned Table of Pendulums, we find that a 41 Inch Pendulum goes
+45 Blows (which are all nearly Seconds) in an Hour faster, if screwed up an
+Inch higher; and being let down an inch longer; it then goes 43 Blows slower,
+that is, strikes so many Blows less in an Hour; now if between these 2 Numbers
+we take a mean one, which is 44, 'twill be suitable to the Lengths near 41
+Inches, for so many Blows will a Pendulum 39 and an half strike more than one
+of 41 Inches and an half long: Now 44 difference in an Hour makes in a Day
+1056. divide this number 1056 by the number of Turns which the Screw of your
+Pendulum makes in an Inch, and the Quotient shall be the Number, into which the
+Nut of that Screw must be divided; now one of these Divisions turned about
+shall alter the Motion of that Pendulum a Second in a Day.
+
+But to avoid the Trouble of thus dividing, I have here added a Table, by
+which, knowing the Turns your Screw makes in an Inch, you may, by Inspection
+only know how to divide the Nut that belongs thereunto, the Table reaches from
+15 Threads or Turns of the Screw in an Inch to 40, within which Numbers, I
+suppose, all Screws will be comprehended, that belong to Pendulums that strike
+Seconds.
+
+The Table for dividing the Nut of a Pendulum Screw.
+Turns Divisions 15 70 16 66 17 62 18 58 19 55 20 52 21 50 22 48 23 45 24 44 25
+42 26 40 27 39 28 37 29 36 30 35 31 34 32 33 33 32 34 31 35 30 36 29 37 28 38
+27 39 26 40 25
+
+The Uses of the Table for dividing the Nut of a Pendulum Screw.
+Find out how many Threads or Turns of your Screw are contained in an Inch, by
+applying the Inch-Division of a Rule thereunto, which number of Turns seek out
+among the first Row of Figures on the Left Hand, and against it, in the second
+Row, you have the Number that the Nut must be divided into that belongs to that
+Screw: Now the Nut, turned about but one of these Divisions, will alter the
+Clocks Motion a Second in a Day; so that let the Screw be finer or courser, yet
+by this Table you may readily know into how many Divisions its Nut must be
+divided. Note, that if the Clock has got or lost in a Day above one Second,
+then you must turn the Nut about so many Divisions; as if it have lost in 60
+Days 4 Minutes, which is 4 Seconds in a Day, turn it then upwards 4 Divisions,
+and that will make it go 4 Seconds in a Day faster, or so much Time as it had
+gone too slow: And the like must be done for any other Number lost or got.
+
+Now though this Rule be ten times more exact than any yet known, yet for all
+that it may be yet found difficult to make a Clock go exact, especially for a
+long time together; for though a Royal Pendulum be the most excellent
+Contrivance in the World for exactness of keeping Time, yet the different
+degrees of Rarity and Density in the Air, does oftentimes alter the nature of
+the Pendulums motion, a thick Air not suffering it to vibrate so freely, nor so
+far as a thin Air does; the Motion of the Pendulum may be also somewhat altered
+by the Oil growing drier and thicker with which the Penets are moistened; for
+when a Clock is clean, and the Oil thin and free from foulness, the Pendulum
+plays differently from what it does when the Clock is foul, and the Peuets dry
+and dirty: But here you are to note, That not withstanding the Royal Pendulum
+is subject to be altered somewhat in its Motion by the aforesaid Causes, that
+it is nothing in comparison to what happens in the common Crown-wheel Pendulum,
+for these are apt to be varied ten times more than the other, which still makes
+very much for the Reputation of the Royal Pendulum.
+
+Since then the Air, and Oil, and Dust, are apt to cause the best Clock to go
+less certain, than it otherwise would; I have thought fit to propose a way by
+which it may be known when any thing considerable of this nature happens, and
+that is thus, Screw or fasten to the back of the Case a brass Plate, with 2
+sliding Indexes fitted to it, that may be set exactly to the Compass which your
+Pendulum fetches, and by that you may perceive whether your Pendulum alters in
+its Compass, for should it do so in the time of your adjusting of it, you will
+find it a very hard matter to rectify it well; and if nothing of this happens
+till it be brought to go completely true, yet if the Compass of your Pendulum
+does afterward differ, you will certainly find it not to keep the same time it
+did when first adjusted, and the best Clocks that are will sometimes be subject
+to these unavoidable Accidents.
+
+But although those little Irregularities in the Motion of a good Pendulum, may
+sometimes happen and prove some hindrance to the exactness of its Motion, yet
+when you come to know how much it varies from the truth, you may soon correct
+it by the foregoing Rules, if you see occasion. Indeed a constant Inclination
+to go either too fast, or too slow, argues rather a not being well adjusted at
+first, for if it vary from the Influence of the Air, that aptness to go false
+will continue no longer when the temper of the Air returns to its former state,
+and then the Clock will return to its old pitch of Motion; but if it happen
+through foulness (which may be guest at by its having gone true a long time
+before) then 'twill continue to go Irregular till the Clock be made clean, new
+oiled, and put in order: But when all is said that can be said on this matter,
+if the Clock be a well made Piece of Work, all these Alterations in the Motions
+will be so inconsiderable, as not to be worth the noting, if you observe
+constantly to set it according to the Design of the Second Table, and Correct
+it once or twice a Year by the Sun. but for base and ill Work, no Art of Man
+can make that go exactly and well one Quarter of the time that the other will.
+
+From all that has been spoken hitherto concerning the Royal Pendulum, we may
+gather that the same Exactness of keeping Time, is not to be expected in short
+Crown-wheel Pendulums; Indeed if fuch are good Work, they may be made to go
+very well, but yet not so exactly as the Royal Pendulum; for the shorter the
+Pendulum is, the more difficult it is to adjust it exactly: And when the
+adjusting part is done never so true, yet the uncertainty that this kind of
+Pendulum is subject to in the Compass it fetches, will not suffer it to keep so
+equal a Time, as the Royal Pendulum; the different Temper of the Weather will
+alter it very considerably, if compared with the other; and 'twill also be
+sooner out of order in the going, from the foulness and thickness of the Oil
+that the Penuets are moistened with.
+
+The best and easiest way to adjust such a Clock as this, is by a Royal
+Pendulum already Rectified, for a Standard to Adjust other Clocks by; for when
+by that you have brought a short Crown-wheel Pendulum, (of which sort all
+Spring-Clocks are for the most part) pretty near to the Truth, take exact
+notice how much it differs from it in either one Day or two Days, as you
+please; then give the Bob just a whole turn about upward, if it go too slow, or
+downward if it go too fast; and see how much that Turn will make it differ from
+the Standard above what it did before in a Day, or two Days time. Now knowing
+how many Seconds in a Day a Turn of the Bob will alter, you may soon bring it
+to keep true time, by turning it so many Turns or parts of a Turn about, as
+shall answer the Time it has gone too fast, or too slow.
+
+As for those Pocket-Watches which are now so improperly called Pendulums,
+there is less to be expected from them than from a Crown-wheel Pendulum; for
+though this delicate Invention of the Ingenious Mr. Robert Hook does strangely
+Rectify the Motion of the Balance, yet must it not compare with either of the
+other, as to the Truth of going, for it is the hardest thing in the World to
+make a Watch keep the same Time, when laid on what part or side soever, you
+will be pleased to turn it, which rightly considered, may reasonably obtain for
+them some grains of allowance: All that I shall add more, is, that if you know
+but nearly how much the turning of each Division on the Justning Plate will
+make it go either faster or slower, you may then at any time with greater
+certainty, adjust it to a Standard Pendulum; and this any one may attain to
+with but the trouble of a little Observation; for if the Watch, for example,
+have gone too slow two Minutes in a Day, turn the Justning Plate about one
+Division faster, and if that Division make it go four Minutes too fast, in
+stead of the two, which before it went too slow, then conclude that that
+Division has altered it in a Day six Minutes; and by consequence if you turn it
+two thirds back, it will make the Watch go right as it ought to do.
+
+I shall only add one more Note concerning Spring Clocks, or those that go with
+Crown-wheel Pendulums; and that is, that although as yet they have not been
+capable of keeping so exact a Time as the Royal Pendulum, yet if the Pendulum
+of a Spring-Clock instead of playing upon an edge, as they now generally do,
+were hung upon a String, about two Inches long, and that Spring were so filled
+according to the Rules of Art, as that in the Pendulums vibration, it might
+bend proportionable to the Cycloid, its Center of Motion would then still
+shorten, as the way of its vibration grows longer; and by consequence the
+farther the Pendulum swings out, the quicker would its return be, and so all
+its vibrations whether longer or shorter, would be performed in the same equal
+time, and then its Motion would be much more steady than it is, and be nearly
+as exact as that of a Royal Pendulum.
+
+The manner of Rightly fixing, or Setting up Pendulums to go well.
+THE Difficulty of setting up Pendulum Clocks rightly in such places where the
+help of the Clock maker cannot be had, is the Reason that many Gentlemen who
+live far off from London, are as yet unfurnished with them; and it also too
+often happens, that Clocks who at first have been set up well as to matter of
+going, have by accident been misplaced or jumbl'd awry, and so are made to
+stand still and become useless merely for want of Skill in the Owner to put
+them again to rights; in order therefore to Enable all Persons not only to Set
+a Pendulum Clock up Rightly, but also to Reduce him again to rights, when by
+accident he is misplaced, I have here made public the following Directions.
+
+First, Let the Workman, by whose Hands the Clock is made, set him upright at
+home in his own House, and there having made a through trial of his going, let
+him then stop the Pendulum, and when it is perfectly at rest, let him fix or
+drive into the back of the Case a strong Stud of Brass or Iron, with the end
+turned a little up, which he must place so as that the Beak that turns up may
+stand exactly under the lower end of the Pendulum Rod; and this will
+sufficiently direct you how to Set him up in any other Place: For when the
+Clock is to be Set up by him that buys him; it is but placing the Case so that
+the end of the Pendulum Rod may hang just over the Beak of the Stud, and then
+he will stand upright as he did before in then Workman's Hands.
+
+But in case this provision be not made, then the Rule to do it by, is this;
+Set the Clock up in the place it is to stand in, let the Pe^^ulum and the
+Pulleys which usually are fixed to the Case be unfastned, hang on the Weights,
+and set the Pendulum a going, by making of it swing between the Sides of the
+Case; now if when the Clock is thus set a going, you find the Pendulum to beat
+equally, that is, if there be the same Distance of Time between all its Blows,
+which an attentive Ear will soon discover; then does the Clock stand well, and
+you must make him fast to the Place he stands against: But if you find one Blow
+Beat in less Time than the other, then you must a little incline the Case to
+that Side which the Pendulum plays to, when he strikes the shortest Blow, and
+then you will find him to Beat more equal; and when you have inclined the Case
+so much, that you find exactly the same Distance of Time between the Blows or
+Vibrations; then the Clock stands right for Going, and you are to fix Him that
+He may stand firmly in that Posture.
+
+Now the Rule before given, is general to all Pendulums; for they all must
+stand so that the Beats of the Pendulum may be equally distant as to length of
+Time, for otherwise if they stand awry, so that one Blow, or Vibration of the
+Pendulum is struck in less time than the other, that Pendulum upon the least
+accident that shall happen, will be apt to stand still; and therefore great
+Care ought to be taken, that not only Royal Pendulums, but also Spring Clocks
+be set up exactly upright in the Places that they are, to stand in, and they
+never stand upright as they should do, unless the Blows of the Pendulum beat
+equally.
+
+Note, That as a long Swing-Clock ought to stand so as that the Pendulum beat
+equally, so he must stand so as that the Pendulum play free from the back of
+the Case, for if it stand right, in this respect the Rod of the Pendulum will
+all the way up, be parallel or equidistant from the backpart.
+
+Moreover, take Care that the Clock be fixed fast and firm, that no Violence
+may justle Him out of his Place; but if by Accident it should so come to pass,
+you must then set Him again to Rights by the Rule before given from the exact
+beating of the Pendulum.
+
+A Table of Crown-Wheel'd Pendulums, showing the number of Beats made in an
+Hour, by any length of Inches and Quarters, from One Inch to Twelve, the Bob
+about an Ounce in Weight.
+Inches Beats 1 -- 22946 1 20524 2 18735 3 17345 2 -- 16225 1 15298 2 18735 3
+13837 3 -- 13248 1 12732 2 12265 3 11852 4 -- 11473 1 11131 2 10817 3 10528 5
+-- 10262 1 10014 2 9781 3 9569 6 -- 9368 1 9178 2 9000 3 8832 7 -- 8672 1 8524
+2 8381 3 8242 8 -- 8107 1 7989 2 7870 3 7764 9 -- 7653 1 7544 2 7448 3 7349 10
+-- 7256 1 7167 2 7081 3 6998 11 -- 6919 1 6842 2 6767 3 6694 12 -- 6623 1 6565
+2 6497 3 6431
+
+The first Row of Figures are Inches, the second are Quarters of Inches; the
+Figures against each of these are the Beats that a Pendulum of that length make
+in an Hour: For example, 2 Inches beats 16225 Blows in an Hour; and 3 Inches
+and a half beats 12265; and 6 Inches 3 quarters beats 8832: Divide any of these
+Numbers by 60, and it shows you the Beats made in a Minute, multiply any of
+these by 24, and it shows you the Beats made in a Day.
+
+A Table of Royal Pendulums, showing what Beats any Length makes in an Hour
+from 12 to 60 Inches, the Bob 2 Pound Weight or more.
+Inches Beats 12 6651 13 6393 14 6161 15 5955 16 5765 17 5591 18 5433 19 5288
+20 5154 21 5030 22 4915 23 4807 24 4706 25 4610 26 4522 27 4437 28 4356 29 4281
+30 4209 31 4141 32 4075 33 4013 34 3953 35 3897 36 3843 37 3790 38 3793 39 3691
+40 3645 41 3600 42 3557 43 3515 44 3475 45 3436 46 3399 47 3362 48 3327 49 3293
+50 3260 51 3228 52 3196 53 3166 54 3137 55 3108 56 3080 57 3053 58 3027 59 3001
+60 2976 61 2951 62 2927 63 2904 64 2880 65 2859
+
+In this Table, the first Row of Figures, in each Colume, are the Inches of a
+Pendulum's Length: The second Row are the Beats that a Pendulum of that Length
+makes in an Hour. Thus one of 41 Inches long beats 3600 times, and one of 64
+2880.
+
+The Table of Royal Pendulums continued, from 3 Foot long to 30, for the Use of
+such as make Church and Turret-Clocks.
+Feet Beats 3 3842 4 3327 5 2976 6 2716 7 2515 8 2353 9 2218 10 2104 11 2006 12
+1912 13 1845 14 1778 15 1718 16 1664 17 1614 18 1568 19 1526 20 1488 21 1452 22
+1429 23 1387 24 1353 25 1331 26 1305 27 1288 28 1257 29 1235 30 1215
+
+In this Table, the first Row of Figures are the Feet of any Pendulum's Length,
+the second Row are the Beats that that Length makes in an Hour; as 10 Foot long
+beats 2104 in an Hour, so a Pendulum of 20 Foot long beats 1488 Blows in an
+Hour.
+
+The foregoing Table of Pendulums I was, in some measure necessitated to
+publish, in order to demonstrate why heretofore it has been found so difficult
+to adjust a Clock to the Table of Equations. But, besides this, I thought it
+might be of good Use to some, who, in contriving Numbers for new Clocks, or for
+old Clocks altered into Pendulums, are often at a loss what Length of Pendulum
+to fit their Number to. Perhaps my so doing may anger some, but the pleasuring
+of more will countervail that Mischief.
+
+The Table of Crown-Wheel'd Pendulums is calculated from a Standard of the same
+sort, 6 Inches and a half long, that strikes 9000 Blows in an Hour: And that of
+Royal Pendulums from one of 41 Inches, that strikes Seconds, or 3600 Blows in
+an Hour. In both the Tables you may perceive, That a Pendulum that strikes but
+half so many Blows as another is four Times as long: This noted, gives you a
+true insight into the Nature of the Pendulum. The Tables are exact, as to their
+whole Numbers, and would always give you the exact length, did not different
+ways of making Clocks cause an Alteration, insomuch that sometimes a Pendulum
+that strikes Seconds shall be above a quarter of an Inch longer than another
+shall; we must bear with what we cannot avoid.
+
+The best Rules for the ORDERING and USE Both of the Quicksilver and Spirit
+WEATHER-GLASS.
+SInce it is so easy to be furnished in London with both these Sorts of
+Weather-Glasses, I judge it needless, now, to give any Directions about their
+Making; only thus much I shall take notice of, That the Goodness of a Baroscope
+or Quicksilver Weather glass does consist wholly in the Largeness and Depth of
+the Cestern below, and the Quantity of Quicksilver contained therein. Now,
+that you may know whether a Cestern be large enough, cause the Workman, that
+makes it, to fill the Tube about 3 Inches, with part of the Mercury designed
+for its Use; fill the Cestern with the best part of the rest that remains, and
+then clapping across the Brims at the Cestern, a Gage, that shall have a Pin
+drove into it, reaching just down to the Surface of the Mercury, let the
+Mercury, which before filled the 3 Inches of the Tube be put therein; and if
+you find it not to raise the Mercury in the Cestern above the thickness of a
+Six Pence, then is the Cestern of a sufficient Capacity.
+
+A Cestern of about 2 Inches and a half Diameter, generally, is large enough
+for any Tube, that has not a Bore above a quarter of an Inch Diameter, which is
+as large as is needful; for if it be so large, as that when the Quicksilver in
+the Glass, by rising and falling, do raise that in the Cestern too
+considerably, then you will not constantly have that Distance between the
+Surface of the stagnant Mercury below and the numbered Figures on the Register
+Plates of the Weather-Glass; for if the Glass be a good Glass, measure that
+Distance when you will, and you will always find it just 28, 30 or 31 Inches
+from the Divisions so numbered to the Superficies of the Quicksilver, in the
+Cestern below.
+
+Note likewise, That the End of the Tube ought to be emerst at least three
+quarters of an Inch within the Cestern of Quicksilver, else the Air will be in
+danger of getting up into the Body of the Tube: For this reason there ought to
+be at least 28 Inches and 3 quarters Distance between the Figure 28, on the
+Register Plate and the Bottom of the Cestern.
+
+Now, in order to set the Weather-glass up, let the Frame be first fixed fast
+to the Place you design for it; which is done by first driving therein a Nail
+or Tenter-hook, fitted, for that purpose, upon which the Frame is to be hung or
+suspended, and, with a Screw, let the Bottom thereof be firmly fastened to the
+Place, or, in want of a Screw, by somewhat else that may perform the Work well.
+
+Then make the in side of the Glass Tube very clean and dry, by means of a
+bright and clean piece of Wire, made red hot at the End in a Fire, and turned
+down for about half an Inch, like the Eye of a Needle, through which draw a
+long slip of fine softLawn Paper, which I find best for this purpose, because
+it is not apt to leave any Lint behind it, as Linen Rags will; which Lint will
+always cause a small Bleb of Air to remain round it, so that in spite of all
+your Care and Pains you shall never obtain a perfect fine Cilender of Mercury.
+
+With this Paper, in the Eye of the Wire, let the Bore of the Tube be well
+cleansed, by drawing of it to and fro, from one End to the other, till you are
+sure that you have not mist any Part thereof: And if you find, when you have
+drawn it out, that the Paper be any whit soiled, put in a fresh Piece, and
+after that another, till you find the Paper come out as clean at it went in,
+for should any Foulness or Moisture be left behind the Mercury will not play
+freely up and down.
+
+When you have cleansed the Tuble very well, then prepare and make the Mercury
+fit to fill it with, which you are to do in the manner following.
+
+Take an earthen Basin or Dish, and put therein half a Sheet of clean white
+Paper; then put the whole Quantity of Mercury which the maker of the Baroscope
+has fitted thereunto, and having put it into a clean linen Cloth, strain out
+gently so much of it as you judge will fill the Bore of the Tube and no more,
+for should you twist and wring the Cloth, the Quick silver is in, to strain it
+all through, you will, in so doing, find much Lint fall off from it, and foul
+the Surface of the Mercury strained out, so that you cannot fill the Tube with
+it without conveying some of the Lint along with it, which will spoil the
+perfect smoothness of the Mercurial Cylender within the Glass.
+
+When you have purely strained out about one half of the Quicksilver, take the
+Tube, and resting the closed end in some large wooden or earthen Vessel, to
+save the Mercury, should any spill in the filling; then graspe the open end of
+it between the Root of the Thumb and Forefinger, somewhat low, that the
+hollowness between may serve instead of a Tunnel; then fill the Tube with the
+pure clean-strain'd Quicksilver, by by taking of it up with the clean
+Bowle-end of a Tobacco-Pipe, or by putting of it into the Cestern-Glass, first
+wiped clean, and so pouring of it in till it be full, within a quarter of an
+Inch of the Top of the Tube.
+
+Then, to cleanse it from Air and Wind-Blebs, stop the End with your Finger,
+and raising the other End up, somewhat above a Level, let the Air, included in
+the empty Space, at the open End, rise up very gently toward the Top or sealed
+End, and this will take into it self all the other Blebs of Wind that lie in
+its Way; and when this Bubble of Air is risen up quite to the End of the Tube,
+let it return again, by depressing a little that End which before was
+uppermost, turning the Tube also, at the same time, that the Buble may take in
+its way all the Blebs of Wind that may yet remain on the other Sides of the
+Glass; and, thus, by turning the Tube a little, and making the Bubble pass and
+re-pass from one End to the other, the Cylender of Quicksilver, will be at
+last cleansed from all those little Blebs of Wind that appeared by the Sides of
+the Glass, any of which, should they remain in, would in Time work themselves
+up into the Head of the Tube, and be very injurious to the Quick-silvers true
+Motion.
+
+But if, as I noted before, the least Moisture or Lint be left in the Tube, the
+greatest Care and Skill that can be used will not be able so perfectly to
+cleanse it from Air, as not to leave the least Speck remaining: In which Case
+there is no Remedy but to empty the Tube and cleanse it a new, according to the
+Method before prescribed. Note, when the Tube is perfectly cleansed from Air,
+then turn the open End up, and fill it quite full with Quicksilver.
+
+Then Wipe the Cestern very clean, and set it in its Place, in the Cestern-Box,
+then put therein all the remaining part of your Mercury, which you need not
+take care to strain, for Dust or Foulness in the Cestern signifies little; then
+take the Glass Tube, filled as before was taught, and stopping the End of it
+with your Finger, invert it so that you may immerge or put the End, stopped with
+your Finger, the more easily into the Cestern Mercury, which ought to be done
+so that both Glass and Finger may touch the Cestern Bottom at the same time,
+keeping the Tube in the mean while as near an upright as you can, then of a
+sudden take away the Finger you stopped it with, and as suddenly, at the very
+same instant of Time raise the Tube just upright, the which, if you perform
+nimbly and well, will be done before the Mercury in the Tube is all sunk down
+to its lowest station, and so the Tube will be put up well, without any
+admittance of outward Air.
+
+But in case any Air should get into the Tube, in your attempting to set it up
+in its Place, as sometimes happens, then you must take it down again, by
+getting your Finger under the open End, to stop it, before you lift it out of
+the Cestern Mercury, and so repurge it of the Air got in, according as you were
+taught in the foregoing Method, and then try again to set it up well; and if
+you should miss this second time, then try a third, for Experience will at
+length make you perfect.
+
+When the Tube is put up observe whether it stand well in the Cestern, for some
+Cesterns are so ill placed that the Tube, by reason of its being set too near
+the Side, cannot be well surrounded by the Cestern Mercury, by which means the
+Air will be apt to insinuate it self, and get up into the Tube, and spoil the
+Mercury's true Motion.
+
+If the Glass be already adjusted to your Hand by the Workman that made it, you
+have then no more to do but to put into the Cestern all the Mercury that
+remains when the Tube is filled; but in case the Glass be not already adjusted,
+or that some part of the Quicksilver should be spilled or lost, you must then
+provide to adjust it, according as the Rules of Art require: Which is done
+thus, Take a small straight Rod of Wood, of the just length of 28 Inches, this
+is generally called, An adjusting Gage, put one End of it into the Cestern, and
+raise the other up till it touch the Division on the Register-Plate numbered
+with the Figure 28; then observe whether the Quicksilver in the Cestern does
+touch the other End, if it does not, you must put in more Mercury, till it
+does; but if the Mercury be already above the lower End of the Gage, then you
+must, with the clean Bowle-end of a Tobacco-Pipe take out so much of the
+Quicksilver as that that in the Cestern may but just touch the End of the
+Gage, and then is the Glass completely and well adjusted.
+
+In case you have occasion to remove a Baroscope, or Quick silver
+Weather-Glass, out of one Room into another, you need only loosen the Frame and
+take it from the Place to which it is fixed, and so, upright, in the same
+Posture it stood in, let it be carefully conveyed by Hand, so gently, and with
+a careful Step, that the Quick silver may not surge over the Sides of the
+Cestern, another Man, in the mean Time, making all things fit to set it up in
+its new Place, according to the Directions before given for setting of a
+Weather-glass up.
+
+But here note, That if the Baroscope be to be removed from one House to
+another, it must be quite taken down: In doing which observe, Frst, To incline
+the Tube so low as it stands in the Cestern, that the Quicksilver may rise up
+quite to the top, then lift it out of the Cestern and let the Mercury run out,
+for should you lift the Tube out in the Posture it stands in, when going, the
+Mercury, by the Force of the Air's Pressing in at the open End, would fly up to
+the top with such Violence as to endanger the breaking off of the top of the
+Glass.
+
+Note, That if the Glass Tube be not well purged of Air, the Quicksilver will,
+by long standing, be apt to move contrary to the true Nature of a Baroscope, by
+reason that the Air which has been left in the Tube, has by degrees got up into
+the Head or empty Space of it, where being expanded by any accidental Heat of
+Air, it occasions the Mercury to sink, though the Weight and Pressure of the
+Air be no ways altered; this is observed by Dr. Beale, Phyl. Trans. numb. 9. p.
+157. That a Baroscope ascended higher in the cold Mornings and Evenings than at
+Midday; which doubtless proceeded from the aforesaid Cause; for if you leave,
+for tryal-sake, a little Bubble of Air in the Head of the Glass when you set it
+up, you will find the same Defect, as Dr. Beale has observed.
+
+Wherefore it is necessary if you are doubtful of the like, to Rectify your
+Weather-Glass, when it has been set up about a Twelve Month; which is done by
+taking of the Tube down, and repurging of it of Air, as you were taught in
+first setting of it up: but that you may not be put to more trouble than needs,
+you ought to be first certain that your Weather-Glass does want Rectifying,
+which you may know thus; Let the Tube as it stands in the Cestern be stooped
+down so low, till the Mercury rise quite up to the Head, and if you perceive a
+Bubble of Wind at the top above the Quicksilver, that is the certain sign of
+its wanting to be new Rectified; clap then your Finger under the open end in
+the Cestern, and take it out and purge out the Air, as before was directed, at
+its first setting up.
+
+Of the Uses of the Baroscope, or Quicksilver Weather-Glass.
+AND here it may not be amiss in the first place, to show you my Opinion
+concerning the Reasons of that different weight of Air which is now generally
+believed, (and that with good Reason too) to be the cause of the Quicksilvers
+rising against fair, and falling against foul Weather: Now the Reasons or
+Causes of this, I take to be principally two; the one is the Dilating and
+Contracting of the Air; and the other is the Airs being empty of light Vapors,
+and sometimes filled with them.
+
+That the Air is capable of Contraction and Expansion, is plainly apparent by
+its dilating with Heat, and contracting by Cold in the Bolt-head of a
+Thermoscope, or Water Weather-Glass.
+
+Now if the Air be Contracted into a less room, by what cause it will, the
+Adjacent Air flows in to make good the Level of the Atmosphere, and so by the
+Addition of more Air, the Cylender which bouys up the Mercury in the
+Weather-Glass becomes heavier, and by consequence makes the Quicksilver rise;
+and though in Summertime it may be thought that the Heat we feel should rather
+Expand than Contract, yet in this we may be deceived; for though the Air be Hot
+just at the Earth by the Sun's Reflection, yet the upper Regions are still as
+Cold as ever, witness the Snow which continues all the Year round on the Tops
+of some very high Mountains, and so the Air may very well be accidentally
+contracted in the hottest time of Summer, as well as in the coldest Winter, and
+be one occasion of the Airs being then as heavy in dry Weather, as in the
+fairest time of Winter.
+
+And as the Air is made heavier by Contraction, so it is made lighter by
+Expansion; for when its Body is rarefied from what Cause soever, the Swelling
+thereof causes the highest part to flow off; or, as I may say, run down on
+those Parts of the Atmosphere that are below it, by which means the Cylender,
+or Pillar of it that presses on any Place becomes lighter, and so the Mercury
+in the Baroscope is suffered to sink down or descend.
+
+And that the Airs being sometimes full of watery Vapors, and sometimes empty,
+is another and the chief Reason too of the Quicksilvers rising and falling, is
+manifest from this Principle in Philosophy, That whatever Rises up and Swims
+in any Medium, must Bulk for Bulk be lighter than the Medium by which it is
+sustained: Hence it follows, that all kinds of watery Vapors must be lighter
+than the Air, else they could never rise up therein, nor be suspended there,
+till by another Principle in Nature they are made to descend in Rain or Snow.
+Now if Water thus Rarefied be specifically lighter than Air, then it is plain,
+that when the Air is filled therewith, it must become less weighty than it was
+before: As a Glass filled with half Water and half rectified Spirit of Wine, a
+much lighter substance, shall not weigh so much as when filled with all Water;
+so the Air is always lightest in wet Weather, because the Spaces above us are
+then full of Vapors, much lighter than the Air is, and by consequence the Body
+of Air and watery Particles mixed together, must weigh less than if the whole
+were only an unmixt and pure Air.
+
+On the contrary, when the Air is dry and free from being thus filled with
+watery Vapors, it must then be most heavy at such times: Indeed we may perceive
+many large white and curled Clouds sailing aloft over us, but these are only a
+Collection of some few Vapors in the very upper Region of the Air, the Spaces
+below being in the mean time very little, or not at all filled therewith;
+whereas in very wet Weather, when the Glass is low, and the Air very light, we
+see not only the upper Region full of compacted Vapors, but find also the
+whole Atmosphere even down to the Surface of the Earth filled therewith; as is
+manifest by the Sweating of Stones, and other tokens of the Airs extreme
+Humidity, and by consequence the fuller of light matter, the Spaces above us
+are, the less will the Weight be that presses downward; and for that Reason the
+Glass in the wettest Weather always sinks lowest.
+
+This being premised, I come to the more particular Uses of the Glass; and
+first, you may perceive by what has been said, That the Glass gives a very good
+account of the Temper of the Air as to its Moisture or Dryness, the Moisture
+thereof, or its Fullness of watery Vapors, being always proportionable to the
+lowness of the Quicksilver, and every Degree of Sinking is an argument of the
+Airs being filled more and more with Moisture, and the lower its Station, the
+more full of Moisture the Air still is; and you shall always observe, That the
+lower the Quicksilver descends, the more listless and out of order Men's Bodies
+are, because the Air is then full of that which is disagreeable to the Nature
+of Man, who was not made to live in a Watery Element: and therefore the more
+Watery the Medium is in which he lives, the more is his Nature disturbed at it.
+
+On the contrary, The higher the Quicksilver is, the drier still is the Air;
+and by consequence Men's Bodies are then found to be more Brisk and Lively,
+because the Medium in which they live and move, is free from what their Nature
+abhors; so that by the Weather-Glass may be known in great part, whether the
+Disorder and Melancholy, or the Periodical Pains and Aches to which we are
+sometimes unavoidably subject, is really occasioned by a new bodily Distemper
+or not; for this happening when the Quicksilver is low, may be judged to be
+occasioned rather by the Air, and by consequence will go off naturally of it
+self when the Quicksilver rises; a too moist Air has stranger Effects on Men's
+Bodies, than is generally taken notice of by them that understand not the
+Reason from whence it proceeds.
+
+In the next place observe, That as the Baroscope Predicts only fair and foul
+Weather, so that you may be the better directed which of these to expect; you
+must still note the rising and falling of the Mercury; for its rising in any
+part of the Glass, betokens a tendency to fair, as its falling down foreshews
+an inclination to Rain and Wet: As for the Words engraven on the upper part of
+the Register Plats, they are then only to be noted when the Mercury removes
+from Changeable upwards, and those on the lower part are to be noted only when
+the Quicksilver falls from Changeable downward.
+
+In other Cases the Words are of no Use; for if it is Rising in any part,
+foreshews a Tendency to be Fair, and its Falling in any part, a Tendency to
+foul Weather; then it follows, that if it fall from settled Fair to Fair, it
+may yet Rain a little, though the Quicksilver still stands as high as Fair; the
+like may be said, if it rise from the Word, much Rain to Rain; for though its
+Rising betoken a Tendency to Fair, yet since it is still so low as the Word
+Rain, there may be yet be some Wet Weather, though not so much as there was
+before the Quicksilver began to rise.
+
+But if the Mercury mount upwards from Changeable, then will the Weather for
+the most part be such as the Words in the upper part of the Register Plates
+Import; and if from Changeable it falls down, the Weather likewise will be much
+the same, as the Words found in that Part do express; but in the Mercuries
+rising up to Changeable when it is below it, or falling when it is above it, the
+Words as I said before, signify nothing.
+
+If the Mercury rises very high, the Weather will continue Fair, so long as it
+stands at that pitch, and you will not find the Weather change much, till the
+Mercury falls down a good Space lower: So likewise when it is fallen down very
+low, you must expect Wet Weather during all the time of its so continuing; in
+both these Particulars you will be certain, provided the Wind and the Moon
+Concur.
+
+For both the Wind and the Changes of the Moon are to be well observed in order
+to make the truer Prediction: And first, for the Wind; this is found to be of
+very great Moment; for if the Glass fall, and the Wind sit in those Quarters,
+from whence much Rain is observed usually to come; as with us about London are
+the South and Southwest, then it is not to be doubted but Wet will follow. On
+the contrary, if the Glass rise when the Wind blows from a dry Quarter of the
+Heavens; as with us are the North and East, then it is a hundred to one but the
+Weather will be Fair; but if the Glass rises, and the Wind be South, the Case
+is doubtful: So also if it falls, and the Wind be North, for then it often
+happens that the Weather does not prove always such as the Rising and Falling
+of the Glass Predicts.
+
+As to the Moon, it is well observed, That the Weather is generally inclinable
+to Moisture, about three Days before, and three Days after, both the New and
+Full Moon; if therefore the Glass Falls, the Wind be South, and the Moon near
+the New or Full, the certainty of Rain is still much the greater.
+
+If the Mercury be high in the Summertime when the Weather is hot, and does of
+a sudden fall down a pretty considerable Distance, then certainly expect great
+and sudden Storms of Rain and Thunder to follow soon after.
+
+When the Glass is Risen very high in Winter, and the Wind sits then North and
+East, it certainly presages Frost to ensue, and the same will continue as long
+as the Mercury stands thus High; but when you see it begin to sink somewhat
+considerably, then be assured a Thaw will quickly follow.
+
+If in a Frost the Air becomes Overcast, and the Quicksilver Rises of a sudden
+yet higher, when it had stood high for a time before, then look for Snow, for
+the Cold above, which is the Cause of Snow, causes also the Air to become more
+heavy by Condensatition.
+
+If the Glass Rise and Fall but a little, or it be unsettled in its Motion, it
+then argues an unconstant Season, and the Weather will not then long continue
+in one state; the like happens when it is about the Word Changeable, or
+Uncertain, for then no true Guess can be made what the VVeather will be.
+
+The Mercury is always observed to be lowest in extreme high and strong Winds,
+that happen when the Air is full of Moisture; but the Glass does no way predict
+Winds beforehand, for the extreme lowness of the Quicksilver happens only at
+the very Time the Wind Blows, and as soon as the Wind Ceases the Mercury is
+then found to rise apace, but such a Rise that immediately follows Storms, are
+no signs of fair Weather, except it rises much higher than it was at the Time
+of the Wind's beginning to blow.
+
+Note, That when Wet is predicted by the Glass, or by any other Sign or Token,
+it generally begins to rain either when the Moon is due South, or else when the
+Sun comes to be upon the same Quarter from whence the Wind blows; and if it
+rains not at the Time of the Moon's Southing or Northing, nor when the Sun and
+the Wind comes together, then 'twill hardly rain till the same Times do again
+return; which is a good Note in time of Harvest, and very seldom fails, though
+it sometimes may.
+
+Note also, that most great Changes of the Weather happen with us, either at
+the New full Moon; and if the Weather change not then, 'twill hold on as it is
+till the next New or Full Moon comes: Frost generally breaks at the Changes,
+when it does break, and it is commonly at the Change or Full that Rain comes,
+after a dry Season has long continued.
+
+An Addition of some Natural Predictions of Fair and Foul Weather: And first of
+Fair Weather.
+THe much hooping of Owls, after Sunset, in the Summertime, and in the Night
+also, foreshews a fair Day to follow.
+
+Swarms of little Gnats and Flies, sporting themselves together, in the
+Evening, is a certain token that the Day following will be fair.
+
+If the Sun set red in the Evening, and the Place be free from Clouds, and the
+next Morning rises clear and bright; these are good tokens that the Day will be
+fair.
+
+The Soaring of Kites aloft in the Air, is a Sign of dry and hot Weather.
+
+When the Bat Mice are seen to fly to and fro, in the Evening, it shows that
+the next will be a fair Day.
+
+If, in the Morning, Mists descend from the Hills, and settle in the Valleys,
+it is a Sign that the Day will be fair.
+
+If it rain in the Summer, and Horses and Kine do thereupon leave off Feeding,
+it is a certain Sign the Rain will not continue long.
+
+Crows, if they caw or cry early in the Morning, with a loud and clear Voice,
+it shows that the Day will be fair.
+
+Signs of Rain and Wet Weather.
+IF, in the Evening, the Sun set behind a dark black Cloud, and her Body appear
+also greater at that Time than usual, it certainly betokens Wet the next Day.
+
+If Waterfowl wash themselves much and dive more than usual under Water, and
+also flutter and clap their Wings, and oil their Feathers more than usual, it is
+a Sign of Rain.
+
+If Toads are, in the Evening, found leaping in the Paths or High Ways, or if
+the great black Houseless Snails are found creeping about more than usual, it
+foreshews Rain.
+
+An unusual Circle of Light about the Moon or Stars, when no Mist or Fog
+appears below, is a Sign of Rain soon to follow.
+
+If the Sun, at her first rising, or some Time after, shine waterish, that is,
+paler than ordinary, it is a Sign of a wet Day, especially if the Air be soon
+after obscured with thick Clouds.
+
+If, in the Summer, in a fair clear Day, you perceive the Clouds to gather of a
+sudden on all Sides, and appear black and curled, then prepare your self for
+Storms of Rain and Thunder soon after.
+
+Hoggs crying in an unusual manner, and running unquietly up and down, with
+Litter in their Mouths, foreshews Rain and Storms at Hand.
+
+If Crows cry much in the Evening, it is a Sign of Rain the next Day.
+
+Any of these, or the like Signs, happening in the Summer time, will, if the
+Baroscope concur, help you to make the more certain Guess at what Weather will
+after ensue, especially if the Glass be at Changeable and Uncertain, for then,
+by these you may the better guess at what Weather will follow. Some particular
+Places have also Signs of Rain and fair Weather, which others have not, which
+observed, together with the Glass, may make your Guess more certain than they
+can otherwise be; the Nature of Countries also differ, for whereas in England,
+especially near London and the Southern Parts, a South Wind always brings most
+Rain, and a North or East Wind dry Weather; on the contrary, at Edinburgh it
+Scotland a South Wind brings the fairest Weather, and a North or North East the
+greatest Wet; these things considered, every Man that lives in Countries which
+differ in Temper from that for which these Rules serve, ought to frame Rules to
+himself, by observing the Changes that follow the Glass's Rising and Falling,
+the Change of the Wind, and the Southing of the Moon.
+
+Note, If the latter End of February and the Beginning of March be constantly
+Dry, it betokens a very Dry Summer. Also a hard Frostly and Snowy Winter makes
+the Year following to be very Plentiful and Healthy, but a Warm and Moist
+Winter makes the Summer after to be very sickly.
+
+Some Uses of the Spirit Weather-Glass.
+THE sudden Rising of the Spirit in the Day, in Summer, foreshews an immediate
+Approach of Thunder and Storms of Rain, and in Winter Snow.
+
+If it rises much in the Day and falls but little in the Night, then expect,
+the Day following, excessive Heat, if not Thunder and Storms.
+
+If it rises never so little in the Nighttime, expect next Day either Rain or
+Snow, as the Season is.
+
+If it rises no more in the Day than it falls in the Night, it is a Token that
+the Air is Temperate, as to the Heat and Cold.
+
+If it falls in the Daytime, and the Weather be fair, expect a Frost the next
+Night. The like happens also generally when the Liquor is very low.
+
+The more it rises or falls at any Time the more remarkable will that Change of
+Weather be which follows.
+
+All the other Uses of it are only to show the present Temper of the Air, as to
+Heat and Cold, and farther than this my Experience has not as yet led me,
+neither by Enquiry do I find any other useful Observations made on them.
+
+I shall only add, That these Glasses might be made as strong as the Tube of a
+Quicksilver Weather glass, provided the Ball be proportionable to the Bore
+only. It may be, if the Glass were thicker, they would not move so nicely; but
+this would not signify much, because little Judgment can be made from small and
+little Alterations.
+
+JUst when the last Sheet was ready to be printed off, that which follows was
+communicated to me by Mr Watson, the Person beforementioned in this Work,
+which in respect of its Nature, being not only plain and useful, but also free
+from all Objections that Tables may be liable to, I have thought fit to add it
+hereunto, upon his Recommendation, and in the Words penned by himself.
+
+SIR
+I Rather communicate this to you, because many Gentlemen have the Convenience
+of Places fit for this way of Observation, which I take to be the most exact
+Way yet found to adjust a Pendulum Clock well. If you think it may be
+serviceable to those that are the most exact and curious in Time-keeping, you
+may do well to insert it in that laborious and curious Tract of the Equation of
+Natural Days, that you are now publishing. I am,
+
+Your real Friend and humble Servant, S. W.
+
+
+The Way of finding how much a Pendulum Clock has gained or lost in a Day, Week
+or a Month, to the nicity of Two or Three Seconds, etc.
+N. h. 1 0 3 56 2 0 7 52 3 0 11 48 4 0 15 44 5 0 19 39 6 0 23 35 7 0 27 31 8 0
+31 27 9 0 35 23 10 0 39 19 11 0 43 15 12 0 47 11 13 0 51 7 14 0 55 2 15 0 58 58
+16 1 2 54 17 1 6 50 18 1 10 46 19 1 14 42 20 1 18 38 21 1 22 34 22 1 26 30 23 1
+30 25 24 1 34 21 25 1 38 17 26 1 42 13 27 1 46 9 28 1 50 5 29 1 54 1 30 1 57 57
+31 2 1 53
+
+TAke a Piece of thin Brass, and file therein a Slit or Notch, about half a
+quarter of an Inch deep, but somewhat wider at the Top than at the Bottom, as
+thus (...), knock the End of it into some Post in your Backside, or else in
+some Window, that ye think convenient; then look through the Notch at any Star
+of the first or second Magnitude, and wait till the Star comes to the Edge of
+any Chimney, or the Side of any House, and you will see the Star vanish in a
+Moment; then mark what your Clock is at when the Star vanishes: Then at any
+other Night afterward (as the next Night, or a Week or a Month afterward)
+wait for the same Star again till it vanish behind the Chimney or House, as
+before, and then observe what your Clock is at, then your Clock should show the
+second Time of vanishing so much sooner than the first, as this Table shows;
+now the farther off the Chimney or Wall is the more exact will the Observation
+be. Let the Distance be Ten Yards at least, let the Observation be made in any
+part of the East, South or West, but little toward the North Pole, because the
+Polar Stars are not so fit for this Purpose.
+
+EXAMPLE.
+
+Suppose a Star vanishes this Night at Nine Hours, Three Minutes and Four
+Seconds, by my Clock, and Eight Nights after I observe it again, and it then
+vanishes at Eight Hours, Thirty four Minutes and Forty two Seconds; by my
+Clock, against Eight Nights, in the Table, I find Thirty one Minutes Twenty
+seven Seconds; that is, so much sooner should the Star vanish at the second
+Observation than it did at the first; therefore substracting 31 27 from the
+first Observation 9h. 3 4. there is left 8h. 31 37, the true Time that the Clock
+should have been at in the second Observation; therefore seeing the Clock was
+then at 8h 24 32, it has gained 2 55.
+
+FINIS.
+

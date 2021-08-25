@@ -1,0 +1,2202 @@
+EUCLIDES METAPHYSICUS, Sive, De Principiis SAPIENTIAE, Stoecheidea E.
+
+Authore THOMA ANGLO Ex ALBIIS East-Saxonum.
+
+Sap. 7. Sine fictione didici, and sine invidia communico. Londini, Typis J. M.
+Impensis Jo. Martin, Ja. Allestry, and Tho. Dicas, ad insigne Campanae in
+Coemeterio D. Pauli, 1658.
+
+Clarissimo and scientissimo Viro, Carolo SCARBOREO, Incolumitatis Londinatium
+felicissimo and prudentssimo Curatori; (...).
+ITerum ad Hiatricam, iterum in Hippocratis umbram confugiendum est? Et merito;
+(...). Tu inprimis, Medicinae Ocule SCARBOREE, and primum mihi. Cui enim
+praeterea gallum debeo? Te Orphea, te Herculem agnosco, qui ex tenebris and
+Quartanae carcere solares labores diutino taedio aequantibus me reducem and
+redivivum amiculis restituisti. Vive itaque vive, Londini ornamentum, Sanitatis
+publicae tutela, Angliae decus, Medicinae gloria, magni Magistri tui HARVAEI,
+ingenii and industriae haeres. Qui caelum Archimedaeum in Microcosmo (non
+ignobiliori invento) aemulatus naturam, crystallinis Staticarum demonstrationum
+illigatam retibus, perviam vulgaribus oculis exposuisti. Qui Naturae jura dans,
+quibus animalium visceribus citra detrimentum parci potuerit, proditis palam
+experimentis praescripsisti. Vive itaque (and vives siquid mea carmina possunt)
+and quod molior de triumphata Principiorum Sapientiae ignorantia Trophaeum, tua
+prius scientia comptum, tua commendatione aeternum praestato,
+
+Salutem and sua tibi debenti, Tho. Albio.
+
+Ad LECTOREM.
+HAbes, studiose Lector, reliquam Elementorum partem, de qua parce praefandum
+est, cum non sit aliud quam prioris operis extensio, ad novam (ut vocant) a
+materia abstractionem. Neque sine exemplo duo, seu duarum scientiarum principia
+in unum opus compingo, cum Geometra Elementarius Arithmetices, and Geometriae
+tum planae tum corporatae initiationes in unum opusculum, non multo ponderosius
+nostro, compulerit. Tu agnosce propositam tibi scientialium principiorum
+tabulam. Cum enim scientias universim per abstractionem ab individuis seu
+materia signata (ut loquuntur) per eam quae esta matera sensibili and tandem a
+materia intelligibili distrinxerint logici, Tres quoque Euclides expectare fas
+erat, ut a cultu mentis inexcusatus stares. Nunc ne ultra sordeto in
+sterquilinio disputationum squatentium veritatisque exuccarum, sed stabili,
+quacunque ingrederis, incede gradu. Satius estpaucos solid promoveri passus
+quam per millia lapsare. Aude, and ne te a Geometricarum viarum ignaro in
+tesqua seduci verearis, etiam illarum, appendiculae instar, libum unum vel
+alterum gustandum apposui. Nil desperandum cum Deus ipsemet face, quasi e
+pharo, praelucet, majora daturus omina, si laetus haec acceptaveris.
+
+ERRATA,
+PAge 4 line 3, lege divisibilitas. Ib. l. 21. l faciet. p 6. l 9 dele, p 12 l
+13 l quo. p 27 and 28 l Parallelepipedorum. p 40 l 6 l sunt. p 49 l 8 l
+determinationes. p 50 l 10 l determinationes. p 52 l 22 l in perfectum. p 53. l
+10 11. add per. p 58 l 28 add esse. p 66 ^ 1 add differentes. p 69 l 15 l
+significant. p 72* l 2 creata. p 75 l 6 l xxvii. p 84 l 8 l abstrahendo. p 85 l
+17 l Animal ex p. 104 l 20 post consequentibus d, p 107 l 7 l ut. Ib. l 24 post
+corporis, add erit. p 108 l 24 l ad. p 115 l 20 l corpus agere. Ib. l* 21. set
+d. p 116 l 16 post pore add, p 118 l pro and l est. Ib. l 117 post ipsum d, p.
+128 l 3 post objecto add, post clarum est d, Ib. l 25 rebus add, p 139. l. 4
+conjuncta. p 172 l. penultima add ut.
+
+STOECHEIDIS z.
+Definitiones.
+1. FOrmam, sive actum, dicimus praedicatum, inexistens subjecto, quam
+denominatio intrinseca significat. 2. Subjectum, vel materiam, sive potentiam
+dicimus, in quo est, and de quo est praedicabilis forma. 3. Ens, seu
+substantiam dicimus subjectum existentiae, seu de quo Esse, in primaria and
+propria significatione, praedicatur. 4. Formam substantialem, seu actum primum,
+appellamus illud praedicatum, propter quod, tanquam primum, res dicitur Ens,
+seu Esse, in propria significatione. 5. Materiam primam, seu potentiam puram
+dicimus eam, seu illud subjectum cui inest Forma substantialis, secundum quam
+res primo dicitur esse. 6. Unum compositione dicimus, quod, cum non sit
+divisum, est tamen divisibile. 7. Unum quantitative, seu compositione
+quantitativa and continui, cujus parts natae sunt post divisionem Esse in
+locis distinctis: unum vero compositione formali, cujus parts non sunt natae
+habere diversa loca. 8. Divisio est qua plura siunt ex une.
+AXIOMATA.
+AGere and pati est existentium seu suppositorum. Quantitas, quantum est ex se,
+potest esse major and major sine termino. Quod universaliter, and ex ordine
+naturae, competit, est natural. Operatio est finis existendi, seu existere est
+propter operari.
+EUCLIDES METAPHYSICUS.
+Stoecheides Z.
+De formis and compositione formali.
+Propositio 1.
+Datur compositio formalis inter Quantitatem and parts ipsius.
+(...) Prop. 24.
+CUm enim locus and locatum sint unum quantitative, praevie ad esse locatum and
+locum ad invicem, (...) Prop. 23.
+and quantitas sit ipsa unitas qua parts continui quae non sunt actu, sunt
+inter sese in toto unitae, and quae sunt unum non sint plura, and quae non sunt
+plura non sint actu, fit, quantitatem esse ipsam unitatem eorum quae se habent
+ut locus and locatum, hoc est, partium in toto quanto. (...) Prop. 32.
+Cum itaque in motu locali fiat divisio locati a loco, fit divisio inter
+quantitatem quae erat unitas loci and locati, and locum and locatum, quae erant
+unita: Quare, cum unitas sit in iis quae dicuntur unum, neque possit esse
+localiter ab iis separatum, palam est, compositionem formalem quantitatis ad
+parts esse realem, and quae per divisionem nata sit tolli, quod erat intentum.
+
+Prop. II.
+Datur Compositio Formalis inter Quantitatem and quantum.
+(...) Axiom. 5.
+CUm enim locatum non sit idem Ens quod locus, sunt duo Entia, seu duo
+entitative and substantialiter, (...) Prop. 24.
+and unum quantitative, and locatum mutatur quantitative per motum sed non
+substantialiter. Quare separatur seu dividitur locatum in motu a quantitate
+quam habebat, and conjungitur novae. Est itaque divisibilitas realis inter
+locatum, hoc est, quantum, and quantitatem, quod erat intentum. Item, cum (...)
+Prop. 22.
+per motum localem aliquid acquirat majorem quantitatem, aliud minorem, palam
+est ea dividi a suis quantitatibus; and proinde, cum non sit haec divisibilitas
+partium natarum occupare diversa loca, Def. 7.
+diversibilitas inter quantitatem and quantum est realis, formalis.
+
+Prop. III.
+Quantitas, prout Condistincta a quanto seu substantia, non est Ens.
+Def. 3.
+CUm enim Ens sit quod habet esse, si quantitas (ut condistincta adversus
+substantiam) foret Ens, Substantia and quantitas forent duo Entia. Quare, (...)
+Prop. 23.
+cum quantitas sit unitas and divisibilitas suarum partium, Prop. 1.
+and unitas, seu divisibilitas cum partibus, faciat unum compositione,
+quantitas faciat unum compositione cum semetipsa, and erit divisibilis a seipsa.
+
+Prop. IV.
+Datur compositio formalis in ipsa substantia, prout condistincta est
+Quantitati.
+Prop. 3.
+CUm enim quantitas non sit Ens, prout est condistincta contra substantiam, non
+est per se divisibilitas sui, sed substantiae seu subjecti cui inest et de quo
+dicitur. Substantia itaque ad divisionem quantitatis manet divisa, and per
+consequens, non una sed plures substantiae, Quare, Def. 4.
+cum forma substantialis sit qua substantia sit substantia, necesse est prius
+esse unam formam substantialem, and, post divisionem, plures. Manifestum itaque
+est (cum esse unam and plures sint opposita) formam quae erat una divisam esse
+a subjecto in quo fuerat, and plures ei advenisse. Prius itaque erat unum
+compositione ex subjecto seu materia and forma quae inerat, quod erat
+propositum.
+
+Prop. V.
+Substantia, praevie ad quantitatem est, indivisibilis divisione continuitatis.
+Prop. 2.
+CUm enim intercedat compositio formalis inter quantum and quantitatem, and
+quod est quantum, eo ipso sit Ens, sequitur Ens esse praevium in quanto ad
+quantitatem. (...) Prop. 3.
+Quare, cum quantitas sit ipsa unitas partium continui nondum divisarum,
+manifestum est talem unitatem non esse in quanto, seu substantia praevie ad
+quantitatem. Sed ubi non est unitas, non est divisibilitas, seu possibilitas ut
+tollatur unitas. Non est itaque in substantia, praevie ad quantitatem,
+divisibilitas continuitatis seu continui.
+
+Prop. VI.
+Materia prima, seu subjectum in compositione formali substantiae, quoad
+intrinseca nata est, eadem quoad propria, esse in pluribus substantiis seu sub
+pluribus formis.
+Prop 4.
+CUm enim in divisione substantiae secundum propria, quae nascitur ex divisione
+corporis homogenei in parts quantitativas, materia habeat rationem subjecti
+dum unum fit plura, and per consequens sit communis terminis ex quo and ad
+quem, Prop. 5.
+neque sit divisibilis divisione continui, cum sit aliquid substantiae acceptae
+praevie ad quantitatem, fit, materiam non dividi seu fieri plures, quoad
+intrinseca, per plurificationem substantiae, and per consequens esse eandem in
+substantia ex qua factae sunt plures, and in ipsis pluribus factis. Est itaque
+eadem in pluribus substantiis, seu sub pluribus formis substantialibus.
+
+Prop. VII.
+Materia, seu subjectum compositionis formalis substantiae, quoad intrinseca,
+non est composita compositione formali in suis intrinsecis,
+Def. 4.
+CUm enim forma substantiae seu substantialis sit, quae tribuat denominationem
+entis, and faciat substantiam capacem existendi, materia autem, ut subjectum
+ipsius intelligatur praevie ad ipsam, palam est ex propriis non habere actum
+aliquem, quo sit ens, hoc est, quo sit. Sed si foret compositio formalis in
+intrinsecis materiae, foret actus and potentia, and actus futurus esset Def. 5.
+quo materia ex intrinsecis esset ens, hoc est, foret forma substantialis. Non
+itaque materiae ex propriis competit compositam esse compositione formali.
+
+Prop. VIII.
+Materia prima nata est, quoad propria, esse eadem in corporibus densis and
+raris.
+Prop. 4.
+CUm enim materia sit subjectum commune, dum ex uno corpore naturali fit aliud,
+and (...) Prop. 1.
+contingat corpus rarum condensatione fieri aliud corpus natural; and e
+contra, corpus densum rarefactione fieri novum corpus natural, consequens est
+esse potentiam ad formas utrasque, and entia utraque per eas constituta, and
+per consequens in utrisque, secundum propria, seu secundum hanc potentialitatem
+reperiri.
+
+Prop. IX.
+Materia prima, quoad propria, est una and eadem in toto universo.
+(...) Prop. 30.
+CUm enim quaecunque sunt in universo sint composita ex elementis, elementa
+vero per divisionem, and raritatis mutatione^ generentur and corrumpantur;
+Prop. 6. and 8.
+sive autem una sive altera via fiat, necesse sit materiam esse eandem. Mixta
+vero (...) Prop. 21.
+cum non sint, nisi quaedam aggregata partium elementarium, necesse sit eisdem
+modis generari and corrumpi, (...) Prop. 30.
+caetera vero corpora sint quaedam mixta; palam fit, materiam primam in omnibus
+iis eandem esse, hoc est, in toto universo, cum in hujusmodi mutationibus
+necesse sit esse eandem.
+
+Prop. X.
+Materia and forma non sunt actu distinctae in toto, sed ipsum totum secundum
+quod est plures virtutes reales realiter separabiles.
+SI enim forent distinctae in ipso composito, vere forma esset non materia, and
+materia non forma in ratione entis, and per consequens Def. 3.
+singulae sor^nt subjecta existentiae simpliciter dictae, seu proprie essent
+and compositum foret ex duobus entibus, neque vere unum ens sed duo, cum unitas
+and pluralitas non simul consistant. Est itaque Forma corpus, quatenus est
+distinctum, seu quo distinguitur ab aliis, and quo est hoc quod est; Materia
+vero est idem corpus, quatenus convenit cum aliis, seu quatenus est quo
+convenit cum aliis, and sustentat quod distinguitur ab aliis.
+
+Prop. XI.
+Non datur in rebus nisi una materia prima, seu pura potentia.
+SUnto enim plures, puta A. and B. and sint duo actus ad quos dicantur C. and
+D. Vel A. dicetur communiter ad C. and D. B. autem ad alterum tantum, puta C.
+vel utraque potentia dicetur ad unicum actum, puta A. ad D. and B. ad C. Si A.
+dicitur ad utramvis indifferenter, palam est A. esse potentiam magis puram quam
+B. cum esse potentiam ad rationem actus communem ad C. and D. sit limitabile
+per esse potentiam ad C. solum. Quare B. non habet tantum de puritate potentiae
+quantum A. and si sit minus pura, eo ipso est mixta cum ratione actus Def. 5.
+and non pura. Si vero A. and B. dicantur ad singula C. and D. cum possit
+intelligi potentia ad rationem actus communem ad C. and D. per eandem
+ratiocinationem neutra erit pura potentia. Non est itaque possibilis alia pura
+potentia quam una sola.
+
+Prop. XII.
+Materia prima, secundum se considerata, est tota in toto universo, and tota in
+singulis partibus seu corporibus: Sed quoad exercitium potentiae seu effectum,
+est tota in toto Universo, sed divisa in partibus seu singulis corporibus.
+Prop. 11.
+CUm enim materia prima sit in toto Universo, and in singulis corporibus seu
+partibus ipsius, Prop. 5. and 7.
+sit autem ex propriis indivisibilis and secundum continuitatem, and secundum
+formalem divisionem, constans est eam esse, ut consideratur in se, totam in
+toto, and totam in singulis partibus. Rursus, cum sustineat plura corpora, puta
+omnia quae sunt in universo, sint A, B, C, and palam est quod in A non
+sustineat nisi A, and in B, non nisi B, and sic in C; clarum itaque est, vim
+sustentativam, sive capacitatem vel potentialitatem materiei, etsi quasi
+entitative sit tota in A, non tamen quoad effectum and exercitium ipsius esse
+totum in A, sed esse divisum per A, B, and C, and in illis tribus adaequate
+contineri. Exercitium itaque and effecta indivisibilis materiei sunt divisa and
+plura, and tota non nisi in omnibus partibus collective, in singulis vero una
+pars. Exercitium itaque est totum in toto, sed non totum in singulis partibus.
+
+Prop. XIII.
+Omne compositum ex potentia pura and actu, seu ex materia and forma, est
+quantum.
+Prop. 11.
+CUm enim unica sit materia prima, and Prop. 5.
+illa ex suis propriis indivisibilis divisione continui, and per consequens
+Prop. 12.
+tota in singulis quantis, hoc est, tota quanta, neque possibile sit idem esse
+quantum and non quantum, materia in nullo ente est in quo non sit quanta. Cum
+itaque materia non sit actu aliud quam ipsum totum, ipsum totum ex materia and
+forma erit quantum.
+
+Prop. XIV.
+Omne quantum est compositum ex materia prima and forma.
+CUm enim omne quantum sit divisible, and Prop. 3.
+quantitas non sit ex sese Ens, and per consequens, Prop. 4.
+divisibilitas sui subjecti seu substantiae in qua est, fit, omnem substantiam
+quantam esse divisibilem ct plurificabilem, and per consequens habere in sese
+potentiam qua possit esse plures and una, hoc est, quae possit esse sub
+pluribus actibus. Est itaque in omni substantia quanta compositio ex actu and
+potentia.
+
+Prop. XV.
+Divisibilitas in actum and potentiam non est aeque proprie dicta atque
+divisibilitas in parts continui.
+CUm enim divisio sit qua plura fiunt ex uno, illa divisio seu divisibilitas
+est proprie dicta, post quam parts manent vere plura, quod palam est in
+divisione continui contingere, in qua singulae parts sunt subjecta existentia.
+Prop. 3. and 10.
+Cum itaque potentia and actus dicantur ad idem esse, and per consequens
+utraque separatim non sint capacia existentiae, and in compositione
+substantiali neutra pars separatim plerunque sit capax existentiae, evidens est
+divisibilitatem and divisionem in actum and potentiam non aeque proprie dici,
+ac dicatur divisibilitas in parts continui.
+
+Prop. XVI.
+Continuum, secundum parts inexistentes, natum est agere and pati a se vel ab
+aliis.
+CUm enim quantum continuum non sit, nisi ipsae parts in potentia quae per
+divisionem fiunt actu; quando autem sunt actu natae sint agere and pati ab
+invicem, palam est in toto eandem virtutem in iis esse. Sed quoniam in toto
+actu nihil est actu nisi ipsum totum, Axio. 1.
+agere autem and pati non sint nisi existentium, palam est has virtures non
+aliter esse in toto quam ut totum per illas agar. Sit itaque totum A B, and
+parts ipsius A C, C B, and habebit in A C, virtutem agendi and in C B,
+virtutem patiendi: Clarum itaque est, quod in virtute A C poterit agere, and ex
+virtute C B pati. Natum est itaque totum continuum, quantum ex vi continui est,
+agere and pati a semetipso, and, a fortiori, in alia vel ab iis.
+
+Prop. XVII.
+Compositum compositione formali non est natum ex vi compositionis per unam
+partem agere in reliquam, vel pati secundum unam partem, and non secundum aliam
+ab aliis.
+Axiom. 1.
+CUm enim agere vel pati sit existentium, Prop. 15.
+parts autem in compositione formali ex vi compositionis non sint tales ut
+resolutae habeant existentias proprias, palam est neque habere posse vim agendi
+and patiendi ex sese, neque posse tribuere came toti sed illam primo and per se
+inesse toti, and non partibus nisi dum existunt in toto; Quare neque totum
+habere posse vim agendi secundum unam partem in aliam, aut patiendi secundum
+alteram ab ipsa.
+
+Prop. XVIII.
+In singulis substantiis sunt singulae formae substantiales.
+Prop. 9. and 10.
+CUm enim materia ex sese sit in omnibus corporibus eadem, palam est omnes
+formas substantiales esse in eadem materia prima. Quare, Prop. 17.
+cum in substantia non sit essentialiter nisi forma and materia (prima siquidem
+forma dat esse simpliciter, hoc est, facit substantiam) distinctio
+substantiarum non est a materia sed tantum a forma. Cum itaque formae sit
+distinguere, si sint duae formae substantiales, utraque distinguet totum, and,
+per consequens, una faciet substantiam sibi propriam, seu quae sit substantia,
+quia per ipsam est, and reliqua simpliciter, erunt itaque duae substantiae and
+non una sola.
+
+Prop. XIX.
+Si foret unicum corpus perfect homogeneum, parts ipsius, quoad caetera
+pares, non forent situ distinctae.
+ESto enim corpus quidem homogeneum A. duae parts ipsius caetera pares,
+videlicet quantitate, figura, densitate, etc, sed situ diversae B and C, Dico
+in part B nihil esse quo diversificetur a part C.
+
+Cum enim sint caetera pares, vel pars B potest intelligi in situ partis C, vel
+non potest. Si potest, jam B erit C, nam neque situ, neque alio quoquam erit
+diversa. Si non potest, ergo jam est, praeter situm, aliquid propter quod non
+possit intelligi in situ C contra suppositionem.
+
+Prop. XX.
+Si rerum natura foret unicum corpus perfect homogeneum, non posset secundum
+parts aliquas moveri.
+CUm enim in corpore perfect homogeneo si moveatur secundum parts, non
+intelligeretur mutatio facta nisi secundum solum situm, parts autem secundum
+situm non sint distinctae, non potest intelligi quod pars aliqua muter locum,
+sed semper eaedem parts sint in eodem situ; non itaque potest intelligi motus
+localis secundum parts.
+
+Prop. XXI.
+Si foret corpus substantialiter homogeneum, quantumvis parts ipsius forent
+accident aliter heterogeneae, non posset secundum parts moveri.
+CUm enim varietas partium foret accidentalis, posset proprietas unius
+cujuslibet in alia ejusdem magnitudinis reperiri. Manifestum itaque est, partem
+unam non esse aliam a qualiber ejusdem magnitudinis per vel propter varietatem
+talium accidentium. Prop. 19.
+Quare, cum propter situm etiam non sint distinctae, non est una aliqua pars
+quae possit situm mutare; non itaque posset hujusmodi corpus secundum parts
+motum intelligi.
+
+Prop. XXII.
+Corpora naturalia fluida, quae apparent esse homogenea, reipsa sunt plena
+heterogeneis corpusculis undique permixtis.
+C Prop. 21.
+Um enim corpus homogeneum non possit moveri secundum parts, quantumvis
+accidentaliter variatas; videamus autem illa moveri secundum parts, palam est,
+non esse perfect homogenea, sed, cum dividitur homogeneum, inter parts ipsius
+ingredi corpus aliquod heterogeneum.
+
+Prop. XXIII.
+Praevie ad divisionem and motum localem, requisita sunt plura corpora
+essentialiter distincta, and per raritatem and densitatem diversificata.
+Prop. 21.
+CUm enim homogeneum corpus non possit moveri secundum parts, quantumvis
+accidentaliter variatas, quia non est vera distinctio partium, necesse est,
+aliquam distinctionem in substantia, praevie ad divisionem reperiri, ut possit
+esse distinctio dividentis and divisibilis. Rursus, (...) Prop. 33.
+quia aeque divisibilia non sese dividunt, necesse est dividentia esse densa,
+divisibilia rara. Praevie itaque ad divisionem etc.
+
+Prop. XXIV.
+Si sint duo quanta, alterum magis alterum minus densum, possibile est invenire
+tertium, quod, in quantitate aequali ei quam ambo faciant, habeat densitatem
+homogeneam aequivalentem raritati and densitati utriusque.
+ESto enim corpus rarius A. and densius B. and sint in forma parallelopipedorum
+habentium latitudines and profunditates aequales, and mobile C. actum ab
+virtute D. semper uniformiter quantum est ex vi virtutis D. dividat utrumque
+successive, and sit tempus, in quo fit divisio, E. Accipiatur rursus corpus F.
+ejusdem quantitatis cum utroque A. and B. and in figura parallelopipedi
+aequalis latitudinis and profunditatis cum utroque parallelopipedo A. and B.
+simul sumptis, and dividatur a mobili C. acto a virtute D. uniformiter, and
+tempus, quo pertransit F. sit G. Et vel tempus G. est aequale tempori E. vel
+non. Si est, dico corpus F. esse corpus postulatum. Si non, fiat corpus H.
+aequale and simile corpori F. cujus gradus raritatis and densitatis sit ad
+gradum densitatis and raritatis corporis F. sicut tempus E. ad tempus G. and
+dico corpus H. esse corpus quaesitum.
+
+(...) Pro. 19.
+Cum enim virtus nata divider dati rari datam quantitatem in hora nata sit
+dividere duplam quantitatem medii duplo rarioris in hora caeteris paribus,
+palam est, reciproca esse tempora motuum ejusdem corporis in aequalibus
+diversorum graduum raritatis mediis ad ipsos corundem spatiorum. Moveatur
+itaque mobile C. a virtute D. per spatium H. in tempore K. and sicut est tempus
+K. ad tempus G. sic erit gradus de nsitatis corporis F. ad corpus H. sed, cum
+tota difficultas, motus sit in gradibus divibilitatis medii caeteris paribus,
+and motus per A. B. factus sit in tempore E. motus quoque factus per F. sit in
+tempore G. patet, divisibilitatem, hoc est, gradum raritatlis and densitatis
+corporis F. ad divisibilitatem A. B. esse sicut E. ad G. Sed sic facta est
+raritas corporis H. ad corpus F. ergo raritas corporis H. est aequalis
+rari^tati duorum A. and B. quod erat intentum.
+
+Prop. XXV.
+Datur certus gradus raritatis and densitatis, in quo corpus homogeneum aequali
+universo, secundum raritatem, and densitatem, aequivaleret omnibus gradibus
+rarorum and densorum qui sunt in reru^ natura.
+(...) Prop. 21.
+CUm enim universum sit finitum, and quanti finiti parts assignabiles sint
+finitae, corporum, secundum raritatem and densitatem, diversisicatorum
+multitudo est finita. Et quoniam quae de minore multitudine asseruntur, possunt
+proportionaliter affirmari de majori; Esto numerus corporum variatorum,
+secundum gradus raritatis and densitatis, duodecim, sive sex paria, Prop. 24.
+and quia singulis paribus potest inveniri tertium aequale and aequivalens,
+data erunt tria aequalia and aequivalentia sex paribus. Et quia rursus duobus
+horum trium inveniri potest tertium aequale and aequivalens, and iterum duobus
+reliquis unum aequale and aequivalens, evidens fit, hoc unum sex paribus, hoc
+est, toti universo esse aequivalens, secundum gradus rari and densi in ipsa
+quantitate universi; quod erat propositum.
+
+Prop. XXVI.
+Corpora naturalia sunt simpliciter rara, and densa, quatenus excedunt gradum
+raritatis and densitatis homogeneum in quantitate universi aequalem omnibus
+gradibus singulorum corporum.
+Prop. 13. and 14.
+CUm enim omne quantum sit compositum ex materia and forma, and omne compositum
+ex materia and forma sit corpus, Prop. 11.
+and possibilis sit unica materia, Axiom. 2.
+incrementi autem quantitatis ex sese and suis proprijs nullus sit finis, fit,
+capacitatem materiei esse adaequatem infinitati quantitatis, sicut vas aequale
+dicitur liquori nato illud implere. Cumque rursus evidens sit, (...) Prp. 21.
+Mundum esse finitum, evidens etiam est, mundum non esse rarissimum corporum,
+sed in certo gradu densitatis; Prop. 25.
+illo nempe, qui aequvalet raritati and densitati omnium singularium corporum.
+Quare, cum omnia singularia non possint comparari nisi secundum regulam ad
+omnia pertinentem, hoc est, respectu totius universi, palam est, illa dici rara
+vel densa re-respectu gradus ad ipsum universum pertinentis, quod erat intentum.
+
+Prop. XXVII.
+Rarum et densum sunt primae differentiae quanti, ut sic.
+CUm enim primum quod de quanto intelligitur, sit quantitatem esse in subjecto,
+Axio. 7.
+non possit autem intelligi quantitatem esse in subjecto, seu quantum esse,
+nisi determinate; inesse autem determinate, sit esse in certo gradu rari vel
+densi, palam est, raritatem and densitatem pertinere ad ipsam constitutionem
+quanti, and, per consequens, esse maxim internas and essentiales differentias
+quae quanto, ut tali, competere possunt.
+
+Prop. XXVIII.
+Habere quantitatem, est de essentia corporis quod est Quantum.
+CUm enim corpus quod est quantum seu compositum ex materia and forma sit
+essentialiter Ens, Def. 3.
+and essentia entis sit esse subjectum aptum existentiae (...) Axio. 7.
+and existenti esse determinatum and singular, non indifferens ad hoc vel
+illud, and de quo potest plus vel minus accipi non sit determinatum, nisi
+determinare tantum accipiatur; Prop. 13.
+omne autem compositum ex materia and forma, natum sit esse quantum, and, per
+consequens, plus aut minus de tali substantia possit accipi, manifestum est,
+esse de essentia compositi hujusmodi, non solum habere quantitatem, sed
+quantitatem ipsius esse determinatam. Habere itaque quantitatem, and
+quantitatem esse determinatam, est de essentia omnis corporis quod est quantum;
+ut erat propositum.
+
+Prop. XXIX.
+Siqua sunt corpora simplicia, hoc est, per puras Quanti differentias
+constituta, certa raritas et densitas sunt differentiae essentiales and
+constitutvae eorum.
+Prop. 28.
+CUm enim habere quantitatem sit de essentia corporis, differentiae per se
+habendi quantitatem erunt essentiales, and constitutivae differentiae specierum
+corporis; Prop. 27.
+cum itaque raritas and densitas sint primae differentiae quanti, erunt etiam
+primae and constitutivae differentiae specierum corporis ut corporis (hoc est
+Entium, per puras quanti differentias constitutorum) si quae tales sunt. Quare,
+cum differentiae sint determinativae, and, per consequens, determinatae, clarum
+est, etsi contingat in hujusmodi ente esse plures gradus raritatis and
+densitatis, tamen unum certum gradum esse essentialem and constitutivum ipsius:
+
+Prop. XXX.
+Nullum corpus est activum ex sese.
+(...) Prop. 33.
+CUm enim quantum, ut tale, sit divisibile, rarum vero and densum esse magis
+seu facilius, and minus vel difficilius divisibile, haec autem omnia sint esse
+passiva, palam est, corpus and species natas per proprias differentias ipsius
+non esse activas. Quare, (...) Prop. 30.
+cum caetera corpora, praeter ea quae his differentiis constituuntur, sint
+mixta seu composita ex his virtutibus simplicium manentibus, and, per
+consequens, non possint habere differentias substantiales, nisi ex his
+compositas, clarum est, non habere ex essentialibus suis esse activa; Nullum
+itaque corpus ex sese est activum.
+
+Prop. XXXI.
+Corpus est essenttialiter instrumentum.
+(...) Per plures prop.
+CUm enim evidens sit corpora omnia agere in sese invicem, (...) Prop. 3. and 4.
+neque possint ex suis propriisvel sese vel alia mutare and movere; Axio. 3.
+quod autem universaliter and ex ordine naturae competit, non possit dubitari
+quin sit natural, clarum est, natural esse omni corpori accipere ab alio
+operari. Axio. 4.
+Quare, cum operari sit finis existendi, and, per consequens, sit essentialis
+ordo corporis ad operationem, consequens est, essentialiter corpus esse
+subordinatum alteri, and ipsius instrumentum; quod erat propositum.
+
+Prop. XXXII.
+Quaecunque sunt in Ente materiali praeter materiam, sunt determinationes
+materiae
+CUm enim non possint esse entitates adjectitiae (forent enim alia entia, and
+non in hoc ente quomodocunque conjuncta ponantur) erunt identificata, and, per
+consequens, praedicabilia de ente, ut possit dici, hoc est illud; si autem
+possit dici hoc est illud, consequentur ad definitionem entis, seu ad quid res
+sit; and, per consequens, si non pertinent ad existentiam, consequentur vel ad
+genus vel ad differentiam. Si ad genericam rationem puram, quaeque nullam
+habeant differentiam, sint praedicata declarantia naturam materiae, seu quid
+res sit ex vi materiae: sin ad differentiam pertinent, clare sunt
+denominationes genericae alicujus notionis; quod erat intentum.
+
+Prop. XXXIII.
+Omnis operatio corporea vel est rarefactio vel condensatio, aut motus localis,
+vel ex his composita.
+Prop. 32.
+CUm enim quaecunque sunt in ente materiali, sint ipsius denominationes, Prop.
+27.
+and primae determinationes seu universalissimae sint raritas and densitas,
+(...) Prop.
+densum vero impulsum dividat rarius, (...) Prop. 21.
+and moveat aliud ante se, (...) Prop. 22.
+in omni autem motu aliquid condensetur, (...) Prop. 23.
+and aliquid comprimatur, fit motus proprios rarorum and densorum, hoc est,
+Elementorum, esse divisionem seu motum localem, and rarefactionem and
+condensationem. Quare, cum caetera sint mixta, (...) Prop. 21.
+and mixta elementorum vires retineant, palam est, reliquas operationes
+corporum esse compositas ex rarefactione, condensatione, and divisione, seu
+motu locali, quod erat intentum.
+
+STOECHEIDIS H.
+Definitiones.
+1. EDuci de potentia subjecti formam dicimus cum actio Agentis pendet a
+subjecto ex quo dicitur educi. 2. Dicitur aliquid esse id aealiter ab alio,
+quando perfectio ipsius est esse quale illud est a quo est, sicut perfectio
+imaginis est esse quam simillimam prototypo. 3. Spiritus, sen substantia
+spiritualis, est Ens immateriale, seu substantia non quanta. 4. Naturam dicimus
+virtutem illam qua conservatur mundus and ordo ipsius.
+AXIOMATA.
+1. ESse constituit partem contradictionis, and sine Esse non potest formari
+contradictio; verbigr. Homo est, and Homo non est, sunt contradictoriae; non
+autem Homo and non Homo. 2. Quod non existit, est vere et proprie nihil. 3.
+Eadem vox non potest significare contradictoria in eadem significatione. 4.
+Agens intendit introducere formam secundum quam agit.
+Stoecheides H.
+De Essentia and Existentia, and divisione Entium per illas.
+Propositio 1.
+Si detur Ens in cujus notione inclusa sit existentia, illud ens non potest non
+existere.
+ESto enim Ens hujusmodi and dicatur A existens. Et quando quidem ponitur ab
+negantibus propositionem posse non existere, supponatur non existere, and
+clarum est, dicendum esse, A existens non existit, seu A existit and non
+existit. Cum itaque nihil possit simul esse and non esse, falsum est A
+existens, seu ens in cujus notione est existere, posse non existere.
+
+Prop. II.
+Existentia non includitur in notione cujuslibet corporis quanti.
+ESto enim corpus A. in cujus ratione dicatur esse inclusa notio existentiae,
+(...) Pro. 13.
+and quia omne corpus est quantum, A erit divisibile. Dividatur itaque and
+fiant ex eo B. and C. and quia A. neque est B. neque C. jam A. non est. Erat
+itaque A corruptibile, seu quod poterat non esse, Prop. 1.
+sed ejusmodi ens non includit in sua notione existentiam. Existentia itaque
+non includitur, etc.
+
+Prop. III.
+Requiritur vis causativa specialis ad conferendam existentiam corpori, praeter
+illam quae praecise terminatur ad formam seu ens quantum.
+Prop. 2.
+CUm enim corpus possit esse, and non esse, non est necessaria sequela a
+ratione corporis ad existentiam. Vis itaque causalis quae intelligitur
+terminari praecise ad rationem corporis and non posse ultra, non intelligitur
+confer illi existentiam, and, per consequens, ulterior vis requiritur, sive
+distincta sive non distincta ad positionem existentiae,
+
+Prop. IV.
+Compositio existentiae cum quanto non est compositio partium quantitativarum.
+SI enim foret, existentia haberet parts quantitativas, (...) Prop. 20.
+and foret per se divisibilis, Prop. 2.
+and, per consequens corruptibilis, and quae poslet non esse, quod est
+impossibilius quam illud in cujus ratione inest existentia posse non esse.
+
+Prop. V.
+Compositio existentiae cum quanto, est compositio realis formalis.
+Prop. 3.
+CUm enim positio existentiae pendeat a virtute speciali, praeter eam quae
+terminatur ad quantum, virtus autem and causatio sint correlativae, existentiae
+positio pendet a speciali causatione. Sed effectus talis causationis est,
+existentiam esse conjunctam seu compositam cum quanto; compositio itaque
+existentiae cum quanto est effectus realis, and, per consequens, ipsa realis.
+(...) Def. 1. and 2.
+Estitaque existentia de nominatio intrinsecaquanto, seu praedicatum
+intrinsecum quanti, and Quantum subjectum ipsius, and compositio ex iis
+compositio formae and subjecti, seu compositio formalis. Est itaque compositio
+existentiae cum quanto compositio realis formalis: quod erat propositum.
+
+Prop. VI.
+Omnes denominationes intrinsecae corporis quanti sunt praeviae ad existentiam
+in genere causae materialis.
+Prop. 2.
+CUm enim notio existentiae non includatur in notione corporis quanti, and
+(...) Axio. 7.
+nihil, quod est indeterminatum, possit existere, palam est, corpus quod est
+subjectum existentiae esse completum in ratione corporis antequam existentia
+adveniat: sed quod est indeterminatum intrinsece est adhuc incompletum and
+indifferens ad hoc quod est, acceptis determinationibus, non itaque est
+completum in ratione corporis and subjecti existentiae, neque existentia ei
+supervenit, nisi post praedictas determinationes. Cum itaque determinationes
+faciant corpus subjectum existentiae formaliter essendo in corpore, palam est,
+in genere causae materialis praevias esse ad existentiam.
+
+Prop. VII.
+Existentia non est proprie actus sed actualitas, seu actus actuum.
+Prop. 6.
+CUm enim intrinsecae denominationes corporis sint eae per quas corpus dicitur
+actu secundum formas constituentes and integrantes illud in eo quod ipsum est,
+palam est, determinationes intrinsecas esse proprie actus hujus corporis,
+extrinsecas vero alterius alicujus cui sunt intrinsecae, and quod sequitur
+intrinsecas esse proprie actus. Omnes itaque determinationes intrinsecae
+corporis sunt omnes actus. Cum itaque omnes intrinsecae determinationes sint
+quasi parts subjecti existentiae, clarum est, existentiam comparari ad eas
+velut formam omnibus supervenientem, and habere se ad omnes sicut singulae
+earum se habent ad subjecta sua, hoc est, habere quasi naturam actus ad omnes
+actus, seu ad ipsam rationem actus, ut de iis dicitur, and quod sequitur, esse
+actualitatem seu actum actuum sic proprie dictorum.
+
+Prop. VIII.
+Tres sunt quasi parts ordinate perficientes, seu ad perfectionem elevantes
+corpus, and non plures.
+(...) Prop. 4.
+CUm enim materia prima insit composito, (...) Prop. 7.
+and non sit composita ex actu and potentia, (...) Def. 4.
+sed and actus primus qui ipsi inest constituat ens, seu substantiam, seu
+corpus, Prop. 6.
+corpori autem constituto superveniat existentia, and hae tres parts sic se
+habeant ut materia sit subjectum formae, forma autem cum materra subjectum
+existentiae, palam est, in corpore tres esse quasi parts per quas educatur
+imperfectam substantiam. Cumque rursus (...) Prop. 7.
+ex eo, quod materia non sit composita ex actu and potentia, non possit esse
+alia hujusmodi quasi pars subtus eam; (...) Def. 4.
+and quoniam primus actus solus est forma substantialis, and quasi pars
+substantiae, siquae autem sunt aliae, non pertineant ad substantiam; ad
+substantiam autem immediata sit existentia; and haec gradatio sit per potentiam
+and actum, hoc est, indeterminationem ad determinationem, existentia autem
+Axio. 1.
+cum faciat ens alteram partem contradictionis, and contineat necessitatem
+essendi, dum est, nullam possit habere indeterminationem seu potentialitatem,
+sequitur non posse dari alium ulteriorem quasi existentiae actum qui determinet
+indeterminationem ipsius. Tres sunt itaque etc.
+
+Prop. IX.
+Existentia est ipsum exercitium actuum omnium in sua subjecta and materiam
+primam.
+Axio. 2.
+CUm enim quod non existit sit vere and proprie nihil, patet ipsam substantiam,
+nisi existat, non esse substantiam, and, quod sequitur, idem significare
+substantiam esse, and substantia^ esse substantiam. Quare existentia est
+exercitium ipsius substantiae per exhibitionem, seu faciendo substantiae
+rationem exerceri, Prop. 6.
+sed omnes determinations intrinsecae substantiae, hoc est, omnes actus
+pertinent ad substantiam, omnes itaque exercentur ab existentia, sed exercitium
+earum est actuare sua subjecta, quae vel est ipsa materia vel continent eam.
+Quare omnes actus mediate vel immediate actuant materiam primam, and exercitium
+earum est actuationem ipsam existere. Hoc itaque habent ab ipsa existentia;
+existentia itaque est exercitium, etc.
+
+Prop. X.
+Divisibilitas corporis in existentiam and quod est, minus propria est
+divisibilitate corporis in materiam primam and formam substantialem.
+(...) Def. 8.
+CUm enim divisibilitas dicat potentialitatem ad esse plura, quo magis propria
+est pluralitas ex divisione resultans, eo magis proprie dicitur divisibilitas.
+Et ex divisione continui resultant vere plura, and sic divisibilitas continui
+est proprie divisibilitas, (...) Prop. 6.
+ex divisione autem actus a potentia resultat ordinate saltem unum scilicet
+subjectum etsi sub alia forma; ex divisione autem existentiae a subjecto
+resultat ex utraque part nihil, Axio. 2.
+cum substantia non existens nihil sit, neque possit existentia intelligi non
+in aliquo existens. Impropriissime itaque haec divisio dicitur divisio, and
+potentia ad eam divisibilitas.
+
+Prop. XI.
+Ens, quod habet existentiam inclusam in sua notione, non habet causam
+existendi.
+ESto enim ejusmodi ens, A. existens, and palam est sive existentia sit
+divisibilis ab A. sieve non, saltem non esse divisibile ab A. existente. Quare
+vel A. existens est causa sibi ut sit A. existens, vel aliquod Agens
+extrinsecum. (...) Pro. 1. and 2.
+Sed cum idem indivisibiliter sumptum non agat in semetipsum, A. existens non
+agit in semetipsum, and, per consequens, non facit se esse A. existens. Sed
+neque A. agit in existentiam (...) Pro. 17.
+propter compositionem formalem, sed neque ab alio potest accipere existentiam,
+cum illud quod accepturum est existentiam sit A. existens; foret enim A. actu
+existens in potentia ad existentiam, seu nondum existens, hoc est, idem and
+distinctum, existentia ab existentia, seu existere ab existere.
+
+Prop. XII.
+Quod adaequate tribuit existentiam alteri non accipit adaequate existentiam ab
+eo.
+DIcatur enim A. dare existentiam B. adaequate, (...) Def. 2.
+and quoniam causari B. est B. esse quia A. est, adaequata ratio existendi ipsi
+B. est quia A est. Dicatur modo B. adaequate dare esse ipsi A, and rursus B.
+esse, erit adaequata ratio existendi ipsi A. Adaequata ergo ratio existendi A.
+est, quia ipsum A. est, (...) Prop. 2.
+hoc est, idem facit seipsum esse, seu mutat se; Et B. esse est medium inter A.
+esse and A. and A. esse est prius and posterius semetipso.
+
+Prop. XIII.
+Si sint plura entia, quorum quae accipiunt esse ab alio, sunt adaequate ab
+ipso. Omnia illa non accipiunt esse ab alio.
+SUnto enim in universo duntaxat tria entia A. B. and C. and B. quidem and C.
+habeant vel utraque ab A. vel alterum ab A. alterum, verbi gr. C. a B.
+adaequate suas existentias, dico A. non accipere existentiam ab alio. Si enim
+accipit vel accipit ab utroque. B. and C. vel ab altero eorum, sed utrumlibet
+dicatur, accipit ab eo cui tribuit adaequate existentiam, Prop. 12.
+quod est impossible.
+
+Prop. XIV.
+Datur aliquod ens quod non accipit existentiam ab alio, seu quod includat
+existentiam in sua definitione.
+CUm enim quod accipit existentiam accipiat eam adaequate vel ab uno vel a
+pluribus, esto A. quod accipit existentiam adaequate a B. vel a B. and C. B.
+autem vel B. and C. ab aliis: (...) Prop. 22.
+and quia entia sunt numerata, pervenietur ad unum vel plura a quibus B. sive
+B. and C. and omnia a quibus ipsa pendent habent existentiam adaequate. Prop.
+12.
+Haec autem non possunt ab iis quae habent existentiam adaequate ab ipsis
+recipere adaequate existentiam; confectum est itaque esse unum vel plura entia
+quae non habent causam extrinsecam existendi, and, per consequens, habent
+existentiam ex sese, seu ab and in sua definitione. Et quoniam quae accipiunt
+esse ab uno inadaequate, necessario accipiant a pluribus existentiam adaequate,
+fit non interesse an dicatur quae recipient adaequate, vel sive adaequate sive
+inadaequate. Constans ergo est esse unum vel plura entia in mundo quae non
+accipiant existentiam ab aliis.
+
+Prop. XV.
+Enti quod in notione sua includit existentiam non est alia differentia ultima
+quam ipsa existentia.
+Prop. 8.
+CUm enim non sint nisi tres quasi parts entis, potentia, actus, and
+existentia, Prop. 9.
+and existentia praesupponat potentiam and actum quando cum iis invenitur, and
+supervenit eis. Sed and differentia ultima praesupponat and adveniat caeteris
+quae sunt in definitione entis; clarum est, non posse esse aliam differentiam
+ultimam entis essentialiter existentis quam ipsam existentiam, respectu cujus
+caetera sunt subjecta, and quae sit nullius subjectum sed adveniat omnibus.
+
+Prop. XVI.
+Ratio entis non dicitur in eadem significatione de ente habente in definitione
+existentiam, and de entibus per compositionem cum existentia.
+CUm enim caetera entia sint entia, quia nata sunt habere existentiam, ens
+autem per definitionem existens, quia actu habet existentiam: quod autem
+tantummodo natum est esse album vel calidum, vel existens, quantum est ex hoc
+non sit album, calidum, vel existens; quod autem est aliquod horum actu, vere
+ex vi hujus est album etc. Axio. 3.
+Eadem autem vox non possit in eadem significatione contradictoria significare,
+palam est, ens non dici in eadem significatione de ente, per definitionem
+existente, and de caeteris.
+
+Prop. XVII.
+Si sint plura per definitionem existentia, genus omnibus ipsis non est aliud
+quam ipsa existentia.
+Prop. 16.
+CUm enim Ens, ut est genus entium compositorum ex eo quod est and existentia,
+non dicatur in eadem significatione qua Ens dicitur de existente per
+definitionem, clarum est, non posse esse commune genus horum entium. Sed omnia,
+de quibus Ens dicitur in eadem significatione, sunt vel per definitionem
+existentia, vel non per definitionem existentia: Genus itaque horum entium est
+(...) per definitionem existens; existentia proinde est de ratione generis
+horum entium, sed non existentia composita cum potentia, sive ens, ut de
+reliquis dicitur: ergo existentia pura; quod erat intentum.
+
+Prop. XVIII:
+Datur unicum ens per definitionem existens.
+SUnto siquidem duo entia per definitionem A. and B. and Prop. 17.
+quoniam genus eorum est pura existentia, and in notione existentiae non addito
+alio, non possit esse divisio seu hoc and non hoc; clarum est, notionem A. vel
+notionem B. vel utriusque esse differentes a notione purae existentiae, cum
+sint differentes inter se. Esto ergo notio A. notio eadem quae purae
+existentiae, notio vero B. dicatur esse diversa; non potest autem sic esse
+diversa ut non contineat notionem purae existentiae, Prop. 17.
+sic enim notio purae existeniae non foret ei generica: Neque sic ut includat
+praeterea notionem entis in potentia ad existentiam. Non est itaque ratio B.
+distincta a ratione purae existentiae seu A. Non sunt itaque duo entia per
+definitionem existentia A. and B. Et eodem modo formaretur argumentatio, si
+utrumque A. and B. dicantur differ per notiones a notione purae existentiae.
+Datur itaque unicum Ens per definitionem, and illud est primum Ens, reliqua ab
+ipso.
+
+Prop. XIX.
+Si dentur duae quasi parts entis quarum una sit praecise potentia ad
+reliquam. Supponatur autem reliqua existere sine potentia, perfectio totius
+entis ex actu and potentia erit in actu subsistente.
+(...) Def. 2.
+CUm enim potentia, ut potentia, includat non esse illud ad quod est potentia,
+id est, nullam perfectionem, sed sit duntaxat adjutorium ut illa perfectio
+existat, si perfectio illa ponatur non in alio existere ponitur in sese
+existere, sive habere in se and rationem suam and rationem adjutorii omnis
+necessarii ad hoc ut sit. Palam itaque est, and rationem suae perfectionis and
+rationem potentiae esse in tali actu, hoc est, perfectionem totius entis ex
+actu and potentia.
+
+Prop. XX.
+Ens includit in se perfectionem omnium entium compositorum ex ente and
+existentia.
+(...) Prop. 15.
+CUm enim in composito ex materia and forma and existentia materia ex sese non
+sit in quo possit esse existentia, forma quoque sit debilis dispositio ad
+existentiam sine materia, palam est, utramque requiri ad constituendum in quo
+fit existentia. Prop. 9.
+Rursus, cum existentia sit ipsum exercitium omnium actuum in materiam primam,
+Axiom. 2.
+neque possit intelligi quicquam in illis esse perfectionis, extra vel ultra
+quam exercentur, fit, quod sicut tota perfectio eorum est adaequate ad hoc ut
+exerceatur, sic tota perfectio non est nisi ad constituendum in quo sit
+existentia, Prop. 19.
+sed existentia subsistens habet virtutem eorum in quibus nata est inesse
+existentia; tota itaque perfectio entium existentium per compositionem cum
+existentia est in ente existente per definitionem, seu existentia subsistente.
+
+Prop. XXI.
+Existentia non potest educi de potentia subjecti seu entis in quo est.
+Prop. 9.
+CUm enim existentia sit exercitium omnium actuum, est exercitium primario and
+principaliter illius act us quo suum subjectum constituitur in ratione entis
+seu subjecti exsentiae. Def. 1.
+Educi autem de potentia subjecti significet actionem educentis de subjecto
+pendere ab ipso subjecto, and, per consequens, subjectum esse prius ingenere
+causae materiali ipsa action, and, per consequens, ante quam exerceatur ab
+existentia, sustentare actionem; quod implicat contradictionem:
+
+Prop. XXII.
+Ens per compositionem cum existentia non potest aliud Ens ex nihilo producere.
+CUm enim ens per compositionem cum existentia habeat existentiam in subjecto
+and dependentem ab eo; (...) Def. 2.
+agere autem sit esse (...) a quo, quia est quod est, aliud sit, and quod est
+ab ente composito cum existentia sit ab eo quia habet esse dependens a
+subjecto, and, per consequens, non nisi per actionem dependentem a subjecto,
+fit non agere nisi per eductionem existentiae de subjecto, Prop. 21.
+quod est impossible.
+
+Prop. XXIII.
+Ens primum quoad intrinseca sua est in actuali emanatione existentiae
+universali and plenaria.
+Prop. 9.
+CUm enim existentia sit exercitium omnium actuum subjecti in quo est, and hoc
+per exhibitionem sui, seu exercendo sese in illos, fit existentiam subsistentem
+esse exercitium existentiae in semetipsam. Prop. 20.
+Cumque contineat in sese plenitudinem entis esse universale and plenarium
+exercitium existentiae in semetipsam, Prop. 18.
+and quia nata est emanare existentiam absque determinatione ab extrinseco ex
+vi praecise suae propriae plenitudinis, esse quoad intrinseca actu paratum and
+dispositum ad effundendam existentiam in creata universaliter and plenarie.
+
+Prop. XXIV.
+Quicquid non existit vel impossible est vel incompossibile cum potiori.
+Prop. 23.
+CUm enim ens primum, quantum est ex se, sit paratum ad effundendam
+existentiam, necessum est, quicquid ab eo natum est fluere, actu existere
+quantum ex eo est. Quod ergo non sit quod non est, causatur ab aliquo extra
+ipsum, hoc est, eximpossibilitate effectus, Prop. 20.
+cum tota plenitudo entis sit in primo ente, and, per consequens, possit omne
+possibile. Quare, cum impossibilitas sit in implicatione contradictionis, seu
+entis and non entis, quicquid non est, implicat contradictionem, vel in
+essentia sua, and est proprie nihil, vel in co-existentia diversorum entium, ut
+si quis petat in universo plus esse ignis vel aquae quam consistat cum
+incolumitate universi.
+
+Prop. XXV.
+Ens primum non agit fortuito, sed vel ex inclinatione naturae, vel ex
+necessitate entium creabilium.
+Prop. 23.
+CUm enim ens primum ex inclinatione naturae feratur ad communicandam
+existentiam, quantum est communicabilis; Prop. 24.
+and omne quod non est ex impossibilitate entium creatorum, habeat non esse,
+palam est, ens primum nihil quasi casu and extra directionem vel suae naturae
+vel creaturarum operari.
+
+Prop. XXVI.
+Ens primum ex inclinatione suae naturae non agit nisi Entia.
+Prop. 23.
+CUm enim ens primum operetur per exercitium existentiae ab existentia, fit
+naturam, ex vi cujus agit, esse ipsam existentiam. Prop. 18.
+Cumque operetur sine subjecto, neque possit intelligi actio in non existente,
+fit existentiam quoque in producto per se terminare actionem primi Agentis.
+Quare, cum existentia non possit intelligi sine ente in creatis, fit per se
+terminum adaequatum esse ens. Et proprium modum agendi entis primi esse per
+existentiam producere ens; Quare, ex inclinatione naturae ens primum non agit
+nisi Entia.
+
+Prop. XVII.
+Ens primum non agit nisi ea quae nata sunt subsistere in hoc ordine naturae.
+Prop. 26.
+CUm enim ex inclinatione sua non agat nisi entia, Prop. 24.
+necessitas autem creaturae non determinet nisi ad ea quae nata sunt subsistere
+in hoc ordine naturae, imo impediat, and determinet ad alia non agenda, Prop.
+20.
+neque agat quicquam fortutio, vel ex aliis motivis quam his duobus; fit, Agens
+primum non agere nisi quae nata sunt subsistere in hoc ordine naturae.
+
+Prop. XXVIII.
+Omnia and singula entia per compositionem cum existentia immediate procedunt
+ab ente primo.
+Prop. 18.
+CUm enim ens per definitionem existens sit unicum, caetera omnia sunt Entia
+per compositionem cum existentia Quare, Prop. 21.
+cum existentia non possit educi de potentia subjecti, neque subjectum esse
+sine existentia, fit subjectum ejus non posse accipere esse nisi instantance,
+eodem modo quo produceretur si nihil praextitisset. Prop. 22.
+Sic autem existens per compositionem cum existentia non valet illud producere,
+consequens est itaque omnia and singula entia per compositionem immediate
+fluere ab Ente primo.
+
+Prop. XXIX.
+Agens, in quo effectus est tantummodo eminenter, agit dependenter a subjecto.
+Axio. 4.
+CUm enim unumquodque Agens intendat introducere formam suam secundum quam
+agit, and Agens, in quo effectus est tantummodo eminenter, agat secundum aliam
+formam quam sit illa quam introducit in effectum, palam est, quod non perficit
+intentionem suam, and, per consequens, quod impediatur ab aliquo, videlicet a
+subjecto in quo recipitur forma and actio; Cum itaque subjectum non possit
+impedire effectum, nisi quatenus suscipit actionem praeviam ad effectum, clarum
+est, quod Agens, in quo effectus est tantummodo eminenter, agat dependenter a
+subjecto, quod erat propositum.
+
+Prop. XXX.
+Entia per compositionem cum existentia singula and omnia cum ordine quem
+habent in essendo sunt formaliter in primo Ente.
+Prop. 28.
+CUm enim primum Ens agat immediate singula and omnia, agat autem eodem modo,
+sive producat ex nihilo, sive aliud praecesserit; si autem producat ex nihilo,
+nullum sit impedimentum ex part subjecti, neque etsi aliud praecesserit
+aliquod erit impedimentum a subjecto, atque proinde semper introducit formam
+secundum quam agit, sed introducit formas singulorum cum ordine quem habent in
+essendo; Formae itaque singulorum, seu singula, cum omnibus suis limitationibus
+and conjunctionibus cum aliis sunt secundum formam secundum quam agit. Quare,
+cum inesse formaliter non sit aliud quam inesse cum omnibus singularitatibus
+and distinctionibus, patet, omnia caetera inesse formaliter in primo Ente.
+
+Prop. XXXI.
+Quaecunque su t^ in primo ente sunt de essentia ipsius.
+Prop. 15.
+CUm enim ultima differentia Entis primi sit ipsa existentia, Prop. 6. and 9.
+existere autem, cum sit actus seu exercitium omnium quae non sunt ipsummet met
+esse, sit posterius ipsis omnibus, and, per consequens, quaecunque ponantur
+esse in primo Ente debeant supponi, hoc est, esse quodammodo prius and magis in
+essenta hujusmodi Entis quam ipsa existentia, palam est, omnia ei esse
+essentialia; quod erat intentum.
+
+Prop. XXXII.
+Essentiae caeterorum Entium sunt prius in primo Ente quam in semetipsiis, and
+idealiter procedunt ab ipso.
+CUm enim evidens sit existentias particulares and participatas esse
+posteriores ipsa existentia a se subsistent and plenaria, hoc est, primo Ente,
+Prop. 20.
+and essentias entium compositorum cum existentia esso rdinatas essentialiter
+ad suas, hoc est, participatas existentias, and, per consequens, finaliter ab
+iis, and posteriores illis, fit esse posteriores ipsa existentia Entis primi,
+and omnibus quae sunt in Ente primo. Quare, cum caetera Entia sint formal ter
+in Ente primo and ab eo, fit, esse posteriora in semetipsis quam in eo, and
+perfectionem eorum conformari illis quae sunt in Ente primo, and, per
+consequens esse, idealiter ab eo; quod erat propositum.
+
+Prop. XXXIII.
+Essentia corporis naturalis est illa quae reddit illud partem Universi and
+instrumentum Naturae.
+(...) Pro. 31.
+CUm enim corpus sit essentialiter instrumentum, etiam essentia ipsius, ut in
+primo Ente, est esse instrumentum; Prop. 30.
+sed est in primo Ente cum connexione quam habet ad reliqua, hoc est, ad ipsum
+Mundum seu naturam rerum. Def. 4.
+Sed Naturam intelligimus esse per quam Mundus conservatur, quaeque recte
+dirigit operationes singularium Entium, id est, cujus instrumenta sunt
+singularia entia. Essentia itaque corporis in Ente primo est, esse instrumentum
+Naturae and partem Mundi; cum itaque essentia ipsius in se sit eadem quae est
+in primo Ente, illa essentia, etc.
+
+Prop. XXXIV:
+Ens incompossibile cum potiori, non habet perfectam and proprie dictam
+essentiam.
+Axiom. 10.
+CUm enim perfecta contradicto non reperiatur nisi in subjecto existente, Prop.
+24.
+and ens incompossibile cum potiori non possit habere consortium existentiae,
+nisi naturae ordo in rebus constitutis tollatur aut violetur; tolli autem aut
+violari ordinem universi repugnet ei necessitati qua universum fixum est and
+stabilitum; Prop. 25.
+universum autem fixum sit, quia primum Ens non agit fortuito; palam est, ens
+incompossibile cum potiori non habere ordinem ad existentiam, hoc est,
+essentiam, nisi ex consideratione abstractiva and imperfecta primi Entis,
+videlicet, ut apprehenditur secundum unum praedicatum abstrahendi abaliis, and,
+per consequens, habet rationem imperfectam essentiae, and non proprie dictam,
+sicut quae aliquando existere nata sunt.
+
+STOECHEIDIS (...).
+Definitiones.
+ANimal dicimus corpus quod movet semetipsum ex sensatione, seu cognitione per
+sensus.
+
+AXIOMATA.
+1: OPeratio sequitur naturam causae. 2. Anima, lex intrinseca ordinatione
+naturae, est corpus natum movere semetipsum ad conservationem sui. 3. Natura
+dat instrumentu dispositionem convenientem actioni quae per ea fieri
+intenditur. 4. Impressio in subjectum facta manet donec aliqua causa illam
+expellat. 5. Quod requirit aliud existere ut ipsum sit, natum est ipsi
+co-existere.
+PHANERA.
+1. SEnsus and motus animalis habent originem a cerebro. 2. Animalis membra
+separata non habent operationes quas habent in toto; v. g. lingua non gustat,
+manus non apprehendit, pes non incedit. 3. Parts plantae non conspirant ad
+unam certam operationem. 4. In solis Animalibus sunt membra libera ad proprios
+motus. 5. Homo movet se, seu agit proper finem. 6. Movens intellectum vel est
+sensus vel aliquid a sensu relictum.
+Stoecheides (...).
+De essentialibus Corporum gradibus.
+Propositio I.
+Dantur in rebus species quaedam corporum ex partibus elementaribus
+compositorum, in quibus Elementa non sunt actu.
+CUm enim ordo Mundisit determinatus, necesse est corpora activa and passiva
+esse in certa quantitate, sic ut non possint esse in minori, and, per
+consequens, Elementa non posse agere vel pati nisi sint in certa magnitudine;
+quae autem non possunt agere and pati in dato ordine universi, non sunt parts
+universi, (...) Pro. 30.
+cum corpora sint essentialiter instrumenta. Quare, cum in confiniis
+elementorum possint ex singulis elementis designari parts in quantulacunque
+magnitudine, clarum est, accipi posse species quasdam corporum quorum singulae
+parts sint elementares, sed non activae singulatim, quae tamen conjunctae cum
+caeteris sint activae, and, per consequens, non habeant formas Elementorum, sed
+duntaxat formam compositi; quod erat propositum.
+
+Prop. II.
+Primo mixtum est Metaphysice unum Ens, and habet unicam formam substantialem.
+Prop. 1.
+CUm enim primo mixtum sit Ens ex partibus minimis pure raris and densis, and
+singulis incapacibus actionis and passionis secundum ordinem rerum; ^ Pro. 33.
+Rursus, cum illa sit cujusque Entis rigorosa and Metaphysica essentia quam
+accipit per creationem seu generationem a primo Ente, Prop. 17.
+primum autem ens nihil agat nisi quatenus est pars mundi, fit, cum mixtum sit
+primo pars Mundi per rationem mixti, formam mixti esse essentialem and
+metaphysicam and primo acceptam ab Ente primo formam ipsius, and, per
+consequens, substantialem rigorose and unicam in eo, and non supponi formas
+Elementorum in partibus.
+
+Prop. III.
+Primo mixtum est magis ens and perfectius quam elementum.
+CUm enim unitatis ratio sit tollere divisionem, si in eodem rigore unitatis
+tollitur major divisio, unitas eo perfectior and major est. Cum itaque unitas
+Elementi non tollat nisi divisionem secundum quantitatem vel secundum materiam
+and formam; unitas autem primo-mixti praeterea tollat differentiam specierum
+quae natae sunt sequi varietatem raritatis and densitatis, Prop. 2.
+tollat autem hanc per unitatem rigorose metaphysicam, and per unicam formam
+substantialem, clarum est, primo mixtum esse perfectius unum and Ens quam sit
+Elementum.
+
+Prop. IV.
+Animal, ut animal, est Metaphysice unum ens habens unicam formam substanti lem.
+Def. 1.
+CUm enim Animal existimemus quod sentit and movet seipsum ex passione sensus;
+Phan. 1.
+tum autem sensus tum motus quatenus Animalis a cerebro pendeat originaliter,
+palam est, caecera omnia membra cum cerebro conspirare ad actionem Animalis,
+quatenus animalis, and, per consequens totum Animal esse instrumentum natum ad
+actionem cerebri, hoc est, ad unam actionem perficiendam. Phan. 2.
+Add, quod extra compositum nullum animalis membrum retineat actionem vel
+passionem animalem; Quare, patet Animal, ut animal, esse unicum instrumentum
+naturae. Quare, (...) Pro. 27.
+cum primum ens emanet entia per compositionem essentiae cum existentia,
+quatenus sunt parts Mundi and instrumenta Naturae, (...) Pro. 32.
+habeant autem essentiales rations ad unitatem formae per conformitatem ad
+idaeas in primo Ente, consequum est, Animal esse rigorose and perfect unum
+Ens, (...) Pro. 18.
+and habere unicam formam substantialem; quod erat propositum.
+
+Prop. V.
+Pura planta non est metaphysice unum ens, sed multa mixta.
+Phan 3.
+CUm enim parts ipsius non conspirent ad actionem alicujus unius membri, seu
+ad unam actionem, palam est, non esse unum instrumentum naturae, (...) Pro. 33.
+and, quod sequitur, non esse unum Ens. Rursus, oum parts ipsius separatae
+retineant easdem distinctas virtutes quas habebant in toto, clarum rursus est,
+formas singulas esse in singulis partibus similaribus, and, per consequens,
+totum esse collectionem plurium mixtorum.
+
+Prop. VI.
+Forma substantialis Entis sunt omnes determinationes materiei, seu
+substantiae, quatenus constitunnt rationem particularem Membri seu instrumenti
+naturae.
+(...) Prop. 27.
+CUm enim Ens accipiat esse quatenus est membrum Mundi and instrumentum
+Naturae, Forma autem fit ad quam sequitur esse, clarum manet, formam
+substantialem entis cujusque esse rationem instrumenti naturae quae est in eo.
+Palam quoque aliunde est, quod, quoniam instrumenti ratio ad operationem
+dicitur, operatio autem sequatur quod res est and sit conformis ipsi; (...)
+Pro. 32.
+res autem sit quod est per determinationes materiei primae seu substantiae,
+instrumenti ratio non possit esse aliud quam dictae determinationes; non
+singulatim cum quaelibet una limitetur ab aliis, sed prout conspirant and
+coeunt ad finem hujus instrumenti, seu ad faciendum talis operationis
+principium; quod erat intentum.
+
+Prop. VII.
+In omni ente corporeo divisibilis est ratio suppositi a natura.
+Def. 2.
+CUm enim suppositum dicamus Rem naturae, Naturam autem Rem, quatenus
+explicatur per definitionem; evidens autem sit determinationes, quae cum ordine
+and indivisibilitate quadam integrant definitionem, esse praeterea
+considerabiles in ipsa re, and singulatim and collective abstrahendo a
+connexione and ordine, consequens est, notionem suppositi aliam esse and plus
+includere quam notio naturae comprehendat formaliter. Ulterius, (...) Prop. 13.
+cum Elementa non sint continue multiplicata, sicut gradus raritatis and
+densitatis, clarum est, plures gradus raritatis and densitatis successive in
+eodem elemento reperiri, quoru^ varietas cum non possit ad essentiae rationem,
+quae est indivisibilis, nisi materialiter pertinere, variatio eorum sic variat
+suppositum, ut non tangat naturam seu essentiae rationem. Quare necesse est
+realem divisibilitatem esse inter suppositum and naturam in Elementis. Et cum
+mutatio rari and densi, quae non variat elementi rationem si intercidat
+primo-mixto, non variet ipsius rationem, ut quae ex elementis, quae manent
+eadem, sit composita, ex primo-mixtis vero sint compositae similares parts
+Animalium; conficitur, in omnibus corporibus variationem contingere in
+supposito and non in natura, and, per consequens, Metaphysice and reipsa
+divisibilitatem inter suppositum and Naturam intervenire.
+
+Prop. VIII.
+Si instrumentum aliquod sit factum ad plures operationes subordinatas, sic ut
+primo sit ad unam, ad reliquas autem propter illam, manente facultate ad
+primam, erit idem instrumentum, etsi facultates ad caeteras, vel certe aliquas
+caeterarum, deficiant.
+CUm enim caeterae operationes vel pure consequantur ad primam, vel sint
+intentae, and quasi mediae ad primam, evidens est, rationem essentialem
+instrumenti adaequate dici ad primam, and, per consequens, dum est instrumentum
+ad primam, habere eandem rationem essentialem integre, etsi non derivatam
+integre, seu ad omnia ad quae derivari nata est, hoc est, non in subjecto aeque
+perfect disposito ad operationem primam. Cum itaque Finis sufficienter
+habeatur per hoc instrumentum, clarum est, instrumenti ad eundem finem, hoc
+est, eandem instrumenti rationem permanere.
+
+Prop. IX.
+Animal potest esse idem in diversis quantitatibus, and quantumvis aliquibus
+membris sit mulilatum.
+Axio. 2.
+CUm enim Animal ex intrinseca intention naturae sit ens natum conservare
+semetipsum, ab intrinseco prima operatio Animalis est motus seu appetitus ad
+alimentum seu conservationem sui. Cum itaque videamus Animalia hunc actum, and
+effectum ipsius, hoc est conservationem sui in diversis quantitatibus, atque
+etiam sine aliquibus membris, sufficienter perficere, clarum est, sub diversis
+quantitatibus, and etiam trunca aliquibus membris, rationem essentialem ejusdem
+Animalis retinere.
+
+Prop. X.
+Ulima Animalis differentia, seu individualitas, est ordo ad illam actionem and
+eo modo peragendam quo nata est peragi ex vi omnium determinationum substantiae
+quae sunt in supposito in primo instanti conceptionis, hoc est, dum habet
+primum actum sensationis in cerebro.
+Def. 1.
+CUm enim animal vocemus Ens ex sensatione operativum, sensatio autem passio
+sit a circumstanti natura in cerebro facta; non possit autem deesse Agens quam
+primum cerebrum est capax sensationis; fit, quam primum cerebrum est, esse
+primam sensationem. Cum itaque cerebrum sit quasi proprium and principale
+membrum Animalis, ut Animalis, palam est, non esse Animal, donec cerebrum sit
+cerebrum, and, quod sequitur, eam esse primam conceptionem Animalis quae
+terminatur ad primam sensationem. Ulterius, (...) Prop. 32.
+cum omnia accidentia intrinseca corpori non sint aliud quam determinationes
+and modificationes materiei and substantiae, omnes autem hae temperent ipsam
+substantiam, and reddant eam plus vel minus aptam ad intentum naturae, seu
+actionem propter quam natum est, patet, resultare ex his omnibus aptitudinem
+indivisibilem hujus substantiae ad actionem, and, per consequens, aptitudinem
+ad certum and indivisibilem modum perficiendi talem actionem; Quare essentialem
+and ultimam rationem hujus instrumenti, seu individualitatem Animalis; quod
+erat intentum.
+
+Prop. XI.
+Inter corpora, solum Animal ex instituso Naturae natum est movere seipsum.
+Axio. 3.
+CUm enim Natura det dispositionem convenientem actioni quam intendit ab
+instrumento aliquo perfici; (...) Prop. 3. and 4.
+quod autem movetur, natum sit moveri ab alio, necesse est, si corpus aliquod
+moveatur a se, unam ejus partem moveri ab alia, and, si ex instituto Naturae
+hoc fiat, virtutem alietatis and disjunctionis ab ipsa natura tali corpori esse
+implantatam, hoc est, sic formatum tale corpus ut sit spatium flexile and
+libertas inter partem and partem, adeo ut una pars sine reliqua and aliter quam
+reliqua moveri possit. Phan. 3.
+Cum itaque videamus hoc in solis Animalibus in quibus sic ad articulos
+composita sunt membra ut quasi extrinsecus colligata, intrinsecus vero diversa
+and dissepta sint, and libera ad motum stante reliquo membro, palam est, solum
+Animal ex intention naturae natum esse movere se. Quod autem vel Elementa, vel
+mixta homogenea aut heterogenea, interdum per unam partem alterent vel moveant
+aliam per accidens, and, ex consequentibus, ad intentionem evenire.
+
+Prop. XII.
+Forma Animalis per se sic est in toto ut non sit in partibus.
+Prop. 6.
+CUm enim forma sit ipsa substantia rei, seu ipsae determinationes substantiae,
+quatenus notio substantiae particularis surgit ab ipsis; Def. 1.
+Notio autem Animae seu formae Animalis sit esse facultate^ movendi semetipsum,
+neque talis facultas intelligi possit sine pluribus partibus quarum alia
+moveat, alia moveatur; Mainfestum est, non posse intelligi Animam nisi in toto
+quodam ex part movente and alia mota. Non itaque in singulis partibus potest
+inexistere notio Animae, and, per consequens, Anima. Forma itaq, Animalis est
+absolute in toto, non autem in singulis partibus.
+
+Prop. XIII.
+Forma elementorum and mixtorum non sunt in singulis partibus subjectorum, ex
+necessitate naturae, sed non ex intention.
+Prop. 1.
+CUm enim minimae parts Elementorum quae integrant primo-mixta, non sint ex
+sese activae vel passivae, and proinde non Entia neque capacia specialis formae
+substantialis, palam est, notionem formae mixti vel elementaris non posse
+attribui his partibus and inesse in ipsis. Hae itaque formae non sunt in
+singulis partibus suorum subjectorum. Sed neque minus manifestum est, non poni
+in definitione elementi vel mixti, quod aliquae ipsorum parts sint incapaces
+formaru^, quare hoc non institutum est ad aliquam actionem a natura intentam,
+sed efficitur ex incapacitate subjecti circa quod natura operatur, vel ex eo
+quod non stet cum perfectione naturae, and agentia and passiva adeo exigua
+existant; quod erat intentum.
+
+Prop. XIV.
+Quod ex intento naturae movet semetipsum, and hoc facit a corporis extrins^ci
+impulsu, est Animal.
+(...) Pro. 28.
+CUm enim habere divisibilitatem, seu quantitatem sit de ratione corporis, quod
+non est quantum non est corpus. Axio. 3.
+Cum itaque actio corporis sit conformis naturae corporis, etiam actio corporis
+bilis, actio autem divisibilis non potest esse circa subjectum indivisibile;
+quodcunque igitur movetur a corpore ipsum quoque est corpus. Quare, si quid ad
+movendum sese ex instituto Naturae indiget impulsu ab extrinseco corpore, est
+corpus ex instituto Naturae natum ad se movendum, Prop. 11.
+hoc est, Animal; quod erat propositum.
+
+Prop. XV.
+Animal, si moveat se causalitate Finali, est perfectius quam si se moveat
+tantum efficienter.
+CUm enim in omni agente considerandum sit and quod possit agere, and quod
+procedat ab actu agendum, and virtus qua potest agere constituat illud in
+ratione causae effectivae: Quod veroprocedat ad agendum, pertineat ad causam
+finalem; evidensque sit illud, quod facit Agens agere quod ex se potest, uti eo
+and movere illud, and per consequens, esse nobilius and perfectius eo,
+conficitur Animal quod movet semetipsum ad agendum finaliter, hoc est, quod
+natum est applicare suam virtutem effectivam ad movendum se, esse persectius eo
+cujus virtus movendi se applicatur ab alio ad actionem seu ad movendum se.
+
+Prop. XVI.
+Finis, secundum existentiam suam quam habiturus est in rebus, est actu in
+Animali movente sese causalitate finali.
+Prop. 15.
+CUm enim Animal movens sese causalitate finali efficiat vere and physice in
+semet-ipso applicationem virtutis suae efficientis, ad movendum se, clarum est,
+in ipso esse vim hoc faciendi. Quare, cum virtus quae hoc facit sit bonitas
+finis, and bonitas Finis quae movet Agentem sit illa bonitas quam habet extra
+Animal in ipsis rebus and sua existentia in iis, manifestum est, hanc bonitatem
+and existentiam esse in ipso Animali, and habere in eo vim movendi ipsum, and
+applicandi virtutem ipsius effectivam ad agendum and movendum ipsum Animal.
+
+Prop. XVII.
+Animal movens sese causalitate finali, non est pure corporeum and corpus.
+(...) Prop. ^.
+CUm enim evidens sit, materiam esse ex sese imperfectissimum gradum qui sit in
+substantia, Prop. 6.
+necesse est, determinationes ipsius esse quibus perficiatur in ratione
+substantiae, and quae per complexum ipsius integrent substantiam. Quare,
+integra substantia, praesertim cum existentia sibi propria non potest esse
+determinatio corporis, ut corporis. Prop. 6.
+Cum ergo Animal movens sese causalitate finali habeat finem, hoc est, aliud
+ens cum existentia sibi propria inexistentem sibi, palam est, subjectum
+impressionis talis non esse pure corpus, sed naturam per substantiam and
+existentiam determinabilem.
+
+Prop. XVIII.
+Homo compositus est ex corpore and spiritu, and est formaliter corpus,
+virtualiter spiritus.
+(...) Phan. 5.
+CUm enim experimento constet Hominem movere semetipsum causalitate finali, and
+impelli ad hoc a corporibus circumstantibus, Prop. 14. and 17.
+palam est, and esse Animal, and non esse purum corpus. (...) Pro. 10.
+Cumque parts very compositi, seu entis vere unius, non possint esse actu,
+rursus confectum est, non esse duas substantias actu in homine. Confectum est
+itaque esse duas substantias virtute, and unam ex utraque tertiam actu.
+Ulterius, Def. 3.
+cum substantia, quam spiritum dicimus, includat exclusionem materialitatis,
+(...) Prop. 13. and 14.
+corpus autem habeat materiam and quantitatem, clarum est, hominem and esse
+formaliter corporeum, and non esse formaliter spiritum. Non tamen est illud
+corpus quod in separatione seu divisione Animalis est mansurum, and non erit
+virtute spiritus, sed aliud cujus illud futura est pars per divisionem existens.
+
+Prop. XIX.
+Divisibilitas Hominis in corpus and spiritum est divisibilitas formalis.
+Axio. 1.
+CUm enim unumquodque sit activum, quatenus est Ens; Phan. 5.
+Homo autem quatenus virtute est spiritus, agat se causalitate finali, Prop. 15.
+and causalitas finalis moveat efficietem, and sit potior illa; homo autem ut
+corpus non moveat sese nisi efficienter, palam est, hominem esse perfectiorem
+and magis ens, quatenus est virtute spiritus, quam quatenus est virtute corpus
+and Animal purum. Quare, cum perfectio and entitas pertineat ad formam, fit,
+rationem spiritus in homine esse maxim formalem partem quae sit in homine, and
+quod ammodo formam formae puri Animalis quam movet. Distinguitur itaque a
+materia tanquam forma, and divisibilis est ab illa sicut forma a materia and
+subjecto.
+
+Prop. XX.
+Si divisibilitas hominis in corpus and spiritum foret quanta continui in
+parts, causalitas finalis non indigeret motione ab extrinseco corpore.
+(...) Pro. 16.
+CUm enim una pars continui agat in aliam, and patiatur ab easicut a
+substantiis distinctis, palam est, spiritum quoque hominis, si parem haberet
+divisibilitatem a corpore, futurum ad eam, quoad actionem and passionem, quasi
+foret substantia absolute distincta. Sed, si foret substantia penitus
+distincta, agere corpus non posset, in illum, (...) Prop. 7.
+cum nullus posset esse contractus corporis ad ipsum, (...) Pro. 27.
+neque corpus possit agere nisi per contactum, non itaque homo moveri ab
+extrinseco ad causalitatem finalem, and per consequens non indigeret tali
+motione.
+
+Prop. XXI.
+Causae actu causantis non solum essentia sed ipsum actuale esse est,
+participate in action.
+CUm enim actio vel sit in instanti vel in tempore, and si in instanti eo ipso
+requirat causam existere; si in tempore sit motus, and motus in continua
+successione, and continua successio in perpetua novitate existentiae, palam
+est, esse actionis semper actu existere a causa. (...). Prop. 9.
+Quare, cum existentia causae sit ipsum exercitium omnium facultatum causae,
+patet, de ratione actionis esse actu existere a causa existente. Ipsa itaque
+existentia causae est magis and formalius in action quam essentia, cum sit
+exercitium facultatis jungens principium principiato, essentiam puta causae
+ipsi actioni.
+
+Prop. XXII.
+Objecta per sensus immediate impressa homini secundum facultatem spiritualem
+seu intellectum, sunt fixa in ipso, quia esse eorum factum est esse ipsius
+Hominis.
+Prop. 21.
+CUm enim impressio per sensus facta sit motus ab objecto praesente and actu
+operante tum in sensum tum per sensus in intellectum, evidens manet,
+Existentiam objecti non solum esse participate in ipso sensu, sed etiam in
+homine secundum intellectum. Prop. 19.
+Cumque divisibilitas hominis in corpus and spiritum, sive intellectum sit
+formalis, rursus clarum est, existentiam impressionis in intellectu esse
+existentiam ipsius intellectus, hoc est hominis, quatenus est intellectus. Cum
+itaque sentire sit percipere aliquid movere percipientem, and percipere
+existentiam moventis seu objecti esse existentiam suam, per hoc itaque
+cognoscit homo per sensationem objectum existere quia scit esse suum, esse
+ipsum esse ipsius Agentis, seu objecti. Ergo, etc.
+
+Prop. XXIII.
+Objecta, quae insunt Homini per connexionem ad ea quae immediate insunt per
+sensationem, fixa sunt in intellectu, quia esse eorum est esse ipsius Hominis.
+CUm enim objecta, quae insunt per connexionem ad objecta per sensationem in
+existentia, insint per discurium, discursus autem non fiat nisi asserendo trium
+objectorum unum esse alterum quia utraque sint unum cum tertio, evidens est,
+unam esse existentiam trium objectorum prout sunt fixa in intellectu; Prop. 22.
+quare cum existentia sensu perceptorum sit ipsa existentia hominis quatenus
+est men's seu intellectus, etiam caeterorum existentias esse eandem, and fixas
+in homine quatenus sunt illa.
+
+Prop. XXIV.
+Intellectus, seu Homo quatenus intellectus, est facultas existendi, quod est
+quiae est; and caetera connexa, quia sunt aliquid ipsius Intelligentis.
+CUm enim non possit Homo percipere se moveri nisi eo ipso, and a priori
+percipiat se esse, palam est, intellectum ipsius per prius esse facultatem
+percipiendi se esse, quam percipiendi sensu cognita esse, hoc est, essendi quod
+ipsemet sit qua^ quod alia sint. Hominem itaque ipsumesse, immediate and sine
+alio fit unum cum intellectu, and, per consequens, hominem esse, and
+intellectus sunt actus and potentia ad invicem, quomodo actus and potentia
+possunt intervenire in hoc casu, and intellectus facultas essendi ipse Homo
+quatenus existens, per se and ex ratione sua; Et, per consequens, Homo ut
+existens, seu quia est, actus proprius ipsius, and per and propter quem caetera
+cum ipso connexa insunt intellectui. Ergo, etc,
+
+Prop. XXV:
+Quae connexa sunt alicui per sensus percepto, etsi forent actu infinita,
+possent simul consistere in Homine in intellectu.
+Axio. 5.
+CUm enim quod requirit aliud existere ut ipsum existat, eo ipso sit natum
+coexistere ei; quae autem connexa sunt objecto vi sensus ininexistenti in
+intellectu per discursum requirant omnia media connexionis simul existere, cum
+connexio ab iis pendeat, clarum est consistere cum illo. Cum ergo (...) Axio. 2.
+similia objecta (saltem in numeris and speciebus magnitudinis) nullum finem
+habeant, sequitur quotcunque sunt posse simul in intellectu inexistere.
+
+Prop. XXVI.
+Objecta quae non habent inter se connexionem, etsi infinita, nata sunt simul
+consistere in intellectu.
+CUm enim objecta non propterea quia sunt connexa possent simul existere si
+ratione multitudinis repugnarent coexistentiae, clarum est praevie ad
+connexionem, neque ex part intellectus neque ex part objectorum esse
+repugnantiam ad co-existentiam ipsorum in intellectu ratione multitudinis.
+Quare evidens est multitudinem ex sese non gravare intellectum. Cum itaque
+objecta disparata, and quae singula sensu sunt percepta, possint plura simul
+inesse, poterunt eodem jure etiam infinita.
+
+Prop. XXVII.
+Intellectus humanus in suo genere est absolute infinitus.
+Prop. 25. and 26.
+CUm enim si non desint Agentia and causae ad imprimendum, non solum
+quaecunque, sunt in rebus, sed absolute infinita objecta possint ab intellectu
+simul comprehendi, clarum est, infra suum modum recipiendi objecta, intellectum
+extendere se ad absolutam infinitatem, and, per consequens, potentiam ipsius
+esse absolute infinitam infra suum genus; quod erat propositum.
+
+Prop. XXVIII.
+Impressiones a sensibus mediate vel immediate in hominem factae, sunt
+formaliter materiales, sed potentia and virtute spirituales.
+CUm enim sensus sint materiales sicut and cerebrum, (...) Pro. 32
+clarum est, impressiones ab iis in cerebrum factas non posse esse aliud quam
+determinationes quasdam cerebri, and, per consequens, sicut cerebrum est
+formaliter materiale, ita and impressiones. Prop. 17. and 8.
+Cumque ex alia part ex qualitate impressionum constet ipsum cerebrum, seu
+hominem, esse virtute immaterialem, magis constat ipsas impressiones esse
+virtute spirituales; quod erat intentum.
+
+Prop. XXIX.
+Intellectus in homine non est natus quicquam intelligere, nisi actu feriatur a
+sensu, mediate, vel immediate.
+CUm enim palam sit organa cognitionum esse corpora, (...) Prop. 3. and 4.
+and, per consequens, non operari nisi impulsu alieno; Phan. 6.
+movens autem cerebrum vel sit sensus vel aliquid a sensu relictum seu memoria,
+nisi alterum horum, hoc est, sensus mediate vel immediate moveat, non
+intelligit Homo, and hoc vocant Philosophi, nisi speculetur phantasmata.
+
+Prop. XXX.
+Cerebrum per diversas cognitiones accipit dispositiones materiales diversas.
+Prop. 29.
+CUm enim sine nova motione cerebri homo nihil intelligat, novam autem motionem
+necessum sit nova^ impressionem corpoream in cerebro efficere, palam est, ex
+singulis cognitionibus, cerebrum manner mutatum secundum dispositiones
+materiales, and per consequens faciliorem and fortiorem esse intellectionem
+aliquorum objectoru^ (eorum nempe quae saepius cogitantur) quam aliorum, sed
+and cerebrum esse aptum per cogitationem diversorum objectorum ad ea rursus
+cogitanda. Cumque intellectus per connexionem deducatur ab uno objecto ad
+plura, necessum erit quasdam series objectorum seu corpicellorum ad cerebrum
+pertinentium and sese mutuo inducentium in cerebro esse ordinata, and similia
+plura, quae experientia docebit, ex his principiis oriri.
+
+Prop. XXXI.
+Et si in part quatenus materiali impressio non faciat nisi participat^m and
+virtuale esse objecti, tamen in spirituali virtute ponit ipsum esse rei
+formaliter.
+CUm enim objectum sit plerumque Ens constans and permanens, impressio vero
+motus, hoc est, successio aliqua participata de objecto claru^ est, existentia^
+constante^ objecti non esse in ea formaliter, and, consequenter, neque in
+subjecto ipsius quatenus est corporeum, sed illam virtutem ab objecto fluentem
+quae successioni ejusmodi est accommodata. Cum itaque ex adverso (testante id
+nobis ipsa mente nostra) evidens sit, nos cogitare de objecto ipso formaliter,
+de eo enunciare quod sit in rebus and in discursibus and operationibus ab iis
+pendentibus id praesupponere, patet, in mente formaliter inexistere ipsum esse
+objecti.
+
+Prop. XXXII.
+Homo, secundum intellectum, est virtus quaedam constans ex omnibus
+impressionibus spiritualibus, non includentibus contradictionem a principio
+vitae usque ad ejusdem exitum introductis.
+Axio. 4.
+CUm enim necesse sit quod semel factum est manner donec causa aliqua inducens
+oppositam dispositionem in subjectum agat, sed nulla sit dispositio opposita
+inexistentiae substantiae alicujus in intellectu, cum nulla fuerit in rebus
+oppositio; sint autem in intellectu ut erant in rebus quoad esse in loco and
+tempore, sed neque a part intellectus sit aliqua repugnantia, Prop. 27.
+cum ille vel infinitorum sit capax modo non ferant secum contradictionem,
+palam fit, non posse esse causam introducentem dispositionem oppositam, and per
+consequens omnes impressiones non contradictivas, a primo ortu Animae usque ad
+mortem in eam factas, manner in intellectu, seu Anima, Prop. 24.
+and Animam esse virtutem quandam ex omnibus integratam.
+
+STOECHEIDIS I.
+Definitiones.
+1. COgnoscere est esse Ens ut ens seu ut aliud. 2. Situs in loco est
+propinquitas and distantia ab aliis corporibus.
+AXIOMA.
+Positis causis omnibus, ponitur effectus.
+
+PHANERA.
+1. HOmo simul cognoscit pauca. 2. Cognitio very atis connexae confirmat
+Scientiam praecogniti.
+STOECHEIDESI.
+De Anima separata and Spirituum Natura.
+Propositio I.
+Homo secundum intellectum, seu men's, est virtute substantia integra seu
+existens.
+(...) Pro. 24.
+CUm enim fixio per sese hominis secundum mentem sit ad seipsum ut existentem,
+palam est, mentem esse capacitatem ad Ens integrum, and non ad partem entis.
+(...) Pro. 17.
+Cumque pars seu potentia entis sit capax, seu potentia ad actum, hoc est, ad
+aliam partem ejusdem entis, clarum fit, capacitatem intellectus non esse
+capacitatem quae nata sit esse in part, sed quae nata sit esse in ente
+integro, seu capaci existentiae, hoc est, existente. (...) Pro. 10.
+Quia tamen parts compositi formalis non sunt in eo actu, manet hanc
+substantiam esse tantummodo virtualiter in homine. Homo ergo, etc.
+
+Prop. II.
+Si dissolvatur compositum formale hominis in corpus and spiritum, men's seu
+spiritus ex vi talis dissolutionis non interibit.
+Prop. 1.
+CUm enim sit in homine, quatenus men's est, virtus substantiae integrae seu
+existentis, clarum est, esse in eo, secundum mentem, capacitatem existentiae
+seu virtute^ cui competit ex sese esse subjectum existentiae. (...) Prop. 23.
+Cum itaque Ens per definitionem non deficiat dare existentiam ubicunque non
+deest subjectum, clarum est existentiam fore in mente non obstante divisione a
+corpore. Non interibit itaque men's.
+
+Prop. III.
+Men's, seu Anima separata, semel existens non potest postmodum privari
+existentia.
+(...) Pro. 23.
+CUm enim ex part influentis non possit deficere existentia quamdiu in
+subjecto manet capacitas, non potest interire Ens nisi per divisionem subjecti
+ab Ente, hoc est, capacitate existentiae, and per consequens non potest
+interire Anima semel existens nisi capacitas existendi separetur ab ea. Quare
+(...) Prop. 8.
+cum in Ente non sit divisibilitas substantialis nisi in materiam primam and
+actum and existentiam in Anima vero separata non sit materia, (...) Def. 1.
+forma autem sit ex sese ad quam sequitur existentia, claru^ est, ab Anima
+separata, hoc est pura forma, and ex propriis nata existere, non posse tolli
+capacitatem existentiae, and per consequens, neque ipsam existentiam.
+
+Prop. IV.
+Anima separata neque fit per creationem, neque per conversionem, sed per puram
+divisionem.
+Prop. 2.
+CUm enim accipiat existentiam per corruptionem praeexistentis fit ex
+praejacente subjecto alterationis, and, per consequens, non ex nihilo. Rursus,
+cum alteratio praecedens sit clare motus ad esse cadavereum, hoc est, inducat
+dispositiones contrarias Animae, and sit nullo modo major perfectio Animae,
+palam est, substantiam* Animae non accipere esse sed magis non esse, quantum
+est ex vi causarum alterantium: sequitur itaque tales causas non aliud agere
+quam ut eam dividant a corpore: quare, Anima pure per divisionem accipit
+existere separate per existentiam quam virtualiter praehabebat.
+
+Prop. V.
+Corpus non recipit existentiam per se, sicut forma subsistens seu spiritus.
+(...) Pro. 14.
+CUm enim corpus consistat ex materia and forma, seu potentia and actu, necesse
+est vim receptivam corporis esse potentiam, and quicquid recipitur in toto
+ratione ipsius recipi, and in forma non esse vim receptivam, utpote
+condistincta a vi receptiva. (...) Prop. 7.
+Cum itaque existentia non insit toti nisi ratione formae, non recipitur nisi
+ratione ipsius: Non itaque recipitur quasi correspondens virtuti receptivae,
+sed quasi quiddam pertinens and adhaerens ad formam quae est per se actus
+potentiae receptivae. Spiritus e diverso, seu forma subsistens, (...) Prop. 8.
+cum non habeat aliam vim receptivam nisi ratione actus, habet immediate and
+per se ordinem ad existentiam, quare recipit existentiam per se ut existentiam.
+
+Prop. VI.
+Forma subsistens, seu spiritus est cognoscitivus suimetipsius.
+Prop. 5.
+CUm enim ordo essentialis ipsius sit ad existentiam per se, and quatenus haec
+existentia est, (...) Prop. 7.
+sit autem existentia actuatio omnium quae in subjecto insunt, (...) Axi. 1.
+neque possit intelligi nisi actu hoc perficiens, Ordo formae subsistentis ad
+existentiam est ad existentiam ut complexam cum subjecto, and per consequens
+etiam ad substantiam cujus est existentia. Quare spiritus per ipsam receptionem
+seu conjunctionem existentiae fit mediante existentia conjuncta suae essentiae,
+sed non per modum partis, cum idem non possit esse pars sui ipsius, quare per
+modum Entis existentis, hoc est, alius. Quare Def. 1.
+cum cognoscere sit esse aliquid per modum alius, palam est, omnem spiritum
+cognoscere suam substantiam eo ipso quod existit.
+
+Prop. VII.
+Anima separata in prima separatione cognoscit omnia quae cognovit in corpore.
+(...) Pro. 32.
+CUm enim omnes impressiones, quae factae sunt in eam toto tempore vitae,
+conflent ipsam, and per consequens maneant in ea; Prop. 6.
+ipsa autem pure ex vi separationis cognoscat semetipsam, quatenus conjuncta
+est existentiae suae, (...)Prop. 9.
+existentia autem sit actuatio ipsius secundum omnes virtutes quas invenit in
+illa, fit, eam cognoscere sese secundum omnes has impressiones, Def. 1.
+quae cum sint totidem objectorum existentiae in ipsa, clarum manet, ipsa
+objecta eadem cognitione in ipsa cognosci.
+
+Prop. VIII.
+Anima separata est cognoscitiva omnium deducibilium ex cognitis in corpore.
+Prop. 7.
+CUm enim maneant in Anima separata virtutes quas habuit in corpore, habet vim
+comparativam and discursivam, and nata erit deducere ex praecognitis quaecunque
+sunt deducibilia ex iis. Prop. 7.
+Quare, cum omnia quae cognovit in corpore sint cognita ipsi in prima
+separatione, nata erit cognoscere etiam omnia quae sunt deducibilia ex iis.
+
+Prop. IX.
+Divisibilitas Animae separatae and cognitionis major est divisibilitate Animae
+ab existentia.
+CUm enim divisibilitas Animae and cognitionis integretur ex conjunctione
+Animae ad existentiam (quod enim non est, non est cognoscitivum) and Pro. 6.
+rursus existentiae ad Animam ut cognoscatur, palam est divisibilitatem Animae
+a seipsa, ut cognita, esse quodammodo duplam divisibilitatis Animae ab
+existentia, and, quod sequitur, majorem; ut est propositum.
+
+Prop. X.
+Cognitio suae essentiae est inseparabilis ab Anima separata existente,
+caeterae cognitiones potuerunt non inexistere.
+Prop. 6.
+CUm enim cognitio suae essentiae non sit aliud quam illa conjunctio Animae ad
+existentiam quae est propria spirituum, palam est, non posse intelligi Animam
+esse existentem and non intelligere semetipsam. Rursus, cum aliqua objectorum
+cognitorum in corpore potuissent non esse in corpore cognito, clarum est,
+cognitionem ex ea part potuisse fuisse defectuosam, quatenus cognitio Animae
+separatae pendet ex impressionibus factis in corpore; quod erat propositum.
+
+Prop. XI.
+Spiritus est Ens perfectius quam sit corpus.
+(...) Pro. 9.
+CUm enim existentia sit exercitium actuum sibi subjectorum, (...) Prop. ^.
+neque perfectio aliqua sit in iis quae non exercentur, palam est, in unoquoque
+eatenus esse perfectionem quatenus est existentia, and capacitatem seu ordinem
+ad existentiam esse perfectionem rei quatenus praeintelligitur ad existentiam.
+Prop. 5.
+Cum itaque ordo quem habet spiritus ad existentiam, comparatus ad ordinem quem
+habet corpus, sit quodammodo formalis and per se; ordo autem corporis
+materialis and ratione partis, manet perfectiorem esse ordinem spiritus quam
+corporis ad existentiam, hoc est, rationem Entis in spiritu esse perfectiorem
+quam in corpore,
+
+Prop. XII.
+Spiritus habet virtutem effectivam.
+(...) Def. 2.
+CUm enim illud dicatur efficere seu agere cujus esse est tale ut aliud sit ex
+hoc quod ipsum Agens sit, patet existentiam Agentis esse illud ex quo Agens
+habet esse Agens, and, quod sequitur, quanto substantia est perfectior in
+existendo tanto esse perfectiorem in agendo, and mensuram virtutis effectivae
+esse ordinem seu proportionem ad existentiam, Pro. 11.
+Quare, cum spiritus sit perfectius Ens quam corpus, habere etiam perfectiorem
+vim effectivam and proportionatam suo modo existendi.
+
+Prop. XIII.
+Spiritus non est quantus seu continue divisibilis.
+(...) Def. 3.
+CUm enim spiritus non sit corpus seu compositus ex potentia and actu
+substantiali, (...) Pro. 14.
+omne autem quantum sit ex iis compositum, palam est, spiritum non esse
+quantum; quod erat intentum.
+
+Prop. XIV.
+Spiritus non est divisibilis in plures spiritus homogeneos, seu ejusdem
+naturae.
+(...) Def. 8.
+CUm enim divisio sit plurium ex uno productio, necesse est, spiritum ex quo
+fiunt plures per divisionem, habere plus de substantia in toto quam in potentia
+ad unam partium in quas est resolubilis, and, per consequens, esse majorem in
+toto quam in part, hoc est, esse quantum; Prop. 13.
+and non spiritum. Rursus, quia duae substantiae non sunt una, neque una duae,
+palam est, in spiritu ex quo fiunt plures esse possibilitatem ad plures formas
+seu ad esse plures, and actus diversos actuare hanc potentiam, prout est in uno
+spiritu, and prout est in pluribus, and, per consequens, spiritum talem, and
+faciendos ex eo esse compositos ex potentia and actu, (...) Pro. 18.
+contra naturam spiritus.
+
+Prop. XV.
+Spiritus non sunt in loco proprie dicto, neque habent situm.
+Pro. 13.
+CUm enim spiritus non habeat in sese quantitatem, (...) Pro. 18. and 19.
+esse autem in loco sit habere superficiem suam conjunctam superficiei corporis
+ambientis, clarum est, spiritum non esse hoc modo in loco. Def. 2.
+Et cum situs in loco sit propinquitas vel remotio ab alio per mediationem
+interpositorum quantorum, non possit autem interponi quantitas nisi inter
+quanta, clarum fit, spiritum non esse remotum ab uno corpore, neque
+propinquiorem uni quam alteri, quod erat intentum.
+
+Prop. XVI.
+Distantia localis non impedit spiritum, quin sit praesens quibuslibet
+corporibus, and cognitione and virtute, and operatione.
+Prop. 8.
+CUm enim spiritus cognoscat omnia quae connexa sunt cum essentia ipsius,
+corpora autem aliqua (puta ex quibus orta est) connexa sint cum Anima separata.
+Prop. 15.
+Neque per situm habet remotionem ab aliquo, palam fit, spiritum posse
+cognoscere corpora a se invicem cistantia, and, per consequens, esse praesentem
+secundum cognitionem corporibus quomodocunque distantibus si sint connexa cum
+eo. Pro. 12.
+Quare cum virtus effecriva spiritus sit ex vi cognitionis, seu ordinis per se
+ad existentiam, neque habeat situm, hoc est remotionem ab aliquo corpore, manet
+non impediri quin habeat virtutem operandi in corpora quomodolibet distantia
+quantum ex distantia pendet. Quare and possibile est operationem esse
+simultaneam in distantia quantum est ex ea part.
+
+Prop. XVII.
+Successio continua non potest esse in spiritu.
+CUm enim successio continua sit in infinitum divisibilis, vel erit successio
+partium Entis permanentis, sicut in motu locali, vel Entis quod sit
+essentialiter successivum. Manifestum autem est, si sit partium corporis
+permanentis subjectum successionis esse corpus vel corpora quanta; (...) Pro.
+17.
+cum divisibile non possit applicari indivisibili and, per consequens, non esse
+in spiritu. Si autem parts sint Entis essentialiter successivi, cum ex eo quod
+sit Ens successivum una pars necessario non sit dum alia est; Essentia autem
+includat plures parts, evidens est, tale ens non posse existere sed includere
+contradictionem. Rursus, cum duae parts non possint esse simul in subjecto
+indivisibili, successio, and, per consequens, continuitas constaret ex
+indvisibilibus, (...) Pro. 20.
+quod est contra naturam semper divisibilis, cujus parts sunt divisibiles sine
+termino.
+
+Prop. XVIII.
+Operationes intrinsecae formae abstractae, quantum est ex part subjecti, sunt
+indivisibiles.
+Prop. 17.
+CUm enim natura spiritus repugnet susceptioni successionis continuae, seu sine
+termino divisibilis, clarum est, successionem operationum vel aliarum
+qualitatum (siqua est eis intrinseca) esse compositam ex indivisibilibus, and,
+per consequens, unicam simul esse in subjecto, and eam esse perfectam, utpote
+quae cedat alteri indivisibili and soli extiturae in subjecto. Singulae itaque
+bae sive qualitates sive operationes intrinsecae indivisibiliter afficiunt
+Animam: Operationes itaque ipsius sunt indivisibiles.
+
+Prop. XIX.
+Substantia corporea non est activa in spiritum.
+(...) Pro. 33.
+CUm enim omnis actio corporeae substantiae vel sit divisio, vel rarefactio,
+vel condensatio, aut ex his composita, palam est, subjectum quod non est capax
+alicujus harum non posse esse subjectum operationis corporis. (...) Prop. 8.
+and 23.
+Cum itaque omnes hae actiones requirant divisibilitatem infinitam, clarum est,
+spiritum non esse capacem actionis corporeae, neque corpus esse activum in
+spiritum.
+
+Prop. XX.
+Operationes intrinsecae spirituum sunt absolute indivisibiles.
+Prop. 19
+CUm enim substantia corporea non sit activa in spiritum, manet solos spiritus
+agere posse in spiritum, and hoc non mediante corpore, tunc enim corpus foret
+immediatum Agens: Quare operatio spiritus, tum ex part Agentis, tum ex part
+patientis, est a spiritibus, hoc est, Entibus indivisibilibus, and, per
+consequens, ipsa indivisibilis, secundum proprietatem causarum.
+
+Prop. XXI.
+Operationes intrinsecae spirituum neque sunt longae neque breves, neque
+comparabiles in majoritate successivis sine termino divisibilibus.
+Prop. 20.
+CUm enim sint indivisibiles, clarum est, totas simul incipere and esse
+perfectas, Prop. 17.
+and, per consequens, nullam esse successionem partium per quas aliae sint
+longiores, aliae breviores. Cumque successio continua sit major quia longior,
+and minor quia brevior, necesse autem sit quae comparantur simul, secundum
+aliquid quod in utroque termino comparationis sit and utrique commune
+comparari, evidens fit, non posse operationes has in majoritate and minoritate
+comparari cum successione continua, sed majoritatem seu perfectionem ampliorem
+quam habet operatio spiritus super operationem corporis, consistere in
+eminentia supra totum genus in quantitate qualibet.
+
+Prop. XXII.
+Spiritus cognoscit quid sit ipsi summum bonum, and quomodo circa illud sit
+gerendus.
+Prop. 8.
+CUm enim spiritus cognoscat omnia quae sunt connexa ipsi, sive quibus ipse sit
+connexus, palam quoque sit, spiritum connexum esse iis quae sunt bona ipsi,
+maxim autem ei vel illis quae constituunt summum bonum ipsius, and propter
+rationem Bonitatis, hoc est, convenientiae ad ipsum, and propter causalitatem
+finalem, cum ipse spiritus sit propter summum bonum, tanquam finem immediatum
+ipsius, manet evidens, spiritum cognoscere quid sibi sit summum bonum seu
+optimus aeternitatis status. Et quoniam modus gerendi se circa summum bonum est
+connexus cum ipso spiritu and summo bono ipsius, necesse est, ut ipsum quoque
+cognoscat; ut est propositum.
+
+Prop. XXIII.
+Spiritus est volitivus.
+CUm enim de Ente cognoscitivo, quando ex cognitione operatur extra se, dicamus
+quod velit agere, neque de aliis entibus sic loquamur, neque de ipso nisi vel
+operetur, vel operaretur, nisi foret impeditum, clarum est, nos per volitionem
+intelligere ultimam intrinsecam affectionem Entis cognoscitivi circa seu versus
+operationem. Prop. 6.
+Cum itaque spiritus sit Ens cognoscitivum, Prop. 12.
+and habeat virtutem effectricem, Prop. 8.
+and cognoscat quomodo ea sit exercenda, clarum est in eo esse ultimam quandam
+affectionem circa seu versus operationem, sive sit cognitio ipsa bonitatis quae
+est in Agendo, sive quaecunque alia affectio virtutis effectricis intrinseca
+ipsi spiritui, and, per consequens, esse in spiritu volitionem qua se gerit
+circa bona cognita ex vi cognitionis conformiter ad eorum bonitatem. Est itaque
+spiritus volitivus.
+
+Prop. XXIV.
+Spiritus cognoscit quaecunque connexa sunt cum essentia sua in primo instanti
+existentiae suae.
+Prop. 20.
+CUm enim operationes spirituum sint indivisibiles, clarum est, quod incipiant
+esse totam simul, and, per consequens, in primo instanti spiritus ex vi prioris
+cognitionis est dispositus ad sequentem: Axio. 1.
+Et quoniam positis causis ponitur effectus, eo ipso habet posteriorem. Quare,
+cum cognitiones sequentes non pendeant nisi a virtute spiritus and
+cognitionibus requisitis, and illae actu sint positae, quantum ad cognitionem
+objectorum connexorum cum essentia spiritus, simul in primo instanti cognoscit
+omnia connexa cum essentia sua.
+
+Prop. XXV.
+Vehementia volitionis spiritus est major vehementia volitionis humanae,
+quodammodo infinite ex part scientiarum.
+Prop. 8.
+CUm enim spiritus cognoscat omnia quae pertinent seu connectuntur cum ipso,
+Prop. 24.
+and, hoc simul, Phan. 1.
+Homo autem pauca tantummodo, Phan. 2.
+sed and cognitio cujuslibet veritatis connexae cum altera confirmet and
+fortiorem reddat cognitionem veritatis cum illa connexae, palam est,
+proportionem volitionum ex vi scientiarum esse sicut proportionem cognitorum,
+hoc est, sicut universi ad Ens particulare, hoc est, quodammodo infinite (...)
+Prop. 26
+cum intellectus ex natura sua sit capax infinitorum simul.
+
+Prop. XXVI.
+Spiritus, in primo instanti sui esse est in ultima praeparatione ad agenda
+omnia quae per totam aeternitatem est acturus ex semetipso.
+Prop. 8.
+CUm enim cognoscat per connexionemad substantiam suam omnia quae cum ea
+connexa sunt, Agenda autem a semetipso ex necessitate connexa sint cum ipsius
+substantia; Prop. 24.
+manet ea ab ipso cognosci in primo instanti suae existentiae; and quoniam
+hujusmodi cognitiones sunt inter se connexae, haberi omnes in primo instanti
+existentiae suae; Prop. 23.
+quare, in eo instanti ex necessitate quoque est volitio exercendi hujusmodi
+operationes in debito tempore, hoc est, ultimam dispositionem ad ea omnia
+agenda.
+
+Prop. XXVII.
+Si operatio successiva hominis non sit in minima sui part aequalis operationi
+spiritus, etiamsi per durationem quantumlibet crescat, nunquam erit aequalis
+operationi spiritus.
+Prop. 21.
+CUm enim eminentia operationum spiritus supra operationes successivas sit
+excedentia generis actuum spiritus supra genus actuum successivorum; actus
+autem successivi quantumcunque per multiplicationem partium succedentium
+majorescant, tamen nunquam excedant suum genus, palam est, excessum semper
+manner immutatum, and non magis esse comparandos in maxima magnitudine quam in
+minima, etsi si comparentur ad invicem major quantamlibet proportionem supra
+minorem possit acquirere sive acquisiverit.
+
+Prop. XXVIII.
+Operationes mentis in homine, quantumcunque supponantur crscere, non sunt
+comparabiles oprationibus formarum subsistentium.
+(...) Prop. 28
+CUm enim operationes Hominis sint actu materiales and subjectae legibus
+quantitatis and loci; Prop. 16.
+operationes contra spirituum supra leges loci and quantitatis, patet, toto
+genere operationes spirituum excedere operationes mentis humanae, and, per
+consequens, etiamsi tota vis naturae corporeae conspiraret ad faciendam unam
+impressionem in mentem humanam, vel ad spiritus formandos quibus volitio humana
+corroboraretur, semper actus mentis essent materiales and subjectae legibus
+quantitatis* hoc est, in eodem genere, and ratione generis inferiores actibus
+spirituum: ex quo sequitur non esse comparabiles sed infinite minus efficaces
+and validas; quod erat propositum.
+
+Prop. XXIX.
+Operationes spirituum ex virtutis effectricis ratione excedunt infinite
+operationes mentis humanae.
+Prop. 12.
+CUm enim vis effectiva, quae est in spiritibus, procedat ex ordine essentiae
+ad existentiam; Prop. 5.
+ordo autem essentiae ad existentiam quem habent spiritus comparatus ad ordinem
+essentiae ad existentiam in corporibus inventus sit esse formalis and per se,
+palam est, esse alterius rationis and generis quam sit ordo corporis ad
+existentiam, and, per consequens, vim quoque effectivam esse alterius generis
+and superiorem. Quare, (ut supra deductum est) etsi sub suo genere infinite
+crescat efficacia corporea seu mentis in corpore, non omnino appropinquat,
+neque comparabilis est, efficaciae spiritus seu substantiae abstractae, and
+proinde inaestimabilis est vehementia operationum spirituum ex vi effectricis
+potentiae.
+
+Prop. XXIX.
+Spiritus in primo instanti sui esse cognoscit primum Ens, and immensitatem
+Boni quae est in visione illius.
+Pro. 6. and 8.
+CUm enim cognoscat essentiam suam, and eam non posse existere nisi per causam
+quae nata sit res ex nihilo producere, and eam esse unicam, and continentem in
+sese indivisibiliter totam plentitudinem Entis, and plentitudinem Entis esse
+adeo interioris ordinis ad eam ut ratio Entis non dicatur de utraque in eadem
+significatione, and non possideri illam nisi per visionem; clarum est spiritum
+in primo sui esse videre incomprehensibilem quandam immensitatem Boni esse in
+Visione primi Entis; quod erat propositum.
+
+Prop. XXXI.
+Visio primi Entis est ultimus finis, and Beatitudo cujuslibet substantiae
+spiritualis.
+Pha. 2.
+CUm enim quo effecta plura, and perfect us cognoscuntur, eo persectio causae
+magis penetretur, substantiae autem spiritales cum non habeant nisi
+intellectum, and voluntatem; Prop. 23
+and voluntas ex ordine naturae conformiter ad intellectum operetur; Prop. 8.
+and intellectus sit cognoscitivus omnium quae connexa, sunt cum existentia
+essentiae spiritu; (...) Pro. 18.
+and haec omnia sin^ effecta primi Entis, and per consequens perficiant
+cognitionem de primo Ente, and reddant visionem ejus magis amabilem, and
+aestimabilem, and tota ordinatio naturae spirituum in his consistar; palam est,
+totam dispositionem Naturae esse intrinse ce ordinatam ad hoc ut spiritus
+concupiscat Visionem primi Entis, and per consequens eam adipiscatur, cum
+concupiscentia haec sit naturalis utpote ad quam totus naturae cursus seu ordo
+tendit. Est itaque Visio primi Entis summum bonum, Prop. 5.
+and finis omnium substantiarum spiritualium.
+
+Prop: XXXII.
+Substantia spiritualis, si sit adaquate secundum naturam disposita, est beata
+in primo sui esse.
+(...) Pro. 30. and 31.
+CUm enim in primo sui esse cognoscat quae inducunt ad summum amorem visionis
+seu possessionis primi Entis; Prop. 23.
+and si disposita sit secundum naturam, Volitio ipsius sit conformis
+cognitioni, habebit in primo instanti sui esse ardentissimum and plenum amorem
+Visionis primi Entis. Quare crit ultimo disposita, quantum est ex sua part ad
+ipsam operationem Visionis primi Entis. (...) Pro. 18
+Cum itaque communicatio primi Entis non possit deficere ex part ipsius, palam
+est ipsum effectum Visionis existere, and substantiam spiritualem esse compotem
+suae Beatitudinis, and finis naturalis; quod erat propositum.
+
+STOECHEIDIS K.
+Definitiones.
+Gubernatorem dicimus qui per alios Agenda dirigit and efficit.
+
+AXIOMATA.
+1. Agens cognoscitivam agit ex intention Boni. 2. Quod non meretur fieri non
+meretur ut aliud fiat propter ipsum. 3. Si naturae ordo non habeat media
+sufficientia ad suos fines, est impersectus. 4 Illud est bonum unicuique quod
+est illi secundum naturam. 5. Quod habet parts aequales infinitas est
+infinitum.
+PHANERA.
+In nvtura unum corrumpitur generetur aliud.
+
+STOECHEIDES k.
+De Gubernatione Rerum.
+Propositio I.
+Ens primum est cognoscitivum, and volitivum, seu operativum ex cognitione.
+(...) Prop. 2.
+CUm enim Ens primum non sit quantum, and quod sequitur, (...) Pro. 14
+non compositum ex actu and potentia, (...) Def. 3.
+est immateriale and spiritus; (...) Pro. 6. and 23.
+itaque and cognoscitivum, and volitivum; (...) Pro. 18.
+Cumque caetera extra sese operetur maxim operativum; and quia volitio est
+disposito operantis ex cognitione, est operativum ex cognitione.
+
+Prop. II.
+Ens primum est Gubernator Universi sive Deus.
+(...) Pro. 8.
+CUm enim spiritus in primo sui esse cognoscitivus sit omnium quae cum ipso
+sunt connexa, (...) Pro. 26.
+and, activus seu volitivus omnium operationum quae ab ipso solo pendent, (...)
+Prop. 1.
+Ens autem primum sit aeternum, (...) Pro. 18.
+and omnia ab ipso solo pendeant, and fint connexa cum ipso, evidens fit Ens
+primum praescire, and praevelle ab omni aeternitate quaecunque futura in
+aeternum, and pariter esse operativum eorum, hoc est, ponere causas omnium
+agendorum suis temporibus, and hoc adaequate. Def. 1.
+Quare cum Gubernatorem dicamus eum qui ex cognitione, and potestate per alios
+agenda dirigit and efficit, Ens primum est Gubernator Mundi: Et quia
+Gubernatorem universi solemus Deum nominare, Ens primum est Deus.
+
+Prop. III.
+Nihil extra Deum est amabile ab ipso.
+a CUm enim nihil fit amabile quod non sit bonum, neque bonum nisi habitum
+delectet habentem, and delectare habentem sit eum perficere, cum delectatio fit
+praecipuus actus cognoscentis, palam est omne bonum esse intrinsece perfectivum
+cognoscentis cui est bonum, sed nihil est intrinsece perfectivum Dei, (...)
+Pro. 20.
+cum in eo sit essentialiter omnis plenitudo Entis seu perfectionis, nihil
+itaque extra Deum est bonum and amabile Deo.
+
+Prop. IV.
+Deus creat caetera propter ipsamet.
+Prop. 4.
+CUm enim nihil extra Deum sit illi amabile, and natum perficere ipsum, clarum
+est, si solus Deus conside retur, indifferens esse, creata sint necne: Axio. 1.
+Quare cum Agens ex cognitione agat ex intention boni, clarum est, Deum in
+creatione intendere bonum ipsaru^ creaturarum, seu creare illas, ut ipsis, non
+sibi, been sit.
+
+Prop. V.
+Inter creata, aliqua creautur propter se; alia vero propter illa.
+Prop. 4.
+Cum enim Deus producat creaturas propter ipsas; Axio 2.
+and, quod non meretur fieri, propter se, non mereatur ut aliud fiat propter
+ipsum; clarum est, aliquid vel aliqua facta esse proper se, and non omnia
+propter alia principaliter, Cumque rursus evidens sit, non singula facta esse
+principaliter propter semetipsa, Pha. 1.
+cum Naturae ordo habeat ut unum corrumpatur ad generandum aliud, palam est
+aliqua propter semetipsa esse creata, alia vero propter ipsa:
+
+Prop. VI.
+Ens cognoscitivum, quod agit non secundum dict amen intellect us videntis quid
+sit agendum, habet in sese principium quod nat^m est esse oppositum rationi.
+(...) Pro. 12.
+CUm enim Enti cognscitivo, ut tali, virtus agendi sit cognitio, non potest
+agere adversus cognitionem suam, nisi moveatur a causa fortiori quam fit ipsa
+cognitio in ipso, quaeque impediat efficaciam cognitionis: sed quod impedit
+operationem alicujus causae facit operationem incompossibilem cum operatione
+causae impeditae, and ubi operationes sunt oppositae, etiam principia sunt
+opposita, ergo principium impediendi rationem est oppositum rationi. Sed hoc
+principium vel est intrinsecum Enti cognoscitivo, and habetur intentum, vel
+quia facit Ens cognoscitivum agere adversus rationem movet aliquod principium
+ipsius adversus rationem, est itaque in Ente cognoscitivo, etc.
+
+Prop. VII.
+Deus semper facit quod est optimum universitati creaturarum.
+(...) Pro. 31.
+CUm enim quicquid est in Deo sit illi essentiale, intellectus ipsius illi est
+essentialis, non potest itaque esse in Deo principium aliquod adversum rationi,
+and quod sequitur Deus semper operatur secundum dictamen intellectus, sed cum
+non agat creaturas propter se, sed ut ipsis been sit, semper facit quod sac it
+ex pura intention ut illis optime sit. Cum itaque tunc optimum sit creaturis,
+quando tota universitate rerum considerata optimum est quod fit, semper Deus
+operatur quod est optimum universo.
+
+Prop. VIII.
+Quoties Deus operatur in particularem creaturam facit quod est optimum illi,
+nisi officiat potiori bono.
+a CUm enim universitas creaturarum confletur exsingulis, optime est toti
+universo, cum singulis quam optime, sit quantum possibile est; quando autem
+situs creaturae inter caeteras non permittit, ut quam optime fic huic nisi
+deterius fit alteri, cujus bonum est majus bonum universi, clarum est, ex
+intention agentis, quod est optimum univerfitati, faciendum esse minus boni
+particulari ut universo melius sit. Nisi aute^ bonum praelatum faciat esse
+melius universo, melius foret universo ut particulari praetermissum bonum datum
+fuisset, in paritate enim nulla est actio.
+
+Prop. IX.
+Quod est creatum propter se, est imperibile secundum praesentem ordinem
+causarum.
+Axio. 3.
+CUm enim bonum unicuique sit quod est secundum naturam ipsius, Prop. 8.
+and Deus faciat optimum creaturae particulari si non obstet majus bonum, and
+quod creatur propter se, recipiat esse propter se, clarum est esse secundum
+naturam talis creaturae abstrabendo ab extrinsecis, habere esse ex merius suis,
+hoc est quia est talis naturae, itaque quamdiu est talis naturae. Axi. 2.
+Sed imperfecta foret natura si non ad suos fines haberet sufficientia media,
+tale itaque Ens semper conservabitur, seu est simpliciter imperibile ex hoc
+ordine causarum.
+
+Prop. X.
+Corpus non est creabile propter se.
+(...) Pro. 14.
+CUm enim omne quantum seu corpus sit, composit um ex materia and forma; (...)
+Pro. 12.
+and materia sit eadem in toto universo, and per consequens capax in singulis
+alterius formae quam ejus quam habet, sed and quantum intrinsece divisibile,
+Prop. 4.
+and divisibilitas sui subjecti, hoc est substantiae corporeae, fit quodlibet
+corpus ex intrinsecis suis tum substantia, tum quantitate esse natum interire,
+and quod sequitur esse causas activas in natura, per quas possit interire,
+Prop. 9.
+and, quod sequitur nullum corpus esse propter se creabile.
+
+Prop. XI.
+Motus ab indivisibile signato non potest extendi in infinitum.
+ASsignato enim indivisibili puta B, si motus in infinitum progrediatur erit
+divisibilis in infinitas parts aequales, si enim parts aequales non sint nisi
+finitae non constituent totum infinitum. Si vero sint parts aequales infinitae
+and extiturae, aliqua pars existet quae per infinitas, parts aequales distabit
+ab aequali part incipiente in signo B. Quare infinitae parts aequales
+claudentur inter signum B. and illam partem, and existente illa part finitus
+crit motus quidam ex infinitis partibus aequalibus, Axio. 5.
+seu motus infinitus.
+
+Prop. XII.
+Universum corporeum consistens ex corporibus, and eorum motibus non fuit
+creatum propter se.
+Prop. 11. and 10.
+CUm enim and motus interituri sint, and ipsa corpora interibilia, Prop. 9.
+and, quod est peribile non possit creari propter se, palam est, mundum
+visibilem, sive corpora sola significet, sive cum suis motibus, non esse
+creabilem, and per consequens neque creatum propter semetipsum.
+
+Prop. XIII.
+Finis universi corporei sunt Anima separatae ex corporibus emergentes and
+causata.
+Prop. 10.
+CUm enim neque parts corporaae Mundi folae; Prop. 12.
+neque motus ipsorum sint creabiles propter se, and per consequens non sint
+propter se, fit esse creatas propter aliud, and quod sequitur habere ulteriorem
+finem propter quem sint. Quare cum Entia creata vel sint corpora vel spiritus,
+finis universi corporei erit aliquod genus spirituum. Cum itaque necesse fit
+spiritus vel pendere a corporibus antequam sint actu, vel nunquam pendere a
+corporibus, (...) Pro. 1.
+cum corpus non possit agere in spiritum actu existentem, patet, siqui sunt
+spiritus immeditate* and sine concursu corporum a Deo conditi, Mundum non esse*
+conditum propter eos, cum non habeat rationem medii, and utilis respectu eorum.
+Consequens itaque est. Mundum factum esse propter spiritus e corporibus
+emergentes, and esse accipientes per illorum auxilium, cum ipsae sint propter
+se utpote aeviternae and imperibiles, and corpora propter hujusmodi spiritus
+non propter alios.
+
+Prop. XIV.
+Deus creavit caetera propter semetipsum.
+Prop. 31.
+CUm enim Beatitudo, seu finis ultimus spirituum sit videre Deum, hoc est
+conjungi illi, and frui illo, palam est eos a Deo condiad ipso fruendu^, hoc
+est ut ipse sit finis eorum, and illi propter eum ut finem. Pro. 13.
+Cumque rursus universitas corporum facta sit propter spiritus, and finem
+eorum, seu ut perducant eos ad Deum, clarum est etiam eos ultimate factos esse
+propter Deum. Creavit itaque Deus cuncta propter semetipsum tanquam rerum
+creatarum finem. Et quoniam videntes Deum eo ipso laudem, and gloriam dent
+nomini ipsius, etiam prpter gloriam suam omnia creavit Deus.
+
+Prop. XV.
+Mundus* seu Vniversum corporeum est instrumenum Creatoris ad educandis mentes
+incorporatas ad Beatitudinem.
+Prop. 13.
+CUm enim finis mundi, and creationis ipsius sint Animae separetae ex
+corporibus emergentes, (...) Pro. 31.
+and finis earum sit videre Deum, (...) Pro. 32.
+and, si sint adaequate secundum naturam dispositae, hoc habeant in primo esse
+separationis, (...) Pro. 32
+and, quod habent in primo esse sequatur ex iis quae gesta sunt in corpore,
+clarum est, finem Mundi esse perficere animalia virtute spiritualia, sic ut in
+primo instanti separatationis Animae eorum sint Beatae; and per consequens
+motus qui sunt forma mundi, sunt ejusmodi ut partim talia Animalia faciant
+habere corpora apta ad actus Animae seu cognitiones, partim ut cognitiones, and
+affectus introducant quibus Animalia secundum mentem disponantur ad
+Beatitudinem, seu Visionem Beatificam.
+
+Prop. XVI.
+Mentes incorporatae pleraque ad Beatitudinem perveniunt.
+(...) Axio. 4.
+CUm enim instrumentum sit propter actionem seu effectum propter quem fit,
+instrumentum illud est substantialiter malum quod substantiam sui effectus non
+est natum perficere. Quare, cum Mundus sit instrumentum ad perducendas mentes
+incorporatas ad Beatitudinem, nisi hoc efficiat, erit substantialiter malus;
+substantia autem Beatificandi genus humanum clare est, ut tot particulares
+Animae beatificentur ut quae deficiant non sint sufficientes ad partem
+considerabilem totius multitudinis constituendam. Quare, neque integer, id est,
+finitus jam mundus, erit instrumentum substantialiter bonum, nisi pleraque
+animalia virtute spiritualia ad Beatitudinem pertingant. Pro. 1.
+Sed cum Deus sit universaliter cognoscitivus, and perfectus seu bonus, Prop. 4.
+and quae facit propter bonum creaturarum agat, clarum est, illum nihil, nedum
+Mundum, hoc est, adeo ingentem terminum operationis suae fecisse
+substantialiter malum. Est itaque Mundus substantialiter bonus, and pleraeque
+mentes incoporatae ad Beatudinem pertingunt.
+
+Prop. XVII.
+Deus gubernat Mundum per Intelligentias seu Angelos.
+(...) Pro. 3. and 4.
+CUm enim quodcunque corpus vel quot cunque corpora, sive in quiet sive in
+motu posita, non possint incipere vel continuare motum sine extrinseco Agente,
+(...) Pro. 26.
+sed neque corpus extrinsecum possit ea movere nisi ipsum etiam moveatur, fit
+necessarium esse Agens incorporeum ad hoc ut universum corporeum incipiat, and
+prosequatur motus suos. Sed hoc Agens incorporeum neque est Deus, (...) Pro. 26.
+qui nihil operatur nisi existentiam, and consequentia ad ipsam ex vi ipsius
+existentiae: Neque Anima separata quae non potest existere nisi post inceptum
+motum universi; Debet itaque esse spiritus aliquis a corporibus independens.
+Sed tales spiritus dicimus Intelligentias vel Angelos; At dare and continuare
+motus qui in mundo sunt est gubernare mundum. Deus ergo gubernat mundum, per
+Intelligentias seu Angelos.
+
+Prop. XVIII.
+Natura Angelica est integre creata.
+(...) Pro. 3.
+CUm enim Intelligentia sit creatura spiritualis, Prop. 9.
+est imperibilis, and ex meritis suis digna existere seu propter se creabilis;
+(...) Pro. 23
+Quare, cum Deus sit paratus infundere esse si a part creaturae non sit
+defectus, quaelibet Intelligentia possibilis erit actu creata, hoc est, tota
+natura Angelica in omnibus suis suppositis, seu integre est creata.
+
+Prop. XIX.
+Deus ad rectam gubernationem Mundi non indiget aliis instrumentis quam
+Intelligentiis, and corporibus.
+Prop. 17.
+CUm enim ^ae Intelligentiae pri^os motus efficiant, palam est esse activas
+circa corpora, (...) Pro. 12.
+and quoniam efficacia carum est superioris rationis ad efficaciam corporum,
+consequens est, intelligentias posse per corpora agere quicquid per ea agi
+natum est. (...) Pro. 25.
+Cumque rursus intelligentiae in primo sui esse intelligant omnia quae
+connexionem cum ipsis habeant, and, per consequens, quid sibi sit agendum in
+tota aeternitate, (...) Pro. 26.
+sintque in ultima dispositione illud agendi in debitis circumstantiis, palam
+est, positis intelligentiis, and corporibus in quae and per quae agant, non
+requiri alia instrumenta ad quamlibet, hoc est, optimam administrationem mundi.
+Deus itaque etc.
+
+Prop. XX.
+Intelligentiae nonnunquam immutant ordinem pur orum corporum.
+CUm enim clarum sit pura corpora ex primo situ, and motu in creatione collatis
+consequentiam quandam motuum and effectuum trahere, ut si nihil extrinsecus
+adveniret nullus effectus non foret visus in ipsis principiis primo positis,
+hunc ordinem dicimus purorum corporum. Pro. 15.
+Sed quia Animalia* virtute spiritualia sunt finis Mundi, ^ Pro. 31. and 32.
+and finis eorum Visio Dei in futura vita ex hujus vitae actibus consequenda,
+Prop. 1^.
+and eorum pleraque sint ad Beatitudinem perducenda, (...) Axi. 3.
+and secundum naturam sit ut pure ministerialia adaptentur ad ea quae habent
+rationem finis; conclusum est, si bona gubernatio Animalium virtute
+spiritualium hoc requirat, mutandum esse ordinem purorum corporum. Quare, cum
+evidens sit, genus humanum non posse connaturaliter perduci ad Beatitudinem,
+nisi universalis quaedam persuasio accommodandi hanc vitam ad futuram
+introducatur in ipsam, and experientia tot millium annorum, quos duravit in
+maxima part mundi, ordo purorum corporum demonstret ex vi illius non posse
+introduci. Consequens est, non connaturaliter gubernari Mundum nisi aliquando
+mutetur ordo purorum corporum. Quare, necesse est, intelligentiis nonnunquam
+immutare ordinem purorum corporum.
+
+Prop. XXI.
+Deus in gubernatione Mundi nihil immeditate, and specialiter agit.
+(...) Pro. 25. and 26.
+CUm enim Deus per creationem, and conservationem infundat intelligentiis, and
+cognitionem quid sit agendum ad rectam mundi gubernationem, and volitionem id
+perficiendi: Prop. 17.
+Et intelligentiae immisso motu primo in corpora universalem cursum naturae
+faciant, Pro. 20
+and quando opus est ad necessitatem Animalium virtute spiritualium eundem
+ordinem immutent, and nihil praeterea requiratur ad rectam gubernationem Mundi,
+palam est, Deo nihil reliquum esse praeter creationem and conservationem, hoc
+est nihil omnino de gubernatione, sed eam integre commissam esse creaturis non
+erraturis a legibus divinis in creatione ipsis inditis.
+
+FINIS.
+

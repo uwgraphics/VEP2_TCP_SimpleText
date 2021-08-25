@@ -1,0 +1,370 @@
+A COMPENDIUM OF FORTIFICATION, BOTH Geometrically and Instrumentally, BY A
+SCALE, The Making whereof is showed by the Tables, and their Use, both of the
+Tables and the Scale, for speedy Protracting of any Fort consisting of 8
+Bulwarks, whose Bastion-Angles shall not exceed 90 Degrees; and so the like for
+Bastion-Angles of 12 Bulwarks.
+
+WRITTEN BY PHILIP STAYNRED Professor and Teacher of the MATHEMATICS in the
+City of BRISTOL.
+
+JER. XVI. 19. The Lord is my strength, and my fortress, and my refuge in the
+day of affliction.
+
+LONDON, Printed by E. Cotes, Anno Domini 1669.
+
+A COMPENDIUM OF FORTIFICATION.
+FIrst, I will describe part of a Tetragon or Square Fort, and explain the
+Names of the Sides and Angles thereof, as in the Figure following.
+
+
+Names of the Sides of a Fort.
+A B the Outward Side of the Polygon, and D E the Inward Side. C A the
+Semidiameter of the Outward Polygon, and C D the Inward. I H A G F the Bulwark
+or Bastion. A G, or A H, the Front or Face of the Bastion -- 280 Foot. A D the
+Capital or Head Line, D I, or D F, the Gorge Line. I H, or F G, the Flank; and
+F M the second Flank. D G the Espaule, or Shoulder. F K the Curtain -- 420
+Foot. A K the longest Line of Defense -- 720 Foot. A L the shortest Line of
+Defense.
+Names of the Angles.
+N A B the Angle of the Polygon, and N A C the half Angle. H A G the Flanked
+Angle of the Bulwark. A G F the Angle of the Shoulder. F D G the Angle forming
+the Flank, commonly 40 Degrees. G A O the Inward Flanking Angle. A P B the
+Outward Flanking Angle, and A P O half the same.
+Note, That the Bastion or Flanked Angle H A G must never be less than 60
+Degrees, neither above 90 Degrees; but as near as you can to an Angle of 90
+Degrees: So that it may be defended from the Flank and Curtain on either side.
+
+The longest Line of Defense K A not to be above 12 score Yards, that is, 720
+Foot, being within Musket Shot; and the breadth of the Rampire to resist the
+Battery 100 Foot.
+
+To Describe a Fort of Five Bulwarks, or any other; so that the Bastion, or
+Flanked Angle of 8 Bastions or Bulwarks exceed not 90 Degrees by the Line of
+Chords.
+FIrst, Draw an Obscure Line, as A B; and upon A, as a Center, with the Chord
+of 60 degrees. describe an Arch, as C D E; and from C lay down half the Polygon
+Angle (which in the Table following the Figure you shall find to be) 54 degrees. as
+C D; also the same again from D to E, and draw the Line A E. Now divide the
+half Polygon Arches C D and D E each into three equal parts, as in F H I G, and
+from two of those parts from D, as F and G, draw Lines unto the Bastion Point
+at A. Then take any convenient Distance, and lay the same on those Lines from A
+unto K and L, which shall make the Front or Face of the Bulwark. Next, from the
+shoulder at K let fall a Perpendicular to A B, as K M; and on the Center at K
+describe an Arch of 60 degrees. from M toward N, and from M lay down on the same
+Arch 50 degrees. or more exact 49 degrees. 24 min. and so draw K N, which will cut the
+Semidiameter of the Polygon in the Point O; so shall A O be the Capital Line of
+the Bastion. Then from O draw a Line parallel to A B, as O P; so shall you have
+O R for the Gorge Line, and R K the Flank. Now for the Curtain, take half the
+Front A K, as A T, and lay it down three times from R toward P, which will
+fall in S; so is R S the Curtain. Then on the Point at Serect a Perpendicular,
+as S V, equal to R K, which shall be the Flank of another Bastion; and so the
+Front K A being laid from V, shall cut the first Line A B in B; so drawing V B,
+you have the Front of the same Bastion.
+
+Lastly, Divide A B in the middle, as in W, and from W let fall a Perpendicular
+to A B, which will cut the Semidiameter of the Polygon in the Point D; so is D
+the Center of the Polygon. And with the same Semidiameter D A you must describe
+a whole Circle, of the which A B is the part thereof, which Distance will reach
+from B unto X, and from X unto Y, and so to Z, and your first Point at A, where
+you begun your Work.
+
+For the other Bastions, they may be easily transported from the first Bastion.
+And note, That if your Fort exceed 8 Bulwarks, you must add 15 degrees. to half the
+Polygon Angle, so have you the Bastion Angle; and then work as before. But in
+the Forts that exceed not 8 Bulwarks, where the Bastion Angle will not be above
+90 degrees. you must take the part of the Angle of the Polygon.
+
+The longest Line of Defense is from A unto Q, and should not exceed 720 Foot
+(because of being within Musket Shot) the Curtain R S about 420 Foot, and the
+Front A K 280 Foot: And for the Flank R K, and Gorge R O, their proportion
+commonly is as 6 to 7: but the Angle K O R forming the Flank is about 40 gr. by
+which the Proportion is near as 5 to 6.
+
+
+
+A Table for 8 Bastions.
+Polygons. Angle of the Polygons Angle of the Bastions Degrees. Degrees. 4
+Tetragon 45 30 5 Pentagon 54 36 6 Hexagon 60 40 7 Heptagon 64 2/7 42 6/7 8
+Octagon 67 45
+
+The Bastion Angle is here found by taking the of the Polygon Angle: So the
+Bastion Angle will be an Angle of 90 degr. in the Octagon. And no more must the
+Bastion Angle be in any Polygon.
+
+A Table for 12 Bastions.
+Polygons. Angle of the Polygon. Angle of the Bastion. Degrees. Degrees. 4
+Tetragon 45 30 5 Pentagon 54 34 6 Hexagon 60 37 7 Heptagon 64 2/7 39 9/14 8
+Octagon 67 41 9 Enneagon 70 42 10 Decagon 72 43 11 Undecagon 73 7/11 44 7/12 12
+Dodecagon 75 45
+
+The Bastion Angle is here found by adding 15 d. to the Polygon Angle, and take
+the thereof: So the Bastion Angle will be an Angle of 90 degrees. in a Dodecagon.
+
+Of the Works that are in or about Forts of most Importance.
+
+
+A B the Breadth or Walk on the Rampire -- 40 Feet. B C the Breadth of the
+Parapet of the Rampire, with the Faussebray, and Parapet thereof, each 20 Foot;
+in all -- 60 D E the Breadth of the Moat, Ditch, or Trench -- 120 E F the
+Coridon, or Covert-way of the Counterscarp -- 20 F G the Argin or Parapet
+thereof, being -- 50 or 60 H the Ravelines; I the Half-moons, with their
+Parapets -- 20
+There may be sometimes an occasion in Forts to raise Mounts, Cavaliers,
+Platforms, or Batteries, to command all the other Works, and to view the
+Country about; which may be raised upon the Bastions, if you have room withal
+to make use of the Flanks: Otherwise let them be raised on the Curtains, a
+little within the Rampire, so that you may have room left for the Walk.
+
+To Draw the Platform of a Fort, beginning with the Capital (or Head) Line; And
+also to draw the Horn-works.
+
+
+LEt the Fort be an Hexagon, that is, of six Bastions or Bulwarks. First draw
+the Line A B, and upon A describe an Arch of a Circle, as B D C, whereon lay
+down half the Polygon-Angle, which in the former Table you shall find to be 60
+degrees. as from B unto D, and thence to C; and draw A C and A D, Now the part of
+the half Polygon Angle is B G and C F; then draw the Obscure Line A F and A G.
+Next you shall make choice of the Capital Line, of any sufficient length, which
+let be A E; and from E draw a Line parallel to A B, as E H, continued; and upon
+the Point E, as a Center, describe K I, making it an Angle of 40 degrees. as K E I;
+so shall E I cut out the Front in L, as A L: So from L let fall the
+Perpendicular L M, which shall be the Flank; and M N the Curtain shall be as
+formerly the whole length of the Front, and a half more. For the rest of the
+Work, you must proceed as formerly.
+
+For the Horn-works.
+YOu must continue the Flankers M L and N O unto P and Q; then take the longest
+Line of Defense A N, and lay it thereon from the shoulders at L and O, unto P
+and Q; drawing the Line P Q, dividing it into three equal parts; and from those
+parts 1 and 2, draw parallels unto P L and Q O: also from those Points P and Q
+draw parallels to the Fronts A L and B O, those will cut the former Parallels
+in R, S, T, and V; which Intersections will limit the Fronts, Flanks, and
+Curtains, as you may easily perceive; unto which you must make the Rampire,
+Parapet, etc. as in the former Works.
+
+New follow two Tables; the one for 12 Bastions, and the other for Forts of 8
+Bastions: Whereby you may trace out any Fort by help of a Line of Equal Parts,
+which shall divide the Side of the Outer Polygon into 10000 parts.
+
+The First Table for 12 Sides.
+Number of Sides 4 5 6 7 8 9 10 11 12 The Side of the Outer Polygon. 10000
+10000 10000 10000 10000 10000 10000 10000 10000 The Capital Line 2428 2592 2756
+2926 3086 3136 3148 3180 3204 The Gorge 1088 1264 1378 1470 1538 1640 1722 1792
+1842 The Front 2914 2952 2986 3014 3024 3054 3070 3082 3094 The Flank 970 1128
+1246 1360 1516 1526 1536 1542 1546
+
+The Second Table, for 8 Sides, whose Bastion Angle then shall make 90 Degrees.
+Number of Sides 4 5 6 7 8 The Side of the Outer Polygon 10000 10000 10000
+10000 10000 The Capital Line 2396 2498 2602 2695 2778 The Gorge 1120 1327 1480
+1599 School The Front 2914 2939 2959 2975 2987 The Flank 940 1113 1242 1342 1423
+
+The Use of these Tables.
+LEt it be required to draw the Proportional Dimension of a Regular Fort of 6
+Sides: As for Example, in the fourth Figure, whose Side A B must be divided
+into 100 equal parts, and each part supposed to be subdivided into 10 parts: so
+have you 1000 parts, which shall suffice. Now proceeding according to former
+Directions, until you come to make choice of your Capital Line, you shall here
+find in the second Table, which is best for the purpose, under the Figure 6,
+and right against the word Capital in the first Column, 2602, but 260 will
+serve: Take the same from the Scale of Equal parts, and lay it from the Bastion
+Point at A, and it falls in the Point E, which will be the Center of the
+Bastion. From thence you may lay down the Gorge Line out of the Table, which is
+148 unto M: So will the Front A L be 296, and the Flank M L. The Curtain, being
+once and a half the length of the Front, will be M N 444. Thus you may do for
+any of the rest. These Tables are useful for Irregular Forts; But first I will
+show you the Height, Breadth, and Scarpings of the Rampire, Parapet, Ditch,
+etc. of these Sconces, as they are represented in the Profile, or Section, as
+follows.
+
+Terra Plana
+
+
+
+The Breadth of the Rampire may be 24, 30, or 40 Foot; but here A B is but --
+32 The Inward Scarp A C -- 6 The Height of the Rampire C D -- 6 The Breadth of
+the Walk of the Rampire D E -- 10 The Breadth of the Bank or Foot-pace of the
+Parapet E F -- 3 and the Height of the same Foot-pace -- 1 The Inward Scarp of
+the Parapet F G -- 1 The Inward Height of the Parapet G H -- 6 The Breadth of
+the Parapet at the Foot F I -- 10 The outward Scarp of the Rampire B K -- 3 The
+Inward Scarp of the Parapet I L -- 2 The Outward Height of the Parapet L M -- 4
+The Thickness of the Parapet at the top M N -- 7 The Brim of the Ditch B O -- 3
+The Breadth of the Ditch at the top O P -- 32 The Scarp of the Ditch O Q -- 6
+The Depth of the Ditch Q R -- 6 The Breadth of the Ditch at the Bottom R S --
+20
+The Profile or Section of a Fort with a Fausse-Bray and Counterscarp; also
+Subtrenched.
+Terra plana.
+
+
+
+C D is the Fausse-bray, and D M his Parapet: E F G H is the Subtrench, and I K
+the Coridor, or Covert-way. Lastly, K L is the Argin or Parapet of the
+Counterscarp. Note, That the Height of the Rampire A B ought to be raised 15 or
+18 Foot above the Terra Plana, although here it is but 12 Foot, which is
+somewhat too low to command the Trench or Ditch: But if the Trench be made
+broader, then it will command the bottom thereof.
+
+Of Irregular Fortification.
+IN the seventh Figure following let A B C D E be an Irregular Fort, containing
+5 Bastions, or Bulwarks. First we will make a Bastion on the Angle at A, which
+do thus: Divide the Polygon Angle in half with the Line A F, and draw the
+Bastion-Angle as formerly, being of the Polygon-Angle, as A H, and A I
+continued, being the Sides whereon the Fronts must be laid down.
+
+Now upon some spare Paper you shall make the half Polygon-Angle G A F, as you
+may see underneath this seventh Figure, as L K M: Then make choice of the
+Capital Line, as before; let it be of any convenient length (larger than you
+think your Bastion will be in the seventh Figure) as underneath K N, and from N
+the Center of the Gorge draw a Parallel to K L, continued to O, as N P; and so
+proceeding as before, you shall find the Point of the second Bastion at O: So
+have you the Proportion of your Bastions, whereby you may gain those in the
+seventh Figure.
+
+Now to reduce it from the Bastion Point at A, you must take A B the shortest
+side, and lay it from O unto Q; and from Q draw a Line parallel to the Capital
+Line K N continued, as Q R. Lastly, drawing a Line from N to O, it shall cut Q
+R in the Point S; so is Q S the length of the Capital Line sought for, which
+must be laid down on the seventh Figure from A unto T; so is T the Center of
+the Gorge. Then for the Front take K V, and lay it on the Capital Line from K
+to W: so a Ruler being laid from W to O, it shall cut the Line Q R in the Point
+at X; so is Q X the length of the Front, to be laid down in the seventh Figure
+from A unto H and I. Thus shall you finish your Bastion, when you have let
+fallen your Flanks perpendicular on the ends of your Curtains, as you see. The
+like Method you are to observe for the other Bastions.
+
+And when you have finished your Fort, you must observe whether your Curtain
+Lines (that is, from the Centers of the Gorge) be parallel to the outward Sides
+A B, etc. which if they are not, you must correct them; and by your Judgment,
+by help of the Lines of Defense, you may as you see occasion widen the Necks of
+the Gorges, and also the Bastion Angles; but not above 90 Degrees: And so let
+the Flankers be as near proportional as the Rules (or Ocular Demonstration
+directs) which commonly the Gorge Line to the Flank bears proportion as 7 to
+6.
+
+Much more could I write of Irregular Fortification: but my purpose at this
+time is but to make a small Treatise, or an Epitome thereof.
+
+The seventh Figure, of an Irregular Fort, containing 5 Bastions; being the
+Platform of the Royal Fort sometimes on St. Michael's Hill, on the North West
+Side of the City of Bristol.
+
+
+
+
+
+
+To make a Scale for Fortification by the Tables.
+THis may be performed Geometrically by observing the former Instructions,
+whereby you may gain the length of every Line: but it will be sooner done, and
+more easy, by these Tables following.
+
+First Table, for 12 Sides.
+Numb. of Sides 4 5 6 7 8 9 10 11 12 Semi. Out. Pol. 1000 1000 1000 1000 1000
+1000 1000 1000 1000 Semi. Inn. Pol. 661 700 731 756 777 795 810 823 834 The
+Front 412 347 299 261 232 209 190 174 160 The Gorge 158 151 141 132 123 115 108
+101 96 The Flank 133 127 119 111 103 97 90 85 80
+
+Second Table for 8 Sides.
+Number of Sides 4 5 6 7 8 Semi. Outer Polyg. 1000 1000 1000 1000 1000 Semi.
+Inner Polyg. 661 706 740 766 787 The Front 412 346 296 259 229 The Gorge 158
+156 148 138 130 The Flank 133 131 124 116 109
+
+Make your Scale of a sufficient length, that may hold both Lines, the one for
+12 Sides, and the other for 8. Make choice within the breadth of the Scale,
+between the Borders, any sufficient breadth, as C D; from whence draw Parallels
+to the Sides, and divide C D into 30 Equal parts, and begin your Account from C
+with 45: so shall the end at D be 75 degr.
+
+Now make choice of the length of the outer Polygon, which here I make three
+Inches; and divide a Line by the Side thereof, equal thereto, in 100 equal
+parts, and suppose each part into 10; so have you 1000 parts, agreeable to the
+Tables. The next thing is to draw Parallels to C E, according to the Polygon
+half Angles, as you may see in the Tables under the Pentagon Fort, being the
+second Figure: So from the Scale C D you have for the half Angle of a Pentagon
+54 Degrees, whereby you may draw the Pentagon parallel F G; and so in the lower
+Scale of 8 Bastions. In the like manner you may do for all the rest.
+
+Now to draw the cross Lines for the Semidiameters of the Inner Polygons, as
+also the Lines for the Fronts, Gorges, and Flanks, you shall work thus. First,
+you must note, That the Semidiameter of the Outer Polygon is the Radius or
+whole Line of 1000 equal parts, and that is drawn at Right Angles, or a cross
+at F: But for the Semidiameter of the Inner Polygon, look in the Table of 12
+Sides in the second Column under 4, you have 661. Take the same Number off your
+Scale of Equal Parts, and lay it from E to H: Then in the third Column under 5
+you have 700 parts; lay the same down from G to I, and make there a prick or
+point: Do the like for the Hexagon and Heptagon, as at I and K; proceeding
+along with all the rest, unto the Dodecagon. And lastly, draw a Line through
+all those Points: So have you the Arch Line H M for the Semidiameters of the
+Inner Polygon. In the same manner work for the Front, Gorge, and Flank Lines.
+The Scale of 8 Sides is the same Method.
+
+I have also inserted on the left side of the Scale a Line of Chords, whose
+Radius (or Arch of 60 Degrees) is three Inches; and on the left side, a Line
+for the Sides of the Polygons. The Hexagon, or six Sides, is equal to the
+Radius: And for the Tetragon, or four Sides, it is equal to the Chord of 90
+Degrees. So having described a whole Circle with the Chord of 60 Degrees, you
+shall find, that if you take from the Center N unto 5, it shall divide the
+Circle into 5 equal parts, for drawing the Figure of a Pentagon, which in the
+second Figure of a Pentagon Fort will reach from A to B, and so to X, Y, Z, and
+A. Now D A in the same second Figure you shall find to be the Semidiameter of
+the Outer Polygon, which in the Scale is G F; and taking G I off the Scale for
+12 Bastions, or G O on the Scale of 8 Bastions, it will give the Semidiameter
+of the Inner Polygon, as D E in the same Figure. So likewise G P on the Scale
+will be equal to the Front A K in the Pentagon Fort. The like you may
+understand for laying down the Gorge and the Flank. And for the Curtain, as
+before, you must make R S 1 the length of the Front A K.
+
+This Scale will also be of good Use in Irregular Fortification. As for
+Instance. In the Irregular Fort, the seventh Figure, you shall find the half
+Bastion Angle G A F to be 58 Degrees, which falls on the Scale between the
+Pentagon and Hexagon, from whence you may draw a Bastion on some spare place,
+and from thence proportionate the same unto the outer side of the seventh
+Figure A B. The rest I leave to your own practice.
+
+How to Fortify a long Curtain with Bulwarks, or a strait Town Wall.
+
+
+LEt the Curtain be A B. First take 200 Foot from the Scale of Fortification,
+accounting 10 for 100; and lay the same from A unto C, and from C unto D: So
+shall A D be the breadth of the Neck of the Gorge: and upon the Point C erect a
+Perpendicular, as C F. Then take 420 Foot off your Scale, and lay the same from
+D to E, which shall be the length of the Curtain. Next you must take 720 Foot,
+and lay the same from E, to cut off the Capital Line at F; so shall E F be the
+longest Line of Defense, and C F the Capital Line; which Line C F must be laid
+down from C unto G: and draw G F for the shortest Line of Defense. Lastly, upon
+D erect a Perpendicular, which will cut the same Line in H: so have you D H for
+the Flank, and H F the Front. Thus have you finished half the Bastion, from
+whence you may transport all the rest of the Bastions, were they ever so many.
+
+Note, That these Bastions must not exceed 720 Foot, that so it may not be
+without Musket Shot. But if you will defend the Front with Cannon, you may make
+the Line of Defense almost twice so much. The like for the Curtain, which may
+be 800 Foot; and in the middle of the Curtain you may make a Spur, or Point of
+a Bastion, as at K, which will be necessary for Musket Shot, beside the Cannon;
+which in the Line drawn about the City of Bristol I have seen many of them.
+
+These five following Pieces are taken out of Malthus; The Proportions you may
+find by the Scale, and the Rules before showed.
+
+Tetragon
+
+
+
+Pentagon
+
+
+
+Hexagon
+
+
+
+Heptagon
+
+
+
+octagon
+
+
+
+FINIS.
+

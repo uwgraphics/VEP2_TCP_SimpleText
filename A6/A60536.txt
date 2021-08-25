@@ -1,0 +1,1337 @@
+A PROPOSAL TO Perform Music, IN Perfect and Mathematical Proportions.
+
+CONTAINING, I. The State of MUSIC in General. II. The Principles of PRESENT
+PRACTICE; according to which are, III. The Tables of PROPORTIONS, calculated
+for the Viol, and capable of being Accommodated to all sorts of Music.
+
+
+By Thomas Salmon, Rector of Mepsal in the County of BEDFORD.
+
+-- Exemplaria Graeca
+Nocturna versate manu, versate diurna.
+Hor. de art. Poet. Approved by both the Mathematick Professors of the
+University of Oxford.
+
+With Large REMARKS upon this whole Treatise, By the Reverend and Learned John
+Wallis D. D.
+
+IMPRIMATUR. Gilb. Ironside. Vicecancel. Acad. Oxon.
+
+LONDON: Printed for John Lawrence, at the Angel in the Poultrey. 1688.
+
+TO The Valiant and Learned John Cutts Esquire Adjutant General in the Service of
+His Imperial Majesty.
+THIS, Sir, is so far from the common road of Dedications, that at first sight
+it will appear neither fit for me to give, nor you to receive.
+
+Shall a Person so publicly employed in the greatest Attempts, and most
+victorious Successes, which the World has seen for these many Ages, have
+leisure for Philosophical Speculations, or divert to a Science proper for ease
+and pleasure?
+
+Or should one consecrated to the Divine Service, so laboriously search into
+the Intrigues of Nature, and assist in the advancement of an Art, which with
+its Airy Pleasures often captivates the Soul to sensual things, and makes it
+more devoted to the World, that is to be conquered with another sort of Victory
+than your Arms can obtain?
+
+All this I have thought on, yet still find so much in this affair, as not only
+to excuse me, but to make it acceptable to you.
+
+This Mathematical Discourse is indeed the Anatomy of MUSIC, wherein the
+infinite Wisdom of the great Creator appears: How delightfully and wonderfully
+is it made! Mavelous are thy works, O Lord, and that my Soul knows right well.
+
+All the best Proportions, are the best Chords of Music, and strike the Ear
+with a pleasure agreeable to the dignity of their Numbers. The effects of this
+the Sensualist is satisfied with, and desires to seek no further.
+
+But is it not grateful to every Gentleman, who is ennobled with such a Soul as
+yours, to know the divine Harmony of the pleasure he enjoys? Is it not the duty
+and Felicity of a Rational Being, to consider how the whole System of the World
+is framed in Consort? How Musical Instruments observe their Arithmetical Laws,
+all the little Meanders of the Ear faithfully conveying the organized sounds,
+and the Soul of man made to receive the delight, before he himself knows from
+whence it comes?
+
+How great is this! How mean am I, to set forth such a Divine Subject!
+
+However charming this still voice may be, yet no body will believe it can be
+heard amongst Drums and Trumpets: Why should these Papers hope for acceptance
+in the Camp?
+
+I must confess I should think them unseasonable, had not you, my Excellent
+Friend, told me that your most Renowned General Lorain does in all the
+intervals of Action govern his Army like a College, and allow time for the
+repose of the Mind, as well as for the overrunning subdued Countries.
+
+You may then reflect upon the great Creator and Governor of the World, who
+gave you being, and now preserves you in the most eminent Hazards; these shall
+help you to contemplate the infinite Wisdom, and shall be of the greatest
+advantage to you, since Piety is the best support of Courage, and gives a
+refreshing Ease amidst the Rage of War.
+
+But the design of War is Peace, and your Friends here long for the return of
+those cool hours, wherein you may not only have leisure for these Theoretical
+Studies, but advance true Practical Wisdom; which you have already represented
+to us in the most advantageous dress, and enflamed our desires to have her
+interest promoted to greater heights.
+
+I know the glory of the Field is very tempting, but still you retain as great
+a passion for Learning; this has ever found a place in the noblest Breasts:
+The first great Conqueror of this Island is as glorious for his Pen as his
+Sword, and by his Commentaries perpetuated his Victories.
+
+We have incomparably more of Athens here in England, than your Confederates
+the Venetians this year got possession of: That ancient Treasury was long ago
+rifled, and its Jewels brought into the Western part of Europe: this the
+learned Proprietors were very sensible of.
+
+When Cicero returned home from Greece by Rhodes, the famous Orator there
+Apollonius begged the favor of a Declamation: All the Company were amazed, and
+strove with the highest Expressions to acknowledge the Obligation; but
+Apollonius sat sad and silent: which when he perceived Cicero took amiss, he
+said, (...). I value and admire you, O Cicero; but in the mean time I must pity
+the fortune of Greece, since those excellent Goods, Learning and Eloquence,
+(which were all that was left) are now by you brought over to the Romans.
+Plutarch, in the Life of Cicero.
+
+The Offers made in these Papers, are the Musical Spoils and Relics of Athens,
+a long time buried in obscurity; and though some years ago published to the
+World in their own Language, yet never known to those whose greatest concern it
+was to be acquainted with them.
+
+And indeed Music now very much wants such Patrons as you are, whose Reverence
+to Antiquity and Learning, may give Pre-eminence to the Nobler part; which
+would at once both advance and regulate the Practick Pleasures.
+
+It must be acknowledged that this Divine Science has a great while sunk with
+the Devotion of Churches, it has been little learned and little regarded by the
+Religious; so that the Angelical Praises, which we have the honor to
+communicate in upon Earth, are faintly and unfrequently celebrated: This
+celestial accomplishment, which God ordained to enliven our dull Affections, is
+everywhere wanting; that the pleasure is as low as the skill of performing this
+most grateful part of Worship.
+
+Hence has Music of late sought its principal Glory in Theaters, and sensual
+Entertainments, too mean a Service to be reckoned the design of such an
+excellent Art: The infinite Wisdom created it for better purposes.
+
+And when God shall please to bless the World with greater degrees of Love, and
+a better Adoration of himself, He will raise up Men and Means thus to promote
+his Glory. Which directs me now to seek your Patronage to the Endeavors of,
+
+SIR, Your most Humble and most Affectionate Servant, THOMAS SALMON.
+Mepsal, Nov. 1. 1687.
+Advertisement To the READER.
+I Would not suffer this Proposal to be published, till I had first
+communicated it to the most eminent Professors of this Science, because having
+omitted the demonstrations I rely upon, the Reader might be satisfied in their
+Testimonies.
+
+I know it is not fair to offer any thing in Mathematics, without giving the
+Demonstration with it as we go along; but I considered that the Principles of
+this Science are very little known, and would not have been much regarded by
+Gentlemen, till they first had seen the use and necessity of them.
+
+As I thought this the best course, so it has proved much better than I
+expected: for the most experienced Professor in this part of Learning, has
+sent me not only his Approbation, but his Demonstration of my Principles; from
+whence the more inquisitive Reader may receive a complete satisfaction.
+
+ERRATA.
+Page 6. -- Line 16. for intension read intention.
+
+7. -- Penult. for Six read Sixth.
+
+10. -- 24. for there read these.
+
+13. -- Antepenult. insert the word add.
+
+23. -- 7. for Numb. III. read Numb. IIII.
+
+27. -- 18. insert the word cross.
+
+Ult. -- ult. two Iota's subscripts are wanting.
+
+A PROPOSAL To perform Music, IN Perfect and Mathematical Proportions.
+CHAPTER I. Of the State of Music in General.
+WHEN the great Empires of the World, were in the height of their Glory,
+especially the Grecian and Roman, (whose Authors have left us lasting Monuments
+of their Excellency) Then did all sorts of Learning flourish in the greatest
+Perfection: The Arms of the Conquerors ever carrying along with them Arts and
+Civility.
+
+But to bring about a fatal Period, did the North swarm with barbarous
+Multitudes, who came down like a mighty Torrent, and subdued the best Nations
+of the World; which were forced to become Rude and Illiterate, because their
+New Masters and Inhabitants were such.
+
+Amidst these Calamities, no wonder that Music perished: All Learning lay in
+the Dust, especially that which was proper to the Times of Peace.
+
+But this Darkness was not perpetual; The Ages at last cleared up; and from the
+Ruins of Antiquity, brought forth some broken Pieces, which were by degrees
+set together; and by this time of day are Arrived near their ancient Glory.
+Guido has been Refining above Six Hundred Years.
+
+Two things are chiefly conducing to this Restoration: The great Genius of the
+Age we live in, and the great Diligence in searching after Antiquity: The
+excellent Editions of the best Authors, and the most laborious Comments upon
+them, abundantly testify the Truth of this.
+
+In both these Felicities, Music has had as great a share as any; Aristoxenus,
+Euclide, Nichomachus, Alypius, Bacchius, Gaudentius, Aristides, Martian, have
+been with a great deal of Diligence, set forth by Marcus Meibomius, at
+Amsterdam, in the Year 1652.
+
+And above all, is, Claudius Ptolomaeus, who Corrected and Reconciled the
+Pythagoreans, and Aristoxeneans, the speculative and practical Parties: This
+Author was Published by Dr. Wallis, at Oxford, in the Year 1682, who added an
+Appendix, comparing the Ancient and Modern Harmony; which is as the Key to all
+our Speculations, and without which the former Authors were hardly Intelligible.
+
+Nor are we less beholding to the Excellent Genius of our Modern Musicians:
+There are, indeed, only two Fragments (as I know of) remaining of the ancient
+Grecian Compositions; One of Pindar's, found by Kircher, at Messana in Sicily;
+the other of Dionysius's, rescued by Dr. Bernard, from lying hid amongst some
+Papers of Archbishop Usher's; both Published with Chilmeads Notes in the end
+of Aratus, at the Oxford Theater: These are very short, and very imperfect, and
+therefore we cannot make any Judgment of their Songs or Lessons.
+
+But by all that we can discern from their Harmonical Treatises, There never
+was such regularity in the designing of Keys, such a pleasing sweetness of Air,
+such a various contexture of Chords, as the Practical Musicians are at this day
+Masters of.
+
+It may seem now, that there remains nothing to be added, or to be learned out
+of those Eminent Authors I have here Recited; And the mighty Power of Music,
+Recorded by the most Grave and Authentic Historians, may be looked upon as
+Romance, since all the Excellencies now performed, cannot conquer the Soul, and
+subdue the Passions as has been done of Old.
+
+But before we quit the Testimonies of what Music has done, and despair of any
+further Advancement; Let us enquire whether there be not something very
+Considerable still wanting, something Fundamental very much amiss, even that
+which the forementioned Philosophers were likely to be most Excellent at, when
+the Learned and Practical Part were met in the same Persons: Whether this be
+not the Accurate Observation of Proportions, which the Soul is from Heaven
+informed to Judge of, and the Body in Union with it, must Submit to.
+
+Surely, I need not prove, that all Music consists in Proportion; that the
+more exact the Proportions, the more Excellent the Music: This is that, all
+the World is agreed in. For this, I have every Man of my side, that except the
+Voice, the Instrument be well in Tune, the best Composition that was ever made,
+will never please; And what is it to be in Tune, but for every Note to bear a
+due Proportion to one another?
+
+Indeed, the Proportions of Music are twofold; First, In respect of Tune, and
+Second, In respect of Time: The latter of these, which Dr. Vossius contends so
+much about, is certainly very considerable; that the Music should agree with
+the Poetical Prosodia; that all the Variety of Rythmical Feet should have their
+proper Movements.
+
+Then would the Sense be favored by such Measures, as were most fit to Excite
+or Allay the Passions aimed at; and the Words of a Song would be capable of a
+more easy and intelligible Pronunciation.
+
+Since Musicians have not undert^ken to be Poets, and Poets have left off being
+Musicians; this now disjoynted Work, of making Words, and setting Tunes to
+them, has not been so exactly done as formerly, when the same Author performed
+both.
+
+But were it never so well done for Time, and the Proportions of Tune
+neglected; it could signify nothing: None will pretend to make Music by
+playing good Time, except the Instrument and Voice be in Tune.
+
+However, till both these Fundamental Points be observed with such Exactness
+and Excellency, as the Ancients took care of; we must not say we do all they
+did, or that they could not prevail more than we can; all the Modern
+Excellencies may be rendered Ineffectual, by tolerating so many unproportionate
+imperfections, as are every where found amongst us.
+
+I shall not here give an account of all those accurate Proportions, which the
+Ancients contended for, nor their little enharmonical Distances, whereof their
+more curious Music did consist; but only of what is now practiced amongst us,
+that the certain Knowledge of our Fundamental Principles may produce
+Performances, much more exact and powerful.
+
+CHAP. II. The present Practice of Music.
+THE Hours of Study are tedious to some and precious to others: I cannot
+therefore suppose any man will search into the demonstrative Reasons, or
+acquaint himself with the Mathematical Operations belonging to this Proposal,
+till he be first assured of the truth and usefulness of it.
+
+So that what is purely Speculative shall be reserved at present: This offers
+nothing but the Principles of continual Practice, whereby the Reader may be
+lead into the knowledge of what he is always to design; and taking the String
+of any Instrument, may give his Eye, and his Ear, and his Reason, an immediate
+satisfaction, in all that is here dictated to him.
+
+Before we compose or perform any Music, two things must be provided for.
+
+I. That we have some little gradual Notes, which may (whilst the Voice rises
+or falls) succeed one another in the best Proportions possible; whereof (as of
+so many Alphabetical Elements) the whole Music must consist.
+
+II. These gradual Notes must be placed in such order, that the greater
+Intervals (compounded of them) may in the best Proportions possible arise out
+of them, and be come at with the greatest convenience: That in all the Points,
+where the single Notes determine, there the larger Chords may be exactly
+coincident; if it was not for this, there could be no Consort-Musick.
+
+To set forth this, we may as well use the first seven Letters of the Alphabet,
+as all the hard Names of Guido's Gamut; because they were framed long before
+Music was brought into that good order wherein it now stands, and the first
+intension of them is not agreeable to the present practice.
+
+Only this will be worth our Observation, that whereas in the Scale of Music,
+there are three Octaves, (besides the double Notes and Notes in Alt) viz. the
+Base, Mean, and Treble, we may use Three Sizes of Letters in a greater, middle
+and lesser Character: as will be found in the Tables of Proportions.
+
+For understanding the two things pre-required, we suppose the proportion of
+one gradual Note to be contained between A and B, then between B and C the
+proportion of another gradual Note, though much lesser; these two single
+proportions, viz. that of A B, and that of B C being added together, must
+exactly constitute a lesser Third; the proportions of the two gradual Notes
+must determine in that point, where the compounded interval may be coincident
+with them.
+
+To proceed, if we add another gradual Proportion from C to D, then must arise
+the exact proportion of a Fourth, from the first given A to the Note D: if one
+more be added from D to E, there must be found the exact proportion of a Fifth,
+from A to E, and of a greater Third from C to E.
+
+Thus must the Gradual Notes be contrived to be exactly subservient to the
+greater intervals thorough all the Octaves: and if at any time this cannot be
+(as may happen in two or three instances) such particular Chords must be
+esteemed inconcinnous and inconvenient, but they are very few, and lie much out
+of the way.
+
+If we settle one Octave, the whole work is as good as done; all the rest is
+only repetition of the same Notes in a larger or more minute figure: for the
+eight Notes which are used in constant practice, proceeding gradually, take up
+just half the string, from the sound open to the middle of it: And if we have
+occasion to go further, it is but just the same over again.
+
+The great concern is in what order our gradual Notes (which are of different
+sizes) must stand, from the Key or Sound given, till we arrive at the Octave;
+for there will be a great variety, according as the lesser gradual Notes are
+placed sooner or later: This must be looked upon as the internal constitution of
+an Octave, which practical Musicians commonly understand by their Flat or
+Sharp, that is, their greater or lesser Third.
+
+But as much as I can observe from the Compositions of the most Eminent Masters
+for these last Twenty years, this internal constitution of an Octave is but
+twofold: either with a greater Third, Sixth and Seventh; or a Lesser Third, Six
+and Seventh: In the same composition all are lesser, or all greater.
+
+There needs then only this twofold constitution of the Octave to be considered
+by us, the two Keys A and C: all the rest serve only to render the same series
+of Notes in different pitches; which is demonstrable by transposing Tunes from
+one Key to another: The Tune remains the same, only the compass of the Voice or
+Instrument is better accommodated.
+
+These two Keys A and C are called Natural, because the Proportions, originally
+assigned to each Letter, keep those proper places, which either Guido the first
+restorer or immemorial Custom has allotted to them; Whereas by taking other
+Keys, as suppose G for A, the proportions or different sizes of the gradual
+Notes are forced to shift their quarters, and by flats or sharps to straiten or
+widen their usual distances.
+
+It Is sufficient demonstration for all this, that when any Tune is transposed
+into A or C, it wants nor flats nor sharps, whatever it did before.
+
+I shall in the first place give you the natural order of the gradual Notes as
+they stand in the Key A, where we have a lesser Third Sixth and Seventh,
+exactly coincident with the Third Sixth and Seventh gradual Note.
+
+You have between every Letter, that part or proportion of the string assigned
+which each gradual Note requires: underneath you have the proportion of each
+compounded interval, what part of the string it is stop must be when compared
+with the whole string open from the Nut to the Bridge.
+
+The Constitution of the Key A.
+A. 9.B. 16.C. 10.D. 9.E. 16.F. 9.G. 10.a. A Lesser Third 6 A Fourth 4 A Fifth
+3 A Lesser Sixth 3/8 A Lesser Seventh 4/9 An Eighth 2
+
+The Experiment must be thus: You are to take any one String, and suppose it to
+be the Key A, when it is open: then measure the 9th part of it, you will have B
+or one gradual Note. Not that the first Fret must stand there, but the second;
+for we are not reckning according to Tableture, but Notes specified by the
+first Letters of their hard names: the half Notes shall be considered
+afterward.
+
+From the place of B measure the 16th part of the remaining String, there will
+be C, the least gradual Note: And there you will arrive at the 6th part of the
+whole String, which is the proportion of the Lesser Third; and the Ear will
+acknowledge it to be so.
+
+From the place of C take the 10th part of the remaining String, there will be
+D, another gradual Note, much wider than the last, between B and C, but
+something less than the first between A and B. At the place of D, you will
+arrive at the 4th part of the whole String, which is the proportion of a
+practical Fourth.
+
+Here, to prevent all perplexity and misunderstanding, the Reader must
+carefully distinguish in the Terms of Art: The Practical Musician reckons how
+many gradual Notes he has gone over from his Key or Sound given, and
+accordingly calls his Intervals a Third, Fourth, and Fifth, as having so many
+gradual Notes contained in them; but the Mathematician regards only the parts
+of the String, what proportion the part stopped bears to the String open.
+
+Here indeed the Practical and Mathematical Terms are the same, a fourth part
+of the String mathematically measured, is a practical fourth; but in all other
+Chords they differ, as we have seen a Lesser Third to be the sixth part of a
+String.
+
+From the place of D take the 9th part of the remaining String, (which is a
+gradual Note of the same proportion with the first, between A and B;) here will
+be E: and here you will find you are arrived at the third part of a String,
+which is the grateful proportion of a Practical Fifth.
+
+The proportions of the Lesser Sixth and Seventh, viz. and 4/9, are of a
+different sort from the rest; the former Chords arise from the natural division
+of an Octave or Duple proportion, there are formed by an artificial addition of
+a second or a third to the Fifth: The former proportions are called by
+Arithmeticians Super-particular, these are super-partient.
+
+I believe the Reader will not desire to be troubled with the nature of them
+here, but only to be informed how to measure them for his present satisfaction:
+He is to know then, that he must not take the upper number 3 of 3/8 for the
+third part of the whole String, for then a Lesser Sixth would be the same as a
+Fifth; but he is to devide the whole String into eight parts, as the lower
+number specifies, and then where three of those parts determine from the Nut,
+there will be a Lesser Sixth.
+
+This is the addition of the 16th part of the remaining String from E to F: for
+A open to E was the third part of the String, that is a Practical Fifth; from A
+open to F will be three parts of the whole String divided into eight parts,
+which is a practical Lesser Sixth.
+
+A Lesser Seventh is produced by taking a 9th part of the remaining String from
+F to G, which is a Lesser Third above E, this will be found to determine at 4
+when the whole String is divided into 9 parts, and therefore is the proportion
+4/9.
+
+From G take a 10th part of the remaining String, you will arrive at a, the
+precise middle of the whole String, so that an Octave is a duple proportion;
+the fullest and most perfect satisfaction that can be given to the Ear. And by
+this is the whole proceeding demonstrated to be right, because not only by the
+way, every interval was exactly found in its proper place, but at last this
+Chord, the sum total of all Music, does just contain all its Particulars.
+
+After the same manner may the internal-constitution of an Octave in the Key C
+be demonstrated: I shall set it down without any explication, because the
+Experiment and Reason of both are alike.
+
+The Constitution of the Key C.
+C. 10.D. 9.E. 16.F. 9.g. 10.a. 9.b. 16.c. A Greater Third 5 A Fourth 4 A Fifth
+3 A Greater Sixth 2/5 A Greater Seventh 7/15 An Eighth 2
+
+Though we have all along supposed a Monochord or single String, to make this
+demonstration more evident, and to show that all the gradual Notes of an Octave
+put together, arrive just at the middle of the String; yet the progress of the
+Proportions is the same, when we take some of them upon one String, some upon
+another. For each String is tuned Unison to some part of that which went
+before; so that it is all one whither the Proportions go along upon the same
+String, or go on to the next, when we come at the place of tuning Unisons.
+
+As suppose upon the Viol the Fourth String be C open, when you come to E, or
+the Fourth Fret, you have a greater Third; then it is all one whether you take
+the 16th part of the same String to make F at the fifth Fret, or the 16th part
+of the next whole String to make F upon the first Fret: It Is all one, because
+the third String open is tuned Unison to E, or the fourth Fret upon the fourth
+String.
+
+As I would avoid troubling my Reader with needless difficulties, so I would
+not omit any thing of necessary information; this last consideration makes me
+here add a discourse of Seconds, which is the name whereby the gradual Notes
+are commonly called: for reckning inclusively in Music, one Interval, which
+must needs be contained between two Sounds, is termed a Second.
+
+It is best to treat of them in that method, which our Authors used in the
+Classical times, because it is their Perfection we are now aiming at: They
+divided their Music into three sorts, Diatonick, Chromatick, Enharmonick,
+which was so diversified by those several sorts of Seconds or gradual
+Proportions they used therein.
+
+1. In Diatonick Music, the foregoing constitution of an Octave discovers
+three several sizes of Seconds, viz. the 9th part of a String, the 10th part,
+and the 16th part. I would satisfy the Reader in this variety, because he will
+think much to enter upon an Observation, not yet received, except he knows some
+necessity for it.
+
+We must have the Proportion of the 16th part of the String between B and C, as
+also between E and F, or we cannot bring our gradual Notes into the form of an
+Octave, into the compass of a duple proportion; this is already acknowledged
+both by speculation and practice: No one ever yet pretended to rise or fall
+eight Notes one after another, all of the same size.
+
+To this 16th part we must a 9th part, or we can never have an exact Lesser
+Third, which is the 6th part of the whole String; but if we add another Note of
+the same size, viz. a 9th part to make up that Lesser Third a Fourth, we shall
+find that we have a great way over-shot the fourth part of the String, and
+without taking the 10th part, we can never hit it; as will appear by the former
+demonstrations upon the Monochord, in many instances.
+
+I must confess, this is so contrary to the common Opinion of Practical
+Musicians, that I would not insist upon it, did not necessity compel me, did
+not the greatest Reason and Authority assure me, that it will not be hereafter
+denied: Of these three sizes of Seconds does the whole progress, from the Key
+to the Octave, consist in the forementioned order, being all along exactly
+coincident with the larger Intervals.
+
+My Authorities are Cartes's Music, Gassendus's Introduction, Wallis's
+Appendix, and all other Learned men, who have in this last Age reviewed the
+Harmonical concerns. It Is time certainly to receive into practice those
+Improvements, which the greatest Modern Philosophers in the World have afforded
+Music.
+
+And indeed it is in vain to stand out, Nature always acknowledged and received
+them; a good Voice performing by it self, a faithful Hand guided by a good Ear
+upon an unfretted unconfined Instrument, exactly observes them: All that I
+contend for is, that the Practiser may know what he does, and may always make
+that his design, which is his excellency.
+
+When we have thus much granted, then may the last Chapter of this Proposal be
+very acceptable; which puts into his hands the Tables of Proportions calculated
+for every Key, that he may perform them upon those Instruments, which have not
+hitherto been capable thereof. But to pursue our present subject.
+
+2. Chromatick Music is that which ascends and descends gradually by half
+Notes. I don't mean such as is commonly called the half Note in Diatonick
+Music, the 16th part of the String, the proportion assigned between B and C,
+between E and F: These are self-subsistent, and reckned as two complete Steps,
+as well as any of the rest. And if we consider the value of their proportions,
+deserve rather to be reputed three-quarter than half-Notes.
+
+Chromatick half Notes arise by the division of Diatonick whole Notes into the
+two best proportions, so that they will follow one another, and be all along
+coincident with the greater Intervals. But those two vulgar half Notes in the
+Diatonick Scale will not do so; 'twould make mad work, to place two or three of
+these ( viz. 16th parts) one after another, you would neither have true Thirds,
+Fourths, nor Fifths, in your whole Octave; you could not maintain any
+coincidence with other Intervals.
+
+A Chromatick half Note is truly made by placing the Fret exactly in the middle
+between the two Frets of the Diatonick whole Note: This I first learned by the
+mathematical division of an Octave or duple Proportion into its natural parts;
+then I was confirmed in it by Aristides, lib. 3. page 115. who requires such a
+Fund for the Enharmonical Dieses, and since upon trial I find Practical
+Musicians very much satisfied in the Experiment of such a Division as fully
+answering their expectations.
+
+I think only this last Age, ever since Music has began to revive, has aspired
+after these Chromatick Hemitones, and now they are used three, four, or five of
+them, in immediate sequence one after another; if their proportions be truly
+given them, they are certainly the most charming Music we have: but whereas a
+natural Genius easily runs into the Diatonick Intervals, these are not
+performed without a great deal of Art and Practice.
+
+3. Enharmonick Music is that which ascends and descends gradually by quarter
+Notes, which the Ancients called Dieses: I don't mean that the whole Octave,
+either in this or the Chromatick Music, did consist only of these; but after
+having used some of them, they took wider Steps and larger Intervals afterward
+to complete the Fourth and Fifth.
+
+I could here add an account of the true Enharmonical quarter-Notes; the same
+Mathematical Operations produce their Proportions: The Grecian Authors
+(particularly Aristides in the forecited place) determine and record them, and
+they may become practical again; but I resolve to propose nothing here, but
+what is of present practice.
+
+This I must say, that those invented for the Harpsichord, are nothing to the
+ancient purpose: The Harpsichord quarter-Notes are designed only for playing
+more perfectly in several Keys, with lesser Bearings, which are never used in
+sequence, so as to hit four or five of them one after another; but the true
+Enharmonick Scale offered its Dieses, as gradual Notes, whereby Music stole
+into the Affections, and with little insinuating Attempts got access, when the
+bold Diatonick would not be admitted.
+
+CHAP. III. An Account of the Tables of Proportions.
+IT is very possible, that those, who are devoted only to the Pleasures of
+Music, may not care to trouble themselves with the foregoing Considerations:
+It Is not every man's delight to be diving into the Principles of a Science, and
+to be enquiring after those Causes which produce an Entertainment for his
+Senses; it is satisfaction enough to the greatest part of the World, that they
+find them gratified.
+
+And indeed the delights of Practical Music enter the Ear, without acquainting
+the Understanding, from what Proportions they arise, or even so much, as that
+Proportion is the cause of them: this the Philosopher observes from Reason and
+Experience, and the Mechanic must be taught, for the framing Instruments; but
+the Practiser has no necessity to study, except he desires the Learning as well
+as the Pleasure of his Art.
+
+I have therefore so Calculated my Tables, that a man may without thinking
+perform his Music in perfect Proportions; the Mechanical Workman shall make
+them ready to his hand, so that he need only shift the upper part of his
+Finger-board as the Key requires.
+
+This I have tried, and found very convenient; I shall therefore give a Table
+of Proportions in every Key, that the Mechanic may accordingly make a set of
+Finger-boards for each Instrument, according to its particular length; the
+Proportions ever remaining the same, though the size be various.
+
+It is evident that one Fret quite cross the neck of the Instrument, cannot
+render the Proportions perfect upon every String; because sometimes a greater
+Note is required from the Nut or String open, sometimes a lesser: if then the
+Fret stands true for one, 'twill be false for the other; if it stands between
+both, it will be perfect in neither.
+
+As for example: Take the Viol tuned Note-ways, (which is ever the same) if you
+look back to the natural Constitution in the former Chapter, you will find that
+from the String D open, you must take the 9th part of the String; from the
+String G open, you must take the 10th ^art of the String: accordingly the first
+Fret from D (which is the Chromatick or just half the space of the whole Note)
+must be a great deal sharper, than the first Fret of the String G. And the
+first Fret of the String E being the least Diatonick Note to F, must be a great
+deal sharper than that which belonged to the String D, or G.
+
+So that every String must have its particular Fret, whose Proportions are here
+given to the Mechanic, and he is to make use of them to the best advantage:
+Not that I would confine him to the way of shifting Finger-boards; it is
+possible the Makers of Instruments may find out some other way much more
+convenient: Their great excellency and industry in making Organs and
+Harpsichords, proves them sufficient to accommodate the designs of Music: I
+only proposed what I had made use of, to show that the Experiment is
+practicable, which is enough for a Scholar to do, whose Province lies only in
+the Rational part.
+
+As I here inform the Mechanic, what Proportions he is to set upon every
+String, so I must inform the Practiser what Keys he may play in, which is
+absolutely necessary; for no man can set about performing any thing in Music,
+without knowing his Key.
+
+This deserves to be considered, that the Writers of Music may more certainly
+know where to fix their Flats and Sharps at the beginning of a Lesson or Song,
+and the number of them that is requisite: for as in Vocal Music it is a vast
+trouble in Sol-fa-ing to put Mi in a wrong place, so it is in Instrumental
+Music, to have an Information renewed in several places thorough the whole
+Lesson by a Flat or a Sharp, which might have been known at first, once for all.
+
+As for instance, C Key is now often chosen for a Lesser Third; there is no
+doubt but the Composer would have a Lesser Sixth as well as a Lesser Third, (as
+appears by the interspersed Flats); if so, there ought to have been three Flats
+prefixed, that A might be flat as well as E.
+
+I shall in this Catalogue of Keys offer you the variety of fourteen; seven
+with a Greater Third, Sixth, and Seventh, the other seven with all these
+Intervals Lesser.
+
+But for these fourteen Keys, you need to have only seven Finger-boards; for
+when the Proportions are lodged between the same Letters, then there will need
+no shifting: so that though the Key be different, yet the Instrument must be
+disposed in the same manner.
+
+As for instance, in the two Natural Keys A and C, the same Finger-board will
+serve; you begin indeed in two different places, the Key A is a Lesser Third
+before C, but the series of Proportions required, will be found exactly the
+same for both, according to the forementioned Internal Constitution.
+
+You may take this following Catalogue of Keys, with the due Proportions
+assigned between each Letter.
+
+I. A.9.B.16. II. One Flat. D.9.E.16. III. One Sharp. E.9.F 16. IV. Two Flats.
+G.9.A.16. V. Two Sharps. B.9.C 16. VI. Three Flats. C.9.D.16. VII. Three
+Sharps. F 9.G 16.
+By this may we understand what a Key is, and observe a series of Notes in
+their just Proportions passing on from the sound first given to the Octave: The
+Keys with Lesser Thirds have always in the first place a 9th part of the
+String, then a 16th part, and so on till you come to the same Letter again in a
+lesser Character: The Keys with Greater Thirds have always in the first place a
+10th part, then a 9th and so on till you come to the same Letter again; but the
+three last Letters are in a lesser Character, to show, that as you began a
+Lesser Third short of the other, so you go a Lesser Third beyond it.
+
+Thus you have as many Keys provided for you, as need be used; some things
+indeed have been set with four Flats, but they are very difficult to the
+Practiser, and I never saw any of them published; but if it were requisite,
+other Finger-boards might also be made for them, by the same Rule as these are
+calculated.
+
+I know the Keys B and F with Lesser Thirds are seldom used, but D and A with
+Greater Thirds are: Now because the same Finger-boards that serve for the two
+later, serve also for the two former, and the Practiser may have them into the
+bargain, I thought it better to give these also, than to omit any thing that
+might easily be useful. When the Composer finds that the Instrument goes well
+in tune upon these Keys, he will not hereafter be so much afraid of them.
+
+This Calculation in the Tables is but for one length, viz. of 28 Inches from
+the Nut to the Bridge, and but for one Tuning upon the Viol; but the Workman
+may be directed from these Proportions given to fit them to the length of any
+Instrument: and from the Key given in any Lyra tuning, for any sort of fretted
+Instruments, he may find out what Proportions fall upon every String.
+
+Indeed Harpsichords and Organs, and such Instruments, where Frets are not
+used, cannot be accommodated the same way; but the Proportions and order of the
+Notes, are the same in them: They have something that makes the different
+gravity and acuteness of their Sounds, which may be so rectified, as also to
+render their Music in a Mathematical perfection; but this is left to the
+ingenuity of the Artificer.
+
+I shall now observe something particularly of the Tables of Proportions,
+according to the numbers of the forementioned Keys, which you will find
+prefixed at the head of each of them, as they are annexed to the end of this
+Treatise.
+
+You will find, Number I. That A and C will not allow the sixth Base and
+Treble-string to have their fifth Frets upon the fourth part of the String,
+which makes a true Practical Fourth to the String open: For besides the least
+Diatonick Note, there falling two greater Notes upon the Strings D open, the
+stop G at the fifth Fret falls a pretty deal sharper; and accordingly the Fifth
+and Sixth Bases will not be a good Fourth to one another, but the Fifth Base
+must be tuned Unison at that place where the Table is marked.
+
+I have upon every Plate marked where the exact 4th and 5th and 6th part of the
+String falls, that you may see when the gradual Notes are not coincident with
+those larger Intervals, as in the forementioned case. Old Mr. Theodore
+Stefkins, (though he knew not the Mathematical reason) yet to make some
+allowance for this, was wont to direct the tuning of those Strings sharper than
+ordinary; by this Table you will find exactly how much sharper the tuning and
+the stops must be.
+
+Numb. II. In D and F with one Flat, you will find the same accident upon the
+fifth Base, where the same care must be taken, and all the Proportions will
+fall perfect.
+
+Numb. III. In G and B with two Flats, you have another affair to be
+considered; which is the tuning the third String to the Chromatick Note at the
+fourth Fret of the fourth String, which causes those two Strings not to be a
+true greater Third to one another. The reason is, because E, to which the third
+String is commonly tuned, does not in these Keys (G and B with two Flats) fall
+upon the fourth, but the third Fret of the fourth String, which is E flat; so
+that the fourth Fret is now the Chromatick division between E flat and F: hence
+it follows also, that the first Fret upon the third String, which is F, is not
+the 16th part of the String, but the 17th, viz. the later part of that divided
+Note.
+
+These two Accidents are all that I think need be taken notice of in all seven
+of them, because though they do occur in the rest, yet being of the same
+nature, the Reader will know how to understand them.
+
+This may seem a difficulty and inconveniency; that after all, the Intervals of
+Music could not everywhere be given in perfect Proportions: And I will
+confess that there are a few instances wherein they cannot, as the lesser Note
+being the 10th part of a String, and the least Note which is the 16th part,
+will not make a true Lesser Third, that is the 6th part of the whole String.
+
+But this does not proceed from the defect of this Proposal, Nature it self
+will have it so; Scholars are not to alter Nature, but to discover her
+Constitutions, and to give opportunity for the best management of all her
+Intrigues: I still perform my design, because I maintain those perfect and
+Mathematical Proportions in every place, where demonstration either requires or
+permits them.
+
+That the Reader may know how few, and how easy to be avoided, these
+inconcinnous Intervals are, I will give him an account of all and every one of
+them: There are three in each Constitution of an Octave, which are exact and
+necessary to carry on the progress of single gradual Notes, but they must not
+be allowed in the Composition of Parts.
+
+Inconcinnous Intervals from the Key C.
+1. A Lesser Third, from the Seventh to the Ninth above the Key. 2. A Fourth,
+from the Second to the Fifth above the Key. 3. A Fifth, from the Fifth to the
+Ninth above the Key.
+Inconcinnous Intervals from the Key A.
+1. A Lesser Third, from the Second to the Fourth above the Key. 2. A Fourth,
+from the Fourth to the Seventh above the Key. 3. A Fifth, from the Seventh to
+the Eleventh above the Key.
+This is the exactness, which Reason, guided by Mathematical Demonstration,
+requires of us; and this exactness is rewarded by a proportionable pleasure,
+that arises from it. Indeed since Musical Ears, (especially where Sense has no
+great acuteness) are commonly debaucht with bearings and imperfections, they
+may not perhaps at first observe the advantage offered; but I am sure Nature
+desires it, and will rejoice in those Proportions, which by the Laws of
+Creation she is to be delighted with.
+
+Yet there may be many an one, who will not care either for the trouble or
+charge of changing Finger-boards; if some little thing would mend their Music,
+it might be acceptable: I shall therefore add one more Table, Number VIII.
+which any person that uses a fretted Instrument, either Lute, Viol, or Gittar,
+may easily make use of, and find the benefit of it.
+
+I call it the Lyrick Harmony, because our Lyra-tunings require all the
+Proportions to be most conveniently accommodated to the Strings open: Now if
+the Frets be placed at the distance assigned in this Table, they will be
+generally perfect.
+
+This Table is calculated like the rest for a String 28 inches long from the
+Nut to the Bridge; but whatever length your instrument be, keep the same
+Proportions, and you will be right: a fourth part of a String is a fourth part,
+and the same Proportion, whether the String be longer or shorter.
+
+For the first Fret then, take the 16th part of the whole String from the Nut,
+which is the least Diatonick Second that lies between B and C, between E and F;
+so that this will be always right, except in the Chromatick half Notes, not
+much used in Lyra Music; but if the excellency of the Chroma be desired, then
+must the Practiser put himself to the expenses of what has been formerly
+proposed: Jewels can never be had cheap.
+
+For the second Fret you have two Lines, the uppermost is the 10th part, the
+lowermost is the 9th part of the whole String from the Nut; we use no
+Proportion in Music between the 16th and the 10th, as will appear by
+speculative Demonstration, and practical Experiment.
+
+If the tuning be with a greater Third, then the second Fret had best stand
+upon the 10th part; if the tuning be with a lesser Third, this second Fret had
+best stand upon the 9th part; for in Lyra-tunings the Key is generally some
+String open, and you will find by the twofold constitution of an Octave in the
+former Chapter, that the lesser Third requires the greatest Second from the
+Key, which is the 9th part, as from A to B; but the greater Third requires the
+lesser Second from the Key, which is the 10th part from C to D.
+
+This may not be always convenient, in respect of Composition, and therefore
+the Practiser may set his Fret where he pleases between these two strokes,
+according as he desires his bearings: however it cannot but be a very
+advantageous satisfaction, to know his Latitude within which he may be right,
+and above or below which he must be wrong: These are the bounds,
+
+Quos ultra citraque nequit consistere rectum. The third Fret must be the 6th
+part of the String from the Nut, which is the Proportion of a lesser Third to
+the String open; for it is demonstrable, that in Music we use no Proportion
+between the 9th and the 6th part: but if you are not to have a true lesser
+Third to the String open, as may sometimes happen, when the tuning does not
+well favor your design, you may then use what bearing you please.
+
+The fourth Fret must be a 5th part of the whole String, as being the
+Proportion of a greater Third to the String open.
+
+The fifth Fret must be a 4th part of the whole String, as the just Proportion
+of a Practical Fourth.
+
+The length of the Plate would not suffer me to give the sixth and seventh
+Frets, which are upon Viols; but the direction is easy.
+
+The seventh Fret must be just the third part of the whole String from the Nut,
+as being the grateful Proportion of a Practical Fifth.
+
+The sixth Fret standing between the 4th and third parts of the String, may be
+usually placed in the precise middle, where you may make a stroke the
+Finger-board of your Viol: but if the tuning requires any impo^^^nt Note to
+fall upon it, then may you tune your Fret by moving it higher or lower, as its
+Octave upon some of the higher Frets requires.
+
+Thus you may keep your former Gut-frets, which are movable and tied quite
+cross the Viol; the strokes made upon the Finger-board, being as so many
+Landmarks, either to keep you just in the right, or else to give you aim in the
+Variation.
+
+I acknowledge that this will not come near perfection in the Note-way, nor
+always do in the other; but it is an advantage to make a good guess, and not
+always to do things at random: If I travel without a certain Track, an
+Information that I must leave a Town a quarter of a mile on the right hand, is
+a satisfactory direction, though I am not to go thorough it.
+
+For a Conclusion of this Proposal, I need only add, that the truth of it is
+evident, both from Rational and Sensible Demonstrations; for the usefulness and
+necessity of it, every Man that wears a Musical Ear shall be Judge; the
+difference of Seconds, the greater and lesser Note, (which have hitherto been
+used without any regard) is so very considerable, that whoever takes but a
+transient view of them, will confess his Frets must be rectified, he cannot
+bear so great a deviation from what is truly in Tune; and accordingly the
+Practical Master does rectify them, when he passes from one suit of Lessons to
+another. For assigning these particular Proportions, and denying that others
+are now to be used (as was asserted in the Lyrick Harmony) the Author desires
+no longer to be trusted, than there shall appear an inclination in any to study
+the Arithmetical and Geometrical parts of Music, which are ready to be
+published.
+
+(...).
+I
+A9B.16.C.10.D.9.E.16.F.9.G.10.A
+
+C.10.D.9.E.16.F.9.G.10.A9B.16.C.
+
+
+
+II
+D.9.E.16.F.10. G.9.A.16.b.9.C.1^
+
+E10. G.9. A.16. b.9.C10.
+
+
+
+III
+E.9.f.16. G.10.A.9.B.16.C.9.D.10.E
+
+G.10.A.9.B.16.C.9.D.10.E.9.f..16.G
+
+
+
+V
+B.9.c.16.D.10.E.9.f.16. G.9.A.10
+
+D.10.E.9.f.16. G.9.A.10.
+
+
+
+IIII
+G.9.A.16.b.10.C.9.D.16.c.9.F.10.G
+
+b.10.C.9.D.16.c.9.F.10.G.9.A.16.b.
+
+
+
+VI
+C.9.D.16.c.10.F.9.G.16.a.9.b.10.^
+
+^.10.F.9.G.16.a.9.b.10.^
+
+
+
+VII
+^.G.16.A.10.B.9.C.16.D.9.E.10. F.
+
+A.10.B.9. C.16.D.9.E.10. F.9.G.16. A
+
+
+
+VIII
+Harmon: Lyric: Digit: 28.
+
+
+
+TO Mr. THOMAS SALMON, M. A. RECTOR of Mepsal in Hartfordshire. December. 17.
+1687.
+SIR,
+YOurs of December. 5. I received this week, with the printed Sheets, of which you
+desire my Judgment: which I did the next day consider of, and made some Remarks
+on them. Not by way of contradiction to your Design, (which I approve of) but
+for explaining some particulars, which seem either not so clearly, or not so
+cautiously expressed. An account of which I send you with this, from,
+
+SIR, Your Friend to serve you, John Wallis.
+
+REMARKS on the Proposal to perform Music, IN Perfect and Mathematical
+Proportions.
+Diverse things you suppose therein, or take for granted, as agreed by those who
+have Philosophically discoursed of Music; and thence proceed to what you
+direct, as to the Instrumental Practice thereof.
+
+You first suppose, as agreed by all, ( page 3. line penult.) that Music
+consists in Proportion; and this Proportion ( p. 4. l. 7.) twofold, in Tune,
+and in Time; meaning by that of Time, the different proportion of length and
+shortness of the intermixed Sounds; and by that of Tune or Tone, their
+different greatness and acuteness.
+
+There are some other things considerable, for the improvement of Music: As,
+the different loudness and softness of the Sound or Voice, wherein a pleasing
+variety adds much to the embellishment of the Music, and may much conduce to
+that Pathos (or moving the Affections) which the Ancients seem much more to
+have affected than we do: And many other Appurtenances to Music, more remote
+from your present business.
+
+You tell us then, ( p. 4. l. 26.) That none will pretend to Music by playing
+good Time only, without that of Tune. You might here have excepted the Drum,
+the Tabor, and the Huntsmans Horn; which make a kind of Music (though not that
+which you are here treating of) by a due mixture of long and short sounds of
+the same Tone. And (as you there intimate, l. 10.) Dr. Isaac Vossius (in his
+Book De Viribus Rythmi) contends this to have been the Charming Music of the
+Ancients, without taking notice of any difference of Tone therein.
+
+But this is not the part of Music that you are treating of; but that other
+part which lies in the proportion of Sounds, as to their Graveness and
+Acuteness, which by the Ancients was called Harmonica.
+
+You next take for granted, ( p. 5. l. ult.) that in order to this, we are to
+have a Series or Sequence of certain Gradual Notes or Sounds succeeding one
+another, by which the Voice rises and falls; and this in the best proportion
+possible; that by a due mixture of these in several orders (as by a mixture of
+Letters to make words) the whole Music may be best composed: And such are
+those Notes which we now call by the names of la mi fa sol la fa sol la, (and
+so forth in the same Sequence) which make up what we call an Octave, and the
+Ancients a Dia-pason, (the last of one Octave beginning another, in the same
+order, and so onward as far as there is occasion); to which the Ancients gave
+the names of Proslambanomenos, Hypate hypaton, Parypate hypaton, and so onward
+to a double Octave, or Dis-dia-pason; and which, in Guido's Gammut, are called
+A re, B mi, C fa ut, etc. His A re answering to the Greeks Proslambanomenos,
+and the rest to the rest in order. (The original and reason of which names, I
+have given you elsewhere, and shall not here trouble you with them;) but are
+now wont (by Writers of Music) to be expressed by the initial Letters of these
+names, A, B, C, D, E, F, G; and then (for another Octave) by small Letters, a,
+b, c, d, e, f, g; and (for a third Octave) by small Letters of another shape,
+or by small Letters doubled, aa, bb, cc, etc. And, if there be occasion to go
+backward from G or GG, by double great Letters, FF, EE, DD, CC, etc.
+
+And between every two of these Notes are certain Intervals, (as they are wont
+to be called) different according to their different proportions of the
+Graveness or Acuteness of those Notes each to other.
+
+It Is next presumed ( p. 4. l. 27. p. 7. l. 21.) as agreed on all hands, that
+the little Intervals (between Note and Note next following) are not all equal.
+In the Diatonick Music of the Greeks, and in Guido's Gammut, they are
+accounted to be Tones and Homitones intermixed; or, as we now call them, Notes
+and Half-notes, in this order. A. B. C. D. E. F. G. a. b. c. d. e. f. g. aa.
+etc. la. mi. fa. sol. la. fa. sol. la. mi. fa. sol. la. fa. sol. la. etc. t. h.
+t. t. h. t. t. t. h. t. t. h. t. t. Not that they are exactly such, but near
+the matter. And what is the exact proportion of each, we are after to consider.
+What it is in the Chromatick or Enarmonick of the Greeks, comes not into our
+present Enquiry.
+
+And here we are to take notice of the ambiguous or double sense of the word
+Note. Before, it signified one particular Sound or Note, as la, mi, fa, etc.
+but here, when we speak of Notes and Half-notes, it signifies an Interval
+between Note and Note. The Greeks had two words for it, Phthongus, and Tonus;
+but we use Note promiscuously for both.
+
+In an Octave thus constituted, from mi to mi (or from B to b, which is the
+natural place of mi) there are five Tones, and two Hemitones; ( fa rising
+everywhere half a Note, and the rest a whole Note:) and, therein two
+Tetrachords or Dia-tessaron's, or (as we call them) Fourths; where, from mi or
+la, we rise by fa sol la, (that is, mi fa sol la, or la fa sol la, according as
+mi or la come next before fa;) and moreover, one Tone, or whole Note, la mi:
+which added to the Tetrachord, either next before it, or next after it, makes a
+Pentachord or Dia-pente, which we call a Fifth; whereby the Octave is near
+equally divided into a Fourth and a Fifth, as BE and Eb.
+
+And the same we have, for quantity, in any other Octave; as from A to a, from
+C to c, etc. though not in the same order: for the same Notes still return
+after one Octave, in the same sequence as before, the last Note of one Octave
+being the first of the next; so that what is cut off at the one end, is
+supplied at the other, at what place soever we begin: but the order is
+different. If we begin at A, then is la mi (the odd Note) in the first place,
+(before the two Tetrachords:) If at B, it is in the last place (after both:) If
+at E, it is just in the middle between both, (and will make a Pentachord with
+either.) If at any other place, one of the Tetrachords will be divided; and
+what of it is wanting at the one end, will be supplied at the other end of the
+Octave.
+
+Sutably hereunto, the Greeks observed seven Species or sorts of Octaves, (all
+equal in quantity, but different in order) according to their different
+beginnings. The first Aa, and second Bb, the third Cc, etc. of which each had
+its peculiar name.
+
+The first of them begins at A, which was their Proslambanomenos, (a sound
+given, or assumed,) answering to what our Musicians now call the Key: A Note at
+which (in the Base-part) the Song begins, and to which great respect is had
+through the whole. The other Species had their several beginnings, or
+respective Keys.
+
+Which, and how many of these, they did make use of in their Music, is hard to
+say. Our Ancestors, about Guido's time, seem chiefly to have affected that of
+G; as appears by their Scale beginning at Gamm-ut; and their Series of Notes,
+Vt re mi fa sol la: where we have two Notes lower than mi. And our
+Musick-Masters, to this day, when they teach to sing, begin commonly with sol
+la mi fa, etc. as if ut, or the nearest sol below mi, were the Key or Note most
+regarded. Beside which, they seem (by the Gamm-ut) to have had two more (upon a
+remove) but of the same constitution, at C, and F, where (in the Gamm-ut) the
+Note ut returns again.
+
+For twenty years last past, you tell us (p. 7. l. 29. p. 8. l. 2.) in the
+compositions of the most eminent Masters, they scarce make use of any other Key
+(as to the internal constitution of the Octave) than A and C. That is, their
+Key or leading Note, at which their Base-part begins, is either la next before
+mi, or fa next above mi. And, because you are much better acquainted with the
+eminent Masters of Music, and their Compositions, than I am, I take it, as to
+matter of fact, so to be. But at whatever Note they please to begin, and make
+it their Key, it is, as to this point, much one.
+
+If these Keys be transferred to any other place (to accommodate the Voice or
+Instrument) mi is transferred also, (by help of Flats and Sharps) and the other
+Sequence of Notes with it; which alters the Pitch but not the Tune (p. 8. l. 3,
+12.) that is, the same Tune is sung by a higher or lower Voice.
+
+As for instance: If I would remove these Keys from A and C, to B and D, (that
+is, if I would set the whole Tune a Note higher) then must la (which is now at
+A) remove to B, and mi (from B) to C, and fa to D, and so forth. But then I
+find, that BC (an Half-note) is not wide enough to receive la mi, (a whole
+Note:) and therefore C (by a Sharp) must be raised half a Note higher, that B C
+may be fit to receive la mi; and thence to D, will remain half a Note for mi
+fa; thence to E, an whole Note for fa sol; but thence to F, is but half a Note,
+not capable of sol la, an whole Note: and therefore F (by another Sharp) must
+be advanced half a Note higher, that E F may receive sol la; and F G receive la
+fa, (an Half-note;) and G a receive fa sol; a b receive sol la; and then b c
+receive la mi, and so forth. So that C and F must everywhere have a Sharp, but
+the other Notes remain as before, in this form.
+
+B. C. D. E. F. G. a. b. c. d. etc. la. mi. fa. sol. la. fa. sol. la. mi. fa.
+etc. t. h. t. t. h. t. t. t. h.
+
+In like manner, if I would bring back A and C, to G and B, that is, if I would
+set the Tune a Note lower; then must la come back to G, and mi to A, and fa to
+B, and so forth. But because A B (an whole Note) is too wide for mi fa (an
+Half-note) there B (by a Flat) must be taken down half a Note; that so A B may
+just receive mi fa, and (instead of B C an Half-note) B C (an whole Note)
+receive fa sol; and (for a like reason) another Flat at E. And so everywhere
+at B and E. The rest remaining as before, in this form. G. A. B. C. D. E. F. G.
+a. b. etc. la. mi. fa. sol. la. fa. sol. la. mi. fa. etc. t. h. t. t. h. t. t.
+t. h. And the like in other cases; of which you give us the particulars, at
+page 20.
+
+And it is, in effect, no other than the common Rules by which Learners are
+taught to find mi: Only there, by the Flats and Sharps we find the place of mi;
+and here, by the assigned place of mi, you find the Flats and Sharps, if any be.
+
+Of those two Keys, at A and C, in their natural position, you observe aright (
+p. 7. l. 31. p. 8. l. 21. p. 21. l. 3.) that if you begin at A, then are C, F,
+G, the lesser Third, Sixth, and Seventh, from the Key: If at C, then are E, a,
+b, the greater third, Sixth, and Seventh, from the Key. And therefore the
+Composer, if he design those, should choose the Key A; if these, the Key C: or
+the equivalents of these transferred (as is showed) to other places.
+
+And thus far we have pursued the Language of Aristoxenes and his Followers the
+Aristoxeneans, and the Practical Musicians, who content themselves with the
+names of Notes and Half-notes, without enquiring into the Proportions of each
+Interval.
+
+But Pythagoras and his Followers, whom you call the Speculative Musicians,
+enquired further into the Proportions (of Graveness and Acuteness) at several
+Intervals.
+
+And here it was first discovered by Pythagoras, and since admit^ed by all,
+(which therefore you suppose as granted) that the Proportion for an Octave (as
+A a, or B b,) is Double, or as 2 to 1: That for a Fifth, (as A E, or E b,)
+Sesquialter, or as 3 to 2: That for a Fourth, (B E, or E a,) Sesquitertian, or
+as 4 to 3: And consequently, that for the Tone (A B, or a b,) Sesquioctave, or
+as 9 to 8.
+
+Hence Euclide (in his Musical Introduction, and Section of the Canon) taking
+all Tones to be equal, computes, that for the Ditoue, fa sol la, to be as 81 to
+64, (which is the duplicate of 9 to 8;) and therefore the Hemitone mi fa, or la
+fa, to be so much as that wants of a Fourth; that is, 256 to 243: which is
+somewhat less than half a Tone, or the sub-duplicate of 9 to 8. And so Boethius
+(after him) and others downward, till that (about an hundred years ago) Zarline
+revived the Doctrine of Ptolomy in this point.
+
+That of Ptolomy (in his Harmonicks) is this: The Proportions for the Octave,
+the Fifth, and Fourth, he retains as before* and that of the Dia-zeuctick Tone
+la mi; which, together with the two Fourths, compleats the Octave; and does,
+with either of them, complete the Fifth* (And so far Pythagoras proceeded, and
+no further.) But the Ditone fa sol la, (which is the greatest Third) he reckons
+to consist of two Tones, but unequal. The one as 9 to 8, (which is called the
+major Tone, and is equal to that of la mi;) the other as 10 to 9, (called the
+minor Tone:) and therefore the Compound of both, as 5 to 4; (which is a much
+more Musical Interval, than 81 to 64:) And consequently the Hemitone or
+Half-note mi fa, or la fa, (so much as 5/4 wants of 4/3) as 16 to 15, (which is
+somewhat more than half a Note:) and this together with a major Tone, (which
+make the lesser Third) as 6 to 5; as la mi fa (from A to C,) or la fa sol (from
+E to G,) or mi fa sol (from B to D) taking fa sol for a major Tone, and
+therefore sol la for a minor Tone.
+
+These Proportions settled by Ptolomy, (for the Diatonick kind) were afterward
+disused, till revived by Zarline about a hund^^d years since; who is followed
+by Kepler, Mersennus, Carts, Gassend^^, and others, (p. 14. l. 15.) and
+generally admitted by Specula^^^^ Musicians since Zarline's time. And these you
+pre-suppose (upon their Authorities) referring to their Reasons for it.
+
+You pre-suppose further, (which Ptolomy had showed at large, and is since
+admitted) that (in the same or like String) the degree of Acuteness is in
+counter - proportion to the length: That is, if the Acuteness of the sound be
+as 2 to 1, (as in the upper Note of an Octave) the length of the String is as 1
+to 2, (the Sound twice as sharp, the String half so long.) And where the
+Acuteness of the Sound is as 3 to 2, (as in the upper Note of a Fifth) the
+length is as 2 to 3. Where that is as 4 to 3, (as in a Fourth) this is as 3 to
+4. Where that is as 5 to 4, (as in the greater Third) this is as 4 to 5. Where
+that, as 6 to 5, (as in the lesser Third) this, as 5 to 6. Where that, (...) 9
+to 8, (as in the greater Tone) this, as 8 to 9. Where that, as 10 to 9, (as in
+the lesser Tone) this, as 9 to 10. And thus everywhere, the length of the
+String is in the counter-proportion to the height or sharpness of the Sound.
+
+These things being premised, or pre-supposed, you proceed to the Constitution
+of the Keys A and C, (p. 9. and p. 12.) where, by 9, 16, 10, you mean 1/^,
+1/16, 1/10, (which, I suppose, you so expressed, lest the small
+Fraction-figures should not be so easily seen and read.) And so, by 6, 4, 3, 2,
+(the portion of the String from the Nut to the Fret, for the Key A) you mean
+1/6, 1/4, 1/^, 1/2, (suitable to 3/^ and 4/9:) And (for the Key C) by 5, 4, 3,
+2, you mean 1/5, 1/4, 1/3, 1/^, (in the same sense with 2/^ and 7/15;)
+according the Exposition your self gives, page 9, 10, 11.
+
+I should rather have chosen to express the place of the Fret, by the length of
+the other part of the String, from the Bridge to the Fret, than from the Nut to
+the Fret: (For it is that, not this, that gives the Sound.) In this manner. 8 5
+3 2 5 5 1 A 8/9 B 15/16 C 9/10 D 8/9 E 15/16 F 8/9 G 9/10 a. 9 6 4 3 8 9 2 9 4
+3 2 3 8 1 C 9/10 D 8/^ E 1^/16 F 8/9 G 9/10 a 8/9 b 15/10 c. 10 5 4 3 5 15 2
+That is, from the Bridge to B, is 8/9 of what it is to A; and from the Bridge
+to C, is 15/16 of what it is to B: and so elsewhere. Again, from the Bridge to
+B, is 8/9 of that whole String; from the Bridge to C, is 1/6 of the whole. And
+so of the rest. But the sense is the same with that of yours.
+
+But herein I dissent from you; namely, whereas you say, C 10 D 9 E; I would
+rather say, C 9 D 10 E. That is, of fa sol la, I would make fa sol the bigger
+Tone, and sol la the lesser; at C D E, as well as at F G a. And then my
+Proportions would stand thus: 8 5 20 2 5 5 1 A 8/9 B 15/16 C 8/9 D 9/10 E 15/10
+F 8/9 G 9/10 a. 9 6 ^7 3 8 9 2 8 4 3 2 3 8 1 C 8/9 D 9/10 E 15/16 F 8/9 G 9/10
+a 8/9 b 15/16 c. 9 5 4 3 5 15 2
+
+The reason why you did otherwise at C D E, that at F G a, is (I presume) that
+A D might be a true Fourth to the Key A. Whereas otherwise 20/27 is a false
+Fourth. Though very near a true one: for 21/21 would be a true Fourth, being
+the same with 3/4.
+
+My Reasons to the contrary, are these. First, a Fourth (now a days) is scarce
+allowed as a good Concord; and therefore the less to be regarded: especially at
+this place. For, I suppose, it is not usual, from A the Key, to rise a Fourth
+at one step; but rather a Fifth, or a Third. And when from the Key you rise an
+Octave at two steps, the Fifth always begins, and the Fourth follows, (not
+first a Fourth, and then a Fifth:) For a Fifth being much the sweeter, this is
+first chosen; and the Fourth, which follows, (though not of it self so sweet)
+is helped by being an Octave to the Key; which is in fresh memory, as being the
+Sound last heard but one. (And of an Interval never used, we need have the less
+regard.) And if from any other place we move to D, the Note from whence we move
+(which was last heard) is more to be regarded, than the Key, which had not been
+heard for some while.
+
+And then, by preserving this Fourth at A D, you spoil a good Third (which is
+more considerable) at D F, and again at B D, and a fourth at D G, and a Fifth
+at D a, and again at G D; and so leave no place from whence to move to this D.
+And if perhaps you will say from d; at that it is as hard to come as at this D.
+So that your D will be of no use at all.
+
+And for such reasons, it was a Rule with the Greeks, that the two conjoined
+Tetrachords, mi fa sol la, at B C D E; and la fa sol la, at E F G a; should
+ever be divided in the same manner. For though they had their (...), (a
+Transite from one kind of dividing the Tetrachord to another;) yet they would
+have this Transite to be always at the Disjunctive Tone la mi. Allowing to the
+Tetrachord above it, a different division from that below it; but not a
+different division to the two conjunct Tetrachords above it.
+
+Again, if you make your Key at C, and thence sing fa sol la; it is most
+natural for the greater Tone to begin, and the lesser to follow. (Upon the same
+account as when we rise an Octave at twice, the Fifth leads, and the Fourth
+follows; and when at two steps we would rise a Fifth, it is most proper for the
+greater Third to begin, and the lesser to follow.) And therefore here, not to
+make fa sol the lesser Tone, and sol la the greater; but, that the greater, and
+this the lesser; as your self do at F G a.
+
+And if, for these reasons, you give the same division to C D E, that you do to
+F G a; it will relieve all those inconcinnous Intervals mentioned page 24.
+
+I have now done with the Constitution of your two Keys at A and C, (and indeed
+of any other Key) in the natural Constitution. And consequently, with all the
+Essential Flats and Sharps, which serve only to remove it to a higher or lower
+pitch, without changing the sequence of the Notes: And which are wont to be
+noted at the beginning of the Tune, so as to influence the whole, without
+repeating them at the several Notes.
+
+But, besides these, there are some Accidental Flats and Sharps, which occur in
+the middle of the Music, affecting some one Note. These you call Chromatick
+Half-notes, (p. 15. l 10, 20. p. 18. l. 16.) which, you say, are truly made by
+placing the Fret exactly in the middle between the two Frets of the Diatonick
+whole Note wherein it falls. Which is not so cautiously expressed as not to be
+liable to a mistake. The Reader, by exactly in the middle, will be apt to
+understand an Arithmetical middle: as for instance, if F G be an Inch, F F and
+F G should be each of them half an Inch. Or, a Geometrical middle, (which we
+call a mean Proportional;) as, if the proportion for F G be as 8 to 9, that for
+F F and F G should be as 28 to 29 (the square Root of 8 to the square Root of
+9.) Neither of which are your meaning. But you mean (I presume) a kind of
+Musical middle, which is thus to be taken: Suppos^^g the Proportion for F G to
+be as 8 to 9, that is, (doubling both numbers) as 16 to 18; this is to be
+divided by help of the middle number 17. So that the Proportion for F F shall
+be 16 to 17; and for F G, 17 to 18. Which, together, make F G as 16 to 18, or 8
+to 9. In like manner, if G a be as 9 to 10, that is as 18 to 20; then is G G as
+18 to 19, and G a as 19 to 20: which, together, make 18 to 20, or 9 to 10. And
+this, I presume, (though the Book be not at hand) is the meaning of Aristides
+at the place cited; and your meaning here. And this, I suppose, may do pretty
+well in most places.
+
+But if we would be exact, we must, in each place, consider, what is the
+particular design we aim at in such a Flat or Sharp; and make the division
+accordingly. As for instance, if to the Key A, instead of a lesser Sixth at F,
+I would have a greater Sixth at F; I must not so much aim at such equal
+division (or near-equal) of F G; as, to take out of it so much as will make E F
+a minor Tone, (whatever chance to be the remaining part to G.) Which will make
+for F F, (not 16 to 17, but) 24 to 25. (For this, with 15 to 16, for E F, will
+make that for E F as 9 to 10; and for A F as 3 to 5, a greater Sixth; instead
+of A F as 5 to 8, a lesser Sixth.) In like manner, if I would, from C, rise a
+Fourth to F, at two near-equal steps, (as when we rise an Eighth by a Fifth and
+Fourth; or a Fifth, by greater and lesser Third;) that is, if I would divide
+the Proportion of 3 to 4, or 6 to 8, into two near-equals; those are to be 6 to
+7, and 7 to 8: And therefore C D as 6 to 7, and D F as 7 to 8, (whatever chance
+thereby to be the division of DE.) And the like for other cases. So that for
+instance, the same D or F, as to different purposes, shall signify
+differently. And such Arts we must make use of, if we would revive the Greeks
+Chromatick and Enarmonick Music. But the Speculation is too nice for most of
+our present Practisers.
+
+To return therefore to our Diatonick Notes, in their Natural or Primitive
+Constitution, together with their Essential Sharps and Flats incident upon
+removing the Key to an higher or lower pitch: having once fixed their
+Proportions as to the Monochord, (as supposing them all set off upon one
+String;) it is easy to transfer them to as many Strings as you please, (by the
+substitution of a smaller String, instead of a shorter distance) as you direct,
+p. 12. l. 9. And from thence to the Finger-board, p. 17. l. 23. p. 19. l. 25.
+p. 21. l. 17.
+
+Nor do I take exception to any of your Numbers herein; save that I think D
+with its Octaves (or the Equivalent upon removing the Key to an higher or lower
+pitch) should be tuned somewhat sharper than you direct. And therefore you may,
+if you please, cause a Mark to be made for it, in each of your Finger-boards,
+(as is already done in that at Numb. VIII.) a little below yours, in such
+proportion as I have before directed: That so the Practiser may, at his
+discretion, make use of yours or mine, as his Ear shall direct him.
+
+Your Reader also may be advertised, That though your Measures be fitted, on
+the Plates, ( p. 21. l. 29.) to a String of 28 Inches; yet, on the Paper, they
+may chance to be somewhat less than so: For (being printed upon wet Paper) the
+Measures will shrink, as the Paper dries.
+
+And, because ( p. 18. l. 29.) you do not confine your Artificer to this Method
+(of distinct Finger-board) only; you will give me leave to propose another.
+Which is (without changing the Finger-board) to have the Frets, for each
+String, to slide up and down in a Groove, (whereby they may be removed from
+place to place as you please) with Lines or Marks on the Finger-board (of
+several Colors, as Black, White, Red, etc.) at the place where every Fret is
+to stand for each Tuning. By help of which, the Practiser may at pleasure set
+his Frets to any of these Tunings, (or to any other upon emergent occasion)
+with what exactness he please; as well as in any unfretted Instrument.
+
+Nor do we herein depart from the Ancients: For there are manifest places in
+Ptolomy, that their Frets ((...)) were movable, not in Tuning only, but even
+in Playing.
+
+FINIS.
+To the Reverend Mr. SALMON.
+Reverend,
+I Thank you for the great kindness of your Letter, of which I am altogether
+undeserving: And as for your good contrivance in the Art of Music, I wish that
+the use of the Masters of that Art may not hinder the best Method to obtain.
+However, you have left a Specimen to Posterity, of what might have been done;
+and also by this Present, much obliged,
+
+Reverend, Your Humble and Affectionate Servant, E. BERNARD.
+Oxon. Dec. 15. 1687.
+A Catalogue of Books, Printed for, and Sold by John Lawrence, at the Angel in
+the Poultrey, Bookseller.
+GELL's Remains: being sundry Pious and Learned Notes and Observations on the
+New Testament, Opening and Explaining it: Wherein JESUS CHRIST, as yesterday,
+to day, and the same for ever, is Illustrated. By that Learned and Judicious
+man Dr. R. Gell, late Rector of St. Mary Aldermary, London. In Folio.
+
+The History of the Affairs of Europe in this Present Age; but more
+particularly of the Republic of Venice. Written in Italian by Battisti Nani,
+Cavalier and Procurator of St. Mark. Englished by Sir Robert Honeywood, Knight.
+Folio.
+
+The Merchant Royal. A Sermon preached before the King at the Nuptials of an
+Honorable Lord and his Lady. Quarto.
+
+Several Excellent Discourses: viz. 1. Of Purity and Verity. 2. Of Repentance.
+3. Of seeking first the Kingdom of God. By that Eminent Divine Hezekiah Burton,
+D. D. late Rector of Barns near London, and Prebendary of Norwich. Published by
+the Reverend Doctor Tillotson, Dean of Canterbury. Octavo.
+
+The Antiquity of China: or, an Historical Essay, endeavoring a Probability
+that the Language of the Empire of China is the Primitive Language spoken
+through the whole World, before the Confusion of Babel. Wherein the Customs and
+Manners of the Chineans are presented, and Ancient and Modern Authors consulted
+with. By John Webb of Burleigh in the County of Somerset, Esquire Octavo.
+
+A Relation of the Invasion and Conquest of Florida by the Spaniards, under the
+Command of Fernando de Soto. Written in Portuguese by a Gentleman of the Town
+of Elvas. Now Englished. To which is subjoyned two Journeys of the present
+Emperor of China into Tartary, in the Years 1682, and 1683. With some
+Discoveries made by the Spaniards in the Island of California in the Year 1683.
+In Octavo.
+
+The Life and Actions of the late Renowned Prelate and Soldier Chr. Bernard
+van Gale, Bishop of Munster, Prince of the holy Empire, etc. In which is an
+Account of the most considerable Actions of Europe in his time. In Octavo.
+
+The Triumphs of Grace: or, the last Words and Edifying Death of the Lady
+Margaret de la Musse, a Noble French Lady, who died in May 1681, aged but
+Sixteen Years. In Twelves.
+
+

@@ -1,0 +1,3619 @@
+THE ELEMENTS OF LOGIC By PETER DV MOVLIN.
+
+Translated out of the French Copy by NATHANAEL DE-LAVVNE, Bachelour of Arts
+in Cambridge.
+
+With the Authors approbation.
+
+LONDON, Printed by I. D. for Nicholas Bourne, at the Royal Exchange. 1624.
+
+TO THE RIGHT Worshipful, Robert Debney, Esquire, Mayor of the City of
+Norwich, Sir Thomas Hyrne, Knight, Sir Peter Gleane, Knight, and the rest of
+the Worshipful Justices of Peace, with the Sherifs and Aldermen of the City
+of Norwich.
+Right Worshipful and right Worthy SENATORS;
+SOme ignorant People imagining Logic to be nothing else but a kind of
+Sophistry to deceive the simple, have not spared to cast aspersions upon this
+noble Art, and also upon the public Schools where it is taught; affirming
+that such as were sent thither did but learn to turn white into black, and
+black into white, to serve their own purposes, and to make people believe what
+they list. I wish that such men would take the pains to read over this Book,
+or at least consider but the definition and nature of Logic here set down in
+the very first lines of the same, and then I suppose they will easily perceive
+that they have but small reason to speak against the rule of reason. The best
+things may be abused; and so may Logic by a contentious caviling spirit: but
+the fault is not to be imputed to the thing, no more then drunkenness to good
+Wine; but to the person, as good meats are corrupted by a bad stomach, or
+sweet oil by a stinking vessel For Logic teaches not to practice quirkes
+and deceits, but to discover and avoyde them; as the last lines of this book
+do show. All Judicious Authors both sacred and profane have ever honored
+this Art, and endowed it with right noble Titles. They have styled it the Art
+of Arts, the science of sciences, Dounhami Orat: ad auditores.
+the learning of learnings, the chief of all knowledges, the instrument of
+instruments, the hand of Philosophy, an Art sent from God, yea and said that
+God himself is (...), the best Logician: for indeed He is the best and truest
+Rule of all reason and understanding. Which being that faculty that Logic
+labors to perfect, this Art is so much more excellent then all other Arts
+and Sciences, by how much the understanding surpasses other faculties and
+powers of soul and body. It is the mould and frame into the which all other
+Arts and Professions must be cast, and without which they are no arts. It
+frames it self and them, and tries them all by the infallible Rules of Truth,
+Justice, and Prudence, termed by the Greeks (...), and (...). It is the lively
+spring of invention, the tribunal of judgment, and the best Art of memory.
+And say that a man be of the soundest brain and best natural parts that can
+be, yet he may be bettered by this Art of Logic. For Art perfects Nature. And
+indeed without this help, nothing can be so wittily and readily invented, nor
+so truly and confidently affirmed, nor so methodically and orderly disposed,
+nor so well and safely remembered. This is the only Art which diving into the
+depth of man's understanding, teaches how to teach, and how to learn, and
+makes a man know that he knows; as the eye sees that it does see, by
+reflection upon a looking Glass.
+
+Now considering that every man has a special interest in the use of natural
+reason, why should any man envy another the sight and knowledge of this Art,
+which should direct it. The learned Author having long since published a very
+excellent Logic in Latin for the Schools, has notwithstanding thought it not
+amiss to give his Countrymen this other in their vulgar Language. I hope
+therefore that sheltring my self under the Shield of so judicious a Precedent,
+I shall easily escape the darts of such as would carpe at this my Translation
+of it out of the French into English; seeing it may as well profit the English
+as the French. And howsoever our Country wanted not this Art already in
+English, yet the more Candles the better light. I will not here enter upon the
+commendation of this learned man, or of his Work: I should but lessen his
+worth by the meaness of my person and skill, and as it were light a Candle to
+the Sun.
+
+I had rather turn my speech unto You, (worthy Senators,) unto whom I have
+emboldened my self to Dedicate these first fruits of my Studies, humbly
+entreating your Worships to accept of this my poor labor, as a public
+testimony of my desire to be thankful unto you all, for that it pleased your
+worthy Senatehouse to choose me out of your Grammar Free-Schoole, and to send
+me as your poor Scholar to Corpus Christi College in Cambridge in the year
+1618. Thus craving pardon for my boldness, hoping your kind acceptance, I
+shall still pray for your Worships long lives, and happy government of this
+famous City, resting
+
+Your Worships in all Christian duty to be commanded, NATHANAEL DE-LAVVNE.
+
+The Authors Epistle. TO MY LORD FREDERICK MAVRICE de la Tour, Prince of Sedan;
+Son and heir of the high and mighty Prince HENRY de de Tour, Duke of
+Bouillon, first Marshall of FRANCE, etc.
+MY LORD,
+That which the hand is among Instruments, the same is Logic among other Arts
+and Sciences. For as the hand is a general Instrument that handles all other
+instruments: So Logic is a general Instrument, the knowledge whereof serves
+to handle all other knowledges, and to make a skillful use of them. And as it
+is the property of Art to polish and perfect Nature: So it is the property of
+this Art to polish and direct natural reason. For there is a certain natural
+Logic, which man uses naturally, without any art; even the unlearned sort
+will sometimes make a Syllogism unawares. But Philosophy, having searched out
+all the secrets of natural reason, has observed the causes of a good
+Discourse, and has set down rules to that purpose,
+
+Wherein appears the excellency of this Art above the rest. For seeing that
+man is discerned from a beast by the use of reason: other Arts and Sciences
+frame man as he is a Citizen, or a Magistrate, or a Lawyer, or a Physician; but
+Logic frames man as he is man, and makes him after a sort a more reasonable
+creature by the right use of reason.
+
+But this Art has chanced to fall into bad hands, that have robbed it of her
+natural ornaments, and by a strange Metamorphosis have turned it into a faggot
+of dry thorns, which pricketh on every side; and in stead of drawing the rules
+thereof from natural reason, and fitting them for the use of man; they have
+entangled it with Metaphysicall questions, which are like unto Crabs, where
+there is much pickling, but little meat, and are for no use, neither civil,
+nor religious.
+
+This inveterate evil, which by custom is turned into nature, would require a
+skilfuller Physician, and a quieter mind then mine is now, and a calmer season
+then this wherein we are. Notwithstanding being cast upon this place by the
+tempest, as a planke of the general shipwreck, and brought to a sorrowful
+rest, I have bestowed certain hours upon this Work, and have endeavored to
+give a milder look and countenance to this Art, plucking those thorns from
+it, which it had gotten in the Schools; and clothing it with a French habit,
+that it might no longer walk in France like a stranger. For these many Ages
+past it has been commonly taught in a most barbarous and thornie Latin, as if
+sweetness and elegancie could not stand together with soliditie.
+
+If the public receive any benefit out of this my labor, it shall be wholly
+beholding to my Lord the Duke your Father for it. Who having received me into
+his house, and given me a favorable entertainment, with all kind of respect
+and benefits, has exhorted me to undertake this task, and to teach you the
+Precepts thereof; wherein I have taken a singular delight. For, besides that it
+was a great honor to me to do you any service, it has also given me the
+occasion to try your wit; which I have observed to be endowed with a strong
+imagination, and a solid judgment, and which is not discouraged through
+difficulties: and by a laudable curiosity will not be satisfied but with
+reason, and where the same is not evident enough, mooveth doubts of it self.
+Whence it is easy to conceive how great the dexterity of your wit will be,
+when time and necessity shall give you occasion to make use of it in things of
+a higher and more important nature.
+
+The fear of God being joined to this so quick and judicious a spirit, which
+has planted in your heart a hatred of vice, and moved it with a holy
+ambition, to consecrate your life to the service of God, what may we not hope
+of such a disposition, which God has so great^y favored? especially
+considering that you are brought up in a family, whence all bad examples, and
+all idle words are banished, and where the service of God is carefully
+maintained: and have before your eyes the example of my Lord your Father, who
+among Princes is a notable pattern of wisdom, of great experience, of
+singular understanding, and of wise government: whose courage rouseth it self
+against adversity, and whose mind is not daunted through affliction. To whom
+nature has given more than others have gotten by study and industry, having
+a natural facility to compass that, which others by long meditation cannot
+attain unto. Whose words are to you as dai^y lessons, and his wise actions as
+a continual pattern.
+
+He it is from whom you have received, that Learning is a goodly ornament to a
+Prince. Because he that guides others must have the clearer sight; and that he
+must have most knowledge, that has most employment. There being nothing more
+unbeseeming a Prince, then, to be inferior to the most part of his Subjects
+in understanding and good knowledge, and to owe all the preferment he has to
+his birth, and nothing to his virtue; and who to judge aright of things, must
+search into another man's brain for that which he should find in his own.
+This happens unto such Princes as have spent all their younger years in
+learning how to manage horses, rather then to govern the minds of men, who
+are creatures a thousand times more unruly and untamed. Whose outword behavior
+is taught, whilst their souls are left untaught: who employ months and
+years in hunting after wild beasts, whilst they themselves are caught by
+domestical beasts, that is to say, by flatterers, that entangle them in vices.
+Who are taught to live, as if their Subjects were made for them, whereas they
+are made for the good of their Subjects; and to remember that they are Princes,
+but not to call to mind, that they are men subject to the same infirmities:
+and that having received of God more graces then others, they have the greater
+account to give up unto him; and that being the image of God upon earth, they
+ought to strive to be like unto him, not only in Justice, clemency,
+liberality, and foresight; but chiefly in that GOD reigns over his
+Subjects, not for his own good, but for theirs.
+
+Now when I speak of Learning, I do not mean a laborious knowledge, busying
+it self about words or swelling Discourses, or about heaping up of much Latin.
+But I am of opinion that the true learning of a Prince consists in the
+knowledge of God, and of the world, and of himself, and of the affairs of his
+own Estate and of his neighbors; and to be a Scholar of the dead, I mean, to
+search in Histories the examples of wisdom; and to learn the trade of a
+Prince, which is the hardest of all. Because it is a hard matter to walk
+steadily upon the top of a very high place, the brain of him easily turning
+that is very high mounted. And also because the actions of Princes are most
+controuled, and their life most crossed, and their faults most exposed to view,
+and that they authorize vices by their example.
+
+These instructions, my Lord, are familiar unto you, and you want no
+domestical helps. Notwithstanding I have thought that you would not take it
+amiss, if I endeavored to contribute somewhat thereunto: and that by this my
+labor, as by a small evidence, I should testify my acknowledgment of the
+honor which I have received of my Lord your Father, and how earnestly I pray
+unto GOD for the prosperity of your most illustrious house, and more
+particularly for your self, my Lord, as being
+
+Your most humble and most obedient servant, DV MOVLIN.
+
+A Table of the Chapters.
+The first Book, which treats of SIMPLE NOTIONS.
+Chapter. 1. WHat Logic is. How many sorts of Notions there be in the mind of
+man. Page. 1. Chapter. 2. How many sorts of Simple Notions. Of Singulars and
+vniversals. Also of Substance and Accident. Page. 2. Chapter. 3. The names of
+the ten Categories. Page. 6. Chapter. 4. Of Substance. Page. 7. Chapter. 5.
+Of Quantity. Page. 9. Chapter. 6. Of Quality. Page. 13. Chapter. 7. Of
+Relation and Relatiues. Page. 18. Chapter. 8. Of Acting or Action. Page. 22.
+Chapter. 9. Of Suffering or Passion. Page. 25. Chapter. 10. Of Where. Page. 26.
+Chapter. 11. Of When. Page. 28. Chapter. 12. Of Situation. Page. 29. Chapter.
+13. Of Habit. Page. 29.
+The second Book. Of the places of Invention.
+Chapter. 1. HOw these Simple Notions are of use for an argument. Page. 31.
+Chapter. 2. Of the Genus. Page. 33. Chapter. 3. Of the Species. Page. 36.
+Chapter. 4. Of the difference. Page. 38. Chapter. 5. Of Proper. Page. 39.
+Chapter. 6. Of the Accident. Page. 41. Chapter. 7. Of the Whole and Parts.
+Page. 43. Chapter. 8. Of Definition. Page. 48. Chapter. 9. Of Division. Page.
+52. Chapter. 10. Of things coupled, called in Latin Coniugata. Page. 55.
+Chapter. 11. Of Cau^es and Effects. Page. 57. Chapter. 12. Of Etymol^gie. Page.
+69. Chapter. 13. Of things Alike or unlike. Page. 71. Chapter. 14. Of things
+Opposite. Page. 75. Chapter. 15. Comparison of things. Page. 82. Chapter. 16.
+Comparison of the Probability, or Likelihood. Page. 85. Chapter. 17. Of
+testimony. Page. 88. Chapter. 18. Of the Use or Practice of the Precedent
+Doctrine. Page. 91.
+The third Book. Of Enuntiations.
+Chapter. ^. What an Enuntiation is, and the parts thereof. Page. 105.
+Chapter. ^. Of the kinds of Enuntiation. Page. 109. Chapter. ^. Of the
+Opposition of Enuntiations. Page. 113. Chapter. 4. Of the Conversion of
+Enuntiations. Page. 117.
+The fourth Book. Of a Syllogism.
+Chapter. 1. WHat a Syllogism is. Also what a Conclusion is, and a Question or
+Problem, and of the parts thereof. Page. 121. Chapter. 2. How to make a
+Syllogism, and of the parts of it. Page. 123. Chapter. 3. The natural reason
+upon which a Syllogism is grounded. Page. 126. Chapter. 4. Of the Figures of a
+Syllogism. Page. 127. Chapter. 5. General Rules common to all Figures. Page.
+128. Chapter. 6. Particular Rules to each Figure. Page. 134. Chapter. 7.
+Certain Artificial words, which serve to show how many ways we may argue in
+each Figure, and the means to convert the second and third figure into the
+first. Page. 142. Chapter. 8. Of an Enthymeme. Page. 146. Chapter. 9. Of
+Induction and Example. Page. 148. Chapter. 10. Of the Enumeration of parts.
+Page. 150. Chapter. 11. Of a Dilemma. Page. 152. Chapter. 12. Of a Sorites or
+heaping Syllogism. Page. 154. Chapter. 13. Of Conditional or Hypotheticall
+Syllogismes. Page. 155. Chapter. 14. Of Disjunctiue Syllogismes. Page. 157.
+The fifth Book. Of the Masterpiece of Logic called DEMONSTRATION.
+Chapter. 1. What Science is. Page. 161. Chapter. 2. What a Demonstration, or
+a Demonstratiue Syllogism is. Pages. 163. Chapters. 3. What questions are
+demonstrable. Pages. 164. Chapter. 4. What the propositions of a demonstratiue
+Syllogism ought to be. Page. 166. Chapters. 5. A special note how to know a
+perfect demonstration. Pages. 169. Chapters. 6. Of an Imperfect demonstration.
+Pages. 170.
+The sixth Book. Of Sophismes or Fallacies.
+Chapters. 1. OF Fallacies in words. Pages. 175. Chapters. 2. Of fallacies in
+the matter. Pages. 181. Chapters. 3. The fallacy by Accident. Pages. 182.
+Chapters. 4. The fallacy which takes a thing as simply true which is not so,
+but only in some respect. Pages. 183. Chapters. 5. The fallacy supposing that
+which is questioned. Pages. 184. Chapters. 6. The fallacy of Inconsequence.
+Pages. 184. Chapters. 7. The fallacy whereby a thing is taken for a cause,
+which is not. Pages. 186. Chapters. 8. The fallacy which mingleth many
+Interrogations, as if they were but one. Pages. 187. Chapters. 9. The fallacy
+which is committed through the Ignorance of that, which contradicts the
+question. Pages. 188. Chapters. 10. Of the faults in Syllogismes. Pages. 190.
+ERRATA.
+PAge 42. line 19. for by blunt horns, read by the blunt horns. p. 49. l.
+23. for Now, r. None. p. 50. l. 13. for ana xe, read an axe. page 55. between
+line 10. and 11. put Accidents into other Accidents. p. 80. l. 7. for certain,
+r. contrary.
+
+THE ELEMENTS OF LOGIC.
+The first Book, which treats OF SIMPLE NOTIONS.
+The first Chapter. What Logic is. How many sorts of Notions there be in the
+mind of man.
+LOGIC is an Art which gives rules to argue well, and to discern truth from
+falsehood.
+
+To be able to form an argument, and to frame a good reason, we must know, that
+all the Notions or Conceptions in man's understanding are, either Simple, or
+Compound.
+
+Simple Notions are such, as are expressed by one word only; As, horse, man,
+whitenes, to see, to run, etc.
+
+Compound Notions are such, as are expressed by an Enuntiation or Proposition,
+which affirms or denies something; As, Man is reasonable. God is no liar.
+
+Of many Propositions knit together, an Argument or Syllogism is: made, by
+those means and rules, which shall be set down hereafter.
+
+The second Chapter. How many sorts of simple Notions there are. Of Things
+singular and universal. Also of Substance and Accident.
+THere are as many simple Notions as there be things in the world.
+
+Of Things some be singular, and some universal.
+
+Singular things are those, which are one in Number; As, Frederick, Peter, this
+horse, this tree.
+
+Universal things comprehend and contain the Singulars. For an universal is
+a gathering together of many Singulars under one nature common to all. As,
+horse, man, tree, under which words considered in general, we comprehend all
+horses, men, trees.
+
+Singulars are known by sense, but vniversals are comprehended by the
+understanding. Therefore bruit beasts know only Singular things. Singulars in
+Philosophy are called Individuals, because they cannot be divided into two
+parts, keeping the same name. As, Alexander cannot be divided into two
+Alexanders, nor one horse into two horses.
+
+A whole compounded of parts alike; As, water, blood, wood, are not called
+Individuals, because they may be divided into parts, which may keep the name
+of the whole. For every drop of water is water, and of a great piece of wood
+every parcel is wood. But if you will turn these things into Individuals, you
+must add the name of the measure. For one pint of water cannot be divided into
+two pintes, nor one acre of ground into two acres.
+
+All things, whether Singular or Universal, are either Substances, or
+Accidents.
+
+A Substance is that which subsisteth of it self; as, man, water, earth, etc.
+
+An Accident is that which cannot subsist by it self, but must have a subject
+or substance to uphold it, and unto which it must adhere; as, whitenes,
+swiftnes, wisdom, heat. For whitenes can have no being, if it subsisteth not
+in some subject; as, in snow, or in the skin: so heat is an accident to fire;
+swiftnes is an accident to an horse; wisdom is an accident to the
+understanding.
+
+Accidents are sometimes expressed by a Substantive; as, justice, beauty; and
+sometimes by an Adjectiue; as, just, fair. In the first manner, accidents are
+called Abstracts, or Separated; In the second, they are called Concretes, or
+Conjoined. For he that names justice, or beauty, considers justice or beauty
+without any certain Subject. But he that names just or ^^ire, considers
+justice and beauty, as ^dhering to a certain Subject that is clothed
+therewith.
+
+Common custom often confounds ^hese things, saying, the true, the ^lack the
+sweet; in stead of saying, the truth, the blacknes, the sweetness.
+
+Now because there are diverse and ^undry kinds of accidents, the Phi^osophers
+have ranked them into ^ine Orders or Classes of things; unto which Substance
+being added, ^here are ten Classes, which the Phi^osophers call Categories or
+Predi^aments. So that there is nothing in ^he world which is done either by
+Nature, or by Art, by Council or Chance, which may not be referred ^o, and
+contained in some one of ^hese Categories.
+
+The third Chapter. The Names of the ten Categories.
+The ten Categories are these.
+
+1. Substance; as, man, horse. 2. Quantity; as, length, breadth. 3. Quality;
+as, swiftness, whiteness, roundnesse. 4. Relation or Respect; as, to be a
+Father, or a Son, a Master, or a Servant, etc. 5. To Act, or Action; as, to
+run, to speak. 6. To Suffer, or Passion; as to be driven, to be burned. 7.
+Where; as, here, there. 8. When; as, yesterday, to day. 9. Situation; as, to
+sit, to stand, to kneel. 10. Habit; as, to have a cap on, to have hose on, to
+have a cloak on.
+The fourth Chapter. Of Substance.
+SVbstance is that which subsisteth of it self, and is the subject of all
+Accidents.
+
+Singular Substances, are called, Primary Substances.
+
+Universal Substances, are called Secondary Substances. Because that ^ingular
+substances are first known. So children that have no knowledge but by sense,
+wanting yet the use of reason, know nothing but singular things. This knowledge
+is common unto us with bruit beasts. But afterward reason gathering diverse
+Singulars together, comprehends them under Universal things.
+
+The Sun, the World, the Moon, are primary and singular Substances; yet in
+regard that they have a nature and essence, which might agree with many, if it
+so pleased God, they are also secondary substances.
+
+All substances are either vncreate^ or created: the uncreated substance i^
+God, all other are created.
+
+Created substances are clothed with accidents: but God has no accident. For
+he is simple, and not compounded: his Attributes being his own proper
+essence, which we^ distinguish in regard of their diverse effects; but in truth
+they are but one and the self same thing.
+
+Of created substances, some are Immateriall, as, Angels and Spirits; others
+are Material, namely, Such as have bodies, whereof here is a more exact
+Division.
+
+The Table of Substances.
+Substance is either Uncreated, as God. Created Immateriall Angels. Separated
+souls.
+Material, called bodies Simple, as Heaven. The four elements. Fire. Air.
+Water. Earth.
+
+Compound Perfectly Living Plants, as Herbs. Shrubs. Trees.
+Animals Man. Beast Perfect, which have five senses, and are either Airie
+Birds. Insecta, as Flies.
+Earthy Creeping things. Four footed beasts.
+Waterie. Amphybia, that is, of a doubtful kind.
+Imperfect, are such as want some of the senses, as, Oysters. Zoophyta, or
+Plant-Animals.
+
+
+
+Not living as Stones. Minerals.
+
+Imperfectly, which are called Meteors, as, Comets, Winds, Snow, Ice, etc.
+
+
+
+
+Place this Table of Substances between Page 8 and 9 at this hand
+
+There can be nothing contrary to substance. Also, no substance is more
+substance then another, as, one horse is not more a horse then another,
+although it be a better horse. True it is that God and the Devil are
+substances, and that there is a contrariety between them. As also fire is
+contrary to water; but this contrariety is not in the substance, but in the
+will of the Divel's, and in the quality of fire and water.
+
+The fifth Chapter. Of Quantity.
+QVantitie is that by which Substances are numbered, measured, or divided; and
+by which they are equal, or unequal.
+
+There be two sorts of Quantity.
+
+The one is compounded of severed and disjoined parts, and therefore is called
+disjoined Quantity.
+
+The other is compounded of continued parts, and therefore is called continued
+Quantity.
+
+Quantity disjoined or severed is called Number, because the parts have
+between them no Continuitie. This Quantity cannot be measured, but must be
+numbered.
+
+Number is of two sorts; either numbering, or numbered.
+
+Numbers numbering are the numbers of Arithmetic, as, one, three, six, etc.
+Numbers numbered are the things that are numbered, as, six men, ten horses, etc.
+
+Sometimes the number numbered stands in stead of the number numbering, as,
+Counters.
+
+Unity is no number, but the beginning of number.
+
+The greatest number of all cannot be found or imagined. For a man may still
+add to the greatest number that can be given.
+
+Continued Quantity is that whose parts are joined together with a continued
+sequel, and which may be measured. This Quantity is either, a Line, or a
+Superficies, or a Mathematical body, or Time.
+
+A Line is a length without breadth, as, a mile, a meating wand.
+
+Superficies is a length with breadth, as, the surface of the water, or of an
+acre of Land.
+
+Under the Superficies we comprehend also the Place, which is nothing else but
+the interior Superficies of a body, containing another, as, the inward
+Superficies of a Hogs-head of Wine, is the place of the Wine.
+
+A Mathematical body is length, breadth, and depth; this body differs from a
+Physical or natural body, which is a material substance, and not a
+quantity. Notwithstanding every natural body has these three dimensions,
+and cannot be without quantity.
+
+Time is the measure of the continuance of things. This measure is taken from
+the motion of the heavens, which makes days and years.
+
+Time has two parts, namely, past, and to come: as for the present it is not
+time, but it is the instant or running moment, which coupleth together the time
+past, with the time to come.
+
+The continuance of God is not called time, but Eternity, which consists in
+two things. First to have neither beginning nor ending. Secondly, not to pass
+away, nor to have succession of parts. For the life of God consists in rest:
+because that if the life of God had a flux, or succession of parts, his life
+were partly past, and partly to come.
+
+As Unity is neither number nor quantity, so a Prick is neither quantity,
+nor part of a line: as also a moment is no part of time, but the end or
+extremity of time past.
+
+Number is ancienter then continued quantity, as it appears by the number of
+the Persons in the Trinity, which is eternal and without beginning of time.
+But continued quantity had a beginning with the creation of bodies.
+
+Again, number may be counted by it self, and without any other help, but
+continued quantity cannot be measured but by the help of the discontinued
+quantity. For every length or breadth is measured by the num^ring of the feet,
+or inches, or metingwands, or miles, or degrees.
+
+Nothing is contrary unto quantity. For great and little are not contraries,
+but Relatiues or Respectiues; and one contains the other, which cannot be in
+contraries. The less number is contained under the greater, and is part of it:
+But heat is no part of ^olde.
+
+The Table of Quantity.
+Quantity is either Discontinued, which is called Number Numbering Numbered.
+Continued A Line. A Superficies. A Body. Time.
+
+
+The sixth Chapter. Of Quality.
+QValitie is that whereby substances are qualified, and made like or unlike one
+to another. For as things are said to be the same things, when they have one
+self same substance and equal when they agree in quantity: so they are said
+to be alike, when they agree in quality.
+
+There are four sorts of Qualities. 1. For they are either Active qualities,
+which be in the objects of our outward or inward senses, and bring unto us some
+alteration or change in our bodies, or minds, as, sweetness in honey, coldness in
+snow, beauty in a face, hardness or roughnes in a stone, or in a body, which
+hurts the sense of touching, delight in a Comedy. The effects which these
+qualities do work in us are called Passion, whilst it is received. For when
+the smart of burning is over, the mark or blacknes that remains, is no
+longer called Passion.
+
+2. Or else they be natural qualities or faculties, as, the virtue of herbs,
+the faculties of the soul, heavines in lead, heat in fire, and coldness in
+water.
+
+3. Or else they be habits, or qualities gotten by study and exercise, as all
+Arts are, whether mechanical or liberal; and all Sciences. Which when ^ man
+has attained unto, and gotten ^ habit of them, he is thereby made the fitter
+for any action or exercise.
+
+Bruit beasts that have hearing, as, dogs, horses, apes, etc. are capable to
+get a habit, if fear do not hinder them. For such creatures as are
+excessiuely ^imerous cannot be taught, as, mice, etc.
+
+The instruments by which the habit is put into practice may be lost, and yet
+the habit remain still, as, the skill of playing on the Lute, when the hand is
+cut off.
+
+The preparation to a habit is called Disposition, which is when a man has not
+as yet gotten a habit, but is in the way to it, and has besides his
+inclination some little knowledge.
+
+Natural faculties are great helps to get and form a habit. For he that by
+nature is unfit to any Art or study, can never attain unto a perfection,
+whatsoever pains he takes in it. 4. Or else they are Figures and outward
+forms, as, to be square, round, sharp, crooked, wrong, straight.
+
+Qualities are contrary one to another, as, heat, and coldness. And natural
+powers are contrary to impotencie, as, sight to blindness, hearing to deafenes.
+Only Figures and outward forms have no contraries. For roundnes differs
+from squarenes, but is not contrary unto it.
+
+To judge aright of any quality, it must be considered in the abstract, and as
+not being tied to any certain subject: So justice or whitenes are to be
+considered in themselves, and not the just or the white. Because the
+consideration of the subject in the which justice or whitenes are inherent, do
+but trouble and divert man's thought. Therefore if you will consider a thing
+aright, you must consider it apart and separated.
+
+One substance can have but one quantity, but it may have a great number of
+diverse qualities.
+
+Qualities do act, but quantities do not, only they do help the action of
+the quality, as, the greatness of a stone increases the weight of it.
+
+A Spirit has qualities, but no quantities.
+
+The excellency of quality above quantity, consists principally in that the
+quantity proceeds from the matter, but the quality from the form. Now the
+form is ever more excellent then the matter. For by the form things are made
+fit to act; but matter is that which makes them apt to suffer.
+
+Form and Figure act not, but they help and facilitate the action of him that
+acts, as, the roundnes of a stone makes it to roll the easier.
+
+The Table of Quality.
+Qualities are 1. Such as act against the senses Outward. Inward.
+2. Natural power or impotencie. 3. Habits, whose beginning is called
+Disposition. 4. Outward forms and figures.
+
+The seventh Chapter. Of Relation and Relatiues.
+RElatiues are two things which have a mutual respect one to another, so as
+the one cannot be without the other, and the one is defined by the other,
+neither can the one be thought upon without thinking upon the other, as, the
+Father and the Son, the Prince and the Subjects, the master and the servant,
+the double and the half, the equal and the equal.
+
+The mutual respect between these two things is called Relation. There be many
+Relatiues which have the self same name, as, friend and friend, like and like,
+equal and equal.
+
+The relation between two friends is called friendship; the relation between
+two things alike, is called resemblance or likeness.
+
+There be relatiues whose relation is imperfect, namely, when one of the two
+relatiues depends on the other, and cannot be without it, but the other may
+well be alone, and depends not on his relative, as, the Pastor and the flock,
+the Prince and the people, the sight and the thing visible. For there may be
+people without a Prince, but no Prince without people.
+
+There be also relatiues, which are not relatiues in their own nature, but
+only in regard of us, and because we make them so to be by our conceiving of
+them: as, the right and the left between two walls, or two trees: but if we
+turn our selves, then that which was left, is right. For in a tree there is
+neither right nor left by nature.
+
+If a Father have many sons, there are as many sundry relations, as there be
+sons; because the Father is taken diverse times as is the center of a Circle,
+which is taken as often as the lines are drawn from the said center to the
+circumference.
+
+One and the same thing may have the name of two relatiues; as, to be Father
+and Son, to be high and low; but in diverse respects. For the same may be
+Father to one, and Son to another.
+
+There be relations which spring from quantity, as, the relation which is
+between the double and the half; Others that proceed from Quality, as, the
+relation between two friends. Others which come from Action, as, the relation
+between the mother and the son, the Creator and the creature. Others that
+spring from Situation, as, the right and left, the high and low, the foremost,
+and the hindermost; between which Relatiues the relation has no name.
+
+We call that foremost in living things, toward which the natural motion is
+made; we call right that part which naturally is fittest for service. In a
+living creature we call that part high, by which the nourishment is drawn; as,
+in Plants, the root is the highest part, not in regard of the universe, but in
+regard of the Plant.
+
+Such relations as are grounded upon quality, admit of contrariety, as,
+friendship, likeness: other relations admit of none.
+
+In relations grounded upon action, as between that which heateth, and that
+which is heated, there is no contrariety. For that which heateth, and that
+which cools are contraries; but this contrariety proceeds from the quality,
+namely, heat, which is the ground of this relation.
+
+Friendship, as it is an affection moving the lover, is a quality; but as it
+is a mutual respect between two friends, it is a Relation.
+
+Although God, as he is Master and Creator, be a relative to his servants and
+creatures, there is not for all that any accident in God: because the relation
+is not in the two relatiues, but between the two relatiues. And therefore it
+brings in no composition, nor to the substance any natural change.
+
+It is to be noted that two relatiues are commonly called the two terms of the
+relation.
+
+The Table of Relatiues.
+Relatiues are Either of their own nature Perfect having the same names. diverse
+names.
+Imperfect.
+Or only in regard of us. All these relatiues are grounded upon Quantity.
+Quality. Action. Situation.
+
+
+The eight Chapter. Of Acting or Action.
+TO Act is to move it self against the patient, and to make it receive the
+power of the Agent.
+
+Of Actions some be natural, as, the panting of the heart, the motion of a
+stone downward. Others are voluntary, as, to buy, to sell, to paint, to fence;
+which notwithstanding are not done without the help of nature. Others are
+mixed, that is to say, partly natural, partly voluntary: as, to eat, to walk,
+to run; which indeed are natural actions, but are guided by the will.
+
+Violent actions and against nature, are such as are contrary to natural
+actions, as, the throwing of a stone upward. But those are contrary to
+voluntary actions, which are called forced or constrained, as, to be pulled or
+haled into prison. There be certain actions that are partly voluntary, partly
+forced, as, when a Merchant casts his merchandise into the Sea to ease the
+ship; or when a Patient causes his arm to be cut off.
+
+The natural actions and motions are swiftest in the end; as, the falling of a
+stone downward. The voluntary actions are swiftest in the midst; as,
+running. The violent are swiftest in the beginning; as, the casting of a stone;
+or, shooting of an arrow.
+
+Every action imports a certain motion. If the motion be in the substance,
+it is called Generation, or Corruption. If in the Quantity, it is called
+Augmentation or Diminution. If in the Quality, it is called Alteration. If in
+the place, it is called Local motion, or Transportation.
+
+There is no generation without corruption, nor no corruption without
+generation. But we call it generation, when the matter takes a better form;
+and corruption, when it passes into a worser.
+
+The local motion is the chiefest of all motions, without which the rest move
+not at all. And besides there is no other motion belonging to the heavens;
+where motion is the cause of all other motions, as well in Substance, as in
+Quantity, and Quality.
+
+The heavens in regard of the whole do rest, but in regard of the parts, do
+change place, even as a Top that sleeps turning.
+
+The Table of Actions.
+Actions are Natural. Voluntary. Mixed. Violent.
+
+The Table of Motion.
+Motion is on the Substance, and is called Generation. Corruption.
+Quantity, and is called Augmentation. Diminution.
+Quality, and is called Alteration. Place, and is called Transporting or
+Local-motion.
+
+The ninth Chapter. Of Suffering or Passion.
+TO Suffer is to receive the power of the Agent.
+
+There are as many kinds of Suffering, as of doing.
+
+Oftentimes the Agent does suffer in acting, as, when a man rolling a weighty
+stone tireth himself, and sweateth: or when a man hurts his teeth in
+cracking a Nut. The Agent does not suffer, when it is out of the compass of
+the Activitie of the Patient, as, the Sun shining on the water, receives not
+the brightness which the water send's back: because it is out of the extent,
+which limiteth the reflection of the beams sent back again by the water.
+
+God acts always, and every where, but never suffers.
+
+There are Verbs Actiues in Grammar, which are Passiues in Philosophy, as, to
+love, to hear, to learn: for all these are Passions, and are done by
+receiving. On the contrary, he which is loved or heard, is he that acts and
+moves the lover and the hearer.
+
+There are some Passions perfecting, and others which are corrupting, as, the
+inlightning in the air, the receiving of learning in the understanding, or of
+the images of things in the sight, are Passions, which bring some perfection to
+the air, to the understanding, and to the sight.
+
+The corrupting Passions are such as would destroy the Patient, if they did
+continue their increase, or did increase above measure, as, heating, cooling,
+wearisomnesse.
+
+The perfecting Passions are those which perfect a faculty or natural power,
+and give it that perfection for the which God did create it.
+
+The tenth Chapter. Of Where.
+WHERE is not the place it self, but it is a designation, or a note of some
+certain place. For place is a quantity, and a space that may be measured: But
+the Where cannot be measured. When a man puts forth a question touching the
+Place, the demand is, by how much, as for example, how much place does such a
+body take up? But here the question is by where or whither, as, where is the
+King? and, whither go you?
+
+Concerning Bodies the question may be asked, how much place they take up: but
+concerning Angels and souls, that question cannot be asked, but only this,
+where they are. This is it which the Philosophers mean when they say, that
+Bodies are in a place Circumscriptiuely, and Souls definitiuely; because
+Souls are not limited or circumscribed by place, and yet a man may say of
+them, that they are here, or there, and not els-where.
+
+We cannot say that God is in a place any of these ways. For he is infinite,
+and so present in all places, as he is neither limited, nor defined by any
+place. It may be truly said, GOD is here; but it cannot be said, GOD is here,
+and not there.
+
+The eleventh Chapter. Of When.
+WHEN is not the time it self, but it is a designation, or a note of a
+certain time, as, yesterday, to day, to morrow, etc.
+
+When we speak of time, and of the continuance of it, the question is, by how
+long? as, how long lived Noah? how long did the Roman Empire continue? But
+here we ask by When, as, When shall we have the Equinoxe? When was Julius
+Caesar slain?
+
+Some things are done in time, which notwithstanding are not measured by time;
+namely, such as are done in a moment, as, the impression of a Seal; the
+inlightening of a chamber by the air at the opening of the windows; the
+receiving of the images of things in the eye. Concerning these things, we ask
+not in how long time, but when they were done.
+
+The twelfth Chapter. Of Situation.
+SItuation is a Position or placing of parts in their whole, whether the
+situation be natural; as, the situation of the arm at the shoulders end; or
+voluntary, as when we sit, or kneel.
+
+The thirteenth Chapter. Of Habit.
+BY Habit we do not understand garments, for they belong to substance; but we
+mean the applying of garments and other ornaments about the body, as, to be
+clothed, to be shod, to have a Cassock or a Cloak on.
+
+Under these ten Classes or ranks of things, are contained all things in the
+world, and all simple Notions. And of these are framed Enuntiations and
+Arguments or Syllogismes, whereof we shall speak hereafter. For there is
+nothing in the world out of which a man may not draw some Argument or Discourse.
+
+The second Book, Which is OF THE PLACES OF INVENTION.
+The first Chapter. How these simple Notions are of use for an Argument.
+TO show how these simple Notions enter into an Argument, or Syllogism, and
+how they are of use for Reasoning and discourse, they must be clothed with
+other names. For if we should consider them no otherwise then as they are
+handled in the Categories, they would never serve to open a discourse, and to
+frame a reason. For as it is one thing to consider Leather or wood in
+themselves, and another thing to consider them as they are a fit matter to make
+a shoo or a bench: So it is another thing to consider things as they are in
+themselves, and another thing to consider them as they are means or
+instruments of reasoning. We have considered in the Categories things as they
+are in themselves, now we are to consider them as they may serve to argue and
+discourse.
+
+And therefore when a man will search out the truth of any question, (as for
+example, Whether voluptuousness be a good thing) and desires to gather proofs
+to prove or to impugn the question propounded; all that can be brought, is
+either, 1. The Genus of that which we desire to prove. 2. Or the Species. 3.
+Or the Difference. 4. Or the Proper. 5. Or some Accident. 6. Or the Whole or
+some part of the Whole. 7. Or the Definition. 8. Or the Division. 9. Or some
+thing coupled unto it. 10. Or the Cause or Effect. 11. Or the Etymology. 12.
+Or something Like or Unlike. 13. Or the Opposite. 14. Or a Comparison in the
+things. 15. Or a Comparison in the Probability. 16. Or some Testimony.
+
+
+Of all which heads we are now to treat of in particular, that we may know
+what they are, and how to make use of them.
+
+The second Chapter. Of the Genus.
+THe Genus is a nature which belongs unto many things differing in Species.
+As this word, Animal, is a Genus signifying a nature common both to man and
+beast: Animal is the Genus; man and beast are the Species. So Plant is the
+Genus of Trees and of Herbs; and virtue is a Genus whose Species are Justice,
+Temperance, etc.
+
+There is a Supreme and most General Genus; and an Inferior and Subalternall
+Genus. As Substance is a supreme Genus, which can never be a Species: but
+Animal is an inferior Genus. For though it be a Genus to man and beast, yet it
+is a Species to Body: as also Body is a Species to Substance. As in this
+Table; Substance without body. with body living Plants. Animals man. beast.
+
+not living.
+
+
+
+
+Such Genuses are equally attributed to their Species, and upon the same
+ground. But there are some Aequivocall Genuses, which are attributed to diverse
+Species upon diverse grounds. As this word, Wolf, is attributed to a
+terrestrial devouring creature, and to a Fish, and to a certain disease.
+
+A Genus Analogicall is that which is attributed to diverse Speci^ses, though
+not altogether in regard of the same cause, yet for some respect or similitude.
+As this word, Foot, is attributed to the foot of a living creature, and to the
+foot of a Table, and of a Verse, and of a mountain, and of a drinking glass.
+So the word healthful is attributed to the body, and to the Air, and to
+exercise, and to urine in diverse senses, and yet with some agreement too.
+Commonly such a Genus agrees primarily to some one of the Species, and then
+secondarily to the rest, by reason of some relation which it has with them, as
+may appear by the forenamed examples. For the word Foot, first and properly is
+said of the foot of a living creature, and afterward of the foot of a mountain
+or of a Table by a certain resemblance or proportion. So likewise to be
+healthful is said first of the body, and then of exercise, and of urine,
+because they are helps or marks of bodily health.
+
+The Table of Genus.
+Genus Supreme Inferior Vnivocall, as, Animal, Plant. Aequivocall in whole,
+as Wolf. part when there is some relation or agreement among the Species, As,
+foot, healthful.
+
+
+
+The third Chapter. Of the Species.
+SPecies is a nature comprehended under the Genus, which being joined with a
+difference makes a Species. So man is a reasonable creature: creature is the
+Genus of man, and the word reasonable is the difference which distinguishes
+man from other sorts of creatures.
+
+There be two sorts of Species. The one most special, which can never be a
+Genus, as, man, lion, elephant, gold: For such Specieses cannot be divided into
+other Specieses: but only into singular Substances or Individuals.
+
+The other is a Subalternall Species, which being compared with an inferior
+Species is a Genus. As, the word, Animal, is a Species in regard of a Body:
+but a Genus in regard of man.
+
+From the Genus and Species are drawn Arguments for Discourse; and such
+arguments are grounded upon these Maxims following.
+
+1. Whatsoever agrees with the Genus, Maxims.
+agrees also with the Species. For whatsoever may be said of a tree in
+general, may be said also of the Laurel, etc. Excepting that which is
+attributed to the Genus, as it is a Genus. As to be more general then the
+Specieses, and to contain them.
+
+2. That which agrees not with the Genus, agrees not with the Species. For that
+which cannot be said of animal, cannot be said of man.
+
+3. It is not necessary that the Species be wheresoever the Genus is. For if
+such a thing be an animal, it follows not that it must therefore be a man.
+
+4. But on the other side. Where the Species is, there the Genus must needs be
+also. For whosoever is a man, is also an animal. And whosoever says, that this
+is a lettice, does by consequent affirm, that it is an herb.
+
+The fourth Chapter. Of Difference.
+DIfference is that, whereby one thing differs from another.
+
+Of differences some are greater then others. For there are things which differ
+only in number; as Peter and John. There be others which differ in the
+Species, as, man and beast. There be others also which differ in the Genus, as,
+a man and a stone. But the greatest difference is, when two things are in two
+diverse Categories, as, a horse and whitenes.
+
+There be also essential differences, and accidental differences. As, a man
+differs from a horse in essence, and definition. But a French man differs
+from a Moore only in color and complexion, which are accidents, and not
+things which make man to be man.
+
+Among the essential differences, the principal and most considerable is
+that, which is called Superficial, by which the Specieses of the same Genus
+differ essentially. This difference has these two properties. That it
+constitutes the Specieses; And divides the Genuses. Thus the life sensitive, is
+the difference which constitutes the animal, and makes the animal to be
+Animal. The self same difference divides the Genus; namely, Living. So
+likewise to be reasonable, is the difference which divides animal, and
+constitutes man. And the same perfection which makes man to be man, is that
+which makes him differ from other Animals.
+
+The fifth Chapter. Of Proper.
+PRoper is of two sorts. For there be some properties most-proper, and others
+lesse-proper to a thing.
+
+The properties most-proper, are such as are attributed to the singulars of the
+same Specieses, and with them only, and that always. As, it is the property
+of the Loadstone to draw Iron. And it is the property of man, to be able to
+laugh, and speak: and of a horse to neigh: and of an ox to bellow.
+
+The properties lesse-proper, are such as agree only to the singulars of a
+Species, but neither always, nor to all. As it is proper to a man to be a
+Philosopher, or a Musician: but neither to every man, nor at all times. So it
+is the property of the Moon to be Eclipsed, but not at all times. And the
+property of Plants to loose their leaves in Winter; but that agrees not with
+all, nor always: for there be some that are always green.
+
+Maxim.
+Wheresoever a difference is, there also is the Species, and the property
+most-proper. For these ever go all together.
+
+The sixth Chapter. Of the Accident.
+BY Accident in this place, we do not understand whatsoever is in the world,
+Substance excepted. For Accident so taken at large comprehends also the
+Proper, and is of no use to frame a Discourse or Argument.
+
+But by Accident we understand the mutable, or separable circumstances of a
+Subject, which may be, or not be in a Subject, without destroying the said
+Subject. As, whitenes in a wall, and valor in a man are accidents, which may
+be or may not be in a wall, or in a man, and that without destroying either man
+or wall, or causing them to be more or less man or wall.
+
+Of these Accidents compared together, some go before, and precede by order of
+nature the thing which we intend to prove. Others do accompany the same. And
+others do follow it. The first are called Antecedents. As, wearisomnesse, and
+shaking before an Ague; the foaming of the Sea before a tempest; the dawning of
+the day before the day: The second are called Concomitants, that is to say,
+accompanying, because they go together, As, Pride and folly; The Eclipse of
+the Moon, and the full Moon: The third are called Consequents. As, rain,
+after a red morning; an ague after distaste and wearisomnesse without former
+labor.
+
+Antecedents and Concomitants are used to prove probably that a thing is, or
+shall be. As, by palenesse we argue fear^: and by blushing shamefastness, or
+the touch of conscience: and by blunt horns of the Moon, we conclude that we
+shall have rain: and by the rednes of the same, that we shall have wind.
+
+But those proofs are most forcible that are drawn from subsequent accidents,
+which cannot be unless some other thing has gone before. As, we know there has
+been a battle by many slain bodies lying in a field; and shipwreck by
+sun^ry plankes s^o^^^ng on the S^a.
+
+The M^ximes Maxims.
+are.
+
+1. The Antecedent being granted, the Cons^qu^nt ^^th probably follow.
+
+2. The Consequent being granted, the Antecedent must needs have gone before.
+E^pecia ly when it is such an Effect as cannot be produced, but by one cause:
+A^ we prove, that because it is day, the Sun is ris^n. But if it be ^n
+Effect, which may arise from diverse Causes (As, the corruptions of an Estate;
+and Agues) the proof is not necessary.
+
+The seventh Chapter. Of the Whole and Parts.
+THe Whole is that which has all the Parts joined together in a convenient
+order and situation. As, the whole and entire of a house is not only when all
+the parts are there, but when every part is convenien^ly placed.
+
+There be two sorts of Whole: the one which may be divided into formal parts;
+the other into material parts.
+
+The Formal parts are those whereof the Definition is compounded. As, the
+Genus and the Difference are the parts of a Definition. So animal and reason be
+the two formal parts of a man. So the formal parts of a house, or of an image
+of stone, are their matter and their external forms or figures. Such parts
+may easily be discerned and distinguished by our understanding, but cannot be
+really separated.
+
+The Material parts are those which differ in Situation, and which for the
+most part may really be separated. As the material parts of the world are the
+heavens and the four Elements: the material parts of a house are the
+foundation, the walls, and the roof.
+
+Every material part has a situation by it self, except there be a mingling
+or commixtion of the said parts. As when wine is mingled with water, or when
+the four Elements are mingled in a Body. Material parts are either alike
+among themselves (As, the parts of water, Blood, Butter, Oil:) or else are
+unlike, as, the parts of a man's body, or of a house. The parts alike among
+themselves have no certain number; because they may be infinitely divided.
+
+The parts unlike are either Integrals, or not Integrals.
+
+The Integrall parts are those whereof the whole is immediately compounded. As,
+a Kingdom is immedidiately compounded of a King and the three estates. The
+world is compounded of the heavens and the four Elements. An animal is
+compounded of a body and a soul.
+
+But under one of these parts are oftentimes contained other little parts which
+are not Integrals: that is to say, whereof the Whole or the Entire is not
+immediately compounded. Among which there are some that are not necessary,
+serving rather for ornament and conveniencie, then for necessity. As, in a
+Commonwealth, hunters, perfumers, musicians, and Poets. In a house, shuts to
+windows, gutters, and weathercockes.
+
+Sometimes in a Commonwealth the more necessary parts are such as appear
+least, and are less in account then such as are for ornament or pleasure. A^
+Bakers are less in account then Cooks, and Plowmen less then Goldsmiths.
+
+There are little p^rts and not Integrall, which are notwithstanding
+principals, and altogether ne^essary. As, the heart and brain in man. A vault
+has that prope^^ie, that all the parts how little soever they be, are
+principals; because if one of them be taken away, the rest fall to the ground.
+
+There are certain parts which are not necessary for the being, and yet are
+necessary for the well and commodious being. As, the eye in a man's body,
+locks in a house, Merchantdrapers in a town.
+
+The Nails are part of man's body, as also the teeth: but hair is not. For it
+is an excrement.
+
+A small quantity of our blood is not accounted a part of the bodi^; because
+though it be taken away, the body remains complete, and oftentim^s is the
+more healthful. But the who^e mass of blood is part of the body.
+
+Now to argue and seek the truth by the help of the Whole and Parts, these
+Maxims are to be understood.
+
+1. Wheresoever the Whole is, Maxims.
+there also all the Integrall parts requisite to being, must necessarily be. As,
+where man is, there necessarily is the body and soul. 2. Take away any of the
+Integrall and necessary parts, and you destroy the Whole. As, take away the
+foundation or walls, and you destroy the house.
+
+3. Whatsoever is said of the Whole compounded of parts alike, may be said also
+of every several part. Except that which is said of the Whole, as it is Whole,
+namely, to contain all the parts. For example, to be salt is said of the whole
+Sea, and of every part of it: but to encompasse the earth, is attributed only
+to the Sea, as it is a Whole: and therefore it is not attributed to any part of
+the Sea.
+
+The Table of the Whole and Parts.
+The Whole is composed of parts Formal. Material which are among themselves.
+alike. unlike integrall. not integrall necessary for being. well-being.
+not necessary.
+
+
+
+
+The eight Chapter. Of Definition.
+DEfinition is a speech which expresses the essence of the thing. The perfect
+definition of a Substance is that, which is compounded of the next Genus and
+the specificall difference. As, the definition of a Plant is, to be a body
+living a vegetative life: of man, to be a reasonable creature. There are but
+few such Definitions; because the forms and essential differences of
+substances are not so well known unto us. God only who made them, does
+exactly know them.
+
+The perfect definition of an Accident is compounded of three parts, namely, of
+the next Genus, of the proper Subject, and of the next Efficient or Final
+cause. As for example, death is an accident, whereof the Genus is, the end or
+destruction of life, the Subject is, a living body, and the next Efficient
+cause is, the extinguishing of vital heat.
+
+This therefore is the perfect definition of death, namely, that it is the
+destruction of the life of a living body by extinguishing the vital heat.
+Thus are defined anger, grief, sickness, thunder, earthquake, the Eclipse of
+the Moon, and that of the Sun, Civil-warre, respiration, and diverse other
+things, whereof we shall produce some examples in the end of this Chapter.
+
+Now but Proper Accidents can be thus defined. For mutable and casual
+Accidents, or such as have no certain known cause, or that depend upon the
+will of man, cannot be exactly defined. And therefore in stead of a Definition,
+we describe them, as well as we may, expressing their Genus, and some certain
+property. So whitenes is defined, when we say, that it is a most simple and
+most clear color. And light is defined to be the chief of all whitenesses;
+or, the whitenes of the body of the Sun sending forth his likeness through
+transparent bodies.
+
+Natural instruments, as, the eye, and the hand; or, artificial, as, a
+hammer, or ana xe, are defined by their Genus, and by their fitnes for that use
+for which they are ordained. So the Eye is the instrument of seeing, and a
+Hammer is an instrument to knock withal.
+
+Definition serves to discourse and to argue by the means of this Maxim.
+Maxim.
+
+
+To whatsoever thing the definition agrees, unto that same also the thing
+defined does agree. And reciprocally, to whatsoever the defined thing agrees,
+to the same the definition agrees also.
+
+The Table of Definition.
+Definition is either of a Substance which is composed of the Next Genus.
+Difference.
+Accident which is Proper defined by the Next Genus. Proper subject. Next cause
+Efficient. Final.
+
+Improper or casual, defined as the Substance, so far as may be.
+
+
+Certain examples of the definition of a Proper Accident.
+THunder is a sound in the cloud, by the breaking out of a flaming exhalation.
+
+Death is the destruction of a living creature by extinguishing the vital heat.
+
+The Eclipse of the Moon is the darkning of the Moon by the interposition of
+the earth.
+
+Anger is a perturbation of the mind arising from the opinion of a sustained
+wrong.
+
+Civil war is the trouble of an Estate arising from the discord of the
+parties.
+
+Baldnes is the loss of the hair of the head through the want of radical
+humor.
+
+Respiration is the drawing in of air into the lungs to refresh the heart.
+
+Sickness is an Indisposition of the body caused by the distemperature of the
+Humors.
+
+The Earthquake is the stirring or moving of a part of the earth through the
+violence of winds therein enclosed.
+
+Blindness is a privation of light in the eye by the corruption of the
+instruments of seeing.
+
+Sorrow is a grief in the irascible faculty, through the grief of some evil.
+
+The Eclipse of the Sun is the darkning of the air by the interposition of
+the Moon.
+
+The ninth Chapter. Of Division.
+THere are diverse sorts of Divisions. For either we divide the Genus into the
+Species, or the Whole into the Parts, or the Substance into diverse Acc^dents,
+or an Accident into diverse Subjects, or a Word into diverse significations.
+
+1. First we divide a Genus into the Species. As, a living creature into man
+and beast. Actions into natural and voluntary.
+
+2. Or else we divide the Whole into Par^s. So man is divided into Soul and
+body. A house into the foundations, walls and roof. Which division is made
+either in thought or in deed.
+
+3. Or else we divide the Subject into diverse Accidents. As, when we divide men
+into free and bond, into males or females, into fools or wisemen.
+
+4. Or else we divide an Accident into other Accidents. As, when we divide
+Physicians into rich and poor ones: soldiers into great or little ones,
+strong or weak.
+
+5. Or else we divide Accidents into diverse Subjects, As, sickness, into the
+sickness of the body, and sickness of the soul. So we may divide corruption
+into the corruption of simple bodies, or into the corruption of mixed or
+compounded bodies.
+
+6. Or we divide an Aequivocall word into diverse significatio^s, As the word,
+link, which signifies a Sausage, a Torch, and a link of a chain.
+
+Rules for Division.
+1. A good division must have but few parts, and those opposite, if it may be.
+As, animal is divided into reasonable and unreasonable; Number into even and
+odd; A line into straight and crocked. But that is not always possible. As
+when we divide the external senses into five. And France into seventeene
+governements.
+
+2. In a Division nothing must be either superfluous, or wanting. As, if a man
+should say, that the senses are, hearing, seeing, smelling, and the two eyes;
+there were in such a Division something wanting and something superfluous.
+
+3. The parts of a Division must not overreach one another. As, who should say
+that all clothing of the body is either garments, or habillements, or gowns.
+Or that Justice consists in three things, to live honestly, to hurt no body,
+to give every man his own. In these divisions the parts are but little or not
+at all differing, and are in a manner the same thing.
+
+The Table of Division.
+Division is of the Genus into the Species. Whole into the Parts. Subject into
+Accidents. Accidents into diverse Subjects. Aequivocall word into diverse
+significations.
+
+The tenth Chapter. Of things Coupled, called in Latin Conjugata.
+COupling is considered either in Words or in Things.
+
+Words coupled or conjoined are such, as come from the same beginning, and
+differ in termination, As, just, justice, justly: white, whiting, to white,
+whitenes. The link and affinity of which words is grounded upon some
+affinity which is in the nature of the things signified by these words.
+
+But there are certain things coupled in Nature which are not coupled in
+Words. As the sleep, and to slumber.
+
+There are also certain words coupled, which notwithstanding for matter are not
+of neces^^tie linked together. As, buckle and a buckler.
+
+Now for argument and discourse, the coupling and affinity which is in words
+is of no use, except there be also affinity in the thing: but where the
+affinity of words proceeds from the affinity in the thing, we use this Maxim.
+
+Maxim.
+To whomsoever one of the Coniugates or things coupled does belong, the others
+also belong unto the same. As, he that lies is a liar. And, to whomsoever it
+belongs to do a just thing, to him also belongs justice, and to live
+justly. And, seeing thou art a knave, thou must be given unto knavery.
+
+This Maxim is not without Exception. As, may appear by the example of
+Cambyses, who being very unjust, did notwithstanding some just actions. As in
+that he covered the seat of justice with the skin of an unjust Judge, whom he
+caused to be fl^ad, as a warning to all that should sit upon the said seat. And
+so there may be a Prince loving treason, who notwithstanding hates the
+traitor.
+
+The eleventh Chapter. Of Causes and Effects.
+A Cause is that which brings forth an Effect: or that by which or for which
+any thing is.
+
+There be four kinds of Causes: the Material, the Formal, the Efficient, and
+the Final. For example, the matter of a house is stones, wood, and tyles: the
+form is the structure and manner of building, which arises from the placing
+or ordering of the parts: the efficient cause is the Master Builder: the final
+cause is for dwelling or habitation.
+
+The efficient and final causes are called External, because they are out of
+the thing, and are not parts of it. As the builder is no part of the house: for
+suppose the builder were shut up in the house, which he has built, yet were he
+still an external cause, by reason that he is not of the essence or definition
+of the house, nor any part of it. But the matter and form are Internal causes,
+because the thing is composed of them.
+
+The cause Material.
+Matter is that whereof the thing is composed. As, leather is the matter of a
+shoe, because a shoe is made of leather.
+
+Matter is of two sorts: the one is called matter of Generation, as, the seed
+is the matter of the Generation of a tree; slime is the matter of the
+Generation of frogs; so water is the matter of ice. The other is the matter of
+Composition. As, the four elements are the matter whereof a body is composed;
+wood and stone are the matter of a house.
+
+Sometimes matter is taken improperly for the subject whereof we speak or
+write. Thus battails and love are the matter of the book of Ariost. And
+sometimes for the occasion and subject whereabout man does labor and occupy
+himself. As, numbers are the matter of an Arithmetician, and dangers and
+troubles are the matter of prowess and patience.
+
+Form is that which gives being to a thing. Formal.
+
+
+Of Forms some are Natural. As the form of an Animal is the sensitive soul:
+and the form of the eye is the faculty of seeing: Others are Artificial. As
+the form of a statua, of a house, or of a clock.
+
+Natural forms are part of the substance, and are multiplied by generation.
+But Artificial forms are qualities, and no parts of the substance, neither
+are they multiplied by generation or propagation. If we engraue the image of
+Caesar upon a nut, that nut being planted will bring forth fruit and nuts, but
+not the image of Caesar. And thence it is that children are not heirs of the
+learning or piety of their fat^ers.
+
+The Efficient Efficient.
+cause is that by which a thing is. As the Sun is the efficient cause of the
+day: and the fire of burning: and sickness of death: and the interposition of
+the Moon, the cause of the eclipse of the Sun.
+
+Under the Efficient cause we comprehend the cause which is called Meritorious.
+As murder is the cause of punishment.
+
+Likewise under the Efficient cause we comprehend the cause which is called
+Defective. As the want of sight is the cause of going astray; and the absence
+of the Sun, is the cause of night, howsoever by nature it be the cause of day.
+
+All instruments, both natural, as, the eye and the hand; and artificial, as,
+an Axe and a sword, are in some sort Efficient causes. For though they act not
+by their own proper power, yet they help the action; and without them the
+natural action would either be weak or altogether hindered.
+
+The Final Final.
+cause is that for the which a thing is done. So the end of Physic is to heal
+the sick, and the end of Study is to get learning.
+
+We must warily distinguish the scope from the end. As, the scope of walking is
+health, but the end is the last step; the one is the end of the intention; the
+other the end of progression.
+
+The final cause may also be the formal and efficient cause, but ^n diverse
+respects. As, the form of the house is the end of the builder: and the form
+of a horse engendered is the efficient cause of the operations of the same
+horse, and also the final cause of the horse engendring. And that which is the
+final cause, i^ commonly an effect. As to see is the final cause, and also the
+effect of sight.
+
+Of causes the final is the best, and most excellent: because all the other
+tend unto it, and serve it.
+
+The final cause as it is the last in execution, so it is the first in the
+intention.
+
+Efficient and final causes bring forth their effects, Causes of themselves,
+or by accident.
+either of themselves and of their own nature; or by accident. Thus the Sun
+gives light of it self, and of his own nature; but by accident it blinds
+Owls. And the neighing of Darius his horse was the accidental cause of his
+raise to the kingdom. And thirst may be an accidental cause to save a man out
+of the battle; if being thirsty and gone out of the army to drink, it so
+happened that whilst he was a drinking, the army was suddenly discomfited. So
+a Musician that builds a house, is not the cause of the building as he is a
+Musician, but as he is an architect or builder. It is the same of the final
+cause. For example, healing is the proper end of Physic, but the gain of the
+Physician is an accidental end: the one is the end of the Art, and the other
+of the person.
+
+Causes next or remote.
+Again, there be some next, and some remote causes. For example, the next end
+of the art of a soldier is war, and the remote is victory, and the end more
+remote is a happy peace. So the next efficient cause of death is sickness, of
+sickness excess, and of excess bad company.
+
+The same may be said of forms and matters. The next matter of a Table is the
+wood, but the remote matter are the four Elements. The next form of any thing
+is that which we call Specificall; but the remote forms are those of the next
+or of the remote Genus. So the next form of a man is to be reasonable, but to
+have sense is the form of a living creature, which is the Genus of man, and by
+consequent also is the form of man, but remote.
+
+Moreover, there be causes, Causes sufficient, or not sufficient.
+which are Sufficient of themselves to produce an effect. As, the Sun is of
+it self sufficient to give light, and fire to burn, and the favor of God to
+make a man happy. But there are some causes, which are not of themselves
+Sufficient, and must have many together. As, to make a fertile soil, the
+ground must be lusty, it must be well tilled, rain must moisten it, and the
+Sun must heat it in due season, and moderately. To attain unto learning, a
+man must have a good wit, good instructions, and be diligent and painful. So
+diverse things are the causes of victory, experience in the General, valor in
+the Soldiers, military Discipline, necessary weapons, etc. but above all the
+will of God.
+
+Now to argue from the causes and effects, these Maxims Maxims.
+are of use.
+
+1. That which agrees with the matter, agrees also probably with the thing
+composed of that matter. As, the earth is heavy, and therefore terrestrial
+bodies are heavy. This Maxim is sometimes faulty. For example, Ice is hard,
+yet notwithstanding the matter of it is soft and liquid, namely, water.
+
+2. Where the matter is wanting, there also the thing composed is wanting. As,
+where there is no iron, a sword cannot be made.
+
+3. The next efficient and necessary cause being granted, or denied, the effect
+also must be granted, or denied. As, if the Sun shine, it is day, if it
+shines nor, it is not day. And this effect being granted, the efficient cause
+is also granted.
+
+4. When diverse causes are necessarily requisite to produce an effect, one of
+the same causes being wanting, the effect also is wanting.
+
+5. Such as is the efficient cause, such commonly are the effects. As of wicked
+Fathers, come wicked Sons: and strong things beget strong things; and Moors
+have black sons. This Maxim is often false, especially in remote and
+universal causes. As the Sun grows not, and yet it causes plants to grow,
+it has no sent, and yet causes flowers to smell sweet, and carions to stink.
+And God mooveth all, but yet is immoovable. Also in causes which act by
+accident. As a Whetsto^e is not sharp, yet causes sharpness: the Sun is
+not hot, yet warmeth by accident, in clearing and purifying the air by the
+reflection of his beams.
+
+6. If the self same quality be attributed unto the agent and unto the
+patient, it must much more be attributed unto the agent. As, the hand is warm
+by reason of the fire which acts upon it, therefore the fire is hotter then
+the hand. And the Sun causes the water to shine, therefore it is brighter
+then the water.
+
+This Maxim is false in the fourth species of quality, namely, in the form
+and figure; because this quality receives neither more nor less. As, if the
+Seal be round, it follows not that the figure printed in the wax be less
+round, then the Seal.
+
+7. The end being granted, those means also without which the end cannot be
+attained unto, are likewise granted. As, if you grant that a man lives, you
+grant also that he eats, drinks, and breaths. And happiness being granted,
+virtue, and the favor of God are likewise granted.
+
+8. The means to attain unto the end being granted, it follows not that the
+end must therefore always be granted. For it is no good reason to say, Philip
+has books, therefore he is learned: he has horses and weapons, therefore he
+shall obtain the victory. So also, the end being taken away, the means are
+not always therefore taken away. For many, though they have the means in
+their hands, never attain unto the end.
+
+9. Causes by chance or hazard are not fit to argue withal.
+
+10. If necessary effects be taken away, the causes also are taken away. I say,
+necessary; For there are some causes which act not necessarily, and which do
+not always produce their effects. As, sickness brings not always death.
+
+11. Causes are more excellent then their effects, unless the effect be a
+final cause. And therefore, to see, and hear, are things more excellent, then
+the faculties of seeing, and hearing; because those faculties are ordained
+only for these effects, namely, to see, and to hear.
+
+12. The causes ever go before their effects in the order of nature, but not
+always in time. Thus the Sunbeams are as ancient as the Sun; and the flame
+is never without clearenesse or brightness.
+
+The Table of Causes.
+Causes are Internal Matter of Generation. Composition.
+Form Natural. Artificial.
+
+External Efficient Properly. Improperly, as the cause Meritorious.
+Instrume^tall natural. artificial.
+
+
+Final.
+
+All causes are either 1. Next. or Remote.
+2. By themselves. or By accident.
+3. Sufficient. or Insufficient.
+
+
+The twelfth Chapter. Of Etymology.
+Etymology is the derivation of a word.
+
+Etymology in regard of the word, is as a Definition in regard of the thing;
+and serves to argue and discourse. As when we say, Such a one is not a
+Counselor, because he gives no Counsel. And Philip cannot be called a
+Philosopher, because he loves not wisdom.
+
+Thus by the Etymology of these names Jesus and Christ, we gather what our
+Saviors calling and office is. And we encourage such as have a name importing
+some virtue, in stirring them up to virtue by the Etymology of their names. So
+Eusebius and Pius may be exhorted to Piety, and Andrew to valor, and
+Celestinus to give himself to heavenly things, least they belie their names by
+a contrary conversation. And so one gathers probably, that all things in
+times past were common, the Robe excep^ed, because when a theft is committed,
+we use to say, Such a one has been robbed: and that the first Wars were
+against Beasts, because the Latin word Bellum, comes from Bellua. But these
+kind of proofs are very weak, because names are given unto men, before it
+can be known whether they will be virtuous or no; nay, sometimes names are
+given by contraries, and by way of derision. As, when a dwarf is called a
+Goliath.
+
+Good Etymologies in the English tongue, are for the most part taken from the
+Latin; but such as are drawn from the English tongue are commonly absurd and
+ridiculous. For example, if a man should say, that the woman is the woe of the
+man; and beer, quasi, be here.
+
+The thirteenth Chapter. Of things alike or unlike.
+THose things are called Alike which have between them some Analogy and
+correspondencie or proportion.
+
+The analogy is known by the end and use. As the Shepherd in regard of his
+flock, and the Pastor in regard of his Church, are things Alike.
+
+There be certain things differing, which the vulgar take for the same things,
+and none but Philosophers do distinguish them. As, love and friendship;
+continency and temperance; the flatterer and the man-pleaser; memory and
+remembrance; chance and fortune; hate and envy; whose differences are learned
+by the Ethics and Physics.
+
+Similitudes are rather ornaments of a speech, then any proofs. As, when we
+say, Even as cracks in a vessel are known when the vessel is filled with
+liquor: So the secret vices of the heart are discovered by plenty and
+prosperity. And, that Hypocrites are like unto Bees which have honey in the
+mouth, and a sting in the tail. And that covetous persons are like unto
+Christmas-boxes, out of the which money cannot be gotten before they be broken.
+And false friends are l^ke unto Swallowe^, that d^part from us in hard weather.
+
+Metaphors well drawn are similitudes reduced to one word. As when we say, to
+feed the flock, that is, to teach: and to stain ones reputation, that is to
+say, to backbite.
+
+Similitudes have two parts, the proposition and the reddition. The
+proposition, namely this, even as swallows, etc. The reddition as this; So
+false friends, etc.
+
+Examples are taken from things done, and from humane actions: but Similitudes
+are oftentimes drawn from things fained, and from that which is observed in
+nature.
+
+Now to argue from the like, we use this probable Maxim. Maxim.
+To things alike agree things alike.
+
+EXAMPLES OF ANALOGY.
+The Analogy between an Animal and a Plant.
+In an Animal, In a Plant. The skin The bark or rind. The heart The pith or
+marrowe. The arms The branches The mouth The root. The excrements The leaves
+and gum. The veins The grain of the wood.
+The Analogy between man's body, and a Commonwealth, or Estate.
+In Man, In an Estate. The head The Prince. The eye The Council The arms The
+soldiers and trads-men. The belly The idle persons. The sinews The money. The
+joints Concord and good order.
+The Analogy between a building and a man's body.
+In a building, In Man's body. The kitchen The belly. The kitchen knives The
+teeth. The study The brain. The windows The eyes. The five doors The five
+instruments of the senses. The Master of the house The soul. The sink The
+conduits of the excrements.
+The Analogy between the indispositions of the Body and of the Soul.
+In the Body, In the Soul. Blindness Ignorance. Pain Grief The dropsy
+Covetousness. The itch Impatience. Swelling Pride. A fit of an ague Choler.
+Shaking Fear. Contagious air Bad examples. Painting Hypocrisy. Collicks
+Troubles of conscience. Weakness Pusillanimitie.
+The foureteenth Chapter. Of things Opposite.
+OPposites are such as cannot stand together in the same subject, at the same
+time, and in the same regard. As a man cannot be at the self same time both
+white and black in the same part of his body, and not compared to other
+things: though he may be black and white, in diverse parts of his body, either
+at diverse times, or comparatively, white in respect of a Moore, and black in
+respect of a Swan.
+
+There are four sorts of Opposits. 1. Relatiues. 2. Contraries. 3. Privatiues.
+4. Contradictories.
+
+1. Of Relatiues Relatiues.
+we have already spoken. lib. 1. cap. 7.
+
+2. Contraries Contraries.
+are two qualities or two actions which being under the self same Genus, are
+most remote one from the other, and are incompatible. As black and white have
+the same Genus, namely, color: Virtue and vice are specieses of habits, which
+being under the same Genus are of a contrary nature.
+
+Contraries are either Mediate or Immediate. Thus, there is a middle between
+black and white, namely, pale and brown: and between hot and cold there is
+lukewarm. But between the number even and odd, between the straight and
+crooked line, there is no third. The middle or mean does usually participate
+of the two contrary extremes: the mean between good and bad actions excepted.
+For the mean is that which is called an Indifferent action, participating
+neither of good nor evil.
+
+Between two contrary vices, virtue is the mean. As between covetousness and
+prodigality, there is liberality, and good husbandry: between rashness and
+cowardnesse, there is valor.
+
+This mediocritie or mean participating of two extremes, is not in the virtue
+it self; for that has no participation with vice; but it is in those actions
+and things about which virtue is occupied. As, to avoid danger, and to lay out
+money. For these actions partly imitate the covetous man, and partly the
+liberal. And it falls out oftentimes that to each of the extremes there is a
+contrary virtue: as to prodigality, good husbandry; to covetousness,
+liberality: so cowardnesse and rashness are two extremes; and to
+cowardnesse, valor is contrary; and to rashness, discretion.
+
+If two contraries happen to be under two next differing Genuses, (as, justice
+under virtue, and injustice under vice) these two Genuses must needs be
+contraries one to another, and Species of the same Genus. By this means all
+contraries, if they be not under the same next Genus, they are under the same
+remote Genus.
+
+Words are sometimes wanting to express one of the contraries. Thus we have no
+word to express the habit contrary to an ague, nor to a rheum, nor to the
+Physics, nor to Grammar.
+
+3. Privatiue Privatiues.
+opposits are a quality, and the absence and privation of that quality. As,
+light and darkness; sight and blindness.
+
+There can be no privation, when the subject is not capable of the contrary
+quality. Thus in a stone there is no blindness, because it is not capable of
+sight. And a child in the womb cannot be said to be blind, nor a whelp before
+it be nine days old, because they are not come to that time wherein they should
+see.
+
+The privation of Actions may be remedied and recovered. As the privation of
+the act of seeing is recovered, when he that sleeps opens his eyes to see.
+But the privation of the Faculty of seeing is irrecoverable.
+
+Knowledge and ignorance simple and childish or brutish, are opposits
+privatiuely. But wilful ignorance that arms it self with reasons against the
+truth, is opposed unto knowledge as a contrary, and not as a privation.
+
+4. Contradictories Contradictories.
+are such between which there is no mean or middle. As, to be, and not to be;
+man and no man; horse and no horse. For there is nothing that is not either man
+or not man; horse or not horse.
+
+Now when we will argue and prove any thing, Opposits are of great use. The
+Maxims Maxims.
+are these.
+
+1. Whosoever grants one of the relatiues, does necessarily grant the other. As
+he that calls such a one a father, affirms that he has a child.
+
+2. One and the same thing may be two relatiues; As, to be a father and son,
+master and servant, right and left: but in diverse respects.
+
+3. Contrary things have a contrary consequence. As, vice makes a man wretched,
+therefore virtue makes him happy. Here are excepted such things as do belong
+to the Genus of the two contraries. For if blackness be visible, it follows
+not that whiteness be invisible; because to be visible, belongs to the Genus
+of whiteness and blackenesse, namely, to color. We must also except such
+causes as do act by accident. As, if a white man builds his own house; it
+follows not, that a black man must pull down his; and if heat does harden
+the ground, it follows not that frost must soften it.
+
+4. The self same cause may bring forth certain effects, when the action of
+the cause depends from the disposition of the matter against which it acts.
+So the Sun gives a sweet smell to flowers, but it makes a carrion stink: and
+fire hardens the earth, and softens wax.
+
+5. Every subject that is capable to receive the one of the contraries, is also
+capable to receive the other. Thus, whatsoever may be heated, may be cooled;
+and whatsoever may be hardened, may be softened.
+
+6. One of the contraries being granted, the other is overthrown. Thus, he
+that is not free is a bondsman. But it follows not that if one of the
+contraries be denied, the other must be granted; except they be such
+contraries, as have no mean between them. As, if the body be not white, it
+follows not that it is black. But in contraries that are without mean, this
+consequent i^ good. As, if this line be not straight, it is crooked.
+
+7. Of two good things whereof the one is lesser and the other greater, the
+contrary to the greatest good is the greater evil. As, virtue and health be
+two good things; if virtue therefore be a greater good then health, vice must
+be a greater evil then sickness.
+
+Except when one of the two good things is comprised in the other. As, to have
+the skill of reading, and the skill of Philosophy. For though the skill of
+Philosophy ^e a greater good, then the skill of reading, yet it follows not,
+that not to be skillful in Philosophy is a greater evil, then not to be
+skillful in reading, because the skill of reading is comprehended under the
+skill of Philosophy.
+
+8. Contradictories cannot stand together, and one of them must of necessity
+be. As, there is nothing that is not either man or not man; and it is
+impossible to be both the one and the other, at the same time.
+
+The fifteenth Chapter. Comparison of things.
+THings are often compared according to their goodness and excellency, and then
+the comparison is made by these Rules or Maxims. Maxims.
+
+
+1. Whatsoever is desired in regard of it self, is better then that which is
+desired only in regard of some other thing. As, life is better then money, and
+sight is more to be desired then spectacles, and health then Physic.
+
+2. That which is good to all, is better then that which is only good to some,
+and which is used but seldom, and for certain respects. Thus light is better
+then darkness, and to have two arms is better then to be maimed. For
+darkness is of use only for thieves, and debauched persons; and to have but
+one arm is of use only to beggars, who thereby set forth their misery.
+
+3. That which is good of it own nature, is better then that which is good
+only by accident, or which is of use only to avoid a greater evil. Thus,
+health is better then Physic; and to have our wares in our ship, is better
+then to cast them into the Sea; and prudence is better then chance.
+
+4. One good which when we have, we need not the other, is better then that,
+which when we have, we have yet need of the other. Thus to be loved of God, is
+better then to be loved of men; and to have the perfect knowledge of an Art, is
+better then to have it written in a book.
+
+5. Of final causes, the last is ever the best. Thus happiness is better then
+virtue, and the skill of managing a horse, is better then the skill to make a
+spur.
+
+6. Permanent goods are better then the transitory. As, virtue is better then
+money.
+
+But in general without any respect to the goodness or excellency of things,
+they may be compared by these Maxims following.
+
+1. Other Maxims.
+That which is such of it own nature, is more such then that which is only
+such by participation. Thus the Sun is cleerer then a looking glass, when
+the Sun shines on it.
+
+2. That which is such of it self, is more such then that which is such only
+by accident. As, exercise and good nourishment is more healthful, then the
+cutting off of an arm: and the death of the Son of God has been more
+beneficial to salvation, then the treason of Judas, howsoever God used it as a
+means for our good.
+
+3. That which is most remote from his contrary, is more such then that which
+is less remote. And therefore the cold in Norway is greater then that in
+Italy, because it is more remote from the South, from whence the heat comes.
+
+4. That which acts more forcibly, is commonly more such, then that which
+acts more weakly. As, that which hurts more is worse then that, which
+hurts less, and that which pricketh more is sharper pointed, then that which
+pricketh less. This rule has exceptions. Air and water are equally moist,
+nay, Aristotle holds the air to be moister; yet water moistens more then air.
+So the flame is hot, or rather hotter then the hot iron, and yet a hot iron
+burns more then the flame does.
+
+The sixteenth Chapter. Comparison of Probability or Likelihood.
+THings are compared in probability, when we question whether of the two is
+the more credible. And this is done, when to prove some one thing, we bring in
+another equally, or more, or less probable, then that which is in question.
+
+This comparison may be made three manner of ways. 1. Probable alike.
+For
+
+First when we will prove a thing in question, we may bring in another thing as
+probable as it. For example, if a Prince has granted something to one Citizen,
+another Citizen may pretend, that the like grant ought to be made unto him
+also; because he is a Citizen as well as the other, and nothing inferior to
+him. So a fault which is pardoned to some one in regard of his youth, must be
+pardoned to another as young as he. This reason is grounded upon this Maxim.
+Maxim.
+
+
+Of two things equally probable, or equally just, the one being granted, makes
+the other to be easi^y believed.
+
+2. More probable.
+Secondly, to prove a thing in question, we may bring another thing more
+probable then it, arguing thus. If that which is more probable is not, much
+less shall that be, which is less probable. For example, if a Father will not
+have his children go richly apparelled, much less will he suffer it in his
+servants. And if the Apostles were not without sin, how much less are we;
+This is called arguing from a more probable to a less, and grounded upon this
+Maxim. Maxim.
+
+
+If that which is more possible, and more probable be not; much less shall
+that be which is less probable and possible.
+
+The conclusion of such arguments must always be negative.
+
+Lastly, 3. Less probable.
+we may prove a thing in question, by bringing in another thing that is less
+probable, saying thus: If a thing less probable, and harder to be believed, is
+notwithstanding, or has been; much more ought we to believe, that which is
+more probable and easier to be done. So if one at twelve years of age can
+carry a weight of a hundred pound; by a stronger reason one may carry the same
+weight at the age of twenty years. And if Alexander took Tire, much more
+easily might he have taken Jerusalem, which was weaker then Tire, if he had
+besieged it. This is called arguing from the less probable to the greater,
+grounded upon this Maxim. Maxim.
+
+
+If that which is less probable and less possible may be, much more shall
+that be, which is more probable and more possible. The conclusion of such
+arguments must always be affirmative.
+
+We must warily distinguish between the greatness of the thing, and the
+greatness of the probability. For greatest things are often less probable, and
+more difficult. For it were no good argument to say thus. If birds can fly,
+how much more bulls. And if a thread can go through the eye of a needle, how
+much more a cable. And if Michael Angel could paint very excellently, how much
+more the Emperor Charles the fifth.
+
+The seventeenth Chapter. Of Testimony.
+TEstimonies are often used to argue and prove a thing.
+
+Testimonies are of force and do persuade, when they be such as may not be
+denied, by reason of the quality, authority, sufficiency, or multitude of
+persons.
+
+Testimonies are either divine or humane.
+
+Divine testimonies are Oracles, and all that is called the Word of GOD:
+likewise dreams, visions, miracles, be they true or false, if they be
+delivered as true. Also rules to live well, derived from nature.
+
+Humane testimonies, if the question be about matter of right, are humane
+laws, customs, the testimonies of Ancestors, or such as are skillful in
+their own art, the consent of nations. But if the question be of fact, then
+are to be produced schedules, acquittances, confessions, eye or ear witnesses.
+
+Such witnesses, Maxim.
+as do not affirm or deny a thing to be or not to be, are of no force. For
+there is a great difference between these two sayings; God says not that such
+a thing is, and God says that such a thing is not. The latter is a good
+proof, but the former has no consequence or sequel. And likewise this proof
+is of no effect: Aristotle has not said so, therefore it is not so. Or, the
+Word of God says not that man is a reasonable creature, and therefore man is
+not a reasonable creature.
+
+Notwithstanding, if it be a thing which cannot be known, but by the
+testimony of one alone, then this kind of arguing is good and firm. Such a
+one said not ^o, and therefore you cannot maintain that it is so. For example,
+if we had no knowledge of China but by the report of one man only; whosoever
+would affirm any thing without the warrant of such a one, without question
+would be prooved a liar; or i^ he spoke the truth it were but by chance, and
+not knowing himself whether he spoke true or no. So likewise seeing that
+nothing that is necessary to salvation can be known without warrant from the
+Word of God; whosoever in things necessary to salvation, affirms any thing
+not contained in the said word of GOD, ought not to be believed, and affirms
+that which he knows not.
+
+The eighteenth Chapter. Of the use or Practice of the precedent Doctrine.
+THis Doctrine contained in the sixteen precedent Chapters is called the
+doctrine of Places; because it shows the places whence matter is drawn for
+argument and furniture for proofs. For example, if we undertake to prove,
+that, Death is not to be feared of a virtuous man, we must run over these
+sixteen places, and take notice of such as will best furnish us with matter.
+To make this plain we will run over the said places, and apply them to this
+example.
+
+The Genus of Death.
+Death is the end of man's life. Now the end is to be desired, when it is not
+only the end, but also the scope that we must aim at; such is death, unto
+which a wise man ought to prepare himself every day, as being the end of his
+hope.
+
+The difference.
+This death comes by the separation of the soul from the body, now we must
+not fear the separation of such things, as being joined do hurt one another:
+the soul consumes the body with cares, like unto a knife that cuts its
+sheath; the body is to the soul as a burden or a prison; God separateth them
+to reioyne them again in a better estate and condition.
+
+The Species.
+There be two kinds of death; the one natural caused through age, the other
+violent, which happens by sickness, or when a man is killed. Philosophers say
+that death which comes through age is without pain, because it is without
+combat or resistance; and who would live when all his strength is spent?
+violent death is not also to be feared of a virtuous man, for what matter is
+it, whether I dye of an ague, or by the sword? Whether by the distemper of
+humors, or by the distemper or commotion of people? Whether I yield up my soul
+by the mouth or by a wound, so it may go to God.
+
+The properties and accidents of Death.
+Death makes all alike, both great and small; It dismasketh and discovers
+thoughts; then dissimulation has no more place; The words of the dying are
+serious and of great weight, their prayers are fervent, their confession
+humble, their admonitions to their children are received with attention, the
+spirit of God comfort them within, the Angels guard and assist them without,
+and Jesus Christ reaches them out the crown.
+
+Of things conjoined with Death.
+If we must not bewail the dead, why should we then fear death?
+
+The causes of Death.
+The efficient cause of death is the will of God, which we were better to
+yield unto willingly then by compulsion; why should we resist Gods will, seeing
+it is just and vnevitable? Again, the law of nature under the which we are
+borne is the cause of death: plead not therefore against your own hand
+writing. Would thou have the laws of the world changed for thee? The final
+cause of death in regard of the world, is that we may give place one to
+another; thy father has given place to thee, give thou place to thy children.
+The final cause of death in regard of every virtuous man is to put an end to
+all his miseries, and to bring him home to God. For all these causes of death a
+virtuous man ought not to fear it.
+
+Causes wherefore a thing ought not to be fea^ed.
+A thing is not to be feared: first if it is vnevitable; secondly, if it
+hurts not; thirdly, if it be profitable. Death has in it these three things.
+For it is vnevitable; therefore as it is a folly to hope for things impossible,
+so it is a folly to fear things vnevitable. Again, death (...) not hurtful
+because our Savior Christ has taken away the curse thereof. Lastly, it is
+profitable, and that is known by the effects which follow.
+
+The Effects.
+Death is profitable before death, for it abateth pride. Thou see now a
+triumphing Monarch, and ere long toads will breed in his skull, and worms in
+his entrails. The thought of death keeps a man in fear and sobriety, as also
+from sinning. Without it man would hardly be tamed. It makes us despise the
+world, and to acknowl^dge the vanity of all our toil. It makes us more
+earnest in prayer, and increases our faith through resistance. After death, it
+makes us fully know that which we here see but a far of, and very obscurely.
+It ioineth us with the Saints and places us with Christ Jesus. To fear death
+is to offer wrong unto Christ, as if it were ill being with him. It makes us
+to see the face of God, which changes them that see it into his own
+likeness. It brings us into the possession of peace without end, of
+contentment without interruption, and felicity without measure.
+
+The Similitudes.
+If newborn babes had the use of reason, they would never cry, but rather
+much rejoice that they part from such an unclean and obscure place, to enter
+into the light of this world: So, if we had the right use of reason, we would
+not be sad when death comes, because our souls go out of an unclean,
+straight, and obscure place, or rather prison, to enter into the light of
+heaven. Death is like Samsons Lion, whereof it is written, that from
+bitterness came sweetness. Or like unto the harsh sound of a boult at the
+opening of a door, which notwithstanding is very pleasing, if it be to come
+out of a prison. Or as when Christ came to his Disciples walking on the waters,
+they said it was a spirit; but when they saw him nearer hand, they said of him,
+and so must we of death, it is the Lord that comes unto us.
+
+The Opposits.
+Present life is opposed unto death, now if there be no cause to desire life,
+no more is there to fear death. Upon this occasion you may run through every
+age of man's life, as also through the d^vers conditions that are from the
+Prince to the beggar, and show that all is but misery. Besides those evils and
+accidents which are common to all.
+
+The Comparison in regard of Goodness.
+Mutable and transitory things are not so good as those that are eternal and
+permanent. Again, the good which suffices alone, is better then that good,
+which when we have, we have yet need of another. He that has happily ended
+his life, needs neither money nor apparel, nor honor, nor health, etc. but
+he that has nothing but the present life, has need of all these things; and
+besides them eternal good things.
+
+The Comparison in regard of Probability.
+Probable alike.
+If Martyrs feared not to dye in the fl^mes of fire, why should we fear to dye
+in sickness, seeing we have the same hope?
+
+Less probable.
+If the Heathen went to their deaths with as joyful a countenance, as others
+that returned safe from thence; why should we fear it that have a better
+hope? Why should ambition have more force in them, then faith in us? If a
+soldier does adventure himself upon the mouth of the Cannon-shot, and
+offers himself the first upon a breach for the pay of sixpence a day; what
+should we do for an everlasting kingdom.
+
+Testimonies.
+Here must be alleged the passages of the word of God, the sentences of
+Philosophers, the examples of such as have dyed constantly; As, of Regulus, of
+the two Decius, of the Gymnosophists, of the Indian Women, of the Tribals, of
+the Martyrs, etc.
+
+Finally, by these sixteen places, as by certain directions, we are furnished
+with abundance of matter for argument and discourse. And by these helps we are
+put in remembrance of all that we have read, heard, or seen, which may serve
+to amplify the matter propounded. But the Maxims which are added to every
+place, are of use to teach us how the argument may be well grounded, for they
+are as lights unto our reason. And note also, that these places furnish us with
+matter to argue, as well for Death, which is the Subject of this question, as
+for Not to be feared, which is the Attribute thereof, as we shall see
+hereafter. But the Arguments which are drawn from the attribute are the
+strongest and most forcible.
+
+ANOTHER EXAMPLE. The praise of Sobriety. The Species of Sobriety.
+WE speak not here of that Sobriety which the Physicians appoint by diet:
+nor of that which is through necessity, when we have nothing to eat: nor of
+that cold gravitie of the Germans a^ the beginning of their meals: nor of that
+of covetous persons, who grudge themselves things necessary: nor of that which
+is performed by a scrupulous abstinence. But of that which is a moral virtue.
+
+The Definition.
+Sobriety is a temperance, which prescribes a moderation in eating and
+drinking.
+
+The Whole and the Parts.
+Neither do we speak of that Sobriety which consists in certain meats,
+and not in other, in eating and not in drinking, in his own h^use and not in
+company. For sobriety gives laws for all times, and all places, and for all
+sorts of meats and drinks.
+
+The Etymology.
+(...)
+The Grecians have rightly derived sobriety from a word which signifies to
+keep the understanding sound; because it preserves the health, and the
+liberty of the understanding.
+
+The Genus.
+I say it is a species of Temporance. Now Temperance is the nurse of all other
+virtues, the guardian of bodily h^al^h, and of the light of the mind, making
+it not to be subi^ct to the belly; it keep^th in brutall concupiscence, and
+teach^th how to eat to live, and not to live to eat.
+
+The causes.
+The cause why a thing is to be commended or desired is, if it be honest,
+delightful, and profitable. Now sobriety has all these three; for it is a
+good and comely thing to have an upright body in old age, to have a fresh and
+lively countenance, not to be seen drunk nor croaking in an Alehouse among
+debauched persons etc.
+
+It is a delightful thing to be cheerful and affable, and to have peace at
+home; for drunkenness breeds quarrels. Pleasures seldom used are sweetest.
+
+It is a profitable thing to have a strong body, a free mind, fit to go about
+civil affairs, to have a good memory, not to wast goods, to provide for the
+necessity of the family; to husband the time well, not to reveal secrets;
+sobriety is of use for all these.
+
+The Effects.
+The causes for the which sobriety is commendable, are also effects of
+sobriety, and therefore we shall not need to repeat them.
+
+The Opposits.
+Here a drunkard must be set forth in all his colors, his speech, his gesture,
+his countenance, his troubled mind, the gout accompanying it, the red and
+bleer'd eyes, the memory overthrown, the understanding becomes more brutish,
+the leaness proceeding from excess is worse then that which comes of want.
+Add unto these the shame and reproach, when as the diseases of old age are
+imputed to the excess of youth, by such as will be ready to say; it is well
+bestowed, he has not left his vices, but his vices have left him. Again, the
+good of the family is wasted, time is misspent, the body and mind corrupted,
+quarrels are picked in drinking, and lascivious desires are stirred up, a man
+becomes a babbler disclosing his most hidden secrets. It is a bottomless gulf,
+for a little will content nature, but a greedy desire has no end.
+Intemperance either kindles or discovers all manner of vices.
+
+The causes of drunkenness and gluttony.
+Bad company does cause excess: so does the opinion of a false pleasure. For
+what pleasure is there to drink without thirst, and to stir up an artificial
+hunger when the belly is full. Also vain glory causes excess, when men will
+imagine it to be a thing praiseworthy to be able to hold more drink then
+another; and yet such a man shall never hold so much drink as a hogs-head; and
+though he have a more capable body, he shall not therefore be accounted a man
+of greater capacity.
+
+Comparison in the Probability.
+Seeing the very beasts do not overdrinke themselves, why should a man by his
+drunkenness make himself worse then a beast? Shall the instinct in a beast be
+of greater force, then reason in a man?
+
+Similitudes.
+A man cannot study near a Kitchen; a drunkard is not fit for a Sentinel.
+God has not made our bodies to be like Spunges, which are filled and then
+squeesed out. Excess in drink kindles concupiscence, as Oil powered on a fire.
+
+Testimonies.
+Add to those divine and humane testimonies. That God has given man very long
+and revolved intestines, to the end that the meat being long in the passage, he
+should not need to feed again so soon. That God has placed the brain far
+from the belly, which is the Kitchen of the body. That the Lacedaemonians would
+sometimes make one of their slaves drunk, and point him to their children, to
+m^ke this vice odious unto them.
+
+All these things afford matter of argument: Of all these proofs some are more
+forcible then others. The force and soliditie of the proofs, is known by the
+help of the Maxims, which we have added to every place.
+
+The third Book. Of ENVNTIATION.
+The first Chapter. What an Enuntiation is, and the parts thereof.
+THE places or helps of invention contained in the sixteen precedent
+Chapters, afford unto us abundan^ (...) ^^ter for proofs and arguments. I^ n^w
+remains that we give a form unto these proofs or arguments, and show how to
+frame an argument, so as it may be of force to prove.
+
+An argument or reasoning is by the Philosophers called a Syllogism; which is
+a Grecke word signifying the making up of an account, or the collecting of a
+sum. For that which is the making up of an account, or the total sum of
+Addition or Multiplication in Arithmetic, the same is the conclusion in a
+Syllogism, namely, that which resulteth and follows from the proof.
+
+Every Syllogism is composed of two Propositions or Enuntiations, and of a
+Conclusion.
+
+Enuntiation is a speech, wherein something is affirmed or denied.
+
+Every Enuntiation consists of two words at the least, which the Logicians call
+Terms: as, who would say, the two ends, or the two pieces. For example.
+
+The fire burns.
+
+God is good.
+
+These Enuntiations are compounded of two parts, the one is called the Subject;
+the other, the Attribute. Fire is the Subject; and burns is the Attribute;
+For burning is attributed to fire. God is the Subject; and this word good is
+the Attribute.
+
+This Verb, Is, is not reckoned as a part of the Enuntiation, but is only the
+link and bond of these two parts.
+
+Wheresoever there is an affirmation or negation, there is an Enuntiation,
+though it seems to be but one word. As when we say in Latin, Curro, we
+understand, ego curro, I run. And in English, It raineth, is an usual and
+common word, which is as much as this Enuntiation, the rain falls. So when
+we say, It freezeth, It snoweth, etc.
+
+And when we ask any body, Sleep you? He that answers No, makes a kind
+of secret Enuntiation; for it is as much as if he should say, I sleep not.
+
+When we argue, the Enuntiations must be full and perfect, so as there may be
+no need of any supplying.
+
+All truth and falsehood is expressed by the Indicative mood; and therefore
+every Enuntiation must be couched in the Indicative; because we affirm or
+deny a thing only by that mood. And therefore Imperatiues, Optatiues and
+Subiunctiues enter not into an E^^untiation, nor do any ^ervice to the Art of
+Logic, who^e end and scope is to search out and discern the truth. Now truth
+is only expressed ^y the In^icatiue. The other moods are left to Rhetoric,
+and serve only for ornament.
+
+Sometimes one of the^^ terms or parts of the Enuntiation is expressed by many
+words; as, All the lines drawn from the center to the circumference of the
+circle are equal.
+
+God is free from all infirmity.
+
+
+
+The Verb Substantive is th^^ ^^^ch causes the Subject to be ^^^^^ed from the
+A^tribute; for (...) between both.
+
+An Enuntiation and a Proposition are the same thing; yet out of a Syll^gisme
+we^ call it Enuntiation, but in a Syllogism we call it Proposition.
+
+The second Chapter. Of the kinds of Enuntiation.
+ENuntiations are either Simple or Compounded.
+
+The Simple Enuntiatio^, which also is called Categoricall, when a thing is
+affirmed or denied simply and without condition, and without adding a Whether,
+or an If; as, Man is reasonable.
+
+Heaven is round.
+
+Water is cold.
+
+God is no liar.
+
+
+
+Of these Enuntiations some are Universal, and some particular.
+
+Universal Enuntiations are such as have these words, All, or None, joined
+with them. As, All men are sinners.
+
+No man is perfect.
+
+
+
+Particular Enuntiations are such as do not affirm or deny generally of all,
+but only of some in particular. As, Some man is black.
+
+Some Kings have not been wise.
+
+Every horse is not white.
+
+
+
+Under particular Enuntiations, the Singulars are also comprehended: As, Peter
+is foolish.
+
+This man is a Philosopher.
+
+
+
+Enuntiations which have no note whereby they may be discerned to be vniversals
+or particulars, are called Indefinites, and in strict dealing must be taken for
+particulars. Notwithstanding, when the matter is Necessary, they are of as
+much force as vniversals. As when I say, Man is reasonable, it is as much as if
+I should say, All men are reasonable.
+
+But if the matter be contingent and and mutable: as, Man is white, they are
+but as particulars, and is no more then if I should say, Some man is white.
+
+Again, Enuntiations are either Affirmative or Negative: Affirmative; as, God
+is good. Negative; as, God is no liar.
+
+Thus we see there are four kind of Enuntiations. For they are either
+Universal Affirmatiues. As, All men are white. Or Universal Negatiues, as, No
+man is white. Or Particular Affirmatiues, as, Some man is white. Or Particular
+Negatiues, as, Some man is not white.
+
+The universality or particularitie of an Enuntiation is called the quantity
+thereof. But to be Affirmative or Negative makes the quality.
+
+Simple Enuntiations are sometimes modified by certain circumferences of
+Necessity, or Contingency, or Possibility, or Impossibility; as, It is
+necessary that man be reasonable.
+
+It falls out that it thunders in Winter.
+
+It is possible that it raineth or has rained.
+
+It is impossible that the Soul should be mortal.
+
+
+
+An Enuntiation thus modified or qualified by such circumstances is Negative,
+when the negation is joined to the modification or circumstance. As when we
+say, It is not necessary that Caesar overcome. But this Enuntiation, It is
+necessary that Pompey overcome not, is affirmative.
+
+Compounded Enuntiations are either Conditional or Disjunctiue.
+
+Conditional Enuntiations are such as neither affirm nor deny simply, but
+with an If; as, If it be day, the Sun is up.
+
+If God will, the troubles shall cease.
+
+
+
+These Enuntiations are compounded of two parts; the former is called the
+Antecedent: and the latter the Consequent. And both these may be affirmative;
+as, If it be day, the Sun is up.
+
+Sometimes the one is affirmative, and the other negative; as, If the Sun be
+not up, it is night. or, If the Sun be up, it is not night.
+
+And sometimes both negatiues; as, If it be not a living creature, it is no man.
+
+Disjoined or Disjunctiue Enuntiations are such as are compounded of opposed
+parts, whereof the one overthrowes the other; as, either, It is day, or night.
+
+This man is alive, or dead.
+
+
+
+These Enuntiations are not true, except both parts be immediately contraries
+or opposits. For if I should say, This cloak is black, or white, I might
+speak against the truth; for the cloak may be gray or tawnie, etc.
+
+The third Chapter. Of the Opposition of Enuntiations.
+OF Enuntiations some are necessary, and some probable or contingent. According
+to this difference Enuntiations are more or less opposite one to another.
+Necessary Enuntiations are either when the Genus is attributed to the Species;
+as, Man is a living creature. Or the difference; as, Man is reasonable. Or the
+property; as, All fire is hot. The Contingents are when some accident is
+attributed to the Subject; as, The horse is white. Man is a Physician.
+
+The Opposition of Enuntiations is done three manner of ways. Either as
+Contraries, or Subcontraries, or Contradictories. In all which Oppositions one
+of the two opposed Enuntiations must ever be affirmative, and the other
+Negative, and the same terms must still be kept.
+
+Contrary Enuntiations are an universal affirmative, and an universal
+negative; as, All men are just.
+
+No man is just.
+
+
+
+Which are both false, because the matter is Contingent. But if the matter be
+Necessary, then the one is true, and the other false; as, All men are living
+creatures.
+
+No man is a living creature.
+
+
+
+Subcontrarie Enuntiations are two particulars contained under two vniversals,
+whereof the one affirms, and the other denies; as, Some man is just,
+
+Some man is not just.
+
+
+
+In a necessary matter the one is true, and the other false. But in a
+contingent matter they may both be true.
+
+Contradictory Enuntiations are an universal affirmative, and a particular
+negative. Or else an universal negative, and a particular affirmative; as, All
+men are white.
+
+Some man is not white.
+
+Or else. No man is not white.
+
+Some man is white.
+
+
+
+Of these two Enuntiations it is necessary that the one be true, and the other
+false, in what matter soever it be.
+
+Contraries agree in quantity, but are opposite in quality; as also
+Sub-contraries: but Contradictories are both.
+
+The Opposition of Enuntiations in matters Necessary.
+The one true and the other false.
+VNIV. AF. All men are living creatures. Contraries. VNIV. NEG. No man is a
+living creature. Subordinates. Contradictories
+
+Contradictories
+
+Subordinates. The one true and the other false.
+PART. AF. Some man is a living creature. Subcontraries. PART. NEG. Some man is
+no living creature. The Opposition of Enuntiations in a matter Contingent.
+VNIV. AF. All men are white. Both false.
+Contraries. VNIV. NEG. No man is white. Subordinates. Contradictories
+
+Contradictories
+
+Subordinates. PART. AF. Some man is white. Both true.
+Subcontraries. PAR. NEG. Some man is not white.
+
+Two singular Enuntiations cannot be opposed one to another, but
+Contradictorily; as, Peter is white. Peter is not white.
+
+And therefore of necessity the one must be true, and the other false.
+
+The fourth Chapter. Of the Conversion of Enuntiations.
+TO Convert an Enuntiation, is to change it so as that the subject is turned
+into the attribute, and the attribute into the subject, keeping still the
+truth. As, No man is a horse. Then if you will convert this Enuntiation, you
+must say, No horse is a man.
+
+This Conversion is done either Simply, or by Accident.
+
+The Simple Conversion is, when the Enuntiation is changed without altering the
+quantity. Thus are universal negatiues converted; as in the example before
+mentioned.
+
+And so are particular affirmatiues. As, Some man is learned, and, Some learned
+is a man.
+
+But universal affirmatiues cannot be converted Simply. For in turning them
+so, their truth would be lost. Thus it is true, that, Every man is a living
+creature: but it is not true, that, Every living creature is a man.
+
+Therefore when we go about to convert such Propositions, we take away their
+universal quantity, and in stead of saying Every man is a living creature, we
+turn it into a particular Enuntiation, and say, Some living creature is a man.
+Except when the subject is the species, and the attribute the property or
+difference. For in this case the proposition may be converted simply. For
+example, All living creatures have sense; and, All, that has sense is a living
+creature. All bodies have three dimensions: All that has three dimensions is a
+body.
+
+Particular negatiues are not converted: for example, this Enuntiation, Some
+man is not a Philosopher, is true. But if you would turn it, it would prove
+false: Some Philosopher is not a man.
+
+Universal affirmatiues may be converted into universal negatiues, composed
+of two negations. As, All men are living creatures.
+
+Whatsoever is not a living creature is no man.
+
+
+
+A singular affirmative may be converted into a particular affirmative. As,
+This horse is lame: Some lame thing is a horse.
+
+The fourth Book. Of a SYLLOGISM, and the form and kinds thereof.
+The first Chapter. What a Syllogism is. Also, what a Conclusion is, and a
+Question, or Problem, and the parts thereof.
+A Syllogism is a reason or argument in the which from two Enuntiatio^s or
+propositions coupled together by certain laws, we draw and deduce a
+necessary Conclusion. For example, if we join these two Propositions
+together, All that lives has a soul.
+
+All plants live.
+
+This conclusion will follow, Therefore all plants have a soul.
+
+As Propositions are called Enuntiations before they belong to a Syllogism; So
+the Conclusion before it be proved by a Syllogism, is not called a Conclusion,
+but a Question or Proble^e.
+
+Now every question or conclusion has two parts, namely, the Subject, and the
+A^tribute. As in the example above mentioned Plant is the Subject, and, to have
+a soul, is the Attribute. The Philosophers call them the two Terms, whereof
+the subject is called the lesser Term, and the attribute the greater Term:
+because the attribute commonly is more general then the subject. And that
+which in the Mathematics is said, to contain, in Logic is said, to be
+attributed.
+
+The second Chapter. How to make a Syllogism, and of the parts of it.
+A Syllogism is thus made. A question or problem is propounded: For example,
+let the question be, Whether Philip be a living creature or no? Now he that
+will prove by a Syllogism that Philip is a living creature, must dismember the
+said question into two parts; the one whereof is the subject, namely, Philip;
+and the other the attribute, namely, living creature. Then he must look out
+some third thing, which may be joined and fitted to each of these two parts.
+For example, the word Man; which he must first join with living creature, and
+say, Every man is a l^ving creature; and then he must join it with Philip, and
+say, Philip is a man; thence will follow this Conclusion, Therefore Philip is a
+living creature.
+
+This word man is called the Mean or Link: because by the means thereof as by
+a Link, the two parts of the conclusion are coupled together. It is of this as
+of two Rings which are linked together by the means of a third, which is
+placed between both, as, diagram
+
+If the Ring A be joined with the Ring B and the Ring B with the Ring C, it
+follows that the Ring A is joined with the Ring C.
+
+This may also be illustrated by an example drawn from Numbers, reasoning
+thus. Twelve contains six, and six contains three, therefore twelve
+contains three. For we said before, that that which is said to contain in
+Mathematics, the same is said to be attributed in Logic.
+
+Therefore every Syllogism is compounded of three parts or Terms, namely, the
+Subject of the conclusion, the Attribute of the conclusion, and the Mean or
+middle Term, which knitteth these two parts of the conclusion together.
+
+It is no hard matter so soon as a Syllogism is propounded, presently to
+perceive which is the Middle term. For it is all that which is not in the
+conclusion.
+
+The Mean or middle term joined with the attribute of the conclusion, makes
+that proposition which is called the Major or Greater: because the attribute of
+the conclusion which is called the greater term is there. The same Mean being
+joined with the subject, makes the other proposition, which is called the
+Minor or Lesser; so called because the subject of the conclusion which is
+called the lesser term is there. This Minor proposition is also called the
+Assumption. Now for more ease in this point, we will call the first proposition
+simply the proposition, and the second the assumption.
+
+The third Chapter. The natural reason upon which a Syllogism is grounded.
+THis structure of a Syllogism is grounded upon two natural Maxims,
+acknowledged to be true by those of the Meanest capacity. Whereof the first
+is. Whatsoever contains any thing, contains also that which is contained in
+that thing.
+
+Which Maxim conceived in Logical terms, is thus to be expressed. Whatsoever
+is generally attributed to any thing, must also be attributed to such things,
+as the said thing is attributed unto. As, seeing that to be a living creature
+is attributed to all men, it must also be attributed to Philip, because Philip
+is a man. This first Maxim is the foundation of all Syllogismes that conclude
+affirmatively.
+
+The second Maxim is, That which agrees not to a thing and cannot be
+attributed unto it, agrees not likewise to those things which are contained
+under that said thing. As, to be Almighty belongs not to any creature;
+therefore it belongs not to Angels, because they are creatures. This Maxim
+is the ground of all Negative Syllogismes, that is to say, such as conclude
+negatiuely.
+
+The fourth Chapter. Of the Figures of a Syllogism.
+BEcause the Mean is diversely joined with the two terms of the conclusion:
+hence it comes to pass that according to the diverse placing of the said Mean,
+sundry Figures and Forms of Syllogismes do arise. Now these Figures are three.
+
+The first figure is that wherein the mean is the subject in the proposition,
+and the attribute in the assumption. As, in the examples before named; and also
+in this, All MEN are sinners.
+
+Paul is a MAN.
+
+Therefore Paul is a sinner.
+
+
+
+The second figure is when the Mean is the attribute both in the proposition
+and in the assumption. As, All birds have FEATHERS.
+
+No Batt has FEATHERS.
+
+Therefore no Batt is a bird.
+
+
+
+The third figure is when the Mean is the subject as well in the proposition,
+as in the assumption. As, The SOVLE is immortal.
+
+The SOVLE is a creature.
+
+Therefore some creature is immortal.
+
+
+
+The fifth Chapter. General Rules, common to all Figures.
+ALL Syllogismes that are faulty in any of the Rules following conclude
+nothing.
+
+The first Rule.
+A Syllogism must have three Terms, namely, the Subject, and Attribute of the
+conclusion, and the Mean; for where there be two Means the Syllogism is
+stark naught. The reason drawn from nature is this: If two rings be linked
+with two other several rings, it follows not that therefore these two former
+rings be linked together. And likewise if you would know whether two pieces of
+ground agree in quantity, you must not take two sundry measures; but only one
+and the same. Now the two Terms are like unto these two pecces of ground, and
+the Mean is like unto the said measure.
+
+We use to say there be four terms, not only when we find in a Syllogism
+four differing terms in words; but also when one and the same word is taken
+in a double sense, and is equivocall; as, KING is but one syllable.
+
+Alexander is a KING.
+
+Therefore Alexander is but one syllab^e.
+
+
+
+King in the proposition is taken for the word; in the assumption for the
+person. Likewise if I should say, Every NVMBER is an Accident.
+
+Ten men are a NVMBER.
+
+
+
+Therefore ten men are an Accident. I should make four terms, for in the
+proposition the word Number is taken for the number numbering, and in the
+Assumption for the number numbered. Thus, The END is good.
+
+Death is the END.
+
+Therefore death is good.
+
+
+
+In the proposition the word End is taken for the scope, and in the assumption
+for the extremity of a thing.
+
+The second Rule.
+Out of two negative propositions nothing can be concluded. As, No man is a
+beast.
+
+No horse is a man.
+
+
+
+Hence nothing is concluded. This may be known by the second fundamental
+reason or Maxim, set down in the third Chapter. And the reason is manifest:
+For conclusions are then Negative, when the Mean agrees with one of the
+terms of the conclusion, and not with the other: whence it is inferred, that
+the terms of the conclusion agree not together. And therefore the Mean must
+needs agree with one of the two terms; and this is expressed by affirmation.
+
+Yet here is an exception, namely, when the proposition has two negations
+equivalent to an affirmation. For example, Whatsoever is not a living creature
+is not a man.
+
+A Statua is not a living creature.
+
+Therefore a Statua is not a man.
+
+
+
+This Syllogism is good, for the proposition having two negations, imports
+as much as this affirmative: Every man is a living creature.
+
+The third Rule.
+If both the propositions be particulars, the Syllogism is not good, and the
+form of it is naught, and can conclude nothing.
+
+This is likewise evident by the two fundamental Maxims set down in the
+third chapter, where these words, Whatsoever contains any thing, presuppose
+an universal proposition.
+
+Nevertheless, from two singular propositions a particular conclusion may be
+well drawn in the third figure. As, NERO was a Minstrell.
+
+NERO was an Emperor.
+
+Therefore some Emperor was a Minstrell.
+
+
+
+Again.
+
+IVDAS is damned.
+
+IVDAS was an Apostle.
+
+Therefore some Apostle is damned.
+
+Or in the second figure.
+
+Thersites was DEFORMED.
+
+This man is not DEFORMED.
+
+Therefore this man is not Thersites.
+
+Whence it is easy to see, that singular propositions are of more force in
+reasoning then particulars.
+
+The fourth rule.
+The conclusion ever follows the worser and the weaker of the two
+propositions: That is to say, if one of the propositions be Negative, the
+conclusion also must be negative, and if one of the propositions be particular,
+the conclusion also must be particular.
+
+Whence it follows, that if the proposition be an universal negative, and
+the assumption a particular affirmative, the conclusion must be a particular
+negative. For affirmation is better then negation, and an universal
+proposition is better then a particular, because it teaches more things. The
+reason of this Maxim is evident. For a thing of less worth cannot bring forth
+a thing more excellent, then it self.
+
+The fifth Rule.
+There must not be more in the conclusion then there is in the propositions,
+As, All that is ordained of God is good.
+
+Marriage is ordained of God.
+
+Therefore marriage is good for an old man; or, with an Infidel.
+
+
+
+The sixth Rule.
+True propositions well coupled, cannot bring forth a false conclusion; but
+false propositions may by chance yield a true conclusion. Which is done, when
+we intend to prove a truth by a false reason; and a true conclusion by a Mean
+which agrees with neither of the two terms, or only with the one. As, who
+would prove Philip to be a living creature, because he is a horse. Or that a
+diamond is a stone, because it is a man. As, All men are stones.
+
+All diamonds are men.
+
+Therefore all diamods are stones.
+
+
+
+This conclusion is true, howsoever the two propositions be false.
+
+The sixth Chapter. Special Rules for every Figure, and first for the first.
+IN the first figure the proposition must be universal, and the assumption
+affirmative: or else the Syllogism is naught. For example, Some body is a
+living creature.
+
+Every stone is a body.
+
+Therefore some stone is a living creature.
+
+
+
+This conclusion is false, and follows not from the propositio^s: because the
+first proposition is particular. And if I argue thus, All men are living
+creatures,
+
+No horse is a man.
+
+Therefore no horse is a living creature.
+
+
+
+This conclusion is false, and follows not from the propositions; because the
+assumption is negative. This rule is grounded upon the second Maxim set down
+in the third Chapter which says, that in Syllogismes concluding negatiuely,
+one of the propositions must be affirmative. Except when the negation do make
+a part of the Mean. As if I say, All that is not right is crooked.
+
+This line is not right.
+
+Therefore this line is crooked.
+
+
+
+The evidence of this will appear, if you frame the assumption thus, This line
+is a line which is not right.
+
+For then the assumption is turned into an affirmative.
+
+The preeminences and prerogatives of the first figure are great above the two
+others. For the second figure cannot conclude affirmatively, and the third
+figure cannot conclude universally, but in the first figure we may conclude all
+manner of ways, and prove all manner of questions: whether universal
+affirmatiues, or universal negatiues, or particular affirmatiues, or
+particular negatiues.
+
+Universal affirmatiues. As we may prove that all covetous persons are
+thieves, because they withhold other men's goods.
+
+Again universal negatiues. As we may prove that no covetous person is free,
+because he is a slave to his money.
+
+We may also prove in the first figure a particular affirmative conclusion. As
+we may prove that some fishes have lungs, because they breath.
+
+Lastly, we may prove in the first figure a question that is particular
+negative. As, that Judas and Saul are not saved, because they were impenitent.
+
+Moreover, the excellency of the first figure appears in this, that the
+others are reduced unto it. For by changing something in them, they are reduced
+to the first figure; as we shall see hereafter.
+
+Rules for the second Figure.
+
+In the second Figure the Mean is the attribute in both the propositions.
+
+The first proposition in this figure must be universal, or else nothing can be
+concluded. As, Some living creatures have two feet.
+
+No horse has two feet.
+
+Therefore some horse is not a living creature.
+
+
+
+The conclusion is false, and follows not; because the proposition is
+particular.
+
+Again, in the second Figure one of the propositions must be negative, and
+consequently the conclusion. For this reason were not good to say, All henns
+have two feet.
+
+You have two feet.
+
+Therefore you are a hen.
+
+
+
+The natural reason hereof is apparent. For it follows not, that if one
+thing be attributed to two other things, that these two things should be the
+same thing. As, if to be yellow belongs both to honey and to gall, it follows
+not therefore that honey is gall: but it follows well in the negative. As,
+Honey is sweet.
+
+Gall is not sweet.
+
+Therefore gall is not honey.
+
+
+
+The natural reason hereof is, because if one thing belongs to one of the
+two terms of the question, and not to the other, it follows that the two
+terms agree not together.
+
+How to reduce the Syllogismes of this second figure ^o the first.
+In this figure when the proposition is negative, it is easy to convert and
+reduce the Syllogism unto the first figure. For then we must only convert the
+proposition simply. As.
+
+No terrestrial body mooues upward.
+
+Smoke mooues upward.
+
+Therefore smoke is no terrestrial body.
+
+You may convert this proposition, saying thus, Nothing that mooues upward is a
+terrestrial body.
+
+And so you shall have it in the first figure.
+
+But if the assumption be negative, you must put it in the place of the
+proposition, and then convert simply the conclusion, as also the assumption,
+which is become the proposition. As in this Syllogism, All men are living
+creatures.
+
+No statua is a living creature.
+
+Therefore no statua is a man.
+
+
+
+You must change the assumption, and say, No living creature is a statua.
+
+And set it in the place of the proposition, thus, No living creature is a
+statua.
+
+All men are living creatures.
+
+
+
+Whence the conclusion follows well, Therefore no man is a statua.
+
+Which is the same conclusion, but only converted simply.
+
+Rules for the third Figure.
+
+In the third figure the Mean is the subject in both propositions.
+
+The assumption must be affirmative, as in the first figure.
+
+The conclusion is always particular, and cannot be universal.
+
+The natural reason hereof is, because if two things are attributed to the
+same thing, it follows not that these two things agree always together: but
+only it follows that they agree sometimes and in certain subjects. As, if
+to be bright and round belongs to the Sun, it follows not that whatsoever
+is round must be bright. So to be reasonable and to have two feet belongs to
+man; whence it follows not, that whatsoever has two feet must be reasonable:
+but only that something which has two feet is reasonable.
+
+The Syllogismes of this figure are reduced to the first by converting the
+assumption. As, All horses neigh.
+
+All horses have four feet.
+
+Therefore something that has four feet neigheth.
+
+
+
+If you convert the assumption, How to reduce the Syllogismes of the third
+figure to the first.
+saying, Something that has four feet is a horse,
+
+This Syllogism will be in the first figure.
+
+But if the proposition be particular, ac in this Syllogism, Some Apostle is
+damned.
+
+All Apostles are sent of God.
+
+Therefore some one that is sent of God is damned.
+
+
+
+Now to reduce this Syllogism to the first figure, you must convert the
+proposition, and say, Some damned persons is an Apostle.
+
+And then put it in the place of the assumption in this manner, All Apostles
+are sent of God.
+
+Some damned person is an Apostle.
+
+Therefore some damned person is sent of God.
+
+
+
+Which is the very same conclusion, but simply converted.
+
+The seventh Chapter. Certain artificial words which serve to show how many
+ways we may argue in each figure, and how the second and third figure may be
+converted into the first.
+TO help the memory Logicians have found out certain artificial words, which
+serve to show how many ways a man may argue in each figure. The words are
+these; 1. BARBARA, CELARENT, DARII, FERIO. 2. CESARE, CAMESTRES, FESTINO,
+BAROCO. 3. DARAPTI, FELAPTON, DISAMIS, DATISI, BOCARDO, FERISON.
+To understand the use of these words, you must note that every one of these
+words has but three Syllables: the first whereof signifies the proposition, the
+second the assumption, and the third the conclusion.
+
+Again, note that in all these words there are but four Vowels, namely these,
+A. E. I. O.
+
+A signifies an universal affirmative proposition.
+
+E signifies an universal negative proposition.
+
+I signifies a particular affirmative proposition.
+
+O signifies a particular negative proposition.
+
+
+
+The Syllogismes which are made
+
+The word BARBARA, intimates, that whenever the two propositions in the first
+figure shall be A, that is, universal affirmative, the conclusion shall
+likewise be A, that is, an universal affirmative.
+
+So the word CELARENT signifies that whenever the proposition in the first
+figure shall be E, that is, an universal negative, and the assumption A, that
+is, an universal affirmative; the conclusion shall be E, that is, an
+universal negative. So likewise of all the other words.
+
+
+
+The word FESTINO intimates, that whenever the proposition in the second
+figure shall be E, that is, an universal negative, and the assumption I, that
+is, a particular affirmative; the conclusion shall be O, that is, a particular
+negative. As, FES -- No compounded thing is eternal.
+
+TI -- Some thing in man is eternal.
+
+NO -- Therefore something in man is not compounded.
+
+
+
+Note that in these four words, the last syllables are always either E or O,
+to show that the conclusion must always be negative.
+
+
+
+For example, the word FELAPTON signifies that if the proposition in the third
+figure be E, that is, an universal negative, and the assumption A, that is, an
+universal affirmative; the conclusion must be O, that is, a particular
+negative. As, FE -- No Batt has feathers.
+
+LAP -- All Batts fly.
+
+TON -- Therefore something that flies has no feathers.
+
+
+
+Note that in all these six words, the last syllables have either I or O, to
+show that the conclusion in the third figure must always be particular.
+
+The Consonants of these same words are not without their special use. For
+they serve to know how the Syllogismes of the second and third figure may be
+reduced to the first. To this end serves the first capital letter. For Cesare
+and Camestres are reduced to Celarent: Darapti, Disamis, Datisi are reduced to
+Darij: Festino, Felapton, Ferison are reduced to Ferio.
+
+Baroco and Bocardo cannot be reduced, because one of the propositions is a
+particular negative, which cannot enter into the first figure.
+
+S signifies that the proposition which is noted with an S, must be simply
+converted. As in Cesare and Datisi.
+
+P signifies that the proposition must be converted by Accident, that is to
+say, that the universal affirmative must be converted into a particular
+affirmative. As in Darapti and Felapton.
+
+M signifies that the propositions must be transposed, and must change their
+place. As in Camestres and Disamis, whereof we have given examples.
+
+The eight Chapter. Of an Enthymeme.
+AN Enthymeme is nothing else but a Syllogism, whereof one of the propositions
+is suppressed, either for brevities sake, or for some deceit. For brevitie, as
+God sins not.
+
+Therefore God is no liar.
+
+
+
+Or Nothing that corrupts man can be the chief good.
+
+Therefore Voluptuousness is not the chief good.
+
+
+
+For deceit, as, This Commonwealth is the greatest.
+
+Therefore it is the best.
+
+
+
+Or Whatsoever troubles a Commonwealth must be banished.
+
+Therefore the Gospel must be banished.
+
+
+
+In these imperfect Syllogismes, that proposition is suppressed which is most
+odious, and wherein the falsehood lies, namely, Every Commonwealth, that is,
+the greatest is the best. As also this, The Gospel troubles a Commonwealth.
+
+Sometimes to make the speech more smooth and current, we put the conclusion in
+the first place. As, The estate of Oligarchy is the worst of all.
+
+Because it is most subject to civil war.
+
+
+
+Rhetoricians call Enthymemes proofs grounded upon probable signs. As, Milo
+killed Claudius:
+
+For he hated him before.
+
+
+
+Or This man is learned:
+
+For he is pale and has many books.
+
+
+
+These proofs are of no force, except they be in great number. For signs and
+conjectures which have no force being alone, become forcible when there are
+many of them together.
+
+The ninth Chapter. Of Induction, and of Example.
+INduction is a Syllogism wherein diverse singulars or particulars are as a
+Mean to prove an universal conclusion. As when I will prove that all living
+creatures have feeling; because birds, fishes, serpents, terrestrial beasts,
+and Amphibia have feeling.
+
+Or thus, the Stag, the Do, the Hare, the Coney, the Mouse have a great heart
+in proportion to their body: Now the fearful creatures are the Stag, the Do,
+etc. Therefore all fearful creatures have a great heart in proportion to their
+bodies.
+
+By this kind of discourse all Sciences have been invented. For example,
+Physicians having by the trial of many plants of Mercury or of Parietarie
+observed, that they are laxatiue, have thence gathered a general rule, that
+all plants of Mercury or Parietarie are laxatiue. Thus have men attained to
+the knowledge of the causes of Eclipses, of Apoplexies, and of Floods greater
+then ordinary about the Aequinoxes by sundry particular observations.
+
+An Example is an imperfect Induction. Of Example.
+For in stead of many particulars we use but one.
+
+In natural causes Examples are more forcible then in civil and voluntary
+actions: because natural events are much more alike then civil and voluntary
+actions, which are subject to many changes and chances. As if I should say,
+Yesterday in the evening the sky being red, the day following proved fair:
+this example has some likelihood to prove, that seeing the sky is red this
+evening, to morrow it will prove a fair day. But if I say, Philip digging his
+garden found a pot of gold, it follows not that Alexander digging shall have
+the same hap.
+
+Orators notwithstanding do much enlarge themselves upon such examples. And by
+reason of the mischiefs which have happened to any one through drunkenness, or
+lying, or anger, they use to exhort others to shun the same vices.
+
+The tenth Chapter. Of the Enumeration of parts.
+THe Enumeration of parts is also a kind of Syllogism, serving to conclude
+both affirmatively and negatiuely.
+
+When we will conclude affirmatively, we make a rehearsal of all the parts:
+that so having remooved all the parts but one, that one which remains may be
+concluded or affirmed. As,
+
+What goods soever a man has, he has them either by inheritance, or by
+purchase, or by exchange, or by gift, or by labor, or by play, or because he
+has found them, or stolen them. But the goods which you have, you have them
+neither by inheritance, nor by purchase, nor by exchange, nor by gift, nor by
+labor, nor by play, nor because you have found them. Therefore you have stole
+them.
+
+But when we will conclude negatiuely, we remove all the parts. As, All
+Frenchmen are either Normans, or Picards, or Champenois, etc. But the Lorrains
+are neither Normans, nor Picards, nor Champenois, etc. Therefore they are no
+Frenchmen.
+
+You must ever take heed that the Enumeration be not imperfect; as, when we say
+that all mankind is either male or female: Or that every action is either good
+or bad. For there are Hermaphrodites; and there be some actions that are
+indifferent. So if I should say that every quality is either a natural
+faculty, or a habit, or an active quality in the objects of the senses, this
+enumeration would prove imperfect. For besides these there are forms and
+figures.
+
+The eleventh Chapter. Of a Dilemma.
+A Dilemma is a forked or horned argument, wherein we give our adversary his
+choice of two things, to show him that whether of the two soever he chooses,
+he is still overcome in both. As, to prove that a man should never marry, we
+may argue thus, If thou marriest, thy wife will be either fair or deformed; If
+fair thou will prove jealous; If deformed thou will not like her. Therefore it
+is better not to marry. Or, be not a lawyer, for if thou pleadest for
+injustice, thou shall displease God; If thou pleadest for justice, thou shall
+displease men. Our Savior Christ made a Dilemma when he was buffeted, saying,
+If I have ill spoken show wherein; but if well, why smitest thou me? Thus a man
+may reason against one that has dreamed that we must not believe dreams: Or
+that has sworn that he will forswear himself. If thou forswear thy self,
+thou art a perjured person; If thou do not forswear thy self, yet art thou
+still a perjured person; because thou have sworn that thou will forswear thy
+self.
+
+Carneades gave twenty crowns to his Master Diogenes to teach him Logic. One
+day disputing with his Master according to the rules that he had taught him,
+his Master told him that he disputed not well; Whereupon his Scholar made him
+this Dilemma. I dispute either well or ill: If I dispute well, why blamest thou
+me? If I dispute ill, give me back my twenty crowns? Such was the
+disputation between Protagoras and his Scholar Evathlus, Gellius. l. 5. c. 10.
+which example is well known, and the recital would be too too long. You may
+see it in A. Gellius. lib. 5. cap. 10.
+
+The twelfth Chapter. Of a Sorites, or heaping Syllogism.
+A Sorites is a kind of argume^^ which knitteth many propositions together, to
+show that the subject of the first agrees with the attribute of the last. As,
+Whatsoever acts, mooveth.
+
+Whatsoever mooveth, is mutable.
+
+Whatsoever is mutable, is corruptible.
+
+Whatsoever is corruptible, is not God.
+
+Therefore it is inferred, if God acts, he is not God.
+
+
+
+So many propositions, so many Syllogismes which have God for the subject of
+the conclusion.
+
+The thirteenth Chapter. Of Conditional or Hypotheticall Syllogismes.
+WE have said that Enuntiations are either simple or compound; and that of
+compounded Enuntiations, some are Conditional or Hypotheticall, and some
+Disjunctiue.
+
+Hitherto we have treated of Syllogismes consisting of simple propositions, now
+we are to speak of Conditional and Disjunctiue Syllogismes, whose
+propositions are conditional or disjunctiue.
+
+A Conditional Syllogism is, whose proposition has an If. As, If there be a
+God, he must be served.
+
+But there is a God.
+
+Therefore he must be served.
+
+
+
+The proposition has two parts, the first whereof is called the Antecedent, If
+there be a God: the second is called the Consequent, He must be served.
+
+There are two Rules for these Syllogismes.
+
+I. Maxim.
+The first is, that if the Antecedent be granted, the Consequent is also
+granted. As, If Paul be a man, he is a living creature.
+
+But he is a man.
+
+Therefore he is a living creature.
+
+
+
+But you cannot by over-throwing the Antecedent, overthrow the Consequent. As,
+If a fly be a bird, it is a living creature.
+
+But a fly is no bird.
+
+Therefore it is no living creature.
+
+
+
+II. Maxim
+The second Maxim is, that if the consequent be overthrown, the antecedent is
+overthrown also. As, If a statua be a man, it is a living creature.
+
+But a statua is no living creature.
+
+Therefore it is no man.
+
+
+
+If the antecedent be the species, and the consequent be the difference or
+property, then you may overthrow the antecedent to overthrow the consequent.
+As, If a statua be a horse, it neigheth.
+
+But it is no horse.
+
+Therefore it neigheth not.
+
+
+
+But such conclusions follow by chance, and not by the force of the Syllogism.
+
+In these Syllogismes the assumption is part of the proposition, which
+proposition makes an entire Syllogism. And it is probable that this word
+Assumption is borrowed from these Syllogismes, because that in them the second
+proposition is taken and assumed out of the first.
+
+The foureteenth Chapter. Of Disjunctive Syllogismes.
+DIsjunctiue Syllogismes are such, whose proposition is compounded of two
+disjunctiue parts or pieces, or which are separated by this particle OR. As, It
+is day or night. This number is even or odd. As thus, This man is dead or alive.
+
+But he is dead.
+
+Therefore he is not alive.
+
+Or else thus, But he is alive.
+
+Therefore he is not dead.
+
+Or thus, But he is not alive.
+
+Therefore he is dead.
+
+
+
+For those propositio^s are compounded of such parts, the one whereof cannot be
+granted, without overthrowing the other; Nor can you overthrow the one without
+establishing or granting the other. And for this cause, these two parts must
+be immediately opposite, so as there may be no third. For example, this argument
+is not good.
+
+There is peace or war.
+
+But there is no war.
+
+Therefore there is peace.
+
+For there may be a truce.
+
+In these Syllogismes to the end that the truth may be evident and without
+exception, the two parts of the proposition must not be contradictorie, but
+must be either contraries, or privatiues, or relatiues. For example, if I argue
+thus, This line is straight, or crooked.
+
+But it is straight.
+
+Therefore it is not crooked.
+
+
+
+This argument is clear and certain.
+
+But if I argue thus, Philip is wise or unwise.
+
+But he is unwise.
+
+
+
+From thence we can draw no conclusion that may have any likelihood of reason.
+
+The fifth Book. OF THE MASTERPIECE OF LOGIC called DEMONSRATION.
+The first Chapter. What Science is.
+THIS word Science is sometimes taken for the whole body of one kind of
+learning. Thus Ethics, Physics, Metaphysics, civil Law, are called
+Sciences. Sometimes the word Science signifies only the knowledge of a
+conclusion prooved by Demonstration. And this is it whereof we purpose to treat
+of in this place; which is thus defined.
+
+Science is a certain knowledge of a thing certain, whose proof is drawn
+from the cause.
+
+To have the Science of a thing, two certainties are required. The one is, that
+the thing be certain of it self and unchangeable. The second is, that the
+persuasion which we have of it be firm and clear. If either of these two
+certainties be wanting it is no Science, but opinion. For a man may have a
+doubtful opinion of a thing certain. As he that doubts whether there be a
+God.
+
+And on the contrary, a man may have a firm and steadfast persuasion of that
+which is uncertain and false. As those that suffer death for the defense of a
+false Religion.
+
+And therefore it is not amiss to know the difference between Science, Faith,
+and Opinion. Science is a certain knowledge of a certain thing by the next
+cause. Opinion is a doubtful or false knowledge. Faith is a firm persuasion
+grounded upon the Testimony of some other.
+
+If a man know certainly a thing because he sees it, or touches it, that is
+neither called Science, nor Faith, nor opinion; but sense, which knows only
+things singular: but Science is of things universal.
+
+The second Chapter. What a Demonstration or Demonstratiue Syllogism is.
+A Demonstratiue Syllogism is that which gives or brings certain knowledge
+of the conclusion. If we will define it more exactly, we must define it thus. A
+demonstratiue Syllogism is that which prooveth that the attribute of the
+conclusion is truly attributed unto the subject, by a Mean that must be the
+next efficient or final cause of the attribute of the said conclusion. These
+two sorts of causes were called external, in the Chapter of Causes above
+mentioned: because they are no parts of the effect, nor of the thing
+compounded, though sometimes the efficient cause be in the very same subject.
+As, the soul of man is the cause of the sense in man: and the thickness of
+gold is the cause of the weight of it. In these examples the efficient cause
+and the effect are in the same subject.
+
+The third Chapter. What questions are demonstrable.
+SVch questions wherein the attribute is a substance, cannot be prooved by
+demonstration: because substances have no certain efficient cause proper unto
+them. For the will of God is an universal cause common to all things, and by
+consequent it can be no Mean in a demonstratiue Syllogism.
+
+Again, such questions or conclusions wherein the attribute is a mutable or
+casual accident, cannot be proved by demonstration: because these accidents
+have no certain and assured cause. As, Philip is rich. Bucephalus halteth.
+
+But those questions are demonstrable, whose attribute is a proper and
+immutable accident, whereof the next efficient or final cause may be given.
+For example, these questions may be prooved by demonstration.
+
+A transparent body is without color.
+
+Eunuchs are never bald.
+
+Fixed Stars do twinckle.
+
+The Moon suffers obscurity.
+
+Of all estates Oligarchie is the most subject to civil war.
+
+Lines parallel never meet.
+
+All bodies compounded of Elements are corruptible.
+
+Under the scorching Zone it is very hot.
+
+For the next efficient or final cause of the attribute of these questions may
+be given.
+
+The fourth Chapter. What the propositions of a demonstratiue Syllogism ought
+to be.
+THe Demonstration must consist of necessary propositions; among which those
+are the most necessary, which are called Immediate.
+
+There be two sorts of immediate propositions, that is to say, such as are
+without any middle. For some are immediate in regard of the subject, and others
+are immediate in regard of the cause.
+
+Immediate propositions in regard of the subject are when the attribute agrees
+next of all and immediately to the subject, so as a nearer subject cannot be
+given. In such propositions the attribute agrees with the subject, because it
+is such a subject. For example, if I say that a horse has sense, this
+attribute agrees not next and immediately to a horse; for there is a nearer
+subject, namely, an Animal, unto the which sense belongs. But if I say that a
+horse neigheth, this agrees next and immediately to a horse, as he is a horse,
+and not by reason of any other nearer subject.
+
+Immediate propositions in regard of the cause are, when an attribute is so
+nearly joined to the subject, as that the cause or reason cannot be yielded
+why it should be so. For example, here is a Demonstration: Whatsoever has a
+sensitive soul has touching.
+
+Every animal has a sensitive soul.
+
+Therefore every animal has touching.
+
+
+
+In this Syllogism the conclusion is immediate in regard of the subject, but
+not in regard of the cause. For in this Syllogism the Mean is the cause of
+the conclusion. But the two propositions are immediate, both in regard of the
+cause, as also of the subject, for nothing can be alleged as a cause of their
+truths.
+
+Sometimes the efficient and final causes are linked together with a long
+chain. As, Under the Equator the air is very hot, because it is very
+subtle; The air is very subtle, because the Sun does rarefie it very much;
+The Sun rarefies the air, because the beams fall in right angles; The
+beams fall in right angles, because the Sun is there in the Zenith. Thus it
+is in the final cause.
+
+The Lungs draw in the air to refresh the heat of the heart: The heat of the
+heart is refreshed to keep the Temperature: The Temperature is kept to
+preserve life. So many causes, so many demonstrations. But the last where also
+the chiefest and last cause stands for the Mean, is the noblest of all:
+because it can no further be demonstrated: and the two propositions are
+immediate every manner of way.
+
+The fifth Chapter. A special note to know a perfect Demonstration.
+OF all the marks of a perfect Demonstration, this is the most evident, when
+it may be conver^ed or reduced to a definition. For we have said heretofore
+that the definition of a proper accident is compounded of three parts; namely,
+L. 2. c. 8.
+of the Genus of that which is defined, and of the proper subject, and of the
+cause thereof. As the definition of Death is, the destruction of the life of
+the creature by the extinguishing of vital heat. Out of this definition a
+demonstration may be framed, making the Subject of this accident to be the
+subject of the conclusion, the Genus to be the attribute, and the cause the
+Mean. As thus, Whenever the vital heat is extinguished, life is destroyed.
+
+But in a living creature the vital heat is extinguished.
+
+Therefore in a living creature life is destroyed.
+
+
+
+The same may be said of these definitions following. Sleep is the heaviness
+of a living creature, by the cessation of the common sense. Thunder is a noise
+in the clouds, by the breaking out of the fire.
+
+The sixth Chapter. Of an Imperfect Demonstration.
+WE have showed that a perfect demonstration is that, which proves by the
+next efficient or final cause of the attribute; that the attribute of the
+conclusion agrees with the subject.
+
+If any of these perfections be wanting, the demonstration is the weaker, and
+less perfect.
+
+If the Mean be not the next cause of the attribute, but only a remote cause,
+then is the demonstration weaker, and more imperfect. And such demonstrations
+for the most part conclude negatiuely. For example.
+
+Where there is no opposition of contrary qualities, there is no death.
+
+But in the heavens there is no opposition of contrary qualities.
+
+Therefore in heaven there is no death.
+
+Or He that is of a cold temperature will never be bald.
+
+But Eunuchs are of a cold temperature,
+
+Therefore Eunuchs will never be bald.
+
+
+
+In these demonstrations the propositions are not immediate: For the Mean is
+not the next cause of the attribute. To have no contrary qualities is not the
+next cause of not dying, but a remote cause: for the next cause of not dying in
+man's body is the continual preservation of the humors in an equal temperature;
+and the cause hereof is to have no contrariety or combat between the
+elementarie qualities in the body.
+
+Thus the cause why Eunuchs become not bald is, become the radical humor of
+the hairs is not spent: and the remote cause is, because they have but little
+heat.
+
+In these demonstrations the propositions are not immediate, for the Mean is
+not the next cause of the attribute.
+
+And though the propositions be immediate, yet if the Mean be not the cause,
+but the effect of the attribute, then it shall be a less perfect
+demonstration; proving not the effect by the cause, but the cause by the
+effect. This kind of demonstration shows not why the conclusion is, but only
+that it is. As, All that love God are beloved of God.
+
+But all that have faith in Christ, love God.
+
+Therefore all that have faith in Christ are beloved of God.
+
+
+
+The Mean is to love God, which is not the cause, but the effect of the love
+which God bears unto us; which love is the attribute of the conclusion in
+this demonstration, wherein the cause is proved by the effect: whereas in a
+perfect demonstration we prove effects by their causes. Therefore this
+imperfect demonstration proves only that the thing is, but shows not why it
+is. The effect may very well be the cause of knowing, but not of being. As the
+smoke which we see come out of a chimney may be a cause to make us know that
+there is fire in the house: but it is not the cause of the fire, but only the
+effect. And the unequal beating of the pulse is not the cause of the Ague, but
+it is a cause which makes us know that such a one has an Ague.
+
+The sixth Book. OF SOPHISMES OR FALLACIES.
+The first Chapter. Of Fallacies in words.
+ALL Fallacies or Sophismes committed in disputing are either in the Words, or
+in the Matter.
+
+Fallacies in words are of six kinds. 1. Aequivocation. 2. Amphibologie. 3.
+Deceit by Composition. 4. Deceit by Division. 5. Deceit in the Accent or
+Pronuntiation. 6. And deceit in the Figure of the word.
+
+1. Of Aequivocation.
+Decipt by Aequivocation is, when the Mean is a doubtful word, taken in the
+proposition one way, and in the assumption another way. As, That which has
+neither beginning nor ending, God created not.
+
+The roundnesse of the Heavens has neither beginning nor ending.
+
+Therefore the roundnesse of the Heavens God created not.
+
+
+
+In the proposition beginning and ending is taken for continuance of time: but
+in the assumption it is taken for the beginning and ending of a figure. Or
+thus, He that says that thou live, says true.
+
+He that says that thou art a goose, says that thou live.
+
+Therefore he that says that thou art a goose, says true.
+
+
+
+In the proposition it is meant of an express saying; but in the assumption of
+a saying by consequence.
+
+Thus a man of great capacity may be taken for a learned man, and sometimes
+for one whose stomach is able to contain much wine.
+
+The same fallacy may be committed also when a word is otherwise taken in the
+propositions, then in the conclusion.
+
+2. Of Amphibologie.
+Amphibologie is an ambiguous constructio^, making the sense doubtful. As,
+Faith alone justifies.
+
+It cannot be known whether the meaning be, that faith being alone justifies;
+or else that faith justifies only. In the first sense it is false; for faith
+alone without good works is no true faith, and by consequent justifies not.
+But in the second sense it is true that faith only justifies, because it
+only has the property to justify. So it is true in one sense, that the eye
+alone sees, but it is false in another sense that the eye sees alone. For an
+eye that is out of the head sees not
+
+3. The fallacy in Composition.
+The fallacy in Composition is, when things are taken as conjoined, which
+cannot be true, but in a divided sense. As in this proposition: A man that is
+set may run.
+
+Which is true if it be meant at diverse times; but if it be meant at the same
+time it is false and impossible. For a man that is set cannot run whilst he
+is sitting. So, that men are male and female, is true of diverse persons; but
+false if it be meant of the same persons.
+
+4. Of the fallacy by Division.
+This fallacy of Division is contrary to the former. For this separateth
+things which cannot be true, except they be joined together. Thus, though it be
+true that two and three make five, yet it follows not, that two or three are
+five. If a man should say, This wall is white, therefore this wall is; this
+consequence were good, because to be white is an accident which could not be,
+if the subject were not. But if one should say, Philip is dead, therefore
+Philip is; the consequence were not good: because that to be dead is not an
+accide^t, but a privation, which presupposes that the subject, namely, Philip,
+was, but now is no more. Whosoever therefore argues thus, divides that which
+cannot be true except it be joined. This division may happen sometimes in one
+word only. As, Ingeniosus, being taken for one word is a commendation, but
+divided into two, as, Ingenio sus, it is a reproach.
+
+5. Of the fallacy in the Accent or Pronuntiation.
+The fallacy in the Accent is, when a false thing is affirmed under color of
+pronouncing it as another thing that is true. For example, Where no ach is,
+there needs no salve.
+
+In the Gout there is no H.
+
+Therefore in the Gout there needs no salve.
+
+
+
+Again, if a man should say, I am hot; are you as hot? Or, I am cold; are you
+as cold? A man cannot distinguish in fast speaking of it, whether he says a
+sot, in stead of as hot; Or, a scould in stead of as cold. But being written a
+man shall easily perceive this fallacy.
+
+This fallacy is also committed when that which is spoken positiuely, is taken
+as if it were spoken by Interrogation. As if a man commanding say to another,
+Rest you, and he taking it Interrogatiuely should answer; No.
+
+6. Of the fallacy in the Figure of the word.
+The fallacy in the figure of the word is, when from the Gender or Number of
+the word, or because the Verb is Active or Passive, a man will infer that
+the nature of the thing is such. For example, if a man should argue, that
+Prudence, Temperance, or Justice are only proper and peculiar unto women,
+because they are of the feminine gender, which no way follows. So likewise,
+because to hear and to see be not Passiues, it follows not, that therefore
+hearing and seeing are no Passiues. And although I say, that I have received
+letters from my brother, it follows not, that I have received more then one,
+though the word be Plural.
+
+The second Chapter. Of Fallacies in the Matter.
+THere are seven fallacies in the Matter; that is to say, when the deceit
+lies not in the words, but in the ignorance or disguising of the thing. These
+fallacies are, 1. The fallacy by Accident. 2. The fallacy which takes a
+thing as spoken simply or absolutely, which is true only in some respect. 3.
+The Supposing of that which is in question. 4. The fallacy of Inconsequence.
+5. The fallacy whereby a thing is taken for a cause which is not a cause. 6.
+The fallacy which mingleth diverse questions as if they were but one. 7. The
+Ignorance of that which contradicts the question.
+
+The third Chapter. The fallacy by Accident.
+THe fallacy by Accident is, when from an assumption which is true only by
+accident a conclusion is drawn which is absolute, simple, and without
+restraint. As in this argument: That which stirs up troubles in a
+Commonwealth is pernicious.
+
+The Gospel stirs up troubles in a Commonwealth.
+
+
+
+Therefore the Gospel is pernicious. Thus the Sun darkeneth the eyesight:
+and the law of God hardens the sinner. Whence if a man would infer, that
+the Sun were the cause of darkness, or, that the Law were the c^use of
+sin, he should fall into the fallacy of the Accident. For the Gospel of it
+own nature stirs up no troubles, seeing it preaches peace: but men take
+occasion thereby to rise up against it. Neither does the Sun blind the eyes
+by nature, but by accident, when it meets with a weak eyesight.
+
+The fourth Chapter. The fallacy which takes a thing as simply true, which is
+not so, but only in some respect.
+THis fallacy is committed, when one of the propositions being true only in
+part, or in some respect, we labor to draw from thence a conclusion to make
+it true at all times, in all respects, and in every part. As, Every good thing
+is to be desired.
+
+Wealth is a good thing.
+
+Therefore wealth is to be desired.
+
+
+
+The assumption is true in some respect only, and to some men. For riches are
+not good, but to good men, and to such as can use them well. And so in this
+Syllogism: He that is borne of a woman had a beginning.
+
+Our Savior Christ was borne of a woman.
+
+Therefore our Savior Christ had a beginning.
+
+
+
+The fifth Chapter. Of the Supposing of that which is in Question.
+WE suppose that which is in question, when we make a Syllogism, wherein one
+of the propositions is the same thing which is in question, though it be
+couched in other terms. As if I would prove tha^ the world was not created,
+because God made it not. Or, if I would prove that men are just, because they
+are without sin; that were to prove a thing by it self.
+
+The sixth Chapter. Of the fallacy of Inconsequence.
+THe fallacy of Inconsequence is, when we break the rules which are set down
+in the Chapter of the conversion of Enuntiations, and in the Chapter of
+Hypotheticall Syllogismes. For ^^ample, we said in the fourth Chapt^^ of the
+third Book, that an universal affirmative enuntiation cannot be converted
+into any other proposition, but into a particular affirmative, or into an
+universal, having two negatiues. As, All men are living creatures, is thus
+converted; Some living creature is a man: Or into this, Whatsoever is not a
+living creature is not man.
+
+Again, we said that in Hypotheticall Syllogismes we may proceed from the
+establishing of the Antecedent, to the establishing of the Consequent: And that
+we may proceed from the over-throwing of the Consequent to the over-throwing
+of the Antecedent.
+
+Now if any would dispute contrary to these Rules, saying, All men are living
+creatures; therefore all living creatures are men. Or, All men are living
+creatures; therefore all that is not man is not a living creature, he should
+fall into the fallacy of a bad Consequence.
+
+The same fallacy is committed if you argue thus, If Bucephalus be a man, he
+is a living creature.
+
+But he is a living creature.
+
+Therefore he is a man.
+
+Or thus, If Bucephalus be a man, he is a living creature.
+
+But he is not a man.
+
+Therefore he is not a living creature.
+
+
+
+For such arguments are against the rules of Hypotheticall Syllogismes, set
+down in the thirteenth Chapter of the fourth Book.
+
+The seventh Chapter. The fallacy whereby a thing is taken for a cause, which
+is none.
+THe fifth fallacy is, when you allege a Mean which seems to be the cause
+of the conclusion, but indeed is not. Such was the answer of a certain Pyrate
+to Alexander the great: who having asked of him what had made him a Pyrate; he
+answered, that he was a Pyrate, because he had but one Fregat or small Bark;
+but if he had two hundred Galleys, as Alexander had, that then he should be a
+King. Such also are these proofs. The Church of Greece is the best, because it
+is the greatest. Or, This man is learned, because he has many books. Or, that
+Charles has a grey-beard, because he was not hanged ten years ago. Here the
+ordinary fault is, when the occasion is taken for a cause. For causes do act,
+but occasions act not; but are only the subject and matter of acting. Thus
+truth breeds hatred, not of it own nature, but by occasion. So the Law of God
+hardens the hearts of wicked men that oppose themselves against it. It is not
+the cause of the hardness, but only the occasion.
+
+The eight Chapter. Of the fallacy which mingleth many Interrogations, as if
+they were but one.
+SOmetimes many Interrogations are cunningly entermingled, that an untruth may
+be crowded in amongst many truths. As, Cyrus, Alexander, Caesar were they not
+valiant Kings? Or, these qualities, to be bay, old, tall, one-eyde, are they
+not in this horse?
+
+Some will be ready to grant all this, not marking that Caesar was never King;
+and that to be one eyde is a privation, and not a quality; and that to be old
+is not a quality, but a quantity or length of time past. Therefore such
+Interrogations must be answered by distinction.
+
+The ninth Chapter. Of the fallacy which is committed by the Ignorance of that
+which contradicts the Question.
+THe fallacy through the Ignorance of that which contradicts, is, when he
+that argues against me brings a conclusion which he alleges as contrary or
+contradictorie to my position, which notwithstanding is nothing prejudicial
+unto it, and may be granted. For example, if I say that God is no liar; a
+Sophister will go about to conclude, that God says not all the truth: which
+notwithstanding agrees very well with that which I affirm; neither does it
+from thence follow that God is a liar.
+
+To the end therefore that these be not taken for contradictorie or contrary
+Enuntiations, which indeed are not: we must understand that if we Every Cock
+is living, and, Every Cock is not living, are not contradictorie: if the one
+be meant of a living creature, and the other taken for the cock of a Gunne.
+Again, the attribute must agree with Man is mortal; and, Man is immortal,
+are not contradictorie: if the one be understood of the body; and the other of
+the soul of man. And, The Grecians were valiant, contradicts not this, The
+Grecians were not valiant, for both are true, if you consider them at several
+times.
+
+Cicero is of great stature; and, Cicero is not of great stature, may both be
+true, if Cicero be compared to diverse persons: little in comparison of a giant,
+and great in comparison of a dwarf.
+
+The tenth Chapter. Of the faults in Syllogismes.
+GEnerally all Syllogismes may be faulty, either in the form, or in the
+matter. They are faulty in the Form, when the rules of the figures are not
+observed, committing a fault, either in the quantity, or quality, or the
+propositions, or in the placing of the Mean, or if there be more then three
+terms.
+
+The Syllogism is faulty in the Matter, when one of the propositio^s, or
+both, are false, either in the whole, or in part. This faultiness happens
+sometimes through simplicity, and without cunning, bu^ sometimes it is
+fraudulent and with cunning; such as are the fallacies above mentioned. If a
+Syllogism be faulty in the form, it must be brought to the true form. If it
+be faulty in the matter, that proposition which is false must be denied. And
+if it be doubtful or true in part only, it must be distinguished.
+
+But if the fault be neither in the form, nor in the matter, but only in the
+fallacy of the ignorance of that which contradicts the question, by the
+which the adversary maintains a thing which does not prejudice the question;
+in such a case we must grant all that the adversary says, and show him, that
+in thinking to contradict us, be does it not.
+
+The end and scope of these fallacies, is not to teach us how to deceive, but
+how to avoid deceit.
+
+FINIS.
+

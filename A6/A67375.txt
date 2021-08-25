@@ -1,0 +1,781 @@
+CONO-CUNEUS: OR, THE SHIPWRIGHT'S CIRCULAR WEDGE.
+
+THAT IS, A Body resembling in part a CONUS, in part a CUNEUS, Geometrically
+considered.
+
+By JOHN WALLIS, D. D. Professor of Geometry in the University of Oxford, and a
+Member of the Royal Society, LONDON.
+
+IN A LETTER TO THE HONORABLE Sir ROBERT MORAY, Knight.
+
+LONDON: Printed by John Playford, for Richard Davis, Bookseller, in the
+University of OXFORD, 1684.
+
+TO THE HONORABLE Sir Robert Moray, Knight.
+SIR,
+SInce I came home from London, I have taken some time to consider of those
+Solids and Lines made by the Sections thereof; proposed to Consideration (to my
+Lord Brouncker and your self, at your Lodgings, where I was also present) by
+Mr. Pett, one of His Majesty's Commissioners for the Navy, and an excellent
+Shipwright.
+
+The Bodies proposed to consideration were all of this form. On a plain Base,
+which was the Quadrant of a Circle, (like that of a Quadrantal Cone or
+Cylinder) stood an erect Solid, whose Altitude (being arbitrary) was there
+double to the Radius of that Quadrant; and from every Point of its Perimeter,
+straight Lines drawn to the Vertex, met there, not in a Point (as is the Apex
+of a Cone), nor in a parallel Quadrant (as in a Quadrantal Cylinder), but in a
+straight Line or sharp Edge, like that of a Wedge or Cuneus. On which
+consideration, I thought fit to give it the name of Cono-Cuneus, as having the
+Base of a Cone, and the Vertex of a Cuneus.
+
+By the various Sections of this Solid, in several Positions, he did (rightly)
+conceive, that diverse new Lines must arise, in great variety, different from
+those arising from the Section of a Cone. Some of which he supposed might be of
+good use in the Building of Ships; in order to which it was, that he proposed
+them to Consideration
+
+Now because he judged it troublesome (as indeed it would be) first to form such
+Solids, and then cut them by Plains in such Positions as he des^red; he had
+(for avoiding that trouble) ingeniously contrived this Expedient. He caused
+diverse Boards, of a good solid Wood, to be exactly planed, some of an equal
+thickness, some meeting in a sharp edge; those of the former, he caused to be
+glewed together in a parallel Position; those of the latter sort, he caused so
+to be glewed together, as that their sharp edges met in one common Angle. And
+having thus formed several Solids, of Boards thus glewed together, he then
+caused them to be wrought into such a form as that before described: Which
+being done, he then caused the Glue to be dissolved in warm Water, whereby the
+several Boards, falling asunder, did exhibit, in their several faces, the
+respective Sections of those Solids. And such were those he showed us; which
+being put together, made up such Solids; and taken asunder, showed the several
+Sections of them.
+
+I do not intend at all to disparage the ingenuity of that Contrivance, which
+was indeed very handsome, and neatly performed, but do withal suppose, that it
+would not be unpleasing to your self, or him, to see those Lines described in
+Plano, which would arise by such Section of the Solid.
+
+That therefore is the work of these Papers, to represent the true nature of
+such Lines, and the ways to draw them, without the actual Section of a Solid.
+
+Which I have the rather undertaken, because this is a Solid which I do not
+know that any other have before considered. And because this may be a Pattern;
+according to which, other Solids of like nature may be in like manner
+considered if there shall be occasion.
+
+If beside these Sections which he has already considered, there be any other
+Sections of this or other the like Solids which he shall conceive useful to his
+purpose; the same may in like manner be represented (without the actual Section
+of such Solids) by Lines thus described in a Plain.
+
+But which of them may be most advantageous to his design, I do not pretend to
+understand so well, nor can with so much certainty affirm; as, that I am,
+
+SIR, Your very humble Servant, Oxon, Apr. 7. 1662. JOHN WALLIS.
+
+CONO-CUNEUS OR, THE SHIPWRIGHT'S CIRCULAR WEDGE.
+The Sections of a CONO-CUNEUS.
+1. ON a Rectangle CDBA, Fig. 1. erect at Right Angles the Quadrant of a Circle
+CQD; and joining QA, complete the Rectangled Triangle CQA. Supposing then from
+every Point of the Quadrantal Arch DQ, to their respective Points in the
+straight Line BA, in Plains parallel to the Triangle CQA, the straight Lines Sa
+to be drawn, completing a Curve Superficies DSQAaB; the Solid thus contained,
+I call a Cono-Cuneus.
+
+2. It differs from a Quadrantal Cone, in this only; That what is here a
+straight Line AB, is there a single Point; all the Lines drawn from the Points
+S, meeting there at the Point A.
+
+3. It differs in this from a Wedge, or Cuneus; That what is here a Quadrant
+CQD, is there a Rectangle.
+
+4. It differs in this from a Quadrantal Cylinder; That what is here a straight
+Line AB, is there a Quadrant, equal and parallel to CQD.
+
+5. This Solid, being cut by Plains in different Positions, will produce, in
+the Curve Surface DQAB, great variety of Lines. As for Example:
+
+6. First; If it be cut by RSa, a Plain parallel to the Triangle CQA, the Line
+Sa is (by construction) a straight Line; and therefore, the Hypothenuse of a
+Right-angled Triangle SRa.
+
+7. And consequently, this Cono-Cuneus is equal to half a Quadrantal Cylinder
+of the same Base and Altitude: For every of the Triangles SRa in the
+Cono-Cuneus, being half the respective Rectangle in the Cylinder, the whole of
+That will be equal to the half of This.
+
+8. The Quantities therein I thus design in Species.
+
+^ Fig. 1.
+
+
+9. These Triangles; (if made by Plains set at equal distances) projected on
+the Plain CQA to which they are parallel, will appear as in the first
+Projection, Fig. 16. which is thus drawn: Having drawn a Triangle ACQ, like and
+equal to that in the Solid, and CQD the Quadrant of a Circle, let CD be divided
+into any number of equal parts at the Points R; from every of which, the
+Ordinates RS being drawn, take equal thereunto, in the Line CQ, the Lines Cs,
+or Rs; then joining As, the Triangles sRA or sCA in this Plain, represent the
+like Triangles SRA in the Solid.
+
+10. And if we suppose the Solid to be continued downward, beyond its
+Quadrantal Base, these Triangles must be so continued also: And the like, if we
+suppose it to be continued upward, (after a decussation in AB) as in opposite
+Cones.
+
+11. The Quantities, in this Projection, I design thus, in Species.
+
+^ Fig. 16.
+
+
+12. In Numbers thus; (putting R = 1. A = 2.)
+
+CR. Cs. As. 0. 1. 2.236+ 0.125 0.992+ 2.233- 0.25 0.968+ 2.222+ 0.375 0.927-
+2.204+ 0.5 0.866+ 2.179+ 0.625 0.781- 2.147- 0.75 0.661+ 2.106+ 0.875 0.484+
+2.058- 1. 0. 2.
+
+13. Secondly; If it be cut by Edq, a Plain parallel to the Quadrantal Base
+CDQ, Fig. 1. the Curve Line dsq will be an Ellipse: For (supposing this Plain
+to be cut in rs by RSa, any of those Triangles parallel to CQA;) then is, As AC
+to AE, or aR to ar; So CQ to Eq, and RS to rs. And consequently (the Ordinates
+rs being proportional to RS the Ordinates of a Circle) Edq will be the Quadrant
+of an Ellipse, as CDQ is of a Circle.
+
+14. The Quantities I thus design in Species.
+
+^ Fig. 1.
+
+
+15. These Ellipses (if cut off by Plains set at equal distances) projected on
+the Quadrant CDQ (to which they are parallel) will appear as in the second
+Projection, Fig. 17. which is thus drawn: Having drawn a Quadrant CDQ equal to
+that in the Solid, let CQ be divided into any number of equal parts at the
+Points q, and every of the Ordinates RS (parallel thereunto) at the Points s;
+through which, if we draw the Ellipses Dsq, these in the Plain will represent
+the like Ellipses dsq in the Solid.
+
+16. If the Solid be supposed to be continued downward below its Quadrantal
+Base CDQ, the parallel Sections will yet be Ellipses: But with this difference;
+CD, which is now half the longest Diameter, will then be half the shortest
+Diameter of the Ellipse, (such as are those in Fig. 17. beyond the Circular
+Quadrant DQ:) And if the Solid be continued upward, after a decussation in AB,
+the like Ellipses will occur in the opposite Solid as in this.
+
+17. The Quantities in this Projection I thus design in Species.
+
+^ Fig. 17.
+
+
+18. In Numbers thus; (putting R = 1, A = 2.)
+
+EQ. rs. rs. rs. 0.25 0.242+ 0.217- 0.165+ 0.5 0.484+ 0.433+ 0.331- 0.75 0.726+
+0.650- 0.496+ 1. 0.968+ 0.866+ 0.661+ 1.25 1.210+ 1.083- 0.827- 1.5 1.452+
+1.299+ 0.992+ 1.75 1.694+ 1.516- 1.157+ 2. 1.936+ 1.732+ 1.323-
+
+19. Thirdly; If it be cut by cSsq, a Plain parallel to the Rectangle CDBA,
+Fig. 2. the Curve Line will have this property: Drawing the Triangles as in the
+Scheme, it is, As SR (the Ordinate from any Point S in the Arch SQ) to sr, or
+S^ (the Ordinate from S, where the Plain cSq cuts the Quadrantal Arch): So is
+aR or AC (the whole height), to ar or as (the distance of the Point s from the
+Plain Aaa parallel to the Quadrant CDQ). Because aRS, ars, are like Triangles.
+
+20. The Quantities I thus design in Species.
+
+^ Fig. 2.
+
+
+21. These Curve Lines (if made by Plains at equal distances) projected on the
+Rectangle CDBA (to which they are parallel), will appear as in the third
+Projection, Fig. 18. which is thus made: Having drawn a Rectangle CDBA (like
+and equal to that in the Solid), and the Quadrant CDQ; divide CQ into any
+number of equal parts at the Points c, and draw the Sines or Ordinates cS, with
+the Co-sines SP: Then supposing from the several Points R in the Line ^D, the
+Lines Rsa parallel to CA, (cutting the Quadrant QUOTH at S, and AB at a:) And
+therein, As RS to PS; So AC (= aR) to as: The Curve Lines qsP in this Plain,
+represent their Respectives qsS in the Solids. Where note, That as the Lines
+Ssss in the former Projection, so are the Lines asss in this cut into equal
+parts.
+
+22. As the Solid may be continued downwards at pleasure, beyond its Quadrantal
+Base CDQ; so may these Curve Lines qsP, in like manner, be so continued
+infinitely: And they will then be Assymptotes, each to other; and to the
+straight Line BD so continued. And if the Solid be continued upward after a
+decussation in AB, the same Plains will cut off in the opposite Solid opposite
+Sections like to these.
+
+23. The Quantities in this Projection I thus design in Species. Fig. 18.
+
+
+24. In Numbers thus; (putting R=1, A=2.)
+
+A q. a s. a s. a s. a s. I. 0.5 0.516+ 0.577+ 0.756- Infin. II. 1. 1.033-
+1.155- 1.512- Infin. III. 1.5 1.549+ 1.732+ 2.268- Infin. IV. 2. 2.064- 2.310-
+3.024- Infin.
+
+25. Fourthly; If it be cut by a Plain CQD, Fig. 3. perpendicular to the
+Rectangle CDBA, and passing by the Center C and any Point d in the Side DB, the
+Curve Line will have this property:. Cutting this Plain in r s (by any of the
+Triangles RSa, parallel to CQA); then is, As AC or aR, to a r; So RS, to r s.
+The length of a r being first found in this manner: As CD to CR, or Cd to C r;
+So is dD to r R: Which subducted from the whole height, (or added thereunto, if
+we suppose r to be taken in the continuation of dC beyond C) gives the length
+of a r.
+
+26. The Quantities of this Section I thus design in Species. Fig. 3, 4.
+
+
+27. But if it be cut by a Plain CQb, Fig. 4. which passing by CQ, cuts any
+Point b (in the Side AB) before it come at d in the Side DB produced; the Curve
+Line b s Q will have this property: Cutting this Plain, as before, in r s, by
+any of the Triangles RSa parallel to CQA; then is, As bA to ba; or, As bC to b
+r; or, As AC (or aR) to a r: So RS to r s.
+
+28. In Species, thus: Fig. 4.
+
+
+29. Or else, continuing Cb till it cut DB (continued) in d, the Proportions
+will be as before, at 25, 26.
+
+30. But with this difference; That the Curve Q s bd will cut its Axis at b,
+and meet with it again at d, (the part bd being on the other side of the Axis,
+and of the Plain ABDC, in the opposite Solid.) And accordingly (R r being in
+this case greater than aR) the Quantities a r, and r s, will be Negative
+Quantities; a r falling beyond the Vertex AB, which was supposed short of it;
+and r s below the Plain ABDC, which was supposed above it.
+
+31. In both these cases (whether Cd cut or cut not the Vertex AB) the Lines dC
+continued (answering to a suitable continuation of the Solid) will again meet
+with their Axes continued at d (as far beyond C, as d is on this side it). But
+the Ordinates in this continuation will be greater than those of dC; because
+from CD upward the Solid grows thinner, but thicker from CD downward. And
+accordingly, a r, which between AB and CD is less than aR, (and above AB, a
+Negative Quantity;) the same below CD becomes greater than aR; (dC cutting* DC
+at C:) For there it is a r = aR - R r; here it is a r = aR + R r.
+
+32. These Curves, in both cases, (when Cd cuts or cuts not the Line AB)
+supposing the Side DB divided into equal parts by the Lines Cd, (if projected
+on one and the same Plain) will appear as in the fourth Projection, Fig. 19.
+Where the Axes dC being continued to d, are then (to avoid confusion in the
+Figure) removed from their proper place in the Plain ABDC, and set off in the
+same straight Line AC continued; and the Ordinates r s applied to them in that
+Position, in such proportion to RS, as a r is to aR or AC: And moreover, they
+are so distributed, some on the one side, some on the other side of AD, to
+prevent the confusion which might arise in the Figure, if so many Curves should
+all intersect one another in the same Point D, beside another intersection
+afterward.
+
+33. The Quantities in this Projection, I thus design in Species. Fig. 19.
+
+
+34. In Numbers (putting R = 1, A = 2,) the Semi-axes to the six Curves
+described (whereof the first is the circumference of a Circle) are these:
+
+I. CD II. Cd. III. Cd. IV. Cd. V. Cd. VI. Cd. 1. ^ ^ ^ ^ ^ 1.11803 1.41421
+1.80278 2.23607 2.69258
+
+And the Ordinates, supposing the Semi-axes divided into four parts, are these:
+
+I. RS. II. r s. III. r s. IV. r s. V. r s. VI. r s. 0. 0. 0. 0. 0. 0. 0.661+
+0.537+ 0.413+ 0.289+ 0.165+ 0.041+ 0.866+ 0.758- 0.650- 0.541+ 0.433+ 0.325-
+0.968+ 0.908- 0.847- 0.787- 0.726+ 0.666- 1. 1. 1. 1. 1. 1. 0.968+ 1.029-
+1.089- 1.150- 1.210+ 1.271- 0.866+ 0.974+ 1.083- 1.194+ 1.299+ 1.407+ 0.661+
+0.785+ 0.909+ 1.033+ 1.158- 1.282- 0. 0. 0. 0. 0. 0.
+
+Or if (for a more accurate describing of the Curves) the Semi-axes be divided
+into 16 equal parts (and the whole Axes into 32), the Ordinates thereunto
+appertaining are these.
+
+I. RS. II. r s. III. r s. IV. r s. V. r s. VI. r s. 0. 0. 0. 0. 0. 0. 0.3481
+0.2665 0.1849 0.1033 0.0217 -0.0598 0.4841 0.3782 0.2723 0.1664 0.0605 -0.0454
+0.5830 0.4645 0.3461 0.2277 0.1093 -0.0091 0.6614 0.5374 0.4134 0.2894 0.1654
++0.0413 0.7262 0.6014 0.4765 0.3517 0.2269 0.1021 0.7806 0.6586 0.5367 0.4147
+0.2921 0.1702 0.8268 0.7105 0.5943 0.4780 0.3617 0.2454 0.8660 0.7578 0.6495
+0.5413 0.4330 0.3248 0.8992 0.8009 0.7025 0.6042 0.5058 0.4074 0.9270 0.8401
+0.7532 0.6663 0.5794 0.4925 0.9499 0.8757 0.8015 0.7273 0.6531 0.5789 0.9682
+0.9077 0.8472 0.7867 0.7262 0.6657 0.9823 0.9362 0.8902 0.8441 0.7981 0.7520
+0.9922 0.9612 0.9301 0.8991 0.8681 0.8371 0.9980 0.9824 0.9668 0.9513 0.9357
+0.9201 1. 1. 1. 1. 1. 1. 0.9980 1.0136 1.0292 1.0448 1.0604 1.0760 0.9922
+1.0232 1.0542 1.0852 1.1162 1.1472 0.9823 1.0283 1.0743 1.1204 1.1664 1.2125
+0.9682 1.0288 1.0893 1.1498 1.2103 1.2708 0.9499 1.0241 1.0983 1.1726 1.2468
+1.3210 0.9270 1.0139 1.1008 1.1877 1.2746 1.3616 0.8992 0.9976 1.0959 1.1943
+1.2926 1.3910 0.8660 0.9743 1.0825 1.1908 1.2990 1.4073 0.8268 0.9431 1.0593
+1.1756 1.2919 1.4081 0.7806 0.9026 1.0246 1.1465 1.2679 1.3899 0.7262 0.8510
+0.9758 1.1006 1.2254 1.3502 0.6614 0.7854 0.9095 1.0335 1.1575 1.2815 0.5830
+0.7014 0.8198 0.9382 1.0566 1.1750 0.4841 0.5900 0.6959 0.8018 0.9077 1.0136
+0.3481 0.4297 0.5112 0.5928 0.6744 0.7560 0. 0. 0. 0. 0. 0.
+
+35. Fifthly; If it be cut by a Plain Ds qc, (Fig. 5.) passing through D, and
+perpendicular to the Rectangle ABD, cutting AC in any Point c, and AQ in q; the
+Curve Line D s q will have this property: Cutting this Plain by any of the
+Triangles RSa in rs, it will be, As AC, or aR, to RS; So ar to a s. The length
+of a r being first found thus: As DC to DR, or Dc to Dr; So is Cc to Rr: Which
+subducted from aR, leaves a r = aR - Rr; and here DR = DC - CR: But if Dc be
+supposed to be continued beyond c, and consequently R fall beyond c, then is DR
+= DC + CR.
+
+36. The Quantities of this Section I thus design in Species. Fig. 5, 6.
+
+
+37. But if this Plain (passing by D) cut any Point b in the Line AB, before it
+come at c in the continuation of CA, (Fig. 6.) the Curve ^^^e will have this
+property: Cutting this Plain (as before) in r s, by any of the Triangles RSa
+parallel to CQA, then is, As bB to ba; or, As bD to b r; or, As BD (or aR) to a
+r: So is RS to r s.
+
+38. In Species, thus: Fig. 6.
+
+
+39. Or else, continuing Db till it cut CA (continued) in c, the Proportions
+will be as before, at 35, 36.
+
+40. But with this difference; That the Curve Ds bq will cut its Axis at b,
+(the part bq being on the other side of the Axis, and of the Plain ABDC, in the
+opposite Solid.) And accordingly (Rr being in this case greater than aR) the
+Quantities ar, and rs, will be Negative Quantities; ar falling beyond the
+Vertex AB, (which was supposed short of it) and rs below the Plain ABDC, which
+was supposed above it.
+
+41. In both these cases (whether Dc cut or cut not the Vertex AB) the Curve
+Lines Dsc continued (answering to a suitable continuation of the Solid) will
+again meet with their Axes (continued) at d (as far beyond c, as D is on this
+side it). And if, in the mean time, the Axis D d cut the Vertex BA, or its
+continuation* beyond A, the Curve will, in the same point, cut its Axis, and
+(passing thenceforth on the other side) meet with it again at d.
+
+42. These Curves, in both cases, (whether Dc cut or cut not the Line BA, or
+its continuation) supposing the Line CA divided into equal parts by the Lines
+Dc, (projected on the same Plain) will appear as in the fifth Projection, Fig.
+20. Where the Lines Dc being continued to d, are (to avoid confusion in the
+Figure) removed from their proper place in the Plain ABDC, and all set off in
+the same straight Line CA continued; and the Lines rs are applied to them as
+Ordinates (in this Position) in such proportion to RS, as ar is to aR.
+
+43. The Quantities in this Projection I thus design in Species.
+
+^ Fig. 20.
+
+
+44. In Numbers (putting R = 1, A = 2,) the Semi-axes of the six Curves
+described, Dc, are of the same length with Cd, 34. And the Ordinates, supposing
+the Semi-axes divided into four equal parts, are these:
+
+I. RS. II. rs. III. rs. IV. rs. V. rs. VI. rs. 0. 0. 0. 0. 0. 0. 0.661 0.620
+0.579 0.537 0.496 0.455 0.866 0.758 0.650 0.541 0.433 0.325 0.968 0.787 0.605
+0.424 0.242 0.061 1. 0.75 0.5 0.25 0. -0.25 0.968 0.666 0.363 0.6^0 -0.212
+-0.545 0.866 0.541 0.217 -0.108 -0.433 -0.758 0.661 0.372 0.083 -0.207 -0.496
+-0.785 0. 0. 0. 0. 0. 0.
+
+Or (for a more accurate describing the Curves) dividing the Semi-axe into 16
+parts (and the whole Axis into 32), the Ordinates will be these.
+
+I. RS. II. rs. III. rs. IV. rs. V. rs. VI. rs. 0. 0. 0. 0. 0. 0. 0.3481 0.3426
+0.3372 0.3318 0.3263 0.3209 0.4841 0.4690 0.4539 0.4387 0.4236 0.4085 0.5830
+0.5556 0.5283 0.5010 0.4736 0.4461 0.6614 0.6^01 0.5787 0.5374 0.4960 0.4547
+0.7262 0.6696 0.6130 0.5564 0.4998 0.4452 0.7806 0.7075 0.6343 0.5611 0.4880
+0.4148 0.8268 0.7364 0.6459 0.5555 0.4651 0.3747 0.8660 0.7578 0.6495 0.5413
+0.4330 0.3248 0.8992 0.7728 0.6463 0.5199 0.3934 0.2670 0.9270 0.7822 0.6373
+0.4925 0.3476 0.2028 0.9499 0.7866 0.6234 0.4601 0.2969 0.1336 0.9682 0.7867
+0.6052 0.4236 0.2421 0.0605 0.9823 0.7827 0.5832 0.3837 0.1842 -0.0153 0.9922
+0.7750 0.5581 0.3411 0.1240 -0.0930 0.9980 0.7641 0.5302 0.2963 0.0624 -0.1715
+1. 0.75 0*5 0.25 0. -0.25 0.9980 0.7329 0.4678 0.2027 -0.0624 -0.3275 0.9922
+0.7131 0.4341 0.1550 -0.1240 -0.4031 0.9823 0.6906 0.3990 0.1074 -0.1842
+-0.4758 0.9682 0.6657 0.3631 0.0605 -0.2421 -0.5446 0.9499 0.6382 0.3265 0.0148
+-0.2969 -0.6085 0.9270 0.6084 0.2897 -0.0290 -0.3476 -0.6663 0.8992 0.5761
+0.2529 -0.0713 -0.3934 -0.7166 0.8660 0.5413 0.2165 -0.1083 -0.4330 -0.7578
+0.8268 0.5038 0.1809 -0.1421 -0.4651 -0.7880 0.7806 0.4635 0.1463 -0.1708
+-0.4880 -0.8051 0.7262 0.4197 0.1132 -0.^933 -0.4998 -0.8043 0.6614 0.3721
+0.0827 -0.2^^7 -0.4^60 -0.7854 0.5830 0.3188 0.0546 -0.2095 -0.4736 -0.7378
+0.4841 0.2572 0.0303 -0.1967 -0.4236 -0.6505 0.3481 0.1795 0.0109 -0.1577
+-0.3263 -0.4949 0. 0. 0. -0. -0. -0.
+
+45. Sixthly; If it be cut by a Plain Bqc, passing through B ( Fig. 7.)
+perpendicular to the Rectangle ABDC, and cutting the Side AC in c, (and any of
+the Triangles RSa in rs) the Curve Line will have this property: As AC, or aR,
+to ar; So is RS, to rs. The length of ar being first found thus: As BA to Ba,
+or Bc to Br; So is Ac to ar.
+
+46. In Species, thus:
+
+^ Fig. 7.
+
+
+47. But if this Plain (passing by B) cut the Line DC in any Point P, before it
+come at c in the continuation of AC, the Curve Line will have this property:
+Cutting the same Plain (as before) by any of the Triangles RSa parallel to CQA,
+it will be, As DP to DR; or, As BP to Br; or, aR (=AC) to ar; So RS to rs.
+
+48. In Species, thus:
+
+^ Fig. 7.
+
+
+49. Or else, continuing DP till it cut AC (continued) in c, the Proportions
+will be as before at 45, 46.
+
+50. But in this Section, the Curve does not cut its Axis at P (as in the two
+Sections last mentioned at b), but continues on the same side of it, till it
+meet again (if it be continued) at b. And (in case of such continuation)
+instead of DR = R-c, it will be DR = R+c, where the Point R is beyond the Line
+AC: And, in like manner, if after Bc have cut AC in c, it cut the continuation
+of AB in P, then, instead of DP = R-C, it will be DP = R+C.
+
+51. In both cases (whether Bc cut AC above or below the Point C) the Curve
+Lines Bsc continued (answering to a suitable continuation of the Solid) will
+again meet with their Axes (continued) at^b, as far beyond c as B is on this
+side it; but continues all on the same side of its Axis, without cutting it in
+the way, as in the two last mentioned Sections.
+
+52. In both cases (whether Bc cut or cut not DC) the Curve Lines Bscb
+transferred to one and the same Plain, (supposing the Line AC divided into
+equal parts at the Points c) will appear as in the sixth Projection, Fig. 21.
+where the Lines Bc are continued to b, and then (to avoid confusion in the
+Figure) removed from their proper place in the Plain ABDC, and all set off in
+the same straight Line AC (continued), and the Lines rs applied to them as
+Ordinates (in this Position) in such proportion to RS, as ar to aR.
+
+53. The Quantities in this Projection, I thus design in Species.
+
+^ Fig. 21.
+
+
+54. In Numbers (putting R = 1, A = 2,) the Semi-axes of the five Curves
+described, Bc, are of the same length with Cd, and Dc, 34, 44. save that the
+first of those (which is the circumference of a Circle) is here omitted;
+(instead of which, in this case, we should have a straight Line, coincident
+with its Axe BA.)
+
+I. Bc. II. Bc. III. Bc. IV. Bc. V. Bc. 1.11803 1.41421 1.80278 2.23607 2.69258
+
+And the Ordinates, supposing the Semi-axis divided into four parts, are these:
+
+I. rs. II. rs. III. rs. IV. rs. V. rs. 0. 0. 0. 0. 0. 0.041 0.083 0.124 0.165
+0.207 0.108 0.217 0.325 0.433 0.541 0.182 0.363 0.545 0.726 0.908 0.25 0.5 0.75
+1. 1.25 0.303 0.605 0.908 1.210 1.513 0.325 0.650 0.974 1.299 1.624 0.289 0.579
+0.868 1.157 1.447 0. 0. 0. 0. 0.
+
+Or (for a more accurate describing the Curve) dividing the Semi-axe into 16
+parts (and the whole Axe into 32), the Ordinates will be these:
+
+I. rs. II. rs. III. rs. IV. rs. V. rs. 0. 0. 0. 0. 0. 0.0054 0.0109 0.0163
+0.0218 0.0272 0.0151 0.0303 0.0454 0.0605 0.0756 0.0273 0.0547 0.0820 0.1093
+0.1366 0.0414 0.0827 0.1241 0.1654 0.2068 0.0566 0.1132 0.1698 0.2264 0.2830
+0.0732 0.1463 0.2195 0.2927 0.3658 0.0904 0.1809 0.2713 0.3617 0.4521 0.1083
+0.2165 0.3248 0.4330 0.5413 0.1265 0.2529 0.3794 0.5058 0.6323 0.1448 0.2897
+0.4345 0.5794 0.7242 0.1633 0.3265 0.4898 0.6531 0.8163 0.1815 0.3631 0.5446
+0.7262 0.9077 0.1995 0.3990 0.5986 0.7981 0.9976 0.2170 0.4341 0.6511 0.8681
+1.0852 0.2339 0.4678 0.7018 0.9357 1.1696 0.25 0.5 0.75 1. 1.25 0.2651 0.5302
+0.7953 1.0604 1.3255 0.2790 0.5581 0.8371 1.1162 1.3952 0.2916 0.5832 0.8748
+1.1664 1.4581 0.3026 0.6052 0.9077 1.2103 1.5129 0.3117 0.6234 0.9351 1.2468
+1.5585 0.3187 0.6373 0.9560 1.2747 1.5933 0.323^ 0.6463 0.9695 1.2926 1.6158
+0.3248 0.6495 0.9743 1.2990 1.6238 0.3230 0.6459 0.9689 1.2919 1.6148 0.3171
+0.6343 0.9514 1.2686 1.5857 0.3065 0.6130 0.9195 1.2260 1.5325 0.2894 0.5787
+0.8681 1.1575 1.4468 0.2641 0.5283 0.7925 1.0566 1.3208 0.2269 0.4539 0.6808
+0.9077 1.1347 0.1686 0.3372 0.5058 0.6744 0.8430 0. 0. 0. 0. 0.
+
+55. Seventhly; If it be cut by a Plain A s d, passing through A ( Fig. 8.)
+perpendicular to the Rectangle ABDC, and cutting the Side BD in d, (and any of
+the Triangles RSa in rs) the Curve Line d s A will have this property: As AC,
+or aR, to a r; So is RS, to rs. And a r is thus found: As AB to Aa, or AD to A
+r; So is Bd to a r.
+
+56. In Species, thus:
+
+^ Fig. 8.
+
+
+57. But if this Plain (passing by A) cut the Line CD in any Point P before it
+come at d in the continuation of BD, ( Fig. 9.) the Curve Line will have this
+property: Cutting the same Plain (as before) by any of the Triangles RSa
+parallel to CQA, it will be, As CP to CR; or, As AP to A r; or, aR (=AC) to a
+r; So RS to rs.
+
+58. In Species, thus:
+
+^ Fig. 9.
+
+
+59. Or else, continuing AP till it cut BD (continued) in d, the Proportions
+will be as before at 55, 56.
+
+60. In this Section, the Curve Line d s A cuts not its Axis at P (as in the
+fourth and fifth Section at b), but continues on the same side of it (above the
+Plain ABDC) till it meet with it at A; but (supposing the Solid to be farther
+continued in the opposite Position) cuts it at A, and thenceforth continues on
+the other side of it (below the Plain ABDC continued) till it meet again at d.
+And (in case of such continuation) instead of CR = + c, we shall have CR = - c;
+(because now R falls on the contrary side of C, in the continuation of DC:) And
+consequently the Ordinates beyond A (being on the contrary side) to be
+interpreted Negatively (with the sign --) as those on this side, Affirmatively,
+with the sign +.
+
+61. In both cases (whether Ad cut or cut not the Line CD as at P; that is,
+whether the Point d fall above or below D;) the Curve Lines dsA continued
+(answering to a suitable continuation of the Solid) cutting their Axis at A,
+will again meet with it (continued) at d, as far beyond A as d is on this side
+of it: And the Ordinates beyond A will be just the same as on this side, but
+with contrary signs + -.
+
+62. And the Curve Lines dsAd transferred to one and the same Plain, (supposing
+the Line BD divided into equal parts at the Points d) will appear as in the
+seventh Projection, Fig. 22. Where the Lines dA are continued to d, and then
+(to avoid confusion in the Figure) removed from their proper place in the Plain
+ABDC, and all set off in the straight Line AC (continued), and the Lines ds
+applied to them as Ordinates (in this Position) in such proportion to RS, as a
+r is to aR.
+
+63. The Quantities in this Projection I thus design in Species.
+
+^ Fig. 22.
+
+
+64. In Numbers (putting R=1, A=2,) the Semi-axes of the five Curves described,
+Ad, are of the same length with BC, 54.
+
+I. Ad. II. Ad. III. Ad. IV. Ad. V. Ad. 1.11803 1.41421 1.80278 1.23607 2.69258
+
+And the Ordinates, supposing the Semi-axis divided into four equal parts, are
+these:
+
+I. rs. II. rs. III. rs. IV. rs. V. rs. 0. 0. 0. 0. 0. 0.124 0.248 0.372 0.496
+0.620 0.108 0.217 0.325 0.433 0.523 0.061 0.121 0.182 0.242 0.303 +/-0. +/-0.
++/-0. +/-0. +/-0.303 -0.061 -0.121 -0.182 -0.242 -0.523 -0.108 -0.217 -0.325
+-0.433 -0.620 -0.124 -0.248 -0.372 -0.496 -0. -0. -0. -0.
+
+Or (for a more accurate describing the Curve) dividing the Semi-axis into 16
+parts (and the whole Axis into 32), the Ordinates will be these:
+
+I. rs. II. rs. III. rs. IV. rs. V. rs. 0. 0. 0. 0. 0. 0.0816 0.1632 0.2447
+0.3263 0.4079 0.1059 0.2118 0.3177 0.4236 0.5295 0.1184 0.2368 0.3552 0.4737
+0.5921 0.1240 0.2480 0.3720 0.4960 0.6200 0.1250 0.2499 0.3749 0.4998 0.6248
+0.1220 0.2440 0.3660 0.4880 0.6099 0.1163 0.2325 0.3488 0.4651 0.5814 0.1083
+0.2165 0.3248 0.4330 0.5413 0.0984 0.1967 0.2951 0.3934 0.4918 0.0869 0.1738
+0.2607 0.3476 0.4345 0.0742 0.1484 0.2226 0.2969 0.3711 0.0605 0.1210 0.1815
+0.2421 0.3026 0.0460 0.0921 0.1383 0.1842 0.2302 0.0310 0.0620 0.0930 0.1240
+0.1550 0.0156 0.0312 0.0468 0.0624 0.0780 +/-0. +/-0. +/-0. +/-0. +/-0. -0.0156
+-0.0312 -0.0468 -0.0624 -0.0780 -0.0310 -0.0620 -0.0930 -0.1240 -0.1550 -0.0460
+-0.0921 -0.1383 -0.1842 -0.2302 -0.0605 -0.1210 -0.1815 -0.2421 -0.3026 -0.0742
+-0.1484 -0.2226 -0.2969 -0.3711 -0.0869 -0.1738 -0.2607 -0.3476 -0.4345 -0.0984
+-0.1967 -0.2951 -0.3934 -0.4918 -0.1083 -0.2165 -0.3248 -0.4330 -0.5413 -0.1163
+-0.2325 -0.3488 -0.4651 -0.5814 -0.1220 -0.2440 -0.3660 -0.4880 -0.6099 -0.1250
+-0.2499 -0.3749 -0.4998 -0.6248 -0.1240 -0.2480 -0.3720 -0.4960 -0.6200 -0.1184
+-0.2368 -0.3552 -0.4737 -0.5921 -0.1059 -0.2118 -0.3177 -0.4236 -0.5295 -0.0816
+-0.1632 -0.2447 -0.3263 -0.4079 -0. -0. -0. -0. -0.
+
+65. There are many other Sections which may be made of the same Solid; but
+these being all that were proposed to be considered, I shall stay here.
+
+66. But these four last mentioned (and diverse others, though somewhat
+different from them) do all fall under one General, as so many Particulars of
+it: For the better consideration of which, I shall complete the Body (or at
+least the half of it) which is here but Quadrantal; and imagine it farther to be
+continued downward (below its Circular Base) so far as shall be necessary; and
+continued upward (after an intersection in the Line AB) in like manner, as
+opposite Cones are wont to be considered.
+
+67. Supposing then ( Fig. 10.) on the Center C, and Diameter DD, a Circle
+described DSQD; and CQ perpendicular to the Diameter DCD, dividing the
+Semicircle DQD into two Quadrants; and (at Right Angles to the Plain of the
+Circle) a Rectangle DDBb, divided into two equal parts by the straight Line CA;
+(and therefore, joining QA, the Triangle CQA will be at Right Angles to both
+the Plains:) And from every Point S in the Perimeter of the Circle, to the
+respective Points a in the Line Bb (in Plains parallel to ACQ) the straight
+Lines Sa to be drawn, completing on either side of the Rectangle a Curve
+Superficies DSDBb: These with the Circle contain a Solid, which I call a
+Cono-Cuneus, made up of four such quadrantal Solids as are above described at
+1. which Solid (and its Opposite, made by a decussation in the Line Bb) we
+suppose to be continued as far as is necessary.
+
+68. If this Solid be cut by a Plain at Right-Angles, to the Rectangle DDBb,
+the Section of that Plain, with this Rectangle, will be either parallel to BD,
+(and then the Section will be a Right-angled Triangle, as in our first Case,
+6.) or parallel to DD; (and then the Section will be an Ellipse, as in our
+second Case, 13.) or at lest will obliquely cut the two opposite Sides bD, BD,
+(produced, if need be) in d, d; which Line dd I call, the Diameter of the Curve
+Line, made by the Section of the Solid.
+
+69. And, under this last case, fall the four last of these beforementioned,
+(the fourth, fifth, sixth, and seventh) as appears by the Scheme: Where Cd, CB,
+Cb, answer the fourth Case; Db, Dc, DA, answer the fifth Case; Bc, BC, Br,
+answer the sixth case; and Ad, AD, Ar, answer the seventh Case. But the Curves
+answering these Diameters I have omitted, to avoid confusion in the Figure.
+
+70. Now a Point being assigned ( Fig. 11.) in any of the Diameters dd, the
+Ordinate, or perpendicular height of the Curve over that Point, is thus found
+Geometrically: By the Point assigned r, suppose arR drawn parallel to BD,
+cutting bB in a, and DD in R; on which, suppose a Perpendicular Plain erected,
+cutting the Semicircle DSD in RS, and the Solid in a RSa Right-lined Triangle;
+wherein rs being drawn parallel to RS, will be Perpendicular to the Plain of
+the Rectangle, as is the Line RS: And therefore s is that Point of the
+Curve-Super^icies which is over the Point r, (through which therefore the
+Curve-Line passes, whose Axis pas^eth through r:) And therefore rs is the
+Ordinate to that Point of the Axis or Diameter dd.
+
+71. Therefore the Point r being given, a and R be known also; and
+consequently, RS the Ordinate or Right-Sine belonging to the Point R, in the
+Semicircle DSD: Then, because a RS, ars, are like Triangles, As aR is to ar, So
+is RS to rs.
+
+72. Having thus found as many of the Points s as shall be thought necessary, a
+Curve-Line regularly drawn by them is that Curve to which dd is the Axis.
+
+73. The Arithmetical Calculation may be thus performed: Supposing DD to be
+divided into any number of equal parts at the Points R, the Lines Ra (produced
+if need be) will divide dd into the same number of equal parts at the Points r:
+And if, from d, be drawn de parallel to Dd, cutting Db in e, and re from the
+Points r, the Parallels re will cut de into the same number of equal parts.
+
+74. Supposing then (for the more convenient calculation) DD = D, DR = d, de =
+O, de = o, (and therefore dd = ^radic;: D2+O2, and dp =: d2+o2 bD = A (the
+Altitude of bB above the Base), and db = a (the Altitude of bB the Vertex of
+the Solid, above d the lower Vertex of the Curve-Line); then is eb = a-O, eb =
+a-o, the Altitudes of bB above e, e, or d, r; (and therefore, when O, o, happen
+to be greater than a, the Quantities a-O, a-o, are Negatives; and consequently,
+e, e, above the Vertex bB, in the opposite Solid) and RD = D- d; and therefore
+RS =:D2- d2. (a mean Proportional between DR, RD; that is, between d, D-d.)
+
+75. Then, because a RS, ars, are like Triangles, (whether r be higher or lower
+than bB;) As aR, or bD, is to ar, or be; So is RS to rs: That is, As A to a-o;
+So ^, to:dD-d2 Which is therefore the length of rs.
+
+76. If therefore, in a Plain, a Line equal to dd, be divided at r into so many
+Parts as is supposed; and on every of the Points r, wherein it is so divided,
+be erected Perpendiculars equal to the Lines rs thus found respectively
+(observing still, that the Negative Quantities are to be applied on the
+contrary part of the Line thus drawn); the Curve-Line drawn by the Points s in
+the Plain, agrees with that in the Solid made by the Section thereof: And may
+be therefore described without an actual cutting of the Solid, and may be
+fitted to any proportion of the Height to the Base of the Solid; and in
+whatsoever position the Diameter dd be supposed to cut the Rectangle DDBb in
+that Solid.
+
+77. This Calculation ^itted to the Circular Base DSD, may with the same case
+be applied to a Parabola, Hyperbola, or other Curve-Line whatever, whose Axis
+is DD, and Vertex D; if instead of:dD-d2, (which is here the Ordinate in the
+Circle) we put the Ordinate of that other Curve-Line: As ^, if a Parabola; ^,
+if an Hyperbola; (supposing D the Transverse Diameter, and L the Latus Rectum);
+and the like in other Curves.
+
+78. And for this reason, I chose to design the Point R by its distance from D,
+rather than from C, forward and backward; and r by its distance from d, rather
+than from c; which otherwise might as conveniently be done.
+
+79. But if we should so design it, and put c = RC (and consequently ^; and a =
+Ac, the Altitude at c; and o the difference of Altitudes at r from that at c;
+then is a r = a - o for the Points r in cd above the Point c, but a r = a + o
+for those below it in c d: And accordingly ^.
+
+80. But if we put a = Bd, (the Altitude of B above d, the higher Vertex of the
+Curve, which therefore will be a Negative Quantity when B falls below d) and o,
+the difference of Altitude from that at d, the process will be the same as
+before, save that then, instead of a - o, we must put a + o = a r (and
+consequently ^ And the like if d were the Vertex of a Parabola, or Hyperbola,
+or other Curve, whose Axis d d slopeth downward.
+
+81. If it be desired rather to find Instrumentally, than by Calculation, the
+several Ordinates r s, to any Diameter D D, in any such Solid, and in any
+Position assigned; it may be very easily performed in this manner.
+
+82. First; Let any straight Line, at pleasure, LM ( Fig. 12.) be divided at
+the Points r, into any number of unequal parts, as a Line of Ordinates at equal
+distances in the Quadrant of a Circle; (in like manner, as the Line CQ is
+divided at the Points S in the first Projection, Fig. 16.) and on the other
+side of M, let l M be so divided also into the same number of Parts; and on the
+several Points r, M, erect Perpendiculars, continued both ways as far as shall
+be needful. Which general Construction is applicable to any case at pleasure;
+and being once drawn, may successively be applied to many.
+
+83. Then (supposing, in the Solid proposed, Fig. 11. d E, parallel to D D,
+cutting AC in E; and Eq, parallel to CQ, cutting AQ in q;) set off, in the
+Perpendicular at M, Fig. 12. a Line ME equal to that Eq in the Solid, and draw
+the straight Lines E l, EL; which Lines will cut off, in the other Parallels,
+the Lines r S, equal to the Ordinates of that Ellipse in the Solid, ( Fig. 11.)
+whose Axis is d E; (^uch as are R s in the second Projection, Fig. 17.)
+
+84. In like manner, (supposing, in the Solid, Fig. 11. de parallel to D D,
+cutting CA, or the continuation thereof, in e; and e q, parallel to CQ, cutting
+QA, or the continuation thereof, in q;) set off in the Perpendicular at M, (
+Fig. 12, 13.) a Line M e equal to e q; (on the same side of l ML with ME, or on
+the contrary, according as d and d are on the same, or opposite Sides B b;) and
+draw the straight Lines e l, e L; which Lines will cut off, in the other
+Parallels, the Lines r s, equal to the Ordinates of that Ellipse in the Solid,
+whose Axis is e d.
+
+85. Then (dividing E e into as many equal parts at the Points o, as are the
+unequal parts in l L) from every of the Points o, draw straight Lines to l or L
+respectively; which Lines will cut off, in the respective Parallels, r S, (the
+first in the first, the second in the second, etc. numbering the Points o from
+E, and the Parallels from l;) the Lines r s, equal to the desired Ordinates of
+the Curve proposed.
+
+86. Lastly; Drawing a straight Line d d ( Fig. 14, 15.) equal to that in the
+Solid (the Diameter of the Curve proposed); and dividing it in the Points r
+into as many equal parts, as are the unequal parts in l L; and to each Point of
+Division, applying at Right Angles the Lines r s, equal to those upon the Line
+l L (on the same or contrary sides of d d, as those are of l L); and, by the
+Points s, drawing the Curve-Line which they direct: This Curve-Line is the same
+with that which is made by the Section of the Solid proposed, by a Plain on the
+Line d d at Right-Angles to the Rectangle D DB b.
+
+87. The same may be performed by one of the Triangles l ME, Fig. 13. reckoning
+the Parallels therein twice over, (the Ordinates in each Quadrant being the
+same) and dividing E e into as many parts as before.
+
+88. If the Base D SD be an Ellipse, this process will be the same as in a
+Circle; but if it be a Parabola, Hyperbola, or other the like Curve, the Line l
+L, which is now divided as a Line of Ordinates at equal distances in a Circle,
+must then be divided as such a Line of Ordinates of that Parabola, Hyperbola,
+or other Curve, whose Axis is D D: And then the rest of the Operation pursued
+with very little alteration.
+
+89. In the whole Progress, I have still supposed the Parallelogram ABDC to be
+Rectangular, and the Quadrant CDQ at Right-Angles with that Plain, and the
+Triangles ACQ, a RS, at Right-Angles to both of them (and consequently, the
+Body to be Erect, not Scalene); and the Plain cutting this Body, to be also at
+Right-Angles with that Parallelogram. But in case any of what we suppose to be
+Rectangular, should be Oblique, the Sections will be somewhat different from
+these described, in like manner, as the Sections of Scalene Cones, or the
+Oblique Sections of Erect Cones, differ from the Right Sections of Right Cones.
+But of these cases, I intend not here to discourse farther, contenting my self
+with the Perpendicular Sections of these Erect Solids.
+
+FINIS.
+Fig. X.
+
+
+Fig. XI.
+
+
+Fig. XII.
+
+
+Fig. XIII.
+
+
+Fig. XIV.
+
+
+Fig. XV.
+
+
+Fig. XVI. Project. 1.a
+
+
+Fig. XVII. Project. 2.
+
+
+Fig. XVIII. Project. 3.
+
+
+Fig. XIX. Project. 4.a
+
+
+Fig. XX. Project. 5.a
+
+
+Fig. XXI. Project. 6.
+
+
+Fig. XXII. Project. 7.a
+
+
+
