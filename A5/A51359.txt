@@ -1,0 +1,3090 @@
+A General TREATISE OF Artillery: OR, GREAT ORDNANCE
+
+Writ in Italian by Tomaso Moretii of Brescia. Ingenier first to the Emperor,
+and now to the most Serene Republic of Venice. Translated into English, with
+Notes thereupon, and some Additions out of French for Sea-Gunners. By Sir JONAS
+MOORE, Knight.
+
+With an Appendix of Artificial Fireworks for War and Delight; by Sir Abraham
+Dager Knight. Ingenier.
+
+Illustrated with diverse Cuts.
+
+LONDON, Printed by A. G. and J. P. for Obadiah Blagrave at the Bear in St.
+Pauls-Church-Yard. 1683.
+
+
+
+THE AUTHOR TO THE Courteous Reader.
+IN the continual and laborious Service, for the space of five and twenty years
+(in which time, I have always exercised the Charge of an Ingeneer, as well in
+the Wars of Germany, Dalmatia, and in the Defense of Candia:) Amongst other my
+Mititary Observations, I have always much admired, the excellent Invention and
+prodigious Effects of Great Artillery. Of which having Composed a small
+Treatise for my own Use, which coming accidentally into the hands of my
+Friends, and being by them dispersed in Manuscripts into most Cities of Italy,
+I have at last by their importunities, and especially the earnest solicitation
+of my worthy Brother, and famous Mathematician, Doctor Segnior Andrea,
+permitted it to be published for the Use and Benefit of those who are curious
+in Artillery. Being a Sacrifice which I make, not to Ambition, but for the
+Friendship and Vtility of Soldiers. Some, perhaps have done better, but have
+enlarged so much for Ornameut and Elegancy, that they have made their Volumes
+almost as heavy, as the Artillery of which they Treat.
+
+I therefore have writ that which I judge sufficient for the knowledge of a
+Soldier, and as succinct as possibly I eould, being not willing to be tedious
+in things less necessary. As for me, I never was to see the Artillery in China;
+but in this Part of the World, in which I have practiced, I have not been
+wanting to see and examine, as much as could be, the best Proportions and
+Operations; And have always sought afer the Acquaintance, Practice, Advice, and
+Directions of the Eminent Professors in this Art, and have read most of those
+Books which have been written of this Subject.
+
+Accept this my Military Fatigue, and if you find any opposition, or that in
+any part I have not been sufficiently plain, I pray you come to me, whilst I am
+yet ^^ving, and you shall receive all satisfaction.
+
+Vivi Felice.
+This Treatise is divided into Five Parts:
+
+The 1. Treats Of Things General to all Artillery. 2. Of Forming the Bore or
+Chase. 3. Of Carriages. 4. Of the Charge of Powder and Shot. 5. Of Shooting in
+Great Artillery.
+
+An Appendix: Of the Petard.
+
+(...) An Excellent TABLE for the finding the Periferies or Circumferences of
+(...) Elleipses or Ovals, so near the Truth as any Mechanical Practice can
+requir^ Calculated with great Diligence and Care by Sir JONAS MOORE, and n^
+done before.
+Axis Periferies. Diff. Axis Periferies. Diff. -- 2.0000 50 2.4218 1 2.0012 12
+51 2.4342 124 2 2.0028 16 52 2.4467 125 3 2.0048 20 53 2.4594 127 4 2.0072 26
+54 2.4723 129 5 2.0100 28 55 2.4852 129 6 2.0133 33 56 2.4983 131 7 2.0170 37
+57 2.5114 131 8 2.0213 43 58 2.5245 131 9 2.0261 48 59 2.5377 132 10 2.0314 53
+60 2.5510 133 11 2.0370 56 61 2.5644 134 12 2.0432 62 62 2.5779 135 13 2.0496
+64 63 2.5915 136 14 2.0564 68 64 2.6052 137 15 2.0634 70 65 2.6189 137 16
+2.0708 74 66 2.6327 138 17 2.0784 76 67 2.6465 138 18 2.0862 78 68 2.6604 139
+19 2.0942 80 69 2.6744 140 20 2.1024 82 70 2.6884 140 21 2.1106 82 71 2.7025
+141 22 2.1192 86 72 2.7166 141 23 2.1281 89 73 2.7309 143 24 2.1373 92 74
+2.7453 144 25 2.1467 94 75 2.7599 146 26 2.1561 94 76 2.7745 146 27 2.1658 97
+77 2.7891 146 28 2.1756 98 78 2.8038 147 29 2.1856 100 79 2.8186 148 30 2.1956
+100 80 2.8334 148 31 2.2057 101 81 2.8482 148 32 2.2160 103 82 2.8630 148 33
+2.2264 104 83 2.8779 149 34 2.2368 104 84 2.8929 150 35 2.2474 106 85 2.9080
+150 36 2.2581 107 86 2.9231 151 37 2.2692 111 87 2.9382 151 38 2.2803 111 88
+2.9534 152 39 2.2915 112 89 2.9686 152 40 2.3028 113 90 2.9839 153 41 2.3142
+114 91 2.9993 154 42 2.3256 114 92 3.0147 154 43 2.3371 115 93 3.0302 155 44
+2.3488 117 94 3.0458 156 45 2.3607 119 95 3.0614 156 46 2.3726 119 96 3.0771
+157 47 2.3848 122 97 3.0928 157 48 2.3970 122 98 3.1086 158 49 2.4094 124 99
+3.1244 158 50 2.4218 124 3.1402 158
+
+EXAMPLE I.
+WHere the longer Axis of the E^^ipsis is (...) and the shorter. 78; Because
+(...) Table (...) made for such Elleips's, enter wi^. 78, the Perifery of that
+Elleipsis will be 2.^38.
+
+EXAMPLE II.
+The longer Axis 1, the shorter. 4382, I enter with. 4^ gives 2.3371: Then to
+find the part answering to. 71, say^ If 100 give. 117; what shall. 71 give?
+Answ.. 83, which added to 2.3371, gives 2.3454 for the Perifery desired.
+
+EXAMPLE III.
+Where the longer Axis is 388, the shorter 280, first say, 388: 280:: 1.000:
+Answ.. 721, seek in the Table for. 72, it gives 2.7166; then say, 1.0000:
+2.7166:: 388: Answ. 1054.06, which is the Circumference desired.
+
+EXAMPLE IV.
+The longer Diameter 32.54, the shorter 18.64; say; 32.54: 18.64:: 1.000: 572;
+to which in the Table answers 2.5114, and the part proportional for 2 is 26,
+which makes the whole 2.5140; then 1.000: 2.5140:: 32.54: 81.805 the Perifery
+required. The Area or Superficies of an Elleipsis is easily got by this Rule.
+As the longer Diameter, is to the shorter: So is the Circle of the longer
+Diameter, to the Elleipsis.
+
+I have made above 45000 Arithmetical Operations for this Table, and am now
+well pleased it is finished. Some perhaps may find shorter ways, as I believed
+I had my self, 'till advised otherwise by the truly Honorable the Lord
+BRUNCKER. I therefore pursued the Rules given by me, in that Contemplation of
+the Elleipsis Printed in my Arithmetic, taking 100 Elleipsis betwixt that
+which falls upon the Diameter equal in this case to 2.0000 the first in the
+Table, and the greatest which is the Circle 3.1402 the last.
+
+SOLI DEO GLORIA.
+A Definition of Geometry.
+A Point, is that which has no party.
+
+A Line, is a length without breadth.
+
+A Superfice is that which has length and broadness only.
+
+A Body is that which has length, breadth, and depth.
+
+A straight Line, is equally extended within its points.
+
+An Oblique Line bended, is unequally comprehended within its points.
+
+A perpendicular line, is that which falling upon another makes the straight
+Angles, which are of 90 degrees.
+
+Parallel Lines, are those which are equal every where distant within
+themselves.
+
+Angle, is the inclination of two lines a point.
+
+A straight Angle, is that whereof the sides are perpendicular, and is of 90
+degrees.
+
+An Angle Obtuse, is that which is bigger then a straight one.
+
+A Sharp Angle, is that which is less than a straight one.
+
+An Angle of bended Lines.
+
+An Angle Mixed.
+
+A Triangle, is a Superfice composed of three Lines.
+
+A Rectangle, is that which has a straight Angle.
+
+An Ambligone Triangle, is that which has an Angle Obtuse.
+
+An Oxigone Triangle, is that whereof three Angles are sharp.
+
+An Equilateral Triangle, is that whereof the three sides are equal.
+
+An Isoscelle Triangle, is that whereof the two sides are equal.
+
+A Scalene Triangle, is that whereof three sides are unequal.
+
+A Quadrilateral, is a figure of four equal sides, and of four straight Angles
+
+A long Square, is that which has the four Angles straight, and not the four
+sides equal.
+
+A Rombo, is that which has the four sides equal, and not the four Angles
+straight.
+
+A Romboide, has the Angles and the sides equal opposite, without being
+equilateral or rectangle.
+
+A Parallelogram, has the side, opposite Parallels as the four Precedent
+Figures.
+
+A Trapeze, is a figure whereof all or some sides are unequal.
+
+Regular Superfice.
+
+Irregular Superfice.
+
+Bended Superfice.
+
+All Lines drawn from the Center to the Circumference are equal.
+
+Circle, is a plain figure, where of the circumference is equally distant from
+its Center.
+
+Center, is the point within the Circle, equally distant from the circumference.
+
+A Diameter, is a straight Line which passing by the Center^ has both its
+extremes within the Circumference.
+
+A Semidiameter, is a straight Line from the Center unto the Circusmerence.
+
+A Diagonal, is a straight Line drawn from one Angle to the other, in a figure
+of four sides.
+
+A Section or Cord, is a straight Line which does not pass through the Center,
+and has its two ends at the Circumference.
+
+THE FIRST PART. Of Artillery in General.
+CHAP. I.
+Of the Names and Description of Great Guns, and of their Parts.
+THis Military Engine, of which we intend to treat, came to be called Bombarda,
+Gun, Cannon, and Artillery; (whence come Gunners, Cannoneers, and
+Artillery-Men, being those that do Manage them;) Bom^, from Bombo, a
+resounding Noise, and (...) its sensible Effect, burning whilst it is ^loyed;
+Cannone or Cannon, from the like^ it holds with its Canna (Bore or Concavity)
+the Form or Frame being naturally long, ^ound, and hollow in the midst;
+Artigleria, from (Artiglio) the Tallons or Claws of ravenous Fowls, perhaps
+because its Shot flying far off dismembers and tears in pieces all that it
+meets; whence some Natures of this Machine are called Smeriglii, long-winged
+Hawks; Falconi, Falconets; Passavolanti, swift-flyi^ Arrows.
+
+Artillery, or Great Guns, are nothing mo^ than a long round piece of Brass or
+Iron bor^ up, formed with Art and Proportion to offer^ far off, with a Ball of
+Iron, Stone, or any ^tificial Substance, Charged with Gun powd^ which is in an
+instant fired within. They w^ first put in practice by the Venetians aga^ the
+Genoueses before Chiozza, in the Ye^ 1376.
+
+The Concavity, Anima.
+Chase, Concave of the Piece, is that hollow or empty part in wh^ they put the
+Charge, as in the Figure ((...) Fig. 1.
+ACKM.
+
+The Mouth or Muzzle, is the extremity o^ the Concave, by which you load and
+unload the Piece, ASC.
+
+The Calibre, is the Diameter of the Mouth* AC.
+
+The Touch hole, is that little hollow V^ which passes from the outward or
+unequal: perficies of the Piece to the very Concave (...) Chamber, from that end
+or part where the Chase is enclosed, made to give fire to the Powder within, IK.
+
+The Culatta.
+Breech, is of solid Metal, which inclo^ seth the Extremity of the Chase about
+the Touch hole.
+
+The Codone.
+Cascabel, or outmost Pommel or But^ of the Breech, which serves for a Hand^ to
+manage the Artillery, RQ.
+
+The Trunnions, or pieces of Metal which fall or stand out of the exterior
+Superficies of the Gun, and placed about the middle, by which the Piece lies
+equally balanced in her Carriage, and upon which it moves, GH.
+
+Maniglions, or Dolphins, after the German ^nner, are two Handles, which are
+placed ^on the Back or uppermost part of the Piece ^ar the Trunnions, and near
+upon the Cen^r of Gravity of the Piece, to mount and dismount it with ease, a b.
+
+The Body of the Piece, is that part which is ^omprehended betwixt the Center
+of the Trun^ions and the Cascabel, which ought always to be more fortified than
+the other part, GR.
+
+Volata.
+Vacant Cylinder, is that part of the Piece which is comprehended betwixt the
+Center of the Trunnions and the Muzzle, GB.
+
+The Gioia della Bocca.
+Frees, or Muzzle-Ring, is that ^k Cornish which incompasseth the unequal
+^erficies of the Piece near the Mouth, E. ^he Base-Ring, or great Ring next the
+Touchhole, is that thick Cornish which binds ^e unequal Superficies of the
+Piece, NRO.
+
+The other Rings are the Reinforced-Ring, T; ^e Trunnion-Ring, F; and
+Cornish-Ring, Y.
+
+The Line of the Cylinder, is a direct Line, which one imagins, described along
+the Chase (...) the lowest part of the concave Superficies (...) the Piece,
+which Line is parallel to the ^ddle of the Chase of the said Piece, MC. (...)
+
+The Line of Metal, or Cornishes, is a Line drawn above the Piece, touching
+both Cornishes, N and E.
+
+The Dispart Line of the Piece, is the difference betwixt the Semidiameters of
+the Muzzle Ring and Base Ring, or a Line drawn from the utmost top of the
+Base-Ring, parallel (...) the Chase of the Piece, the Dispart being the nearest
+distance betwixt the same LIne and the top of the Muzzle-Ring, EZ.
+
+The Vent of the Piece, is the Space betwixt the Shot and the concave
+Superficies of the Piece, or the difference betwixt the Diameter of the Shot
+and Mouth of the Piece, c d.
+
+The Chamber in all fortified Pieces, is that part of its Chase toward the
+Touch-hole^ equally large, nor narrower in one part (...) in another, forasmuch
+as it receives the Powder, and a Wad or Tampion of an (...) bigness.
+
+The Campa^ia.
+Chamber in Drakes, and old tape^ Pieces, is not equally large in all its
+parts, (...) narrower toward the Touchhole.
+
+Moscolo, is a moveable Chamber, which on takes up and joins to the Bore of
+certain Petrieroes, by means of the Braga.
+
+Braga, in some Petrieroes, is a Ring of Iron that holds firm the Moscolo or
+moveable Chamber to the Concavity of the Piece, and fir^ the Breech to the
+Piece.
+
+The Names of the Parts of Carriages, (...) also the most usual Instruments, we
+shall spea^ of in their proper places.
+
+CHAP. II.
+Of the Mixture of Metals for Ordnance.
+ARtillery are very often made of Iron, especially the Petrieroes de Braga, and
+other natures, which are used aboard Merchant-Ships; but the most proper and
+most used Metal is that called Brass, compounded of Copper, Tin, and another
+part of Latten. Copper alone is too soft, the Tin gives it hardness, but too
+much makes it brittle; the Latten unites, and gives an alloy to the other two.
+
+To form a Proportion of these Metals to make Guns of, will be various
+according to diverse Authors.
+
+Some to every Hundred Weight of pure Copper, give 20 lb. of Bell-Metal, or in
+lieu 10 lb. of soft Tin.
+
+Others to every Hundred Weight of Copper give 10 lb. of Latten, and 8 lb. of
+soft Tin.
+
+Copper. Latten. Tin. Others mix together 100 10 8 100 10 5 100 8 5
+
+Others, to every 100 lb. of Copper 10, 8, or 7 lb. of Tin, without the other;
+and these two last are estimated best.
+
+But the best and most proper Materials will be the Copper alone beaten.
+
+Some Guns are made with their Soul or Chase covered with Brass, and then bound
+about with Twine, and outwardly lined over with Leather for Lightness. It has
+been found that Iron Guns, made of pure English Cast Iron, have proved as good
+as any Brass: Therefore even for some of the First Rate Ships, by consent of
+His Majesty, and furtherance of the Right Honorable Sir Thomas Chicheley,
+Master of the Ordnance (for the encouragement of the Manufacture) the whole
+Complement are Iron turned, and handsomely finished.
+
+
+CHAP. III.
+Of Powder.
+THe Efficient Cause for Expelling the Shot, is the Fire that is made of a
+Powder compounded of Saltpetre, Brimstone, and Charcoal.
+
+The Saltpetre makes the Blow or Crack, the Sulphur takes fire, and the Coal
+rarifies the other two, to make them fire the better.
+
+Two sorts of Gunpowder are commonly in use; One is made of five, one, and
+one, being compounded of five parts of Saltpetre, one of Sulphur and the other
+Coal,
+
+The other sort, being stronger, is of six, one, and one, being made of six
+parts of Saltpeter, one of Brimstone, and the other of Coal.
+
+For Artillery, that of five, one, and one, is generally used, and the other
+for Muskets and small Arms, although some use this for Artillery, especially
+for Field-peeces. The worst that is made for his Majesty's use in England is of
+the latter, six, one, and one. It would be a very advantageous Experiment, that
+from a Barrel of Powder one could separate the Petre, and know what weight was
+of it exactly.
+
+
+Anciently they made Powder of four, one, and one, viz. four parts of
+Saltpeter, one of Brimstone, and one of Coal, which served for the Artillery
+of those times, being smaller than our modern; but this Powder being overweak,
+is not now in use.
+
+To compare together the strength of these three severally, the Gunners have
+commonly a regard to the quantity of Saltpeter which is found in each; from
+whence they say that these will make the same effect. 45l of Powder of four,
+one, and one; 42l of five, one, and one; and 40l of six, one, and one, finding
+in all these weights an equal quantity of Saltpeter, viz. 30l: and being to
+load an ancient Piece, it would be convenient, for example, to take 24l of
+Powder of four, one, and one, in lieu whereof they will employ 22l of that of
+five, one, and one, or else 21l of that of six, one, and one.
+
+Others in lieu of that of four, one, and one, make use of of that of five,
+one, and one; and in stead of that of five, one, and one, employ ^/4 of that of
+six, one, and one. So in room of 30l of four, one, and one, they use 24l of
+five, one, and one; in lieu of 30l of five, one, and one, they make use of 22l
+of that of six, one, and one.
+
+And although this manner is disallowed by some, (notwithstanding it is not to
+be contemned) because an equal quantity of Saltpeter mixed with a different
+quantity of other materials does not equally operate, but is more efficacious
+being united with a less proportion of the others (even to certain proportions)
+than with (...) greater, because they overcharge the virtue o^ the Saltpeter
+with their too great quantity o^ the other. Whence 42l of Powder of five, one
+and one, are stronger than 45l of four, one, and one; and 40l of six, one, and
+one, works (...) greater effect than 42l of five, one, and one, although all
+contain 30l of Saltpeter.
+
+So I have seen and tried by experience that (...) of Powder of six, one, and
+one, does greater effect than the whole of that of five, one, and one, viz. 20l
+more of that than 30l of the other.
+
+How much Powder must be allowed to each Piece of Ordnance shall be spoken of
+in its proper place.
+
+CHAP. IV.
+Of Shot, and its Vent.
+TO Field-peeces of the first and second kind they give Shots of Iron, but to
+those of the third, Stone-shot, and other Artificial Bodies not heavier than
+the said Ball; and to Fieldpieces of the least nature Shots of Lead.
+
+Amongst Balls of the said Diameter, but the three Natures abovesaid, is
+commonly assigned this proportion.
+
+Iron weighs the triple more than Stone, as 3 to 1.
+
+Lead weighs one half more than Iron, 3 to 2^
+
+Lead to Stone is 4 times more, as 9 to 2^
+
+But to speak more properly:
+
+Iron is to Stone, as 31 is to 10.
+
+Lead to Iron, as 14 to 10.
+
+Lead to Stone, as 47 to 10.
+
+Nevertheless not all Leads, Iron, or Stone, are of the same weight.
+
+To load Artillery with Shot, as well Iron, Lead, as Stone, they do not fill
+the Chase, but leave space for vent; for the Piece not being perfectly round,
+the Shot may go in and out easily. But there may not be too much vent, lest the
+Fire pass, and the Blow may come too weak.
+
+Therefore the Diameter of a Ball being given, to have the Calibre or Diameter
+of the Mouth, you must add its Vent; or the Calibre being given, to find the
+Diameter of the Ball, you must subtract the Vent.
+
+In some the Vent is found, by adding to every 10 Pound of shot, one pound, as
+30 making 33, and taking the Diameter of the Ball from 33, by the
+Caliper-Compasses gives 30 l.
+
+Others take for every 12l, 1l, viz. one Ounce in the Pound All Italy over, 12
+Ounces makes a Pound.
+, and makes the same thing.
+
+But the usual Rule is to make the Vent always the one and twentieth part of
+the Diameter of the Ball, or 1/22 of the Diameter of the Mouth or Muzzle.
+
+Some are of opinion, that to make a Gun bear a certain Load of Ball, one make
+it just its Calibre, according to the Diameter of the Ball of which it weighs,
+but then they work with a lesser Ball: yet if one would make a Culvering from
+30l, they take the just Diameter of 30l, then in action they use a Ball with
+the Vent, which will be less than 30l, but it seems more reasonable to make the
+Calibre greater to use the Ball of its true Weight.
+
+The Diameter of the Shots of Iron, Stone, and Lead of all used Weights, is by
+Gunners described upon a Ruler of Brass, of four Faces, called by them the
+Calibre, viz. upon the three Faces the Diameters of Shots of Iron, Lead, and
+Stone; and upon the fourth Face, the Foot divided into Inches, etc. according
+to the Country.
+
+We put here the said Scale corrected and adjusted to the Venetian Measure,
+unto 150l, as represented in the second Figure.
+
+Note, that the said Scale, not holding longer Diameters than of 150l, one may
+yet work by greater Weights unto 1200.
+
+The Weight being given, to find the Diameter of the Ball, divide the Number of
+Pounds propounded, by Eight, then the Quotient of this Division being searched
+upon the Face of the Scale, will give you the Semidiameter, by redoubling of
+which you shall have the whole Diameter of the Shot required.
+
+For Example, if 280 Pounds be given, divide this Number by Eight, the Quotient
+is 35, then the Diameter of 35 being taken upon the Scale, and redoubled, will
+give the Diameter desired of 20l.
+
+The Diameter of a greater Shot being given contained in the Scale, to find the
+Weight in Pounds, divide the said Diameter in half, and applying it to the
+Scale, observing the Number to which it corresponds, which being multiplied by
+Eight, will give the Number of Pounds of the Ball required. Spherical Bodies,
+of what Metal soever, are one to another in weight, as the Cubes of their
+Diameters; therefore if the Diameter and Weight of any known Spherical Body be
+given, and the Diameter of any other like Body be given, and the Weight sought;
+or the Weight given, and the Diameter be sought: say, As the Cube of the
+Diameter given, is to the Weight given; So is the Cube of the Diameter of the
+unweighed Sphere, to its Weight: and contrariwise for the Diameter. By this
+Rule, having the Diameter and Weight of a Shot, one may find the Weight of
+another; or having the Weight and Diameter of a Shot, and the Weight of
+another, one may find the Diameter. My Father, the 14th of March 1671, weighing
+several Iron Bullets with a Curious Scale, found one very near round of 6
+Inches and 63/100 parts, to weigh exactly 41 Pounds, which agrees exceeding
+near to 9 Pound for 4 Inches; and from the before said Rule, a Bullet of 1 pound
+Weight will have for its Diameter 1 Inch, and 93/100 of an Inch. The Diameter
+of one pound of course Lead will be 1 Inch, and 69/100 parts, and of hard Stone
+2 Inches, and 67/100 parts. For making the Ru ler for Calibres, the Author
+wants a Table of Solids; I here insert one, made long since by my Father, more
+exactly than those printed in Ars magna Artillerii, or Furnier, which solloweth.
+
+
+The Table of the Line of Solids.
+1 046:4 148:1 249:0 41 344:8 2 051:5 151:8 16 251:9 42 347:6 3 067:6 155:3
+254:4 43 350:3 4 073:7 4 158:7 17 257:1 44 353:0 5 079:4 161:9 259:3 45 355:6 6
+084:4 105:0 18 262:0 46 358:3 7 088:8 168:1 264:2 47 360:8 8 092:9 5 171:0 19
+266:8 48 363:4 9 096:6 173:7 269:3 49 365:9 (1) 100:0 176:5 20 271:4 50 368:3 1
+103:2 179:1 21 275:8 51 370:6 2 106:2 6 181:7 22 280:2 52 373:2 3 109:1 186:6
+23 284:2 53 375:5 4 111:9 7 191:2 24 288:4 54 377:7 5 114:5 195:7 25 292:4 55
+380:2 6 116:9 8 200:0 26 296:2 56 382:3 7 119:3 204:1 27 300:0 57 385:1 8 121:6
+9 208:9 28 303:6 58 387:3 9 123:8 212:6 29 307:2 59 389:6 (2) 125:9 10 215:4 30
+310:7 60 391:4 1 128:0 219:1 31 314:1 61 393:6 2 130:0 11 222:3 32 317:4 62
+396:0 3 132:0 225:4 33 320:7 63 398:2 4 133:9 12 228:9 34 323:9 64 400:0 5
+135:7 232:0 35 327:1 65 402:0 6 137:5 13 235:1 36 330:1 66 404:1 7 139:2 238:2
+37 333:2 67 406:2 8 140:9 14 241:0 38 336:1 68 408:2 9 142:5 244:4 39 339:1 69
+410:1 (3) 144:2 15 246:6 40 341:^ 70 412:1 71 414:3 96 458:0 72 416:2 97 459:5
+73 418:0 98 461:1 74 420:1 99 462:5 75 421:7 100 464:2 76 423:6 77 425:3 78
+427:2 79 429:3 80 430:8 81 432:7 82 434:6 83 436:6 84 438:2 85 439:6 86 441:6
+87 443:1 88 444:7 89 446:6 90 448:1 91 449:6 92 451:5 93 453:1 94 454:6 95
+456:2
+
+The Use whereof is this. By a Scale of Inches, or from any Scale lesser or
+greater, which may represent Inches, and every 100 part of an Inch, as that
+(Fig. 2.) take out for Example 1 92/100 for Iron, 1 69/100 for Lead, and 2
+67/100 for Stone, and prick them from the beginning of the Ruler A, upon the
+several Scales of Lead, Iron, and Stone, to the figure 1, which signifies one
+Pound: then you must make three equal Diagonal Scales for every one of those
+Divisions A. 1. divided into 100 or 1000, as in the Fig. 3, one is done for
+Iron divided into 5000 parts. Now if you desire for Example to divide the Scale
+for each pound for Iron cast Shot, by the Diagonal Scale, and the Table of
+Solids, take the Numbers in the Table answering to the several Pounds or Parts,
+and from your Diagonal Scale (Fig. 3.) take those parts, and prick them from A
+the beginning of the Scale to the place that shall signify the Pounds
+answerable. Suppose it be for 6l, I take 1. 81 from the Scale with the
+Compasses, and set it from A to b 6, and 2. 15 for 10l to c, and so from one
+Division to another 'till the Ruler be Complete. The same work is to be
+observed for the Lines for Lead and Stone from their several Diagonal Scales;
+you may note that 100 from those Scales is for 1l, 200 for 8l, 300 for 27l, 400
+for 64l, and 500 for 125l, because 1. 8. 27. 64. and 125 are the Cubes of 1. 2.
+3. 4. 5. Note also, that the Table shows you the Tenths of a Pound to 3l, the
+Quarters to 6l, and the half to 20l, for the more exactness in the Divisions.
+For the use of the Calibre Ruler, if the Diameter of the Bullet be known in
+Inches, just over against those Inches and Parts is the Weight set in the Line,
+answering to the respective Metal; or contrary if the Weight be given, then the
+Diameter answers in the line of Inches. As for Example, against the Diameter of
+4 Inches answers 9l of Iron, or contrary against 9l of Iron 4 Inches Diameter
+of the Bullet. But mine Author made his Scale to the Semidiameter of Bullets,
+which makes him take the Cube of 2, viz. 8, and to double as you see in the
+uses of his Scale, which is far more troublesome than this way I have set down.
+
+I have added another Line to the former three, called the Line for Powder, it
+gives the Weight of Powder that will fill up a Cylinder, whose Length and
+Diameter are equal; it is made as the former Lines were, from this position
+(which is found by Experience) that one pound of Powder will fill a Bore or
+Cylinder of 3 Inches and 165/1000 parts of an Inch in Diameter and Length, and
+the uses are considerable for making Cartridges, or to know how much of the
+Cylinder of a Gun will be filled with a certain weight of Powder. As for
+Example, A Cylinder of 4 Inches and in Diameter and Length, will take 2 l of
+Powder to fill, as you may find over against 4 Inches, and over against 6
+pounds of Powder you have 5 Inches almost, for the Diameter and Length of any
+Bore, which I take to be very useful.
+
+CHAP. V.
+Of the Measure of Artillery or Guns.
+THE ordinary Measure to form and proportion all the parts of any Piece of
+Ordnance, and also its Carriage, is by the Diameter of the Mouth of the same
+Piece.
+
+But to make the Ladle, Rammer, Sponge, and other Instruments as enters into
+its Chase, they work by the Diameter, not of the Mouth, but of the Ball of the
+same Piece. Therefore they use in some places the Foot divided into 12 Inches,
+and each Inch into 12 Points or Grains. We shall value them by Diameters, Bocca
+or Bore.
+following the more ordinary way; but one may reduce all Diameters to Feet,
+Inches, and parts of an Inch, so it may be free for every one to make use of
+such Measure as shall please him best.
+
+CHAP. VI.
+Of the several Natures of Artillery.
+ALL Artillery are commonly reduced into three sorts. The first is that of the
+Culvering, the second Cannons of Battery, the third Cannons Petrieri.
+
+The reason of this Distinction ought to be taken from the end to which the
+Artillery serves.
+
+The intent of Artillery in general is to offend a far off; but sometimes is
+principally understood the distance of Place, sometimes the Offense, although
+one never goes without the other: for being to shoot a far off, the Object must
+either be of a strong or weak resistance; but if you would offend not far off,
+the Object in like manner must be either of a weak or a strong resistance. Now
+there being four ends, it seems reasonable that Artillery be reduced to four
+sorts, according to the Intents for which they serve.
+
+To offend a far off, in case of strong resistance, the Culverings do serve,
+which carries a Ball of Iron from 14 to 30l weight, although some make them to
+120l.
+
+To offend a far off, in case of weak resistance, as in Troops, Squadrons, etc.
+those Pieces do serve which are called Field-peeces, or the small Artillery,
+and not Royal, and carry an Iron shot from 1 pound to 10 or 12 pound.
+
+To offend not far distant, in case of a strong resistance, are your Cannon of
+Battery, which carry a Ball of Iron from 20 to 50l weight, although some are
+made which carry to 100l and more, and serve to break down Walls and Parapets.
+
+Lastly, to offend at a small distance, an object of weak resistance, as Ships,
+and other Machines of Timber, they do use your Cannon called Petrieroes,
+because they carry a Shot of Stone, or any other Artificial Substance, and
+never of Iron; and this Ball of Stone may weigh from 14l to 100l weight.
+
+Note, that these are the four principal intents of each of these Natures, but
+a Piece of one sort may serve in point of necessity for several Services.
+
+We nevertheless will not discourse of the common use, but will name three only
+sorts of Artillery, reducing the first to Culvering, and Field-peeces, which
+come to one another in a near proportion.
+
+To the second they of Battery.
+
+To the third Cannon Petrieroes, and to which we will also add the Mortars and
+Tribucchi's, which offend by a curved Line, and moreover an Appendix of Petars,
+although improperly they are reduced amongst Artillery not offending at a
+distance. We distinguish all our great Guns in England into two only sorts,
+viz. Field-peeces from the least to twelve Pounders, and Cannon of Battery,
+from Culvering to whole Cannon.
+
+
+END OF THE FIRST PART.
+To divert the Reader a little at the end of each Part, I shall give some short
+Discourses of the stupendeous Bridge made by that most famous Warrior
+Alexander Prince of Parma, in the Year 1585, over the Schelde near Antwerp, and
+of the prodigious Effect of Powder, fitted into Vessels for breaking the same.
+First out of Furnier Hydro. lib. 2. in French.
+THE Prince of Parma commanding in chief the King of Spains Armies in the Low
+Countries, and knowing of what great concern the Recovery or the Retaking of
+the City of Antwerp would be to his Masters Affairs, laid Siege before it in
+the Month of August, in the year 1584, and having seized on several Forts and
+other important places about the City, resolved to make and lay a Bridge over
+the Schelde, at two Leagues from the City, to hinder the Besieged from Succors
+which might come from Zealand that way, that being the only place by which
+they could receive them. And being Master of the Shore as well on that side of
+Flanders as Brabant, he raised two strong Bulworks on both sides, and then
+struck Piles of 30, 35, 40, and 50 Foot long, and mortass'd them together with
+strong Beams and Girders to uphold a wooden Bridge, which he called the
+Pallisade, and upon which ten men might march in front. The River was large in
+this place, 1500 paces, and so deep that it was impossible to find Trees long
+and strong enough to reach the bottom; and not being able to carry on his work
+more then 1000 Feet into the water, he finished the rest, which was 1300 Feet,
+by 30 Ships, which were distant 30 Feet the one from the other: each Ship had
+two Ankers a head, and a Stern to hinder the impetuosity of the Tides, and many
+Shipmasts and Planks to make the Platform of the Bridge; the Vessels were
+fastened together with four Chains and four Cables, and carried two Guns a
+head, and two a Stern, and thirty Soldiers: upon this Bridge one might pass
+from Brabant into Flanders.
+
+On the Bridge, at every 500 paces, there were Rafts made of Shipmasts and
+other wood, to stop those that came, and to give leisure to those of the Bridge
+to fire from above and sink them. Moreover there were many small Vessels loaded
+with Soldiers, who guarded the Avenues.
+
+At the time that they built the Bridge, the Bastions on both sides the River
+were well guarded with Infantry, and furnished with Cannon, which nevertheless
+could not hinder that in the space of seven months which they employed in
+making the Pallisade, but that many Vessels went and came to Antwerp, where
+they also fortified themselves, and prepared several Inventions to break this
+Bridge.
+
+Frederick Junibell or Giambel, Native of Mantoua, an Excellent Ingeneer, who
+was sent there by the Queen of England, having demanded of the Citizens three
+Vessels, one of 150 Tuns, another of 350, and a third of 500 Tuns, and 60
+others wide and flat, which he would have joined together with Chains, and have
+them disposed in form of a half Moon, to have them rise with the Tide, well
+armed with Grapnals, but he could obtain but two of 70 or 100 Tuns, of which
+one was called the Fortune, the other the Hope, with ten other small flat
+Boats.
+
+Then seeing these two Vessels well timber'd, and of a just capacity, he made
+in each, with great square pieces of white stone, a Coffer or Chest of five
+Foot thick, 40 Foot long, and three and a half large and deep; in one of which
+he put 10000l of Cannon Powder, and in the other 7500, and covered both of them
+with massive great broad Grave-stones, which might easily resist the violence
+of the Enemies Cannon.
+
+There were laid cross these Machins several Matches dressed with Sulphur, and
+aboard each Vessel there was an artificial Engine, which ought to burn a whole
+hour before that the Coffers took fire, to amuse the Besiegers, and to make
+them believe that there was no other thing then what appeared alost.
+
+Besides, there were 32 very flat bottomed Shallops, full of Ingredients, of
+which eight at every half hour ought to descend with the Tide, besides others
+full of wild fire, which were to burn leisurely the Rafts before the Bridge, to
+the end that the Enemy being weary by continual firing, for the space of some
+hours, the great Vessels might have an easier access.
+
+The fourth day of July being appointed for this Enterprise, all this
+Preparation had not such success as they promised themselves, therefore they
+suspected some Treason; for these four Squadrons of eight Shallops apiece, set
+sail almost all in the same time, contrary to the design of the Ingeneer, the
+tide beginning to slack, and the two great Vessels going away sooner than they
+should have done, one ran ashore, and wanting water, did no Execution then kill
+some Soldiers. The Prince of Parma believing that the rest would work no other
+effect, and that all would vanish in smoke, retired into St. Mary's Fort. But a
+little after, three Shallops having burned some Rafts; and the great Vessel as
+it happened (several of the Besiegers being come to view the Shallops) arriving
+just upon the point of the Pallisade, fired with such violence and fury, that
+it tore in a thousand pieces six of the Ships of the Bridge, overset and blew
+into the air several others, tumbled down the Prince of Parma, and the Marquess
+of Pescara, (who were returning with as many men as they could find within a
+league about,) made an Earthquake four miles round, and broke the the Glass
+windows at six leagues distance, killed more than 500 persons, amongst whom
+were the Marquess of Rubais, and the Lord of Billy; moreover, emptied the very
+channel of the River, that being dry, and the water raised in the Air, and
+falling in the neighboring fields, almost entirely filled with water an
+adjacent Fort, and the Soldiers in the field were up to the knees in water, had
+their Cloths, Matches, Muskets, and Artillery all wet, and were rendered so
+unfit for service, that they had been without question routed, if the
+Antwerpians had been in readiness to have made a brisk Sally. The Prince
+forthwith repaired this damage, and left an open place in the Bridge to let
+all such like Vessels pass, if they should make any more attempt. Once more
+those of Antwerp sent another Ship of vast greatness, with hopes to perform
+more advantageous effects, and called her the End of the War, but succeeding
+very ill, as some others which were sent down in the same time against the
+Bridge the 22 of the same month, at last they were forced to render themselves
+the 17. August, 1583. This relation was drawn out of the Annals of Bertius, and
+of P. Orlandin of the Campaigne of Jesus.
+
+THE SECOND PART: Of the Bore or Chase of Guns.
+CHAP. I.
+Of the general Proportion of the Bores of Guns.
+A Great Gun or Cannon, is a long Barrel, round and hollow in the middle.
+Before they are cast, they are drawn out in Design, with their Proportions.
+
+The Proportions, are either general or particular.
+
+The General Proportions, are those which serve in all sorts of Ordnance, and
+those are, as touching their Breech, Touchhole, Alteration of the thickness,
+Trunnions, the Cascabel, and Rings.
+
+The Particular Proportions, are those which change according to the Nature and
+Species of the Artillery, as the Calibre, length, and thickness.
+
+As to the General Proportions, the Breech is always thick, when the Metal at
+the Touchhole is thick, comprehending also the Metal of the Chamber if there
+be any.
+
+
+
+The Touchhole is used at the end of the Chase.
+
+The Line of Alteration of Metals, is made at the middle of the Length, betwixt
+the Touchhole and the Muzzle in cast Ordnance.
+
+The Trunnions are thick and long, one Diameter of the Chase or Concave (where
+they are made.) In Gross Cannons very often they make them shorter, not finding
+Side-Timbers or Cheeks strong enough to make the Carriages.
+
+The Axletree of the Trunnions is distant from the Muzzle 4/7 of the length of
+the Chase, and from the Touchhole 3/7, to the intent that the Piece may be
+moved easily, and being something heavier behind than before, is not Muzzle
+heavy. Some by putting them far distant from the Muzzle, and from the
+Touchhole, by which they are made too heavy at the Muzzle.
+
+They are placed before the Level of the Metal under the Chase, that the Piece
+may be the higher mounted upon his Carriage, and may receive more degrees of
+Elevation. Some oftentimes place them not so low, but make them so, that their
+highest leine corresponds and passes by the Diameter of the Chase, and the
+Diameter of the Trunnions, by the lowest line of Cylinder, as do demonstrate
+the Fig. 3. and 4. Fig III. and IV.
+
+
+Cascabel or Pummel serves to elevate and to direct the Cannon, and is lesser
+but longer than the Trunnions.
+
+The Maniglions or Dolphins, are two great Cornishes at the Extremities, which
+rise higher than the Inequalities of the Rings which are upon the back of the
+Piece, and do not hinder the sight, and also serve for Ornament and Strength.
+The Muzzle-ring is high 2/8, and the Base-ring is high part of the Calibre
+about, but the Rings in Petrieroes at the Mouth are, and at the Breech 1/12,
+and are large at pleasure.
+
+Of the Particular proportions, we shall speak of them underneath, according to
+all the natures of Ordnance.
+
+CHAP. II.
+Of the Culvering.
+CVlverings are Distinguished into three manners; first, according to the
+Calibre or nature of the Ball; secondly, as to thickness of the Metal;
+thirdly, according to the length of the Bore.
+
+As to the Calibre, they are called whole Culvering, Culvering, and
+Demi-Culvering.
+
+The whole Culvering are called anciently Dragon-Drakes, and carry a Ball of
+Iron from 40, 50, to 60l etc.
+
+The Culvering from 35l, 30, 25, 20.
+
+The Half Culvering from 18, 16, and 14.
+
+As to the thickness of Metal, some are called small, some common, other
+reinforced or fortified.
+
+The Small, used in old time, have their Metal thick
+
+At the Touchhole In the Middle 6/8 of their Calibre. At the Neck 4/8
+
+The Common Modern have their Metal thick
+
+At the Touchhole 1 Middle of their Calibre. At the Neck 4/8
+
+The Modern Fortified
+
+At the Touchhole 1 Middle of their Calibre. Neck
+
+The Culvering does not grow equally small from the Touchhole to the Neck, but
+fall off at several Rings for better Fortification.
+
+Some make the Demi-Culvering better fortified than the Culvering, as one may
+observe in Field-peeces, but it is not generally used.
+
+As to the Length, they distinguish the Culvering into ordinary, extraordinary,
+and bastard.
+
+The Ordinary Culvering, are long from the Touchhole to the Muzzle 32 Calibres.
+
+The Extraordinary are longer than the Ordinary, viz. to 39, 40, 41 Calibres.
+
+The Bastard are shorter than the Ordinary, viz. only 28, 27, and 26.
+
+Although the true measure of the Ordinary be 32 Calibres, notwithstanding they
+are sometimes made of 30 and 33 Calibres, and are called Ordinary.
+
+The Whole Culvering are made one Diameter or two less, and the Demi-Culvering
+one longer than the Culvering.
+
+Of the several natures of Culvering, one may form nine species of each. As
+Culvering ordinary small, and Bastard ordinary small, extradinary small,
+Ordinary Cannon, Extraordinary Cannon, Bastard Cannon, Reinforced Ordinary,
+Reinforced Extraordinary, and Bastard Reinforced.
+
+One may say the self same thing of the Fig. V.
+Whole and Half Culvering.
+
+CHAP. III.
+Of Field Pieces.
+FIeld Pieces are generally reduced into the same Natures as Culvering, and are
+also distinguished into three manners: 1. as to the Calibre, 2. as to the
+richness of the Metal, and 3. to the Length.
+
+As to the Calibre, they have these principal natures following.
+
+The Smeriglio or Rabinet carries a Ball of Iron from l to a Pound.
+
+The Falconet from 2, 3, to 4l.
+
+The Falcon or half Saker, from 5, 6, to 7l.
+
+The Saker or Culvering from 8, 10, to 12l.
+
+Others with the same Calibre as these, will carry as before.
+
+As to the Richness of the Metal, they have the same distinctions that the
+lesser Culverings have, Common and Reinforced, although these Field-peeces are
+generally used Fortified, and the lesser they are the more Fortified, to resist
+better the Force of the Powder in their frequent Discharges.
+
+The Thickness of Metal at the Touchhole, Neck, etc. are the same as the
+Culvering.
+
+As to the Length, they are distinguished into Ordinary, Extraordinary, and
+Common.
+
+The Ordinary ought to follow the same Rule as the Culverings of 32 Calibre,
+oftentimes they are made longer, viz. from 32 to 34. The Saker, Rabinet, and
+Falconet, from 38, to 40, and 42, because the smalness of their Bore, if made
+32, they would not advance beyond the Circumference of their Wheels, and
+therefore would do no effect.
+
+The Extraordinary, are those that pass the said measure, and amongst those is
+remarkable the Passavolante or Zabratana, long from 48 to 50 Calibres, and most
+rich in Metal, and which carries a Ball from 5 to 6 pound, as the Falcon, but
+now are seldom cast.
+
+The Bastard, are those who do not arrive to 32 Calibres; amongst which are
+found the Moyenne or Minion, which is a Modern Piece Fortified, and carries a
+Ball of 8 or 10l shot (as the Saker,) but is long only 26 Diameters, used in
+the Galleys, being so short for the smalness of the place.
+
+The Aspide is an ancient Piece, and poor in Metal, and although it carries 8
+or 10 pound shot, is no longer than 22 or 20 Calibres.
+
+The Musket di Givoco, is a small Piece used only by the Venetian Gunners,
+carrying one Pound Ball of Iron as the Smeriglio, long 28 Diameters or 30,
+thick at the Touchhole Diameters 1 1/16, at the Neck.
+
+The Saltamartino, is a small Piece used by the said Venetians, long 15
+Diameters, carries shot 4l of Iron as the Falconet, thick at the Touchhole one
+Calibre, at the Neck. Diameter. It is called the Saltamartino, from being
+turned about upon all occasions, and being loaded behind at the Tale of the
+Carriage, without drawing back the Piece, and there be many of them in the said
+State.
+
+The Ribadocchino.
+Rabbonett, was a Piece of Artillery anciently used, and carried a Pound shot
+or 1 of Iron as the Smeriglio, but this Rabbonett is used in Flanders, and
+carries as abovesaid, and long Ordinary 36 Diameters.
+
+There be other particular Names for Field. Fig. V.
+Pieces, but these be the most usual.
+
+CHAP. IV.
+Of Cannons of Battery.
+THE Cannons of Battery, are Pieces ordinarily shorter than Culverings, and are
+distinguished, first, as to their Calibre; secondly as to the Richness of their
+Metal; and thirdly, as to their Length.
+
+The Calibres are as follows.
+
+The Cannon carries a Ball of Iron from 16 to 18 pounds.
+
+The Demi-Cannon from 20 to 28l.
+
+The Cannon from 30, 40, 45, to 50l, and formerly even to 60 pound.
+
+The whole Cannon from 70 to 120.
+
+The Cannon Basilisk from 130 to 150 and 200 pound Ball, used by the Turks.
+
+As to the Richness of their Metal, some are Ancient and Small, others Modern
+and Common, and Modern Fortified.
+
+The Ancient are small, Tapered or Bell-bored.
+
+The Chambred have their Metal thick at the Touchhole 6/8, in the middle, and
+at the Neck of their Calibre.
+
+The Tapered are thick as the Chambred, but are more Tapered toward the
+Touchhole, long Diameters 4, large in the beginning Diameters 1, and in the
+bottom Diameters, in the middle, at the Touchhole of the mouth.
+
+The Common are either Chambred, or Tapered.
+
+The Chambred have this thickness of Metal at the Touchhole, in the Middle, in
+the Neck.
+
+The Incamerated have the same thickness as the former, and moreover the
+Chamber near the Breech long 4 Diameters of the Piece about, large as much in
+the beginning as in the end, and with the risalto.
+Gengiva or degrees one over another, thick of the Calibre.
+
+The Modern Enforced are all Chambred, and have such thickness at the
+Touchhole one Diameter, at the Middle 5 or 6/8, at the Neck.
+
+Note, first, that some are called Enforced, although Common Incamerated.
+
+Secondly, observe that the quarter, and Modern half Cannon, have the
+Reinforcement (...) Fortification of a Culvering, the better to ser^ in its
+place.
+
+Thirdly, that the Cannon Basilisk has greater Reinforcement, as we shall
+hereafter declare.
+
+As to the Length, they are Ordinary, Extraordinary, or Bastard.
+
+The length of the Ordinary is 18 Diameter.
+
+Although very often they make the Them Cannon 22 and 24 Diameters.
+
+The quarter-Cannon is made long 26 Diameters, or 28, to the end being so long,
+and Fortified or Reinforced, they may serve in pla^ of Culvering or
+Demi-Culvering.
+
+The length of these Extraordinary Pieces (...) greater than the Ordinary
+respectively, and amongst the rest is famous the Cannon Basilis^ used by the
+Turks in nature of a whole Cannon, which is long from 24 to 30 diameters thick
+at the Touchhole diameters 1, at the Middle diameter 1, at the Neck diameter,
+and carries, as we have said, a Ball from 130 to 150 and 200l weight.
+
+The Bastard Cannon are those which are shorter than the Ordinary; if they are
+Cannons or Whole Cannons, their Calibre is 24, or 22 if they are Demi-Cannons;
+28 or 26 if they be Quatter-Cannons.
+
+They are called Rebussi, Crepanti, Verrati, long Diameters 15; and the
+Saltamarino may be reduced to this nature as to the length, but by ^s placed
+amongst the Field Pieces, by reason of the smalness of its Calibre. Some call
+those Bastard Cannon, which have a greater length than the Ordinary Cannon,
+which do not arrive to the ordinary length of Culvering; but these ought rather
+to be called either Extraordinary Cannon or Bastard Culvering. Fig. VI.
+
+
+CHAP. V.
+Of Cannon Petrieroes.
+THE Petrieroes, are so called from its Ball of (Pietra) stone, with which they
+are loaded from 2 to 100 and 150l, for the most and all are Incamerated, or
+Chambred and continued in one Piece; or else with the Chamber separated with a
+Braga of Iron, and therefore are called from that Petrieroes a Braga.
+Braga.
+
+Those that are continued, and of one Piece, are either Ancient, or Modern.
+
+They are long from 8, 8 to 9 Diameter, Calibre, Bocca, Bore, Mouth, all one,
+and B signifies them all.
+diameters, although some are to 10 and 12.
+
+The Ancient have this thickness of Metal, the Chamber being not computed, at
+the Touchhole, at the Middle, at the Neck of the Calibre.
+
+The Chamber has the Gengiva or rising of the Calibre, the largness is, the
+length is D. 1 of the Calibre, or else diameters 4 of the same Chamber. The
+Modern have the thickness of the Metal rising at the Chamber; at the
+Touchhole, Middle, and at the Neck.
+
+The Gengiva, or rising of the Chamber, is thick diameters.
+
+The mouth of the same is of the Calibre.
+
+The Length is Calib. 2, viz. Dia. 4 and 6 of the Chamber.
+
+But it is to be observed, that some make them Incamerated, that the Mouth of
+the Chamber be of the Calibre, and three times as long as large.
+
+Some make the Chamber so, that it may be the of the weight of the Ball; as if
+the Piece carry 30l, they make the Mouth of the Chamber large, as much as is
+the Diameter of the Ball of Stone of 6l; they make the said Chamber long
+diameters 2 and of the said Chamber, and make these Pieces long from 12 to 14
+diameters of the same Chamber; and the thickness of the Metal of these two with
+the Chamber, is at the Touchhole diameter 1, at the Middle diameter, at the
+Neck of the Mouth of the Chamber.
+
+Note, that some make Petrieroes not Incamerated, long Calibres 12, and thick
+at the Touchhole, at the Middle, at the Neck of Fig. VII.
+the Calibre.
+
+The Petrieroes a Braga, have their Chamber separated, which is called the
+Mascolo, Servitore, and Covetta, and so they are loaded behind; they are
+serviceable upon Galleys, Vessels, Towers, and other narrow places, where the
+Piece cannot reverse; they are either of beaten Iron or Brass, as also the
+Servitory or Mascoli; the Braga is of Iron.
+
+They carry a Ball of Stone from 2 to 14l, and no more.
+
+They have their Chase long from 10 to 12 Calibres; the thickness behind is
+Calib., at the Neck, or else behind Calibre, at the Neck.
+
+The Trunnions are thick and long Calib. round about, distant from the Mouth,
+and from the end, about the length of the Bore.
+
+Betwixt the Trunnions and the end in the middle, are placed two Wings, to
+fasten the Braga, and hang without of the Calibre, and are fixed to the very
+Axletree of the Chase.
+
+For every Petriero de Braga, there should be three Mascole, which are large at
+the Mouth, and also of the Bore, long in the Chase 4, 5, or also 6 diameters.
+The Metal about is thick one diameter, and particularly about or as much as the
+Piece to the Bottom, they have an Handle, and at the Head are made small, to
+drive a little into the Bore well closed, viz. diameter round about its Moscola.
+
+The Braga is of Iron, ordinarily fastener straight to the Wings; it is
+prolonged within that it may be capable of the length of the Moscolo, and its
+Coin behind, which makes i^ firm; and in the end has a long trail or trai^
+Calib. 3 or 2 with its Button, or Pummel, and serves to manage the Petriero:
+cross the Brag^ underneath, is a place to sustain the Mascolo.
+
+The Wedge is of Iron, thick or del: Calib. large at the least one Calibre, and
+long about. One also may have more Wedges to keep the Mascolo or Chamber joined
+to the Bore.
+
+CHAP. VI.
+Of Mortars or Trabucchi.
+THey are short Pieces, of the nature of Petrieroes; and with these they shoot
+Balls of Stone, Granado-Shels, and Cases full of small Shot, not by a Right
+line, but by a Crook from on high, so they fall where it should be appointed.
+
+The Chase from the Touchhole to the Muzzle in all, is Calib. 2 and. The
+Chamber is long Calib., large Calib.. The remainder is Calib. 1, the Gengiva or
+Rise of the Chamber is thick Calib.. They are thick besides the Chamber at the
+Touchhole, in the middle, at the neck of the Calibre.
+
+There is no other difference betwixt a Mortar Piece and a Trabuccho, but in
+the placing of Trunnions, since the Mortar-peece has the diameter of the
+Trunnions, which corresponds to the end of the Chamber. And the Trabuccho has
+its Trunnions placed in the thickness of its Breech.
+
+The Mortars or Trabucchi, that have their Bore long Diam. 3, are best to shoot
+Balls of Stone, Fireballs, Base and Bur-shot, because they require a greater
+force; but to shoot Grenades they do greater effects, being long diam. 2, or a
+little more, by reason of the Spoletta or length of their Bore.
+
+They are most used to shoot Grenades betwixt Fig. X.
+50 and 100l, although sometimes one fits them to 300l weight.
+
+END OF THE SECOND PART.
+Concerning the Bridge, and Blow near Antwerp, out of Pietro Paulo Floriani
+Diffesa and Offesa delle Piazza. page 141.
+BUT it did not so happen with Alexander Prince of Parma, at the Bridge made at
+the Siege of Antwerp, the like to which was never yet seen or related in any
+History, being attacqued from a Machine of Fire, the most Horrible and dreadful
+that ever was put in practice in any part of the known World. An Engine without
+doubt invented by the proper Enemy of Mankind, and brought to perfection by his
+new Infernal Ministers. It was eight months in making by the Ingeneer of
+Antwerp, and in it were the only hopes to relieve the City. It was a great Ship
+strongly timbred, in which was a strong Valut or Arch made of Stone and Mortar,
+filled with 200 Barrels of Powder, and above the Valut were great Stones of all
+forms, Cannon shot, Chains of Iron, enough to ruin a whole City. And within
+these vessels was laid a secret Fire or Fusee so cunninly, that it should not
+fire the Powder, 'till it was arrived at the Bridge, or a little after, etc.
+
+THE THIRD PART. Of Carriages for Artillery.
+CHAP. I.
+Of Carriages for Culvering.
+THE Carriages are made of two Cheeks, four Transomes, or cross beams of wood,
+with two Wheels, the Axle-tree, and their Iron work.
+
+The Sides or Cheeks of the Carriage are once and a half as long as the Chase,
+which being 32 Calibres long, the Carriage will have in length 48 Calibres.
+Fig. XI.
+
+
+Some make only the Carriage long one and of the Chase or Cylinder, some one
+and, but the first manner is most approved for the following reasons.
+
+As to the length of the Carriage, the longest suffers less in the splitting of
+the Piece, does recoyl enough, but is more subject to break in the midst, yet
+more spares the Wheels, is more easy to turn about, and manage the Piece, and
+in short will last longer. But the short Carriage makes a longer Shot, does not
+recoyl so much, and is easy to break it self in the Breech, is good for small
+Platforms, and upon which one gives more Elevation to the Piece. Fig. XII.
+
+
+The thickness of the Cheeks or Sides of the Carriages is ordinarily one
+Diameter of the Muzzle.
+
+The largeness of the Head, to the very end of the Length, is equally from B 2
+to B 3.
+
+The bending in of the middle from B 3 to B 3.
+
+The Tail from B 1 to B 2.
+
+The end of the Breech B 3 about; if at any time it turns or oversets, which
+happens when the Carriage is forward on the Wheel.
+
+The Trunnion-holes are cut in the uppermost side, distant from the upper part
+B 3 complete, and deep B.
+
+The holes for the Axletree are cut in the lowermost part large B 1 square,
+distant from the Front B 4 complete, or at the least B 3 about, and distant
+from the uppermost Side B 2 complete. Some therefore do not make the Hole for
+the Axletree altogether square, but do make it blunt on the two inferior
+Angles, Fig. XIII. XIV.
+as shows the Fig. 13 and 14.
+
+Some do not make a through hole for the Axletree, but only a Joint made hollow
+into the lowermost part, when the Cheeks are not very large, and into the Joint
+they place either all the thickness of the Axletree equally, or only binding it
+with a band of Iron, which passes Fig. XV. XVI.
+about, as in the Fig. 15, 16.
+
+The two Cheeks or Sides of the Carriage, are fastened from the four Transomes
+or cross Beams of Wood, which besides the general qualities of binding together
+the Cheeks, have also some particular.
+
+First, that toward the Mouth of Front hinders Fig. XVII.
+that the Piece does not split. Secondly, that of the Breech serves to hold up
+the Breech of the Culvering, and upon which it rests. The third, that of the
+Manovelle, or little Pieces, serves to rest upon, in elevating the body of the
+Piece. The fourth, that of the Train or Tail serves to place into the hole the
+Bolt or Fastning-pin of the Fore-Carriage of the Piece.
+
+All the Transomes are thick B 1, and large B 1 (from that of the Tail except
+when it is large B 2) all equally long, viz. as much as the Diameter of the
+Piece is near the Trunnions; and moreover B 1, because the middle Transome is
+joined into the Sides, and so their Sides are parallel.
+
+Some make the abovesaid Transomes equal in length, viz. that of the Breech as
+long as the diameter of the Breech, and moreover one diameter for the Mortess,
+and the other for the Manovelle or flat Transome a little greater, but that of
+the Tail longest, and the Fore-Transome shortest of all; and the Sides or
+Cheeks are not parallel, but follow the unequal thickness of the Piece.
+
+When the Sides of the Carriage are parallel and narrow as above, they ought to
+be somewhat taken down betwixt the Trunnions and the Transome of the Breech, to
+the end that the body of the Piece and Cornishes may enter within.
+
+Besides, some take down always the said Sides inwardly betwixt the flat
+Transomes and the Tail-Transome, raising of a Diameter to render it more light
+and more easy to be managed.
+
+The places of the Fore-locks are as follows.
+
+That of the Forepart is distant from the Front completely B 1, and from the
+lower Side B.
+
+That of the Breech goes behind from the Trunnion-holes, as much as the Piece
+is long, from the Trunnions to the Breech, to the end that the Breech may lie
+just upon it, and is to lie as low as is possible, to give a greater Elevation
+to the Piece; it is to be therefore distant from the edge or lower side of the
+Carriage B.
+
+That of the (flat Transome) is higher, and distant from the Line of the middle
+Plate toward the Trunnion-holes B 1, and under the upper side of the Cheek B.
+
+That of the Tail, is placed in the part turned up, or over the same Tail,
+distant from beneath and from above of the side of the Cheek B and from the end
+B 1.
+
+The Transomes do not enter with its whole piece into the Cheek, but grows
+small above and beneath of its thickness.
+
+The Iron-work necessary for a Carriage, are four Garnishing Bolts, great Bolts
+or Pins of Iron, viz. one near every wooden Transome which passes through the
+sides of the Carriage, and may have Plate-rings and Fore-locks for to Fig.
+XVIII.
+keep the Carriage sides firm.
+
+In the Tail Transome there is a hole made, which is armed with Plates of Iron,
+in which is placed the Iron Pin of the Fore-Carriage, for as much as it
+conducteth the Artillery upon the Carriage.
+
+Against the Trunnion-holes are placed a little Bolster and Capsquare in the
+lowermost part, which does shoulder or uphold the Trunnion in the recoyling, to
+save the wood of the Fig. XIX.
+Cheeks with his Contraforts behind.
+
+Of late, under the Trunnions they put the Counter trunnions or Capsquares,
+which is a Plate of Iron, which does incompass the Trunnion-holes, and part of
+the upper side; to the end that the thickness of the Piece may not spoil it:
+and where they place the Counter-trunnions, there is no need of a Bolster,
+although in some Pieces one may use both ways; the Counter-trunnion is showed
+by Fig. 20. Fig. XX.
+
+
+All the forepart is covered with a Plate of Iron, or Binding, under to the
+very joynting of the Axletree, and over to the Trunnion-holes fastened with Iron
+nayls.
+
+Above the Trunnion-holes pass the Capsquares, or joynted Plates, which stay
+the Trunnions in the Trunnion-holes, and the Capsquares are fastened by four
+long Capsquare-pins, which pass through to the very bottom of the Cheek, and
+under are fastened with its Fore-locks and Linch-pins.
+
+One of these Capsquare-pins passes by the Fig. XXI.
+Axletree to the Binding-plate below, where it is fastened with its Forelockeyes.
+
+The Tail is also all bound over and under with its Plates fastened with Nails,
+and lastly are placed two great Rings to the sides of the Cheeks, half behind
+the Wheels, to fasten Ropes for to manage and conduct the Piece; and there are
+nailed two Hooks in the outward side of the Carriage, viz. one on each side
+near the forepart, to fasten other Cords to draw the Carriage forward on. Fig.
+XXII.
+
+
+The Axletree of the Culvering is to be as long as to pass through the
+Carriage, the forepart of the Wheel with that overplus as is necessary to
+contain the fastening or Linchpins at the Nave, which may be 15 Diameters about.
+
+The Thickness, for as much as the exterior largeness of the Carriage is 1 and
+B, so moreover on each side of B 1 square, and moreover that eighth part they
+leave; to the end that the Wheels in its motion do not touch the sides of the
+Carriage.
+
+The remainer is round about the Carriage, thick in Diameter B or B 1, and in
+the end thick B 1.
+
+It is made of hard wood, as of Elm, Oak, or such like.
+
+Its Length is thoroughly fortified with its bar of Iron which pasleth through,
+of two Inches about, to the end that being strong, if the Axletree should
+break, it might alone be able to govern the weight of the Piece; it is let into
+the Axletree underneath.
+
+That part which surmounteth the forepart of the Nave of the Wheel shall be B 1
+or B, and is defended by its clout of Iron, which is an Iron-plate that
+incompasseth the Head of the Axletree, with two Sides for to nail or fasten it
+to the Axletree. Fig. XXIII
+
+
+The Clout of Iron has moreover only open its Nave or forepart, and in that
+part which sticks out is made a Hole which passes through, as also in its
+Clout, where they put a Pin to hinder the Wheels that they do not slip off.
+Fig. XXIV
+
+
+The same Axletret is fastened in the Sides with a Capsquare-pin, which passes
+through it as abovesaid.
+
+The Wheels for the Culvering by some are universally made high B 14 in
+Diameter, viz the greatness of the Nave B 4, which is long B 4.
+
+The length of the Spokes B 4 for every one, setting aside that part which is
+joynted in, and. B 1 for the bigness of the Fellows.
+
+Some make them in Pieces of 12l to 30l, high in Diameter B 10, but others from
+30l upward 9 Diameters.
+
+Those of 10 B in Diameter have a more particular measure.
+
+The Nave is thick B 3, long B 3.
+
+The Spokes, long B 2 completely, but moreover have B 1 or B 1, to mortaise
+into the Nave and Fellows.
+
+Those of 9 B in Diameter have all the Measures as is already said, but the
+Spokes are only long B 2 completely, besides that part which is mortaised into
+the Fellows.
+
+The Nave does handsomely diminish to its extremity, abating from that part
+toward the Carriage B, and of the other B 1, or little less in all.
+
+The Spokes are 12 in number, and are fixed in the thickest part of the Nave,
+so that they enter B 1 or more; but they are placed not perpendicularly, but
+outwardly sloping.
+
+The Fellows are in number six, and make up the Circumference of the Wheel, and
+in each of them are fixed two Spokes; the Fellow is thick B 1, and large B 1.
+
+The Iron-work of Wheels are these.
+
+The Fellows are armed about without with Plates of Iron called Dowledges,
+thick B 1/11 or 1/12, large B 1; and so long, that they may cover the whole
+Circumference of the Wheel Fig. XXV.
+Their midpart meets with the Joint of the Spoke, and the Streaks join close
+unto the middle of the Spoke. Upon which are nailed Nail with large broad
+Heads, and to their Naves, which are something turned over without, also are
+bound over the Streaks by a Stirrup narrow within, with its string or Binding
+of Iron.
+
+There are moreover high Stirrups, which bind Fig. XXVI
+fast the heads of the Spokes, fastened underneath Fig. XXVII.
+with their strings of Iron.
+
+The Heads or Barrels of the Wheels are outwardly bound with four Rings of
+Iron, two in the thickest part near the Spokes, and two more toward the
+Extremity. Furthermore they have the Mouth furnished for the Axletree with a
+Bocchole of Iron, according to the use of all Wheels; if they shall be of
+Brass, they shall be yet better, and more if they be upheld. Fig. XXVIII.
+
+
+CHAP. II.
+Of Carriages for Field-Peeces.
+CArriages for Field pieces are like those for Culverings, and have the same
+proportion, except in these following particulars.
+
+The Cheeks are thick B 1, for having only one Diameter they will prove too
+small, especially in little Pieces.
+
+The Axletree is not fortified with a Counter Axletree of Iron, being
+sufficient to rule the Piece without that; nevertheless sometimes they are
+fixed in Sakers.
+
+The Wheels are high in Diameter Boc. 14. and in the Smeriglio and Falconetto
+they are without Measures, but that they may not prove less than 4 Foot about
+in Diameter, to the end that they may come unto the Parapets and Embrasures.
+
+CHAP. III.
+Of Carriages for Canon of Battery.
+ALL the Artists do not agree to determine the exact Length of Carriages for
+Cannon of Battery. Some would have them once and half longer than the length of
+the Chase or Cylinder, as in Culverings; some one time and one third; but the
+most commodious way is that they be made one time and a half, o^ B 28.
+
+The thickness of the Cheeks are diverse, according to diverse Opinions. Some
+will have them B 1 always, other B, others B, other one B; in Pieces of 30l
+less, but in heavier Pieces, viz. from 30l upward they allow them 1^ for 100.
+In fine they are less than the Mouth.
+
+The largeness of the said Cheeks are divers^ At the forepart Call. 3. 3. 3: at
+the middle Calibre 2, 2, 3.
+
+At the Tail always Call. 2, the End being something turned up upwards, is
+Calibre 2, (...) Call. 2.
+
+The Transomes are four, as in the Culverings; the Length is throughout equal,
+viz. (...) much as the thickness of the Piece, near (...) Trunnions, and
+moreover the thickness of t^ half Cheeks for the Mortessing, to the end t^ said
+sides may de parallel. The thickness shall be B 1, but better only. The
+largeness of the three first shall be B 1, but that of the Tail shall be of 2
+B, or at least B 1.
+
+As concerning their place, that of the front shall be distant from the said
+front B 1, or at the least B. That of the Breech, as is usual. That of the
+Manovel or flat Transome shall touch the very half of the length of the
+Carriage, and that of the Tail shall be distant from the end B 1, or at the
+least.
+
+The Trunnion holes shall be cut in the upper side, distant from the front B 3
+completely, large B 1, and deep.
+
+The Mortessing for the Axletree shall be distant from the front B 3
+completely, (although some only will have them B 2) and distant from the upper
+side B 2 or 1, large B 1, or at the least B 1 Thoroughly hollowed in the plain
+of the Cheeks, and in the lower side, as may be said of the Culverings,
+according to the Commodity of the largeness of the Cheeks.
+
+The Axletree may be long Call. 13, round about as much as is sufficient to
+comprehend the Carriage. Wheels and Locks thick Call. 1, or Call. 1. The rest
+round and thick near the Carriage B 1, and without B round about.
+
+The Wheels in Cannons even to 30l Ball, are made high in Diameter Calib. 10,
+in Cannons from 30l upwards Call. 9. The Measure of the Nave, Spokes, and
+Fellows as abovesaid, being of the same Diameter and proportion as those of the
+Culverings.
+
+The Iron-work of the Carriage, Axletree, and Wheels for Cannon of Battery, are
+the same as for the Culverings.
+
+In the half Cannons, and as for Cannons fashioned like Culverings, and longer
+then is usual, they follow altogether the Measure and proportion of Culverings.
+
+Chambred Cannons are not measured by the Diameter of the Chase, but by the
+Chamber. Fig. XXVIII.
+
+
+CHAP. IV.
+Of Carriages for Cannons Petrieroes.
+THE Carriages for Petrieroes have the same fashion as those for Battery, and
+are long once and a half, once and two thirds, or once three quarters of its
+proper Bore at the Touchhole or Mouth. The most commodious and most reasonable
+is to make 1, viz. if the Soul of the Piece is long Calib. 9, the Carriage may
+be Call. 15, or Call. 15.
+
+The bigness of the Sides shall be B or B.
+
+The breadth at the forepart B 2, B 2.
+
+At the Middle B 1, B 2.
+
+At the Tail B 1. B 1.
+
+The extremity of the Tail bends and is distant from the end B 1
+
+The Trunnion-hole is distant from the Front completely B 1, and is large or
+broad B, deep (...) of its breadth.
+
+The Mortasing for the Axletree is distant from the Front B 1, of the uppermost
+side B 1, and is squared round about B.
+
+The Transomes are thick B, and wide B, but that of the Tail B 1.
+
+That of the forepart is distant from the same B, and from the lower side. That
+of the Breech distant B from the lower side, and that of the Mannovell or flat
+Transome from the uppermost side B, betwixt which and the Center of the
+Trunnion-holes is such a space as is the length of the Piece from the Center of
+the Trunnions to the end of the Cascabel, viz. B 5 5/7 about. That of the Tail
+is distant from the end B, and from the upper and lower side Eig. XXIX.
+B
+
+The Axletree is big in the middle square B.
+
+The Wheels are high in Diameter B 6, the Nave is thick B 2, and long B 2. The
+Spokes B 1 completely, and moreover as much as is sufficient for their
+Mortaising.
+
+The Fellows thick and large B.
+
+Yet one must observe, that in Petrieroes of a small Mouth, that the Wheels are
+to be made so high, that the Pieces may arrive to the Portholes or Embrasures,
+viz. of three Foot or four about in Diameter; and in the Petrieroes of a large
+Mouth they do not make them higher in Diameter than five or six Feet, to the
+end that they may stand covered by the Parapets ordinarily six or seven foot
+high.
+
+The Iron-work of these Carriages, Axletrees, and Wheels are the same as in
+other Carriages, and like Cannons of Battery.
+
+In measuring and proportioning these Carriages, they may be valued from the B
+of the Chamber, by redoubling the number of the B of the Chase etc. and these
+measures in old Petrieroes become greater, because the Chamber is larger from
+the end of the Chase.
+
+The Carriages of Petrieroes de Braga (which on land are used in Towers and
+little Platforms, is a simple Cavaletto (or wooden Horse) made of a crooked
+beam, with two Feet before, Fig. XXX.
+on which is fixed a great Fork of one entire piece of Iron, which does Clasp
+the Trunnions. And under the Feet and the Tail they put small little Wheels
+joynted in, to hale along with more facility the said Cavaletto.
+
+But sometimes this crooked Beam, in place of Fig. XXXI.
+Feet before, is sustained by an Axletree with its Wheels as in other Carriages.
+
+To make Short Carriages for all natures of Guns, one must observe, that the
+half of the Carriage be just in the end of the Breech, putting the flat
+Transomes below in the hinmost part of the Carriage, viz. under the half, as is
+showed in the Figure 12, in a Culvering Carriage.
+
+CHAP. V.
+Of Carriages for Mortar-peeces and Trabucchoes.
+FOrasmuch as Mortar-peeces are not discharged but by method, and that raised
+from 45 degrees to 90, whereas other Artillery is never elevated above 45
+degrees; therefore the Carriages ought to be different.
+
+Those for Mortars are made of three Sides or Cheeks, two for Sides, and the
+other for the the Bottom, all thick B of the Mortar.
+
+Those of the Sides are large or high B 2: the Trunnion which is all mortaised
+into the Cheek, occupies B, the thickness of the Cheek at the bottom B, the
+other B 1, and takes up almost all the inferior part of the Mortar, viz. part
+of the Chamber B, the thickness of the Breech B, leaving a void place betwixt
+the Breech and the Bottom, to put the Coins more easily under.
+
+The length in the top shall be B 3, that below B 7, whence leaving at the
+forepart B 1 fastened, the Remainer may be bevil'd or without an Edge.
+
+The Cheek at the bottom is long B 7, and large as is the Diameter of the
+Trabuccho on the outside, is little more than B 1 with the Cornishes.
+
+This length of the Carriage is necessary, to the end that the Mortar being
+depressed to 45 degrees, then giving great Shocks with the Carriage in the
+Horizon, and that it might not leap out, to which end it is necessary that the
+length of the Carriage be at the least double the height.
+
+Others nevertheless make them only long B 6, because perchance they never make
+so low Shots.
+
+To the Carriages commonly they never make Wheels, because in their March they
+are drawn upon Wagons; nevertheless to hale them along they put underneath four
+small Trucks, each made of an entire Plank, thick B, high in Diameter B 1, with
+a hole for the great Axletree B about.
+
+They bind together the Carriage with four thick Transomes across, two below,
+and two aloft, which encompass all the thickness of the Sides and Wheels, with
+a Plate of Iron nailed to and across in most places for strength, especially
+when the Sides are made of two pieces.
+
+The Trunnion-holes are covered within with Iron, and there also they put their
+Contraforts. Within it enters the whole thickness of the Trunnions, which is
+closed with a thick Plate of Iron above, which covers all the upper part, and
+is there fastened with four garnishing Bolts and Pins, which pass over all the
+height of the Side, and are made firm underneath.
+
+Nevertheless the said Plates or Bands one may raise up and lay aside, every
+time as you would mount or dismount your Trabuccho.
+
+Lastly, there ought to be fastened outwardly on each Side two Rings, which will
+serve to manage and carry the Engine from place to Fig. XXXII.
+place.
+
+The Trabucchi have for a Carriage a strong Frame made of two Beams, distant as
+much as the Trabuccho is wide, made fast with two strong Transomes at the ends,
+with the Trunnion-holes in the middle, which are locked up with its Capsquares;
+and underneath are two Axletrees, on which are put two Rolers of Wood to
+conduct it, where there shall be necessity, which are drawn out and taken away
+when the Trabucchi is used.
+
+END OF THE THIRD PART.
+To divert the Reader after this third part, I have continued the story of the
+Bridge and Engine at Antwerp, out of Hondius his Fortifications and Artillery,
+being a person very like to get the knowledge of it truly, an Hollander, and one
+of that party. page 96.
+THere were two Vessels equipped, one called the Hope, the other the Fortune,
+which was fitted by Pieter Timmerman, Ingeneer of Antwerp, and not by Frederick
+Jenibelly, though he had fitted many before, as E. de Metereus in his History
+relates; for he is abused, and assuredly Timmerman fitted them, and in which
+he made a Chest of strong Wood and Stone in a Triangular form, as one may see
+in the Figure A; As long as the Vessel, four Foot broad at the bottom, and two
+at the top, and in which was put 18000 pounds of Powder. At the bottom was a
+Pipe of Latten, having little holes in the middle, to give fire on all sides in
+an instant, coming above the letter A, from which went out four other little
+Pipes, for to give more certain fire at the time appointed. And then this Chest
+was well built with with Square stones, laid in Mortass all about, then covered
+with Grave-stones in the manner of the Roof of an house, and upon which
+Grave-stones there were Gutters of fine Powder. And also he laid 400 Wagon-load
+of Stones without Mortar or Sand, and upon the Tomb-stones in the Gutters there
+were 24 Matches, which ought to fire at the prefixed time; and also they put
+Poles round about to hinder the Enemy from boarding, and encompassed the Vessel
+with great Pitched Casks which was to be fired, that none could possibly enter,
+as the Figure does show. The said Timmerman took with him a Captain named
+Lankhear, for to guide the Boats in the way, who with his Seamen did so fit it,
+putting underneath a Sail, (that the Course of the River might better carry it
+before) a Foot under water, and the said Captain put behind a certain Tail or
+Train, viz. fastened behind the Rudder four Fathom long, and at the end was
+fastened a great bundle of old Nets, with a heavy piece of Timber, which kept
+the Ship steady in its course, that it could not role or sheer on either side;
+and being so finished, was conducted in the night toward the Bridge, by the
+said Pieter Timmerman, with other four Seamen in company to conduct the Rudder;
+and so floating very near the Bridge, the said Timmerman fired the 24 Matches,
+and went behind the Rudder to the other Seamen, and immediately the Pitched
+Casks were on a light fire all about the Ship. They fired many shots from on
+both sides the River, which forced Timmerman to retire as fast as he could,
+after whom the Spaniards made many Shots, but all in vain. The Ship arriving at
+the Bridge, one would have thought that Heaven and Earth had finished their
+course. When the Powder took fire, it gave so great a blow under water, that
+the water lept on the other side of the bank, filled the Fort on Callo side,
+and laid all the fields round about under water; all the Fire and Matches were
+extinguished, the greatest part of the said Fort thrown down, and the Cannon
+lost. One might have seen great heavy Stones fly in the Air, and driven half a
+League into the Country. It blew up six Ships of the Bridge, of which three
+were so torn, that one could not so much as find a piece, the others cast and
+thrown with their bottom upwards, so that the Bridge was entirely broke. There
+were also more than 800 people blown up, and some persons of Quality, as the
+Marquess of Reesbork, General of the Cavalry; my Lord Billy, formerly Governor
+of Freeze, my Lord Torsy, and twenty three Captains, and some of the Prince of
+Parma's Court, the Prince himself being in great danger; for as Metteren
+relates, the Spaniards made all their Endeavors to extinguish the fire by
+casting in of water, which they did all round about, (not dreaming of the
+Powder, and that the Matches were then ready to fire) begun to mock at its vain
+Effects, thinking that all the outward fire was the product of this Engine. The
+Duke was so long time a looking on, that all the fire was quenched, but being
+already retired at some distance, the Blow was given with such fury, that the
+Duke, and the Marquess of Guasto, and others that accompanied them, were all
+blown down, and one could not perceive the least trace of Footing of the Fort
+Awsterwell. But the said Timmerman willing that they should pursue the Victory,
+signified to the Lords, that there was made a sufficient hole or opening in the
+Bridge; but some seeing from afar the Spaniards turning and returning with
+Torches and Lanthorns upon the Bridge, could not believe that there was a
+sufficient overture made, or that it had done any great effect, and therefore
+did not at all follow that Advantage. In the mean time the Duke repaired it
+with all imaginable diligence, much admiring that the Antwerpers and Zealanders
+had not taken hold of that occasion, and given an Assault. For the breach was
+so great, that the City might have been easily supplied with necessary
+Provisions: and from this, one may observe, how one ought to follow a Victory
+undertaken, and how one ought to conduct such Works without leaving of them in
+such time, as the design is ready to take effect. Moreover the Figure (A) shows
+how the Ship was fitted a Stern, with its Masons work, and the Cask; and how
+the Trains and Fuses came within. Also the Matches were dipped in Oil of
+Turpentine to give better fire together, for that gives a blow as swift as
+Lightning. Above the Stones were Fagots with Straw, and great Trunks of green
+wood fastened with chains of Iron together, all about the Ship, as the letter
+(B) does show, which could not but frighten the Beholders.
+
+THE FOURTH PART. Of charging Artillery, and Preparations for the same.
+CHAP. I.
+Of charging and loading of Culverings.
+THE Culvering carries a ball all of Iron.
+
+The old and small require Powder of 4, 1, and 1, as much as its proper Shot
+weighs of Iron: so that if there be 30l weight of Ball, it will have 30l of
+four, one, and one: or if one gives of five, one, and one, of the weight of its
+proper Shot of Iron, so that if the Shot weighs 30l, the Powder of five, one,
+and one shall be 24l.
+
+The Common modern and fortified Pieces shoot Powder of five, one, and one, as
+much as the just weight of the Shot; so that if that weigh 30l, it also
+requires 30l of Powder of five, one, and one. Or if you would load it with
+Powder of six, one, and one, you may not give it above of the weight, viz. 22l.
+But these may very well support a just and equal proportion of Powder to the
+weight of its Ball.
+
+To put the Powder into the concavity of the Piece, they use either a Ladle, or
+a Paper-Cartridge.
+
+The Ladle is an Instrument of Brass, made as a gutter'd Pipe, and fixed at the
+end of a Staff; the form of it is such, that for the Culvering it may serve to
+load it at two or three times.
+
+If the Culvering is to be charged at two times, the weight of the Shot must
+not exceed 30 or 35l; but the said Culvering at three times may carry 35 more
+of these Pounds.
+
+To load the Common Modern and Fortified Pieces at two times with Powder of
+five, one, and one, they make the Ladle with these Proportions: the part which
+is nailed upon the frame of the Handle, be long three Diameters of the Shot, (I
+do not say, Muzzle or Diameter of the Bore) and long one, that part which
+receives the Powder be long Shots 4, and large in the bottom Shots 2 less 2/6,
+and at the top Shots 2 less, that the point be round, making the Center one
+Shot, or at the least. At the Ears they make inwardly two quarters of the
+Circle for strength, and at the Point they cut away from some of the Diameter,
+to the end that the Ladle may better touch the bottom of the Chase.
+
+Others make large the under part for the Powder, of the largeness for the
+Model or Frame, leaving each Ear large.
+
+To charge the same Culverings, Modern and Fortified, at three times with
+Powder of five, one, and one, the Ladle is made long Shots 2, the rest as the
+others.
+
+To load the Ancient small Pieces with Powder of five, one, and one, (for that
+of four, one, and one is now out of use,) the said Ladle shall be shortened
+about, (the two said Powders being not much different in mass or weight,) or if
+with the Ladle you shall use that of five, one, and one, but smooth, not heaped
+up.
+
+To load the Common Modern Pieces with Powder of six, one, and one, the Ladle
+shall be part above shorter than that of five, one, and one; or if you will
+work by the same, but smooth, not filled top-full.
+
+To load the Modern Fortified with Powder of six, one, and one, or if it shall
+hold the common quantity, or if you shall yet use the same top-full, give it
+the full weight of the Ball.
+
+Lastly, to load the Old small Pieces with Powder of six, one, and one, the
+Ladle shall be used, shortened or of its accustomed measure.
+
+Observe here, that the three Powders are not proportionable in substance,
+weight, and activity, whence it is that if it has the said proportion, which
+is oftener more probable than true; wherefore one ought to have it made clear by
+Experience.
+
+The said thin Plate of Copper, cut out after the above said manner, is bended
+round, and is nailed with Studs of Copper to one module long a Shot 1, but
+something smaller before, for the fastening the Plate, and moreover long to
+fasten the Staff or Handle, and Inch and in Fig. XXXIV.
+Diameter, that it advance out of the Bore at the least one Foot. Besides the
+Ladle there be other Materials or Preparations for the Cannon, which serve for
+Charging, as the Rammer, Sponge, and Wadhook.
+
+The Rammer is a piece of wood, round and thick one Sh. and long one Sh. about,
+having a Staff or Handle like the Ladle, and serves to press and ramm home the
+Powder into the Cannon, Wadd, and Shot, and is made of hard Wood, and is
+sometimes plated about with a Fig. XXXV.
+Plate of Copper near the head for strengths sake. Oftentimes they use upon the
+same Staff both the Ladle and Rammer.
+
+The Sponge is no other then a Rammer-head, made of soft wood, and lesser in
+Diameter than the abovesaid by, wrapped round about with a Sheep's skin, and
+fastened with Studs of Copper, Fig. XXXVI.
+which serves to make clean and refresh the Piece
+
+The Wadhook is another Material, made of a Rodd or great Wire of Iron, turned
+in a Serpentine manner, and in its end is put upon a Handle or Staff to draw
+out Wadds or Okume, that the Fig. XXXVII.
+Piece may be unloaded.
+
+CHAP. II.
+Of the Charges for Field-peeces.
+FIeld pieces carry a Shot of no more than 10 or 12 l of Iron, which is always
+used, although sometimes in the smallest a Ball of Lead.
+
+They are always allowed Powder of five, one, and one, of equal weight to its
+Ball, if they are Common Modern or Fortified; and if they are Fortified, they
+are also allowed the same weight of Powder of six, one, and one: but if they
+are Old small Pieces, they are only allowed of Powder of five, one, and one, or
+of that of six, one, and one.
+
+They are loaded with the Ladle at one time with Powder of five, one, and one.
+The body of the said Ladle, viz. that part which holds Fig. XXXIII.
+the Powder, shall be Shot 7, as was said of the Culvering, the Model large as
+accustomed, Shot 3, and long sh. 1, in the rest as those of the Culverings.
+
+That serves for Powder of five, one, and one in Modern Pieces, and for that of
+six, one, and one in Modern Fortified.
+
+For the Small old Pieces they use the same, but smooth, not heaped up, with
+Powder of five, one, and one.
+
+CHAP. III.
+Of the Allowance of Pieces of Battery.
+THey are commonly charged with Shots of Iron, giving them of the weight of the
+ball of Powder of four, one, and one, in the Ancient; and of five, one, and
+one, in the Modern Common and Fortified.
+
+The Cannons which carry from 30 to 35 l Shot, are loaded with a Ladle at two
+times, but those which carry a greater Ball at three times. For to load at two
+times, they use a Ladle long in its Cavity three Shot, with the outpart Model
+or Frame which is one Shot, or little less, the rest being after the usual form.
+
+For to load at three times, let it be long only in its cavity Shots two, and
+for the Model, the rest being made as is usual.
+
+And these serve, being smoothed, for all sorts of Powder respectively; and if
+you would load Old Pecces with Powder of five, one, and one, you must use it
+smoothed, nor heaped up; and moreover in loading the Modern Fortified, with
+Powder of six, one, and one, they use it also smoothed, not heaped up.
+
+For Cannon Chambred, take the Diameter of the Chamber, substract the Wind, and
+the rest will serve for a Measure in making the Ladles.
+
+For to load at two times, its Cavity must be long 3 of its Diameter; and if
+for three times, let it be long 2 of its measure, the rest as is usual,
+
+In Taper-bored Pieces, the Ladle is made according to the form of the said
+Tapering, viz. narrower before than behind; near the Model Fig. XXXIX.
+or Shaft the Cavity is made large Shots 2, and at the Point is made large
+Diam. 2 from the bottom of the Tapering, long 3 Sh. and, or 4 and the part of
+the Model large 3 Sh. and long Shots or.
+
+CHAP. IV.
+Of the Allowance for Cannons Petrieroes.
+ALL Cannons Petrieroes carry a ball of Stone, or some Artificial body, as
+Sacks, small Barrels, Cases of wood, bags filled with Stones, and Bur-shot, but
+never heavier than the ball of Stone.
+
+Petrieroes have their Chambers large 2/6 of the Mouth, they are allowed Powder
+of five, one, and one, of the weight of its Stone-ball, and are loaded at one
+time with a Ladle long in its Mouth two Diameters of the Chamber (substracting
+the Vent,) the rest framed as is usual. Others say, that the Ladle long in the
+Cavity B 1 of the Chamber, will load at two times the third of the Stone-ball.
+
+To Petrieroes large in the Chamber, the half of the B are allowed Powder of
+five, one, and one, commonly the half of the weight of the Stone-ball, and are
+loaded either at one time with a Ladle long B 2 of the Chamber, or at two times
+with a Ladle long B 1 of the Chamber, taking away the Vent, and the rest, as
+usually is made.
+
+Others nevertheless say by experience, that in these Petrieroes the Ladle
+being long (setting aside the Wind) B 3, gives at two times one third of the
+weight of the Ball, and at three times the half of the weight of the Ball of
+Powder of five, one, and one.
+
+In the following Petrieroes is given Powder of five, one, and one, in weight
+of the Stone-ball, and the Ladle long in the Cavity Ball to load at one time.
+
+The Chambred Petrieroes are more easily loaded with Cartridges (of which we
+shall speak) than with the Ladle; they also put the Cartridges cut open in that
+part toward the Touchhole upon a Cartridge Ladle of wood, made in form of a
+Roof-Tile of a great house, as great as is the Open of the Chamber, and
+altogether Fig. XL.
+is thrust forward into the Chamber. Then the Chamber is sloped up with a
+Tampion of soft wood put in by a Spears point, as Fig. 41 shows. Then it is
+well rammed in with Fig. XLI,
+a Rammer, having a small Wheel made underneath, and two Handles a cross, as
+the Fig. 42. Fig. XLII.
+and under which they put a Wadd of Hay or Okame, to the end the said Tampeon
+in driving may not break by the Stone-ball, and after which they put another
+Wadd without toward the Muzzle.
+
+The Petrieroes de Braga carry the same Charge as the others. The Powder is put
+into the Moscolo or Chamber, and is closely shut up with a Tampeon and a Shot
+put into the Chase with a Wadd before and behind, and the Moscolo is fitted
+into the Braga, and closed with a Coin of Iron behind.
+
+CHAP. V.
+The Charge of Mortars.
+THE Mortars or Trabuccho's are loaded as the Petrieroes, with Stone-shot, but
+oftener with Artificial fires, Bombes, Bags filled with Hail-shot, and Stones,
+but not heavier than the Ball.
+
+The Powder is not always of the same quantity, but sometimes more, sometimes
+less, according to the intention of the Gunner. The Ordinary is of the weight
+of the Stone-ball, which being put into the Chamber is closed up with a Tampeon
+of Wood, and above is Rammed a Wadd of Hey or Okame before the ball of Stone;
+but in shooting Artificial Fires they do not work with a Tampeon, to the end
+that the Fire of the Chamber may kindle the Fire Ball or Granadoe.
+
+CHAP. VI.
+Of Cartridges of Powder.
+ALL Pieces of Artillery are loaded with Powder after two manners, viz. either
+with a Ladle as aforesaid, or with Cartridges, which are used in Forts by
+night; and upon the Sea, for dispatch and security in not firing the Powder.
+They serve for all sorts of Pieces, but principally for the Inchambred.
+
+They are made of Cloth or Canvas sewed upon its Funnels, or of Paper sewed or
+glewed; being fitted, they are so thick, that they may conveniently enter into
+the Chase or Concave for which they are made: therefore the largeness of the
+Paper or Canvas shall be always three Diameters of the Bore or Chase, or
+Chamber. Its Former must be of the same Diamer, the Length is diverse according
+to the Piece for which they are to serve, and according to the Powder which
+they are to contain. For the Culverings they may be long Shots four; for the
+Cannon of Battery, three almost; for the Petrieroes, two Bores of their
+Chamber. Nevertheless it is good to weigh the Powder, which one puts within,
+and to see how much it takes up in practice. Fig. XLIII, XLIV.
+
+
+For those of Canvas, one may take a Former, and of the other part a Ligature
+or binding, giving therefore to the Canvas half a Bore more Fig. XLV. XLVI.
+in length.
+
+Before you put your Cartridges into the Chase, you cut and open that part
+which is near the Touchhole.
+
+CHAP. VII.
+Of Artificial Bodies used in stead of Shot, viz. Bags filled with Hail-shot,
+Case-shot, Tunnel-shot, Base and Bur, and Bombe or Grenades.
+THey do not always charge Artillery with Iron-shot or Stone, but oftentimes
+with other Artificial Bodies, or bags of Hail, Case, Base and Bur-shot, and
+Bombes.
+
+The Bags are made of Canvas, and are filled with small shot of Lead of one or
+two Ounces, which serve to load Field-peeces, and those for the Cannon for to
+scatter wide abroad, either in the Field or upon the Walls in the time of an
+Assault. They are in Diameter 1 Sh. in length 1. Those of small Artillery weigh
+one time and a half more than the Iron-shot; those for Cannon are of the same
+weight as the Iron-shot. The Shots are placed in order, and the Bags without
+are tied with good Twine, which passes betwixt the Chinks of the Balls,
+crossing like a Lettice. Fig. XLVII.
+
+
+The Cases of Wood serve for Petrieroes, and Cannon of Battery, are made in
+form of a Cylinder or Column, with two Funnels or Squares of the same wood,
+distant one from the other one or two Inches. They are filled with Lead-shot,
+Stones, Chain-shot, pieces of Iron, etc. Although some make the Tonnels Fig.
+XLVIII.
+narrower at one end than the other, but neither ought to be heavier than the
+Stone-shot.
+
+The Tonneletti or Tonnel-shot are as the Case-shot, but have their Pipe stands
+equally in Diameter at both ends, and are bound about with two Hoops of Iron or
+thin Plates, in the Fig. XLIX.
+middle of one is fastened a piece of Cord to draw it out of the Piece, as
+occasion serves. They are filled with the same materials as the Cases of Wood.
+
+The Stuffies are made of soft Iron Wire, woven as a Net, and are filled with
+the abovesaid Ingredients, are closed up as a Purse, and serve Fig. L.
+properly for Mortars.
+
+The Bombes, are great balls of Iron or Brass hollow in the midst, and in which
+are put fine sifted Powder; and they give them a due fire by a Fuse, or small
+Trunk of Wood or Mettle filled with Powder, or other beaten substance, to the
+end that the Bombes may break as soon as they are come amongst the Enemies.
+They are used by Calibres of Iron from 50, 100, to 300l, with such a vacuum
+that may only commodiously weigh the half. They are different from Grenades
+only in bigness, because the Grenades are less, and are cast by hand, are of
+Calib. of Iron of 15l, and with such a vacuum, that they may only weigh about.
+Some to save charge are made of Glass and Earth, but do not so great effect,
+and therefore are seldom used.
+
+Furthermore, there are used diverse Fireballs, the making of which you may
+learn from Fire-Masters.
+
+END OF THE FOURTH PART.
+A farther Relation of the making of the Bridge over the Scheld near Antwerp,
+and of the Effects of the Fireships; taken out of Famianus Strada, the sixth
+Book of his last Part.
+ABout the latter end of the Summer 1584, the most worthy Captain and General,
+Alexander Prince of Parma, with less than 20000 Soldiers besieged Antwerp,
+Ghent, Tendermond, Bruxels, and Mecklin, all at once, and within the year took
+them, and many other Cities besides. Antwerp, a great City, wherein were 100000
+Souls, besides Seamen and Watermen, and whereto belonged above 1000 goodly
+Vessels, and was then the greatest City of Trade in the world, put the Prince
+most to it, having the River Scheld open, and thereby supplied with all
+Provisions and Ammunition from Zealan^ and Holland. That after some time he
+found, that unless he could bridle the River by a Bridge, it was not possible
+for him with so few Forces to take the Town. Therefore betwixt Antwerp and
+Lillo, a little more than midway, over against Callo, he resolved to build a
+Bridge, and to that end built two Quadrangular Forts, that on Flanders side
+called St. Mary's, and that on Brabant side St. Philip; and close to the water
+side at both ends, where he intended the Bridge should end, he built two strong
+Batteries or Castles, 50 Foot square, upon long and big Timbers, and furnished
+them both with very great Guns, on purpose to stop the Vessels, and secure the
+Carpenters and Workmen upon the Bridge, and to be a Magazine for Ammunition.
+And to the end he might bring Timber, Ships, and other Materials for this great
+work, (after the Delivery of Ghent) he cut a Navigable River fourteen Miles
+long, which fell into the Scheld near Callo, by which he was supplied with
+Victuals and other Provisions, as well as Materials for the Bridge abundantly.
+The River at this place was about 2400 Feet over betwixt the two Castles, and
+toward Flanders side for 200 Feet, and on Brabant side for 900 the River was
+not so deep, but that long Timbers might be fixed into the bottom of the River,
+it being sandy and sound; therefore at the distance of eleven Feet, and
+thirteen alternately, there were with Bell Beetles at each distance three long
+Rafters driven into the bottom of the River, five Foot asunder, and formed like
+a Trussel or Peer, [as our Bridges at Stanes, and like to Downham and Stow
+Bridges over the Oase in Norfolk] and bound with cross beams and Timbers. These
+Rafters or great Timbers, when driven sufficiently down, were cut equally high,
+and mortaised into a strong Timber, to bear the Liggers of the Bridge. Of these
+Peers or Trussels there were 18 toward Flanders, and 74 toward Brabant, all
+strongly covered with Plank 12 Foot wide, and on each side a Brest-work five
+Foot high Musket proof, and eight Soldiers might well march a breast on the top.
+Before each Peer or Trussel there were many strong Piles driven triangular
+ways, for the keeping Vessels from running upon the Bridge, and at 20 Foot
+distance on either side great Piles driven to that end. Now for the Remainer of
+the River, that lay betwixt these two ends, which was near upon 1300 Feet, and
+which was so deep that no Piles could reach the bottom, there were thirty two
+Ships or Vessels brought down Alexander's new River, of 66 Feet long and 12
+Feet wide (called with us Bylanders) and placed with Ankers and Iron Chains, in
+a fourfold row, 22 Foot asunder, so as they might rise and fall with the Tides,
+which was about 12 Foot,) and the space betwixt each Ship was laid over with
+five long Beams, plank'd, and had Breast-works, and was as wide as the Bridges
+before named were. On every Ship stood thirty Soldiers, and four Seamen, with
+two great Guns, one at each end of the Vessel. There were for the Defense of
+this Bridge near 100 great Guns ready planted into the two great Castles and
+Vessels, besides the great Guns in the Forts St. Mary and St. Philip. This
+Bridge being thus finished, it yet was thought fit, before and behind the Ships
+or Vessels (viz. for 1300 Feet) to arm the same with eleven Barricadoes, (like
+half Moons before Bridges or Gates.) Each Barricado was made of three great
+Lighters, made fast to one another, and formed in fashion of a Triangle, with
+three Ankers and Chains, to suffer them to rise and fall with the Tides: these
+were covered over with Masts and great Timbers, and stood about 100 Feet one
+from another, and were placed some 150 Feet from the Bridge both ways. From
+each of these Barricadoes came out 40 long Piles sharpened at the ends, and
+armed with Iron, to terrify the Vessels, lest by running upon them, they
+should be destroyed. The Lighters were filled with empty Cask, Iron bound, lest
+they should sink by Accident. Lastly, the Prince armed forty Vessels, twenty
+on each side, for the defense of this Bridge, and so after seven Months hard
+working, this great Work was finished, and gave passage to all, and the day was
+solemnized with great Joy. The Antwerpians were more remiss in hindering the
+Progress of the making the Bridge, because they thought it was impossible, and
+said, that the Scheld would no more endure any to bridle it, then the Free
+Belgians would endure the Spaniard' s Yoke: but when they saw the Work proceed
+on, and be almost finished: They sent a Spy out of Antwerp to view it, and
+bring them an account of the Prince's Actions, who was discovered and brought
+to the Prince; but contrary to expectation was sent to see all the Forts and
+Castles, and Bridge, and bid by the Prince to go and tell them that sent him,
+what he had seen; and to assure them, that he should not depart from that
+Bridge, before he should find either a Tomb under it for his Grave, or to pass
+over it into the City. The first thing that the Antwerpians did, was by help of
+Seamen in the Night to cut the Cables of the Floats or Barricadoes under water,
+which to some they did, which presently the Prince altered to Iron Chains; and
+most of this time was spent by the Antwerpian Ingeneers, to whom was sent an
+Italian by Queen Elizabeth, called Frederick Jembelly, one that had
+extraordinary skill in Fireworks, and was famous for the same, neglected by
+the Spaniards, and therefore willing to do them all the mischief he could.
+These Ingeneers prepared many Fireships for the destruction of the Bridge, many
+whereof came to little effect. There were two made, called the Hope, and
+Fortune, of about 100 Tun apiece: there were in each Vaults made of Stone and
+Mortar, filled with 200 barrels of Powder each, and above great quantities of
+Grave Stones, Millstones, and other great Stones formed up into an Angle, and
+the Concavity at the top was filled with balls of Iron, Marble, Chains of Iron,
+old Ankers, Plow-Coulters, and all that these Infernal Workmen could devise to
+destroy men withal, [a more perfect description whereof you had at the end of
+the third Part.] The Prince hearing of all these Preparations, was not idle to
+strengthen his Guards, and make ready for their coming, which was on the 8th of
+April at night 1585, when behold first three Vessels appeared from the Town all
+on fire, afterward other three, and so three after three, 'till fifteen
+Vessels came down, and burnt so as if all those Vessels had been one fire. Had
+not the Spectators been full of Care and Fear, certainly a more pleasant
+Spectacle could not be seen; all the Bridge, Castles, Forts, and sides of the
+River were full of the Prince's people with their Colors, most with Torches in
+their hands, and all the Vessels with Fireworks burning, so that it was light
+as day. Thus came these Vessels, directed by Seamen and Pilots, within 2000
+Paces of the Bridge, down the Channel; when as those Seamen and Pilots firing
+their Trains and Matches, leapt into their Boats, and went back to observe what
+success their Engines would have. But the Vessels kept not their Channels as
+was expected, but some went one way, some another; four sunk in the midst, some
+run a ground on Callo side, and some were boldly boarded by the Prince's
+Soldiers, the Matches put out, and Vessels taken. This made all the Beholders
+rejoice, and scoff at these Engines, when behold the greatest Vessel, that had
+all those dreadful Fires and Stones, and was fitted purposely for destruction,
+came clear off all the Barricadoes and Floats, and fell close to the Bridge,
+which drew the Prince of Parma thither with the most of his principal Officers,
+who command the Seamen and Soldiers to put out and quench the Fires, being
+ignorant of the Infernal works within, and that all this time the Fusees were
+burning in order to the great Blast that followed. There was a Spanish Ensign,
+whether by the knowledge he had of Jambelly, or by Divine Instinct, that upon
+his knees desired the Prince to get far from that Vessel; the Prince was angry
+with him, but when the Ensign with more courage begun to press him, He, with
+Guasto and Cajetanus, two great Lords, departed toward St. Mary's Fort, leaving
+the Lords Billy and Rubais in the Castle or wooden Battery at the end of the
+Bridge, with many other Commanders; but just as the Prince with these Lords
+were entering into St. Mary's, the Fusees had come to the Powder, and this
+deadly Vessel broke, and gave so great a Crack, that one should have thought
+the Heavens had come down, and the whole body of the Earth had been shaken; and
+throwing abroad those dreadful Stones, Chains, Shot, etc. there followed a
+lamentable slaughter, such as never had been heard of before. For though the
+Prince had been gone a quarter of a Mile from the Bridge, yet not only
+Himself, but the Marquess, and all those by him, were violently blown to the
+ground, and some taken up for dead. That Castle or Battery next St. Marys, at
+the Bridge-end, wherein were the aforesaid Lords, and many Commanders,
+Soldiers, many great Guns and Arms were all driven as leaves before the Wind,
+and sunk down, without saving any Man's life, or leaving any sign of such a
+place. The Scheld showed its bottom, and his Waters arose above the banks, and
+filled the Country a Foot deeper of Water than before; the Earth did shake for
+9000 Paces off; the great Grave and Millstones were some of them found a 1000
+Paces from the Bridge buried deep in the ground; many were killed who were near
+the Fire, many by the Water, and diverse by the evil stink that was made there.
+Some were blown many Paces off into the River, and yet saved alive. The number
+of those that were slain amounted to near 1000, and near as many hurt and
+wounded. This was a lamentable Night, nothing but Groans and Mourning to be
+heard; all lamented for the Prince, thinking he had been in the wooden Fort
+that was destroyed, neither was he ever so near Death, being taken up sore
+bruised, and not able to speak, Ld Guasto having hold of his Legs, and Cajetane
+wounded with a Brick in the Head. But a little after the Prince recovered, and
+returned to the Bridge, where he found the Castle or Battery quite gone, six of
+his Ships tore to pieces, much of the Bridge torn and shaken, many of his
+faithful Captains and Soldiers killed, and his Dearest Friends, Lords Billy and
+Rubais blown away. Yet for all this, calling together the Remainder of his Men,
+and many Commanders coming with their men from many parts to him, by the reason
+of the noise of the Blow, he so encouraged them, that before Light Day, by
+gathering together the Masts, Rasters, and Vessels, and other Materials, he had
+closed up the Breach, so that the Soldiers and Footmen might walk over, and
+which amazed the Antwerpians above the Bridge, and the Zelanders below, that
+they did not believe the Bridge was broken, which was only the cause the Town
+was not relieved, there lying 200 Sail at Lyllo ready to come to the City, etc.
+
+Thus much out of Strada, by which and the former Discourses, at the end of
+each Part, it will be easy for the Reader to understand this great Action, far
+exceeding Caesar's Bridge over the Rhyne, and equalling great Alexander's
+Actions at Tire. And I have been more desirous to set this punctually down,
+because in a great measure it was the cause of England's safety in that
+terrible year 1588, being done but three years before, and being fresh in the
+Spaniards memory, caused them, upon sight of the English Fireships, coming
+burning toward their Fleet before Calais, to cry Jembelly, Jembelly, cut their
+Cables, and many Ships run themselves a shore.
+
+THE FIFTH PART: Of shooting in great Artillery.
+CHAP. I.
+Of necessary Operations before Shooting.
+TO shoot securely in Great Ordnance, it is necessary that the Piece be first
+well Tertiated or Squared upon its Carriage, and that one knows duly to Load
+and Level the Piece.
+
+To Tertiate a Piece, is to know if it has its due thickness at the three
+places, viz. Touchhole, Trunnions, and Neck; if the Trunnions are rightly
+placed, and the Chase straight.
+
+To Quadrate a Piece mounted, is to see if it is directly placed, and equally
+poised: which diligence is used in the Carriage, in regard of the Wheels and
+Axletree. Also to Quadrate a Piece, signifies to find in the Unequal Superficies
+of the Base and the Muzzle-ring, the point which is perpendicular over the Soul
+of the Piece or Cilinder, which is done by an Instrument called the Level,
+hanging upon both Cornishes, and when the Thread covers the proper Mark, moving
+by little and little the Lead, until it touches the Cornish, which shall be
+the Point required. See the Fig. 52. But it will be Fig. LII.
+more exact and easy to have the Level in the Interior Base, and in it marked
+strait the Point from the perpendicular line, which touching immediately the
+Cornish, will show you the desired Point. One may do the same thing with a Fig.
+LIII.
+small Line cross the Cornish, with two Plummets which touch the said Cornish,
+and dividing the part of the Line comprehended betwixt the Plummets in two
+equal parts, the Point of the Cornish which shall be under the said Division,
+shall be that required. See Fig. 54. Fig. LIVE.
+
+
+For what belongs to the Muzzle-ring, this manner will be easiest. That one
+stick a little piece of Wood cross the Mouth, which represents the Diameter, in
+the middle of which equally distant from the ends, are noted or marked a Point;
+then hanging a Plummet, and making it touch the Center, you shall see noted
+above the Point desired. Fig. LV.
+
+
+These Points upon the Rings serve to place the Dispart.
+
+The things belonging to load a Piece have been before spoken of.
+
+To Dispart a Piece, is to place, fix, or elevate upon the unequal Point of the
+Muzzle-ring a Mark, (which is ordinarily done with a little Wax Candle,) as far
+distant from the Cylinder of the Piece, as is the Point of the Base-ring; to
+the end that the Visual Ray which passes by these marks, may be parallel to
+the said Chase, to make Shots at Point blank.
+
+To find the Dispart, viz. the difference of the Semidiameters of the
+Cornishes, which is either with Calliper Compasses, or with a Priming Iron
+thrust into the Touchhole to the opposite part of the Chase, placing that
+difference upon the top of the Cornish-ring near the Muzzle, over the Middle of
+the inferior Cylinder.
+
+CHAP. II.
+Of several Differences and Ranges of Shot.
+AS to the several Shootings in Artillery, the Ball being shot out, flies
+through the Air with a violent, mixed, and natural motion describing a
+Parabolical Line, in whose beginning and end are lines sensibly straight, and
+in the middle curved. In the beginning the Impres^ Force driving forwards by
+the Fire the natural gravity of the Ball, describes a right line; i^ the
+middle that force diminishing, and the natural gravity prevailing, decscribeth
+a crooke^ line; in the end the natural gravity overcoming the Impressed Force,
+which becomes weak or altogether faints, describes of a new a right line in
+which the Ball tends toward the Center of the Earth, as toward a place
+natural to all heavy bodies, as does show the Fig. 56. Fig. LVI.
+
+
+The Shooting or Shots in Artillery are therefore three. The first called Point
+Blank, is that space that the Ball flies in a line sensibly right, without any
+inclination.
+
+The second called the Mean, which comprehends all that space the Shot flies in
+a curved line.
+
+The third, called the Dead Shot, which is the fall of the Ball by a sensible
+right line, toward the Center of the World, after that the violence is ceased.
+
+The Gunners do take notice of these three parts of a Range, for three several
+ends.
+
+Those shots of Point Black serve to batter the Rampires and Walls of Forts and
+Castles.
+
+The middle of the Range or Mean, to molest a far off the Troops in the
+Campaigne, and in their Quarters, and to ruin the Houses within Cities,
+Castles, etc.
+
+The Dead Shots serve for Mortars or Trabucchoes, and Bombes, and other
+Artificial Fires, to be shot upon the Enemy, especially when they cannot be
+otherways offended, nor seen, being covered behind with Ramparts, Trenches,
+Hills, and other Eminencies.
+
+A shot Point Blank, which is the most ordinary and most important, is
+distinguished into two manners, viz. in regard of the Horizon, and in regard of
+the Object which it strikes.
+
+As to the Horizon they are of three sorts, first Level, secondly from Low to
+High, thirdly from High to Low, called under Metal.
+
+The Horizontal, and by the Level of the Chase, is the most secure of all the
+rest.
+
+That from low to high proves fallacious, because by the recoyling which the
+Piece makes, the Shot flies higher than the Mark.
+
+And that from under, or from high to low, is most fallacious, because the
+Shot, besides other notable effects, comes more low by the recoyling of the
+Piece. Therefore an Experienced Gunner must remedy these faults, by taking the
+due advantages in shooting.
+
+As to the Object, a shot Point Blank, is made either at right Angles against
+the Superficies of the Object, or at oblique Angles.
+
+At right Angles it strikes more furiously than at oblique Angles, therefore it
+is used against strong Walls to batter them, and are used to make Batteries
+Cameretta, or Tire by Tire; which is done by discharging all the Pieces of
+Battery against the self same Mark, and in the same instant, Holding it for a
+Maxim, that ten Cannons discharged together, do far more Execution than
+dicharged one after another.
+
+At oblique Angles, they strike either Cross-ways, or rebounding like a
+Tennis-ball.
+
+If they strike cross-ways, with two Batteries, one upon each side of the
+Object, it ruins more speedily the Defense either of Earth or Wall.
+
+If they Batter obliquely, or by a Rebound, which is done when they cannot do
+it right forward; as if one would batter a Flank covered with an Orillion or
+Shoulder, one must strike the Curtain in so fit a place and oblique^y, so that
+by the rebound the Shot may leap into the Flank, holding for a Maxim in this
+operation, that the Angles of Incidence and Reflection are equal.
+
+The middle Ranges are diverse, according to the diverse Elevations of the
+Artillery.
+
+The Elevations are regulated by the Gunners Square, which is an Instrument of
+Brass, made of two right Lines, one longer than the other, both which makes a
+right Angle, from which as from the Center is described an Arch divided into 90
+degrees, or into 12 equal parts called Points; and moreover the said Arch
+exceeds a Quadrant by 45 degrees or 6 Points, and this Excess serves for
+shooting below the Horizon as the Quadrant does for above; and from the Center
+hangs a Thread with a Plummer, whose Leg being placed in the Chase, cutting the
+Arch, does show the degrees of Elevation, or Depression. See the Fig. 57.
+
+In this mean shooting one does observe, that always goes farthest from the
+Horizon which has some Elevation, and especially that of most points of
+Elevation, even to 6 points or 45 degrees, which is said to be the greatest
+Elevation, which one never exceeds in long Cannons.
+
+The dead Shot is that which is commonly worked with the Trabucchi or Mortars,
+and is done by giving Elevation from the points 6 or 45 degrees to the points
+12 or 90 degrees, which are measured by the abovesaid Square; or with a
+particular Instrument like a Level, putting a Staff a cross the mouth of the
+Mortar, and upon that the Quadrant.
+
+In shooting in these is observed, that at the sixth Point is the farthest off,
+and that at the seventh Point comes the nearest; and that at the eighth nearer,
+and so nearer and nearer to the twelfth Point, in which the Ball falls, in the
+same place from which it departed.
+
+THE LAST CHAPTER.
+Of the Length of Ranges.
+FOrasmuch as the Randoms or Ranges in a Piece of Point blank, and of the
+greatest Elevation, is difficult to be known without the Experience of every
+Point; yet in the War, for the length of every Cannon's shot, they generally
+compute the length of three Musket shot, which will be from 400, to 450
+Venetian Geometrical Paces. A Geometrical Pace is 5 Foot, and the proportion
+betwixt the Venetian Foot and Ours, is as 1000 to 1153. Therefore here the
+proportion will be from 460 to 518 English Paces.
+
+
+Nevertheless for more particular knowledge, these following Measures may serve,
+being English Geometrical Paces.
+
+Shots. P: Blanke. Greatest Elevat. Smeriglio, Base, or Rabonet. 207. 691.
+Falconet about 3l. 322. 1843. Falcon, about 6l. 392. 3226. Sacre, about 10l.
+634. 4032. Demi-Culvering, about 14l. 783. 4378. Colebrina, or Culv. about 30l.
+1382. 5760. Culvering, about 50l. 1498. 6106.
+
+Cannons of Battery shoot less than Culverings of equal Calibre.
+
+But Demi-Cannons and Quarter-Cannons, fashioned like Culverings, shoot little
+less than Culvering of equal Calibre.
+
+Cannons Petrieroes, loaded with Artificial bodies, as Chain-shot, Case-shot,
+Barrel-shot, shoot not much farther than a Musket.
+
+Of Shot made out of Mortars and Trabucchoes, betwixt the Middle or Mean shot,
+and the Dead shot, is to be observed by Experience; those are equal, which are
+equally removed from the sixth Point of the Quadrant, viz. that the Bombe fall
+as far distant being shot from the same Piece, and with the same strength at
+the fifth as at the seventh Point, and the same thing at the fourth as at the
+eighth, and as much at the third as at the ninth, and second as at the tenth.
+
+Shots from Mortar-peeces are more fallacious, sometimes flying farther,
+sometimes shorter than needs, and the Bombes break in the Air, sometimes after
+the Fall they do not break, which gives time to the Enemy to retire, or to
+choke it; therefore if you would have a just blow, and to take effect, these
+following Advertisements must be observed.
+
+Advertisements.
+1. One ought exactly to know how many Paces are to the place which you would
+shoot, which may be done with an Instrument.
+
+2. That the Bombes, or other bodies which are to be shot, be of equal weight,
+otherwise the shots will vary.
+
+3. That the Carriage in breadth may be always upon a Level, and without any
+Descen^ that it do not leap in discharging.
+
+4. That the Powder, with which the Mortar is loaded, be always of the same
+force and weight.
+
+5. That the Charge of the Mortar, as well in Powder as in Wadding, may be
+always ramm'd in with blows equally heavy, and o^ equal number.
+
+6. That the Wadds be always either of Wood, or Tampeons, or else of untwisted
+Okam, for the strongest drives it farthest.
+
+7. That the Fuses be newly made in those days that they are to be used, and
+that they be made of a mixture proportionable to the Range that the Shot shall
+make in the Air, and that it break in the very Fall.
+
+To make the Bombes break in the Fall, the skill is in the Fusee filled with
+mixture of Composition, which is to be such, that although the Bombe fall in
+the water, it ought to break.
+
+To measure a just time, is done by filling the Fusee after the ordinary
+manner. Moreover take a small Barrel or Cane of Iron, of equal Bore to that of
+the Fuse, but something longer, with many little Holes all along its length,
+and filling it in the same manner as the Fuse. Then the Bombe being fitted in
+the Mortar, you give fire in the same time to the Fuse in the Mortar and the
+Iron Barrel, letting the Barrel burn until that you see the Bombe break, in
+which moment you observe the Barrel, and to what hole the Fire burns down,
+which will give an assured mark of the time that the Fuse ought to have.
+
+If the Bombe in the very Fall shall break, the same quantity of Composition
+shall be continued in the Fuse; but if it break before the Fall, you must abate
+the heat, by adding a small mixture of Charcoal-dust incorporated in the same
+composition: and if after its Fall it shall delay its effect, then you shall
+join with its mixture a little fine Powder-dust. And so you may by experience
+with this Barrel observe unto what mark or hole it burns; so that with such
+Fuses the Bombe shall justly break in the very Fall amongst the Enemies;
+afterward observing always to fill the said Barrel with the first Mixture.
+
+Being necessitated to use an Okam Wadd in lieu of a Tampeon, as was first
+used, so the Load of the Mortar shall be augmented to such a proportion, that
+the Bombe may carry to the same place, as it did when it was loaded and stopped
+with a Tampeon, or if it shall require another Elevation.
+
+A Table for the several Randoms to each degree of the Quadrant, the greatest
+equal to 10000.
+Degrees. of Elev. Elev. Elev. Elev. 1 349 89 26 7880 64 2 698 88 27 8090 63 3 1045
+87 28 8290 62 4 1392 86 29 8480 61 5 1736 85 30 8660 60 6 2079 84 31 8829 59 7
+2419 83 32 8988 58 8 2756 82 33 9135 57 9 3090 81 34 9272 56 10 3420 80 35 9397
+55 11 3746 79 36 9511 54 12 4067 78 37 9613 53 13 4384 77 38 9703 52 14 4695 76
+39 9781 51 15 5000 75 40 9848 50 16 5299 74 41 9903 49 17 5592 73 42 9945 48 18
+5870 72 43 9976 47 19 6157 71 44 9994 46 20 6428 70 45 10000 45 21 6091 69 22
+6947 68 23 7193 67 24 7431 66 25 7660 65
+
+The Use of the Table before set down.
+To see the different Randoms caused by the different Wadds of Okam and Wood, I
+have made the Experiment in Mortars and Bombes of 100l weight in a plain field,
+which loaded equally and weighing each 55l, and the Chamber loaded with fine
+Powder of five, one, and one, 20 onz. and the Chamber stopped with a Tampeon of
+Wood, and with the Elevation of the Mortar to 45 degrees. I say to the point of
+the Quadrant 6, the Bombe fell distant 600 Geometrical Paces. 691 English Paces.
+
+
+Then with the same Mortar, Load, Bombe, and Elevation, but with an Okam Wadd
+in stead of a Tampeon, the Bombe fell only distant 480 553 Englsh Paces.
+Geometrical Paces.
+
+For these two different, and all other Randoms the aforesaid Table will serve;
+in which one may see the Proportion each Shot shall make, with the Elevation of
+degree to degree, interposing the proportional Numbers, with which and with the
+help of the Golden Number, or Rule of Three, one may find what shall be the
+Random made in this or any other Mortar, at any Elevation, at 45 degrees, or
+any other degree being first known.
+
+Example I.
+Let it be propounded, that a Mortar of 300 with a Tampeon of Wood, and
+Elevation of 45 degrees, or Points of the Quadrnt 6, carry a Ball 800 Paces; if
+one would know with the same Charge how many Paces it will shoot at the
+Elevation of 54 degrees.
+
+See then, that at the said 54 degrees of the Table corresponds the
+proportional Numb. 9511, and at the abovesaid Elevation of 458, or points of
+the Quadrant 6, corresponds the proportional Number 10000, which by the Golden
+Rule is so worked.
+
+If 10000 gives me 800, so 9511 gives me the number of Paces which is required.
+
+Thus I Multiply 9511 by 800, and Divide the Product by 10000, the Quotient
+will be 760, which are the Paces that the Mortar will shoot the Ball, with the
+Elevation of 54 degrees.
+
+Example II.
+Let it be granted or supposed, that a Mortar of 300, at the Elevation of 54
+degrees, shoots the Bombe 760 Paces; if one should desire to know what
+Elevation one ought to give to the same to shoot the Bombe 550 Paces, you must
+work by the Golden Rule in this manner.
+
+As 760 Paces give the Number proportional 9510, so 550 Paces will give its
+proportional Number.
+
+Wherefore if you multiply the second 9510 by the third 550, and dividing the
+Product by the first 760, the Quotient will be 6882, which Number, if you seek
+it amongst the proportional Numbers in the Tables, and not finding it just, if
+you take its nearest, it shall be the number 6947, to which corresponds the
+degrees 68, which shall be the Elevation, and which ought to be given to the
+Mortar of 300, to fall in the distance of 550 Paces, with the same Charge of
+the first, and that is as much as I esteem necessary for every Soldier as well
+as for a Gunner, who intends to be serviceable for his Prince and Country.
+
+Of the Petarr.
+A Petarr, is a Machine in form of a Mortar, which being loaded with Powder,
+and placed with its Mouth against Gates, or other wooden Engines, and giving
+fire, breaks and ruins them.
+
+This Instrument was first invented by a Thief, or Robber, being first made of
+Wood, and bound about with Iron, not only against Houses, but also to enter
+into Towns; which being observed to work admirable effects, it was afterward
+put into Exeeution by Princes against the Cities of their Enemies: and to give
+them greater Force, they made these Petarrs of Iron, but afterward finding
+them too brittle, they were made of Brass, as they are now in use.
+
+The Substance of which the Petard is made of, is an Union or commixture of
+Copper, English Tin, and Latten well refined. Some do vary both in proportion,
+and also in the Metal, since that some would have them all of beaten Copper,
+without any other mixture: others to every 50l of Brass, 5l of Tin, and two of
+Latten. Others to every 10l of Brass one of Latten.
+
+The Copper therefore is soft, the Tin gives it hardness, but if it be overmuch
+it makes it brittle; they would have the Latten mixed with the Copper and Tin
+together.
+
+The Proportions for the Petarr.
+THe Guide-line is divided into 24 equal parts, of which 16 is the Diameter of
+the Mouth.
+
+The Diameter of the Concave at the Bottom, 10.
+
+The Thickness of the Metal at the Breech, 2.
+
+The Thickness of the Metal at the Mouth, 1.
+
+The Cornice is one part. 1.
+
+The Touchhole is distant from the bottom of the Guide, part. 8.
+
+Some make it perpendicular to the Guide, and others perpendicular to the
+Metal; but as well in the one as other fashion, it is terminated in the said
+point of the Guide.
+
+Some soder or fasten the said little Barrel or Canetta, and others make it to
+enter with a Screw; the Joynting or Mortaising of the Mouth is part.
+
+The Greatness of the Petarr is diverse, according to the diversity of Matters
+which it ought to break, but all have the self same Proportion above named.
+
+To break down Bridges they are long in the Guide a Gometrical Foot, which is
+commonly divided into 12 Inches. Which is almost 14 Inches En:
+
+
+2. To break double Bridges they are high in the Guida 11 Inches. 12 Inches
+Engl.
+
+
+3. To break ordinary Bridges reasonable strong, you must allow in the Guida 8
+Inches.
+
+4. To break Barriers, Grates, Portcullis, Pallizadoes, they are made high 11
+Inches.
+
+They load a Petarr with the finest Powder that can be made, well fifted and
+dusted. They do not fill the whole, but only of its length, and ram the
+Powder in from time to time to make it close, but not so strongly as to uncorn
+it.
+
+The Powder, which is put within shall be of weight, for the
+
+First subtle Pound from 9 to 10. For the second from 6 to 7. For the third
+from 5 to 7. For the Fourth from 3 to 4.
+
+Above the Powder they put a round piece of Past-board thick, and stops it an
+Inch about, and above that they cast Pitch and Wax melted together, but not
+over-hot, and above which you put a round piece of Wood well fitted, and above
+all a round piece of Cloth waxed, which is driven into the Joint, or, is tied
+without with a Cord about the Edge, and all this that it may not receive water
+or moisture.
+
+The Touchhole is made near the bottom, but better than a third part distant
+from it; because the Powder will be sooner fired, and the Recoyl will be
+greater.
+
+In the Touchhole they fix a Spindle or little prick of Metal to a Screw,
+which penetrates to the middle of the Powder; and this is filled with
+Composition for a time, that the Petarr-Master, and his Company may have time
+to retreat, and secure themselves, and may resist water.
+
+So you may take fine Powder 3 parts.
+
+Sulphur 6. Saltpetre 9.
+
+All these Ingredients being stamped and mingled, putting above oil of Stone by
+little and little, so that they may impast together, and letting them well dry
+in the Sun. Then load the Fuse, or take Powder 2 onz. Sulf. 2 onz. Saltpetre 3
+onz. Camfire 1 onz. beaten small, and fill the Fuse.
+
+To the Petarr there are one or more Handles for to fasten the Madrill,
+although the Orl or Edge serve to nail it about.
+
+The Madrillo is a strong beam of wood of Elm or Oak, shod with Iron, which is
+placed before the Mouth of the Petarr, and fastened to the Gate which you would
+break, to make greater ruin. For every Petarr the Madrill is long B 3 of its
+Petard, measured and comprehending the Edge, and large 2 of the B.
+
+The thickness is ordinarily of four Inches more or less, according to the
+strength that you are to batter.
+
+Cross to the Madrillo there are two bars of Iron Diagonally let into the wood,
+each being thick of an Inch, nailed to it.
+
+The Madrill with the Petard is fastened to the Gate in several manners,
+according to the nature of the thing which you intend to ruin, since that the
+Gate may have a Ditch, or if not, it may be well lined with Iron, or not at all.
+
+Therefore if it have a Ditch, it must be hung on with a small Bridge; but if
+it is without Ditch, or strengthened with Iron, it may be fastened with a Plank;
+or if armed with a Fork or Rest, and in other particular manners, which would
+be too long further to explain.
+
+THE END OF THE PETARD.
+Advice for Ship-Gunners, out of Furnier's Hydrography, p. 95.
+Of Canoneers necessary for the security of a Ship.
+BEfore Cannon was invented, they did use both at Sea and Land certain Machines
+which did throw Fire, Arrows, Stones, and Beams of Wood, which did as much
+damage to the Enemy as our Cannon, but were not so easy to be governed. We do
+not know what were those Engines that Archimedes did use for the Defense of
+Syracuse, only we are certain, that he had those which did cast great Stones a
+vast distance, and as Plutarch observes, with Smoke, and a great Noise, and
+that he had Burning-glasses which did burn at indeterminated distances.
+
+In the Advice, which in times past the Emperor Leon gave to his Admirals and
+Sea-Captains, in several places he makes mention of Engines which did vomit
+fire and flames in close fights, and Sea Combats. And the Roman History does
+relate, that Mithridates besieging Rhodes by Sea, after he had made a breach
+did great damage to the Besieged by the means of a Sambuque or warlick
+Instrument of Prodigious greatness, which being placed upon two Galleys, cast
+forth at one blow great number of Arrows, Stones, and Beliers, being square
+pieces of Timber pointed with Iron at both ends. All these Engines being very
+incommodious and troublesome, by reason of their bigness, and requiring over
+great a Train: at present they use nothing but Cannon, therefore I shall only
+speak here of this Machine, and only as much as shall be necessary for its well
+mannagement at Sea, or perhaps sometimes to make a Descent or Landing; judging
+it necessary not to omit this Treatise, since at present all the defense of a
+Vessel depends on the Cannon, and that in the time of fight there are more
+Shots made in one day at Sea, than in a Seige at land in two months.
+
+The arming of a Gally is much different from that of a Ship or round Vessel,
+as also the Equipage of Cannon at Sea differs from that at Land; at Sea the
+Ordnance are mounted upon small Carriages, and upon four and sometimes two low
+Wheels, without any Iron work. Each Gally carries ordinarily nine Pieces of
+Ordnance in its Prow or Chase, of which the greatest, and that which delivers
+his Shot just over the very Stem, and lies just in the middle, is called the
+Corsiere, or Cannon of Course, or Chase Cannon, which in time of fight does the
+most effectual Service, it carries generally a Shot of 33l or 34l weight, and
+are generally very long Pieces; it recoils all along the middle of the Gally to
+the Mast, where they place some soft substance to hinder its farther recoyl,
+that it might not endammage the Mast. Next to this Corsiere are placed two
+Minions on each side, which carries a 5 or 6 pound Ball; and next to these are
+the Petrieroes, which are loaded with Stone-shot to shoot near at hand.
+Thirdly, there are some small Pieces, which are open at the breech, and called
+Petrieroes a Braga, and are charged with a moveable Chamber loaded with base
+and bar-shot, to murder near at hand. And the furthest from the Corsiere or
+Chase-Cannon are the Harquebuss a croc, which are charged with small Cross-bar
+shot, to cut Sails and Rigging. All these small Pieces are mounted on strong
+pins of Irons having Rings, in which are placed the Trunnions with a Socket, so
+that they are easily turned to any quarter.
+
+In Ships or round Vessels are sometimes mounted 200 Pieces of Ordnance,
+although at present, experience shows that 100 are sufficient for the greatest
+Ships, Carraques or Gallions, it being impossible to have a greater number,
+giving a just distance betwixt each Cannon, that there may be room for men to
+ply the Guns, and that the fire of one may not endanger to give fire to the
+other.
+
+All the Guns are mounted upon Wheels and Carriages; moreover the Petrieroes,
+which are planted in the Forecastle and Quarter to defend the Prow and Stern,
+are mounted upon strong Pins of Iron without any Reverse; the greatest Pieces
+of Battery are planted the lowest, just above the surface of the water, the
+smallest in the Wast and Steerage, and with the Petrieroes in Quarter Deck and
+Forecastle. Upon the Sea, to load great Ordnance they never load with a Ladle,
+but make use of Cartridges, as well for Expedition as Security in not firing
+the Powder, which in time of fight is in a continual motion.
+
+The Qualifications of him who takes the charge of the Cannon of a Ship.
+THe Gunner, whom they call in the Straights Captain, Master-Canoneer, and in
+Bretagne and Spain and in other places Connestable, is one of the principal
+Officers in the Ship; it is he alone with the Captain who can command the
+Gunners. He ought to be a man of courage, experience, and vigilant, who knows
+the goodness of a Piece of Ordnance, the force of Powder, and who also knows to
+mount a Piece of Ordnance upon its Carriage, and to furnish it with Bolts,
+Plates, Hooks, Capsquares, Axle-trees, and Trucks, and that may not reverse too
+much; to order well its Cordage as Breeching and Tackling; to plant the Cannon
+to purpose in the middle of its Port; to know how to unclow it, make ready his
+Cartridges, and to have them ready to pass from hand to hand through the
+Hatches, and to employ his most careful men in that affair; that he have care
+of all, that he be ready every where to assist where necessity shall be; and
+take care that all be made to purpose.
+
+He and his Companions ought with their dark Lanthornes continually to see if
+the Guns play, and if the Rings in Ships do not shake.
+
+If there be necessity of more Cordage, and to see that the Beds and Coins be
+firm and in good order; when the Ship comes to Anchor, he furnishes Cordage,
+and takes care that all his Companions take their turn and quarters, that
+continually every evening they renew their priming Powder, and all are obliged
+to visit their Cannon Powder every eight days, to see if it has not received
+wet, although they be well stopped a top with Cork and Tallow; to see that the
+Powder-room be kept neat and clean, and the Cartridges ranged in good order,
+each nature or Calibre by it self, and marked above in great Letters the weight
+of the Powder and nature of the Piece to which it belongs, and to put the same
+mark over the Porthole of the Piece; that the Linstocks be ready, and furnished
+with Match, and to have always one lighted, and where the Cannoneer makes his
+Quarter to have two one above another below; that his Grenades and Firepots be
+in readiness, and 3 or 400 Cartridges ready filled, Extrees and Trucks, to turn
+often over the Powder-barrels, that the Powder do not spoil; to have a care of
+Rings and of the Ports, that they have their Pins and small Rings.
+
+Although every man ought to be a man well approved and experienced in all
+these things, before he can be trusted with the charge of a Vessel, which
+depends in time of fight more upon him than any other; nevertheless those
+whoaspire to the charge of a Master Cannoneer, ought to have the Theorick and
+Practick part joined together, as well to practice themselves, as to instruct
+and correct the faults of their Undergunners, and moreover to teach them all
+sorts of Fireworks, which may serve as occasion shall require. The Sub-gunners
+and Matrosses ought to be so many, that each may have no more than two Guns to
+his charge. And for as much as one finds at Sea very few persons who understand
+all that I intend to speak of, and those who understand very often cannot
+inform, or else will not take the pains to instruct their Companions, and the
+Matrosse, who serve under them, therefore I will prolong this following
+Chapter, of that which I have in general touched here.
+
+At Sea they never use the Ladle but Cartridges, of Canvas or Parchment, to
+which they give three Calibres in breadth, and four in length, and two half
+Calibres for the lying, in case there is no Scrole; and before they put the
+Cartridge into the Chase, they open that end toward the Touchhole with a
+Knife or Priming Iron upon that part which corresponds to the Touchhole. If
+the Cartridge is well made there is no need of ramming it after the Charge.
+
+If with a Cannon or Pierrier you would shoot a Bullet red hot, before you put
+it into the Chase betwixt the Powder, in stead of Hay or Wadding you must put a
+Sod of Earth, and sponge well the Cannon.
+
+To lay a Piece of Ordance to pass at Sea.
+TO point a Piece of Ordnance, or lay a Piece to pass, is to level it directly
+against the Mark you intend to strike.
+
+The practice whereof which they use at Sea, is different from that of the
+Batteries at Land. For at Sea all the exactness of Shot depends upon the motion
+of the Ship; when you give fire, the Heaving of the Ship, and setting of the
+Waves, are ordinarily so unconstant, that if the Cannoneer does not well
+observe his time, he misseth his Aim, and loses his Shor, and which depends
+wholly upon his judgment, having no other way to guide himself then this, which
+is so well to take time, that he expect and see that part the most elevated and
+raised up upon the water which he intends to strike, that it may not be covered
+and under water at such time as the Powder takes fire, and chaseth the Ball,
+which may happen in several manners, to wit, If we give fire when one of the
+Vessels engaging or engaged sinketh it self into the hollow of the Waves, then
+when that from whence you intend to shoot abaseth or raises its Deck on which
+is your Battery, your Piece then losing its Horizontal Line, or when the Waves
+which are betwixt the Enemies Ships swell up and cover your Battery, Judgment
+only and Experience can put this Advice into practice. Those that will
+apprehend, must first know the thickness of the Metal at the Touchhole, and
+from thence judge the time that the Powder may be a firing to the Chamber.
+Secondly, they must well advise themselves of the distance of moving of the
+Object against which they aim, which ought to be no farther distant than 1000
+common Paces or more, and then they level the Piece about 20 Paces before, in
+which time the Vessel overtakes the determinated distance, in the mean time
+that the Powder in the Touchole burns, and that the Shot slies. Thirdly, they
+must diligently observe the roling and motion of the Vessel, according to which
+they make trial of their Judgment.
+
+An Appendix of Artificial Fireworks for War and Delight; by Sir Abriham Dager
+Knight. Ingeniere.
+First of an Artificial Mortar made of Wood, Canvas and Paste-board.
+I shall not make mention here of any Metal Mortars, since they are plainly
+treated of in the fore part of this book, but only show you how to make an
+artificial Mortar: you must get a Rouler A. of 8 inches in diameter, and 21 in
+length, then get a foot B. turn for the Brith of the said Mortar, of the same
+diameter as the Rouler, observing that the Lead D B E be of 13 inches in
+diameter, and 5 in the thickness B; then make a hole or Chamber in the Brith
+for the Powder, having 2 inches in diameter and three in depth, them two pieces
+must be joined together by the ends as it is represented, and after you have
+well rubbed your long Rouler with Tallow for fear the Glue should stick upon
+it, roll upon the same foam Canvas or Cotton Cloth, and Past-bord well wetted
+all over with Glue, the thickness of 2 inches or 2 1/^, then let it dry being
+well fastened round about with Cord wetted in Glue; and having pulled out the
+Rouler, and droven some nails of 4 inches long in the foot to join them
+together, as you may see by FD'BE, then make a hole for the fuse, and get a
+foot of wood 24 inches square, 10 inches thick, and 7 in depth, where you shall
+set your Mortar upon its Brith in order to its operation.
+
+The Use of the Mortar.
+This kind of Mortar is good to throw Grenades, Fireballs or Stones over
+Walls or into a Garrison; and to hinder the Enemies works, as Trench,
+Batteries, etc.
+
+This Mortar (as the others) rises to any degree of the compass as you please,
+from 40 degrees to 45, and from 45 to 90 degrees. After your Mortar is charged,
+set fire to the fusee of the Granado, Fireballs, or Balloons, then to the
+Mortar, and observe where your Granado falls, and according correct your faults
+the following Shots.
+
+Degrees of Proportion of the Compass, for the use of the Mortar.
+Degrees. Distance. 90 0 89 80 88 124 87 148 86 171 85 195 84 219 83 243 82 267
+81 289 80 291 79 313 78 335 77 359 76 381 75 403 74 425 73 448 72 450 71 473 70
+496 69 500 68 521 67 540 66 562 65 580 64 599 63 608 62 626 61 644 60 661 59
+673 58 993 57 708 56 723 55 737 54 751 53 765 52 779 51 792 50 804 49 816 48
+827 47 838 46 848
+
+Fireballs of Canvas.
+TAke a round cloth ball filled with Sand, of such bigness as you desire make
+your Fireballs, upon which you shall shape your Canvas, and after it is
+finished, you shall let out the Sand and take out the Linen ball; after which,
+you shall sow it up, and fill it with this following Composition.
+
+Take Saltpeter, Powder, Sulphur, of each equal quantity well pounded, and mixed
+together with as much Linseed Oil as to make it in a kind of a Paste, which
+will be to fill your Balls.
+
+Another Sort.
+Take Saltpeter, Powder, Sulphur, Camphire and Borax, all well pounded in a
+Mortar with oil of Piter, and dissolve in black Pitch, Wax, Colophone, and
+Mutton tallow, all these things must be well boiled together; then make up your
+Balls, and cover them with Tow, having made two holes with a Bodkin cross-ways,
+which you shall fill with prime of a slow composition, that they may have time
+to take fire: they are good to stick and set any thing on fire, and other
+things necessary.
+
+Another.
+Take one part of Powder, one of Saltpeter refined, one of Sulphur refined,
+Rosin, Burgundy Pitch, Vernish in grain, Salt Armoniack, add to every pound 4
+ounces of Camphire, and as much Linseed oil or Wallnut, and mix it together;
+note to warm your oil a little before you mix it together, then make up your
+Balls.
+
+For the Petard.
+THe best are made of Copper with the 10th. part of Brass, (though many are
+made of Iron) they must be 12 inches long, the Diameter near the Brith 7: and
+in the mouth 10 inches. Fig. R.
+
+After the Chamber is filled with Powder, you must stop the hole with a round
+piece of Lether I, and afterward with a wooden one L, that must go strait in,
+and after fill the rest with yellow Wax or Pitch covered over with a Cere
+cloth, then tie him upon his Madrier M, thus fastened at the door of the
+Fortress N, his fuse being full of a slow composition, that the man fixing it
+may have time to withdraw, having tied 2 screws (that must fasten him at the
+door) to the two corners of the said Petard, and to carry and keep him up; you
+must set him upon the Chariot O, having 2 sharp iron points to enter in, and
+strong enough to bear the said Petard, and a man whilst he makes it fast at
+the said Door. See Fig. O and N.
+
+Of the Fuse for Bombes.
+THey must be of a slow composition, to give time enough to throw either
+Bombes, Grenades, Fireballs, Thundering Barrels, etc They are made thus; take
+a pound of Powder, four ounces of Saltpeter, one ounce of Sulphur well beaten,
+dry, and sifted separately; then mix it, and make up your fuse of it.
+
+Another.
+Take Powder of Benjamin, and small Coals all well beaten and mixed together,
+with some oil of Piter, then use it.
+
+How to make Fire Pots. Fig. P.
+TAke a Granado charged as they are usually, only without a fuse, then put it
+in an Earthen Pot, filled with fine Powder, and cover with Leather, having 2
+Matches cross ways lighted, with a handle of cord to throw it more easily; when
+it falls, the Pot will break, and the matches set the Powder on fire; the
+Granado will have its effect.
+
+How to set fire to any place.
+YOu must have Bullets that holds 4 or 5 pounds of Powder, and after they are
+well stopped, tie to it some Matches lighted, and they will set on fire any
+place, wherever they break.
+
+How to make a Light.
+TAke little Faggots made of small dry rods, dipped in black Pitch, new Wax and
+Colophone melted together; they are good to set fire to Galerys, Palisadoes,
+etc. and to lighten.
+
+Of Thundering Barrels. Fig. S.
+THese Barrels are of a great use to throw in at a Breach, or tumble in the
+Enemies Lodgements; for being of a combustible matter, they will set fire at
+any thing that they use to shelter themselves; they are made several ways, some
+as ordinary Barrels and half Barrels, filled up with Tow, dipped in some
+Colophone, Turpentine, Pitch, Oil of Piter, or any thing combustible, with
+Grenades, Fire pots, Pistol barrels laden with Bullets, and set so that they
+may not fire all at once, but scatter round about them.
+
+Of Thundering Bullets.
+THey are made of the following composition, in which the Grenades and Pistol
+Barrels laden with Bullets, are set in order with whole Gunpowder betwixt
+each; and to hinder their firing all at once, you must put between them some
+Tow dipped and mixed in the following composition; 4 parts Turpentine, 2 of
+Powder, 2 of Small coals well sifted, 3 of Poyligui, one of Rosin, one of
+Camphire, of stinking Benjamin, and of Colophone, well mixed all together, and
+put into your Bullets, as it is said before, not forgetting to bore in it 2 or
+3 holes filled with prime of a slow composition, which must be lighted before
+you put it in the Mortar: this Bullet will make a wonderful effect where it
+falls.
+
+Of Artificial Fireworks useful both by Land and Sea.
+FIrst of all of fire Lances, some are made four and five foot long, some of 3,
+and some of less, having a Belly near to the iron, which you shall fill with
+the following composition. Take some Tow dipped in a pound of new Wax and equal
+quantity of Turpentine, of Powder, as much Sulphur, 2/4 of black Pitch, all
+this well melted in oil of Piter; these great Lances are good to set fire to a
+ship, the others are thrown with the hand, and the least are shot out of a Bow
+to set the Sails on fire, to defend a Breach, or to set any things on fire.
+Fig. T.
+
+How to Contrive Artificial Fire Pikes. Fig. V.
+THey are good to defend the approach of an Enemies Ship, their lengths must be
+from 12 to 15 Foot long, having a belly near the end filled with the following
+composition; one part Saltpeter, as much Turpentine, the same quantity of Bay
+salt, 20 parts of Powder well pounded, 3 of Colophone, 7 of Arsnick, of Pitch,
+one part of Linseed Oil, one of Sulphur, mixed all together with some Linseed
+Oil and Tallow; then make up your work about 3 inches long and one and an half
+thick.
+
+How to prepare your Cotton for Prime.
+TAke some Cotton Thread and double it 4 or 5 times, if you intend it for to
+prime your stars, but if you intend it for your Lances or Rockets it must be 8
+or 10 doubles, then wet it well in clean water, then take powder well beaten,
+and clear water, and make a Paste, and having squeesed the water out of the
+Cotton, dip it very well in the said Paste, then take it out, and roll it well
+in dry powder dust, and set up to dry, for your use.
+
+Of Artificial Fireworks for delight.
+THese Fires are divided into three parts, first them that fly in the air;
+2dly. Them upon the ground; and 3dly, Them that swim upon the waters.
+
+And every of these parts is divided also into three parts; the first and most
+royal for the air are the Balloons, the 2d. are the Rockets, and the 3d. the
+flying Saucissons.
+
+Them upon the Earth are also divided into three parts; 1st. are the Rockets,
+2d. Fire Lances, 3d. the Saucissons.
+
+Them for the Waters are also three sorts; 1st. the Globes or Balloons, 2d, the
+double Rockets, and 3d. the single Rockets; but before we speak of their
+contrivances, I shall treat a little of their Moulds and Tools.
+
+Of the Proportions for the Moulds of Sky Rockets.
+IF the Mould has one inch in the mouth, it must have six in length, and the
+Rowler for the Coffin of an inch in Diameter, but the Rammers D must be a
+little less, to go easily in the Coffin, having a hole bored just in the middle
+for the Broach C, the foot where it is fast must enter in the Mould one inch
+and an half, the Broach must be 3 Lignes thick, and 3 inches long; if you
+desire a bigger mould, you must observe the proportions according to this Rule.
+
+A is the mould, B the Rowler, F the Bodkin to bore the Rockets and Stars, G
+the Coffin.
+
+The Mould for ground Rockets.
+HIs mould must have an inch diameter in the mouth, and 5 in length, the Rouler
+for the Coffin 4 Lignes in diameter, which makes of half an inch, and the
+Rammer a little less; the Broach must be of an inch long, the Brith going into
+the mould half an inch.
+
+Of the Mould for Water Rockets.
+IF the mouth be one inch in diameter, the length must be 8 inches, the brith
+or foot going in the Mould one inch, but without Broach; the Rouler must have
+of an inch in Diameter, and the Rammer a little less.
+
+The Composition for Sky Rockets.
+IF you desire to have your Rockets mount up with impetuosity, take only your
+great Canon Powder well pounded and sifted, and charge your Rockets as it is
+said hereafter.
+
+Another.
+Take a pound of your great Canon Powder well sifted, add to it two ounces of
+small coal dust well sifted and mixed together; but before you finish your
+Rockets try one, and if your composition is too weak, add some powder, if too
+strong, some coal dust, and for want of Willow Coals, you may use of wine ashes
+or sea-coals.
+
+How to charge your Rockets.
+FIrst you must take care not to put too much composition at a time, but about
+a Spoonful at once, giving every time three or four good blows, with a hammer
+of a pound weight, continuing so till your Coffin is full to the Moulds mouth,
+or very near, then thrust hard upon it some paper doubled several times, or
+else a round piece of Paste-board bored three or four times with a Bodkin to
+give fire to your Stars, Serpents, or Saucisons, then cut the remainder of the
+Coffin as close as you can, and cover the rest with Paper well glued.
+
+The Composition for the Ground Rockets.
+TAke some Gunpowder without any mixture, well sifted, and fill your Rocket
+with it (as it is said before) within an inch of the Moulds mouth, then thrust
+in hard a piece of Paste-board or double Paper, bore in it some holes with the
+Bodkin, and then put in it a good Pistol charge of whole Gunpowder, and having
+doubled some Paper of the Coffin upon the said powder, choke the rest very
+well, and cut what remains.
+
+Of the Composition for Water Rockets.
+TO make her appear with a great Tail, take Saltpeter one pound, Powder half a
+pound, Sulphur half a pound, Coal dust, two ounces, all well sifted and mixed
+together, and fill up your Rockets the same manner as the other; and having put
+a Saucisson at the end, cover it with Paper, and cover the Rocket all over with
+black Pitch and Rosin, to make it swim, and hinder the water from spoiling it:
+then tie to it a little Willow Rod of about two foot long, and if you desire to
+make them leap in and out of the water, you must put, in charging the said
+Rocket between every two fingers breadth of the composition of an inch of fine
+Powder well sifted.
+
+How to make Serpents. Fig. 1.
+TAke a Rouler a little bigger then a Goose quill, and roll some Paper upon it,
+eight or ten times, making your Coffin of about four inches long, then choke it
+near the middle, leaving a little light to communiguate the fire then fill part
+with composition, and the shortest with whole Gunpowder; then choke both ends,
+the end toward the Powder quite up, and the other with a little hole for the
+prime. The composition for Ground Rocket is the best for Serpents, the other
+composition for Sky Rockets being not so brisk, nevertheless both will do good
+effect, and leap about very prettily.
+
+How to make Gold Rain. Fig. 2.
+TAke a quantity of Goose quills, cut the hollow end as long as you can, and
+fill them a little hard with the composition for Sky Rockets; then prime them
+with wet Powder, and keep them for your use.
+
+How to make Silver Rain.
+TAke one part Camphire, 8 of Powder, 12 of Sulphur, 24 of Saltpeter, well
+beaten together, wetting the Pestle with oil of Almonds; then fill your quills
+as before, taking care that the air do not spoil it.
+
+There are several sorts of Stars, the red ones are made as follows.
+TAke a pound of Saltpeter, of a pound of Sulphur, of a pound of Powder, all
+well sifted and mixed together; then roll that composition in Linen or Paper
+about the bigness of a Nutmeg, making a hole through with a Bodkin, to prime it
+with the prepared Cotton. See 3, 4, 5, 6.
+
+Another.
+Take a pound of Saltpeter, pound of Sulphur, pound of Powder, all well sifted
+and mixed together, then take some Linseed Oil, or clear water, and make a hard
+paste made up in little Balls, roll them in Powder dust whilst they are wet,
+and after they be dried, they are fit for your use.
+
+Another of Blew and Red.
+TAke Saltpeter 4 ounces, Sulphur, 2 ounces, Meal 8 ounces, Powder 2 ounces,
+all well sifted and mixed together with oil of Spike.
+
+Another of White.
+TAke Powder eight ounces, Saltpeter 24, Sulphur 12, Camphire one, beaten well
+together with Oil of Almonds, and keep it close for fear of taking air.
+
+Another White one that lasts long.
+Take Powder 4 ounces, Saltpeter 16, Sulphur 8, Camphire one, Oil of Piter 2.
+
+For Fire Lances.
+THe Coffin must be as the others, of such bigness and length as you desire,
+then fill it with the composition for red Stars, the lower end must be stopped
+with a piece of wood of about two inches to nail them fast, and the upper end
+prime with wet powder.
+
+How to make the Balloons. Fig. 7.
+YOu must get a Rouler turned of such bigness as you desire to make the Moulds
+of the Balloons, then roll upon it some Paste-board, not sparing the glue to
+make it fast; and having made your great Coffin, you must choke it at one end,
+and fill it with Saucissons, Serpents, Stars, etc. in good order, and well
+prime that when the Powder Chamber at the bottom takes fire, and breaks the
+Balloons, they may all take fire at once, then choke the other end, leaving a
+hole big enough for a fusse, that you shall glue to it, filled with composition
+able to light the prime, and make the Balloon to play with order and effect.
+
+How to make Fire Wheels. Fig. 8.
+TAke a Wheel of bigness according as you intend to make your fire, and having
+put your Rockets in order, so that when one ends, it may give fire to the next,
+and so continue.
+
+FINIS.
+
+Books sold by Obadiah Blagrave at the Bear in St: Paul's Churchyard.
+THe new World of Words, being a general English Dictionary, containing the
+Interpretations of all hard English Words; with an Explanation of all Terms of
+Art, in any of the Arts and Sciences, by E. Phillips, in Folio.
+
+Dr. Robert Gell's Famous Notes and Observations on the whole New Testament, in
+2 Vol. Folio.
+
+Mr. Richard Saunder's Large Book of Physiognomy and Chiromancy, with the
+Explanation of the Moles of the Body, showing the signification of Dreams, with
+an Art of Memory, in Folio.
+
+Cocker's Large Copy-Book, called Englands Penman, containing 28 Copper Plates
+of all the curious Hands now writ and practiced.
+
+J. Gadbury's Ephemeridis for 20 years yet to come, and unexpired, in Quarto.
+
+Blagrave's Introduction to Astrology, being the Remainder of his Astrological
+Works, formerly promised by him to publish in his Book called the Astrological
+Practice of Physic, in large Octavo.
+
+Blagrave's Supplement to Mr. Nicholas Culpepper's English Physician; showing
+the Virtues of such Herbs as were omitted by him, Printed so as that it may be
+bound with his English Physician, in large Octavo.
+
+Culpepper's Last Legacy, left and bequeathed to his dear Wife for the public
+good; being his choice Secrets in Physic and Surgery, in large Octavo.
+
+Culpepper's School of Physic, or the experimental Practice of the whole Art,
+wherein are contained Remedies for all Diseases, both inward and outward, in
+large Octavo.
+
+Disucco Pancreatico, or a Physical and Anatomical Treatise of the Nature and
+Office of the Pancreatick Juice or sweet Bread in Man, Illustrated with
+Copper-Cuts, in large Octavo: By that Famous Physician De Grass.
+
+The Complete Mid-Wifes Practice enlarged in the most weighty and high
+Concernments of the Birth of Man: containing a perfect directory or Rules for
+Mid-Wifes and Nurses, by Sir Theodoret Mayern, Dr. Cham berlain, and Nicholas
+Culpepper; Illustrated with diverse Copper Plates, in large Oct.
+
+May's Accomplished Cook: or the Art and Mystery of Cookery, wherein the whole
+Art is revealed in a perfecter Method than has been published in any Language,
+in large Oct.
+
+The Queens Closet opened; incomparable Secrets in Physic, Chyrurgery,
+Preserving and Candying; which were presented unto the Queen by the most
+experienced Person, in Twelves.
+
+Praxis Catholica, or the Countryman's Universal Remedy: wherein is plainly set
+down the Nature of all Diseases, with their Remedies, in Octavo.
+
+The Rudiments of the Latin Tongue, by a Method of Vocabulary and Grammar,
+Comprising the Primitive, whether Noun or Verb; together with the forms of
+Declension and Conjugation, together with a Table of latin Words whose Sound
+and Signification resemble the English: for the Use of Merchant-Tailers-School,
+in large Octavo.
+
+Abecedarium Scholasticum, or the Grammar Schollar's Flower Garden; containing
+these following Flowers, viz. Proverbs, proverbial Sayings, sayings also on
+several subjects, both pleasant and profitable for the attaining the Latin
+Tongue, for the Use of St. Saviours-Southwark-School, in large Octavo.
+
+The English Orator; or Rhetorical Descants, by way of Declamation upon some
+notable Themes both Historical and Philosophical.
+
+Indiculus Vniversalis; or the Universe in Epitomy, wherein the names of almost
+all the Works of Nature, etc. of all Arts and Sciences, with their most
+necessary Terms, are in English Latin and French methodically digested for the
+use of Schools, ^arge Octavo.
+
+Sr. Jonas More's Modern Fortification Illustrated with Cuts in Brass, large
+Octavo.
+
+Sr. Jonas More's Mathematical Compendium, or useful practices in Arithmetic,
+Geometry, and Navigation, Dyaling, and the use of the Logarithms, in Twelves.
+
+Wit and Drollery jovial Poems, corrected and amended with many new Additions,
+in large Octavo.
+
+Quarl's Fons Lachrymarum, ora Fountain of Tears; from whence does flow
+Englands Complaint, Jeremiah's Lamentation, with Divine Meditations; and an
+Elegy on Sr. Chapter Lucas, Oct.
+
+Gerania, of a new Discovery of a little sort of People called Pygmies; with a
+Description of their Stature, Habit, Knowledge and Government, in Octavo.
+
+The Course of Catechizing, or the marrow of all Expositors that have writ any
+Exposition on the Church Catechism, in Octavo.
+
+Weighty Reasons for tender conscientious Protestants to be in Union and
+Communion with the Church of England, and not to forsake the public Assembly,
+in diverse Sermons, large Octavo.
+
+Philosophy delineated; being a Resolution of diverse knotty Questions upon
+sundry philosophical Notions, in large Octavo.
+
+Loveday's Letters, Domestic and Foreign to several Persons in large Octavo.
+
+Cleaveland's Poems, Orations and Epistles, together with his Life, in large
+Octavo.
+
+Leigh's Description of all the Counties in England, setting forth the glory of
+this Nation, in large Octavo.
+
+The Antiquity of China, wherein the Customs and Manners of China are
+presented, with a large Map of the Country, in large Octavo.
+
+A Treatise of Taxes and Contributions, showing the Nature and Measures of
+Crown Lands, Assesments, Custom, Poll-Mony, Lotteries, Benevolence, Penalties,
+Monopolies, Offices, Raising of Coins, Hearth-Money, Excise, etc. By Sr.
+William Pette, Quarto.
+
+A new Survey of the Turkish Empire, History and Government; being an exact
+Discovery of what is worthy or knowledge, relating to that great Nation, in
+large Octavo.
+
+The Woman is as good as the Man, setting forth the excellency of the Female
+Sex, in Twelves.
+
+English Military Discipline; or the Way and Method of Exercising Horse and
+Foot, according to the practice of the present Time, in large Octavo.
+
+A short History of the late English Rebellion, begun in 1640, by Marchamont
+Needham.
+
+The Ruin of Papistry; a short display against the Simony of the Romish Church,
+with a circulatory Letter to the Fathers of those Virgins that desert their
+Families to turn Nunns, by Peter Dumoulin, Octavo.
+
+Ethice Christiana, or the School of Wisdom; being the substance of Moral
+Philosophy, Dedicated to the Duke of Monmonth, in Twelves.
+
+The Grounds and Occasions of the Contempt of the Clergy; together with
+Observations upon the Answerer, Octavo.
+
+The Evangelical Communicant in the Eucharistical Sacrament: declaring who are
+to receive the Supper of the Lord, in Octavo.
+
+The whole Book of Psalms Paraphrased and turned into english Verse, for the
+use of Parish Churches, by Miles Smith, in large Octavo.
+
+St. Foyn Improved; showing the Excellency that England may receive by the
+Grass called St. Foyn, Quarto.
+
+Bishop Sanderson's Life, with diverse Resolutions of sundry Cases of
+Conscience, Quarto.
+
+The Privilege and Practice of Parliaments in England Quarto.
+
+Troja Rediviva, or the Glories of London surveyed, in an He roick Poem, Quarto.
+
+There is sold by the said Obadiah Blagrave an excellent Eye Water, which
+Wonderfully cures all Rheumes, and preserves the Eye in its perfect sight.
+
+T^logia Mystica, or the divine Essence explicated by a new Method of mystical
+Divinity, in Octavo.
+
+FINIS.
+

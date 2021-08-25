@@ -1,0 +1,3012 @@
+THE ART OF GUNNERY.
+
+Wherein is described the true way to make all sorts of Gunpowder, Gun-match,
+the Art of shooting in great and small Ordnance: Excellent ways to take
+Heights, Depths, Distances, accessible, or inaccessible, either single or
+diverse distances at one operation: to draw the Map or Plot of any City, Town,
+Castle, or other fortified place.
+
+To make diverse sorts of Artificial Fireworks, both for War and Recreation,
+also to cure all such Wounds that are curable, which may chance to happen by
+Gunpowder or Fireworks.
+
+This Treatise is composed for the help of all such Gunners and others, that
+have charge of Artillery, and are not well versed in Arithmetic and Geometry:
+all the rules and directions in this Book, being framed both with and without
+the help of Arithmetic.
+
+By Nathanael Nigh Mathematician, Master Gunner of the City of WORCESTER.
+
+LONDON, Printed for William Leak, at the sign of the Crown in Fleetstreet,
+between the two Temple Gates. 1647.
+
+To the Right Honorable the EARL of LINDSEY, Lord great CHAMBERLAIN of
+ENGLAND.
+Right Honorable,
+THE patronage of Arts being hereditary to your noble Ancestors, especially
+that of War, wherein so many of the famous ^ERTU'S have been transcendently
+glorious encouraged these few sheets of mine to crave the protection of your
+Lordships favor against the malicious ignorance of this unhappy age. The
+addresses, I do humbly acknowledge savor of too much boldness: the Treatise
+short: and the Author not of years Confident to present pieces worthy of your
+Lordships favor, or perusal. Yet the matter in it self being Noble and
+suitable to these times, and the well known propensity in your Lordships
+nature, to cherish ingenuous endeavors with the particular service I ever did
+owe and bear to your Lordship and Noble Family, occasioned these bold addresses
+
+Of your Lordships my LORD, most humble Servant, N. NIGH.
+
+To the READER.
+LOving Friend, the cause moved me to set Pen to paper to write such a Treatise
+as this Book of Gunnery, was because that in all the Books of this Art yet
+Printed, I never saw one that gave ample directions to attein to any knowledge
+without the Art of Arithmetic; I do also verily believe that when a man has
+learned that Art in whole Numbers and Fractions, as also to extract the Square
+and Cube Roots; that he will be without any of their directions, able to do
+that which diverse of them employ half their Books to teach, in this my Treatise
+I have added diverse Tables for thy help, to resolve those things which are
+elsewhere taught to be resolved by Arithmetic: and if thou have knowledge in
+that excellent Art, here are things worth thy observation; I am sure diverse of
+them were never published before: And whatsoever thou find in my Fireworks,
+I do protest to thee, that I have made, and still do make practice of them my
+self; having by experience found them the best of all others that ever I have
+read of or that are taught by Bate, Babington, Norton, Tartaglia, or Malthus;
+if any man shall make the least doubt of what I have said, I am ready to
+resolve him: And to conclude, according as thou find the truth of what I
+have written, so give thy doom, I rest
+
+Thy loving Friend, Nathanael Nigh.
+
+Arts Mathematical (in Worcester) Professed by Nath. Nigh Mathematician, these
+Arts, Sciences, and Faculties here under expressed.
+Arithmetic In whole Numbers and Fractions, Extraction of Roots Square, Cube,
+Of Astronomicall Fractions.
+
+Geometry The Principles, with the Practice and Demonstration. Measuring of
+Land and reducing of Plots or Maps, to any Proportion Measuring of any
+superficial or solid content, as Board, Glass, Timber and Stone, Gaging of
+Vessels the exactest way.
+Description, Demonstration, and use of Instruments. Quadrant, Theodelite,
+Plain Table, Circumferenter, Circular Scale, Mathematical Scale or Sector,
+Rules by Master Gunter, coverted into a Crosse-staff.
+Astronomy The use and demonstration of the Sphere or Globe, both Caelestiall
+and Terrestrial, The Caelestiall Globe in Plain. Navigation The Principles
+thereof, with the making of diverse Instruments befitting that Art. The use and
+Projection of Maps and Charts. To find the true longitude at Sea.
+To calculate the true motion of the heavens, and to find the eclipses for any
+time, either past, present, or to come. To make Dials of all sorts, either
+fixed, or isntrumental.
+
+The cause why the art of Gunnery is not of that esteem as such a noble Art
+deserves, and who are the causers, and disesteemers of it. Chap. 18
+
+The properties, office and duty of a Gunner. Chap. 19
+
+What qualifications every man ought to have, when he first gets commission to
+be a Gunner. Chap. 20
+
+How to make the dispart of any true bored piece of Ordnance. Chap. 21
+
+To know whether your Piece be Chamber bered. Chap. 22
+
+To know what diameter every shot must be of, to fit any Ordnance. Chap. 23
+
+To find what flaws, cracks, and honycombes, are in every Piece of Ordnance.
+Chap. 24
+
+To find the diameter of any round shot by its Circumference. Cahp. 25
+
+How by knowing the height and weight of one shot, to know the weight of any
+other, the height being given, Chap. 26
+
+How by knowing the height and weight of one shot to find the height of any
+other shot, the weight being given. Chap. 27
+
+To find what proportion there is between bullets of iron, lead, brass, and
+stone; and by knowing the weight of one foot of one metal, to find the
+weight of any other shot, of any of those metals, of that diameter. Chap. 28
+
+A Table to find the weight of any shot of iron, lead, or stone, from two
+inches diameter, to eight inches, exactly calculated. Chap. 29
+
+How to make a shot of lead and stone, of the like weight, as a shot of iron is
+of, being of the same height. Chap. 30
+
+How by knowing the weight of one Piece of Ordnance, to know the weight of any
+other Piece of that same metal, or of any other metal, being near of a
+shape. Chap. 31
+
+How by knowing what quantity of powder will load one Piece of Ordnance, to
+know how much will load any other Piece. Chap. 32
+
+To find whether a Piece of Ordnance be true bored or no. Chap. 33
+
+A description of all sorts of Ordnance from the Cannon, to the base, of their
+weight, loding, shot, and all other things apperteining to them. Chap. 34
+
+Of iron Ordnance, what quantity to allow for heir loding. Chap. 35
+
+To know what quantity of powder should be al^wed to a Piece not truly bored.
+Chap. 36
+
+How to make Cartreges for Ordnance, and how to fill them by help of an inch
+Rule, to so many pounds and ounces as you please. chap. 37
+
+How to give level to a piece of Ordnance, to make a shot at any mark within
+point blank. Chap. 38
+
+How if the first shot do carry to the right, or left, or under, or over the
+mark: to amend it in making the next shot. Chap. 39
+
+Of the Gunners Quadrant, which is to be used in shooting at Randon, and what
+portion the degree of a Quadrant is. Chap. 40
+
+To make an effectual shot out of a piece of Ordnance at Randon. Chap. 41
+
+To make another sort of Instrument called the Gunners Rule, which will serve
+to elevate a Piece of Ordnance with more facillity then the Quadrant. Chap. 42
+
+To divide the Gunners Rule into degrees by help of a Table. Chap. 43
+
+To give level to a Piece of Ordnance with the Gunners Rule, at any degree of
+Randon. Chap. 44
+
+To make use of the last Table, to give level to a Piece of Ordnance without
+the Gunners Rule. Chap. 45
+
+How to make a shot at the enemies lights in the night. Chap. 46
+
+How to make a perfect shot in a dark night, at any mark that may be seen in
+the day time, within the reach of the Piece. Chap. 47
+
+How to make a perfect shot at a company of horsemen or footmen, passing by your
+Ordnance; and also to make a good shot at a Ship sailing up a River. Chap. 48
+
+How to cause the same quantity both of powder and shot, discharged out of the
+same Piece, shall carry close or more scattering. Chap. 49
+
+How a shot which sticks fast within the concavity of a Piece, that it cannot
+be driven home unto the powder, may be shot out without danger to the Gunner,
+or hurt to the Piece. Chap. 50
+
+A merry conceit to charge a Piece without Gunpouder. Chap. 51
+
+A Piece of Ordnance at one self-same elevation, and tow^rds one self-same
+place, with the like quantity of powder and shot, discharged several times,
+what ranges it will make. chap. 52
+
+How many Horses, Oxen or Men will serve to draw any Piece of Artillery. Chap.
+53
+
+A description of the Instrument, wherewith the Reader must learn to take
+heights, depths, and distances. Chap. 54
+
+The use of this Instrument, to find the height of a Tower or Castle which is
+accessible. Chap. 55
+
+How to find the height of any Tower that is inaccessible. Chap. 56
+
+How to perform the same operation when the parts cut fall on the right
+shadow. Chap. 57
+
+How to take an Altitude at a place unapproachable, when the parts cut are of
+different Shadows. Chap. 58
+
+How to find the Longitude or Distance to any place by the Square. Chap. 59
+
+How to take the distance of diverse places at one time, by help of the Circle
+that is described the Instrument. chap. 60
+
+How by the aforesaid Instrument, to draw the Plot of a City or other Garrison,
+and to take the distance to every remarkable Object within Cannon shot. chap. 61
+
+A TREATISE of Artificial FIREWORKS for the WARS.
+CHAP. 1. A description of the Morter-peece, and how to make one of Wood and
+Pastbord for a need, those of Brass and Iron being wanting.
+
+How to fit and prepare Grenades for the Morter-peece. chap. 2
+
+The manner how to make Grenades of Canvas for the Mortar. chap. 3
+
+How to make fiery Arrows or Darts. chap. 4
+
+How Grenades are to be charged in the Mortar. chap. 5
+
+How to level the Morter-peece, to make an effectual shot at any assigned
+mark. chap. 6
+
+How to make Grenades to be cast with men's hands. chap. 7
+
+How to make fire Wheels, to be cast with men's hands. chap. 8
+
+How to make and prepare a Petard. chap. 9
+
+Of Artificial Fireworks for Recreation and Delight.
+How to make Rockets for the Air. chap. 10
+
+How to make the Composition for Rockets of any Size. chap. 11
+
+How to give fire to one or more Rockets. chapter 12
+
+Diverse Compositions for Stars. chap. 13
+
+The manner of making Stars; and to use them. chap. 14
+
+How to make silver and golden Rain, and how to use them. chap. 15
+
+How to make Fisgigs, which some call by the name of Serpents, and to use them.
+chap. 16
+
+How to make Girondels, or (as some call them) Fire Wheels. chap. 17
+
+How to represent diverse sorts of Figures in the Air with Rockets. chap. 18
+
+How to make Fire-lances. chap. 19
+
+How to make a Rocket, which firing it out of your hand shall continually be in
+agitation, either on the earth, or in the air. chap. 20
+
+The manner how to make Balloons for the Morter-peece. chap. 21
+
+A most precious unguent for any burning. c. 22
+
+The Unguent. Otherwise.
+
+Another sort most excellent.
+
+The ART of GUNNERY: AND First of Gunpowder.
+CHAP. 1.
+Who were the first Inventors of Gunpowder, and how it came to be invented.
+
+SOme Italians have declared, That Archimedes the Philosopher was the first
+Inventor of Guns and Gunpowder; for Valturus declares in the tenth book of
+Warfare, That Archimedes used a certain kind of Engine made of Iron, out of
+which he shot against an Army upon the land (with an incredible noise) stones
+of great weight and bigness; which Relation makes us believe, That it was an
+Engine like unto a Gun: But whether this be true, or not, is doubted, for
+learned men are of diverse minds: Munster and Gilbert Cognot have written, That
+Guns were devised first in the year of our Lord 1370 by a Monk, whom Munster
+calls Bertholdus Sthwarts: Mr. Dee our Countryman in his Mathematical
+Preface and Discourse of Menadre, says, That an Englishman was the first
+Inventor of Gunpowder, though his said invention in another land, and by other
+men, was first executed: Also our English Chronicles do report, That in the
+year 1380, a Monk did unwillingly let fall a spark of fire upon Brimstone and
+Saltpeter, beaten to powder, in a Mortar, covered with a flat stone; he seeing
+this mixture blow off the stone from the Mortar, did thereupon devise a kind
+of Powder, and taught the Venetians to use the same in Iron pipes against the
+Genuates.
+
+CHAP. 2.
+What sorts of Powder they made (from time to time) from the first Invention,
+to this present.
+
+POwder was always made of Saltpeter, Brimstone and Charcole; although some
+Authors have counseled to add to the said materials, Quicksilver, to make it
+more strong: others advise us to use Aquavitae; some would have us add thereto
+some Armoniack; some bid us put thereunto Camphir; some make Gunpowder with the
+coals of Bulrushes, and diverse other ways, which I will not set down: But I
+will here show you the making of Gunpowder from time to time, as it was
+collected from such Authors as lived either one or two hundred years since; by
+which you may gather, how that Gunpowder has still mended, and grown to great
+perfection since the first invention.
+
+The making of Gunpowder after the most ancient manner, Anno 1380.
+
+The first way,
+Saltpeter one part. Brimstone one part. Charcole one part.
+The making of Gunpowder, as Authors teach, about the year 1410.
+
+The second way,
+Saltpeter three parts. Brimstone two parts. Charcole two parts.
+The making of Gunpowder, as it was made in the year 1480.
+
+The third way,
+Saltpeter eight parts. Brimstone three parts. Charcole three parts.
+The making of the best Powder about the year 1520.
+
+The fourth way,
+Saltpeter four parts. Charcole one part. Brimstone one part.
+The best sort as is made now at this present.
+
+The fifth way,
+Saltpeter six parts. Brimstone one part. Charcole one part.
+The Musket Powder is now commonly made of Saltpeter five parts, one part of
+Brimstone, and one of Cole; and Canon Powder of Saltpeter four times so much as
+of Brimstone and as of Cole.
+
+CHAP. 3.
+The reason why Power made of six pounds of Saltpeter, one pound of Brimstone,
+and one of Charcole, is stronger then Powder made of seven pounds of Saltpeter,
+one of Brimstone, and one of Cole; and also stronger then Powder made of five
+pounds of Peter, one of Sulpher or Brimstone, and one of Cole: Or else why six
+of Peter, one of Sulpher, and one of Cole, is the strongest Powder that can be
+made.
+
+IT is certain, that the best Powder would be that in which is most Saltpeter,
+if a smaller quantity of Sulpher and Cole, then but once so much of either of
+them, as to be one sixth part to the quantity of Peter, might serve; which
+composition I will call 6 -- 1 -- 1, meaning six times so much Peter, as one
+time Sulpher, and one time Cole. But less Sulpher and Cole, as 7 -- 1 -- 1,
+the Sulpher and Cole are not able to perform and execute the office as they
+ought to do; that is to say, to be on fire quickly, and set the Saltpeter on
+fire, and to maintain the same fire, until it be wholly resolved into fire;
+therefore no more Sulpher and Cole to so much Peter, would be to little
+purpose: Certainly if Gunpowder were only made of Peter, that would be more
+strong then Powder made of Peter, Cole and Brimstone; but because the said
+Peter is not apt to burn in a flame quickly, as Brimstone will do, nor maintain
+the flame until all is consumed, as Cole will do, therefore it is needful to
+add Sulpher and Cole thereunto, and only such a quantity as will just serve
+turn: In Powder 5 -- 1 -- 1, by experience is found more Sulpher and Cole then
+needs; yet it is good not only to make Powder of 5 -- 1 -- 1, which is Musket
+Powder, but also of 4 -- 1 -- 1, which serves best for great Ordnance. Now the
+reason why this last sort should serve better for Ordnance, then Pistol Powder
+of 6 -- 1 -- 1, which is the strongest of all, I will show in the next Chapter.
+
+CHAP. 4.
+The reason why Pistol Powder being the strongest, is not so good for the Canon
+as Powder 4 -- 1 -- 1, the weakest; no not although you take but so much of the
+Pistol Powder as you find by an Engine to be of like strength with another
+quantity of Canon Powder.
+
+THe reason why Canon Powder is best for Ordnance, is because it takes up a
+greater room in the Cylinder of the Piece, then Pistol Powder; for in taking up
+much room, it has the greater fortification of Metal about it, to keep it
+from breaking the Piece: Suppose a Saker requires four pound of great Powder
+for her loading, and I would know how much Pistol powder is equal in strength
+to four pound of Canon powder, trying by an Engine made of purpose to try
+powder, I find three pound to be of like force: you may easily conceive that
+the three pound has but three quarters of the Metal of the Piece, to keep it
+from breaking, when as four pound has one quarter more Metal then the other
+three had.
+
+To make it more plain, if you look into the second Chapter you shall find,
+That the first powder of all, was made of just so much Saltpeter, as of Cole,
+and of Sulpher, called 1 -- 1 -- 1; if you had such powder, and also one of the
+old Pieces made in those days, as some of them may yet be seen in many Cities
+of England, you could not load them with any other powder but they would break.
+You shall hear what I have done; I made such kind of powder as 1 -- 1 -- 1,
+and tried how much of that powder was in strength to one pound of Pistol
+powder, being 6 -- 1 -- 1, by an Engine I found three pounds and nine ounces,
+the Piece was Saker bore of Iron, and the thickness of the Metal about the
+Chamber, was two inches in thickness; I loaded the Piece with four pound of
+weak powder, which filled the Cylinder of the bore nine inches just; which nine
+inches in length, and two in thickness about the Chamber, is Two hundred twenty
+five inches of Metal about the powder, near Forty seven pounds weight, at this
+adventure the Piece came off safe; but being laden with one pound and a
+quarter of fine powder almost, which filled the bore but two inches and three
+quarters, and had to its fortification but Sixty eight inches and three
+quarters, which is in weight fifteen pounds, at the discharge of the Gun, it
+brake in diverse pieces: This was done in Deriton, upon the 17 of March, Anno
+Dom. 1644. as many people can witness.
+
+CHAP. 5.
+How to make Artificial Saltpeter of the Earth.
+
+SAltpeter is a mixture of many substances gotten with fire and water, out of
+dry and durty earth, or out of that ground which is found loose within Vaults,
+Tombs, or desolate Caves, where rain cannot come in, and also Charnel houses;
+The best of all is made of beasts dung converted into earth, in Stables, or in
+Dunghils, of a long time not used; and it is requisite, what dung soever it be,
+that by long continuance of time it be well resolved into earth, and all the
+moistness dried up: When you have occasion to make of this dung, or earth, a
+great quantity of Saltpeter, it will be necessary for you to provide many
+Cauldrons, Furnaces, Barrels and Tubs, and wood for fire; these Barrels must be
+set on end upon a Form, the top being taken out, and near the bottom a hole
+bored with an Augre; you must cover the inside of those holes with an earthen
+Porringer, and stop the outside with Taps; then fill up the Barrel with the
+said earth within a span of the brim, and remember that the earth about the
+said vessels should be rammed down, yet that part of the earth that lies in
+the midst of the vessel, may lie loose; afterward pour a Bucket of clean water
+upon the earth, and after that pour another, not failing to do so till all the
+earth within the Tub be well moistened, which ought to continue thus one day
+and night, the water a full hands breadth above the earth; then pull out the
+Taps or Spiggots out of the holes in the vessel, and let the water drop out of
+that vessel into another, being set under it: When you see no more water will
+drop, empty the undermost vessel again into the uppermost, out of which it did
+drop, and out of the same let it drop again, so long and so much as it can;
+this water when it has dropped twice, is called water of Foot, and also the
+wash of earth, and must be saved by it self: After this pour other clean water
+upon the very same mould in the Tub, and when the said water has dropped out
+of the higher vessel into the Tub that stands under, take all the earth out of
+the upper vessel, and fill it with more of the said earth, then pour upon this
+earth in the vessel, the water as you made first, called water of Foot, and
+wash of earth, suffering it to drop through the same into the undermost Tub,
+standing under the earth Tub, so often until it be so salt as to bite your
+tongue, and that an egg will swim on the top of the water: The first water
+being brought to this perfection, pour the second water upon the said earth, or
+other earth, that it may by often passing through be of as biting a taste as
+the former, as also able to bear up an egg: Now this second water being very
+strong, must be boiled in a Cauldron, and after it has well boiled, abate the
+fire under the Cauldron, until you have taken off it all the scum, which must
+be saved in a Pot; then presently make a good fire, to cause it to boil again
+with speed, and as the water in the Cauldron diminishes, scum the said water,
+and keep the said scum: When the scum shall be thick, hard, and of a French
+Russet color, take some water out of the Cauldron, and let it drop upon a
+piece of Iron, for if the water be boiled enough, the drops of water will
+congeal upon the same Iron, but if they do not congeal, it is a sign it may
+abide the fire longer; when its boiled, as you may perceive by the aforenamed
+signs, take it from the fire, and preserve it, because it is the Peter-water:
+Now when you have made an end of boiling the second water, you must boil and
+scum the first water (named water of Foot, or wash of earth) till it shall cast
+up a scum of a French Russet color, unto which if it should happen to cleave
+to the sides of the Cauldron, you may put in the other Russet scum (that was
+made and saved by you before) to boil with it, until the drops of this water
+falling upon Iron will congeal; if this congealed water be very soft, you must
+boil it longer, but if hard, it is a sign it is burned; to amend this fault,
+put some clear water thereunto to amend it, then taking the Cauldron from off
+the fire, and setting it a stoop, so that the lies and drugs (which being
+congealed are the very salt whereof Saltpeter is made) may not with any water
+run over the brims of the vessel: You must (if you will make good Peter) suffer
+the said water to settle in the same vessel, and congeal in a darkish room, and
+the water which after two or three days will not congeal, has dropped into
+some other Tub, take the Saltpeter out, and preserve the water that dropped,
+because it is Master water, and shall afterward be used as I shall give you
+directions.
+
+CHAP. 6.
+To make another excellent sort of Saltpeter of Flower that grows on walls:
+How Saltpeter water must be boiled, and how you may know when it is boiled
+enough.
+
+TAke of flower or plaster that grows on walls four parts, of unslact lime
+one part; this one part of lime must be well boiled in water over a fire, and
+after it has boiled enough, it must be taken from the fire, and suffered to
+settle, then it must be strained into another vessel; then put the four parts
+of flower into such a vessel as I in the last Chapter ordered for earth; pour
+upon the said flower so much of the strained water, which I call lie or lime
+water, as will dissolve the flower; when the flower is dissolved, let the water
+drop out of the said vessel, into an under vessel; then boil those said drops
+of lime water over the fire, till they being put upon Iron will congeal, and be
+of a temperate hardness; for if they are very hard, the water is burned, but
+if soft, not enough; when it is well boiled (that is, to have the drops thereof
+on Iron neither too hard nor too soft) take it from the fire, and scum it with
+a scummer, and do unto it all that has been taught in the last Chapter to be
+done with Peter-water.
+
+CHAP. 7.
+To make a third sort of Saltpeter very excellent, and with more ease, and less
+cost then the two former ways.
+
+TAke Quicklime, and pour warm water upon it, and let it stand six days,
+stirring it once or twice a day; take the clear of this water, set it in the
+Sun until it be wasted, and the Saltpeter will remain in the bottom.
+
+CHAP. 8.
+How to refine Saltpeter, to make it fit for use.
+
+PUt Saltpeter with well slacked lime into a clean Cauldron, and pour upon it
+so much lime water, or fair water, as will lie four fingers in height above the
+Peter and lime, and make a good fire under the Cauldron, that they may quickly
+boil, and be you ready, as scum shall rise, to take it away with a scummer;
+when you perceive that no more scum will rise, take the Kettle from the fire,
+and setting it somewhat aslope, let the boiled water cool, settle and clear in
+the Sun; if the boiled water will not wax clean by this means, put ashes into
+it, and boil the same again a little while: This done, take the Cauldron again
+from the fire, and set it aslope, sprinkle on the boiled water some fair water
+cold, for by so doing you shall make the said water clear; this water being
+clear, must by little and little be poured out into some other vessel, so that
+the dregs or grounds may not go out with the same; for the water which lies
+above in the vessel Saltpeter is made, and in the water below at the bottom of
+the vessel, which are the lies or dregs of Saltpeter; after you have in this
+sort poured out the said water into other vessels, and have suffered the same
+for two days (or more if need be) to congeal in the same vessels, you must take
+the said congealed water (which is Saltpeter) out of the vessels, and dry the
+same with the heat of the Sun, or by the fire.
+
+After you have taken the said Saltpeter out of the vessels, the water which
+remains boil over a good fire, and when it casts up any scum, take the scum
+off, then try whether it be enough, by dropping some on Iron, if it congeal in
+a temperate way, take it from the fire; this being done, as it cools you
+shall see a thin skin to lie upon the water, which also scum off; this water
+will then congeal into Peter, as did the other, but it is not so good.
+
+To refine Saltpeter with fire, do thus, Take an Iron Skellet and fill it with
+Peter, set it on the fire, and cover it close with some Iron cover on the top,
+or with a Tyle; when the Saltpeter is melted, take Brimstone most finely
+beaten, and cast some thereon, kindle it, and let it burn till all the upper
+part be burned; which when effected, will leave the Saltpeter clear like to a
+piece of Marble, for the Brimstone will burn up the gross victiousness of the
+Saltpeter.
+
+CHAP. 9.
+How Saltpeter meal is made; and how Peter meal without any beating, will serve
+to make Gunpowder with his materials.
+
+HAng a Kettle over the fire, and put Saltpeter therein; when it shall begin to
+boil, fry and smoke, stir it about with a wooden Ladle, cease not to mingle the
+Saltpeter well together, until it wax dry, for by so doing you shall take away
+the grease and salt that was in it; then pouring so much water into the Kettle
+as will cover the Peter, you must melt the Peter again over the fire,
+continually stirring it, until it become dry as before, and be like meal.
+
+CHAP. 10.
+How the makers of Gunpowder do mingle together the materials of which they do
+make Gunpowder: And also how to corn the Powder.
+
+PUt all the Saltpeter together that you will use into a Cauldron, for if it be
+to make Canon powder, you must take four parts of Peter, one part Brimstone,
+and one part Cole; if Musket powder 5 -- 1 -- 1; if Pistol powder 6 -- 1 -- 1:
+boil the Saltpeter in a Cauldron, with so much water as will serve to dissolve
+it; which being so dissolved, ought to be washed and laid upon a clean place;
+this done, beat into dust the quantity of Cole that is to be added to this
+mixture, and then put this dust or fine beaten Cole unto the dissolved Peter,
+incorporate them very well together, and as you are blending them, put in by
+little and little the Sulpher very well beaten; when this mixture of Saltpeter,
+Brimstone and Cole are well incorporated, lay it forth to dry a little; when
+the same mixture is somewhat dried, by beating the Cole until it is subtle and
+in palpable, and is made a very well mixed substance, sift it well through a
+sive; then casting water or vinegar upon it, corn it; and when you have so
+done, dry it against the fire, and Gunpowder is made. There are diverse ways to
+grind Gunpowder, the best way is to stamp it in Morters, with a Horse-mill or
+Water-mill, for the powder is thereby most finely beaten, and with least labor;
+with a knife cut in pieces some of this composition, and if it appear all
+black, it is well done, but if any of the Brimstone or Peter is seen, it is not
+incorporated enough: Now I will show you how to corn Gunpowder.
+
+First, prepare a sive, with a bottom of thick parchment, made full of round
+holes, then moisten the powder, which shall be corned, with water, put the same
+and also a little bowl into the sive, when you have so done, sift the powder,
+so as the bowl rolling up and down in the sive, may break the clods of powder,
+and make it by running through the little holes, to corn.
+
+You may also make Gunpowder by sifting every one of the three materials by it
+self through a very fine sive, and then moisten them with strong vinegar, and
+incorporate them together, for through that moistness the powder will be made
+more stronger, and beaten more finer, then corn it as before is taught: Note,
+That if you cannot sift it through the sive, beat that again into powder which
+will not through, until it will go through also; when you have sifted these
+materials two or three times severally, then blend them well together, and sift
+them also together; when you have done this, then moisten them with vinegar,
+and proceed as before: Remember also, That Charcole made of the lightest wood
+is best.
+
+CHAP. 11.
+To make Powder of diverse colors;
+
+and first to make White Powder.
+TAke of Saltpeter twelve parts, of Brimstone two parts, and of Camphir one
+part, beat, sift and incorporate all these things together, as before you have
+been taught to mix other materials together; after you have so done, beat these
+things so again, and so often, until you are sure they are well incorporated,
+then mosten it with Aquavitae; when you have thus done, corn the powder.
+
+To make Red Powder.
+Take of Saltpeter twelve parts, of Brimstone two parts, and of Camphir one
+part, beat, sift and incorporate all these things together, as I taught just
+now; then beat them again, until they are perfectly incorporated: whereas
+before you moistened them with good Aquavitae, now you must moisten this with
+Vinegar (sod with a good quantity of Brasil, until the third part be boiled
+away) this Vinegar being red as blood, will make the powder likewise so, it
+being moistened with it, and then corned as before is taught.
+
+To make any other colored Powder.
+Boil the Vinegar in such transparent colors as you would have the powder to
+be of; as if green, with a little Verdigreace, if blue, with blue Bice, and the
+like; always taking care, That the color be not thick, but very thin,
+otherwise it will weaken the powder that you do make.
+
+CHAP. 12.
+To renew and make good again any sort of Gunpowder that has lost its strength
+by moisture, long lying, or by any other means.
+
+HAving moistened the said Gunpowder with Vinegar, or fair water, beat it well
+in a Mortar, and then sift it through a sive or fine searse; with every pound
+of Gunpowder, mingle one ounce of Saltpeter that has been mealed; and when you
+have so done, beat and moisten this mixture again, until you see by breaking or
+cutting with a knife, that there is no sign of Saltpeter or Brimstone in it:
+Moreover, corn this powder when it is incorporated with the Peter as it ought
+to be, and you have done.
+
+CHAP. 13.
+Another way to renew Gunpowder, or rather to unmake Gunpowder, to make it
+good, in the making it again.
+
+PUt so much thereof (as you will refine or new make again) into a linen bag,
+and then tie a string or rather small cord about the mouth of the said bag,
+then put it into a clean Kettle, and pour so much water therein as will cover
+the bag; this done, make the water to boil, till a drop of it laid upon iron or
+stone will congeal; and while the water boileth, remember to scum it, if need
+require; when it will congeal, take it from the fire, and set the Kettle
+aslope; when the water is as clear as it will be, pour it out into some vessel
+where it will congeal into Saltpeter; when you have taken the Saltpeter out of
+the said vessel, that water as remains, boil again, until it will (by dropping
+a drop thereof (...) iron) congeal, then put it again into the same ves^el: and
+thus do with all such (...) as is last, after you have taken out (...) Peter.
+
+The Saltpeter and Brimstone which were within the said bag, did dissolve and
+soke into the boiling water; yea, the dissolved Peter turned into water, and
+the Brimstone sunk down to the bottom of the water, where you may find it; but
+the Coals (which were formerly compounded with the Peter and Brimstone) they
+remain in the bag, amongst the lies and dregs of the decayed Gunpowder:
+therefore when you have gathered together all the Saltpeter by the means above
+named, and dried the same, weigh it, and also weigh the Brimstone and Cole by
+themselves, and what you find every thing to want in its quality and due
+proportion, make up with more, then mingle, beat and incorporate them, as you
+have been taught to make new Gunpowder.
+
+CHAP. 14.
+How you may by taste, feeling, color and burning, know good and ill Powder;
+and how amongst many sorts of Gunpowder you may know the best sort.
+
+1. BY how much Gunpowder is the harder in feeling, by so much the better it is.
+
+2. Gunpowder of a fair Azure or French Russet color, is very good, and it may
+be judged to have all its receipts well wrought, and sufficient of the Peter
+well refined.
+
+3. Lay two or three corns of Gunpowder upon a white piece of paper, the one
+three fingers distant from the other, and put fire to one of them, if the
+powder be good and strong, you shall see them all on fire at once, and that
+there will remain no grossness of Brimstone or of Saltpeter, no not any thing
+but a white smoky color in the place where they were burned, neither will the
+paper be touched.
+
+4. If good Gunpowder be laid upon the palm of your hand, and set on fire, you
+will not be burned.
+
+5. Gunpowder that has a very sharp taste, has abundance of the Peter not
+well refined, and will moisten again.
+
+6. If white knots, or knots of a french russet color, shall remain after
+powder is fired, it is a sign that the Saltpeter was not well refined, but left
+full of salt, and grease; especially when the same knots shall in burning be
+dankish, and leave moisture in the place where the Gunpowder was burned.
+
+7. If hard, dry and white knots, or pearls, shall remain after the Gunpowder
+is set on fire, it is a sign that the Gunpowder is not well wrought, and it
+becomes every Gunner to beware of such powder, because if it does lie long in
+a Piece, it will wax so fine, that if you unload not the Piece, it will in his
+discharge endanger the Piece of breaking.
+
+8. If small black knots (which will burn downwards in the place where proof is
+made) remain after firing, they do show that the Gunpowder has not enough of
+the Peter, and that it is of little force or strength, and slow in firing.
+
+9. If a little heap of Gunpowder set a fire, does make a noise, rise up with
+great speed, and yield little smoke, it is a sign of very good powder.
+
+10. If the flame of fired Gunpowder shall rise up slowly, continue long, make
+little noise, and yield smoke in great abundance, it is a sign the powder has
+much Cole and Brimstone, and too little Peter.
+
+11. If Gunpowder burned upon a board shall black the same, it is a sign that
+there is overmuch Cole in that powder.
+
+12. When Gunpowder is moist, or full of the earth of Saltpeter, it is naught
+to be shot out of great Ordnance, for it shameth the Gunner which uses it.
+
+13. If Gunpowder be very black, it is either a sign that there is too much
+Cole, or that it is moist, and when you rub it upon white paper, it will black
+it more then other good Gunpowder will do.
+
+14. Amongst many sorts of powder to know the best, make a little heap of every
+sort, and then setting those heaps one from another, mark well when you put
+fire unto them, which of the heaps did soonest take fire; for that powder which
+will soonest be on fire, smoke least, and leave least sign behind it, is the
+best sort of Gunpowder.
+
+CHAP. 15.
+How to make excellent good match to give fire to any Ordnance, etc.
+
+TAke cords made of hemp that's not very fine, or of toe, which is better,
+although it will sooner consume, and let every cord be so big as a man's little
+finger; this done, boil the said cords in strong lie, ashes, and a little
+Saltpeter till all the lie be wasted.
+
+CHAP. 16.
+How to make an Engine to find what proportion of strength one kind of powder
+is in comparison of other powder.
+
+THe lid of this Engine is made to rise up in a straight line, and is as big as
+the box, and also hollow; on each side of the lid or cover, is a small hole for
+a wyre to pass through, and on one of the pillars of the Engine are little
+pieces of brass, or steel, so fitted that they may rise with a touch, and give
+way to the rising of the lid, and so soon as it is past, will hold it there,
+and will not suffer it to pass back again; the form whereof is here presented.
+
+labeled diagram of engine described in chapter 16 H
+
+G G
+
+D E
+
+F
+
+F
+
+G E
+
+C
+
+B
+
+A
+
+
+
+A The foot whereon the Engine stands.
+
+B The powder box, which has too small wyres passing from each side to the
+top, to keep steady the lid in its motion.
+
+D The lid, which has also two holes on each side for the wyres to pass through
+
+E the side of the Engine, which is divided, on which is placed at every
+division, one of those Pieces to slide up and catch the lid.
+
+FF The form of these catches, being either of steel or brass.
+
+GG The too wyres that guide the box lid, and must be put into a little piece
+of brass, at the top, which may be screwed higher or lower at pleasure, for the
+better straightning of the same.
+
+H The screw which straightneth those wyres, placed on the top.
+
+The use of this Engine.
+Take about one dram of such a sort of powder as you esteem to be the best of
+all others, and put it into the box, after it is covered with the lid, at the
+touchhole, which is in the bottom of the box, fire it with a red hot wyre,
+being first primed with powder dust; then observe how high and to what division
+it ascends, which being noted down, take just so much powder of a courser sort,
+and try that in like manner as you did the former; then by noting up to what
+degree it ascends to, you may perceive the just difference between your best
+and worst powder; and by the same order of any other sort, as you shall desire
+to know its strength, and have occasion to use.
+
+But in the next Chapter, I shall describe some other ways, because every man
+cannot come by a good instrument to try the just strength of any powder.
+
+CHAP. 17.
+How to try the strength of Powder some other ways then is before rehearsed.
+
+IF you charge a Pistol, and discharge it against a bank of clay; do this with
+a little powder, always observing to take the like quantity to a grain of one
+sort of powder, as you do another sort: Then by measuring how far the bullet
+pierced in the clay, you may have some gess at the strength: also if you can
+make Rockets, such as fly into the air, and are made of Powder-dust, and
+Charcole-dust, by the strength or weakness of these you may know the like of
+powder.
+
+If you can get a little Mortar Piece (what a Mortar Piece is you may read
+anon) cast at the iron furnace where cast the iron is made, to get one made in
+such a place is no difficult thing: Let it be made about three inches Diam: at
+the mouth, and let the Chamber of the said Piece be three quarters of an inch
+Diam: and two inches and one third part of an inch deep, load the Chamber with
+about half an ounce of powder, but put no wad in after it, the reason is,
+because one wad may be bigger then another, which will cause error; then put
+into your Motter a Bullet of Lead or Iron that will just fit the bore: now if
+it be of Iron, it will weigh three pound and ten ounces, if of Lead, almost
+five pound: This Morter-piece being erected at a certain and unvariable
+elevation, and then being discharged, shall (by its several ranges) tell the
+exact difference of powder above any other instrument that can be invented, for
+by noting how many paces a shot rangeth, you shall find the true difference,
+and be able to set down the true and infallible proportion betwixt all sorts of
+powder whatsoever.
+
+Because you may fail in procuring one made at the Furnace where Iron is made,
+I will show you in the following Treatise, how you may make such a one which
+may serve your turn.
+
+Thus having in the foregoing Treatise set down by whom, at what time, of what
+strength and violence Gunpowder was at when invented; also how to make any sort
+of Gunpowder, and lastly to try its strength: I shall hence-following set down
+such Rules, that an ingenious man may learn to be a perfect Gunner, for I have
+omitted nothing that is necessary in that Art.
+
+CHAP. 18.
+Hence-forward shall be taught the Art of Gunnery: And first, what has been
+the cause why this Science is not of the like esteem as such a noble Art
+deserves, and who are the causers and disesteemers of it.
+
+THe true reason why this so famous an Art is at this present so slighted, is
+because diverse men for lucre of gains and good pay, have made friends, or some
+of them are friends and kinsmen to such as have authority to place and displace
+Gunners; and when such men as these should do service against the Enemy with
+their Guns, they bewray themselves what they are, which makes some as ignorant
+Commanders (as they themselves are ignorant Gunners) to say, I could have made
+a better shot my self; I do not think but I could level a piece with the best
+Gunner in England; it is as easy to shoot in a great Gun as in a Musket; what
+need is there of maintaining any to be Gunners, considering we may have men at
+the twinkling of an eye to do as good service, and are as good Gunners as
+these; such speeches are usual, when tidings of little or no service comes to
+the knowledge of such Committees and Governors (they never find fault with
+themselves) that choose those Gunners, because diverse of them are their friends
+and kinsmen, but lay all the blame on the Art saying, It is unprofitable, it
+spends more powder then does good service; scarce ever considering what a good
+Gunner may do: I appeal to any reasonable man's judgment, whether so good
+Music can be expected from him who never touched Instrument, as from him
+which has served and practiced above seven years in that profession? if an
+Instrument be naught, the Music cannot be very good; likewise if a Gun be
+naught, it cannot work good effects: as in Music, if any strings be wanting
+it is defective; thus in Guns, if materials be wanting, no reasonable man can
+expect the like service, as when nothing is wanting, though it be at the hands
+of a good Gunner.
+
+It is an evident thing, that if the shot hit such a mark (where execution may
+be done) that the effect will be according to every ones desire: It is also as
+evident, that the Art of Gunnery does teach how, and with what Piece to hit any
+mark in its command: And it is also as evident, that such Gunners may be found
+which are perfect in the whole Art; therefore (I conclude) that it is most of
+all evident, that the fault is not in this Art, but in such Commanders,
+Committees and others which the King or Parliament trusts in their Army or
+Garrisons to make choice of Gunners.
+
+CHAP. 19.
+The Properties, Office and Duty of a Gunner.
+
+A Gunner ought to be skilful in Arithmetic and Geometry, to the end he may be
+able through his knowledge in those Arts, to measure heights, depths, breadths
+and length, and to draw the plot of any piece of ground, to make Mines,
+Countermines, Artificial Fireworks, Rampiars, Baskets of earth, and such like
+things which are used in the time of War, to be made for offensive or defensive
+service.
+
+A Gunner that has a charge, ought to have in readiness all necessary things
+for his Artillery, these are Wheels, Axeltrees, Ladles, Rammers, Sheepskins to
+make Spunges, Gunpowder, Shot, Tampions, Chain shot, Cross bar-shot, Canvas, or
+strong paper (to make Cartredges) Fireworks, artificial Torches, dark
+Lanthorns, a gin to mount and dismount Guns, Hand-spikes, Coyns, Budge-barrels
+to carry powder, and Baskets to carry shot to your Piece; he is always, when
+leisure will permit, to choose good Matchcords, to arm his Linstock wherewith
+he must give fire.
+
+A Gunner should never be without a Ruler and Compasses to measure the Diameter
+or Bore of every Piece; and also the length of the Cylinder within, the better
+to fit her with a shot, and proportion a charge.
+
+A Gunner ought to know the names, length, weight and fortification of every
+Piece about the Chamber (that is, so far as the Piece is laden with powder)
+and be able to tell readily how much Gunpowder is a due charge for every Piece,
+what shot is fit, how many Matrosses must attend the same upon service, how
+many Horses or Oxen will draw the said Piece, and in case they cannot be had,
+how many men will serve: And lastly, he should know how to charge and discharge
+Gunner like.
+
+A Gunner ought not at any time to beat up the head of his powder barrels with
+an iron tool, but with a wooden mallet, which can never fire the same.
+
+Every Gunner before he begins to shoot, ought to consider, that a long wad
+of Hay, or of untwisted Ropes, will make the shot to shoot wide of the mark.
+
+Every Gunner before he begins to shoot, ought to consider, whether the
+Trunnions be truly placed in the Carriage, whether the Carriage have a true
+length, whether one wheel be higher or reverse faster then the other, whether
+the platform whereon the Piece is to do service, be level, or not; if not, to
+get the same amended: Lastly, to make clean the platform, that no stone or
+other thing lie for the wheels to run upon, for all these things not well
+observed, will cause the Piece to err.
+
+Every Gunner before he loadeth his Piece, must try whether it be true bored or
+not; if not, he is to proportion his charge according to the thinnest side of
+the metal; he must take his observation at the brich of the Piece, just over
+where he shall find (by his art) where the middle of the bore within the Piece
+is; by this means he shall make a good shot, out of a bad Piece.
+
+Every Gunner before he makes his shot, ought to consider that if the Piece lie
+point-blanck, or under metal, he ought to put in a sufficient wad after the
+shot, to keep it close to the powder; for if it should not be close, but some
+distance between, the Piece would break in the vacant place: but if in case you
+mount your Piece, then put no wad after the shot.
+
+And one chief thing in the last place, to know very well how to dispart his
+Piece, be it either true bored, or not true bored, which he may try first.
+
+CHAP. 20.
+What qualifications every man ought to have, when he first gets or obtains
+(from such as are in Authority) Commission to be a Gunner.
+
+HE ought to have skill in the Arithmetic, to Add, Subtract, Multiply,
+Divide, to work any conclusion by the single or double Rule of Three; to
+abstract both the Square and Cube Roots, and to be perfect in the Art of
+Decimal Arithmetic: To touch these things I need not, being learnedly treated
+of by Mr. Record, Mr. Johnson, and best of all by Jurdans Arithmetic; all
+which Books are easy to be had, and at a cheap price: Whosoever has not these
+qualifications, and no desire to learn them, he shall never be good Gunner;
+therefore I boldly affirm, That no honest man takes upon him this profession
+(but such as are thus learned) for it is not the duty of an honest man, to
+undertake that (for the King or Parliament service) as he is not able to
+perform.
+
+When a fit man is entertained, the Master Gunner whom he serves should bring
+him to his Piece, and give him the denomination of every particular part, and
+other necessary things belonging to his Piece; which when he has perfectly
+learned (which is the Base-Ring, the Trunnion-Ring, or Rings, the Trunnions,
+the Mussel-Ring, the Handspikes, the Coyns; and also described how far in the
+Bore is called the Chamber of his Piece) he may, these things understood,
+proceed as follows.
+
+CHAP. 21.
+How to make the true Dispart of any (true bored) Piece of Ordnance.
+
+GIrt the Piece round about the Base-Ring at the britch with a third, and also
+the Mussel-Ring at the mouth; lay these two strings upon a Table at length, and
+make two marks for the length of each string; divide the distance between each
+of these two marks into Twenty two equal parts, with your compasses, and seven
+of them is the just Diameter; then measure with your compasses how many inches,
+and parts of an inch, each of these Diameters are; subtract the greater
+Diameter out of the lesser, and take the just half of the difference, and that
+is the true Dispart, in inches and parts of an inch.
+
+Example. Suppose when I have measured the length of each string, and divided
+it into Twenty two equal parts, I find that seven parts of the longer string
+are ten inches, and seven parts of the shorter are Eight inches; I subtract
+eight out of ten, and there remains two, the just half of this is one, which is
+the true Dispart.
+
+Another way to Dispart any Piece.
+Take two sticks (each of them must be longer then the Diam: of the Piece) and
+also make a plummet of lead to hang in a small third, put one of the ends of
+the stick, which you shall lay across the top of the Base-ring, to and fro,
+until the plummet descending from the end thereof, may just touch the side of
+the metal of the said Ring; then keeping fast the stick in that place, hang
+your plummet by the other side of the stick, until it just touch the metal of
+the Base-Ring on that side; when you have thus done, cut off the stick just at
+that place from whence the plummet descended perpendicularly; and this length
+is the just Diameter of the Base-Ring, upon this manner you must make the length
+of the Diameter of the Mussel-Ring: Finally, put these sticks together, and
+find the difference, the just half thereof is the true Dispart: But I could
+advise the ingenious a cannon Practitioner to try both ways, and in case he
+finds any difference, to try and try again, otherwise he may be deceived: For
+the better understanding of this conclusion, I have here prefixed the
+demonstration.
+
+A third way to Dispart a Piece of Ordnance.
+If the Piece be not Chamber-bored, take the priming iron, and put it down in
+the touchhole, until it stop at the metal in the bottom of the bore, there
+make a mark level with the Base-Ring, apply the priming iron to the bottom of
+the metal at the mouth, and so much higher as the mark is (which you made at
+the Base-Ring) then the Mussel-Ring, so much is the true Dispart.
+
+CHAP. 22.
+An observation to know whether your Piece be Chamber-bored.
+
+FIrst, Dispart the Piece the two first ways, and when those two ways agree in
+one, take that for the true Dispart; then with your priming iron take the
+Dispart this last way; which done, compare it with the other Dispart first
+found, and what it wants is the just difference of the Chamber from the Bore of
+the Piece: Suppose the Dispart truly found by the two first ways be three
+inches, and by this last way to be but two inches, it shows that the Chamber
+differs from the true Bore on each side one inch; so that if the Bore of the
+Piece be six inches high, the Chamber being one inch on each side lower, is but
+four inches high: This observation I would always have you to make, that you be
+not afterward deceived, in making Cartredges of Paper to load the same withal.
+
+CHAP. 23.
+To know what Diameter every shot must be of, to fit any Piece of Ordnance; or
+to choose shot for Ordnance.
+
+DIvide the Bore of the Piece into Twenty equal parts, and one of these parts
+is sufficient vent for any Piece; the rest of the nineteen parts must be the
+height of the shot: But most Gunners now adays allow the shot to be just one
+quarter of an inch lower then the Bore of the Piece; which rule makes the shot
+too big for a Canon, and too little for a Faulcon; but if the mouth of the
+Piece be grown wider then the rest of the cylinder within, by often shooting;
+to choose a shot for such a Piece, you must try with several Rammer heads,
+until you find the Diameter of the Bore in that place where the shot uses to
+lie in the Piece; and a shot of one Twentieth part lower then that place, is
+sufficient.
+
+Every Gunner ought to try his Piece, whether it be not wider in the mouth then
+the rest of the Chase, and then proceed to choose his shot.
+
+CHAP. 24.
+To find what flaws, cracks and honycombs are in Pieces of Ordnance.
+
+SO soon as you have discharged a Piece of Ordnance, cover the mouth of the
+Piece close, and stop the touchhole at that instant; by this you may know if
+any unknown cracks or flaws do go through the metal, for if they do, a visible
+smoke will come through those cracks and flaws.
+
+Also it is a good way, when the Sun shines, to take a steel (or other)
+Looking-glass, and with the same, reflect the beams of the Sun into the mouth
+or hollow Cylinder of the Piece; for by this means a bright and clear light
+will be within, and by that splendious light you shall see every flaw, crack or
+honycomb.
+
+But in case the Sun does not shine, take a stick, somewhat longer then the
+piece, having cloven one end of the said stick for to hold an end of candle,
+put the said stick, with the candle lighted, into the Piece; by this light
+observe, so well as you can, whether from the one end to the other, there be
+any of the aforesaid in the Piece.
+
+Also, if (in striking a Piece of Artillery upon the outside of the metal with
+an iron hammer) you shall at any stroke hear a hoarse sound, then without doubt
+there are honycombs, etc. but if you so striking the Piece shall at every
+stroke hear a clear sound, assuredly the Piece is clear of any dangerous flaws
+cracks or honycombs.
+
+CHAP. 25.
+How to find the Diameter of any round shot, by the circumference.
+
+cannonball and calipers
+
+YOu must gird the shot with a line, then divide that line into twenty two
+equal parts, and Seven of those parts is the Diameter or height of the shot.
+
+But the best way to avoid al mistakes is to take the said height or Diam: of
+the shot with a pair of Callaper compasses, as you may see by this
+demonstration.
+
+Also by such a pair of Callapers you may find the Diam: of the Base-Ring, and
+of the Mussel-Ring, of any Piece of Ordnance; and by taking half the difference
+of those two Diameters you may make the dispart.
+
+CHAP. 26.
+How by knowing the height and weight of one bullet, to find the weight of
+another bullet, the height being given.
+
+A Bullet of iron of six inches hie, weighs thirty pounds; what will the like
+bullet of seven inches in height weigh? Resolution, first, Multiply six
+cubically, then multiply seven cubically; then as the cube of six, is in
+proportion to the cube of seven; so thirty pounds (the weight of a shot of six
+inches high) is to so many pounds as a shot of seven inches high will weigh.
+
+Example. First, I multiply six cubically, there arises two hundred and
+sixteen, then I multiply seven cubically, which is three hundred forty nine;
+then I say, as two hundred and sixteen is to three hundred forty three, so
+thirty (the weight of six inches high) is to forty seven pounds, ten ounces,
+and one quarter; the weight of a shot seven inches high.
+
+How to help those that cannot abstract the cube root (to resolve this
+proportion) two several ways.
+The first way is, to learn the use of a Table of cube roots, which I have
+annexed for the use and help of such as cannot extract the cube root, because
+my book should be as profitable an help as any Book ever has yet been; for by
+this Table, you may learn to work almost any conclusion, as well as if you
+could extract the Root, and with more case.
+
+An excellent Table to find the Cube root of any number not exceeding 1000000.
+The root. The cube. 1 1.95 1 3.37 1 5.36 2 8 2 11.39 2 15.62 2 20.80 3 27 3
+34.33 3 42.82 3 52.73 4 64 4 76.77 4 91.12 4 107.17 5 125 5 144.90 5 167.37 5
+190.11 6 216 6 244.14 6 274.62 6 307.55 7 343 7 381.^8 7 421.87 7 465.48 8 512
+8 561.51 8 614.12 8 669.92 9 727 9 791.45 9 857.37 9 926.89 10 1000 10 115.76
+11 1331 11 1520.87 12 1728 12 1953.12 13 2197 13 2460.^7 14 2744 14 30275 25 15
+3375 15 3724 16 4096 16 4492 17 4913 17 5359 18 5832 18 6332 19 6859 19 7415 20
+8000 20 8615 21 9261 21 9938 22 10648 22 11390 23 12167 23 127^8 24 13024 24
+14705 25 15625 25 16581 26 17576 26 18609 27 19683 27 20797 28 21972 28 23149
+29 24389 29 25672 30 27000 30 28372 31 29792 32 32768 33 35937 34 39304 35
+42125 36 48656 37 50653 38 54872 39 55419 40 64000 41 68921 42 74088 43 79507
+44 85184 45 91125 46 97336 47 103823 48 110592 49 117649 50 125000 51 135651 52
+140608 53 148877 54 157464 55 167375 56 175616 58 195112 59 205379 60 216000 61
+216981 62 238328 63 250047 64 262344 65 274635 66 287496 67 300753 68 314432 69
+329199 70 333000 71 357911 72 373348 73 389017 74 405224 75 421875 76 438276 77
+456533 78 474522 79 493039 80 512000 81 531441 82 550408 83 571787 84 592604 85
+614125 86 646056 87 648303 88 68^472 89 701669 90 729000 91 753571 92 778688 93
+804357 94 830584 95 857375 96 884736 97 615673 98 941192 99 970299 100 1000000
+
+To work the last proposition by the Table.
+First, In place of multiplying 6 cubically, find 6 in the Table, and right
+against it you shall have 216, which is the cube of 6; then find 7 likewise
+under the title Root, and under the title Cube you shall find 343, the Cube of
+7; then consider, that so much as 216 is in proportion to 343, the like
+proportion 30 is to 47 pounds and ten ounces.
+
+There is much about seven cube inches of iron in one pound; by this rule you
+may find 7 thirty times in 216 and 7; you may find seven to be contained in
+343, just forty nine times, but this rule is not so perfect as the former,
+because in subtracting seven out of 216, you shall find thirty pounds and 6/7
+parts, which is too much by the fraction.
+
+CHAP. 27.
+How by knowing the height and weight of one shot, to know the height of any
+other shot, the weight being given.
+
+SUppose the height of the shot be three inches and three quarters, and the
+weight seven pounds five ounces; I would know what a shot of sixteen pounds
+would be in height, according to the same proportion? First, find the Cube
+root of three inches three quarters, which you may do by the Table; then as the
+seven pounds five ounces is to the Cube of 3, so sixteen pounds is to such a
+Cube, whose root is the height of the shot sought for.
+
+Example By the Table I find the Cube of three inches three quarters to be 52,
+and 73 hundred parts of one unit (for all the fractions are so many parts of
+one unit, the said unit being divided into 100 parts) then as seven pounds five
+ounces (the weight of a shot of inches 3 diam:) is in proportion to 52 73 the
+Cube of inches 3 the height of the said shot; so 16 (the weight of that shot
+whose height you seek) to 115 the Cube, whose root being found in the Table, is
+four inches three quarters, and somewhat more: for in the Table, the nearest
+number to 115, is 107, the just Cube of four inches three quarters; and this
+number 115 exceeding the former by eight, this shows that it is a very small
+deal higher, scarce one half quarter of an inch: And you may also perceive by
+the last rule in the 26 Chapter, that seven inches cubical make a pound: now
+finding this to exceed 107 (the Cube of 4) eight cubical inches, you may
+conclude, that it is one pound, and one seventh part of a pound heavier then a
+shot of just four inches three quarters height.
+
+CHAP. 28.
+To find what proportion is between Bullets of iron, lead and stone; and by
+knowing the weight of one shot of lead, to find the weight of any other shot
+of iron, brass or stone of the like Diameter.
+
+THe proportion between lead and iron, is as two to three; so that a shot of
+three pounds of lead is of the like Diameter or height as two pounds of iron.
+
+The proportion betwixt lead and brass, is as twenty four to nineteen.
+
+The proportion between lead and stone, is as four to one; so that one shot of
+lead of forty pounds, is of the height as a stone shot of ten pounds.
+
+The proportion betwixt iron and brass, is as sixteen to eighteen.
+
+The proportion betwixt iron and stone, is as three to eight; so that a shot of
+thirty pounds of stone, is as big as the like shot of eighty pounds iron.
+
+The Reader taking these proportions into consideration, and having knowledge
+in the Art of Arithmetic, may with ease calculate (if iron shot be wanting,
+and the other to be had) what height and weight either shot of lead, brass or
+stone, ought to be of, to fit any Piece of Ordnance: But for such as are not
+acquainted with Arithmetic, to calculate these proportions, for their help I
+framed a Table, that does show the weight of any shot of lead, iron and stone,
+from two inches Diameter, to eight inches, dividing every inch into quarters.
+
+I do confess that some sort of stone is much heavier then other; but such as
+you ought to use, should be that which is most compact, as Marble, Pibble
+stones also may be found which are round, and hard blew stone, such as diverse
+Tombs are made of, it being somewhat courser then Marble; all these to my
+knowledge are much about that proportion as I have given: But such as is soft,
+as Freestone, and the like, they are not so pondrous as the other, nor so fit
+for use: Also lead, the finer and nearer to tin, the less weight it is.
+
+You are to note, That in loading your Piece with a shot of stone, you are not
+to load the Piece with so much powder as you did formerly with iron shot, but
+abate, according to the proportion as is between stone and iron.
+
+CHAP. 29.
+A Table to find the weight of any shot of Iron, Lead or Stone, from two to
+eight inches Diameter, exactly calculated.
+
+Inches and parts of inch Lead. Iron. Stone. poun. ounc. poun. ounc. poun.
+ounc. 2 1 10 half. 1 1 0 7 2 one quart. 2 6 1 9 0 9 2 and a half. 3 3 2 2 0 12
+2 three quar. 4 5 2 14 1 1 3 5 10 3 12 1 7 3 one quart. 7 2 4 12 1 13 3 and a
+half. 8 15 6 0 2 4 3 three quar. 11 0 7 5 2 12 4 13 7 8 15 3 6 4 one quart. 16
+0 10 10 half. 4 0 4 and a half. 18 15 12 10 half. 4 12 4 three quar. 22 5 14 14
+5 9 5 2 0 17 5 6 8 5 one quart. 30 2 20 1 7 8 5 and a half. 34 11 23 2 8 11 5
+three quar. 39 9 26 6 0 14 6 45 0 39 0 11 4 6 one quart. 51 0 34 0 12 12 6 and
+a half. 57 0 38 0 14 4 6 three quar. 62 0 42 0 15 12 7 72 0 48 0 18 0 7 one
+quart. 79 8 53 0 20 0 7 and a half. 87 0 58 0 22 12 7 three quar. 96 0 64 0 24
+0 8 106 8 71 0 26 10
+
+You may, if you please, look into the former Table of Cube Roots, and compare
+this with that; for you shall find the Cube of each number bear the like
+proportion one toward another, as the weight of each Bullet is to another of
+the same metal.
+
+Example.
+The Cube of 3 is 52 73.
+
+The weight of a shot of three inches three quarters, is seven pounds five
+ounces.
+
+The Cube of 4 is 107 117.
+
+The weight of iron shot of that height, fourteen pounds fourteen ounces; which
+is four ounces more, then double seven pound five ounces; so likewise twice 52
+73 is 105 146, which does not exceed 107 117 in being 10 doubled.
+
+The use of this Table is very easy; but to make it more plain by this
+Example, I would know all the aforesaid by three inches and three quarters
+Diam: I enter the Table under the Title inches, and parts of an inch, and right
+against it in the second column, you shall find a shot of lead of that height
+to contain eleven pounds: In the next you shall find a shot of iron to weigh
+seven pounds five ounces; and in the last under the title Stone, two pounds
+twelve ounces, the weight of a stone shot of that height.
+
+CHAP. 30.
+How to make a shot of lead and stone (the stone being put in the mould in
+which the leaden shot should oftenwards be cast) to be of the like Diameter and
+weight as an iron shot is of.
+
+I Have found by experience, That if you take five parts lead, and one part
+stone, it will come very near the matter, wanting not much above three ounces,
+which is nothing respecting the difference you shall find in Pibble-stones:
+Here I have framed a Table of how much lead, and how much stone must be
+together, to make the equal weight of iron shot, from one inch to eight every
+half inch.
+
+A Table to find how much Stone must be put in the mould for Leaden Bullets to
+make them weigh like Iron Bullets of the same Diam:
+Inches. Lead. Stone. both t'gether poun. ounc. poun. ounc. poun. ounc. 1 inch.
+0 1 0 0 0 2 1 and a half. 0 6 0 1 0 8 2 inches. 3 14 0 4 1 2 2 and a half. 1 12
+0 8 2 4 3 inches. 3 2 0 10 3 12 3 and a half. 5 0 1 0 5 0 4 inches. 7 7 1 8 8
+15 4 and a half. 10 8 2 2 12 10 5 inches. 14 7 2 14 17 5 5 and a half. 19 4 3
+12 23 0 6 inches. 25 0 5 0 30 0 6 and a half. 32 0 6 0 38 0 7 inches. 40 0 8 0
+48 0 7 and a half. 48 0 10 0 58 0 8 inches. 59 0 12 0 71 0
+
+CHAP. 31.
+How by knowing the weight of one Piece of Ordnance, to find the weight of any
+other Piece, being of that very shape, of the same metal, or of any other
+metal, by the Table of Cube Roots.
+
+IF the Piece be of the same metal that the Piece whose weight you know of,
+you must do this, first take the greatest thickness of your known Piece with
+your Callapers, and also of the Piece whose weight you know not; with their
+Diameters, enter the Table of Cube Roots; then observe, that as the Cube of the
+Diam: of the Piece (whose weight is known) is to the weight of the said Piece,
+so the Cube of the Diam: of the Piece (whose weight you seek) is to the weight
+sought for: But if the Piece be of another metal, first work as before,
+afterward as the difference of the metal iron and brass is between
+themselves, so the weight found by the first rule is to the true weight sought
+for.
+
+Example. A brass Saker of 1900 weight, has its greatest thickness eleven
+inches and a half, whose Cube is 1520.85 (as appears by the Table of Cube
+Roots) Now I find the Diam: of the other brass Piece, whose weight I know not,
+to be eight inches and three quarters; and by the Table I find the Cube to be
+669.92, then as 1520.85, (the Cube of 11) is to 669.92 (the Cube of 8) so 1900
+(the weight of the known Piece) to 837 pounds almost; but if the Piece had been
+iron whose weight you sought, then having done as much as before, first
+supposing as if it were brass, find the difference of the metals in Chap. 28.
+and the difference between iron and brass, will appear to be as 16 to 18, brass
+being the heavier; then say, as 18 (the weight of brass) is to 16 (the weight
+of a Piece of iron of the same bigness) so 837 (the weight of a brass Piece) is
+to 744, the weight of an iron Piece of the like shape and magnitude.
+
+CHAP. 32.
+How by knowing what quantity of powder will load one Piece of Ordnance, to
+know how much will load any other Piece.
+
+THis Chapter or Proposition is resolved almost like the former, for first you
+must find the Cube Root of the diameter of the bore of that Piece, whose
+allowance of Powder for a charg you know: and also the Diameter of the bore of
+the Piece, which you would know how much should load, or charge it, then by the
+Table find their Cubes, and as the cube of that you do know, is to the cube
+of that you know not, so the quantity of powder known, is to that sought for.
+
+Example. A Saker of three inches three quarters diameter of the bore requires
+four pound what will a Demicannon of six inches and an half require? the cube
+of three and three quarters is 52 and 73 hundred parts of an unite, and the
+cube of six and a half is 274, and 62 hundred parts: Then say evermore, as
+52.73 (the cube of three and three quarters) is to 274, and 62 hundred parts,
+(the Cube of six inches and an half) so four pound of Powder to load a Saker,
+is in proportion to 20 pound 13 ounces the Powder to load a Demicannon. You are
+likewise to understand that the Demicannon should be fortified so well as the
+Saker: the cube of the diameter of the Demicannon is 274, of the Saker 52, the
+weight of the Saker 1600, what should the weight of the Demicannon be; then say
+as before, as 52 (the cube of the bore of the Saker) is to 274 (the cube of the
+Demicannon bore) so 1600 (the weight of that Saker) is to 8431, the weight that
+such a Demicannon should be of, that can bear such a proportionable charge,
+according to the Saker: But suppose the Demicannon to be no more then 6000
+weight, then you must multiply 6000 by 20 pound and 13 ounces (the charge
+already calculated) divide by 8431 the weight, and you shall find 14 pound 13
+ounces, which is a sufficient charge for that Piece: thus you are always to
+take care of over-loading your Piece, which error diverse run into, when they
+call a Piece a Demicannon, they presently load her, with so much, as is allowed
+for such a Piece so named, seldom examining, whether the Piece have metal
+enough, for such a charge; by which mistake, they stand in danger of their own
+lives, and others too, which are about them; which may easily be prevented, as
+is above declared.
+
+CHAP. 33.
+To find whether a Piece of Ordnance be true bored or no.
+
+YOu must provide a Pike-staffe, about a foot longer then the bore of your
+Piece; and at the end thereof fasten a Rammer head, that will just fill all the
+bore under the touchhole, and at the other end of the staff you must bore a
+hole, big enough to put through a rod of iron, which must hang from the same;
+and at the other end of the rod, must be made a weight about the bigness of a
+Saker shot, this is done, to make the pike staff and rammer head, to lie with
+the same part upward, when they are taken out of the Piece, as they did, when
+the were within the Piece: then you must put your Instrument, thus prepared,
+into the Piece; letting the iron ball (that is at the end of the rod, which is
+put through the hole, bored acrosse the pike staff) hang perpendicular; then
+take your priming Iron, or some other Bodkin, and put it down the touchhole,
+to the rammer head; making a mark therewith, this done, draw out your
+Instrument; and lay the same on a long table, with the Iron ball hanging off
+the end, perpendiculer: as it did when this Instrument was in the Piece, then
+observe whether the mark you made upon the rammer head, when it was in the
+Piece, be just on the upermost part of the same, if it be; the bore at the
+Piece lies neither to the right, nor left hand; if you find it a quarter of
+an inch on the right, or left hand; so much lies the bore either to the right,
+or left; and the Piece in shooting must be ordered and charged accordingly.
+
+By this aforesaid, you may find whether the bore incline to the right or
+left: but to know whether it ly also upwards and downwards, and not in the
+middle, that way: To know this find the diameter of the Piece at the
+touchhole, as is before taught; then take a wire and bend it a little at the
+very end, that it may catch at the metal, when you draw it out of the said
+touchhole: after this wire is thus prepared, first put it in at the
+touchhole, till it touch the bottom of the metal in the Chamber, then
+holding it in that place, make a mark upon that wire, just even with the said
+touchhole, afterward draw up the wire until it catch at the metal on the
+top of the Chamber, and holding it there make a mark as before; the difference
+between the two marks is the just wideness of the Chamber, and the distance
+between the first mark, and the end of the wire (having half the diameter of
+the Chamber of the Piece subtracted from it) will leave half of the diameter
+of the Piece, if the Piece be true bored, but if this number be more then half
+the diameter, then the bore lies too far from the touchhole, and the upper
+part of the metal is thickest; but if less, the under part has most metal.
+
+Example. First, I find the diameter of the Piece to be 12 inches at the
+touchhole, then with my wire I find the bore to be in diameter four inches:
+to the bottom of the metal it is seven inches and an half; the half of the
+diameter or bore is two inches: which being added to the distance from the
+second mark on the wire, or subtracted from seven inches and an half the
+first mark; leaves five inches and an half, which is less then half of the
+diameter you first took, by half an inch: therefore as I said before, the
+greatest part of the metal is under the bore, and the Piece likest to break
+above, also when you make the dispart for that piece you are to make it half
+an inch shorter then before, the like observation you must have to make it
+longer, in case the metal be thickest in the upper part.
+
+Thus I hope I have given reasonable satisfaction concerning this point, and I
+am sure on that manner as was never taught before: the truth is, there was
+never any way taught before that could perform this thing, the piece lying in
+its carriage; and how laborious it is to handle a great piece out of a
+carriage, let Gunners judge: I made two such Instruments as are taught by
+Master William Bourne, in his Book, called The Art of shooting in great
+Ordnance, Chap. 2. but neither I, nor I believe himself, could ever use them,
+when the piece is in its carriage.
+
+CHHP. 34.
+A description of all sorts of Ordnance from the Cannon, to the base: of their
+weight, loding, shot, and all other things apperteining to them.
+
+Of the Canon.
+A Cannon is eight inches diameter in the bore, she is also commonly 8000
+weight, and about 12 foot long, the load of Cannon powder is two diameters of
+powder, which is 32 pound eight ounces: the shot seven inches and an half high,
+weyeth 58 pound: the length of the ladle 24 inches, and the breadth thereof 14
+three quarters.
+
+Of the Demicannon.
+Demicannons of the greatest size are six inches three quarters in diameter of
+the bore, the shot six inches and five eight parts of an inch in height,
+weighing 36 pound: the weight of the piece 6000 pound; and in length 12 foot:
+and requires for its charge in Cannon powder 18 pound, being near the silling
+two diameters of the pieces bore; the length of the ladle 23 inches, lack one
+quarter, and the breadth 12 inches.
+
+The ordinary Demicannon, the height of the bore is six inches and an half;
+the height of the shot six inches and one sixth part, the weight of the shot 32
+pound, the weight of the piece about 5600 pound; the piece is in length about
+ten or eleven foot; and her charge in powder is about 17 pound and 8 ounces:
+the length of the ladle is 22 inches, and the breadth thereof twelve: Anther
+sort of Demicannon, are in diameter of the bore six inches and a quarter; the
+height of the shot six inches, the weight 30 pound; the weight of the piece
+5400, the length sometimes twelve, sometimes ten, the charge in powder, 14 pound:
+the ladles length 20 inches, the breadth eleven and an half.
+
+Culverings.
+Culverings of the largest size diameter of the bore five inches and an half,
+of the shot five inches and one quarter, the weight of the shot twenty pound,
+of the piece 4800: their length ten, twelve, or thirteen foot, their charge in
+powder twelve pound eight ounces; which is near two diameters and an half of
+powder, the length of the ladle near sixteen inches, the breadth ten.
+
+Ordinary whole Culvering, the height of the mouth of the piece five inches and
+one quarter; the height of the shot five inches, the weight seventeen pound
+five ounces; the weight of the piece 4500: the length of the piece twelve foot,
+the load in powder eleven pound six ounces, the length of the ladle fifteen
+inches, the breadth nine and an half; with such a piece as last named, I found
+at the leagure before Worcester, that it carries 400 yards point blank, and
+800 by the metal.
+
+Culverings of the least size, the height of the bore five inches, the height
+of shot four inches, and three quarters; the weight almost fifteen pound; the
+weight of the piece 4000: the length twelve foot, the charge of it in powder
+ten pound, which is much about two diameter and an half, of the bore full: the
+length of the ladle fourteen inches, and one quarter, the breadth ninth.
+
+Demiculverings.
+The elder sort of Demiculverings, the height of their bore is four inches and
+three quarters, the height of the shot four and a half; the weight twelve
+pound and an eleven ounces, the weight of the piece 3000, the length sometimes
+ten, twelve, or thirteen, the charge forth this piece 8 pound and an half; the
+length of the ladle thirteen and an half, the breadth eight and a half.
+
+The ordinary Demiculvering, the bore four inches and an half, the shot four
+and one quarter, the weight ten pound and ten ounces and half; the usual
+weight of the piece 2700: the length ten foot, requires for her charge in
+powder seven pound and one quarter; the length of the ladle twelve inches three
+quarters, the breadth eight inches.
+
+Demiculvering lower then ordinary, the height of the bore four inches and one
+quarter; the height of the shot four inches; the weight nine pound, the piece
+2000 weight: the length nine or ten foot, their charge in powder six pound and
+a quarter: the length of the ladle twelve inches, the breadth eight.
+
+Sakers.
+Some Sakers of the oldest sort, cast in the reign of Henry the eighth, and
+Edward the sixth, are 4 inches in height at the mouth, the shot 3 inches 3
+quarters, the weight of the iron shot 7 pound 5 ounces, the weight of the piece
+1800, the lengrh either 9 or 10 foot, and requires for her charge in Cannon
+powder 5 pound, it being found by experience to be sufficient, the length of
+the ladle 11 inches, and the breadth 7 and a quarter.
+
+Sakers ordinary, the diameter of their bore three inches three quarters,
+height of the shot 3 and an half, weight six pound, weight of the piece 1500,
+length 9 foot, charge of cannon powder 4 pound, length of the ladle 10 inches
+and an half, the breadth 6 and three quarters.
+
+Sakers lower then the former, the diameter of the bore 3 inches and an half,
+the height of the shot 3 and a quarter, the weight 4 pound 3 quarters, the
+weight of the piece 1400, the length 8 foot, and burns in powder 3 pound 6
+ounces, the length of the ladle 9 and 3 quarters, the breadth 6 inches and an
+half.
+
+Minions.
+Minions of the largest size, are three inches and a quarter Diameter in the
+mouth, the shot 3 inches, the weight 3 pound and three quarters, but it were
+better if the shot were 4 pound weight, then it would not have too much vent,
+as one of 3 and 3 quarters has, the weight of the piece 1000, sometimes 800,
+the length 8 foot, comporteth in powder, if of 1000 weight, 3 pond and a
+quarter, if of 800, 2 pound and an half, length of the ladle 9 inches, the
+breadth 5.
+
+The ordinary Minion, the mouth 3 inches high, the shot should be 3 inches
+wanting half a quarter, the weight 3 pound and a quarter, the weight of the
+piece 750, the length 7 foot, the charge in powder 2 pound and an half, the
+length of the ladle 8 and a half, the breadth 5.
+
+Faucons.
+The height of the mouth of the piece 2 inches 3 quarters, the height of the
+shot 2 inches and 58 the weight, 2 pound and an half, the weight of the piece
+750, the length 7 foot, it burns in powder 2 pound and a quarter, the length
+of the ladle 8 and a quarter, the breadth of the plate 4 inches and an half.
+
+Fauconets.
+The mouth of the piece is 2 inches and a quarter high, the shot 2 inches and
+half a quarter high, the weight of the shot one pound 5 ounces, the weight of
+the piece 400, the length 6 foot, the charge one pound and a quarter, the
+ladles length 7 and an half, the breadth 4 inches.
+
+Rabanet.
+The Rabanet has in diameter at the bore one inch and an half, the height of
+the shot one inch and 38 the weight 8 ounces of Iron, and of Lead 12, the
+weight of the piece 300, the length 5 foot and an half, the charge in powder
+three quarters, the length of the plate of the ladle 4 inches and a quarter,
+the breadth 2 and an half.
+
+Base.
+The diameter of the bore of this small piece is one inch and a quarter, the
+height of the shot one inch and half a quarter, the weight 5 ounces of iron
+and 8 of lead, the weight of the piece 200, the length 4 foot and a half,
+length of the ladle 4 inches, plates breadth 2 inches.
+
+In all this Chapter I have made the ladle but three diameters of the shot in
+length, and three fifth parts of the circumference: From the Cannon to the
+whole Culvering, I allow the charge of powder to be about two diameters of the
+piece: From the Culvering to the Minnion, the charge to fill two diameters and
+an half: All from the Minnion to the Base, three diameters full of powder.
+
+CHAP. 35.
+Of iron Ordnance, what quantity of powder to allow for their loding.
+
+FIrst, you must calculate a charge of powder for the said iron piece, as if it
+had been a brass piece, and in case you have not the weight of the said iron
+piece, you must find it as you are taught in Chap. 31 of this book, when you
+have found as I have taught in Chap. 32, how much powder would load the same if
+it were of brass, then just three quarters so much is sufficient to load an
+iron piece.
+
+Example. A brass Saker of 1500 weight, requires four pound, what will an
+iron Demiculvering of 2800 weight require, you shall find that such a
+Demiculvering of brass would have required 7 pound and an half as in Chap.
+32. as thus, the Cube of the bore of a Saker, three inches and three quarters,
+is 52 73 of the bore of a Demiculvering four inches and a half is 91 12; then
+if 52 73 require four pound, what will 91 12 require (the cube of the
+Demiculvering) you shall find six pound 15 ounces, so much shall serve for a
+brass piece, if so well fortified as the Saker, the which we will likewise
+examine, as 52 73 (the cube of the Saker bore) is to 91 12, the cube of the
+Demiculvering bore) so 1500, the weight of the Saker, is to 2592, the weight
+that such a Demiculvering should be of, that burns six pound 15 ounces of
+powder: to find what a Demiculvering of brass of 28 hundred will require say
+thus, if 2592 require six pound 15 ounces, what will 2800 ask? multiply, and
+divide, and you shall find 7 pound 8 ounces; of which number you must take
+three quarters for a charge for the said Iron Demiculvering, being 5 pound ten
+ounces a sufficient quantity to load such a piece withal.
+
+Also what ever you find in the 34 Chapter for Brass pieces, take three
+quarters thereof for the charge of your Iron piece, if it be near that weight.
+
+CHAP. 36.
+To know what quantity of powder should be allowed to a Piece not truly bored.
+
+SUppose the diameter of the metal of the Piece at the touchhole be 16
+inches, and the diameter of the bore five and a quarter, the weight of the
+Piece 4850; or as you may find by Chap. 31. such a piece you may find by the
+Rule of Proportion, in the 32 Chap. requires eleven pound for her due charge,
+being near two diameters of her bore in powder: by my Instrument spoken of
+before, I try whether she be true bored, and by the mark on the Tampion, at the
+end of the pike, I find the sole or bore to be one inch out of his place, or
+one inch from the middle of the metal, then I conclude, that the thinnest
+part of the metal, is inches 4 three eight parts: and the thickest side 6
+three eight parts: by which it appears that one side is just two inches thicker
+then the other side, as you may see plainly by this figure, where the line
+divided being the diameter; every division signifies one inch; the outward
+circle the out side of the metal of the Piece; the inner circle signifies
+the borer which you may see to lie just one inch from his true center, of the
+out-most circle; how to calculate a charge for this Piece you shall presently
+understand; you must suppose as if this Piece were fortified no more, but only
+so much, as the thin most part of the metal is: which here will appear to be
+4 inches and three eight parts of an inch, and the half of the diameter you
+shall find by adding half, that of the diagram of barrel with off-center bore
+bore 2 five eight parts, to the aforesaid number, to be just seven inches from
+A: the center of the bore in the figure to C the thinnest part of the metal
+the whole diameter being 14: the second diameter being found is the true
+diameter, which you must proportion your charge by: the former being 16 inches,
+if the bore had been placed in the true center: Then as the cube of 16, is to
+the cube of 14, so eleven pound of powder, (being the charge calculated before
+for a piece of 6 inches diameter) is to such a charge as shall suffice.
+
+Example. The Cube of 16 is 4096, of 14: 2744, then as 4096, is to 11, so 2744,
+is to 7 pound and almost 6 ounces, a sufficient charge for such a false bored
+piece.
+
+CHAP. 37.
+How to make Cartredges for Ordnance, and how to fill them by help of an inch
+Rule, to so many pounds and ounces as you please.
+
+TO make your Cartredges, take canvas, such as the powder will not creep
+through, and let it be in breadth (I mean that piece of cloth wherewith you will
+make one Cartredge) just three diameters of the Chamber of the Piece in breadth:
+and for the length you will find it by the filling of them, these being sewed
+together upon a mould; which must be a very little less then the diameter of
+the bore, and about 4 diameter long, upon this you may make paper Cartredges
+also: when they are made; yea are to fill them by the help of those two Tables
+following, the one showing how much powder will fill one diameter of the bore
+of the Piece, and the other how far in height of an inch Rule you must fill
+with powder, to make either one pound, two or three pound, as the title on the
+top will show you: you may use that of these two ways, as stands best with your
+convenience; and best befits your use: If you are to fill Cartredges for a
+Demicannon, and you find that the Demicannon is able to bear two diameters of
+powder in her load, by this Table over against 6 inches and an half Demicannon
+diameter: you shall find eight pound, eleven ounces and an half; to fill one
+diameter of the said piece: the double of which is 17 pound and 7 ounces, a fit
+charge for the piece.
+
+If you fill a Cartredge for a Saker with five pound of powder; to know how
+full 5 pound will make it look in the second Table, and first against three
+and three quarters Saker bore, you shall find 3 pound will fill 6 inches and 3
+quarters, in height of your Cartredge, and two pound more will fill 4 inches,
+and an half; which being added together, shows that your Cartredge is to be
+fitted just eleven inches, and one quarter for 5 pound.
+
+The Table of Diameter. The Table of Pounds. The first Table showing how much
+cannon powder will be contained in one diamet of the bore of any powd. The
+second Table shows how far either one two or three pound of powder will fill
+in the bore of any Piece, the Diameter of the bore being given. Inch. parts
+Pound ou^ Inch. part 1 Pound. 2 Pound. 3 Pound. Inch. par. Inch part Inch. part
+2 0 0 4 2 0 8 1 6 2 4 2 1.4 0 6 2 1.4 6 1.4 12 1.2 18 3.4 2 1.2 0 73.4 2 1.2 5
+10 15 2 3.4 0 101.2 2 3.4 4 1.6 8 1.3 12 1.2 3 0 0 131.2 3 0 3 1.2 7 9 1.2 3
+1.4 1 11.2 3 1.4 3 6 9 0 3 1.2 1 5 3.4 3 1.2 2 5.8 5 1.4 7 7.8 3 3.4 1 101.2 3
+3.4 2 2.4 4 1.2 6 34. 4 0 2 ^1.2 4 0 2 4 5 7.8 4 1.4 2 7 1.2 4 1.4 1 3.4 3 1.2
+5 1.4 4 1.2 2 14 4 1.2 1 1.2 3 4 5.8 4 3 4 2 6 1.4. 4 3.4 1 3.8 2 3.4 4 1.8 5 0
+3 15 1.2 5 0 1 1.4 2 1.2 3 3.4 5 1.4 4 9 1.2 5 1.2 5 43 4 5 12 1 1.16 2 1.8 2 3
+16 5 3.4 6 03 4 6 0 6 13 3 4 6 0 0 14.16 1 3.4 2 3.8 6 1.4 7 12 6 1.2 8 11 1.2
+6 1.2 0 12.16 1 1.2 2 1.4 6 3.4 9 12 3.4 7 0 10 14 1.2 7 0 0 10.16 1 1.4 1
+15.16 7 1.4 12 2 Whereas Fractions usually are placed one figure over the
+other, with a line between them, in this Table they are placed one by the side
+of the other with a point between the Numerator and Denominator; as thus, 1.2
+signifying one half, 5.8 five eight parts, etc. 7 1.2 13 6 1.2 7 3.4 14 12 1.2
+8 0 16 4 1.2
+
+To fill Carteredges for Minion, 3 pound; look in the second Table, and in the
+Collume of 3 pound; you shall have (right against 3 inches and one quarter
+Minion bore) 9 inches just, to be the height of the powder in the Cartredge,
+for the loading that Minion 3 pound.
+
+To fill for a Demiculvering, which requires 2 Diameters and an half for his
+charge; look in the first Table, right against 4 inches and an half, you shall
+find 2 pound 14 ounces; to fill one Diameter of the said Gun: which being
+doubled makes 5 pound and 12 ounces, and one half Diameter also added to that;
+makes the Charge to be 7 pound 3 ounces.
+
+Now having fully showed how to make powder, to try the strength of powder, to
+know what shot and powder is meet for every Piece: to find whether the Piece
+be true bore or not, to load a piece with discretion if not true bored: to make
+the dispart: and also to know the difference between Iron and Brass pieces: I
+shall come to touch how to make a good shot, either at point blank, or at
+randon; with as much ease and plainness, as ever was before taught by any
+whatsoever.
+
+CHAP. 38.
+How to give level with a piece of Ordnance, to make a shot at any mark
+assigned, within point blank.
+
+SEt your dispart on the Mussell ring, just over the center of the mouth of the
+piece; which you may best do, by putting a stick acrosse the bore, and
+dividing it into two equal parts, then with a plumb line hanging over the
+mouth of the Piece, being guided by the divided stick, you shall have a good
+aim, where to set your dispart; this being done, go to the Base ring, if the
+Piece be true bored, then find out which is the highest part, and middle of
+that ring, but if the Piece be not true bored, then find which part of the
+Base ring, is just over the Cylinder; and take that for your true line. When
+you have found out both the Dispart, and placed it, and also found what point
+in the Base ring is to answer it, then make some very small mark on the Base
+ring in that place, hold your head about two foot from the Base ring, and there
+you may best observe, as the Piece is travissing, when you are in a direct line
+with the Mark, this being done, give one of your Matrosses order, to raise, and
+fall the Piece with his Hand-spike, as you shall appoint him, until you can
+(holding your head about two foot from the Breech of the piece) with your eye
+perceive the mark at the Base ring, and the top of the Dispart in a direct
+line with the Mark you must shoot at: at that instant stop the motion of the
+Piece with a Coin, that it may remain as you have directed it: Then prime the
+Piece and give fire.
+
+Before you place on your Dispart, you are to observe whether the ground be
+level, on which the wheels of the Gun stand, if they are not one higher then
+the other: If the Trunnions are placed just over the Axtree of the Wheels or
+not: Whether one Trunnion lie higher on the Carriage then the other: Whether
+the Gun be truly placed in the carriage or not; I mean not swerving more to one
+side then the other: Whether the said Carriage be truly made or not: And
+lastly, whether the Axtree be placed just a cross the Carriage or not.
+
+How the Carriage of a Piece should be made.
+Measure the length of the Cylinder of the bore, and once and an half that
+length should be the length of the Carriage: Also measure the Diameter of the
+bore of the Piece, the Planks ought to be four of those Diameters in depth at
+the fore end, in the middle three and an half, and at the end next the ground
+two and an half, also they ought to be in thickness one Diameter: The wheels
+should be one half the length of the Piece in height, the Saker and Minnion
+wheels must exceed the former by one twelfth part; the Faucon and Fauconet, by
+one sixth part.
+
+If you find that the ground is not level, on which your Piece stands, and
+that one wheel is higher then the other, and the Trunnions out of due place,
+the Piece not lying truly in the Carriage, and that also not truly made, you
+must get these things amended, or else never look for good service from such a
+Gun, being so ill planted.
+
+CHAP. 39.
+How if the first shot (by reason of some fault spoken of in the last Chapter)
+do carry to the right, or left, or over, or under the Mark, to amend it in the
+making the next shot.
+
+AFter you have made one shot, and find the Piece carry just over the Mark,
+then do all as has been before taught again, and when as your Piece lies
+directly against the Mark, observe how much the last strock of the shot is
+above, the Mark, so much longer make your Dispart, that the top of it may be
+just seen from the Britch of the piece in a direct line with the strock of the
+shot, when it is of this length, then level your Piece with this new Dispart,
+to the assigned Mark: Give fire, and without doubt it will strike the same.
+
+If the first shot had struck under the Mark, then bring the Piece in all
+points as before to pass, mark how mueh of the Dispart is over the strock of
+the shot, and cut it just so short, as being at the britch you may discern the
+top of it, the mark on the Base ring, and the strock of the shot in a right
+line, when you perceive it is of such a length, level the piece to the
+assigned mark as at the first, then prime and give fire.
+
+If the first shot had struck on the right hand of the Mark, to mend it, you
+must level the Piece as formerly, you standing behind the britch of the
+Piece, observe the strock of the shot over the Dispart, that part of the Base
+ring as you at that instant look over in a right line toward the Dispart, and
+the strock of the shot, set up in that place a pin with a little soft wax on
+the Base ring, so this pin will be in a right line with the Dispart and strock
+of the shot: this being done, level your Piece to the Mark assigned, by this
+pin and the Dispart, and without question you will make a fair shot.
+
+For when you level by the metal of the base ring where the pin is placed
+and the mark, the piece standing at that direction, look over the top of the
+Dispart, from the notch in the Base ring, and you shall find the piece to lie
+just so much to the left, as the former shot struck to the right from the
+assigned mark, which should in all likelihood now strike the mark.
+
+But if the shot be both wide and too low, then you must use both directions
+above taught, to make the next shot: First regulate the Dispart by cutting it
+shorter, according as the shots mark is lower then the assigned Mark; when
+this is done, then proceed to my directions to mend shooting wide. These things
+done with care and diligence, cannot choose but mend a bad shot.
+
+CHAP. 40.
+Of the Cunners Quadrant, which is to be used in shooting at Randon, and what
+portion the Degree of a Quadrant is.
+
+YOU are to understand that every Circle great and small is divided into 60
+Degrees, the cause of this division is, because the Sun makes his motion in
+little more then 365 days, through the Zodiac or twelve Celestial Signs,
+which is a Year; now 360 is the next even number that can be divided into
+quarters and half quarters, fit for use, and the Sun dividing his Circle thus,
+does give example to all Mathematicians to divide all accordingly, a quarter of
+which Circle we call a Quadrant, containing 90 Degrees, you must have a ruler
+fastened to one side of such a quarter of a Circle or Quadrant, that must be
+put within the concave of the Piece, with a piece of lead at the end, to make
+the said rule lie close to the bottom of the metal within, the Quadrant
+hanging without, by the plumb-line you shall find how many of those Degrees the
+Piece is elevated unto, and the Quadrant being thus placed, you may mount the
+Piece to what Degree you shall find fit to shoot by.
+
+I will not make any figure of a Quadrant, or give other directions for the
+making of it, because they which want one may buy it in diverse places in
+London, but will proceed to teach the use thereof in Gunnery.
+
+Every one that will learn to shoot at Randon, must draw his Piece into a
+level ground, where first shooting level, he must observe that distance in
+feet or paces, then mount his Piece to one Degree, and mark where that shall
+graze: thus find the distance of every Degree, from the level to the 10th.
+Degree, and by these distances make a Table, to which annex the Degrees against
+the distances, by which Table you may (using the Art of proportion) find how
+far another Piece will convey her shot from Degree, to Degree: But in case you
+cannot have liberty, nor powder to do all the aforesaid, I will tell you what
+I have done my self, out of a Saker eight foot long, loded with three pound of
+powder, at the first shoot being one degree mounture, it conveyed her shot 375
+yards, or 225 paces: the next shot was at five Degrees Randon, at which
+mounture she conveyed 416 paces, and the next trial was at seven Degrees
+mounture, the Randon produced 505 paces, the last trial was at ten Degrees,
+which conveyed 630 paces, five foot to a pace.
+
+Whilst I made these shots I loded the Piece my self with loose powder exactly
+weyed, and weyed the wad, also I beat down the said wad with four strokes, so
+near as I could with the same strength I did the time before, also I let the
+Piece cool of it self, staying above half an hour betwixt each shot, I put
+no wad after the bullet because the Piece was mounted, I am sure if I had not
+taken all this care, I should not have profited by all these shots: When these
+were made, I tried the strength of the powder, the which I carefully noted
+down, also I kept some of it to compare again, when I should have other powder,
+these things I would advise every one to observe, that means to be cunning in
+shooting at Randon.
+
+It is the duty of a Master Gunner of a Town or Fort, to draw an exact
+description of the said Garrison, and of every object as lies near his Works
+within the reach of his Guns, by which means he shall not be troubled to take
+the distance, but be ready at all times to know the distance by his Map: then
+after he has made one shot, he by the Rule of Proportion may be able to make
+another shot to any distance he pleases, example, suppose I find the distance
+by my Map where the first shot grazed, to be 704 paces; the mounture of the
+Piece being four degrees, how much must I mount the piece to convey her shot
+900 paces, you must proportion these distances of Randon to those in my Table;
+say, if 407 paces require 370 paces, (as the Table has it at four Degrees of
+Randon) what number to be found in the Table, against that Degree which I must
+mount the Piece unto will 900 require. Multiply and divide, and you shall find
+473 which number is not to be found in the Table, but the next less is 461,
+against six Degrees, and the next greater number is 505, against seven Degrees,
+the difference between these two numbers is 44, which show that the Piece must
+be mounted at six Degrees and one third part, for to reach the distance of 900
+paces, because 461 is 12 less then 473, it being one third part almost of 44
+the difference.
+
+Here I present unto your view the Table of Randons which I made by my own
+observation, desiring every one if it be possible he can get powder, to make
+one by his own experience, and always remember to keep some of the same
+Gunpouder to try its proportion, as I have taught in the 16 Chap. with any
+other powder that afterward he shall have occasion to use, for this is one of
+the excellentest properties that belong to a Gunner, and without this knowledge
+he shall never be able to make good shot, because at the time of a Leagure he
+must often change his powder, at such a time I have had nine pound of one sort,
+as good as 15 of another sort, as both by shooting, and by my Instrument I have
+experimented.
+
+Degrees. Randons. 1 225 2 274 3 323 4 370 5 416 6 461 7 505 8 548 9 589 10 630
+
+CHAP. 41.
+How to make an effectual shot out of a Piece of Ordnance at Randon.
+
+EVery one that has charge of a Gun, must at one time or other obtein leave of
+his superiors, to make two or three shots at least out of his said Piece, and
+measuring the distance from the Platform to the first graze of the shot, you
+must apply it to my Table, and by the Rule of Proportion, as in the last
+Chapter, find what Degree you shall need to mount the Gun for any other shot
+at another time when you shall have occasion.
+
+First, When you come to your Piece, set your Boudge barrel on the wind hand
+thereof, and causing one of your Matrosses to hold the same aslope, thrust your
+Ladle into the same, filling it full of powder, and then strick it with a
+Ruler, (for by so doing, you may know just how many pounds and ounces you load
+your piece withal) then fixing your thumb just under the staff of the Ladle,
+thrust the same home to the Chamber of the Piece where the powder lies,
+turning the Ladle so, as your thumb be directly above the staff, and in so
+doing, the powder will empty it self out of the Ladle cleanly, then drawing
+out your Ladle, with the Tampion at the other end of that staff, thrust home
+the powder, causing your assistant to hold his finger or thumb close on the
+touchhole, then taking a close round wad of hey, or untwisted rope, thrust in
+the same with your Rammer head that is on the Sponge staff, (for if you should
+do it with that on the Ladle, it would soon loosen the plate of the Ladle) and
+with it give three or four good strokes, when you have thus done put in the
+bullet without any wad, because the Piece must be elevated.
+
+If you charge your piece with Cartredges, which I count the best way;
+providing, (that although they hold the like quantity of powder) they be all of
+one thickness; otherwise you shall find much deceit in shooting: slit it a
+little in that place, which must be conveyed under the touchhole; then put it
+home with the end of the Rammer, and afterward put home to it a good wad, then
+turn in the shot, the Piece being loaded, as I have taught you, take the
+distance to the mark, by such means as I teach in the 59 Chapter of this Book:
+and also observe, how many degrees the platform, is either higher, or lower,
+then your mark with your Quadrant: after you have done thus; and calculated
+what degree you must mount the Gun unto, to reach the mark, if the said mark be
+under the platform; subtract the profundity, out of the degrees of randon, but
+if the said mark be higher then the platform, add the degree of that altitude,
+to the degrees of Random: and at these corrected degrees, mount your Piece: by
+putting the Ruler of the Quadrant into the mouth of your piece, marking
+diligently until the plumb-line, which proceeds from the center of your
+Quadrant, cut those degrees and parts of a degree (unto which you are to mount
+the Gun) in the Circumference; Make your shot, for without question, you may
+either strike or come very near the mark.
+
+Example. Suppose that when you make trial of your Gun, as is spoken of in the
+beginning of this Chapter, you find that at seven degrees of Randon upon a
+level ground, the shot is conveyed 700 paces, you being called out upon
+service against a City, or other Fort, and being appointed to play your Gun
+toward it; you also finding it to beyond point blank; the distance being 560
+paces; also that the said place is lower then where you must plant your Gun, by
+one degree, and one sixth part, then to know the degrees of mounture, say, as
+700 paces (being the range of seven degrees, out of your Gun formerly) is to
+505 (the distance of Randon found in my Table of Ranges for seven degrees) so
+560 (the distance to the mark) is to 404; this number is to be found in the
+Table or the nearest number unto it; and against that the degrees: the parts of
+the degrees must also be found, by subtracting the nearest less number, out of
+the nearest great number: thus looking in the Table the nearest less number is
+370, the nearest greater 416: one subtracted from the other the difference will
+be 46:404 differs from 416 but 12 parts, which is a little above one quarter;
+so that your degree of Randon is four and three quarters; or five lack one
+quarter; because the mark is lower then the platform, subtract one degree and
+one sixth part or ten minutes out of four degrees, and three quarters, or 45
+minutes; and the remayn is three degrees and 35 minutes, the true height, to
+which your piece must be elevated, to reach the mark.
+
+If the shot graze either to the right or left, you are to mend it by the
+directions in Chap. 39, but if over, then you are to consider the distance, how
+much it is beyond; and the next shot abate so many minutes out of your
+mountures, as the distance beyond the mark does require; if short, you are to
+add to your mounture, as if the like number of paces that you shall find
+short, had been wanting to your distance, then proceed as before.
+
+Example. Suppose the shot graze over the mark 20 paces, substract this 20 out
+of 560 the distance, and mount the next shot according as if the mark were but
+540 paces distant.
+
+If 20 paces short, make the next shot at 580 paces, I mean at that degree that
+will reach so far.
+
+CHAP. 42.
+How to make another sort of Instrument, called the Gunners Rule: which will
+serve to elevate a Piece of Ordnance, with more facility then the Gunners
+Quadrant.
+
+BEcause the Quadrant aforementioned cannot be conveniently used at all times,
+for if the wind be high, you will have very much ado to make the plummet
+stand still, besides, it is a great trouble to take the profundity of a valley,
+and the altitude of a hill, when the mark is not level, also in field service
+you cannot use it, (but only in a Leaguer or out of a Garrison when it is
+beleagured) the plumb-line is overlong before it stands still: to remedy all
+this, the Gunners Rule was invented, the figure whereof you may see in the
+following page. This rule must be some 10, 12, or 14, inches long, according as
+the Gun will require, it must have a long slit down the middle thereof,
+dividing it almost into two, but only held together by a little piece at the
+head and the foot, which must be circular according to your Gun, as you may see
+in the figure, where the Instrument is described, standing upon the britch of a
+piece of Ordnance: in the middle of the small and narrow slit you must place a
+lute string, and upon that a beade, which you may move up and down at pleasure,
+or if you cannot get a lute string, you may use a good third instead thereof;
+this bead must be set to such an inch, as you find is agreeable to such a
+degree, that you must mount your Gun unto, in this figure, the bead is at four
+inches and half a quarter: on one side the slit must be placed a division of
+Inches and quarters or tenths of Inches, on the other side must be placed the
+Degrees and Minutes, when you shall find by the length of your Gun, how many
+Inches and parts goes to make one Degree. If you make this Ruler for See here
+the Gunners Ruler standing on the britch of a Piece.
+one only Gun, then you may place on the Degrees, but if for diverse Ordnances,
+then you must not figure the same, for the degrees once placed on, can serve
+but for one Gun.
+
+CHAP. 43.
+How to divide the Gunners Rule into Degrees, by help of a Table.
+
+IF you make your Ruler for one Gun only, I will here teach you to divide the
+opposite side (to that divided into Inches and tenth parts of Inches, that is
+every Inch divided into ten equal parts) into Degrees by the Table following,
+which Table is divided into 10 Columes for the ten degrees, and right before
+this division is the length of the Gun set down, which you must enter the Table
+withal, and just against it you shall have in how many Inches and parts of an
+Inch do make one degree, two degrees, three degrees, and so to ten degrees.
+
+A TABLE by which you may place the Degrees on the Gunners Rule, fitting it for
+any Piece from five foot long to fourteen foot long, and by help of which any
+Piece may be levelled to any degree without the help of a Quadrant, Ruler, or
+any other Geometrical Instrument whatsoever.
+The length of the Piece. 1 degrees. 2 degrees. 3 degrees. 4 degrees. 5 degrees. 6 degrees. 7 degrees. 8
+degrees. 9 degrees. 10 degrees. 5 Foot long. 1 3 3 6 3 8 4 11 5 14 6 16 7 19 8 22 9 25 10
+28 5 Foot and an half. 1 14 2 28 3 42 4 56 5 70 6 84 7 98 9 12 10 26 11 40 6
+Foot long. 1 22 2 44 3 66 4 88 6 10 7 38 8 58 9 78 11 8 12 29 6 Foot and an
+half. 1 36 2 72 4 8 5 44 6 80 8 17 9 53 10 89 12 25 13 63 7 Foot long. 1 47 2
+94 4 41 5 88 7 35 8 82 10 30 11 77 13 24 14 73 7 Foot and an half. 1 58 3 14 4
+71 6 28 7 85 9 42 10 99 12 57 14 14 15 71 8 Foot long. 1 68 3 36 5 4 6 72 8 40
+10 8 11 76 13 44 15 12 16 82 8 Foot and an half. 1 79 3 58 5 37 7 16 8 95 10
+74 12 53 34 32 16 12 17 92 9 Foot long. 1.89 13 79 5 68 7 58 9 47 11 37 13 27
+15 18 17 8 18 98 9 Foot and an half. 2 0 4 0 6 0 6 0 10 0 12 10 14 2 16 3 18 4
+20 4 10 Foot long. 2 10 4 20 6 30 8 40 10 30 12 61 14 73 16 84 18 96 21 8 10
+Foot and an half. 2 21 4 41 6 69 8 88 11 81 13 28 15 48 17 68 19 89 22 10 11
+Foot long. 2 31 4 62 6 93 9 24 11 56 13 88 16 20 18 51 20 82 23 14 11 Foot and
+an half. 2 42 4 84 7 26 9 68 12 10 14 53 16 95 19 37 21 80 24 21 12 Foot long.
+2 53 5 6 7 59 10 12 12 65 15 18 17 71 20 25 22 78 25 33 12 Foot and an half. 2
+63 5 20 7 89 10 52 13 15 15 78 18 41 21 4 23 67 26 33 13 Foot long. 2 74 5 48 8
+22 10 96 13 70 16 44 19 48 21 92 24 68 27 40 13 Foot and an half. 2 84 5 68 8
+52 11 36 14 20 27 4 19 88 22 72 25 56 28 42 14 Foot long. 2 95 5 90 8 85 11 80
+14 75 17 70 20 65 23 60 26 56 29 53 Place this Table in folio 20, little b.
+
+If your Gun be 12 foot long, two inches, and 53 hundred parts of an inch does
+make one degree, five inches, and six parts, (if the inch were divided into
+100) makes two degrees, etc. For I told you before, that you must divide your
+inch into ten parts, and for more exactness, suppose every one of those 10
+parts to be divided into ten more, which makes 100, all those parts set down
+in the Table, are such parts.
+
+CHAP. 44.
+How to give level to a piece of Ordnance, with the Gunners Rule, at any
+degree of Randon.
+
+THe piece being loded in all points, as is before taught, and you also having
+brought the piece in a right line with the mark, the Dispart being placed upon
+the mussle ring, place your Ruler upon the base ring, and having before all
+this, taken the distance to the mark, and found it to be 461 yards: the first
+shot you made out of that piece for practice conveyed her shot 274 yards, at
+two degrees mounture, according to the rules before taught, 461 yards will
+require six degrees mounture, then to find by this Table how many inches, and
+hundredth parts of an inch, six degrees will require, look in the last Table,
+finding on the left hand, in the first colume the length of the piece 12 foot
+just, under six degrees in the common angle you shall find 15 inches, and
+18.100 parts of an inch; which known, I set the bead that is on the string in
+the slit to 15 inches, and 13 parts, if the inch be divided into 100, and cause
+the piece to be moved either higher or lower, until you see the bead, the top
+of the dispart, and the mark, all in one line, stop the piece at that position
+with a coin, prime and give fire.
+
+If you would shoot by the metal of the piece without a dispart, subtract the
+length of the said dispart, out of the inches found in the Table, and the
+remainer mount your piece unto: if the dispart had been three inches long,
+that taken out of the inches found in the Table being 15. 18.100. will leave
+12. 18.100. to which height in the Rule without a dispart, you must mount the
+piece.
+
+CHAP. 45.
+How to make use of the last Table, to give level to a Piece of Ordnance
+without the Gunners Rule.
+
+IF you have not a Ruler nor Quadrant, and would make a shot just at five
+degrees elevation, look in the Table, and find the length of the piece, which
+admit to be nine foot and an half, right against this, in the angle under five
+degrees, you shall have ten inches, to be the length of any straight stick,
+which you may set upon the base ring, and level over the top of the said
+stick, as if it had been the bead in the Ruler, thus you may perform as much
+as with the Ruler, if you will have no dispart upon the piece, take it off, and
+lay it with the aforesaid stick, from which cut off its just length, the
+remainer you may use upon the base ring, for when you have the top of it, the
+metal of the mussle ring, and the mark in a right line, you cannot fail of
+making a good shot. If the dispart in this piece were two inches and an half,
+this cut from the length often inches, the number found in the Table, there
+will be left seven inches and an half, for the length of the stick, to be set
+on the base ring, to level the piece without a dispart.
+
+CHAP. 46.
+How to make a shot at the enemies lights in the dark night.
+
+WHen you shall have occasion to shoot at a light seen in the night time,
+dispart your piece with a lighted and unflaming wax candle, or with a lighted
+piece of match, that you may see by the light of the fire in the said Gunmatch,
+to lay the middle and upmost part of the metal, at the tail of the piece;
+the top of the match, and the mark in one line, when this is done, give fire.
+
+CHAP. 47.
+How to make a perfect shot in a dark night, at any mark that may be seen in
+the day time, within the reach of the Piece.
+
+IN the day time mount your piece (as you are before directed) to reach the
+appointed mark, and at that time place the mouth or concavity of the piece
+right upon the said mark, then put the ruler that is fixed to the Quadrant
+into the mouth of the piece, note what degree is touched in the Quadrant by the
+plumb-line, and set it down in writing, or else keep it in memory, after that,
+let fall a line and plummet down to the ground, from the middle part of the
+mouth of the piece, in the place where the plummet, touches the platform make
+a mark, then carry your line and plummet to the breech of the piece, and let
+it hang to the ground, from the middle part of the breech, there also where it
+touches the ground or platform likewise make another mark: between each, of
+these marks draw a line, and continue that line above two yards beyond each
+mark, this shall be called the line of direction. Now when you will shoot in a
+dark night with that piece at the same mark; charge the piece with the same
+quantity of powder; as you did when you found by experience that such a degree
+with you now must mount by, did hit the mark, and also with the like weight of
+shot, then bring your gun upon the line of direction, so that the middle of the
+mouth of your piece, and middle of the breech may be just over it, which you
+may bring to pass by help of the plummet, when this is done, elevate the piece
+so much by the Quadrant, as you did in the day time, and without question she
+will reach the mark as before.
+
+CHAH. 48.
+How to make a perfect shot at a company of horsemen, or footmen, passing by the
+place where Ordnance do lie upon a level ground, and also to make a good shot
+at a ship sailing up a River.
+
+WHen any horsemen or footmen shall pass by a place where a great piece of
+Artillery does lie, the Gunner must charge the piece beforehand, with good
+powder, and fit shot, to this end that the piece may go off so soon as fire
+is put to the same: also the Gunner in this case must lay his Gun truly
+disparted upon a level ground, right against some mark in their way, as
+against some tree, bush, or hillock, and best of all if it be upon some turning
+way, because in such a place they cannot depart very quickly, and when the said
+horsemen or footmen, shall come near unto that mark, or be in the turning way,
+the Gunner must discharge his said piece at them: Likewise when a Gunner will
+shoot at a ship sailing in a river, he ought to plant his piece toward a cloud
+or some evident mark on the other side the river, and give fire to his piece
+when the fore part of the Ship shall begin to be between the mouth of the piece
+and the mark.
+
+CHAP. 49.
+How to cause that the same quantity both of powder and shot, discharged out of
+the same Piece, shall carry close or more scattering.
+
+MAster John Bate in his Book of Extravagants, says, Take the quantity of a
+pease of Opium, and charge it amongst the case shot, and it will make the said
+case shot fly closer together, then otherwise it would, this Master Bate says,
+he learned of a Sea man, who had made trial hereof, as he says, and unto whom
+Master Bate sold some for that purpose; it is very probable, for Opium is of a
+congealing and fixative nature.
+
+CHAP. 50.
+How a shot which sticks fast within the concavity of a Piece, that it cannot
+be driven home unto the powder, may be shot out without danger to the Gunner,
+or hurt to the Piece.
+
+WHen a piece of Artillery is charged with such a Shot, as will not be driven
+home unto the powder, then the Gunner to save this piece from breaking, must so
+imbase the mouth thereof, that fair water for two or three days, being put in
+at the touch hole, at several times may run out into a vessel set under the
+mouth of the Gun, to save all the Salt Peeter that was in the powder, when
+these things are done, the Gunner must prime the piece and put so much in at
+the touchhole, as will serve to drive out the shot. But when a rusty shot has
+for a long time stuck fast within the piece, put strong Vinegar in the mouth of
+the piece, and with the rammer strike the shot till it do move, then pour the
+Vinegar out again, if it have soaked through the powder, then prime with a
+little fresh powder, and give fire, if the Vinegar could not pass by the shot
+amongst the powder, then moysten the said powder with some water or Vinegar,
+when it is yet danke and moist, prime the touchhole with good powder, and give
+fire.
+
+CHAP. 51.
+A merry conceit, how to charge a Peeece of Ordnance without Gunpowder.
+
+This may be done with air and water only, having put cold water into the
+concavity of the piece, filling one quarter of the Cylinder, put in after it a
+Tampion of wood as long as broad, perfectly made to fit the piece, with an
+oyled cloth about it, doubled either more or less, that it might be two men's
+strength to put it home, this done, put in the shot, elevate the piece a
+little, and make a fire under the hinder part thereof, the touchhole being
+very close stopped, then put the sponge of the piece in oil, and wet all the
+Cylinder of the piece with oil, that it may pass out the glibber: for when
+the fire has rarefied the water, it will burst out suddenly. The experiment
+which we have in long Trunks shooting out pellats with air only, proves this
+also.
+
+CHAP. 52.
+A Piece of Ordnance at one self same elevation, and toward one self same
+place, with the like quantity of powder and shot, discharged several times,
+what ranges it will make.
+
+I Have discharged a piece seven times in the space of 50 minutes, with the
+like weight of powder, shot, and elevation, and have found their ranges as
+following, the first shot was conveyed 416 paces, the second 436, the third
+440, the fourth 432, the fifth 425, the sixth 410, the seventh 394, so that the
+greatest difference from the first shot, was 24 paces, these things must be
+kept in perfect memory, by every one that learneth to shoot at randon, or he
+shall be never good at that practice. The reason of these things is this, at
+the first shot the bullet found the air quiet, and at the second shoot, it did
+not only find the air stirred with the first shoot, but also moving or
+tending toward the place at which it shot, and because it is more easy to
+move and penetrate that which is already moved and open, then that which is
+close and quiet, it follows that the second shot finding in his range a less
+resistance then the first did, will out-fly the first.
+
+A second reason is at the first shot the powder being put in the piece, does
+often times find the same somewhat moist, especially when it has not been shot
+in for certain days before, through which the powder will not fire quickly, as
+it does when the piece is dry and temperately warm, for this warmth or heat
+will somewhat dry up the moisture which is in the powder, and cause it to fire
+sooner; wherefore the powder does not work so forcibly in the first shoot as
+it does in the second, the third shoot and fourth will be much like the second,
+now I will give you the reason, why as the piece grows hotter, one shot will not
+out-shoot the last, before it, but every time come shorter and shorter.
+
+The piece waxing hotter, and by how much the more hotter, by so much the more
+attractive is the concavity of the piece made, and because the shot is driven
+forth, or expelled with no other thing then by the airy exhalation, or wind
+caused through the Salt peeter, therefore by making such a piece the more
+attractive with the more heat, which suppeth and reteineth continually more
+and more of that wind, which should serve to expel the bullet, the virtue
+expulsive in that piece, does continually more and more decrease, and the shot
+flies not with that swiftness as it did before; although the two first
+things, that is, the breaking of the air, and the drying of the powder every
+time more and more, does help much the range of the shot, which aid and help,
+as it is to be believed, that sometimes it supplyeth and perchance gives
+advantage by that expulsive virtue, which continually the piece does diminish,
+or sup in according as it heateth, so that the third and fourth shoots will not
+be much differing from the second shoot, nevertheless in continuance of time,
+the said two accidents (that is the opening of the air and drying the powder
+by the heat of the piece) cannot supply the third accident, that is, the virtue
+attractive, by reason the attraction is augmented as the piece heateth. This
+caused my sixth and seventh shoots to convey the bullet 22 paces shorter then
+my first It is reported by Nicholas Tartaglia, that many shoots being made at a
+battery by a piece, it chanced by some occasion, that the piece rose up in such
+sort that the mouth touched the ground, a little dog passing by, did smell unto
+the pieces mouth, and by so doing was fast joined to the pieces mouth, and
+immediately after drawn into the said piece: which thing, when the standers by
+had seen, some of them ran to help the said dog, and although they found him
+to be drawn almost to the further end of the concavity, they pulled him out
+almost dead: This was done by the virtue attractive.
+
+CHAP. 53.
+How many Horses, Oxen or Men will serve to draw any Piece of Artillery.
+
+FOr every hundred weight of metal, one man: so a Piece of 8000 pound weight,
+requires 80 men: besides so many more men as the Carriage may weigh several
+hundreds: for every 500 of metal use one horse, then 16 horses will draw a
+Gun of 8000 weight, but in the Winter 24, also 17 yoke of Oxen, is thought
+sufficient to draw a Piece of 8000 weight, but in the Winter they need to be
+one third part more.
+
+CHHP. 54.
+A description of the Instrument, wherewith the Reader must learn to take
+heights, depths, and distances.
+
+THis Instrument is four square, with a Circle in the middle, divided into 360
+degrees: the divisions on the squares, proceed from one; to ten; or from 10, to
+100, the figure you may see before you; you may call this Instrument a
+Circumferenter, or Geometrical Square.
+
+Sometimes you must use an Index, and at other times a Line, and Plummet,
+according as I shall (in the ensuing Treatise) give directions.
+
+diagram of instrument described in chapter 54 Versed Shad Right Shad versed
+Shadow Right Shadow the line fidutiall Versed Shad Right Shad Versed Shad Right
+Shad Place the Instrument between 36 and 37, little c.
+
+
+
+CHAP. 55.
+The use of this Instrument, to find the height of a Tower or Castle which is
+accessible.
+
+FIrst, holding one side of your Square Parallel to the Horizon, move the Index
+upward, till through the sights thereof, you perceive the top of the Tower, or
+Castle; then look what part is cut by the Index, upon the Square, if it be of
+Right Shadow, multiply the distance to the base or foot of the Tower by 100,
+and divide by the parts cut, adding thereunto the height of your eye from the
+ground, but if of contrary or versed shadow, multiply the distance from the
+middle of your foot by the parts cut, and divide by 100, not forgetting as well
+as before, to add the height of your eye from the ground.
+
+If you find it more covenienter to use ^he plumb line then the Index, do
+thus, fix the line upon the pin on which the Index did move, and make your
+observation through the sights on the side of your Instrument, marked with the
+letters A B, to the object you desire to know the aforesaid by, and the plummet
+line will cut the same division as the Index did formerly.
+
+Suppose the Index or plumb-line cut the 35th. division of the Scale of versed
+shadow, in making my observation toward the Castle or Tower, and the distance
+thereunto be 135 yards, what will the height amount unto: because it is of
+Contrary or versed shadow, then as you are taught before, multiply the distance
+from the middle of your legs to the base 135, by the parts cut 15, divide by
+100, and the height will be found to amount to 75 yards and one quarter, above
+your eye, whose height as it shall be found must be added to the aforesaid
+number.
+
+CHAP. 56.
+How to find the height of any Tower that is inaccessible.
+
+IF you would take the Altitude of any Tower, Wall, Hill, or other Edifice
+which is unapproachable, either in regard of the enemy lying between, or of
+some Ditch, River, or other impediment, you shall proceed as follows: first
+approach to the nearest and most convenient place for your purpose, where with
+your Instrument make observation; and note down, or remember what parts are cut
+in the Scale, you must then go back in a strait line, according to the
+commodiousnesse of the place, and make a second observation, noting as before,
+the parts cut in the Square, which will be either on the Right of Versed
+Shadow, if they fall both on the Versed Shadow, (which most often does happen)
+you shall divide the side of the Square severally by the parts cut; and
+substract the lesser Quotient from the greater, and by the remainder, divide
+the distance between the two stations, to that add the height of your eye from
+the Horizon, you have your desire.
+
+Example. Suppose the parts cut at the first station be 45 (Versed Shadow) and
+at the second 30, (both Versed Shadow) I divide the whole side of the Square,
+which is 100, by these two Sums severally, and find the one to be contained 2
+10/45 or in decimall parts thus, 2 222) the latter number is contained 3 or 3
+333, by the difference I divide the distance of the stations, substract 2 222
+out of 3 333, the difference will be 1 111, the Distance 24 yards, being
+thereby divided, the product will be 21 15, the height of mine eye 5 foot,
+these added will give the height, 22 yards, 2 foot, and 2 inches almost, of the
+said object.
+
+CHAH. 57.
+How to perform the same operation when the parts cut fall on the Right
+Shadow.
+
+WHen the parts cut in each station be of Right Shadow (which is very seldom)
+substract the lesser number of those from the greater, and put that in the
+first place: in The Golden Rule, or Rule of Three, the side of the Square in
+the second place, and the stationary distance in the third.
+
+Example. Let the parts cut in the first station be 30, in the second 40, of
+right shadow, substract the lesser from the greater, the remainder is 10, the
+which shall be put in the first place of the golden Rule, the side of the
+Square being 100, in the second, and the distance between the two stations
+seven, in the third place, so the Rule stands thus: As the difference of
+parts cut, is to the whole side, so is the difference of stations, to the
+height required, Or, as 10 to 100, so 7 to 70 the height.
+
+CHAP. 58.
+How to take an Altitude at a place unapproachable, when the parts cut are of
+different Shadows.
+
+IF the parts cut in the nearest station be of Right Shadow, and the furthest
+be of Contrary Shadow, they shall be both reduced to one Shadow, after this
+manner, square the whole side which is 100, and divide the product by the parts
+cut of the versed Shadow, and the Quotient will give the right Shadow: that
+being done, substract the lesser shadow from the greater, and the remainer will
+be the first place in the Rule of Three, the distance between the two stations
+shall be the second, and the side of the Square the third.
+
+Example. Let the parts of Right and Versed Shadow be both 30, I desire to
+bring them to be both Right: First, I square the whole side which here is 100,
+it makes 10000, that Product I divide by the parts cut of Versed Shadow, which
+is 30, the Quotient is 333, and one third part; from whence substract 30 the
+right shadow, out of 333 and one third, the remainder is 303 and one third, for
+my first Term, the distance between my two stations 13, for the second, and
+the side of the Square 100. for the third, The Rule stands thus, As 303 and
+one third, is to 13, so 100 is to 4 yards and 18 Inches.
+
+To take the height of a Tower or Castle standing on a hill.
+To perform this, you must first take the height of the hill at two stations,
+as of a thing unaccessible, and after the same manner, take the height of the
+Hill and Tower together, which being done, substract the height of the said
+Hill from the whole, the remainder will be the height of the Tower.
+
+CHAP. 59.
+How to find the Longitude or Distance to any place by the Square.
+
+I Desire to know the Distance to a Tower in the wall of a City, because of
+placing my Ordnance to dismount a Gun upon the same, I make choice of a
+convenient place for my station, where placing mine Instrument, I bring the
+Index to the point C, to lie just upon the line D C; written in the figure, The
+Line Fiduciall, because from this line proceeds the beginning of the Degrees in
+the Circle, and it is most used, the Index being on this Line, move the
+Instrument till you perceive through the Sights the Tower: letting the
+Instrument rest firm, turn the Index directly upon the other line marked with
+E G: look through the Sights, and if you can epsy any place or thing, that
+you can remember to find exactly, take that for your second station, if you
+cannot espy wherewithal to remember, cause one to go toward such a place,
+that you can see through the Sights, with a handkirchief in his hand, when you
+espy that, bid him drop it upon the ground, and go to that place, where set up
+your Instrument, and laying the ruler upon The Fiduciall Line, turn the
+Instrument until you can espy through the Sights your first station, then
+letting the Instrument stand firm, turn the Index until you can likewise espy
+the Tower through the Sights, and mark diligently what part it cuts in the
+Square, then: As the parts cut are to 100 (the Radix) so the distance between
+the two stations, is as the Distance required.
+
+Example. Suppose the parts cut were 5, the distance between the two stations
+30 paces, then as 5 is to 100, so is 30 to 600 paces, the true distance to the
+Tower.
+
+CHAP. 60.
+How to take the distance of diverse places at one time, by help of the Circle
+that is described within the Instrument.
+
+FIrst of all, find some convenient place in which set up your Instrument for
+your first station, and laying the Index upon the fiduciall line, turn the
+Instrument with the Index upon the aforesaid line, until you see such a place
+as you think most convenient, (for in this you may choose your second station,
+which by the practice in the last Chapter you could not do,) The Instrument
+thus fixed, epsy through the holes, every one of those places whose distance
+you would know, and write them down, I mean the degrees cut in the Circle, with
+the name of the place, always remembering to begin so far on the left hand, as
+you have any mark that way; when you have noted them all down according as I
+have taught, go to the second station, and place your Instrument there, lay
+the Index upon the fiduciall line, and look back to the first station, and
+epsy it through the holes, after this, be sure your Instrument be not stirred,
+then turn the Index to the first mark you took at the first station, and
+after observation made, note it down, as at the first time, when you have
+observed all the marks: take your Instrument away, go to a large Table, and
+with your Ruler draw a strait line, acrosse the Table, parallel to the Tables
+end, and about two foot one from another, describe two Circles, the former made
+line being a diameter to each Circle. First, divide the distance between the
+centers of the two Circles into so many equal parts, as there were paces
+between your two stations, then divide the Circles. In each center fix a needle,
+and tie to each needle so many silk thrids as you had marks, extend each of
+these at a great length, just cutting the degree in the Circle, that was cut in
+the Circle of the Instrument, when you made your Isntrumental observation,
+beginning first with the first mark, so proceed, and the end of every third
+which must be very long, fasten to the Table with a little soft wax, when you
+have fastened all the thrids thus, that are on the first needle, which
+signifies the first station, place those on the second needle as you did the
+other, with wax at their full extent, just over the Degree in the Circle, made
+on the Table, as you have noted was made upon your Instrument by observation,
+beginning with the first as you did before, and so likewise fasten them. Now to
+know the distance to these marks, look where the first string of one Circle
+crosses the first of the other, that place note for the first mark; look
+where the second crosses with the second, that note for the second mark; so
+likewise, for the third, fourth, etc. till you have noted all the marks down,
+then with a pair of Compasses measure the distance unto any mark in paces or
+yards, according as the Scale between the Circles is divided, and what distance
+you find to be, either between one mark and another, or between the stations
+and the marks, is the true distance between those marks, or between either of
+your stations and marks, in paces, yards, or feet, according to the division of
+your Scale, but if the first, second or third third, etc. in one Circle, do
+not tend to the same marks that you have noted in the observation, as the
+first, second, and third does in the other Circle, then you are to make the
+mark where two thrids cross that do tend to the same marks.
+
+An Example to clear and manifest the last Proposition.
+At such time as the Leaguer was before the City of Worcester, I took the
+distance by such means as I have before taught, to every remarkable place
+therein, by the aforesaid Instrument.
+
+First, finding a convenient place for the first station, and placing the Index
+upon the Fiduciall line, I marked where to make a second station: the
+Instrument standing immovable: The first and farthest mark toward the left,
+as I observed was Saint Peter's Steeple, the Index cutting 75 degrees, the next
+observation was made at the College Steeple, the Index cut 84 degrees, then
+Saint Hellens, the parts cut in that observation 102, my fourth mark was the
+lofty Spire of Saint Andrews, 104 degrees, the fifth mark was the new built
+Block-house, where formerly stood the Friars gate, the degrees cut were 106,
+the sixth observation was made toward the high Tower Steeple of All Saints,
+the Index cut 107 degrees in the Circle, the seventh object was the eighth
+square Tower Steeple of Saint Suthwins, 117, the eighth which was worth
+observation was the brick Steeple of Saint Nicholas, where the Index cut just
+120 degrees, the ninth observation which I made was toward Saint Martins
+freestone Steeple, where 122 degrees were cut, the tenth was made toward the
+Fore-gate, called of some the North gate, because of its situation North, here
+the degrees were 124, then I placed my Index upon or toward a rotten Tower in
+the walls of the City, ignorantly called the old Jail, upon which a gun was
+then placed, the degrees cut in this observation were 126, my twelfth and last
+observation was toward the liberty post standing amongst the desolate ruins
+of Fore-gate street, where the Index cut in the Circle 128 degrees.
+
+Having noted down all the aforesaid, I went to the second station, placed my
+instrument right for observation (by looking through the sights of the Index,
+it lying upon the fiduciall line to the first station) I began as before to
+make my observations, first of all at those places which lay farthest on the
+left hand, and so proceeded orderly to the right. Saint Peter's cut 40 degrees,
+the College steeple 48, the Block-house 55, Saint Hellens 61, Saint Andrews
+67, All Saints 72, Saint Suthwins 75, Saint Martins 78, Saint Nicholas 80, the
+old Jail, 81, Fore-gate 86, and the liberty post 95 degrees.
+
+The distance between the two stations is 360 paces: upon a Table board I made
+two Circles, and divided them into 360 parts, or degrees, or only the upper
+halves into 180 degrees, I placed two needles in each center one, and upon each
+12 thrids, first I extended the thrids in the Circles in the left hand, which
+signifies the first station, just over such degrees which were cut at time of
+observation, proceeding orderly, the first third for Saint Peter's, the second
+for the College, the third for Saint Hellens, etc.
+
+When you have placed all the thrids which are on the first Needle, do the
+like with the thrids upon the second Needle, beginning first toward the left
+hand with Saint Peter's, next the College, the third the Block-house, the
+fourth Saint Hellens, the fifth Saint Andrews, etc. all the thrids being
+placed, look where the third of the same mark in both Instruments cross one
+another, just there make a prick for the mark: as for Example, the third of
+the Block-house is the fifth in th first Circle, and the third in the second,
+where these two cross is the block-house, measure with the compasses according
+to the Scale, between the center of each Circle, and you shall find the said
+Block-house to be distant from the firsr station 400 paces, from the second 476
+paces, from Saint Peter's 197 paces, from Saint Andrews 203, from the Fore-gate
+304, and from the liberty Post about 400.
+
+The distance between All Saints Steeple and the first Station is 680 paces,
+between it and Saint Andrews it is 35, from Saint Peter's 273, and from the
+Fore-gate 202.
+
+Saint Andrews is distant from the first station 610, from Saint Martins 192,
+from Saint Swithins 142, and from the College 212: Thus you by the Scale and
+Compasses may find the distance to and between any of them.
+
+CHAP. 61.
+How by the aforesaid Instrument, to draw the Plot of a City or other Garrison,
+and to take the distance to every remarkable Object within Cannon shot.
+
+IT behooves every Master Gunner, of a Town, Castle, or other Fort, to draw a
+description of his said Garrison, and of every notable object within Cannon
+shot, for he having a Map of all these things, need not be troubled to take the
+distance every time he has occasion to shoot at the enemy, for by his Map and
+the objects without the Garrison therein described, he may be able to estimate
+how far or near the enemy does reside. To make a description of the Garrison,
+he is to do thus, set up his Instrument first upon the shoulder of the
+Bulwark, and observe the angle thereof, by placing his Index first upon the
+Fiduciall line, and moving the Square until you may perceive the Flanker, then
+letting the Instrument remain fixed, turn the Index till you can see the
+Diamond point through the holes, the Degree cut is the angle of that shoulder,
+with a chain or line, measure the distance to the point of the Bulwark, and
+measure that Angle as you did the former, by espying through the Sights (the
+Ruler or Index lying upon the Fiduciall line) the place where you stood last on
+the shoulder, from the Diamond point measure the distance to the second
+station, and observe the angle of that as before is taught; first, by looking
+back through the sights, the Index lying upon the Fiduciall line to the Diamond
+point, then turning the Index, look to the angle at the flank, note as before
+the degrees of the Angle: Then departing from that place, measure to the angle
+of the Flank, there also set up your Instrument, first looking through the
+sights at the place you were last at, turn the Index and look straight along
+the Curtain, to the angle where it joyneth with the Flank, then go to that
+angle, measuring the Curtain as you go, coming thither, set up the Instrument
+as before, first looking through the holes in the Index at the place you were
+last at, the other observation make at the first shoulder of this second
+Bulwark, and so proceed from Bulwark to Bulwark until you come round the
+Garrison, noting all those observations down with the distance between them,
+you may be able to make your Map. I have but a short time to write, otherwise I
+would have given you the figure of the Cities of Worcester and Coventry, and
+examples how they were drawn, but hoping the ingenious practizer will by what I
+have already said, be able to do these things, this direction shall suffice.
+To know the distance to any places without the Garrison, you must take them as
+I have taught in the two last Chapters, and then annex them to your Map.
+
+inscrutable diagram 50 100 150 200 250
+
+Scale of 250 Fathom
+
+
+
+A TREATISE OF Artificial FIREWORKS for War and Recreation.
+
+Containing a description to make sundry kinds of FIREWORKS both for use and
+pleasure, with less labor and cost then any has heretofore been published.
+
+All of them being experimented and practiced by the Author: as also compared
+to the best, which are taught by any other Author whatsoever.
+
+By Nathanael Nigh.
+
+London, Printed for William Leak, at the sign of the Crown in Fleetstreet,
+1647.
+
+A TREATISE OF Artificial FIREWORKS for the Wars.
+CHAP. 1.
+A description of the Morter-peece, and how to make one of Wood and Pastbord
+for a need, those of Brass and Iron being wanting.
+
+THe best Morter-peeces are made of the same metal that brass Ordnance are
+made of, and being to be made, let the measures following be observed. If the
+Diameter or bore be nine inches, let the mortar be one foot and an half in
+length, and let the chamber in which you load your piece with powder be three
+inches diameter, and four inches and a half deep, the thickness of the
+metal about the touchhole three inches, and the upper part thereof one inch
+and a quarter.
+
+How to make the Morter-peece of Wood and Pastbord.
+You must get a wooden rouler of such bigness as you desire to make the
+diameter of the Mortar, and upon that rouler let pastbords and canvass, with
+good store of molten glue, be rouled (remembering to anoint the rouler with
+grease, or otherwise the glue will cause that you cannot take the pastbords off
+again) which done, let the canvass and pastbords dry a little while on the
+rouler, another while off from the rouler, and when this kind of trunk is very
+dry, put it on the rowler, and set it in a lathe, and cut off both ends of the
+trunk with a Chisell very even, taking this out of the lathe, turn a foot
+thereunto, with a shoulder to put the trunk upon, and in the middle thereof
+make the chamber for the powder, if the piece be eight inches in the mouth, let
+the thickness of the pastbord trunk be two inches thick, and 18 inches long,
+the britch or foot be 10, the shoulder two inches long and two inches high,
+that when the trunk is put on this shoulder, and joined with the wood, it may
+be just even with the same, the bore into which you put your powder must be two
+inches high and three deep, plated with copper or lattin, if it be possible,
+as also all the face of the wood that goes into the trunk, when you have put
+the trunk upon the britch of wood, nail it round about the shoulder, first
+making holes with a bodkin through the pastbords, and then driving in the nails
+upon that wood which you made to receive the pastbords or trunks on, being cut
+lower then the rest by two inches, the thickness of the trunk, because when it
+was put on, it might be level with the rest of the britch, these things done,
+cover both wood and trunk with cord and glue again, which being well dried
+will last a long time, I have such a one of this making, wherewith I use to
+shoot Ballouns into the air, for my recreation.
+
+There is a very honest man in the Market Town of Bromsgrove, named John Tilt,
+who can make either Morter-peeces or Ordnance, with Tin, Wire, Pastbord, and
+glue, of excellent durance and service, if not wronged in the charge or loading
+of them.
+CHAP. 2.
+How to fit and prepare Grenades for the Morter-peece.
+
+MOst commonly the shot for great Morter-peeces are one tenth part lower then
+the bore, because of cording them to sling into the mouth of the piece, and for
+fear of secret cracks, that cannot easily be espied, they are coated with
+pitch, so that being prepared, they do but just fit the bore.
+
+How to make Fuses.
+Every Ball has a hole, left to put in a Fuse or piece of wood just like a
+Faucet for a spigot, this hole must be one quarter the diameter of the wooden
+Fuse, which Fuse must be in length three quarters the height of the Granade,
+made taper, and when filled with composition driven gently in amongst the
+powder that is in the ball, leaving a little of it without: the composition for
+this Fuse is made thus: take one pound of Powder, four ounces of Salt-peeter,
+and one of Brimstone, first beaten to powder, and sifted in a serce severally;
+these ingredients being mixed together, your composition is made fit for use.
+
+CHAP. 3.
+The manner how to make Grenades of Canvas for the Mortar.
+
+THe operation of these Granades made of canvas, is quite contrary to those
+already set down, these are only fit to fire a Town, they are not of so
+violent execution as the precedent yet altogether as costly in the making; for
+the making of them fill a piece of canvass upon a round ball of wood, so big as
+you would have your Granadoe. Then make this composition following, four pound
+of Salt-peeter, two pound of Gunpowder dust, and two pound of Brimstone: all
+these incorporated and moystned with oil of Salt-peeter, fill your case with
+this compound, and cover it with cords, which done pierce the sack full of
+holes with a good bodkin, and in every hole place a little iron barrel,
+charged like a Pistol: these must be driven into the sack up to the head, the
+Granadoe being thus prepared, let there be made a hole about one inch deep,
+which shall serve to prime it with powder-dust, moystened with oil of Petroll;
+you may make all those barrels of old musket barrels, or of other pieces either
+little or bigger, only leave wide touch-holes, to the end the rust stop them
+not, so they may be preserved many years; and ready for service at all
+occasions.
+
+CHAP. 4.
+How to make fiery Arrows or Darts.
+
+GEt a long shaft of wood, and join unto it an iron head, after the manner of
+the figure, in the margent; and about the middle of that head make first a
+linen bag, in form of an Egg, leaving open naval combat with arrows and
+grenadoes at the end before a hole, that it may be fitted with the composition
+following. Take one pound of Petor, half a pound of Gunpowder, and as much
+Brimstone in powder; all these ingredients being well mixed, and mingled with
+oil of Petrioll: with these fill the bag round about the arrow head: then let
+all be bound about with wire, and for the priming of these, dip Cotton-weeke
+into Gunpowder wet with water, let the Cotton be well dried again before it be
+applied. Now for the joining of your wooden shaft to the arrow head, it ought
+to be done so slightly; that being fastened into any thing, those may be
+deceived, and pull it only away, and to hinder that one may not pluck out the
+head with their hands; there may be made a small hole quite through backwards,
+and so a man will be prevented in assaying to pull it off; although it stick in
+his fellows clothes.
+
+CHAH. 5.
+How Grenades are to be charged in the Mortar.
+
+THere ought to be great care taken in the loading or charging of the Mortar,
+which must be done thus; First, wey the powder to a dram, that you put in the
+Chamber, and after it put a good close wad of hey (for to my knowledge and deep
+experience it is very uncertain shooting, you using in stead of hey, a tampion
+of wood) which done cut up a turff of the ground, that may fill the bottom of
+the bole, or bore, of the Mortar, next the wad: your Granadoe being prepared,
+as is before taught, with a coat of pitch and chord, sling it into the mouth of
+the Mortar, observing to have the Fuse of the Granadoe in the middle of the
+bore: then go to the britch, thrust up a wire into the touchhole, to make all
+sure, then prime with special dry powder, such as you are sure will take fire,
+this being the whole business in which your life and Motter-peece both stand
+in jeopardy: I will give you very sure directions to give fire.
+
+Provide small Fuses, such as I taught you to make before for the shells, but a
+great deal less; about one quarter of an inch bore, three quarters in
+thickness, and eight inches long: fill these with good powder dust, moystned
+with oil of Salt-peeter, you must moysten it but a little, and put it in with
+an iron rammer, try whether you like the time they continue burning, if too
+slow, abate oil of Peeter, if otherwise, add it thereunto.
+
+These being made ready, the use of them is thus: thrust the pike of your
+Linstock in at one end of the Fuse you mean to give fire withal, bid one of
+your assistants come on one side of the mouth of the piece, and give fire to
+your fuse, wherewith fire the Fuse in the Mortar, and then with great speed
+give fire to the touchhole.
+
+These Fuses are very certain to give fire, but Match does often times fail.
+
+CHAP. 6.
+How to level the Morter-peece, to make an effectual shot at any assigned
+mark.
+
+YOu are to get leave of your Superiors to try one, two or three shoots for
+practice, without breaking the shell; if you have leave fill the shell with
+powder, and put it out again, and wey it: fill the same shell with so many
+pound of earth: then take a Fuse, and at the end tie 3 ounces of powder; which
+put down with the Fuse into the hole amongst the earth; making such way first
+with the end of some staff, that the powder be not torn from the Fuse; this
+being thus put in, take the square where with you measure distances, place it
+upon the mouth of the piece, if it be big enough, if not help it with a longer
+Ruler, let that side of the Instrument marked in its figure with A K, lie
+either upon the brim of the Piece, if it will reach if not upon the rule, take
+off the Index and hang on the plummet, ever observing to mount your Piece above
+45 degrees, then elevate the Piece at what randon you please, noting it down;
+then make your shot, getting those that stand by to go and observe whether the
+Fuse burn all the while of the Grenades flight; and when the three ounces of
+powder take fire: for hereby you may mend the Fuse, and try firing a grenado
+from a mortar whether it will keep fire, these things observed, measure that
+distance, and place it in your note, under the degree you mounted by, as also
+the weight in powder the Mortar used. When you by two or three shoots, have
+gathered experience, both of your fuse, and of the true range of your Piece:
+take the distance to the Town, Fort, or other mark, you are to shoot at; then
+to know at what degree to mount the Morter-peece do thus, by the Rule of
+Proportion Reverse, as the distance (when you made your trial) is to the
+degrees cut, so the distance to your assigned mark, is to such a degree of the
+Circle that you must mount your Piece unto: To make more easy, I will give you
+an Example.
+
+Suppose, that you made your experimental shot at 46 degrees, and your ball
+ranged 320 paces, how many more degrees must you mount the Mortar to shoot 280
+paces: that being the distance to your assigned mark: multiply 320 by 46, and
+there arises 14720, which divide by 280, you shall have 52 degrees, and above
+half one, to which you must mount, to reach the appointed place.
+
+Note, That if you are to play a Morter-peece along time against a Fort, you
+are to ceaze upon a barrel of the best powder in the Magazine, and keep it for
+your use; also go into some place free from fire and stir this powder, that in
+case one end be weaker then the other, you may mend that defect: for I do
+assure you, that if you change your powder, you have lost all your experience,
+and are as new to begin again, as at the first time: also beware of using
+tampions, let one man constantly put in the wad, giving him charge to make the
+like wad, and use the same strength, so near as he can, which he did before;
+wash every one of your shells before you coat or put the chord upon them, when
+you have made them clean, put a little powder into one of them, and give fire
+to it with a match, then suddenly clap a clot of clay upon the hole; then
+observe diligently whether any smoke come out on the sides, if it do then that
+must be very carefully coated, or not used, but those that vent no smoke: you
+may trust to be good ones.
+
+Another observation I will tell you of, that is, you must by the help of a
+great pair of Scales wey every shot, and make them all even of a weight, by
+putting there into so many Musket bullets as will make them even, this being
+done, fill that which is heaviest, (for without doubt that will contein least
+powder) put the powder out again, and wey that powder; such a quantity, and no
+more, fill all your Grenades withal.
+
+CHAP. 7.
+How to make Grenades to cast with men's hands.
+
+HAving taught how to make Grenades for the Morter-peece, and that in an
+easier and plainer way then any ever before me has done to my knowledge: I will
+show how to prepare some small Grenades for the hand, the effects whereof are
+no less esteem then the other, chiefly in assaults; whether it be for the
+offendants or defendants; First of all fill these small shells with fine
+Gunpowder, then make a Fuse of two men making grenadoes one pound of Gunpowder,
+six ounces of Salt-peeter, and one of Charcole, or if you would have them of
+less durance, you may take of the composition made for the Fuses of great
+Grenades, knock the Fuse up to the head within one quarter of an inch: which
+is only to find it by in the night, stop well the rest of the hole in the
+Granadoe, (if any chinks are open) with soft wax: then coat it with pitch and
+hurds, least it should break with the fall, and be sure when you have fired the
+Fuse, suddenly to cast it out of your hand.
+
+CHHP. 8.
+How to make fiery Wheels, to be cast with men's hands.
+
+BEcause every soldier will not meddle with hand Grenades, the using of them
+being somewhat dangerous, I will here teach another kind of Fireworks which is
+little less offensive, for the making thereof, you are to use these
+ingredients: Take four pound of Gunpowder in dust, one pound of Charcole dust,
+two pound of Tar, two of Salt-peeter, and one pound of Rosin; all these
+ingredients being well incorporated, and heat over the fire, steep tow or flax
+in the same, and then wrap the tow, and flax about a hoop, and then cover all
+this again with Gunpowder dust; and in time of musketeers firing through a
+breech in a wall need give fire to them, and cast them amongst your enemies,
+this is to be observed, that the hoops ought not to be too large, but falling
+upon a many soldiers they may there stay and stick, and ^o make them more
+troublesome, and entangling, two of them may be tied a-crosse one another; and
+then falling upon any man he cannot choose but be much astonished, with such a
+fearful element, and put his company in great disorder.
+
+CHAP. 9.
+How to make and prepare a Petard.
+
+WHosoever would make exactly a Petard, ought to cast a Mortar, much like unto
+an Apothecaries; but a great deal deeper, if you make it to wey 36 pound, the
+concavity must contein six pound of powder, if you add or diminish more or
+less metal, do so likewise with the Calliber or bore, for the charging of
+this Petard, fill it only with the best Gunpowder you can, to the brim
+almost, and then cover it with a round board, made fit for the purpose, and for
+the priming thereof make a Potfire, or Fuse, of slow composition, of what
+length you please, this must be put down a hole in the middle of the cover of
+wood, a good way into the powder, if the Piece have no touchhole, and close
+waxed about that no spark of fire should get in, and the Petard is prepared,
+to break open the place you desire if it be accessible, then with the breech
+of the Petard, upon the ground, or some great stone, or piece placing a petard
+at a castle gate of wood, and the mouth against the part of the door, or gate,
+but if the place be unaccessible, then make a little Cart with two, or four
+wheels, and so support the recoyle of the Petard, shooting off: The Petard must
+be made fast to a long beams end, that must go a-crosse the ditch or moat, the
+rest of the beam and heaviest part thereof resting upon the Wheels, able to
+counterpoyse the other part thereof, together with the Petard: and it is
+prepared for to make a breach in a slender wall, or door, or gate, unaccessible.
+
+CHAP. 10.
+Of Artificial Fireworks for Recreation and delight.
+
+How to make Rockets for the Air.
+
+I Will not teach how to make Moulds, Needles, etc. for such men as are curious
+in these things, let them buy Master Bate, Master Babington, or for a need
+Master Malthus Fireworks: that which I will only do shall be to teach to make
+them without Moulds, or any other thing then a rouler to roll the paper upon:
+for such I use to make, having all other devises that are taught by the
+aforesaid learned men, but make little use of them; to make Rockets my way do
+thus, cause a Rowler to be turned in a lathe, what thickness you please: only
+let the rouler be 8 times the diameter thereof in length, if it be three
+quarters of an inch in thickness, the length will be three inches, roll your
+paper hard on the rouler, till it make an inch and one quarter the whole
+thickness rouler and all, then glue the uppermost paper, and the case is made,
+only choking or contracting the paper together, (within one diameter of the
+bore of the end) except one little hole, about one quarter the Diameter of the
+bore thereof: to contract these cases on this manner, do thus, wet the end
+about one inch in water, then put the rouler in again, and tie a great
+packthrid about the wet, within three quarters of an inch of the end, put
+another thing almost of the same diameter of the rouler in at the wet end about
+half an inch, hold it there, get some other body to draw the packthrid
+together, you holding the rouler and rammer, one put down to the end within
+one inch, and the rammer which must be a little less in diameter, to meet with
+that end within half an inch, in which place the contract or choking must be,
+the packthrid having drawn it together, tie it fast on that place, take out the
+former, let it dry and it is done: when the hole is contracted together, make
+it so wide, as is before taught, with a round Bodkin, which you must provide
+for that purpose.
+
+a rocket B A
+
+A The mouth of the Rocket. B so far must the Bodkin be thrust up the middle.
+You must have a smaller Bodkin (which when your Rockets are filled with
+composition, and tied to the rod) you must thrust this Bodkin in at the mouth,
+straight up to the midst of the Rocket, having a care of thrusting it nearer
+one side then the other.
+
+CHAP. 11.
+How to make the Composition for Rockets of any Size.
+
+THese ways which I will teach you, I take them not upon trust out of Authors
+to that purpose, but have experimented what I teach, and first for Rockets of
+one ounce, you must use only Cannon-powder dust, being beaten in a mortar and
+finely scarsed, which rises very swift, making a great noise, but carries no
+tail: those of most beauty in their operation are made, with putting one ounce
+of charcole dust, to eight ounces of powder, this composition will hold for
+Rockets of one, two, and three ounces; but for those of four, take three
+ounces of charcole to one pound of Cannon-powder dust, continuing that rule,
+until you come to Rockets of ten ounces, and from thence to Rockets of a
+pound, one pound powder dust, and four ounces of charcole dust: bigger then
+these I have no experience of.
+
+To fill the Rockets with this composition.
+Place the mouth downwards where it was choked, and with a knife put in so
+much as you can of the receipts, provided for that size at one time, then put
+down your rammer, which must be longer and narrower then the former or Rouler
+upon which you made the cases, and with a hammer of a pound weight, give three
+or four indifferent knocks, then put in more composition with your knife,
+until it be full, at every time knocking the like as before, with the rammer,
+until the composition come within one diameter of the bore of the top, there
+put down a piece of pastbord, and knock it in hard, prick three or four little
+holes therein, then put fine pistol powder in almost to the top, and upon that
+another cap of paper, upon which put a piece of leather, that it may be tied on
+the top of the Rocket, and fast glued on, then get a straight twigge, and bind
+it upon the Rocket with strong packthrid, it must be no heavier, then being put
+upon your finger, two or three fingers breadths from the mouth of the same, it
+may just ballast the Rocket; then it is prepared for use.
+
+CHAP. 12.
+How to give fire to one or more Rockets.
+
+SEt your Rockets mouth upon the edge of a^y piece of timber, battlement of a
+wall, top of the Gunners carriage wheel, or any dry place whatsoever, where
+the rod or twigge may hang perpendicular from it, then lay a train of powder
+that may come under the mouth thereof, give fire thereunto and you have done.
+But if you would fire more Rockets then one, that as one descends the other
+may ascend by degrees, make this composition following, of Roch peeter 8
+ounces, Quick Brimstone 4 ounces, and fine Powder dust 2 ounces, which lay in a
+line from one rocket to another, they being placed ten inches or a foot one
+from another, give fire to this composition, and it will work your desire, by
+causing one to mount into the air when the other is spent, but before you
+place your Rockets, remember to prick them with the bodkin, as I have taught
+you in the tenth Chapter, at the latter end thereof.
+
+CHAP. 13.
+Diverse and sundry Compositions for Stars.
+
+A Composition for Stars of a blew color mixed with red.
+Take of Powder mealed, 8 ounces. Take of Salt-peeter, 4 ounces. Take of Quick
+Brimstone. 12 ounces.
+Meal all these very fine, and mix them together with two ounces of Aquavitae,
+and half an ounce of oil of Spike, which let be very dry before you use it.
+
+Another Composition which makes a white and beautiful fire.
+Take Powder, 8 Ounces. Take Salt-peeter, 24 Ounces. Take Quick Brimstone. 12
+Ounces. Take Camphire 1 Ounces.
+Meal these Ingredients and incorporate them: Now to meal your Camphire, take
+a brass pestle and mortar, wet the end of the pestle in a little of the oil
+of Almonds, and it will meal to powder, then keep it close from the air,
+else it will become of no use.
+
+Another white fire which lasts long.
+
+Take Powder, 4 Ounces. Take Salt-peeter, 16 Ounces. Take Brimstone, 8 Ounces.
+Take Camphire, 1 Ounces. Take Oil of Peeter. 2 Ounces.
+Meal those that are to be mealed, and mix. them according to the former
+directions
+
+CHAP. 14.
+The manner of making Stars; and to use them.
+
+TAke little four squar pieces of brown paper, which fill with the composition
+you approve of best, of the three last taught: so double it down, rouling it
+until you make it round, about the bigness of a nut, or bigger, according to
+the size of your Rocket, that you intend them for, prime them, with drawing
+through them Cotton-week, and they are prepared.
+
+You may also make them after this manner, you must have a rouler which must be
+as big as an ordinary arrow, which shall be to roll a length of paper about
+it, and with a little glue past it round; when it is dry draw out the rouler,
+and fill it by little and little, with a thimble: still thrusting it down,
+every filling of a thimble, with the rouler; which being filled cut it in short
+pieces, about half an inch long, then having in readiness either hot glue, or
+size, mingled with red lead; dip therein one end of your short pieces, lest
+they take fire at both ends together; and because that it may not so easily
+blow out: these being thus finished, set them to dry until you have occasion
+to use them: and then putting the open end in powder on the top of the Rocket,
+in that place after the first pastboard; or cover, is placed in a Rocket; next
+the composition, where I taught you before to put powder for to make a report:
+which now you must leave out to place in these Stars; after this manner make
+two or three holes in that pastboard, which prime with powder-dust: and
+thereupon put a little Pistol powder, to blow the Stars out, when the Rocket
+is spent: after the powder, put as I have said before, the open ends of these
+Stars, down upon that powder: when you have put them so close as they can stick
+one by the other, put a little small corned powder on the top of them, to run
+between them, and put another tire of Stars upon that, and in like manner a
+third tire upon them, till you come to the top of the Rocket-case, there put a
+paper over the head of it, and tie it close about the top, that none of the
+powder come from under or between the Stars.
+
+How to prepare the Cotton-week, to prime the first sort of Stars.
+Take Cotton-week, such as the Chandlers use for Candles, double it six or
+seven times double; and wet it thoroughly in Salt-peeter water, or Aquavitae,
+wherein some Camphire has been dissolved, or for want of either in fair water,
+cut it in diverse pieces, roll in mealed powder, dry it in the Sun, and it is
+done.
+
+CHAP. 15.
+How to make silver and golden Rain, and how to use them.
+
+NOw I show you the order of making golden Rain, which is after this manner,
+you must provide store of Goose-quils, which being provided, you must cut them
+off so long as they are hollow, the composition to fill these must be made
+thus; two ounces of cole-dust to one pound of powder well mixed; having filled
+many of these quils, you shall place them in the same place as I taught you to
+put the powder and Stars, first putting a small quantity of Pistol powder under
+them, to blow them out when the Rocket is spent: upon this put your quils, as
+many as will fill the top of the case, with the open end downwards, so soon as
+the Rocket is spent, you shall see appear a golden shower, which by some is
+called golden Rain, the like way you may make silver Rain; filling the quils
+with the Composition for white Stars.
+
+CHAP. 16.
+How to make Fisgigs, which some call by the name of Serpents, and to use them.
+
+YOu must provide a small rouling pin, about one quarter of an inch in
+thickness, upon which roll seven or eight thicknesses of paper: fill them
+four inches with powder dust, sometimes putting between the filling a little of
+the Composition for Rockets of 10 ounces: and at the end of four inches choke
+him, fill two inches more with Pistol powder; then choke the end up: at the
+other end put in a little of the mixture for Stars, and choke between that
+and the composition, and you have done: put diverse of these with the Starry end
+downwards, upon the head of a Rocket, as you did the quils, with powder to blow
+them out, when the Rocket is spent, they will first appear like so many Stars,
+when the Stars are spent, taking hold of the powder dust; they will run
+wrigling to and fro like Serpents, and when that Composition is spent, they
+will end with every one a report, which will give great content. I shall have
+occasion to speak of these Fisgigs in other Fireworks.
+
+CHAP. 17.
+How to make Girondels, or (as some call them) Fire Wheels.
+
+A Fire Wheel, is often required in great Works for pleasure, and therefore I
+have thought fit and necessary, to set down their description: as well as of
+all other sorts of Fireworks; First, you must make a Wheel of Wood, so big as
+you please to make Girondels, and unto these bind Rockets very fast of a mean
+bigness, with the mouth of one toward the tail of another, thus continuing
+until you have filled your Wheel quite round, which done, cover them with
+paper pasted very curiously, that one taking fire, they may not take fire
+altogether; and daube Soap upon them quite round, leaving the mouth of one of
+them open to give fire thereto, for the first Rocket having burned, will give
+fire to the next; keeping the Wheel in continual motion, until they be all
+spent: there may be bound fire Lances, to these Girondels, either upright, or
+near, overthwart, which will make to appear diversity of fiery Circles; Your
+care must be, to place the Girondels at a convenient distance, from other
+Fireworks: lest they should cause confusion, and spoil all your Work.
+
+CHAP. 18.
+How to represent diverse sorts of Figures in the Air with Rockets.
+
+I Have taught you to make a report upon the head of a Rocket, and also to
+place golden or silver Hair or Rain, or Stars, or Fisgigs, which when you have
+diverse Rockets to make for a great Fire-work, let one be with a report, the
+next with Stars, another with Gold Hair, or Rain, one with Silver Hair or
+Rain, for standing just under the Rocket it appears like Rain, but being
+aside hand like Golden or Silver Hair: and upon the head of another Rocket
+place the Fisgigs, which when the Rocket is spent will first appear like so
+many Stars after they are ended, they will show like Serpents wrigling to and
+fro, and lastly, give every one his report.
+
+To represent a Tree in the Air.
+launching fireworks
+
+It is a rare thing to represent a Tree or Fountain, in the air, which made by
+putting many little Rockets upon one great one, passing all the rods of the
+little ones through wires, made on purpose upon the sides of the great one, or
+some other way, as your industry will discover, now if the little ones take
+fire while the great one is mounting up, they will represent a Tree, but if
+they take fire as the great one is descending or turning down again toward the
+ground; then they will be like a fountain of fire, if there be two or three
+little Rockets amongst others, that have no rods, they will make diverse motions
+contrary to the rest, very pleasing.
+
+If before you put the Fisgigs upon the head of a great Rocket, you with a
+small string tie them together, a foot of line between, when they are on fire
+in the Air you will see very great variety of Figures, because as they wriggle
+to and fro, they will pull one another after them, to the speculatour a great
+deal of content: it will be pleasant if you tie them not all together but three
+or four, which will in the firing of them, be distinguished from the rest, with
+great variety.
+
+CHAH. 19.
+How to make Fire-lances.
+
+THe use of these Lances is much required in all great Fireworks, and I taught
+you before to use them in the Fire-Wheels, the manner of their making is thus,
+you must make Cartouches or cases just like the cases for Rockets: only these
+for a need may be made of pastboard, and glued as they are a rouling of them,
+if for great ones; but it is best to make little ones of paper, the case being
+provided, let them be filled with the dry composition for Stars; in the
+thirteenth Chapter of this Book: prime them with wet Gunpowder, the lower end
+of the case is stopped with a piece of wood, to the end they may be nailed, and
+stuck, when, and where, they shall be used, the wood being about three fingers
+breadth long, out of the Cartouch.
+
+CHAP. 20.
+How to make a Rocket, which firing it out of your hand, shall continually be
+in agitation, either on the earth, or in the air.
+
+HAving prepared a rocket with a report in the head, such as I taught you first
+to make, tie it to a bladder, so that the end of the rocket may come to the
+mouth of the said bladder, and bind it over very strongly, then firing it out
+of your hand, cast it away from you, it matters not which way, so it will come
+to the ground; there by reason of the bladder it cannot stay, but presently
+rebounds upwards, moving to and fro, until all be spent: there is another
+sort, and that is a small rocket, put into bladder, and so blown up round about
+it, and tied about the neck thereof, which will have delightful motions.
+
+CHAP. 21.
+The manner how to make Balloones for the Morter-peece.
+
+FIrst, you must provide a wooden rowler, twice so long as in diameter, you
+must have it of such bigness as you desire to make the inside of your
+Balloone, upon which rouler let there be rouled so many pastbords as you shall
+think sufficient for strength, being well glued together: then choke this
+Cartouch at the one end, leaving a little hole for a port-fire, as shall
+follow, and glue it in, this por-tfire shall be made just like a Rocket, of the
+bigness of the hole you leave open for it, and filled with composition for
+Rockets of that size, not pricking it with a bodkin, as you are taught to prick
+other Rockets, and to know of what length this port-fire ought to be, it will
+not be amiss to try one Balloon filled with earth, and your port-fire fastened
+thereunto: a mortar, along with various types of "balloones" Now to fill the
+Balloon place all your Serpents within it, together with Stars, Rockets and
+Crackers, in such a convenient manner that there may be very little void room,
+within the Cartouch: it being thus filled, put in as much powder dust as you
+can that it may run every where through the chinks, between the Serpents,
+Rockets, and Stars, that they may all fire; and that the said powder dust may
+break the Balloon: these things being thus disposed choke up the other end
+close, and charge it in the mortar as I have taught you to do the canvass
+Granade; and you may shoot it when you please.
+
+Such Balloons I have at this present, and do assure the Reader, that this
+description is in every part proved, and practiced by my self; to the knowledge
+of diverse spectators, who have seen these experimented, I do also signify to
+the ingenious Reader, that it is not good to use so many ingredients (in Fire
+works) as the Ancient, nor so few as some Modern.
+
+CHAP. 22.
+A most precious Unguent for any burning.
+
+BEcause that diverse men in their practicing Fireworks, one time or other
+chance to be burned by them, and also by the blowing up of Gunpowder many are
+burned in the face, or elsewhere. I will show you such salves which I have cured
+my self withal, I having them out of Master Malthus his Fireworks, and
+experimented them upon my self to my great good when I was burned.
+
+The Unguent.
+TAke fresh Hog's Grease or Lard, as much as you please, and boil it taking off
+the skin until there arise no more skin, then set the Lard three or four
+nights abroad, after which it must be washed in running water, to take away the
+saltish nature, and also to cleanse it white, then melt it, and keep it for your
+use.
+
+Otherwise.
+THe white of an Egg, and fresh butter, being mingled together and well beaten
+into an ointment, is excellent.
+
+Another sort most excellent.
+TAke a stone of quick Lime, and let it dissolve in clear water, and when the
+water is settled, pour it gently out from the Lime, through a linen cloth, then
+put as much sallet oil (as you take water) together, and beating it all to an
+oil, you shall have a most excellent Unguent for all manner of burning.
+
+FINIS.
+

@@ -1,0 +1,970 @@
+ENNEADES ARITHMETICAE THE NUMBERING NINES. OR, PYTHAGORAS His TABLE Extended to
+All Whole Numbers under 10000. AND The Numbering RODS Of the Right Honorable
+JOHN LORD NEPEER, Enlarged With 9999 Fixed Columns or Rods, of Single, Double,
+Triple and Quadruple Figures, and With a New Sort of Double and Moveable Rods,
+for the much more sure, plain and Easy performance of Multiplication,
+Division, and Extraction of Roots.
+
+The Whole being very Useful for most Persons, of whatsoever Calling and
+Employment, in all Arts and Sciences.
+
+All having frequent Occasions of Accounts, Numbering, Measuring, Surveying,
+Gauging, Weighing, Demonstrating, etc. The Devine Wisdom having from the
+Beginning Disposed all things in Measure, Number and Weight, Sap. 11. 21
+
+LONDON. Printed for Joseph Moxon, at the Sign of Atlas in Ludgate Street.
+Where also these Numbering Rods, (c^^monly Called Napiers Bones) are made and
+Sold. 1684.
+
+To the READER.
+Courteous Reader,
+THe End and Use of the Ensuing Table will be the better understood, if
+something in Brief, by way of Preface, be premised concerning these Three
+Points. First, the Table of Pythagoras; Secondly, the Extensions of the same;
+and Thirdly, the Numbering Rods. Wherefore be pleased to peruse the following
+Preamble concerning the said Points; The Reading whereof will not Cost thee
+much above an Hour or Two. But First, vouchsafe to hear, what is meant by the
+New Title of Enneades Arithmeticae, or Numbering Nines.
+
+The whole following Table containing Gradually all the whole Numbers from 1.
+to 9999* Inclusive, Viz. 9. of One single Figure, 90 of Two Figures; 900 of
+Three Figures; And 9000 of four Figures: Again, every one of the said whole
+Numbers (multiplied severally by all the 9 Unites, 1, 2, 3, 4, 5, 6, 7, 8, 9.)
+making so many Columns, as there are Capital Numbers, to wit, 9999. each
+Column, consisting of 9 distinct Numbers, and these 9 Numbers being the
+products of 9 distinct Units, I think we may with good Reason call the said
+Columns (yea and the Numbering Rods also; For in effect they are the same thing)
+by the Name of Enneades Arithmeticae, that is, the numbering Nines, or more
+expressively, the numbering Ninities. For the Greek word nnea being a Nown
+Substantive, signifies properly the Number of nine in abstracto, which may as
+well be called a Ninitie, as na signifying the Number of One in abstracto, is
+interpreted, Unity, and (...) signifying the Number of Three in abstracto, is
+Translated Trinity. But though there be but Nine Cells expressed in every Rod,
+yet one other Negative Cell of Ciphers is ever to be understood, which if you
+please, may be sufficiently insinuated by putting so many Points over the
+Vertical Cell, as there are Figures in the Vertical; see Figure 10. whose
+Vertical is 1 2 3 4 and may be pointed, as you see here, to insinuate a
+Supposed Cell of Ciphers.
+
+Concerning the Table of PYTHAGORAS.
+THE known Arithmetical Table, invented by Pythagoras, (such as you see
+expressed in Figure 1.) is not only an easy and sure Rule to multiply and
+divide by, but is also those very Operations themselves, Multiplication and
+Division, done to your Hands, and known by inspection, comprehending three
+distinct Numbers, proper to them both, viz. Multiplicand, Multiplier and
+Product, proper to Multiplication, Dividend, Divisor and Quotient, proper to
+Division. For if you take any one of the Numbers, Seated in their several Cells
+between A and B. for a multiplicand; for example 8. and another Number of those
+that are Seated in their several Cells between A and C for a multiplier, for
+example 7. in the Angle of their Concurse. you will find the Number 56. the
+just Product of 8 multiplied by 7. Again, the said Product, 56. is also a
+Dividend, whose Divisor is 8 in the highest Cell, above the Dividend and
+Quotient (...) 7 in the 7th. Lateral Cell, over against the Dividend, the
+better to distinguish the 9 Units, Figures, Numbers and Cells Seated between A
+and B* from the like Seated between A and C. call the first Capital Units,
+Figures, Numbers, Cells, as being placed in the Head of the Table: but the two
+Lying between A and C call Lateral, as occupying the side of the Table on the
+left Hand.
+
+Every Capital number in the Pythagorean Table has under it 8 other numbers
+lodged in 8 several quadrats or Cells, as you may see in Figure 1. all which 9
+numbers make a kind of a little straight Column, parallel to the side A C or B
+D. The Columns are 9 answerable to the 9 Units or Capital Numbers in the Head
+of the Table. But observe also, that there are other 9 Transverse Columns,
+parallel to the side A B. or C D. which cross the former at Right Angels, and
+meet one another in a common Cell, ever containing a perfect Qu^drat Number,
+whose Root appears in the Heads of the two Meeting Columns: For Example, the
+Column of 8 Capital meets with the Transverse Col. of 8 Lateral in the Cell of
+64. a square Number. So 9 Capital Meets with 9 Lateral in the Cell of 81. a
+square Number, etc. But what is worthy of Observation, these two different
+sorts of Columns, Capital and Transverse, though most cross one to another, do
+most punctually agree in all their Numbers, without any difference, as is
+manifest to the Eye.
+
+There are yet many things more, very Observable in the Pythagorean Table. The
+first is that not only the 9 Units, are multiplicand and Divisors in it, but
+Tens, Hundreds, Thousands, 10000ds, 100000. 1000000* 10000000 and 100000000. in
+great variety, and all actually and orderly Tabulated, showing at the same
+time, their true Product and Dividends, with multiplyers, Divisors, and
+Quotients. As for Tens you see 12 Tabuated on the 1. and 2 Col. Then 23. 34.
+45. 56 67. 78. 89. each number Tabulated on two Contiguous Columns. As for
+Hundreds, you see 123. Tabulated on the first 3 Col. Then 234 345. 456. etc. As
+for Thousands, you have 1234. Tabulated on the four first Col. Then 2345. 3456.
+4567. etc. and so of ^he rest, till you come to 123456789. a multiplicand or
+Divisor of all the Capital Units, of the Table, whose multiplyer is one (or
+more, as you please) of the Lateral Units, and the Product is the Transverse
+Column of that Unit, which you choose for multiplyer to be counted from the
+Right Hand to the left. For example, if you multiply 123 456789 by 2. the
+product will be the second transverse col. gathered from the right hand to the
+left, viz. 246 913578. If you multiply it by 9. the product will be the 9th.
+transverse column, viz. 1111 111101*
+
+The second thing very observable is, that if you turn Pythagoras his Table in
+such manner, that all the Numbers remain unchanged in their cells, and yet the
+Figures 9. 8. 7. 6. 5. 4. 3. 2. 1. ^ying between C* and A. become Vertical,
+which before were Lateral, and 1. 2. 3. 4. 5. 6. 7. 8. 9. lying between A. and
+B. become Lateral, which before were Vertical, you may find another great
+Variety of Multipliers, Divisors, Products, Dividends and Quotients, and of
+greater Numbers than before, all differing from the former, and all Tabulated
+on contiguous columns. As for tens, you see 98 Tabulated on the two last
+transverse columns, then 87. 76. 65 etc. As for Hundreds, you have 987 876.
+765. etc. And so for the rest, till you come to 987654321 a Multiplicand or
+Divisor made of all the Lateral unites from C. to A. which Number multiplied by
+2. will have for product 1975 308642. to be found in the second Capital Column,
+and gathered thence from the right Hand to the left. If you multiply it by 9.
+the capital Column of 9 will show the product 8888 888889.
+
+The third observable thing is, That whatsoever under-cell of any Column, has
+more figures or places in it, than are in the capital cell of that Column, then
+infallibly the Figure which is outmost on the left side of that under-cel; is
+to be added to the next Figure of another Column, if another Column be
+Tabulated by it on the left Hand. This Addition may be called Collateral,
+because it adds together two Figures on the sides of two Neigbouring Columns,
+and makes but one Number of them both. If the two Figures added should make 10.
+then put down a cipher, and carry one to the next Number on the left Hand: If
+they make more then 10, put down the surplus and carry one. Take this example
+of Collateral Addition. If you Tabulate 12. with two Rods or Columns, viz. the
+column of 1 and the column of 2. in the 2d. Cell of both Rods together, is 24.
+in the 3d. Cell is 36. in the 4th. Cell is 48. but in the 5th. Cell is 510.
+which make not five Hundred and 10. but 60 only, because 1 and 5 (the
+Neighboring Figures of 2 Columns) are to be added into one number 6, by reason
+that the 5th. Cell of the Column 2 has 10. in it, a Figure more than in the
+Capital of the Column two. This Rule then is Universal, whatsoever undercell of
+any column has more Figures in it than are in the capital number of that
+column, there must be collateral Addition, if any other column be Tabulated on
+the Left Hand with it. Note that this Rule holds good, not only in columns of
+single Units, but of Tens, 100ds. 1000ds. etc.
+
+The 4th. Observable thing is, and of chief moment, that all and every column,
+Ennead, or Rod (Synomical words in the present matter) not only of Pythag. his
+Table, but of all following Tables to 9999 and much more, is singularly useful
+both in Division and multiplication though the Column be never so little
+(except the Column of 1 the first Unit, which in Rigor neither devides nor
+multiplys any Number) and the Dividend and multiplyer never so great. For in
+Division it performs the work, or gives the Quotient, by mere Substraction of
+its own Numbers out of the Dividend: and in multiplication it gives the
+Product, by setting down in due order its own numbers, and afterward adding
+them into one Sum. For example, take the Column 25 and divide by it 7896525 the
+Quotient will be 315861. and the work ended will appear as underneath ^
+where note that the Numbers 75. 25. 125. 200. 150. 25. all marked with this
+mark-are taken out of the cells of the column 25. to be subtracted out of the
+partial Dividends: 75. is taken out of the third cell, and gives you 3. to
+beset in the Quotient; 25 is taken out of the 1 cell, and gives one for the
+Quotient, and so of the rest, the Number showing its cell, and the cell the
+Quotient. Again, take the column 25. for a Multiplicand. and ^ultiply it by
+315861. the product will be 7896525, which before was the Dividend. The
+Operation ended, will appear, as underneath at ^
+, Where note, that the Numbers 25. 150. 200. ^ 25. 25. and 75. are all taken
+out of the cells of the column 25. to be placed as you see, and added into one
+sum for product of Multiplication. Here also you may observe, that the
+self-same cells or Numbers are added together in Multiplication, which were
+subtracted in Division, only their Order inverted: what was first subtracted
+in Division, is last taken and added in Multiplication, which always happens
+when the Divisor and Quoient become Multiplicand and Multiplier and ^eproduce
+the Dividend as Product of Multilication.
+
+The fifth thing observeable is, That every ^nnead or column, be it never so
+little or great, that is, of one, or more, or many Figures in its Capital Cell)
+by multiplying its Capital Number with 45. will produce a sum equal to all the
+Figures, as they stand in that col. added into one sum. For example, take the
+col. of 6. and multiply 61. by 45. the product will be 2745. which is just the
+sum of all the column added together, as appears in the margent 61 122 183 244
+305 366 427 488 549 2745
+. By this means you may exam^ne any col. whether it be right or wrong.
+
+Add unto the former or fifth Observation another, not much unlike, to be seen ^
+in this little Table of Roots, squares and cubes, or rather of the ending
+Figures or Units of all Roots, Squares and Cubes whatsoever; where you see the
+sum of each column by Addition, to be severally 45. 1R sq. cub. 0 0 0 1 1 1 2 4
+8 3 9 7 4 6 4 5 5 5 6 6 6 7 9 3 8 4 2 9 1 9 45 45 45 The first Column is of the
+first ten Roots, from 0 to 9 inclusive, but all following Roots have the same
+ending Figures, and in the same order, as in the first column. The second
+Column is of the first ten ending Figures of Squares; the first ten Squares,
+and all the following Squares have the same ending Figures, and in the same
+Order as in the second column. The third Column is of the first ten ending
+Figures of the first ten Cubes, and all the following Cubes have the same
+ending Figures, and in the same order as in the third column. By the ending
+Figure of any Root, you may know the ending figure both of the square and cube
+by this Table: in which the square and cube stand right over against the Roots.
+Hence may you know, whether a Table of Roots, squares and cubes be well made or
+no: for if any ten ending Roots, or Squares, or Cubes lying next one under
+another do not make the sum 45, or that the squares and cubes do not answer the
+roots, as in this Table, there must necessarily be an Error committed.
+
+The 6th. thing very remarkable, and indeed admirable is, that multiplication
+and Division being two very distinct and different Operations, yet they so
+inseparably and essentially accompany one another, that the one, for example,
+Multiplication can never be wrought or Finished by its proper Rules, but that
+Division at the same time shall be given you without working by any Rules of
+Division: yea, when the Operator did neither intend Division, nor so much as
+think of it. That they are two different Operations, it is clear. For
+
+1. Multiplication, by two Numbers given (multiplicand and multiplier) seeks a
+third, Viz, the Factum or Product: But Division by two Numbers given, different
+from those of Multiplication, (Divisor and Dividend) seeks a third, viz. the
+Quotient, different from the product of multiplication.
+
+2. Multiplication begins its work with the least figure, and Ends it with the
+greatest: but Division quite contrary, begins with the greatest and Ends with
+the least.
+
+3. Multiplication requires Addition only, without Substraction: But Division
+requires Substraction only, without Addition. Notwithstanding these differences
+of the two Operations, it is impossible to work a Multiplication but a Division
+will be at the same instant given you, without working or dividing. So is it
+also impossible to work a Division but a Multiplication shall be given you
+without working or multiplying. And the reason is manifest, because the self
+same three Numbers which constitute the Essence of Multiplication constitute
+also the Essence of Division, though under different denominations. The three
+Numbers in Multiplication are called Multiplicand, Multiplyer and Product. In
+Division, Divisor, Quotient and Dividend. And observe, that by how much a
+Multiplcand exceeds or comes short of his Multiplyer, by so much the Divisor
+will exceed or come short of his Quotient. The Product of Multiplication is
+ever equal to the Dividend in Division. See the following example.
+
+Multiplication wrought Division Given Multiplicand 144 Divisor 144 Multiplier
+12 Quotient 12 Product 1728 Dividend 2728 Division wrought Multiplication Give^
+Divisor 7324 Multiplicand 7324 Dividend 4789896 Product 4789896 Quotient 654
+Multiplier 654
+
+Observe, that when in Multiplication the less Number is made the Muitiplicand,
+and the greater the Multiplier; Then in Division given, the Divisor is the less
+Number, and the Quotient the greater. Example.
+
+Multiplicand 12 Divisor 12 Multiplier 144 Quotient 144 Product 1728 Dividend
+1728
+
+The 7th. thing observable is, That the third, fourth and fifth Cell of every
+Ennead (whether it has one, or more or many Figures in its Vertical, and
+those either pure integers or mixed with Fractions) contain three different
+Numbers, which are exact Roots of three exact Square Numbers, the two less
+being exactly equal to the greatest, according to the 47. Prop. l. 1. Euclides,
+and the Sides or Roots making the perfectest sort of right angle triangles,
+keeping proportion one to another, as 3, 4 and 5. and having constantly these
+Angles proxime 90. 53. 8. and 36. 52. For example, take the Rod of 4. whose
+third, four^^ and fifth Cells contain these three Numbers 1^* 16. and 20. the
+sides of a right Angle triangle^ and true Roots of these three square Numbers
+14^ 256 and 400. Now the two less squares (...) added together, make exactly
+400. the greate^^ square of the greatest root. Other right ang. Triang. that
+have not the said proportion of Sides, and aforesaid Angles, must necessarily
+have one o^ more defective Roots for their Sides, which will either come short
+or overshoot the truth, when we endeavor to square the unsquareable Numbers.
+
+The eighth Point observable is, that though some Columns or Enneads refuse all
+Collateral Addition, (because they have no more Figures in the 8. under cells,
+than in the Vertical) yet others far more in Number require it. For in the
+whole following Table of Columns, from 1. to 9999. there are only 127. that
+refuse collat. addition whereas 9872 require it, in one or more of their under
+cells. In the single Columns of the 9 Units, only the first or column of 1.
+refuses Collat. Add. In the double columns of Tens, only the two first, viz.
+column 10 and 11. In the triple columns of Hundreds, only the twelve first,
+that is, all from column 100 to 111 inclusive. In the Quadruple columns of
+Thousands, only the first 112 Columns, that is, all from column 1000 to Col.
+1111 inclusive; All which 127 Columns or bones are void of all collat. add. And
+therefore all the 8 Under cells in them are marked with Stars, as Signs of
+non-addition. Note, that no Vertical cells have any collat add. nor stars
+before them. Note also, that no Ennead, be it never so great, or have many
+Figures in the Vertical cell, can have any collat. add. in any one Under cell,
+if the two first Figures of the Vertical begin with 10 or with these three 110
+or these four 1110 etc. Though all the following Figures be never so great, as
+9999 in infinitum.
+
+The ninth thing Observable is, that by how much any Ennead contains more
+Figures in its Vertical cell, by so much is it the better to multi^ly and
+divide by, since it takes away all collat. ^dd. the chief trouble in gathering
+the products ^n multiplication, and finding readily the Quo^ients in Division.
+For example, if you turn all the Vertical Units of Pytha. Table into one Sum,
+viz. ^ 2 3 4 5 6 7 8 9. and multiply it severally by 1. ^. ^. 4. etc, it would
+make an Ennead such, as you ^ee expressed in Figure 13. far different from Figure
+^. the Table of Pytha. whose collat. add. it wholly ^akes away, and yet in
+substance is the same with ^he Table.
+
+^oncerning the Extensions of Pythagoras his Table.
+The Extensions of the Pytha. Table may be di^inguished into two sorts, the
+greater, and the ^^s. The greater extends it two ways; length ^ay by Capital
+Numbers, and breadth way with as many lateral Numbers: The less extends it onl^
+length way by Capitals and not by any more Laterals, than are in Pytha. Table;
+which are the ^ Units. For example, the first greater Extensio^ adds to the 9
+Capital Units of the Table 90 more Capitals: that is, all the whole Numbers of
+tw^ places between 10 and 99 inclusive: And the lik^ it adds to the 9 Lateral
+Units, viz. 90 more L^terals. As all the cells with their enclosed Num^ in
+Pytha. T. are known to be 81. by multiplyin^ the two greatest Units, 9 Capital
+and 9 Lateral t^gether; so by multiplying 99 by 99 the two gre^^est Capital and
+Lateral Numbers of two places, yo^ will find the Cells of this first greater
+Extensio^ to be 9801. The first less Extension adds to the^ Capital Units (as
+did the first greater Extensio^ 90 Numbers of two places from 10 to 99
+incl^sive, but adds not any one Number to Pythago^^ his 9 lateral Units. The
+cells of this Extension ^^ multiplying 99 its greatest Capital by 9, the
+grea^est Lateral, are found to be 891 which is not t^ 10th. part of 9801 the
+cells of the first great Extension. A Table of this kind of extent, co^taining
+9801 cells would be very useful, and be^^ of a Moderate largeness, occupying
+about 10^ 11 pages in Folio, might be easily made, as for have heretofore done:
+Mr. Joh. Darling and other But in this present Table we forbear to place^ and
+all other Extensions of the greater sort, ^^ reason of their Vast largeness and
+labor in ^^king and using them. In the following Tab^^ ^he one of 5 greater
+Extensions, the other of 5 less Extensions, you may see their differences and
+how many cells, pages and Tomes in Folio, each one would contain. But first
+observe, that we allow a Folium to be 14 Inches long, and 8 broad, prescinding
+from Margents, one page whereof will contain 112 square Inches, In every page
+reckon ^000 cells: In every Tome a 1000 pages.
+
+Five greater Extensions of Pythagoras his Table:
+Extensions 1st. 2d. 3d. Multiplicand 99. 999. 9999: Multiplier 99 999 9999.
+Cells. 9801. 998001. 99980001. Pages. 10 801/900 1108 801/900 111088 801/900
+Tomes. 0. 1 109/1000 111 089/1000 Extensions: 4 th. 5th. Multiplicand 99999.
+999999. Multiplier. 99999. 999999 Cells. 9999 800001 999998 000001 Pages. 11
+110888 801/900 1111 108888 801/900 Tomes. 1 1110. 889/1000 1 111108 889/1000
+
+Five less Extensions.
+Extensions 1st. 2d. 3d. 4th. 5th. Multiplicand 99 999 9999. 99999 999999
+Multiplier 9 9. 9. 9. 9* Cells 891 8991. 89991 89999 8999991. Pages 0 891/900 9
+891/900 99 891/900 999 891/900 9999 891/900 Tomes 0 0 0 1- 10.
+
+In these Tables, every Extension is expressed by 5. oblong Quadrats, one under
+another. In the first Quadrat is the Number of the Extension, First, second or
+third, etc. In the second Quadrat are two Numbers, a Multiplicand, and
+Multiplier, being the greatest capital Numbers; and the greatest lateral Number
+of that present Extension. In the third Quadrat is the Product of the abovesaid
+multiplicand and multiplier, or Number of cells of the Extension. In the fourth
+Quadrat is the Number of pages in folio, which that Extension would make.
+Divide the cells by 900 and the Quotient will give the pages. In the fifth
+Quadrat is the Number of Tomes which that Extension would make. Divide the
+Page^ by 1000. and the Quotient will give the Tomes* The Extensions both of the
+greater and lesser sort may be made in infinitum, though these two Tables
+exhibit only five of either sort. It is incredible to our first apprehensions,
+what a vas^ space would be taken up by a Table of the fifth greater Extension,
+wherein, as you see, 999999. capital Numbers are supposed to be multiplied by
+so many Laterals, and to produce the Number of cells 999998 000001: and
+consequently, according to Allowances abovementioned, pages ^1111 108888
+801/900, and Tomes in folio 1 111108, each Tome having 1000 pages, and (with
+its cover) 3 inches in thickness. These Tomes, if they were set on end,
+contiguous one to another in a straight line, they would make a rank of books
+above 52 English miles long. Or if all the aforesaid pages, their Margents cut
+off, should be laid close one to another on a plain, they would cover more than
+30 square English miles, or 19200 square Acres.
+
+But setting aside all Extensions of the greater sort, we will content our
+selves with the third less Extension, in which as the Table shows, 9999. is the
+greatest capital Number (Multiplicand and Divisor) and 9. the greatest lateral
+Number (Multiplier and Quotient. The product of cells is 89991. The pages in
+folio are 99 891/900 which scarce make the 10th. part of a Tome in folio. And
+observe that 9999 contains all the capitals, both of the Pythagorean Table, and
+of the first, second and third less Extensions. For 9 (the Unit on the right
+hand) counts the 9 Units of the Pythagorean Table; the next 9 counts 90 Numbers
+of two places, from 10 to 99 exclusive, and makes the first Extension. The
+third 9. counts 900 number. of 3 places, from 100 to 999. and makes the 2d.
+Extension: The 4th. 9 counts 9000 number. of 4 places, from 1000 to 9999. and
+makes the 3d. Extension observe also, that the foresaid numbers, of 990. 900.
+and 9000. added together make just the number of 9999: and being multiplied
+severally by 9 do produce severally these number. 81. 810. 8100. 81000. all which
+added together, make up the just number. of cells of the 3d. less Extension viz
+8999. Observe lastly, what we touched before speaking of Pytha. Table, that
+every Capital number from 1 to 9999 being multiplied by all the 9 Units or
+single figures, produces 9 distinct numbers, one greater than another, which
+being orderly placed and perpendicularly one under another, make a certain
+column, whose length is divided into 9 equal parts or cells, the Seats of the 9
+Numbers produced, the Capital being the highest. Wherefore there being 9999
+Capitals in this present Table, there must be also 9999 Columns, which in
+substance and in effect are the Numbering Nines, Enneads, Rods or Bones, or what
+else you please to call them: and not only the single Rods of Units (as they
+were first invented, and hitherto too commonly used) but double Rods of Tens,
+Triple Rods of Hundreds, and quadruple Rods of Thousands: So that whatever
+Operation can be performed in matter of Multiplication or Division, by 1. 2. 3.
+or 4. of the single Rods, the same may be performed by one Rod or column of
+this Table, and with far greater expedition, without any collateral Addition.
+For here are actually Tabulated to your Hand all and every whole Number
+(Multiplicands and Divisors) under 10000, and ever with one column or Rod
+alone. Nay, it will not be hard to work by two columns of this Table at the
+same time, and then your Multiplicands and Divisors may be any Number under 100
+000000. But let us proceed to the third point of the Numbering Rods.
+
+Concerning the Numbering Rods or Bones.
+These Arithmetical Rods (described by most Authors, who have writ of
+Arithmetic, since they were first found out) own for their first Inventor, the
+Right Honorable and Learned John Lord Nepeer, Baron of Marchiston, who put
+forth a Latin Treatise concerning them, Entitled, Rabdologia, that is, a
+Discourse or Treatise of Rods, calling them Virgulae and Laminae: others have
+or may call them, Columellae, Tesserae, Enneades, adding the Epithets,
+Numerales or Arithmeticae. To the same Noble Lord, Posterity is obliged for
+another Ra^e Invention of Logarithmes, both them aiming at, and attaining the
+same en^ which is, to facilitate and perform with greate^ dispatch ease and
+certainty the harder parts o^ Arithmetic, viz. Multiplication, Division an^
+Extraction of Roots. These late years past Si^ Samuel Morland most ingeniously
+invented two Arithmetical Instruments to the purpose abovesaid, for which he
+deserves singular praise. Thoug^ the Instruments in themselves be excellent and
+useful, yet they have been hitherto more sparingly used for these two reasons
+First, because few Artificers are found, who have Hand and Head sufficient to
+make them so exactly as is requisite* 2ly, because the Vulgar sort either wants
+Head^ to comprehend them, or purses to purchase them* being somewhat
+chargeable: whereas the Rods of the Lord Nepeer are plain, easy and Cheap. H^
+happily fell upon the conceiving and devising o^ them by thoroughly considering
+the Pythagore^^ Table, in which as before I mentioned, an incredible variety of
+great and little numbers is found orderly Tabulated, multiplied and divided,
+with apparent Multiplyers, Divisors and Quotients. For example, He said 1234.
+Tabulated by the first 4 capital Columns of the Table, which he multiplied by 9
+and found the product in the 9 cell to be (Collateral additions being observed)
+11106* This product he perceived to be also a Dividend whose Divisor appeared
+1234. and Quotient 9. o^ vice versa Divisor 9. and Quotient 1234. Further he
+Noted that 1234. inverted was 4321. This Number he also found Tabulated
+together by the first four Transverse Columns, which multiplied by 9. gave
+38889 in the 9th. Capital Column. This being also a Dividend showed 4321 for
+Divisor, and 9. for Quotient, or viceversa, etc. But ^aking a middle Number
+between 1234. and ^321. For Example, 3142. or 2413. he was at a ^oss, not
+finding them Tabulated together, nor ^he Product lying together, but was to be
+picked ^ut here and there, not without trouble of the Head and delay of time.
+This inconvenience happened as he well perceived, because the Table was always
+made with its Columns fixed in the ^ame gradual Order of Unites, increasing from
+^. to 9. But the Remedy of this inconvenience ^oon occurred, which was to unfix
+the fixed co^umns by cutting them asunder, and making them moveable, apt to be
+placed in what order he ^leased, as occasion required. Thus were the famous
+Numbering Rods extracted and dissected ^ut of the Pythagorean Table, and in
+reality are nothing else but the Table it self cut out into its ^olumns, adding
+thereunto 3 more for the square, ^ube and cypher-Rods; such as you see in Fig.
+2. (...) is true, the Lord Nepeer, to mind the Operator ^f ^c^llateral
+Addition, drew Diagonal Lines through all the 8. undercells of every column or
+Rod, whereby frequent Rhombes of this shap^ rhombusappeared in the Rods
+Tabulated; And whatsoever 2. Figures should be found in one Rhombe^ they were
+to be added and made one Number See Fig. 5. Others by making a cross Diagonal
+i^ the undercells, included the 2. Figures to be added, in this kind of Diamond
+form ^ See Fig. 6. Others again included them in a round Circle. See Fig. 7.
+But because all these three Ways seem to offend the Eye, and breed Confusion
+by so many Lines; Others with much less ado note all the addend Figures with
+this mark * or this * declaring that every Figure so Noted require^ collateral
+addition, if Tabulated on the right Hand with another Rod or column on the
+left. See Fig* 3. ^et because the far greater part of the undercells in the
+Pythagorean Table, (having one Figure more in them then is in the capital)
+would require this mark* to wit, 58 cells, whereas only 14 cells refuse it:
+Again, because thi^ mark* and one Figure more then is in the capital require a
+greater breadth of Rod, I have rather chosen to put an Asterisk *, as a sign of
+non-addition to a few cells and lesser Rods, then thi^ Sign of Addition * to
+four times more cells an^ larger Rods, declaring that the Star in an^ undercell
+hinders collateral Addition; an^ where the Star is not in an undercell, ther^
+must ever be collateral addition, if another Ro^ be Tabulated on the left Hand
+with it.
+
+But here observe, that when any (9) has a Star before it, and (1) carried to
+it, by reason of a Rod Tabulated on the right Hand of it, then that (9) becomes
+10, and is capable of lateral addition, if another Rod follow on the left Hand.
+Observe also, that all these Enneads 1. 11. 111. 1111. 11111. and the like in
+infinitum, require Stars in all their undercells, unless when a (9) becomes 10
+by (1) carried to it, as now we said. Note also, that all less Numbers then
+these, having equal places or Figures with them in the Vertical, require Stars
+in all Undercells: For example, 1111. is an Ennead of four places, and so is
+1000, a less Number yet of four places; so is 1001. 1002. 1003. and so on till
+we come to 1110. all less Numbers then 1111. but all of four places, and
+requiring Stars in all their undercells. But whatsoever Number of four places
+is greater then 1111. as is 1112. 1113. 1114. and so on till 9999. then in
+fallibly it will reject the Star, and require lateral addition in one or more
+of the undercells. See the eighth Observable.
+
+Moreover, to avoid Multiplicity of Lines, as much as may be, in the Rods, I
+reduce 8 of those lines to 2. which formerly separated the 9. cells from one
+another, as you may see in Fig. 8. 9. 10. and 11. For dividing the length of
+the Rod into three equal parts by two lines, I place the three highest cells in
+the first Division, three others in the second, and the three last cells in the
+last division. See Fig. 8. 9. 10. and 11. accordin^ to this Model of placing
+Stars before certai^ undercells, (viz. such as have equal Number o^ Figures
+with their capital cell) and dividing every Rod or column into three equal
+parts by two Lines; I made a Table, wherein all Capital Numbers from 1. to 99
+inclusive, were multiplied by the 9. lateral Units. which Table being directly
+the first less Extension of Pythagoras hi^ Table, I caused to be cut in brass
+some years ago and a few Copies to be printed for my own and other Friends use.
+At that time I had in prospect the other two less Extensions (2d. and 3d. of
+Pyth^ Table) which soon were completed, and that very readily, by the help of
+the double Rod^ (whereof I had made some Sets) and the Table of the 1 less
+Extension now mentioned: For laying one double Rod at a time to the Columns of
+that Table, you Tabulate any number from 100 to 9999. and see immediately the
+product of multiplication in all the 9 cells. The other Numbers from 1 to 99
+the Table it self Tabulates and multiplies See a printed Copy of the Table,
+inserted in page 27. As the single Rods of my Lord Nepeer were cut out of the
+Pyth. Table, so both single and double Rods have been cut out of the Table of
+the 1 less Extension, and found by Experience of 9 or 10 years to double the
+usefulness of the single Rods For first they sooner Tabulate any great number
+with fewer Rods. 2dly they Tabulate the sel^ same number with great variety of
+Rods, differing ^n Specie one from another. See Fig. 12. 3dly they ^ake away
+more then the half of collateral Addi^ions, the chief trouble of numbering Rods.
+4thly ^hey more readily show the product of multipli^ation and Quotient of
+Division in great numbers and fewer Rods. Two of the double Rods reach ^o any
+number under Collat. Additions 1 at the most
+10000 three of them to any under Collat. Additions 2 at the most
+1 000000. Four of them to any under Collat. Additions 3 at the most
+100 000000. etc. This and more the double Rods perform by themselves. But join
+or Tabulate them with the Table of the 3d Extension, and they will most readily
+multiply and divide ^ast numbers. For one Rod and the Table reaches ^o Collat.
+Additions 1 at the most
+1 000000. Two to Collat. Additions 2 at the most
+100 000000. Three ^o Collat. Additions 3 at the most
+10000 000000. etc. To use them with the Table of 9999 columns, it is
+necessary, that the Rods be of the same length with the columns, though the
+same breadth is not precisely required.
+
+The Rods having on them all the Capita^ Numbers from 1. to 99. they will
+require either 50 thin two-faced Talleys, or 25 square-side^ Parallelopipedons
+of four faces. It will be convenient to have every Rod twice over, (thoug^ once
+over will be sufficient if your single Rod^ of the 9 Units be twice or thrice
+over,) wherea^ an ordinary Set of single Bones must have eve^^ Rod 4. 5. 6. 7.
+or more times over, according a^ the Operator designs the working of greater
+o^ lesser Numbers.
+
+Another way of supplying the want of mo^^ Rods of one and the same Number, may
+be ^^ the Table of 9999. Enneads, for in that Tab^^ are all Numbers of four
+places, and consequent^^ this Number 5757. Besides, in the double Bon^ are all
+Numbers of two places, from 10. to 9^ inclusive, and consequently this Number
+5^ wherefore in the Table and double Bones ^ have 57. three times over. But
+setting as^ the Table, the Bone alone of 57. is in practi^ equivalent to three
+or more Bones of the sa^^ Number 57. for if you set down with your (...) three
+times 57. thus 575757, as one Vertic^^ Number of one Ennead, you will know w^^
+is the Content of every under cell by the und^^ cells of the Rod 57. thrice
+setting them do^ For example, the second cell of 57. is ^^ which thrice
+repeated, is 114. 114. 114. Or ^ serving lateral Addition 1151514, which is the
+^^cond cell of the Ennead 575757. In this man^er your Operation will be as
+ready, as if you ^ad had three distinct Rods of 57 a piece. There (...) yet a
+third way of most ready and clear work^^g, multiplying and dividing vast
+Numbers of the ^^lf same Species of Figures, viz. all of Nines, or ^ights, or
+Sevens. etc. And in what multiplicity ^ou please, of the same Figures, as 3. 4.
+5. Nines, ^ea 10 Nines, 20 Nines, 100 Nines: And so of ^ights, Sevens, sixes
+etc. Some 5 special Enneads, ^r 5 two-faced Rods (or two four-faced square
+^ods) are required to this sort of Operation, ^herein you will not be troubled,
+either with any ^abulating of Rods, or collateral Addition. See ^e Scheme of
+the said special Rods page ult. Fig. ^4 where observe that the nine single
+Units oc^upy severally nine Vertical cells, and their under-^ells to contain
+for the most part only 3 Figures, ^^e leading on the left Hand, another in the
+mid^le, a 3d. ending on the Right Hand. Some few under cells (not above 8 in
+72) have 4 Figures in them, and then the two last on the Right Hand are ^nding
+Figures. The middle figure is most remarkable, and more then it appears; For in
+O^eration it is to be repeated, or taken so often over, as there are Figures of
+one kind in the suppo^ed Vertical, abating one: for example, Suppose ^he
+Vertical to be Ten Nines, or 9999 999999. In the 2d. Cell of the special Rod
+(9) are these thre^ figures 198. where (9) in the middle between (1) and (8) is
+truly nine times nine, that is, one nine less, then Ten nines in the Vertical:
+So that the said 2d. cell 198, is in operation 19999 99999^ or the Vertical
+multiplied by (2) This Rule i^ Universal, yet has two exceptions; first when
+any cell has four figures in it; 2dly. when any cell has a Star prefixed
+before it, according to what is abovesaid concerning Asterisks, then infallibly
+the middle figure is to abate, not only one, but two of the number in the
+Vertical. One example will clear all. Let ten fours or 4444 444444. be given
+for a Multiplicand, and 279 for a multiplyer, then in your special Rod of 4
+Vertical, take out the ninth cell, apparently 396, but really 39999999996. the
+middle figure (9) requiring to be repeated nine times* or one less, then the
+number of fours in the Vertical. Next take out the 7th cell, apparenly 3108 but
+really 31111111108. the middle figure (1) requiring Eight repetitions, or two
+less then Ten of the Vertical, because this 7th cell has 4 figures in it.
+Lastly take our the 2d cell, apparently * 888. but really * 8888888888. because
+the middle figure (8) requires 8 repetition^ (besides the leading and ending 8)
+or two less then Ten of the Vertical, by reason of the Star prefixed before the
+second cell. The Work ended would appear thus in Multiplication.
+
+Multiplicand 4444 444444 39999999996 cell. 9 Multiplier -- 279 31111111108
+cell. 7 8888888888 cell. 2 Product 1 239999 999876
+
+Product 1239999999876 In Division, Multiplicand the Divisor, Product ^he
+Dividend, and Multiplier the Quotient.
+
+Dividend Divisor 4444 444444) 1239999999876 (279 Qu. 2 -- 8888888888
+35111111107 7 -- 31111111108 39999999996 9 -- 39999999996 0000000000
+
+The square and cube Rod ought to be once over in every Set, with three or four
+cypher-Rods, ^s you see expressed in Fig. 11, All are to be so or^erly placed in
+a neat pocket case, that every Rod be known what Number it has. by a mark ^r
+figure, even before you take it out of the Case. ^f you please to reprint the
+Table of the first ^ess Extension by it self in a page, (with its co^umns,
+equal to the Columns of the great Table ^f 9999.) and give it a Varnish to last
+the longer* ^ou may immediately thence make Sets of the ^ouble bones, merely by
+cutting out the capital columns, and passing them on Talleys of Wood or other
+matter (two faced or four faced) of the same length and breadth with the
+columns. Besides, as is abovesaid, this little Table of the first less
+Extension, with one double Rod applied unto it at a time, performs all the
+whole Work of the great Table of 9999 fixed columns, only with thi^
+disadvantage, that it will often have one collateral Addition, whereas the
+great Table will have none. Notwithstanding the great performances of the less
+Table, the great Table hat^ many special uses, for which it deserves to b^
+published, especially not being of any great extent, nor making any great bulk.
+By advice^ Judicious Friends, I thought good to put it fort^ in a Duodecimo, as
+a convenient Enchiridion, ^^ pocketbook, every four pages containing 10^
+columns with their 900 cells, or every page 2^ columns with 225 cells. In which
+case the Table alone would require 400 pages in Duodeci^^ But perhaps it will
+be better, to contract the pag^ to half the Number, viz. to 200. in this manne^
+Let every page have five Ranks of Columns o^ under another, each Rank
+consisting of Ten C^lumns: so will every page contain 50 Column^ and
+wheresoever you open the book, the two p^ges before your eyes, will show you a
+just Hundred of Columns. To find the Number yo^ seek for, more readily, you may
+Tack to the Ma^gent little outstanding Labells, or Indexes, she (...) before
+you open the Book, where every 100 and 1000 begins, such as are seen in certain
+ac^ount-books of Merchants. Let the Book be so ^ound, that wheresoever you open
+it, the leaves ^n either side, may lie Flat without any uprising; ^or so it
+will be more easy to Contabulate the Rods with the Table, when occasion
+requires. ^erhaps it would be better to print it in a little ^olio, for use at
+home in your Closet or Library; ^or then every page would contain its Hundred
+^f Columns, easy to be found out by their own na^ural order.
+
+As well the forementioned Table of 9999 fixed Columns, as the single and double
+moveable Rods ^erve equally in Decimal and common Arithme^ick; yea in Decimal,
+they in a manner take away ^ll the trouble of Division. Neither do they re^ui^e
+any particular Rules in operation, different from those which have been
+delivered concerning ^he Lord N (...) single bones, by himself in his
+Rab^ologia, by F. Andrew Taquet, Sir Jonas Moor, Mr William Leybourne and
+others in their Arithmetical Treatises. Wherefore I shall say no more of them
+but only show by single examples, (one of multiplication, another of Division,
+the ^d of extraction of the Square Root, the 4th of ^he cube Root) the ordinary
+use of them.
+
+Example of Multiplication.
+In multiplication commonly it is best to Tabu^ate the greater Number as
+multiplicand when one is greater then the other. For example. Tabulat^ 4628 to
+be multiplied by 72. Place Unit under Unit, as in the Margent ^
+Then for 2 (the Un^^ of the Multiplyer) take the 2d cell of the Multiplicand,
+viz. 9256. and for 7 of the multiplyer tak^ the 7th cell of the Multiplicand,
+viz. 32396, an^ set both cells down, as you see in ^
+Add the tw^ cells together, and the total Sum or product o^ multiplication
+will be 333216 as you find in ^
+But if you Tabulate 72 to be multiplied by 462^ the operation will appear as
+in ^
+.
+
+In Division the Divisor is to be Tabulated; an^ it much imports, for the
+speedier dispatch of yo^^ operation, that the leading Rod of the Divisor be ^
+great Rod or Column of the Table; a quadrupl^ rather then a Triple, a Triple
+then a double, ^ double then a single, if the Number of your Divisor will
+permit.
+
+Example of Division
+Let 5678556 be a Dividend, and 4628 the Divisor. set them down as in the
+Margent ^
+with a Semilune, for the Quotient, and Tabulate the Divisor. Then enquire how
+often can the Divisor 4628. be taken out of the first partial Dividend, viz.
+5678. Only once; Therefore put 1 for Quotient in the Semilune, and Subtract 4628
+out of 5678. and t^ere will remain 1050 the work standing (if you cash the
+Figures dispatched) as in ^
+. Next bring down 5 out o^ the Dividend, and place it on the right Hand of the
+remainder, as you see in ^
+separated with a Comma. This done, seek in the cells of the Divisor for 10505
+(the next partial Dividend) or for the next less Number then 10505. In the 2d.
+cell is 9256 the next less. Put 2 in the Quotient, and Subtract 9256 out of
+10505. and the remainder will be 1249 to which bring down the other) of the
+Dividend, and dash what is dispatched. Then will the work stand, as in ^
+
+
+In like manner proceed to find the 3d. and 4th. figure of the Quotient, and
+the work finished will appear, as in ^
+Others dash no figures at all, not place the Quotient on the Right Hand of the
+Dividend, but set every quote-figure over against the cell of the Divisor from
+whence it was taken. Every remainder they distinguish with a colum^ from the
+figure brought down out of the Dividend* as you may see in ^
+When in one Number ther^ happen to be two columns, there will be a cipher in
+the Quotient; when 3 Commaes, then 2 Ciphers in the Quotient. The like Method
+serve^ wel^ Extraction of the Square Root, and much Fac^^tate the examining of
+the work done. If any ^umber remain after Division ended, it will be ^he
+Numerator of a Fraction, whose Denominator ^s the Divisor. When you turn
+Integers into a Ra^ius of Decimals, Division either ceases, or is easily ^ad by
+cutting off so many Figures (on the Right ^Hand) from the product of
+multiplication as are in ^he Radius, excepting one.
+
+Example of the Square Roots Extraction
+The Extraction of the Square Root is very ready and plain by the Table, or by
+the double Rod^ or both of them together. Let the number given, whose Root you
+seek, be 70476025. Put a point under the Unit, and every A^tern Figure with a
+Semilune after the Unit as you see in ^
+The 4 points foretell that in the operation there will be 4 partial Dividend^,
+and as many Roots. Then seek in the cells of the Square Rod for 70 (the 1
+partial Dividend) or the nearer less number to 70. 64 is the nearest less to 70
+in the 8th cell. Therefore 8 is your first Root to be placed in the Semilune,
+and 64 is to be Subtracted out of 70. The remainder will be 6 the work
+appearing as in ^
+. For the finding the 2d. 3d. or any other Square Roots following, obs^rve
+these Rules: First, bring down the next parttial Dividend and join it to the ^^
+remainder on the Right Hand.
+
+Secondly, double the Root or Roots found, an^ Tabulate that double on the left
+Hand of the Square Rod or (working by the Table) carry t^^ Square Rod to the
+double in the Table.
+
+Thirdly, seek for the Number (or next less) ^^ your last remainder joined to
+the next partial D^vidend in the cells of the Tabulated Rods and the Cell
+wherein it is found, will give you the nex^ Root.
+
+Fourthly, Subtract the cells Number out of the remainder and partial Dividend,
+and proceed a^ before, wherefore in our present example to fin^ the 2d. Root,
+
+First, bring down 47 and join it to 6 to make 647.
+
+Secondly, Double the Root 8 and Tabulate 16 with the Square Rod.
+
+Thirdly, seek 647 (or the nearer less) in the Tabulated Rods the third cell
+gives 489, the next less, which Subtracted out of 647, leaves the remainder
+158. The 3d. cell gives 3 for the 2d. Root: see the Margent ^
+For the finding o^ the 3d. and 4th. Root, proceed as before. The whole
+Operation ended stands as underneath a^ ^
+or according to the Method, mentioned in ^ivision, underneath at ^
+where any number re^ains after the work ended, it is the Numerator ^f a
+Fraction, whose Denominator is the double ^f all the Roots and one Unit more.
+But if you ^esire a more exact Fraction, add to the Nume^ator 2. 3. or more
+Couples of Ciphers, and wor^ ^s before, and you will find the nearer Decimal
+^raction.
+
+Example of the Cube-Roote's Extraction.
+^st. set down the number (whose Cube-root you ^ek) with a point under the Unit
+and every 3d. Figure, and a Semi-Lune for the Roots, as unde^neath at ^
+how many points, so many parti^^ Dividends and Roots will be in the Operation
+
+2ly, Seek in the Cube Rod for 94 or the neare^ less number: In the 4th cell
+you find the nearest ^ Set down 4 for the 1 Root and Subtract 64 o^ of 94, the
+remainder will be 30; and the work appear as in ^
+
+
+For the finding of the 2d, or any other following Root, observe these Rules.
+
+1st. Bring down the next partial Dividend 81^ and join it to the remainder 30,
+on the Right Hand, as in ^
+
+
+2ly, Tabulate the triple of Root or Roots found (Root 4 the triple 12) with
+Rod or Rods apart call them for distinction, Right Hand Rods.
+
+3ly. Tabulate the triple of the Sq. of the Root^ found (Root 4 Square 16 the
+triple of 48) with Rod or Rods. placed on the left Hand, of the Cube Rod: call
+these left Hand Rods. Or working by the Table, carry your cube-Rod to 48 in
+your Table.
+
+4ly, Seek for 30818 the present partial dividend or next less number, in the
+cells of the left Hand Rods. In the 6th cell you find 29016 the next le^^ yet
+indeed too much, 2s will after appear. Set th^^ this number down apart, and
+draw a line abo^e ^t as you see in ^
+over the Unit; and above the ^ine place 6 the number of the cell, out of which
+^9016 was taken: On the left Hand of 6 place ^he Square of 6, viz. 36 as you
+see in ^
+then take the 6th and 3d. cell (by reason of 36 the Square) ^ut of the right
+Hand Rods, viz. 72 and 36 and place them as you see in ^
+adding all the numbers under the line into one Sum, viz. 33336, as you see in ^
+which being too great to be taken ^ut of 30818. you must go back and take a
+less ^ell, then 6.
+
+Take therefore the cell 5. which has in it the ^e number 24125. write it
+apart with a line above it, and an above line over the Unit: place 5 the cells
+number) and on the left Hand of 5 the he Square of 5 viz. 25 as in the margent ^
+^ake out of the right Hand Rods the 5th. and 2d. ^ell (by reason of the Square
+25) viz. 60 and 24 and add them, as you see in ^
+to make 27125 which taken out of 30818 there will remain 3693 and the work
+stand as in the margent. ^
+For the 3d Roo^ do as you did for the 2d.
+
+1st, Bring down the nex^ Dividend and join it to t^^ last remainder.
+
+2ly, Tabulate a part on the right Hand Rod^ the triple of the Roots found.
+
+3ly, Tabulate the triple of the Square of t^^ Roots on the left Hand of the
+Cube-Rod.
+
+4ly, Seek in the cells of the left Hand rods for the left Hand rods for the
+partial Dividend.
+
+5ly, Set down apart the number required foun^ and draw a line above it: above
+that line a^ over the Unit place the Figure of the cell taken and on the
+lefthand of the figure, place its squar^ ^s was expressed as before above in
+the margen^ (u) the whole Operation ended, will appear brie^ly as in ^
+
+
+Note first, that scarce can you give any prece^ in writing concerning
+Extraction of roots, clear, but that they shall confound or puzzle young
+Student of Arithmetic, who will be ab^ to learn more in an Hour of a Master
+shewi^^ him the practice, than in a day or week by his own reading of precepts.
+
+2ly, note, that in Cubick Extractions it is not easy to fores^e or prevent
+the taking of too great a number out of the left Hand and Cube-Rods. We may
+probably conjecture that it will happen so, when the number taken is almost as
+great as the partial Dividend, and yet is to be increased by adding 1 or 2
+cells more out of the Right Hand Rods.
+
+3ly, Note, that when the capital cell of the left hand and cube-rods is
+greater than the partial Dividend, a Cipher is to be put in the Quotient as a
+Root, and the next partial dividend is to be brought down and joined to the
+former.
+
+4ly, note, that if any number remain after Extraction, it must be set down as
+the Numerator of a common Fraction, whose Denominator is a number made of the
+triple of all the roots, and of the triple of the Square of all the roots,
+and an Unity. For example. The roots being 456 the Denominator would be 625177
+See the Margent Triple of Roots. 1368 Triple of Square. 623808 Unity 1 Summa
+625177
+But far better it is to add to to the Numerator, or the remaining number, 3 or
+4 triples of ciphers thus, 000, 000, 000. and work out by the precedent rules a
+clear and plain decimal Fraction.
+
+Thus much (and indeed more than I first intended) concerning Pythagoras his
+Table, the Extensions thereof, and the Numbering Rods.
+
+And here I might (had I not been too long already) exemplisy in a few
+instances; and there by show, that whatsoever is performed by Logarithmes in
+Problemes of Trigonometry, Sines Tangents, Secants, Questions of Interest, etc.
+may be also performed by this Table of the third less Extension, and the double
+Rods, or by the double Rods alone: whether with more readiness and clearness,
+Practice and Experience must show.
+
+What also can be performed by Mr. Brigges's Table of 20 Chiliades of
+Logarithmes, may be done (if I mistake not) more plainly and speedily by this
+Table. For though it be but the half of 20 Chiliades, (it being only 10
+Chiliades), yet by applying one double Rod thereunto, it exceeds 20 Chiliades
+by 980000 Chiliades.
+
+For Conclusion, I will here suggest certain Lines divided into certain digits,
+which are singularly useful in measuring most things measureable, and make your
+Operation quick and plain, without trouble of division, or necessity of
+reducing inches into other known Integers. For though you measure by digits
+only, and multiply them by one another, yet the Product of Multiplication
+immediately gives you in hundreds or thousands, the superficial or solid
+content, not only in digits, but in other known terms of Feet, Yards, Acres,
+Gallons, Barrels, Bushels, etc. For Wine-Gallon-digits proceed thus, Take the
+Cube Root of 231, (the solid inches in a Wine-Gallon) which is 6, 136 vulg.
+Inc. proxime. Divide this Root into ten equal parts exactly, with subdivisions
+of each part into other ten less parts, and you have the Wine-Gallon-digits.
+
+You measure by them, for example, a cylindrical capacity, and find the
+Diameter of it to be 56 digits, and height 60 digits, the area of that circle
+will be 24,64 superficial digits, which multiplied by 60 digits, produces
+147.840 solid digits, whereof every thousand is a just Wine-Gallon. There are
+therefore 147 Gallons, and 840 digits toward another thousand or Gallon: that
+is above three quarts.
+
+For Beer or Ale Gallon digits, take the cube Root of 282 solid vulg. inches in
+the AleGallons, which is 6,558 proxime. Divide this Root into ten equal parts,
+with subdivisions, as above.
+
+For Beer-barrel-digits, take the cube Root of 10152 (solid vulg. inc. in a
+Beer-barrel of 36 Gall.) which is 21,653 proxime, to be divided into ten equal
+parts with subdivisions, a^ before.
+
+For Foot-digits take the square-Root of 144 (a Foot square) or cube*Root of
+1728, (a Foot solid) both which is 12 common inc. Divide this Root 12 into ten
+equal parts, with subdivisions; measure and work by them, every hundred square
+will be a true Foot square, equal to 144 common inc. and every thousand solid,
+a Foot solid equal to 1728 com. inc. For example, you measure a tetragon
+pyramide, whose one square side is 50 Foot-digits, and height 60. The square of
+50 is 2500, and gives the area of the pyramid^ at the bottom, viz. 2500 sq.
+dig. or 25 sq. Feet^ multiply the area 2500 by 20 (a 3d of the height 60) and
+the product will be 50000 fol. dig. that is 50 solid Feet, equal to 86400 solid
+common inc^
+
+These 4 lines of Wine-gall. dig. Beer-gall. dig. and foot-digits, are of
+excellent use in Gauging, and measuring any thing by feet sq. or solid, and may
+be conveniently cut on a Ruler, or long measuring staff, hard by or on both
+sides of a line of common inches, so that by mere inspection you may see how
+much they differ amongst themselves, and from common inches. If you desire
+yard-dig. to measure by sq. or cube-vards, divide 36 the square Root of 1296 (a
+sq. yard in common inches) and cube Root of 46656 (a yard sol. in common
+inches) into ten equal parts, as in other digits above; So may you have
+bushel-dig. by dividing 12, 958, which is proxime the cube Root of 2176
+(commonly esteemed a solid bushel in vulgar inches) into 10 equal parts. For
+measuring of Land, Mr. Gunter's Chain (of 100 links, equal to 4 perches or 66
+foot in length, is very convenient. Every 10000 sq. links is a chain sq. or 16
+perch. sq. or the 10th. part of an Acre s. 100000 of links sq. is 10 chains sq.
+or 160 perches sq. or an Acre sq. Note 1. That when the Root is great, as 20,
+30, or more vulg. inc. then you may divide it into more than 10 equal parts, as
+100. 1000, etc. Note 2. That in working by the aforesaid Root-dig, the
+contingent Fractions will be decimal and clear.
+
+FINIS.
+ERRATA.
+Fol. 32. lin. 12. set them thus 72. ^
+
+Fol. 33 l. 21. read thus ^
+
+Fol. 39 l. 12. ^
+
+TETRASTICHON. In Enneadas Arithmeticas.
+COnditor Aen^idos peperit sibi nobile Nomen* Nullum Nomen habet Conditor
+Enneados. Si tamen Enneados, quaeratur, quis fuit Author? Baro, Refer, Neperus,
+Pythagorasque fuit.
+
+The Aeneid's Author is a Man much Famed,
+
+The Ennead's Author not so much as Named;
+
+But if you are asked who the Ennead's Author was*
+
+Say Lord John Neper, and Pythagoras.
+
+DISTICHON. In Tabulam 10000 Enneadum.
+HAc Tabula Enneadas decies tibi Mill Ministr^ Pythagorae tantum prisca
+Tabella december.
+
+This Table gives Ten Thousand Enneades, when Pythagora's Old Table gives but
+Ten.
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+30 31 32 33 *2 *4 *6 *8 10 12 14 16 18 *20 *22 *24 *26 *28 *30 *32 *34 *36 *38
+*40 *42 *44 *46 *48 *50 *52 *54 *56 *58 *60 *62 *64 *66 *3 *6 *9 12 15 18 21 24
+27 *30 *33 *36 *39 *42 *45 *48 *51 *54 *57 *60 *63 *66 *69 *72 *75 *78 *81 *84
+*87 *90 *93 *96 *99 *4 *8 12 16 20 24 28 32 36 *40 *44 *48 *52 *56 *60 *64 *68
+*72 *76 *80 *84 *88 *92 *96 100 104 108 112 116 120 124 128 132 *5 10 15 20 25
+30 35 40 45 *50 *55 *60 *65 *70 *75 *80 *85 *90 *95 100 105 110 115 120 125 130
+135 140 145 150 155 160 165 *6 12 18 24 30 36 42 48 54 *60 *66 *72 *78 *84 *90
+*96 102 108 114 120 126 132 138 144 150 156 162 168 174 180 186 192 198 *7 14
+21 28 35 42 49 56 63 *70 *77 *84 *91 *98 105 112 119 126 133 140 147 154 161
+168 175 182 189 196 203 210 217 224 231 *8 16 24 32 40 48 56 64 72 *80 *88 *96
+104 112 120 128 136 144 152 160 168 176 184 192 200 208 216 224 232 240 248 256
+264 *9 18 27 36 45 54 63 72 81 *90 *99 108 117 126 135 144 153 162 171 180 189
+198 207 216 225 234 243 252 261 270 279 288 297 34 35 36 37 38 39 40 41 42 43
+44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 *68 *70
+*72 *74 *76 *78 *80 *82 *84 *86 *88 *90 *92 *94 *96 *98 100 102 104 106 108 110
+112 114 116 118 120 122 124 126 128 130 132 102 105 108 111 114 117 120 123 126
+129 132 135 138 141 144 147 150 153 156 159 162 165 168 171 174 177 180 183 186
+189 192 195 198 136 140 144 148 152 156 160 164 168 172 176 180 184 188 192 196
+200 204 208 212 216 220 224 228 232 236 240 244 248 252 256 260 264 170 175 180
+185 190 195 200 205 210 215 220 225 230 235 240 245 250 255 260 265 270 275 280
+285 290 295 300 305 310 315 320 325 330 204 210 216 222 228 234 240 246 252 258
+264 270 276 282 288 294 300 306 312 318 324 330 336 342 348 354 360 366 372 378
+384 390 396 238 245 252 259 266 273 280 287 294 301 308 315 322 329 336 343 350
+357 364 371 378 385 392 399 406 413 420 427 434 441 448 455 462 272 280 288 296
+304 312 320 328 336 344 352 360 368 376 384 392 400 408 416 424 432 440 448 456
+464 472 480 488 496 504 512 520 528 306 315 324 333 342 351 360 369 378 387 396
+405 414 423 432 441 450 459 468 477 486 495 504 513 522 531 540 549 558 567 576
+585 594 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90
+91 92 93 94 95 96 97 98 99 134 136 138 140 142 144 146 148 150 152 154 156 158
+160 162 164 166 168 170 172 174 176 178 180 182 184 186 188 190 192 194 196 198
+201 204 207 210 213 216 219 222 225 228 231 234 237 240 243 246 249 252 255 258
+261 264 267 270 273 276 279 282 285 288 291 294 297 268 272 276 280 284 288 292
+296 300 304 308 312 316 320 324 328 332 336 340 344 348 352 356 360 364 368 372
+376 380 384 388 392 396 335 340 345 350 355 360 365 370 375 380 385 390 395 400
+405 410 415 420 425 430 435 440 445 450 455 460 465 470 475 480 485 490 495 402
+408 414 420 426 432 438 444 450 456 462 468 474 480 486 492 498 504 510 516 522
+528 534 540 546 552 558 564 570 576 582 588 594 469 476 483 490 497 504 511 518
+525 532 539 546 553 560 567 574 581 588 595 602 609 616 623 630 637 644 651 658
+665 672 679 686 693 536 544 552 560 568 576 584 592 600 608 616 624 632 640 648
+656 664 672 680 688 696 704 712 720 728 736 744 752 760 768 776 784 792 603 612
+621 630 639 648 657 666 675 684 693 702 711 720 729 738 747 756 765 774 783 792
+801 810 819 828 837 846 855 864 873 882 891
+
+Figure. 1
+A B 0 1 2 3 4 5 6 7 8 9 0 2 4 6 8 10 12 14 16 18 0 3 6 9 12 15 18 21 24 27 0 4
+8 12 16 20 24 28 32 36 0 5 10 15 20 25 30 35 40 45 0 6 12 18 24 30 36 42 48 54
+0 7 14 21 28 35 42 49 56 63 0 8 16 24 32 40 48 56 64 72 0 9 18 27 36 45 54 63
+72 81 Fig. 2
+S. 1 C. 01 0 4 08 0 9 27 0 16 64 0 25 125 0 36 216 0 49 343 0 64 512 0 81 729
+0 Fig. 3
+A B 1 2 3 4 5 6 7 8 9 2 4 6 8 10 12 14 16 18 3 6 9 12 15 18 21 24 27 4 8 12 16
+20 24 28 32 36 5 10 15 20 25 30 35 40 45 6 12 18 24 30 36 42 48 54 7 14 21 28
+35 42 49 56 63 8 16 24 32 40 48 56 64 72 9 18 27 36 45 54 63 72 81 Fig. 4
+S. 1 C. 01 0 4 08 0 9 27 0 16 64 0 25 125 0 36 216 0 49 343 0 64 512 0 81 729
+0 numerical table too complicated to transcribe Fig. 5
+numerical table too complicated to transcribe Fig. 6
+numerical table too complicated to transcribe Fig. 7
+Fig. 8
+12 *24 *36 34 *68 *102 *48 *60 *72 136 170 204 *84 *96 108 238 272 306 Fig. 9
+123 *246 *369 *492 *615 *738 *861 *984 1107 Fig. 10
+1234 *2468 *3702 *4936 *6170 *7404 *8638 *0872 11106 Fig. 11
+S. 1 *4 *9 C. 01 *08 *27 0 *0 *0 00 *00 *00 000 *000 *000 16 25 36 *64 125 216
+*0 *0 *0 *00 *00 *00 *000 *000 *000 49 64 81 343 512 729 *0 *0 *0 *00 *00 *00
+*000 *000 *000 Fig. 12
+78,96,78 78,96,7,8 78,9,67,8 7,8,9,67,8 7,8,96,78 7,8,9,6,78 54,72,54 72
+54,72,5,4,7,2 54,7,25,4,72 5,47,25,4,72 5,4,7,2,54,72 Fig. 13
+1 2 3 4 5 6 7 8 9 * 2 4 6 9 1 3 5 7 8 * 3 7 0 3 7 0 3 0 7 * 4 9 3 8 2 7 1 5 6
+* 6 1 7 2 8 3 9 4 5 * 7 4 0 7 4 0 7 3 4 * 8 6 4 1 9 7 5 2 3 * 9 8 7 0 5 4 3 1 2
+1 1 1 1 1 1 1 1 0 1. Fig. 14
+1 *222 *333 2 *444 *666 3 *666 999 4 888 132 5 110 165 6 132 198 7 154 231 8
+176 264 9 198 297 *444 *555 *008 *888 110 132 132 165 108 170 220 204 220 27^
+330 204 330 396 3108 385 402 352 440 5328 300 405 504 *777 *888 *999 154 176
+198 231 264 297 3108 352 396 385 440 495 462 5328 594 5439 0210 693 6216 7104
+792 693 792 891 Fig. 15
+Sq. 1 *4 *9 C. 01 *08 *27 0 *0 *0 *00 *00 *00 16 25 36 *64 125 216 *0 *0 *0
+*00 *00 *00 49 64 81 343 512 729 *0 *0 *0 *00 *00 *00
+
+

@@ -1,0 +1,2710 @@
+VERA EFFIGIES IOHANNIS MAIN Philo: Accomp:
+
+
+Arithmetic: VULGAR, DECIMAL, and ALGEBRAICAL.
+
+In a a most plain and Facile Method for Common Capacities.
+
+TOGETHER With a Treatise of Simple and Compound Interest and Rebate; with two
+Tables for the Calculation of the Value of Leases and Annuities, Payable
+Quarterly; the one for Simple, the other for Compound Interest, at 6. per Cent.
+per Annum; with Rules for making the like for any other Rate.
+
+To which is added A New, and most Practical way of GAUGING of TUNNS.
+
+AS ALSO The ART of Cask-Gauging, for the Use of His MAJESTY'S Officers of the
+EXCISE.
+
+LONDON, Printed for J. A. and are to be Sold by most Book Sellers. 1673.
+
+To his Honored Friend THO. WILLIAMS, M. D. Physician in Ordinary to His S.
+Majesty.
+SIR,
+THough the happiness which I formerly enjoyed in your Converse, has been, to
+my great loss, for some years discontinued; yet I easily persuade my self, that
+the Favor of a Great Prince, and the Best Master in the World, has not wrought
+such a change upon your even Virtue, but that you will still descend to
+remember him whom you were once pleased to honor with the Name of Friend. This
+Confidence has embold'ned me to present you with this small trifle; too mean
+indeed and trivial for your acceptance, but that I know you are wont to admit
+of any thing that proceeds from an honest undesigning Gratitude. And though I
+am not at all inclined to vanity from the merits of the Work it self, yet I am
+proud that it affords me an opportunity to discover the lasting impressions,
+which your many Favors have made upon my Breast. Geometry, with Arithmetic
+her Woman, are Beauties, that having Truth written in their Foreheads, dare
+appear in the Court of the greatest Monarch, and I doubt not but they will find
+very easy and courteous admittance into your Appartment; where if they shall
+afford you any divertisement when you return wearied from your ingenious
+Elaboratory, I shall then account that I have written to very good purpose.
+However, they certainly assure you, that it is impessible the teeth of Time
+should obliterate the honorable esteem conserved for you, in the heart of,
+
+Sir, Your most humble Servant, JOHN MAIN.
+
+THE PREFACE.
+I Shall not trouble thee, Reader, nor my self, with a long Apology for the
+publishing this Treatise. How demurely soever I should pretend to the contrary,
+I fear thou will still be apt to imagine, that I had a tolerable good opinion of
+it, before I ventured it to the Press; and truly I my self cannot well
+conceive, how any man should be over ambitious of being publicly laughed at. If
+it be in any measure suited to the General Good, (for which I intended it,) I
+may at least expect thy pardon; but if upon the perusal thou shall find it
+otherwise, I ingenuously acknowledge my self to have been mistaken. My Design
+in this Work is, to render the Rules of those excellent Arts, which the
+Title Page pretends to, so plain and obvious, as that they may be easily
+apprehended without the Assistance of a living Master. And if there were
+nothing new in the whole, but the perspicuity of the Principles, and easiness
+of the Method (which out of civility to my self I must deny) yet those alone
+are sufficient to vindicate me in this Publication; and I hope thou will not be
+angry, that I am a Well-wisher to thy Understanding. For when I considered,
+that among the many good Books of this Nature, that are abroad in the World
+(though written by Persons of greater knowledge than I dare pretend to) some
+were so learned and obscure, as not to be understood, unless by those who have
+already made a considerable proficiency in these things; others, so voluminous
+and prolix, that they fright the endeavors of such who cannot spend their
+whole time this way: I was willing, according to my abilities, to obviate both
+these inconveniences, and accordingly applied my self to the composure of
+something, which for its plainness and brevity might be accommodated to those
+of mean Capacities and small Leisure; and this Book is the result of those
+Contemplations. Whether I have accomplished my purpose or no, I make thee the
+Judge; requiring only that thou censure impartially of the Author and his
+Endeavors, without being offended that he is desirous to do thee a courtesy.
+I shall not here expatiate in the praise of the Arguments I treat of, nor give
+thee one line of Encomium: though out of the great affection I bear to these
+Arts, I find a strange inclination in my self to be rhetorical, yet I am
+resolved not to affront thee; for truly their usefulness and excellency is so
+universally known, that to tell thee of it as a new thing, were to suppose thee
+a Person of more than ordinary ignorance; only (as I said before) I must be so
+civil to my self too, as to inform thee, that (besides the Introduction to
+Arithmetic and the Treatise of Interest, of which I challenge no more than
+thou shall find thy self very willing to give me) that Part which concerns the
+measuring of Solids, viz. the Prismoid, Cylindroid, etc. is wholly new, and
+never before made public. The bulk is bigger than at first by me intended; but
+to gratify the Bookseller, the Vulgar Arithmetic was an Appendix, though
+previous to the rest. But if one, or other, or all, prove either profitable or
+pleasant to thee, I am sufficiently obliged to subscribe,
+
+From my House at the Golden-Ball in Shaws-Court, near St. Georges Church,
+Southwark; July 29. 1673. Thy Friend, John Main.
+
+To the Ingenious Author, concerning his DECIMALS.
+SIr, by your Art, and Pythagorean Pen,
+I Would prove a Metempsychosis again;
+And were His Soul of Decimals but made,
+As Plato's Soul of the world of Seven is said,
+I Would swear 'twas slunk to you; but that you show
+More Skill than e're his rambling fancy knew,
+Let roving Rabbis praise their Seven and Four;
+We Will show them Mysteries enough and more:
+The Heavenly Orbs are Ten, their Motions all
+Conspire to make a perfect Decimal:
+This is their Music, and they shall be thus,
+In spite of Tycho or Copernicus.
+It Is said the Muses are but Nine, but who
+(Rather than fail) cannot add Apollo too?
+Thus may we range the world, and quickly find,
+We all to the number of our Fingers bind.
+Thus Logic all the wandering Species brings,
+And places under tenfold Heads of things.
+Thus I, to give the Author praise in all,
+Reduce my Verses to a Decimal.
+On his GAUGING.
+YOur Circles, Sir, would make my folly ghess,
+You were a Conjurer, though you wo'n't confess.
+And Gauging is the rugged devilish Name
+Of some Hobgobling Imp, the very same
+That brought in Custom; but what e're he be,
+He Is a rare Fellow at the Rule of Three:
+He does just square the Circle; nay so true,
+That the King's Right is given to a Cue.
+There Is none else such Impossibles can do:
+You give the King's, I give this Right to you.
+J. W.
+
+On his worthy Friend Mr. J. Main, the Author of this BOOK.
+Jngenious Artist, whither do aspire?
+Or why t'outvye the Ancients do desire?
+Have they not left enough to following Ages?
+No: Thou their Master art, they but thy Pages.
+My feeble Muse can never soar so high,
+As thy Deserts herein extend, nor nigh.
+Yet give me leave hereof to speak my mind:
+No Man could better teach us in this kind,
+Each Part so useful, and so plain I find.
+T. W. (...).
+
+To his ingenious Friend the Author Mr. John Main.
+Who reads thy Book with an impartial Eye,
+Will see how plain, and how ingeniously
+Thy Rules are framed; here every Child may learn
+Arithmetic, which does the Truth discern.
+The Judges of our Realm could not dispense
+To all Men Justice, were it not fetched from hence:
+Those Sons of Mars that furrow Neptune's Brow,
+Unto this Science must their Labors bow:
+The wealthy Merchant, and all Traders, hence
+Must calculate their Gain, or their Expense:
+The greedy Miser, here may plainly see
+His Pelf's increase at Compound Usury:
+The Purchaser of Farms, may also here,
+Value his Lordships, whether cheap or deer.
+Thy Squares and Cubes, methinks, so plain do seem,
+That I old Euclid should thy Father deem.
+All Humane Arts, Mechanical and Free,
+For this Companion are obliged to Thee.
+By Lines and Numbers, we our Buildings bring
+In due proportion, framing every thing.
+By these our Wooden Walls and Towers are framed,
+Which guard our Island, and the Seas command:
+These fill our Stores with rich and costly things,
+Born from both Indies under Canvas Wings:
+These fortify our Towns with Forts, by Line;
+By these we learn our Foes to undermine:
+By these the Excise and Customs we do scan,
+Without Injustice to the Trading Man.
+Thanks to our Author then, that has set forth
+These Arts so plain, and of abundant worth:
+Which do to Sea and Land such Profit yield,
+In Court, in City, Garrison, and Field.
+Hugh Handy, Philomath.
+
+A TABLE OF THE CONTENTS.
+The First BOOK.
+NOtation or Numeration. page 1 Addition. 4 Subtraction. 8 Multiplication. 12
+Division. 17 Reduction. 20 The Rule of Three. 22 The Rule of Practice. 28
+Notation of Decimals. 34 Addition of Decimals. 37 Subduction of Decimals. 38
+Multiplication of Decimals. ib. Division of Decimals. 41 Reduction of Decimals.
+48 A Table of Reduction. 52 The Golden Rule. 54 The Double Golden Rule. 61 Of
+the Square Root. 66 A Table of Square Roots. 71 Of Quadratique Equations. 80 Of
+the Cube Root. 91
+The Second BOOK.
+OF Simple Interest. page 99 Prop. 1. To find the Interest of any Sum, forbor^
+any time, at any given rate. 100 Prop. 2. To find the present worth of any Sum.
+due at any time hereafter, at any given rate of Interest. 102 Prop. 3. Having
+the Principal, Amount, and Rate of Interest, to find the Time of for be
+forbearance. 103 Prop. 4. Having the Principal, the Time, and the Amount, to
+find the Rate. 105 A Table of the Amounts of 1 l. from one to twelve months.
+107 To find the Interest or Discomps of any Sum of Money by that Table. 107,
+108 A Table for Equation of Time. 110 A more exact way of Equation. 111, 112,
+113 A Decimal Table of the present worth of 1 l. per Quarter for 124 Quarters,
+at 6 per Cent. per Aunum, Simple Interest. 114 The Use of the Table. 117 Of
+Compound Interest. 118 Prop. 1. To find the Increase of any given Sum, for
+forborne any known Time, at a known Rate per Cent. per Annum. 118 Prop. 2. The
+Amount of a Sum of Money, the Rate of Interest per Cent. per Annum, and the
+Time being known, to find what was the Principal. 120 Prop. 3. The Principal,
+the Time, and the Amount of a Sum of Money being known, to find the Rate of
+Interest per Cent. per Annum. 121 Prop. 4. The Principal, the Rate, and the
+Amount being known, to find the Time in which it has so increased. 122 Of
+Compound Interest Infinite. 123 Prop. 1. To find the present worth of an Estate
+in Fee Simple, at any Rate of Interest per C. per Ann. 123 Prop. 2. To find
+what Freehold Estate any Sum of Money will buy, at any Rate of Interest per C.
+per Ann. 126 Prop. 3. An Estate being offered for a Sum of Money, the annual
+Rent being known, to find what Rate of Interest the Purchaser shall have for
+his Money. 126 To find how many years purchase any Freehold Estate is worth at
+any given Rate of Interest. 128 The number of years purchase being proposed to
+find the Rate of Interest it is offered at. 129 A Decimal Table for the
+Val^ation of Leases or Annuities, payable Quarterly, at 6 per Cent. per Annum,
+Interest upon Interest for 31 years. 130 The way of Making the Table
+beforementioned, for this, or any other Rate of Interest. 133 The Use of the
+Table. 134 Six Questions performed by aid of the Canon of Logari^hms. 137
+The Third BOOK.
+THe Definition of a Prismoid. page.151 To find its Solidity. 153 Prop. 1. An
+Example in Numbers. ib. Prop. 2. The Inversion of the former Solid upon its
+opposite Base, the Rule and Example. 157 Prop. 3. Another Example. 161 Prop. 4.
+The Inversion. 163 The Definition of a Pyramid. 171 To find its Solidity. 172 A
+Table of Divisors for Reduction of the Polygons, and the Cone,^o Cubick Inches
+or Gallons. 173 An Example of a Trigon. 174 Of a Tetragon. 179 Of a Pentagon.
+182 Of a Cone. 184 To find the Fall of a Conical Tunn. 186 Of Cask-Gauging. 191
+To find a Casks Length. 192 To find the Head-diameter. 193 To find the
+Diagonal. ib. To find the Content as Spheroidal. 194 As Parabolical. 196 As
+Conical. 197 By a Table of Area's. 199, 200, etc. To find the Ullage. 202, 205
+ARITHMETIC IN Whole Numbers.
+NOTATION.
+IT is necessary, that all Persons that would acquaint themselves with the
+Nature and Use of Numbers. do first learn to know the Characters by which any
+Quantity is expressed.
+
+These Characters are in number nine, who with a Cipher are the Foundation of
+the whole Art of Arithmetic. Their form and denomination as in this Example.
+
+0. Cipher. 1. One. 2. Two. 3. Three. 4. Four. 5. Five. 6. Six. 7. Seven. 8.
+Eight. 9. Nine.
+
+These Characters standing alone express no more than their simple value, as 1
+is but one, 2 standing by it self signifies but two, and so of the rest; but
+when you see more than one of those Figures stand together, they have then
+another signification, and are valued according to the place they stand in,
+being dignified above their simple quality, according to the Examples in this
+Table.
+
+Hundred Millions. 1 Ten Millions. 1 2 Millions. 1 2 3 Hundred Thousands. 1 2 3
+4 Ten Thousands. 1 2 3 4 5 Thousands. 1 2 3 4 5 6 Hundreds. 1 2 3 4 5 6 7 Tens.
+1 2 3 4 5 6 7 8 Unites. 1 2 3 4 5 6 7 8 9
+
+The denomination of Places according to this Table, must be well known, and
+are thus expressed; those standing in the place of Unites, signify no more than
+their value before taught; but standing in the second place toward the left
+hand, they are increased to ten times the value they had before, 1 or One in
+the Unite place signifies but One; if it stand in the second place toward the
+left hand, and a Cipher before it thus 10, it has ten times its simple value,
+and is called Ten; if 2 stand in the place of the Cipher thus 12, it is then
+Twelve, being Ten and two Unites; 1, 3, or 3, standing in third place, with
+Figures or Ciphers toward the right hand of it, does signify Hundreds, as 100
+is One hundred, 123 is One hundred twenty three, 321 is Three hundred twenty
+one, 213 is Two hundred thirteen; and so any three of the other Figures have
+like value, according to their Stations, the first to the right hand in the
+Unite place signifies so many Unites, the second, or that in the place of Tens,
+is increased to ten times its simple value, and in the third place, or place of
+Hundreds, any Figure there standing has a hundred times the value it would
+have had were it in the Unite place.
+
+The fourth place is the place of Thousands, any Figures standing there, with
+three Figures or Ciphers to the right hand of it, is so many Thousands as
+simply it contains Unites, so 3000 is Three thousand, 9825 is Nine thousand
+eight hundred twenty five, etc.
+
+The fifth place is Ten thousands, and any five Figures placed together, are to
+be read after this manner: Example.
+
+45326 Forty five thousand three hundred twenty six. 12345 Twelve thousand
+three hundred forty five.
+The sixth place has the denomination of Hundred thousands, and those six in
+the Table that stand in a rank are to be read, One hundred twenty three
+thousand four hundred fifty six.
+
+The seventh is the place of Millions, and the seven in the Table are, One
+million two hundred thirty four thousand five hundred sixty seven.
+
+And the eighth Rank of Figures are to be read, Twelve millions three hundred
+forty five thousand six hundred seventy eight.
+
+The ninth rank is, One hundred twenty three millions four hundred fifty six
+thousand seven hundred eighty nine. And so any greater number of places, every
+figure one place more toward the left hand, is increased ten times in value
+more than in the place it stood before.
+
+ADDITION.
+ADdition, is a gathering or collecting of several Numbers or Quantities into
+one Sum, by placing all Numbers of like Denomination under one another,
+carrying all above ten to the next place, as in these Examples.
+
+There is likewise another kind of Addition, that is not of whole Quantities,
+wherein is necessary to be known the number of Parts the Integer or whole
+Number is divided into, as Pounds and Shillings, every Pound is divided into 20
+Shillings, and one Shilling is divided into twelve Pence, one Penny into four
+Farthings.
+
+Now being to add a Number of Pounds and Shillings together, they are thus set
+down with a small Line or Point between them.
+
+If these be added together, observe in casting up your Shillings, so many
+times as you have 20 in the Shillings, you must carry Unites to the Pounds, and
+set down the Remainder, being under 20, as in these Examples.
+
+In the first Example, I find in adding the Shillings together, they make 21,
+so I set down 1 and carry 1 Pound to the Pounds: In the second Example, I find
+among the Shillings 53, which is 2 Pounds 13 Shillings, so I set down 13 under
+the Shillings, and 2 to the Pounds.
+
+Any number of Shillings and Pence being to be added together, if your number
+of Pence amount to above 12, carry 1 to the Shillings, and set down the
+remainder under the Pence; if they make above 24, carry 2 Shillings, and set
+down the remainder, as before.
+
+Examples.
+
+In the first Example, you carry one Shilling; in the second, two; and in the
+third, three.
+
+In Addition of Pence and Farthings, carry so many times four as you find in
+the number of Farthings to the Pence, setting down the remainder under the
+Farthings, as in these Examples.
+
+When you would know the Sum of any number of Pounds, Shillings, Pence, and
+Farthing, they are to be placed thus:
+
+Addition of Weight and Measure is performed after the same manner.
+
+16 Ounces Averdupois, make a Pound. 28 Pounds, make a Quarter. 112 Pound, or 4
+Quarters, make an Hundred gross. 20 Hundred, make a Tun.
+Examples.
+
+Where observe, that so often as I find 16 Ounces, I carry 1 to the Pounds; so
+often as I find 28 Pounds, I carry 1 to the Quarters; and as many times as I
+find 4 in the Quarters, so many times 1 do I carry to the Hundreds.
+
+SUBTRACTION.
+SVbtraction is the taking a lesser Number from a greater, and exhibits the
+Remainder.
+
+In Subtraction the Numbers are placed one under another, as in Addition, thus:
+
+The first of these Numbers is called the Minorand, the second the Subducend,
+and the third Number, or the Number sought, is the Resiauum.
+
+EXAMPLES of COINS.
+
+But when the number of Pence or Shillings, are greater than the number that
+stands over it in the Minorand, you must borrow the next Denomination, as in
+this Example.
+
+This Example I work after this manner, saying 9 d. out of 3 d. I cannot have,
+wherefore I borrow 1 s. from the Shillings, and subduct the 9 d. from that, and
+there will remain 3 d. which added to the other 3 d. makes 6 d. I place
+therefore 6 d. in the Place of Pence, and proceed saying, 1 s. that I borrowed
+and 19 is 20 from 1 I cannot, wherefore I borrow 1 l. from the Pounds, and
+subduct from that the 20 s. and there remains nothing but the 1 s. which I
+place under the Shillings, and say, 1 that I borrowed and 6 is 7. from 7 and
+there remains nothing, then I place a Cipher under the 6, and say, 1 from 2 and
+there remains 1, which I set down, and 1 from 1 and there rests nothing.
+After this manner is performed Subduction of Weight and Measure.
+
+Examples.
+
+^ By which Examples, the Learner may perceive, that where the number to be
+subducted is greater than the number standing over it, I then borrow one from
+the next greater denomination, adding the remainder, if any be, to the lesser
+number beforementioned, and setting them underneath those of like denomination
+with them.
+
+The Proof of Subtraction is by adding the Subducend and Remainder together,
+and their Aggregate must always be equal to the Minorand, as you may see by the
+last Example.
+
+I could here add many more Examples of Weight and Measure, but to the
+ingenious Practitioner I hope it will be enough, all other being wrought after
+the same manner, respect being had to the number of lesser denominations
+contained in each greater. As
+
+In Troy Weight,
+24 Grains make a Penny-weight. 20 Penny-weight one Ounce. 12 Ounces one Pound.
+Long Measure.
+4 Nails make a Quarter of a Yard. 4 Quarters one Yard. 5 Nails one Quarter of
+an Ell. 4 Quarters one Ell. 12 Inches a Foot. 3 Feet a Yard. 16 a Perch. 40
+Perches a Furlong. 8 Furlongs make an English Mile.
+Liquid Measure.
+8 Pints make a Gallon. 63 Gallons make a Graves Hogshead. 4 Hogsheads make a
+Tun. 36 Gallons make a Beer Barrel. 32 Gallons make an Ale Barrel.
+Dry Measure.
+8 Gallons of Corn make a Bushel. 8 Bushels make a Quarter.
+MULTIPLICATION.
+MVltiplication is a kind of Addition, and resolves Questions to be performed
+by Addition in a different manner: In order whereunto, it is necessary the
+Learner do well acquaint himself with this Table; the having this Table
+perfectly by heart, will make both this Rule and Division also very facile,
+otherwise they will be both troublesome and unpleasant.
+
+1 2 3 4 5 6 7 8 9 10 11 12 2 4 6 8 10 12 14 16 18 20 22 24 3 6 9 12 15 18 21
+24 27 30 33 36 4 8 12 16 20 24 28 32 36 40 44 48 5 10 15 20 25 30 35 40 45 50
+55 60 6 12 18 24 30 36 42 48 54 60 66 72 7 14 21 28 35 42 49 56 63 70 77 84 8
+16 24 32 40 48 56 64 72 80 88 96 9 18 27 36 45 54 63 72 81 90 99 108 10 20 30
+40 50 60 70 80 90 100 110 120 11 22 33 44 55 66 77 88 99 110 121 132 12 24 36
+48 60 72 84 96 108 120 132 144
+
+In the first Rank of this Table, you have an Arithmetical Progression from 1
+to 12, and also in the first Column toward the left hand downwards. This Table
+does at first sight exhibit the Sum of any number, so often repeated as you
+shall require, provided the numbers do neither of them exceed 12.
+
+Multiplication has three Members, thus called, a Multiplicand, a
+Multiplicator, and a Product: The Multiplicand, is the number to be repeated;
+the Multiplicator, is the number of times the first is to be repeated; and the
+Product, is the Sum of the Multiplicand so often repeated. As for Example.
+
+A Countryman sold 6 Bushels of Wheat for 5 s. how many Shillings ought he to
+receive?
+
+But by Multiplication it is done thus:
+
+Now if you look in the Table precedent, in the first Column find 5, then look
+in the first Rank for 6, and cast your Eye down to their Angle of meeting, and
+you will find 30 standing under 6 and against 5, I then conclude that 5 times 6
+is 30; that is called the Product, and they will stand thus:
+
+But when you have a number to multiply, greater than any in the Table, as for
+Example:
+
+A Gentleman having forborne his Rent of a Farm, at 157 l. per Quarter, for 3
+Quarters, what ought he to receive?
+
+The Multiplication will stand thus:
+
+I then say, 3 times 7 is 21, I set down 1 and carry 2; then, 3 times 5 is 15
+and 2 is 17, I set down 7 next the 1, and carry 1; saying, 3 times 1 is 3 and 1
+is 4, as in the Example before-going; and the Product is 471 l.
+
+There is yet more variety, of which take these Examples following.
+
+If 65 Ships do carry 536 Men in every Ship, how many Men will there be in all?
+
+I say 5 times 6 is 30, set down 0 and carry 3; then 5 times 3 is 15 and 3 is
+18, set down 8 and carry 1; then 5 times 5 is 25 and 1 is 26, which I set down:
+Then for the next Figure, I say, 6 times 6 is 36, I set down 6 one place short
+of the former rank, and carry 3; then 6 times 3 is 18 and 3 is 21, set down 1
+and carry 2; again, 6 times 5 is 30 and 2 is 32, these I set down: Then draw a
+line, and cast them up as they are placed, and the Sum is the Product and
+Answer to the Question, viz. 34840 Men.
+
+In Multiplication, always make the lesser Number the Multiplicator, for it is
+all one whether I multiply 5 by 15, or 15 by 5, the Product is always the same.
+
+If 128 Men of War have each made 746 Shot, how many Shot were made in all?
+
+^ Begin as before with the Unites place, and say, 8 times 6 is 48, set down 8
+and carry 4; 8 times 4 is 32 and 4 is 36, set down 6 and carry 3; then 8 times
+7 is 56 and 3 is 59, which set down: Then go forward with the 2, (but remember
+to place your remainder one Figure short of the former) saying, 2 times 6 is
+12, set down 2 under the 6 and carry 1; 3 times 4 is 8 and 1 is 9, which set
+down; twice 7 is 14, which set down: Also then, once 6 is 6, which place under
+the 9; once 4 is 4, which set under the 4; and once 7 is 7; which set under the
+1: Then cast them up, as in Addition, and the Sum is the Product, and answers
+the Question, viz. 95488 Shot.
+
+If any number be to be multiplied by 1 with Ciphers, it is but adding so many
+Ciphers to the Multiplicand as there is in the Multiplicator.
+
+As for Example.
+
+If 35678 be to be multiplied by 10, add one Cipher to the Multiplicand, thus,
+356780; if by 100, add two Ciphers, thus, 3567800; etc.
+
+And when any number is to be multiplied by any other number, that has Ciphers
+annexed, always place the Ciphers immediately under the Line, as in these
+Examples.
+
+DIVISION.
+DIvision is also a kind of Subduction, and informs the Querent, how many times
+one number is contained in another.
+
+There is in Division these three things to be observed, viz. the Dividend, the
+Divisor, and the Quotient. The Dividend is a number to ^e divided into parts,
+the Divisor is the quan^ity of one of those parts which the former is ^^ be
+divided by, the Quotient is the number ^^ such parts as the Dividend does
+contain^ ^^ere is also by accident a fourth number in ^^^s Rule necessary to be
+known, which is a ^^mainder, and that happens when the Divi^^^ does not contain
+an equal number of such ^^^ntities as it is divided by, as when 15 is to be
+divided by 4, the Dividend is 15, the Divisor is 4, and there is a Remainder 3.
+
+In Division you may place your numbers thus.
+
+Dividend.
+
+Multiplication is positive, but Division is performed by essays or trials,
+after this manner:
+
+^ Here I first inquire how many times 3 I can have in 14, I find 4 times, I
+place 4 in the Quotient, and then multiply the Divisor by that 4, placing the
+Product underneath the Dividend, as in the Example; say, 4 times 5 is 20, set
+down a Cipher under the 6 and carry 2, then 4 times 3 is 12 and 2 is 14, which
+I set down also, as in the Example; then subduct this Product from the Figures
+standing over them, and set down the Remainder.
+
+^ Then for a new Dividend, I bring down the next figure, and postpone that to
+the Remainder, and inquire how many times 3 in 6, I cannot have twice, because
+I cannot have twice 5 from 5, I say then once, and place 1 in the Quotient,
+proceeding as before saying, once 5 is 5, which I place under the first 6
+toward the right hand, and once 3 is 3, which I set down under the other 6;
+subducting these as the former, I find the Remainder to be 31.
+
+After which I bring down the next figure in the Dividend, and postpone it to
+the Remainder, as in this Example: ^ Then I inquire how many times 3 in 31, I
+suppose 9 times, placing 9 in the Quotient I multiply again; saying 9 times 5
+is 45, 5 and carry 4; then 9 times 3 is 27, and 4 is 31; these being set down,
+as before directed, and subducted, there will remain nothing. I then conclude,
+that the Divisor is so often contained in the Dividend as is expressed in the
+Quotient, viz. 419 times.
+
+For further Instructions, take these Examples.
+
+REDUCTION.
+REduction is twofold, viz. bringing greater denominations into smaller, and
+that by Multiplication, as Pounds into Shillings, Shillings into Pence, etc.
+Also lesser denominations are reduced into greater, by Division, as Pence into
+Shillings, Shillings into Pounds, Minutes into Hours, Hours into Days, and Days
+into Years, etc.
+
+Having any number of Pounds to reduce into Pence, multiply them by 240.
+
+Example.
+
+How many Pounds, Shillings, and Pence, are contained in 22929 Farthings?
+
+In 544542 Cubique Inches, how many Beer Barrels, Firkins, and Gallons?
+
+THE RULE OF THREE.
+THis Rule is so called, because herein are three numbers given to find a
+fourth; of these three numbers, two are always to be multiplied together, and
+their Product is to be divided by the third, and the Quotient exhibits the
+fourth number, or the number sought.
+
+And here note, That of the three given numbers, if that number that asks the
+Question be greater than that of like denomination with it self, and require
+more, or if it be less, and require less, then the number of like denomination
+is the Divisor.
+
+Or, if the number that asks the Question be less than that of like
+denomination, and require more; or if it be more, and require less, then the
+number that asks the Question is the Divisor.
+
+Example.
+
+If 3 Yards of Sarcenet cost 15 s. what shall 32 Yards cost?
+
+Which 3 numbers if you please may stand thus:
+
+Here you may see the term that asks the Question is greater than that of
+like denomination, being 3, and the other 32, and also requires more, viz. a
+greater number of Shillings; therefore, according to the Rule, the first term,
+or the term of like denomination to that which asks the Question, is the
+Divisor.
+
+And the Answer is 160 Shillings, which being divided by 20 will be found 8 l.
+
+Again,
+
+If 32 Else of Holland cost 160 s. what shall 3 Else cost?
+
+In this Question (being the Converse of the former) you may see the term that
+asks the Question, here 3, is lesser than that of like denomination, being 32
+Else, and also requires less; therefore the first term here also is the Divisor.
+
+And the Answer is 15 s.
+
+If 36 Men dig a Trench in 12 Hours, in how many Hours will 144 Men dig the
+same?
+
+In this Question, the term that asks the Question is greater than that of
+like denomination, and requires less; wherefore the term that asks the
+Question is the Divisor.
+
+If 144 Workmen build a Wall in 3 Days, in how many Days will 36 Workmen build
+the same?
+
+This Question you may perceive to be the Converse of the former, here the term
+that asks the Question is less than that of like denomination, and requires
+more, the term that asks therefore is the Divisor.
+
+If 125 lb. of Biscuit be sufficient for the Ships Company for 5 Days, how much
+will Victual the Ship for the whole Voyage, being 153 Days?
+
+This Question is of the same kind with the first Example; here the two terms
+of like denomination are 5 Days and 153 Days, the term that asks the Question
+being more than the term of like denomination, and also requiring more; so,
+according to the general Rule, the term of like denomination to that which
+asks the Question is the Divisor. It matters not therefore in what order they
+are placed, so you find your true Divisor; but if you will you may set them
+down thus:
+
+The Answer is 3825 lb. weight of Biscuit.
+
+A Ship having Provision for 96 Men during the Voyage, being accounted for 90
+Days, but the Master taking on board 12 Passengers, how many Days Provision
+more ought he to have?
+
+Which is no more than this:
+
+If 96 Men eat a certain quantity of Provision in 90 Days, in how many Days
+will 108 Men eat the same quantity?
+
+The Answer is 80, so that for 108 Men he ought to have 10 Days Provision more.
+
+If the Assize of Bread be 12 Ounces, Corn being at 8 s. the Bushel, what ought
+it to weigh when it is sold for 6 s. the Bushel?
+
+^ In this Question, the term inquiring being less than the term of like
+denomination, and requiring more; therefore is the term so inquiring the
+Divisor.
+
+The Answer is 16 Ounces.
+
+THE RULE OF PRACTICE.
+IT is necessary that the Learner get these two Tables perfectly by heart,
+which are only the aliquot parts of a Pound and of a Shilling.
+
+The Parts of a Shilling.
+d. q. 0 1 Forty eighth. 0 2 Twenty fourth. 0 3 Sixteenth. 1 0 Twelfth. 1 2
+Eighth. 2 0 Sixth. 3 0 Fourth. 4 0 Third. 6 0 Half. The Parts of a Pound.
+s. d. q. 0 00 1 The Nine hundred and sixtieth. 0 00 2 The Four hundred and
+eightieth. 0 00 3 The Three hundred and twentieth. 0 01 0 The Two hundred and
+Fortieth. 0 01 2 The Hundred and sixtieth. 0 02 0 The Hundred and twentieth. 0
+03 0 The Eightieth. 0 04 0 The Sixtieth. 0 05 0 The Forty eighth. 0 06 0 The
+Fortieth. 0 08 0 The Thirtieth. 0 10 0 The Four and twentieth. 1 00 0 The
+Twentieth. 1 03 0 The Sixteenth. 1 04 0 The Fifteenth. 1 08 0 The Twelfth. 2 00
+0 The Tenth. 2 06 0 The Eighth. 3 04 0 The Sixth. 4 00 0 The Fifth. 5 00 0 The
+Fourth. 6 08 0 The Third. 10 00 0 The Half.
+
+Having these Tables perfectly in memory, any Question propounded will be
+readily resolved, only by dividing the given number of Yards, Else, Feet,
+Inches, Gallons, Quarts, Pounds, or Ounces.
+
+Of which take some Examples.
+
+Having any number of Shillings to reduce into Pounds, cut off the last figure
+toward the right hand by a line, and the figures on the left hand of the line
+are so many Angels as they express Unites; draw a line under them, and take the
+half of them, and you have the number of Pounds.
+
+Examples.
+
+Any Commodity, the value of 1 Yard being the aliquot part of a Pound, is thus
+cast up:
+
+Take the one third part, and that is the Answer in Pounds: 3 in 8 twice, and
+carry 2; 3 in 23 seven times, and carry 2; 3 in 26 eight times, and carry 2;
+the third part of 2 l. is 13 s. 4 d. where always observe, that the Remainder
+is always of the same denomination with the Dividend.
+
+Where the Price is not aliquot.
+
+To cast up the amount of any Commodity, sold for any number of Farthings by
+the Pound, I borrow from the Dutch a Coin called a Guilder, whose value is 2 s.
+English.
+
+Then if a Question be proposed of the Amount of an Hundred weight of any
+Commodity, by the Hundred Gross, viz. 112 lb. so many Hundred as there be, the
+Amount is so many Guilders so many Groats, as there are Farthings in the price
+of 1 lb.
+
+As for Example.
+
+A Hundred weight of Iron is sold for 5 Farthings the Pound, comes to 5
+Guilders, that is 10 s. and 5 Groats, which together is 11 s. 8 d.
+
+Again.
+
+A Hundred weight of Lead is sold for 2 d. Farthing the Pound, that is 9
+Guilders and 9 Groats, which is 21 Shillings.
+
+But if it be the subtle Hundred, it is then but so many Guilders so many
+Pence: As if a Hundred weight of Tobacco be sold for 5 d. Farthing the Pound,
+the Hundred comes to twenty one Guilders and twenty one Pence, that is forty
+three Shillings and nine Pence.
+
+ARITHMETIC IN DECIMALS.
+NOTATION.
+Integers. Decimals. 3 Thousand Millions. 9 Hundred Millions. 8 Ten Millions. 7
+Millions. 6 Hundred Thousands. 5 Ten Thousands. 4 Thousands. 3 Hundreds. 2
+Tens. 1 Unites. 1 Tenths. 2 Hundredths. 3 Thousandths. 4 Ten Thousandths. 5
+Hundred Thousandths. 6 Millioneths. 7 Ten Millioneths. 8 Hundred Millioneths. 9
+Thousand Millioneths.
+
+AS in Whole Numbers, the value or denomination of Places do increase by Tens,
+from the Unite place toward the left hand; so in Decimals, the value or
+denomination of Places do decrease by Tens, from the Unite-place toward the
+right hand, according to the precedent Table.
+
+A Fraction or broken Number is always less than a Unite, as Pence are parts of
+a Shilling, and Shillings of a Pound; Inches of a Foot, and Minutes of an Hour,
+etc.
+
+Fractions are of two kinds,
+
+And are thus called Vulgar, and Decimal.
+
+A vulgar Fraction is commonly expressed by two Numbers set over one another,
+with a small line between them, after this manner ^, the uppermost being called
+the Numerator, and the lower the Denominator.
+
+The Denominator expresses into how many parts the Integer or whole Number is
+divided, and the Numerator shows how many of those parts is contained in the
+Fraction.
+
+Example.
+
+If the Integer be a Shilling; is 8 d.
+
+If it be 1 l. or 30 Shillings, it is 13 s. 4 d.
+
+If a Foot, it is then 8 Inches.
+
+Or if an Hour, it will be 40 Minutes.
+
+A decimal Fraction has always a common Number for a Numerator, and a decimal
+Number for its Denominator.
+
+A decimal Number is known by Unity, with one or more Ciphers standing before
+it, as 10, 100, 1000, etc.
+
+A decimal Fraction is known from a whole Number by a point, or some other
+small mark of distinction, whether it stand alone, or be joined with whole
+Numbers; as in these following Examples.
+
+Or else with a point over the head of Unity, or the Unite place; as in these
+Examples.
+
+In decimal Fractions, the Numerators only are set down, the Denominator being
+known by the last Figure in the Numerator.
+
+Example.
+
+.2 is Two tenths..25 is Twenty five Hundredths..257 is Thousandths..2575 is Ten
+Thousandths, etc.
+As Ciphers before a whole Number have no value, so Ciphers after a decimal
+Fraction are of no signification: But Ciphers before a decimal Fraction, are of
+special regard; for as Ciphers after a whole Number do increase that Number, so
+before a decimal Fraction they diminish the value of that Fraction.
+
+Example.
+
+.25 Twenty five hundredths..025 Twenty five thousandths..0025 Twenty five ten
+thousandths.
+Each Cipher so added removing the Fraction further from Unity, making it ten
+times less than before.
+
+ADDITION.
+ADdition in Decimals, whether in pure Decimals, or whole Numbers mixed with
+Decimals, differs not from Addition in whole Numbers, only care must be had to
+the seperating lines or points, that all places of like denomination stand one
+under another, both in the Addends and in the Sum; as in these Examples.
+
+SUBTRACTION.
+AS in Addition, so in Subtraction care must be had to the placing each Figure
+under that of like denomination with it self, then it is the same with
+Subtraction in whole Numbers.
+
+Examples.
+
+MULTIPLICATION.
+MVltiplication in whole Numbers serves instead of many Additions, and
+teaches of two Numbers given to increase the greater as often as there are
+Unites in the lesser.
+
+It likewise consists of three Requisites, viz. a Multiplicand, a
+Multiplicator, and a Product.
+
+The Multiplicand is the Number to be increased.
+
+The Multiplicator is the Number by which it is to be increased.
+
+And the Product is the Sum of the first Number so often repeated as there are
+Unites in the second.
+
+In decimal Fractions, or whole Numbers mixed with Fractions, the two first
+Numbers are called Factors, and the last is called the Fact.
+
+Multiplication, whether in decimal Fractions, or whole Numbers mixed with
+Fractions, differs not (in the Operation) from Multiplication in whole
+Numbers. The last Figures in both the Factors may be placed under one another,
+without respect to the distinction of places, or places of like denomination
+standing under one another, as in Addition and Subduction; yet from the Product
+must be cut off by a line or point so many places as there are Figures in
+decimal Fractions in both Factors of the last Figures standing toward the right
+hand.
+
+Examples.
+
+If it happen when the Multiplication is ended, that there be fewer Figures in
+the Product than there are places in Decimals in both the Factors, then put
+Ciphers before the Product till the number of places be equal to those in both
+the Factors: As in these
+
+Examples.
+
+Where by may be observed, That the Multiplication of two Fractions does not
+increase them as in whole Numbers, but they are hereby made less, and the Fact
+is removed further from Unity than either of the Factors.
+
+If a whole Number be to be multiplied by a decimal Number, put so many Ciphers
+after the whole Number as there are in the decimal Number, and that Number will
+be the Product. If 48 be multiplied by 10, it will be 480; by 100, 4800; etc.
+
+In multiplying decimal Fractions, or mixed Numbers, by a decimal Number, you
+need only remove the point or seperating line so many places toward the right
+hand as there be Ciphers in the decimal Number. If you multiply.2845 by 10, the
+Fact will be 2.845; by 100, it will be 28.45; by 1000, 284.5; etc.
+
+DIVISION.
+DIvision, both in whole Numbers and Fractions, is by young Practitioners found
+to be more difficult than any of the four Species; it will therefore require a
+little more industry in the Learner: But when once had, there will appear small
+difference between the Operation herein, as in any the precedent.
+
+Division is also constituted by three Requisites, and a fourth by accident,
+viz. a Dividend, a Divisor, and a Quotient: The fourth is a Remainder, which
+does not always happen to be.
+
+The Dividend is the Number to be divided.
+
+The Divisor is the Number by which the other is to be divided.
+
+The Quotient is the Number found out by the Division.
+
+And the Remainder is that which is left of the Dividend after the Division is
+ended, and is always less than the Divisor.
+
+Example.
+
+If 12 be to be divided by 4, then is 12 the Dividend, 4 the Divisor, and the
+Quotient will be 3.
+
+If 13 be divided by 3, then 13 is the Dividend, 3 the Divisor, 4 the Quotient,
+and there will be a Remain, which is here 1.
+
+Decimal Fractions, or mixed Numbers, are divided after the same manner as whole
+Numbers are divided, only care must be had in giving a true value to the
+Quotient. To perform which, observe well this General Rule.
+
+The first Figure in the Quotient is always of the same denomination with that
+Figure which stands (or is supposed to stand) over the Unity place in the
+Divisor.
+
+As to the manner of placing your Figures, and the way of dividing, there are
+many published by diverse Writers of Arithmetic: The way of placing the Divisor
+under the Dividend, is the most apt for giving a value to the Quotient; but the
+rasing of Figures, and repeating the Divisor so often, is found an
+inconvenience; which to avoid, observe the following Examples.
+
+Being to divide 2487.048 by 53.6, I place them in this order:
+
+Then I consider if the Divisor were placed under the Dividend, the Unity place
+in the Divisor, here 3 would stand under the 8 in the Dividend, I then set a
+mark over the head of the 8, and conclude the first Figure in the Quotient to
+be of the same denomination with it, which is Tens, in whole Numbers.
+
+^ Having thus found the value of the first Figure in the Quotient, I proceed
+to the division, and inquire, how many times 5 in 24? I find 4; I then set 4 in
+the Quotient, and go back, multiplying the whole Divisor by that Figure, and
+subduct the Product out of the Dividend, placing the Remainder underneath as
+part of a new Dividend: Thus 4 times 6 is 24, from 27, and there remains 3,
+which I place under the 7; again, 4 times 3 is 12, and 2 that I borrowed is 14,
+from 18, and there remains 4, which I place under the ^, as in the Example;
+then 4 times 5 is 20, and 1 I borrowed is 21, from 24, and there remains 3,
+which I place under the 4. For my new Dividend, I bring down the next Figure,
+here a Cipher, and postpone it to the Remainder, and the Example will stand
+thus:
+
+Then proceeding in my Division, I ask, how many times 5 in 34? finding 6
+times, I then place 6 in the Quotient, and as before say, 6 times 6 is 36, from
+40, and there remains 4, which I set down under the Cipher; then 6 times 3 is
+18, and 4 I borrowed is 22, from 23, and there remains 1, which I place under
+the 3; then 6 times 5 is 30, and 2 I borrowed is 32, from 34, and there will
+remain 2, which I place under the 4; then to this Remainder I bring down the
+next Figure in the Dividend, postponing it as I did the Cipher, and they will
+stand thus:
+
+^ I now inquire, how many times 5 in 21? and find 4 times, I then place 4 in
+the Quotient, and go on as before; there being yet a Remainder, I add a Cipher,
+and proceed as before; and find, upon the adding one Cipher, my Divisor greater
+than the Dividend, I place a Cipher in the Quotient: Example.
+
+Having placed a Cipher in the Quotient, I add another to the Dividend, and
+make it 800; and then inquire, how many times 5 in 8? finding once, I put 1 in
+the Quotient, working as before: Where note, So long as there is a Remainder,
+if you add Ciphers and work after this manner, you may have as many Decimals as
+you please.
+
+It does often happen in Division, in decimal Fractions, or mixed Numbers, that
+the Unite place in the Divisor will stand beyond all the significant Figures in
+the Dividend, either toward the right hand or toward the left; in which case,
+that you may the better find out the value of the first Figure in your Quotient
+(according to the precedent General Rule) add Ciphers to the right or to the
+left hand of the Dividend, till you come over the Unity place in the Divisor,
+and what value or denomination that place is of, that is the denomination of
+the first Figure in the quote; as in these
+
+Examples.
+
+If in Division in whole Numbers, there happen to be a Remainder, it is the
+Numerator of a Common Fraction, and the Divisor is the Denominator, and this
+Fraction is part of the quotient.
+
+Example.
+
+If you divide 66 by 8, the quotient will be 8 and 2/8, according to the way of
+Vulgar Fractions, but in Decimal Fractions it will be 8.25.
+
+If you be to divide a whole by a decimal Number, cut off so many places by a
+mark, as there are Ciphers in the decimal Number: If 468 be divided by 10, the
+quote is 46.8; by 100, 4.68; and by 1000, quotes.468.
+
+If a decimal Fraction, or a mixed Number, be to be divided by a decimal Number,
+remove your line or point so many places toward the left hand, as there are
+Ciphers in your decimal Number, supplying the vacant places with Ciphers, if
+there be occasion: 69.5 divided by 10, is 6.95; by 100, it will be.695; by
+1000,.0695; and by 10000, quotes.00695; etc.
+
+Division being the Converse of Multiplication, as multiplying a mixed Number or
+decimal Fraction by a decimal Number, you remove your mark of distinction
+toward the right hand; so in dividing a decimal Fraction or mixed Number by a
+decimal Number, the mark is removed toward the left hand, as in the foregoing
+Examples.
+
+REDUCTION.
+TO reduce a vulgar Fraction into a decimal Fraction, your Rule is: Divide your
+Numerator by your Denominator, and the Quotient will be a decimal Fraction of
+the same value with the vulgar Fraction. So 1/4, if reduced into a decimal
+Fraction, will be.25.
+
+Example.
+
+Here note, That only the even parts of an Integer will be exactly reduced into
+a decimal Fraction, as 1/2, 2/8, 2/16, etc. In all Surds, there will be some
+Remainder, but if you carry your decimal Fraction to four or five places,
+making the last one more than it is, if the sixth Figure be above 5, or else
+leave them out, and your Calculation will come near the truth; but if any
+desire to be more exact, he may take as many as he please.
+
+Examples.
+
+To reduce any decimal Fraction out of a greater denomination into a lesser,
+multiply the Fraction by those parts of the Integer into which you would have
+it reduced; as.65 being the parts of a Pound, you would know how many Shillings
+are contained in the Fraction, multiply it by 20: If you desire the Pence
+therein contained, multiply it by 240; or if Farthings, multiply by 960, the
+number of Farthings in a Pound or 20 Shillings.
+
+^ The decimal parts of a Foot are reduced, by multiplying them by 12; if parts
+of a Foot Square, by 144; and the decimal parts of a Foot Solid, by 1728, the
+Cubick Inches in a Foot of Solid. The decimal parts of a Pound, are reduced by
+16, the Ounces in a Pound Averdupois; and 12, the Ounces in a Pound Troy. The
+decimal parts of a Beer Barrel by 36, and by 32 reduces the parts of an Ale
+Barrel, into Gallons; and Gallons into Pints, by 8; Gallons into Cubick Inches,
+by 282; and for Wine Gallons, by 231, the number of Cubick Inches in such a
+Gallon, etc.
+
+As greater denominations are reduced to lesser, by a multiplication of the
+several parts of the Integer; so lesser denominations are reduced to greater,
+by division. Any number of Shillings are reduced into Pounds, and the decimal
+parts of a Pound, if you divide them by 20; and Pence, if divided by 240.
+
+Example.
+
+Hours are reduced into the decimal parts of a Day, if you divide them by 24,
+the Hours in a Day Natural; and Minutes into the parts of an Hour, if divided
+by 60.
+
+Perches are reduced into the decimal parts of an Acre, if you divide them by
+160, the number of Square Poles or Perches in an Acre; and any ^^mber of Feet
+into Poles, and the decimal parts of a Pole, if you divide them by 16.5 the
+Feet in a Pole, or by 15.8.25 the number of Square Feet in a Square Pole; but
+if Wood-land Measure by 18, or if a Square Pole by 324, the Square Feet in a
+Pole or Perch of such Measure.
+
+Any number of Inches are reduced into the parts of a Beer Barrel, if divided
+by 10152; and into Ale Barrels and parts, by 9024; etc.
+
+For the ease of the Reader here is made a Table of English Coin reduced into
+the decimal parts of a Pound sterling.
+
+A Table of Reduction of English Coin, the Integer being one Pound.
+Shillings. Decimals. Pence. Decimals of a Pound. 19.95 11.0458333 18.9
+10.0416667andgt; 17.85 9.0375 16.8 8.0333333andlt; 15.75 7.0291667andgt; 14.7
+6.025 13.65 5.0208333 12.6 4.0166667andgt; 11.55 3.0125 10.5 2.0083333andlt;
+9.45 1.0441667andgt; 8.4 7.35 6.3 5.25 Farthings. Decimals of a Pound. 4.2 3.15
+3.003125 2.1 2.0020833 1.05 1.0010417andgt;
+
+The Use of the Table.
+Having any Quest. wherein Pounds, Shillings and Pence, are required to be
+under one denomination, viz. Pounds, and the parts of a Pound: First seek in
+the Column of Shillings for your Shillings, and set down the Fraction that
+stands against it; then in the Column of Pence, seek your Pence; in the
+Farthings, your Farthings; add all these together, and the Sum is the decimal
+Fraction desired.
+
+Example.
+
+What is the decimal Fraction for 17 s. 9 d. 3/4?
+
+First as the decimal parts of a Pound seek for 17 s. and the Fraction against
+it in the other Column is. 85;
+
+Which is the Number required, and is the decimal Fraction for 17 s. 9 d. 3/4,
+as parts of a Pound.
+
+Again, having a decimal Eraction in the parts of a Pound, and its desired to
+know the value thereof in lesser denominations: Let it be the Fraction before
+found, viz..890625: I seek in the Table of Fractions for the nearest to it, and
+find.85, and against it 17 s. I then set.85 down, and subduct it from the
+other, and there remains.040625; I look over the Table again, and find the next
+nearest is.0375, against it 9 d. I subduct that; and find the Remainder.003125,
+stand against 3 Farthings.
+
+So finding the value of any other decimal Fraction: If any thing remain after
+the last subduction, being less than a Farthing, I cast it away as of small
+regard.
+
+THE GOLDEN RULE.
+THis Rule is called the Rule of Three, because herein are three Numbers given,
+to find a fourth. It is also called the Rule of Proportion, for as the first is
+in proportion to the second, so is the third to the fourth: And the Converse.
+
+This Rule is called the Golden Rule for its excellent use in the Solution of
+Questions of various kinds, and great advantage is made of it in almost all
+kind of Calculations Arithmetical.
+
+Two of the three Numbers given in every Rule of Proportion are of one
+denomination, and the third is of the same kind with the fourth sought; and one
+of the two Numbers that are of like species does always ask the Question.
+
+Arithmeticians distinguish this Rule by two denominations, one they call the
+Direct, and the other the Inverse or Backer Rule of Three.
+
+One of the three given Numbers of like denomination in any Rule of Proportion
+is a Divisor, the other remaining two are Multipliers. To find which of the
+forementioned Numbers is the Divisor, take these following Rules.
+
+1. If that Term to which the Question is annexed be more than that of like
+denomination, and also requires more; or if it be less, and require less than
+the Term of like denomination; then that Term of like denomination to that
+which asks the Question is the Divisor, and the Question is in the Direct
+Rule of Three. 2. If the Term which asks the Question be more than that of
+like species, and requires less; or less, and requires more; then that Term
+which asks the Question is the Divisor, and the Question is in the Backer or
+Inverse Rule of Three.
+Having by the precedent Rules discovered the Divisor, multiply the other two
+Numbers, and divide by the Divisor, your quote will be the Answer to the
+Question.
+
+Note, If any of the Numbers given be in several denominations, they must be
+reduced into one, either greater or lesser, as before directed.
+
+Example.
+
+Quest. 1. If 12 1/2 Yards of Taffaty cost 5 l. 7 s. 9 d. 3 q. what shall 5 1/2
+Yards cost?
+
+In this Example, of the three Numbers given there are two of like
+denomination, and they are 12 1/2 and 5 1/2, the latter of which is the Term
+which asks the Question, known always by the words what or how much. And this
+Term is less than that of like kind with it self, and also requires less,
+therefore according to the precedent Rule, this Question is in the Golden Rule
+Direct. These three Numbers may be placed in what order you please, provided
+you mistake not your Divisor, but according to the general way, being reduced
+into Decimals, and of one species, they will stand thus:
+
+Then, as before directed, multiply the second and third Numbers, and divide by
+the first, and the quotient exhibits the fourth Proportional or the Number
+sought.
+
+^ The Answer is 2 l. 7 s. 5 d. 1 q.
+
+Quest. 2. If 6 Yards of Broad Cloth cost 4 l. what shall 32 Yards cost?
+
+Here the Term which asks the Question is greater than the Term of like
+denomination, and requires more; therefore the Term of like denomination to the
+Term that asks the Question is the Divisor.
+
+^ The Answer is 21 l. 6 s. 8 d.
+
+Quest. 3. If 320 Men raise a Breast-work in 6 Hours, in what time will 750 Men
+do the same?
+
+Here the Term that asks the Question is more than the Term of like
+denomination, and requires less; therefore the Term that asks the Question is
+the Divisor, and this is the Backer Rule of Three.
+
+The Answer is 2 Hours, 33 Minutes, and 36 Seconds.
+
+Quest. 4. If 756 Men dig a Trench in 12 Hours, in how many Hours will 126 dig
+the same?
+
+Here the Term that asks the question is less than the Term of like
+denomination, and requires more; then according to the Rule the Term demanding
+is the Divisor, and this question is also in the Inverse Rule of Three.
+
+The Answer is 72 Hours.
+
+There is sometimes four Numbers given in a question, yet is it but a Single
+Rule of Three, for one of the four Numbers is of no signification, and might as
+well have been left out.
+
+Example.
+
+Quest. 5. If 10 Workmen build a Wall 40 Foot long in 3 Days, in what time
+might 50 Men have done the same?
+
+Here note, there is four numbers given, and yet there is but three to be used
+in working the question, you must therefore find which those 3 are that are
+necessarily to be used: Thus,
+
+First, you must take the Term that asks the question, here 50 Workmen;
+secondly, you must have the Term of like denomination with it, which is 10
+Workmen; thirdly, the Term sought, being Days; you must take the Term of like
+denomination with that also, which is here 3 Days: The superfluous Term then in
+the question is 40, which might have been left out, and they will then stand
+thus:
+
+The Answer is Half a Day or 12 Hours.
+
+This question is in the Rule of Three Inverse.
+
+Quest. 6. If 100 l. gain 6 l. in 12 Months, what shall 32 l. gain in the same
+time?
+
+In this question the 12 Months is the superfluous Term, being of no use in the
+Calculation, the Terms required being 100 l. 6 l. and 32 l.
+
+Note, Though the Terms in this question be all Money, and so may seem to be of
+one species, yet they are not; 100 l. and 32 l. are of one kind, being both
+Principal, and the other Term is of the same denomination with the Term sought,
+viz. Gain or Interest.
+
+The Answer is 1 l. 18 s. 4 d. 3 q. fere.
+
+And this question is in the Direct Rule of Three, the Term that asked the
+question being less than the Term of like denomination, and also requiring
+less, etc.
+
+THE DOUBLE GOLDEN RULE.
+THis Rule is called the Double Golden Rule, or Double Rule of Three, because
+it requires two distinct Calculations, before you can answer the question.
+
+And in this Rule there are five Numbers given to find a sixth sought.
+
+This differs not in the operation from the Single Rule, only the Calculation
+is twice repeated.
+
+Of the five Numbers given, the question is sometimes annexed to two, and
+sometimes but to one.
+
+If the question be annexed to two of the five given Numbers, then are there
+two of the other three of the same species with those that ask the question,
+and the third is proportional to the Number sought.
+
+For the due regulation of these two Calculations, when the question is annexed
+to two of the five Numbers, take these Directions.
+
+First, take one of the Numbers demanding, and let that ask the question in the
+first operation; secondly, take that of the same species, and also that of the
+like quality with the respondent, of these three constitute your first Rule of
+Proportion; then find which is your Divisor, according to your Rule page 55.
+and proceed to find the fourth in proportion.
+
+Then for your second Rule of Three, take the other of the two Numbers to which
+the question is annexed, and let that ask the question; take also the Number of
+like kind, and the fourth Number found in the first Calculation; judge which is
+your Divisor, and work accordingly; the last Quotient will be the sixth Number,
+or the Number sought.
+
+Example.
+
+If a Trench be 20 Perches in length, and made by 12 Men in 18 Days; how long
+may that Trench be, that shall be wrought be 48 Men in 72 Days?
+
+Here the question is annexed to two of the five Numbers, viz. 48 Men and 72
+Days; now according to the foregoing direction, take one of the two Numbers
+inquiring, 48, and say,
+
+Then take the other of the two Numbers inquiring, and say,
+
+If 6 Lighters bring 60 Tuns of Ballast in 5 Tides, how many Tun will 15 bring
+in 12?
+
+If a Man travel 160 Miles in 4 Days, when the Days are 10 Hours long; in how
+many Days will he travel 195 Miles, when the Days are 14 Hours long?
+
+When a Question is stated in the Double Rule of Three, so that there is but
+one Number inquiring,
+
+First, take that Number, and let it ask the question in the first Rule; take
+also the Number of like denomination, together with the Number joined to that
+of like denomination; and of these three Numbers constitute your first Rule of
+Proportion.
+
+Secondly, let that Number which was found in the first Operation, ask the
+question in the second; then take the Number of like denomination to it, and
+also the Number joined with that like Number; of these three is your second
+compounded; find your Divisor, and proceed; the last quote exhibits the Answer.
+
+Example.
+
+If 4 Crowns at London make 2 Ducates at Venice, and 8 Ducates at Venice make
+20 Patacoons at Genoa; how many Patacoons at Genoa will make 120 Crowns at
+London?
+
+Of the Square Root.
+A Square is a plain Superficies bounded with four right Lines of equal length,
+the Angles also are equal, being all right Angles, as (a b c d)
+
+The measure of a Square is by a Square, that is, when it is known how many
+Square Inches, Feet or Perches, is contained in any Superficies, the Content or
+Area of the said Superficies is then said to be known. And in a Square, it is
+found by multiplying the length by the breadth, which being equal, it is called
+Squaring of a Number, and by the Learned Dr. Pell, Involution, and the Product
+or Area is the second Power; now the Side of such a Square is by Geometricians
+called a Root or the first Power.
+
+Let the Side a b be 222 Inches, Feet, or Perches, etc.
+
+Now having the Area of a Square or Square Number given, and the Side or Root
+be required.
+
+This is called the Extraction of a Square Root, and also Evolution of the
+second Power.
+
+Let the Number be as before 349284.
+
+The first thing to be done in the Extraction of a Root is punctation, or
+pointing the Number given; which is thus done, first set a point over the
+Unite-place, and omitting one point every other Figure thus, 349284; there
+being three points in the Number, intimates three figures in the Root
+
+To proceed then, enquire the greatest Square Number contained in those
+figures, under the first point on the left hand; the greatest Square Number in
+34 is 25, whose Root is 5, which place in the quotient for the first figure in
+the Root, subduct its Square out of 34, and set the Remainder 9 underneath as
+in the Example.
+
+Example.
+
+The first figure in the Root thus foundthe rest are found by Division; for a
+Dividend bring down the figures under the next point, and postpone them to the
+last Remainder, and the Example will stand thus, your Divisor being double the
+Root found.
+
+Then I proceed to Division, always supposing the last Figure in my Divisor
+standing under the last save one in the Dividend; the Number to be subducted
+from the Dividend must always be the Square of the last Figure in the Root, and
+the Divisor multiplied by the last Figure in the Root, so added together as in
+this Example, viz. so that the Unite-place in the last Number stand one place
+further to the right hand.
+
+Which being subducted from the Dividend will remain 11, as part of a new
+Dividend, to them bring down the two next figures, and the Example will stand
+thus:
+
+The Divisor as before is double the whole Root found, and for the Number to be
+subducted, after you have made enquiry how many times the Divisor will be found
+in the Dividend, if so placed as aforesaid, it will here be found once, then
+place 1 in the quotient for the third figure in the Root, the Number to be
+subducted will be as before, and the Example will stand thus:
+
+The Divisor multiplied by the last Figure found, and the Square of that Figure
+placed as before directed.
+
+^ Which shows the Number was not a Square Number; but if you desire to have
+it further, add two Ciphers to the Remainder for a new Dividend, double your
+whole quotient for a new Divisor, and you may have as many Decimals as you
+please.
+
+Tabula Laterum Quadratorum ab Unitate ad 200.
+Quadrata. Latera. 1 1,00000,000000 2 1,41421,356237 3 1,73205,080757 4
+2,00000,000000 5 2,23606,797750 6 2,44948,974278 7 2,64575,131106 8
+2,82842,712474 9 3,00000,000000 10 3,16227,766017 11 3,31662,479036 12
+3,46410,161514 13 3,60555,127546 14 3,74165,738677 15 3,87298,334621 16
+4,00000,000000 17 4,12310,562562 18 4,24264,068712 19 4,35889,894354 20
+4,47213,595500 21 4,58257,569496 22 4,69041,575982 23 4,79583,152331 24
+4,89897,948556 25 5,00000,000000 26 5,09901,951359 27 5,19615,242271 28
+5,29150,262213 29 5,38516,480713 30 5,47722,557505 31 5,56776,436283 32
+5,65685,424948 33 5,74456,264654 34 5,83095,189485 35 5,91607,978310 36
+6,00000,000000 37 6,08276,253030 38 6,16441,400297 39 6,24499,799840 40
+6,32455,532034 41 6,40312,423743 42 6,48074,069841 43 6,55743,852430 44
+6,63324,958071 45 6,70820,393250 46 6,78232,998313 47 6,85565,460040 48
+6,92820,323028 49 7,00000,000000 50 7,07106,781185 51 7,14142,842854 52
+7,21110,255093 53 7,28010,988928 54 7,34846,922835 55 7,41619,848710 56
+7,48331,477355 57 7,54983,443527 58 7,61577,310586 59 7,68114,574787 60
+7,74596,669241 61 7,81024,967591 62 7,87400,787401 63 7,93725,393319 64
+8,00000,000000 65 8,06225,774830 66 8,12403,840464 67 8,18535,277187 68
+8,24621,125124 69 8,30662,386292 70 8,36660,026534 71 8,42614,977318 72
+8,48528,137424 73 8,54400,374532 74 8,60232,526704 75 8,66025,403784 76
+8,71779,788708 77 8,77496,438739 78 8,83176,086633 79 8,88819,441732 80
+8,94427,191000 81 9,00000,000000 82 9,05538,513814 83 9,11043,357914 84
+9,16515,138991 85 9,21954,445729 86 9,27361,849550 87 9,32737,905309 88
+9,38083,151965 89 9,43398,113206 90 9,48683,298050 91 9,53939,201417 92
+9,59166,304663 93 9,64365,076099 94 9,69535,971483 95 9,74679,434481 96
+9,79795,897113 97 9,84885,780180 98 9,89949,493661 99 9,94987,437107 100
+10,00000,000000 101 10,04987,562112 102 10,09950,493836 103 10,14889,156509 104
+10,19803,902719 105 10,24695,076596 106 10,29563,014099 107 10,34408,043279 108
+10,39230,484541 109 10,44030,650891 110 10,48808,848170 111 10,53565,375285 112
+10,58300,524426 113 10,63014,581273 114 10,67707,825203 115 10,72380,529476 116
+10,77032,961427 117 10,81665,382639 118 10,86278,049120 119 10,90871,211464 120
+10,95445,115010 121 11,00000,000000 122 11,04536,101719 123 11,09053,650641 124
+11,13552,872566 125 11,18033,988750 126 11,22497,216032 127 11,26942,766958 128
+11,31370,849898 129 11,35781,669160 130 11,40175,425099 131 11,44552,314226 132
+11,48912,529308 133 11,53256,259467 134 11,57583,690279 135 11,61895,003862 136
+11,66190,378969 137 11,70469,991072 138 11,74734,012447 139 11,78982,612255 140
+11,83215,9566^0 141 11,87434,208704 142 11,91637,528781 143 11,95826,074310 144
+12,00000,000000 145 12,04159,457879 146 12,08304,597359 147 12,12435,565298 148
+12,16552,506060 149 12,20655,561573 150 12,24744,871392 151 12,28820,572744 152
+12,32882,800594 153 12,36931,687685 154 12,40967,364599 155 12,44989,959799 156
+12,48999,599680 157 12,52996,408614 158 12,56980,508998 159 12,60952,021292 160
+12,64911,064067 161 12,68857,754045 162 12,72792,206136 163 12,76714,533480 164
+12,80624,847487 165 12,84523,257867 166 12,88409,872673 167 12,92284,798332 168
+12,96148,139682 169 13,00000,000000 170 13,03840,481041 171 13,07669,683062 172
+13,11487,704860 173 13,15294,643797 174 13,19090,595827 175 13,22875,655532 176
+13,26649,916142 177 13,30413,469565 178 13,34166,406413 179 13,37908,816026 180
+13,41640,786500 181 13,45362,404707 182 13,49073,756323 183 13,52774,925847 184
+13,56465,996625 185 13,60147,050874 186 13,63818,169699 187 13,67479,433118 188
+13,71130,920080 189 13,74772,708488 190 13,78404,875209 191 13,82027,496109 192
+13,85640,646056 193 13,89244,398945 194 13,92838,827718 195 13,96424,004377 196
+14,00000,000000 197 14,03566,884762 198 14,07124,727947 199 14,10673,597967 200
+14,14213,562373
+
+The Use of the precedent Table is principally for the ease of the industrious
+Artist; when he has the Extraction of a Square Root in the Solution of any
+Question, it is but seeking the given Number in the Table, and just against it
+he shall find the Root. By the subsequent Examples will it plainly appear, how
+useful such a Table to 1000 Roots would be in quadratique Equations, and in the
+Cubes also, which (were there encouragement given to the Sons of Art) I doubt
+not but some ingenious Person would enrich the World therewith; these being
+long since Calculated by Mr. Henry Briggs of Oxford, and given me by my
+honored Friend, Mr. John Collins, his desire being to have them made more
+public, and the convenience of such a Table (before mentioned) shown, by some
+Examples upon this.
+
+Of Quadratique Equations.
+Mr. Dary, in his Miscellanies, chap. 8. says to this, or the like purpose:
+
+1. When any Equation proposed is encumbered with Vulgar Fractions, let it be
+reduced to its least Terms in whole Numbers, if possible; if not, let it be
+brought to its least Terms in Decimals.
+
+2. It is evident from diverse Authors, That if any Quantity shall be signed --,
+then the Square Root, or the Root of any even Power of such Quantity so signed,
+is inexplicable, for they cannot be generated from any Binomials that shall be
+equal.
+
+As for Example.
+
+-- 9 being a Negative can be made of nothing (if taken as a Square Number) but
++ 3 and -- 3, which Roots are not equal, they being neither both Affirmatives
+nor both Negatives.
+
+3. When you have cleared the Equation by the Second hereof, and that the
+Co-efficient in the highest Power is taken away, or be Unity, then will
+quadratique Equations resolve themselves into the four following Compendiums.
+
+4. Let your Equation be so reduced, that the highest Power stand on the left
+side alone, the sign + being always annexed, or supposed to be annexed.
+
+Example, Quesita a.
+
+First Equation.
+
+Second Equation.
+
+Third Equation.
+
+Fourth Equation.
+
+Illustration by Numbers, Quesita a.
+
+First Equation.
+
+^ Which was to be proved.
+
+Proof of the Negative.
+
+Example 2.
+
+Second Equation.
+
+Example 1.
+
+Example 2.
+
+Third Equation.
+
+Example 1.
+
+Example 2.
+
+Fourth Equation.
+
+Example 1.
+
+Example 2.
+
+But if in a Square Equation there happen to be a Coefficient annexed to the
+highest Power, it is resolved by transferring the Coefficient with the Sign of
+Multiplication to the other side.
+
+Admitting the Equation be
+
+Then the Coefficient 2 being transferred (as before directed) they will stand
+as in this Example.
+
+First Equation.
+
+The Root of +25 being +5, then is +5+; = 8, and a=+4, the Affirmative Answer.
+And +3-5 is =-2, and a=-1, the Negative Answer.
+
+The Proof is easy:
+
+First, if a be = 4, 2 aa is =+32, and 6a is =+24, to which +8 being added, the
+Sum is +32 which was to be proved.
+
+Again, a=-1, then 2 aa is =-2, whereto +8 being added, the Sum is =+6, which
+also was to be done.
+
+Second Equation.
+
+Now +13 +the 121, viz. + 11 is =+24, the 1/4 whereof is =+6= a, and aa = 36.
+and 4 aa=+144, +26 a=+156, to which if -12 be added, the Sum will be +144 also.
+
+Again, If to +13 you add -the 121, viz.-11, 4 a will be =+2, and consequently
++ a=+1/2, 4 aa is then =+1, and +26 =+13, to which add -12, and the Sum is =+1,
+which was to be proved.
+
+Third Equation.
+
+-3 +13 =+5a, here a=+2, 5aa=+20, -6a=-12, to which add +32, the Sum is also+20.
+
+Again, -3-13=-16=-5a, and a=-8.2, 5aa=+51.2: Also -6a being = +19.2, to which
+add +32, the sum is =+51.2.
+
+Fourth Equation.
+
+Which was to be done.
+
+Note, Always where there is no Sign annexed to any Term in the Equation, the
+Sign + is supposed to be annexed.
+
+I have been the larger in these Examples, that the young Analist may with the
+more ease apprehend the several kinds by this variety; in some of the surd
+Roots I have on purpose omitted the large number of Places, four or five being
+sufficient for use in most cases; but if any desire to be more exact, he may
+take them as far as he pleases, or the Table does exhibit.
+
+Of the Cube Root.
+THe Cube is a Solid, and has three dimensions, length, breadth, and depth,
+and is enclosed by six plain square Superficies.
+
+Example.
+
+
+
+Let the Side a, b, or c, d, etc. be 125: To find the Content in Solid Feet or
+Inches, is the Involution of the Side or Root. Thus:
+
+And this is called the Third Power.
+
+The Evolution hereof, is also termed the Extraction of the Cube Root, wherein
+observe first your punctation, omitting two, point every third Figure.
+
+Example.
+
+The first Figure in the Root is found by taking the greatest Cube Number,
+contained in the Figure or Figures that stand under the first Point toward the
+left hand, here 71, whose Root is 4, therefore that 4 must be placed in the
+Quotient as the first Figure in the Root, and the Example will stand thus:
+
+Then the Cube of 4 is 64, which subduct out of the first Figures, and set down
+the remainder if any be. The first Figure found in this peculiar manner, the
+rest are found by Division thus: The Dividend consists of the remainder, if any
+be, and the three Figures under the next Point postponed; the Divisor is always
+three times the Square of the Root, and three times the Root it self: These two
+Numbers being so to be added together, as that the Unites of the first stand
+over the Tens of the second.
+
+Then will the Example stand thus:
+
+Then proceed to Division, always supposing the last Figure in the Divisor to
+stand under the last save one in the Dividend, and enquire, how many times 4 in
+7? place 1 in the Quotient. Then for your Number to be subducted out of the
+Dividend, it always consists of three Numbers, viz.
+
+Then for a new Dividend, bring down the three next Figures, postponing them as
+before.
+
+Which being set on the left hand the Dividend, stands thus:
+
+Then enquire, how many times 5 in 30? you will find 5 times, which place in
+the Quotient. Your Subducend is as before,
+
+Which shows the Number was not a Cube Number; if you add three Ciphers, and
+work as before, you may have as many Decimals Fractions as you please.
+
+In this Extraction I have not taken the same Number the Cube first mentioned
+did produce, but by adding another Figure, made the Number greater, that it
+might take in all Cases; but in the following Extraction it is explicated.
+
+A SHORT TREATISE OF SIMPLE and COMPOUND INTEREST: WITH TWO TABLES FOR THE
+CALCULATION OF The Value of Leases or Annuities by Quarterly Payments, at 6 per
+Cent. per Annum.
+
+By John Main.
+
+London, Printed by William Godbid, for Nath. Crowch, in Exchange-Alley.
+
+M. DC. LXXIII.
+
+Of Simple Interest.
+QUestions in Simple Interest are wrought by the Double Rule of Proportion,
+wherein five Numbers are given to find the sixth.
+
+And if you put P = 100 Principal, and T for Twelve Months, G = 6 l. the Rate
+of Interest, and p = any other Sum greater of lesser, t = any other Time (above
+or under Twelve Months) and also g = to the Gain thereof at that Rate.
+
+Then if any one Term of these six be unknown, it is explicated by the other
+five (like Symbols having the same denomination) as in this Equation.
+
+That is the Fact of 100 l. multiplied by one year, and that Product by 6 the
+Interest of 25 l. for 4 years, is equal to the Fact of 25 multiplied by 4
+years, and that Product by 6 the Interest of 100 l. for one year.
+
+Example.
+
+Which was to be proved.
+
+Now forasmuch as the usual Questions of Simple Interest, are proposed from a
+Sum presently due to the Gain thereof, and contra; it will be requisite you put
+A = the Amount of a Sum, forborne or due hereafter, and then you will have A =
+p+g, as in the former Equation.
+
+Example.
+
+From the precedent Analogism will arise these four Propositions.
+
+Prop. I.
+
+A Sum presently due = p, being forborne a certain time = t, at a certain rate =
+G, per Cent. per Annum: Q. the Amount = A?
+
+^ That is, the given Sum multiplied by the given Time, and that Product again
+multiplied by the given Rate of Interest, the last Product divided by the
+Principal, viz. 100, in the Time, viz. 1, exhibits the Gain of that Sum in that
+Time.
+
+Illustration.
+
+Quest. 1. 25 l. being forborne 18 Months, at 6 per Cent. per Annum; what does
+it amount to?
+
+The Answer being 27 l. 5 s. the Amount in that time.
+
+Quest. 2. If 175 l. be forborne for 7 Years, at 6 per Cent. per Annum, Simple
+Interest; what will it amount to at the end of the said time?
+
+^ Prop. II.
+
+A Sum of Money = A, due at a certain time hereafter = t, at a certain Rate of
+Interest = G, per Cent. per Annum. Q. The present worth = p?
+
+That is, the Fact of the Amount multiplied by the Principal, 100, in the Time,
+viz. 1 Year, divided by the said Principal multiplied into the said Time, more
+the Rate of Interest multiplied into the Time of Forbearance, the Quotient is
+equal to the present worth.
+
+Example.
+
+Quest. 1. If 248 l. 10 s. be due at the end of 7 years, what is it worth in
+ready money, discompring Interest, at 6 per Cent. per Annum.
+
+^ The Answer is 175 l.
+
+Quest. 2. If 950 l. be due at the end of 12 years, what is it worth in ready
+money, at 9 per Cent. per Annum Simple Interest?
+
+The Answer is 456 l. 14 s. 7 d. 1/4 fere.
+
+Prop. III.
+
+A Sum presently due = p,having been forborne a time unknown = t, di^^ amount to
+a certain Sum = A, at a Rate of Interest = G, per Cent. per Annum. Q. the Time
+of forbearance = t?
+
+^ That is to say, the Amount less the Principal, so increased, multiplied by
+100, and that Product divided by the Fact of the beforementioned Principal, and
+Rate of Interest, quotes the Time of forbearance.
+
+Example.
+
+Quest. 1. If 175 l. has been forborne till with the Interest at 6 per Cent.
+per Annum it is increased to be 248 l. 10 s. Q. How long has it been forborne?
+
+The Answer is 7 years.
+
+Quest. 2. If 25 l. has been forborne till it is amounted to 27 l. 5 s. at 6
+per Cent. per Annum, Simple Interest. Q. in what time is it so increased?
+
+^ The Answer 1 year and an half.
+
+Prop. IV.
+
+A Sum of Money = p, being forborne a certain time = t, and at the end of that
+Term did amount to a Sum = A. Q. At what Rate of Interest?
+
+Or from the Amount subduct the Principal, and the Remainder multiply by 100,
+that Product divided by the Principal multiplied by the Time, the Quotient will
+be = G the Rate of Interest, per Cent. per Annum.
+
+Illustration.
+
+Quest. 1. If 250 l. forborne 3 years and 6 months, did amount to 324 l. 7 s. 6
+d. at what Rate of Interest did it so increase?
+
+^ The Answer is 8 l. 10 s.
+
+Quest. 2. If 175 l. being forborne 7 years, did amount to 248 l. 10 s. what
+Rate of Simple Interest per Cent. per Annum was it accounted at?
+
+The Answer is 6 l.
+
+If one month be taken for the 1\12 of a year, the business of Interest and
+Rebate is very easily performed by a small Table of the Amounts of 1 l. for any
+number of months, not exceeding 12; which Table is made by this Analogy,
+100.106::1.1.06.
+
+A Table of the Increase of 1 l. at 6 per Cent per Ann.
+Months. Value. Months. Value. 12 1.06 6 1.03 11 1.035 5 1.025 10 1.05 4 1.02 9
+1.045 3 1.015 8 1.04 2 1.01 7 1.035 1 1.005
+
+If the Question be of the Amount of any Sum forborne any number of months, at 6
+per Cent. per Annum, multiply the given Sum by the Tabular Number for that
+time, and the Product answers the Question.
+
+Example.
+
+If 125 l. be forborne 10 months, what will it amount to?
+
+The Answer is 131 l. 5 s.
+
+If the Question be only what is the Interest of any Sum for any time, then
+multiply the Sum for that time by the Tabular Number less an Unite.
+
+Example.
+
+What is the Interest of 125 l. for 10 months?
+
+The Answer is 6 l. 5 s. prout supra.
+
+For Discompt or Rebate of any Sum to be forborne, the present worth is found by
+dividing the given Sum by the Tabular Number.
+
+Example.
+
+What is the present worth of 131 l. 5 s. due at the end of 10 months?
+
+The Answer is 125 l.
+
+But if any desire to be more exact, let him multiply the Interest of 1 l. for
+1 day (which is.000164384) by the number of days, and that Product by the given
+Sum, and the last Product will be the Interest for that Sum forborne the time
+given.
+
+Example.
+
+What is the Interest of 125 l. forborne from the Tenth of March to the Tenth of
+January following, viz. 305 days?
+
+The Answer is 6 l. 5 s. 4 d fere.
+
+Discompt is performed by Division, viz. get the Amount of 1 l. for the time
+required, by which divide the given Sum, and the Quote is the present worth.
+
+Of Mean Time.
+It has been a custom amongst Merchants, in their Contracts upon Sale of
+Commodities, to agree upon diverse times of payment, as two three-months, three
+six-months, etc. Now to find a time between these, wherein the whole Sum may be
+paid at one entire Payment without detriment to either Party, the subsequent
+Table does show upon the first inspection.
+
+A Table for Equation of Time.
+1 is 1.5 1 is 2 1 is 2.5 1 is 3 2 is 3 2 is 4 2 is 5 2 is 6 3 is 4.5 3 is 6 3
+is 7.5 3 is 9 4 is 6 4 is 8 4 is 10 4 is 12 2 5 is 7.5 3 5 is 10 4 5 is 12.5 5
+5 is 15 6 is 9 6 is 12 6 is 15 6 is 18 7 is 10.5 7 is 14 7 is 17.5 7 is 21 8 is
+12 8 is 16 8 is 20 8 is 24 9 is 13.5 9 is 18 9 is 22.5 9 is 27 1 is 3.5 1 is 4
+1 is 4.5 1 is 5 2 is 7 2 is 8 2 is 9 2 is 10 3 is 10.5 3 is 12 3 is 13.5 3 is
+15 4 is 14 4 is 16 4 is 18 4 is 20 6 5 is 17.5 7 5 is 20 8 5 is 22.5 9 5 is 25
+6 is 21 6 is 24 6 is 27 6 is 30 7 is 24.5 7 is 28 7 is 31.5 7 is 35 8 is 28 8
+is 32 8 is 36 8 is 40 9 is 31.5 9 is 36 9 is 40.5 9 is 45
+
+The manner of making this Table, is no more than adding one Term to the given
+number of Terms, and take half the Sum.
+
+Example.
+
+Is three four-months given, add 4 to 12, the Sum will be 16, half that Sum,
+viz. 8 months, is the equated Time of Payment.
+
+This indeed is but an approximation, though near enough the truth for
+practice. That excellent Accomptant Mr. Collins, in a Sheet Printed Anno 1665.
+has taught a more exact way of Equation: Simple Interest, prop. 4. Compute
+(says he) all the present worths, and then by proportion, if all those present
+worths did 1 l. amount to in the said time? From the result subtract an Unite,
+the Remainder is the Interest of 1 l. for the time sought, which divide by the
+Interest of 1 l. for one Day, and the Quote is the Number of Days sought.
+
+Example.
+
+A Merchant sold Wines for 300 l. and has given the Vintner three six-months
+for Payment, viz. to pay 100 l. at the end of 6 months, another at 12, and the
+third 100 l. at 18 months end; the Question is, At what time may this Vintner
+pay 300 l together, without detriment to himself or the Merchant.
+
+The Interest of 1 l. for the time is.059123786
+
+The Interest of 1 l. for 1 day is =.000164384
+
+The Answer is 359 days and a half, fere.
+
+By the Table, three six-months gives twelve months for the equated time which
+you find above five days less than a year by this Calculation.
+
+A Decimal Table of the present worth of One Pound, Quarterly Payment, at 6 per
+Cent. per Annum, Simple Interest, for 124 Quarters.
+1.985222 2 1.956095 3 2.913033 4 3.856429 5 4.786662 6 5.704093 7 6.609071 8
+7.501928 9 8.382985 10 9.252550 11 10.110919 12 10.958377 13 11.795197 14
+12.621643 15 13.437970 16 14.244421 17 15.041234 18 15.828636 19 16.606846 20
+17.376077 21 18.136533 22 18.888413 23 19.631907 24 20.367201 25 21.094474 26
+21.813898 27 22.525642 28 23.229868 29 23.926732 30 24.616387 31 25.298981 32
+25.974656 33 26.643553 34 27.305804 35 27.961542 36 28.610893 37 29.253979 38
+29.890922 39 30.521837 40 31.146837 41 31.766032 42 32.379529 43 32.987432 44
+33.589841 45 34.186856 46 34.778572 47 35.365082 48 35.946478 49 36.522847 50
+37.094275 51 37.660848 52 38.222645 53 38.779748 54 39.332235 55 39.880180 56
+40.423658 57 40.962742 58 41.497501 59 42.028005 60 42.554321 61 43.076514 62
+43.594649 65 44.108787 64 44.618992 65 45.125321 66 45.627833 67 46.125686 68
+46.621636 69 47.113036 70 47.600841 71 48.085103 72 48.565872 73 49.043199 74
+49.517133 75 49.987721 76 50.455010 77 50.919048 78 51.379877 79 51.837543 80
+52.292088 81 52.743556 82 53.191986 83 53.637421 84 54.079898 85 54.519459 86
+54.956140 87 55.389980 88 55.821014 89 56.249280 90 56.674811 91 57.097644 92
+57.517813 93 57.935349 94 58.350287 95 58.762658 96 59.172494 97 59.579826 98
+59.984684 99 60.387099 100 60.787099 101 61.184713 102 61.579970 103 61.792897
+104 62.363522 105 62.751872 106 63.137972 107 63.521849 108 63.903529 109
+64.283035 110 64.660394 111 65.035628 112 65.408763 113 65.779820 114 66.148824
+115 66.515796 116 66.880760 117 67.243736 118 67.604747 119 67.963814 120
+68.320956 121 68.676196 122 69.029553 123 69.381047 124 69.730697
+
+The Use of the precedent Table is principally to show the present worth of any
+Lease or Annuity, payable Quarterly, for any term of years under 21, at 6 per
+Cent. per Annum, Simple Interest.
+
+Example.
+
+There is a Lease for 18 years to be sold, of the yearly value of 160 l.
+payable Quarterly, viz. 40 l. per Quarter, what is this Lease worth in ready
+money allowing the Purchaser 6 per Cent. Simple Interest?
+
+The Answer is 1942 l. 12 s. 8 d. 1/4 fere.
+
+The Inversion of the Question, viz. What Quarterly Payment for 18 years will
+1942 l. 12 s. 8 d. 1/4 purchase?
+
+As the former was done by Multiplication, where the Product exhibits the
+Answer; so if the Sum proposed be divided by the Tabular Number, the Quote
+gives your Answer.
+
+Example.
+
+The Answer is 40 l.
+
+Of Compound Interest.
+AS Simple Interest is performed by a Series of Musical, so is Compound
+Interest wrought by a Rank of Geometrical continual Proportionals. The
+operation whereof by the Canon of Logarithms, take under these four
+Considerations.
+
+Prop. I.
+
+If you shall put p = the Logarithm of a Principal or Sum forborne, and t = the
+time of forbearance in years, quarters, months, or days, r = the Logarithm of
+the Rate of Interest, per cent. per annum, per mensem, or per diem, a = the
+Logarithm of the Amount of the said Principal for the said time, at the Rate
+also aforesaid: Then Q. The Amount = a?
+
+That is, Multiply the Logarithm of the Rate by the Number of Years, Quarters,
+etc. to which Product add the Logarithm of the Principal, and the Aggregate is
+equal to the Logarithm of the Amount.
+
+Example.
+
+Quest. 1. If 175 l. be forborne 7 years, what will it amount to at 6 per Cent.
+per Annum, Compound Interest?
+
+The Answer 263 l. 2 s. 8 d. 1/4 fere.
+
+Quest. 2. If 1000 l. be forborne for 6 months, at 6 per Cent. per Annum,
+Compound Interest, what will it amount to?
+
+The Answer 1029 l. 11 s. 3 d. fere.
+
+Prop. II.
+
+A Sum of Money unknown, being forborne a certain time = 1, at a given Rate of
+Interest = r, is amounted to a given Sum = a; Q What was p?
+
+From the Logarithm of the Amount, subduct the Logarithm of the Rate,
+multiplied by the time, and the Remainder is the Logarithm of the Principal.
+
+Example.
+
+Quest. 1. If 263 l. 2 s. 8 d. 1/4 be the Amount of a Sum forborne 7 years, at 6
+per Cent. per Annum, Compound Interest, what was the Principal?
+
+The Answer 175 l.
+
+Quest. 2. If 102 l. 11 s. 3 d. be the Principal and Interest of a Sum of Money
+forborne 6 months, at 6 per Cent. per Annum, Compound Interest, what was the
+Principal?
+
+The Answer 1000 l.
+
+Prop. III.
+
+A Sum of Money = p, being forborne for a time = t, did amount to a given Sum =
+a, at a Rate of Interest unknown: Q. The Rate per Cent. per Annum = r?
+
+Divide the Logarithm of the Amount, less the Logarithm of the Principal, by
+the Time, and the Quote is the Logarithm of the Rate.
+
+Example.
+
+If 25 l. forborne 4 years, did amount to 31 l. 11 s. 2 d. 1/4; at what Rate of
+Compound Interest did it so increase?
+
+Prop. IV.
+
+A Sum of Money being forborne, at a given Rate, for a time unknown, but the
+Amount is known, how long was it so forborne?
+
+Example.
+
+If 1000 l. be increased to 1029 l. 11 s. 3 d. at 6 per Cent. per Annum,
+Compound Interest, in what time was it so increased?
+
+The Answer 6 months.
+
+It may here be expected that I should lay down the Construction of the
+Logarithms, having made use of them in these Calculations, but this being
+designed a small Enchiridion, and there being large Volumns of that Subject in
+the World already, by several more learned Pens, I think it unnecessary to say
+any thing further thereof, for as they are of excellent use, so are they easy
+to be had.
+
+COmpound Interest Infinite, may be so called as it relates to diverse equal
+Payments at equal times, but the number of those equal times are infinite, (i.
+e.) when an Estate in Fee-Simple shall be sold for ever. Now there being
+usually an interval of time, between the Purchasers Payment and the reception
+of his first Rent, be it yearly, half yearly, or quarterly;
+
+Any Question of this Nature may be wrought by the following Analogism:
+
+Putting V = the Rent (yearly or quarterly) and S = the Price paid for the
+Land, also R = the Common Factor of the Rate of Interest, per Cent. per Annum.
+Hence then may arise these three Propositions.
+
+Prop. I.
+
+There is a Fee Simple to be sold, what is it worth in ready money, so that the
+Purchaser may have 6 per Cent. per Annum, Compound Interest, allowed for his
+money.
+
+Quest. 1. There is a Manor to be sold of the clear yearly value of 969 l. 18
+s. what Sum of ready money is this Estate worth, 6 per Cent. per Annum Compound
+Interest being allowed the Purchaser for his money?
+
+The Annual (or Quarterly) Payment, divided by the Ratio, less Unity, exhibits
+the Sum in the Quotient.
+
+The Answer is 16165.
+
+Quest. 2. There is an Estate of 969 l. 18 s. per Annum, payable Quarterly,
+what is it worth in ready money, allowing the Purchaser 6 per Cent. per Annum
+Compound Interest?
+
+The Answer is 16524 l. 2 s. 6 d. fere.
+
+The difference between Yearly and Quarterly Payments in this Purchase raises
+the value 359 l. 2 s. 6 d.
+
+* Having the increase of 1 l. for a Year, at any Rate of Interest, the
+Biquadrate Root of that Increase, is the Increase of 1 l. for a Quarter at
+Compound Interest.
+
+Prop. II.
+
+A Sum of money lying ready for a Purchase, and it be desired to know what
+Freehold Estate such a Sum will purchase, if laid cut at a given Rate per C.
+per Ann. Compound Interest.
+
+Or, in other terms, the Sum of Money multiplied by the Rate, less Unity, the
+Product shall be equal to the Annual half quarterly or quarterly Payment.
+
+Quest. A Gentleman upon Marriage of his Daughter promises to lay out 1600 l.
+for a Freehold Estate, to be settled upon her and her Heirs, provided he meet
+with such a Pennyworth as shall bring 8 per Cent. per Annum, Compound Interest
+for his money: Q. What Annual Rent must it be?
+
+The Answer 128 l. per Annum.
+
+Prop. III.
+
+An Estate being offered for a certain Sum of money, the annual Rent is also
+known: Q. What Rate of Interest upon Interest shall the Purchaser have for his
+money?
+
+The annual Rent being divided by the Sum demanded, quotes the Rate less Unity.
+
+Example.
+
+Quest. 1. There is a Freehold Estate to be sold for 1600 l. the yearly Rent
+being 128 l. what Rate of Interest shall the Purchaser have for his money?
+
+Quest. 2. Admit there be a small Farm to be sold of the Value of 35 l. per
+Annum for 500 l. what Rate of Compound Interest shall the Purchaser have for
+his money at that price?
+
+Furthermore, if it be inquired how many years Purchase any Annuity is worth,
+putting R = the Ratio as before, and Y the number of Years, the Rule is:
+
+That is, Divide Unity by the Ratio less 1, and the Quote informs the Number of
+Years.
+
+Example.
+
+There is a Freehold Estate to be sold, Q. How many Years Purchase is it worth
+at 5 per Cent. per Annum?
+
+The Answer is 20 Years Purchase.
+
+What is it worth at 6 per Cent. per Annum?
+
+The Answer is 16 Years, and 2/3 of a Year.
+
+Again, if an Estate be offered at any number of Years Purchase, and it be
+demanded what Rate of Interest the Purchaser shall have for his Money, the Rule
+is:
+
+That is, Divide Unity by the number of Years proposed, and the Quote exhibits
+the Ratio, less Unity.
+
+Example.
+
+An Estate is offered at 20 Years Purchase, what Rate of Interest shall the
+Purchaser then have?
+
+The Answer is 5 per Cent. per Annum.
+
+There are many Tables of Compound Interest Printed in sundry Books for the
+valuation of Leases and Annuities, but they are generally made for yearly
+Payments, when indeed by the common and most usual Covenants in Leases the
+Tenant is obliged to pay quarterly; and in Le^ses of great value, there will be
+found a considerable difference in the true worth, (so great, that 25 l. per
+Quarter is as good as 102 l. 5 s. per Annum.) I have therefore presented the
+Reader with a Table fitted to such Quarterly Payments, the Use of which Table I
+doubt not but will be very easily found by the Examples that follow.
+
+A Table of Interest, for the Valuation of Leases or Annuities for Quarterly
+Payments, at 6 per Cent. per Annum, Compound Interest, for 31 Years.
+1.985538 2 1.956824 3 2.914064 4 3.857459 5 4.787313 6 5.836372 7 6.609520 8
+7.496573 9 8.373700 10 9.238139 11 10.090079 12 10.929724 13 11.757176 14
+12.572685 15 13.376402 16 14.168496 17 14.949134 18 15.718484 19 16.476707 20
+17.223982 21 17.960417 22 18.686219 23 19.401524 24 20.106484 25 20.801250 26
+21.485968 27 22.160789 28 22.825841 29 23.481282 30 24.127242 31 24.763844 32
+25.391256 33 26.009595 34 26.618988 35 27.219206 36 27.811474 37 28.394861 38
+28.969764 39 29.536352 40 30.094714 41 30.645034 42 31.187396 43 31.721914 44
+32.248000 45 32.767870 46 33.279531 47 33.783794 48 34.280753 49 34.843000 50
+35.253244 51 35.728999 52 36.197819 53 36.659861 54 37.115237 55 37.564028 56
+38.006330 57 38.442234 58 38.871893 59 39.295222 60 39.712487 61 40.123777 62
+40.529043 63 40.928469 64 41.322133 65 41.710087 66 42.092531 67 42.469245 68
+42.841611 69 43.206601 70 43.567307 71 43.922768 72 44.273138 73 44.618415 74
+44.958701 75 45.194062 76 45.624577 77 45.950311 78 46.271331 79 46.587715 80
+46.899521 81 47.206817 82 47.509668 83 47.808141 84 48.102298 85 48.392200 86
+48.677877 87 48.959492 88 49.236993 89 49.510486 90 49.780023 91 50.045601 92
+50.307460 93 50.665471 94 50.819753 95 51.070356 96 51.317335 97 51.560742 98
+51.841984 99 52.037044 100 52.271047 101 52.499677 102 52.725986 103 52.949021
+104 53.134301 105 53.385474 106 53.598963 107 53.809375 108 54.016743 109
+54.221113 110 54.422527 111 54.620966 112 54.816601 113 55.009461 114 55.199474
+115 55.386751 116 55.571297 117 55.753185 118 55.932443 119 56.109107 120
+56.283219 121 56.454811 122 56.623921 123 56.790588 124 56.954843
+
+The Calculation of a Number in the precedent Table, by aid of the Canon.
+The Question being, What is the present worth of 1 l. per Quarter for 21 Years?
+
+Then by the Rule of Proportion:
+
+The Answer is = 48 l. 2 s. 0 d. 1/2 fere.
+
+And after this manner may a Table be Calculated, or the Value of a Lease for
+any Number of Years, may be found at any Rate of Interest required.
+
+The USE of the TABLE.
+This Table shows the Discompt of 1 l. per Quarter at 6 per Cent. per Annum,
+Compound Interest, and if the Tabular Number for so many Quarters as the Lease
+is to continue be multiplied by the Quarterly Payment, that Product is the
+present Value of that Lease in ready money.
+
+Example.
+
+A Lease of 40 l. per Annum ( viz. 10 l. per quarter) for 21 years, being to be
+sold, what is it worth in ready money?
+
+The Answer is 481 l. 0 s. 5 d 1/4 fere.
+
+But if the question be, What quarterly Rent for 21 years will a given Sum
+purchase? Then divide the given Sum by the Tabular Number for so many quarters.
+
+Example.
+
+A Gentleman having a Lease of certain Church Lands, worth 200 l. per Annum
+more than the reserved Rent, for 14 years to come, surrenders the same, upon
+condition the Chapter shall make him a new Lease for 31 years without a present
+Fine, but advancing the old Rent 10 l. per quarter during the whole term of 31
+years; what does he gain by the bargain, accompting Compound Interest on both
+sides?
+
+The Answer is 377 l. 18 s. the new Lease being so much more worth than the old
+one.
+
+240 l. is demanded for the Lease of a House for 7 years, the Tenant offers 100
+l. and an advance of Rent equivalent to the rest of the Fine required, what
+ought this Rent to be?
+
+The Advance of Rent ought to be 6 l. 2 s. 8 d. per quarter.
+
+There is a Lease of 200 l. per Annum, viz. 50 l. per quarter, for 131/4 years,
+to be sold, what is it worth at 6 per Cent. Simple, and what at 6 per Cent.
+Compound Interest?
+
+Simple.
+
+Compound.
+
+Where by it appears, that it is cheaper to the Purchaser at Compound Interest
+than at Simple Interest by 106 l.
+
+Six Questions performed by the aid of the Canon of Logarithms.
+Quest. 1. A Gentleman pays 350 l. for a Lease in Reversion, to commence at the
+end of 13 years and a quarter, and to continue for 21 years and 3 quarters,
+what quarterly Rent may he let the Premises for, after he comes to be in
+possession thereof, so as to gain 8 per Cent. Compound Interest for his money?
+
+The Answer = 23 l. 3 s. 11 d. 1/4 fere.
+
+Quest. 2. A Citizen having taken a Lease of a House and Shop for 21 years, at
+370 l. Fine, and 100 l. per Annum, viz. 25 l. per quarter, Rent, at the end of
+two years is willing to leave it for 300 l. and the old Rent, or to have such
+an increase of Rent, during the whole term yet to come, as may reimburse him
+his Fine paid, with Compound Interest at 6 per Cent. per Annum: What ought he
+to receive in advance of Rent, and what does he offer to lose of his Fine paid
+in taking 300 l.
+
+Whereby it appears, there is 50 l. 18 s. 10 d. offered to be lost in putting
+off the House and Shop aforementioned.
+
+Quest. 3. A sells a House to B for 800 l. to be paid with Interest upon
+Interest by 100 l. per Annum, viz. 25 l. per quarter, how many quarters Rent
+ought B to pay before A is satisfied for his 800 l. with Compound Interest at 6
+per Cent. per Annum, and what ought the last Payment be?
+
+The last Payment 13 l. 3 s. 4 d. fere.
+
+Quest. 4. A lends unto B a certain Sum of ready money, and accepts a Rent
+Charge of 40 l. quarterly for 7 years in satisfaction, finding it paid him his
+Principal with Interest upon Interest at 8 per Cent. within 13 l. 4 s. 6 d.
+what was the Money lent?
+
+The Money lent was 968 l. 14 s.
+
+Quest. 5. A Testator leaving one Son and two Daughters, bequeaths out of his
+Estate (being 600 l. per Annum for 11 years) to his eldest Daughter 500 l. per
+Annum for 4 years next coming, at the end whereof, to his younger Daughter 300
+l. per Annum for 7 years, and to his Son the Remainder of the Estate for the
+whole time: Q. Which had the greatest Portion, and by now much, calculating
+their several Annuities at 6 per Cent. Compound Interest?
+
+Proof.
+
+Quest. 6. A Merchant sold 16 Kintals of Cyprus Cottons for 320 l. to be paid
+at two six-months; the Buyer having Money by him, offers to pay the Money
+presently, provided the Merchant allow him Discompt at 6 per cent. Compound
+Interest. Q. What ought the Merchant to receive?
+
+The Answer 306 l. 6 s. 4 d. fere.
+
+STEREOMETRY: OR, A New and the most Practical Way OF Gauging Tunns In the form
+of a PRISMOID and CYLINDROID: ALSO The Frustums of Pyramids and of a Cone
+Together with The Art of CASK-GAUGING.
+
+By John Main.
+
+London, Printed by William Godbid, for Nath. Crowch, in Exchange-Alley.
+
+M. DC. LXXIII.
+
+TO THE Young Geometrician.
+I Hope by this time thou art so sufficiently acquainted with the Nature and
+Use of a Decimal Fraction, that any Operation in the six Species, viz.
+Addition, Subtraction, Multiplication, Division, Involution and Evolution of
+the Second and Third Powers, will not appear difficult to thee; and these being
+familiar, any Calculation in Arithmetic, Geometry, Trigonometry, or other
+Mathematical Arts, will not seem strange: Amongst the many pleasant Walks in
+this Tempe, I have made it my present design to give thee some diversion in
+that part of Solid Geometry called Gauging, and herein passing by those
+Blossoms that kiss the hand of every Passenger, I have endeavored (and I hope
+not altogether without success) to show thee how to gather a Rose without
+danger of its Thorn: For the Invention, the World is obliged to the Ingenious
+Mr. Michael Dary, the Roots of these, and many other choice Mathematical
+Flowers, lying crowded together in a small Treatise called Dary's Miscellanies,
+Printed 1669. Here, as in the former Part, thou have both Precept and Example
+in the plainest method I could possibly express them. That they may by no means
+seem obscure to any ingenious Student, is the hearty desire of
+
+Thy Friend, J. M.
+
+The Explanation of the Signs or Characters.
++ More. - Less. = Equal. andgt; Greater. andlt; Lesser. x Multiplied. Square
+Root. q Square. ^ Circle.:: Proportional. ^ Difference.
+STEREOMETRY: OR, A New and the most Practical Way of GAUGING TUNNS, etc.
+A plain and easy Method for finding the Solid Content of a Prismoid.
+
+DEFINITION.
+BY the word Prismoid is to be understood a Solid contained under six plain
+Surfaces, whereof the two Bases ought to have these three qualifications:
+
+1. Rectangular Parallelograms.
+
+2. Parallel.
+
+3. Alike Situate. i. e. So situate, that the Rectangular Conjugates in both
+Bases may be inserted by two and the same Planes, and a Right Line extended
+from the Center of one Base to the other may be called the Axis, and the other
+remaining four Planes are the Peripatasma. Under this Definition is
+comprehended the Frustums of Pyramids and Prisms.
+
+Note also, It the Peripatasma be not made by the four flat Sides (spoken of
+before) but shall be constituted by Curveture from Circles or Elipse's, the
+Solid is then called ^ Cylindroid, and under this Definition is comprehended
+Frustums of Cones and Cylinders.
+
+PROBL.
+
+If in a Prismoid you put
+
+C = the whole Content thereof. A and B = the two Rectangular Conjugates above.
+G and H = the two Rectangular Conjugates below. A and G opposite = their two
+Correspondents one above the other below inserted by one Plane. B and H
+opposite = their two Correspondents above and below, and also inserted by one
+Plane. P = the perpendicular height of the Prism or Prismoid. K = the increment
+of any two Diameters, to be taken between A and G in the same Plane with them,
+at one Inch distance of the perpendicular. L = the increment of any two
+Diameters, to be taken between B and H in the same Plane with them, at one Inch
+distance of the perpendilar.
+Then,
+
+Analogism.
+
+Or,
+
+The Rectangle of the two Diameters at the Base multiplied into the
+Perpendicular, more the Semi-sum of G L and H K, ( viz. those two Diameters
+multiplied into their altern increments) multiplied into the Square of the
+Perpendicular, to which add one third of the Rectangle of K L (i. e.) the two
+increments multiplied into the Cube of the Perpendicular is equal to the
+Content in Cubick Inches.
+
+By which Theorem you find three fixed or stationary Numbers, which Mr. Dary
+calls reserved Coefficients, wherefore you shall find them hereafter called by
+that denomination: These three reserved Coefficients thus multiplied into the
+Perpendicular, the Product is equal to the whole Content, or by any part of the
+Perpendicular gives the Solidity of that part.
+
+Prop. I.
+
+Having a Tunn in the form of a Prismoid, the Dimensions being,
+
+What is the Solidity of this Tunn in Cubick Inches?
+
+First then to find the three reserved Coefficients.
+
+i. e. The difference between A and G (the two opposite Diameters above and
+below) divided by the Perpendicular quotes K, the increment of any two
+Diameters to be taken between them, at one Inch distance in the Perpendicular,
+and in the same Plane.
+
+That is, the difference between B and H (the two Diameters opposite the one
+above the other below) divided by the Perpendicular quotes L, the increment of
+any two Diameters to be taken between them, at one Inch distance in the
+Perpendicular, and in the same Plane with them.
+
+Now having found these reserved Coefficients, I proceed, and finding that 1/3
+of K L must be multiplied by the Cube of the Perpendicular, I begin with it,
+and call that the first Coefficient; then 1/4 G L H K being to be multiplied by
+the Square of the Perpendicular, I add that to the first Fact, and call it the
+second Coefficient; lastly, G H being to be multiplied by the Perpendicular, I
+add that to the second Fact, and call it the third Coefficient; then will the
+Work stand thus:
+
+Example.
+
+Now admitting this Tunn have but 33 wet Inches, what is the Content thereof?
+
+Prop. II.
+
+Having a Tunn in the form of a Prismoid, the Dimensions being,
+
+What is the Solidity in Cubick Inches?
+
+To find this Tunns Solidity, the Rule is:
+
+i. e. The Fact of A B (the rectangular Congates at the Base) multiplied by the
+Perpendicular, from whence subduct the Semi-sum of the two Facts (A and its
+altern decrement, B and its altern decrement, multiplied into the Square of the
+Perpendicular) more the one third of the Rectangle of K L, viz. the two
+decrements, multiplied into the Cube of the Perpendicular, and that Remainder
+is the Content in Cubick Inches.
+
+To find the Coefficients.
+
+This Rule being the Converse of the former, these Numbers K and L which before
+were Affirmatives are now become Negatives (then increment, now decrement;) the
+greater Conjugates being subducted from the lesser makes the Dividends so much
+less than nothing, and consequently the Quotes, the Divisor being an
+Affirmative, yet these two Negatives being multiplied together, their Fact
+becomes Affirmative, according to the Rule of Algebra, the Signs of the Factors
+being homogeneal (or alike) makes the Fact more, as in this
+
+Example.
+
+The Factors in these Rectangles being heterogeneal (or unlike) the Fact is
+made less.
+
+These two Factors being both Affirmatives, the Fact is +.
+
+With these three reserved Coefficients I proceed to the Calculation, according
+to the precedent Theorem.
+
+But if this Tunn have only 27 Inches of the Perpendicular wet, the Content
+then being required:
+
+Prop. III.
+
+There is a Tun in the form of a Prismoid, the Dimensions are,
+
+What is the Solidity in Cubick Inches?
+
+Prop. IV.
+
+There is a Tunn in the form of a Prismoid, the Dimensions being,
+
+What is its Solidity in Cubick Inches?
+
+The reserved Coefficients are found to be:
+
+The Calculation.
+
+Here note, if any of the precedent Tunns be clothed by Curveture, ( i. e. the
+Bases being Circular or Elliptical) the last Product ought to be divided by
+1.27324, then will the Quotient exhibit the Cubick Inches in that Solid. But if
+the Question be Ale Gallons, let your Coefficients be divided by 282; if Beer
+Barrels be required, divide the Coefficients by 10152, the number of Inches in
+a Beer Barrel. In all flat sided Figures, and for those Solids, whose
+Peripatasma is constituted by Circles or Ellipsis, the Divisor for Beer Barrels
+is 12926andgt;, for Ale Barrels 11490andgt;, and for Ale Gallons 359; of which
+take these Examples.
+
+What number of Beer Barrels and Gallons does the last mentioned Tunn contain?
+
+The three Coefficients for Beer Barrels divided by 10152 are:
+The first = +.000007880220646andlt; The second = =.0067375888andgt; The third
+= +1.87^3404andlt;
+The three Coefficients for Gallons being divided by 282 are:
+The first =.0002837andgt; The second =.2425532andgt; The third =
+67.4042553andgt;
+The Coefficients being thus fitted, the Calculation is after this manner:
+
+For Barrels.
+
+The Answer is 89 Barrels, 3 Firkins, and 1 Gallon, or 89 Barrels and 28
+Gallons.
+
+For Gallons.
+
+The Answer is 3232 Gallons, which divided by 36 quotes 89 Barrels 28 Gallons,
+as before.
+
+Example.
+
+A New Way of GAUGING THE Frustum of a PYRAMID OR CONICAL TVNN.
+
+A New Way of GAUGING THE Frustum of a Pyramid, etc.
+DEFINITION.
+A Pyramid is a Solid Figure, contained under many Superficies, whereof one is
+the Base, and the rest arise from the Base to the Vertex, and there meet in a
+Point.
+
+The Frustum of a Pyramid is a Solid, cut with a Plane parallel to the Base,
+and the part cut off is also a Pyramid.
+
+The Frustum of a Cone, may not improperly be termed the Frustum of a round
+Pyramid, (the Base being circular) nor do I think it an Heresy to call a
+Cylinder a round Prism.
+
+The Frustum of a Pyramid, whose Bases are in the form of any ordinate Polygon,
+being alike, and alike situate, and also if a Right Line may be every where
+applied in the Peripatasma from Base to Base, moreover a Right Line being
+extended from the Center of one Base to the other, may be called the Axis.
+
+Then if you put
+
+S = the whole Solidity. B = a Side above. A = a Side below. P = the
+Perpendicular. d = the common Addend at one Inch distance of the Perpendicular,
+and is thus made ^, that is, the difference between a Side above and a Side
+below, divided by the Perpendicular, quotes the increment, etc. G = the Divisor.
+The Rule is:
+
+Or, in other terms:
+
+To the Square of the Side multiplied by the Perpendicular, add the Fact of one
+Side in the Increment multiplied by the Square of the Perpendicular, more 1/3
+of the q. of the Increment in the Cube of the Perpendicular, and the Aggregate
+divided by the Polygons respective Divisor, the Quote will be the Solidity.
+
+And further it is to be well observed, if your Frustum of a Pyramid stand upon
+its greater Base, the Rule then is thus varied:
+
+That is to say:
+
+From the Square of a Side at the Base multiplied by the Perpendicular, subduct
+the Rectangle of one of those Sides in the Decrement multiplied by the Square
+of the Perpendicular, more one third of the Square of the Decrement in the Cube
+of the Perpendicular, and that Remainder divided by the Divisor proper to the
+form of the Base, the Quote is equal to the Solidity.
+
+Note also, that p may be put for a part of the Perpendicular, and the Answer
+will be the Content of that part required.
+
+G) or the Divisors for these 8 Regular Polygons, and the Cone.
+For Cubick Inches. For Ale Gallons. Trigon 2.30940 Trigon 651.2000 Tetragon
+Tetragon 282.0000 Pentagon.58123 Pentagon 157.2600 Hexagon.38497 Hexagon
+108.5400 Heptagon.27513 Heptagon 77.5867 Octogon.20710 Octogon 58.4022
+Nonagon.16176 Nonogon 45.6163 Decagon.12997 Decagon 36.6515 Cone 1.27324 Cone
+359.0500
+
+If your Tunn be the Frustum of a Cone:
+
+Let A or B be the Diameter at the Base, and d the Increment or Decrement of
+any two Diameters between A and B, at one Inch distance of the Perpendicular,
+and the Divisor as per Table.
+
+I shall only give you some Examples of the three first, and the Cones Frustum,
+which I think will be sufficient to inform any ingenious Practitioner how to
+perform the rest.
+
+The Trigon.
+Admit a Tunn be in the form of an equilateral Triangle, the Dimensions being,
+
+A = 126 Inches, the length of a Side above, B = 108 Inches, the length of a
+Side below, P = 60 Inches, the Perpendicular,
+Q. The Content in Ale Gallons?
+
+The Coefficients are found, according to the precedent directions, thus:
+
+These three divided by the Divisor for Ale Gallons, viz. 651.2, are as
+follows:
+
+A Tunn of the same Dimensions standing upon its greater Base, the Coefficients
+are thus found:
+
+Being divided by the same Divisor with the former, they are:
+
+And are thus used:
+
+Now if each of these Tunns have 30 Inches of the Perpendicular wet, how much
+do they contain?
+
+The First.
+
+The Second.
+
+Proof.
+
+The difference being less than a Pint.
+
+The Tetragon or Square Pyramid.
+There is a Tunn in the form of the Frustum of a Square Pyramid,
+
+A = 144 Inches, the length of a Side above, B = 108 Inches, the length of a
+Side below, P = 60 Inches, the Perpendicular,
+Q. The Content in Gallons?
+
+The Coefficients being found by the former Rule and Example, viz.
+
+1/3 of d d = the first Coefficient.1.2 d B = the second Coefficient 64.8 B B =
+the third Coefficient 116.64
+These three being divided by 282 the Cubick Inches in the Ale Gallon, are
+equal to
+
+If the Tunn stand upon its greater Base, the Coefficients then are P) B - A (=
+- d, and the 1/3 d d = the first, A d = the second, and A A = the third, which
+divided by 282 the number of Cubick Inches in an Ale Gallon,
+
+If 40 Inches of the Perpendicular be wet in the first Tunn, and 20 in the
+latter, and it be demanded what they contain in Ale Gallons.
+
+Proof.
+
+The Pentagonal Pyramid.
+A Tunn in the form of the Frustum of a Pyramid, whose Bases are in the form of
+a Pentagon,
+
+A = 144 Inches, the length of each Side above, B = 108 Inches, the length of
+each Side below, P = 60 Inches, the Perpendicular,
+Q. The Content in Ale Gallons?
+
+The three Coefficients found in the last Example, viz,
+
+Let another Frustum of a Pyramid of the same Bases and Altitude, stand upon
+its greater Base, and the Content in Ale Gallons be demanded.
+
+The Coefficients so found and divided as before directed, are as follows:
+
+If 50 Inches of the Perpendicular in the first Tunn be wet, and 10 Inches in
+the last, what is the Content in Ale Gallons?
+
+Proof.
+
+A Tunn in the form of a Frustum of a Cone, the Bases being alike and alike
+situate, as in the precedent Examples, the Dimensions being,
+
+A = 144 Inches, the diameter above, B = 108 Inches, the diameter below, P = 60
+Inches, the Perpendicular,
+Q. The Content in Ale Gallons?
+
+P) A - B (= d.
+
+These three divided severally by the Divisor proper to a Cone, as in the Table
+mentioned, viz, 359.05 they quote:
+
+And that the young Gauger may not be obliged to Dray-men to repleat the
+horizon with liquor, of such Tunns whose Bases are not posited parallel
+thereto, (as indeed most are not being made with a Drip or Fall) let him take
+this Example, a b c d e f g h m x, a Cone or Pyramid.
+
+
+
+Having the length of each Line in this Diagram, and the Content of the whole
+Cone or Pyramid in Cubick Inches, Gallons, or Barrels, etc. the Quantity of the
+Hoof h c b d is found by this Analogy:
+
+As the Cube of the Line a c,
+
+to the whole Solidity:
+
+So is the Cube of a Geometrical Mean between a c and a h,
+
+to the Content of the Cone or Pyramid cut off:
+
+Which subducted from the whole, the remainder is the Content of the Hoof.
+
+Some of the Lines being given, the rest are to be found.
+
+Example.
+
+There is a Tunn taken as the Frustum of a Cone,
+
+c d = 144 Inches, the greater Base, e f = 108 Inches, the lesser Base, g b =
+60 Inches, the depth.
+Admitting the Base were raised 3 Inches, as the Line c h, it is then necessary
+to take another Diameter between c h and e f to find c d.
+
+To find a b the Cones Axe.
+
+To find the Content of the whole Cone.
+
+The Line a c, the Line a h, and the Content being known, to find the Content
+of the Fall c b d h.
+
+Or thus:
+
+Some Practical RULES and EXAMPLES FOR CASK-GAVGING.
+
+Some Practical RULES and EXAMPLES FOR CASK-GAVGING.
+THe Cornerstone in the whole Fabric of Cask-Gauging, as full, was long since
+laid by Mr. Oughtred, taking a Cask to be the Frustum of a Spheroid, under
+which capacity they are generally received, though indeed there have been, and
+daily are found some Cask differing in form, and really are more Parabolical
+than Spheroidal, I shall therefore lay down a plain Method for the performance
+of the Work ( viz. finding their Content) under these four Considerations:
+
+As Spheroidal,
+
+As The Frustum of a Parabolical Spindle,
+
+As The Frustum of a Parabolical Conoid,
+
+As The Frustums of two Cones abutting upon one common Base. These severally,
+with and without a Table of Area's of Circles
+
+And forasmuch as the Dimensions must be the first thing known, before the
+Content can be found, I shall therefore show the young Tyro, how by some of the
+Dimensions to find the rest, if any obstruction prohibit the taking of all.
+
+The Boung-diameter, and Head-diameter, and Diagonal, to find the Casks length.
+First subduct the semi-difference of Diameters from the Boung-diameter, and
+Square the Remainder, which Square subduct from the Square of the Diagonal, and
+the Remainder is the Square of the Casks semi-length.
+
+Example.
+
+Let B D be the Boung-diameter = 29 Inches, H E be the Head-diameter = 23
+Inches, B E be the Diagonal = 35.3836andgt;Inches, S D the semi-difference = 3
+Inches:
+Q. the Length = L T?
+
+This very Quest. was intended by Mr. Smith, p. 176. but through a Mistake it
+was left out.
+
+The Boung-diameter, Diagonal, and Length, to find the Head-diameter.
+The Rule.
+From the quadrupled Square of the Diagonal subduct the Square of the Length,
+(which done) the Square Root of the Remainder is equal to the Sum of the
+Boung-diameter and one Head-diameter.
+
+Example.
+
+The Head-diameter, Boung-diameter, and the Length, to find the Diagonal.
+The Rule.
+To the Square of the Semi-length add the Square of the Boung-diameter, less
+the Semidifference of Diameters, and the Square Root of their Sum is equal to
+the Diagonal.
+
+Example.
+
+A Cask taken as the Frustum of a Spheroid, cut with two Plane Parallels, each
+Plane bisecting the Axis at right Angles,
+
+B the Boung-diameter = 29 Inches, H E the Head-diameter = 23 Inches, L T the
+Length = 48 Inches:
+Q. The Content in Wine Gallons?
+
+The Rule.
+To the doubled Square of the Boung-diameter add the Square of the
+Head-diameter, their Aggregate multiply by the Length, and to the Product add
+the tenth part of it self, more one third of that tenth part, and from the Sum
+cut off as many places toward the right hand as were in the Multiplicand.
+
+Example.
+
+Another way.
+
+The same Cask being taken as the Frustum of a Parabolical Spindle, the Content
+may be thus found.
+
+If taken as the Frustum of a Parabolical Conoid, cut as before mentioned, the
+Content may be found as in this
+
+Example.
+
+If a Cask of the same Dimensions be taken as the middle Frustum of two Cones
+abutting upon one common Base, cut with two Planes parallel, and each bisecting
+the Axis at Right Angles, the Content in Wine Gallons may be found as in this
+
+Example.
+
+For finding the Capacity of these, or any other Vessels, it is convenient to
+have always in readiness a Table of Area's of Circles in Wine and Ale Gallons:
+I think it unnecessary to swell this intended small Volume with them, there
+being two lately Printed, exactly Calculated to every tenth part and quarter of
+an Inch, and also a Table of Area's of Segments of a Circle, by my good Friend
+Mr. John Smith, in his Book of Gauging, to whom in gratitude I am obliged to
+render my hearty acknowledgment sor many favors and kind assistances in these
+Studies; yet that you may be able to find any Area of a Circle upon demand, in
+Wine or Ale Gallons, without a Table, take this
+
+Rule.
+Divide the q. of the Diameter by 294^1 for Wine, and by 359.05 for Ale
+Gallons, and the Quotient exhibits the Area. Or, says Mr. Smith, Multiply the
+q. of the Diameter by.0034 for Wine, and by.0027851 for Ale Gallons, and the
+Product exhibits the Area in such Gallons.
+
+As in these Examples.
+
+The Diameter of a Circle = 21.7: Q. The Circles Area in Wine Gallons?
+
+The Diameter of a Circle = 26.8: Q. The Area in Ale Gallons?
+
+For finding the Capacity of a Cask, taken as Spheroidal, by a Table of Area's
+of Circles in Gallons.
+
+Example.
+
+A Casks Boung-diameter = 29 Inches, Headdiameter = 23, and the Length = 48
+Inches: Q. The Content in Wine Gallons?
+
+Another way.
+
+That is, 120 Gallons, 1 Quart, and 1/4 of a Pint, fere.
+
+To find the solid Content of a Cask, when taken as the middle Frustum of a
+Parabolical Spindle, etc.
+
+The Dimensions as before.
+
+That is, 113 Gallons, and almost 2 Quarts.
+
+And as the Frustum of a Parabolical Conoid, the Capacity is thus found: ^ If a
+Cask be taken as the middle Frustum of two Cones, abutting upon one common
+Base, etc.
+
+The Dimensions as before.
+
+The Ullage, or Wants in a Cask, may be found under these two Considerations:
+
+1. A Cask standing on the Head, with the Diameters parallel to the Horizon.
+
+2. A Cask lying with the Axe parallel to the Horizon.
+
+Prop. I.
+
+In a Cask standing on the Head, with the Diameters parallel to the Horizon,
+some Liquor remaining, to find how many Wine Gallons it is.
+
+Here are these five things necessary to be known:
+
+1. The Diameter at the Boung. 2. The Diameter at the Head. 3. The Length of
+the Cask. 4. The Depth of the Liquor. 5. The Diameter of the Liquors
+superficies.
+Example.
+
+
+
+The Diameter o p is thus found, first find the Axis of the whole Spheroid e f,
+thus; from the Square of half the Boung-diameter (n h) subduct the Square of
+half the Diameter at the Head, and extract the Square Root of the Remainder:
+Then by the Rule of Proportion, say, As that q, is to n h, the
+Semi-boung-diameter: So is n i, the Casks Semi-length, to e n half the Axis
+sought,
+
+Then,
+
+Having found the Diameter of the Liquors Superficies:
+
+Then,
+
+Which subducted from the whole Content, leaves the Ullage or Wants.
+
+Prop. II.
+
+A Cask lying with its Axe parallel to the Horizon, and having some Liquor
+remaining in it, to find the Content of the said Liquor in Gallons.
+
+
+
+Let the Dimensions be as before.
+
+In this Proposition there is five Requisites attending:
+
+h g the Diameter at the Boung = 29. a b the Diameter at the Head = 23. i k the
+Length = 48. s g the Depth of Liquor = 11.6.
+And the Content of the whole Cask in Gallons.
+
+Then by the help of a Table of Area's of Segments of a Circle, whose Area is
+Unity, and the Radius divided in the Ratio of 1.0000 Parts, say by the Rule of
+Proportion:
+
+Then seeking in the Table you will find.4000, and right against it under the
+Title Area you will find.37353. Then say:
+
+The Inversion of the Question, viz. To find the Liquor wanting.
+
+Again,
+
+FINIS.
+ERRATA.
+Page 3. l. 4. r. in the third. P. 5. l. 22. r. 20: 13. P. 7. l. 17. r. 42: 3:
+08: 15; l. 19. r. 33: 0: 05: 04. P. 9. l. 1. r. borrow of the. P. 13. l. 14. r.
+5 s. the bushel. P 16. l. 13. r. 2 times. P. 19. l. 1. r. 5 from 6. P. 31. l.
+19. dele always. P. 39. l. 22. r. in the decimal Fractions of both Factors. P.
+50. l. 15. r. solid measure. P. 51. l. 15. r. 272.25. P. 52. l. 15. r..0041667.
+P. 67. l. 14. dele as before. P. 82. l. 14. r. + a. P. 188. l.ult. r. being.
+
+THe Rules herein mentioned, and other Mathematical Arts, are taught by the
+Author, viz. Arithmetic, Vulgar, Decimal, and Logarithmetical; the Doctrine of
+Triangles, Plain and Spherical; the Use of the Globes, Quadrant, Sector, and
+other Mathematical Instruments; Fair Writing, and Merchants Accounts, by way of
+Debtor and Creditor; also the Art of Short Writing.
+
+

@@ -1,0 +1,2346 @@
+GEOMETRICAL TRIGONOMETRY. OR The explanation of such GEOMETRICAL PROBLEMS As
+are most useful and necessary, either for the construction of the CANONS of
+TRIANGLES. Or for the solution of them. Together with The Proportions
+themselves suitable unto every Case both in plain and Spherical Triangles,
+those in Spherical being deduced from the Lord Nepeirs Catholic or Universal
+proposition. By J. NEWTON M. A.
+
+LONDON, Printed for George Hurlock, at Magnus Church-corner, and Thomas
+Pierrepont, at the Sun in Paul's Churchyard. 1659.
+
+TO THE READER
+MAthematical Sciences in their full latitude do comprehend all Arts and
+Sciences whatsoever, but in a more strict sense, those only are esteemed such,
+which do belong to the Doctrine of Quantity, and amongst these this of
+Triangles is not of least concernment, of which though many have written and
+that excellently, yet still there may be something added, at least by way of
+explanation, if not some matter absolutely new. What we have here puplished is
+intended for beginners only, in which we have endeavored after brevity and
+perspicuity both, in the construction of the Canon of natural sines, Tangents
+and Secants first, and then the Axioms, and Problems for the solution of all
+Triangles, both plain and Spherical, either by those natural numbers, or by the
+Logarith. of them, and in the solution of plain Triangles by logarithmetical
+numbers, sometimes the logarithmes of a Decimal fraction is required, for the
+finding whereof having given no direction in our Preface to those Tables, we
+have (though somewhat out of place) inserted it her.
+
+A fraction whether Vulgar or Decimal being given to find the logarithme
+thereof.
+
+That the way and method here propounded may be the better conceived, the
+proper charecteristique to the logar of any integer or whole number must be
+considered, and the characteristique of the log arithmes of all numbers, under
+10, is 0, of all numbers hetween 10 and 100 is 1, between 100 and 1000 is 2,
+and so forward, nor will there, as I couceive, be any inconvenience, if 10 be
+the characteristique of the logarithme of any digit, and 11 the
+characteristique of all numbers between 10 and 100, and 12 the characteristique
+of all numbers between 100 and 1000, and so forward; and yet if this shall be
+supposed, the characteristique of a number that is but one place beneath unity
+shall be 9, if it be two places beneath unity it shall be, 8 etc.
+
+Thus the Log. of 5 will be 10.698970
+
+The Log. of 5 tenths will be 9.698970
+
+The Log. of 05 hundreds will be 8.698970
+
+And upon this ground to find the Log. of a vulgar fraction, you must subtract
+the logarithme of the denominator from the logarithme of the numerator, and
+what remains shall be the logarithme of the vulgar fraction given.
+
+Example, let 6/12 be the vulgar fraction given, Logar. 6 the Nume^ator is
+0.778151 Logar. 12 the Denominator is 1.079181 There difference 9.698970
+is the log. of 6/12 the fraction propounded.
+
+And thus the logarithme of any fraction, or the decimal fraction answering to
+any logarithme, may be as easily found, as by any directions hitherto given,
+and in their use are much more ready, as will be manifest by the Example
+following.
+
+If 6 tenths of an ounce of Gold cost.95 hundreds of a pound sterling, what
+shall.07 hundreds of an ounce of the same gold cost. Answer is 1108. Logar. 6
+tenths is 9.778151 Logar. 95 hundreds is 9.977724 Logar. 07 hundreds is
+8.845098 1.8822822 Adswer 1108 9^044671
+
+
+To resolve this question, you must add the Logarithmes of the second and
+third terms together, and from their sum subtract the first, what remains
+will be the logar. of the fourth proportional required, the characteristique of
+which fourth proportional does by inspection show, whether it be the logarithme
+of a fraction or not, there is but one difficulty in this way of working which
+is to substract a greater number from a less, in which if you will but borrow
+from a supposed figure as we do from a real, and set down the difference that
+difficulty is also av^ided, as in the first Example. Though I can subtract 1
+out of 1 yet I cannot subtract 8 out of 5, but borrowing one from the next
+figure, I can subtract 8 out of 15 and there will remain 7, and so proceeding
+till you come the characteristique the remainer will be found in the ordinary
+way, but the characteristigue of the upper number being a cipher, and that of
+the lower an unite I cannot subtract 1 from 0, but supposing an unite to be
+beyond the cipher I can subtract 1 from 10 and there will remainer 9, the like
+is to be done in other cases, which I must leave to the consideration of the
+Ingenious Reader, here being no room for to explaim my self.
+
+JOHN NEWTON.
+
+An explication of the Symbols.
+= Equal to + More - Less x Drawn into Proportionality Z The Sum X The
+Difference s Sine cs Cosine t Tangent ct Co-angent R. ang. Right angle 2 R.
+ang. Two right angles q. Square.
+CHAP. I.
+Definitions Geometrical.
+OF things Mathematical there are two principal kinds Number, and Magnitude,
+and each of these has his proper science.
+
+2 The science of Number is Arithmetic, and the science of Magnitude is
+commonly called Geometry; but may more properly be termed Magethelogia as
+comprehending all Magnitudes whatsoever, whereas Geometry, by the very
+Etymology of the word does seem to confine, this science to Land measuring
+only.
+
+3 Of this Magethelogia, Geometry or science of Magnitudes, we will set down
+such grounds and principles, as are necessary to be known, for the better
+understanding of that which follows, presuming that the Reader hereof has
+already gotten some competent knowledge in Arithmetic.
+
+4 Concerning then this science of Magnitudes, two things are to be considered.
+1 The several heads to which all Magnitudes may be referred. 2 The terms and
+limits of those Magnitudes.
+
+5 All magnitudes are either lines planes, or solids, and do participate of
+one or more of these dimensions, length, breadth, and thickness.
+
+6 A line is a supposed length, or a thing extending it self in length, without
+breadth, or thickness: whether it be, a right line or a crooked, and may be
+divided into parts in respect oft^ length, but admits no other division as
+the line AB.
+
+
+
+7 The ends or limits of a line are points as having his beginning from a
+point, and ending in a point; and therefore a point has neither part nor
+quantity. As the points at A and B are the ends of the afore-saidline AB, and
+no parts thereof.
+
+8 A plain or superficies is the second kind of magnitude, to which belongs
+two dimensions length, and breadth, but not thickness.
+
+As the end, limits, or bounds of a line are points confining the line: So
+lines are the limits bounds and ends enclosing a superficies, as in the figure
+A BCD, the plain or superficies thereof is enclosed with the four lines AB, BD,
+DC, CA, which are the extremes or limits thereof.
+
+
+
+9 A body or solid is the third kind of magnitude, and has three dimensions,
+length, breadth, and thickness. And as a point is the limit or term of a line,
+and a line the limit or term of a superficies, So likewise a superficies is the
+end and limit of a body or solid, and represents to the eye the shape or
+figure thereof.
+
+10 A Figure is that which is contained under one or many limits, under one
+bound or limit, is comprehended a Circle, and all other figures under many.
+
+11 A Circle is a figure contained under one round line, which is the
+circumference thereof: Thus the round line CBDE is called the circumference of
+that Circle.
+
+12 The center of a Circle is the point which is in the midst thereof, from
+which point all right lines drawn to the circumference are equal to one
+another: As in the following figure, the lines AB, AC, and AD, are equal.
+
+13 The Diameter of a Circle, is a right line drawn through the center thereof,
+and ending at the circumference on the other side, dividing the circle into two
+equal parts.
+
+As the lines CAD and BAE, are either of them the Diameter of the Circle CBDE,
+because that either of them does pass through the Center A, and divides the
+Circle into two equal parts.
+
+14 The Semidiameter of a circle is half the Diameter, and is contained
+between the center, and one side of the Circle. As the lines AB, AC, AD, and
+AE, are either of them the Semidiameter of the Circle CBDE.
+
+
+
+15 A Semicircle is the one half of a circle drawn upon his Diameter, and is
+contained by the half circumference and the Diameter. As the Semicircle CBD is
+half the Circle CBDE and drawn upon the Diameter CAD.
+
+16 A quadrant is the fourth part of a Circle, and is contained between the
+Semidiameter of the circle, and a line drawn perpendicular unto the Diameter of
+the same circle from the center thereof, dividing the Semicircle into two equal
+parts, of the which parts the one is the quadrant or fourth part of the circle.
+Thus from the center A the perpendicular AB being raised perpendicularly upon
+the Diameter CAD, divides the Semicircle CBD into the two equal parts CFB and
+FGD each of which is a Quadrant or fourth part of the circle CBDE.
+
+17 A Segment or portion of a circle, is a figure contained under a right line,
+and a part of the circumference of a circle, either greater or lesser then a
+Semicircle. As in the former figure FBGH is a Segment or part of the circle
+CBDE, contained under the right line FHG, less then the Semicircle CBD.
+
+And by the application of the several lines or terms of a superficies one to
+another, are made parallels, angles, and many sided figures.
+
+18 A parallel line, is a line drawn by the side of another line, in such sort
+that they may be equi-distant in all places, and of such there are two sorts,
+the right lined parallel, and the circular parallel.
+
+19 Right lined parallels are two right lines equidistant in all places one
+from another, which being drawn to an infinite length would never meet or
+concur. As the right lines FHG and CAD in the annexed Diagram.
+
+20 A Circular parallel is a circle drawn within or without another circle,
+upon the same center, as you may plainly see by the two circles CFGD, and ABHE
+which are both drawn upon the same center K, and are therefore parallel to one
+another.
+
+21 An angle is the meeting of two lines in any sort, so as they both make not
+one line: as the two lines AB and AC incline the one to the other and touch one
+another in the point A, in which point is made the angle BAC. Where note, that
+an angle is for the most part described by three letters of which the second or
+middle letter represents the angular point. Thus in the angle BAC the letter
+A represents the angular point.
+
+If the lines which contains the angle be right lines, it is called a right
+lined angle: As the angle BAC.
+
+A crooked line angle, is that which is contained of crooked lines, as the
+angle DEF.
+
+And a mixed angle, is that which is contained both of a right and a crooked
+line, as the angle GHI.
+
+22 All angles are either right or oblique.
+
+23 A right angle is an angle contained between two right lines, drawn
+perpendicular to one another. Thus the angle. ABC is a right angle, because the
+right line AB is perpendicular to the right line CD and the contrary.
+
+24 An oblique angle, is an angle contained between to right lines not
+perpendicular to one another: as the angle CBE or EBD, the one whereof [viz.]
+EBD is acute or less then a right angle, and the other [viz.] CBE is obtuse or
+more then a right, and are the complements of each other to a Semicircle.
+
+25 The measure of an angle is the arch of a circle described on the angular
+point, and intercepted between the two sides of the angle.
+
+
+
+Thus in the annexed Diagram, the arch AB is the measure of the angle AEB, and
+that the quantity thereof may be the better known.
+
+26 Every circle is supposed to be divided into 360 parts or degrees. every degr.
+into 60 min. or 100 parts, etc. Therefore a Semicircle as the arch ACD is 180
+degrees. a quadrant or fourth part of a Circle, as the arch ABC is 90 degrees.
+
+27 Complements of arches are either in reference to a quadrant or a
+Semicircle, the complement of an arch or angle to a quadrant is so much as the
+arch given wants of a quadrant or 90 degrees. as if the arch AB be 60 degrees. the
+complement thereof to a quadrant is the arch BC 30.
+
+In like manner, the complement of an arch or angle to a Semicircle, is so much
+as the arch or angle given wants of a Semicircle; as if the arch BED be 120
+degrees, the complement thereof is the arch AB 60 degrees.
+
+28 When a right line falling upon two right lines does make on one and the
+same side, and two inward angles. less the two right, the right lines being
+produced will at length concur in that part in which the two inward angles are
+less then two right. As in the figure, the right line AB falling upon the right
+lines CD and OF makes the angles CGH and GHE together less then two right
+angles, if therefore the lines CD and OF be produced from C and E they will at
+last concur.
+
+29 Many sided figures are such as are made of three, four, or more lines,
+though for distinction sake those only are so called which are contained under
+five lines or terms at the leas*.
+
+In this Treatise we have to do with such only as are contained under three
+lines or sides, and these are therefore called Triangles, for the better
+understanding whereof we will here set down some necessary and fundamental
+Propositions of Geometry.
+
+CHAP. II.
+Propositions Geometrical.
+1. Prop. If two sides of one Triangle be equal to two sides of another, and
+the angle comprehended by the equal sides equal, the third side or base of the
+one shall be equal to the base of the other, and the remaining angles of the
+one, equal to the remaining angles of the other.
+
+
+
+Demonst. In the Triangles CBH and FED make CB = FE and BH = ED and ang. CB =
+FED, then shall CH = FD, For if CG = FD, the angle CBG = FED, but CBH = FED by
+construction, therefore CH = FD, ang. C = F, and the angle H = D as was to be
+proved.
+
+2 Prop. If a Triangle have two equal sides the angles at the base are also
+equal to one another, and the contrary.
+
+
+
+Demonst. In the Triangle ABC let AB = AC, and let AB be extended to D and AE =
+AD, and draw the lines BE and DC, now then because AD = AE and AB = AC and the
+angle A common to the Triangle ADC and ABE, the base BE = DC the angle D = E
+and ABE = ang. ACD by the former prop. and therefore ang. DCB = EBC and being
+taken from the equal angles ABE and ACD, there shall remain the angle ABC = ACB
+as was to be proved.
+
+3 Prop. If two right lines do cut through one another, the angles opposite to
+one another are equal.
+
+Demonst. Ang. ACB + BCD = 2 right ang. 24 of the first, ang. ACB + ACE = 2
+right, and ang. ABC common, therefore ang. BCD = ACE as was to be proved.
+
+
+
+4 If the side of a Triangle be extended the outward angle shall be greater
+then any one of the inward opposite angles.
+
+Demonst. In the Triangle ABC let AC be bisected in F and FG= FB, then is ang.
+AFG = BFC by the 3 prop. and BC = AG by the first hereof, as also, ang. GAF =
+FCB and therefore ang. EAC greater then ACB as was to be proved.
+
+5 Prop. In all Triangles, the greatest sides subtend the greatest angles, and
+the lesser sides, the lesser angles.
+
+
+
+Demonst. In the Triangle ABC (...) BD = BC and draw DC, then (...) BDC = BCD,
+and ang. BDC ^^eater then DAC by the 4th hereof. ^^^refore ang. ACB greater
+then BAC (...) to be proved.
+
+6 If a right line drawn through two other right lines, do make the alternate
+angles equal, then are those two right lines parallel.
+
+Demonst. Let ang. AGH = GHD and then if AB and CD be not parallel they will at
+length concur (suppose at K) by the 28 of the first, and the angle GHD
+greater then AGH by the fourth hereof, the which is contrary to the
+proposition, if therefore the alternate angles be equal, the lines being
+extended shall not concur, and are therefore parallel, by the 19th of the
+first, as was to be proved.
+
+7 If a right line drawn through two other right lines, shall make the outward
+angle of the one, equal to the inward angle of the other on the same side, or
+both the inward angles equal to two right, then are those two right lines
+parallel.
+
+Demonst. Ang. AGE = BGH by the third hereof, and ang. AGE = GHC by the
+proposition, therefore BGH = GHC and AB parallel to CD by the last afore-going.
+
+Again, ang. AGE+AGH= 2 R. ang. by 24 first, and AGH+ GHC = 2 R. ang. by the
+proposition, therefore AGE = GHC and AB parallel to CD as before.
+
+18 If one right line cut through two parallel right lines, the angl^s opposite
+to one another are equal.
+
+Demonst. Ang. AGH+BGH= 2 R. ang. and ang. CHG+GHD = 2 R. ang. by the 24 of the
+first, therefore, ang. CHG = BGH, for if BGH be greates CHG ang. CHG+ AGH - 2
+R. ang. and AB not parallel to CD by the 28 of the first, which is contrary to
+the proposition, and therefore AB being parallel to CD, ang. AGH = GHD as was
+to be proved.
+
+19 If the side of a Triangle be continued, the outward angle made by the
+continuation, is equal to the inward opposite angles, and three inward angles
+are together equal to two right.
+
+Demonst. Let CD be parallel to AB then shall ang. BAC = ACD and ang. ABC = DCE
+by the last afore-going, and therefore ang. ACE =ABC+BAC.
+
+
+
+Again, ang. ACB+ACE = 2 R. by the 24th of the first, and the angle ACE =
+ABC+BAC, therefore ang. ACB+BAC+ABC = 2 R. ang. as was to be proved.
+
+10. If two equal parallel lines be joined together with two other right lines,
+those other lines are equal and also parallel.
+
+Demonst. Ang. VXW = XWY and VX parallel WY by the proposition, and XW common
+to both, therefore VW = XY by the first hereof, and also parallel by the 7th
+hereof, as was to be proved.
+
+
+
+11 In all Paralellograms, the angles and sides that are opposite to one
+another are equal, and the Diamet^r or Diagonal divides the same into two
+equal parts.
+
+Demonst. In the preceding Diagram ang. VWX = YXW, and angle XWY = VXW by the
+8th hereof, and XW common to both the Triangles VXW and YXW, therefore the
+other ang. and sides are also equal by the first hereof, and the paralellogram
+VY is divided into two equal parts by the diagonal XW as was to be proved.
+
+12 All paralellograms and Triangles standing upon the same or equal base, and
+between two parallel lines (that is having the same common height) are equal.
+
+Demonst. The two paralellograms NL and NO stand upon the same base KN, and
+between the two parallel lines KR and LP. The side KL= NM and KO = NP by the
+11th hereof: and the Triangle KOL= NPM. From these two take the common Trian.
+MIO and there will remain the quadrilateral figure LKIM =NIOP to which if you
+add the common Triangle KIN the paralellogram LN = NO.
+
+Again upon the equal bases KN and QR do stand the paralellograms LN and PQ
+which let be connected by the lines KO and NP being parallel by the 10th
+hereof, and include the paralellogram NO = NL as was proved before, and may in
+like manner be proved to be equal to QP* therefore NL = QP, and what is said of
+Paralellograms is also true of Triangles they being the halves of
+paralellograms.
+
+COROLLARY.
+In a rectangular paralellogram, the Area is found by multiplying the unequal
+sides together, and any Obliquangular paralellogram is equal to a Rectangular
+one made upon the same base and altitude, the Area thereof is therefore found
+by multiplying the base by its altitude which is the other side of the
+Rectangular paralellogram, the same is to be understood of there halves being
+Triangles.
+
+13. Paralellograms and Triangles having the same common height are in
+proportion as there bases.
+
+Demonst. Let the paralellograms AM and GW stand between the parallel lines BW
+and AC, and have for there equal and common height the perpendicular PC and by
+the corallary of the 12th hereof CP x AE = AM and PC x GC = GW, therefore PC x
+AE, PC x GC AE, GC, and also AM, GW, AE, GC, as was to be proved.
+
+
+
+14. In all plane Triangles, if a line be drawn parallel to any of the sides,
+the intersegment of the other sides are proportional.
+
+Demonst. In the Triangle MWQ is drawn the line IH parallel to MQ, and the
+Triangles IHM = HIQ by the 12th hereof, and by the last afore-going, Triangle
+WIH. HIQ. WH, HQ. Triangle WIH. HIQ WI. IM, therefore WH* HQ WI, IM as was to
+be demonstrated.
+
+15 Equiangled Triangles have there sides which contain or subtend equal Angles
+proportional, and the contrary.
+
+Them. Let the Triangles ABC and CED be equiangled, and let their bases AC and
+CD make one line, and extend the sides AB and DE till they meet in F, now
+because ang. BAC = ECD and ang. BCA = EDC the sides AB and CE are parallel by
+the 7th hereof, and also the sides BC and ED which being extended make the
+paralellogram CBFE in which BF = CE and BC = FE by the 11th hereof, it
+follows, by the last afore-going.
+
+AB. BF (= CE) AC, CD, and also AC, CD OF, DE.
+
+And DC, CA BF, AB as was to be proved.
+
+16. In all paralellograms the supplements or fillings which stand upon the
+Diameter are eequal.
+
+Demonst. The Diameter or diagonal BD bi-secteth the paralello^rams AC; HK and
+GE by the 11th hereof, and the Triangle ABD = BCD from which taking Triang. FGD
+= FED as also the Triang. BHF = BKF there will remain the paralellogram HG =
+FC as was to be proved.
+
+17 If four right lines be proportional, the Rectangled figure made of the two
+means, is equal to the Rectangled figure made of the two extremes.
+
+Demonst. In the preceding Diagram, the Triangles GFD and BHF are like, because
+the ang. BFH = FDG and H = G by the 7th hereof, and therefore BH. HF FG. GD by
+the 15th hereof, and the Rectangle FC = BH x GD and the rectangle HG = HF x FG
+by the last aforegoing as was to be proved. The like may be said of three
+proportionals taking the mean twice.
+
+18 In a plain rightangled Triangle a perpendicular let fall from the right
+angle upon the side subtending the same, divides the Triangle into two
+triangles both like to the whole, and to one another.
+
+Demonst. The Triangle ABD is like to the Triangle ABC, because B and D are
+right, and A common to both: and the Triangles ABC and BDC are like, because B
+and D are right and C common to both, and therefore the Triangles BCD and BAD
+are like, as was to be proved.
+
+
+
+19 In all right angled plain Triangles the sides including the right angle
+are equal in power to the third side.
+
+Demonst. In the precding Diagram the Triangles ABC, ABD, and BCD are like, by
+the last aforegoing, therefore AC, AB AB, AD, and AC, CB, CB, BD, and AC x CD +
+AC x AD = ACq.
+
+And ABq + CBq = AC x CD + AC x AD, therefore ABq + CBq = ACq, as was to be
+proved.
+
+20 If a right line being divided into two equal parts shall be continued at
+pleasure, the rightangled figure made of the line continued, and the line of
+continuation, with the square of one of the bi-segments, is equal to a square
+made of one of the bi-segments, and the line of continuation.
+
+Demonst. Let PQ be bisected in C and continued to N and let QC = OI = LI then
+the square OL + MP = NCq for FO = OC or IP and MC common to both, therefore NP
+x MN + QCq = NCq as was to be proved.
+
+
+
+21 To divide a right line given by extreme and mean proportion, that is, that
+the right angled figures made of the whole line and one part shall be equal to
+the square of the other part.
+
+Demonst. If the right line QP = QB be bi-sected in C and a line drawn from C
+to B, and the line NC = CB and MN = NQ, the rectangled figure made of BQ x BO =
+OQq for by the last aforegoing MP + QCq = NCq, or BCq. And BQq + QCq = BCq by
+the 19 hereof.
+
+Therefore BQq = NP x MN and OP being common to MP and BP, it follows that MQ
+= BA as was to be proved.
+
+22 If a plain Triangle be inscrihed in a circle the angles opposite to the
+circumference, are half as much as that part of the circumference which is
+opposite to the angles.
+
+Demonst. In the Triangle EBD, ang. EDB = EBD by the second hereof, and ang.
+AEB equal to both by the 9th hereof, the arch AB is the measure of the angle
+AEB, by the 25th of the first, therefore the arch AB is the double measure of
+the angle ADB as was to be proved.
+
+1 Consectary.
+If the side of a plain Triangle inscribed in a Circle be the Diameter, the
+angle opposite to that side is a right angle. As the angle ABD opposite to the
+diameter AD.
+
+
+
+2 Consectary.
+If diverse right lined Triangles, be inscribed in the same segment of a circle
+upon one base, the angles in the circumference are equal. As the Triang. ABD
+and ACD being inscribed in the same segment of the circle ABCD and upon the
+same base AD, have their angles at B and D falling in the circumference equal.
+
+23 If a quadrilateral figure be inscribed in a Circle, the angles thereof
+which are opposite to one another, are together equal to two right angles.
+
+Demonst. Ang. CDB = CAB and BDA = BCA by the last aforegoing, therefore ang.
+CDA = BCA + BAC and ABC + BAC + BCA = 2 R. ang. by the 9th hereof, and
+therefore ang. ABC + ADC = 2 R. ang. as was to be proved.
+
+24 If in a quadrilateral figure inscribed in a circle, there be drawn two
+Diagonal lines, the rectangle under the Diagonals, is equal to the two
+rectangles under the opposite sides:
+
+Demonst. Let ang. DAE = CAB by construction, then shall ang. DAC = EAB and
+ang. ACD = ABE because the arch A D is the double measure to them both and
+therefore the triangles. ADC and AEB are like.
+
+Again ang. ADB = ACB because the arch AB is the double measure to them both
+and ang. DAE = CAB by construction, and the Triang. AED and ABC like,
+therefore, AC, CB AD, DE.
+
+
+
+And AC, CD AB, BE.
+
+Therefore AC x DE = CB x AD.
+
+And also AC x BE = CD x AB
+
+And AC x DE + AC x BE = AC x DB. Therefore AC x DB = CB x AD + CD x AB as was
+to be proved.
+
+CHAP. III.
+Of the Construction of the Canon of Triangles.
+THat the Proportions which the parts of a Triangle have one to another may be
+certain, the arches of circles (by which the angles of all Triangles, and of
+Spherical Triangles the sides are also measured) must be first reduced into
+right lines, by defining the quantity of right lines, as they are applied to
+the arches of a circle.
+
+2 Right lines are applied to the arches of a circle three ways, viz. either
+as they are drawn within the circle, without the circle, or as they are drawn
+through it.
+
+3 Right lines within the circle are Chords and sines.
+
+4 A Chord or subtense is a right line inscribed in a ci^cle, dividing the
+whole circle into two segments: and in like manner subtending both the
+segments: as the right line CK divides the circle GEDK into the two segments
+CEGK and CDK, and subtendeth both the segments, that is, the right line CK is
+the chord of the arch CGK, and also the chord of the arch CDK.
+
+5 A Sine is a right line in a semicircle falling perpendicular from the term
+of an arch.
+
+6 A Sine is either right or versed.
+
+7 A right Sine is a right line in a Semicircle, which from the term of an arch
+is perpendicular to the diameter, dividing the Semicircle into two segments,
+and in like manner referred to both: Thus the right line CA is the sine of the
+arch CD less then a quadrant, and also the sine of the arch CEG greater then a
+quadrant, and hence instead of the obtuse angle GBC, we take the acute angle
+CBA the complement thereof to a Semicircle, and so our Canon of Triangles does
+never exceed 90 degrees.
+
+8 A right sine is either Sinus totus, that is, the Radius or whole Sine, as
+the right line EB: or Sinus simpliciter the first sine, or a sine less then
+Radius, as AC or AB, the one whereof is always the complement of the other to
+90 degrees, we usually call them sine and cosine.
+
+9 A Versed sine is a right line in a Semicircle perpendicular to the right
+Sine of the same arch; Thus A D is the versed sine of the arch CD and GBA is
+the versed sine of the arch GEC the complement of CD.
+
+10 Right lines without the Circle whose quantity we are to define, are such as
+touch the circle, and are called Tangents.
+
+11 A Tangent is a right line which touching the circle without, is
+perpendicular from the end of the diameter to the Radius, continued through the
+term of that arch of which it is the Tangent: Thus the right line FD is the
+Tangent of the arch CD.
+
+12 Right lines drawn through the circle, whose quantity we are to define are
+such as cut the circle and are called Secants.
+
+13 The Secant of an arch, is a right line drawn through the term of an arch,
+to the Tangent line of the same arch: and thus the right line BF is the Secant
+of the arch CD: as also of the arch CEG the complement thereof to a Semicircle.
+
+14 A Canon of Triangles then is that which contains the Sines, Tangents, and
+Secants of all degrees and parts of degrees in a quadrant, according to a
+certain diameter, or measure of a circle assumed: The construction whereof
+follows, and first of the Sines.
+
+15 The right Sines as they are to be considered in order to their construction
+are either Primary or Secondary.
+
+16 The Primary Sines are those by which the rest are found: And thus the
+Radius or whole sine is the first primary sine, and is equal to the side of a
+six-angled figure inscribed in a Circle.
+
+Demonst. AC = AB by the work, and ang. C = B by the second of the second
+hereof, and BC the measure of the angle at A is 60 degr. and the angles A, B,
+C, are together equal to two right angles, and therefore ang. A = C or B and BC
+= AC or AB as was to be proved.
+
+Consectary.
+The Radius of a circle being given, the sine of 30 degrees. is also given, for by
+this proposition, the Radius of a circle is the subtense of 60 degrees. and the
+half thereof is the sine of 30, and therefore the Radius AB, or BC being
+1000.0000 the sine of 30 degrees. is 500.0000.
+
+17 The other primary sines are the sines of 60.18 and 12 degrees. being the half
+of the subtenses of 120. 36 and 24 degr. and may be found by the problems
+following.
+
+18 The right sine of an arch and the right sine of its complement, are in
+power equal to Radius.
+
+Demonst. In the first diagram of this chapter, AC is the sine of CD, and AB
+the sine of CE the complement thereof, which with the Radius BC make the
+right-angled Triangle ABC, therefore ABq + ACq = BCq by the 19 of the second,
+as was to be proved.
+
+And hence the sine of 60 degrees. may thus be found, let the sine of 30 degrees. AC be
+500.0000 the square whereof 250.00000 being subtracted from the square of BC
+Radius, the remainer is 750.00000 the square of AB, whose square root is
+8660254 the sine of 60 degrees.
+
+19 The subtense of 36 degrees. is the side of a Dec-angle inscribed in a circle,
+or the greater segment of a Hexagon divided into extreme and mean proportion.
+
+Demonst. Let DG = DA and EG bisect the ang. AGD = DAG by the second of the
+second, and the angle DGE = ADG because AGD half the complement of ADG (36
+degrees.) to a Semicircle is bi-sected by the right line EG = DE by the second of
+the second, and the angle AEG = EGD + EDG, and therefore AEG = EAG = AGD and EG
+= AG by the second of the second, and the Triangles ADG and EAG like, therefore
+AD, AG = ED AG AE, and so AD the side of a Hexagon is divided into extreme and
+mean propo^tion, and ED the greater segment equal to AG the side of a
+dec-angle, as was to be proved.
+
+Corsectary.
+The side of a Hexagon being given, the side of a Dec-angle or subtense of 36
+degr. is also given, for by the second of the second the Semi-radius being
+deducted from the square root of the squares of Radius, and the half Radius
+added together, the remainer is 6180339 the subtense of 36 degrees.
+
+20 The subtense of 24 degrees. is the side of a Quin-decangle, or the difference
+between the subtenses of 60 and 36 degrees. and may be found by the 24 of the
+second.
+
+Demonst. Let AC be the subtense of 60 degrees. AB 36, then is BC 24 the
+difference, BD the complement of AB and CD the complement of AC and AD the
+diameter. And AC x BD = AB x CD + BC x AD therefore AC x BD - AB x CD = AD x
+BC, and AD x BC being divided by AD the diameter, the quotient is BC the
+subtense of 24 degrees.
+
+21 Having thus found the primary sines, the secondary sines as the sines of 6
+d^g 3 degrees. 1 d. 50 cent. 0 degrees. 75 centesm^s, and 0 d. 01 centesme may be found
+from them, and all the other sines, to every degree, and part of a degree in
+the quadrant.
+
+22 The right sine and versed sine of an arch are together equal in power to
+the subtense of the same arch.
+
+Demonst. The right sine CF and the versed sine FE with the subtense EC do
+make a right angled Triangle, and therefore FCq + FEq = ECq by the 19 of the
+second, as was to be proved,
+
+Consectary.
+The right sine and versed sine of an arch being given, the sine of half that
+arch is also given, for EH the EC is the sine of ED the half of the arch EDC.
+
+23 The right sine of an arch is a mean proprotional between the Semi-radius,
+and the versed sine of the double arch.
+
+Demonst. In the preceding diagram the Triangles EHA and ECF are like, because
+ang. F = EHA and E common to both, therefore
+
+AE, EC EH, OF or AE. EC AE: EC that is, AE, EC = EH EH, OF as was to be proved.
+
+1 Consectary.
+Therefore by this or the former proposition, the fine and sine complement of
+an arch being given, the sine of half that arch is also given, I say the sine
+complement, because the versed sine is found, by deducting it from Radius; Thus
+FA the sine of BC being deducted from AE Radius the remainer is FE the versed
+sine of EDC and AE x OF = EHq whose root is EH or the sine of ED.
+
+24 The rectangle of the sine and sine complement of an arch is equal to the
+rect^ngle of half the Radius, and the sine of the double arch.
+
+Demonst. In the preceding diagram, EH is the sine of ED and HA the cosine
+thereof, and CF is the sine of EDC the double arch, the Triangle HAE and EFC
+are like, as before.
+
+And AE, EC HA, CF And AE, EH = EC HA CE And the rectangle of AH x HE = AE x CF
+as was to be proved.
+
+25 By these Propositions the sine of 12 degrees. being given the sines and sin^s
+complem^nts of these arches 6 degrees. 3 degrees. 1 degrees. 50 cent. 0 degrees. 75 cent. etc.
+were found to be as follows. Degrees. parts Sines Co-sines. 6.00 10452.846^2
+99452.18953 3.00 5233.59562 99862.95347 1.50 2617.691^3 99965.73249 0.75
+1308.95955 99991.43^75 0.375 654.49379 99997.85816 0.1875 327.24865 99999.46453
+
+And from the sine of 0 degrees. 1875 parts, the sine of 10 centesmes may be found,
+in this manner.
+
+As, 0 degrees. 1875 Is to the sine thereof 327.14865 So is 0 degrees. 10 centesmes. To
+the sine thereof 174.53261 Therefore the sine of 0d. 5 cent. 87.26930 The sine
+of 0d. 01 cent. is 17.43326 And the Cosine thereof is 99999.99847
+Which being given the rest of the Table of sines may be ea^^ly made by this
+proposition following.
+
+26 Three equi-different arches being propounded, the rectangle made of the
+cosine of the common difference and the double sine of the mean arch, is equal
+to the R^ctangle made of the Radius, and the sum of the sines of the two
+extreme arches.
+
+Demonst. Let the three equi-different arches be ED, EC, and EB, whose common
+difference is BC o^ CD the arch OF = DE, therefore the arch BEF = 2 CE, and B^
+= 2 C^ the sine of CE and GF = BD the double measure of the ang. GBF = BAC and
+the ang. BNA and BHF right, therefore the Triang. ABN and BFH like AB, AN BF,
+BH the sum of BM and BK the sines of the extreme arches, therefore AN x BF = AB
+x BH which was to be proved.
+
+Consectary.
+The sines of ED, and EC with the cosine of CD or BC being given, the sine of
+EB is also given, for if from BH the sum of BM and DK you deduct MH = DK the
+remainer is BM the sine of BE, for illustration sake we have added these
+examples following.
+
+1 Example.
+ED 5 cent. and EC 10 centesmes being given to find BM the sine of EB 15
+centesmes.
+
+As the Radius AB 10000.0000 To AN the cos. BC 5 viz. 9999.9962 So BF the doub.
+of LC 10 349.0650 To BH = BM + DK 349.0659 From which subt. MH = DK 5 cent.
+87.2663 Rests the sine of 0d 15 cent. BM 261.7987
+2 Example.
+ED 0 degrees. 10 cent.
+
+EC 0 degrees. 15 cent. given, to find EB 0 degrees. 20
+
+As the Radius AB 10000.0000 To cos. BC 5 cent. viz. AN 9999.9962 So the double
+of LC 15 cen. viz BF. 523.5974 To BH = BM + DK 523.5976 Subt. MH = DK 10 cent.
+174.5326 Rest sine 0 degrees. 20 cent. BM. 349.0650
+3 Example.
+Let EB 0 d. 25 cent. be inquired. There being given ED 0 degrees. 15 cent. EC 0
+degrees. 20 cent.
+
+As the Radius AB 90 10000.0000 To Cos. BC viz. s AN 89d 95 9999^9962 So the
+doub. of LCs 0d 20 cent. 698.1300 To BH = BM + DK 698.1297 Sub. MH = DK 0 d. 15
+cent. ^61.798^ Rest BM the sine of 0d. 25 cent. 436.330^
+4 Example.
+Let EB 0 d. 30 cent. be inquired. There being given ED 0 d. 20 cent. EC 0 d.
+25 cent.
+
+As the Radius 90 1000.0000 To Cos. BC viz. s AN 89.95 9999.9962 So twice L^ =
+BF viz. 25 cent. 872.6618 To BH = BM + DK 872.6613 Subt. DK = MH 0d. 20 cent.
+149.0950 Rest* MB the sine of 0 d. 30 cent. 523.5963
+And in this manner may the whole Canon of sines be completed, or the sines of
+the first or last 60 degrees. being thus made, or the sines of 45 degrees. being made
+by this rule and the sines of 15 d more by the 24th thereof, the other 30 d.
+may be more easily made by the following Problem.
+
+26 The sum of the Sines of any two arches equally distant from 30 degrees. is
+equal to the cosine of the distance.
+
+Demonst. In the preceding diagram we have already proved.
+
+AB. AN BF. BH therefore also AB. AN BF. BH, now then if BF = AB sine of 30
+degrees. AN the cosine of the distance must be also equal to BH, the sum of the
+sines, as was to be proved.
+
+Example.
+Let DK the sine of DE 27 d. be 45399.04997
+
+And BM the sine of EB 33 d. be 54463.90350
+
+Their sum is BH = AN sine of 87d. 99862.95347
+
+27 The Canon of sines being thus made, a Table of Tangents and Secants may be
+easily deduced from them, by the following problemes.
+
+28 As the cosine of an arch, is to the sine thereof, so is Radius, to the
+Tangent of that arch.
+
+Demonst. In the annexed diagram, the Triangles AEF and AHG are like, because
+of their right angles at F and G, and their common angle at A. Therefore, AF.
+FE AG. GH.
+
+
+
+29 The Radius is a mean proportional, between the tangent and the tangent
+complement of an arch.
+
+Them. HG is the tangent of an arch, CK the co-tang. thereof and LH = AG and the
+triangles, ALH and ACK are like, because of their right angles at L and C, and
+their common angle at A. Therefore AL = HG. LH AC. CK.
+
+30 The Radius is a mean proportional, between the right sine of an arch, and
+the secant of its complement.
+
+Demonst. In the preceding diagram the triangles AEF and AHG are like,
+therefore, AF. AE AG. AH.
+
+31 As the sine of an arch or angle is to Rad. so is the tangent of the same
+arch, to the secant thereof.
+
+Demonst. In the preceding diagram the triangles AEF and AGH are like,
+therefore OF. AE HG. AH.
+
+32 As Radius, is to the secant of an arch, so is the co-tangent of the same
+arch, to the co-secant thereof.
+
+Demonst. In the preceding diagram, the triangles ALH and ACK are like,
+therefore LH, AH CK. AK.
+
+Other more easy and expeditious ways of making the Tangents and Secants, you
+may see in the first Chap. of my Trigonometria Britannica, but the Canons being
+now already made, these Rules we deem sufficient.
+
+The construction of the Artificial Sines and Tangents, we have purposely
+omitted, they being nothing else but the Logarithmes of the Natural, of which
+Logarithmes we have showed the construction in a former Institution, by the
+extraction of roots, and in my Trigonometria Britannica by multiplication: and
+therefore shall now proceed to the use of the Canon of Sines, Tangents and
+Secants, in the solution of all Triangles, whether plain or Spherical.
+
+CHAP. IV.
+Of the Calculation of plain Triangles.
+A Plain Triangle is contained under three right lines, and is either
+Right-angled, or Oblique.
+
+2 In all plain Triangles, two angles being given the third is also given: and
+one angle being given the sum of the other two is given: because the three
+angles together are equal to two right by the 9th of the second.
+
+Therefore in a plain right angled triang. one of the acute angles is the
+complement of the other.
+
+3 In the resolution of plain Triangles, the angles only being given, the
+sides cannot be found, but only the the reason of the sides: It is therefore
+necessary, that one of the sides be known.
+
+4 In a Right-angled Triangle two terms (besides the right-angle) will serve
+to find the third; so the one of them be a side.
+
+5 In Oblique angled Triangles there must be three things given to find a
+fourth.
+
+6 In right-angled plain Triangles there are seven cases, and five in Oblique,
+for the solution of which the four Axioms following are sufficient.
+
+1 Axiom.
+In a right-angled plain Triangle: The rectangle made of Radius and one of the
+sides containing the right-angle, is equal to the rect-angle made of the other
+containing side, and the tangent of the angle thereunto adjacent.
+
+Them. In the right angled plain triang. BED draw the periphery FE, then is BE
+Radius and DE the Tangent of the angle at B, make CA parallel to DE, then are
+the Triangles ABC and EBD like, because of their rightangles at A and E and
+their common angle at B, therefore BA, BE AC. ED. and BA x ED = BE x AC. that
+is BA x tB = Rad. x AC. as was to be proved.
+
+2 Axiom.
+In all plain Triangles: The sides are proportional, to the sines of their
+opposite angles.
+
+Demonst. In the ^plain triangle BCD extend BC to F making BF = DC, and draw
+the arches FG and CH, then are the perpendiculars FE and CA the sines of the
+angles at B and D by the 7th of the third, and the triangles BEF and BAC are
+like, because of their right angles at E and A, and their common angle at B.
+Therefore C. C A BF. FE. that is BC. sine D DC = BF. sine B. as was to be
+proved.
+
+3 Axiom.
+In all plain Triangles; As the half sum of the sides, is to their half
+difference: so is the tangent of the half sum of their opposite angles, to the
+tangent if their half difference.
+
+Demonst. In the triangle BCD let the sides be CB and CD, and CG = CB.
+wherefore Z crur. = EG. and x crur. = EC, draw CH bi-secting BG at right
+angles, and make the angle GCI = D, then will the angle GCH = Z angle B and D
+whose tangent is HG, and the angle ICH = x ang. B and D whose tangent is HI.
+
+
+
+But EG. EC HG. HI. that is. Z crur. x crur. t Z ang t X ang.
+
+4 Axiom.
+In all plain triangles: As the base, is to the sum of the other sides, so is
+the difference of those sides, to the difference of the segments of the base.
+
+Demonst. In the triangle BCD let fall the perpendicular AC, extend BC to F and
+draw FG and DH, then ^ BF = Z crur. and HB = x crur. and GB the difference
+between AB and AD the segments of DB the base. And the triangles HDB and BGF
+are like, because of their equal ang at D and F the arch HG being the double
+measure to them both, and their common angle at B. Therefore
+
+DB. BF HB. GA. That is, DB. Z crur. x crur. x seg. base.
+
+These things premised, we will now set down the several Problems or cases in
+all plain triangles right-angled and oblique, with the proportions by which
+they may be solved, and manner of solving them both by natural and Artificial
+numbers.
+
+Of right angled Plain Triangles.
+IN right angled plain triangles, the sides comprehending the right-angle we
+call the Legs, and the side subtending the right angle, we call the Hypotenuse.
+
+1 Probl. The legs given to find an Angle.
+
+In the right-angled plain triangle, ABC, the angle ACB is inquired.
+
+The given legs AB. 230 AC. 143.72
+
+
+AC. Rad AB. tA CB by the 1 Axiom.
+
+That the quantity of this angle, or any other term required may be expressed
+in numbers, if the solution be to be made in natural numbers, multiply the
+second term given by the third, and their product divide by the first, the
+Quotient is the fourth proportional sought.
+
+But if the solution be to be made in artificial numbers, from the sum of the
+Logarithmes of the second and third terms given, subtract the Logarithme of the
+first, the remainer shall be the Logarithme of the fourth proportional required.
+
+Illustration by natural numbers.
+As the Leg AC 143.72 Is to the Radius AC 10000000 So is the Leg. AB 235 To the
+tang. of ACB grad. 58.55
+The product of the second and third terms is 2350000000, which being divided
+by 143.72 the first term given, the quotient is 16351238 the tangent of the
+angle ACB which being sought in the Table the nearest less is 16350527, and the
+arch answering thereto is Grad. 58. 55 parts.
+
+Illustration by Logarithmes.
+Logarithmes. As the leg AC 143.72 2.157517 Is to the rad. IC 10.0000 So is the
+leg AB 235 2.371068 To the tang. of. C. gr. 58.55 10.213551
+
+2 Probl. The angles and one leg given, to find the other leg.
+
+In the right angled plain Triangle ABC, the leg AC is inquired:
+
+The given Angle ABC Leg. AB
+Rad. AB* t ABC. AC. by the first Axiom.
+
+3 Prob. The Hypotenuse and a leg given to find an angle.
+
+In the right angled plain Triangle ABC, the angle ACB is inquired.
+
+The given Hypoth. BC. Leg AB.
+
+
+BC. Rad AB. s. ACB. by 2 Ax.
+
+4 Probl. The Hypotenuse and angles given, to find either leg.
+
+In the right angled plain Triangle ABC, the leg. AB is inquired:
+
+The given Hypot. BC. Angle ACB.
+
+
+Rad. BC s. ACB. AB. by 2 Ax.
+
+5 Probl. The angles and a leg given, to find the Hypotenuse.
+
+In the right-angled plain Triangle ABC, the Hypotenuse BC is inquired;
+
+The given Angle ABC. The given Leg AC.
+
+
+s. ABC. AC Rad. BC. by the second Axiom.
+
+6 Probl. The Hypotenuse and leg given, to find the other leg.
+
+In the right-angled plain Triangle ABC, the leg AB is inquired,
+
+The given Hypot. BC Leg. AC
+
+
+1. BC. Rad AC. s. ABC, by the 3 Problem.
+
+2. t. ABC. AC Rad. AB. by the 2 Probl.
+
+7 Probl. The legs given, to find the Hypotenuse.
+
+In the right-angled plain Triangle ABC the Hypotenuse BC is inquired.
+
+The given legs AB AC
+
+
+1 AB. Rad AC. t. ABC by the 1 Problem.
+
+2 s. ABC. AC Rad. BC. by the 5 Problem.
+
+Of Oblique angled plain Triangles.
+1 Probl. Two sides and an angle opposite to one of them given, to find the
+angle opposite to the other side.
+
+In the Oblique angled plain Triangle DCB the angle CBD is inquired.
+
+The given Sides DC 865 CB 632
+
+
+The given Angle CDB 26. 37
+
+
+
+But here it must be known whether the angle sought, be acute or obtuse. CB. s
+CDB CD, s. CBD. by the second Axiom.
+
+Illustration by natural Numbers.
+As the side CB 632 Is to the sine of CDB 26.37 4441661 So is the side CD 865
+To the sine of CBD 37.43 6079172
+For if you multiply 4441661 by 865, the product will be 3842036765, which
+product being divided by the first term 632, the quotient 6079172 is the sine
+of 37 degrees. 43 parts.
+
+Illustration by Artificial numbers.
+As the side CB 632 2.800717 Is to the sine of D 26.37 9.647545 So is the sides
+CD 865 2.937016 12.584561 To the sine of B 37.43 9.783844
+2 Probl. Two sides with the angle comprehended by them given, to find either
+of the other angles.
+
+In the Oblique angled plain Triangle BDC.
+
+The angle DBC is inquired.
+
+The given Sides DC BC
+
+
+The given Angle DCB
+
+Subtract the angle given, out of 180d. the remainer is the sum of the other
+angles, and Z c^ur. DC and BC. X crur t Z ang. t X ang. by the 3 Ax. To the
+half sum of the other angles, add the half difference found, and you will have
+the greater angle, subduct it and you will have the lesser, in our example Z
+ang. + Xang. is = DBC sought, because that is the greater ang.
+
+3 Probl. The angles and a side given, to find either of the other sides.
+
+In the Oblique angled plain triangle CBD,
+
+The side DB is inquired.
+
+The given Angles DCB CDB
+
+
+The given Side CB
+
+s. CDB, CB s. DCB. DB. by the second Axiom.
+
+4 Probl. Two sides with the angle comprehended by them given, to find the
+third side.
+
+In the oblique angled plain triangle DCB
+
+The side CB is inquired.
+
+The given Sides DB CB
+
+
+The given Angle CBD
+
+First, find the angle BCD by the third Axiom.
+
+Secondly, find the side CB by the second Axiom.
+
+5 Probl. The three sides given to find an angle.
+
+In the Oblique angled plain triangle CBD.
+
+The angle CDB is inquired.
+
+The three sides being given. DC CB DB
+
+
+The resolution of this Problem does require two operations, first, for the
+segment of the base GB.
+
+DB.Z crur. DC and CB X crur. GB. ^y the fourth axiom.
+
+And DB - GB = DG, and DG =DA or AG.
+
+And DC. Rad AD. s ACD, by the second axiom whose complement ^s ADC.
+
+And AG + GB = AB, therefore ang. ABC may be also found in like manner.
+
+CHAP. V.
+Of the affections of Spherical Triangles.
+HAving done with plain triangles, we come next to speak of Spherical.
+
+1 A Spherical triangle is that which is described on the sur-face of the
+Sphere.
+
+2 The sides of a Spherical Triangle are the arches of three great circles of
+the Sphere, mutually intersecting each other.
+
+3 The measures of Spherical angles are the arches of great circles described
+from the angular point between the sides of the angles, those sides being
+continued to quadrants.
+
+4 Those are said to be great circles which bi-sect the Sphere.
+
+5 Those circles which cut each other at right angles, the one of them passes
+through the poles of the other and the contrary.
+
+6 In every Spherical triangle, each side is less then a semicircle, for if in
+the triangle ABC, you produce the sides AB, BC, till they meet in the point D
+the arches BAD, and BCD are each of them a semicircle because they intersect
+each other in the points B and D, and therefore the arch BA or BC is less then
+a semicircle. In like manner if the sides AB and AC be produced, the side AC
+may be also proved to be less then a Semicircle.
+
+7 In every Spherical Triang. any two sides are together greater then the
+third, for otherwise they cannot possibly make a triangle.
+
+8 The sum of the sides of a Spherical Triangle are less then two semicircles.
+For if any two sides be produced as suppose AB, BC till they concur in the
+point D, the arches BAD, BCD shall be each of them a semicircle, but in the
+train. ADC, the sides AD and CD are together greater then AC by the last
+aforegoing, therefore the three sides AB, BC, AC are together less then the two
+semicircles BAD, BCD,
+
+9 If two sides of a Spherical triangle be equal to a semicircle, the two
+angles at the base shall be equal to two right. If they be less then a
+semicircle, the two angles shall be less then two right: but if greater then a
+semicircle, the two angles shall be greater then two right. As in the spherical
+Triangle ABC let the sides AB AC be equal to a Semicircle, ther^ are the angles
+at B and C equal to two right, for the arch BC (...) produced to D, the angle
+ACB shall be equal to B, and seeing that the two angles at C are equal to two
+right, the two angles ACD and B shall be also equal to two right.
+
+Again. Let the sides AB and AC be less then a semicircle, seeing that the two
+angles at C are equal to two right, and the angle B less then the angle ACD,
+the angles ACB and B are together less then two right.
+
+Lastly, Let the sides AB and AC be more then a semicircle, the angles at C
+being equal to a semicircle, and the angle at B greater then the angle ACD, the
+angles ACB and B shall be greater then two right.
+
+10 The sum of the three angles of a Spherical triangle are greater then two
+right angles and less then six.
+
+Demonst. In the triangle ABC let the side BC be produced to D, then shall the
+angle ACD be either more or less or equal to the angle ABC; first, suppose them
+equal, then the arches AB and AC shall be equal to a semicircle, by the last
+aforegoing, and the angles ABC and ACB are equal to two right, and therefore
+the three angles A.B.C are more then two right.
+
+Again. Let the angle ACD be less then the angle B, then the sum of the arches
+AB and AC shall be more then a Semicircle, and therefore the angles ABC and ACB
+greater also then two right, and therefore much more are the three angles
+A.B.C. greater then two right.
+
+Lastly. Let the angle ACD be greater then the angle ABC, and make the angle
+DCE equal thereto, and the side AB being produced to E that the arch BE and CE
+may meet, and let the arch CA be produced to F, then shall the arches EB and EC
+be together equal to a semicircle, and therefore AE and EC are together less
+then a semicircle, and the angle EAF or BAC is greater then the angle ACE by
+the ninth hereof, but the angles ACE, ACB and B are equal to two right,
+therefore the angle ACB, ABC and BAC are greater then two right.
+
+And because every angle of a Spherical Triangle is less then two right, the
+three angles together must needs be less then six, as was to be proved.
+Therefore,
+
+11 Two angles of any Spherical Triangle are greater then the difference
+between the third angle and a semicircle also.
+
+12 Any side being continued, the exterior angle is less then the two
+interior opposite ones.
+
+13 In any Spherical Triangle, the difference of the sum of two angles, and a
+whole circle is greater then the difference of the third angle, and a
+semicircle.
+
+14 In any Spherical Triangle, one side being produced, if the other two sides
+be equal to a semicircle, the outward angle shall be equal to the inward
+opposite angle upon the side produced: if they be less then a semicircle, the
+outward angle shall be greater then the inward opposite angle: if greater then
+a semicircle, the outward angle shall be less then the inward opposite angle.
+
+In the Spherical Triangle ABC let the side BC be continued to D, and let the
+sides AB and AC be together equal to a semicircle. I say then that the outward
+angle ACD is equal to the inward opposite angle at B, because the angle B = D
+and the angle ACD = D and therefore angle ACD = B.
+
+Again, Let the sides AB and AC be less then the semicircle BAD if the common
+arch AB be taken away, there shall remain the arch AC less then the arch AD and
+therefore the ang. ACD shall be greater then the angle D, therefore also more
+then B.
+
+Lastly, If the sides AB and AC be together more then a semicircle, taking away
+the common arch AB, the remaining arch AC shall be greater then AD, and the
+angle ACD lesser then D, and therefore also lesser then B as was to be proved.
+
+15 A Spherical Triangle is either right or angled or oblique.
+
+16 A right angled Spherical Triangle is that which has on right angle at the
+least.
+
+17 The legs of a right angled spherical Triangle are of the same affection
+with their opposite angles.
+
+In the spherical Triangle ABC right angled at A let the side AB be a quadrant,
+I say then that the angle ACB shall be a quadrant also, because B is then the
+pole of the arch AC, and the arch BC perpendicular thereunto, therefore also in
+the Triangle ACD, the side AD, being more then a quadrant, the angle ACD shall
+be also more then a quadrant, it being more then the right angle ACB, and in
+the right angles Spherical Triangle AEC the side AE being less then a quadrant,
+the angle ACE shall be also less then a quadrant, it being less then the right
+angle ACB.
+
+18 In a right angled spherical Triangle, if either leg be a quadrant, the
+Hypotenusa shall be also a quadrant; but if both the legs shall be of the same
+affection, the Hypotenuse shall be less then a quadrant; if of different, then
+greater, and the contrary.
+
+In the right angled triangle ABC right angled at A let the side AB be a
+quadrant, I say then that the Hypotenuse BC is also a quadrant, because the
+angle ACB is right, by the last afore-going, and the arches AB and BC which are
+perpendicular to the arch AC do meet in the pole B.
+
+Again, Let the sides AB and AC be continued to their opposite pole at F, then
+shall the Triangle FBC be equal to the triangle* ABC, but the arch GH being
+drawn by the points G and H, the base GH will be common to the right angled
+triangle AHG, whose legs AG and AH are greater then the quadrants AB and AC and
+also to the other right angled triangle FGH whose legs FG and FH are less then
+the quadrants FB and FC, and GH is less then the quadrant BC, which is the
+measure of the right angles at F and A, if it be not less, it must be either
+more or equal to it, it cannot be more because the triangle ABC having all the
+angles right, can have no side greater then a quadrant, and it cannot be equal,
+because neither of the legs are a quadrant.
+
+Lastly, In the triangle DAH right angled at A, the leg AD is less then the
+quadrant AB, and the leg HA is greater then the quadrant AC, therefore the
+Hypotenusa DH is also greater then a quadrant, for AC and DC are each of them
+quadrants by the work, if therefore upon the pole D you describe the arch CI it
+will cut the Hypotenuse DH in the point I, and therefore DI is a quadrant and
+DH more then a quadrant, as was to be proved.
+
+19 In a right angled spherical triangle, if either of the angles at the
+Hypotenusa be a right angle, the hypotenusa shall be also a quadrant, but if
+both shall be of the same affection it shall be less, if of different then
+greater and the contrary.
+
+In the triangle ABC right angled at C if either of the angles at A or B be
+right, the side opposite thereto shall be also right by the 17 hereof, and the
+Hypotenusa AB shall be a quadrant by the last aforegoing, but if the angles at
+A and B be both acute or obtuse the sides AC and CB shall be both acute or
+obtuse also by the 17th hereof, and the Hypotenuse AB less then the quadrant by
+the last aforegoing: but if either of the angles at A and B be acute, and the
+other obtuse, one of the legs shall be less, the other more then a quadrant, by
+the 17th hereof, and the Hypotenuse AB more then a quadrant by the last
+aforegoing, as was to be proved. Therefore
+
+20 In a right angled spherical Triangle either of the Oblique angles is
+greater then the complement of the other, but less then the difference of the
+same complement to a semicircle.
+
+21 An Oblique angled spherical Triangle, is either acute or obtuse.
+
+22 An acute angled spherical Triangle has all its angles acute.
+
+23 An obtuse angled spherical Triangle has all its angles either obtuse or
+mixed, viz. acute and obtuse.
+
+24 In any Spherical Triangle, whose angles are all acute, each side is less
+then a quadrant.
+
+In the Triangle ABC let all the angles be acute, and A the greatest angle,
+then is BC greater then either of the other arches AB, AC, and the arch A E
+being drawn at right angles to the arch AB and made equal to AC, the arch BE is
+less then a quadrant, because the legs of the right angled Triangle ABE, viz.
+AE and AB are each of them less then a quadrant, and therefore the arch BC is
+much more less then a quadrant, and if BC the greatest arch be less then a
+quadrant, the sides AB and AC which are each of them less then the arch BC,
+must needs be less then quadrants also.
+
+25 In any oblique angled spherical Triangle, if the angles at the base be of
+the same affection, the perpendicular drawn from the vertical angle shall fall
+within, if of different without.
+
+In the oblique angled Triangle ABC whose angles at B and C are acute, the
+perpendicular AD shall fall within the triangle, for if it fall not within, it
+must be the same with one of the sides, or else fall without the Triangle if it
+be the same with either side, the angle at B or C must be right, which is
+contrary to the proposition, if it fall without the triangle, suppose at E the
+angle AEB shall be right, but the angle ABE is obtuse, viz: the complement of
+the acute angle ABC and therefore the side AE is greater then a quadrant, by
+the 17th thereof, and the angle ACE being acute AE shall be also less then a
+quadrant by the same Theorem, but that the same side should be both more and
+less then a quadrant is absurd in this case therefore the perpendicular shall
+fall within the triangle.
+
+But in the Triangle AEB, obtuse-angled at B, acute at E, the perpendicular AD
+shall fall without the triangle, upon the side EB continued, or if otherwise,
+it must be the same with one of the sides, or fall within the triangle, it
+cannot be the same with either of the sides, for then the angle at B or E
+should be a right angle, and cannot fall within the triangle because then the
+angles at B and E must either be both acute or both obtuse as has been already
+proved, if therefore the angles at the base be of different affection, the
+perpendicular shall fall without, as was to be proved.
+
+CHAP. VI.
+Of the Calculation of Spherical Triangles.
+IN Spherical Triangles there are 28 varieties or cases, 16 in rectangular and
+12 in oblique angular, whereof all the rectangular, and 10 of the oblique
+angular may be resolved by these two Axioms following.
+
+1 Axiom.
+In all Spherical rectangled Triangles, having the same acute angle at the
+base: The sines of the Hypotenusaes are proportional to the sines of their
+perpendicular.
+
+2 Axiom.
+In all Spherical rectangled Triangles, having the same acute angle at the
+base: The sines of the bases, and the tangents of the perpendiculars are
+proportional.
+
+Demonst. Let ADB and AIM represent two Spherical Triangles having the same
+angle at A, then is IH the sine of IM and FD the sine of DB. But
+
+s. AD. AI Rad s DF s. IH.
+
+
+
+Again. KB is the tang. of DB and LM the tang. of IM. And
+
+s. AB. t. KB s. AM. t. LM. as was to be proved.
+
+That all the case of a right-angled Spherical Triangle may be resolved, by
+these two Axioms, the several parts of the Spherical triangle, proposed must
+sometimes be continued to quadrants, that so the angles may be turned into
+sides, the hypotenusaes into bases and perpendiculars, and the contrary, by
+which means, the proportions as to the parts of the Triangle given, instead of
+sines do sometimes fall in Co-sines, and sometimes in co-tangents instead of
+tangents, which the L. Nepeir observing, those parts of the right-ang.
+Spherical triangle which in such conversion do for the most part change their
+proportion, he notes with their complements, viz. the hypotenuse and both the
+acute angles, but the sides containing the right angle are not so noted: and
+these five he calls the Circular parts of the triangle, amongst which the
+right angled is not reckoned, and therefore the two sides which do contain it,
+are supposed to be joined together.
+
+Of these five Circular parts, one is always in the middle, and two of the
+five are adjacent to that middle part, and the other two are disjunct, the
+parts adjacent, are called extremes adjacent, and the parts disjoined, are
+called extremes disjunct.
+
+Each of these five circular parts, may by supposition be made the middle part,
+and then the two circular parts which are next to that which is by supposition
+made the middle, are the extremes conjunct, the other two remote from the
+middle part assumed are the extreme parts disjoined.
+
+As in the Triangle ABC, if comp. AC be made the middle part, comp. A, and
+comp. C are the extremes conjunct, and the sides AB and BC are the extremes
+disjunct, and so of the rest as in the Table following.
+
+
+
+Mid. part Extr. conj. Extr. disj. Leg. AB. Comp. A Leg BC Comp. AC Com. C
+Comp. A Comp. AC Leg. AB Com. C Leg. BC Comp. AC Comp. A Comp. C Leg. AB Leg.
+BC Comp. C Comp. AC Leg. BC Comp. AB Leg. AB Leg. BC Comp. C Leg. AB Comp. A
+Comp. AC
+
+The parts of a right angled Spherical Triangle, being thus distinguished into
+five circular parts, (besides the right angle) the three parts remote from the
+right angle, being noted by their complements, and of these five one accounted
+the middle, the other either extremes adjacent or disjunct, the L. Nepeir as a
+consectary from the two preceding axioms, for the help of memory, and
+therefore the more easy resolving of all spherical Triangles has composed
+this Catholic and Universal Proposition.
+
+The Sine of the Middle part and Radius are reciprocally proportional, with the
+tangents of the extremes conjunct, and the co-sines of the extremes disjunct.
+
+That is, As Radius, to the tangent of one of the extremes conjoined: So is
+the tangent of the other extreme conjunct to the Sine of the Middle part.
+
+And also, As Radius, to the cosine of one of the extremes disjunct: So is
+the cosine of the other extreme disjunct, to the sine of the Middle part.
+
+Therefore, if the Middle part be sought, the radius must be in the first
+place, If either of the extremes, the other extreme must be in the first place.
+
+Only note, That if the Middle part, or either of the extremes conjunct, be
+noted with its complement in the circular parts of the Triangle, instead of the
+sine or tangent, you must use the cosine or co-tangent of such circular part
+or parts.
+
+If either of the extremes disjunct, be noted by its complement in the circular
+parts of the triangle, instead of the cosine, you must use the sine of such
+extreme disjunct.
+
+That these directions may be the better conceived, we have in the table
+following set down the circular parts of a Triangle under their respective
+titles, whether they be taken for the Middle part, or for the extremes, whether
+conjunct or disjunct, and unto those parts we have perfixed the sine or cosine,
+the tangent or co-tangent as it ought to be by the former Rules.
+
+Middle part Extr. conjunct Extr. disjunct. Sine AB Co-tang A Sine AC Tang. BC
+Sine C Cosine A Co-tang. AC Sine C Tang. AB Cosine BC Cosine AC Co-tang. A
+Cosine AB Co-tang. C Cosine BC Cosine C Co-tang. AC Sine A Tang. BC Cosine
+AB Sine BC Co-tang. C Sine A Tang. AB Sine AC
+
+These things premised, we will now set down the several cases with the
+Analogies by which they may be solved, according to this Catholic proposition
+of right angled Spherical triangles first, and then of oblique, and in every
+case in which we deem it necessary, we will Demonstrate the truth of the
+Proposition by the first and second Axioms of this chapter, as where the
+middle part, is either one of the legs containing the right angle, or one of
+the oblique angles or the Hypotenusal.
+
+Of right angled Spherical Triangles, Problem. 1.
+A leg with an angle opposite thereunto being given, to find the other leg. If
+it be known whether the Hypoteuuse or the other angle be more or less then a
+quadrant.
+
+In the right angled Spherical Triangle ABC.
+
+The leg AB or middle part is inquired
+
+The given Leg BC ang. com. A
+are extreme conjunct.
+
+Analogy Rad. cot. ang. A tang. BC. sine AB.
+
+Demonst. The Triangles AGD and ACB have the same acute angle at the base.
+
+
+
+Therefore ^an. DG. AD tang. BC ^ine AB by the second Ax. And by the 29th of
+the third.
+
+Rad. AD. co-tang. DG tang. DG. AD -- therefore, Rad. cot. DG tang. BC. sine AB
+and DG is the measure of the angle, at A therefore, as Rad. etc.
+
+Illustration by Natural numbers.
+
+As the Radius. 10000000 To Co-tang. A grad. 30. 17320508 So tang. BC. grand.
+22.89 4222108 To sine AB. 46 d. 994 7312904
+Illustration by Artificial numbers.
+
+As the Radius 90 d. 10.000000 To co-tang. A 30 10.238561 So tang. BC 22.89
+9.625529 To sine AB. 46.994 9.864090
+Problem 2.
+A leg and an angle coonterminate therewith being given, to find the other leg
+
+In the R. angled spherical trian. ABC.
+
+The leg BC one of the extremes conjunct is inquired.
+
+The given Angl. Comp. A the other extr. conj. Leg AB the middle part.
+
+Cot. A. Rad sine AB. tang. BC by the analogy in the first Problem.
+
+Problem 3.
+The legs given to find an angle.
+
+In the right angled Spherical Triangle ABC.
+
+The angle comp. A one of the extremes conjunct is inquired.
+
+The given legs AB the middle part. BC the other extrea. conjunct.
+
+
+Analogy Tang. BC. sine AB Rad. cot. A. The inverse of that analogy in the
+^st Problem.
+
+Problem 4.
+The Hypotenuse and a leg given, to find the ^^gle contained by them.
+
+In the right angled Spherical Tri^ngle, ABC.
+
+The angle, comp. C, or middle part ^s inquired.
+
+The given Hypot. comp. AC Leg BC
+the adjac. extr.
+
+Analogy, rad. cotang. AC tang. BC. cosine C.
+
+Demonst. The triangles EFH and EIG have the same acute angle at the base,
+therefore, ^IG = AC. Rad. IE t. FH = BC. -- sine FE. by the 2 Ax.
+
+Rad. co-tang. IG tang. IG. Rad. by the 29 of the third. Therefore
+
+Rad. cot. IG t. FH sine FE, or Rad. cot. AC t. BC. cosine C, because FI the
+complement of FE is the measure of ACB.
+
+Problem 5.
+A leg and an angle conterminate with it given to find the Hypotenuse.
+
+In the right angled Spherical Triangle ABC.
+
+The Hypot. comp. AC. one of the extremes conjunct is inquired.
+
+The given Leg BC. the other extr. conjunct. Angle comp. C, the middle part.
+
+Analogy. tang. BC. cosine C rad. cot. AC, it being the inverse of the
+Analogy in the former Problem.
+
+Problem 6
+The Hypotenuse and angle given, to find the leg conterminate with the given
+angle.
+
+In the right angled Spherical Triangle, ABC.
+
+The leg BC one of the extremes adjacent is inquired.
+
+The given Hypot. comp. AC the other extr. conj. Angle comp. C. the middle part.
+
+Analogy, cotang. AC. Rad cos. C. tang. BC.
+
+This also is the inverse of the 3 Problem, and therefore needs no further
+demonstration.
+
+Problem 7.
+The Oblique angles given, to find the Hypotenuse.
+
+In the right angled Spherical Triangle ABC.
+
+The Hypot. comp. AC, the middle part is inquired.
+
+The given ang. Comp. A. Comp. C
+The extremes conjunct.
+
+Analogy, Rad cotang. C cotang. A cosine AC:
+
+Demonst. The triangles CGH and CIF have the same acute angle at the base, CG
+is the complement of AC, HG the complement of GD the measure of A, and FI the
+measure of C, but
+
+Tang. FI. CI tang. GH, sine GC by 2 axiom. therefore,
+
+Tang. C. Rad. cot. A. cos. AC. And as Rad. cot. C tang. C. Rad. Therefore Rad.
+cot. C cot. A. cosine AC.
+
+Problem 8.
+The Hypotenuse and an angle given, to find the other angle.
+
+In the right angled Spherical Trigle ABC.
+
+The angle comp. C, one of the extremes conjunct is inquired.
+
+The given Hypot. comp. AC, the middle part. Ang, comp. A the other extr. conj.
+Cotang. A. cosine AC Rad. cot. C, by the Analogy in the preceding Probl.
+
+Problem 9.
+The Hypotenuse, and an oblique angle given, to find the leg opposite to the
+given angle.
+
+In the right angled Spherical Triangle ABC.
+
+The leg BC the middle part is inquired.
+
+The given Hyp. comp. AC Angle comp. A extreme disjunct.
+
+Analogy, Rad. sine A sine AC sine BC.
+
+Demonst. The Triangles ACB and AGD have the same acute angle at the base,
+therefore by the first axiom, AG. s. GD sine AC. sine BC.
+
+Problem 10.
+A leg and an angle opposite thereunto, being given, to find the Hypotenuse. If
+it be known whether it, or the other leg or angle be acute or obtuse.
+
+In the right angled Spherical Triangle ABC.
+
+The Hypotenuse comp. AC one of the extremes disjunct is inquired.
+
+The given Ang. com. A the other extr. d. Leg. BC the middle part.
+
+Anal. Sine A. R. sine BC. sine C, by the analogy in the preceding Probl.
+
+Problem 11.
+The Hypotenuse and a leg given, to find the angle opposite to the given leg.
+
+In the right angled Spherical Triangle ABC.
+
+The angle comp. A one of the extremes disjunct is inquired.
+
+The given Hyp. comp. AC, the other extr. disj. Leg. BC the middle part.
+
+Anal. Sine AC, sine BC R. sine A by the analagie in the 10 Probl.
+
+Problem 12.
+An angle and leg conterminate with it given, to find the other angle.
+
+In the right angled Spherical Triangle ABC.
+
+The angle comp. A the middle part is inquired.
+
+The given Angle comp. C The given Leg. BC
+Extremes disjunct.
+
+Anal. Rad. sine C cs BC. cos. A.
+
+Demonst. The triangles CFI and CHG have the same acute angle at the base,
+therefore by the first axiom^ Rad. FC. sine FI sine HC. sine HG, and the compl.
+of HC is the leg BC, and GD the measure of the angle at A is the complement of
+HG.
+
+Therefore,
+
+R. sine C cosine BC. cosine A.
+
+Problem 13.
+An angle and leg opposite thereunto being given, to find the other angle. If
+it be known whether it, the Hypotenuse or the other leg be acute or obtuse.
+
+In the right angled Spherical Triangle ABC.
+
+The ang. comp. C one of the extremes disjunct is inquired.
+
+The given Leg BC the other extreme disjunct. Angle, comp. A the middle part.
+
+Anal. cs BC. cs A Rad. sine C. by the analogy in the preceding Problem.
+
+Problem 14.
+The oblique angles given, to find either leg.
+
+In the right angled Spherical Triangle ABC.
+
+The leg BC one of the extremes disjunct is inquired.
+
+The given Angle, comp. C the other extr. disj. Angle, comp. A, the middle part.
+
+Anal. Sine C Rad cs A. cs BC. the inverse of that analogy in the last Problem.
+
+Problem 15.
+The legs given, to find the Hypotenuse.
+
+In the right angled Spherical Tri^gle ABC.
+
+The Hypotenuse comp. AC the middle part is inquired.
+
+The given legs AB BC
+Extreme disjunct.
+
+Anal. Rad. cs AB cs BC cs AC.
+
+Demonst. Tsie triangles HBD and HCG have the same acute angle at the base,
+therefore
+
+Rad. HB. sine BD sine CHAPTER s CG, But BA is the complement of BC, and BC the
+complement of CH, and CG the complement of AC.
+
+Therefore, Rad. cs AB cs BC. cs AC.
+
+Problem 16.
+The Hypotenuse and a leg given, to find the other leg.
+
+In the right angled Spherical Triangle ABC.
+
+The leg AB one of the extremes disjunct is inquired.
+
+The given Leg BC the other extreme dijunct. Hypot. comp. AC the middle part.
+
+Anal. cs BC. cs AC R. cs AB, by the analogy in the 15th Problem.
+
+CHAP. VII.
+Of Oblique angled Spherical Triangles.
+IN Oblique angled Spherical triangles, there are 12 Cases, 10 whereof may be
+resolved by the Catholic proposition, if the Spherical Triangle propounded be
+first converted into two Right, by letting fall of a perpendicular, sometimes
+within, sometimes without the triangle, if the angles at the base be both
+acute, or both obtuse, it falls within the triangle, but if one of the angles
+at the base be acute, and the other obtuse, it falls without, by the 25 of
+the 5th. chapter: however it falls it must be always opposite to a known
+angle, for your better direction, take this general Rule.
+
+From the end of a side given, being adjacent to an angle given, let fall the
+perpendicular,
+
+As in the triangle ABC, if there were given the side AB and the angle at A: by
+this rule the perpendicular must fall from B upon the side AC.
+
+But if there were given the side AC, and the angle at A, the perpendicular
+must fall from C upon the side AB continued if need req^ire.
+
+And to know whether the side upon which the perpendicular shall fall, must be
+continued or not, that is to know whether the perpendicular shall fall within
+or without the triang. If the former direction be not sufficient, the
+calculation will determine it, for if the arch found at the first operation
+(whether side or angle) be more then the arch given, the perpendicular shall
+fall without, if less, within the triangle, as shall plainly appear by our
+explanation of the ensuing Problemes.
+
+Problem 1.
+Two sides with an angle opposite to one of them being given, to find the angle
+opposite to the other. If it be known whether the angle sought be acute or
+obtuse.
+
+In the oblique angled Spherical triangle ABC.
+
+The angle BAC is inquired.
+
+The given Sides AB 42.15 BC 29.83
+
+
+The given Angle ACB 36. 14
+
+The Anal. s. BA. s. BC s. C. s A.
+
+
+
+For by the Catholic proposition.
+
+1 R. s AB s A. s BD. 2 R. s BC s C. s BD. Therefore, s AB. s BC s C. s A.
+Illustration by natural numbers.
+As the sine of AB 42.15 6710738 To the sine of BC 29.83 4974282 So is the fine
+of ACB 36.14 5897603 To the sine of BAC 25.92 4371552
+Illustration by artificial numbers.
+As the sine of AB 42.15 9.826770 To the sine of BC 29.83 9.696730 So the sine
+of ABC 36.14 9.770675 19.467405 To the sine of BAC 25.92 9.640635
+Problem 2
+Two angles with a side opposite to one of them being given, to find the side
+opposite to the other. If it be known whether the side sought be more or less
+then a quadrant.
+
+In the Oblique angled Spherical Triangle ABC.
+
+The side AB is inquired.
+
+The given Angles BAC ACB
+
+
+The given Side BC
+
+The Analogy is s A. s C s BC. s AB, by the last aforegoing.
+
+Problem 3.
+Two sides and their contained angle given, to find the third side.
+
+In the Oblique angled Spherical Triangle ACD, the side DC is inquired.
+
+The given Sides AD AC
+
+
+The given Angle DAC
+
+In this case the perpendicular may fall from the extremity of either side, but
+opposite to the angle given.
+
+
+
+The terms of proportion.
+
+1 ct AC. R cs DAC. t AB And AD - AB = BD in the 1 Triang. But AD + AB = BD in
+the 2 Triang. 2 cs AB. cs AC R. cs BC 3 R cs BC cs BD. cs DC
+Therefore
+
+cs AB. cs AC cs BD. cs DC.
+
+Problem 4.
+Two sides with an angle opposite to one of them, to find the third side. If it
+be known whether the side sought, or the angle opposite to the other given
+side, be acute or obtuse.
+
+In the Oblique angled Spherical Triangle ACD the side AD is inquired.
+
+The given Sides AC DC
+
+
+The given Angle ADC
+
+In this case let the perpendicular fall from the concourse of the given sides
+on the side inquired, continued if need be.
+
+The terms of proportion.
+
+1 ct CD. R cs ADC. t. BD. 2 cs BD. cs CD Res CB 3 cs CB. R ct AC. cs AB
+Therefore
+
+cs CD. cs BD cs AC. cs AB And BD + AB = AD in the 1 Triang. But BD - AB = AD
+in the 2 Triang.
+Problem 5.
+Two sides and their contained angle given to find one of the other angles.
+
+In the Oblique angled Spherical Triangle ACD, the angle ADC is inquired.
+
+The given Sides AC AD
+
+
+The given Angle CAD
+
+In this case the perpendicular may fall from the extremity of either side
+given opposite to the angle given.
+
+The terms of proportion.
+
+1. ct AC. R cs DAC. t AB. And AD - AB = BD in the 1 Triang. But AD + AB = BD
+in the 2 Traing. ct CAD. s AB R. t BC. t BC. R s BD. ct ADC
+Therefore,
+
+s AB. ct CAD s BD. ct ADC.
+
+Problem 6
+Two angles and a side opposite to one of them being given, to find the side
+between then. If it be known whether the side sought or the side opposite to
+the other given angle be acute or obtuse.
+
+In the Oblique angled Spherical Triangle ACD, the side AD is inquired.
+
+The given Ang. ADC CAD
+
+
+The given Side AC
+
+In this case let the perpendicular fall from the extremity of the given side
+on the side inquired, continued if need be.
+
+The terms of proportion.
+
+1 ct AC. R cs DAC. t AB. 2 ct CAD. s AB R t BC 3 R. t BC ct ADC. s BD.
+Therefore,
+
+ct CAD. s AB ct ADC. s BD. And AB + BD = AD in the 1 Triang. But DB - AB = AD
+in the 2 Triang.
+Problem 7.
+Two angles and a side opposite to one of them being given, to find the third
+angle. If it be known whether the angle inquired or the side opposite to the
+other given angle be acute or obtuse.
+
+In the Oblique angled Spherical Triangle ACD, angle ACD is inquired.
+
+The given Angles DAC ADC
+
+
+The given Side AC
+
+In this case let the perpendicular fal^ from the angle inquired.
+
+The terms of proportion.
+
+1 ct CAD. R cs AC. ct ACB 2 s ACB. cs CAB R. cs BC 3 cs BC. R cs BDC. s BCD
+Therefore.
+
+cs CAB. s ACB cs BDC. s BCD. And ACB + BCD = ACD in the first Triangle. But
+BCD - ACB = ACD in the second Triangle.
+
+Problem 8.
+Two angles and the side between them given, to find the third angle.
+
+In the Oblique angled Spherical Triangle ACD, the angle ADC is inquired.
+
+The given Angle ACD CAD
+
+
+The given Side AC
+
+In this case, let the perpendicular fall from the extremity of the given side,
+and opposite to the angle inquired.
+
+The terms of proportion.
+
+1 ct CAB. R cs AC. ct ACB. And ACD - ACB = BCD in the first Triangle.
+
+But ACD + ACB = BCD in the second Triangle.
+
+2 s ACB. cs CAB R. cs BC
+
+3 R. cs BC s BCD. cs CDB
+
+Therefore
+
+s ACB. cs CAB s BCD. cs CDB.
+
+Problem 9.
+Two sides with an angle opposite to one of them being given, to find their
+contained angle. If it be known whether the angle inquired or the angle
+opposite to the other given side be acute or obtuse.
+
+In the Oblique angled Spherical Triangle ACD, the angle ACD is inquired.
+
+The given Sides AC CD
+
+
+The given Angle ADC
+
+In this case, let the perpendicular fall from the angle inquired.
+
+The terms of proportion.
+
+1 ct CDB. R cs CD. ct BCD. 2 ct CD. cs BCD R. t BC 3 R. t BC ct AC. cs ACB
+Therefore
+
+ct CD. cs BCD ct AC. cs ACB. And BCD + ACB = ACD in the first Triangle.
+
+But BCD - ACB = ACD in the second Triangle.
+
+Problem 10.
+Two angles and the side between them given, to find either of the other sides.
+
+In the Oblique angled Spherical Triangle ACD, the side DC is inquired.
+
+The given Angles DAC ACD
+
+
+The given Side AC
+
+In this case, let the perpendicular fall from the concourse of the side given
+and sought, on the third side continued if need be.
+
+The terms of proportion.
+
+1 ct CAB. R cs AC. ct ACB. And ACD - ACB = BCD in the first Triangle.
+
+But ACD + ACB = BCD in the second Triangle.
+
+2 ct AC. cs ACB R. t BC
+
+3 t B C.R cs BCD. ct CD
+
+Therefore
+
+cs BCA. ct AC cs BCD. ct CD.
+
+Problem 11.
+Three sides being given to find an angle.
+
+To resolve this Problem there must be some preparation made, for that the
+Catholic proposition is not of it self sufficient either for this or for the
+ensuing Problem. And therefore the Lord Nepier to bring these Problems within
+some compass of the Catholic Proposition, first, finds the difference of the
+segments of that side, which being made the base of the Triangle is divided
+into two parts by letting fall a perpendicular, and that by help of this
+Analogy, which we have demonstrated in the second Book of our Trigonemotria
+Britannica, chap. 2.
+
+As the tangent of half the base.
+
+Is to the tangent of half the sum of the other sides.
+
+So is the tangent of half the difference of those sides.
+
+To the tangent of half the difference of the segments of the base.
+
+In the Oblique angled spherical Triangle ACD, the angle CAD is inquired.
+
+The given Sides AC CD
+
+
+The given Base AD
+
+
+
+The terms of proportion.
+
+t AD. t Z cru. AC. CD t X cr. t AE
+
+And AD + AE = AB AD - AE = BD
+
+In the first Triangle.
+
+AE + AD = AB AE - AD = BE or BD.
+
+In the second Triangle.
+
+Hence to find the angle at A.
+
+R. ct AC t AB. cs CAB.
+
+Problem 12.
+The three angles being given, to find a side.
+
+This Problem is the converse of the last aforegoing, and to be resolved after
+the same manner, if so be we convert the angles into sides: for the two less
+angles are always equal unto two sides of a Triangle comprehended by the
+arches of great circles drawn from there Poles, and the complement of the
+greatest angle to a semicircle must be taken for the third side. If in this
+triangle therefore thus connected, you shall by the preceding Problem find an
+angle, that angle so found shall be one of the three sides inquired.
+
+As the Triangle ACD the poles of those arches are H. R and Q, which connected
+make the Triangle HRQ, the sides of the former Triangle being equal to the
+angles of the latter, taking for one of them, the complement of the greater
+angle to a Semicircle: as AD is equal to the angle at H, or the arch EN.
+
+DC is equal to the angle at Q, or the arch MF.
+
+
+
+And AC is equal to the complement of the angle HRQ, or the arch GL. Therefore
+if the angles, A, D, C, be given, the sides QR. QH. RH are likewise given.
+
+If therefore we resolve the triangle HRQ by the directions of the last
+Problem, the angle so found, shall be the side inquired.
+
+CHAP. VIII.
+Of the Solution of Oblique angled Spherical Triangles without letting fall a
+perpendicular.
+HItherto we have explained the Catholic or Universal Proposition, and showed
+how serviceable it is, or may be made in Oblique angled spherical Triangles, as
+well as right; and now for variety sake we will show how all the case in an
+Oblique angled spherical Triangle may be resolved without letting fall a
+perpendicular, and that by help of these Propositons following.
+
+Propos. 1.
+In any spherical Triangle: the sines of the angles are proportional to the
+sines of their opposite sides, and the contrary.
+
+This we have demonstrated from the Catholic Proposition, in the first Problem
+of the last chapter.
+
+Propos. 2.
+In all Oblique angled Triangles whose sides together are less then a
+semicircle.
+
+As the sine of half the sum of the angles at the base,
+
+Is to the sine of the half difference of those angles,
+
+So is the tangent of half the base,
+
+To the tangent of half the difference of the sides.
+
+And also:
+
+As the cosine cf the sum of the angles at the base
+
+Is to the cosine of the half difference of the same angles,
+
+So is the tangent of half the base:
+
+To the tangent of the half sum of the sides.
+
+This you may see demonstrated in the 2 chapter of Spherical triangles in our
+Trigonometria Britannica.
+
+Propos. 3.
+In all spherical Triangles: As the difference of the versed sines of the sum
+and difference of any two sides (including an angle) is to the Diameter: So is
+the difference between the versed sine of the third side, and the versed fine
+of the difference of the other two sides, to the versed sine of the angle
+comprehended of the said two sides.
+
+Let the sides of the Triangle APS be known, and let the vertical angle be SAP,
+then shall AS the one side be equal to AR, and PR = Z cru. and PB the versed
+sine of PR, and PC is the difference of the sides AS and AP, and the versed
+sine of PC is PM, now then MB is the difference between BP the versed sine of
+PR the sum of the sides, and PM the versed sine of PC the difference of the
+sides.
+
+MH is the difference between PH the versed sine of PS, and PM the versed sine
+of PC the difference of the sides, QV is the diameter and OV the versed sine of
+PAS the angle sought: and the right lines NC. KL. and RG being parallel by the
+work, their intersegments MB and RC, MH and SC are proportional by the 14 of
+the second chapter. MB. MH RC. SC RC. SC QV. OV
+
+
+Therefore, MB. MH QV. OV. as was to be proved.
+
+Or thus, MB. MH QV. OV.
+
+Propos. 4.
+In all spherical Triangles: As the Rectangle of the sines of the sides
+containing the angle inquired, is to the square of Radius: So is the difference
+between the versed sine of the base and the versed sine of the difference of
+the other two sides, to the versed sine of the angle sought.
+
+Let the sides of the Triangle AEK be given and let the angle at A be inquired,
+and from O let fall the perpendicular OB, now then OE being the difference of
+the sides AE and AK =AO the right line OQ is the right sine thereof, and EQ the
+versed sine, in like manner, SM is the right sine, and EM the versed sine of
+ES, that is. of the base EK, and MQ or OB is the difference of those versed
+sines, OK is the versed sine of the angle OAK in the measure of the parallel
+OF, and DX is the versed sine of the same angle in the measure of a great
+Circle, whose Diameter is DH, now then because of their like arches it shall be
+DC. DX LO. OK and because NE and OK are parallel, as* also EC and OB, the angle
+BOK and CEN are equal, and the Triangles ECN, OKB like, and therefore the sides
+NE. EC. OB = MQ and OK. are proportional, and LO. DC OK DX It will NE EC OB. OK
+be also. LO x NE. DC x EC OK x OBDX x OK.
+
+Or rejecting the comm. altitude OK, it will be LO x NE. DC x EC OB. DX* the
+versed sine of the angle sought as was to be proved.
+
+Propos. 5.
+In all Spherical Triangles: As the Rectangle of the sines of the sides
+containing the angle inquired.
+
+Is to the square of Radius,
+
+So is the Rectangle of the sines of the half sum and half difference of the
+base, and difference of the legs.
+
+To the Rectangle made of Rad. and half the versed sine of the angle inquired.
+
+We have already proved, by the last afore-going.
+
+LO x NE. DC x AC OB. DX.
+
+And therefore also
+
+LO x NE. Rad. q OB. DX.
+
+And in the following Diag. OEGH the sum of ES and OE is the double measure of
+the angle BSO, the arch OS is the difference between the base ES and EO, the
+difference of the ^ides AK and AE, and R. OS OH. OB, OS and OH = OB x R.
+
+
+
+Therefore,
+
+LO x NE. Rq OB x R. DX x R
+
+And also,
+
+LO x NE. Rq OS x OH DX x R which was to be proved.
+
+Propos. 6
+In all Spherical Triangles: As the Rectangle of the sines of the sides
+containing the angle inquired.
+
+Is to the square of Radius,
+
+So is the Rectangle of the sines of the half sum and half difference of the
+base, and difference of the legs.
+
+To the square of the sine of half the angle inquired.
+
+We have already proved, by the last aforegoing.
+
+LO x NE. Rq OS x OH. DX x R.
+
+But the Rectangle made of Rad. and half the versed sine of an arch, is equal
+to the square of the sine of half the arch, as in the former figure, let the
+arch given be DT, then is DX the versed sine of that arch, and DF the right
+sine of half the arch, and the Triangles DFR and DTX are like.
+
+Therefore,
+
+DR. DF DT (= DF.) DX and DR x DX = DFq
+
+Therefore,
+
+LO x NA. Rq OS x OH.D Fq as was to be proved.
+
+Problem 1.
+Two sides with an angle opposite to one of them being given, to find the angle
+opposite to the other.
+
+In the Oblique angled Spherical Triangle ABC, the angle BAC is inquired,
+
+The given Sides AB BC
+
+
+The given Angle ACB
+
+The Anal. s BA. s BC s C. s A. by the first Prop.
+
+Problem 2.
+Two angles with a side opposite to one of them being given, to find the side
+opposite to the other.
+
+In the Oblique angled Spherical Triangle ABC, the side AB is inquired.
+
+The given Angles BAC ACB
+
+
+The given Side BC
+
+The Anal s A. s C s BC. s AB by the first Prop.
+
+Problem 3.
+Two sides and their contained angle being given to find the other angles.
+
+In the Oblique angled Spherical Triangle ABC.
+
+The angles BAC ACB
+are inquired.
+
+The given Sides AB BC
+
+
+The given Angle ABC
+
+1 Operation.
+s Z crur. s X crur. ct B. t X ang. A and C.
+
+2 Operation.
+cs Z crur. cs X crur. ct B t Z ang. A and C, by the second Proposition of this
+chapter. Z ang. + X ang.=ACB, Z ang.- X ang.=BAC.
+
+Problem 4.
+Two angles and their contained side being given to find the other sides.
+
+In the Oblique angled Spherical Triangle ABC.
+
+The sides AB BC
+are inquired.
+
+The given Angles BAC ACB
+
+
+The given Side AC
+
+1 Operation.
+s Z ang. s X ang. t AC. t X crur. AB and BC.
+
+2 Operation.
+cs Z ang. cs X ang. t AC. t Z cr. AB and BC. by the second Proposition of this
+chapter. Z crur. + X crur.=AB. Z crur.- X crur.=BC.
+
+Problem 5
+Two sides with an angle opposite to one of them to find the third side.
+
+In the Oblique angled Spherical Triangle ABC, the side AC is inquired.
+
+The given Sides AB BC
+
+
+The given Angle ACB
+
+1 Operation.
+s AB. s BC s C. s A. by the first Proposition.
+
+2 Operation.
+s X ang. A and C. s Z ang. t X crur. t AC.
+
+By the first operation of the last probl. And AC being doubled, gives the
+side AC inquired.
+
+Problem 6.
+Two angles with a side opposite to one of them being given, to find the third
+angle.
+
+In the Oblique angled Spherical triangle ABC, the angle ABC is inquired.
+
+The given Angles BAC ACB
+
+
+The given Side AB
+
+1 Operation.
+s C. s A s AB. s BC. by the first Proposition.
+
+2 Operation.
+s X crur. s Z crur. t X ang. A and C. ct ABC. by the 1 oper. of the third
+probl.
+
+And the double of ABC is the angle ABC inquired.
+
+Problem 7.
+Two angles and a side opposite to one of them being given, to find the side
+between them.
+
+In the oblique angled Spherical Triangle ABC, the side AC is inquired.
+
+The given Angles BAC ACB
+
+
+The given Side AB
+
+1 Operation.
+s C. s A s AB. s BC. by the first proposition.
+
+2 Operation.
+s X ang. s Z ang. t X crur. t AC. By the 1 oper. of the 4 Problem.
+
+And the double of AC, is the side AC inquired.
+
+Problem 8.
+Two sides and an angle opposite to one of them being given, to find their
+contained angle.
+
+In the Oblique angled Spherical Triangle ABC, the angle CBA is inquired.
+
+The given Sides AB BC
+
+
+The given Angle ACB
+
+1 Operation.
+s AB. s BC s C. s A. by the 1 Prop.
+
+2 Operation.
+s X crur. s Z crur. t X ang. ct ABC,
+by the 1 oper. of the 3 Probl.
+
+And the double of ABC, is the angle ABC inquired.
+
+Problem 9.
+Two sides and their contained angle given, to find the third side.
+
+In the Oblique angled Spherical Triangle ABC, the side AC is inquired.
+
+The given Sides AB BC
+
+
+The given Angle ABC
+
+First, find the other angles by the third Probl. Then you may find the third
+side by the 1 Prop.
+
+Or thus*
+
+Radq. s AB x s BC s q ABC. X us AC and us X crur. by the 4 and 6 Prop of this
+chap.
+
+And the versed sine X cr. + X us AC and us X cr. = us AC.
+
+Problem 10.
+Two angles and the side between them given. to find the third angle.
+
+This Problem is the converse of the last, and to be resolved in the same
+manner, either at 3 operations, finding first the other two sides by the 4th
+Probl. and then the third angle, by the 1 Propos.
+
+Or, else by the 4 and 6 Propositions of this chap. the angles being first
+converted into sides, and their contained side into an angle as has been
+showed in the 12 Probl. of the last chap.
+
+Problem 11.
+Three sies being given, to find an angle.
+
+In the Oblique angled Spherical Triangle ABC, the angle CBA is inquired.
+
+The sides AB. BC. and AC being given.
+
+Analogy, s AB x s BC. Radq. s ZAC and X cru. x s XAC and X cru. sq B. by the
+6 Propos.
+
+Problem 12.
+Three angles being given, to find a side.
+
+This is the converse of the last, and to be resolved after the same manner,
+the angles being first converted into sides, (as has been already showed in
+the 12 Probl: of the last chapt.) for then the angle so found, shall be the
+side inquired.
+
+FINIS.
+

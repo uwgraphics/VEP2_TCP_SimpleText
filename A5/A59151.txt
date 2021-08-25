@@ -1,0 +1,3633 @@
+man lighting a cannon, parts labelled The Sea Gunner Published By John Seller
+a Cascable deck b Base Ring c Touchole d The Chamber e Reinfourd Ring f
+Trunions g Cornish Ring h Trunion Ring
+
+
+
+
+THE Sea-Gunner: Showing the PRACTICAL PART OF GUNNERY, As it is used at SEA.
+AND, As an Introduction thereto, there is Exhibited two Compendiums, one of
+Vulgar, the other of Decimal ARITHMETIC, With necessary Tables relating to
+that ART. To which is added An APPENDIX, Showing the Use of a Proportional
+Scale, for the ready working of any Question in Gunnery. And the Use of the
+Sea-Gunners Rule, of an excellent Contrivance; containing an Epitome of the Art
+of Gunnery in it self.
+
+Composed by (...) S^^^^R, Senior.
+
+LONDON: Printed by H. Clerk for the Author, and are to sold by him at the
+Hermitage in Wapping, 1691.
+
+THE PREFACE TO THE READER.
+Courteous Reader,
+HAving observed for several Years, that there has been a great want of a
+Piece of Sea-Gunnery, that has been principally adapted for Sea-Service, in a
+Treatise by it self; (for those Books that were Extant, were chiefly intended
+for Land Service;) and at this time most of them being out of Print, I judged
+this a fit opportunity for the publishing this small Treatise, hoping it will
+be gratefully accepted by our Sea-Gunners.
+
+And in regard that those who would be Students in that Art, ought (in some
+competent measure) to be acquainted with Arithmetic; for the sake of such, I
+have exhibited two Compendiums thereof, one in Vulgar, and the other in Decimal
+Arithmetic, as a necessary preparation for the working those Questions that
+are incident to that Art.
+
+And for the ease of such as are not fully acquainted therewith, I have
+furnished them with a Proportional Scale, whereby they may perform all the
+Operations that are useful in Gunnery; as also, to extract the Square and
+Cube-Roots, and how to perform the same by Logarithms, and by Gunter's-Scale.
+
+To which I have added several necessary Tables useful in Gunnery, with proper
+Questions and their Answers, and useful Observations and Instructions,
+
+And for the better accomplishing the Design of this Book, I have consulted
+with the best approved Authors, that have written on this Subject.
+
+Also at the end of this Treatise, I have presented you with a small Tract as
+an Appendix, particularly of the use of the Proportional Scale; and of the use
+of a Rule of a new contrivance, fit for the Pocket, that has upon it, an
+Epitome of the Practical part of Gunnery in it self, which I call the
+Sea-Gunner's Rule: All which I submit to the favorable construction of the
+Judicious,
+
+And rest your Friend to serve you, John Seller.
+
+A TABLE Of the Principal Matters contained in this Book.
+CHAP. I. Of Vulgar Arithmetic, Page 1 Of Notation of Numbers, ibid.
+Numeration and Addition, 3 Subtraction, 5 Multiplication, 7 Division, 15 The
+Rule of Three Direct, 19 The Rule of Three Reverse, 22 Double Rule of Three 23
+CHAP. II. Of Decimal Arithmetic, 28 Notations of Fractions, ibid. Addition of
+Decimals, 33 Subtraction of Decimals, 34 Multiplication of Decimals, 35
+Division of Decimals, 37 A Decimal Table of Pence and Farthings, 46 A Table of
+Decimals of one pound Sterling, 48 A Table of the Decimals of an English Foot
+to every Inch and eight parts of an Inch, 49
+CHAP. III. The Extraction of the Square-Root by Arithmetic, 52 To extract the
+Sqaure-Root by Logarithms and Gunter's-Scale. 56 To extract the Cube-Root by
+Arithmetic, 57 To prepare a Cube Number for extraction, 59 To extract the
+Cube-Root by the Logarithms, 63 To extract the Cube-Root by Gunter's-Scale, 64
+A Table of Square-Roots, 65 A Table of Cubick-Roots, 66 To make the Tables of
+Square and Cube-Roots, 67 A Table of Logarithms, 8 A Description and use of the
+Table of Logarithms, 82 Multiplication by Logarithms, 86 Division by
+Logarithms. 87 Of a Circle, 88 1. The Diameter being given, to find the
+Circumference by the Logarithms, ibid. 2. The Circumference being given, to
+find the Diameter, 89 3. The Diameter of a Circle being given, to find the Area
+or Superficial Content thereof, 90 4 The Circumference being given, to find the
+Area, 91
+CHAP. IV. Containing Geometrical Rudiments useful in the Art of Gunnery, 93 To
+raise a Perpendicular from the middle of a Line given, ibid. To let a
+Perpendicular fall from a point assigned to the middle of a Line given, 94 To
+raise a Perpendicular upon the end of a Line given, 95 To let fall a
+Perpendicular from a point assigned unto the end of a Line given, 96 To draw a
+Line parrallel to a Line given, 97 A Geometrical way to find the Diameter of a
+Bullet that weighs twice as much as a known Bullet, 98 The weight of a Shot
+given, to find the Diameter Geometrically, 100
+Chap. V. Geometrical Theorems and Problems, 102 Arithmetical Problems
+appertaining to the Art of Gunnery, and wrought by Decimal Arithmetic, by
+Logarithms and Gunter 's Scale. Prob. 1. The Diameter of a Circle being, given
+to find the Circumference, ibid. Prob. 2. The Circumference of a Circle being
+given, to find the Diameter, 105 Prob. 3. The Diameter of a Circle being given,
+to find the side of a Square equal to it, 107 Prob. 4. The Circumference of a
+Circle being given, to find the side of a Square equal in Content to that
+Circle, 108 Prob. 5. The Diameter of any Spherical body being known, to find
+the Circumference, 109 Prob. 6. The Circumference of any Spherical body being
+known, to find the Diameter, 110 Prob. 7. The Diameter and Circumference of any
+Spherical body being known, to find the Superficial Content, 111 Prob. 8. The
+Axis or Diameter of a Globical body being known, to find the solid Content, 112
+Prob. 9. The Diameter of a Bullet being given with the weight, to find the
+weight of another Bullet of the same Metal, but of another Diameter, either
+greater or lesser, 113 Prob. 10. Having the weight of a Bullet of one kind of
+Metal, to find the weight of a Bullet of another kind of Metal, being equal in
+Magnitude, 116 Prob. 11. A Bullet of Iron that weighteth seventy two Pound,
+what will a Bullet of Lead weigh that is equal to it in bigness, 118 Prob. 12.
+The Diameter and Weight of any one Cylender of a Piece of great Ordnance taken
+at the base Ring being known, to find the weight of any other Piece of the same
+Metal and shape, either greater or lesser, its Diameter being only known, 119
+Prob. 13. Having the Diameter and Weight of any Piece of great Ordnance, to
+find the Weight of another Piece of Ordnance of another (...), that is of the
+same sha^^. 121 ^^ob. 14. To find the Sup^^fi^^l Content of the Unequal face of
+any Piece of Ordnance, and also the solid Content of the Concavity thereof, 123
+Prob. 15. To know how much of every kind of Metal is contained in any Brass
+Piece of Ordnance, 126 Prob. 16. By knowing what quantity of Powder will load
+some one Piece of Ordnance, to find how much of the same Powder will load any
+other Piece of Ordnance greater or lesser, 130 A Table of the Weight of Iron
+shot in Pounds and Ounces, from one Inch Diameter to ten Inches to every eighth
+part of an Inch, 132 A Table showing the Height and Weight of Iron, Lead and
+Stone Shot, according to their Diameters in Inches and Quarters, 134
+CHAP. VI. Of the different Fortifications of most Pieces of Ordnance, 142
+CHAP. VII. How much Powder is fit for Proof, and what for Action, for any Piece
+of Ordnance. To make Ladles to load your Guns with, 145
+CHAP. VIII. To know what Bullet is fit to be used for any Gun, 147 To make
+Cartridges, Moulds and Formers for any sort of Ordnance, 148
+CHAP. IX. Containing certain Theorems in Gunnery, 150 A Table of Right Ranges,
+or point blanck at several degrees of Mounture, 156
+CHAP. X. Necessary Instructions for a Gunner, 157 CHAP. XI. Showing an easy
+way to dispart a Piece of Ordnance. 164 CHAP. XII. To level a Piece of Ordnance
+to shoot point blank, 166 CHAP. XIII. How to search a Piece of Ordnance, and to
+discover whether there be any Flaws, Cracks or Honey Combs in any Piece, 168
+CHAP. XIV. How Moulds, Formers and Cartridges are to be made for any sort of
+Ordnance, 170 CHAP. XV. How much Rope will make Breechings, and Tackles for any
+Piece, 172 CHAP. XVI. How to know what Diameter every shot must be of, to fit
+any Piece of Ordnance, 174 To tertiate a Piece of Ordnance, 175 How to make a
+Shot out of one Ship into another, in any weather whatsoever 181 In what order
+to place your great Guns in Ships, 183
+CHAP. XVII. Several things necessary to be known by a Gunner, but especially
+of Powder, 188 To know good Powder, 189 To preserve Powder from decaying, 190
+To find the experimental weight of Powder (Tower proof) that is found
+convenient for Service, to be used in Guns of several fortifications or
+thickness, and by consequence strength of metal, 191 To know whether the
+Trunions of any Gun are placed right, 192 The Practical way of making
+Gunpowder, 193 To renew and make good again any sort of Gunpowder, having
+lost its strength by moisture, long-lying, or by any other means, 195
+CHAP. XVIII. How to make Hand-Granadoes to be hove by hand, 196 CHAP. XIX. How
+to make fine Pots of Clay, 197 How to make Powder-Chests and Stink-Balls, 198
+CHAP. XX. The Properties, Office, and Duty of a Sea-Gunner, 199
+In the Appendix.
+CHAP. I. A Description of the Proportional Scale, and its use in the Art of
+Gunnery, Page 1 Numeration on the Lines, 2 Prop. 1. A whole number consisting
+of two, three or four places being given, to find the place on the Scale
+representing the same, ibid. Prop. 2. Having two Numbers given, to find as many
+more as you please, which shall be in continual proportion one to another, as
+the two Numbers were, 4
+CHAP. II. Multiplication upon the Proportional Scale, 6 CHAP. III. Division by
+the Proportional Scale 8 CHAP. IV. The Golden Rule Direct by the Proportional
+Scale, 10 CHAP. V. The Golden Rule Reverse by the Proportional Scale, 13 CHAP.
+VI. Of Duplicate proportion by the Proportional Scale, 15 CHAP. VII. To extract
+the Square Root by the Proportional Scale by Inspection, 17 CHAP. VIII. To
+extract the Cube Root upon the Proportional Scale, by Inspection, 19 CHAP. IX.
+Cubical Proportion by the Proportional Scale, 20 CHAP. X. Of the Mensuration of
+diverse Regular Superficial Figures, 21 CHAP. XI. Of Spherical Bodies, such as
+Globes or Bullets, 23 A Description of the Sea-Gunners Rule, being the Epitome
+of the Art of Gunnery, from p. 25 to the end.
+THE Sea-Gunner.
+A COMPENDIUM OF Vulgar Arithmetic. CHAP. I.
+ARITHMETIC is the Science of Numbering, and Resolving all Questions of
+Numbers, Rational or Irrational.
+
+Notation of Numbers.
+1. Notation of Numbers, is the Description and Explication of any Number by
+Figures or Notes, whereof there are ten, and no more.
+
+One two three four five six seven eight nine ten.
+1 2 3 4 5 6 7 8 9 10
+Notation of Numbers, consists of Names, Values, Degrees, or Places and
+Periods.
+
+As 1. Numbers are named, Unites, Thousands, Millions, etc.
+
+2. Their Values is reckoned from the Right Hand.
+
+3. Their Degrees or Places, are ten-fold, etc.
+
+4. Their Periods, are Unites, Tens, Hundreds, which are Illustrated in the
+following Table.
+
+A Table of Notations.
+Names Millions Thousands Unites. Value CXI CXI CXI Degrees or Places 987 654
+321 Periods 3 2 1 Integers. 999 999 999 888 888 888 777 777 777 666 666 666 555
+555 555 444 444 444 333 333 333 222 222 222 111 111 111
+
+RVLE.
+Begin at the Right Hand and go backward, and say, 9 in the first place is 9. 9
+in the the second place is 90. 9 in the third place is 900. 9 in the fourth
+place, is 9000, Nine Thousand; 9 in the fifth place, is 90000, Ninety Thousand;
+and so on; observing the Names above, their Values, Places and Periods.
+
+NVMERATION.
+NVmeration is the first part of Arthmetick, and serves to express the value
+of any Number given; The Integers of Numbers, are the nine Figures and the
+Cipher, and begin to number them at the Right Hand, to the Left, increasing
+each Figure ten-times as before.
+
+ADDITION.
+ADition is the gathering of two, or more Numbers into one Sum, and has two
+general Cases.
+
+CASE I. In Addition of Tens, Hundreds, Thousands, etc.
+
+RVLE. Draw a line under the Numbers given, begin at the Right Hand, and first
+place; add up the Unites, carry the Tens to the next place, and let the
+remaining Works below; so do all along as you go backward, and in the last
+place, set down all that you have added, with that which you carry.
+
+Example.
+Years From the Creation of the World to Noah*s Flood, 1656 From Noah's Flood,
+to the giving of the Law, 0875 From the Law, to the Birth of our Savior, 15^8
+From the Birth of Christ, to the Year 1690 5729
+
+In Addition of Integers and Parts.
+RVLE. Draw a Line under the Numbers given, and begin as before, at the least
+Denomination; add up right, and set the particular Sums of the several rows,
+under every one, (in their proper place) according to their respective value,
+whether it be in Number, Weight, or Measure.
+
+Example.
+There are several Men owe a Merchant several Sums of Monev; it is required to
+know the Sum of those Debts.
+
+l. s. d. One Man owes, 230 17 02 Another owes, 110 16 04 Another, 074 10 09
+Another, 979 08 11 The Total Debt is 1395 13 02
+
+SVBTRACTION.
+SVbtraction is the taking a lesser Number from a greater, or an Equal from an
+Equal.
+
+What remains, is the Residue, or Excess, and bath two Cases.
+
+CASE I. In Subtraction of Tens, Hundreds, Thousands, from Tens, Husdreds,
+Thousands, etc.
+
+RVLE. Set the greater Number above the lesser, and draw a line under them.
+Then begin at the Right Hand, and take the lesser from the greater, or Equals
+from Equals, and set the Differenee or Residue, under every one, in their due
+place.
+
+Example.
+l. A Man owes to a Merchant 9758 And he has paid of that Debt, 3514 There
+Remains due, 6244
+
+CASE II. When some of the inferior Numbers are greater than the superior
+Numbers.
+
+RVLE. Set your Numbers in order as before; draw a line under them, and begin
+at the Right Hand; and according to the Numbers respective value, borrow one of
+the next to the Left Hand above, out of which Subtract, what remains add to the
+superior, and set their Sum under the line; then what you borrow, pay to the
+next Number on the Left Hand below, and so proceed throughout the work,
+according to this or the former Rule.
+
+l. s. d. As from 529 13 4 Take 347 16 7 Rests, 171 16 9
+
+Proof. Add the two inferiors; their Sum is equal to the superior.
+
+MVLTIPLICATION.
+MVltiplication serves to perform that at once which Addition does at many
+times.
+
+And to multiply readily, it is necessary that the ensuing Table should be
+perfectly learned.
+
+Pythagora's Table.
+1 2 3 4 5 6 7 8 9 2 4 6 8 10 12 14 16 18 3 6 9 12 15 18 21 24 27 4 8 12 16 20
+24 28 32 36 5 10 15 20 25 30 35 40 45 6 12 18 24 30 36 42 48 54 7 14 21 28 35
+42 49 56 63 8 16 24 32 40 48 56 64 72 9 18 27 36 45 54 63 72 81
+
+The Use of this Table is to muliply any Number in the outer Column to the left
+hand; by any Figure at the top, and in the common Angle of meeting, is the
+Answer to the Question; as 7 times 9, you will find to be 63.
+
+In Multiplication, Note, that the uppermost Number is always the Multplicand,
+and the lower the Multiplier; and the Figures which remain when the Work is
+done, is called the Product.
+
+Multiplication may be divided into six Cases.
+
+CASE I. If the Multiplicand have dovers Figures, and the Multiplier but one;
+Rule.
+Draw the Multiplier into the first Figure of the Multiplicand, and subscribe
+the Units of the Product, but carry the Tens to the next place; then draw the
+Multiplier into the second Figure of the Multplicand, and add the Tens you
+carried to the Units of that Product, subscribe the Units of their Sam, and
+carry the Tens to the third place; accordingly proceed to the end of the work.
+As, if 5436 is to be mutiplied by 6, according to the following Example.
+
+5436, Multiplicand. 6, Multiplier. 32616, Product.
+
+CASE II. If the Multiplicand and the Multiplier have each of them more than
+one Figure;
+Rule.
+For the first Figure, do as before; and having drawn the second Figure of the
+Multiplier into the first Figure of the Multiplicand, (...) the Units of the
+Product under that second Figure of the Multiplier, and carry the Tens, setting
+all the rest of the Multiplication as by the former Rule; and this directs,
+making so many particular Rows of Products as you Figures in your Multiplier;
+at last add them together for a total Product.
+
+Example.
+
+4532, Multiplicand. 32, Multiplier. 9064, Particular 13596, Products. 145024,
+Total Product.
+
+CASE III. If Ciphers are in the Multiplicand and Multiplier, or either of them;
+Rule.
+Set down to the right hand of the first Product as many Ciphers as are in the
+Multiplicand and Multiplier, so that the first Unit of the Product of the first
+Multiplier may stand under the first Figure of the Multiplicand, and work the
+rest according to the other Rule.
+
+Example.
+
+As, ^
+
+CASE IV. If a Cipher or Ciphers be in the middle of the Multiplicand;
+Rule.
+Work according to the former Rules till you come to the Ciphers, then under
+the first o, subscribe the Tens you carried; but under the rest of the Ciphers
+set Ciphers, except under the last, where subscribe the Units remaining of the
+Product of the next Figure of the Multiplier drawn into the Multiplicand; the
+rest is according to the other Rules.
+
+Example,
+
+As, ^
+
+CASE V. If a Cipher or Ciphers be in the middle of the Multiplier;
+Rule.
+Multiply as before is taught, until you come to the Ciphers in the Multiplier,
+which subscribe in order before the particular product of the next Multipler,
+drawn into the Multiplicand; then set the Units of its Product under that
+Multiplier, and observe the other Rules for the rest.
+
+As, ^
+
+CASE VI. If Ciphers be both in the middle of the Multiplicand, and also in the
+Multiplier;
+Rule.
+When you come to the Ciphers in the Multiplicand, then under the first Ciphers
+place, set the Tens you carried (if any be) and after that, as many Ciphers as
+are in the Multiplier (no Figure intervening) then multiply into the next
+Figure of the Multiplicand, subscribe the Units of the Product, and carry the
+Tens in the same Row, and so do in every Row of the particular Products,
+according as this or some of the other Rules require.
+
+Example.
+
+^
+
+You may abbreviate Multiplication by the help of Subtraction; especially when
+to be multiplied by 5, or 9; As,
+
+CASE I. To multiply any Number by 5.
+Rule.
+Subtract half the Number, and to it add a Cipher.
+
+Example.
+
+As, 45276 Product 226380
+
+being to be multiplied by 5, halve the Number, and add a Cipher at the latter
+end, and the Work is done.
+
+CASE II. To multiply any Number by 9.
+Rule.
+Add a Cipher to the Number given to be multiplied by 9, and subtract the first
+Number out of it, and the Remainer is the Product or Answer of the Question.
+
+Example.
+
+Let the Number be 6789, to which add o Cipher, and the Number is thus, 67890;
+out of which subtract the first Number, and the Remainder is 61101, the Product
+or Answer of the Question.
+
+DIVISION.
+DIvision serves to divide any Number into as many parts as you please, and
+consists of three Numbers, the Divisor, the Dividend, and the Quotient; for
+see how often the Divisor is contained in the Dividend, so many Figures it
+produces in the Quotient; or see how often 1 is contained in the Divisor, so
+many times the Quotient is contained in the Dividend, which is all one.
+
+If you were to divide 888 pound amongst 4 men, the Question is, what each man
+must have? Order your Work as in this Example.
+
+^
+
+The first demand is, how many times 4 can you have in 8? The answer is 2,
+which 2 place in the Quotient; then multiply the 2 in the Quotient by 4, (the
+Divisor) and that makes 8; place 8, under the 8 on the lest Figure of the
+Dividend, and draw a line under it, and subtract 8 from 8, and there remains o.
+Then take down the next 8, and demand how many times the Divisor is contained
+in the Dividend (8) which is 2 times; set that 2 in the Quotient, and multiply
+the Divisor 4 by that 2, which makes 8; set that 8 under the second Figure of
+the Dividend, and draw a line as before, and subtract it from the 8 in the
+Dividend, and there remains 0. Proceed in the same manner as you have done with
+the rest, and you will find 222 in the Quotient, and 0 remains of the Work; so
+that you see, according to the former Proposition, that 4 the Divisor is
+contained in 888 (the Dividend) 222 times; and the Quotient is contained in the
+Dividend, as often as 1 is contained in the Divisor, which is 4 times: So that
+it appears by the Work, that 888 Pounds being divided between 4 Men, there is
+222 Pounds comes to each Man's share.
+
+If 28770 Pounds is to be Divided amongst 84 Men; the Question is, what each
+man must have?
+
+Note that Men is the Divisor, Money the Dividend, and Quotient is the Answer.
+
+^
+
+For the first work, say how many times 84 can you have in 28? which cannot be;
+therefore you must find the Divisor in 287, over which last figure always place
+a Prick, as in the Example: Then say how many times 8 (the first figure in the
+Divisor) is there in 28, the two first Figures in the Dividend, which is 3
+times; which 3 place in the Quotient, and multiply the Quotient by the Divisor,
+and it makes 252; which place under the pricked Number, and Subtract it from
+287, and there will remain 35: then draw down the next Figure 7, which makes
+357, and say, how many times 8 can you have in 35? which is 4 times; place 4 in
+the Quotient; then multiply 4 the Quotient by 48 the Divisor, makes 336, which
+place under 357, (as in the work;) then draw a line and subtract, and there
+rests 21; then take down 0 to the Remainder 21, makes 210; then say, how many
+times 8 can you have in 21? the Answer is 2; which 2 place in the Quotient,
+then multiply the 2 by the Divisor, makes 168, which place under 210, as in the
+Example; then draw a line and subtract it, and there rests 42.
+
+So that it appears, that if 28770 Pounds is to be divided amongst 84 men, that
+there is 342 Pounds comes to each man's share, and 41/4^ of a Pound more.
+
+Now to know what part of a Pound this or any other Fraction is, after the
+Remainder of any Division; Observe this Rule.
+
+Multiply the Remainder 42 by 20, to bring it into Shillings; then divide it by
+48, the Divisor and the Quotient will answer the Question, which in this
+Example, is 10 Shillings more to each man's share, as appears by the work.
+
+^
+
+The Rule of Three Direct.
+IT is called the Rule of Three, because in all Questions in this Rule, you
+have always three Terms given to find a fourth.
+
+It is called the Rule of Proportion for this reason; see what proportion is
+between the first Term and the second, the same proportion is between the third
+Term and the fourth.
+
+It is called the Golden Rule for the Excellency in its Operations.
+
+It is known by At and How It is known by If and What It is known by As and So
+To work this Rule, you must multiply the second Term by the Third, for the
+Dividend; and divide the Product by the first, the Quotient will give you the
+fourth Term demanded.
+
+Here Note; That the first and third Number must always be of the same
+Denomination; As if one be Pounds, Pence, Yards, Tuns, Hours, Men, etc. so
+respectively must the other be; and the like is to be understood of the second
+and the fourth, as in the following Example:
+
+If 12 Yards of Karsey cost 3 Pound, what shall 435 Yards cost?
+
+^
+
+Reduce the Shillings into Pounds, by dividing the same by 20; and the Answer
+is 108 Pound, 15 Shillings, the price of 435 Yards.
+
+If 7 Inches Diameter gives 22 Inches in Circumference what Circumference shall
+36 Inches Diameter require?
+
+^
+
+The RVLE of THREE REVERSE.
+TO work this Rule, you must multiply the first Term by the second, and divide
+the Product by the third, and the Quotient will give you the fourth Term
+demanded.
+
+If 30 men require 25 Weeks to build a Fort, in how many Weeks will 20 Men
+build the like?
+
+^
+
+The Double RVLE of THREE.
+IF 600 Pounds weight for 501 Miles Carriage, cost 1 l. 6 s. 6d. what shall
+2500 Weight cost 100 Miles Carriage? State the Question thus: W Miles l. s. d.
+W. Miles 600 50 1 6 6 2500 100
+
+To work this, you must first reduce the Money into the lowest Denomination
+expressed, which is 318 Pence; then multiply the 2500 by 100, and also by the
+Number of Pence: All that Product must be divided by the two first Numbers
+multiplied together (which is the Divisor) to divide the other Product by. When
+the Operation is done, then you must reduce the Pence into Shillings, and
+Shillings into Pounds; and in the Conclusion you will find the Answer of the
+Question to be l. s. d. 11 00 10
+
+Note the Work.
+
+^
+
+^
+
+The Work being finished, the Answer of the Question is 11 l. 10 d. the 11 l.
+is apparent, but the 10 d. is included in the remaining Fraction 0416. To find
+the Value of this Fraction in Pence, multiply the Fraction by 20, cutting off 4
+Figures, (because there is so many in the Fraction.) The Remainder multiply by
+12, cutting off still 4 Figures, and there will remain to the Left Hand 10,
+which is 10 Pence, the value of the Fraction.
+
+The Rule of Three Reverse.
+THE Reverse, or backward Rule of Three, is to be used when the third Number
+requires less, or less requires more.
+
+The Rule.
+Multiply the First Number by the Second, and Divide the Product by the Third,
+the Quotient will be the Fourth Number sought; which always shall be of the
+same denomination with the Second Number.
+
+For Instance.
+If 24 Pionecrs require 16 Months to dig a Moat about a Town, how many Pioneers
+must there be employed to dig the same Moat in 4 Months?
+
+In stating this Question, you must note, That 24, though it be the First
+named, is not to be the First Number in the work; because the Middle term must
+always be of the same Denomination with that which is sought; and the Three
+Numbers put in order stand thus.
+
+Months. Pioneers. Months. 16 24 4
+
+Here it is plain, less requires more; that is, less time more hands.
+
+Therefore it must be wrought by the Reverse Rule; and accordingly you may
+multiply 24 by 16, and divide the Product by 4, the Quotient will be 96; as
+does appear by the work.
+
+^
+
+Which shows that 96 Pioneers must be employed to finish the Moat in 4 Months.
+
+CHAP. II. A COMPENDIUM OF Decimal Arithmetic.
+Note 1st. Notation of FRACTIONS.
+Numerators, 5 15 150 1070 Denominators, 10, 100, 1000, 10000.
+
+Note 2d.
+Of how many places soever the Numerator of a Decimal Fraction does consist, of
+so many Ciphers with a Unite before them, do the Donominators consist.
+
+So the Denominator of 5 is 10, of 15 is 100, of 005 is 1000, etc.
+
+Note 3d.
+When the Numerator of a Decimal Fraction consists not of so many places as the
+Denominator has Ciphers, prefix so many Ciphers on the left hand as is
+directed in Note 2 d. So 5/100 is written thus, 05; 15/1000 is writ thus, 015;
+50/10000 thus, 0050; 6/1000 thus, 006.
+
+Note 4th.
+Ciphers at the end of a Decimal Fraction do neither augment nor diminish the
+value thereof; so that 2. 20. 200. 2000, are Declmals of one and the same
+value: For when the Numerator and Denominator do each end with a Cipher or
+Ciphers cut off equal Ciphers in both; so will the Fraction be reduced into
+lesser terms, 2 0 10 0 2 00 10 00 2 000 10 000
+
+Thus, 20/100 200/1000 or 2000/10000 Are reduced as in the Table.
+
+Note 5th.
+Ciphers added to the left hand of any Number in Decimals, decrease it ten fold
+thus 015/1000.
+
+Note 6th.
+To Reduce a Vulgar Fraction to a Decimal.
+
+The Rule.
+To the Numerator of the given Fraction, add what number of Ciphers you please,
+and Divide it by the Denominator, the Quotient is the Decimal Fraction.
+
+Example 1.
+I desire to know what the Decimal Fraction of Sixteen Shillings is, which in a
+Vulgar Fraction is 16/20; now you may add to the Numerator 16, what Ciphers you
+please: Suppose Four, and the work stands as follows, ^ and the Quotient is
+8000 for Decimal Fractions of 16 Shillings.
+
+Example 2d.
+What is the Decimal of one Penny, which as it is the Fraction of 20 Shillings,
+(in Vulgar Fractions,) it is thus expressed, 1/140. Therefore (as before) add
+Ciphers to the Numerator 1, and divide by 240, as in this following Example.
+
+^
+
+Note 7th. To reduce a Decimal Fraction hnno a Vulgar.
+Rule. Let the Fraction be multiplied by 20; (if it be the Fraction of a Pound
+Sterling,) and the remaining Decimals by 12; and if any more remain, then
+multiply by 4, to bring them into Farthings; noting this, that in all your
+Multiplications, you must observe to cut off so many Figures of your Products
+as there are Figures in the Decimal Fraction.
+
+Example.
+I would know the quantity of this Fraction, 396875 of a Pound Sterling;
+proceed according to the foregoing Rule, and the work will appear as in the
+following Table to be 11 Shillings, 11 Pence, 1 Farthing.
+
+^
+
+I would know the quantity of this Fraction, 396875 of a Pound Sterling;
+proceed according to the foregoing Rule, and the work will appear as in the
+followin work, to be 7 Shillings, 11 Pence, 1 Fa^thing.
+
+^
+
+Where you see that I multiply the Fraction by 20, to bring it into Shillings;
+and that Product by 12, to bring it into Pence; and that Product by 4, to bring
+it into Farthings.
+
+Addition of Decimals.
+Note 8th.
+ADdition of Decimals is the same as with whole Numbers, only you must observe
+an Order in placing them; (that is,) to place every number under its proper
+Denomination, whole Numbers under one another, Tenths or Primes under Tenths or
+Primes, and Seconds under Seconds, etc. distinguishing the whole Numbers from
+the Fractions by a Point or Comma, and adding them together as whole Numbers,
+still setting down the Excess above Ten, and so carrying the Tenths to the next
+place toward the Left hand.
+
+Examples.
+
+^
+
+Subtraction of Decimals.
+IN Subtraction of Decimals, observe the same order in placing them, as is
+directed in Addition; and then subtract the Lesser from the Greater as in the
+whole Numbers.
+
+Note 9th.
+When the Decimals in both Numbers given, consist not of the same number of
+Places, that Decimal that is defective in places toward the right hand, must
+be filled up with Ciphers, or at least supposed to be filled up.
+
+Example.
+
+Suppose,47,309 is to be subtracted from 54, you are to put so many Ciphers as
+will make up the Fraction, and then Subtract, and the work will stand Thus, Or
+thus, 54,000 38,000,47 309 0, 130 07691 37,860
+
+Multiplication of Decimals.
+Note 10th.
+IN any of the Cases which can happen in Multiplication of Decimals, multiply
+the Numbers given, as if they were whole Numbers, then cut off or separate as
+many Figures from the Product, by a Point or Comma, as there are Fractions
+Multiplicand, Multiplicator, or both; which Figures so cut off or separated,
+are the Fraction of the Product. And the Figures toward the left hand of the
+point or Comma shall be the Integers or whole number of the Product; and if
+they do not make so many, they are to be supplied with a Cipher or Ciphers,
+which may happen when the Product is a Fraction.
+
+Example.
+
+^
+
+Note 11th.
+In Multiplication of whole Numbers, the Product is always increased so many
+times more than the Multiplicand as the Multiplicator contains Unites, as 5
+times 4 make 20: But in Multiplication of Fractions, the Product is always less
+than either of the two Numbers alone, as in Example the IV, where you see one
+Number is 75, the Decimal of 15 Shillings, and the other 0125, the Decimal of
+three Pence; yet the Product of the Multiplication is but the Decimal of 2
+Pence Farthing, as you may see if you look forward in the Decimal Table of
+Pence and Farthings, page 46.
+
+The Reason is, because 1 being multiplied by one, can produce but one;
+therefore that which is less than 1, as (are all proper Fractions,) being
+Multiplied by that which is less than 1, must needs be diminished by the
+Multiplication. And this Diminution bears the same Proportion to the
+Multiplicator, as the Multiplicand bears to a Unite.
+
+For as 15 Shillings the Multiplicand is ^ of a Pound, so Two Pence Farthing
+the Product is ^ of the Multiplicator 3 Pence.
+
+Division of Decimals.
+Note 12th.
+IN Division of Decimals, the Dividend must sometimes be prepared, by adding a
+competent number of Ciphers to make room for the Divisor to find out a
+Fraction, and for the Reduction of Vulgar Fractions into Decimals.
+
+Note 13th.
+In the whole Doctrine of Decimal Arithmetic, there is no part so difficult as
+this of Division, in regard to the variety of operation, in respect of the
+Quotient, what part of it to cut off in the various Divisions of whole Numbers
+with Fractions, and Fractions with Fractions, etc. all which varieties shall be
+solved with this ensuing Rule.
+
+A General Rule to know the true value of the Quotient.
+THere must be so many Figures cut off in the Quotient, as will make those in
+the Divisor (if any be) equal to the Number of Decimal parts in the Dividend.
+
+Note 14th.
+If the Quotient does not consist of as many places as are required by the
+General Rule to be cut off, you may supply that defect by prefixing a Cipher or
+Ciphers before the Quotient toward the left hand.
+
+Example 1. To Divide a whole Number by a Fraction.
+Suppose the whole Number to be 82, which is required to be divided by this
+Fraction, 056, because there is a defect of Figures in the Dividend 82;
+therefore I add 5 Ciphers thereto, and place them in their due order, and when
+the work is finished, you will find 6 Figures come in the Quotient. (Now the
+Question is,) how many of these Figures are proper to be cut off for a
+Fraction; therefore note, that there being three Decimal Fractions in the
+Divisor, and 5 in the Dividend, therefore I cut off the last Figures in the
+Quotient, which being added to the 3 Figures in the Divisor, makes them equal
+to the Fraction in the Dividend, which is 5 Ciphers; so the general Rule is
+made good, as you may see in the work.
+
+^
+
+Example 2. To divide a Fraction by a whole Number.
+Here (according to the 9th Note,) I prefix a Cipher before the Quotient, there
+being (after the Division is finished) only Four Figures in the Quotient; so
+then there are 5 Figures in the Dividend and 5 in the Quotient, according to
+the general Rule; as you may see in the work.
+
+^
+
+Example 3.
+To Divide a whole Number, and a Fraction by a Fraction.
+
+^
+
+Here you see 4 Figures are cut off in the Quotient, which with the 2 in the
+Divisor, makes 6, which is equal to the Decimal parts in the Dividend;
+according to the General Rule in page 37, aforegoing.
+
+Example 4.
+To divide a Fraction by a whole Number and a Fraction.
+
+^
+
+Here are 7 Decimals in the Dividend, and when the Division is finished, there
+are 4 Figures in the Quotient, which with the 2 in the Divisor, makes but 6;
+Therefore according to the 9th note, I prefix a Cipher before the Quotient on
+the left hand, and then they are equal.
+
+Example 5.
+To divide a Fraction by a Fraction.
+
+^
+
+According to the General Rule I cut off 4 Figures to the Right hand in the
+Quotient, which makes those in the Divisor equal to those in the Dividend.
+
+Example 6.
+To divide a whole Number and a Fraction by a whole Number.
+
+^
+
+Here are only 2 Figures to be separated in the Quotient; there being no
+Decimals in the Divisor, and only 2 in the Dividend.
+
+Example 7. To Divide a whole Number by a whole Number and a Fraction.
+^
+
+There being 7 Decimals in the Dividend, I therefore cut off 5 Figures in the
+Quotient, which with the 2 in the Divisor, make 7 according to the General
+Rule. p. 37.
+
+Example 8. To divide a whole Number and a Fraction, by a whole Number and a
+Fraction.
+^
+
+According to Note 9th (in page 34,) add Ciphers to the Dividend, and when the
+work is finished, I find 5 Figures in the Quotient, 3 of which must be cut off,
+that they may make those of the Divisor 6, equal to the Decimals in the
+Dividend, according to the Rule.
+
+A Decimal Table of Pence and Farthings.
+Pence. Farth. Decimal. 1 0010416 2 0020833 3 0031250 I 0041666 1 0052083 2
+0062500 3 0072916 II 0083333 1 0093750 2 0104166 3 0114583 III 0125000 1
+0135416 2 0145833 3 0156250 IV 0166666 1 0177083 2 0187500 3 0197916 V 0208333
+1 0218750 2 0229166 3 0239583 VI 0250000 1 0260416 2 0270833 3 0281250 VII
+0291666 1 0302083 2 0312500 3 0322916 VIII 0333333 1 0343750 2 0354166 3
+0364583 IX 0375000 1 0385416 2 0395833 3 0406250 X 0416666 1 0427083 2 0437500
+3 0447916 XI 0458333 1 0468750 2 0479166 3 0489583 XII 0500000 1 0510416 2
+0520833 3 0531250 XIII 0541666 1 0552083 2 0562500 3 0572916 XIV 0583333 1
+0593750 2 0604166 3 0614583 XV 0625000 1 0635416 2 0645833 3 0656250 XVI
+0666666 1 0677083 2 0687500 3 0697916 XVII 0708333 1 0718750 2 0729166 3
+0739583 XVIII 0750000 1 0760416 2 0770833 3 0781250 XIX 0791666 1 0802083 2
+0812500 3 0822916 XX 0833333 1 0843750 2 0854166 3 0864183 XXI 0875000 1
+0885416 2 0895833 3 0906250 XXII 0916666 1 0927084 2 0937500 3 0947916 XXIII
+0958333 1 0968750 2 0979166 3 0989583 XXIV 1000000
+
+A Table of Decimals of one Pound Sterling in Shillings.
+Sh. Decim. 1 050000 2 100000 3 150000 4 200000 5 250000 6 300000 7 350000 8
+400000 9 450000 10 500000 11 550000 12 600000 13 650000 14 700000 15 750000 16
+800000 17 850000 18 900000 19 950000 20 100000 21 105000 22 110000 23 115000 24
+120000 25 125000 26 130000 27 1350000 28 1400000 29 1450000 30 1500000 31
+1550000
+
+A Table of the Decimals of a Foot to every Inch and Eighth part of an Inch.
+Inches. 8 Part. Decimal. 1 001041 2 002083 3 003125 4 004166 5 005208 6 006250
+7 007291 I 008333 1 009375 2 010416 3 011458 4 012500 5 013541 6 014583 7
+015625 II 016666 1 017708 2 018750 3 019791 4 020833 5 021875 6 022926 7 023958
+III 025000 1 026041 2 027208 3 028125 4 029166 5 030200 6 031299 7 032291 IV
+033333 Inches. 8 Part. Decimal. 1 034385 2 035416 3 037395 4 037499 5 038541 6
+039583 7 040625 V 041666 1 042610 2 043750 3 044718 4 045833 5 046875 6 047927
+7 048854 VI 050000 1 051104 2 052083 3 053125 4 054166 5 055207 6 056250 7
+057291 VII 058333 1 059375 2 051041 3 061457 4 062500 5 063531 6 064583 7
+065625 VIII 066000 1 067610 2 068750 3 069896 4 070833 5 071875 6 072916 7
+073958 IX 075000 1 076041 2 077083 3 078125 4 079166 5 080208 6 081250 7 082291
+X 083333 1 084375 2 085416 3 086457 4 087500 5 088541 6 089687 7 090625 XI
+091666 1 092708 2 093750 3 094791 4 095833 5 096875 6 097926 7 098958 XII
+100000
+
+The Calculating of this Table, is by Dividing every Inch and 8 Parts by 96,
+because there are so many parts in the Foot, every Inch being divided into 8
+Parts, serving to Reduce Inches and 8 Parts to the Decimals of a Foot, or the
+contrary.
+
+An Explanation of this Table.
+The First Column shows the Inches and Eight parts of a Foot, and the Second
+Column shows the Decimal Number answering thereto.
+
+Example.
+
+Seek for 11 Inches, and 8/4 or a half in the First Collumn, and in the next
+you will find the Decimal thereof 095833.
+
+CHAP. III. THE EXTRACTION OF THE Square Root.
+THe Extraction of the Square Root is that by which having a number given,
+another number may be found, which being Multiplied by itself, produces the
+number required.
+
+Any Square number being given to be Extracted, thus it may be prepared.
+According to this Rule, put a Point over the first place thereof to the Right
+hand (being the place of Unites;) then proceeding toward the left hand, pass
+over the second place, and put a Point over the third place; also passing over
+the Fourth place, put another Point over the Fifth, and so forward in such
+manner, that between every Two Points which are next one to another; so that
+one place may be intermitted according to this Example, 630436. Suppose the
+Square Root of this Number be required; the First Point is to be placed over 6,
+and the Second over 4, and so of the rest as you see in the Example; and note,
+that as many Points as are placed in that manner, of so many Figures will the
+Root be.
+
+To fit it for operation, draw a crooked Line on the Right hand of the Number
+propounded for Extraction, then find the Root of the First Square, and place it
+in the Quotient, which in this Example is found to be 7; ^ Then Square the
+Quotient which is 49, and place it under the first Square of the Number given,
+(viz.) 63, and Subtract the 49 from the First Square; and place the Remainder
+orderly underneath the Line, which is 14, to which Remainder being down, the
+next Squares of the Number propounded, and place them on the Right hand of the
+said Remainder; (and may now be called the Resolvend.) Then double the Root,
+being the Number placed in the Quotient, which is 14, and place them on the
+Left hand of the Resolvend (like a Divisor,) parted off with a Crooked Line.
+
+Then demand how often that Divisor is contained in the Resolvend, which may be
+now called the Dividend (proceeding in all respects as you do in Division,) and
+write the answer in the Quotient on the Right hand of the Divisor; then if you
+ask how often the Divisor 149 is found in the Dividend 1404, the Answer is 9
+times: Therefore write 9 in the Quotient, and also after the Divisor 14.
+
+Then Multiply all the Numbers which stand on the Left hand of the Resolvend,
+viz. (before the Crooked Line,) and write the Product orderly underneath the
+Resolvend; then having drawn a Line under the said Product, subtract it from
+the Resolvend, and subscribe the Remainder under the Line which is 63: unto
+which Number bring down the remaining Figures of the Resolvend, and then there
+will be 6336 at the Left hand, of which number draw another Crooked Line; then
+double the Quotient, which is 158, and set it on the Left hand of the said
+Crooked Line; then demand how often you may have 158 in 633: the Answer is 4,
+which 4 must be placed in the Quotient; then multiply that by each Figure of
+the Divisor, and subscribe the Product orderly under the Dividend, and subtract
+it therefrom, and there remains 16; so the work is finished, and the Square
+Root of that Number 630436 is 794, and 16 which remains, intimates that the
+Root is something greater than 794, but less than 795; yet how much greater
+than 794 is not yet discovered by any Rules of Art. But farther Progress may be
+made for a nearer discovery of the truth; but in this case it being but a small
+difference, I shall wave it.
+
+To Extract the Square Root by the Logarithms.
+The Rule.
+HAlf the Logarithm of any Number, is the Logarithm of the Square Root thereof.
+
+Example.
+
+Let the Square Number given be 5625, The Logarithm of 625 is 2,79588 The half
+thereof is 1,39794 which is the Logarithm of 25, the Root of the said Number.
+
+By Gunter's Scale.
+To Extract the Square Root, is to find a mean proportional Number between I
+and the Number given; therefore divide the Space between them into Two Equal
+parts, and that shall be the Root sought.
+
+Example.
+
+Let it be required to find the Square Root of 144; Divide the distance betwixt
+I and 144 equally, and the Compasses will fall on 12, the Root sought.
+
+The EXTRACTION of the CVBE ROOT.
+THe Extraction of the Cube Root is that by which having a Number given,
+another may be found, which being first Multiplied by itself, and then by the
+Product produces the Number given.
+
+(...) the Extraction of the Cube Root, the ^^^ber propounded is always
+conceived to be a Cubical Number; that is, a certain Number of little Cubes,
+comprehended within one entire great Cube, so that the Root of any perfect
+Cubical Number is a Right Line of a Solid Body, containing 6 Equal Sides, which
+constitutes as many Square Superficies, or a Number Multiplied twice in itself,
+which in the Solid, has length, breadth and depth, as may more plainly appear
+in this Annexed Cubical Figure.
+
+cube
+
+A Cube Number is either Single or Compound.
+
+A Single Cube Number is that which is produced by the Multiplication of one
+single Figure, first by itself, and then by the Product, and is always less
+than 100; so 64 is a single Cube Number produced by the Multiplication of 4,
+First by itself, and then by the Product as in the Margin.
+
+^
+
+A Compound Cube Number, is when there are Two Figures in the Root.
+
+All the Single Cube Numbers and Square Numbers, together with their respective
+Roots, are expressed in this Table following.
+
+Cubes, 1 8 27 64 125 216 343 512 729 1000 Squar. 1 4 9 16 25 36 49 64 81 100
+Roots, 1 2 3 4 5 6 7 8 9 10
+
+To prepare a Cube Number for Extraction.
+The Rule.
+PUt a Point over the First place thereof, toward the Right hand, (viz.) the
+place of Unites, then passing over the Second and Third places, put another
+over the Fourth, and passing over the Fifth and Sixth, put another over the
+Seventh, always observing the same order in intermitting Two Places (between
+every Two Adjacent Points) place as many Points as the Number will permit, as
+may plainly appear in this Example. Let 1728 be the Number given, place the
+Points according to this Rule.
+
+^
+
+Which done, draw a Crooked Line on the Right hand of the Number to signify a
+Quotient; then find the Cube Root of the First Cube which is 1, as you may see
+in the Table, which 1 set in the Quotient. Then subscribe the Cube of the Root
+placed in the Quotient, under the First Cube of the Number given, which in this
+Example is 1.
+
+Then draw a Line under the Cube subscribed aforesaid, and subtract this Cube
+from the First Cube, and place the Remainder orderly underneath the Line, which
+in this Example is nothing; to which Remainder, bring down the ne x Cube, which
+is 728, placing it on the Right hand of the Remainder, which number so placed,
+may be called the Resolvend; having drawn a Line underneath the Resolvend,
+Square the Root in the Quotient, that is, multiply it in itself, and subscribe
+3 the Triple of the said Square or Product under the Resolvend, and place it
+under 7, the place of Hundreds.
+
+Then Triple the Root or Number in the Quotient, which is 3, and subscribe this
+Triple Number in such a manner, that the First place thereof, (the place of
+Unites,) may stand under the Second place, (the place of Tens) in the
+Resolvend, which Triple is Three which I place under 2: Then the Triple Square
+of the Root, and the Triple of the Root being so placed, draw a Line under
+them, and add them together, the Sum is 33 for a Divisor.
+
+Then let the whole Resolvend, except the First place thereof toward the Right
+hand, (viz.) the place of Unites, be esteemed as a Dividend; then demanding how
+often the First Figure (toward the Left hand) of the Divisor is contained in
+the correspondent part of the Dividend, write the Answer in the Quotient; for
+if I ask how many times Three in 7, the Answer is twice, therefore I place 2 in
+the Quotient.
+
+Then draw another Line under the work, and multiply the Triple Square before
+subscribed (under 7) by the last Figure placed in the Quotient, which is 2, and
+say, 2 times 3 is 6; which Product I subscribe under the said Triple Square
+(viz.) under the 3, which stands under the 7, as you may see in the work.
+
+Then Multiply the Figure last placed in the Quotient, namely 2, by the Triple
+Number before subscribed under 2 in the Resolvend; for 2 being multiplied by
+itself, produces 4, which being multiplied by the Triple Number 3, the Product
+is 12, which I subscribe with the 1 under 6, and the 2 under 3; as in the work
+may appear.
+
+Then Cube the last Figure in the Quotient which is 8, which place in such
+manner, that it may stand under the place of Unites in the Resolvend, as you
+may see in the work.
+
+Lastly, Draw a Line under all, and add up the Three last Numbers together in
+the same order as they are placed, and the Sum is 728, which being Subtracted
+from the Resolvend, and there remains o; so the Cubic Root is found to be 12.
+
+Note when the Sum of the Three last Numbers before mentioned, is greater than
+the Resolvend, the work is erroneous, and then you may reform it, by placing a
+Figure less in the Quotient.
+
+To Extract the Cube Root by the Logarithms.
+The Rule.
+DIvide the Logarithm of the given Number by 3, so shall you have the Logarithm
+of the Root required.
+
+Example.
+
+Let the Cube Number given be 1728 as before, The Logarithm of 1728 is 3,23754
+The Third part thereof is 1,07918 which is the Logarithm of 12, the Cube Root
+required.
+
+Likewise Multiply the Logarithm of any Number by Three, and it produces the
+Logarithm of the Cube thereof.
+
+To Extract the Cube Root by Gunter 's Scale.
+TO Extract the Cube Root, is to find the First of Two Mean Proportionals
+between 1, and the Number whose Cube Root you require; therefore you must
+Divide the space between those Two Numbers into Three equal parts.
+
+Example.
+
+Let it be required to find the Cube Root of 1728, as before: Divide the
+distance between 1 and 1728, into Three Equal parts, one Third part of that
+distance shall reach from 1 to 12, which is the Cube Root required.
+
+A Table of Square Roots from One to an Hundred.
+R. Sq. 1 1 2 4 3 9 4 16 5 25 6 36 7 49 8 64 9 81 10 100 11 121 12 144 13 169
+14 196 15 225 16 256 17 289 18 324 19 361 20 400 21 441 22 484 23 529 24 576 25
+625 26 676 27 729 28 784 29 841 30 900 31 961 32 1024 33 1089 34 1156 35 1225
+36 1296 37 1369 38 1444 39 1521 40 1600 41 1681 42 1764 43 1849 44 1936 45 2025
+46 2116 47 2209 48 2304 49 2401 50 2500 51 2601 52 2704 53 2809 54 2916 55 3025
+56 3136 57 3249 58 3364 59 3481 60 3600 61 3721 62 3844 63 3969 64 4096 65 4225
+66 4356 67 4489 68 4624 69 4761 70 4900 71 5041 72 5184 73 5329 74 5476 75 5625
+76 5776 77 5929 78 6084 79 6241 80 6400 81 6561 82 6724 83 6889 84 7056 85 7225
+86 7396 87 7569 88 7744 89 7921 90 8100 91 8281 92 8464 93 8649 94 8836 95 9025
+96 9216 97 9409 98 9604 99 9801 100 10000
+
+A Table of Cubick Roots from One to an Hundred.
+R. Cube. 1 1 2 8 3 27 4 64 5 125 6 216 7 343 8 512 9 729 10 1000 11 1331 12
+1728 13 2197 14 2744 15 3375 16 4096 17 4913 18 5832 19 6859 20 8000 21 9261 22
+10648 23 2167 24 13824 25 5625 26 17576 27 19683 28 21972 29 24389 30 27000 31
+29791 32 32768 33 35937 34 39304 35 42825 36 48656 37 50653 38 54872 39 55419
+40 64000 41 68921 42 74088 43 79507 44 85184 45 91125 46 97336 47 103823 48
+110592 49 117649 50 125000 51 135651 52 140608 53 148877 54 157464 55 167375 56
+175616 57 185193 58 195112 59 205379 60 216000 61 226981 62 238328 63 293047 64
+262244 65 274625 66 287496 67 300753 68 314432 69 329199 70 333000 71 357011 72
+373348 73 389017 74 405224 75 411875 76 438976 77 456533 78 474522 79 493039 80
+512000 81 531441 82 550408 83 571787 84 592604 85 614125 86 636056 87 648303 88
+681472 89 705669 90 729000 91 753571 92 778688 93 804357 94 830584 95 857375 96
+884736 97 915673 98 941192 99 970299 100 1000000
+
+To make the Table of Square Roots.
+The Table of Square Roots is made by Multiplying each Figure into itself; the
+Product is the Square of the Number required. As for Example in the Root 29,
+which being Multiplied in itself, produces 841, the Square of that Number is
+29.
+
+To make the Tables of Cubick Roots.
+The Table of Cubick Roots, are made by Multiplying the Root in itself; and
+that Product again by the Root, and the last Number is the Cube Number
+required. As for Example in the Root 12, which being Multiplied in itself,
+produces 144, that being Multiplied by 12, produces 1728, the Cube Number of
+12.
+
+A TABLE OF LOGARITHMS OF Absolute Numbers, from One to a Thousand.
+Number. Logar. 1 0,00000 2 0,30103 3 0,47712 4 0,60206 5 0,69897 6 0,77815 7
+0,84510 8 0,90309 9 0,95424 10 1,00000 11 1,04139 12 1,07918 13 1,11394 14
+1,14613 15 1,17609 16 1,20412 17 1,23045 18 1,25527 19 1,27875 20 1,30103 21
+1,32222 22 1,34242 23 1,36173 24 1,38021 25 1,39794 26 1,41497 27 1,43136 28
+1,44716 29 1,46239 30 1,47712 31 1,49136 32 1,50515 33 1,51851 34 1,53148 35
+1,54407 36 1,55630 37 1,56820 38 1,57978 39 1,59106 40 1,60206 41 1,61278 42
+1,62325 43 1,63347 44 1,64345 45 1,65321 46 1,66276 47 1,67210 48 1,68124 49
+1,69020 50 1,69897 51 1,70757 52 1,71600 53 1,72428 54 1,73239 55 1,74036 56
+1,74819 57 1,75587 58 1,76343 59 1,77085 60 1,77815 61 1,78533 62 1,79239 63
+1,79934 64 1,80618 65 1,81291 66 1,81954 67 1,82607 68 1,83251 69 1,83885 70
+1,84510 71 1,85126 72 1,85733 73 1,86332 74 1,86923 75 1,87506 76 1,88081 77
+1,88649 78 1,89209 79 1,89763 80 1,90309 81 1,90848 82 1,91381 83 1,91908 84
+1,92428 85 1,92942 86 1,93450 87 1,93952 88 1,94448 89 1,94939 90 1,95424 91
+1,95904 92 1,96379 93 1,96848 94 1,97313 95 1,97772 96 1,98227 97 1,98677 98
+1,99123 99 1,99563 100 2,00000 101 2,00432 102 2,00860 103 2,01284 104 2,01703
+105 2,02119 106 2,02531 107 2,02938 108 2,03342 109 2,03743 110 2,04139 111
+2,04532 112 2,04922 113 2,05308 114 2,05690 115 2,06070 116 2,06446 117 2,06819
+118 2,07188 119 2,07555 120 2,07918 121 2,08278 122 2,08636 123 2,08990 124
+2,09342 125 2,09691 126 2,10037 127 2,10380 128 2,10721 129 2,11059 130 2,11394
+131 2,11727 132 2,12057 133 2,12385 134 2,12710 135 2,13033 136 2,13354 137
+2,13672 138 2,13988 139 2,14301 140 2,14613 141 2,14922 142 2,15229 143 2,15534
+144 2,15836 145 2,16137 146 2,16435 147 2,16732 148 2,17026 149 2,17319 150
+2,17609 151 2,17898 152 2,18184 153 2,18469 154 2,18752 155 2,19033 156 2,19312
+157 2,19590 158 2,19866 159 2,20140 160 2,20412 161 2,20683 162 2,20951 163
+2,21219 164 2,21484 165 2,21748 166 2,22011 167 2,22272 168 2,22531 169 2,22789
+170 2,23045 171 2,23300 172 2,23553 173 2,23805 174 2,24055 175 2,24304 176
+2,24551 177 2,24797 178 2,25042 179 2,25285 180 2,25227 181 2,25768 182 2,26007
+183 2,26245 184 2,26482 185 2,26717 186 2,26951 187 2,27184 188 2,27416 189
+2,27646 190 2,27875 191 2,28108 192 2,28330 193 2,28550 194 2,28780 195 2,29003
+196 2,29226 197 2,29447 198 2,29666 199 2,29884 200 2,30103 201 2,30320 202
+2,30535 203 2,30750 204 2,30963 205 2,31175 206 2,31387 207 2,31597 208 2,31806
+209 2,32015 210 2,32222 211 2,32428 212 2,32634 213 2,32828 214 2,33041 215
+2,33244 216 2,33445 217 2,33646 218 2,33846 219 2,34044 220 2,34223 221 2,34439
+222 2,34635 223 2,34830 224 2,35025 225 2,35218 226 2,35411 227 2,35603 228
+2,35793 229 2,35983 230 2,36173 231 2,36361 232 2,36549 233 2,36736 234 2,36922
+235 2,37107 236 2,37291 237 2,37475 238 2,37658 239 2,37840 240 2,38021 241
+2,38202 242 2,38381 243 2,38561 244 2,38739 245 2,38917 246 2,39093 247 2,39270
+248 2,39445 249 2,39620 250 2,39794 251 2,39967 252 2,40140 253 2,40312 254
+2,40483 255 2,40654 256 2,40824 257 2,40993 258 2,41162 259 2,41330 260 2,41497
+261 2,41664 262 2,41830 263 2,41996 264 2,42160 265 2,42325 266 2,42488 267
+2,42651 268 2,42813 269 2,42975 270 2,43136 271 2,43297 272 2,434^^ 273 2,436^^
+274 2,43775 275 2,43933 276 2,44091 277 2,44248 278 2,44404 279 2,44560 280
+2,44716 281 2,44871 282 2,45025 283 2,45179 284 2,45332 285 2,45484 286 2,45636
+287 2,45788 288 2,45939 289 2,46090 290 2,46240 291 2,46389 292 2,46538 293
+2,46687 294 2,46835 295 2,46982 296 2,47129 297 2,47276 298 2,47422 299 2,47567
+300 2,47712 301 2,47857 302 2,48001 303 2,48144 304 2,48287 305 2,48430 306
+2,48572 307 2,48714 308 2,48855 309 2,48996 310 2,49136 311 2,49276 312 2,49415
+313 2,49554 314 2,49693 315 2,49831 316 2,49969 317 2,50106 318 2,50243 319
+2,50379 320 2,50515 321 2,50650 322 2,50786 323 2,50920 324 2,51054 325 2,51188
+326 2,51322 327 2,51455 328 2,51587 329 2,51720 330 2,51851 331 2,51983 332
+2,52114 333 2,52244 334 2,52375 335 2,52504 336 2,52634 337 2,52763 338 2,52892
+339 2,53020 340 2,53148 341 2,53275 342 2,53403 343 2,53529 344 2,53656 345
+2,53782 346 2,53908 347 2,54033 348 2,54158 349 2,54282 350 2,54407 351 2,54531
+352 2,54654 353 2,54777 354 2,54900 355 2,55023 356 2,55145 357 2,55267 358
+2,55388 359 2,55509 360 2,55630 361 2,55751 362 2,55871 363 2,55991 364 2,56110
+365 2,56229 366 2,56348 367 2,56467 368 2,56585 369 2,56703 370 2,56820 371
+2,56937 372 2,57054 373 2,57171 374 2,57287 375 2,57403 376 2,57519 377 2,57634
+378 2,57749 379 2,57864 380 2,57978 381 2,58092 382 2,58206 383 2,58320 384
+2,58433 385 2,58346 386 2,58659 387 2,58771 388 2,58883 389 2,58995 390 2,59106
+391 2,59218 392 2,59329 393 2,59439 394 2,59549 395 2,59660 396 2,59769 397
+2,59879 398 2,59988 399 2,60097 400 2,60206 401 2,60314 402 2,60423 403 2,60530
+404 2,60638 405 2,60745 406 2,60853 407 2,60959 408 2,61066 409 2,61172 410
+2,61278 411 2,61384 412 2,61490 413 2,61595 414 2,61700 415 2,61805 416 2,61909
+417 2,62014 418 2,62118 419 2,62221 420 2,62325 421 2,62428 422 2,62531 423
+2,62634 424 2,62737 425 2,62839 426 2,62941 427 2,63043 428 2,63144 429 2,63246
+430 2,63347 431 2,63448 432 2,63548 433 2,63649 434 2,63749 435 2,63849 436
+2,63949 437 2,64048 438 2,64147 439 2,64246 440 2,64345 441 2,64444 442 2,64542
+443 2,64640 444 2,64738 445 2,64836 446 2,64933 447 2,65031 448 2,65128 449
+2,65225 450 2,65321 451 2,65418 452 2,65514 453 2,65610 454 2,65706 455 2,65801
+456 2,65896 457 2,65991 458 2,66086 459 2,66181 460 2,66276 461 2,66370 462
+2,66464 463 2,66558 464 2,66652 465 2,66745 466 2,66838 467 2,66932 468 2,67024
+469 2,67117 470 2,67210 471 2,67302 472 2,67394 473 2,67486 474 2,67578 475
+2,67669 476 2,67761 477 2,67852 478 2,67943 479 2,68033 480 2,68124 481 2,08214
+482 2,68305 483 2,68395 484 2,68484 485 2,68574 486 2,68664 487 2,68753 488
+2,68842 489 2,68931 490 2,69020 491 2,69108 492 2,69196 493 2,69285 494 2,69373
+495 2,69460 496 2,69548 497 2,69636 498 2,69723 499 2,69810 500 2,69897 501
+2,69984 502 2,70070 503 2,70157 504 2,70243 505 2,70329 506 2,70415 507 2,70501
+508 2,70586 509 2,70672 510 2,70757 511 2,70842 512 2,70927 513 2,71012 514
+2,71096 515 2,71181 516 2,71265 517 2,71349 518 2,71433 519 2,71517 520 2,71600
+521 2,71684 522 2,71767 523 2,71850 524 2,71933 525 2,72016 526 2,72099 527
+2,72181 528 2,72263 529 2,72346 530 2,72428 531 2,72509 532 2,72591 533 2,72673
+534 2,72754 535 2,72835 536 2,72916 537 2,72997 538 2,73078 539 2,73159 540
+2,73239 541 2,73320 542 2,73400 543 2,73480 544 2,73560 545 2,7364^ 546 2,73719
+547 2,73799 548 2,73878 549 2,73957 550 2,74036 551 2,74115 552 2,74191 553
+2,74272 554 2,74351 555 2,74429 556 2,74507 557 2,74585 558 2,74663 559 2,74741
+560 2,74819 561 2,74896 562 2,749^3 563 2,75051 564 2,75128 565 2,75205 566
+2,75282 567 2,75358 568 2,75435 569 2,75511 570 2,75587 571 2,75664 572 2,75740
+573 2,75815 574 2,75891 575 2,75967 576 2,76042 577 2,76118 578 2,76193 579
+2,76268 580 2,76343 581 2,76418 582 2,76492 583 2,76567 584 2,76641 585 2,76716
+586 2,76790 587 2,76864 588 2,76938 589 2,77011 590 2,77085 591 2,77159 592
+2,77232 593 2,77305 594 2,77379 595 2,77452 596 2,77525 597 2,77597 598 2,77670
+599 2,77743 600 2,77815 601 2,77887 602 2,77960 603 2,78032 604 2,78104 605
+2,78175 606 2,78247 607 2,78319 608 2,78390 609 2,78462 610 2,78533 611 2,78604
+612 2,78675 613 2,78746 614 2,78816 615 2,78887 616 2,78958 617 2,79028 618
+2,79099 619 2,79169 620 2,79239 621 2,79309 622 2,79379 623 2,79449 624 2,79518
+625 2,79588 626 2,79657 627 2,79727 628 2,79796 629 2,79865 630 2,79934 631
+2,80003 632 2,80072 633 2,80140 634 2,80208 635 2,80277 636 2,80346 637 2,80414
+638 2,80482 639 2,80550 640 2,80618 641 2,80656 642 2,80753 643 2,80821 644
+2,80889 645 2,80956 646 2,81023 647 2,81090 648 2,81157 649 2,81224 650 2,81291
+651 2,81358 652 2,81425 653 2,81491 654 2,81558 655 2,81624 656 2,81690 657
+2,81756 658 2,81822 659 2,81888 660 2,81954 661 2,82020 662 2,82086 663 2,82151
+664 2,82217 665 2,82282 666 2,82347 667 2,82413 668 2,82478 669 2,82543 670
+2,82607 671 2,82672 672 2,82737 673 2,82801 674 2,82866 675 2,82930 676 2,82995
+677 2,83059 678 2,83123 679 2,83187 680 2,83251 681 2,83315 682 2,83378 683
+2,83442 684 2,83506 685 2,83569 686 2,83632 687 2,83696 688 2,83759 689 2,83822
+690 2,83885 691 2,83948 692 2,84011 693 2,84073 694 2,84136 695 2,84198 696
+2,84261 697 2,84323 698 2,84385 699 2,84448 700 2,84510 701 2,84572 702 2,84634
+703 2,84695 704 2,84757 705 2,84819 706 2,84880 707 2,84942 708 2,85001 709
+2,85065 710 2,85126 711 2,85187 712 2,85248 713 2,85301 714 2,85370 715 2,85431
+716 2,85491 717 2,8^552 718 2,85612 719 2,85673 720 2,85733 721 2,85793 722
+2,85854 723 2,85914 724 2,85974 725 2,86034 726 2,86094 727 2,86153 728 2,86213
+729 2,86273 730 2,86332 731 2,86392 732 2,86451 733 2,86510 734 2,86570 735
+2,86629 736 2,86688 737 2,86747 738 2,86806 739 2,86864 740 2,86923 741 2,86982
+742 2,87040 743 2,87099 744 2,87157 745 2,87216 746 2,87274 747 2,87332 748
+2,87390 749 2,87448 750 2,87506 751 2,87564 752 2,87622 753 2,87679 754 2,87737
+755 2,87795 756 2,87852 757 2,87910 758 2,87967 759 2,88024 760 2,88081 761
+2,88138 762 2,88195 763 2,88252 764 2,88309 765 2,88361 766 2,88423 767 2,88479
+768 2,88536 769 2,88592 770 2,88649 771 2,88705 772 2,88762 773 2,88818 774
+2,88874 775 2,88930 776 2,88986 777 2,89042 778 2,89093 779 2,89154 780 2,89209
+781 2,89265 782 2,89321 783 2,89376 784 2,89431 785 2,89487 786 2,89542 787
+2,89597 788 2,89653 789 2,89708 790 2,89763 791 2,89818 792 2,89872 793 2,89927
+794 2,89982 795 2,90037 796 2,90091 797 2,90146 798 2,90200 799 2,90255 800
+2,90309 801 2,90363 802 2,90417 803 2,90472 804 2,90526 805 2,90580 806 2,90633
+807 2,90687 808 2,90741 809 2,90795 810 2,90848 811 2,90902 812 2,90956 813
+2,91005 814 2,91062 815 2,91116 816 2,91169 817 2,91222 818 2,91277 819 2,91328
+820 2,91381 821 2,91434 822 2,91487 823 2,91540 824 2,91593 825 2,91645 826
+2,91698 827 2,91751 828 2,91803 829 2,91855 830 2,91908 831 2,91960 832 2,92012
+833 2,92064 834 2,92117 835 2,92169 836 2,92221 837 2,92272 838 2,92324 839
+2,92376 840 2,92428 841 2,92480 842 2,92531 843 2,92582 844 2,92634 845 2,92686
+846 2,92737 847 2,92788 848 2,92840 849 2,92891 850 2,92942 851 2,92993 852
+2,93044 853 2,93095 854 2,93146 855 2,93197 856 2,93247 857 2,93298 858 2,93349
+859 2,93399 860 2,93450 861 2,93500 862 2,93551 863 2,93601 864 2,93651 865
+2,93701 866 2,93752 867 2,93802 868 2,93852 869 2,93902 870 2,93952 871 2,94001
+872 2,94052 873 2,94102 874 2,94151 875 2,94201 876 2,94250 877 2,94300 878
+2,94349 879 2,94399 880 2,94448 881 2,94498 882 2,94547 883 2,94596 884 2,94645
+885 2,94694 886 2,94743 887 2,94792 888 2,94841 889 2,94890 890 2,94939 891
+2,94988 892 2,9503^ 893 2,95085 894 2,95134 895 2,95182 896 2,95231 897 2,95279
+898 2,95328 899 2,95376 900 2,95424 901 2,95472 902 2,95521 903 2,95569 904
+2,95617 905 2,95664 906 2,95713 907 2,95761 908 2,95809 909 2,95856 910 2,95904
+911 2,95952 912 2,95999 913 2,96047 914 2,96095 915 2,96142 916 2,96189 917
+2,96237 918 2,96284 919 2,96331 920 2,96379 921 2,96426 922 2,96473 923 2,96520
+924 2,96567 925 2,96614 926 2,96661 927 2,96708 928 2,96755 929 2,96802 930
+2,96848 931 2,96895 932 2,96941 933 2,96988 934 2,97035 935 2,97081 936 2,97128
+937 2,97174 938 2,97220 939 2,97267 940 2,97313 941 2,97359 942 2,97405 943
+2,97451 944 2,97497 945 2,97543 946 2,97589 947 2,97635 948 2,97681 949 2,97727
+950 2,97772 951 2,97818 952 2,97864 953 2,97909 954 2,97955 955 2,98000 956
+2,98046 957 2,98091 958 2,98137 959 2,98182 960 2,98227 961 2,98272 962 2,98317
+963 2,98363 964 2,98408 965 2,98453 966 2,98498 967 2,98543 968 2,98587 969
+2,98632 970 2,9867^ 971 2,98722 972 2,98767 973 2,98811 974 2,98856 975 2,98900
+976 2,98945 977 2,98989 978 2,99034 979 2,99078 980 2,99113 981 2,99167 982
+2,99211 983 2,99255 984 2,99299 985 2,99344 986 2,99388 987 2,99432 988 2,99476
+989 2,99520 990 2,99563 991 2,99607 992 2,99651 993 2,99695 994 2,99739 995
+2,99782 996 2,99826 997 2,99869 998 2,99913 999 2,99956 1000 3,00000
+
+A Description and use of the Table of Logarithms.
+THe Table contains all absolute Numbers from One, to One Thousand, (sufficient
+for any operation in the Art of Gunnery.) In each Page of the Table is
+contained Six Columns; in the First, the Third and Fifth (toward the Left
+hand,) are contained all absolute Numbers beginning at 1, and so on by 2, 3, 4,
+5, 6, etc. to 1000; (having the Letter N. at the Head of each Column.)
+
+Then in the Second, Fourth and Sixth Column of every Page are contained the
+Logarithmical Numbers, answering each absolute Number, against which it
+stands, and these Columns have at the head of them the word Logar. The
+Numbers being thus disposed in the several Pages of the Table, it is easy to
+find the Logarithmical Number that answers there to any absolute Number that
+shall be required.
+
+Or on the contrary, if any Logarithmical Number be given, it will be easy to
+find the Absolute Number to which it belongs.
+
+For if you find your Absolute Number in any Column of the Table under the
+Letter N. that Number that stands in the next Column to it on the Right hand
+under the Title Logar. is the Logarithmical Number thereunto belonging.
+
+And on the contrary, in what part of the Table soever you find any
+Logarithmical Number, that Number which stands in the next Column on the left
+hand thereof, is the Absolute Number so found.
+
+And note further, that all the Logarithmical Numbers between 1 and 10, have a
+Cipher before them; all Numbers between 10 and 100 have the Figure 1 before
+them; all Numbers between 100 and 1000, have the Figure 2 before them; which 1
+and 2 Figures are called the Characteristiques of those Numbers.
+
+And to the end what I have here delivered may be made plain, I shall give
+examples thereof in the Two following Propositions.
+
+Prop. 1.
+Let it be required to find the Logarithmical Number belonging to 16; turn to
+the Table in the First Column of the First Page, where you will find 16, under
+the Letter N. and right against it toward the Right hand, you shall find this
+Number, 1,20412, which is the Logarithm thereof.
+
+Likewise in the same Page and Column against 25, you will find 1,39794, which
+is the Logarithm thereof.
+
+Also you shall (by the same Rule) find that The Logarithm of 4 will be 0,60206
+The Logarithm of 51 will be 1,70757 The Logarithm of 321 will be 2,50650
+and by the Converse of what is here delivered, you may find the Absolute
+Number answering to any given Logarithms as in the following Proposition.
+
+Prop. 2. A Logarithmical Number being given, to find the Absolute Number
+thereunto belonging.
+Let it be required to find the Absolute Number belonging to this Logarithm,
+1,20412; look in the Table in the First Page thereof, and casting your Eye down
+among the Numbers, under the word Logar. you will find this Number 16, to stand
+just against it, on the Left Hand which is the Absolute Number of that
+Logarithm.
+
+The same is to be understood of all other Numbers comprised in the foregoing
+Table.
+
+Observing this Caution; when you have a Logarithmical Number given, (which
+when you look for) you cannot find in the Table, you must then take the nearest
+Number thereto, and the Absolute Number which stands against it, is the nearest
+(less) whole Number, which you must take.
+
+As for Example.
+
+If you have this Logarithmical Number, 0,63258, which if you look for in the
+Table, you cannot find it; therefore you must take the nearest less Number
+which you will find to be 0,60206; and right against it (on the Left hand), you
+will find to be 4, the nearest Absolute Number to that Logarithm.
+
+Let this suffice for the Description; next follows the Use.
+
+The Use of the Table of Logarithms in Arithmetic, which shall be exemplified
+in Questions of Multiplication, Division, and the Extracting the Square and
+Cube Roots, being such parts of Arithmetic which tend wholly to the matter
+intended in this Treatise; and therefore I shall begin with Multiplication.
+
+Multiplication by the Logarithms.
+YOu must add the Logarithms of the Two Numbers, (to be Multiplied together,)
+and the Sum of them will be the Logarithm of the Number produced by that
+Multiplication.
+
+Example.
+
+Let it be required to Multiply 48 by 5; First set down the Two Numbers to be
+Multiplied One under another, and to them set their respective Logarithms, as
+in the Margin; which being added together, the Sum of them (which is the
+Logarithm of the Product) being sought in the Table, the Absolute Number
+answering thereto is 240, the Product of those Two Numbers Multiplied together.
+
+48 1,68124 5 0,69897 240 2,38021
+
+Division by the Logarithms.
+AS Multiplication (by the Logarithms) was performed by Addition, so Division
+is performed by Subtraction: Wherefore to perform Division, you must Subtract
+the Logarithm of the Number, by which you are to Divide from the Logarithm of
+the Number, which is to be Divided, and the Number which remains shall be the
+Logarithm of the Quotient.
+
+Example.
+
+Let it be required to Divide 228 by 12; 228.2,35793 12.1,07918 19.1,27875
+First set down the Logarithm of 228, and under it set the Logarithm of 12, and
+Subtract the Lesser from the Greater, the Remainder is the Logarithm of the
+Quotient; which being sought in the Table, you will find 19 to be the Answer of
+the Question, being the Quotient sought: And so many times is 12 contained in
+228.
+
+Of a CIRCLE.
+1. The Diameter being given, to find the Circumference by the Logarithms.
+THe Proportion is as 7 to 22, so is the Diameter to the Circumference.
+
+Wherefore to find the Circumference of any Circle, whose Diameter is given,
+
+Add the Logarithm of the Diameter given to the Logarithm of 22, and from the
+Sum of them Subtract the Logarithm of 7, the Remainder shall be the Logatithm
+of the Circumference sought.
+
+Example.
+
+If the Diameter of a Circle be 113, what is the Circumference?
+
+First set down the Logarithm of 22, which is -- 1,34242 2,05308 3,39550
+0,84510 2,55040Add the Logarithm of 113 which is from which Subtract the
+Logarithm of 7, which is -- which being sought in the Tables is the nearest
+Logarithm of 355; and so much is the Circumference of a Circle, whose Diameter
+is 113.
+
+2. The Circumference of a Circle being given, to find the Diameter.
+The Proportion is as 22 is to 7; so is the Circumference to the Diameter.
+
+Wherefore to the Logarithm of 7, add the Logarithm of the Circumference given,
+and from the Sum, Subtract the Logarithm of 22, the Remainder shall be the
+Logarithm of the Diameter.
+
+Example.
+
+If the Circumference of a Circle be 355, what is the Diameter thereof?
+
+First set down the Logarithm of 7. which is -- 0,84510 2,55023 3,39533 1,34242
+2,05291and to it add the Logarithm of 355 from which Subtract the Logarithm of
+22 -- and the Remainder is the nearest Logarithm of 113, -- which is the
+Diameter required.
+
+3. The Diameter of a Circle being given, to find the Area or Superficial
+Content thereof.
+The Proportion is as 28 is to 22, so is the Square of the Diameter to the Area.
+
+Wherefore to the Logarithm of 22, add the Logarithm of the Diameter doubled,
+and from the Sum subtract the Logarithm of 28, the Remainder shall be the
+Logarithm of the Area required.
+
+Example.
+
+If the Diameter of a Circle be 12, what is the Area or Superficial Content
+thereof?
+
+First set down the Logarithm of 22, which is -- 1,34242 1,07918 1,07918
+3,50078 1,44716 2,05362and to that the Logarithm of 12, the given Diameter, set
+down -- Twice -- Add all Three together, -- from which Subtract the Logarithm
+of 28, -- The Remainder is the nearest Logarithm to the Number 113, and some
+small matter more is the Area of that Circle.
+
+4. The Circumference of a Circle being given, to find the Area.
+The proportion is as 88 is to 7; so is the Square of the Circumference to the
+Area.
+
+Wherefore to the Logarithm of 7, add the Logarithm of the Circumference Twice,
+and from the Sum Subtract the Logarithm of, 88; the Remainder shall be the
+Logarithm of the Area required.
+
+Example.
+
+If the Circumference of a Circle be 38, what is the Area thereof?
+
+First set down the Logarithm of 7, which is 0,84510 To which add the Logarithm
+of 1,57978 the Circumference Twice. 1,57978 The Sum 4,00466 Subtract the
+Logarithm of 88, 1,94448 the Remainder is the nearest Logarithm of 115 the Area
+sought. 2,06018
+
+CHAP. IV. CONTAINING Geometrical Rudiments Useful in the Art of GUNNERY.
+How to raise a Perpendicular from the middle of a Line given.
+LEt the Line given be A. B. and let C be a Point therein given, from which it
+is required to raise a Perpendicular. First therefore open the Compasses to any
+convenient distance; and setting one Foot in the Point C, with the other set
+off on either side thereof the equal distances C A, and C B; then opening the
+Compasses to any convenient wider distance, setting one Foot in the Point A,
+with the other strike the Occult Arch at F, geometrical diagram the^ with the
+same distance, set one Foot in the Point B, and with the other draw the Arch F,
+crossing E in the Point D; from whence draw the Line DC, which Line is a
+Perpendicular unto the given Line A, B, as was required.
+
+To let a Perpendicular fall from a Point assigned, to the middle of a Line
+given.
+Let the Line given whereupon you would have a Perpendicular let fall, be the
+Line B C D, and the Point A to be the Point assigned from whence you would have
+the Perpendicular let fall from the given line B C D; First set one Foot of
+your Compasses in the Point A, and opening them to any convenient distance, so
+that it be more than the line A C; Describe one Arch of a Circle with the other
+Foot, so that it may cut the line B C D, twice, that is, at E and at F;
+geometrical diagram then find the middle between these, which will be the Point
+C; from which Point draw the line at C, which is the Perpendicular which was to
+be let fall.
+
+To raise a Perpendicular upon the end of a Line given.
+Suppose the line whereupon you would have the Perpendicular raised, be the
+line A B; first open your Compasses to a convenient distance, and set one Foot
+in the Point B, and let the other Foot fall any where above the line, as at the
+Point D; and in that Point, let one Foot of your Compasses remain, turning the
+other about until it touch the line A B, in the Point E, geometrical diagram
+then turn the same Foot of the Compasses toward C, and draw an Occult Arch,
+and lay the Edge of a Ruler to those Two Points E and D, and where the same
+edge of the Ruler does cut the Arch C, from that Point draw the line C B, which
+shall be a Perpendicular at the end of the line A B.
+
+To let fall a Perpendicular from a Point assigned, unto the end of a Line
+given.
+Let the line A B be given, unto which it is required to let a Perpendicular
+fall from the assigned point D unto the end A. First, from the assigned point
+D, draw a line unto any point of the given line A B, which may be the line D C
+E; then find the middle of the line D E, which is at C, place one foot of your
+Compasses in that point, and extend the other foot unto D or E, with which
+distance draw the Semicircle D A E, which shall cut the given line A B, in the
+point A, geometrical diagram from which point draw the Line D A, which is the
+Perpendicular let fall from the assigned point D, on the end of the given line
+A B, as was required.
+
+To draw a Line Parallel to a Line given.
+Let A B, be a Line given, whereunto it is required to draw a Parallel. First,
+set one Foot of the Compasses in the point, C, and opening the other Foot at
+pleasure, draw the Arch E, then with the same distance set one Foot in the
+point D, and draw the other Arch F. geometrical diagram Lastly, lay a Rule to
+the convexities of both those Arches, and draw the line G H, which shall be a
+Parallel to A B, as was required.
+
+A Geometrical Problem useful in the Art of Gunnery.
+A Geometrical way to find the Diameter of any Bullet that weighteth twice as
+much as a known Bullet.
+TAke the Diameter of the lesser Bullet, whose weight you know, and square that
+Diameter. (viz.) Make a Geometrical Square, each side to be equal to the
+Diameter of the Bullet given, then draw a Diagotal line from either of the Two
+opposite Angles, and that Diagonal shall be the Diameter of a Bullet twice the
+weight of the other; then divide the said Diagonal into Two equal parts,
+setting one Foot of the Compasses in the midst of that Diagonal, and with the
+other Foot describe a Circle, and that Circumference will represent a Bullet
+twice as much weight as the other.
+
+The sight of the Annexed Figure, is a sufficient Explanation.
+
+geometrical diagram
+
+A B is the Diameter of the lesser Bullet A C, the Diameter of the greater.
+
+Performed by Arithmetic.
+Suppose the Diameter of the lesser Bullet be Five Inches, the Square thereof
+is Twenty Five, the Double of it is Fifty, the Root thereof is 7 1/7 and so
+much is the Diameter of the greater Bullet.
+
+The weight of any Shot given, to find the Diameter Geometrically.
+Suppose a Shot be One, Two or Three Pound weight of Metal, or Stone assigned,
+if one Pound divide the Diameter into Four parts, and Five such parts will make
+the Diameter of a Shot of the said Metal or Stone, that shall weigh just Two
+Pound.
+
+Divide the Diameter of a Shot weighing just Two Pound in Seven equal parts,
+and Eight such parts will make a Diameter of a Shot of Three Pound. And divide
+the Diameter of a Shot of Three Pound into Ten equal parts, and Eleven such
+makes a Shot of Four Pound.
+
+Divide the Diameter of a Shot of Four Pound into Thirteen parts, Fourteen such
+parts will make a Diameter for a Shot of Five Pound.
+
+And so dividing each next Diamter into Three equal parts more, the next Lesser
+was divided into; and it will with one part added from a Diameter of a Shot,
+that will weigh just one Pound more. So you may proceed infinitely increasing
+or decreasing, by taking one part less than it is appointed to be divided into.
+
+CHAP. V. Geometrical Theorems AND PROBLEMS.
+Theorem 1.
+ALL Circles are equal to that Right Angled Triangle, whose containing sides,
+the one is equal to the Semidiameter, and the other to the Circumference
+thereof.
+
+Theorem 2.
+The proportion of the Diameter of a Circle to the circumference, is as
+1,000000 to 3,141593 fere, or as (Archim.) 7 to 22.
+
+Theorem 3.
+The proportion of the Diameter to the side of the Square equal to the Circle,
+is as 1,000000 to 886227 fere.
+
+Theorem 4.
+The proportion of the Diameter to the side of the inscribed Square, is as
+1,000000 to 707107 fere.
+
+Theorem 5.
+The proportion of the Circumference to the Diameter, is as 1 to.318310 fere;
+or as 22 to 7.
+
+Theorem 6.
+The proportion of the Circumference to the side of the Square equal to the
+Circle, is as 1 to.282095.
+
+Theorem 7.
+The proportion of the Circumference to the side of the inscribed Square, is as
+1 to.225078.
+
+Arithmetical Problems appertaining to the Art of Gunnery, and wrought by
+Decimal Arithmetic, by the Logarithms, and Gunter 's Scale.
+PROB. 1. The Diameter of a Circle being given, to find the Circumference.
+The Analogy.
+AS 1 is to the Diameter, so is 3.142 to the Circumference; or as 7 to 22, so
+is the Diameter to the Circumference.
+
+If the Diameter of a Circle be 15 Inches, what is the Circumference by Gunter
+'s Scale?
+
+By the Logarithms.
+As the Log. of 15 (the Diameter) 1,17609 is to the Logarithm of 3,142 0,49720
+so is the Logarithm of 0,00000 to the Logar. of the Answer. 47,1367329
+
+Extend the Compasses (upon the Line of Numbers) from 1 to the Diameter, the
+same extent will reach from 3.142 to 47.13 the Circumference.
+
+PROB. 2. The Circumference of a Circle being given, to find the Diameter.
+The Analogy.
+AS 3,142 is to 1, so is the Circumference 47:13 to the Diameter 15 Inches.
+
+If the Circumference of a Circle be 47 Inches, and 13 parts of a 100 (
+supposing every Inch to be divided into 100 parts,) what is the Diameter? or as
+22 to 7, so is the Circumference to the Diameter.
+
+By the Logarithms.
+As the Logarithm of 3,142 0,49720 is to the Logarithm of 1 0,00000 so is the
+Logarithm of 47.13 1,67329 to the Logar of the Answer. 1,67329 15 1,17609
+
+By Gunter's Scale.
+Extend the Compasses upon the line of Numbers from 47.13 the Circumference,
+the same extent, the same way shall reach from 3,142. to the Diameter 15.
+
+PROB. 3. The Diameter of a Circle being given, to find the side of a Square
+equal to it.
+If the Diameter of a Circle be 15 Inches, what shall be the side of a Square
+equal to it?
+
+The Analogy.
+AS 1 is to 15, so this Number 8862 to 13.29 the side of a Square equal in
+content to that Circle.
+
+By the Logarithms.
+As the Logarithm 1 0,00000 is to the Logarithm 15 1,17609 so is the Logarithm
+of 8862 0,94753 to the Answer 13,29 2,12362
+
+By Gunter 's Scale.
+Extend the Compasses from 1 to 8862, the same extent shall reach from 15 to
+13.29.
+
+PROB. 4. The Circumference of a Circle being given, to find the side of a
+Square, equal in content to that Circle.
+If the Circumference of a Circle be 47, 13, the side of a Square equal to it
+is required.
+
+The Analogy.
+AS 1 is to 47.13 so is this Number 2821, to 13.29 the side of the Square
+required.
+
+By the Logarithms.
+As the Logarithm of 1 0,0000 is to the Logarithm of 4713 0,67329 ^o is the
+Logarithm of 2821 0,45040 to the Answer 13,29 1,12369
+
+By Gunter's Scale.
+Extend the Compasses upon the Line of Numbers from 1 to 2812, the same extent
+shall reach the same way from 47.13 to 13.29 the side of the Square required.
+
+PROB. 5. The Diameter of any Spherical body being known, to find the
+Circumference.
+Let the Diameter of a Bullet be 9 Inches, and the Circumference demanded.
+
+The Analogy.
+AS 1 is to 3,142, so is 9 to 28,28 fere, the Circumference sought.
+
+By the Logarithms.
+The Log. of 3,124 -- 0,49720 Being Added, gives the Log, of 28,28. and the
+Log. of 9 Inch. 0,95424 Being Added, gives the Log, of 28, 28. 1,4 5144 Log.
+Required.
+
+By Gunter's Scale.
+Extend the Compasses from 1 to 9, the same extent shall reach from 3,142 to
+28,28 Inches the Circumference required.
+
+PROB. 6. The Circumference of any Spherical body being known, to find the
+Diameter.
+Let the Circumference of a Bullet be 28,28 Inches, and 28 Hundred parts, the
+Diameter is required.
+
+The Analogy.
+AS 3.142 is to 1, so is 28,28 to 9 Inches, the Diameter required.
+
+By the Logarithms.
+Log. 28.28 145144 Log. 3,142 049720 Subtracted.,95424 Log. 9. Required.
+
+By Gunter 's Scale.
+Extend the Compasses upon the Line of Numbers from 3,142 to 1, the same extent
+the same way shall reach from 28.28 to 9 the Diameter required.
+
+PROB. 7. The Diameter and Circumference of any Spherical Body being known, to
+find the Superficial Content?
+Let the Diameter of a Shot be 9 Inches, and the Circumference 28 Inches and
+2800 parts of an Inch, how many Square Inches is there contained on the
+Superficies of that Shot.
+
+The Analogy.
+AS 1 is to 9 Inches the Diameter, so is 28,28 the Circumference to the
+Superficies 254,5.
+
+So that there is contained in the Superficies of the same Bullet 254 Inches
+and an half.
+
+By the Logarithms.
+Log. 9. 95424 Log. 28,28 145144 S. 254,512-40568 Log. Required.
+
+By Gunter's Scale.
+Extend the Compasses from 1, to 28 28 on the Line of Numbers, the same extent
+the same way shall reach from 9 to 254,5, the Superficial Content required.
+
+Or else by knowing the Diameter, work thus; Extend the Compasses from 1 to 81,
+the Square of the Diameter, and the same extent will reach from this Number 3,
+142, to 254, 5 the Superficial content as before.
+
+PROB. 8. The Axis or Diameter of a Globical body being known, to find the
+Solid Content.
+If the Diameter of a Shot be 9 Inches, what is the Solid Content in Square
+Cubical Inches?
+
+The Rule for this and the like Questions is this; as the Diameter is to the
+Cube itself, so is 11 to the Solid Content.
+
+The Analogy.
+AS the Diameter 9 is to the Cube thereof 729, so is 11 to the Solid Content in
+Cubical Inches.
+
+By the Logarithms.
+As Logar. 9 0,95424 is to Logar. 729 2,86272 so is Logar. 11 1,04139 to the
+Cubical Content. 3,90411 891 2,94987 Log. found.
+
+By Gunter's Scale.
+Extend the Compasses from 9 to 11, the same extent shall reach from 729 to
+891, the Cubical Inches contained in that Bullet, or the extent from 1 to the
+Diameter, being thrice repeated from. 5238, will reach the Solid Content
+required.
+
+PROB. 9. The Diameter of a Bullet being given with the weight, to find the
+weight of another Bullet of the same Metal, but of another Diameter, either
+greater or lesser.
+Let there be propounded an Iron Bullet of 4 Inches Diameter, weighing 9 Pound,
+and let the Question be put to know what another Bullet (of the same Metal)
+will weigh that is of 8 Inches Diameter.
+
+The Analogy.
+AS the Cube of 4 the First Diameter which is 64, is to 9 l. so is the Cube of
+8 the last Diameter, which is 512, to 72 l. the weight required.
+
+By the Logarithms.
+The Rule.
+Triple the difference of the Logarithms which belong to the Two Terms, which
+have the same denomination; then if the First Term be less than the Second, add
+that Sum to the Logarithm of the other Term: so you shall have the Logarithm of
+the 4th Term desired.
+
+Diameter 4 Inches, Logar. 0,60206 Diameter for 8 Inches, Logar. 0,90309
+Difference, 30103 Difference tripled 0,90309 Weight given 9 l. Logar. 0,95424
+Weight required 72 l. Logar. 1,85735
+
+By Gunter's Scale.
+Extend the Compasses from 4 to 8, the same extent from 9 thrice repeated, will
+reach to 72, the Answer required.
+
+So if a Bullet of 4 Inches Diameter weigh 4 l, a Bullet of 6 Inches Diameter,
+shall weigh 30 l, and a Bullet of 7 Inches Diameter shall weigh 47 ^. l, and a
+Bullet of 3 Inches Diameter, shall weigh 4 l.
+
+But here it is necessary to show what Proportions there are between several
+Metals used for this purpose; as of Brass, Iron, Lead and Stone, according to
+the best Approved Authors.
+
+1. The proportion between Lead and Iron, is as 2 to 3; so that a Leaden Bullet
+of 3 Pound weight, is equal in Diameter with an Iron Bullet of 2 Pound weight.
+
+2. The proportion between Iron and Stone, is as 3 to 8; therefore a Stone of 6
+Pound weight is equal in bigness to a piece of Iron of 16 Pound weight.
+
+3. The proportion between Lead and Stone, is as 4 to 1; so that a Bullet of
+Lead of Eight Pound, and a Stone Bullet of Two Pounds, are equal in Diameter.
+
+4. The proportion between Iron and Brass, is as 16 to 18; and the proportion
+between Lead and Brass, is as 24 to 19.
+
+And here note, that some Stone is heavier than other, and so likewise of
+Metals, the finer they are, the heavier they be, being of the same magnitude.
+
+PROB. 10. Having the weight of a Bullet of one kind of Metal, to find the
+weight of a Bullet of another kind of Metal, being equal in magnitude.
+Example. If a Leaden Bullet weigh 106 Pounds, what will a Bullet of Marble
+weigh?
+By the Third Rule aforegoing, it is found that a Bullet of Lead to the Bullet
+of Stone, bears such proportion as 4 to 1.
+
+The Analogy.
+AS 4 1 106 26,5.
+
+Performed by the Logarithms.
+The Logarithm of 106 is,02530 The Logarithm of 4 is,60206 The Logarithm of
+26,5 found 42324
+
+By Gunter's Scale.
+Extend the Compasses upon the Line of Numbers from 4 to 1, the same extent
+from 106 shall reach the same way to 26,5 the weight of a Stone Bullet that is
+equal in bigness to that Leaden one of 106 Pound.
+
+On the contrary, having the weight of a Stone Bullet, to find the weight of a
+Leaden Bullet of the same magnitude; extend the Compasses from 1 to 4, the same
+extent shall reach from 26,5 to 106.
+
+PROB. 11. A Bullet of Iron that weighs 72 Pound, what will a Bullet of Lead
+weigh that is equal to it in bigness?
+The Analogy.
+AS 2 3 72 108.
+
+By the Logarithms.
+Logarithm 2, 30103 Logarithm 3,,47713 Logarithm 72,,85733 1,33476 Logarithm
+108, 03343
+
+By Gunter 's Scale.
+Extend the Compasses from 2 to 3, on the Line of Numbers, the same extent
+shall reach from 72 to 108 the weight sought.
+
+But if the weight of the Leaden Bullet be given, (viz.) 108, then to get the
+weight of the Iron Bullet.
+
+Extend the Compasses from 3 to 2, the same extent shall reach from 108 to 72,
+the weight of the Irom Bullet.
+
+PROB. 12.
+The Diameter and Weight of any one Cylinder or Piece of great Ordnance taken
+at the Base Ring being known, to find the weight of any other piece of the same
+Metal and Shape, either greater or lesser, its Diameter being only known.
+
+As for Example.
+If a Brass Saker whose Diameter is 11,5 Inches, what will another Piece weigh,
+whose Diameter is 8,75 Inches?
+
+By Arithmetic.
+The Analogy.
+AS 11,5 is to 1900 so is 8,75 to almost 8,37.
+
+By the Logarithms.
+As the Log. greatest Diam. 11,5 306069 The Log. of the least, 8,75 294200
+Difference Increasing 11869 Multiplied by 3 Produces this difference 35607
+Which being Subtracted from the Logarithm of the weight given, 1900 327853
+There remains the Log. 837 2,92245
+
+By Gunter 's Scale.
+Extend the Compasses from 11,5 to 8,75, the same distance will reach from the
+weight given, 1900 Pound being thrice repeated to 837 Pound,
+
+If a Piece of Ordnance of 4 Inches Diameter weigh 1600 Pound, what will
+another Piece weigh, being of the same shape and metal of 2 Inches Diameter?
+Answer, 200 Pound.
+
+PROB. 13.
+Having the Diameter and weight of any Piece of great Ordnance of one Metal, to
+find the weight of another Piece of Ordnance of another Metal that is of the
+same shape.
+
+In this Problem there will be required a double operation to find out its
+weight.
+
+Example.
+Let there be a Brass Piece of Ordnance of 11,5 Inches Diameter at the Base
+Ring, weighing 1900 Pound (as before,) and let the Question be to find the
+weight of an Iron Piece of Ordnance of the same shape; viz. 8,75 Inches
+Diameter.
+
+In this and the like cases, you must in the First place find the weight of the
+Piece 8,75 Inches Diameter, as in the last Theorem, as if it were a Brass
+Piece; and having found the weight to be 837 Pound, you must next seek the
+proportional Numbers, as in Page 116, at the latter end of the Ninth Problem,
+whose proportion is there found to be as 16 to 18, which is the proportion
+between Brass and Iron, Brass being the heavier Metal.
+
+Therefore having found the weight,
+
+The Analogy is
+AS 18 is to 16, so is 837 to 744.
+
+By the Logarithms.
+Log. of 18 1,25527 Log. of 16 1,20412,92272 Sum,12684 Log. found, 744,87157
+
+By Gunter's Scale.
+Extend the Compasses from 18 to 16, the same extent, the same way shall reach
+from 837 to 744.
+
+PROB. 14. To find the Superficial Content of the Unequal face of any Piece of
+Ordnance, and also of the Solid Content of the Concavity thereof.
+Suppose the Circumference of the Concavity be 22 Inches, and the length of it
+12 Foot, or 144 Inches, the Question is, what is the Superficial Content of the
+Unequal face, or what the Solid Content of the Concave Bore.
+
+For the Superficies the Analogy is,
+AS 1 22 144 3168, Square Inches.
+
+By the Logarithms.
+Logarithm 22,34242 Logarithm 144,15836 Logar. found, 3168,50078
+
+By Gunter 's Scale.
+Extend the Compasses from 1 to 22, on the Line of Numbers, the same extent,
+the same way shall reach from 144, to 3168, the Square Inches required.
+
+To find the Solid Content.
+First get the Semidiameter, which in this Example is 3, 5 Inches, and also the
+Semicumference, which here is 11, these being had,
+
+The Analogy is thus;
+
+AS 1 is to 3.5 11 38,5.
+
+So many Square Inches are contained in the Base or Plain of the Concavity of
+the Mouth.
+
+By the Logarithms.
+Logarithm 35 54407 Logarithm 11 04139 Logarithm 38,5 58546
+
+By Gunter 's Scale.
+Extend the Compasses from 1 to 3, 5 the Diameter of the Concave assumed, the
+same extent will reach the same way from 11 to 38,5, the Base of the Cylinder
+required.
+
+The Base of the Cylinder being thus found, to find the Solidity of the
+Cylinder.
+The Analogy.
+AS 1 is to 38,5 (the Area of the Base of the Cylinder,) so is the length of
+the Cylinder 144 Inches to 5544 Cubical Inches.
+
+By the Logarithms.
+Logarithm 385,58546 Logarithm 144,15836 Logarithm 5544,74382
+
+By Gunter 's Scale.
+Extend the Compasses on the Line of Numbers, from 1 to 38,5, the same extent,
+the same way shall reach from 144 to 5544.
+
+PROB. 15. To know how much of every kind of Metal is contained in any Brass
+Piece of Ordnance.
+If the proportions of Metals used by Gunfounders is supposed to be thus, that
+for every 100 Pound of Copper, to put in 10 Pound of Brass, and 8 Pound of Pure
+Tin; now supposing this Mixture to be true, let it be required how much of
+every sort of these Metals is in a Gun of 5600 Pound weight.
+
+For Answer to this and the like Questions, first join all the several mixtures
+together, that 100, 10, and 8, and this must be the First Number in the Rule of
+Proportion; the weight of the Piece, the Second Number, which here is 5600, and
+the Third Number is each several sort of Metal in the mixture, which is here
+100, 10, and 8.
+
+The Operation.
+The Sum of the common Mixtures are 118.
+
+And then the Analogies are thus,
+
+As 118 is to 5600,
+
+100 Copper, 10 Latten, 8 Tin. So is 100 4745,7 Copper, So is 10 474,6 Brass,
+So is 8 379,7 Tin. 118
+
+Analogy for the Copper is,
+As 118 to 5600, so is 100 to 4745,7 Copper.
+
+Analogy for Brass.
+As 118 to 5600, so is 10 to 474,6 fere, Brass.
+
+Analogy for Tin.
+As 118 to 5600, so is 8 to 379, 7 fere Tin.
+
+Which Three Sums thus found, 4745,7 474,6 379,7 56000 being added together,
+they make, the just weight of the piece propounded.
+
+By the Logarithms.
+The Proportions are thus wrought.
+
+For the Copper.
+Logarithm 118 071882 Logarithm 5600 748188 Logarithm 100 000000 748188 Log.
+found, 474,57 676306
+
+Here you are referred to a larger Table of Logarithms, than is in this Book,
+for this operation and the next following.
+
+For Brass.
+Logarithm 118 071882 Logarithm 5600 748188 Logarithm 10 000000 748188
+Logarithm found, 474,57 676306
+
+For Tin.
+Logarithm 118 071882 Logarithm 5600 748188 Logarithm 8 903090 651278 Logarithm
+379,7 579396
+
+By Gunter 's Scale. For the First Operation for Copper.
+Extend the Compasses from 118 (upon the Line of Numbers) to 5600, the same
+extent, the same way, shall reach from 100 to 4745,7.
+
+For Brass.
+Extend the Compasses from 118 to 5600, the same extent shall reach from 10, to
+4746, being one place less than the former.
+
+For Tin.
+Extend the Compasses from 118 to 5600, the same Extent, the same way shall
+reach from 8 to 379,7.
+
+PROB. 16.
+By knowing what quantity of Powder will load some one Piece of Ordnance, to
+find how much of the same Powder will load any other Piece of Ordnance, Greater
+or Lesser.
+
+Example.
+If a Saker of 3,75 Inches Diameter in the Bore requires Four Pound of Powder
+for its Load, what will a Demi Cannon of 6, 5 Inches Diameter in the Bore
+require?
+
+The Analogy.
+AS 4,75 is to 4, so is 6, 5 to 20 ^^ fore.
+
+But note, that it is here understood, that the Demy-Cannon ought to be as well
+Fortified as the Saker is; (viz.) it should bear the same proportion to the
+Saker, both in weight and thickness of Metal that the Bore thereof bears to
+the Saker; for the Demy-Cannon in this Example, ought to be 8351 Pounds, which
+would be of a Proportion to the Saker, to carry a proportional weight of Powder.
+
+But if the Demy-Cannon be found to want of its proportional weight with the
+Saker, as if it weigh but 6000 Pounds, then to find its due load in Powder
+answerable to its strength and weight of Metal,
+
+Multiply the weight thereof 6000 by 20,8 the Charge already calculated, and
+divide the Product by 8351, the weight it ought to have had, and the Quotient
+is 14,9; therefore 14,9 Founds is a sufficient Charge for such a Gun.
+
+A Table of the weight of Iron Shot in Pounds and Ounces, from One Inch
+Diameter, to Ten Inches, to every Eighth part of an Inch.
+Shot. b. oz 1 ^0 ^2 1 ^0 03 2 00 04 3 00 05 4 00 07 5 00 09 6 00 12 7 00 14 II
+01 02 1 01 05 2 01 09 3 01 14 4 02 03 ^ ^2 08 ^ ^^ ^^ ^ ^^ ^^ ^ ^^ ^^ ^ ^^ ^^ ^
+^^ ^^ ^ ^^ ^^ ^ ^^ ^^ ^ ^^ ^^ ^ ^^ ^^ ^ ^^ ^^ ^ ^^ ^^ 1 09 13 2 10 12 3 11 12 4
+12 13 5 13 14 6 15 01 7 16 04 V 17 09 1 18 14 2 20 05 3 21 13 4 23 26 5 25 00 6
+26 11 7 28 08 VI 30 08 1 32 05 2 34 05 3 36 06 4 38 09 5 40 14 6 43 04 7 45 11
+VII 48 03 1 50 13 2 53 09 3 56 06 4 59 05 5 62 05 6 65 07 7 68 10 VIII 72 00 1
+75 06 2 78 15 3 82 09 4 86 05 5 90 03 6 94 03 7 98 04 IX 102 08 1 106 13 2 111
+04 3 115 13 4 120 09 5 125 05 6 130 05 7 135 06 X 140 04
+
+The foregoing Table was Calculated from the Directions in this Chap Prob. 9.
+page 113.
+
+One Example will show the use of this Table.
+
+Example.
+
+Inquire the weight of a Shot whose Diameter is 6.
+
+Look for 6 Inches in the Column under Title Shor, and right against it in the
+Columns under Title lb. and oz. you will find 45 lb. and Eleven Ounces, the
+weight repuired.
+
+A Table showing the height and weight of Iron, Lead and Stone shot, according
+to their (...) in Inches and Qu^^ters, and their respective weights in Pounds
+and Ounces.
+Iron. Lead. Stone. Inches. Quarters. Pounds. Ounces. Pounds. Ounces. Pounds.
+Ounces. 1 0 ^ 0 0 3 0 1 1 1 ^ 0 0 6 0 3 1 2 ^ 0 0 9 0 4 1 3 1 0 0 13 0 5^ 2 0 1
+1 1 11 0 7 2 1 1 9 2 0 0 9 2 2 2 2 3 0 0 12 2 3 2 14 4 3 1 0 3 0 3 12 5 0 1 4 3
+1 4 12 6 9 1 8 3 2 6 1 8 11 2 9 3 3 7 5 9 14 2 7 4 0 8 15 11 5 2 13 4 1 10 10
+15 15 3 10 4 2 12 10 17 15 4 3 4 3 14 14 21 5 5 9 5 0 17 5 24 12 6 3 5 1 20 1
+30 0 7 8 5 2 23 2 35 10 8 14 5 3 26 6 39 9 10 10 6 0 30 0 45 0 11 4 6 1 34 0 51
+0 12 12 6 2 38 0 57 0 14 3 6 3 42 0 63 0 15 12 7 0 48 0 72 0 17 10 7 1 53 0 79
+0 19 14 7 2 58 0 87 0 24 12 7 3 64 0 96 0 24 0 8 0 72 10 106 26 14 8 1 78 0 117
+28 08 8 2 87 3 130 34 08 8 3 95 0 142 35 10 Iron. Lead. Stone. Inches.
+Quarters. Pounds. Ounces. Pounds. Ounces. Pounds. Ounces. 9 0 101 0 150 37 10 9
+1 109 6 161 40 4 9 2 121 10 181 44 2 9 3 132 11 198 49 8 10 0 138 0 207 51 10
+10 2 164 2 246 60 0 11 0 184 0 275 69 8 11 2 216 0 324 81 0 12 0 240 0 360 90 0
+13 0 305 0 451 114 0 14 0 389 2 583 146 8
+
+One Example will show the use of this Table.
+A Shot is 7 Inches ^ Diameter, which Number seek in the First Column; in the
+next, you have the weight of the Iron Shot, 64 Pound; and in the Third Column,
+you find the Leaden Shot to weigh 96 Pound; and in the 4th Column, the weight
+of the Stone Shot to be 24 Pound.
+
+A General Table of Gunnery showing the Length and Weight of most of our
+English Ordnance, the Diameter of their Bear, the weight of their Shot, the
+Ladles length, and their weight of Powder to Charge them.
+Names of the Pieces of (...). Diameter of the Bore. Length of the Piece.
+Weight of the Piece in Pounds. Breadth of the Ladle. Length of the Ladle.
+Inches. Parts. Feet. Inches. Pounds Inches. Parts. Inches. Parts. Basc. 1 2 4 6
+200 2 0 4 0 Rabanet. 1 4 5 6 300 2 4 4 1 Falconets. 2 2 6 0 400 4 0 7 4 Falcon.
+2 6 7 0 750 4 4 8 2 Minion Ordinary 3 0 7 0 800 5 0 8 4 Minion Large. 3 2 8 0
+1000 5 0 9 0 Saker Lowest. 3 4 8 0 1400 6 4 9 6 Saker Ordinary. 3 6 9 0 1500 6
+6 10 4 Saker Eldest. 4 0 10 0 1800 7 2 11 0 Demy-Culv. Low. 4 2 10 0 2000 8 0
+12 0 Names of the Pieces of Ordnance. Wetght of Powder. Diameter of the Shot.
+Weight of the Shot. Piece Shoots point blank. Pounds Ounces Inches. Parts.
+Founds Ounces Paces. Base. 0 8 1 1 0 3 60 Rabanet. 0 12 1 3 0 5 70 Falconets. 1
+4 2 2 1 9 90 Falcon. 2 4 2 5 2 8 120 Minion Ordinary. 2 8 2 7 3 5 120 Minion
+Large. 3 4 3 0 3 12 125 Saker Lowest. 3 6 3 2 4 13 150 Saker Ordinary. 4 0 3 4
+6 0 160 Saker Eldest. 5 0 3 6 7 6 163 Demy-Culv. Low. 6 4 4 0 9 0 174 Names of
+the Pieces of Ordnance. Diameter of the Bore. Length of the Piece. Weight of
+the Piece in Pounds. Breadth of the Ladle. Length of the ^addle. Inches. Parts.
+Feet. Inches. Pounds Inches. Parts. Inches. Parts. Demy-Calv. Ord. 4 4 11 0
+2700 8 0 12 6 Demy-Culv. Eld. 4 6 11 0 3000 8 4 13 4 Culverins Best. 5 0 11 0
+4000 9 0 14 2 Culv. Ordinary. 5 2 11 0 4500 9 4 16 0 Culv. Largest. 5 4 11 0
+4800 10 0 16 0 Demy-Can Low. 6 2 11 0 5400 10 4 20 0 Demi Can. Ord. 6 4 12 0
+5600 12 0 22 0 Demi Can. Lar. 6 6 12 0 6000 12 0 22 0 Cannon-Royal. 8 0 12 0
+8000 14 0 24 0 Four Dutch Pieces.
+A 3 Pounder. 2 94 11 0 750 5 5 18 0 A 6 Pounder. 3 70 10 0 1500 6 5 14 0 A 12
+Pounder. 4 61 9 0 3000 9 0 10 6 A 24 Pounder. 5 79 7 0 5000 11 0 9 0 Names of
+the Pieces of Ordnance Weight of Powder. Diameter of the Shot. Weight of the
+Shot. Piece Shoots point blank. Pounds Ounces Inches. Parts. Pounds Ounces
+Paces. Demy-Culv. Ord 7 4 4 2 10 12 175 Demy-Culv. Eld. 8 8 4 4 12 13 178
+Culverins Best. 10 0 4 6 15 1 180 Culv. Ordinary. 11 6 5 0 17 9 181 Culv.
+Largest. 11 8 5 2 20 5 183 Demy-Can. Low. 14 0 6 0 30 8 156 Demy-Can. Ord. 17 8
+6 1 32 5 162 Demy-Can. Lar. 18 0 6 5 40 14 180 Cannon-Royal. 32 8 7 4 59 5 185
+Four Dutch Pieces.
+A 3 Pounder. 10 8 5 56 24 0 120 A 6 Pounder. 6 0 4 40 12 0 160 A 12 Pounder. 3
+8 3 49 6 0 178 A 24 Pounder. 1 10 2 77 3 0 189
+
+One Example of the use of the foregoing Table is sufficient, which shall be of
+the Saker Ordinary, where you will find the Diameter of the Bore to be 3 Inches
+and ^ of an Inch, the length of the Piece to be 9 Foot, the weight of the Piece
+1500 Pound the breadth of the Ladle to be 6 Inches ^ of an Inch, and the length
+of the Ladle to be 10 Inches and ^, of which is half an Inch, and the weight of
+Powder to Charge that Piece is 4 Pounds, the Diameter of the Shot to be 3
+Inches ^, which is 3 Inches and ^, the weight of the Shot to be 6 Pound, and
+that the Piece shoots point blank 160 Geometrical Paces.
+
+CHAP. VI. Of the Different Fortifications of most Pieces of Ordnance.
+THere are Three Degrees used in Fortifying each sort of Ordnance, both Cannons
+and Culverings.
+
+First, Such as are ordinarily Fortified are called Legitimate Pieces.
+
+Secondly, Such whose Fortification is lessened, are therefore called Bastara
+Pieces.
+
+Thirdly, Those that are Extraordinary Pieces, are called Double Fortified.
+
+The Fortification is reckoned by the thickness of the Metal at the Touchhole,
+at the Trunnions, and at the Muzzle, in proportion to the Diameter of the Bore.
+
+The Cannons double Fortified, have full one Diameter of the Bore, in thickness
+of Metal at the Touchhole, and ^^ at the Trunnions, and in their Muzzle ^^.
+
+The Lessened Cannons have at their Touchhole or 12/16 of the Diameter of
+their Bore, in thickness of Metal, and ^^ at the Trunnions, and ^^ at the
+Muzzle.
+
+The Ordinary Fortified Cannons have 7/8 at the Touchhole, 5/^ at the
+Trunnions, and 3/^ at the Muzzle.
+
+All the Double Fortified Culverings, and all Lesser Pieces of that kind, have
+1 Diameter, and ^ at the Touchhole, ^^ at the Trunnions, and 9/16 at the
+Muzzle.
+
+The Ordinnary Fortified Culverings are Fortified every way as your Double
+Fortified Cannons; and the Lessened Culverings as the Ordinary Cannons in all
+points.
+
+CHAP. VII. How much Powder is fit for Proof, and what for Action for any Piece
+of Ordnance.
+FOR Cannons 4/^ of the weight of the Iron Shot for Proof, but for Service,
+half the weight of the Shot is enough, especially for Iron Ordnance, which will
+not endure so much Powder as Brass Guns by one quarter.
+
+For Culverings their whole weight of their Shot for proof, and for Service
+2/^, for the Saker and Falcon 4/^ of the weight of their Shot.
+
+And for Lesser Pieces, the whole weight of the Shot may be used in Service,
+till they grow hot, for then you must abate by discretion.
+
+For proof these Lesser Pieces, you may take one, and of the weight of the
+Shot, therein also must be respect had to the strength and goodness of the
+Powder, which is to be ordinary Corn Powder.
+
+To make Ladles to Load your Guns with.
+THe Ladles ought to be so proportioned for every Gun, that Two Ladles full of
+Powder may Charge the Piece; which in General Terms is thus.
+
+The breadth of all Ladles are to be Two Diameters of the Shot, that so a Third
+may be left open for the Powder to fall freely out of the Ladle, when you turn
+it bottom upwards; the length of the Ladles must be somewhat different,
+according as the Piece is Fortified.
+
+For Double Fortified Cannons, the length of the Ladle may be Two Diameters and
+One half of their Shot, besides so much as is necessary to fasten it to the
+Head of the Ladle-Staff, which will require One Diameter more of Plate; (but
+this is not reckoned to the length of the Ladle, because it holds no Powder.
+For Ordinary Cannons the Ladle must not exceed Two Diameters of their Shot in
+length.
+
+For Culverings and Demy-Culverings, the Ladle may be Three Diameters of their
+Shot, and Three and a half for Lesser Guns to load them at Twice.
+
+If you would load them at once, you must double the length of the Ladle.
+
+Observe this for a General Rule, that a Ladle Nine Balls in length, and Two
+Balls in breadth, will hold the just weight of the Shot in Powder.
+
+But note, that Iron Ordnance must have but Three Quarters of the Charge of
+Brass Ordnance.
+
+CHAP. VIII. To know what Bullet is fit to be used for any Gun.
+IT is convenient that the Bullet be somewhat less than the Bore of the Gun;
+that it may have vent in the Discharge, and not stick and break the Piece.
+
+Now some think one Quarter of an Inch less than the Bore, will serve for all
+Guns, but this vent is too little for a Cannon, and too much for a Falcon.
+
+It is more Rational and Artificial to divide the Bore of the Gun into Twenty
+equal parts, and let the Diameter of the Bullet be Nineteen of those parts,
+according to which proportion the Table aforegoing, in page 137 is Calculated.
+
+To make Cartridges, Moulds and Formers for any sort of Ordnance.
+THe matter of which Cartridges a made, are either Canvas or Paper Royal,
+either of which being prepared, take the height of the Bore of the Piece, and
+let the piece of Cloth or Paper be Three times the Diameter of the Bore or
+Chamber of the Piece for the Breadth, and for the length according as your
+Piece is; (that is to say,) for the Cannon the length of the Cartridge must be
+Three Diameters, in the length for Culverins, Saker, Falcons, etc. Four
+Diameters, leaving at the top or bottom one Diameter more for the bottom of the
+Cartridge, cutting each side somewhat larger for the sewing and glewing them
+together, having a due respect for the augmenting or diminishing of your
+Powder, according to the goodness or badness thereof, and to the extraordinary
+over-heating of your Piece; and according to what you are to have your
+Cartridges made, you must have a Former of Wood turned to the height of the
+Shot, and a convenient length longer than the Cartridge; before you paste or
+glue your Paper on the former, first tallow it, so will the Canvass or Paper
+slip off without starting or tearing; if you make Cartridges for Taper-bored
+Guns, your former must be accordingly tapered; if you make your Cartridges of
+Canvass, allow one Inch for the Seams, but of Paper ^ of an Inch, more than
+your 3 Diameters for pasting; when your Cartridges are upon the former, having
+a bottom ready fitted, you must past the bottom close and hard round about,
+then let them be well dried, and mark every one with black or red Lead, or Ink,
+how high they ought to be filled: And if you have no Scales nor Weights, these
+Diameters of Bullets make a reasonable Charge; for the Cannon two and a
+quarter, for the Culvering 3, and for the Saker 3 and a half, for the lesser
+Pieces 3 and a quarter of the Diameter of the Bullet, and let some want of
+their weight against the time they are over-hot, or else you endanger your self
+and others.
+
+CHAP. IX. Containing certain THEOREMS IN GUNNERY.
+THEOREM I.
+THere are Three material causes of the greater violence of any Shot made out
+of a great Gun, viz. the Powder, the Piece, and the weight of the Bullet.
+
+THEOREM II.
+Powder is compounded of Three Principles or Elements, Saltpeter, Sulphur and
+Coal, whereof it is that which causes the greater violence.
+
+THEOREM III.
+Although Saltpeter be indeed the only and most material cause of the
+violence, and that Powder is made more forcible, wherein is the greater
+quantity of Petre; and of those forementioned Ingredients, there is a certain
+proportion to be used, as to render it the most fit for Service upon several
+considerations; of which more hereafter.
+
+THEOREM IV.
+Although Powder is the principal and efficient cause of the Force and violence
+of any Shot, yet such due consideration ought to be had to the proportions
+therein used in the Art of Gunnery, as giving more or less than the due
+proportion, it may diminish the force of the Shot.
+
+THEOREM V.
+There is such a convenient weight to be found of the Bullet, in respect of the
+Powder and Piece, as the Bullets Metals being heavier or lighter than that
+weight, shall rather hinder than farther the violence of the range of the Shot.
+
+THEOREM VI.
+There is such a convenient Proportion to be found for the Length of every
+Piece to its Bore, or the Diameter of the Bullet, in respect of the Powder and
+weight of the Ball; as either increasing or diminishing that Proportion, it
+shall abate or hinder the violence of the Shot.
+
+THEOREM VII.
+Besides these three most material Causes of violence, the several Randoms or
+different Mountures of Pieces will cause a great Alteration, not only in the
+far shooting of all Pieces, but also of their violent Battery.
+
+THEOREM VIII.
+Besides these aforementioned, there are many other accidental Alterations
+which may happen, (especially at Sea,) sometimes by reason of the Wind, the
+Rarity or Condensation of the Air, the heating or cooling of the Piece; The
+different charging by ramming the Powder fast or loose, by close or loose lying
+of the Bullet; By the unequal recoil of the Piece, or by reason of the Ship
+being upon a Tack, and the Gun standing on the wind-ward or Lee-ward side of
+the Ship, or by the uneven lying of the Piece in the Carriage, with diverse such
+like Accidents, whereof no certain Rules can be prescribed to reduce those
+uncertain Differences to any certain Proportions: but all these by Practice,
+Experience and a good judgment are to be performed.
+
+THEOREM IX.
+Any Piece being mounted 90 degrees above the Horizon directly to the Zenith,
+the violent Motion, (being in that situation directly opposite to the Natural)
+carries the Bullet in a perfect right-line directly upward, till the form of
+the violence is spent, and the natural Motion gotten the victory; then does the
+Bullet return down again by the same perpendicular Line.
+
+THEOREM X.
+But if any Piece is discharged upon any Angle of Mounture; although the
+violent Motion contend to carry the Bullet directly by the Diagonal Line, yet
+as the natural Motion prevails, it constrains it to a Curvity; and in these two
+Motions is made that mixed Compound or Helical Curvity. And here note, that
+although the last declining Line of the Bullets Circuit seems to approach
+somewhat to the Nature of a right Line; yet it is indeed Helical, and mixed so
+long as there remains any part of the violent motion; but after that is
+spent, then his motion is absolutely perpendicular to the Horizon.
+
+From whence may be collected this Corrolary, That any Piece being mounted to
+any degree of Random, shall make the Horizontal range proportional to the
+Degree of Elevation, of which you have a Resemblance in the Annexed Scheme,
+Plate I.
+
+Any Piece therefore discharged at any Mounture or Random, first throws forth
+her Bullet directly to a certain distance, called the Point Blank Range, and
+then afterward makes a Curve, or declining Arch, and lastly finisheth in a
+direct Line, or nigh inclining toward it; therefore the farther any Piece
+shoots in her direct Line (commonly called Point Blank) the more force she
+has in the Execution; and the more ponderous the Bullet is, the more it
+shakes in battery, although it pierces not so deep.
+
+THEOREM XI.
+The utmost Random of any Piece of Ordnance, is generally judged to be at 45
+Degrees of Elevation; and if you mount your Piece to a greater Angle, the
+Random of the Bullet will be shorter; and to know the right Range of most
+Pieces, you may see in this annexed Table, as the Title may inform you, where
+you may see the Horizontal Range or Point blank, and the utmost Random of each
+respective Piece, the latter being commonly ten times the distance of the right
+Ranges.
+
+And for the Right Ranges and Random to several Degrees of Mounture, you may
+note these ensuing Tables, which is measured by Paces, 5 Foot to a Pace.
+
+A Table of Right Ranges or Pointblanks at several Degrees of Mounture. A Table
+of Randoms at several Degrees of Mounture. The Degrees of Mounture. Right
+Ranges. The Degrees of Mounture. Right Randons. 0 19 0 192 1 209 1 289 2 227 2
+404 3 244 3 510 4 261 4 610 5 278 5 712 6 285 6 828 7 302 7 934 8 320 8 1044 9
+337 9 1129 10 354 10 1214 20 454 20 1917 30 693 30 2185 40 855 40 2289 50 1000
+50 2283 60 1140 60 1792 70 1220 70 1214 80 1300 80 1000 90 1350 90 0000
+
+A Diagram for Randoms upon each first Six points of the Gunners Quadrant
+A Scale of Paces
+
+to face Page 156
+
+
+
+CHAP. X. Necessary Instructions for a Sea-Gunner.
+1. THE First thing is, that when a Gunner comes into a new Ship, that he
+diligently and carefully measure his Guns, to know they are full fortified, be
+reinforced or lessened in Metal.
+
+2. Then he must with a Ladle and Sponge, draw and make clean all his Guns
+within, that there may be no old Powder, Stones, Iron, or any thing that may do
+harm.
+
+3. That he search all the Guns within, to see if they are taper Chamber'd, or
+true bored, or whether they be Cracked, Flaw'd, or Honey combed within; and
+finding what Ball she shoots, to mark the Weight of the Ball over the Port;
+that thereby he may see the Mark or Number upon the Carriage and Case; so that
+in time of service they may not go wrong.
+
+4. The Guns being dimensioned and clean as aforesaid, take half a Ladle of
+Powder for every Gnn, and blow them off, sponge them well; and finding them
+clean, you may load them with their respective Cartridges and Powder, they
+being ramm'd home with a strait Wadd after it.
+
+Then let the Ball role home to the Wadd, and set a Wadd close home to the
+Ball, that the Ball may not roll out with the motion and tumbling of the Ship.
+
+Then must you Tomkin that Piece at the Muzzle, with a wooden Tomkin, which you
+must tallow round about, to preserve the Powder from wetting.
+
+Likewise make a little Tapon of Ockam for the Touchhole, which must be
+tallowed also, to prevent any wet coming to the Powder that way; then let your
+leaden Apron be put over it; then make your Piece fast, as occasion presents.
+
+5. The Piece being loaded and fast, then provide to every Piece 24 Cartridges
+at least, ready made; that is to say, 12 filled, and 12 empty.
+
+Likewise you must be careful, so long as the Gunner's Crew are busy with the
+Powder, that there be no burning Match or Fire in the Ship; Also to lay his
+Cartridges in Barrels or Chests, that when there is occasion to use them, they
+may be without abuse.
+
+6. The Gunner must see that he sorts his Ball very well, and lay every sort by
+themselves in several Cases; and upon every Case set the Weight of one of the
+Shot, which is in them.
+
+Also you ought to make the Bags for Hail for the Guns above, and fill them
+with Stones, small Shot, or Pieces of old Iron, which may be a great annoyance
+to the Enemies Men.
+
+7. If it falls out that any new Ports must be cut out in the Ship, you must be
+careful that it be made over a Beam, or as near one as possible you can; Also
+that they be not higher or lower than the Ports before; likewise that there be
+room for the Guns to play, because if one Gun be dismounted, there might be
+another brought to her place: And observe that the Carriage stand on her
+Trucks. The uppermost part of the Carriage must stand in the middle of the
+Port, up and down, that a Man may lay his Piece as you please.
+
+8. You must be careful that the Powder in the Powder-Room be well covered with
+Hides: And also that the Ropes, Rammers, and Spunges be ready at hand. And you
+must not let the Powder be unturned above a Month, because the Saltpeter will
+be apt to sink to the lower part of the Barrel, which would be dangerous to
+make use of that Powder; And you must every Month draw your Guns; if you think
+they have got any wetness or moisture in the Powder; Also for fear of the Salt
+Petre dissolving, which may prejudice the Piece. You must also be careful of
+the Candle and Fire about the Gun Room, and especially the Powder Room, that
+there may come no disafter.
+
+Likewise a Gunner must keep a good Account of all Materials that belong to the
+Guns, as Ball, Match, and Powder. What part thereof he spends, also what
+remains.
+
+9. A Gunner must use all diligence before they engage with an Enemy, to set a
+Barrel of Water betwixt every two Guns, that when they have convenience they
+may dip the Spunges for the cooling of the Guns, and for fear of Fire remaining
+in the Piece, which may do hurt.
+
+10. Also you must be sure that there be no melted Fireworks done in the Ship,
+but ashore; for it is dangerous, and a great hazard to the Ship, and Goods; and
+Men's Lives may thereby be destroyed.
+
+Also that in time of service, no Fireworks be brought up in the Round-house,
+or great Cabin, to stand, for fear of Shot coming from the Enemy may fire it,
+and so destroy the Ship. But rather to have them kept below in the Powder-Room,
+or Steward-Room, to prevent Danger.
+
+11. Necessaries that a Gunner ought to have for his Ordnance, and the quantity
+thereof according to the Length of the Voyage, the Quantity and Quality of his
+Guns.
+
+Also if you go in a Man of War, or a Merchant-man, then there is difference of
+Provisions; only I will here name them all that belong to a Sea Gunner, that he
+may take such a Proportion of each, as the occusion may require, and at the End
+of the Voyage to give an Account what Stores are spent, and what there is yet
+remaining.
+
+Gunners Stores.
+Powder and Match.
+
+Round-shot of every sort.
+
+Double-headed Shot.
+
+Cut Iron of a Foot, or a Fcot and a half long.
+
+Wooden Tomkins for each sort of Gun.
+
+Cartridge-Paper and Glue.
+
+Thread, Needles, Twine and Starch.
+
+Mallets, Handspikes, Rammer heads.
+
+Worms, Ladles, Spunge-heads, and Spungestaves, Beds and Quoins of several
+sorts.
+
+Old Shrouds for Breeching, and twice laid Stuff for Tackles.
+
+Lashers, double and single Blocks, new Rope for double Tackles.
+
+Some old Shrouds for Spunges, some Lines, Marline, Tarr'd Twine, Port-Ropes.
+
+Moulds for Cartridges for each fort of Gun, Axle-Trees and Trucks.
+
+Pouch-Barrels and Linstocks, Crows, Splice-Irons, Primes, Staples and Rings,
+Tackle-Hooks, Nails, Thimbles, Port-Bands, Sheet-Lead and Leaden-shot, old
+Canvass, Scales and Weights.
+
+Lanthorns, Muscovia-Lights with a large Bottom to put Water in, to prevent
+danger from the Sparks of the Candle flying upon the Powder-dust, that may get
+into the Lanthorn, Dark-Lanthorns, Powder-Measures, Soap, Powder-Horns,
+Priming-Irons, Nippers, Plyers, Moulds to cast leaden Bullets.
+
+And for Instruments such as follow, which every Gunner of a Ship ought to be
+furnished withal.
+
+Callaper Compasses large and small, for taking the Diameters of the Base Ring,
+Body or Muzzle of a Gun, and the Diameters of Shot.
+
+A New Rule called the Sea-Gunners Rule, whose use is showed at the End of this
+Book.
+Brass Heights for Shot.
+
+A Gunners Scale and Quadrant.
+
+Brass Compasses with Steel-points,
+
+Which Instruments, and any other belonging to the Art of Navigation you may be
+furnished with, by John Seller, at the Hermitage in Wapping; with all sorts of
+Books, and Maritime Charts, and Atlasses, for any of the known Parts of the
+World.
+
+CHAP. XI. Showing an Easy way to dispart a Piece of Ordnance.
+FIrst take the Diameter of the Piece upon the thickest Part, at the Breech of
+the Gun, with a Pair of Callaber Compasses, and see upon the Quadrant of your
+Callabers, how many Inches that is; the half of which Diameter take between a
+Pair of Compasses, and put that distance off upon a Sheet of Cartridge-Paper,
+which will make two Points upon the Paper, as A and B; then take the Diameter
+of the thickest part with your Callabers, and see how many Inches that Diameter
+is, And take the half thereof between your Compasses, and set one Foot in A,
+and the other Point in C upon the said Line AB, at C.
+
+^
+
+Then take the Distance from C, to B, on the Line, and that is the true Dispart
+of the Piece; and if you take a Stick or Straw of that length, and set on the
+Muzzle fastened with Wax, it will be a true Dispart for that Piece.
+
+CHAP. XII. To Level a Piece of Ordnance to shoot Point Blank.
+TO shoot Point Blank is to be understood, that when the Cylender of the Piece
+lies level with the Horizon, so that the Ruler of the Gunners Quadrant being
+put into the Mouth of the Piece, the Line and Plummet hangs Perpendicular,
+then that Piece lies in its true Position, to shoot Point Blank.
+
+And to make a good shot at a Mark, within Point Blank reach of the Piece, The
+Piece lying in that Position, as is before shown; then set up your Dispart upon
+the Muzzle; then if you put your Eye down to the highest part of the base Ring
+(as you took the Diameter of) and bring the top of the Dispart in a righe-line,
+with the Object at a Distance, that ought to be of the same Height from the
+Horizon at your Breech of the Gun and the Dispart, then is your Sight or visual
+Line also parallel to the Horizon, and if there be nothing defective in the
+Piece or Carriage, you will make a good Shot.
+
+But if you intend to elevate your Piece, discharge it of some of the Quoins at
+the Breech, and by your Quadrant applied to the Muzzle, you may elevate the
+Piece to what Angle you please; as may be performed by the New Sea Gunners
+Rule, whose Use is shown at the latter End of this Book.
+
+CHAP. XIII. How to search a Piece of Ordnance, to discover whether there be
+any Flaws, Cracks or Hony-combs in the Piece.
+IN a clear Sun-shiny-day, take a Piece of Looking-glass, and reflect the Beams
+of the Sun into the Cavity of the Piece, by the means of which a clear Light
+will appear within the Piece, by which you may discover any Flaw or Honeycomb
+therein.
+
+Another Way.
+Take a long Stick with a slit at the End of it, and put an End of Candle
+lighted, and put it into the Cylender, turning the Stick every way; and you may
+very well discover Flaws or Honey-Combs, if there be any in the Piece.
+
+Another Way to discover Cracks.
+Immediately after you have discharged your Piece, let one be ready with a
+Tomkin to clap into the Mouth of the Piece, with a Piece of Sheep-skin wrapped
+about the Muzzle of the Piece, and the same time let one stop the Touchhole;
+and if there be any Crack through the Metal a visible Smoke will appear.
+
+Another Way.
+If you strike a Piece of Ordnance with a smart stroke, with a Hammer on the
+Outside, and if you hear a hoarse sound, it is an evident Sign the Piece is not
+sound, but there is some Crack in it.
+
+But if after every stroke with the Hammer you hear a clear sound, you may
+certainly conclude the Piece to be sound.
+
+CHAP. XIV. How Moulds, Formers and Cartridges are to be made for any sort of
+Ordnance.
+CArtridges are usually made of Canvass, or Royal Paper; to make them first
+take the height of the Bore of the Piece, and allow 1/21 part of the Diameter
+for the Vent, and make the breadth of the Cartridges three Diameters of the
+Chamber of the Piece, besides the sewing or pasting, and from the Cannon to the
+whole Culvering is allowed about two Diameters for the length, from the
+Culvering to the Minion, the Cartridge is two Diameters and a half, and from
+the Minion to the Base three Diameters.
+
+To every sort of Ordnance you must have a Former turned to the height of the
+Cartridge, which is 1/^^ parts of the Diameter of the Bore, and half an Inch
+longer than the Cartridge.
+
+Before you paste the Paper on the Former, tallow it, that the Canvass or Paper
+may slip off, without starting or tearing.
+
+If you make your Cartridges for Taperbored Guns, your Former must be Taper'd
+accordingly; if you make your Cartridges of Canvass, allow an Inch for the
+Seams, but if you make them of Paper, allow of an Inch (more than three
+Diameters) for the pasting.
+
+When your Cartridges are upon the Former, having a Bottom ready fitted, you
+must paste the Bottom close and hard round about; then let them be well dried,
+and mark every one with black or red Lead, or Blacking, how high they ought to
+be filled; and if you have no Scales nor Weights, these Diameters of the
+Bullets make a reasonable Charge for a Cannon, 2 and for a Cannon, three
+Diameters for a Culvering, and 3 for the Saker; And for the lesser Pieces 3 and
+of the Diameter of the Ball, and let some want of their weight against the time
+the Piece may be over-hot, or else you may endanger your self and others: Note
+that at Sea the Guns are never charged with a Ladle, but with Cartridges.
+
+CHAP. XV. How much Rope will make Britchings and Tackles for any Piece.
+IN Ships that carry Guns, the most experienced Gunners take this Rule; look
+how many Foot your Piece is in length, four times so much is the length of your
+Tackle, and your Britchings twice the length; and if the Ropes are suspected of
+strength, then you may nail down Quoins to the four Trucks of heavy Guns, that
+they may have no play; and if Breechings and Tackles should give way in foul
+Weather, it is best immediacely to dismount your Gun; that is the surest way.
+
+What Powder is allowed for Proof, and what for Action.
+FOR the biggest sort of Pieces, as Cannon, take for Proof of the weight of the
+Iron-shot, or for service the weight, for the Culvering almost the weight of
+the Shot for Proof and for Action; for the Saker and Falcon, take for Proof the
+weight of the Shot, and for Action 4/^, and for lesser Pieces the whole Weight
+of the Shot for service; and for Proof give them one, and ^ of the Weight of
+the Ball in Powder.
+
+CHAP. XVI. How to know what Diameter every Shot must be of, to fit any Piece
+of Ordnance.
+DIvide the Bore of the Piece into twenty equal Parts, and one of these Parts
+is sufficient vent for any Piece, the rest of the nineteen Parts must be the
+height of the Shot: But most Gunners nowadays allow the Shot to be just one
+quarter of an Inch lower than the Bore of the Piece, which rule makes the Shot
+too big for a Cannon, and too little for a Faulcon; but if the Mouth of the
+Piece be grown rounder than the rest of the Cylender within by often shooting;
+to choose a Shot for such a Piece, you must try with several Rammer-heads,
+until you find the Diameter of the Bore in that Place where the Shot uses to
+lie in the Piece, and a Shot of one twentieth part lower than that Place, is
+sufficient.
+
+Every Gunner ought to try his Piece, whether it be not wider in the Mouth than
+the rest of the Chase, and then proceed to choose his Shot.
+
+To tertiate a Piece of Ordnance.
+This word Tertiate is a Term principally used by foreign Gunners, meaning
+thereby only the measuring and examining the Fortification of Metals in a
+Piece, tertiating; because it is chiefly to be measured and examined in three
+principal Parts of a Piece, Viz. at the Breech, the Trunions and the Mouth: And
+there are three Differences in Fortification of each sort of Ordnance, either
+Cannon or Calverings, for they are either double fortified, ordinary fortified
+or lessened, as Legitimate, Bastard, or extraordinary Pieces: For the Cannon
+double fortified or reinforced, has fully one Diameter of the Bore in
+Thickness of Metal at her Touchhole, and 11/16 at the Trunions, and 7/16 at
+her Muzzle; and the ordinary Cannons have, at the Chamber, at the Trunions 3/^
+The lessened Cannons have at the Chamber, and 9/16 at the Trunions, at the
+Muzzle 5/16, etc.
+
+Now that every Gunner may be assured of the Fortitude of any Piece of
+Ordnance, and so may the more safely and boldly allow her a due Loading and
+Proportion of Powder, both for Proof and Service, that she may without danger
+perform her utmost Execution, you may observe this following Direction:
+
+As for Example.
+Suppose there is a Culvering that shoots an Iron-shot of 17 l, with 13 l. of
+Corn-Powder, which is of the Weight of the Shot; the Question is, whether she
+may be able to bear so much Powder, and if need were, more which question
+cannot be well answered without examining or tertiating her Metal, which may be
+thus performed.
+
+First with a Ruler draw a Line upon a Paper or Slate, as you may see in the
+annexed Figure, as the Line AB.
+
+Then with a Pair of Compasses with reversed Points, take the Circumference of
+the Bore of the Piece, and Measure the same upon an Inch-Rule.
+
+Then take the same Measure from any other Scale of equal parts of a competent
+size, and divide that distance into two equal parts with your Compasses, and
+having that distance in your Compasses, set one foot in the Point C, and
+describe the circle DEFG, which circle is equal to the bore of the Piece.
+
+
+
+Then with a pair of Calaber Compasses, take the Thickness or Diameter of the
+Metal at the Touch hole, and Measure the same upon a rule as before, and take
+that distance between your Compasses, and with half that distance setting one
+Foot in the point E describe the circle HIKL, which shall represent the
+circumference of the Metal at the Touchhole, so that you may take the
+Compasses and Measure the Diameter of the bore GE, which is equal to the
+distance of LG or EI which shows, that there is one Diameter of Metal round the
+Concave Cylinder of the Piece; you may therefore be sure that it is an ordinary
+fortified Culvering; but to know if it be a Bastard, or extraordinary
+Gulvering, it cannot be known by the fortification but by the length thereof,
+being longer than ordinary, it is therefore called an extraordinary Culvering,
+and being shorter than the ordinary, it is therefore called a Bastard Culvering.
+
+Now this being found to be an ordinary Culvering, she will bear 4/^ of the
+weight of her shot in Cannon Powder, which is 13 l. 9 ounces.
+
+But to be more assured of her fortitude, the measure of her Metal may be taken
+at her Trunions and Neck as follows.
+
+At the cornishing before her Trunions, with a pair of Calaber Compasses, you
+may take the Diameter of the body of her Metal there, as you did before at the
+Touchhole, and measure the same Diameter upon a rule, then take your Compasses
+and from the same scale as you did use before, take that distance and divide it
+in two equal parts, and setting one Foot of the Compasses in C describe the
+circle M N, and if found of the bore, it is the proportional fortification for
+an ordinary Culvering, and the like may be done with the Neck which the circle
+OP does represent, and the distance from G to O being ^ of the height of her
+bore, and is the due thickness of her Metal, for an ordinary Culvering at her
+Neck.
+
+But if in taking the measures aforesaid there had been found at the Touchhole
+from G to L (the thickness of one Diameter at the bore, and more, it would have
+signified that it had been a double fortified or a reinforced Piece, having
+also at the Trunions GM ^^, and at the Neck GO ^^ of the height of her bore,
+then she shooting an Iron shot of 17 l. would have endured 17 l. of Cannon Corn
+Powder to be loaded with, and to be fired without danger, and would conveyed
+the shot further than the ordinary could have done upon the like degrees of
+Mounture.
+
+Contrariwise, if the Circles there had been found that from G to L had been
+but of the height of her bore at the Touchhole, and at her Trunions but which
+is G M, and at the Neck from G to O but 7/8 ^, of the height of the bore, then
+she would appear to be one of the lessened or slender fortified Culverings, and
+must be allowed but 12 pound 9 ounces of Cannon Corn Powder, to convey her shot
+of 17 l. which upon like elevation will not carry a shot as far as the ordinary.
+
+In this manner all other Guns are to be measured and tertiated only with this
+allowance withal that the Demi Culvering has 1/24 and the Saker 1/23 and the
+Falcon ^ more Metal comparatively than the whole Culvering has.
+
+And if a Piece is found that it is not truly bored, you must always reckon
+that the Piece is no otherwise fortified than she is found to be, where her
+Metal is found to be thinest.
+
+How to make a Shot out of one Ship unto another in any Weather whatsoever.
+IN time of service when you are on a sudden to make a Shot at a Ship, and
+know not what dispart will serve the Piece, then you must take your aim at what
+part of the Ship you judge to do most execution, and look along by the side of
+the Piece, as near as you may at the middle of the Breech unto the middle of
+the Mouth of the Piece, and so place her to the best advantage, and quoin up
+the tail of the Piece fast (for that gives the true height of the mark) Then
+minding the steeridge take your best opportunity and give fire, and if the Sea
+be any thing grown, choose your Piece that is nearest the Mainmast and in the
+lower Teer, if the Ship can keep her Ports open, for there she does least
+labor; and when you are to make a Shot at a Ship, you must be sure to have a
+good Helms-Man that can steer steady.
+
+And he that gives level must lay his Piece directly with that part of the
+Ship that he does mean to shoot at. And if the Enemy be to Leeward of you, then
+give fire when the Ship does begin to ascend or rife upon a Sea, which is the
+best opportunity that does present.
+
+But if the Enemy is on the weather-gage of you, then wait an opportunity when
+the Ships do right themselves; for if you should give fire at the heelding of
+your Ship, then you would shoot over the other Ship; and if the Sea be high,
+there is no better time to give fire than when your Enemies Ship begins to rise
+on the top of a Sea, for then you have a better mark than when she is in the
+trough of the Sea: All which several observations must be managed, with a good
+judgment and discretion of the Gunner.
+
+And he that is at the Helm must be Yare-Handed with the Helm, to observe the
+motion of the Enemy, to luff when the Enemy luffs, and to bear up when the
+Enemy bears up; and it is always good to level the Piece rather under the place
+you shoot at than over.
+
+And if in a fight, if you intend to lay your Enemy, aboard then call up your
+Company either to enter or defend.
+
+And if you are resolved to enter, then be sure to level your Bases or other
+small Guns ready to discharge to the best advantage you can at the first
+boarding, at such a place where his Men have most recourse, and if you can
+possibly, at boarding endeavor to take off his Rudder by a great shot, or at
+his Main Mast etc.
+
+In what Order to place your great great Guns in Ships.
+IT is first to be considered that the carriage be made in such sort that the
+Piece may lie right in the middle of the Port, and that the Trucks or Wheels
+are not too high, for if they are too high, then it will keep the carriage,
+that it will not go close to the Ships side, so that by that means the Gun will
+not go far enough out of the Port, except the Piece be of a great length; and
+also if the Ships heelds that way, the Trucks will always run close to the
+Ships side, so that if you have occasion to make a shot, you shall not bring
+the Trucks off the Ships side, but that will run too again; and the Wheel or
+Trucks being too high, it is not a small thing will stay it, but will run over
+it.
+
+And another inconveniency is, if the Trucks are too high, it will cause the
+Piece to have a greater reverse or recoyl, therefore for these reasons it is
+good to have low Wheels or Trucks to a Gun aboard of a Ship.
+
+The best position that the Gun can be in is, to place it in the very midst of
+the Port, that is to say, that the Piece lying level at point blank, and the
+Ship to be upright without any heelding, that it be as many Inches from the
+lower side of that Port beneath, as it is upon the upper part above; and the
+deeper or higher the Ports are up and down, it is the better for making of a
+shot, for the heelding of a Ship, whether it be on the Lee or Weather side; for
+if you have occasion to shoot forward or backward, the steeridge of the Ship
+will serve the turn.
+
+It is also very bad to have the Orlope or Deck too low under the Port, for
+then the Carriage must be made very high, which is very inconvenient in several
+respects, for in firing the Piece it is apt to overthrow, as also in the
+working and laboring of the Ship in foul weather.
+
+And also you have consideration in placing your Ordinance in a Ship, for the
+shortest Ordinance is best to be placed out of the Ships side, for several
+reasons.
+
+1. For the ease of the Ship, for the shorter they are the lighter, and if the
+Ship should heel with the bearing of a Sail, then you must shut the Ports,
+especially those Guns on the lower deck; then the shorter the Piece is, the
+easier it is to be taken in both for the shortness and weight also.
+
+2. In like manner, the shorter the Piece lies out of the Ships side, the less
+it shall annoy them in the tackling of the Ships Sails, for if the Piece lies
+far out the Sheets, Tacks or Bowlines, it will be apt to be foul of the Guns.
+
+For your long Guns they are best to be placed in the Gun-Room or any place,
+after on for a Stern-Chase, for two Reasons.
+
+1. The Piece had need to be long, or else it will not go far enough out that
+it may be no annoyance to the works of the Stern that may over-hang, and so may
+blow away the Counter of the Ships Stern.
+
+2. The Pieces that are placed abaft, are required to be long, because of the
+raking of the Ships Stern from below, so that the Carriages cannot come so near
+the Ports as they do by the Ships side, which is more up and down.
+
+Also for such like Reasons as these, it is as well required to have long Pices
+to be placed forward or in the Fore-Castle, etc.
+
+And here note that there must be regard had to the making of the Carriages,
+both for Forward-on or After-on for the places of the foremost trucks, in
+taking notice if the Ships side do tumble in or out, and also the cumbering of
+the Deck or Orlope; in all these cases it must be left to a good judgment and
+experience, in the convenient placing of Guns in a Ship.
+
+How much Rope will make Breechings and Tackles for Guns.
+For the Tackles.
+YOU may observe this Rule, that as many Feet as your Piece is in length, so
+many Fathom must your Rope be.
+
+For the Breechings.
+They must always be four times the length of the Piece with some overplus for
+fastening at both ends. If in foul weather your Breechings and Tackies should
+give way, you have no better way for the present to prevent danger, than
+immediately to dismount the Piece.
+
+It is also approved by able Gunners, that the Rammers and Spunges made with
+small Hawser should be armed close and hard with strong and twisted Yarn, from
+the Rammers end quite to the Sponge, which would much stiffen and make it more
+useful and lasting to ram both Wad and Bullet close to the Powder.
+
+Let the head of the Rammers be of good Wood, and the height one Diameter, and
+thereof in length, or very little less then the height of the shot next the
+Staff; it must be turned small that a ferril of Brass may be put thereon, to
+save the head from cleaving; when you ram home the shot, the heads must be
+bored, for the Staff to be put in and fastened with a Pin through, and the
+Stafflength a foot more then the concave of the Gun.
+
+CHAP. XVII. Of Powder. Several things necessary to be known by a Gunner; but
+especially of Powder.
+THE efficient cause for expelling the Shot is the Fire that is made of Powder,
+that is compounded of Saltpeter, Brimstone and Charcoal.
+
+The Saltpeter gives the Blow or Report.
+
+The Sulphur takes Fire, and the Coal rarifies the other two, to make them Fire
+the better.
+
+Two sorts of Gunpowder are commonly in use.
+
+One is made of five Parts of Saltpeter, one of Brimstone, and one part of
+Charcoal.
+
+The other (being stronger) is made of six one and one.
+
+That of five one and one is generally used for great Guns, the other for
+Muskets and small Arms.
+
+And it has been generally observed, that forty two pound of Powder of five
+one and one, is stronger than forty five pound of four one and one; and forty
+pound of six one and one works greater effect, than forty two pound of five one
+and one, although all contain thirty pound of Saltpeter.
+
+Anciently they made Powder of four one and one; but this Powder by experience
+being sound too weak, is not now in use.
+
+That Powder which at this day is received into their Majesty's Magazine at the
+Tower of London, is made of six one and one.
+
+To know good Powder.
+1. The harder the Corns are in feeling, by so much the better it is.
+
+2. When the Powder is of a fair Azure or French Russet color, is it judged to
+be a very good sort and to have all its Ingredients well wrought, and the Petre
+to be well refined.
+
+3. Lay five or six Corns upon a white piece of Paper three fingers distance
+one from another, then fire one, and if the Powder is good they will all fire
+at once and leave nothing but a white chalky color on the Paper; neither will
+the Paper be touched: But if there remains a grossness of Brimstone and Petre,
+it discovers the Powder to be bad.
+
+And take this for a general Rule, for a sign of good Powder; that which gives
+fire soonest, smoaks least, and leaves least sign behind it, is the best sort
+of Gunpowder.
+
+To preserve Powder from decaying.
+To preserve good Powder, Gunners ought to have that reason to keep their Store
+in as dry a place that can be had in the Ship, and every Fortnight or three
+Weeks to turn all the Barrels and Cartridges upside down, so that the Petre may
+be dispersed to every part alike; for if it stands long, the Petre will always
+descend downwards, and if it be not well shak'd and moved, it will want of its
+strength at the top, and 1 l. at bottom with long standing will be stronger
+then 3 at the top.
+
+To find the Experimental Weight of Powder (Tower-Proof) that is found
+convenient for Service, to be used in Guns of several Fortifications (or
+thickness) and by consequence strength of Metal.
+TO find the strength of Guns the brief Rule is thus, First find the Diameter
+of the bore (or Chamber of the Gun) where the shot lies, then the true
+fortified Iron Guns ought to be 11 of those Diameters in the circumference of
+the Gun at the Touchhole, 9 at the Trunions, and 7 at the Neck, a little
+behind the Mouth or Muzzle-ring where the dispart is set.
+
+But Brass Guns having the same weight of Powder are as strong at nine
+Diameters of the Chamber bore about the Gun at the Touchhole, and seven
+Diameters at the Trunions, and five at the Neck.
+
+This is the Rule of true bored and true fortified Guns; and for those more or
+less fortified, observe the Proportions in this following Table.
+
+Brass Iron More Fortified 11 Diameters 13 More Fortified 12 Diameters 14 True
+Fortified 9 Diameters 11 Less Fortified 8 Diameters 10 Less Fortified 7
+Diameters 9
+
+Weight of Powder for Service is proportioned by the Numbers of Diameters of
+the Bore about the Gun at the Touchhole, for such Guns so qualified as in the
+foregoing Table, viz. and to load them accordingly.
+
+To know whether the Trunions of any Gun are placed right.
+Measure the length of the Cylender from the Muzzle to the Britch, and divide
+the Length by 7, and divide the Quotient by 3, and the Product will show how
+many the Trunions must stand from the bottom of the bore of the Piece, and that
+they ought to be placed so that of the Piece may be seen above the Center of
+the Trunions.
+
+The Practical way of making Gunpowder.
+The Essential Ingredients for making Gunpowder are three, viz. Saltpeter,
+Brimstone and Charcoal, and of these there are to be three several quantities
+and proportions, according to the use intended for; and for the best Powder
+that is now made, there is commonly used these proportions.
+
+Saltpeter, 4, 5, 6 Parts. Brimstone, 1 Part. Charcoal, 1 Part.
+
+The Cannon Powder has commonly of Saltpeter four times so much as of
+Brimstone and Charcoal, and for Musket Powder it is usually made five times as
+much Saltpeter as of Brimstone and Coal.
+
+Now having the Proportional quantity of each of these Ingredients, put all the
+Saltpeter together into a Caldron, and boil it with so much Water as will
+serve to dissolve it with; being so dissolved, it ought to be washed and laid
+upon a clean place; this done, beat the quantity of Coal into dust, then put
+this Charcoal dust being finely beaten into the disolved Petre, and incorporate
+them very well together, and as you mingle them, put in by little and little
+the Sulpher very well beaten; when this mixture of Saltpeter Brimstone and
+Coal are well incorporated, lay it forth to dry a little; when the same mixture
+is somewhat dried and is very well mixed, sift it well through a Sieve; then
+casting Water or Vinegar upon it, corn it, and when you have so done, dry it
+against the Fire and the Gunpowder is made: There are diverse ways to grind
+Gunpowder; the best way is to stamp it in Mortars with a Horse-mill or
+Water-mill, for the Powder is thereby most finely beaten and with least labor;
+and to know if it be well done, you may with a Knife cut in pieces some of this
+Composition, and if it appear all black it is well done, but if any of the
+Brimstone or Petre is seen, it is not incorporated enough.
+
+The manner to fifth Powder is thus,
+
+Prepare a Sieve with a bottom of thick Vellom or Parchment, made full of round
+holes, then moysten the Powder which shall be corned with Water, put a little
+Bowl into the Sieve, then fifth the Powder so as the Bowl rolling up and down in
+the Sieve may break the clods of Powder, and make it by runding through the
+little holes to corn.
+
+To Renew and make good again any sort of Gunpowder, having lost its Strength
+by moisture, long lying, or by any other means.
+Having moistened the said Gunpowder with Vinegar or fair Water, beat it well
+in a Mortar, then sift it through a Sieve or fine Searce; for every l. of
+Gunpowder mingle one Ounce of Saltpeter that has been pulverised, and when
+you have so done beat and moisten this mixture again, until by so breaking or
+cutting with a Knife, there is no sign of Saltpeter or Brimstone in it: Also
+corn this Powder when it is incorporated with the Petre, as it ought to be, and
+you have done.
+
+CHAP. XVIII. How to make Hand-Granadoes to be Hove by Hand.
+THere is good use made of Hand-Granadoes in Assaults and Boarding of Ships;
+these are made upon a Mould made with Twine, and covered over with Cartridge
+Paper and Musket Bullets cut in two, put with Past and bits of Paper thick on
+the outside. After you have doubled the Shells, past on some at a time, and
+let it dry, and put some more until it be quite full; then dip it in scalding
+Rossen or Pitch and hang it up and it is for your use: But you must have the
+innermost end of the Twine left out, and before you pitch it you must draw out
+the Twine and stop the hole, and then pitch it.
+
+To load them, fill these Shells with Gunpowder, then make a Fuze of one pound
+of Gunpowder and six Ounces of Saltpeter and one of Charcoal, and fill the
+Fuze; then knock it up to the head within one quarter of an inch, which is only
+to find it by night.
+
+Stop the rest of the holes well with soft Wax; your first Shells must be
+coated with Pitch and Hurds lest it should break with the fall; and be sure
+when you have fired the Fuze, suddenly cast it out of your hand, and it will do
+good execution.
+
+CHAP. XIX. How to make Fire-Pots of Clay.
+FIre-Pots and Balls to throw out of Men's hands may be made of Potters-Clay
+with Ears to hang lighted Matches to them; if they light on a hard thing they
+break and the Matches fire the Powder, and the half Musket Bullets contrived on
+them, as in the last Chapter, disperse and do much mischief.
+
+Their mixture is of Powder, Petre, Sulpher, Sal Armoniack of each one pound,
+and four Ounces of Camphire pounded and searced and mixed well together, with
+hot Pitch, Linseed Oil or Oil of Petre; prove it first by burning a small
+quantity, and if it be too slow add more Powder, or if it be too quick then put
+more Oil or Rosin, and then it is for your use.
+
+SECT. I. How to make Powder-Chests.
+You must nail two Boards together like the ridge of a House, and prepare one
+Board longer and broader for the bottom: Between these three Boards put a
+Cartridge of Powder, then make it up like a Sea-Chest and fill it with pibble
+Stones, Nails, Stubbs of old Iron; then nail on the Cover and the ends to the
+Deck, in such a place as you may fire the Powder underneath through a hole made
+to put a Pistol in: These are very useful to anoy an Enemy if they board you.
+
+To make Stink-Balls.
+Take Gunpowder 10 l. of black Pitch 6 l. of Tarr 20 l. Saltpeter 8 l.
+Sulpher Calafornia 4 l. melt these over a soft Fire together, and being well
+melted put 2 l. of Cole dust of the Filings of Horses Hoofs 6 l. Assa Faetida 3
+l. Sagapenum 1 l Spatula Faetida half a l. Incorporate them well together and
+put into this matter so prepared old Linen or Woollen Cloth, or Hemp or Tow
+as much as will drink up all this matter, and of these make them up in Balls of
+what bigness you please, and being thrown between Decks will be a great
+annoyance to the Enemy.
+
+CHAP. XX. The Properties Office, and Duty of a Sea-Gunner.
+1. A Gunner ought to be a sober, wakeful, lusty, patient, prudent and quick
+Spirited Man; he ought also to have a good eyesight and a good judgment in the
+time of service, so to plant his Piece to do most hurt or execution, either to
+the Hull or rigging of a Ship, as may be most expedient according to the
+appoinment of the Commander.
+
+2. A Gunner ought to be skilful in Arithmetic and Geometry, in the making of
+all kind of Artificial Fireworks, especially for service.
+
+3. A Gunner ought to procure with all his power the Friendship and Love of
+every Person, and to take great care of his charge for his own safety as well
+as the Ship and all the Men's lives, by having special regard unto his Powder
+Room and to be well satisfied in the carefulness of those that he does entrust
+to manage the business there, and to see that the Yeoman is careful always to
+keep a good and large Lanthorn, and to be kept whole, that it may prevent the
+flying in of the dust of the Powder, for the neglect of which it has sometimes
+been conjectured that some Ships have been blown up and lost for want of care
+in the Powder Room.
+
+4. A Gunner ought at the receipt of his charge, to make an Inventory of all
+such things as shall be committed to him, as well to render an account as to
+consider the want of such Materials as are necessary to the well performance of
+his duty.
+
+5. A Gunner ought to have his Gun-Room always ready furnished with all
+necessaries belonging to his Art, which ought always to be in readiness, viz.
+Ladles, Rammers, Spunges, Gunpowder, Balls, Tamkins, Wadds, Chain-shot,
+Cross-bar-shot, Quoins, Crows, Tackles, Breechings, Powder-Horns, Canvass, and
+Paper for Cartridges, Forms for Ladles, Cartridges, Needles and Thread to sow
+and bind the Cartridges, Candles, Lanthorns, Handspikes, Poleaxes, little
+Hand-Baskets, Glue and Past, with a sufficient Crew of able and expert Seamen,
+being yare-handed to travers a Piece, to Charge, Discharge, Mount, Wadd, Ram,
+make Clean, Sponge, and Prime and Scour, and readily to do and perform any
+thing belonging to the Practical Part of Gunnery.
+
+6. A Gunner ought always to have a Ruler about him, and a pair of Compasses,
+and Callabers to measure the height and length of every part of his concavity,
+and the length depth and wideness of every Ladle whereby he may know whether
+his Piece is laden with too much Powder, or is charged with a less quantity
+than it ought to have.
+
+7. A Gunner ought to know the length and weight of all manner of Pieces, and
+be able to give an account readily how much Powder is a due charge for every
+Piece, and how many times a Piece may be shot off without harm, and how each
+kind of Piece should be charged with the Powder, Tamkin, Ball and Wadd.
+
+8. A Gunner also must be skilful to make Saltpeter, to refine and sublime
+Saltpeter, to make diverse sorts of Gunpowder to purify Brimstone, to amend
+any sort of Powder when it has lost its virtue and force, and to know how much
+Saltpeter ought to be put to the said unserviceable Powder, and to make it
+strong as it was before, and how many times the Saltpeter that is put into the
+Powder ought to be refined.
+
+9. A Gunner that serves at Sea must be careful to see that all their great
+Ordance be fast breeched, and that all the furniture be handsome and in a
+readiness as was said before, and that they are circumspect about their Powder
+in the time of service, and to have an especial care of the Linstocks and
+Candles for fear of their Powder and their Fireworks, and the Oacum, which is
+very dangerous, and to keep your Pieces (as near as you can within): And also
+that you keep their Touch-holes clean without any kind of dross falling in
+them; and it is good for the Gunner to view his Pieces and to know their
+perfect dispart, and to mark it upon the Piece or else in a Book or Table, and
+name every Piece what it is and where she does lie in the Ship, and note how
+many inches halfs and quarters of inches the dispart comes unto.
+
+A Representation of the Sea Gunners Rule; as it appears on both sides, and the
+Edge.
+These Instruments are Sold by John Seller Sen. at the Hermitage in Wapping.
+
+
+
+A Scale for the resolution of Lineal proportions.
+
+A Scale for the resolution of Quadratique proportions
+
+A Scale for the resolution of Cubique proportions
+
+
+
+AN APPENDIX, Showing the Use of a Proportional Scale In several Questions in
+ARITHMETIC, In Lineal, Quadratick and Cubi call Proportions, in the Mensuration
+of Superficies and Solids, and the Extraction of the Square and Cube-Root. The
+Figure of which Scale is annexed to the Front of this Page. As also the use of
+a New Rule, called the Sea-Ganners-Rule, containing an Epitome of the Art of
+Gunnery in it self.
+
+By John Seller.
+
+London, Printed in the Year, 1691.
+
+CHAP. I. A Description of the Proportional Scale and its Use in the Art of
+Gunnery.
+THere are three Lines upon the Scale, One for Lineal, Proportions. One for
+Quadratick, Proportions. One for Cubical, Proportions.
+
+
+The uppermost Line is for the Resolutions of all Lineal Proportions, between
+Numbers Lines and Superficies, this Line being a single Line of Numbers which
+is broken in the midst and laid side by side, for the greater facility in their
+Operations.
+
+The second or middlemost is for the Resolution of all Quadratick Proportions,
+between Lines and Superficies and the extraction of the Square Root, several of
+which Questions may be answered by inspection only.
+
+The third and lowest Line is for the Resolutions of all Cubical Proportions
+between Numbers, Lines and Solids, and the extraction of the Cubick Root.
+
+Numeration on the Lines. PROP. I.
+A whole number consisting of two, three or four places, being given, to find
+the point on the Scale representing the same.
+
+The upper Line (that is for Lineal Proportion) in two parts (i. e.) a line of
+Numbers broken and put side by side, the upper Line begins at 1, and if that be
+called one then the next figure must be called 2, and the next 3 and so to 10;
+but if you call the first 1, 10 then the next figure 2 you must call 20, the
+next 30, and so to 100.
+
+And if you call the first 1, 100 then the next is 200, and the next 300, and
+so to the furthest 10, and that will be a thousand, and all the other
+intermediate Divisions are the tenth parts of Integers. The same way of
+Numeration as is explained in this is to be understood of all the rest of the
+Lines.
+
+Example 1.
+I would find the Number 25 on the Rule, I call the first 1, 10 and the second
+figure 20, and tell 5 tenths more which are also Intigers, where you will find
+a long stroke and that is 25.
+
+Note that every fifth of the grand intermediate Divisions, are drawn forth
+with a longer Line than the rest, for ease of counting.
+
+Example 2.
+Let it be required to find the place of 144 upon the upper Line, call the
+first 1 upon your Line 100 for your first figure 1, then for 40 tell 4 of the
+grand Divisions for your second figure, and for the third figure which is 4
+count four of the small intermediate Divisions, that very point is the place
+upon the Line representing 144.
+
+Example 3.
+Let it be required to find the place of 1690, for your first figure 1, count
+the 1 at the beginning to be 1000 for your second figure 6 count 6 of the grand
+Divisions which is 600, and for 90 count 9 tenths more which is the very point
+representing 1690.
+
+Note by these examples you may perceive that the figures 1, 2, 3, 4, 5, 6, 7,
+8, 9. do sometimes signify themselves alone, sometimes 10, 20, 30. etc.
+sometimes 100, 200, 300, etc. as the works thereby does require.
+
+And by this varation and change of the Powers of these Numbers from 1 to 10 or
+100 or 1000, any proportion either Arithmetically or Geometrically may be
+wrought; one, whereof I will insert for your better exercising on the Scale, by
+the often practice whereof you will find the work facile and delightful, which
+shall be this following.
+
+PROP. II.
+Having two Numbers given, to find as many more as you please which shall be in
+continual proportion one to another as the two numbers were
+
+For the working this Proposition, this is the Rule.
+
+Place one foot of the Compasses in the first given Number, on the upper line,
+and extend the other foot to the other given Number; then may you turn from
+that second Number, to a third, to a fourth, (as far as you can go on the upper
+line) then to a fifth, sixth, if the rule will admit.
+
+Example.
+Let the too given Numbers be 2 and 4, place one foot of your Compasses on 2,
+and extend the other foot to 4, that foot which now stands in 2, being turned
+over will reach to 8, and so far it will come upon the upper line; then bring
+it to 8 in the lower line, and turn the Compasses from 8 to 16, and from 16 in
+the upper line to 32, and from 32 to 64, and from 64 to 128, to 256 to 512 in
+the upper line, and so you may proceed until you come to 4096.
+
+Again let the 2 Numbers be 10, and 12, which you will find in the lower line,
+and that Extent will reach from 12 to 1, 4, 4, and from thence to 17, 28.
+
+But if the Numbers were 1 and 12, which you must find on the lower line, then
+the third proportional will be 144, and the fourth 1728, and all with the same
+extent of the Compasses.
+
+CHAP. II. Multiplication by the Proportional Scale.
+IN Multiplication the Proportion is this: As 1 upon the line is to one of the
+Numbers to be Multiplied, so is the other Number to be Multiplied to the
+Product of them, which is the Number sought.
+
+Example. 1.
+Let it be required to Multiply 5 by 7, the Proportion is as 1 to 5, so is 7 to
+35.
+
+Therefore set one Foot of the Compasses in 1, in the lower line and extend the
+other Foot to 5, with that extent of the Compasses, place one Foot in 7, and
+the other Foot will fall on 35, which is the Product, (which is performed on
+the lower line) by extending from 1 in the middle of the Line to 5 backwards,
+the same extent the same way will reach from 7 to 35, the Product required.
+
+Example. 2.
+Let it be required to Multiply 34 by 9, the Proportion is, as 1 is to 9, so is
+34 to 306, set one Foot of the Compassess (in the lower Line) from 1 or 10, in
+the middle, to 9 the same extent, will reach from 34 to 306.
+
+Otherwise set one Foot in 1, and extend the other to 34, the same extent from
+9 shall reach to 306.
+
+Example. 3.
+Let it be required to Multiply 8, 75/100 by 6, 45/100 the Proportion is as 1
+to 8, 75, so is 6, 45, to 56, 48, set one Foot (in the lower Line) from 1 to 8,
+75, the same extent the same way will reach from 6,45, to 56,44, fere.
+
+Or if you set one Foot in 1, and extend the other to 6, 45, the same extent
+shall reach from 8,75, to 56,44 almost, or 56.
+
+CHAP. III. Division by the Proportional Scale.
+IN Division there are 3 things to be taken notice of, viz. The Dividend, or
+Number to be Divided. Divisor, the Number by which the Dividend is to be
+divided. Quotient, which is the Number sought.
+
+
+And as often as the Divisor is contained in the Dividend so often does the
+Quotient contain Unity.
+
+For the working of Division this is the Analogy or Proportion.
+
+As the Divisor, is to Unity or 1, so is the Dividend to the Quotient.
+
+Example. 1.
+Let it be required to divide 35 by 7, The Proportion is as 7 to 1, so 35 to 5;
+set one Foot of the Compasses in 7, (in the lower Line) and extend the other
+Foot to 1, that same extent will reach from 35 to 5, which is the Quotient:
+otherwise extend the Compasses from 7 to 35, that same extent will reach from 1
+to 5.
+
+Example. 2.
+Let it be required to Divide 34 by 306, the Proportion is, as 34 is to 1, so
+is 306 to 9; extend the Compasses from 34 to 1, (in the lower Line) the same
+extent the same way, will reach from 306 to 9 which is the Quotient; or if you
+extend the Compasses from 34 to 306, the same extent shall reach from 1 to 9.
+
+Example. 3.
+Let it be required to divide 5644, by 8,75, the Proportion is as 8,75 is to 1,
+so is 56,44 to 6,45; extend the Compasses (in the lower Line) from 8,75 to 1,
+the smae extent the same way will reach from 56,44 to 6,45: or extend them from
+8,75 to 56, 44, the same extent will reach from 1, to 6, 45, as before; now to
+know how many Figures are to be separated for a Decimal Fraction in the
+Quotient; I refer you to the Eighth Note of the First Chapter of this Treatise.
+
+CHAP. IV. The Golden Rule Direct.
+THis Rule may well be termed the Golden Rule; it being the most useful of any
+others: for having 3 Numbers given, you may by it find a fourth, in proportion
+to them, as by diverse Examples following, shall be made plain: And this Rule is
+performed upon the Scale, with ease and Exactness; And for the working of it
+upon the Scale of proportion, this is the general Analogy.
+
+As the first Number given, is to the second Number given, so is the third
+Number given, to the fourth Number required: Or as the first Number given, is
+to the third Number given, so is the second Number given, to the fourth Number
+Required.
+
+Therefore, always extend the Compasses from the first Number to the second,
+and that distance or extent applied the same way upon the Line, shall reach
+from the third to the fourth Number required. Or otherwise extend the Compasses
+from the first Number to the third, and that extent applied the same way shall
+also reach from the second to the fourth. Either of these ways will effect the
+same things; and it is necessary thus to vary the Proportion, sometimes to
+avoid the opening of the Compasses too wide, for when the Compasses are opened
+to a very large extent, you can neither take off any Distance exactly, nor give
+so good an Estimate of any parts required, as you may do when they are opened
+to a lesser distance: But this you will find out best by Practice and therefore
+I will now proceed to examples.
+
+Example. 1.
+If 45 Yards of Cloth cost 30 l. what will 84 cost at the same rate?
+
+Analogies.
+As 45, to 30, so 84, to 56. Extend the Compasses from 45 to 30, (on the lower
+Line) the same extent the same way will reach from 84 to 56 l. the Price of 84
+Yards. Or extend the Compasses from 45 to 84, the same extent will reach from
+30 to 56, as before.
+
+Example. 2.
+If 100 l. yields 6 l. Interest for one Year, or 12 Months, what shall 75 l.
+yield?
+
+The Analogy.
+As 100 is to 6, so is 75, to 4, 50. Extend the Compasses (upon the lower Line
+of the Scale of Lineal proportion) from 100 to 6, the same extent will reach
+from 75, to 4, 50, which is 4 l. 10 s. and so much will 75 l. yield Interest in
+one Year.
+
+Example. 3.
+If 75 l. yields 4 l. 10 s. or 4 ^0/100 150 Interest for one Year or 12 Months,
+what will 105 l. yield? As 75 to 4,50, so is 150 l. to 9 l. Extend the Compases
+from 75 to 4, 50, the same extent will reach from 150, to 9 which is 9 Pounds,
+the Interest of 150 l. for one Year.
+
+CHAP. V. The Golden Rule Reverse.
+IN this Reverse or backward Rule of Three, this Note is especially to be
+Observed, That if the third Number be greater than the first, then the fourth
+Number will be less than the second. And on the Contrary, if the third Number
+be less than the first, then the fourth Number will be greater than the second;
+as by example.
+
+Example 1.
+If 12 Workmen do a piece of Work in in 8 days, how many Workmen shall do the
+same piece of work in 2 days?
+
+Here it is to be noted that in the Question, 12 is not the first Number,
+(though it be first named) but 2, for the Middlemost Term of the three, must be
+of the same kind with the fourth Number, that is to be sought; as in this
+example it is Men, therefore 12 which are Men, must stand in the middle or
+second place, because the fourth Number which is to be sought is also Men, and
+therefore the Numbers will stand thus.
+
+Days, Men, Days, Men. 2 12 8 48,
+
+For if 8 days require 12 Men, then 2 days (which is but a fourth part of 8
+days) shall require four times 12 Men, that is 48 Men; for here less requires
+more, that is, less time more Men; and hence the work is contrary to the Direct
+Rule: wherefore to effect it, extend the Compasses from 2 to 8, the same extent
+will reach from 12, (the contrary way on the lower Line) to 48, which is the
+Number of Men that will effect the same Piece of work in two days.
+
+Example 2.
+If 1 Close will graze 21 Horses for 6 weeks how many Horses will the same
+close graze for 7 weeks? Extend the Compasses from 6 to 7, for you must always
+extend your Compasses to Numbers of one kind, or Denomination, (as here 6 and 7
+are both Horses) the same extent from 21 backwards to 18, and so many Horses
+will the same Close graze in 7 weeks,
+
+CHAP. VI. Of Duplicate Proportion performed by the Scale.
+DUplicate Proportion is such Proportion as is between Lines and Superficies,
+and between superficies and Lines.
+
+1. Of the Proportion of Lines to Superficies,
+In this Case extend the Compasses, from the first to the second Number of the
+same denomination, (taken upon the upper Line of the Scale of quadratique
+proportion) which shall give the distance (upon the lower Line of the same
+Scale) from the third Number unto the fourth.
+
+Example. 1.
+If the Diameter of a Circle be 14 Inches, and the Area, or superficial Content
+thereof be 154 Square Inches, what will be the content of another Circle, whose
+Diameter is 28 Inches; extend the Compasses from 14 to 28, (on the upper Line,
+of the Scale of Quadratique Proportion) that extent shall reach from 154 in the
+lower Line of the same Scale, to 616, and that is the Area or content of a
+Circle whose Diameter is 28.
+
+II. Of the Proportion of Superficies to Lines.
+In this case extend* the Compasses unto half the distance, between the two
+Numbers of the same denomination; that same extent shall reach from the third
+Number to the fourth required.
+
+Example. 1.
+Let there be two Circles given, the Area or content of one being 154, and its
+Diameter 14, the Area of the other Circle is 616, what is the length of its
+Diameter upon the lower Line of the Scale of Quadratique Proportion? divide the
+distance between 154, and 616 into two equal parts, then with that distance set
+one foot in 14, and the other shall fall upon 28.
+
+Example. 2.
+There is a piece of Land containing 20 Pole square worth 30 l. there is
+another piece worth 91 l. 16 s. how many Pole square ought that piece to
+contain? divide the space between 30 l, and 91 l. 16 s. into two equal parts,
+then set that foot in 20 Pole, and the other Foot will reach to 35 Pole, and so
+many Pole square must the Land be that is worth 91 l. 16 s. Note that 16
+shillings upon the Line is 2/^..
+
+CHAP. VII. Of Cubical Proportion.
+CUbical Proportion is such a proportion as is between Lines and Solids, or
+between Solids and Lines.
+
+1. Of the Proportion between Lines and Solids.
+In this case extend the Compasses from the first Number to the second, of the
+same denomination, that extent being placed (in the lower Line of the Scale of
+Cubical proportion) from the third Number to the fourth answers the Question.
+
+Example
+There is a Bullet whose Diameter is 4 Inches, weighing 9 l. (what shall
+another Bullet of the same Metal weigh) whose Diameter is 8 Inches? Extend the
+Compasses from 4 to 8 (in the upper Line, the same extent will reach (in the
+lower Line, from 9 to 72, the weight of the Shot whose Diameter is 8 Inches.
+
+2. Of the Proportion of Solids to Lines.
+In this case extend the Compasses into the third part of the distance between
+the two Numbers of like denomination, the sme extent shall reach from the third
+to the fourth Number.
+
+Example.
+The weight of a Cube being 72 Pound, the side thereof is 8 Inches, and the
+weight of another Cube of the same matter, weighing 9 l. what must the side be?
+Upon the lower Line, divide the distance between 9, and 72, into three equal
+Parts; then set one Foot of that distance in 8, and the other Foot shall rest
+in 4, the length of the side of the Cube required.
+
+CHAP. VII. To Extract the Square Root, by the Proportional Scale, by
+Inspection.
+TO Extract the Square Root, is to find a mean Proportional Number, between 1
+and the Number given, which is commonly done, by dividing the Square between
+them into two equal Parts; but upon the Scale of Quadratique proportion, it is
+found by Inspection; therefore if you seek 36 (in the lower Line of Quadratique
+Proportions) you will find in the upper Line, right against it 6, which is the
+Square Root thereof; in the same manner you may find the Square-Root of 81 to
+be 9, and of 144 to be 12, and of 256 to be 16.
+
+CHAP. IX. To Extract the Cube Root upon the Proportional Scale, by Inspection.
+Example.
+LEt it be required to find the Cube Root of 216; seek (in the lower Line of
+the Scale, of Cubical proportion) for 216, and in the upper Line, right against
+it you will find 6, the CubeRoot required. In like manner you will find the
+Cube Root of 729, to be 9, of 1728, to be 12.
+
+CHAP. X. Of the Mensuration of Diverse Reguler Superficial Figures by the
+Proportional Scale.
+I. Of the Circle.
+Example. 1.
+THE length of the Diameter of any Circle given, to find the Circumference
+thereof. The Proportion between the Diameter and the Circumference of any
+Circle, is, as 7 to 22, wherefore if the Diameter of a Circle given, be 12
+Inches, the Circumference thereof may be found by the following Analogy. As 7
+is to 22, so is 12 to 37, 69. (In the Line of lineal Proportion) extend the
+Compasses from 7 in the uper Line, to 22 in the lower Line; the same extent
+shall reach from 12 to 37, 69, the Circumference required.
+
+Example 2.
+The Circumference of a Circle being given, to find the length of the Diameter.
+
+This is the Converse of the former Example, and the Analogy is the Converse
+also.
+
+Let the Circumference of a Circle be 37 Inches, 69 Parts, what is the length
+of the Diameter? As 22 is to 7, so is 37, 69 parts to 12 Inches, the Diameter
+sought.
+
+Extend the Compasses from 22 to 7, in the Scale of Lineal Proportion; the same
+Extent will reach from 37, 69, to the Diameter required.
+
+Example 3.
+The Diameter of a Circle being given, to find the Area or Superficial Content
+thereof.
+
+Let the Diameter of a Circle be 15 Inches, extend the Compasses (upon the
+Scale of Quadratick Proportion) from 1 in the lower Line, to 15 in the upper
+Line; the same extent shall reach always from 78, 54, to 176, 25, on the same
+Line, which is the Area of that Circle.
+
+CHAP. XI. Of Spherical Bodies, such as Globes or Bullets.
+Example 1.
+THE Circumference of a Globe or Bullet being 28 Inches, 28, parts, to find
+Diameter.
+
+The ANALOGY.
+As 22 is to 7, so is 28, 28, the Circumference, to 9 Inches the Diameter.
+
+Extend the Compasses from 22 to 7, (on the Scale of Cubical prportions in the
+lower Line) the same Extent will reach from 28, 28, the Circumference, to 9
+Inches, the Diameter of the Bullet sought.
+
+Example 2.
+The Diameter of a Shot being given 9 Inches, and its Circumference is 28
+Inches, 28 parts: how many square Inches is there in the Superficies of that
+Bullet?
+
+ANALOGY.
+As 1 is to 9 Inches, so is 28, 28, the Circumference to 254 Inches 5 parts,
+the superficial Inches in that Bullet.
+
+Extend the Compasses from 1 to 9, (in the lower Line of the Scale of Cubical
+Proportion) the same extent shall reach from 28, 28, the Circumference to 254
+Inches, 5 parts, the superficial Inches of that Bullet.
+
+Example 3.
+The Diameter of a Bullet being 9 Inches; how many Cubical Inches are therein
+contained?
+
+The ANALOGY.
+I. As 1 is to 9 the Diameter, so is 9 to a 4th Number, and that 4th Number to
+729 the Cube of the Diameter.
+
+II. As 9 the Diameter is to 729, its Cube. so is 11 to 891 Cubical Inches in
+that Bullet.
+
+Extend the Compasses from 1 to 9 in the Cubical-Scale, that extent will reach
+to 81, and from 81 to 729 the Cube of the Diameter; then extend the Compasses
+from 9 the Diameter to 729 its Cube, that extent will reach from 11 to 891
+Inches, the solid Content of the Bullet.
+
+The Description of the Sea-Gunners RULE, being the Epitome of the Art of
+Gunnery.
+WHich takes the Unequal Diameter of any Shot, the Concave Diameter of the Bore
+of any Gun, from the Base to the Cannon-Royal, on which is inserted a Line of
+Numbers for the ready working of any Question in Gunnery.
+
+As also several Lines, showing the Weight and Diameter of any Shot, with the
+weight of Powder and Shot for any Piece of Ordnance, the Weight of the Piece,
+the Length and Breadth of the Ladle, and several other useful matters, as a
+Line of Chords, a Line of Rhumbs, Leagues and Longitude, (supposing that every
+Sea-Gunner is also a Navigator;) there is also a Circle that takes any Angle,
+and will also show the Degrees of Mounture of any Piece of Ordnance.
+
+The Description of the Sea-Gunners Rule.
+The Rule is a Foot in Length when open; on the Edg is a Line of Inches for the
+Measuring any thing necessary to be Measured, and may be of any other Length at
+pleasure.
+
+Through the Head goes a Brass Semicircle fixed to the standing part of the
+Rule, on which are cut the Divisions that give the Diameter of a Shot, whose
+Inches are showed by the inside of the moveable leg of the Rule.
+
+And the Concave Diameter of a Gun is cut upon the Brass Semicircle by the
+outside of the moveable Leg.
+
+There is also a Circle of Degrees upon the outward Limb or Edg of the
+Semicircle, which is to give the Quantity of any Angle cut by the inside of the
+Moveable Leg of the Rule; by which you may observe the quantity of any Angle to
+give the Degree of Mounture, with the help of a Plummet that is to hang upon
+the movable Leg of the Rule.
+
+The Uses follow.
+
+A Description of one side of the Rule.
+On one side of the Rule is placed a Line of Inches, abutting against another
+Line, which shows the weight of Iron-shot.
+
+And on the same side is placed a Line of Numbers for the answering any
+Question in Gunnery, with the help of a pair of Compasses.
+
+A Description of the other side of the Rule.
+There are several Lines on this side which show,
+
+The Names of the Guns.
+
+The Weight of Powder.
+
+The Weight of Shot fit for each Gun.
+
+The Length of the Ladle for each Piece.
+
+The Breadth of the Ladle.
+
+The Weight of each sort of Guns.
+
+Upon the same side is also placed the Lines of the plain Scale as,
+
+The Line of Leagues.
+
+The Line of Rhumbs.
+
+The Line of Longitude.
+
+And the Line of Chords.
+
+All which is for the Accommodation of the Sea-Gunner, who is also a Mariner as
+well as Gunner.
+
+In the inside of the Rule there lies two Brass Legs, which being taken out and
+opened as far as they will open, the two Points will do the Office of a pair of
+Calabers.
+
+To take the Diameter of a Shot, cut by the inside of the moveable Leg upon the
+edge of the Brass Semicircle. The Uses follow.
+
+Use 1. To find the Concave Diameter of the Mouth of any Piece of Ordnance.
+This is performed by the two outer Corners of the Rule, being put to the
+inside of the Concavity of any Gun, and open the Rule as wide as it will
+permit, then on the Brass Semicircle will be cut (by the outer edge of the
+Rule) the Diameter of the Concavity of the said Piece.
+
+Use 2. To find the Diameter of a Shot.
+To perform this you must open the Brass Legs in the inside of the Rule, to
+their utmost Extent, then open the Points of them to the Diameter of the Shot,
+and the quantity of Inches and Parts will be cut upon the Semicircle, by the
+inside of the Leg.
+
+Use 3. To find the quantity of an Angle, or to find the degree of Mounture of
+any Piece of Ordnance.
+To find the quantity of any Angle upon the Legs of the Rule to any Angle
+required, and the inside of the moveable Leg will cut the quantity of the Angle
+upon the Brass Semicircle.
+
+To find and to set the degree of Mounture of a Piece of Ordnance.
+You must hang a Thread and Plummet upon the moveable Leg, and put the fixed
+Leg into the Muzzle of the Piece, and open the moveable Leg until the Plummet
+falls perpendicular upon the Line, upon which the pin is fixed (upon which the
+Plummet is hanged) and on the edge of the Brass Semicircle, will be cut the
+Angle of the degree of Mounture by the inside of the moveable Leg.
+
+Use 4. The Uses of that side of the Rule, upon which the Line of Numbers is
+placed.
+On this side is placed a Line of Numbers for the ready operation of any
+Question in Gunnery, with the help of a pair of Compasses. The manner of
+working on the Line of Numbers is shown in the use of the Proportional Scale,
+in this Treatise, to which I refer you.
+
+On this side of the Rule is placed a Line of Inches, on which may be found the
+Diameter of any Shot: And upon the Line adjoining to it is shown the Weight of
+any Shot whose Diameter is given.
+
+Example 1.
+A Shot of four Inches Diameter the Weight is required.
+
+Seek 4 in the Line of Inches (upon this flat side) and just against it you
+will find 9, which shows that a Shot of four Inches Diameter weighs nine Pounds.
+
+Example 2.
+A Shot of eight Inches Diameter the Weight is required.
+
+Seek for 8 on the Line of Inches (on the flat side) and right against it (on
+the adjoining Line) you will find 72 which is the Weight of the Shot that is
+eight Inches Diameter.
+
+Use 5. The Use of the other side of the Rule.
+On this side of the Rule are six Lines,
+
+The First shows the Names of the Pieces, expressed by the several Names as, F
+for Faulcon, M for Minion, S for Saker, etc.
+
+The Second, the Weight of Powder.
+
+The Third, the Weight of Shot.
+
+The Fourth, the Length of the Ladle.
+
+The Fifth, the Breadth of the Ladle.
+
+The Sixth, the Weight of the Piece.
+
+One Example will show their several uses, which shall be the Minion, which you
+will find upon the Line with the Letter M, where under that Line you will find
+3 which is, three Pound of Powder for Service, and 4 under that, which is four
+Pound, the Weight of the Shot.
+
+And 15 in the next Line under that, which shows that the Length of the Ladle
+is fifteen Inches, and in the next Line under that you find 6, which is six
+Inches, the Breadth of the Ladle; and in the last Line under 6 you will find
+1100, the Weight of the Piece.
+
+On this side are placed all the Lines of the Plain Scale, the Uses of which I
+shall not handle in this place, but refer you to my Book of Practical
+Navigation, where the use of every one of them is shown at large.
+
+FINIS.
+A Catalogue of Books and Instruments belonging to the Art of Navigation and
+Gunnery; Sold by John Seller, Senior, at the Hermitage in Wapping.
+Books in Folio.
+ENglish Pilot for the Northern, Southern, Eastern, and Western Navigation.
+Sea-Atlas, describing the Seacoasts in all the known parts of the World. The
+Coasting Pilot, describing the Coasts of England, Holland, Zeeland, and France,
+as far as Silly, and Vshant. A description of the Sands, Buoyes, Beacous and
+Sea-marks upon the Coast of England, from Dover to Orfordness. Atlas Coelestis;
+showing all the Constellations of the Stars, and other Phenomena's of the
+Celestial Bodies, with Maps of the Sun and Moon, etc. Atlas-Terrestr is;
+containing a Collection of choice Maps of all the Empires and Kingdoms in the
+whole World.
+Books in Quarto.
+PRactical Navigation; being an Introduction to the whole Art; containing many
+Geometrical Desinitions and Problems, the Doctrine of plain and spherical
+Triangles, plain Mercator and great Circle sailing; sundry useful Problems in
+Astronomy, the use of Instruments in Navigation, the Azimuth Compass,
+Ring-dyal, the Forestaff, Quadrant, Plain-Scale, Gunters-Scale, Sinical
+Quadrant, plain Chart, Mercators Chart, both Globcs: Useful Tables of the Moons
+Age, of the Tides, and of the Sun's Place and Declination, Tables of Lines;
+Tangents and Sea-carts, and Logarithms, etc. Mr. Street Eoclesiastick and
+Civel Calendar.
+Books in Octavo.
+A Pocketbook, containing choice Collections in Astronomy, Geography,
+Dyalling, Navigation. Atlas Coelestis, containing the Systems and Theories of
+the Planets, the Constellations of the Stars, and other Phenomena's of the
+Heavens, with necessary Tables relating thereto. A new System of Geography,
+designed in a most plain and easy Method for the better under standing of that
+Science; accomodated with new Maps of the Countries, Regions, Empires,
+Monarchies, Kingdoms and Goverament in the whole World; with Geographical
+Tables explaining the Divisions in each Map. Atlas Maritimus, describing the
+Seacoasts in all the known parts of the World. Sea-Gunnery, containing the
+whole Art of Gunnery as it is used at Sea; containing two Compendiums of
+Arithmetic in Vulgar and Decimal, and necessary Tables belonging to that Art.
+Tabular Dyalling, showing the making Horizontal and Vertical Dyals for all
+Latitudes in the whole World. An Almanac for an Age, showing the Primes and
+Dominical Letters to the end of the World; as also, the day of the Month, the
+rising and setting of the Sun, and several other useful remarks. Atlas Minimus,
+showing all the Empires and Kingdoms in the World, with Geographical Tables,
+explaining the Divisions in each Map, in Twelves.
+Insteuments of Navigation.
+Meridian Compasses, Azimuth and Amplitude Compasses, Sea-quadrants,
+Cross-staves, Nocturnals, Gunter's Scales, Plain-Scales; Pocket-Compasses,
+Brass-Compasses of all sorts, Sinical-quadrants, Sectors, Brass-ringdials,
+Load-stones, Hour-glasses, ^ Hours, Minute, Watch-glasses, and Watch-glasses,
+Black-lead Pencils, Slates and Slate-Pens, Pens, Telescopes,
+Perspective-glasses, Pocket-Globes.
+
+

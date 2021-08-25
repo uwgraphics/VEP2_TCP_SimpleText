@@ -1,0 +1,2440 @@
+The Doctrine OF INTEREST, BOTH SIMPLE and COMPOUND: EXPLAINED In a more exact
+and satisfactory Method then has hitherto been Published.
+
+DISCOVERING The Errors of the Ordinary Tables of Rebate for Annuities at
+Simple Interest.
+
+AND CONTAINING Tables for the Interest and Rebate of Money for Days, Months,
+and Years, both at Simple and Compound Interest: Also Tables for the
+Forbearance, Discompt, and Purchase of Annuities.
+
+AS LIKEWISE, Equation of Payments made Practicable and useful for all
+Merchants and others.
+
+Together with diverse others useful Reflections.
+
+Humbly Presented to His Most Sacred Majesty, CHARLES II. By Sir S. Morland,
+Knight and Baronet.
+
+Printed at London, by A. Godbid and J. Playford. and are sold by Robert
+Boulter, at the Turks-Head, over against the Royal Exchange in Cornhill, 1679.
+
+coat of arms or blazon
+
+A necessary and useful INTRODUCTION.
+THe Author of this little Book hopes he has served the Public somewhat better
+than other Arithmeticians, who have gone before him, for the following Reasons.
+
+1. In that his Method is more plain and easy than that of other Men; and
+those things which they have left intricate and difficult to be understood, are
+here made evident by clear Demonstrations, obvious to the meanest capacity.
+
+2. In that his Tables are Calculated with greater care, and are much more
+correct than those that have been Published of late years. For instance, all
+those Tables in Mr. Newton's Book, Printed 1667, are full of Errors and
+mistakes; and which is very remarkable, the Tables which Mr. Dary has Published
+as his own, are only transcribed out of Mr. Newton's Book, and that with all
+the Errors, which are so many, that they must needs mislead and discourage
+either young or old Practitioners from trusting to, or making use of them.
+
+In Mr. Clavel's Tables, which seem to be more correct than the others, there
+will be found many very considerable Errors. As for instance, if you would know
+what an Annuity of 600 l. to continue 21 years is worth in ready Money, you
+will find it there to be but 6058: 08: 11.034, which is too little by 1000 l.
+also if you would know the Present Worth of 60 l. Annuity for the like time (in
+the same Page that resolves the former Question) you will find but 605: 16:
+10.703, which is less than the truth by 100 l.
+
+Whereas in this little Book, by the more than ordinary care and diligence of
+Mr. John Playford, Printer, (whom I have found the most ingenious and dexterous
+of any of his Profession, in Printing of Tables, and all sorts of Mathematical
+Operations) it is presumed that there will hardly be found one false Figure;
+but if there should, the Tables are so framed, that what the one does by
+Multiplication, the other proves by Division, and vice versa, whatever the one
+performs by Division, the other makes out by Multiplication to be a truth.
+
+3. Because the Operations according to the Rules and Tables of this little
+Book, where the Sums are great, are much more easy, practicable, and
+satisfactory, than by Mr. Clavel's Tables; besides that those Tables do not
+answer very many useful Questions that will daily occur to Men of business.
+
+For Example.
+
+He has Tables for the Amount of any Sum to 10000 l. for 365 days, but he has
+no Tables of Rebate for so many days, which is full as useful as the other, not
+only in Simple, but also Compound Interest; so that the Practitioner must very
+often be forced to have recourse to the Logarithms, or other tedious
+Calculations.
+
+4. Because all the Operations in this Book are performed by DECIMAL
+ARITHMETIC, which of all other is the most useful and Practicable, when well
+understood: And in order thereunto, the Author has here given several Examples,
+and explained the respective Operations in such a manner, that any person who
+does at all understand the Vulgar Arithmetic, may in one hours time thoroughly
+comprehend this.
+
+Addition and Subtraction of Decimals.
+AS for the Operations of Addition and Subtraction, they are the very same with
+the Vulgar.
+
+For Example.
+To 375.42 Add 49.32 Sum 424.74.
+
+There must only care be had of setting Unites under Unites, and Fractions
+under Fractions, in their proper Ranks and Files; as likewise that there be as
+many places of Fractions in the Total, as are found in either of the Sums,
+before they are added together.
+
+Thus:
+To 375.42 Add 495.4 Sum 870.82
+
+Or thus:
+To 375.42 Add 95.03 Sum 470.45
+
+Again,
+From 870.82 Deduct 495.4 Remainder 375.42
+
+Or,
+From 470.45 Deduct 95.03 Remainder 375.42
+
+Multiplication of Decimals.
+Rule.
+SET one Number over another, (making only a Fullpoint to Distinguish between
+whole Numbers and Fractions) in the very same manner as is none in ordinary
+Multiplication, only when the Product is finished, look how many places of
+Fractions are found, both in the Multiplicand and Multiplicator jointly, just
+so many must be left in the Product.
+
+For Example.
+To multiply 342.34 by 3.123, place them thus: ^
+
+Explanation.
+Because in the Multiplicand there are two places of Fractions, and in the
+Multiplicator three, in all five; therefore in the Product there must be also
+five places of Fractions.
+
+Thus, ^
+
+Here the Practitioner is to observe, that the Fraction which is in truth less,
+is set over the whole Number, which is really greater. But because the Fraction
+consists of more places, it is set uppermost, though it is a thing indifferent,
+for if they were set otherwise, the Product would still be the same.
+
+For, ^
+
+Which is the very same as before.
+
+By the same Reason, ^
+
+The Product must evermore be completed, as to the number of places that are
+found in both Multiplicand and Multiplicator.
+
+An excellent Method of Contracting a Long Multiplication.
+1. IN the first place, wherever a Multiplication consists of above three
+places, the Author does recommend to all Practitioners (as a thing which he has
+sufficiently experienced to be the most safe and easy) to make use of a
+Tariffa, or Table of Multiplication for the Multiplicand: And though it may and
+will seem at the first view to be more tedious, yet it will be found to be the
+shortest of all other ways whatsoever, being performed by Addition only, and
+less subject to error; and not only so, but whereas all other Operations of
+Multiplication do extremely distort the Eyes by looking steadfastly upon Figures
+placed Diagonally, by this Tariffa the Eye looks on them always in a straight
+Line, and no otherwise.
+
+For Example.
+Suppose the two Sums to be multiplied one by another were 259879.890625, and
+1.1173698, but the Product to consist of no more than Eleven places.
+
+Tariffa for the Multiplicand.
+1 259879890625 2 519759781250 3 779639671875 4 1039519562500 5 1299399453125 6
+1559279343750 7 1819159234375 8 2079039125000 9 2338919015625
+
+Having made a Tariffa, and placed the Multiplicand and Multiplicator as is
+before directed, because in the Multiplicand there are twelve places, and eight
+in the Multiplicator, in all twenty places; and it is desired to contract them
+to eleven places. First let a Line be drawn, leaving eight places to the right
+hand; and then let all the imaginary places underneath be supplied with Points
+or Ciphers, decreasing in a Triangular Figure to nothing.
+
+Then let the Multiplication be performed as follows.
+
+Let the last Figure in the Multiplicator be found in the Margin of the
+Tariffa, and the Product answering to it subscribed, only let eight places be
+imaginary according to the number of Points or Ciphers, and let the remaining
+Figures ( viz. 20790) be transcribed on the other side of the Line.
+
+Under the next Figure of the Multiplicator (9), are seven Points or Ciphers,
+therefore the Product answering to (9) in the Margin of the Tariffa being
+found, viz. 233891/9015625, let the first seven Figures to the right hand be
+left, and the other six inscribed, as in the Example is better seen.
+
+And thus must the Operation be performed, 'till all be finished; and
+considering that there are eight several Products, it may be well imagined,
+that at least (2) must be carried from the last place; and therefore (2) being
+added to (27) there must be set down (9), and (2) carried to the next place;
+and thus must be wrought the whole Multiplication, and at last it gives the
+Product, as is here-under expressed, viz. ^
+
+And after this manner may any Multiplication be contracted to any number of
+places, more or less.
+
+Division of Decimals.
+IN Division of Decimals, the greatest difficulty is to know of what nature the
+first Figure or Cipher in the Quotient ought to be, for that being once known,
+all other things are the very same as in the ordinary Operation of Division.
+
+And therefore I shall give this General Rule, for the finding of what nature
+or quality the first Figure or Cipher of any Quotient in a Decimal Operation
+ought to be.
+
+General Rule.
+The first Figure in the Quotient must and will always be of the same nature
+and quality with that Figure or Cipher in the Dividend, which at the first
+Question stands over the place of Unites in the Divisor.
+
+Example 1.
+Let 7.4944 be given to be divided by 32.
+
+By the foregoing Rule, because the Figure (4) of the Dividend stands over the
+Unite (2) of the Divisor, and the Figure (4) is a Fraction; therefore the first
+Figure of the Quotient ( viz. 2) must be a Fraction, and have a Point prefixed.
+
+And then all the other Figures of the Quotient follow in course, as in the
+ordinary Method of Division.
+
+Tariffa.
+1 32 2 64 3 96 4 128 5 160 6 192 7 224 8 256 9 288 ^
+
+Example 2.
+Direction
+
+In this last Example, because the Divisor may not be placed under the first
+Figure of the Dividend, nor indeed under the second, therefore are two Ciphers
+put first in the Quotient, but under the third Figure it may be set, and
+then.0204 is found three times in 0652, and 40 over; then bringing down (8),
+and adding it to 40, makes the Product (408), which is just the double of (204)
+which gives (2) for the last Figure of the Quotient.
+
+And after this manner may any Division be wrought, without the least
+difficulty or uncertainty.
+
+Example 3.
+Let.0006258 be the Dividend, and.0032 the Divisor.
+
+Here must be a remove before the Divisor will come under the the Dividend,
+which is the occasion of putting one Cipher in the Quotient, before the Figure
+(2).
+
+Tariffa.
+1 0032 2 0064 3 0096 4 0128 5 0160 6 0192 7 0224 8 0256 9 0288
+
+^
+
+Again, Let the Numbers in the first Example be given thus: ^
+
+Tariffa.
+1 74944 2 149888 3 224832 4 299776 5 374720 6 449664 7 524608 8 599552 9
+674496
+
+Explanation of the foregoing Examples.
+Explanation of the first Example.
+IN the first Example a less Number 7.4944 is divided by a greater, viz. 32.
+
+The young Practitioner will presently object, and demand how this can be, for
+to divide one Number by another, is to demand how many times that other Number
+is found in the first; that is, in this case, how many times 32 is found in 7
+Integers, and a Fraction of.4944.
+
+Explanation.
+
+The Answer in plain English is this:
+
+First, 32 is not found so much as once in 7, and that is the reason of the
+Full-point (.) in the Quotient, before the Figures of the Fraction, to
+signify, that the whole Quotient consists of Decimal Parts.
+
+Secondly, the first Figure of the Fraction being (2) denotes this, namely that
+32 comes no nearer, being found in 7.49, etc. than ^2/10, or two Tenths of
+once, or one time; that is to say, it comes no nearer than 2 is to 10.
+
+And the second Figure of the Quotient (3) gives to understand, that 32 comes
+no nearer, being found in 7.49, etc. so much as once, or one time, than 23/100,
+or Twenty three Hundred parts; that is to say, no nearer than 23 is to 100.
+
+And (4) the third Figure goes farther, and says, that 32 comes no nearer,
+being found once, or one time, in 7.49, etc. than 234/1000, or Two Hundred
+thirty four Thousand parts; that is to say, no nearer than 234 is to 1000.
+
+And the last Figure determining the Question, yet somewhat more exactly; that
+is to say, denotes that 32 comes no nearer, being found so much as once in
+7.4944, than 2342/10000; that is, no nearer than 2342 is to 10000.
+
+Explanation of the second Example.
+IN the second Example likewise a less Number seems to be divided by a greater,
+viz..0006528 by.0204, and also (in the third Example) by.0032; and an
+Explanation of one of these may serve for both.
+
+And the true meaning is,
+
+1. First.0032 cannot be found once in.0006528, therefore is a Point prefixed
+before the Quotient.
+
+2. The first Cipher denotes that.0032 comes not so near, being found once
+in.0006528, as 1/10, or one Tenth; that is, not so near as 1 to 10.
+
+3. The second Cipher tells the Practitioner that it comes not so near as
+1/100, or as 1 to 100.
+
+4. The Figure (3) in the third place, acquaints him, that 32 is no nearer,
+being found once in.0006528, than 1/1000, that is, Three parts of a Thousand,
+or no nearer than 3 is to 1000.
+
+And the last Figure in the Quotient, ( viz. 2) signifies that 32 is no nearer,
+being found once in. 0006528, than 32/10000; that is to say, no nearer than 32
+is to 10000.
+
+And this Mystery being once thoroughly comprehended, and digested by the young
+Practitioner, there can be no farther difficulty, about a less Number being
+divided by a greater.
+
+5. In the fifth and last place, by this little Book may be compared together
+the Operations of Simple and Compound Interest, and so may be discovered how
+erroneous and extravagant the one is, and how true and rational the other, and
+only fit to be made use of by all those who deal in matters of Money, or
+Purchases, which that the Reader may better comprehend, let him consider well
+the following Animadversions, or Reflections.
+
+Reflections upon Simple and Compound Interest.
+Reflection I.
+LEt there be proposed an Annuity of 100 l. to be continued 10, 20, 30, 40, 50,
+60, 70, 80, 90, or 100 Years, and let it be demanded, what the Present Worth of
+such an Annuity is for any of the following Terms, at the Rate of 6 per Cent.
+and that as well according to Simple as Compound Interest?
+
+Answer.
+An Annuity of 100 l. to continue for 10, 20, 30, 40, 50, 60, 70, 80, 90, or
+100 Years, is worth in present Money so many Years Purchase as is hereafter
+expressed, viz.
+
+Number of Years to be continued. Years Purchase, at Simple Interest. Years
+Purchase at Compound Interest. 10 7.93 7.35 20 14.27 11.46 30 20.03 13.76 40
+25.52 15.01 50 30.87 15.72 60 36.13 16.16 70 41.32 16.38 80 46.48 16.50 90
+51.60 16.57 100 56.71 16.61
+
+By which Table it is very observable, what a small difference there is at
+Compound Interest, between the Present Worth of 50 Years, and the Present Worth
+of 100 Years, ( viz. 00. 89/100) in comparison with the difference between 50
+and 100 Years, at Simple Interest, ( viz. 25 Years Purchase, more by 84/100)
+the one not exceeding 16 Years Purchase, more by 61/100; and the other still
+increasing as far as almost 57 Years Purchase; and if continued to a greater
+Number of Years, would still swell into an extravagant Sum, for the Purchase,
+Treble, or Quadruple, to the usual Rate of Purchases in the Kingdom where woe
+live.
+
+Reflection II.
+FOr as much as it is a truth received by all, That the Purchase of an Estate
+or Revenue for ever, in most places of England, is not worth above 20 Years
+Purchase, and that to be computed according to Compound Interest, which is made
+up of so many Geometrical Proportional Numbers: What reason can there be given,
+why the Present Worth of any Payment, due at any time hereafter, should not be
+computed by the same proportion, although the Payment be but for a Year, nay,
+for a Day, or Hour, or Minute to come?
+
+Thus, according to the Rate of Compound Interest, the Purchase of an Estate
+for 30 years to come, at 4 per Cent. is worth 17 years Purchase, and somewhat
+more; at 5 per Cent. is worth 15 years Purchase, more by ^9/100; at 6 per Cent.
+is worth 13 years Purchase, more by 76/100. The same Estate for 20 years to
+come, at 4 per Cent. is worth 13 years and a half Purchase, and somewhat more;
+and for 10 years to come, is worth above 8 years Purchase; and for two years to
+come, is worth one years Purchase, more by 88/100; and all these Numbers are
+Calculated as Geometrical Proportionals: Why then should the same Estate, for a
+Year, or 6 Months to come, be Calculated by any other Proportion? Or indeed,
+how can it be rightly Calculated by any other Proportion, without doing wrong
+to either Buyer or Seller?
+
+Reflection III.
+COmpound Interest being made up of Geometrical Proportionals, the Debtor ought
+not really to pay after the Rate of 30 s. a Quarter for 100 l. let out to him
+at 6 per Cent. because, if 100 l. be put out to Interest, and the Interest come
+to 1 l. 10 s. the first Quarter, that 101 l. 10 s. by the end of the next
+Quarter (keeping to Geometrical Proportion) will become 103 l. 5 d. 1 q. more
+by 6^/100 of a Farthing; that is to say, 100 l. after this manner, would amount
+in a years time to 106 l. 2 s. 8 d. 2 q. more by Ninety Hundred parts of a
+Farthing, as may be seen by the following Calculation.
+
+Which in a great Sum is more considerable.
+
+For suppose the Crown to be indebted 1 Million, or (1000000 l.) and it were
+agreed to pay at the Rate of 30 s. for each 100 l. the first Quarter, and it
+were not paid 'till the Twelve Months end; the Amount would be as follows.
+
+^ Which at the years end amounts to 60000 l. (which ought to be the Total Sum
+of the Interest for 12 Months, at 6 per Cent.) and over and above the said
+60000 l. there is 1363 l. 11 s. which 1 Million according to such an Account,
+if put out for a year, would amount to: So that in effect this is not 6 per
+Cent. but 6 l. 2 s. 8 d. 2 q. Ninety Hundred parts of a Farthing per Cent. For
+he who lends Money, if so soon as the first Quarters Interest grows due, and
+the Creditor pay it not at the just time, (if he so please) obliges the
+Creditor to acknowledge so much Principal, and then it increases as aforesaid.
+
+Diverse other Reflections of this kind might be made, and applied to the
+manifold abuses that may be committed, by Selling according to one Rate of
+Interest, and Buying by another, and so confounding together Simple and
+Compound Interest, as it makes most for the advantage of the Money Merchant,
+there being very few so well versed in Numbers as to contradict them. The truth
+is, it is as great pity that there should be two so different Calculations of
+Interest, as that there should be so many different Weights and Measures, and
+those divided and subdivided into so many Heterogeneous Fractions, which must
+of necessity create to all Dealers innumerable difficulties; whereas if Coyns,
+Weights, and Measures, were divided and subdivided by Decimals, all
+Calculations would be performed with ease and pleasure.
+
+For Instance,
+If a Pound were divided into 10 Shillings, a Shilling into 10 Pence, and a
+Penny into 10 Farthings, and only a Point to distinguish Integers from
+Fractions; then the following Sum would easily be added together, viz.
+
+l. s. d. q. 15 9 6 1 39 8 3 0 48 7 2 1
+
+For they might be set down thus: ^
+
+That is to say, the Sum would be 104 Pound, 5 Shillings, 1 Penny, and 2
+Farthings.
+
+Or if these were Weights, they might be,
+
+104 Pound-weight, 5 Ounces, 1 Dram, 2 Scruples.
+
+And after this manner might all Calculations be abbreviated, and made much
+more practicable than now they are, especially the Operations of Multiplication
+and Division.
+
+For to multiply 48 l. 7 s. 2 d. 2 q. as they are now divided, by 124, is very
+troublesome, and requires many Operations, both of Multiplication and Division;
+but in a Decimal way, it would be plain and easy by one single Multiplication,
+viz. ^
+
+That is to say, 6041 Pound, 5 Shillings, 2 Pence, and 8 Farthings.
+
+The convenience and expedition would yet be greater in Long and Square
+Measures; and all former Accounts by unequal Divisions, might for the present
+be reconciled and reduced to Decimals, and in a few years utterly forgotten,
+and become altogether useless.
+
+But for as much as a private Person can only give hints of what he conceives
+to be of public use and benefit, and that it is a thing wholly in the Power of
+those who are Lawmakers, to inspect and rectify what they in their great
+Wisdom shall judge amiss; the AUTHOR does in all Humility lay by his Pen, and
+puts a period to his Discourse upon this Subject.
+
+The CONTENTS of the First Book.
+OF Interest in general, Page 1 The Reduction of Shillings, Pence, and
+Farthings, into Decimal Fractions, 3 The Interest of One Pound for a Year, at
+any Rate of Simple Interest, from 1 to 12 per Cent. 4 The Interest of One Pound
+for half a Year, at any Rate of Simple Interest, from 1 to 12 per Cent. 5 The
+Interest of One Pound for a Quarter of a Year, at any Rate of Simple Interest,
+from 1 to 12 per Cent. 6 The Interest of One Pound for a Month, at any Rate of
+Simple Interest, from 1 to 12 per Cent. 7 The Interest of One Pound for a Day,
+at any Rate of Simple Interest, from 1 to 12 per Cent. 8. The Golden Table of
+Trigonal Progression, of admirable Use in all Calculations of the Amount or
+Present Worth of Annuities, etc. 9 The Number of Days from the beginning of any
+Month to the end of any other, throughout the Year, 13 The Amount of One Pound
+forborne any Number of Years under 32, at 6 per Cent. Simple Interest, Page 16
+The Amount of One Pound forborne any Number of equal Months under 25, at 6 per
+Cent. Simple Interest, 17 The Amount of One Pound forborne any Number of Days
+under 366, at 6 per Cent. Simple Interest, 18 The Present Worth of One Pound
+due after any Number of Years to come, not exceeding 32, at 6 per Cent. Simple
+Interest, 27 The Present Worth of One Pound due after the expiration of any
+Number of Months under 25, at 6 per Cent. Simple Interest. 29 The Present Worth
+of One Pound due after the expiration of any Number of Days under 366, at 6 per
+Cent. Simple Interest, 31 The Reduction of Pence and Farthings into Decimal
+Fractions, to the Hundredth part of a Farthing, 41 The Use of the foregoing
+Tables, 46 A Comparison between these and Mr. Clavel's Tables, wherein it is
+proved, that the former are less troublesome, and more exact than the latter,
+52 Of Annuities, 59 The Multiplication of any Rates of Interest whatsoever
+belonging to each Year, for a forborne Annuity, to 100 Years, 60 To find the
+Amount of any Annuity for any given time, at any Rate of Simple Interest, Page
+64 This kind of Interest for Annuities useless and ridiculous, 65 The Errors of
+the ordinary Rules and Tables for Rebate relating to Annuities, ibid. Mr.
+Kersey and Dr. Newton both mistaken, 66 Diophantus Alexandrinus his third
+Proposition concerning Poligonal Numbers considered, 73 A second Reflection on
+Mr. Kersey's and Dr. Newton's mistake, 87 Equation of Payments rectified, 93
+The Amount and Present Worth of an Annuity of 100 l. for 5 Years, at 1, 2, 3,
+4, 5, 6, and 10 per Cent. Simple Interest, Page 95, etc. Observations on these
+Tables, 102 Equation of Unequal Payments at times not equidistant, 123
+The CONTENTS of the Second Book.
+COmpound Interest explained, Page 129 A Reflection upon Geometrical
+Progression, 131 The Amount of One Pound put out to Interest, and forborne any
+Number of Years under 32, or Quarters under 125, at 6 per Cent. Compound
+Interest, 141 The Amount of One Pound put out to Interest for any Number of
+Months under 25, at 6 per Cent. Compound Interest, Page 146 The Amount of One
+Pound put out to Interest for any Number of Days under 366, at 6 per Cent.
+Compound Interest, 147 The Present Worth of One Pound due after any Number of
+Years under 32, or Quarters under 125, at 6 per Cent. Compound Interest, 157
+The Present Worth of One Pound due after the expiration of any Number of Months
+under 25, at 6 per Cent. Compound Interest, 162 The Present Worth of One Pound
+due after the expiration of any Number of Days under 366, at 6 per Cent.
+Compound Interest, 163 The Present Worth of One Pound Annuity, to continue any
+Number of Years under 32, and payable by yearly Payments, at 5, 6, 7, 8, 9, and
+10 per Cent. Compound Interest, 173 What Annuity to continue any Number of
+Years under 32, and payable by yearly Payments, One Pound will Purchase, at 5,
+6, 7, 8, 9, and 10 per Cent. Compound Interest, 179 The Present Worth of any
+Lease or Annuity, for 21, 31, 41, 51, 61, 71, 81, or 91 Years; as likewise the
+Present Worth of the Fee-Simple, at 5, 6, 8, and 10 per Cent. Compound
+Interest, 184 The several Uses of the foregoing Tables, 186
+THE DOCTRINE OF SIMPLE INTEREST EXPLAINED By a New and Exact Method, And the
+Errors of the Ordinary Rules and Tables of Rebate discovered and rectified.
+CHAP. I.
+INterest is either Simple, or Compound.
+
+1. Simple Interest, is the Increase which arises from the Principal only, at
+4, 5, 6, 7, etc. per Cent.
+
+2. Compound Interest, is the Increase which arises from the Principal, and
+also from the Interest thereof.
+
+Thus, if 100 l. be lent at Simple Interest for Two Years, at 6 per Cent. the
+Increase thereof is 12 l. But if at Compound Interest, it gives 6 l. for the
+first Year, and 6 l. for the second Year, together with the Interest of the
+first 6 l. for the second Year. That is to say: ^ To which adding the Principal
+( viz. 100 l.) the Amount of both Principal and Compound Interest, for Two
+years, is 112.36 l. which by the Table of Reduction in the following Page is
+112 l. 7 s. 2 d. 1 q. more by.000626 parts of a Pound.
+
+The Doctrine of Simple Interest is plainly and clearly set forth in the
+following Propositions.
+
+But that the Practitioner may meet with no difficulty in the respective
+Operations, he will here find made ready to his hand Seven short (but very
+significant) Tables.
+
+TABLE I. Reduction of Shillings, Pence, and Farthings, into Decimal Fractions.
+Shillings. Decimals. Pence. Decimals. 11.0458333 19.95 10.0416666 18.9 9.0375
+17.85 8.03^3333 16.8 7.0291666 15.75 6.025 14.7 5.0208333 13.65 4.0166666 12.6
+3.0125 11.55 2.0083333 10.5 1.0041666 9.45 8.4 Farth. Decimals. 7.35 6.3
+3.003125 5.25 2.0020833 4.2 1.0010416 3.15.0005208 2.1.0002604 1.05 1/8.0001302
+
+TABLE II. The INTEREST of One Pound for One Year. From 1 to 12 per Cent.
+Rates per Cent. Interest. 1.01 2.02 3.03 4.04 5.05 6.06 7.07 8.08 9.09 10.10
+11.11 12.12
+
+TABLE III. The INTEREST of One Pound for One Half-Year. From 1 to 12 per Cent.
+Rates per Cent. Interest. 1.005 2.01 3.015 4.02 5.025 6.03 7.035 8.04 9.045
+10.05 11.055 12.06
+
+TABLE IV. The INTEREST of One Pound for One Quarter. From 1 to 12 per Cent.
+Rates per Cent. Interest. 1.0025 2.005 3.0075 4.01 5.0125 6.015 7.0175 8.02
+9.0225 10.025 11.0275 12.03
+
+TABLE V. The INTEREST of One Pound for One Month. From 1 to 12 per Cent.
+Rates per Cent. Interest. 1.0008333 2.0016666 3.0025 4.00333 5.00416 6.005
+7.00583 8.00666 9.0075 10.08333 11.09166 12.1
+
+TABLE VI. The INTEREST of One Pound for One Day. From 1 to 12 per Cent.
+Rates per Cent. Interest. 1.00002739726 2.00005479452 3.00008219178
+4.00010958904 5.00013698630 6.00016438356 7.00019178082 8.00021917808
+9.00024657534 10.00027397260 11.00030136986 12.00032876712
+
+TABLE VII. THE GOLDEN TABLE OF Trigonal Progression. Of excellent use, in all
+Calculations of the Amount or present Worth of Annuities, etc.
+Arith. Prog. Trigonal Prog. 1 1 2 3 3 6 4 10 5 15 6 21 7 28 8 36 9 45 10 55 11
+66 12 78 13 91 14 105 15 120 16 136 17 153 18 171 Arith. Prog. Trigonal Prog.
+19 190 20 210 21 231 22 253 23 276 24 300 25 325 26 351 27 378 28 406 29 435 30
+465 31 496 32 528 33 561 34 595 35 630 36 666 37 703 38 741 39 780 40 820 41
+861 42 903 43 946 44 990 45 1035 46 1081 47 1128 48 1176 49 1225 50 1275 51
+1326 52 1378 53 1431 54 1485 55 1540 56 1596 57 1653 58 1711 59 1770 60 1830
+Arith. Prog. Trigonal Prog. 61 1891 62 1953 63 2016 64 2080 65 2145 66 2211 67
+2278 68 2346 69 2415 70 2485 71 2556 72 2628 73 2701 74 2775 75 2850 76 2926 77
+3003 78 3081 79 3160 80 3240 81 3321 82 3403 83 3486 84 3570 85 3655 86 3741 87
+3828 88 3916 89 4005 90 4095 91 4186 92 4278 93 4371 94 4465 95 4560 96 4656 97
+4753 98 4851 99 4950 100 5050 101 5151 102 5253 Arith. Prog. Trigonal Prog. 103
+5356 104 5460 105 5565 106 5671 107 5778 108 5886 109 5995 110 6105 111 6216
+112 6328 113 6441 114 6555 115 6670 116 6786 117 6903 118 7021 119 7140 120
+7260 121 7381 122 7503 123 7626 124 7750
+
+TABLE VIII. A TABLE SHOWING The Number of Days from the Beginning of any Month
+to the End of any other.
+JAnuary, 31. February, 59. March, 90. April, 120. May, 151. June, 181. July,
+212. August, 243. September, 273. October, 304. November, 334. December, 365.
+February, 28. March, 59. April, 89. May, 120. June, 150. July, 181. August,
+212. September, 242. October, 273. November. 303. December. 334. Jan. 365. March,
+31. April, 61. May, 92. June, 122. July, 153. August, 184. September, 214.
+October. 245. November. 275. December. 306. Jan. 337. Febr. 365. April, 30. May, 61.
+June, 91. July, 122. August, 153. September, 183. October, 214. November, 244.
+December, 275. January, 306. February 334. March, 365. May, 31. June, 61. July,
+92. August, 123. September, 153. October, 184. November, 214. December, 245.
+Jan. 276. February, 304. March, 335. April, 365. June, 30. July, 61. August,
+92. September, 122. October, 153. November. 183. December, 214. January, 245.
+Febr. 273. March, 304. April, 334. May, 365. July, 31. August, 62. September,
+92. October, 123. November. 153. December. 184. January, 215. February, 243. March,
+274. April, 304. May, 335. June, 365. August, 31. September, 61. October. 92.
+November, 122. December, 153. January, 184. February, 212. March, 243. April,
+273. May, 304. June, 334. July, 365. September, 30. October, 61. November, 91.
+December, 122. January, 153. February, 181. March, 212. April, 242. May, 273.
+June, 303. July, 334. Aug. 365. October, 31. November, 61. December. 92. January,
+123. February, 151. March, 182. April, 212. May, 243. June, 273. July, 304.
+August, 335. September, 365. November, 30. December, 61. January, 92. February,
+120. March, 151. April, 181. May, 212. June, 242. July, 273. Aug. 304. Sept.
+334. October. 365. December, 31. January, 62. February, 90. March, 121. April,
+151. May, 182. June, 212. July, 243. August, 274. September, 304. October, 335.
+November. 365.
+
+
+Note, That in every Leap-year, February has 29 Days, and then you must allow a
+Day more than is here computed for that Month.
+
+TABLE IX. The Amount of One Pound, put out to Interest, and forborne any Number
+of Years under 32. At the Rate of 6 per Cent. Simple Interest; And that
+Interest payable Yearly.
+Years. Amount. 1 1.06 2 1.12 3 1.18 4 1.24 5 1.30 6 1.36 7 1.42 8 1.48 9 1.54
+10 1.60 11 1.66 12 1.72 13 1.78 14 1.84 15 1.90 16 1.96 17 2.02 18 2.08 19 2.14
+20 2.20 21 2.26 22 2.32 23 2.38 24 2.44 25 2.50 26 2.56 27 2.62 28 2.68 29 2.74
+30 2.80 31 2.86
+
+TABLE X. The AMOUNT of One Pound, for any Number of equal Months under 25. At
+the Rate of 6 per Cent. Simple Interest.
+Months. Amount. 1 1.005 2 1.010 3 1.015 4 1.020 5 1.025 6 1.030 7 1.035 8
+1.040 9 1.045 10 1.050 11 1.055 12 1.060 13 1.065 14 1 070 15 1.075 16 1.080 17
+1.085 18 1.090 19 1.095 20 1.100 21 1.105 22 1.110 23 1.115 24 1.120
+
+TABLE XI. The AMOUNT of One Pound, for any Number of Days under 366. At the
+Rate of 6 per Cent. Simple Interest.
+Days. Amount. 1 1.000164383 2 1.000328767 3 1.000493150 4 1.000657534 5
+1.000821917 6 1.000986301 7 1.001150684 8 1.001315068 9 1.001479452 10
+1.001643835 11 1.001808219 12 1.001972602 13 1.002136986 14 1.002301369 15
+1.002465753 16 1.002630136 17 1.002794520 18 1.002958904 19 1.003123287 20
+1.003287671 21 1.003452054 22 1.003616438 23 1.003780821 24 1.003945205 25
+1.004109589 26 1.004273972 27 1.004438356 28 1.004602739 29 1.004767123 30
+1.004931506 31 1.005095890 32 1.005260273 Days. Amount. 33 1.005424657 34
+1.005589041 35 1.005753424 36 1.005917808 37 1.006082191 38 1.006246575 39
+1.006410958 40 1.006575342 41 1.006739725 42 1.006904109 43 1.007068493 44
+1.007232876 45 1.007397260 46 1.007561643 47 1.007726027 48 1.007890410 49
+1.008054794 50 1.008219178 51 1.008383561 52 1.008547945 53 1.008712328 54
+1.008876712 55 1.009041095 56 1.009205479 57 1.009369862 58 1.009534246 59
+1.009698630 60 1.009863013 61 1.010027397 62 1.010191780 63 1.010356164 64
+1.010520547 65 1.010684931 66 1.010849314 67 1.011013698 68 1.011178082 69
+1.011342465 70 1.011506849 71 1.011671232 72 1.011835616 73 1.011999999 74
+1.012164383 75 1.012328767 76 1.012493150 Days. Amount. 77 1.012657534 78
+1.012821917 79 1.012986301 80 1.013150684 81 1.013315068 82 1.013479451 83
+1.013643835 84 1.013808219 85 1.013972602 86 1.014136986 87 1.014301369 88
+1.014465753 89 1.014630136 90 1.014794520 91 1.014958903 92 1.015123287 93
+1.015287671 94 1.015452054 95 1.015616438 96 1.015780821 97 1.015945205 98
+1.016109588 99 1.016273972 100 1.016438356 101 1.016602739 102 1.016767123 103
+1.016931506 104 1.017095890 105 1.017260273 106 1.017424657 107 1.017589040 108
+1.017753424 109 1.017917808 110 1.018082191 111 1.018246575 112 1.018410958 113
+1.018575342 114 1.018739725 115 1.018904109 116 1.019068492 117 1.019232876 118
+1.019397260 119 1.019561643 120 1.019726027 Day. Amount. 121 1.019890410 122
+1.020054794 123 1.020219177 124 1.020383561 125 1.020547945 126 1.020712328 127
+1.020876712 128 1.021041095 129 1.021205479 130 1.021369862 131 1.021534246 132
+1.021698629 133 1.021863013 134 1.022027397 135 1.022191780 136 1.022356164 137
+1.022520547 138 1.022684931 139 1.022849314 140 1.023013698 141 1.023178081 142
+1.023342465 143 1.023506849 144 1.023671232 145 1.023835616 146 1.023999999 147
+1.024164383 148 1.024328766 149 1.024493150 150 1.024657534 151 1.024821917 152
+1.024986301 153 1.025150684 154 1.025315068 155 1.025479451 156 1.025643835 157
+1.025808218 158 1.025972602 159 1.026136986 160 1.026301369 161 1.026465753 162
+1.026630136 163 1.026794520 164 1.026958903 Day. Amount. 165 1.027123287 166
+1.027287670 167 1.027452054 168 1.027616438 169 1.027780821 170 1.027945205 171
+1.028109588 172 1.028273972 173 1.028438355 174 1.028602739 175 1.028767123 176
+1.028931506 177 1.029095890 178 1.029260273 179 1.029424657 180 1.029589040 181
+1.029753424 182 1.029917807 183 1.030082191 184 1.030246575 185 1.030410958 186
+1.030575342 187 1.030739725 188 1.030904109 189 1.031068492 190 1.031232876 191
+1.031397259 192 1.031561643 193 1.031726027 194 1.031890410 195 1.032054794 196
+1.032219177 197 1.032383561 198 1.032547944 199 1.032712328 200 1.032876712 201
+1.033041095 202 1.033205479 203 1.033369862 204 1.033534246 205 1.033698629 206
+1.033863013 207 1.034027396 208 1.034191780 Day. Amount. 209 1.034356164 210
+1.034520547 211 1.034684931 212 1.034849314 213 1.035013698 214 1.035178081 215
+1.035342465 216 1.035506848 217 1.035671232 218 1.035835616 219 1.036000000 220
+1.036164383 221 1.036328766 222 1.036493150 223 1.036657533 224 1.036821917 225
+1.036986301 226 1.037150684 227 1.037315068 228 1.037479451 229 1.037643835 230
+1.037808218 231 1.037972602 232 1.038136985 233 1.038301369 234 1.038465753 235
+1.038630136 236 1.038794520 237 1.038958903 238 1.039123287 239 1.039287670 240
+1.039452054 241 1.039616437 242 1.039780821 243 1.039945205 244 1.040109588 245
+1.040273972 246 1.040438355 247 1.040602739 248 1.040767122 249 1.040931506 250
+1.041095890 251 1.041260273 252 1.041424657 Day. Amount. 253 1.041589040 254
+1.041753424 255 1.041917807 256 1.042082191 257 1.042246574 258 1.042410958 259
+1.042575342 260 1.042739725 261 1.042904109 262 1.043068492 263 1.043232876 264
+1.043397259 265 1.043561643 266 1.043726026 267 1.043890410 268 1.044054794 269
+1.044219177 270 1.044383561 271 1.044547944 272 1.044712328 273 1.044876711 274
+1.045041095 275 1.045205479 276 1.045369862 277 1.045534246 278 1.045698629 279
+1.045863013 280 1.046027396 281 1.046191780 282 1.046356163 283 1.046520547 284
+1.046684931 285 1.046849314 286 1.047013698 287 1.047178081 288 1.047342465 289
+1.047506848 290 1.047671232 291 1.047835615 292 1.048000000 293 1.048164383 294
+1.048328766 295 1.048493150 296 1.048657533 Day. Amount. 297 1.048821917 298
+1.048986300 299 1.049150684 300 1.049315068 301 1.049479451 302 1.049643835 303
+1.049808218 304 1.049972602 305 1.050136985 306 1.050301369 307 1.050465752 308
+1.050630136 309 1.050794520 310 1.050958903 311 1.051123287 312 1.051287670 313
+1.051452054 314 1.051616437 315 1.051780821 316 1.051945204 317 1.052109588 318
+1.052273972 319 1.052438355 320 1.052602739 321 1.052767122 322 1.052931506 323
+1.053095889 324 1.053260273 325 1.053424657 326 1.053589040 327 1.053753424 328
+1.053917807 329 1.054082191 330 1.054246574 331 1.054410958 332 1.054575341 333
+1.054739725 334 1.054904109 335 1.055068492 336 1.055232876 337 1.055397259 338
+1.055561643 339 1.055726026 340 1.0558^^41^ Day. Amount. 341 1.056054793 342
+1.056219177 343 1.056383561 344 1.056547944 345 1.056712328 346 1.056876711 347
+1.057041095 348 1.057205478 349 1.057369862 350 1.057534246 351 1.057698629 352
+1.057863013 353 1.058027396 354 1.058191780 355 1.058356163 356 1.058520547 357
+1.058684930 358 1.058849314 359 1.059013698 360 1.059178081 361 1.059342465 362
+1.059506848 363 1.059671232 364 1.059835615 365 1.060000000
+
+TABLE XII. The PRESENT WORTH of One Pound, due after any Number of Years to
+come, under 32. At the Rate of 6 per Cent. Simple Interest.
+Years to come. Present Worth. 1.94339622 2.89285714 3.84745762 4.80645161
+5.76923076 6.73529411 7.70422535 8.67567567 9.64935064 10.62500000 11.60240963
+12.58139534 Years to come. Present Worth. 13.56179775 14.54347826 15.52631578
+16.51020408 17.49504950 18.48076923 19.46728971 20.45454545 21.44247787
+22.43103448 23.42016806 24.40983606 25.40000000 26.39062500 27.38167939
+28.37313432 29.36496350 30.35714285 31.34965034
+
+TABLE XIII. The PRESENT WORTH of Due Pound, due after the expiration of any
+Number of Months under 25. At the Rate of 6 per Cent. Simple Interest.
+Months to come. Present Worth. 1.99502487 2.99009900 3.98522167 4.98039215
+5.97560975 6.97087378 7.96618357 8.96153846 9.95693779 10.95238095 11.94786729
+12.94339622 Months to come. Present Worth. 13.93896713 14.93457943 15.93023255
+16.92594444 17.92165898 18.91743119 19.91324200 20.90909090 21.90497737
+22.90090090 23.89686098 24.89285714
+
+TABLE XIV. The PRESENT WORTH of One Pound, due after the expiration of any
+Number of Days under 366. At the Rate of 6 per Cent. Simple Interest.
+Days to come. Present Worth. 1.99983564 2.99967134 3.99950709 4.99934290
+5.99917876 6.99901467 7.99885064 8.99868666 9.99852273 10.99835886 11.99819504
+12.99803128 13.99786757 14.99770391 15.99754031 16.99737676 17.99721326
+18.99704982 19.99688643 20.99672310 Days to come. Present Worth. 21.99655982
+22.99639659 23.99623341 24.99607029 25.99590723 26.99574421 27.99558125
+28.99541835 29.99525549 30.99509269 31.99492994 32.99476725 33.99460460
+34.99444201 35.99427948 36.99411700 37.993954^7 38.99379220 39.99362987
+40.99346761 41.99330539 42.99314323 43.99298112 44.99281906 45.99265706
+46.99249511 47.99233321 48.99217136 49.99200957 50.99184782 51.99168614
+52.99152450 53.99136292 54.99120139 55.99103991 56.99087848 57.99071711
+58.99055579 Days to come. Present Worth. 59.99039453 60.99023331 61.99007215
+62.98991104 63.98975000 64.98958899 65.98942804 66.98926714 67.98910629
+68.98894549 69.98878475 70.98862406 71.98846341 72.98830283 73.98814230
+74.98798181 75.98782138 76.98766100 77.98750067 78.98734040 79.98718018
+80.98702001 81.98685989 82.98669983 83.98653980 84.98637984 85.98621993
+86.98606008 87.98590027 88.98574052 89.98558081 90.98542116 91.98526156
+92.98510202 93.98494253 94.98478309 95.98462369 96.98446435 Days to come.
+Present Worth. 97.98430506 98.98414582 99.98398663 100.98382749 101.98366841
+102.98350937 103.98335039 104.98319146 105.98303258 106.98287376 107.98271498
+108.98255626 109.98239758 110.98223896 111.98208039 112.98192188 113.98176340
+114.98160498 115.98144662 116.98128830 117.98113004 118.98097183 119.98081367
+120.98065556 121.98049750 122.98033949 123.98018152 124.98002361 125.97986576
+126.97970795 127.97955020 128.97939250 129.97923485 130.97907725 131.97891970
+132.97876221 133.97860473 134.97844734 Days to come. Present Worth.
+135.97828999 136.97813269 137.97797545 138.97781825 139.97766111 140.97750401
+141.97734697 142.97718997 143.97703304 144.97687614 145.97671930 146.97656250
+147.97640576 148.97624906 149.97609242 150.97593583 151.97577928 152.97562279
+153.97546635 154.97530996 155.97515362 156.97499732 157.97484108 158.97468489
+159.97452875 160.97437266 161.97421662 162.97406063 163.97390470 164.97374880
+165.97359296 166.97343717 167.97328143 168.97312574 169.97297009 170.97281450
+171.97265896 172.97250346 Days to come. Present Worth. 173.97234803
+174.97219263 175.97203729 176.97188199 177.97172675 178.97157155 179.97141640
+180.97126131 181.97110626 182.97095127 183.97079631 184.97064141 185.97048656
+186.97033177 187.97017702 188.97002232 189.96986767 190.96971307 191.96955852
+192.96940401 193.96924959 194.96909518 195.96894083 196.96878652 197.96863227
+198.96847806 199.96832387 200.96816976 201.96801570 202.96786169 203.96770773
+204.96755382 205.96739995 206.96724614 207.96709237 208.96693865 209.96678498
+210.96663136 Days to come. Present Worth. 211.96647778 212.96632426
+213.96617079 214.96601737 215.96586399 216.96571066 217.96555738 218.96540415
+219.96525096 220.96509783 221.96494475 222.96479171 223.96463871 224.96448578
+225.96433289 226.96418004 227.96402725 228.96387451 229.96372181 230.96356916
+231.96341656 232.96326401 233.96311151 234.96295906 235.96280665 236.96265429
+237.96250198 238.96234972 239.96219750 240.96204533 241.96189322 242.96174114
+243.96158912 244.96143715 245.96128522 246.96113334 247.96098151 248.96082973
+Days to come. Present Worth. 249.96067800 250.96052631 251.96037467
+252.96022309 253.96007154 254.95992004 255.95976860 256.95961720 257.95946585
+258.95931454 259.95916329 260.95901208 261.95886092 262.95870981 263.95855875
+264.95840773 265.95825676 266.95810584 267.95795497 268.95780414 269.95765335
+270.95750262 271.95735194 272.95720130 273.95705071 274.95690016 275.95674967
+276.95659922 277.95644882 278.95629847 279.95614816 280.95599790 281.95584769
+282.95569753 283.95554742 284.95539735 285.95524732 286.95509735 Days to come.
+Present Worth. 287.95494742 288.95479753 289.95464770 290.95449791 291.95434817
+292.95419847 293.95404882 294.95389923 295.95374967 296.95360016 297.95345070
+298.95330129 299.95315192 300.95300261 301.95285334 302.95270411 303.95255493
+304.95240580 305.95225672 306.95210768 307.95195869 308.95180974 309.95166084
+310.95151199 311.95136318 312.95121442 313.95106573 314.95091706 315.95076844
+316.95061986 317.95047134 318.95032285 319.95017442 320.95002603 321.94987769
+322.94972939 323.94958114 324.94943204 Days to come. Present Worth.
+325.94928478 326.94913667 327.94898861 328.94884059 329.94869262 330.94854470
+331.94839682 332.94824898 333.9481^120 334.94795346 335.94780576 336.94765811
+337.94751051 338.94736295 339.94721544 340.94706798 341.94692056 342.94677319
+343.94662587 344.94647858 345.94633135 346.94618416 347.94603701 348.94588991
+349.94574286 350.94559585 351.94544889 352.94530198 353.94515512 354.94500829
+355.94486151 356.94471478 357.94456809 358.94442145 359.94427485 360.94412830
+361.94398179 362.94383533 363.94368897 364.94354254 365.94339622
+
+TABLE XV. A most useful TABLE for Reduction of Pence and Farthings into
+DECIMAL FRACTIONS, to the Hundredth part of a Farthing.
+Farthings. Dectmal Fractions. 1.0010416 2.0020833 3.0031250 Pence and
+Farthings. Decimal Fractions. (1).0041666 1.0052083 2.0062500 3.0072916
+(2).0083333 1.0093750 2.0104166 3.0114583 (3).0125000 1.0135416 2.0145833
+3.0156250 Pence and Farthings. Decimal Fractions. (4).0166666 1.0177708
+2.0187500 3.0197916 (5).0208333 1.0218750 2.0229166 3.0239583 (6).0250000
+1.0260416 2.0270833 3.0281250 (7).0291666 1.0302083 2.0312500 3.0322916
+(8).0333333 1.0343750 2.0354166 3.0364583 (9).0375000 1.0385416 2.0395833
+3.0406250 (10).0416666 1.0427082 2.0437500 3.0447916 (11).0458333 1.0468750
+2.0479166 3.0489583
+
+DECIMAL FRACTIONS for every Hundredth part of a Farthing.
+Hundred Parts. Decimal Fractions. 1.000010416 2.000020833 3.000031249
+4.000041666 5.000052083 6.000062499 7.000072916 8.000083333 9.000093749
+10.000104166 11.000114583 12.000124999 13.000135416 14.000145833 15.000156249
+16.000166666 17.000177083 18.000187499 19.000197916 20.000208333 21.000218749
+22.000229166 23.000239583 24.000249999 25.000260416 26.000270833 27.000281249
+28.000291666 29.000302083 30.000312499 Hundred Parts. Decimal Fractions.
+31.000322916 32.000333333 33.000343749 34.000354166 35.000364583 36.000374999
+37.000385416 38.000395833 39.000406249 40.000416666 41.000427083 42.000437499
+43.000447916 44.000458333 45.000468749 46.000479166 47.000489583 48.000499999
+49.000510416 50.000520833 51.000531249 52.000541666 53.000552083 54.000562499
+55.000572916 56.000583333 57.000593749 58.000604166 59.000614583 60.000624999
+61.000635416 62.000645833 63.000656249 64.000666666 65.000677083 66.000687499
+67.000697916 68.000708333 Hundred Parts. Decimal Fractions. 69.000718749
+70.000729166 71.000739583 72.000749999 73.000760416 74.000770833 75.000781249
+76.000791666 77.000802083 78.000812499 79.000822916 80.000833333 81.000843749
+82.000854166 83.000864583 84.000874999 85.000885416 86.000895833 87.000906249
+88.000916666 89.000927083 90.000937499 91.000947916 92.000958333 93.000968749
+94.000979166 95.000989583 96.000999999 97.001010416 98.001020833 99.001031249
+
+The Use of the foregoing TABLES.
+BEcause the usual Rate of Interest is 6 per Cent. there are Tables calculated
+for the more ready dispatch of Questions relating either to the Amount, or
+Present Worth of any Sum; but for any other Rate from (1) to (12) the method
+will be very plain and practicable. I shall begin with some Examples at 6 per
+Cent.
+
+Example 1. What is the Amount of 540 l. in seven Years, at 6 per Cent. Simple
+Interest?
+Rule.
+See for 7 years in the Margin of Table IX. and against it you find 1.42, the
+Amount of 1 l. in 7 years; multiply 540 by 1.42, and the Product is the Answer.
+
+^
+
+Example 2. What is the Amount of 540 l. in fifteen Months, at 6 per Cent.
+Simple Interest?
+Rule.
+Find 15 Months in the Margin of Table X. and against it is 1.075; by that
+multiply 540, and the Product is the Answer.
+
+^
+
+Example 3. What is the Amount of 540 l. in 279 Days, at 6 per Cent. Simple
+Interest?
+Rule.
+Find 279 Days in the Margin of Table XI. and against it is 1.0458, (you may
+take more or less of the Fraction, according as you desire to be more or less
+exact;) then multiply 1.0458 by 540, and the Product is the Answer.
+
+^
+
+Example 4. What is the Present Worth of 766.8 l. at the end of 7 Years, at 6
+per Cent. Simple Interest?
+Rule.
+Find 7 Years in Table XII. and against it is.704225; then multiply that by the
+given Number 766.8, and the Product is the Answer.
+
+^
+
+Which is within 26 Hundred Parts of a Farthing of the truth, and is a
+sufficient Proof of the first Example.
+
+Example 5. What is the present Worth of 580.5 l. due after 15 Months, at 6 per
+Cent. Simple Interest?
+Rule.
+Find 15 Months in Table XIII. and against it is.93023, etc. this being
+multiplied by 580.5, is an Answer.
+
+^
+
+Which is within one Farthing of the truth, and may be made within one
+Hundredth part of a Farthing of the truth, and is a clear Proof of the second
+Example.
+
+And after this manner may any Question of this kind be easily and exactly
+resolved, and where the Sums are very great, the Operation will not be so
+tedious as that of working by Mr. Clavel's Tables. For a Proof of which, I
+shall here insert two Examples, one of the Amount, and the other of the present
+Worth of a considerable Sum.
+
+Example 6. Suppose the King borrows of some Bankers 259879 l. 17s. 9d. 3q. for
+a year and 349 Days; what will be the Amount of Principal and Interest at the
+expiration of a Year and 349 Days, allowing them 6 per Cent?
+The Operation by Mr. Clavel's Tables.
+In Mr. Clavel's Tables I can find no more of this Sum at one time than 10000
+l. therefore I seek the Interest of that, and find the Interest of 10000 l.
+
+^
+
+The odd Money I reduce into Decimal Parts of a Pound, by the Decimal Table in
+Mr. Russel's Appendix to Mr. Clavel, thus, ^
+
+Then because 200000 is twenty times 10000, I must multiply this Fraction and
+whole Number by 20, to find the Interest of 200000 l. for a Year, and 349 Days:
+and also multiply the said whole Number and Fraction by 5, for the Interest of
+50000, (there being five times 10000 contained in it) for the like time.
+
+Example.
+^
+
+The Interest of the remaining part of the aforesaid Sum, viz. 9879 l. 17 s.
+(omitting the 9 d. 3 q.) is to be found in this manner: ^
+
+^
+
+Reduce the Decimal Fractions of the Interest of 200000, and 50000, into
+Shillings and Pence, and then is the ^
+
+The Answer (without considering the Interest of 9 d. 3 q. which is not to be
+found by Mr. Clavel's Tables) is 290381 l. 19 s. 2 d. 3 q. very near.
+
+The Operation according to the Rules of this little Book is performed by
+Simple Addition, thus;
+
+The given Sum reduced by Table I. is 259879.890625
+
+The Amount of 1. l. for 365 and 349 Days, viz. 714 Days, is 1.1173698
+
+Tariffa for the Multiplicand.
+1 259879890625 2 519759781250 3 779639671875 4 1039519562500 5 1299399453125 6
+1559279343750 7 1819159234375 8 2079039125000 9 2338919015625
+
+The Multiplication contracted, as is directed in the Introduction to this
+little Book.
+
+^
+
+This Product, viz. 290381 l. 18 s. 9 d. 3 q. more by 86/100 of a Farthing, is
+the Answer.
+
+Example 7.
+Suppose there will be due after 349 Days, upon the several Branches of the
+King's Revenue, the Sum of 290381.94139 l. (or 18 s. 9 d. 3 q. more by 36/100
+of a Farthing;) and His Majesty have occasion to convert this into ready Money,
+allowing the Advancers 6 per Cent. what is the present Worth of that Sum? or
+what must those persons advance in ready Money for the Premises?
+
+Though it be the truest, and most exact way of all other, to Calculate either
+the Amount or present Worth of Money by Days, yet there is no help at all by
+Mr. Clavel's Tables to answer this Question.
+
+But by this little Book, The Rule is,
+
+l.
+
+Multiply the given sum 290381.94139 by the Present Worth of 1 l. due at the
+end of 349 Days (which you will find in Table XIV.).94574, and the Product is
+an Answer to the Question.
+
+Tariffa for the Multiplicand.
+1 29038194139 2 58076388278 3 87114582417 4 116152776556 5 145190970695 6
+174229164834 7 203267358973 8 232305553112 9 261343747251
+
+The Multiplication contracted, as in the Introduction is directed.
+
+^
+
+After the same manner are resolved any Questions, concerning either the
+Amount, or present Worth of any Sum, either for Years, Months, or Days. The
+next thing I shall Treat of is Annuities at Simple Interest, which shall be the
+Subject of the following Chapter.
+
+CHAP. II.
+Of Annuities at Simple Interest.
+THe increase of Annuities is by Multiplication of the respective Rates of
+Interest, according to a Trigonal Progression, which may be better seen by
+comparing the Golden Table of Trigonal Progression in Chap. 1. with the
+following Table of Trigonal Increase, or Addition of (6) the Rate of Interest
+per Cent. and after it short Rules, which will hold for finding the Amount, or
+Present Worth of any Annuity, for any number of years, at any Rate of Simple
+Interest whatsoever.
+
+TABLE. The Multiplication of any Rates of Interest whatsoever belonging to
+each Year, for a Forborne Annuity to 100 Years. This Table is Composed from the
+Golden Trigonal Table.
+Years. A Trigonal Increase, or Addition of Rates of Interest. 1 0 2 1 3 3 4 6
+5 10 6 15 7 21 8 28 9 36 10 45 11 55 12 66 13 78 14 91 15 105 16 120 Years. A
+Trigonal Increase, or Addition of Rates of Interest. 17 136 18 153 19 171 20
+190 21 210 22 231 23 253 24 276 25 300 26 325 27 351 28 378 29 406 30 435 31
+465 32 496 33 528 34 561 35 595 36 630 37 666 38 703 39 741 40 780 41 820 42
+861 43 903 44 946 45 990 46 1035 47 1081 48 1128 49 1176 50 1225 Years. A
+Trigonal Increase, or Addition of Rates of Interest. 51 1275 52 1326 53 1378 54
+1431 55 1485 56 1540 57 1596 58 1653 59 1711 60 1770 61 1830 62 1891 63 1953 64
+2016 65 2080 66 2145 67 2211 68 2278 69 2346 70 2415 71 2485 72 2556 73 2628 74
+2701 75 2775 76 2850 77 2926 78 3003 79 3081 80 3160 81 3240 82 3321 83 3403 84
+3486 Years. A Trigonal Increase, or Addition of Rates of Interest. 85 3570 86
+3655 87 3741 88 3828 89 3916 90 4005 91 4095 92 4186 93 4278 94 4371 95 4465 96
+4560 97 4656 98 4753 99 4851 100 4950
+
+PROP. I.
+To find the Amount of any Annuity, for any given time, and at any Rate of
+Simple Interest.
+General Rule.
+TO the Sum of the Annual, half-yearly, Quarterly, or Monthly Payments, add the
+Product of the Annual, Half-Yearly, Quarterly, of Monthly Rate, multiplied by
+the Number in the foregoing Table, answering to the Number of Years,
+Half-Years, Quarters, or Months, in the Margin, that the Annuity is to
+continue; and the Total Sum is the true Amount of that Annuity.
+
+Example 1.
+What is the true Amount of an Annuity of 100 l. in five Years?
+
+The Number in the foregoing Table answering to 5 in the Margin, is -- 10
+
+^ That multiplied by 6 (the Annual Interest of 100 l.) makes -- 60
+
+To which add the five Annual Payments, viz. -- 500
+
+The whole Amount is -- 560
+
+Example 2.
+What is the Amount of an Annuity of 62 l. in four Years?
+
+The Number in the foregoing Table answering to 4 in the Margin, is -- 6
+
+That multiplied by 3.72 (the Annual Interest of 62 l. makes 22.32
+
+To which adding the 4 Annual Payments, viz. 4 times 62 l. -- 248.00
+
+The whole Amount is -- 270.32
+
+PROP. II.
+To know the Present Worth of any Annuity for any given Time, at any Rate,
+accompting Simple Interest.
+FOr as much as the Present Worth of an Annuity is in effect, and must be
+imagined, a Principal, and the whole Amount of the Annuity as the Amount of the
+said Principal or Present Worth, in so long a time as the Annuity is continued,
+
+The Proportion is, As the Amount of 1 l. for any time, Is to 1 l. So is the
+Amount of an Annuity, To the Present Worth.
+
+Therefore the Rule is, Divide the Amount of the Annuity by the Amount of 1 l.
+in the given Time, and the Quotient is an Answer.
+
+Example 1.
+What is the Present Worth of an Annuity of 62 l. for four Years?
+
+The Amount of 62 l. per Annum for four years by the foregoing Rules is found
+to be 270.32, and the Amount of 1 l. forborne four years, by Table IX. is found
+to be 1.24; wherefore I divide 270.32 by 1.24, thus: ^
+
+The Quotient 218 l. is the Answer.
+
+Example 2.
+What is the Present Worth of an Annuity of 100 l. to continue 100 Years?
+
+The Amount of 100 l. Annuity for 100 years is 39700 l. the Amount of 1 l. put
+out to Interest for 100 years is 7 l. wherefore divide 39700 by 7, and the
+Quotient is the Answer.
+
+^
+
+For Proof of this, let 5671.4 be put out to Interest for 100 years, at 6 per
+Cent.
+
+^
+
+Wherefore the Operation is exact and just, though at the same time it is a
+certain Argument, that the said Annuity to continue 100 years at Simple
+Interest, would be valued at above 56 years Purchase; for dividing 5671 by 100
+(that is to say, cutting off the two last Figures) the remaining Figures show
+it to be 56 years Purchase, over and above the Fraction of.71.
+
+After the same Method,
+
+The Amount of 100 l. Annuity in 50 years is 12350 l. the Amount of 1 l. put
+out to Interest at 6 per Cent. for 50 years is 4 l. wherefore dividing the said
+Amount by (4),
+
+4) 12350 (3087.5
+
+The Quotient, or Present Worth is 3087.5, which is above 30 years Purchase.
+From whence it is clear and manifest, that all Calculations of Annuities at
+Simple Interest are absolutely useless and ridiculous: For the truth is, all
+Present Worths or Purchases, either of Annuities, or Principal Sums, due at any
+time hereafter, ought to be considered in a Geometrical Proportion, from a
+Purchase for ever, (or to the end of the World) according to the several and
+respective Rates of Compound Interest. And if this be a truth as to Present
+Worths, it will be also a truth as to the Amounts, (as has been sufficiently
+explained in the Introduction to this Book.) And consequently, all
+Calculations, according to Simple Interest, ought wholly to be laid aside as
+erroneous and useless.
+
+CHAP. III.
+The ERRORS of the ordinary Rules and Tables of Rebate, relating to Annuities,
+according to the Rate of Simple Interest, discovered and rectified.
+ALthough all Tables of Rebate for Annuities at Simple Interest, ought to be
+wholly rejected as most ridiculous and useless, for the Reasons laid down in
+the foregoing Chapter, yet I do think it here seasonable, and indeed necessary*
+to animadvert upon the ordinary Rules relating to the present worth of such
+Annuities, which have been Composed by the respective Authors upon great
+mistakes, and for want of due reflection upon Arithmetical and Geometrical
+Progressions.
+
+I shall mention only two Examples.
+
+The first is a Rule laid down by Mr. John Kersey, in his Appendix, bound up
+with Mr. Wingate's Arithmetic, Chap. 5. Page 378. Printed 1678. which is the
+very same with that made use of by Dr. Newton, in his Scale of Interest, page
+20.
+
+When it is required to find the present worth of an Annuity, by Rebating or
+Discompting at a given Rate of Simple Interest, the Operation will be as in the
+following Example, viz.
+
+How much present Money is equivalent to an Annuity of 100 l. per Annum, to
+continue 5 Years, Rebate being made at the rate of 6 per Cent?
+
+Answer 425 l. 18s. 9d. 2q. very near: Thus,
+
+^
+
+For, says he, it is manifest that there must be computed the present worth of
+100 l. due at the first Years end. Also the present worth of 100 l. due at the
+second Years end, and in like manner for the third, fourth, and fifth Years.
+All which present Worths being added together, the Aggregate or Sum will be the
+total present worth of the Annuity, that is, 425 l. 18s. 9d. 2q. very near.
+
+I must confess I cannot but wonder how such gross mistakes should pass through
+the hands of so many Learned and Ingenious Artists. For this very Example I
+find Published by the same Mr. Kersey, in the year 1650. and since that time,
+owned and made use of by several others.
+
+But for the right understanding of the truth of this, and all other Questions
+of this kind. It is necessary to request the Reader to contemplate with me a
+few things.
+
+1. What is due of an Annuity that is not paid, at the end of the first,
+second, third, fourth, and fifth years, at Simple Interest.
+
+1. At the first years end.
+l. At the first years end there is due the just sum of 100
+
+II. At the second years end. At the second years end, there is due,
+l. 1. For the first year 100 2. For the second year 100 Sum 200
+
+And besides this, For the Interest of the 100 l. due at the first years end,
+and detained during the whole second year -- 6 l.
+
+III. At the third years end. At the third years end, there is due,
+l. 1. For the first year 100 2. For the second year 100 3. For the third year
+100 Sum 300
+
+Besides this, there is due, l. 1. For the Interest of the first 100 l. for the
+second year 6 2. For the Interest of the first 100 l. for the third year 6 3.
+For the Interest of the second 100 l. for the third year 6 Sum 18
+
+IV. At the fourth years end.
+l. 1. For the first year 100 2. For the second year 100 3. For the third year
+100 4. For the fourth year 100 Sum 400
+
+Besides this, l. 1. For the Interest of the first 100 l. for the second year 6
+2. The Interest of the first 100 l. for the third year 6 3. The Interest of the
+first 100 l. for the fourth year 6 4. The Interest of the second 100 l. for the
+third year 6 5. The Interest of the second 100 l. for the fourth year 6 6. The
+Interest of the third 100 l. for the fourth year 6 Sum 36
+
+V. At the fifth years end.
+l. 1. For the first year 100 2. For the second year 100 3. For the third year
+100 4. For the fourth year 100 5. For the fifth year 100 Sum 500
+
+Besides this, l. 1. For the Interest of the first 100 l. for the second year 6
+2. For the Interest of the first 100 l. for the third year 6 3. For the
+Interest of the first 100 l. for the fourth year 6 4. For the Interest of the
+first 100 l. for the fifth year 6 24
+
+5. For the Interest of the second 100 l. for the third year 6 6. For the
+Interest of the second 100 l. for the fourth year 6 7. For the Interest of the
+second 100 l. for the fifth year 6 8. For the Interest of the third 100 l. for
+the fourth year 6 9. For the Interest of the third 100 l. for the fifth year 6
+10. For the Interest of the fourth 100 l. for the fifth year 6 36 24 Sum Total
+of the Interest for the five years 60 To which adding the five Annual payments,
+viz. 500 The whole Amount of the Annuity of 100 l. forborne five years, is 560
+
+In the next place, I desire the Ingenious Reader to consider well the third
+Prop. of Diophantus Alexandrinus, concerning Peligonal Numbers.
+
+DIOPHANTOY ALEXANDPEOS PEPI POLITONON APITHON.
+PROP. III.
+(...) etc. It Numbers (how many soever they be) exceed one another by an equal
+Internal, then the Internal between the greatest and the least, is Multipler of
+that equal Internal, according to the multitude of Numbers propounded, less by
+one.
+
+For Example.
+Let there be five given Terms, A, B, C, D, E, and let G be the common Interval
+or Difference.
+
+To apply which, let A=100 G=6
+
+
+Number of Terms. Then is, 1 A=A 1 A=100 2 B=A+G 2 B=100+6 3 C=A+G+G 3 100+6+6
+4 D=A+G+G+G 4 D=100+6+6+6 5 E=A+G+G+G+G 5 E=100+6+6+6+6
+
+That is to say, the greatest Term is equal to the least, and as many
+Differences as there are more Terms besides the least. So here E is equal to
+100, and 4 Differences, or 4 times 6. And the Sums of those Numbers are the
+true Amount of an Annuity at Simple Interest; thus, The Annual Rents, together
+with the Annual Interests The Sums of Annual Rents, and Annual Interests, for
+therespective Years. The Number of Annual Interests, or Differences, that are
+contained in every respective Sum, besides the Annual Rents. 1 100 1 100 2
+100+6 2 206= 1 3 100+6+6 3 318= 3 4 100+6+6+6 4 436= 6 5 100+6+6+6+6 5 560= 10
+
+Therefore the true Amount of an Annuity of 100 l. is as follows.
+
+Year. Amounts 1 100 100 2 100+100+6 206 3 100+100+100+6+6+6 318 4
+100+100+100+100+6+6+6+6+6+6 436 5 100+100+100+100+100+6+6+6+6+6+6+6+6+6+6 560
+
+Consequently the Proportion is not as Mr. Kersey makes it, save only for the
+first year.
+
+But the true proportion holds thus, viz.
+
+Amounts. Present worths. At the 1 years end As 106 to 100 So 100 to 94.33962 2
+As 112 to 100 So 206 to 183.92856 3 As 118 to 100 So 318 to 269.49152 4 As 124
+to 100 So 436 to 351.61290 5 As 130 to 100 So 560 to 430.76923
+
+Now therefore to perfect the Demonstration, 1. The present worth of the first
+year is 94.33962 2. Because 183.92856 is the present worth of the two first
+years, therefore if the present worth of the first year ( Viz. 94.33962) be
+deducted out of it, it must needs leave the present worth of the second year,
+viz. 89.58894 3. Because 269.49152 is the present worth of the three first
+years, therefore deducting out of it 183.92856, ( viz. the present worth of the
+two first years) it leaves the present worth of the third year, viz. 85.56296
+4. So deducting 269.49152 out of 351.61290, there remains the present worth of
+the fourth year 82.12138 5. And 430.76923 less by 351.61290, is the present
+worth of the last year, viz. 79.15633 Total Sum of all the present worths
+430.76923
+
+To conclude, it is evident from the two last Calculations, and that by clear
+Demonstration, That, l. 1. The Amount of the first year is 100 2. The Amount of
+the two first years is 206 3. The Amount of the three first years is 318 4. The
+Amount of the four first years is 436 5. The Amount of all five years is 560
+
+As likewise, That the present Worth, 1. Of the first year is 94.33962 2. Of
+the two first years is 183.92856 3. Of the three first years is 269.49152 4. Of
+the four first years is 351.61290 5. Of all five years is 430.76923
+
+And lastly, it is evident and plain, That the present Worth, 1. Of the first
+year is 94.33962 2. Of the second year is 89.58894 3. Of the third year is
+85.56296 4. Of the fourth year is 82.12138 5. Of the fifth year is 79.15633
+Total Sum of the present worths 430.76923
+
+Whereas Mr. Kersey makes the Total of the present worths but 425.93933, which
+is a very great mistake; as are all his particular present worths, (the first
+only excepted) which he could not well Calculate amiss.
+
+Besides, if 425.93933 be put out for five years, it will amount to no more
+than 553.714109. Whereas 430.76923 in five years, at 6 per Cent. amounts to 560
+l. which is the true Amount of 100 l. per Annum for five years, as has been
+sufficiently Demonstrated, and agrees exactly with the foregoing Rule: So that
+Mr. Kersey in this Example falls short of the truth, as to the present worth,
+no less than 4.8353, that is, 4 l. 16 s. 8 d. 1 q. more by 96/100 of a
+Farthing. Which Error, if it be so considerable in an Annuity of 100 l. per
+Annum, what would it be in an Annuity of 100000 paid per Annum? No less than
+4835 l. 6 s.
+
+2 Example.
+A second Example I have borrowed from Mr. Dary, who has truly detected the
+Error of it, although he has not sufficiently explained the Reason of the
+Error; and therefore the Reader will find it here more strictly examined and
+refuted by a plain Demonstration obvious to the meanest capacity.
+
+The Example is this: What is the present worth of an Annual Rent of 62 l. to
+be enjoyed four Years to come, allowing the Purchaser 6 per Cent. Simple
+Interest?
+
+The usual Method, says Mr. Dary, is thus: ^
+
+Now let the Error of this Operation be traced from the beginning.
+
+1. The Annual Interest of 62 l. per Annum, is 3.72; wherefore by the foregoing
+Prop. of Diophantus Alexandrinus, page 73.
+
+The Amount of ^
+
+Therefore the true Amount of an Annuity of 62 l. at each years end, is as
+follows.
+
+At the end of the ^
+
+Wherefore the true Calculation of the present Worths is as follows, viz.
+
+At the end of the ^
+
+Now therefore, 1. The present worth of the first year is -- 58.490 2. The
+present worth of the two first years less by the present worth of the first,
+that is, from 114.035 deducting 58.490, the present worth of the second year is
+-- 55.545 3. The present worth of the three first years (the present worth of
+the two first being deducted) that is, from 167.084 deducting 114.035, the
+remainder of the present worth of the third year is -- 53.049 4. Deducting from
+218 the present worth of all four years, 167.084 the present worth of the first
+three years, the remainder ( viz. 50.916) is the present worth of the fourth
+year -- 50.916
+
+So then, The present worth, ^
+
+Whereas the usual way of Rebate makes it not above 216.390, which is less than
+the truth by 1.610, which is ^ l. 12 s. 2 d. 2 q. fere.
+
+And if 216.390 be put out at Interest at 6 per Cent. for four years, it will
+amount to no more than 268.3236, which is less than the true Amount of 218 l.
+viz. 270.32 by 1.9964, which being reduced, is 1 l. 19 s. 11 d. more by 11/100
+parts of a Farthing.
+
+All which may serve as a sufficient caution against such erroneous Tables and
+Calculations.
+
+A second Reflection upon that Example of Mr. John Kersey.
+I Must confess that the present Worth of 100 l. payable a year hence is
+94.33962; and that the present worth of a single 100 l. payable two years
+hence, is as he has put it 89.28571; and the present worth of another bare 100
+l. payable three years hence is 84.74576; and so to the end. And the Total of
+those present worths is as he has put it, viz.
+
+^
+
+And this is part of that very Table which I have calculated (being the twelfth
+Table of the first Chapter of this first Book) for The present worth of One
+Pound after any Number of Years under 32.
+
+But reason tells me, that in this Calculation there is no consideration had of
+the Forbearance of Interest; for certain it is, if the first 100 l. had been
+paid at the first years end, it might have been put out to Interest, and at the
+five years end would have given an increase of four times 6 l. or 24 l. at
+Simple Interest; and so the second 100 l. would have increased in the three
+last years three times 6 l. or 18 l.
+
+That is to say, l. The first 100 l. would increase in the four last years 24
+The second 100 l. would increase in the three last years 18 The third 100 l.
+would increase in the two last years 12 The fourth 100 l. would increase in the
+last year 6 The whole increase 60
+
+Therefore there would be due, if all were forborne, l. 1. At the first years
+end 100 2. At the second years end 100+06 3. At the third years end 100+12 4.
+At the fourth years end 100+18 5. At the fifth years end 100+24 500+60
+
+Now to Calculate the present worth of any, or all of these Sums, let it be
+considered by what proportion the Calculation ought to be made.
+
+For Example.
+Suppose the Annuity to be forborne only two years, and it be required to give
+the present worth of the two first years.
+
+Whatsoever the Answer is, all will agree, that the Sum which is given in to be
+the present worth of those two years, being put out to interest, must amount to
+^^^ at the end of two years.
+
+Therefore I say, As 112 to 100 So 206 to 183.92856.
+
+If this be a true Answer, then that Sum, viz. 183.92856, being put out to
+Interest at 6 per Cent. for two years, must amount to 206.
+
+By the former Rules.
+
+Now this Total Sum wants but ^/100000 of 206.
+
+For, ^
+
+But now take the Sum of Mr. Kersey's two years present Worths, viz.
+
+^
+
+Let therefore this Sum be put out to Interest for two years.
+
+Wherefore as before, ^ ^
+
+Which is less than 206 (the true Amount of an Annuity of 100 l. for two years)
+by.3396304; which though it be but 6 s. 8 d. and somewhat more in two years
+time, yet were the Sum greater, or the time longer, it would prove a very
+considerable Error.
+
+Wherefore I conclude, that Mr. Kersey's Calculations are erroneous as to
+Annuities, and mine exact: And there needs no further Illustrations or
+Demonstrations about it.
+
+The next thing to be Treated of in course, is touching the Equation of several
+Payments, and reducing them into one entire Payment at a certain time, so as
+there may be no loss either to Creditor or Debtor.
+
+CHAP. IV.
+Equation of Payments Rectified, and made Practicable for all Merchants, and
+others.
+EQuation of Payments is by all agreed to be the reducing of several Payments
+into one entire Payment, at such a time, as neither Creditor or Debtor may be a
+loser by it, they being both agreed, the one to pay, and the other to receive,
+the said entire Payment at the appointed time.
+
+Now of the Books that I have met with, and the Men I have discoursed with,
+about Equation of Payments at Simple Interest, some have adventured to give
+Rules for it, others have endeavored to show that such Rules are erroneous,
+and some of the most Learned of them have concluded the thing to be absolutely
+impracticable and impossible; and so left the poor Merchants to agree as they
+please about it.
+
+The truth is, they have been, and are all of them, mistaken about the present
+Worths of Annuities at Simple Interest, and that mistake has begot many others.
+
+The method that I shall therefore take, shall be, First, to expose to the
+Readers view both the true Amount and present Worth of an Annuity of 100 l. for
+five years, at several Rates of Interest. And from thence frame, and give a
+general Rule for the reducing of several equal Payments due at equi-distant
+times, to one entire Payment. And after that, another Rule for reducing of
+unequal Payments at several times not equidistant, to one entire Payment at a
+certain time, so as neither he who pays, nor he who receives it, shall be any
+loser by it.
+
+The Tables of the Amounts and present Worths of an Annuity of 100 l. for five
+years (at different Rates of Interest) do here follow in their order.
+
+TABLE I. At (1) per Cent. Simple Interest.
+Years. The Amount of 100 l. (...) 1, 2, 3, 4, or 5 Years. Amount of Annual
+Payments at the end of 1, 2, 3, 4 or 5 Years. The present Worth of the first
+year, the first two years, the first three years, the first four years, or all
+the five years. The particular present Worths of the first, second, third,
+fourth, or fifth year The Amount of the Total present Worth of all the five
+Payments, at the end of the first, second, third, fourth, or fifth year. 1 101
+100 99.00990 99.00990 490.57142 2 102 201 197.05882 98.04892 495.42856 3 103
+303 294.17475 97.11593 500.28570 4 104 406 390.38461 96.20986 505.14285 5 105
+510 485.71428 95.32967 509.99999 485.71428
+
+TABLE II. At (2) per Cent. Simple Interest.
+Years. The Amount of 100 l. in 1, 2, 3, 4, or 5 Years. Amount of Annual
+Payments, at the end of 1, 2, 3, 4 or 5 Years. The present Works of the first
+two years, the first three years, the first four years, or all the five years.
+The particular present Works of the first, second, third fourth, or fifth year
+The Amount of the Total present Worth of all the five Payments, at the end of
+the first, second, third, fourth, or fifth year. 1 102 100 98.03921 98.03921
+482.18181 2 104 202 194.23076 96.19155 491.63635 3 106 306 288.67924 94.44848
+501.09089 4 108 412 381.48148 92.80224 510.54543 5 110 520 472.72727 91.24579
+519.99999 472.72727
+
+TABLE III. At (3) per Cent. Simple Interest.
+Years. The Amount of 100 l. in 1, 2, 3, 4, or 5 Years. Amount of Annual
+Payments, at the end of 1, 2, 3, 4 or 5 Years. The present Worth of the first
+year, the first two years, the first three years, the first four years, or all
+the five years. The particular present Worths of the first, second, third,
+fourth, or fifth year. The Amount of the Total present Worth of all the five
+Payments, at the end of the first, second, third, fourth, or fifth Year. 1 103
+100. 97.08737 97.08737 474.69564 2 106 203 191.50943 94.42206 488.52173 3 109
+309 283.48623 91.97680 502.34782 4 112 418 373.21428 89.72805 516.17390 5 115
+530 460.86956 87.65528 529.99999 460.86956
+
+TABLE IV. At (4) per Cent. Simple Interest.
+Years. The Amount of 100 l. in 1, 2, 3, 4, or 5 Years. Amount of Annual
+Payments, at the end of 1, 2, 3, 4 or 5 Years. The present Worth of the first
+year, the first two years, the first three years, the first four years, or all
+the five years. The particular present Worths of the first, second, third,
+fourth, or fifth year. The Amount of the Total present Worth of all the five
+Payments, at the end of the first, second, third, fourth, or fifth year. 1 104
+100 96.15384 96.15384 468.00000 2 108 204 188.88888 92.73504 486.00000 3 112
+312 278.57142 89.68254 504.00000 4 116 424 365.51724 86.94582 522.00000 5 120
+540 450.00000 84.48276 540.00000 450.00000
+
+TABLE V. At (5) per Cent. Simple Interest.
+Years. The Amount of 100 l. in 1, 2, 3, 4, or 5 Years. Amount of Annual
+Payments, at the end of 1, 2, 3, 4 or 5 Years. The present Worth of the first
+year, the first two years, the first three years, the first four years, or all
+the five years. The particular present Worths of the first, second, third,
+fourth, or fifth year. The Amount of the Total present Worth of all the five
+Payments, at the end of the first, second, third, fourth, or fifth year. 1 105
+100 95.23809 95.23809 461.99999 2 110 205 186.36363 91.12554 483.99999 3 115
+315 273.91304 87.54941 505.99999 4 120 430 358.33333 84.42029 527.99999 5 125
+550 439.99999 81.66666 549.99999 439.99999
+
+TABLE VI. At (6) per Cent. Simple Interest.
+Years. The Amount of 100 l. in 1, 2, 3, 4, or 5 Years. Amount of Annual
+Payments, at the end of 1, 2, 3, 4, or 5 Years. The present worth of the first
+year, the first two years, the first three years, the first four years, or all
+the five years. The particular present Worths of the first, second, third,
+fourth, or fifth year. The Amount of the Total present Worth of all the five
+Payments, at the end of the first, second, third, fourth, or fifth year. 1 106
+100 94.33962 94.33962 456.61538 2 112 206 183.92856 89.58894 482.46153 3 118
+318 269.49152 85.56296 508.30769 4 124 436 351.61290 82.12138 534.15384 5 130
+560 430.76923 79.15633 559.99999 430.76923 TABLE VII. At (10) per Cent. Simple
+Interest.
+Years. The Amount of 100 l. in 1, 2, 3, 4, or 5 Years. Amount of Annual
+Payments, at the end of 1, 2, 3, 4, or 5 Years. The present worth of the first
+year, the first two years, the first three years, the first four years, or all
+the five years. The particular present Worths of the first, second, third,
+fourth, or fifth year. The Amount of the Total present Worth of all the five
+Payments, at the end of the first, second, third, fourth, or fifth year. 1 110
+100 90.90909 90.90909 440.00000 2 120 210 175.00000 84.09090 480.00000 3 130
+330 253.84615 78.84615 520.00000 4 140 460 328.57142 74.72527 560.00000 5 150
+600 400.00000 71.42858 600.00000 399.99999
+
+Observations upon the foregoing Tables.
+1. IT is observable, That as the Rate of Interest increases, the present Worth
+decreases; that is to say,
+
+For the present Worth of an Annuity of 100 l. for five years, At 1 per Cent.
+is 485.71428 2 472.72727 3 460.86956 4 450.00000 5 439.99999 etc. 6 430.76923
+10 399.99999 etc.
+
+2. It is no less observable, That an Annuity of 100 l. increases by a Trigonal
+Progression of the respective Rates. But the Present Worth increases by an
+Unitarian Addition of the Rate to the Principal for each year respectively. And
+these two ways are very different the one from the other, as may be seen by
+comparing them together, as follows in the Example of an Annunity of 100 l. at
+6 perCent. Simple Interest.
+
+Amount of the Annuity for each of the five years. Amount of the present Worth
+of the Amuity for each of the five years. At the 1 years end 100 456.61538 2
+206 482.46153 3 318 508.30769 4 436 534.15384 5 560 559.99999 etc.
+
+And yet how different soever they are at their first setting out, and by the
+way, yet the further they go, the nearer they come together, and at last agree
+to an insensible difference, and such as may be diminished in insinitum, either
+to the Hundredth, or Theirsandth, or any less part of a Farthing whatsoever can
+be desired.
+
+3. As a consequence of the foregoing Observation:
+
+If A. be to pay B. 100 l. per Annum for five years, and they agree that the
+500 l. shall be paid at one entire Payment, they must be sure to pitch upon
+such a time, as that the said 500 l. being put out to Interest from that time
+to the end of five years, may be equal to the whole Amount of those five Annual
+Payments.
+
+For Example.
+Let the Rate of Interest be 6 per Cent. per Annum, and the Time of paying the
+said 500 l. be at the end of three years, and so there are two years to come.
+
+If the said 500 l. for two years, at 6 per Cent. will amount to 560 l. (which
+is the whole Amount of the Annuity at the five years end) the Time is right, if
+not, it is a false Time.
+
+But the Annual Interest of 500 l. is 30 l. therefore in two years it is 60 l.
+and that added to 500, makes 560 l. And therefore it was a just time to pay the
+said 500 l. at one entire Payment. For so B. has at the five years end, the
+whole effect of his Annuity improved to the utmost, at 6 per Cent. Simple
+Interest.
+
+And B. having paid nothing before of the Annuity, and being obliged to pay
+nothing of it afterward; but having enjoyed it for three years (which is the
+best part of it) already, and being to enjoy it two years more; the 500 l. he
+now pays, is only as a Purchase of the Amount of the whole Annuity, which will
+be due at the five years end, viz. 560 l. and so gives the Present Worth of 560
+l. from the three years end to the 5 years end; and so he pays not a Farthing
+more than the true worth of it. And for that true worth of it, to the end of
+the 5 years he has enjoyed, and must enjoy the said Annuity it self to the end
+of the said five years. And so neither A. nor B. have the least wrong or loss,
+neither the one by paying, nor the other by receiving, this one entire Payment
+of 500 l. at the three years end; and if either or both should sell their
+concerns, it would be the same thing.
+
+4. It is observable that the present Worth of the said Annuity, at any Rate of
+Interest, does at the three years end exceed the Aggregate of the said five
+Sums, (or 500 l.)
+
+For Example.
+The present Worth of an Annuity of 100 l. per Annum to continue five years,
+does at the end of three years, Amount,
+
+At 1 per Cent. to 500.28570 2 501.09089 3 502.34782 4 504.00000 5 505.99999 6
+508.30769 10 520.00000
+
+5. It being as evident from this last Observation, That the present Worth of
+the whole Annuity being put out to Interest for three years, will at any Rate
+of Interest, exceed the Aggregate of all the five Payments, and the greater the
+Rate of Interest is, the greater is that Excess.
+
+For Example.
+At (1) per Cent. the Excess is but. 28570; at (2) per Cent. the Excess is
+somewhat more, viz. 1.09089; at (3) per Cent. it is 2.34782; at (10) per Cent.
+it is 20 l. and at (15) per Cent. it would be much more.
+
+And it being likewise evident by all the foregoing Tables, whatever the Rate
+of Interest be, That 500 l. more by the Interest of 500 l. for two years, is
+equal to the whole Amount of the Annuity of 500 l. for five years. That is to
+say,
+
+The Interest of 500 l. for two years, At (1) per Cent. is 10 l. which added to
+500 l. makes the Amount 510 l. At (2) per Cent. is 20 l. which added to 500 l.
+makes the Amount 520 l. At (3) per Cent. is 30 l. which added to 500 l. makes
+the Amount 530 l. At (4) per Cent. is 40 l. which added to 500 l. makes the
+Amount 540 l. At (5) per Cent. is 50 l. which added to 500 l. makes the Amount
+550 l. At (6) per Cent. is 60 l. which added to 500 l. makes the Amount 560 l.
+
+And lastly, it being sufficiently evident by the third Observation, That if
+the 500 l. be paid at one entire Payment, at the end of three years, or, which
+is all one, two years before the Annuity be at an end; neither Creditor nor
+Debtor can have the least wrong, or suffer the least loss.
+
+It may therefore be safely concluded, That it is practicable and possible to
+give a good and true Rule for Equation of several Payments; and likewise, that
+it is no way necessary (as some very Learned Artists would needs have persuaded
+me) to try that Rule by this Mark, viz. That the present Worth of the said 500
+l. at the three Years end, must be the present Worth of the whole Amount of the
+said Annuity. For by what has been already proved, the present Worth of the
+whole Annuity at any Rate of Interest, will at the three years end exceed the
+said 500 l.
+
+Now therefore I shall proceed to give two General Rules.
+
+The first, for Equation of several equal Payments at equi-distant times.
+
+The second, for Equation of several unequal Payments at several times not
+equi-distant.
+
+1. General Rule.
+For Equation of any given Number of equal Payments due at equi-distant Times.
+
+Rule.
+Out of the whole Amount of the Annuity, of Monthly Payment, deduct the
+Aggregate of the several Payments, and the Remainder, if Annual, multiply by
+365; if Monthly, by 30.416; then divide the Product by the Annual, or Monthly
+Interest of the said Aggregate, and the Quotient is the number of Days, before
+the end or Term of the Annuity, or Monthly Payment, when the said Aggregate may
+be paid without loss to either Creditor or Debtor.
+
+1. Example.
+Let the Annuity be 100 l.
+
+The time it is to continue five years.
+
+The whole Amount of the Annuity 560 The Aggregate of the several Payments 500
+The Annual Interest of the Aggregate ( viz. 500) 30
+
+Now suppose A. be obliged to pay to B. 100 l. per Annum for five years, but
+they both agree that A. shall pay to B. the Aggregate 500 l. at one entire
+Payment.
+
+And then the Question is, at what time the said 500 l. is to be paid?
+
+Therefore as the Rule directs, ^ That divided by 30, gives a Quotient, which
+is the true number of Days before the end of the said Annuity, when the said
+500 l. is to be paid, viz. 730
+
+Those 730 Days divided by 365, gives a Quotient of two years.
+
+So then the true time of paying the said Aggregate of several payments, ( viz.
+500 l.) is two years before the end of five years; that is at the end of the
+third year.
+
+2. Example.
+A. is to pay B. 62 l. per Annum for four years; but they agree that A. shall
+pay the Aggregate of the several Sums, ( viz. 248) at one entire Payment.
+
+If the Annual Payment be 62.00 The Amount of that in four years, at 6 per
+Cent. will be 270.32 The Aggregate of the several Payments, or four times 62,
+is 248.00 The Annual Interest of the said Aggregate 14.88
+
+Wherefore, ^
+
+This 22.32 is first to be multiplied by 365, which is 8146.80.
+
+That Product 8146.80 being divided by the Annual Interest of the Aggregate
+248, viz. 14.88, gives a Quotient of 547.5 Days.
+
+This Quotient 547 Days and ^/10, or a half, is a true Answer to the Question;
+that is to say, 547 Days and a half, or one Year, and 172 Days and a half,
+before the end of four years, is the just time to pay the said Aggregate, or
+248, at one entire Payment; so as neither he who pays it, nor he who receives
+it, may be a loser.
+
+But that all things may be exposed clearly to the Readers view, I shall here
+repeat the thing, and set down the whole Operation.
+
+1. The Annual Payment for four years is 62.00 l. 2. The whole Amount of this
+in four years is 270.32 l. 3. The Aggregate, or four years Payments, that is,
+four times 62 l. is 248.00 l. 4. The Annual Interest of the said Aggregate is
+14.88 l.
+
+Now the Question is, what is the true time for paying the said Aggregate, or
+248, at one entire Payment?
+
+To Answer this, I proceed according to the aforesaid Rule. ^
+
+2. I multiply this Remainder by 365, thus, ^
+
+3. This Product I divide by the Annual Interest of the Aggregate, viz. 14.88.
+
+Tariffa for the Divisor. 1 1488 2 2976 3 4464 4 5952 5 7440 6 8928 7 10416 8
+11904 9 13392 10 14880
+
+^
+
+And the Quotient 547.5, is an Answer to the Question.
+
+That is to say, (as before) one year, and 172 days, and a half, before the end
+of four years.
+
+Or, which is the same thing, two years, and 192 days and a half, after the
+Agreement, must the 248 l. be paid at one entire Payment; and for the Reasons
+aforesaid, there is no loss to either A. or B. For Proof of this,
+
+Let 248 l. be put out to Interest at 6 per Cent. for one year, and 172 days
+and a half, that is, 547.5 days (which is the Quotient, or the time given from
+the Payment thereof to the end of the Annuity) and if it make up the whole
+Amount of the Annuity, viz. 270.32, the Operation is right.
+
+Tariffa for the Multiplicand. 1 00016438356 2 00032876712 3 00049315068 4
+00065753424 5 00082191780 6 00098630136 7 00115068492 8 00131506848 9
+00147945204 10 00164383560
+
+For Example.
+^
+
+Then I make the following Tariffa, and proceed to multiply the foregoing
+Product by 248.
+
+Tariffa for the Multiplicand. 1 089999999100 2 179999998200 3 269999997300 4
+359999996400 5 449999995500 6 539999994600 7 629999993700 8 719999992800 9
+809999991900
+
+^
+
+Wanting but 1/10000 (which is not the Hundredth part of a Farthing) of the
+true Amount of the whole Annuity, viz. 270.32, and therefore the Operation is
+just.
+
+And thus may any Question of this nature be resolved, to a Day, and parts of a
+Day; for if both these last Questions had been made for Months, the same Rule
+must have been observed.
+
+For Example.
+If A. is to pay to B. 100 l. per Month for five Months, when may he pay the
+500 l. at one entire Payment, at the Rate of 6 per Cent?
+
+The Payments being Monthly, ^
+
+Therefore, ^
+
+In pursuance of the aforesaid General Rule. ^
+
+Let therefore 5 be multiplied by 30.416, or the true number of Days that are
+in one equal Month. ^
+
+And let that (152.080) be divided by 2.500, or the Monthly Interest of 500 l.
+at 6 per Cent.
+
+Tariffa for the Divisor. 1 25 2 50 3 75 4 100 5 125 6 150 7 175 8 200 9 225
+
+^
+
+The Quotient (60.832) is a true Answer in Days.
+
+That is to say, 60 Days and 832/1000 of a Day, (which makes two equal Months)
+before the end of five Months; or (which is all one) three Months after the
+agreement, or after the first day, when the said Debt was growing due, is the
+just time of paying the 500 l. at one entire Payment.
+
+For Proof of this.
+
+If 500 l. be put out to Interest at 6 per Cent. for two equal Months, or
+60.832 Days, and does give 5 l. it makes the 500 l. become 505 l. which is the
+full Amount of those five Months Payments, and is a just Answer to the Question.
+
+But, ^
+
+And the Operation is exact.
+
+And this I take to be sufficient for the Resolution of any Question of this
+nature.
+
+I shall proceed in the next place to Discourse about unequal Payments, at
+times not equi-distant.
+
+A brief Discourse concerning the Equation of unequal Payments at Times not
+equi-distant.
+For Example.
+A Merchant owes 500 l. to be paid at three several unequal Payments, viz. at
+the end of four Months 300 l. at the end of six Months 100 l. and at the end of
+twelve Months 100 l. but the Debtor agrees with the Creditor to discharge the
+Debt ( viz. 500 l.) at one entire Payment.
+
+The Question is, at what time this 500 l. may be paid, without damage or
+prejudice to either Creditor or Debtor?
+
+The General Rule is this.
+First find the true Amount of each of the Sums, from the first day of the
+Agreement, to the last day of Payment, as supposing them to be forborne to the
+last. Then out of that deduct the Aggregate of the respective Payments, and
+multiply the Remainder, if Annual, by 365; if Monthly, by 30.4166; and the
+Product divide by the Annual or Monthly Interest of the said Aggregate, and the
+Quotient is the Number of Days from the last Day of Payment, accompting
+backwards.
+
+The Operation is as follows.
+
+First, the length of Time from the day of the Agreement, to the last day of
+Payment, is just twelve Months.
+
+So then, 1. In the first place, 300 l. payable after 4 Months, and being
+forborne to the end of 12 Months, has 8 Months Interest to account for, viz.
+12.000 2. In the second place, 100 l. payable after 6 Months, and being forborne
+to the end of 12 Months, has 6 Months Interest to account for, viz. 3.000 3. To
+these Sums adding the 500.000 The whole Amount is 515.000
+
+Then, ^
+
+And the Proportion is this.
+
+If 2.5 be the Interest of 500 l. for one Month, how many Months Interest will
+15 make?
+
+Wherefore divide 15 by 2.5, and the Quotient is the Answer to the Question.
+
+Tariffa for the Divisor. 1 25 2 50 3 75 4 100 5 125 6 150 7 175 8 200 9 225
+
+The Operation is this. ^
+
+That is to say, if the said 500 l. be paid six Months before the end of twelve
+Months or (which is all one) at the end of six Months, there will be no loss or
+damage either to Creditor or Debtor.
+
+For Proof of this, 1. In the first place, 300 l. was due at 4 Months end, and
+being continued 2 Months longer, the Interest thereof for 2 Months is 3 l. the
+whole Amount is 303 l. 2. In the next place, 100 l. paid at 6 Months end, is
+the time it was due 100 l. 3. In the last place, the other 100 l. paid 6 Months
+before the time, there must be an abatement made of 3 l. 97 l. Total Sum 500 l.
+
+So that in the first Sum there is an increase of 3 l. and in the last there is
+a decrease of 3 l. which are to be set one against the other; and the whole
+Amount is the Aggregate of the respective Sums, and being paid at the end of 6
+Months makes the Equation just 500 l.
+
+After this manner may any Number of unequal Sums payable at any Number of
+Times not equi-distant, be Equated, and a time set for the Payment of the
+Aggregate; and not only so, but if the Debtor A. owe to B. 100 l. per Annum, or
+per Month, for any Number of Years or Months, and A. and B. agreeing together
+that it shall be in the power of A. to pay to B. the true value of his
+Pretensions at the end of any of the Years or Months, it is very Practicable,
+for the present Worth of the whole Amount at the end of any of the Years or
+Months resolves the doubt, and is an Answer the Question.
+
+For Example.
+A. owes to B. 100 l. per Annum for five years, and they agree that A. shall
+buy it off at the end of any of the four years, for at the end of 5 years
+nothing less than the whole 560 l. will pay the Dein.
+
+1. The present worth of 560 l. (or the whole Amount) at the first years end,
+is 451.6129
+
+2. The present worth of 560 l. at the second years end, is 474.5762 3. The
+present worth of 560 l. at the third years end, is 500, 0000 4. The present
+worth of 560 l. at the fourth years end, is 528.3018 5. The present worth of
+560 l. at the fifth years end, is 560, 0000
+
+Thus I have as briefly as the nature of the thing would permit, explained the
+Doctrine of Simple Interest, as likewise that of Annuities, and Equation of
+several Payments at Simple Interest, which is of excellent use for 6 12, or 18
+Months, because the difference between Simple and Compound Interest is not
+material in so short a time.
+
+But for as much as the business of An^uities, or Purchases, for any
+considerable Number of years, does most properly and truly belong to the
+Doctrine of Compound Interest, I shall make that the Subject of the following
+Book.
+
+THE DOCTRINE OF COMPOUND INTEREST.
+LIB. II.
+CHAP. I.
+The Doctrine of Compound Interest explained.
+Compound Interest, or Interest upon Interest, increases not only from the
+Principal, but also from the Interest, in the manner hereafter expressed.
+
+That is to say,
+
+If 100 l. be put out to Interest at 6 per Cent.
+
+1. The first year there will be due 106.0000 2. The second year that (106 l.)
+is made a Principal, and being put out for a year, becomes 112.3600 3. The
+third year that (112.360) is made a Principal, and being put out to Interest,
+amounts to 119.1016
+
+And so in infinitum.
+
+So that the respective Amounts for each respective year, are so many
+Geometrical Proportional Numbers.
+
+For, As 100 to 106, for the first year So 106 to 112.36, for the second year.
+
+Again, As 106 to 112.36 So 112.36 to 119.1016, for the third year.
+
+Item, As 112.36 to 119.1016 So 119.1016 to 126.247016, for the fourth year.
+etc.
+
+But to the end, that the Ingenious Practitioner may have entire satisfaction
+in the business of Interest upon Interest, it will be necessary to make some
+Reflection upon Geometrical Proportion and Progression.
+
+Reflection upon Geometrical Progression.
+If Numbers (how many soever they be) contain the one the other by an equal
+Ratio, then the greatest of those Numbers is Multipler of the Powers of the
+Denomination of that equal Ratio multiplied by the least, according to the
+multitude of the given Numbers less by one.
+
+Let the given Numbers be 2, 6, 18, 54.
+
+Then by the Hypothesis, the first multiplied by (3) is equal to the second;
+and the second multiplied by (3) is equal to the third; and so in infinitum.
+
+That is to say,
+First Term 2=2 -- -- -- -- 2 Second 6=2 into 3 -- -- -- 6 Third 18=2 into 3
+into 3 -- -- 18 Fourth 54=2 into 3 into 3 into 3 -- 54
+
+That is to say in a Symbolical way,
+
+Let there be any Number of Proportionals, A, B, C, D, E, F, G, and the Ratio R.
+
+First Term A=A Second B=A into R Third C=A into R into R Fourth D=A into R
+into R into R Fifth E=A into R into R into R into R Sixth F=A into R into R
+into R into R into R Seventh G=A into R into R into R into R into R into R
+
+To apply this to the present purpose, let the first Geometrical Term be (1.)
+the Ratio (. 06) First Power. Second Power. Third Power. Fourth Power. Fifth
+Power. Sixth Power. Geometrical Proportional Numbers. A=100 100.000 B=100 into
+1.06 106.000 C=100 into 1.06 into 1.06 112.360 D=100 into 1.06 into 1.06 into
+1.06 119.101 E=100 into 1.06 into 1.06 into 1.06 into 1.06 126.247 F=100 into
+1.06 into 1.06 into 1.06 into 1.06 into 1.06 133.823 G=100 into 1.06 into 1.06
+into 1.06 into 1.06 into 1.06 into 1.06 141.851
+
+The Geometrical Numbers at length are these that follow, though there is no
+necessity of making use of them all, the difference being indiscernable.
+
+Years. Amount at 6 per Cent. Compound Interest. 1 1.06 2 1.1236 3 1.191016 4
+1.26247696 5 1.3382255776 6 1.418519112256 7 1.50363025899136 8
+1.5938480745308416 9 1.689478959002692096 10 1.79084769654285362176
+
+NOw for as much as these Geometrical Proportional Numbers swell into a great
+Number of places, and the Multiplications become tedious, it has been looked
+upon as impracticable to find them out by any way, but by the help of the
+Logarithms. But I shall endeavor to show a way how it may be very practicable
+to find out any of these Numbers, for any year under 32, without much trouble
+or difficulty.
+
+For Example.
+Let it be demanded to give the Amount of I l. in eight years, at 6 per Cent.
+Compound Interest, not having any help of a Table.
+
+The Operation is thus.
+
+First, I Square 1.06, which is 1.1236, and the Product is the Amount in two
+years.
+
+Secondly, I Square 1.1236, and that gives me the Proportional Number answering
+to (4) in the Margin, viz. 1.26247, etc.
+
+Thirdly, I Square 1.26247, and that gives me the Proportional Number answering
+to (8) in the Margin, which was the thing proposed, viz. 1.59384, etc.
+
+Now if it had been demanded to find the Proportional Number answering to (16)
+in the Margin, it is the Square of 1.59384, etc.
+
+And the Square of 1.59384 gives the Proportional Number answering to (32) in
+the Margin.
+
+Thus far the Method is clear for all even Numbers; but for the odd Numbers,
+
+The Rule is this:
+Having found the Proportional Number answering to the greater half of the
+given Number in the Margin, Square it, and divide it by the least and first
+Proportional Number, and the Quotient is the Number desired.
+
+For Example.
+Let it be demanded to find the Proportional Number answering to (3) in the
+Margin, and let (1.06) be the least Proportional Number.
+
+Having found 1.1236 to be the Proportional Number answering to (2) in the
+Margin, which (2) is the greater half of (3), I Square 1.1236, and it gives
+1.26247, which I divide by 1.06, and the Quotient (1.1910, etc.) is the
+Proportional Number desired.
+
+Again,
+
+Let it be demanded to find the Proportional Number answering to (5) in the
+Margin.
+
+Having found the Proportional Number answering to (3) in the Margin, (which 3
+is the greater half of 5) viz. 1.1910; the Square thereof, viz. 1.4185, being
+divided by 1.06, the Quotient is the Number desired, viz. 1.3382.
+
+Thus (9) is the greater half of (17), and therefore the Proportional Number
+answering to (9) in the Margin being Squared, and that Square divided by 1.06,
+gives 3.700, for the Proportional Number answering to (17) in the Margin. And
+so may the Proportional Number of any odd Number in the Margin be found out,
+without the help of Logarithms.
+
+But for as much as exact Tables truly Calculated are most ready for use, I
+have with no small Pains and Charge (not Transcribed other Men's Tables and
+Errors, but) carefully and exactly Calculated several Tables of my own; by the
+help of which, may easily and readily be found out either the Amount, or
+Present Worth of any Sum, at any Rate of Compound Interest, and the like for
+Annuities and Purchases, after the same manner, and in the same method as I
+have done in the first Book of this small Treatise, for the Amount and Present
+Worth of either Principal Sums, or Annuities, at Simple Interest.
+
+TABLE I. The AMOUNT of One Pound put out to Interest, and forborne any Number
+of Years under 32, or Quarters under 125. At the Rate of 6 per Cent. Compound
+Interest.
+Years and Quarters. Amount. (0) 1.000000 1 1.014674 2 1.029563 3 1.044670 (1)
+1.060000 1 1.075554 2 1.091336 3 1.107351 (2) 1.123600 1 1.140087 2 1.156817 3
+1.173792 (3) 1.191016 1 1.208493 2 1.226226 3 1.244219 (4) 1.262477 1 1.281002
+2 1.299799 3 1.318872 (5) 1.338225 1 1.357862 2 1.377787 3 1.398005 (6)
+1.418519 1 1.439334 2 1.460455 3 1.481885 (7) 1.503630 1 1.525694 2 1.548082 3
+1.570798 (8) 1.593848 1 1.617236 2 1.640967 3 1.665046 (9) 1.689479 1 1.714270
+2 1.739425 3 1.764949 (10) 1.790847 1 1.817126 2 1.843790 3 1.870846 (11)
+1.898298 1 1.926154 2 1.954418 3 1.983096 (12) 2.012196 1 2.041723 2 2.071683 3
+2.102082 (13) 2.132928 1 2.164226 2 2.195984 3 2.228207 (14) 2.260904 1
+2.294080 2 2.327743 3 2.361900 (15) 2.396558 1 2.431725 2 2.467407 3 2.503614
+(16) 2.540351 1 2.577628 2 2.615452 3 2.653831 (17) 2.692773 1 2.732286 2
+2.772379 3 2.813061 (18) 2.854339 1 2.896223 2 2.938722 3 2.981844 (19)
+3.025599 1 3.069996 2 3.115045 3 3.160755 (20) 3.207135 1 3.254196 2 3.301948 3
+3.350400 (21) 3.399564 1 3.449448 2 3.500065 3 3.551424 (22) 3.603537 1
+3.656415 2 3.710069 3 3.764509 (23) 3.819749 1 3.875800 2 3.932673 3 3.990380
+(24) 4.048934 1 4.108348 2 4.168633 3 4.229803 (25) 4.291870 1 4.354849 2
+4.418751 3 4.483591 (26) 4.549383 1 4.616139 2 4.683876 3 4.752607 (27)
+4.822346 1 4.893108 2 4.964909 3 5.037763 (28) 5.111686 1 5.186695 2 5.262803 3
+5.340029 (29) 5.418388 1 5.497896 2 5.578571 3 5.660431 (30) 5.743491 1
+5.827770 2 5.913284 3 6.000054 (31) 6.088101
+
+TABLE II. The AMOUNT of Due Pound, put out to Interest for any Number of
+Months under 25. At the Rate of 6 per Cent. Compound Interest.
+Months. Amount. 1 1.004867 2 1.009758 3 1.014673 4 1.019612 5 1.024575 6
+1.029562 7 1.034574 8 1.039610 9 1.044670 10 1.049755 11 1.054865 12 1.060000
+13 1.065159 14 1.070344 15 1.075554 16 1.080789 17 1.086050 18 1.091337 19
+1.096649 20 1.101987 21 1.107351 22 1.112741 23 1.118158 24 1.123600
+
+TABLE III. The AMOUNT of Due Pound, put out to Interest for any Number of Days
+under 366. At the Rate of 6 per Cent. Compound Interest.
+Days. Amount. 1 1.000160 2 1.000319 3 1.000479 4 1.000639 5 1.000798 6
+1.000958 7 1.001118 8 1.001278 9 1.001438 10 1.001598 11 1.001757 12 1.001917
+13 1.002077 14 1.002237 15 1.002397 16 1.002557 17 1.002717 18 1.002878 19
+1.003038 20 1.003198 21 1.003358 22 1.003518 23 1.003678 24 1.003839 25
+1.003998 26 1.004159 27 1.004320 28 1.004480 29 1.004640 30 1.004801 31
+1.004961 32 1.005121 33 1.005282 34 1.005442 35 1.005603 36 1.005764 37
+1.005924 38 1.006085 39 1.006245 40 1.006406 41 1.006567 42 1.006727 43
+1.006888 44 1.007049 45 1.007209 46 1.007370 47 1.007531 48 1.007692 49
+1.007853 50 1.008014 51 1.008175 52 1.008336 53 1.008497 54 1.008658 55
+1.008818 56 1.008980 57 1.009141 58 1.009302 59 1.009463 60 1.009624 61
+1.009786 62 1.009947 63 1.010108 64 1.010269 65 1.010431 66 1.010592 67
+1.010753 68 1.010915 69 1.011076 70 1.011237 71 1.011398 72 1.011560 73
+1.011722 74 1.011883 75 1.012045 76 1.012207 77 1.012368 78 1.012530 79
+1.012691 80 1.012853 81 1.013015 82 1.013177 83 1.013338 84 1.013500 85
+1.013662 86 1.013824 87 1.013986 88 1.014147 89 1.014309 90 1.014471 91
+1.014633 92 1.014795 93 1.014957 94 1.015119 95 1.015281 96 1.015443 97
+1.015605 98 1.015768 99 1.015930 100 1.016093 101 1.016254 103 1.016417 103
+1.016579 104 1.016741 105 1.016903 106 1.017066 107 1.017228 108 1.017391 109
+1.017553 110 1.017715 111 1.017878 112 1.018040 113 1.018203 114 1.018365 115
+1.018528 116 1.018691 117 1.018853 118 1.019016 119 1.019179 120 1.019341 121
+1.019504 122 1.019667 123 1.019830 124 1.019992 125 1.020155 126 1.020318 127
+1.020481 128 1.020644 129 1.020807 130 1.020970 131 1.021133 132 1.021296 133
+1.021459 134 1.021622 135 1.021785 136 1.021948 137 1.022112 138 1.022275 139
+1.022438 140 1.022601 141 1.022765 142 1.022928 143 1.023091 144 1.023254 145
+1.023418 146 1.023581 147 1.023745 148 1.023908 149 1.024072 150 1.024235 151
+1.024399 152 1.024562 153 1.024726 154 1.024889 155 1.025053 156 1.025217 157
+1.025380 158 1.025544 159 1.025708 160 1.025871 161 1.026035 162 1.026199 163
+1.026363 164 1.026527 165 1.026691 166 1.026855 167 1.027018 168 1.027182 169
+1.027346 170 1.027510 171 1.027675 172 1.027839 173 1.028003 174 1.028167 175
+1.028331 176 1.028495 177 1.028659 178 1.028824 179 1.028988 180 1.029152 181
+1.029316 182 1.029481 183 1.029645 184 1.029809 185 1.029974 186 1.030138 187
+1.030302 188 1.030467 189 1.030632 190 1.030796 191 1.030961 192 1.031126 193
+1.031290 194 1.031455 195 1.031619 196 1.031784 197 1.031949 198 1.032114 199
+1.032278 200 1.032443 201 1.032608 202 1.032773 203 1.032938 204 1.033103 205
+1.033268 206 1.033433 207 1.033598 208 1.033763 209 1.033928 210 1.034098 211
+1.034258 212 1.034423 213 1.034588 214 1.034753 215 1.034919 216 1.035084 217
+1.035249 218 1.035414 219 1.035580 220 1.035745 221 1.035910 222 1.036076 223
+1.036241 224 1.036407 225 1.036572 226 1.036737 227 1.036903 228 1.037069 229
+1.037234 230 1.037400 231 1.037565 232 1.037731 233 1.037897 234 1.038062 235
+1.038228 236 1.038394 237 1.038560 238 1.038725 239 1.038891 240 1.039057 241
+1.039223 242 1.039389 243 1.039555 244 1.039721 245 1.039887 246 1.040053 247
+1.040219 248 1.040385 249 1.040551 250 1.040717 251 1.040883 252 1.041050 253
+1.041216 254 1.041382 255 1.041548 256 1.041715 257 1.041881 258 1.042047 259
+1.042214 260 1.042380 261 1.042546 262 1.042713 263 1.042879 264 1.043046 265
+1.043212 266 1.043379 267 1.043545 268 1.043712 269 1.043879 270 1.044045 271
+1.044212 272 1.044379 273 1.044545 274 1.044712 275 1.044879 276 1.045046 277
+1.045213 278 1.045380 279 1.045546 280 1.045713 281 1.045880 282 1.046047 283
+1.046214 284 1.046381 285 1.046548 286 1.046715 287 1.046883 288 1.047050 289
+1.047217 290 1.047384 291 1.047551 292 1.047719 293 1.047886 294 1.048053 295
+1.048220 296 1.048388 297 1.048555 298 1.048723 299 1.048890 300 1.049057 301
+1.049225 302 1.049393 303 1.049560 304 1.049728 305 1.049895 306 1.050063 307
+1.050230 308 1.050398 309 1.050566 310 1.050734 311 1.050901 312 1.051069 313
+1.051237 314 1.051405 315 1.051573 316 1.051741 317 1.051908 318 1.053076 319
+1.052244 320 1.052412 321 1.052580 322 1.052748 323 1.052916 324 1.053084 325
+1.053253 326 1.053421 327 1.053589 328 1.053757 329 1.053925 330 1.054094 331
+1.054262 332 1.054430 333 1.054599 334 1.054767 335 1.054935 336 1.055104 337
+1.055272 338 1.055441 339 1.055609 340 1.055778 341 1.055946 342 1.056115 343
+1.056284 344 1.056452 345 1.056621 346 1.056790 347 1.056958 348 1.057127 349
+1.057296 350 1.057465 351 1.057633 352 1.057802 353 1.057971 354 1.058140 355
+1.058309 356 1.058478 357 1.058647 358 1.058816 359 1.058985 360 1.059154 Days.
+Amount. 361 1.059323 362 1.059492 363 1.059661 364 1.059830 365 1.060000
+
+TABLE IV. The PRESENT WORTH of Due Pound, due after any Number of Years under
+32, or Numters under 125. At the Rate of 6 per Cent. Compound Interest.
+Years and Quarters. Present Worth. (0).0000000 1.9855383 2.9712858 3.9572394
+(1).9433962 1.9297531 2.9163074 3.9030560 (2).8899964 1.8771256 2.8644409
+3.8519397 (3).8396193 1.8274770 2.8155103 3.8037167 (4).7920936 1.7806387
+2.7693493 3.7582233 (5).7472581 1.7364516 2.7258013 3.7153050 (6).7049605
+1.6947656 2.6847182 3.6748160 (7).6650571 1.6554393 2.6459606 3.6366189
+(8).6274123 1.6183389 2.6093967 3.6005839 (9).5918984 1.5833386 2.5749026
+3.5665885 (10).5583947 1.5503194 2.5423609 3.5345175 (11).5267875 1.5191693
+2.5116612 3.5042618 (12).4969693 1.4897823 2.4826993 3.4757187 (13).4688390
+1.4620588 2.4553767 3.4487912 (14).4423009 1.4359045 2.4296006 3.4233879
+(15).4172650 1.4112307 2.4052836 3.3994226 (16).3936463 1.3879535 2.3823430
+3.3768137 (17).3713644 1.3659939 2.3607010 3.3554847 (18).3503438 1.3452772
+2.3402839 3.3353629 (19).3305130 1.3257332 2.3210226 3.3163801 (20).3118047
+1.3072955 2.3028515 3.2984718 (21).2941554 1.2899014 2.2857089 3.2815771
+(22).2775051 1.2734919 2.2695367 3.2656388 (23).2617972 1.2580112 2.2542799
+3.2506026 (24).2469785 1.2434068 2.2398867 3.2364176 (25).2329986 1.2296291
+2.2263082 3.2230355 (26).2198100 1.2166312 2.2134983 3.2104108 (27).2073679
+1.2043690 2.2014135 3.1985008 (28).1956301 1.1928010 2.1900128 3.1872648
+(29).1845567 1.1818877 2.1792573 3.1766649 (30).1741101 1.1715924 2.1691113
+3.1666663 (31).1642569
+
+TABLE V. The PRESENT WORTH of One Pound, due after the expiration of any
+Number of Months under 25. At the Rate of 6 per Cent. Compound Interest.
+Months. Present worth. 1.9951560 2.9903355 3.9855383 4.9807644 5.9760136
+6.9712858 7.9665810 8.9618988 9.9572394 10.9526026 11.9479884 12.9433962
+13.9388264 14.9342788 15.9297531 16.9252494 17.9207676 18.9163074 19.9118689
+20.9074518 21.9030561 22.8986817 23.8943285 24.8899964
+
+TABLE VI. The PRESENT WORTH of One Pound, due after the expiration of any
+Number of Days under 366. At the Rate of 6 per Cent. Compound Interest.
+Days. Present Worth. 1.9998404 2.9996808 3.9995212 4.9993616 5.9992021
+6.9990426 7.9988831 8.9987237 9.9985643 10.9984048 11.9982455 12.9980861
+13.9979268 14.9977675 15.9976083 16.9974490 17.9972898 18.9971306 19.9969714
+20.9968123 21.9966532 22.9964941 23.9963350 24.9961759 25.9960169 26.9958579
+27.9956990 28.9955400 29.9953810 30.9952222 31.9950633 32.9949045 33.9947457
+34.9945869 35.9944282 36.9942694 37.9941107 38.9939520 39.9937934 40.9936347
+41.9934760 42.9933175 43.9931590 44.9930004 45.9928419 46.9926834 47.9925250
+48.9924665 49.9923081 50.9921497 51.9919914 52.9917330 53.9915747 54.9914165
+55.9912582 56.9911000 57.9909418 58.9907836 59.9906254 60.9904673 61.9903092
+62.9901511 63.9899930 64.9898350 65.9896769 66.9895190 67.9893611 68.9892031
+69.9890452 70.9888874 71.9887297 72.9885718 73.9884139 74.9882561 75.9880983
+76.9879406 77.9877829 78.9876252 79.9874676 80.9873100 81.9871523 82.9869948
+83.9868372 84.9866797 85.9865222 86.9863647 87.9862073 88.9860498 89.9858924
+90.9857350 91.9855777 92.9854204 93.9852631 94.9851058 95.9849486 96.9847913
+97.9846341 98.9844770 99.9843198 100.9841627 101.9840056 103.9838485
+103.9836914 104.9835344 105.9833774 106.9832204 107.9830635 108.9829066
+109.9827497 110.9825928 111.9824359 112.9822791 113.9821223 114.9819656
+115.9818088 116.9816521 117.9814954 118.9813387 119.9811821 120.9810254
+121.9808688 122.9807123 123.9805557 124.9803992 125.9802427 126.9800862
+127.9799298 128.9797733 129.9796169 130.9794606 131.9793042 132.9791479
+133.9789916 134.9788353 135.9786791 136.9785228 137.9783666 138.9782105
+139.9780543 140.9778982 141.9777421 142.9775860 143.9774300 144.9772739
+145.9771179 146.9769620 147.9768060 148.9766500 149.9764942 150.9763383
+151.9761824 152.9760266 153.9758708 154.9757150 155.9755593 156.9754036
+157.9752479 158.9750922 159.9749366 160.9747809 161.9746253 162.9744697
+163.9743142 164.9741587 165.9730032 166.9738477 167.9736922 168.9735368
+169.9733814 170.9732260 171.9730707 172.9729154 173.9727600 174.9726047
+175.9724495 176.9722942 177.9721390 178.9719839 179.9718287 180.9716736
+181.9715185 182.9713634 183.9712084 184.9710534 185.9708983 186.9707433
+187.9705884 188.9704334 189.9702785 190.9701236 191.9699688 192.9698140
+193.9696591 194.9695044 195.9693496 196.9691949 197.9690400 198.9688954
+199.9687308 200.9685762 201.9684216 202.9682670 203.9681124 204.9679579
+205.9678033 206.9676489 207.9674944 208.9673400 209.9671855 210.9670311
+211.9668768 212.9667224 213.9665681 214.9664138 215.9662596 216.9661053
+217.9659511 218.9657969 219.9656428 220.9654886 221.9653345 222.9651804
+223.9650263 224.9648723 225.9647183 226.9645643 227.9644103 228.9642563
+229.9641024 230.9639485 231.9637946 232.9636408 233.9634870 234.9633332
+235.9631794 236.9630256 237.9628719 238.9627182 239.9625645 240.9624109
+241.9622573 242.9621037 243.9619500 244.9617965 245.9616430 246.9614895
+247.9613360 248.9611825 249.9610291 250.9608757 251.9607223 252.9605690
+253.9604157 254.9602623 255.9601091 256.9599558 257.9598026 258.9596494
+259.9594962 260.9593430 261.9591799 262.9590369 263.9588837 264.9587306
+265.9585775 266.9584245 267.9582715 268.9581185 269.9579656 270.9578127
+271.9576598 272.9575069 273.9573541 274.9572013 275.9570485 276.9568957
+277.9567430 278.9565902 279.9564375 280.9562849 281.9561322 282.9559796
+283.9558270 284.9556744 285.9555219 286.9553693 287.9552168 288.9550644
+289.9549119 290.9547595 291.9546071 292.9544547 293.9543023 294.9541500
+295.9539977 296.9538454 297.9536932 298.9535409 299.9533887 300.9532365
+301.9530843 302.9529322 303.9527800 304.9526280 305.9524759 306.9523239
+307.9521719 308.9520199 309.9518679 310.9517160 311.9515640 312.9514121
+313.9512603 314.9511084 315.9509566 316.9508048 317.9506530 318.9505013
+319.9503495 320.9501978 321.9500462 322.9498945 323.9497429 324.9495913
+325.9494397 326.9492881 327.9491366 328.9489851 329.9488336 330.9486822
+331.9485307 332.9483793 333.9482279 334.9480766 335.9479251 336.9477739
+337.9476226 338.9474713 339.9473201 340.9471689 341.9470177 342.9468665
+343.9467154 344.9465642 345.9464131 346.9462621 347.9461110 348.9459600
+349.9458090 350.9456580 351.9455071 352.9453561 353.9452052 354.9450543
+355.9449035 356.9447526 357.9446018 358.9444511 359.9443003 360.9441495
+361.9439988 362.9438481 363.9436975 364.9435468 365.9433962
+
+TABLE VII. The PRESENT WORTH of One Pound Annuity, to continue any Number of
+Years under 32, and payable by Yearly Payments, at 5, 6, 7, 8, 9, and 10 per
+Cent. Compound Interest. The PRESENT WORTH of One Pound Annuity, Comp. Int. At
+Years. 5 per Cent. 6 per Cent. 7 per Cent. 1 0.95238 0.94339 0.93457 2 1.85941
+1.83339 1.80801 3 2.72324 2.67301 2.62431 4 3.54595 3.46510 3.38721 5 4.32947
+4.21236 4.10019 6 5.07569 4.91732 4.76653 7 5.78637 5.58238 5.38928 8 6.46321
+6.20979 5.97129 9 7.10782 6.80169 6.51523 10 7.72173 7.36008 7.02358 11 8.30641
+7.88687 7.49867 12 8.86325 8.38384 7.94268 13 9.39357 8.85268 8.35765 14
+9.89864 9.29498 8.74546 15 10.37965 9.71224 9.10791 16 10.83776 10.10589
+9.44664 17 11.27406 10.47725 9.76322 18 11.68958 10.82760 10.05908 19 12.08532
+11.15811 10.33559 20 12.46220 11.46992 10.59401 21 12.82115 11.76407 10.83552
+22 13.16300 12.04158 11.06124 23 13.48857 12.30337 11.27218 24 13.79864
+12.55035 11.46933 25 14.09394 12.78335 11.65358 26 14.37518 13.00316 11.82577
+27 14.64303 13.21053 11.98671 28 14.89812 13.40616 12.13711 29 15.14107
+13.59072 12.27767 30 15.37245 13.76483 12.40904 31 15.59283 13.92908 12.53187
+Years. 8 per Cent. 9 per Cent. 10 per Cent. 1 0.92592 0.91743 0.90909 2 1.78326
+1.75911 1.73553 3 2.57709 2.53129 2.48685 4 3.31212 3.23971 3.16986 5 3.99270
+3.88965 3.79078 6 4.62287 4.48591 4.35526 7 5.20636 5.03295 4.86841 8 5.74663
+5.53481 5.33492 9 6.24688 5.99524 5.75902 10 6.71008 6.41765 6.14456 11 7.13896
+6.80519 6.49506 12 7.53607 7.16072 6.81369 13 7.90377 7.48690 7.10335 14
+8.24423 7.78614 7.36668 15 8.55947 8.06068 7.60608 16 8.85136 8.31255 7.82371
+17 9.12163 8.54363 8.02155 18 9.37188 8.75562 8.20141 19 9.60359 8.95011
+8.36492 20 9.81814 9.12854 8.51356 21 10.01680 9.29224 8.64869 22 10.20074
+9.44242 8.77154 23 10.37105 9.58020 8.88322 24 10.52875 9.70661 8.98474 25
+10.67477 9.82258 9.07704 26 10.80997 9.92897 9.16094 27 10.93516 10.02658
+9.237^^ 28 11.05107 10.11613 9.30656 29 11.15840 10.19828 9.36960 30 11.25778
+10.27365 9.42691 31 11.34981 10.34284 9.47901
+
+TABLE VIII. Showing what Annuity, to continue any Number of Years under 32,
+and payable by Yearly Payments, One Pound will Purchase, at the Rate of 5, 6,
+7, 8, 9, and 10 per Cent. Compound Interest. A TABLE showing what Annuity One
+Pound will Purchase, at several Rates of Comp. Int.
+Years. 5 per Cent. 6 per Cent. 7 per Cent. 1 1.05000 1.06000 1.07000
+2.53780.54543.55309 3.36720.37411.38105 4.28209.28859.29519 5.23097.23739.24389
+6.19701.20336.20979 7.17281.17913.18555 8.15472.16103.16746 9.14069.14702.15348
+10.12950.13586.14237 11.12038.12679.13335 12.11282.11927.12590
+13.10645.11296.11965 14.10102.10758.11434 15.09634.10296.10979
+16.09226.09895.10585 17.08869.09544.10242 18.08554.09235.09941
+19.08274.08962.09675 20.08024.08718.09439 21.07799.08500.09228
+22.07597.08304.09040 23.07413.08127.08871 24.07247.07967.08718
+25.07095.07822.08581 26.06956.07690.08456 27.06829.07569.08342
+28.06712.07459.08239 29.06604.07357.08144 30.06506.07264.08058
+31.06418.07181.07983 Years. 8 per Cent. 9 per Cent. 10 per Cent. 1 1.08000
+1.09000 1.10000 2.56076.56846.57619 3.38803.39505.40211 4.30192.30866.31547
+5.25045.25709.26379 6.21631.22291.22960 7.19207.19869.20545 8.17401.18067.18744
+9.16007.16679.17364 10.14902.15582.16274 11.14007.14694.15396
+12.13269.13965.14676 13.12652.13356.14077 14.12129.12843.13574
+15.11682.12405.13147 16.11298.12029.12781 17.10962.11704.12466
+18.10670.11421.12192 19.10412.11173.11954 20.10184.10954.11745
+21.09983.10761.11562 22.09803.10590.11400 23.09642.10438.11257
+24.09497.10302.11126 25.09367.10180.11016 26.09250.10071.10915
+27.09144.09973.10825 28.09048.09885.10745 29.08961.09805.10672
+30.08882.09733.10607 31.08814.09670.10550
+
+TABLE IX. The PRESENT WORTH of any Lease, or Annuity, for 21, 31, 41, 51, 61,
+71, 81, or 91 Years; as likewise the PRESENT WORTH of the sea Simple. At 5, 6,
+8, and 10 per Cent. Compound Interest.
+Years to be Purchased. At 5 per Cent. The Purchase of Freehold Land. At 6 Per
+Cent. The Purchase of Copyhold Land, or Leases of Land. Years. Qua. Mo. Years.
+Qua. Mo. 21 12 3 1 11 3 0 31 15 3 1 13 3 2 41 17 0 1 15 0 1 51 18 1 0 15 3 0 61
+18 3 2 16 2 0 71 19 1 1 16 1 2 81 19 2 1 16 2 0 91 19 3 0 16 2 0 Fee Simple. 20
+0 0 16 2 2
+
+Years to be Purchased. At 8 per Cent. The Purchase of very good Houses. At 10
+per Cent. The Purchase of Leases of ordinary Houses. Years. Qua. Mo. Years.
+Qua. Mo. 21 10 0 0 8 3 2 31 11 1 1 9 3 0 41 11 3 2 9 3 2 51 12 1 0 9 3 2 61 12
+1 1 10 0 0 71 12 1 2 10 0 0 81 12 2 0 10 0 0 91 12 2 0 10 0 0 Fee Simple. 12 2
+0 10 0 0
+
+CHAP. II.
+The Use of the preceding TABLES of Compound Interest.
+HAving with all imaginable care framed and calculated diverse Tables relating
+to Compound Interest, it will be needful to apply the same to Use and Practice.
+
+The Use of the first TABLE, shown in Two Examples.
+Example I.
+Suppose it be demanded to give the Amount of 136 l. 15 s. 6 d. being forborne
+20 years, at 6 per Cent. Compound Interest.
+
+Direction.
+
+The given Sum must first be reduced by the first Table of the first Book, and
+made 136.775, and then multiplied by the Number in the first Table answering to
+(20), in the Margin of page 144, viz. 3.20713.
+
+Tariffa for the Multiplicand.
+1 136775 2 273550 3 410325 4 547100 5 683875 6 820650 7 957425 8 1094200 9
+1230975
+
+The Operation may be contracted, according to the Rule in the Introduction.
+
+The Product 438.6552 is the true Answer, and being reduced by the fifteenth
+Table of the first Book, makes 438 l. 13 s. 1 d. 1 q.
+
+Example 2.
+Suppose it be demanded to give the Amount of the aforesaid Sum in 20 Years and
+3 Quarters.
+
+Direction.
+
+Multiply the aforesaid Sum of 136.775, by the Number which answers to 20 Years
+and 3 Quarters, viz. 3.35040.
+
+The Operation may be contracted as before. ^
+
+The Product 458.2509 is the Answer to the Question, and being reduced by the
+fifteenth Table of the first Book, makes 458 l. 5 s. more by 22/100 (or Ninety
+Two Hundred parts) of a Farthing.
+
+The use of the second TABLE.
+Suppose it be desired to know the Amount of 42 l. in 7 Months, at 6 per Cent.
+Compound Interest.
+
+Direction.
+
+Seek the Number in Table II. answering to (7) in the Margin, viz. 1.034574,
+and multiply it by 42, and the Product is the Answer. ^
+
+Which Product being reduced is 43 l. 9 s. 2 q. more by 2/100 (or Two Hundred
+parts) of a Farthing.
+
+The use of the third TABLE.
+Suppose it be demanded to find the Amount of 42 l. in 104 Days.
+
+Direction.
+
+Find the Number in Table III. answering to (104) in the Margin, viz. 1.016741,
+and multiply that by 42, and the Product is the Answer. ^
+
+Which Product being reduced, makes 42 l. 14 s. 2 q. more by 99/100 (or Ninety
+Nine Hundred parts) of a Farthing.
+
+The use of the fourth TABLE.
+Let it be demanded to find the Present Worth of 438 l. 13 s. 1 d. 1 q. due and
+payable after the expiration of 20 Years, at 6 per Cent. Compound Interest.
+
+Direction.
+
+The given Sum being converted into a Decimal Number is 438.65520, then find
+the Number in Table IV. answering to (20) in the Margin, viz..3118047, and
+multiplying one by another, the Product is the Answer.
+
+Tariffa for the Multiplicand.
+1 4386552 2 8773104 3 13159656 4 17546208 5 21932760 6 26319312 7 30705864 8
+35092416 9 39478968
+
+And the Operation may be contracted thus to seven places, by the Rule in the
+Introduction. ^
+
+The Product 136.7747 is a manifest Proof of the truth of the Operation in the
+first Example of the use of the first Table, page 186. there being not so much
+as the Hundredth part of a Farthing difference.
+
+The Use of the fifth TABLE.
+
+Let the Present Worth of 43.452108 l. due after the expiration of 7 Months, be
+sought, according to the Rate of 6 per Cent. Compound Interest.
+
+Tariffa for the Multiplicand.
+1 43452108 2 86904216 3 130356324 4 173808432 5 217260540 6 260712648 7
+304164756 8 347616864 9 391068972
+
+The Operation contracted by the Rule in the Introduction. ^
+
+Which Product 41.99997 is a clear and manifest Proof of the truth of the
+Operation in the use of the second Table, page 190.
+
+The Use of the sixth TABLE.
+Let it be required to find the Present Worth of 42.703122 l. after the end of
+104 Days, at the Rate of 6 per Cent. Compound Interest.
+
+Tariffa for the Multiplicand.
+1 42703122 2 85406244 3 128109366 4 170812488 5 213515610 6 256218732 7
+298921854 8 341624976 9 384328098
+
+The Operation contracted by the Rule in the Introduction. ^
+
+Which Product 41.99997, is a clear and manifest Proof of the truth of the
+Operation in the Example, calculated to show the use of the third Table, page
+191.
+
+The Use of the seventh and ninth TABLES.
+Let it be required to find the Present Worth of an Annuity of 56 l. to
+continue 21 years, and payable by yearly payments, at the Rate of 6 per Cent.
+Compound Interest.
+
+Direction.
+
+First find the Number in Table VII. answering to (21) in the Margin, which is
+11.76407; then multiply it by 56, without a Tariffa, because there are but two
+places in the Multiplicator, and the Product is the Answer.
+
+^
+
+Which Product being reduced by the fifteenth Table of the first Book, makes
+657 l. 15 s. 9 d. more by 40/100 (or Forty Hundred parts) of a Farthing, which
+agrees with Mr. Kersey's Example, in his Appendix to Mr. Wingate's Arithmetic,
+page 412. only this Calculation is more exact than his, and somewhat nearer to
+the truth.
+
+The Use of the eighth TABLE.
+Let it be demanded what Annuity, to continue 14 years, and payable by yearly
+payments, will 320 l. buy, allowing 6 per Cent. Compound Interest.
+
+Direction.
+
+Seek in the Margin of Table VIII. the Number (14), and the Number answering to
+it, under the Title of 6 per Cent. viz..10758; which multiply by 320, and the
+Product is the Answer. ^
+
+Which Product 34.42560, being reduced by the fifteenth Table of the first
+Book, makes 34 l. 8 s. 6 d. more by 57/100 (or Fifty Seven Hundred parts) of a
+Farthing.
+
+A farther Use of the seventh TABLE.
+To convert a present Sum or Fine into an Annual Rent; or on the contrary, to
+bring down an Annual Rent by a present Sum or Fine.
+
+Example 1.
+A Landlord Lets a Lease of a House and Land for 21 years, and is to have 100
+l. for that Lease, and a yearly payment of 30 l. what Fine or present Money
+must the Tenant give, to bring down the Rent from 30 l. to 10 l. per Annum,
+allowing 6 per Cent. Compound Interest?
+
+Direction.
+
+First find the difference of 10 l. and 30 l. which is 20 l. then find by Table
+VII. page 176. what an Annuity of 1 l. to continue 21 years, is worth in
+present Money, which is 11.76407 l. then multiply 11.76407 by 20, and the
+Product gives the Present Worth of 20 l. per Annum for 21 years.
+
+The Operation. ^
+
+Which Product 235.28140 being reduced, is 235 l. 5 s. 7 d. 2 q. more by 14/100
+(or Fourteen Hundred parts) of a Farthing.
+
+Example 2.
+A Landlord demands a Fine, or present Sum, for a Lease of 127 l. per Annum, to
+continue 7 years; what is the Sum, allowing 6 per Cent. Compound Interest?
+
+Direction.
+
+Find by Table VII. the Present Worth of 1 l. Annuity for 7 years, at 6 per
+Cent. viz. 5.58238, which multiply by 127, and the Product is the Answer.
+
+The Operation. ^
+
+Which Product 708.96226 being reduced by the fifteenth Table of the first
+Book, makes the just Sum of 708 l. 19 s. 2 d. 3 q. more by 77/100 (or Seventy
+Seven Hundred parts) of a Farthing.
+
+And here the Reader is desired to take notice of a printed Sheet sold in
+Westminster Hall, Entitled, " A President for Purchasers, etc. Or Anatocisme (
+commonly called Compound Interest) made easy, etc. Computedly W. Leybourn. The
+principal Table in this Sheet is printed from a Copper Plate, but so full of
+gross Errors and mistakes, that it is not sit to be used: For
+
+In this last Example, that Table makes tho Sum but 706 l. 16 s. 6 d. which the
+Table of this Book makes 708 l. 19 s. 2 d. 3 q. and more, (which Sum agrees
+with Mr. Clavel's Tables). But in very many places there is no less than 4, 5,
+6, and 10 Pound mistaken, which must needs deceive all those, who do in the
+least rely upon, or give any credit to it.
+
+So that the AUTHOR of this little Book hopes, That the manifold Errors in the
+Calculations of other Writers, will occasion a more kind acceptance of his more
+than ordinary care and diligence in all the foregoing Tables; if not,
+
+-- Redit Labor actus in Orbem.
+
+(...).
+
+FINIS.
+ADVERTISEMENT.
+THere is newly Printed a Vade Mecum, or Necessary Companion; containing, 1.
+Sir Samuel Morland' s Perpetual Almanac, in Copper Plates, with many useful
+Tables proper thereto. 2. The Computation of Years, comparing the Years of each
+King's Reign from the Conquest with the Years of Christ. 3. Reduction of
+Weights and Measures. 4. The ready Casting up any Number of Farthings,
+Halfpence, Pence, Shillings, Nobles and Marks; with Sir Samuel Morland' s New
+Table for Guinneys. 5. The Interest and Rebate of Money, the Forbearance,
+Discompt, and Purchase of Annuities, at 6 per Cent. 6. The Rates of
+Post-Letters, both Inland and Outland, with the Times for sending or receiving
+them; also the Post-Stages, showing the Length of each Stage, and the Distance
+of each Post-Town from London. 7. The Rates or Fares of Coach-men, Carr-men,
+and Watermen. And are sold by R. Northcot, Bookseller, either next St. Peter's
+Alley in Cornhill, or at the Anchor and Mariner on Fish-Street-Hill; by John
+Playford, Printer, near the Blew-Anchor Inn in Little Britain; and by Charles
+Blount, Bookseller, at the Black-Raven in the Strand, near the Savoy.
+
+

@@ -1,0 +1,826 @@
+TABLES FOR RENEWING and PURCHASING OF THE LEASES OF Cathedral-Churches AND
+COLLEGES, According to several Rates of Interest; with their Construction and
+Use explained.
+
+Also Tables for Renewing and Purchasing of LIVES.
+
+With Tables for Purchasing the Leases of Land or Houses according to several
+Rates of Interest, very Necessary and Useful for all Purchasers, but
+especially for them who are any way concerned in Church or College Leases.
+
+CAMBRIDGE, Printed by John Hay^^, Printer to the University. 1886.
+
+The Preface.
+Courteous Reader,
+ALthough there be variety of Tables extant, and those excellent, for computing
+of Interest and purchasing of Annuities, etc. yet for renewing of Leases there
+seems to be a defect; to supply which defect this Little Book is intended, and
+that there may be nothing wanting to complete such a design, it will be
+convenient, by way of Preface, to lay down the Grounds and Reasons for
+Renewing, and to demonstrate the Construction of the Tables ensuing, that so as
+well the skillful, as unskilful may be convinced and satisfied, as to their
+truth and exactness. Some things in Arithmetic are indeed very mysterious, and
+not so easily apprehended by them who are not acquainted with that sort of
+Learning, yet I hope they will not be so uncharitable as to condemn all as
+false, which falls not within the verge of their knowledge, or may seem to
+deviate from those erroneous Rules which they have espoused upon false grounds.
+But without any further Apology, I shall proceed to show both the Construction
+and Use of a Table of Reversions, calculated for several Rates of Interest, and
+how the Tables following for Renewing, are made from it, which are also made
+for several Rates of Interest, that so both the Landlord and Tenant may the
+better see when they are best dealt with. This Table of Reversions shows the
+decrease of one Pound yearly, according to those several Rates of Interest; or
+what one Pound due at the end of any number of Years to come, not exceeding 40,
+is worth in ready Money, at 5, 6, 7, 8, 10, and 12 per. cent. per. Ann.
+
+First, for Example, What is one Pound, due a Year hence, worth in ready Money?
+
+For answer hereunto the Rule is this, viz. Let 100lb. with the Interest for a
+Year added thereunto, be the first term ^n the Rule of Three: 100lb. the
+second, and 1lb. the third. Examples at 6lb. and 10lb. per cent.
+As, is to So is, to 106, 100:: 1, 94339 or 18 s. 10 d. 110, 100:: 1, 90909 or
+18 s. 2 d. from whence it appears that 1 l. in a years time at 6 l. per cent.
+decreaseth to 18 s. 10 d., but at 10 lb. per cent. it decreaseth to 18 s. 2 d.
+so that 18 s. 10 d.. ready Money, is worth 20 s. to be paid a Year hence,
+reckoning the Interest at 6lb. per cent. per Ann. so 18 s. 2 d. ready Money is
+worth 20 s. to be paid a Year hence, at 10 lb. per cent. and so by a continual
+Geometrical proportion decreasing it comes to pass that 20 s. to be paid 21
+Years hence is worth but 5 s. 10 d.. ready Money, that is, 5 s. 10 d., paid
+now, will in 21 Years at 6 lb. per cent. per Ann. compound Interest, increase
+to 20 s. but at 10 lb. per cent. 20 s. in 21 Years decreaseth to 2 s. 8 d. so
+that 2 s. 8 d. paid now, will amount to 20 s. in 21 Years, at 10 lb. per cent.
+per Ann. compound Interest; and at 12 lb. per cent. 1. s. 10 d. paid now, is
+worth 20 s. to be paid 21 Years hence; now, to renew a Lease of 21 Years that
+has but one Year lapsed according to the rate of 10lb. per cent. per Ann. I
+look in the Table of Reversions against 21, and under the rate mentioned, and
+find in the Common Angle of meeting, 2 s. 8 d., which is the Fine to be given
+to renew one year Lapsed in the said Lease, supposing the Rent to be one Pound
+per An. for it is 21 years ere this year is completed, but in 21 years time 2
+s. 8 d.. will amount to 20 s. as was said before, and therefore by giving 2 s.
+8 d.. ready Money, the Lease is made up again for 21 years, according to the
+rate mentioned: now suppose again that there be 2 years lapsed in the same
+Lease allowing the same rate of Interest, then by the Table of Reversions I
+find that 20 s. to be paid 20 years hence is worth 2 s. 11 d. 2 q. ready Money,
+according to the aforesaid rate; now the Sum of these two reversions, viz. 2 s.
+11 d. 2 q. and 2 s. 8 d. 2 q. is 5 s. 8 d. which is the Fine to be paid to make
+up the Lease 21 years again, supposing the yearly Rent to be 1 l. for 5 s. 8 d.
+paid now will countervalue the 2 years Rent, which the Landlord was to receive
+the 2 years after 19, had not the Lease been made up, from whence the reason
+very plainly appears why such a Fine should be given to renew such a number of
+years lapsed, according to such a rate of Interest.
+
+Now although the following Tables for Renewing, are only for Leases of 21,
+20, 40, and 10 years, yet by this Table of Reversions may be made Tables for
+Renewing of Leases for any number of years under 41, as by an Example will
+appear; as suppose in a Lease of 31 years, I am to renew 7 years lapsed,
+allowing 6lb. per cent. profit; to do this I take the Sum of the Reversions for
+7 years from 31 upwards, counting that as 1, etc. and so I find the Sum to be
+1 l. 12 s. 6 d. 1 q. that is 1 Year, 2 Quarters, 1 Month, and 5 Decimal Parts
+purchase, which is the Fine to be paid for renewing the 7 years lapsed
+required; this being understood it will not be difficult to do the like for any
+other Number of years lapsed, either in this or in any other Lease, and
+according to any other rate of Interest, and therefore I think it needless to
+multiply Examples.
+
+The reason and also truth of the Tables for Renewing will further appear, if
+you consider the Value of the whole Lease, and from it Subtract the Value of
+the years Lapsed, the Remainder, if right, is the value of a Lease for so many
+years as there are years remaining in the Lease, as if 7 years are Lapsed, in a
+Lease for 21 years, then there are 14 in esse.
+
+Example.
+
+Y. q. m. d. ps. The Value of a Lease for 21 years at 6lb. per c. is 11 3 0 1
+The Value of 7 years lapsed in that Lease is which subtract 2 1 2 6 Remains 9 1
+0 5
+
+which remainder is the Value of a Lease for 14 years at 6lb. per cent. as by
+the Table for Purchasing appears; from whence also it is evident, that if the
+Value of the years in esse be Subtracted from the Value of the whole Lease, the
+Remainder is the Value of the years in Reversion.
+
+The Table of Reversions is also useful for purchasing the Reversion of an
+Estate.
+
+Example.
+
+Suppose an Estate whose Fee-Simple, or real Value is 100lb, and it be
+Mortgaged or Leased out for 20 years, What Is the Reversion thereof Worth at
+6lb. per cent?
+
+Then for Answer, I find by the Table the present Worth of 1 l. to be paid 20
+years hence is at 6lb. per cent. 6 s. 2 d. 3 q. l. s. d. Then 100 times 6 s. is
+30 0 0 And 100 times 2 d. or 200 d. is 0 16 8 And 100 times 3 q. or 300 q. make
+0 6 3 Sum 31 2 11 So that 31 l. 2 s. 11 d. is the present Value of 100lb. to
+be paid 20 years hence, which is the Answer to the Question.
+
+A Table of Reversions showing what 1 lb. due any number of Years hence under
+41 is worth in ready Money at 5, 6, 7, 8, 10, and 12 lb. per cent.
+Years. 5 per cent. 6 per cent. 7 per cent. 8 per cent. 10 per cent. 12 per
+cent. s. d. q. s. d. q. s. d. q. s. d. q. s. d. q. s. d. q. 1 19 0 2 18 10 1 18
+8 0 18 6 0 18 2 0 17 10 1 2 18 1 2 17 9 1 17 5 2 17 1 3 16 6 1 15 11 1 3 17 3 1
+16 9 2 16 3 3 15 10 1 15 0 0 14 3 0 4 16 5 1 15 10 0 15 3 0 14 8 1 13 8 0 12 8
+2 5 15 8 0 14 11 1 14 3 1 13 7 1 12 5 0 11 4 0 6 14 11 0 14 1 0 13 4 0 12 7 0
+11 3 2 10 1 3 7 14 2 2 13 3 2 12 5 1 11 8 0 10 3 0 9 0 3 8 13 6 1 12 6 2 11 7 2
+10 9 2 9 4 0 8 1 0 9 12 10 2 11 10 0 10 10 2 10 0 0 8 5 3 7 2 2 10 12 3 1 11 2
+0 10 2 0 9 3 0 7 8 2 6 5 0 11 11 8 0 10 6 1 9 6 0 8 6 3 7 0 0 5 9 0 12 11 1 2 9
+11 1 8 10 2 7 11 1 6 4 2 5 1 2 13 10 7 1 9 4 2 8 3 2 7 4 0 5 9 2 4 7 0 14 10 1
+0 8 10 0 7 9 0 6 9 2 5 3 0 4 1 0 15 9 7 2 8 4 0 7 3 0 6 3 2 4 9 1 3 7 3 16 9 2
+0 7 10 2 6 9 1 5 10 0 4 4 1 3 3 0 17 8 8 2 7 5 0 6 4 0 5 4 3 3 11 1 2 11 0 18 8
+4 0 7 0 0 5 11 0 5 0 0 3 7 0 2 7 0 19 7 11 ^ 6 7 ^ 5 6 1 4 7 1 5 3 0 2 4 1 20 7
+6 1 6 2 3 5 2 0 4 3 2 2 11 2 2 1 0 21 7 2 0 5 10 2 4 10 0 3 11 3 2 8 2 1 10 0
+22 6 10 0 5 6 2 4 6 0 3 8 0 2 5 2 1 8 0 23 6 6 0 5 3 0 4 2 2 3 4 3 2 2 3 1 5 2
+24 6 2 1 4 11 1 3 11 1 3 1 3 2 0 1 1 3 3 25 5 10 3 4 8 0 3 8 1 2 11 0 1 10 0 1
+2 0 26 5 7 1 4 4 3 3 5 1 2 8 1 1 8 0 1 0 2 27 5 4 1 4 1 3 3 1 2 2 6 0 1 6 1 11
+0 28 5 1 0 3 10 3 3 0 0 2 3 3 1 4 2 10 0 29 4 10 1 3 8 1 2 9 2 2 1 3 1 3 0 9 0
+30 4 7 2 3 6 1 2 7 2 1 11 3 1 1 3 8 0 31 4 5 1 3 3 1 2 5 1 1 10 0 1 1 0 7 0 32
+4 2 1 3 0 2 2 3 2 1 8 1 11 1 6 1 33 4 0 0 2 10 1 2 1 2 1 6 3 10 1 5 2 34 3 9 2
+2 8 3 2 0 0 1 5 1 9 1 5 1 35 3 7 2 2 6 2 1 10 2 1 4 0 8 2 4 2 36 3 5 1 2 5 1 1
+9 0 1 3 0 7 3 4 0 37 3 3 1 2 3 2 1 7 2 1 2 0 7 0 3 1 38 3 1 2 2 2 0 1 6 2 1 1 0
+6 1 3 0 39 2 11 3 2 0 0 1 5 0 1 0 0 5 3 3 0 40 2 10 0 1 11 0 1 4 0 0 11 0 5 1 2
+2
+
+AN ADVERTISEMENT TO THE READER.
+SEeing Mr. AEcroid's Tables have been for a long time made use of for Renewing
+of Leases, which Tables do a little differ from the Tables for Renewing in this
+Book, I thought it convenient to show the reason of that Difference, that so
+the truth being cleared, nothing might remain as an Objection against the use
+of the Tables following, for I know that whatsoever does offer it self contrary
+or different from that which Men are most used to, cannot by some be
+entertained without the imputation of Falsehood or Error. These Tables of
+AEcroid's for Renewing of Leases are not indeed to be esteemed erroneous, but
+are exact enough according to the Rate of Interest for which they were
+Calculated, which was at 11 l. 3 s. 6 d. 6/17 per cent. (as is intimated in the
+use of those Tables) but the Table contained in this Book for Renewing a Lease
+of 21 years is Calculated at 11 l. 11 s. 8 d., 3/10, and at 5 l. 6 l. 8 l. and
+10 l. per cent. and the Fine for Renewing 7 years Lapsed in a Lease of 21
+years, by AEcroid's Tables is 1 l. 1 s. 3 d. that is 1 Year's, and 3 Weeks
+purchase, whereas by the Table for Renewing in this Book, it is but one Year's
+value at 11 l. 11 s. 8 d., 3/10, per cent. and the reason is, because the rate
+of Interest is greater, but when the rate of Interest is lesser, the Fine is
+greater, as at 10 l. per cent. the Fine for Renewing 7 years lapsed is 1
+Year's, 1 Quarter's, and 1 Week's value; but at 8 l. per cent. the Fine for
+Renewing 7 years lapsed, is 1 Year's, and above 3 Quarters value, and at 6 l.
+per cent. the Fine is 2 years and almost an halfs value. So in the Table for
+Renewing a Lease of 20 years, at 12 l. 6 s. per cent. the Fine for Renewing 7
+years lapsed, is but 1 years value: whereas by AEcroid's Tables it is 1 l. 3 s.
+8 d. that is 1 year and above 2 Months value, but at 5 l. 6 l. 8 l. and 10 l.
+per cent. the Fine is greater, because the rate of Interest is less, as was
+said before. And that this is true it will appear if you consider that the
+Tables for Renewing of Leases consist of the Sums of the Tables of Reversion,
+or Decrease of Money; now it is evident that the greater the rate of Interest
+is, the greater is the decrease of Money in Reversion, and so consequently the
+lesser are the Sums of those Reversions, which are the Fines for Renewing.
+Therefore, etc. An Example will better explain it; Thus in the Table of
+Reversions, I find that 1 l. or 20 s. in 40 years, decreaseth to 2 d. at 12 lb.
+per cent. Compound Interest; and at 10 l. per cent. 20 s. in 40 years,
+decreaseth to 5 d. 1 q. now the Sum of these Reversions for 7 years counting 40
+as 1, 39 as 2, etc. at 12 l. per cent. is but 2 s. 1 d. 2 q. but at 10 l. per
+cent. the Sum for 7 years is 4 s. 1 d. 3 q. which are the Fines for Renewing 7
+years lapsed in a Lease of 40 years, at the rates of 12 l. and 10 l. per cent.
+from whence it is evident that the lesser the rate of Interest is, the greater
+must be the Fine for Renewing; and the greater the rate is, the lesser must be
+the Fine: and therefore the Difference between AEcroid's Tables for Renewing,
+and these in this Book, proceeds only from the different rate of Interest for
+which they were Calculated.
+
+The Tables following for Renewing, and also for Purchasing of Leases, showing
+the values in Years, Quarters, Months, and Decimal Parts of a Month, I think it
+convenient a little to explain them, and to show how to Add, and Subtract those
+sort of Valuations; in order to which, I shall show first, that the Year is
+divided into 4 parts or Quarters, every Quarter into 3 Months, and a Month into
+10 parts, called Decimal parts, so that at 1 l. per An. Rent, it will be 5 s. a
+Quarter, 1 s. 8 d. a Month, and 2 d. the tenth part of a Month, and because a
+Month contains 4 Weeks, it will be 5 d. a Week, so that 5 Decimal parts of a
+Month, being equal to 10 d. are equal to 2 Weeks, 3 Decimal parts are but 1 d.
+above a Week, so that it is easy to convert the Decimal parts of a Month, into
+Weeks.
+
+The reason why I used this way of Valuation, was because I thought it most
+familiar to those who were concerned in Purchasing; and although this way of
+expressing the Values is not so exact, as if they were expressed in Decimals, or
+in Pounds, Shillings, and Pence, etc. yet is the difference very
+inconsiderable, although there may be sometimes a Decimal part of a Month, or
+thereabouts either under or over the exact Value, yet is it not to be regarded
+in this sort of bargaining; seeing Men in giving or taking of Fines are not
+tied to any particular rate of Interest so exactly, as not to err a Penny or
+two, although the Rent be but 20 s. per An. and therefore when a Fine is
+required of any Person, either for Renewing or Purchasing of a Lease, the
+Tables will show exactly enough what rate of Interest is allowed: so if any
+have a mind to give or take a Fine according to a rate of Interest proposed,
+they may do it near enough by the Tables.
+
+How to Add together, the Fines given in Years, Quarters, Months, and Decimal
+Parts of a Month.
+Example.
+
+Y. Q. M. d.p. Suppose I am to Add these 3 2 1 6 Fines together, viz. 2 3 1 7
+Sum 6 2 0 3
+
+First then I begin at the least Denomination, that is at Decimal Parts of a
+Month, and say 7 and 6 is 13, I set down 3 and carry 1 for the 10, because 10
+Decimal parts are one Month; then I come to the Months and say 1 that I carry
+and 1 is 2, and 1 is 3, I set down 0, and carry 1 for the 3, because 3 Months
+make a Quarter; then I come to the Quarters, and say, 1 that I carry and 3 is
+4, and 2 is 6, I set down 2 and carry 1, for the 4, because 4 Quarters make a
+Year; then I come to the Years, and say, 1 that I carry and 2 is 3, and 3 is 6,
+which I set down, and so the Sum is 6 Years, 2 Quarters, 0 Months, and 3
+Decimal Parts, as in the Example.
+
+How to Substract one from the other, the Fines given in Years, Quarters,
+Months, and Decimal Parts of a Month.
+Example.
+
+Y. Q. M. D. pts. From 4 2 1 4 Take 2 2 2 6 Remains 1 3 1 8
+
+First as in Addition, I begin at the least Denomination, and say 6 out of 4 I
+cannot, wherefore I borrow 10, because 10 Decimal Parts make 1 Month, and say 6
+out of 14, and there remains 8, which I set down; then I come to the Months,
+and say 1 that I borrowed and 2 makes 3, then I say 3 out of 1 I cannot,
+wherefore I borrow 3, because 3 Months make a Quarter, and say 3 out of 4, and
+there remains 1, which set down; then I come to the Quarters, and say 1 that I
+borrowed and 2 makes 3, then 3 out of 2 I cannot, wherefore I borrow 4, because
+4 Quarters make a Year, and say 3 out of 6, and there remains 3, which I set
+down; and then go to the Years, and say 1 that I borrowed and 2 makes 3, then 3
+out of 4 and there remains 1; And so there Remains 1 Year, 3 Quarters, 1 Month,
+8 Decimal parts. These two Examples of Addition and Subtraction, being
+understood, it will not be difficult to do the like with any other of these
+sorts of Valuations, and therefore, I think it needless to exemplify any
+further.
+
+The Contents of this Book.
+A Table of Reversions at 5, 6, 8, 10, and 12 per cent. with it is Construction
+and Use explained in the Preface.
+
+CHAP. I. A Table for Renewing a Lease of 21 Years according to several rates
+of Interest, with it is use explained. CHAP. II. A Table for Renewing a Lease of
+20 Years according to several rates of Interest, with it is use explained. CHAP.
+III. A Table for Renewing a Lease of 40 Years according to several rates of
+Interest, with it is use explained. CHAP. IV. A Table for Renewing a Lease of 10
+Years according to several rates of Interest, etc. CHAP. V. A Table to Reduce
+the Values given in Years, Quarters, Months, and Decimal Parts of a Month, in
+Pounds, Shillings, etc. with it is use explained. CHAP. VI. Tables for
+Purchasing and Renewing of Lives, with their Construction and Use explained.
+CHAP. VII. A Table to Purchase by, according to 5, 6, 8, 10, and 12 per cent.
+with it is use exemplified. CHAP. VIII. Tables showing the increase of Money
+yearly, the Value of Annuities forborne, and what Annuity 1 l. ready Money will
+purchase at 6l. per cent. per An. Compound Interest, with their uses
+exemplified. CHAP. IX. Of the Difference between Long and Short Leases, Rules
+concerning Free-holds, and a Table of Simple Interest.
+CHAP. I.
+THE first Table which offers it self for Renewing of Leases, is for the term
+of 21 Years, it shows the values in Years, Quarters, Months, and Decimal parts
+of a Month, as all the rest do, the first part of this Table is calculated at
+11 l. 11 s. 8 d., 1/10, per cent. per An. Compound Interest, so that the Fine
+for Renewing 7 Years Lapsed, or the present worth of 7 Years in Reversion, not
+to begin till 14 are expired, is exactly 1 Years Value, which Fine, and
+consequently rate of Interest, Bishops, Deans and Chapters Heads and Fellows of
+most Colleges in both Universities, do observe in Letting and Renewing of their
+Leases; but at other rates of Interest, the Fine for Renewing 7 Years Lapsed,
+the Table shows as follows, viz.
+
+The Fine for Renewing 7 Years Lapsed
+Y. Q. M. D.pts l. s. d. at 5 p. c. is 2 3 2 0 Which by the Table of Red. at 10
+lb. yearly Rent is 29 3 4 at 6 p. c. is 2 1 2 6 24 13 4 at 8 p. c. is 1 3 0 3
+17 15 0 at 10 p. c. is 1 1 0 3 12 15 0
+
+The years in esse may be valued as a Lease of so many years, as in this Lease
+of 21 years, if 7 years are run out, then there are 14 in esse, whose value are
+as a Lease of 14 years, and may be found by the Table for Purchasing; or if you
+subtract the value of the years in Reversion from the value of the whole Lease,
+the remainder is the value of the years in esse.
+
+To find the value of some of the years in Reversion, as suppose 3 of the 7, I
+do thus, because 3 wants 4 of 7, I take the value of 4 years in Reversion, from
+the value of 7 in Reversion, the remainder is the value of the 3 years required.
+
+Example.
+
+Y. q. m. d.p. The value of 7 years in Reversion, at 11 lb. 11. s. 8 d. per
+cent. is 1 0 0 0 The value of 4 years in Reversion at the same rate is Which
+subtract 0 1 2 7 Remains 0 2 0 3
+
+Which remainder being given for a Fine, will make up the Lease to 17 years,
+that is 3 added to 14.
+
+A Table for the Renewing of any Number of years lapsed in a Lease for 21 years.
+11 l. 11 s. 8 d. p.c. 5 per cent. 6 per cent. 8 per cent. 10 per cent. Years
+Lapsed Years. Quarters. Months. Decimal Parts Years. Quarters. Months. Decimal
+Parts Years. Quarters. Months. Decimal Parts Years. Quarters. Months. Decimal
+Parts Years. Quarters. Months. Decimal Parts 1 0 0 1 2 0 1 1 3 0 1 0 5 0 0 2 4
+0 0 1 6 2 0 0 2 5 0 2 2 8 0 2 1 2 0 1 2 0 0 1 0 4 3 0 1 1 0 1 0 1 5 0 3 2 2 0 2
+1 7 0 1 2 3 4 0 1 2 7 1 2 0 5 1 1 0 4 0 3 1 7 0 2 1 5 5 0 2 1 6 1 3 2 8 1 2 1 8
+1 0 2 0 0 3 0 8 6 0 3 0 6 2 1 2 3 2 0 0 6 1 1 2 5 1 0 0 4 7 1 0 0 0 2 3 2 0 2 1
+2 6 1 3 0 3 1 1 0 3 8 1 0 2 6 3 1 2 1 2 3 1 9 2 0 1 4 1 2 0 5 9 1 1 2 5 3 3 2 4
+3 1 1 5 2 1 2 8 1 3 1 0 10 1 2 2 7 4 2 0 1 3 3 1 5 2 3 1 5 2 0 1 8 11 2 0 0 3 5
+0 1 1 4 1 1 8 3 1 0 7 2 2 0 0 12 2 1 1 3 5 2 2 5 4 3 2 5 3 3 0 2 2 3 1 6 13 2 2
+2 8 6 1 1 2 5 2 0 6 4 1 0 2 3 1 0 7 14 3 0 1 8 7 0 0 3 6 0 2 1 4 3 0 7 3 3 0 3
+15 3 2 1 3 7 2 2 8 6 3 1 1 5 1 1 7 4 1 0 4 16 4 0 1 5 8 1 2 8 7 2 0 6 6 0 0 2 4
+3 1 2 17 4 2 2 5 9 1 0 2 8 1 0 5 6 2 2 4 5 1 2 7 18 5 1 1 3 10 0 1 1 9 0 1 0 7
+1 2 2 6 0 1 9 19 6 0 0 9 10 3 2 4 9 3 2 1 8 0 2 8 6 3 1 9 20 6 3 1 5 11 3 1 3
+10 3 0 8 9 0 1 1 7 2 2 8 Total Value. Total value Total value Total value Total
+value 7 3 0 3 12 3 0 8 11 3 0 1 10 0 0 2 8 2 1 7
+
+CHAP. II.
+THE next Table is for the term of 20 years, the first part thereof is
+calculated according to the rate of about 12 lb. 6 s. per cent. per An. so that
+1 year's value is the worth of 7 years lapsed, or in Reversion; which Fine, and
+consequently rate of Interest, by some is observed in a Lease for 20 years; but
+at other rates of Interest: The Fine for Renewing 7 years lapsed in this Lease
+of 20 years, you will find by the Table as follows, viz.
+
+The Fine for Renewing 7 years lapsed
+Y. Q. M. D.pts. l. s. d. at 5 p. c. is 3 0 0 8 Which by the Table of Red. at
+10 lb. yearly Rent is 30 13 4 at 6 p. c. is 2 2 1 4 26 3 4 at 8 p. c. is 1 3 1
+9 19 1 8 at 10 p. c. is 1 1 1 8 14 0 0
+
+The years in esse may be valued as a Lease of so many years, or their value
+may be found, by subtracting the value of the years lapsed, from the value of
+the whole Lease, as was directed before in the Lease of 21 years.
+
+The value of some of the years in Reversion may also be found in this Lease,
+as is directed before in the former Lease, however to make all plain, I shall
+give one Example: As suppose, I am to find the value of 4 of the 7 years in
+Reversion in this Lease; then according to the Rule given in the Lease of 21
+years, I do thus, because 4 wants 3 of 7, I take the value of 3 years in
+Reversion, from the value of 7 in Reversion, the remainder is the value of the
+4 years required.
+
+Example.
+
+Y. q. m. d.p. The value of 7 years in Reversion at 6 l. per cent. is 2 2 1 4
+The value of 3 years at the same rate is Which subtract 0 3 2 9 Remains 1 2 1 5
+
+this Remainder being given for a Fine will make up this Lease to 17 years,
+that is 4 added to 13.
+
+A Table for the Renewing of any Number of years lapsed in a Lease for 20 years.
+12 l. 6 s. p. c. 5 per cent. 6 per cent. 8 per cent. 10 per cent. Years
+Lapsed. Years. Quarters. Months. Decimal Parts Years. Quarters. Months. Decimal
+Parts Years. Quarters. Months. Decimal Parts Years. Quarters. Months. Decimal
+Parts Years. Quarters. Months. Decimal Parts 1 0 0 1 2 0 1 1 5 0 1 0 7 0 0 2 6
+0 0 1 8 2 0 0 2 5 0 3 0 3 0 2 1 7 0 1 2 3 0 1 0 7 3 0 1 1 0 1 0 2 2 0 3 2 9 0 2
+2 3 0 1 2 9 4 0 1 2 6 1 2 1 5 1 1 1 4 0 3 2 6 9 2 2 2 5 0 2 ^ 5 2 0 1 0 1 3 0 1
+1 1 0 1 0 3 1 8 6 0 3 0 6 2 2 0 8 2 0 2 1 1 2 0 8 1 0 1 7 7 1 0 0 0 3 0 0 8 2 2
+1 4 1 3 1 9 1 1 1 8 8 1 0 2 6 3 2 1 2 3 0 1 0 2 1 0 3 1 2 2 3 9 1 1 2 5 4 0 1 8
+3 2 1 0 2 2 2 0 2 0 0 1 10 1 2 2 9 4 2 2 8 4 0 1 3 3 0 1 2 2 1 1 3 11 2 0 0 7 5
+1 1 ^ 4 1 2 0 3 2 0 8 2 3 0 0 12 2 1 1 9 5 3 2 9 5 1 0 1 4 0 0 8 3 0 2 0 13 2 3
+0 6 6 2 2 0 5 3 1 6 4 2 1 2 3 2 1 7 14 3 1 0 0 7 1 1 5 6 2 0 6 5 0 2 2 4 0 1 8
+15 3 2 2 9 8 0 1 5 7 1 0 0 5 3 0 8 4 2 2 6 16 4 1 0 6 8 3 1 9 8 0 0 0 6 2 0 0 5
+1 1 0 17 4 3 2 1 9 2 2 8 8 3 0 5 ^ 0 2 8 6 0 0 2 18 5 2 1 6 10 2 1 1 9 2 1 6 8
+0 0 4 6 3 0 2 19 6 1 2 2 11 2 0 0 10 2 0 3 8 3 1 7 7 2 1 2 Total value Total
+value Total value Total value Total value 7 1 0 8 ^^ ^ 2 5 11 1 2 6 9 3 0 8 8 2
+0 1
+
+CHAP. III.
+THE third Table for Renewing of Leases, is for the term of 40 years, it is
+calculated according to five several rates of Interest, and in it is manner of
+using differs not from the other, nevertheless an Example will be convenient,
+which therefore I shall give; as suppose there be 14 years lapsed or run out in
+a Lease for 40 years, What must I give to make up this Lease again, according
+to those several rates of Interest signified by the Table? that is, What must I
+give for 14 years in Reversion, after 26 in esse? or, What Is the present Worth
+of 14 years, beginning 26 years hence? For answer I find by the Table that the
+Fine for Renewing 14 years lapsed
+
+Y. q. m. d.p. lb. s. d. at 5 p. c. is 2 3 0 4 Which by the Table of Red. at 10
+l. yearly Rent is 27 16 8 at 6 p. c. is 2 0 0 2 20 03 4 at 8 p. c. is 1 0 1 3
+11 01 8 at 10 p. c. is 0 2 1 4 6 03 4 at 12 p. c. is 0 1 1 1 3 08 4
+
+The years in esse, as was said before, are valued as a Lease of so many years,
+as in a Lease for 40 years, if 14 years are run out, then there are 26 in esse,
+whose Value are as a Lease of 26 years, and may be found by the Table for
+Purchasing, etc.
+
+The Value of some of the years in Reversion, may be found in this Lease, by
+the same Rules that they were found by in the foregoing Leases; as if it were
+required to find the Value of 6 of the 14 years in Reversion in this Lease of
+40 years, then because 6 wants 8 of 14, I take the Value of 8 years in
+Reversion from the Value of 14 in Reversion, and the Remainder is the Value of
+the 6 years required, which will make the Lease up to 32 years.
+
+A Table for the Renewing of any Number of years lapsed in a Lease for 40 years.
+5 per cent. 6 per cent. 8 per cent. 10 per cent. 12 per cent. Years Lapsed.
+Years. Quarters. Months. Decimal Parts Years. Quarters. Months. Decimal Parts
+Years. Quarters. Months. Decimal Parts Years. Quarters. Months. Decimal Parts
+Years. Quarters. Months. Decimal Parts 1 0 0 1 7 0 0 1 1 0 0 0 5 0 0 0 2 0 0 0
+1 2 0 1 0 5 0 0 2 4 0 0 1 1 0 0 0 5 0 0 0 3 3 0 1 2 3 0 1 0 6 0 0 1 8 0 0 0 8 0
+0 0 4 4 0 2 1 3 0 1 2 0 0 0 2 5 0 0 1 2 0 0 0 6 5 0 3 0 4 0 2 0 4 0 1 0 2 0 0 1
+6 0 0 0 8 6 0 3 2 5 0 2 2 0 0 1 1 0 0 0 2 0 0 0 1 0 7 1 0 1 8 0 3 0 6 0 1 1 9 0
+0 2 5 0 0 1 2 8 1 1 1 2 0 3 2 3 0 1 2 8 0 1 0 0 0 0 1 5 9 1 2 0 7 1 0 1 1 0 2 0
+9 0 1 0 5 0 0 1 8 10 1 3 0 4 2 1 0 1 0 2 2 0 0 1 1 2 0 0 2 2 11 2 0 0 2 1 1 2 2
+0 3 0 2 0 1 1 9 0 0 2 6 12 2 1 0 1 1 2 1 4 0 3 1 4 0 1 2 6 0 1 0 1 13 2 2 0 2 1
+3 0 8 0 3 2 8 0 2 0 4 0 1 0 5 14 2 3 0 4 2 0 0 2 1 0 1 3 0 2 1 4 0 1 1 1 15 3 0
+0 7 2 0 2 9 1 1 0 0 0 2 2 4 0 1 1 7 16 3 1 1 2 2 1 2 8 1 1 1 7 0 3 0 5 0 1 2 4
+17 3 2 2 0 2 2 2 7 1 2 0 6 0 3 1 7 0 2 0 2 18 3 3 2 9 2 3 2 9 1 2 2 6 1 0 0 0 0
+2 1 1 19 4 1 1 0 3 1 0 2 1 3 1 8 1 0 1 5 0 2 2 1 20 4 2 2 3 3 2 0 8 2 0 1 2 1 1
+0 2 0 3 0 2 21 5 0 0 8 3 3 1 5 2 1 0 8 1 1 1 9 0 3 1 4 22 5 1 2 5 4 0 2 4 2 2 0
+6 1 2 0 8 0 3 2 9 23 5 3 1 5 4 2 0 6 2 3 0 5 1 3 0 0 1 0 1 4 24 6 1 0 8 4 3 2 1
+3 0 0 8 1 3 2 4 1 1 0 2 25 6 3 0 3 5 1 0 8 3 1 1 3 2 0 2 0 1 1 2 1 26 7 1 0 0 5
+2 2 8 3 2 2 1 2 1 1 8 1 2 1 3 27 7 3 0 1 6 0 2 1 4 0 0 1 2 2 2 0 1 3 0 7 28 8 1
+0 4 6 2 1 7 4 1 1 5 2 3 2 4 2 0 0 5 29 8 3 1 1 7 0 1 7 4 3 0 3 3 1 0 3 2 1 0 6
+30 9 1 2 1 7 2 2 0 5 0 2 4 3 2 1 5 2 2 1 0 31 10 0 0 5 8 0 2 7 5 2 2 0 4 0 0 1
+2 3 1 9 32 10 2 2 2 8 3 0 8 6 0 2 0 4 1 2 2 3 1 0 2 33 11 1 1 3 9 1 2 3 6 2 2 5
+4 3 1 8 3 2 2 0 34 12 0 0 9 10 0 1 3 7 1 0 5 5 1 1 9 4 0 1 5 35 12 3 0 8 10 3 0
+8 7 3 2 0 5 3 2 7 4 2 1 6 36 13 2 1 2 11 2 0 7 8 2 1 2 6 2 1 1 5 0 2 4 37 14 1
+2 0 12 1 1 2 9 1 1 0 7 1 0 4 5 3 1 0 38 15 1 0 4 13 0 2 3 10 0 1 6 8 0 0 4 6 2
+0 6 39 16 0 2 3 14 0 1 0 10 3 2 9 8 3 1 3 7 1 1 1 Total Value. Total value
+Total value Total value Total value 17 0 1 7 15 0 0 3 11 3 2 0 9 3 0 2 8 0 2 8
+
+CHAP. IV.
+A Table for the Renewing of any Number of years lapsed in a Lease for 10 years.
+17 lb. 18 s. per cent. 5 per cent. 6 per cent. 8 per cent. 10 p. cent. Years
+Lapsed. Years. Quarters. Months. Decimal Parts Years. Quarters. Months. Decimal
+Parts Years. Quarters. Months. Decimal Parts Years. Quarters. Months. Decimal
+Parts Years. Quarters. Months. Decimal Parts 1 0 0 2 3 0 2 1 4 0 2 0 7 0 1 2 5
+0 1 1 6 2 0 1 2 0 1 1 0 1 1 0 1 8 0 3 2 6 0 3 0 7 3 0 2 2 3 1 3 2 2 1 3 0 3 2 2
+0 0 1 1 0 3 4 1 0 0 0 2 2 1 7 2 1 2 3 2 0 1 0 1 3 0 4 5 1 1 1 5 3 1 1 7 3 0 1 8
+2 2 2 6 2 1 1 2 6 1 3 0 9 4 0 2 1 3 3 1 7 3 1 1 7 2 3 2 7 7 2 1 1 0 5 0 0 0 4 2
+2 2 4 0 1 5 3 2 1 9 8 2 3 2 3 5 3 1 3 5 2 0 3 4 3 2 1 4 1 1 9 9 3 2 2 1 6 3 0 2
+6 1 2 0 5 3 0 4 5 0 2 8 Total value Total value Total value Total value Total
+value 4 2 0 1 7 2 2 6 7 1 1 2 6 2 2 5 6 0 1 7
+
+THis being the last Table for Renewing of Leases, is for the term of 10
+years, the first part thereof is calculated according to the rate of about 17
+l. 18 s. per cent. so that the Fine for Renewing 4 years lapsed is one years
+value, but at other rates of Interest, the Fine for Renewing 4 years lapsed, is
+by the Table as follows, viz. the Fine for Renewing 4 years lapsed Y. q. m.
+d. p. lb. s. d. at 5 p. c. is 2 2 1 7 Which by the Table of Reduction at 10 l.
+per Ann. is 26 08 4 at 6 p. c. is 2 1 2 3 24 08 4 at 8 p. c. is 2 0 1 0 20 16 8
+at 10 p. c. is 1 3 0 4 17 16 8
+
+The years in esse are valued as before directed in the other Leases, as, if
+there be 4 years run out in this Lease of 10 years, then there are 6 years in
+esse, whose Value are as a Lease of 6 years, etc.
+
+CHAP. V.
+THE next Table is for the Reduction of the Values given in Years, Quarters,
+Months, and Decimal Parts of a Month, into Pounds, Shillings, and Pence, the
+use of it is very plain and easy, as by Examples will appear.
+
+Example.
+
+Suppose the Fine for Renewing any number of years lapsed, in any Lease to be 6
+y. 2 q. 2 m. 4 d. p. and the yearly Rent 55 l. What is this Fine in Pounds,
+Shillings, and Pence? then by the Table I find lb. s. d. against 50 l. under 2
+Quarters 25 00 0 against 50 l. under 2 Months 8 06 8 against 50 l. under 4 Dec.
+parts 1 13 4 against 5 l. under 2 Quarters 2 10 0 against 5 l. under 2 Months 0
+16 8 against 5 l. under 4 Dec. parts 0 03 4 Sum of all is 38 10 0 Then for the
+6 years Value I say, 6 times 55 l. is 330 l. which added to 38 l. 10 s. 330 00
+0 0 d. the Sum is 368 10 0
+
+Which is the Value reduced into Pounds, Shillings, and Pence required.
+
+Suppose again the Fine for Renewing any number of years lapsed in any Lease,
+to be 2 y. 3 q. 2 m. 9 d.p. and yearly Rent 156 l. then what is this Fine in
+Money? For answer I say, twice 156 is 312 l. which is the 2 years Value, then
+by the Table I find lb. s. d. against 100 l. under 3 Quarters 75 00 0 against
+100 l. under 2 Months 16 13 4 against 100 l. under 5 Dec. parts 4 03 4 against
+100 l. under 4 Dec. parts 3 06 8 against 50 l. under 3 Quarters 37 10 0 against
+50 l. under 2 Months 8 06 4 against 50 l. under 5 Dec. parts 2 01 8 against 50
+l. under 4 Dec. parts 1 13 4 against 6 l. under 3 Quarters 4 10 0 against 6 l.
+under 2 Months 1 00 0 against 6 l. under 5 Dec. parts 0 05 0 against 6 l. under
+4 Dec. parts 0 04 0 Sum is 154 13 8 The 2 years Value add, viz. 312 00 0 The
+Sum is 466 13 8 Which is the Fine reduced into Money required, in like manner
+is any other Fine reduced, at any other yearly Rent from 1 l. to 600 l. a year,
+or if it be more, it is but adding, after the same manner as is done in the
+Examples, as suppose the Rent to be 700 l. per An. then I must find the Values
+for 600 l. and for 100 l. and add them together, etc.
+
+A Table for the Reduction of the Values given in Years, Quarters, Months, and
+Decimal Parts of a Month, into Pounds, Shillings, and Pence.
+Yearly Rent. 3 Quarters. 2 Quarters 1 Quarter. 2 Months. 1 Month. lb. s. d.
+lb. s. d. lb. s. d. lb. s. d. lb. s. d. 1 0 15 0 0 10 0 0 5 0 0 3 4 0 1 8 2 1
+10 0 1 0 0 0 10 0 0 6 8 0 3 4 3 2 5 0 1 10 0 0 15 0 0 10 0 0 5 0 4 3 0 0 2 0 0
+1 0 0 0 13 4 0 6 8 5 3 15 0 2 10 0 1 5 0 0 16 8 0 8 4 6 4 10 0 3 0 0 1 10 0 1 0
+0 0 10 0 7 5 5 0 3 10 0 1 15 0 1 3 4 0 11 8 8 6 0 0 4 0 0 2 0 0 1 6 8 0 13 4 9
+6 15 0 4 10 0 2 5 0 1 10 0 0 15 0 10 7 10 0 5 0 0 2 10 0 1 13 4 0 16 8 20 15 0
+0 10 0 0 5 0 0 3 6 8 1 13 4 30 22 10 0 15 0 0 7 10 0 5 0 0 2 10 0 40 30 0 0 20
+0 0 10 0 0 6 13 4 3 6 8 50 37 10 0 25 0 0 12 10 0 8 6 8 4 3 4 60 45 0 0 30 0 0
+15 0 0 10 0 0 5 0 0 70 52 10 0 35 0 0 17 10 0 11 13 4 5 16 8 80 60 0 0 40 0 0
+20 0 0 13 6 8 6 13 4 90 67 10 0 45 0 0 22 10 0 15 0 0 7 10 0 100 75 0 0 50 0 0
+25 0 0 16 13 4 8 6 8 200 150 0 0 100 0 0 50 0 0 33 6 8 16 13 4 300 225 0 0 150
+0 0 75 0 0 50 0 0 25 0 0 400 300 0 0 200 0 0 100 0 0 66 13 4 33 6 8 500 375 0 0
+250 0 0 125 0 0 83 6 8 41 13 4 600 450 0 0 300 0 0 150 0 0 100 0 0 50 0 0 Yearl
+Rent. 1 Dec. part 2 Dec. part 3 Dec. part 1 Dec. part 5 Dec. part lb. s. d. lb.
+s. d. lb. s. d. lb. s. d. lb. s. d. 1 0 0 2 0 0 4 0 0 6 0 0 8 0 0 10 2 0 0 4 0
+0 8 0 1 0 0 1 4 0 1 8 3 0 0 6 0 1 0 0 1 6 0 2 0 0 2 6 4 0 0 8 0 1 4 0 2 0 0 2 8
+0 3 4 5 0 0 10 0 1 8 0 2 6 0 3 4 0 4 2 6 0 1 0 0 2 0 0 3 0 0 4 0 0 5 0 7 0 1 2
+0 2 4 0 3 6 0 4 8 0 5 10 8 0 1 4 0 2 8 0 4 0 0 5 4 0 6 8 9 0 1 6 0 3 0 0 4 6 0
+6 0 0 7 6 10 0 1 8 0 3 4 0 5 0 0 6 8 0 8 4 20 0 3 4 0 6 8 0 10 0 0 13 4 0 16 8
+30 0 5 0 0 10 0 0 15 0 1 0 0 1 5 0 40 0 6 8 0 13 4 1 0 0 1 6 8 1 13 4 50 0 8 4
+0 16 8 1 5 0 1 13 4 2 1 8 60 0 10 0 1 0 0 1 10 0 2 0 0 2 10 0 70 0 11 8 1 3 4 1
+15 0 2 6 8 2 18 4 80 0 13 4 1 6 ^ 2 0 0 2 13 4 3 6 8 90 0 15 0 1 10 0 2 5 0 3 0
+0 3 15 0 100 0 16 8 1 13 4 2 10 0 3 6 8 4 3 4 200 1 13 4 3 6 ^ 5 0 0 6 13 4 8 6
+8 300 2 10 0 5 0 0 7 10 0 10 0 0 12 10 0 400 3 6 8 6 13 4 10 0 0 13 6 8 16 13 4
+500 4 3 4 8 6 8 12 1^ 0 16 13 4 20 16 8 600 5 0 0 10 0 0 15 0 0 20 0 0 25 0 0
+
+CHAP. VI.
+THE way of Purchasing by Lives was commonly to reckon one Life as a Lease of 7
+years, two Lives as a Lease of 14 years, and three Lives as a Lease of 21
+years: but this way seeming unequal, there is another way which is more
+agreeable to reason, and it is this, viz. for every Life to decrease one year,
+as if one Life be reckoned as a Lease for 10 years, then two will be as a Lease
+of 19, and three as a Lease of 27 years, etc. so that at 7 l. per cent. one
+Life is reckoned worth a little above 7 years purchase, two Lives 10 years, 1
+quarter, and 1 month's purchase, etc. as the Table for Purchasing of Lives
+shows.
+
+So if you reckon one Life as a Lease of 9 years, then 2 will be as a Lease of
+17, three as a Lease of 24, etc. as is evident by the Table; and one Life will
+be worth above 6 years and 2 quarters purchase, 2 Lives 9 years and 3 quarters
+purchase, 3 Lives 11 years, 1 quarter, 2 months, and 6 Decimal Parts purchase,
+etc.
+
+So if one single Life be reckoned as a Lease of 12 years, then two will be as
+a Lease of 23, three as a Lease of 33 years, etc. so that at 6 per cent. one
+Life is worth above 8 years and a quarter's purchase, two Lives above 12 years
+and a quarter's purchase, etc. as the Table shows.
+
+Now suppose any of those Persons which have their Lives upon an Estate should
+die, to take in others to make up the Number again, is done by the Table of
+Reversions at the beginning of the Book: Example, suppose there be three Lives
+upon an Estate, which at 7 years purchase for the first Life, are valued at
+almost 12 years purchase, and as a Lease of 27 years, at 7 l. per cent. and if
+one of those Persons should die, what must be given to make up the Number
+again? then I say, one Life which is dead was as a Lease of 10 years, and
+therefore to take in a New Life, I may reckon 10 years of the 27 lapsed, and so
+take as it were a Fine for renewing
+
+A Table for the Purchasing of Lives.
+What they are worth at 7 lb. per cent. What they are worth at 7 lb. per cent.
+What they are worth at 6 lb. per cent. Number of Lives. Number of Years. Years.
+Quarters Months. Dec. parts Number of Lives. Number of Years. Years. Quarters
+Months. Dec. parts Number of Lives. Number of Years. Years. Quarters. Months.
+Dec. parts 1 10 7 0 0 3 1 9 6 2 0 2 1 12 8 1 1 6 2 19 10 1 1 0 2 17 9 3 0 1 2
+23 12 1 0 6 3 27 11 3 2 6 3 24 11 1 2 6 3 33 14 1 2 6 4 34 12 3 1 1 4 30 12 1 1
+8 4 42 15 0 2 7 5 40 13 1 0 9 5 35 12 3 2 2 5 50 15 2 2 7 6 45 13 2 1 2 6 39 13
+1 0 1 6 57 16 0 0 8 7 49 13 3 0 2 7 42 13 1 2 4 7 63 16 0 2 8 8 52 13 3 1 3 8
+44 13 2 0 6 8 68 16 1 1 2 9 54 13 3 1 6 9 45 13 2 1 2 9 72 16 1 2 0 to years
+lapsed in a Lease of 27 years, now to find this Fine, I take the Sum of the
+Reversions for 10 years in the Table under 7 l. per cent. counting 27 as 1, 26
+as 2, 25 as 3, etc. and so I find the Sum to be 2 l. 4 s. 5 d. 2 q. that is 2
+years, and almost one quarters purchase, which I may take for renewing or
+taking in a New Life; so if two Lives be dead I may reckon 19 years lapsed in a
+Lease of 27 years, and find the Sum of the Reversions for 19 years, for a Fine
+for taking in two Lives: but if there be 4 Lives upon the Estate, then at 7 l.
+per cent. and at 10 years for one Life, they will be reckoned as a Lease of 34
+years, and so I must begin at 34 to Sum the Reversions, or at 30 if one Life
+be reckoned as a Lease of 9 years, and then if one Life be dead, I must reckon
+9 years lapsed in a Lease of 30 years, if 2 Lives are dead I must reckon 17
+years lapsed in the same Lease, and if 3 are dead I must reckon 24 lapsed: so
+at 6 l. per cent. reckoning 1 Life as a Lease of 12 years, 3 Lives are as a
+Lease of 33 years, and so if one of these Lives be dead, I may reckon 12 years
+lapsed in a Lease of 33 years, if 2 Lives are dead, I may reckon 23 years
+lapsed in the same Lease, and begin at 33 to sum the Reversions, under 6 l.
+per cent. because the Lives are valued according to the same rate of Interest.
+This being understood, it will not be difficult to do the like for any other
+number of Lives, and at other rates of Interest, and number of Years for one
+Life; for you may by the Table for Purchasing of Leases, etc. make Tables for
+Purchasing of Lives according to what rate of Interest you think is most
+convenient; as suppose you reckon one Life as a Lease of 10 years, and you
+would have 5 l. per cent. profit, then that will be worth 7 years and almost 3
+quarters purchase, but at 8 l. per cent. it is worth but 6 years, and almost 3
+quarters purchase, etc.
+
+CHAP. VII.
+THE Table for Purchasing is calculated for several rates of Interest, that so
+the Purchaser may use that which is most convenient for him, as in purchasing
+of Freehold Land, 5 l. per cent. may be enough, but for Copyhold or Leases of
+Land 6 l. per cent. for Leases of Land and Good Houses 8 l. per cent. and for
+Leases of Ordinary Houses 10 l. or 12 l. per cent.
+
+The use of the Table is very plain and easy, as by Example will appear, viz.
+
+Example.
+
+What is a Lease or Annuity of 20 years worth at 5, 6, 8, 10, or 12 per cent.
+per Ann.?
+
+Y. q. m. d. p. lb. s. d. A Lease for 20 years at 5 p. c. is worth 12 1 2 5
+Which at 20 lb. per Ann. Rent is 249 3 4 6 11 1 2 6 229 6 8 8 9 3 0 8 196 6 8
+10 8 2 0 1 170 3 4 12 7 1 2 6 149 6 8
+
+To increase the Number of Years in a Lease, do thus, suppose a Landlord would
+make a Lease of Land up to 40 years, wherein his Tenant has 20 years to come,
+what is it worth? then I say, Y. q. m. d.p. a Lease for 40 years at 6 per cent.
+is worth 15 0 0 3 20 years at the same rate are worth 11 1 2 6 Which Subtract
+The Remainder is 3 2 0 7 Which is the Fine to be given to make the Lease up to
+40 years.
+
+To buy a Lease which is not to begin until your old Lease is out, as thus
+suppose a Man's Lease is out within 4 years, and he desires to have a new Lease
+of 21 years, to begin when his 4 years are out, what is this Lease worth in
+ready Money?
+
+For Answer, I add 4 years which is the time he has in his old Lease, and 21
+together, the Sum is 25, then I find the worth of these 25 years, and Subtract
+from it the Value of the 4 years, the Remainder is the Value of the said Lease
+in ready Money.
+
+Example.
+
+Y. q. m. d.p. A Lease for 25 years at 6 l. per cent. is worth 12 3 0 3 The 4
+years at the same rate are worth 3 1 2 6 Which Subtract The Remainder is the
+Value of the Lease in ready Money required, viz. 9 1 0 7
+
+A Table showing how many Years, Quarters, Months, and Decimal Parts of a
+Months Purchase any Annuity or Lease of any Land or House is Worth, according
+to several Rates of Interest, viz. according to 5, 6, 8, 10, and 12 per cent.
+5 per cent. 6 per cent. 8 per cent. 10 per cent. 12 per cent. Number of Years
+to be purchased. Years. Quarters. Months. Decimal Parts Years. Quarters.
+Months. Decimal Parts Years. Quarters. Months. Decimal Parts Years. Quarters.
+Months. Decimal Parts Years. Quarters. Months. Decimal Parts 1 0 3 2 4 0 3 2 3
+0 3 2 1 0 3 1 9 0 3 1 7 2 1 3 1 3 1 3 1 0 1 3 0 4 1 2 2 8 1 2 2 3 3 2 2 2 6 2 2
+2 1 2 2 0 9 2 1 2 8 2 1 1 8 4 3 2 0 5 3 1 2 6 3 1 0 7 3 0 2 0 3 0 0 5 5 4 1 1 0
+4 0 2 5 3 3 2 8 3 3 0 5 3 2 1 2 6 5 0 0 9 4 3 2 0 4 2 1 5 4 1 1 2 4 0 1 3 7 5 3
+0 4 5 2 1 0 5 0 2 4 4 3 1 4 4 2 0 7 8 6 1 2 5 6 0 2 5 5 3 0 0 5 1 1 0 4 3 2 6 9
+7 0 1 3 6 3 0 6 6 1 0 0 5 3 0 1 5 1 0 9 10 7 2 2 6 7 1 1 3 6 2 2 5 6 0 1 7 5 2
+1 8 11 8 1 0 7 7 3 1 6 7 0 1 6 6 1 2 9 5 3 2 3 12 8 3 1 4 8 1 1 6 7 2 0 4 6 3 0
+7 6 0 2 3 13 9 1 1 7 8 3 1 2 7 3 1 8 7 0 1 2 6 1 2 1 14 9 3 1 7 9 1 0 5 8 0 2 9
+7 1 1 4 6 2 1 5 15 10 1 1 5 9 2 2 5 8 2 0 7 7 2 1 2 6 3 0 7 16 10 3 1 0 10 0 1
+2 8 3 1 2 7 3 0 8 6 3 2 17 11 1 0 2 10 1 2 7 9 0 1 5 8 0 0 2 7 0 1 18 11 2 2 2
+10 3 0 9 9 1 1 5 8 0 2 4 7 1 0 19 12 0 1 0 11 0 1 9 9 2 1 2 8 1 1 3 7 1 1 20 12
+1 2 5 11 1 2 6 9 3 0 8 8 2 0 1 7 1 2 21 12 3 0 8 11 3 0 1 10 0 0 2 8 2 1 7 7 2
+0 7 22 13 0 1 9 12 0 0 4 10 0 2 4 8 3 0 2 7 2 1 7 23 13 1 2 8 12 1 0 6 10 1 1 4
+8 3 1 5 7 2 2 6 24 13 3 0 5 12 2 0 5 10 2 0 3 8 3 2 8 7 3 0 4 25 14 0 1 1 12 3
+0 3 10 2 2 1 9 0 0 9 7 3 1 1 26 14 1 1 4 13 0 0 0 10 3 0 7 9 0 2 0 7 3 1 7 27
+14 2 1 7 13 0 2 5 10 3 2 2 9 0 2 8 7 3 2 3 28 14 3 1 7 13 1 1 8 11 0 0 6 9 1 0
+6 7 3 2 7 29 15 0 1 6 13 2 1 0 11 0 1 9 9 1 1 3 8 0 0 2 30 15 1 1 3 13 3 0 1 11
+1 0 1 9 1 2 0 8 0 0 6 31 15 2 1 1 13 3 2 2 11 1 1 2 9 1 2 7 8 0 1 0 40 17 0 1 8
+15 0 0 3 11 3 2 0 9 3 0 3 8 0 2 9 50 18 1 0 0 15 2 2 7 12 0 2 8 9 3 2 0 8 1 0 6
+60 18 3 2 2 16 0 2 0 12 1 1 5 9 3 2 6 8 1 0 9 70 19 1 1 1 16 1 1 6 12 1 2 3 9 3
+2 8 8 1 0 9 80 19 2 1 2 16 2 0 1 12 1 2 7 9 3 2 9 8 1 1 0 90 19 3 0 0 16 2 1 0
+12 1 2 8 9 3 2 9 8 1 1 0 Fee Simple. Fee Simple. Fee Simple. Fee Simple. Fee
+Simple. 20 0 0 0 16 2 2 0 12 2 0 0 10 0 0 0 8 1 1 0
+
+How to buy the Reversion of any Lease or Annuity.
+Although this may be done by the Table of Reversions at the beginning of the
+Book, yet I think it will not be amiss, if I show how it may be done by the
+Tables for Purchasing also.
+
+Suppose you are to buy the Reversion of a Lease after 6 years, that is if it
+be 6 years before you commence, what is the present worth of a Lease suppose of
+30 years at 6 per cent.? then for Answer look the Value of the whole Lease,
+which will Y. q. m. d.p. be found to be 13 3 0 1 Then find the Value of the 6
+years which will be Which Subtract 4 3 2 0 The Remainder is the Value of the
+Reversion required, viz. 8 3 1 1
+
+The Value of the years lapsed or in Reversion of any Lease, may also be found
+by the Table for Purchasing for the Value of the years in esse, subtracted from
+the Value of the whole Lease, the Remainder is the Value of the years in
+Reversion, as is showed in the Preface; therefore suppose in a Lease of 31
+years there be 12 years lapsed, what must be given to renew this Lease again at
+6 per cent.? then I find the Y. q. m. d.p. value of the whole Lease to be 13 3
+2 2 And because there are 12 years lapsed, there are 18 years in esse whose
+value is Which Subtract 10 3 0 9 The Remainder is the value of the years in
+Reversion required, viz. 3 0 1 3 Years. The increase of 1 lb. yearly at 6 per
+cent. The Value of 1 l. Annuity to be paid at the end thereof at 6 l. per cent.
+What Annuity 1 lb. ready Money will purchase at 6 l. per cent. lb. s. d. q. lb.
+s. d. q. lb. s. d. q. 1 1 1 2 1 1 0 0 0 1 1 2 0 2 1 2 5 2 2 1 2 0 0 10 6 0 3 1
+3 9 3 3 3 8 0 0 7 6 0 4 1 5 3 0 4 7 5 3 0 5 9 0 5 1 6 9 0 5 12 8 3 0 4 9 0 6 1
+8 4 1 6 19 6 1 0 4 2 0 7 1 10 0 3 8 7 10 1 0 3 7 0 8 1 11 10 2 9 17 11 1 0 3 2
+0 9 1 13 9 1 11 9 9 3 0 2 11 0 10 1 15 9 3 13 3 7 0 0 2 18 0 11 1 17 11 2 14 19
+5 0 0 2 6 1 12 2 0 3 0 16 17 4 2 0 2 4 2 13 2 2 7 3 18 17 7 2 0 2 3 0 14 2 5 2
+2 21 0 3 2 0 2 1 3 15 2 7 11 0 23 5 6 0 0 2 0 2 16 2 10 9 2 25 1 5 0 0 1 11 2
+17 2 13 10 0 28 4 3 0 0 1 10 3 18 2 17 1 0 30 18 1 0 0 1 10 0 19 3 0 6 0 33 15
+2 0 0 1 9 1 20 3 4 2 0 36 15 8 0 0 1 8 3 21 3 7 11 3 39 19 10 0 0 1 8 3 22 3 12
+0 3 43 7 10 0 0 1 7 3 23 3 16 4 2 46 19 10 0 0 1 7 1 24 4 0 11 2 50 16 3 2 0 1
+7 0 25 4 5 10 0 54 17 3 1 0 1 6 2 26 4 10 11 3 59 3 1 0 0 1 6 1 27 4 16 5 1 63
+14 1 0 0 1 6 0 28 5 2 2 3 68 10 6 2 0 1 5 3 29 5 8 4 0 73 12 9 1 0 1 5 2 30 5
+14 10 0 79 1 2 0 0 1 5 1
+
+CHAP. VIII.
+THE use of these Tables aforegoing is easy as by Examples will appear.
+
+The first is this, suppose 30 l. be put out for 20 years, what will it amount
+unto in that time at 6 per cent. Compound Interest?
+
+Then I look against 20 years, and find under the increase of 1 l. etc. 3 l. 4
+s. 2 d. which shows that 1 l. in 20 years time will increase to 3 l. 4 s. 2 d.
+which I multiply by 30 thus, 30 times 3 l. is 90 0 0 30 times 4 s. is 6 0 0 30
+times 2 d. is 0 5 0 Sum 96 5 0 that is, 30 l. in 20 years time at 6 per cent.
+Compound Interest will amount to 96 l. 5 s. 0 d.
+
+The use of the Second is thus, What will an Annuity of 30 l. forborne 20 years
+amount to in that time? then for Answer I look against 20 years, and under the
+value of 1 l. Annuity, etc. I find 36 l. 15 s. 8 d. which 36 l. 15 s. 8 d. is
+the value of 1 l. Annuity forborne 20 years, then I multiply 36 l. 15 s. 8 d. by
+30 l. thus, lb. s. d. 30 times 36 l. is 1080 00 0 30 times 15 s. is 22 10 0 30
+times 8 d. is 1 00 0 Sum 1103 10 0 that is, 36 l. Annuity forborne 20 years
+will at the end of that term amount to 1103 l. 10 s. 0 d.
+
+The use of the third Table is thus, suppose a Gentleman has 300 l. by him
+with which he is willing to purchase an Annuity for 20 years, What Annuity will
+that purchase at 6 per cent? For Answer I look against 20 years, and find under
+What Annuity 1 l. ready Money, etc. 1 s. 8 d. 3 q. which shows that 1 l. ready
+Money will purchase an Annuity of 1 s. 8 d. 3 q. for 20 years, which I multiply
+by 300 lb. thus, lb. s. d. 300 Shillings are 15 00 0 300 times 8 d. is 10 00 0
+300 times 3 q. is 00 18 9 Sum 25 18 9 that is, 300 l. ready Money will
+purchase an Annuity of 25 l. 18 s. 9 d. for 20 years at 6 per cent.
+
+CHAP. IX. Of the Difference which seems to be, between Long and Short Leases.
+SEeing 8 years and an half's purchase is to be given for a Lease of 20 years,
+at 10 l. per cent. and but 10 years purchase for a Lease of 100 years at the
+same rate of Interest, that is but for a year and an half's purchase more, to
+make the Lease 80 years more; it may seem, that he which gives 10 years value
+for the Lease of 100 years, has abundantly a better Bargain than he which gives
+8 years and an half's purchase for the Lease but of 20 years; but then let him
+consider that in 100 years time his Money is returned but 10 times, whereas in
+the Lease of 20 years his Money is returned indeed but twice and 3 years over,
+that is twice in 17 years, but when this Lease is out, he may purchase such
+another, etc. and so in an 200 years he may receive his purchase Money almost
+12 times, but then on the other side let him consider that but 7 of these
+returns are clear gains, for he gives 1 for every 20 years, whereas in the
+Lease of 100 years he has 9 returns of his Principal Money clear gains, which
+consideration may still make for the longer Lease to be the best; but then let
+him that buys this long Lease further consider that although he thinks he gives
+but little more Money for his 100 years Lease, than he does, that buys the 20
+years Lease, seeing he has 5 times as many years in his Lease, let him
+consider I say the increase of his Money for that time, and that he is out of
+his little Money for a long time; so although he which buys one after another
+the 5 Leases of 20 years a Lease, is out of a great deal more Money, take them
+altogether, yet his Money is out but 20 years at a time: from these
+Considerations it will appear that there is really no difference between a long
+Lease and a short Lease, if the same rate of Interest in both be observed; for
+though there may be but little difference between their values, yet the great
+difference of their term of years will countervalue that, for it is evident
+that a little Money in a longer time, will amount to as much as a greater Sum
+in a shorter time: but yet notwithstanding these Considerations I grant there
+may be other Considerations in which a long Lease may be most profitable to the
+Tenant, whether it be a Lease of Land or Houses, for if he improves, or
+repairs, or builds, in a long Lease it is certain, he has the longer time to
+enjoy the fruit of his Labor: so a short Lease to the Landlord may be most
+profitable, or at least most convenient, as for Colleges, etc. who live upon
+their Fines, and are in continual expense of Money, for them it is certain that
+a frequent return of Fines is best.
+
+Rules concerning Free-holds.
+DIvide 100 by the Price of the Purchase of the Fee Simple, the Quotient shows
+the rate of Interest, as if the Fee Simple be 20 years purchase, then 100 l.
+divided by 20, the Quotient is 5 l. for the rate of Interest.
+
+Or if you divide 100 by the rate of Interest which you desire to have in
+buying any thing, the Quotient shows how many years purchase you may give for
+it, thus if you desire to have 8 per cent. profit, then divide 100 by 8 the
+Quotient is 12, that is 12 years and an half's purchase, and so many years
+purchase may you give and make 8 l. per cent. profit.
+
+By Decimals; Divide the Annual Rent by the bare rate of Interest proposed.
+
+Example.
+
+400 l. per An. at the rate of 6 per cent. is worth 6666. thus,06) 400,00 (6666.
+
+If the Rent be half, yearly, or quarterly, divide by,0296. and,0146. which is
+the Interest of 1 l. for a Quarter, as,0296. is the Interest of 1 l. for half a
+year at 6 per cent, Compound Interest.
+
+A Table showing the Interest of any Sum of Money from 1 s. to 100 l. from a
+Day to a Year, at 6 l. p. c. per An. Simple Interest.
+A Day A Week 1 Mon. ^ Mon 6 Mon A year. d. c. s. d. c. s. d. c. l. s. d. c. l.
+s. d. c. l. s. d. c. Shillings. 1 0 0 0 0 1 0 0 6 0 0 0 18 0 0 0 36 0 0 0 72 2
+0 0 0 0 3 0 0 12 0 0 0 30 0 0 0 72 0 0 1 44 3 0 0 0 0 4 0 0 18 0 0 0 54 0 0 1 8
+0 0 2 16 4 0 0 0 0 5 0 0 24 0 0 0 72 0 0 1 44 0 0 2 88 5 0 1 0 0 7 0 0 30 0 0 0
+90 0 0 1 80 0 0 3 60 6 0 1 0 0 8 0 0 36 0 0 1 8 0 0 2 16 0 0 4 32 7 0 1 0 0 10
+0 0 42 0 0 1 20 0 0 2 52 0 0 5 4 8 0 1 0 0 11 0 0 48 0 0 1 44 0 0 2 88 0 0 5 76
+9 0 1 0 0 12 0 0 54 0 0 1 62 0 0 3 24 0 0 6 48 10 0 2 0 0 13 0 0 60 0 0 1 80 0
+0 3 60 0 0 7 20 Pounds. 1 0 4 0 0 27 0 1 20 0 0 3 60 0 0 7 20 0 1 2 40 2 0 8 0
+0 55 0 2 40 0 0 7 20 0 1 2 40 0 2 4 80 3 0 12 0 0 82 0 3 60 0 0 10 80 0 1 9 60
+0 3 7 20 4 0 15 0 1 10 0 4 80 0 1 2 40 0 2 4 80 0 4 9 60 5 0 19 0 1 38 0 6 0 0
+1 6 0 0 3 0 0 0 6 0 0 6 0 23 0 1 65 0 7 20 0 1 9 60 0 3 7 20 0 7 2 40 7 0 17 0
+1 93 0 8 40 0 2 1 20 0 4 2 40 0 8 4 80 8 0 31 0 2 21 0 9 60 0 2 4 80 0 4 9 60 0
+9 7 20 9 0 35 0 2 48 0 10 80 0 2 8 40 0 5 4 80 0 10 9 60 10 0 39 0 2 76 1 0 0 0
+3 0 0 0 6 0 0 0 12 0 0 20 0 79 0 5 52 2 0 0 0 6 0 0 0 12 0 0 1 4 0 0 30 1 18 0
+8 28 3 0 0 0 9 0 0 0 18 0 0 1 16 0 0 40 1 38 0 11 4 4 0 0 0 12 0 0 1 4 0 0 2 8
+0 0 50 1 97 1 1 80 5 0 0 0 15 0 0 1 10 0 0 3 0 0 0 60 2 36 1 4 57 6 0 0 0 18 0
+0 1 16 0 0 3 12 0 0 70 2 76 1 7 33 7 0 0 1 1 0 0 2 2 0 0 4 4 0 0 80 3 15 1 10 9
+8 0 0 1 4 0 0 2 8 0 0 4 16 0 0 90 3 55 2 0 85 9 0 0 1 7 0 0 2 14 0 0 5 8 0 0
+100 3 94 2 3 61 10 0 0 1 10 0 0 3 0 0 0 6 0 0 0
+
+The Use of the foregoing Table.
+Note that for the greater exactness a Penny is divided into 100 parts, so that
+25 parts make a Farthing, 50 an Halfpenny, and 75 parts 3 Farthings.
+
+Example.
+
+What is the Interest of 100lb. for 9 Months, 2 Weeks, and one Day?
+
+lb. sh. d. parts. lb. sh. d. Intr. of 100lb. for 6 Mon. 3 0 0 0 viz. 4 14 11
+4/23 Intr. of 100lb. for 3 Mon. 1 10 0 0 Intr. of 100lb. 2 week. 0 4 7 22 Intr.
+of 100lb. for 1 Day 0 0 3 94 Sum 4 14 11 16
+
+Example II.
+
+What is the Interest of 150 lb. 10 sh. (...) 6 Months, 1 Week, and 1 Day?
+
+lb. s. d. p. Interest of 100 l. for 6 Mon. 3 0 0 00 Interest of 100 l. for 1
+Week 0 2 3 61 Interest of 100 l. for 1 Day 0 0 3 94 Interest of 50 l. for 6
+Mon. 1 10 0 00 Interest of 50 l. for 1 Week 0 1 1 80 Interest of 50 l. for 1
+Day 0 0 1 97 Interest of 10 s. for 6 Mon. 0 0 3 60 Interest of 100 s. for 1
+Week 0 0 0 13 Interest of 10 s. for 1 Day 0 0 0 02 Sum 4 14 3 100
+
+Which is the Interest of 150 l. 10 s. for 6 Months, 1 Week, and 1 Day.
+
+FINIS.
+

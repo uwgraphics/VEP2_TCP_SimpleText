@@ -1,0 +1,457 @@
+The manner of finding of the true Sum of the Infinite Secants of an Arch, by
+an Infinite Series.
+Which being found and compared with the Sum of the Secants found, by adding of
+the Secants of whole Minutes, or Centesmes of a Degree, from a Table of Natural
+Secants, do plainly demonstrate that Mr. Edward Wright's Nautical Planisphere
+is not a true Projection of the Sphere.
+By RICHARD NORRIS Mariner.
+IN the Year 1599 Mr. Wright's Book Entitled, The Correction of Errors in
+Navigation was printed, in which he says and takes for granted, that if a
+Spherical Superficies, with Meridians, Parallels, Rumbs, and the whole
+Hydrographical Description drawn thereupon, to be inscribed into a Concave
+Cylinder (their Diameters being equal) in such manner that the Extension of the
+Spherical Superficies may be equal in every part thereof, as much in Latitude
+as in Longitude, applying and joining it self to the Concave Superficies of the
+Cylinder round about, and all along toward either Pole; each Parallel upon
+this Spherical Superficies increasing successively from the Aequinoctial
+toward either Pole, until it come to be of equal Diameter with the Cylinder,
+and consequently the Meridians, still inclining themselves, until they come to
+be as far distant, every where each from the other, as they are at the
+Equinoctial: This Cylindriack Sphere being laid open, makes a plain
+Parallellogram, on which all places do stand in the same Longitude, Latitude,
+Rumb, and Distance, as they were on the Globe.
+
+And because the Spherical Superficies is extended in every part thereof
+equally, That is as much in Latitude as in Longitude, until it applied it self
+round about the Concavity of the Cylinder; therefore at every point of Latitude
+in this Planisphere, a part of the Meridian keeps the same proportion to the
+like part of the Parallel, that the like part of the Meridian and Parallel have
+each to the other on the Globe. Hence he demonstrates that the Sum of all the
+Secants between any two Latitudes, divided by Radius, is the length of the
+Meridian Line contained between these two Latitudes, and made his Table of
+Meridional parts by the perpetual Addition of the Natural Secants of every
+whole minute, beginning with the Secant of one minute, and ending with the
+Secant of 89, 59, which being done, he finds fault with it, and says it was
+something too great.
+
+Then seeing Mr. Wright found fault with his own Table, that Learned
+Mathematician Mr. William Oughtred took it into Examination, and concluded that
+the true Sum of the Secants divided by Radius, is the length of the Meridian
+line, the finding of which he long endeavored, but never attained it. Then he
+thought that if a minute were divided into Ten thousand equal parts, and a
+Table of Natural Secants made to all those minute parts, then those Secants
+being added together, their Sum (as he concluded) would be so near the true Sum
+of the infinite Secants, that no sensible errors could ensue (but never
+considered, that though a Table of Natural Secants should be made to the least
+imaginable parts of a Circle, that the Sum of those Secants made by Addition,
+would exceed the true Area of the Secants space (which is the true Sum of those
+infinite Secants he sought for) by more than half the Sum of the first
+difference of all the Secants of those Minute Parts (which I shall demonstrate
+in this Paper) but seeing the making of such a Table of Natural Secants would
+be extremely tedious, therefore he desisted with this Consideration, that the
+decrease would happen in the Decimal parts, remote from degrees.
+
+Moreover, though Mr. Oughtred gave over thinking that the Area of the Secants
+space was past finding out, yet Mr. John Collins continued in the Inquiry, and
+sought the Solution of that Problem himself, and communicated it to all others,
+such as he thought were or would be capable of Solving of Problems of that
+Nature. In the Year 1666 Mr. Collins communicated it to me, and told me that if
+the true Sum of the Secants were found, we should have the true length of the
+Meridian line, on Mercators Chart.
+
+Again in the Year 1668, the said Mr. Collins Communicated this Problem to
+James Gregory (of Aberdeen in Scotland) who came and was Resident in London
+some months in his return from Padoua, where he writ the true Quadrature of the
+Circle and Hyperbola, his ( Geometriae pars Universalis, and his Optics) who
+solved this Problem, and Printed it the same year in London, in his
+Exercitationes Geometricae, in which after a long and intricate Demonstration,
+to prove that the Meridian line on the Planisphere, est Scala Logarithmorum
+Excessuum, quibus secantes Latitudinum superant earundem tangentes posito radio
+loco unita. He gives us to find the whole Sum of the Secants, this Rule, As the
+Radius is to of the Periphery of a Circle: So is the Square of Radius to the
+whole Sum of the Secants; in Fol. 19, and sends us to the Second Proposition
+of his Geometrical part Universalis, for its Demonstration. Now he that works
+by this and finds the Sum of the Secants, and thence to find the length of the
+Meridianline, divides it by the Radius, shall find in the Quotient no more nor
+less than the of of the Periphery, which I Demonstrate thus: put the Radius= a
+and of the Periphery= b, then it is, As a. baa. baa / a=b a and ba / a=b= the
+Periph. which was to be demonstrated.
+
+To find the Sum of the Secants of any Arch less than of the Periph. his Rule
+is thus, As the Sine of the Arch is to the length of the Arch, so is the
+Rect-Angle made of the Sine of the Arch and the Radius, to the Sum of the
+Secants of that Arch; which divided by Radius, the Quotient will be=to the
+length of the given Arch, as in the last. Put the Rightsine of the Arch= a the
+length of the Arch= b, and the Radius= d; now the Demonstration will be as
+follows,
+
+As a. badb / a=d b. and db / d=b=the length of the Arch Q E.
+Soon after Mr. Gregory's Book was Published, Mr. Collin's desired Dr. B^rrow
+to take the Problem of finding the true Sum of the Secants into his
+consideration, which he did, and verified what Mr. Gregory had published before
+false, with a clear Mathematical Demonstration, which is the Third Proposition
+of the Appendix to his 12th Lecture fol. 111, and 166th Figure.
+
+The reason why both those able Mathematicians gave a false Solution of this
+Problem, was because neither of them did understand what kind of Figure that
+was whose Area they sought, which appears by their own Figures; from whence it
+is plain that both of them did force all those Secants that do pass from the
+Center through every of the least imaginable parts contained in a Quadrant, to
+stand perpendicular upon the length of the Radius, which is impossible: for how
+can the length 1571 stand at length upon the length of the 1000 without folding
+or standing double in some place or other on the Line: This is both their
+Cases, for they both confine the Secants of the whole Quadrant to stand
+perpendicular upon the Radius, whereas they must stand perpendicular upon of
+the Periphery of the whole Circle, then the Curve Line prescribed by the
+extremity of the Secants, is equal to the Tangent of the Arch; and the extreme
+Secant is the Secant of the Arch, the other side of the Figure is the Radius.
+
+This I shall Demonstrate, and thence show how the true Area of this Figure is
+found, which is the true Sum of the Secants.
+
+Construction, First describe the Semicircle ABED, which we do suppose to roll
+as a Wheel, till that the Point E falls in F, Bin C, A in G, and D in K, in
+which motion the Point E descibes the Curve ErF, B the Curve BC, and D the
+Curve DoK. Now because the Semicircle ABED is supposed to roll upon the Line
+BF, therefore BF is equal to the length of the part of the Periphery of a whole
+Circle=BE, and the Curve Line described by the Points E, B, and D, are Segments
+of the Cycloid, by Dr. Wallis on the Cycloid; next continue the Line BF
+infinitely toward R, then is FR a Tangent Line; now from G the Center, draw
+the Secants Gab, Gdl and Grx, and imagine the space GFRG, which contains all
+those Secants that can possibly be, or imagined possible to be drawn from the
+Center G to the Tangent Line FR, to be drawn; then draw the right Sines ac, de,
+and rz, and imagine all the rest to be drawn; this done, let the Semicircle
+GCFK be supposed to roll upon the Tangent-Line FR until the Point a, in the
+Arch do fall in a on the Tangent-Line, d in d, and r in r, and also the Point K
+in I; then is FI=in length to the Quadrant FK. Now because that by the 16th of
+the Third of Euclid, All Lines drawn from the Center of a Circle, and extended
+beyond the Circle, that Line cuts the Periphery of that Circle at Right-Angles;
+therefore the Secants Gab, Gdl, and Grx, do cut the Periphery FK at
+Right-Angles in a, d, and r; whence it is plain that when the Semicircle GCFK
+is roul'd so far on the Tangent Line FR, that the Point a in the Arch comes to
+fall on the Tangent Line in a, then will the Center G be the second G toward
+the left hand, and the Secant of the Arch F a; that is, the Line Gab shall
+stand perpedicular upon the Line GG. Again, when the Semicircle GCFK is roul'd
+so far on the Tangent-Line FR, that the Point d in the Arch falls on the
+Tangent-Line in d, then will the Center G be the third G, and the Secant Gdl
+will stand perpendicular upon the Line GG. Thirdly, when the Semicircle GCFK
+is roul'd so far on the Tangent-Line, the Point r in the Arch falls on the
+Tangent-Line in r, then will the Center G be the fourth G, and the Secant Grx
+will stand perpendicular upon the Line GG. Fourthly and Lastly, when the
+Semicircle GCFK is roul'd so far that the Point K falls in I, then will the
+Center G be last toward the left hand; now because K is the last Point of the
+Quadrant, C falls in H, and F in L, therefore the Secant of this Arch GIR is an
+infinite Line. Thus have I not only showed how by the motion of the Semicircle
+GCFK to set the whole Sum of the Secants which do naturally issue from G the
+Center of the Circle, and terminate at the Tangent-Line FR, perpendicular upon
+the Base GG, whose length is=FK the of the Periphery of the Circle, and made of
+a Triangular Figure of the Secants, viz. GFR, the four Lined Figure, viz.
+FG=Radius, GG=FK=the of the Periphery of the Circle. GR the extreme Secant of
+the Quadrant FK, and the Curve. Line FR=the Tangent Line FR; the Area of this
+Figure FGGRF is the true Sum of the infinite Secants required.
+
+But in order to the finding of the true Sum of the Secants of any Arch, I
+shall first show what kind of Figures the true Sums of the Right and Versed
+Sines do make, and also show how to find the true Sum of the Right and Versed
+Sines, and also to find the true Sums of the Right and and Versed Sines of any
+Arch, and then proceed to the Operation.
+
+First, When the Semicircle GCFK is roul'd so far, that the Point a in the
+Arch do fall in the Point a in the Tangent-Line, FR then is ac the Right Sine
+of the Arch Ka laid on the Secant Gab from a downwards to c.
+
+Secondly, When the Semicircle GCFK is roul'd so far that the Point d in the
+Arch does fall in the Point d in the Tangent-Line FR then is de the Right Sine
+of the Arch Kd, laid on the Secant Gdl from d to e.
+
+Thirdly, when the Semicircle GCFK is roul'd so far that the Point in the Arch
+does fall in r on the Tangent-Line FR, then is zr laid on the Secant Grx from c
+to z, and thus by this motion all the Sum of the Right Sines of the Quadrant FK
+are imagined to be set perpendicular downward on the Quadrant FK extended at
+length=FI, which terminates in the Curve Line Gcez I; therefore the Area of the
+Figure FG cez IF is equal to the three Lined Figure DoKED=the Square of
+Radius=the Sum of the Right Sine, by the first Corollary of the third
+Proposition of Honorato Fabrio Opusculum Geometricum. Now the Right Sine ae is
+the Sine of the Arch Ka; therefore ac is the Sine Complement of the Arch Fa,
+and the Right Sine de is the Sine of the Arch Kd; therefore de is the Sine
+Complement of the Arch Fd, and the Right Sine rz is the Sine of the Arch Kr;
+therefore zr is the Sine Complement of the Arch Fr, which is to be imagined of
+all the rest. Moreover the Versed Sine of an Arch is the difference between the
+Sine Complement of that Arch and the Radius. Therefore Ga=GF=Radius -
+ac=Gc=Versed Sine of the Arch Fa and Gd=GF=Radius - de=Ge=Versed Sine of the
+Arch Fd and Gri=GF=Radius - rz= Gz=Versed Sine of the Arch Fr
+
+
+Which is to be imagined of all the rest; therefore the Figure Gcez IGG is
+equal to the whole Sum of the Versed Sines.
+
+Now to find the whole Sum of the Versed Sines.
+
+Put the Radius GF=10000000, then is FI=15707913, Then GF=10000000 x
+FI=15707913=GFIGG=157079130000000.
+
+But it is evident by Construction, that Gcez IFG the whole Sum of the Right
+Sines + Gcez IGG the Sum of the Versed Sine is=Rect-Angle GFIGG=157079130000000
+From which Substract G^IFG=100000000000000 the Sum of the Right Sine, whose
+Differen is G^IGG=057079130000000 the whole Sum of the Versed Sines QE.
+
+
+Now to find the Sum of the Right Sines of any Arch desired, Honorato Fabrii
+has by the 5th Proposition of his Opusculum Geometricum Demonstrated the
+following Rule. As the Radius is to the Versed Sine of an Arch so is the whole
+Sum of the Right Sines, to the Sum of the Right Sine of the Arch required.
+
+Example. In the Parallellogram GFIGG let there be given the whole Sum of the
+Right Sine Gcez IFG=100000000000000, the Versed Sine of 60 d. eG=05000000, and
+the Radius GF=10000000, to find the Sum of the Sine contained in the Arch of 60
+d. 00 m. Iacezl.
+
+The Operation. As the Radius -- GF=10000000 Is to the Versed Sine of 60 d. 00
+m. -- lG=05000000 So is the whole Sum of the Right Sines Gcez
+IFG=100000000000000 To the Sum of the Right Sine of 60 d. 00 m.
+lacezI=050000000000000
+
+
+Here we are to Note, that by Construction the Rect-Angle made by the Radius
+and the Length of an Arch, is ever equal to the Sum of the Sine Complement of
+an Arch + the Sum of the Versed Sine of that Arch; therefore to find the Sum of
+the Sine Complements of the Arch Fa=30 d. 00 m. it is Gcez IFG=100000000000000
+- Iacezl=050000000000000= FacGF=050000000000000 the Sum of the Sine Complements
+of the Arch Fa=30 d. 00 m. which was desired.
+
+Hence to find the Sum of the Versed Sines of the Arch Fa 30 d. 00 m. viz. the
+Area of the Figure GcG, I multiply the length of the Arch Fa=5235988 by the
+Radius GF=10000000, that Product is equal to the Parallelogram
+FaGGF=52359880000000 from which PacGF=050000000000000 the Sum of the Sine
+Complement of the Arch Fa=30 d. 00 m. being subtracted, the Remainer will be
+GcG=2359880000000 the Sum of the Versed Sine of the Arch Fa=30 d. 00 m.
+
+Corollary. The Rect-Angle made by Radius, and the Right Sine of an Arch is
+equal to the Sum of the Sine Complement of that Arch.
+
+The common Rule to find the Secant of an Arch by the Right Sines, is thus, As
+the Cosine of an Arch, is to the Radius, so is the Radius to the Secant of
+that Arch: which stands by the Figure thus, As ac:GFGF:Gb. But better thus, put
+the Radius GF=1, and the Versed Sine of an Arch= a, then the Sine Complement of
+an Arch will be 1 -- a; therefore it is as 1 -- a:11:1/1 -- a which being
+divided, the Quotient will be 1 + a + a2 + a3 + a4 + a5 + a6 + a7 + a8 + a9 +
+a10 + a11, etc. the Secant of the First Part upon the Arch.
+
+Whence its manifest the Secant of an Arch is a Series of continual
+Proportionals, whose Termination is in the Curve Line FblxR; which by the
+Figure is as Gr Radius, is to r 3 the Versed Sine of the Arch, so is r 3 to 3.7
+the fourth proportional: And as r 3:3.73.7:7.8. And again, as 3.7:7.87.8:8.2,
+etc. whose Termination is in x; the Sum of the Secants are found by adding of
+the first to the second, the second to the third, as follows, The first=1 + a
++ a2 + a3 + a4 + a5 etc.=3 + 6 a + 14 a2 + 36 a3 + 98 a4 + 276 a5 The second=1
++ 2 a + 4 a2 + 8 a3 + 16 a4 + 32 a5 etc.=3 + 6 a + 14 a2 + 36 a3 + 98 a4 + 276
+a5 The third=1 + 3 a + 9 a2 + 27 a3 + 81 a4 + 243 a5 etc.=3 + 6 a + 14 a2 + 36
+a3 + 98 a4 + 276 a5
+
+
+Moreover, though the Secants space is not the very same with the Hyperbolick
+space, yet it is of the same nature, as it appears by the dividing of an
+Unite, by an Unite less (...) the quantity assigned. Therefore the Secant space
+falls under an infinite Series compounded of Ingredients of the same nature,
+and as proper to this Problem as that of the Hyperbola; for in the Hyperbola we
+have a Square made of the Difference between the Divisor and an Unite, whose
+half is an equal sided Plain Triangle or half Square. But in this Problem the
+Difference between the Sine Complement of an Arch, (the Divisor) and the
+Radius, is equal to the Versed Sine of that Arch, whose length is ever less
+than the length of the Arch to which it belongs, in the place of half the
+Square in the Hyperbola. I have a Right Angled Plain Triangle, whose Base is
+the length of an Arch, and the Perpendicular the Versed Sine belonging to that
+Arch, and the Hypotenuse is a Curve-Line which falls within a straight Line,
+the Area of this mixed Right-Angled Plain Triangle is the Sum of the Versed
+Sine of the Arch on which they stand; this Sum of the Versed Sines, I call the
+P2 that is half of the second Power; I put P to signify Power, because the
+Base is ever longer than the Perpendicular. Now to proceed, I double the Sum of
+the Versed Sines, which being doubled makes a plain Parallellogram, which
+being multiplied by the Versed Sine of the Arch, that Product is a long Cube or
+Parallellopipedon, which I divide by 3, and that Quotient I call one third of
+the third Power, which slands thus P3; then this Parallelopipedon being
+multiplied by the aforesaid Versed Sine, and that Product divided by 4 that
+Quotlent shall be the of the Squared Square, or of the fourth Power, which
+stand thus P4, thus by the continual Multiplication of the several Products by
+the said Versed Sine; and then dividing each Product by the Index of the Power,
+that is the third Product by 3; the fourth Product by 4, the fifth by 5, etc.
+which I put thus P3, P4, P5, P6, 1/7 P7, P8, etc.
+
+Moreover, for your better Understanding of the Solution of this Problem
+according to Dr. Wallis on the Quaderature of the Hyperbola.
+
+We put 1 + 1 + 1 etc.=Radius x length of the Arch=A We put a + 2 a + 3 a
+etc.=Sum of the Versed Sines -- = P2 We put a2 + 4 a2 + 9 a2 etc.=
+Parallellopipedon -- = P3 We put a3 + 8 a3 + 27 a3 etc.= of the Squared Square
+-- = P4 We put a4 + 16 a4 + 81 a4 etc.= of the Surd Solid -- = P5
+Hence it is plain that the whole Sum of the Secants GRxlbFG is equal to the
+infinite Sum of A + P2 + P3 + P4 + P5, etc.
+
+Then for Example, Let it be required to find the Sum of the Secants of the
+Arch Fa=30 d. 00 m. which is the Area of the space GbFG.
+
+First, In order to the Operation, I multiply the length of the Arch Fa=5235988
+by the Radius GF=10000000, whose Product is the Area of the Parallellogram
+GaFG=A=52359880000000, which is the first set down of the Synopsis. Secondly,
+Set down the Sum of the Versed Sine aiF=GcG= P2=2359880000000 Unity, under
+Unity, that is 8 under 8. Thirdly, The Sum of the Verfed Sines being doubled,
+and that Sum being multiplied by the Versed Sine of the Arch Fa, which is
+aI=Gc=1339746, and that Product divided by its proper Index 3, the Quotient
+will be P3=210775986032, etc. which place as in the Synopsis, one place short
+toward the Left Hand, then Multiply the last Product by the aforesaid Versed
+Sine aI=1339746, and that Product being divided by its proper Index 4, the
+Quotient will be P4=21178971312, etc. which set one place short toward the
+left hand, and then multiply the last Product by the aforesaid Versed Sine
+aI=Gc=1339746, and that Product being divided by its proper Index 5, the
+Quotient will be P5=2699553162, etc. which being placed as aforesaid, and
+continuing thus multiplying still the last Product by the same Versed Sine, and
+dividing every Product by its proper Index, ever placing that Quotient as
+aforesaid, until you arrive directly under the last place of Decimals assigned
+with one Figure, as in the Synopsis; this being done, I by Addition did find
+the true Area of the space Gb FG=5495467.1242579, which is the true Sum of the
+infinite Secants contained in the Arch Fa=30 d. 00 m. which being divided by
+Radius, the Quotient is 5495467, and because that the Decimal Fraction 1242579
+is much less than an Unite, therefore I neglect it as of no value, and I divide
+5495467 by this improper Fraction 62831853/360 the Quotient is 31
+10380687/62831853, which being reduced into a Decimal Fraction, the true length
+of the Meridian-line from the Aequinoctial, to the parallel of 30 d. 00 m.
+is=31 168/1000 Aequinoctial Degrees, according to Mr. Oughtred.
+
+The Synopsis. The Right Angled Figure GFaG=A=5235988.0000000 The Sum of the
+Versed Sines a IF= P2=0235988.0000000 The Sum of the Versed Sines a IF=
+P3=0021077.5986032 The Sum of the Versed Sines a IF= P4=0002117.8971312 The Sum
+of the Versed Sines a IF= P5=0000269.9553162 The Sum of the Versed Sines a IF=
+P6=0000025.2430297 The Sum of the Versed Sines a IF=1/7 P7 P7=0000002.9010277
+The Sum of the Versed Sines a IF= P8=0000000.3411651 The Sum of the Versed
+Sines a IF=1/9 P9=0000000.0406291 The Sum of the Versed Sines a IF=1 1/0
+P10=0000000.0048979 The Sum of the Versed Sines a IF=1 1/1 P11=0000000.0005963
+The Sum of the Versed Sines a IF=1 P12=0000000.0000733 The Sum of the Versed
+Sines a IF=1 P13=0000000.0000091 The Sum of the Versed Sines a IF=1
+P14=0000000.0000001 The true Area of the Figure FbGG=5495467.1242579
+
+
+Which reduced into degrees, makes 3rd. 168/1000 And in this manner I found the
+true length of the Meridian-line from the Equator, to the Parallel of 50 d. 00
+m. to be equal 10091347.0241352=57 d. 819/1000. And for 60 d. 00 m. to be equal
+12919708.7579278=74 022/1000. And 70 d. 00 m.=87 208/1000. And for 80 d. 00
+m.=104 937/1000. And for 89 d. 59 m.=125.464, which is the true length of the
+Meridian-line, from the Aequinoctial to the Parallel of 89 d. 59 m. which is
+not so much as of the length of the Meridian-line made by the Addition of the
+Secants, which difference arises hence, for the sum of the Secants made by the
+Addition of the Secants of any Arch, though a minute be divided into Ten
+thousand parts, shall exceed the true Area of the Secants space, or the true
+Sum of the Infinite Secants of any Arch, by more than half the Sum of the first
+differences of the Secants of every one of the Secants of those minute parts.
+
+Let Bx represent the length of an Arch extended, which let be divided into
+equal parts, BC, CD, DE, OF, FG, etc. each part containing one minute, or any
+minute part of the Circumference of a Circle, and upon this line, and from each
+point B, C, D, E, F and G, raise perpendicular-lines, as BA=Radius, Cc=Secant
+of one part, Df=the Secant of two parts, EI= Secant of three parts, Fm=Secant
+of four parts, Gp=Secant of five parts, etc. Then through the Points A, c, f,
+I, m and p, draw the Curveline A, c, f, 1, m and p, and parallel to the line
+Bx, draw the lines Az, cb, ce, fd, fb, Gi, and complete the Parallellograms zb,
+ed, hg, etc. Now I say that the right Angled Figure AzcbA is=difference between
+the Radius AB and the Secant of the first minute Cc, and the right Angled
+Figure cefd=difference between the Secant of the first minute Cc, and the
+Secant of the second minute Df, etc.
+
+Demonstration. Forasmuch as BC=CD=DE=OF=FG one part, therefore the
+Parallellogram BCZAB=Radius BA; and by the same reason the Parallellogram BCcbB
+is equal to the Secant of the first minute part Cc, therefore BCcbB -
+BCZAB=AzcbA the difference between BA the Radins, and Cc the Secant of the
+first minute part. Then Dd - Dc=Cb=the difference between Cc the Secant of the
+first minute part, and Df the Secant of the second minute part, then Eg -
+OF=Dd=hg the difference between Df and Ei, then Fk - Fi=Eg=lk, the difference
+between Ei and Fm: And then Gn - Gm=Fk=on, the difference between Fm and Gp,
+etc. Hence it is evident that the Sum of the Secant made by the aggregate of
+the Natural Secant, will be Cb + Dd + Eg + Fk + Gn, etc. whose Sum is the
+Figure BGpnmkigfdcbB, whereas the true Sum of these Secants is really the space
+BGpwmuitfrcsAB, Therefore the true Sum of the Secant of the Arch BG is equal to
+the Figure BGpumkigfdcbB - space ABsc + cdrf + fgti + kum + mnwp; wherefore the
+Sum of the Secant made by the Addition of the Secants of any Arch, though a
+minute be divided into never so many parts, shall exceed the true Area of the
+Secant space, or the true Sum of the Infinite Secant of an Arch, by more than
+half the Sum of the first difference of the Secant of every one of the Secants
+of those minute parts, Q.E.
+
+Thus have I found and shall demonstrate (else where) that the Sum of the
+Secants, however attained, has no relation to the Meridian-line on the true
+Sea Chart.
+
+In order to which, I shall resolve the following Problem, Admit a Ship to be
+at A under the Aequinoctial, and is bound to an Island B in the Latitude of 89
+d. 59 m. whose Longitude to the Westward is CB=70 d. 00 m. the Question is, On
+what Rumb the Ship must Sail from A to B? First by the plain Sea Chart,
+secondly, by the length of the Meridian-line, which I have here found to be
+125.464, thirdly, by the length of the Meridian line which Mr. Wright made by
+the Addition of the Secants of whole minutes, which is 539 +. The Question
+truly-Resolved, The true Rumb on which the Ship must Sail from A to B by the
+Plain Sea Chart is North 37 d. 53 m. West; by the second she must Sail from A
+to B North 29 d. 09 m. Westerly; by the third, which according to Mr. Wright or
+Mercator, she must Sail from A to B North 07 d. 24 m. Westerly.
+
+But that Ship which Sails from A intending to arrive at B, by either of these
+three Rumbs, shall as certainly sail of their Desires, as he did who
+endeavored to draw the proportion of Hercules Body by his footsteps on the
+sand. For I say, That Ship which sails from A intending to find B, must sail
+directly North, until she is in the Latitude 89 d. 59 m. then shall B bear West
+from the Ship distant 1.22 mile, which may be seen that distance, if but four
+foot above the Water.
+
+Demonstration. Seeing that the Parallel of 89 d. 59 m. wants but one mile of
+the Pole, and that mile being made the Radius of that Parallel, then shall the
+Circumference of that Circle be 6.28 miles: Then if 360 Degrees of Longitude be
+contained in 6.28 miles, in how many miles is 70 d. of Longitude contained,
+which by multiplying and dividing according to the Rule of Three, I find 1.22
+answering to 70 d. of Longitude in the Aequinoctial Circle. Therefore that Ship
+which is to sail from A under the Aequinoctial to B in 89 d. 59 m. North
+Latitude, whose Longitude to the Westward is 70 d. 00 m. must sail North, until
+she is in the Latitude of 89 d. 56 m. then shall B bear West from her distant
+1.22 mile, Q. E. The reason why I took this extreme Problem, To demonstrate in
+part to the World, That Mr. Wright's Projection is false, was, because that the
+truth of this Problem is evident merely by inspection on the Globe: Thus much
+for this single sheet. But I have already written in order to Navigation fifty
+sheets of paper, to which I shall, God willing, add the manner of describing of
+a Spherical Superficies into a Concave Cylinder Geometrically of any given
+length greater than the Diameter of the Sphere; provided their Diameters be
+equal; this was Mr. Wright's Case.
+
+Moreover, I shall Geometrically show the Description of Spherical Superficies
+into a Concave Cylinder, their Diameters agreeing, in such manner that in all
+its parts it shall Mathematically agree with the Globe, and that the
+Meridian-line has no relation to the Sum of the Secant divided by Radius, as
+was asserted by Mr. Wright and others.
+
+And also I shall show the making and use of the true Sea Chart, and shall
+Problematically demonstrate the plain Sea Chart to be false.
+
+And shall show the difference between the distance between two places in the
+Arch of a great Circle, and the distance in the Rumb line, on which a Ship must
+sail from one place to another.
+
+And shall show the difference between the Angles of Position and the Rumb-line
+on the Globe.
+
+And shall show how to keep a perfect Journal in such manner, as that any man
+which is capable of taking Charge of a Ship at Sea, may judge whether the
+Reckoning were well kept or not.
+
+I shall also annex an Examination, which all such Navigators ought to pass,
+that shall be judged capable of taking Charge as Master of any of his Majesty's
+or Merchants Ships, etc.
+
+Query. Whether or not, it be possible Mathematically to demonstrate how deep a
+Ship must go in the water, and what difference there must be between her
+Draught of Water at her Head and Stern to sail best.
+
+FINIS.
+London, Printed by Tho. James for the Author 1685.
+
+Fig. 3.
+geometrical figure
+
+geometrical figure Fig. 2.
+
+
+

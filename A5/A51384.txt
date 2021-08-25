@@ -1,0 +1,764 @@
+HYDROSTATICKS: OR, INSTRUCTIONS CONCERNING WATER WORKS. COLLECT^D Out of the
+Papers OF Sir SAMVEL MORLAND. CONTAINING The Method which he made use of in
+this Curious Art.
+
+LONDON: Printed for John Lawrence at the Angel in the Poultrey, over against
+the Compter. 1697.
+
+TO THE READER.
+THE following Tables I Received from Sir Samuel Morland, amongst the rest of
+his Mathematical Papers, all of which Kind he was pleased to bestow on me not
+long before his Death. As for these which I now Publish, he told me
+particularly, that they contained the Mystery of that Art and nimble Dispatch,
+which he was Master of, in the Making and Managing of (more especially) such
+Mechanical Engines as relate to the Water; in the Improvement of which sort he
+was so much happier than the rest of Mankind. He thought that it might be an
+acceptable and useful piece of Service to the World, to range these Materials
+in good Order; and where there should be occasion, to add so much light as
+might make them easily Intelligible to a Common Reader.
+
+How I should do this, he gave me large Directions from his own Mouth, and I
+have punctually observed them, in the Completing of this Piece; so that here
+are plain and easy Rules and Directions delivered in a perspicuous manner, that
+guide the Practitioner into the Concisest way of Calculation in these Matters;
+and almost infallibly secure him from Mistakes and Errors, which are so
+vexatious and expensive. And I think it is not necessary to give any larger
+Account of this Treatise. What other of his Papers may hereafter be made
+Public, must be left to further Enquiry and Consideration.
+
+Joseph Morland.
+
+THE FIRST TABLE. A Table of Square Roots of all Numbers from 1 to 100.
+Squ. Number Squa. Roots. Difference 1 1.00 0.41 2 1.41 0.32 3 1.73 0.27 4 2.00
+0.24 5 2.24 0.21 6 2.45 0.20 7 2.65 0.18 8 2.83 0.17 9 3.00 0.16 10 3.16 0.16
+11 3.32 0.14 12 3.46 0.15 13 3.61 0.13 14 3.74 0.13 15 3.87 0.13 16 4.00 0.12
+17 4.12 0.12 18 4.24 0.12 19 4.36 0.11 20 4.47 0.11 21 4.58 0.11 22 4.69 0.11
+23 4.80 0.10 24 4.90 0.10 25 5.00 0.10 26 5.10 0.10 27 5.20 0.09 28 5.29 0.10
+29 5.39 0.09 30 5.48 0.09 31 5.57 0.09 32 5.66 0.08 33 5.74 0.09 34 5.83 0.09
+35 5.92 0.08 36 6.00 0.08 37 6.08 0.08 38 6.16 0.08 39 6.24 0.08 40 6.32 0.08
+41 6.40 0.08 42 6.48 0.08 43 6.56 0.07 44 6.63 0.08 45 6.71 0.07 46 6.78 0.08
+47 6.86 0.07 48 6.93 0.07 49 7.00 0.07 50 7.07 0.07 51 7.14 0.07 52 7.21 0.07
+53 7.28 0.07 54 7.35 0.07 55 7.42 0.06 56 7.48 0.07 57 7.55 0.07 58 7.62 0.06
+59 7.68 0.07 60 7.75 0.06 61 7.81 0.06 62 7.87 0.07 63 7.94 0.06 64 8.00 0.06
+65 8.06 0.06 66 8.12 0.07 67 8.19 0.06 68 8.25 0.06 69 8.31 0.06 70 8.37 0.06
+71 8.43 0.06 72 8.49 0.05 73 8.54 0.06 74 8.60 0.06 75 8.66 0.06 76 8.72 0.05
+77 8.77 0.06 78 8.83 0.06 79 8.87 0.05 80 8.94 0.06 81 9.00 0.06 82 9.06 0.05
+83 9.11 0.06 84 9.17 0.05 85 9.22 0.05 86 9.27 0.06 87 9.33 0.05 88 9.38 0.05
+89 9.43 0.06 90 9.49 0.05 91 9.54 0.05 92 9.59 0.05 93 9.64 0.06 94 9.70 0.05
+95 9.75 0.05 96 9.80 0.05 97 9.85 0.05 98 9.90 0.05 99 9.95 0.05 100 10.00
+
+The Use of the foregoing TABLE. To find the Square Root of any given Number as
+far as Three Figures.
+DIstinguish the given Number by Points, as is usual in the Extracting of
+Square Roots, and observe how many Figures belong to the first Point, which
+will be either one or two: If only one, then seek that Figure in the foregoing
+Table of Square Roots, in the first Column from one to nine inclusive, and
+write out the Root standing directly over against it in the second Column; and
+take also the next lower difference out of the third Column, which you Multiply
+by the two next Figures of your given Number, and from the Product cut off two
+Figures, and add the remainder to the Root first written out. The Sum is the
+desired Root. But if there be two Figures belonging to the first Point, then
+seek them in the first Column from 10 to 99 inclusive, and proceed as before.
+
+Example. Extract the Square Root out of 276438. the Number distinguished by
+the Points stands thus; 276438. and the Figures belonging to the first Point
+are 27. which being looked in the first Column, you find over against it in the
+second Column 520. and in the third Column the next lower difference 10, which
+Multiplied by 64 (the two next following Figures in the given Number) the
+Product is 640. and cutting off two Figures, the remainder is 6. to be added to
+520. and the desired Root is 526.
+
+THE SECOND TABLE. A TABLE of Cube Roots, from 1 to 10, and then continued for
+every Tenth Number from 10 to 100.
+Number Cube Roots Difference 1 1.00 0.26 2 1.26 0.18 3 1.44 0.15 4 1.59 0.12 5
+1.71 0.11 6 1.82 0.09 7 1.91 0.09 8 2.00 0.08 9 2.08 0.07 10 2.15 0.56 20 2.71
+0.40 30 3.11 0.31 40 3.42 0.26 50 3.68 0.23 60 3.91 0.21 70 4.12 0.19 80 4.31
+0.17 90 4.48 0.16 100 4.64 0.15 110 4.79 0.14 120 4.93 0.14 130 5.07 0.12 140
+5.19 0.12 150 5.31 0.12 160 5.43 0.11 170 5.54 0.11 180 5.65 0.10 190 5.75 0.10
+200 5.85 0.09 210 5.94 0.09 220 6.04 0.09 230 6.13 0.08 240 6.21 0.09 250 6.30
+0.08 260 6.38 0.08 270 6.46 0.08 280 6.54 0.08 290 6.62 0.07 300 6.69 0.07 310
+6.77 0.07 320 6.84 0.07 330 6.91 0.07 340 6.98 0.07 350 7.05 0.06 360 7.11 0.07
+370 7.18 0.06 380 7.24 0.07 390 7.31 0.06 400 7.37 0.06 410 7.43 0.06 420 7.49
+0.06 430 7.55 0.06 440 7.61 0.05 450 7.66 0.06 460 7.72 0.05 470 7.77 0.06 480
+7.83 0.05 490 7.88 0.06 500 7.94 0.05 510 7.99 0.05 520 8.04 0.05 530 8.09 0.05
+540 8.14 0.05 550 8.19 0.05 560 8.24 0.05 570 8.29 0.05 580 8.34 0.05 590 8.39
+0.04 600 8.43 0.05 610 8.48 0.05 620 8.53 0.04 630 8.57 0.05 640 8.62 0.04 650
+8.66 0.05 660 8.71 0.04 670 8.75 0.04 680 8.79 0.05 690 8.84 0.05 700 8.89 0.03
+710 8.92 0.04 720 8.96 0.04 730 9.00 0.04 740 9.04 0.05 750 9.09 0.04 760 9.13
+0.04 770 9.17 0.04 780 9.21 0.03 790 9.24 0.04 800 9.28 0.05 810 9.33 0.03 820
+9.36 0.04 830 9.40 0.04 840 9.44 0.03 850 9.47 0.04 860 9.51 0.04 870 9.55 0.03
+880 9.58 0.04 890 9.62 0.03 900 9.65 0.04 910 9.69 0.04 920 9.73 0.03 930 9.76
+0.04 940 9.80 0.03 950 9.83 0.03 960 9.86 0.04 970 9.90 0.03 980 9.93 0.04 990
+9.97 0.03 1000 10.00
+
+The Use of the Second TABLE. To find the Cubick Root of any given Number as
+far as Three Figures.
+DIstinguish the given Number by Points, as is usual in Extracting Cubick
+Roots. Then to the first Point toward the left Hand, there will belong either
+one Figure, or two, or three Figures. If it be one, then look the same in the
+Table of Cubick Roots, from 1 to 9 inclusive, if there be two Figures belonging
+to the first Point, then look the first of them from 10 to 90 inclusive, if
+there be three, look the two first from 100 to 990 inclusive, and write out the
+Root standing directly over against it in the Second Column, and the next lower
+Difference out of the third Column, which you Multiply by the two next Figures
+of your given Number, and from the Product cut off two Figures, and add the
+remainder to the Root first written out: The Sum is the desired Root.
+
+Example. Extract the Cubick Root out of 34167942. The Number distinguished by
+Points stands thus: 34167942. and the Figures belonging to the first Point
+are 34, whereof the first, viz. 3. is to be looked between 10 and 90.
+inclusive; and you find 30. and the Root of this in the Second Column 311. to
+be written out, and the next lesser Difference in the third Column is 31. which
+Multiplied by 41. (the two next following Figures in the given Number) the
+Product is 1271. and cutting off two Figures, the remainder is 12 or 13.
+(because the Figures cut off, viz. 71. are more than the half of 100.) which
+added to 311. (the Root first written out) the Sum is 324. the desired Cubick
+Root.
+
+THE THIRD TABLE. A TABLE of Cube-Root-Inches, from a Pint to a Gallon, from a
+Gallon to a Barrel, from a Barrel to a Tun, from One Tun to Seventy, and from
+thence by Decimal Steps to 10000.
+Pints Cube Root Inch. 1 3.27 2 4.16 3 4.72 4 5.20 5 5.60 6 5.95 7 6.27 Firkins
+Gallons Cube Root Inch. 1 6.55 2 8.26 3 9.45 4 10.40 5 11.21 6 11.91 7 12.54 8
+13.11 1) 9 13.63 10 14.12 11 14.58 12 15.01 13 15.41 14 15.80 15 16.17 16 16.52
+17 16.86 2) 18 17.18 19 17.49 20 17.80 21 18.09 22 18.37 23 18.64 24 18.91 25
+19.17 26 19.42 3) 27 19.67 28 19.91 29 20.14 30 20.37 31 20.60 32 20.81 33
+21.03 34 21.24 35 21.45 36 21.65
+
+Cube-Root-Inches of Barrels and Tuns.
+Tuns Barrels Cube Root Inch. 1 21.65 2 27.28 3 31.22 4 34.37 5 37.02 1) 6
+39.34 7 41.42 8 43.31 9 45.03 10 46.65 11 48.15 2) 12 49.57 13 50.91 14 52.18
+15 53.40 16 54.56 17 55.67 3) 18 56.74 19 57.77 20 58.77 21 59.73 22 60.67 23
+61.57 4) 24 62.45 25 63.31 26 64.14 27 65.75 28 65.95 29 66.52 5) 30 67.28 31
+68.01 32 68.74 33 69.45 34 70.14 35 70.82 6) 36 71.49 37 72.15 38 72.79 39
+73.42 40 74.05 41 74.66 7) 42 75.26 43 75.86 44 76.44 45 77.01 46 77.58 47
+78.14 8) 48 78.69
+
+Cube-Root-Inches of Tuns.
+Tuns Cube Root Inch. 9 81.84 10 84.76 11 87.50 12 90.07 13 92.51 14 94.82 15
+97.03 16 99.14 17 101.16 18 103.11 19 104.95 20 106.80 21 108.55 22 110.24 23
+111.89 24 113.49 25 115.04 26 116.56 27 118.03 28 119.47 29 120.88 30 122.25 31
+123.60 32 124.91 33 126.20 34 127.46 35 128.70 36 129.91 37 131.10 38 132.28 39
+133.40 40 134.56 41 135.67 42 136.76 43 137.84 44 138.90 45 139.94 46 140.97 47
+141.99 48 142.99 49 143.97 50 144.95 51 145.91 52 146.86 53 147.80 54 148.71 55
+149.63 56 150.53 57 151.42 58 152.30 59 153.17 60 154.03 61 154.88 62 155.73 63
+156.56 64 157.38 65 158.20 66 159.01 67 159.80 68 160.60 69 161.38 70 162.15 80
+169.53 90 176.32 100 182.62 200 230.09 300 263.39 400 289.90 500 312.28 600
+331.85 700 349.35 800 365.25 900 379.88 1000 393.46 2000 495.73 3000 567.47
+4000 624.58 5000 672.81 6000 714.96 7000 752.66 8000 768.92 9000 818.43 10000
+847.68 20000 1068.06 30000 1222.57 40000 1345.61 50000 1449.52 60000 1540.34
+70000 1621.56 80000 1695.37 90000 1763.25 CM. 1826.28
+
+THE Use of this third Table is so Obvious to every Man's Capacity, that it
+needs no Explanation; for if there be occasion to make any Vessel in a Cubical
+Form, of which the Content ought to be a Pint, a Quart, a Gallon, etc. This
+Table gives the Cubick Roots of their Respective Dimensions.
+
+THE FOURTH TABLE. A TABLE showing the true Content of Cubick Feet, (from 1 to
+5) in Gallons and Cubick Inches, and (from 5 to 1000) in Barrels, Gallons, and
+Cubick Inches.
+Cubick Feet Barrels Gallons Cubick Inches 1 0 6 36 2 0 12 72 3 0 18 108 4 0 24
+144 5 0 30 180 6 1 00 216 7 1 6 252 8 1 13 6 9 1 19 42 10 1 25 78 11 1 31 114
+12 2 1 150 13 2 7 186 14 2 13 222 15 2 19 258 16 2 26 12 17 2 32 48 18 3 2 84
+19 3 8 120 20 3 14 156 30 5 3 234 40 6 29 30 50 8 18 108 60 10 7 186 70 11 32
+264 80 13 22 60 90 15 11 138 100 17 00 216 200 34 1 150 300 51 2 84 400 68 3 18
+500 85 3 234 600 102 4 168 700 119 5 102 800 136 6 36 900 153 6 252 1000 170 7
+186
+
+The several Uses of the Fourth TABLE.
+First Use.
+ONE Use of this Table is this, viz. either by having given the Dimensions of
+any Rectangular Vessel, whose sides are Plain, to find the true Content in
+Gallons, Barrels, etc. or else, the Content of any such Vessel being given with
+one of its three Dimensions, to determine the two remaining Dimensions.
+
+First, Let it be required to know the true Content of a Rectangular Vessel, of
+which the length is seven, the breadth three, and the height five Feet.
+
+The Answer is this: 7 into 3 into 5, make 105 Cubick Feet: Now by this Table I
+find that 100 Cubick Feet contain 17 Bar. 216. Cub. In. and by the same 5
+Cubick Feet, contain 30 Gall. 180 Cub. In. which two Sums being added together
+make 17 Bar. 31 Gall. 114 Cub. In. which is the Content of the aforesaid Vessel.
+
+Again, The Content of a Vessel being given ( viz. four Barrels) and the length
+of that Vessel (six Feet) let it be required to find the Breadth and Depth.
+
+Answer, By this Table I find that six Cubick Feet contain one Barrel, and 216
+Cubick Inches. By this I know the Content of a Vessel, whose Length is six
+Feet, its Breadth one, and its Height one; therefore two such Vessels joined
+together upon a Plane, or (which is all one) a Vessel six Feet long, two Feet
+wide, and one Foot deep, contains two Barrels, one Gallon, and one Hundred and
+fifty Cubick Inches, and by Consequence a Vessel six Feet long, two Feet wide,
+and two Feet deep, contains four Barrels, three Gallons, and eighteen Cubick
+Inches, which is something over the given Content, but near enough for common
+use. And by this Method may any Cistern be designed near enough the Truth, with
+great Ease and Expedition.
+
+But if it be required to perform these or the like Operations more exactly,
+the following Method will guide the Practitioner, several Precognita being
+first laid down.
+
+1. The Original of all long Measures is an Inch, whereof twelve make a
+Standard English Foot, 36 Inches make a Yard; 72 make a Fathom, 198 make a
+Perch, 7920 make a Furlong, 65360 make a Mile.
+
+2. The Original of all Square Measures is a Square Inch, whereof 144 make a
+Square Foot, 1296 make a Square Yard, 39204 make a Square Rod, 6272640 make a
+Square Acre.
+
+3. Of all Solid Measures the Original is a Cubick Inch, whereof 1728 make a
+Cubick Foot, 15,552, make a Cubick Yard.
+
+Again 3525 make a Pint, 705 make a Quart, 282 make a Gallon, 10,152 make a
+Barrel, or Thirty six Gallons; 60,912 make a Tun or Six Barrels.
+
+4. Any one Number being Multiplied either by it self, or any other Number, and
+that Product Multiplied by any third Number make a Solid, or the Content of a
+Rectangular Cistern, whose sides are plain.
+
+These Precognita being laid down the Operations will be as follow:
+
+For Example, The Content of a Cistern being given, viz. Four Barrels, and the
+length of that Cistern six Feet: Let it be required to find out two Numbers,
+which being Multiplied one into another, and that Product into the given
+Length, make a Content equal to Four Barrels.
+
+Having first Reduced the given Terms to their least Denominations, the General
+Rule is this:
+
+The Content of any Rectangular Vessel being given together, with either the
+length, or breadth, or Depth of that Cistern: Divide the given Content by the
+given Dimension, and the Quotient by any Number less than it self: The last
+Divisor and Quotient are the two Terms sought.
+
+Thus having reduced the Four Barrels to 40,608 Inches, and the given 6 Feet to
+to 72 Inches, I divide the said 40,608 by the said 72. And again I divide the
+Quotient 564 Inches by any Number less than it self, suppose 40, the last
+Divisor 40, and its Quotient 141 are the two sides required. And after this
+Method may infinite Answers be given to this Question; so that the Operator in
+the second Division may from the given length choose either what Depth or
+Breadth he pleases, or from a given given Depth may choose what Length or
+Breadth he pleases.
+
+The Second Use of the Fourth TABLE.
+To Explain this Use it is necessary to premise this following Theorem:
+
+Like Solids are in proportion one to another, as the Cubes of their Hemologous
+sides.
+
+Upon which Theorem depends this Problem:
+
+Having the Content of a Cistern, together with the Ratio of the Length,
+Breadth and Height given to find the sides.
+
+I. Example, Let it be demanded to frame a Cistern containing 1000 Cubick Feet,
+and the Ratio of the sides or three Dimensions, let be one two and four.
+
+First, I imagine, or frame in my mind, a Cistern, whose Length 4 Breadth 2
+Height 1 The Content of it is 4x2x1=(8)
+
+Therefore I say,
+
+1. As the Content 8, is to the Content 1000, so is the Cube of the side 4.
+viz. the Cube 64. to the Cube 8000, whose Cube-Root is=20.
+
+2. As the said 8 to the said 1000. so is the Cube of the side 2. viz. the Cube
+8. to the Cube 1000. whose Cube Root is=10.
+
+3. As the said 8 to the said 1000. so is the Cube of the side 1. viz. Cube 1.
+to the Cube 125. whose Cube Root is=5.
+
+So then of the Cistern demanded to be framed, the Length 20 Breadth 10 Height 5
+
+For 20x10x5=1000; and 1. As 1 to 2, so 5 to 10. 2. As 2 to 4, so 10 to 20. 3.
+As 1 to 4, so 5 to 20.
+
+
+II. Example, Let a Cistern be demanded, containing 600 Cubick Feet, and the
+Ratio of the sides, as 3, 4, 5.
+
+First, I frame in my mind a Cistern of 3 4 5, 3x4x5=60. wherefore.
+
+1. As to the Content 60. to the Content 600. so is the Cube of the side 3.
+viz. the Cube 27 to the Cube 270. whose Cube Root is=6. 463.
+
+2. As the said 60 to the said 600. so is the Cube of the side 4. viz. the Cube
+64, to the Cube 640, whose Cube Root is=8. 617.
+
+3. As the said 60 to the said 600. so is the Cube of the side 5. viz. the Cube
+125. to the Cube 1250, whose Cube Root is=10. 77 2.
+
+So then Content Length Breadth height Of the given Cistern 60 5 4 3. Of the
+Cistern demanded 600 10.772 8.6176 64632
+
+For 6.4632 into 8.6176 into 10.7720 is=599. 978.
+
+And 1. As 3 to 4, so is 6.4632 to 8.6176 2. As 4 to 5, so is 8.6176. to
+10.7720 3. As 3 to 5, so is 6.4362 to 10.7720.
+
+
+This Problem being clearly Answered by the two foregoing Examples; in the
+first of which the Length, Breadth and Depth of the Cistern, that is required
+to be designed, are 20, 10 and 5; and its Content 1000 Cubick Feet; and in the
+second the Length, Breadth and Depth of the Cistern that is required to be
+designed are 10,7720, 8.6176 and 6.4632. and its Content 600 Cubcik Feet. The
+next thing to be done is to Convert their Contents into Gallons, Barrels, etc.
+which is to be done with much ease by this Fourth Table: For by that Table 1000
+Cubick Feet (which is the Content of the first Cistern required to be designed)
+contain 170 Bar. -- 7 Gall. -- 186. Cub. Inch.
+
+And in the second Example the Content of the Cistern required to be designed,
+being 600 Cubick Feet; I find by the said Table, that 600 Cubick Feet contain
+102 Bar. -- 4 Gall. -- 168 Cub. Inch.
+
+The Third Use.
+The third Use of this Table relates to Cylindrical Elliptical Vessels; for the
+better Explanation of which there are again several Precognita to be premised.
+
+I. Diam of any Circle Peripherie 1 3. 14159265 2 6. 28318530 3 9. 42477795 4
+12. 56637060 5 15. 70796325 6 18. 84955590 7 21. 99118455 8 25. 13274120 9. 28.
+27433385 II. Diam of any Circle Square Root of the Area 1 0. 88622692 2 1.
+77245385. 3 2. 65868077 4 3. 54490770 5 4. 43114362 6 5. 31736155 7 6. 20358847
+9 7. 97604231
+
+If the Diam be (1) the Area is 0. 785398163.
+
+4. Square any given Diameter, and then Multiply that Square by 0. 7853, etc.
+and the last Produce is the Area of the Circle.
+
+5. The Length of an Ellipsis drawn into the Breadth, and that Product
+Multiplied by 0. 7853981, etc. gives the Area of an Ellipsis.
+
+6. Circles in proportion to one another, as the Squares of their Diameters.
+
+First Problem.
+The Diameter of any Cilindrical Vessel being given, together with its Height,
+to find the true Content thereof in Gallons, Barrels, etc.
+
+For Example, Suppose in a Noblemans or Gentleman's Garden there be found a
+Basin, whose Diameter is 45 Feet, and its Depth 4 Feet, and it be required to
+know the true Content thereof in Gallons, Barrels and Tuns.
+
+Answer. By the Fourth Praecognitum, I square the given Diameter 45. and that
+Square I Multiply by the Fraction 0.7853, etc. and the Product 1590.232 is the
+Area of the Circle, which Multiply by 4, the Height of the Cylindrical Vessel,
+and the Product, viz. 6360.9 -- Cubick Feet, is the Content of the Basin.
+
+This being done, the next thing is to convert the said Cubick Feet into
+Gallons, Barrels and Tuns; which, by the help of the Fourth Table, is easily
+done.
+
+For by the said Table, 1000 Cubick Feet is equal to 170 Bar. -- 7 Gall. --
+186, Cub. In. which being Multiplied by Six gives 1020, Bar. -- 42 Gall. --
+1116, Cub. In. which is being reduced to its right Denomination, 1021 Bar. --
+9 Gall. -- 270 Cub. In. the Content of 6000 Cubick Inches.
+
+Again. 300 Cubick Feet is equal to 51 B. -- 2 G. -- 84. C. In. this being
+added to the foregoing Sum, viz. B. G. C. In. 1021 9 270 51 2 84 makes 1072 11
+354 the Content of 6300 Cubick Feet.
+
+Lastly, 60 Cubick Feet contain 10 B. -- 7 G. -- 186 C. In. which being added
+to the Content of 6300 Cubick Feet, viz. B. G. C. In. 1072 11 354 10 7 186
+makes 1082 18 540 which Reduced to its right Denomination is 1082 B. -- 19 G.
+-- 258 C. In. the Content of the Basin which was required.
+
+Second Problem.
+The long and short Diameters of an Elliptical Vessel being given, together
+with the Height, to find the true Content thereof in Gallons, Barrels, etc.
+
+Suppose in a Gentleman's or Noblemans Garden there be an Elliptical Basin,
+whose Length is 45 Feet, whose Breadth is 35 Feet, and whose Depth is 4 Feet;
+and it be required to know the true Content thereof in Gallons, Barrels and
+Tuns.
+
+Answer. By the Fifth Precognitum, I Multiply 45 the Length into 35, the
+Breadth of the Basin; the Product which is 1575, I Multiply by the Fraction
+0.7853, and the Product of these two Numbers Multiplied, will be 1236. 847.
+which I then Multiply by 4 the Depth, and thence arises 4947.3... Cubick Feet
+which is the Content of the Basin. Now I, as before, Convert the said Cubick
+Feet into Gallons, Barrels and Tuns, by the help of the Fourth Table. Thus,
+1000 Cubick Feet is there equal to 170 Bar. -- 7 Gall. -- 186 Cub. In. which
+being Multiplied by 4 gives 680 Bar. -- 28 Gall. -- 744 Cub. In. which (being
+reduced to its right Denomination) is 680 Bar. -- 30 Gall. -- 180 Cub. In.
+Again, 900 Cubick Feet is equal to 153 Bar. -- 6 Gall. -- 252 Cub. In. this
+being added to the foregoing Sum, viz. Bar. Gall. Cub. In. 680 30 180 153 6
+252 makes 833 36 432 which is (being reduced) 833 Bar. -- 37 Gall. -- 150 Cub.
+In.
+
+Lastly, 40 Cubick Feet contain 6 Bar. -- 29 Gall. -- 30 Cub. In.
+
+And 7 Cubick Feet contain 1 Bar. -- 6 Gall. -- 252 Cub. In. therefore 47
+Cubick Feet contain 7 Bar. -- 35 Gall. -- 282 Cub. In. which being added to
+the Content of 4900 Cubick Feet, viz. Bar. Gall. Cub. In. 833 37 150 7 35 282
+makes 840 73 150 which (being reduced to its right Denomination) is 842 Bar.
+-- 1 Gall. -- 150 Cub. In. the Content of the Basin, in Barrels, Gallons and
+Cubick Inches, which was required.
+
+But forasmuch as in the Practical part of Hydrostaticks, and the designing of
+Engines to raise Water to great Heights, by the means of Forcers; it will be
+often requisite to know the Contents and the Weight of less Cylinders, that is
+to say, whose Diameters are 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 Inches, and
+the Length Indefinite (suppose from 1 to 100, or more). And because such
+Calculations are very tedious, I have here inserted the following Table.
+
+THE FIFTH TABLE Giving the true Content in Cubick Inches of Cylinders of
+different Diameters, from 1 to 12 Inclusive, and each of these Cylinders of a
+Foot or Twelve Inches in Height.
+Diam of Bases Solid Content in Cubick Inches. 1 9424777961 2 37699111843 3
+84823001647 4 15079644736 5 23561944900 6 33929200656 7 46181412004 8
+60318578044 9 76340701476 10 94247779600 11 114039813316 12 135716802624
+
+As for the weight of Water, it is not to be determined absolutely, because
+almost all Wells, Springs and Rivers, are of a different weight, and therefore
+my advice is to all Engineers and Practitioners, to find out the exact weight
+of a Cubick Foot of that particular Water, which they have occasion to make use
+of; by which means they will easily discover the weight of any Cylinder of
+Water with these following Cautions.
+
+First Caution. When an Engineer desires to force up Water 50, or 100 Feet in
+Perpendicular Height, and designs to do this by a Forcer of 4, 5, or 6 Inches
+Diameter; but intends the Water shall be carried up the said 50, or 100 Feet in
+Perpendicular Height, through a Pipe of of 1 Inch and, 1 Inch and, or 2 Inches
+and Diameter, the Water standing in any such perpendicular Pipe, is equivalent
+in weight to a Pipe of the same Perpendicular Height, whose Diameter is 4, 5,
+or 6 Inches, viz. the Diameter of the said Forcer; and indeed the less one of
+those Pipes is, the greater is the weight against the Forcer to raise up the
+Water in the same Moment or Interval of Time; that is to say, there is required
+more Weight to be laid upon that Forcer, to raise the Water through a Pipe of
+one Inch Diameter, than through a Pipe of four Inches Diameter. And whatsoever
+is here said of the weight of Water against a Foreer, in a Forcing Engine, is
+also true in Suction, by a Drawing Pump.
+
+For Example. A Pump whose Barrel or Pipe of Suction is four Inches Diameter;
+and the Pipe which reaches from the Barrel to the Water, through which it is
+drawn up but two Inches Diameter, requires more force or strength, than if it
+were drawn up through a Pipe of four Inches Diameter. For want of the Knowledge
+of this, many ignonorant Plummers and Pump-makers, covet to draw their Water
+through less Pipes, which makes the Work more difficult: And though this seems
+to be a Paradox, yet it is a real truth; and the want of the right understanding
+thereof has occasioned very many great Mistakes by ignorant Practitioners.
+
+Second Caution. The true weight of Water in all Pipes, is to be determined by
+the Perpendicular Height of those Pipes.
+
+For Example. The weight of Water in Perpendicular Pipes of three Feet (in
+Height) and three Inches Diameter, is equal to the weight of Water contained in
+a Pipe of any Length whatever (be it a Rod, a Furlong, or more) which rises not
+more than three Feet above the Horrizontal Line; which seems likewise to be a
+Mystery, but is a real truth, as it lies in the Pipes; although if it be taken
+out and laid in a Balance, it will weigh one Hundred times as much or more,
+than the Water in the said Perpendicular Pipe.
+
+I must confess, that the Author had very small Encouragement to help our
+Engineers in things of this Nature, many of them having dealt very
+disingenuously with him; when he had, by near Forty Years Study and Practice,
+and the Expense of many a thousand Pounds, produced new and better ways of
+raising Water, than for ought I know, were ever known to former Ages, viz. by
+the means of
+
+1. A Forcer moving up and down in a Chamber of Water, through a small Collar
+or Neck of Leather fastened in a Groove.
+
+2. The Circular Motion of a Crank, reduced to a Perpendicular.
+
+3. The Unequal Motion of a Crank exchanged for an Elliptical Equal Motion.
+
+Diverse Persons have borrowed, some one part, some another, and making some
+small Alterations, call it their own Invention. This I am willing to let pass;
+and after all, to give them the following Items, to prevent their attempting
+Perpetual Motions, which most of them are apt to do by their Ignorance in
+Hydrostaticks; and not a few Gentlemen, in all Ages, have, by such vain
+imaginations of deceiving Nature, deceived themselves, and Ruined their
+Families.
+
+1. As in Staticks a Pound weight suspended Perpendicularly, has a greater
+force than a Pound weight suspended on a rising Line in Proportion, as the
+Hypotenuse of a Rectangled Triangle, is longer than its Perpendicular; so in
+Hydrostaticks, if the two ends of a Siphon turned angular-wise, and a part of
+it filled with Water, or any other Liquor, be immerged in a Vessel of the same
+Liquor; that part which hangs Perpendicularly, shall be heavier than that which
+declines in proportion, as one side of that Siphon is longer than the other
+opposite side.
+
+1. Fig:
+diagrams of an isosceles triangle with weights and a triangular siphon
+illustrating static and hydrostatic principles
+
+For Example. Let the two Triangles in Fig. 1. be Isosceles, and the two sides
+of the Triangle ABC ( viz. AC and AB) equal. And so likewise the two sides of
+the Triangle DEF ( viz. DE and OF) equal. In this case a Pound weight (P) and
+another (Q) are equally Ponderous; and so is the Water contained in the Siphon
+(FN) from the Superfices (GR) to (N) of an equal weight with the Water in the
+Siphon (DM) between the Superfices of the Water (GR) and (M)
+
+2. Fig:
+diagram of 30-60-90 triangle with weights illustrating static principles
+
+But now in Fig. 2. because the side (AB) of the Triangle (ABC) has double the
+length of (BC) therefore a Pound weight (D) suspended Perpendicularly from (B)
+is Equiponderant to two Pounds (E and F) on the side (AB) according to the
+Doctrine of Statinks. And therefore an Horse drawing a weight of four Hundred
+Pound, upon an Ascent of thirty Degrees. heaves at two Hundred Pound, which is one
+half, and the Ground bears the rest.
+
+3. Fig.
+diagram of 30-60-90 triangular siphon illustrating hydrostatic principles
+
+And so in Fig. 3. because the side (DE) of the Triangle (DEF) has twice the
+Length of (OF) therefore the Water (HF) which hangs Perpendicularly, is equal
+in weight to ^he Water (DG) which has twice its Quantity and Length, according
+to the Doctrine of Hydrostaticks.
+
+2. As in Staticks, a Pound weight on the one side of the Perpendicular Line
+makes an Equilibrium, with another Pound Equidistant from the Perpendicular
+Line on the other side: so in Hydrostaticks, one Tube of Water standing at any
+Height above the Horizontal Line, Equiponderates any other Tube o^ Water that
+stands at the same Height, and is of the same Diameter.
+
+3. As in Staticks if a les^ weight raise a greater, it mus^ be proportionably
+at a greate^ distance from the Perpendicular Line, and have a greater Motion.
+So in Hydrostaticks, i^ a less Tube of Water raise a greater Tube, it must be
+proportionably of a greater Length above the Horizontal Line than the other;
+and consequently the Descent of the Water in a lesser Tube, must have a greater
+Length than the Ascent of the Water in a greater Tube in proportion, as the
+Square of the Diameter of the greater Tube, exceeds the Square of the Diameter
+of the lesser Tube.
+
+And this length of Ascent and Descent of the lesser Tube of Water above the
+Horizontal Line, compared with the Ascent and Descent of the greater Tube,
+together with the proportion that the Square of the Diameter of the lesser
+Tube, bears to the Square of the Diameter of the greater Tube; answers exactly
+to the force and Motion of a Leaver, or rather of a lesser weight placed on a
+Balance at a greater distance from the Perpendicular to Counterpoise or raise
+a greater weight placed on the other side at a lesser distance according to the
+Doctrine of Staticks.
+
+Fig. 1.
+diagrams of unequal weights in balance and of U-shaped tubing with
+perpendicular angles, illustrating static and hydrostatic principles
+
+As in Fig. 1. A pound weight (A) is equiponderant to another (B) because
+equidistant from the Perpendicular (CD) So that part of the Tube (EL) whose
+Height above the Horizonal Line (FE) is of an equal weight with that part of
+the Tube (GM) which is of an equal leight above (FH) viz. (GH.)
+
+Fig. 2.
+diagrams of unequal weights and of a U-shaped tube with perpendicular angles
+with unequal diameters in its two vertical sections, illustrating static and
+hydrostatic principles
+
+In Fig. 2. as a pound weight A equiponderating three Pound (B, C, D,) must
+have thrice the Distance from the Perpendicucular (OF) and for every Foot or
+Inch (B, C, D,) ascends or descends A must ascend or descend three Feet, or 3
+Inches, viz. from (G) to (H.)
+
+So the Tube (RM) being less than the Tube (NQ) in Proportion as (1) is less
+than three. The Water must descend from (G) to (H) to raise the Water in the
+Tube (NQ) from (O) to (P) which is of the Height.
+
+And which is admirable, if the Liquor from (O) to (N) be Wine by turning the
+Cock (S) gently the Water shall carry up the Wine in an entire Body.
+
+And this is a pretty Experiment in Hydrostaticks; and these Cautionary
+Reflections will, I presume, if thoroughly understood, discourage young
+Practitioners from ever attempting to deceive the Order of Nature, and confound
+the Equilibrium of Weights (whether liquid or dry) by imaginary Perpetual
+Motions.
+
+THE LAST TABLE. A most Excellent TABLE of POLIGONES from 3 to 80, Calculated
+to a Radus of 10,000,000, by that incomparable Master of Numbers, LUDOLPHUS A
+CULEN, Published Anno Dom. 1619.
+Pol. 3 17,320,508 4 14,242,135 5 11,755,705 6 10,000,000 7 8,677,674 8
+7,653,668 9 6,840,402 10 6,180,339 11 5,634,651 12 5,176,380 13 4,786,313 14
+4,450,418 15 4,158,233 16 3,901,806 17 3,674,990 18 3,472,993 19 3,291,891 20
+3,128,689 21 2,980,845 22 2,846,296 23 2,723,332 24 2,610,523 25 2,506,660 26
+2,410,733 27 2,321,858 28 2,239,289 29 2,162,380 30 2,090,569 31 2,023,366 32
+1,960,342 33 1,901,120 34 1,845,362 35 1,792,786 36 1,743,114 37 1,696,118 38
+1,651,586 39 1,609,331 40 1,561,181 41 1,530,985 42 1,494,601 43 1,459,906 44
+1,426,783 45 1,395,129 46 1,364,848 47 1,335,852 48 1,308,062 49 1,281,404 50
+1,255,810 51 1,231,218 52 1,207,569 53 1,184,812 54 1,162,896 55 1,141,776 56
+1,121,408 57 1,101,755 58 1,082,778 59 1,074,453 60 1,046,719 61 1,029,575 62
+1,012,983 63 0,996,912 64 0,981,353 65 0,966,275 66 0,951,638 67 0,937,445 68
+0,923,669 69 0,910,291 70 0,897,296 71 0,884,666 72 0,872,387 73 0,860,444 74
+0,848,824 75 0,837,513 76 0,826,499 77 0,815,771 78 0,805,318 79 0,795,130 80
+0,785,196
+
+The Use of the TABLE of Polygones.
+SUppose you had a Wheel, in which you intend there should be Forty Coggs or
+Teeth, standing at equal Distances, and the Diameter of this Wheel be Thirty
+Three. By this Table you must proceed thus; First having taken half 33. which
+is 16.5 for the Radius of your Circle, look out the side of the Polygon of 40,
+standing over against that Number in the Table, which is 1,561.
+
+Then say,
+
+As 10.000. 1.561. so 16. 5. 2.575. this taken off a Line of equal parts, by
+which you measure your Radius, will rightly divide your Circle; and each of
+these Points of Division so found, will be Centers for your Teeth or Coggs.
+
+There are other Operations relating to the Division of Wheels, or Circles,
+which may be nicely performed by the Assistance of this Table; but the Nature
+of it being understood, it is easy to apply it to those other Uses.
+
+Note, To shorten the Work, I thought it convenient to take a lesser Radius, as
+10.000. and 1.561, which stands over against 40 in the Table, will consist of
+the first Figure an Integer, and the rest Decimals; and as you take a greater
+or a less Radius, you must make use of more or fewer Figures, throughout the
+whole Table.
+
+FINIS.
+BOOKS Printed for John Lawrence, at the Angel in the Poultrey.
+MR. Pool's English Annotations. Folio.
+
+The life of the Reverend Mr. Richard Baxter. Folio.
+
+Mr. Lorimer's Apology for the Ministers who subscribed only unto the Stating
+of the Truths and Errors in Mr. William's Book, in answer to Mr. Trail's Letter
+to a Minister in the Country. 4to.
+
+An Answer of Mr. Giles Firmin to Mr. Grantham, about Infant Baptism. 4o.
+
+Some Remarks upon two Anabaptist Pamphlets. By Giles Firmin. 4to.
+
+Mr. Firmin's Review of Richard Davis his Vindication. 4to.
+
+A Proposal to perform Music, in perfect and Mathematical Proportions. By Tho.
+Salmon, Rector of Mepsal in Bedfordshire. Approved by both the Mathematick
+Professors of the University of Oxford; with large Remarks. By John Wallis, D.
+D. 4to.
+
+Mr. Stephens's Sermon before the Lord Mayor and Aldermen of London, at St.
+Mary le Bow, Jan. 30. 1693.
+
+Mr. Shower's Winter Meditations: Or a Sermon concerning Frost, and Snow, and
+Winds, etc. and the wonders of God therein. 4to.
+
+Mr. Slater's Thanksgiving Sermon, October. 27. 1692. 4to.
+
+-- His Sermons at the Funerals of Mr. John Reynolds, and Mr. Fincher,
+Ministers of the Gospel. 4to.
+
+The Jesuits Catechism. 4to.
+
+Dr. Burton's Discourses of Purity, Charity, Repentance, and seeking first the
+Kingdom of God. Published with a Preface, by Dr. John Tillotson, late
+Archbishop of Canterbury. 8vo.
+
+Remarks on a late Discourse of William Lord Bishop of Derry, concerning the
+Inventions of Men in the Worship of God: Also a Defense of the said Remarks
+against his Lordship's Admonition. By J. Boyse. 8vo.
+
+The Works of the Right Honorable Henry, late Lord Delamere, and Earl of
+Warington; consisting in Thirty two Original Manuscripts under his Lordship's
+own Hand. 8vo.
+
+Bishop Wilkins's Discourses of the Gift of Prayer, and Preaching; the latter
+much enlarged. By the Bishop of Norwich, and Bishop Williams. 8vo.
+
+Mr. Samuel Slater's Earnest Call to Family Religion; being the Substance of
+Eighteen Sermons. 8vo.
+
+Mr. Addy's Stenographia: Or the Art of Short Writing completed, in a far more
+Compendious way than any yet extant. 8vo.
+
+The London Dispensatory, reduced to the Practice of the London Physicians:
+Wherein are contained the Medicines, both Galenical and Chemical, that are now
+in use: Those out of use omitted; and those in use, and not in the Latin Copy,
+here added. By John Peachy of the College of Physicians in London. 12o.
+
+A Sermon Preached at a Public Ordination, to a Country Congregation, by Mr.
+S. Clark. 4to.
+
+Cambridge Phrases. By A. Robinson. 8vo
+
+Mr. Hammond's Sermon at Mr. Steel's Funeral. 8vo.
+
+History of the Conquest of Florida. 8vo.
+
+Mr. Aikin's English Grammar: Or, the English Tongue reduced to Grammatical
+Rules. Composed for the use of English Schools. 8vo.
+
+Mr. John Shower's Discourse of Tempting Christ. 12o.
+
+-- His Discourse of Family Religion, in Three Letters. 12o.
+
+Mr. Daniel Burgess's Discourse of the Death Rest, Resurrection, and Blessed
+Portion of the Saints. 12o.
+
+Mr. George Hammond's, and Mr. Matthew Barker's Discourses of Family Worship.
+Written at the Request of the United Ministers of London. 12o.
+
+Miscellana Sacra: Containing Scriptural Meditations, Divine Breathings,
+occasional Reflections, and Sacred Poems. 12o.
+
+Monro's Institutio Grammaticae. 8vo.
+
+Sir Jonas Moor's Mathematical Compendium. The Third Edition. 12o.
+
+Mr. William Scoffin's help to true Spelling and Reading: Or, A very easy
+Method for the teaching Children, or elder Persons, rightly to Spell, and
+exactly to read English, etc. 8vo.
+
+The Triumphs of Grace: Or, the last Words, and edifying Death of the Lady
+Margart de la Musse, a Noble French Lady, aged but Sixteen Years, ^n May, 1681.
+12o.
+
+The Map of Man's Misery: Or, the Poor Man's Pocketbook: Being a perpetual
+Almanac of Spiritual Meditations: Containing many useful Instructions,
+Meditations and Prayers, etc. 12o.
+
+Man's whole Duty, and God's wonderful entreaty of him thereunto. By Mr. Daniel
+Burgess. 12o.
+
+Advice to Parents and Children. By Mr. Daniel. Burgess. 12o.
+
+Mr. Gibbon's Sermon of Justification. 4to.
+
+Scala Naturae: Or, a Treatise proving, both from Nature and Scripture, the
+Existence of good Genii, or Guardian Angels. 12o.
+
+Graaf de Succo, Pancreatico: Or, a Physical and Anatomical Treatise of the
+Nature and Office of the Pancreatick Juice. 8vo.
+
+Dr. Packs Praxis Catholica: Or, the Countryman's Universal Remedy: Wherein is
+plainly and briefly laid down, the Nature, Matter, Manner, Place and Cure of
+most Diseases incident to the Body of Man. 8vo.
+
+English Military Discipline: Or, the Way and Method of Exercising Horse and
+Foot, according to the Practice of this present time: With a Treatise of all
+sorts of Arms, and Engines of War, etc. 8vo.
+
+Orbis Imperantis Tabellae Geographico-Historico-Genealogico-Chronologicae,
+etc. Curiously Engraven on Copper Plates. 8vo.
+
+Clavis Grammatica: Or, the Ready way to the Latin Tongue: Containing most
+plain Demonstrations for the regular Translating English into Latin; fitted to
+help such as begin to (...) that Tongue. By F. B. 8vo.
+
+Mr. Nathaniel Vincents Funeral Sermon. Preached by Mr. N. Tailor. 4to.
+
+Mr. Woodhouse's Sermon. Preached to the Secreties for Reformation of Manners.
+8vo.
+
+Hydrostaticks: Or, Instructions concerning Waterworks. Collected out of the
+Papers of Sir Samuel Morland. 12o.
+
+Mr. Addy's Short Hand Bible.
+
+Mr. Shower's Sermon on the Death of Mr. Not. Oldfield, who departed December
+31. 1696. 8vo.
+
+The Dying Man's Assistant: Or, short Instructions for for those who are
+concerned in the Preparing of Sick Persons for Death. 12o.
+
+Mr. Stephen's Thanksgiving Sermon before the Lord Mayor and Aldermen, at St.
+Mary le Bow, April 16. 1696. 4to.
+
+Mr. Shower's Thanksgiving Sermon, April 16. a696. 4to.
+
+Mr. John Howard's Assize Sermon at Buckingham, July 5. 1692. 4to.
+
+M. John Mason's little Catechism, with little Verses, and little sayings for
+little Children. 8vo.
+
+

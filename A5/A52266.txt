@@ -1,0 +1,3477 @@
+An Introduction TO THE ART OF Logic: Composed for the use of English Schools,
+and all such who having no opportunity of being instructed in the Latin
+Tongue, do however desire to be instructed in this liberal Science.
+
+By John Newton. D.D.
+
+LONDON, Printed by E.T. and R.H. for Thomas Passenger at the Three Bibles on
+London Bridge, and Ben. Hurlock over against St. Magnus Church. 1671.
+
+TO THE Worshipful HENRY MILBERNE Esquire Recorder of Monmouth.
+SIR
+IT is now twenty years and more, since first I thought that we in England were
+infinitely out, in our way and Method of educating youth; and although I did
+attempt something (in the time of our late toubles) toward the redress thereof;
+yet must I acknowledge that my conference with you, has not only rivetted me
+in my former persuasion, but much animated and encouraged me to reassume my
+former attempt. And though I find my proposals to be much slighted and
+contemned in general; yet till some persons of worth and learning, shall by
+force of argument convince my judgment, I shall not easily be persuaded to
+desist; but shall hope that there may be yet found some to join with you in
+giving encouragement to such an Honorable undertaking, as is the teaching of
+youth all the sciences in their own Tongue: An introduction to the last and
+highest of them, the Art of Logic, I here tender the world under the Patronage
+of your name, to let it know as well your zeal for your Country, as my
+gratitude for the many favors I have received from you: and if at last I can
+persuade some few to give their children such education in their own tongue,
+(before they attempt any thing in other languages) as may in some good measure
+fit them for all employments both by Sea and Land, God shall have the Glory,
+they and their Country the profit; and I in that shall think my self abundantly
+satisfied for all the pains that I have yet, or shall hereafter undertake; and
+the rather, because I hope thereby to make it appear, how much I am*
+
+Sir Your faithful Servant to command John Newton.
+
+TO THE TEACHERS OF ENGLISH.
+YOu are they to whom this Nation is beholding for the first foundation of all
+literature; by you are all our youth first cultivated and instructed not only
+in Letters and Morality, but in the Principles of Religion also; and I could
+heartily wish, that your encouragements were more suitable to your
+indefatigable pains, great worth, and honorable calling: But alas! I cannot
+but be deeply sensible not only of the mean reward usually given to you, but
+also of the great scorn to which you are too often liable: but let not this
+discourage you, in these your pious, as well as honorable undertakings, but
+let it rather heighten your spirits and increase your courage, not only
+patiently to undergo all those unjust contempts, that are by foolish men thus
+rudely cast upon your persons; but also to scorn the scorners; and to this
+purpose let me entreat you, for the glory of God, the edification of his
+Church, and the good of your Country, to look a little further than the bare
+teaching of children to read: be not so forward and willing to quit you of
+those tender plants, by sending them to Latin Schools (for their further
+instruction and greater advantage as you perhaps may think;) for your parting
+with them so very early, does not only hinder their cheerful progress in the
+Latin and Greek tongues, but for ever debar them from all opportunities of
+getting that knowledge in Writing, Arithmetic and Geometry, which would
+capacitate them for those callings, to which the meanness of their parents
+fortunes does and will enforce thousand thousands of them. Let your industry
+therefore prevent their being sent either to them that shall do them no good at
+all, (I mean the Latin master,) or yet to those, that are only skilled in the
+dexterous use of a Goose quill: for as for Arithmetic, to the shame of that
+whole society, there are very few that are able to teach a child so much as is
+required to compute the quantity of a glass window; so that you need not
+despair of gaining so much your selves, as will enable you to do that work as
+well as they; and as for writing, the world does swarm with so many excellent
+copy-books, that it is no hard matter for you to make it appear, what a useless
+creature a bare penman is, I mean such an one as is neither able nor willing
+to teach children to read, nor that which they chiefly profess the art of
+Arithmetic. Nor will the Theory or Practick of vocal music be any impossible
+thing for you to undertake; but this accommodation would certainly ensue, that
+all congregations would perform the part of their devotions to God with far
+greater harmony than now they do; all Cathedrals would be better furnished with
+Queristers and singing-men, and all churches with far more fitting
+parish-Clarks: yea, and such helps there are for Astronomy also, that you may
+with wonderful ease have a competent knowledge in that noble science. Would you
+therefore but take upon you (as easily you might,) the teaching of these
+things, your Scholars would not only proceed with great delight, but the
+visible profit that would thereby accrue to them, and the whole nation, would
+certainly remove very much of that scorn and contempt under which you now
+groan. And now to complete this work, and to confine the Latin master to those
+children only, that are intended for some learned profession, acquaint those
+that are under your tuition with the Elements of Rhetoric, and not of
+Rhetoric only, but also of Logic. These two Sciences have such a natural
+dependence on one another, that they are not fit to go asunder, and therefore
+as my Rhetoric is ready for you, so here I now present my Logic to you as the
+seventh and last part of an English Academy; the which I have composed from
+those well known and yet received compendiums of this art, which have been
+heretofore published by the late learned Prelate Bishop Saundersou, Mr. Airy,
+Mr. Smith, Burgersdicius, and others; and do believe that the teaching of all
+these Sciences in the English tongue, would make an increase of knowledge in
+our land to an admiration, and exceedingly further all those that are intended
+for learned professions, in the attaining of the Latin and Greek tongues, or of
+any other language: but do with all know how hard a matter it is to persuade
+the world, from their wonted and received practice: and therefore I shall only
+wish well to the things that I have propounded, and leave them to be more or
+less made use of by you, as you shall be persuaded in your own minds.
+
+J. Newton.
+
+The First Book OF THE ART of LOGIC.
+CHAP. 1.
+Logic is an Art which conducteth the mind in the knowledge of things.
+
+In this Definition two things are to be explained.
+
+1. The name of the thing defined. 2. The Parts of the definition.
+For the first of these, Logic has its name from this word (...), which
+signifies speech, and according to Aristotle, speech is twofold, internal, and
+external. Internal speech he calls that which is conceived in the mind: And
+that he calls external, which is expressed by words; now Logic has its name
+from both these kinds of speech but chiefly from the internal, which is the
+reason or ratiocination of the mind, whereas the external speech is but the
+interpreter of the internal.
+
+This word Logic may be taken two ways.
+
+1. For the Habit which is gotten by precept and practice. 2. For the Systeme
+of Logical precepts, by which that habit may be more easily acquired.
+And this definition of Logic does bessute with it in the first acceptance;
+though I shall here speak of it in the second; namely as it is taken for the
+Systeme of Logical precepts.
+
+The parts of this definition are two, the Genus and the differentia; the Genus
+or general name here given to Logic is Art not a manual art, or handy-craft
+trade but an internal and mental art; for the mind has its artificial workings
+as well as the body, as is manifest even in Poetry.
+
+The difference or particular name, by which it is distinguished from other
+arts will be best conceived by considering three things; the End, the Offices
+and the Object thereof.
+
+The last and principal end of Logic is, the knowledge of things, and its
+chief Offices by which this End may be attained, are these three.
+
+1. To define things that are obscure. 2. To divide things that are general and
+universal. 3. To reason concerning things dubious.
+And the matter or Object about which it ^reateth, is, all that we can possibly
+either conceive in our minds, or utter with words; but the manner how this
+matter is to be considered, is not as things are in their own nature, but ^s
+the Instruments of Logic may be applied unto them.
+
+The parts of Logic therefore are these two; Thematical and Organical.
+
+The Thematical part is that, which treats of Theams with their various
+affections, and second notions, as of the matter of which Logical Instruments
+are composed.
+
+The Organical part, is that, which treats of those Instruments, and their
+composition.
+
+CHAP. II. Of Simple and Compounded Theams.
+A Theme is any thing propounded to the understanding that it may be known.
+
+1. To know is to form a conception or notion of the thing proposed: And a
+Notion is the representation of a thing in the understanding. 2. Notions are of
+two sorts Primary or Secundary. 3. A Primary Notion is that which represents
+the thing as it is in it self. 4. A Secundary Notion is that which together
+with the first Notions represents the manner how the mind does either
+understand a thing, or explain its own understanding unto others. 5. Theams are
+either Simple or Compound. 6. Simple Theams are such Theams as are apprehended
+without any composition of Notions; as a man, a house. 7. Compounded Theams are
+such, as are understood by two or more Notions, being joined together in the
+affirmation, or in the negation of a thing, as a man does run. 8. A Simple
+Theme is either universal, or particular. 9. An universal Simple Theme is that
+which in its own nature may be spoken of many in one and the same respect, and
+that univocally and without any ambiguity, as, a man, a horse, a plant. 10. A
+Particular or Singular Theme is that which in its own nature can be spoken of
+no more than one, as, Socrates Plato; for though the names of Socrates and
+Plato may be given to many, yet that is by way of imposition, not of their own
+nature; names as names are naturally spoken of no more than one. 11. Singular
+Theams are called individuals, because they cannot be divided into any more of
+the same name and nature. 12. And Individuals are of two sorts.
+1. Such as are certain and determinate; the which may be expressed three ways.
+
+1. By a proper name, as Alexander, Paul; which signifies some certain and
+determinate particular. 2. By a Pronoun Demonstrative; as this man. 3. By
+Circumlocution or Paraphrase, as the Apostle of the Gentiles, that is, Paul.
+2. Such as are uncertain and indeterminate, which does indeed express a
+particular thing, but this or that indefinitely, as some man.
+
+3. An Universal simple Theme, otherwise called a Predicable, may be spoken of
+two ways.
+
+1. By declaring what a thing is, and then it is spoken of such things as do
+differ; either 1. In Species, and is called Genus, as a living creature,
+color; or 2. In number only, and is called Species, as a man.
+2. By declaring what kind of thing it is, of which it is spoken, and that
+either, Essentially, and is called Difference: or Accidentally, and that either
+Of necessity, and then it is called a proper Accident: as the Risible faculty
+in man, or Not of necesity, and then it is called a common or simple Accident,
+as white.
+
+CHAP. III. Of Genus and Species.
+A Genus or General may be taken two ways.
+
+1. Civilly, and then amongst Grammarians, it notes the distinction of Sex;
+but amongst Orators it is taken for a Multitude which had their beginning from
+some one; thus the Romans are said to be the Genus or race of Romulus: or else
+it is taken for that one from whence that multitude had it is beginning; thus
+Romulus is the Genus or person from whence the Romans had their rise. 2.
+Logically, and then it is Universal, which is spoken of many that do differ in
+the Species, by declaring what a thing is; and thus taken, it is either
+Supreme, and so a Genus as that it cannot be a Species; and of this sort there
+are ten Generals or Predicaments; or
+
+Subaltern; and so a Genus, in respect of those things which are contained
+under it, and a Species in regard of that, under which it is it self contained,
+as a living creature.
+
+2. A Species also may be taken two ways.
+
+1. Civilly as it is used amongst Orators, and so it is taken for the external
+form, and beauty of the body. 2. Logically, and so it is an Universal, which
+may be spoken of many, that differ in number only, by declaring what a thing
+is. The Genus in this definition is this word Universal, the rest of the
+definition is put for the difference, in which by these words, spoken of many
+by declaring what a thing is, Difference and Accident, whether proper or
+common, are both excluded; and by these words differing in number only, Genus
+is excluded also.
+3 A Species is either
+
+Subaltern, that is species of one and Genus of another; or Most Special, that
+is so a Species, as that it cannot be a Genus, as a Horse, a man.
+4. The Canons or Rules of Genus and Species are these following.
+
+1. Every Genus must have two or more Species. 2. Nothing can be said of the
+Genus, which may not be also said of every Species; and the Species is
+conserved in every Individual. 3. Every Genus and Species may be alike
+predicated of all that are under them.
+CHAP. IV. Of Difference.
+DIfference is threefold.
+
+1 Common which is some seperable Accident that does distinguish one thing from
+another, as white, to walk, and does belong to the fifth predicable: It is
+called Difference as it makes to differ, and an Accident because it is
+inherent. 2. Proper, which is either an inseparable Accident, in the fifth
+predicable, or a proper Accident in the fourth predicable, as Quantity,
+Risibility. 3. Most proper, by which one thing does differ from another
+essentially: and this is that Difference which belongs to this third
+predicable.
+In which we are to consider three things.
+
+First what this Difference is, and it may be defined three ways.
+
+1. Difference is an universal, by which one Species is essentially
+distinguished from another: thus Rationality does distinguish a man from a
+beast. 2. Difference is an Universal, according to which a Species does excel
+its Genus: because a Species does in it is essence contain such differences as
+the Genus in its essence does not contain. Thus man by reason of his
+Rationality does excel a living creature in General, which is the Genus of man.
+3. Difference is an universal, which may be spoken of many differing in Species
+or number, and declaring essentially what kind of thing it is of which it is
+spoken. And this is the definition of difference, as it is a predicable.
+Secondly, we are to consider how many fold this difference is, the which is
+either 1. Divisive, by which the Genus is divided into its several Species; as
+by rational, and irrational, a living creature is divided into a man or a beast.
+
+2. Constitutive, which does essentially constitute some Species, and this is
+two fold.
+
+1. Generical, which does constitute some remote Species but not the next, for
+the next is the Genus; thus sensibility in respect of man is a Generical
+difference constituting first a living creature and remotely man. And this is
+always spoken of many differing in Species or number. 2. Specifical, which does
+constitute the nearest Species; as rationability does constitute man.
+3. We are to consider its properties which are six.
+
+1. Every difference is, an Essential part of its Species, and of every
+individual of which it is spoken. 2. Every Difference is Divisive, in respect
+of its superior, and constitutive in respect of its inferior. 3. Every
+difference is in nature before its Species, and is the internal cause thereof.
+4. No difference is directly in the predicamental order, but indirectly only
+and collaterally. 5. Every difference is immediately spoken of one, viz. its
+Species, and mediately of many. 6. No difference is spoken of that Species of
+which it is the difference, by way of more and less.
+CHAP. V. Of Proper and Common Accidents.
+AN Accident is taken two ways.
+
+1. For all that which is not of the essence of the thing: and thus a man in
+respect of an house may be called an Accident, because he is not of the essence
+of an house, but so it is not taken here. 2. For that only, which is inherent
+in some subject, and this is two fold, Proper and Common.
+1. A proper Accident is that which is convertible with his Species,
+perpetually inherent in every of them, and in no other; and this does
+constitute and belong to the fourth predicable.
+
+It may be other ways defined, thus
+
+A proper Accident, is an universal, which may be spoken of many differing in
+Species or number accidentally, and of necessity declaring what kind of subject
+it is of which it is spoken: and thus risibility is spoken of man. And this is
+two fold.
+
+1. Generical, which flows from the essence of the subal^ern Species or highest
+Genus, and this is always spoken of many Species. 2. Specifical, which flows
+from the essence of the lowest Species, and this is spoken of one Species only,
+and many individuals.
+2. A Common Accident, is that whith is not convertible with his Species; and
+this does constitute and belong to the fifth predicable; and may be otherwise
+defined three ways.
+
+1. A common Accident, is an universal, which may or may not inhere in the
+subject, without the destruction of the subject, as man is the subject of
+whiteness, but the not being white does not presently make him not to be a man.
+2. A common Accident, is such an universal as is neither Genus, Species or
+Difference, no nor proper to the subject, though it be always inherent in it.
+3. A common Accident, and an universal, which may be spoken of many, differing
+in Species or number; accidentally declaring what kind of subject it is, of
+which it is spoken inconvertibly, and thus whiteness is a common accident
+belonging to man.
+A common Accident is twofold.
+
+1. Seperable, which may be actually separated from the subject in which it is
+inherent; thus whiteness may be separated from man. 2. Inseparable, which
+cannot be actually separated from the subject in which it is inherent, but only
+in the mind or understanding; thus blackness is inseparable from an Ethiopian,
+though in speaking of one, I am not always bound to consider his blackness.
+The Canons or Rules are these, 1. Every Accident is in some Subject, and
+always inherent in it. 2. Every Accident, if it be separated from the Subject
+in which it once was, perishes. 3. No Accident can pass from one Subject to
+another. 4. Some accidents may be more or less in a subject, but not all. 5.
+Every accident is in nature after his subject. 6. Whatever is inherent in a
+subject is an Accident.
+
+
+CHAP. VI. Of the Antepredicaments.
+COncerning Simple Theams we are to consider two things.
+
+1. The several ranks or orders to which all Simple Theams may be reduced, and
+in which they may be ranked and placed. 2. The way and means by which they are
+or may be interpreted.
+The particular Orders to which all Simple Theams may be reduced, are otherwise
+called Predicaments, of which we are to consider three things.
+
+1. The Antepredicaments, which are first to be learned, because the knowledge
+of them conduces much to the understanding of the Predicaments themselves. 2.
+The Predicaments, which are ten Orders to which, as is said, all Theams must be
+reduced. 3. The Post-predicaments, which must be handled after the
+Predicaments, because the perfect knowledge of the Predicaments cannot be
+attained without these.
+I begin with the Antepredicaments, the which are three in general; and seven
+in special, to wit, three Definitions, two Divisions and two Rules.
+
+The Definitions are of Aequivocals, Vnivocals, and Denominatives.
+
+Aequivocals are such things as have their name common to many. But the reasons
+for which it is applied to many are diverse; as that Domestic living creature
+is called a Dog, and a certain Star in the Heavens is called a Dog; now the
+name Dog is common to both, but the domestic creature is called a Dog for one
+reason, to wit from barking; the Star is called a Dog, for another reason viz.
+the Anology that it has to a Dog. So a living man and a painted man agree in
+the common name of men, but the reasons for which they are so called are
+diverse.
+
+The common names which for diverse reasons are given to the several things
+signified by them, are called Aequivocating Aequivocals, and the things
+expressed by those names, are called Aequivocated Aequivocals, thus a man is an
+Aequivocating Aequivocal; a living man and a painted man are Aequivocated
+Aequivocals.
+
+Aequivocals are either such as are.
+
+1. By chance, of which no reason can be given for their being called by that
+common name, or 2. By counsel, of which some reason of dependency or similitude
+may be given for their being called by that common name, as a living man and a
+painted man, and those are Synechdochically called Aequivocals by Analogy.
+Of both which these Canons are to be observed.
+
+1. Aequivocal words if they be not distinguished, and taken in one sense, are
+of no use in any science. Every Ens or Entity in respect of the ten
+Predicaments, is a common Analogous thing. 3. Every Analogous thing put by it
+self is to be taken in the most common signification.
+Vnivocals, are such things as have a common name, and the reason for which it
+is applied to many, is one and the same in them all; thus the name of a living
+creature is common both to man and beast.
+
+The common names which are for the same reason attributed unto many are called
+Vnivocating Vnivocals. And the things expressed by these names are called
+Vnivocated Vnivocals; thus a living creature is an univocating Univocal; and a
+man, a Bull, a Lion are univocated Vnivocals.
+
+Denominatives are such words, as being of near affinity in sound and
+signification, d^ differ in termination; as Justice and Just.
+
+In every Denomination there are three things.
+
+1. The Form denominating; and that is some Accident in the Abstract, which is
+inherent in the subject; as Justice. 2. The Subject Denominated, and that is a
+substance in which the form is inherent, as Socrates. 3. The Denominative, and
+that is some Accident in the Concrete, which is predicated of the subject, and
+rises from the form, as Just.
+The Form Denominating, and the Denominative, as Justice, and Just, in
+reference to The Word Agree in the beginning. Differ in the end.
+The signification Agree in the thing, and Differ in the manner.
+
+
+
+The use of these Definitions, is, that the form of predication Aequivocally,
+Vnivocally and Denominatively may be the better known.
+
+1. Aequivocal predication is in reference to the name, but not in reference to
+the defininition, and thus every ens or entity is predicated of in the ten
+predicaments. 2. Univocal predication is in reference to the name and
+definition both; thus superiors are predicated of the inferiors of the same
+^^edicament. 3. Denominative predication, is to be predicated in the Concrete,
+as an Accident is predicated of its subject, thus the Accidents in ^he nine
+last predicaments are predicated of the ^ubstances in the first.
+The Divisions belonging to the Antepredicaments are two, one is of words and
+the other of things.
+
+A Word is either Simple or Compound.
+
+A Simple Voice or Word is threefold.
+
+1. In respect of the sound only, when one word does signify many things, as a
+Dog, and every aequivocating aequivocal. 2. In substance and signification,
+when more words than one, are used to express one thing as a living creature,
+for an Animal. 3. In sound and substance both, when one word does express one
+only thing, as a man, an Animal.
+A compounded voice or word is also threefold.
+
+1. In respect of the sound only, as when more words than one are used to
+express one only thing, as a living body for an Animal. 2. In substance and
+signification, when one word expresses diverse things, as a Dog is one word,
+but has diverse significations, as every aequivocating aequivocal has. 3. In
+sound and substance both, as when they are diverse words, and these diverse
+words do signify more things, as these words a learned man, do signify the
+substance and the quality.
+Things are either Universal or Particular, and both of them are either
+substances or accidents.
+
+1. Universal substances are spoken of the subject but are not in it, as a man
+is predicated of Socrates and Plato, but inhereth not in any subject. 2.
+Particular substances are neither predicated of the subject, nor inherent in
+it, because they are individual substances, as Socrates. 3. Universal accidents
+are both predicated of, and inherent in their subjects, as Whiteness is spoken
+of this, or that Whiteness, and may be inherent in a man, or a wall, or a ship.
+4. Particular accidents are not predicated of any subject, but are inherent in
+some, as this whiteness is in Socrates.
+A Subject is either of inhesion or predicati^n.
+
+A Subject of inhesion is that in which some accident does inhere; thus a wall
+in respect of whiteness is a subject of inhesion, and accidents only are
+capable of such a subject.
+
+A subject of predication, is that of which any thing is predicated
+essentially: and so every inferior thing is the subject of his superior;
+every universal substance as well as every universal accident, is capable of
+such a subject.
+
+A thing may be said to be inherent in a subject eight several ways.
+
+1. Perfectively, as a part is in the whole, and thus a hand may be said to be
+in a man. 2. Comprehensively, as the whole is in its parts, and thus a man may
+be said to be in all his members. 3. Potestatively, as a Species in its Genus,
+thus man may be said to be in an Animal. 4. Actually, as a Genus in its
+Species, thus an Animal may be said to be in a man. 5. Authoritatively, as a
+King in his Kingdom. 6. Eminently, as a thing in the end thereof, and thus
+virtue may be said to be in happiness. 7. Circumscriptively, as a thing in its
+place, thus Socrates may be said to be in a house. 8. Inherently, as an
+Accident in its Subject, and thus heat may be said to be in fire.
+Of these several ways we are here to understand the last only, to wit of
+Inhesion, as heat is in fire, or as an accident in its subject.
+
+The first Antepredicamental rule is this: Whatever may be spoken of the
+predicate, may be spoken of the subject of that predicate also; as whatsoever
+may be spoken of an Animal, may be spoken of every sort of Animals, as of men,
+beasts, and such like.
+
+The limitations of this rule are many, but the most considerable are these
+three.
+
+1. That you proceed not from words t^ things, that is, from words of the
+first, to words of the second intention: whence it follows not: Animal is a
+Genus, A man is an Animal, therefore man is a Genus. 2. That you pass not from
+one side of the predicamental order, to the othr, and hence it does not follow;
+Man is an Animal, an Animal is rational or irrational, therefore man is
+rational or irrational. 3. That you proceed not from the concreet to the
+abstract; and hence this does not follow; A man is just, Justice is a quality
+therefore a man is a quality.
+The second Antepredicamental rule has two parts. The first is this; subaltern
+Generals have the same Species and differences; as a body and an Animal have
+the same diffe^ences.
+
+The second part is this: Generals not Subaltern have not the same Species and
+differences; as substance and quality.
+
+They are said to be subaltern Generals, whereof one is essentially contained
+by the other; as an Animal and a Body.
+
+And they are said not to be Subaltern Generals, where the one is not
+essentially contained of the other; as an Animal and a science.
+
+The chief use of this Rule is, to prevent the confounding of the Predicaments,
+and to distinguish things between themselves, that do belong to diverse
+predicaments.
+
+CHAP. VII. Of the Predicaments in General.
+THe particular orders or predicaments, to which all simple Theams may be
+reduced are ten, of which some are more principal some less.
+
+2. The more principal predicaments are the first six; and these are of two
+sorts; one of substance and the other of accidents.
+
+3. Predicamental ranks or Orders of Accidents are of two sorts. 1. Absolute as
+the predicaments of Quantity, Quality, Action an^ Passion, 2. Relative as the
+Predicament of Relation.
+
+4. The less principle predicamental ranks o^ orders, are these four: When,
+where, situation, and Habit. And in these ten predicament are all to be ranked,
+which can be predicated or spoken of any thing, Directly, Collaterally, or by
+Reduction.
+
+First then, Directly and primarily, ever supreme Genus, or every thing of
+which the supreme Genus may be predicated essentially may be placed in the
+predicamental scale and thus all Generals, Specials, and Individual are placed
+in them.
+
+Secondly, Collaterally or sideways; and so some things are placed in the
+predicamenta^ order, which are not spoken or predicated o^ the supreme Genus,
+but yet do divide the Generals and constitute the specials, and thus essential
+differences only are there placed.
+
+Thirdly, indirectly or by Reduction: thu^ Matter and form are in the
+predicament o^ Substance; a point and unity in quantity, and a proper accident
+is in the same predicament with its Species.
+
+The Canons or Rules are four.
+
+1. All words of Ambiguity or doubt, at least before they be distinguished and
+limited, with all feigned and impossible things, are excluded the predicamental
+order. 2. Every real finite, simple and Univocal thing is in some predicament,
+directly, collaterally or by Reduction. 3. Individuals are in some predicament,
+not for themselves, but by reason of their Species. 4. No one and the same
+numerical thing, can be in diverse predicaments, either in one respect or in
+diverse.
+CHAP. VIII. Of Substance.
+A Substance is a thing subsisting of itself, and it is either first or second.
+
+2. The first substance is a singular substance, or a substance that cannot be
+predicated of its subject; as Alexander, Bucephalus.
+
+3. The second substance is an universal substance, or a substance which may be
+predicated of its subject, as a man, a horse.
+
+4. The first substance is chiefly and properly a substance, and among the
+second substances, every one is by so much more a substance, by how much it is
+nearer to the first.
+
+The Rules or Properties are six.
+
+1. A Substance is not in its subject. This agrees to every substance, and to
+every substance only, but not only to those which are completely so, but to the
+differences and parts of substances also. 2. A Substance is univocally
+predicated of those things of which it is predicated. This agrees to all
+second substances and their differences, and no other, for the first substances
+are not predicated of any subject. 3. Every first substance, does signify some
+particular thing. 4. A substance, as it is a substance, is not contrary to
+another, but as it has accidents or qualities: thus fire and water are
+contrary, not as they are substances, but in reference to their qualities of
+heat and cold. etc. 5. A Substance, as it is a substance, is not varied by
+degrees, or receives not more and less, but the variance or comparison is in
+respect of accidents; as a wise man and a fool, an old man and a child: one
+water hotter than another; these differ in qualities not in substance. 6. One
+and the same numerical substance, is capable of contrary Accidents. As water
+may be now seething hot, and anon as cold as Ice.
+CHAP. IX. Of Quantity.
+HItherto we have spoken of the predicament of Substance, those of Accidents
+now follow; and first those that are absolutely so; as Quantity, Quality,
+Action, and passion.
+
+2. Quantity is an absolute Accident, by which a thing is said to be great, in
+bulk or number.
+
+3. And hence quantity may be said to be twofold, continued or dissevered.
+
+4. Continued Quantity is that, whose parts are joined together by a common
+term.
+
+5. Dissevered Quantity is that, whose parts are not joined together by a
+common term, and this is nothing else but number.
+
+6. Continued Quantity, is either successive, whose parts consist in
+succession; and then it is time: or permanent, as magnitude, and place.
+
+7. Every Magnitude is either, a line, a superficies or a body.
+
+8. A line is a Magnitude which can be divided but one way; the limit whereof
+is a point, for every line is made, continued, and bounded with a point.
+
+9. A Superficies is a Magnitude which may be divided two ways; the term or
+limit thereof is a line.
+
+10. A solid or body, is that, which may be divided three ways, namely by
+length, breadth, and thickness, whose term or limit is a superficies.
+
+11. Place is that which measures something beside the subject in which it is,
+namely the thing which is placed; this seems to be referred to a superficies:
+for, Place (according to Aristotle lib. 4 phys. cap. 14) is the superficies
+next to the body that is contained in it.
+
+The Canons or Rules are three.
+
+1. Nothing is contrary unto Quantity in it self, but in reference to its
+Qualities only; thus winter is contrary unto summer, in respect of heat and
+cold. 2. Quantity cannot receive more or less. As one house is not more or less
+a house than another; though one be a greater house than another. 3. Things may
+be said to be equal or unequal, in respect of Magnitude or greatness.
+CHAP. X. Of Quality.
+QUality is an absolute accident, by which it is simply and determinately
+declared wh^^ kind of thing that subject is, of which it is the quality.
+
+2. Quality is the most copious of all the predicaments; and it is of two
+sorts, Patible or Impatible.
+
+3. An impatible quality, is such a quality, as does not cause any passions in
+the senses, or any way affect them: and this is either innate or acquired.
+
+4. An acquired quality, is such a quality, as is begotten by labor; and this
+Aristotle makes the first species; and this is either hardly removed from the
+subject, and is called a habit, as virtue: or easily removed from the subject,
+and is called disposition, as a disposition unto virtue.
+
+5. An innate, or inbred quality, is such a quality as is natural, and this
+Aristotle makes the second species; this makes the subject apt and fit for
+action, and is some natural faculty or power, as risibility is a faculty
+naturally belonging unto man.
+
+6. A Patible quality, is such a quality as does affect the senses and causes
+passion in them: and that either, by it self or by accident.
+
+7. A Patible quality affecting the sense by it self, Aristotle makes the
+third species, and is that which either affects the body or the mind.
+
+8. A Patible quality which does by it self affect the body, is either such a
+quality as cannot be easily moved, as whiteness or such a quality as may be
+easily removed, and is some passion of the body, as blushing.
+
+9. A Patible quality which does of it self affect the mind, is also either
+hardly removed, as inveterate anger, or easily removed; as some sudden passion
+of love, or hatred.
+
+10. A Patible quality which does affect the senses, or causes passion by
+accident, Aristotle makes the fourth species, and this is external proportion,
+either in things natural, and then it is the form of the thing, or in things
+artificial, and then it is the Figure.
+
+11. To the first species of quality, do all the habits of the body belong; as
+health, sickness, and all kind of diseases; and all infused habits, as faith,
+charity, and the gift of tongues; with all disciplines, whether of arts or
+sciences both speculative and practical, as Logic, Geometry, Physics,
+Metaphysics, and Divinity, and all both virtues and vices.
+
+12. To the second species of Quality belong all faculties proceeding from the
+essential forms of all substances; as the faculty of willing, speaking,
+laughing in man, of neighing and running in a horse; and the virtue of herbs,
+metals and stones; all occult qualities, as sympathy, and Antipathy, and all
+influences of celestial bodies, the temperament of the body and disposition of
+the mind, and such like.
+
+13. To the third species of quality belong all objects of sense, as of seeing,
+tasting, smelling, hearing and feeling.
+
+14. To the fourth species of quality, belong all Mathematical figures, with
+all natural and artificial forms of bodies.
+
+The Canons or rules of quality are three.
+
+1. Qualities only admit of contrarieties; as heat and cold; the contrariety of
+qualites is most discernable in the third species, sometimes in the first, but
+not so frequently in the second and fourth. 2. Qualities do admit of degrees,
+asf more and less; but this does not belong to all qualities. 3. Things in
+reference unto their qualities may be said to be like or unlike.
+CHAP. XI. Of Action.
+Action is an accident, by which a subject is said to be doing: and that by one
+of these three ways.
+
+1. By some intrinsic quality; as fire by its beat acts in the water. 2.
+Instrumentally, as he that effects some thing with a sword or gun, or such
+like. 3. By the very formality of action, and so it is to be taken in this
+predicament.
+2. Action, as it is taken in this predicament is twofold immanent or transient.
+
+3. An immanent action is that, which does not cause any real change in the
+thing that suffers, as understanding, s^ght.
+
+4. A transient action is that, which does occasion a real change in the thing
+that suffers, as heat, cold etc.
+
+The Canons or Rules of Action are three.
+
+1. Action does admit of contrariety. 2. Actions are capable of more and less.
+These two rules are not proper unto actions in respect of themselves, but by
+and for their qualities, by means of which the Agent acts: nor are they
+agreeable to every action: and this is most proper unto action. 3. Every action
+does of it self infer passion.
+5. Passion is an accident by which the subject is called patient; or, it is
+the effect and a certain reception of action: for every passion is received not
+so much by the condition of the agent, as by the disposition of the patient.
+
+6. Passion is either transmutative or intentional.
+
+7. A transmutative passion, is that which makes some real alteration in the
+patient; and answers unto a transient action.
+
+8. An intentional passion, is that which terminateth the action without any
+real alteration in the patient; and this answers to an imminent action.
+
+The Canons or Rules of Passion are three.
+
+1. Passion does admit of Contrariety: 2. Passion admits of more and less;
+both these are to be understood, as in the predicament of action has been
+declared. 3. Passion is of it self and immediate inferred from action: and this
+is is most proper unto passion.
+CHAP. XII. Of Relation.
+HItherto we have spoken of such predicaments as are absolute accidents, come
+we now to that which is respective, namely relation.
+
+2. Relation is a respective accident, by which one thing is predicated of
+another, or by some way may be referred unto another.
+
+3. Relation is twofold, intentional or real.
+
+4. Intentional Relation is that by which some second intention is referred to
+another; thus Genus and species, the cause and the caused, the subject and the
+accident, are things that are related.
+
+5. Real relation is that by which the thing it self is referred unto another;
+and this twofold.
+
+1. Accidental, when one thing is referred not in respect of its essence or
+nature, but only by Accident, as possessor and possession. 2. Essential, when
+one thing is referred unto another according to its nature and essence, as
+Father and Son, Master and servant.
+6. In every Relation, two things are required, the subject and the term.
+
+7. That is called the subject, which is referred unto another, and that the
+term, to which the subject is referred.
+
+The subject is called the Relate, and the term is called the Correlate.
+
+9. The relate and correlate are mutually referred to one another; and that by
+a double relation; in which reciprocation, that which is the subject of one
+relation is the term of the other, and the contrary.
+
+10. In like manner that which is the relate in one relation, is the correlate
+in the other; and the contrary.
+
+11. Every relate or respective is founded in some absolute predicament; as
+aequality in quantity, likeness in quality, Paternity in action.
+
+12. Relates and Correlates, as they are such, are both together in nature and
+knowledge, and so do mutually put or take away one another, as well in being,
+as in knowing.
+
+13. Relates are taken two ways.
+
+1. Materially for those things with which the Relations do agree: as a father
+is taken for the man begetting, the Son for him that is begotten; and so they
+are not together in nature, for the father, as a man, must needs be before the
+son. 2. Formally, for that very relation which is in the subjects, by which the
+terms are mutually referred to one another; as the father to his son, and so
+they are in nature together.
+14. Knowledge and knowable are taken three ways.
+
+1. Both Actually, thus that is called knowledge, by which we actually know a
+thing; that knowable, which is actually known; and so they are in nature
+together. 2. Both potentially as that is called knowable, which may be known;
+and that knowledge, which we may know: and so also, they are in nature
+together. 3. One Actually and the other potentially; and so knowledge is taken
+for that which we actually know, and knowable for that which may be known, and
+so they are not both together in nature.
+The Canons or Rules of Relates are three.
+
+1. Relates admit of contrariety. A Relate is not contrary to its Correlate;
+but one Relate is contrary to another: yet not in respect of themselves but in
+respect of their subjects. This rule therefore does not hold in all, but in
+such relates only, which have contrary foundations or subjects; thus a friend
+and an enemy are contrary, because the foundations of friendship and enmity, to
+wit, wishing well and wishing ill, are contrary. 2. Relates are capable of more
+and less: this rule also holds in respect of the subject or foundation; and
+therefore in those relates only, which have a changable subject or foundation.
+For when the subject or foundation is varied, the Relation is intended or
+remitted. For example, unequal things are made more or less unequal, when
+Quantity, which is the subject of inequality, is in one of the two, more or
+less. 3. Relates are convertible; that is, every Relate is referred to its
+reciprocal Correlate; as a master is the master of a servant, and a servant is
+the servant of some master.
+CHAP. XIII. Of the four last Predicaments.
+HItherto I have spoken of the principal predicaments; the less principal now
+follow and they are four, When, Where, Situation, Habit.
+
+2. The Predicament When, is an Accident, by which finite things are said to be
+in time, past, present, or to come. The words belonging to this predicament,
+make answer to such questions, as are made by this word, When, as to day, to
+morrow, yesterday, and the like. The properties thereof is, to accommodate
+time, to persons, things or Actions.
+
+3. The Predicament where, is an Accident, by which things finite are said to
+be in some place; where, is not the place it self, but notes the manner or
+circumstance of place, and makes answer to such questions as are made by this
+word where; as at home, within, without, in this or that Country, etc. The
+property thereof, is to accommodate place, to persons, things, and actions.
+
+4. The Predicament of Situation is a certain Ordination of parts and
+generation, or, a placing of parts in Generation: to make up situation a
+threefold habitude is required.
+
+1. Of the parts of some whole among themselves. 2. Of the parts of some whole
+unto that whole. 3. Of the parts and the whole in reference to place.
+Yet every ordination of parts is not site or situation, but that only which
+they have in the whole by Generation. The property thereof is to be the
+nearest assistant unto substance of all the extrinsecal respective accidents.
+
+All gestures and positions of body belong to this, as standing, sitting,
+walking, etc. Not as they signify these actions, but as they signify the
+position and order of the parts in the whole, or in some place.
+
+5. The predicament of Habit, is an accident by which some garment, or
+something like a garment, is put about, hanged upon, or any other way joined to
+a body. The body having it, is a substance; the thing habiting is always some
+artificial form belonging to the fourth Species of Quality. The Application of
+this to it, is that which makes this predicament; The property thereof is
+always to be inherent in many, in the habit, and in him that has it, but in
+diverse respects; for it is in the body that has it, as in a subject, in the
+habit or thing framed, as in a cause.
+
+To this belong all kind of garments, whether they be such as are used for
+necessity, as shoes for the feet, and clothes for the rest of the body; or for
+distinction, as a Mitre, a Gown whether for Divines, Lawyers or Citizens; or
+for ornament, as rings, Jewels, Deckings, and the like.
+
+CHAP. XIV. Of Opposition.
+HAving done with the Antepredicaments, and the Predicaments themselves, the
+Postpredicaments now follow, and they are four.
+
+Opposition, Order, Motion and Manner of having.
+2. Opposition is such a repugnancy of two simple terms, as neither the one can
+agree with the other, nor both of them with a third, after one and the same
+manner.
+
+3. One of the opposites is either opposed to, one or to many; those
+oppositions, where one is opposed to many, are called Disparates; as a man and
+a horse, of which Aristotle in his Logic makes no mention, nor are they to be
+reckoned amongst the kinds of opposition.
+
+4. Those oppositions where one is opposed to one, are either of a thing and a
+thing, or of a thing and not a thing.
+
+5. Opposition of a thing and a thing; is either Relative or Contrary.
+
+6. Relative opposition, is between the rela^ive terms, as the relate and his
+correlate: for though the relates do mutually depend upon one another, in
+reference to their simple being, yet are they opposed to one another in
+reference to their being in a subject: as father and son, but this is the least
+kind of opposition: The conditions belonging to these are set down in the
+Predicament of Relation.
+
+7. Contrary opposition is between contrary ^erms: And these are called
+contraries, that being contained under the same Genus, are at the greatest
+distance between themselves, and mutually expel one another, from the same
+subject, that is capable of them; as heat and cold.
+
+8. Contraries are of two sorts, mediate and immediate.
+
+9. Immediate contraries are such as admit of no medium between them, but the
+one of them is always in the subject, that is capable of them, as like and
+unlike, health and sickness.
+
+10. Mediate contraries are such as do admit of some medium; so that though one
+be expelled it is not necessary that the other should be in that subject, from
+which the first is expelled, as white and black.
+
+The Canons or Rules of Contraries are these following.
+
+1. True contrariety by it self is not to be found but in qualities by
+themselves, and absolutely taken. 2. Contraries in the highest degrees, cannon
+be in the same subject; so what is hot in the highest degree cannot be cold at
+all; but in remiss degrees they may both be in the same subject. 3. One of the
+contraries being remitted, the other is intended or heightened and the
+contrary: for every subject capable of two contrary qualities, must needs be
+filled up with the whole possible latitude of one of them.
+11. Opposition of a thing and not a thing, is either privative or
+contradictory.
+
+12. Privative opposition, is between Habit and privation. And Habit is the
+presence of a thing in a fit subject; but privation is the absence thereof: as
+sight is a habit, blindness, privation.
+
+The Canons or Rules are three.
+
+1. Habit and privation are ab^ut the same subject. And hence privation cannot
+properly be, but in that subject which is capable of the Habit; a man therefore
+may be said to be blind, but a stone cannot. 2. Privative opposition requires
+determination of a certain time; neither can privation be spoken of a subject,
+but after the time that by its nature and fitness it might receive the habit;
+as none can be said to be bald, until the time that according to nature, they
+should have hair. 3. From privation to habit there is no regress naturally, the
+privation being perfect; that is, such as does take away the act, and next
+beginnings of habit, and leaves nothing in the subject but the remote
+beginnings thereof; thus he that is once quite blind, cannot ordinarily and by
+natural means ever see again.
+13. Contradictory opposition is between contradictory terms. And those things
+are said to be contradictory, which are expressly contrary as affirmation and
+negation: as a thing and not a thing, a man and not a man.
+
+The Canons or Rules are two.
+
+1. Contradiction is the first of all oppositions, and so the measure of all
+the rest: for in every opposition there is virtually included a contradiction;
+and the opposition is to be thought so much the greater, by how much it comes
+nearer to a contradiction. 2. Between contradictory things, there is no medium;
+neither of abnegation, or of the subject, (and therefore one of the
+contradictory things is affirmed of a thing, and not a thing) nor of
+participation, or of the form.
+CHAP. XV. Of Order, and of that which is said to be together, before, or after.
+ORder is that, according to which some thing is said to be before, or after
+another thing, or together with it.
+
+2. A thing may be said to be before or after another five several ways. 1. In
+time. 2. In nature. 3. In disposition, or order. 4. In honor. 5. In Causality.
+
+3. That is said to be first in time, that is the most ancient; thus Romulus
+was before Cato, and the City Pergamus before that of Rome.
+
+4. That is said to be first in nature, which cannot be reciprocally affirmed
+in consecution of existence; as, there is a man, therefore there is a living
+creature, but it does not follow, there is a living creature, therefore there
+is a man; a living creature therefore is in nature before a man, and every
+Genus before its species.
+
+5. That is said to be first in order or disposition, which is nearest the
+beginning: Thus the Exordium in an oration is said to be before the
+proposition, the proposition before the narration, the narration before the
+confirmation, the confirmation before the refutation, the refutation before the
+conclusion; and in every science or discipline, that is first which is put in
+the first place, and thus letters are before syllables.
+
+6. That is said to be first in honor or dignity, that is the most worthy;
+thus a King is before his Subjects, a Father before his Son, a Master before
+his Servant, Gold before Silver, and Virtue before Gold.
+
+7. That is said to be first in Causality, which is any way the cause of
+another's existence; thus the Sun is before Light.
+
+8. So many ways as a thing may be said to be before another, it may also be
+said to be after.
+
+9. So many ways as a thing may be said to be before another, it may be also
+said to be together with another; but two of the ways are more usual than the
+rest, together in time, and together in nature.
+
+10. They are said to be together in time that are existent at the same time.
+
+11. Things may be said to be together two ways primarily and secundarily.
+
+12. They are said to be primarily together in time, which begin to be at the
+same time, and they are said to be secundarily together in time, when the one
+begins to be, before the other does cease to be; thus Aristotle and Plato are
+said to be cotemporaneous, or together in time; though Plato was born before
+Aristotle, and did also die before him.
+
+13. Things may be said to be together in nature two ways; first simply and
+absolutely, and then in respect of some third.
+
+14. Things are said to be together simply and absolutely, which are
+reciprocally together, according to the consecution of existence, but so that
+the one is not the cause of the others existence. Thus the relate and correlate
+are together in nature; and two effects depending upon the same next cause, as
+risibility and docibility in man.
+
+15. Things are said to be together in respect of some third thing, which under
+the same Genus are in division opposed to one another; thus a man and a beast
+are said to be together in nature, not simply and absolutely in respect of
+themselves, but in respect of a living creature, for a living creature is
+predicated of them both together, and not of one first, and another after. In
+this a Synonymous Genus is distinguished from a homonymous or aequivocal Genus;
+because this is not predicated of its several species together, but of one
+first, and another after.
+
+CHAP. XVI. Of Motion.
+COncerning Motion, four things are to be considered. 1. The Praecognita. 2.
+The Definition. 3. The several kinds. 4. The Rules belonging to it.
+
+2. The Praecognita are either such as concern the definition, or such as
+concern the division thereof.
+
+3. The Praecognita concerning the definition of motion, are three. 1. The
+subject in which it is. 2. The two terms from which, and to what. 3. The
+measure, or instant time, and from these three every motion must be defined.
+
+4. The Praecognita concerning the division of motion, or the several kinds of
+it, are also three.
+
+1. Motion is taken two ways, viz. either generally for any mutation, whether
+it be in time, or in an instant, and thus it comprehends Generation and
+Corruption; or specially for some mutation which is made and measured by time,
+and thus it comprehends these four species, augmentation, diminution,
+alteration and location, and not Generation and Corruption. 2. Motion as it is
+divided here, is motion generally taken, and as it comprehends all these
+mutations. 3. Motion, although it be put as a post-predicament, yet it is also
+in a predicament, but in a diverse manner; it is in the predicament of position
+as it is in its own nature, but here as it is taken in reference to its terms,
+from which, and to what.
+5. Motion, in the general is thus defined. Motion is a mutation made in the
+subject, (viz. either in the first matter, or in the body) from one term to
+another, either in time, or in an instant.
+
+6. Motion is twofold instantaneous or successive.
+
+7. Instantaneous motion is that, which is made in an instant, and this is
+Generation, or Corruption.
+
+8. Generation is an instantaneous motion, which causes a mutation, either in
+the first or second matter, as in the subject, by the privation of form as the
+term from which, to another form as the term to which, the motion is made.
+
+9. Corruption is an instantaneous motion, which makes a change in the same
+matter from a substantial form to the privation thereof, or from a thing to not
+a thing.
+
+10. Successive motion, or motion that is made in time, is either a motion to
+quantity, to quality, or to place.
+
+11. Motion to quantity, is that, whose terms are in quantity, and this is
+either augmentation or Diminution.
+
+12. Augmentation is such a motion, as makes a successive mutation in the
+body, from a less quantity to a greater.
+
+13. Diminution is such a motion, as makes a successive mutation in the body,
+from a greater quantity to a less.
+
+14. Motion to quality, otherwise called alteration, is a successive mutation
+from one contrary quality to another.
+
+15. Motion to place, or local motion, is such a motion, as makes a successive
+mutation in the body, by removing it from one place to another.
+
+The Canons or Rules to be observed, are these five following.
+
+1. Every motion is distinguished by its own term to which it is made,
+considered formally: for although that Augmentation and Diminution are to
+quantity, yet the motion of the one is to a less, and the other to a greater
+quantity. 2. Some motions are distinguished by their measure, as Generation and
+Corruption are distinguished from the rest, for that they are effected in an
+instant, whereas all other motions are performed in time. 3. Some motions are
+distinguished by the subject, as Generation and Corruption are in the first
+matter, other motions in the body. 4. Rest is privatively contrary to all
+motions in the term from which it moves: for, rest is the privation of motion,
+viz. of subsequent motion, though it be the perfection of the precedent. 5.
+Those motions are adversly contrary, whose terms are adversly contrary; for the
+motion from white to black, is contrary to the motion, from black to white.
+CHAP. XVII. Of the manner of Having.
+A Thing may be said to be had eight seral ways.
+
+1. In reference to habit and disposition; and so it is referred to the
+predicament of quality. 2. In reference unto quantity; and so it is referred to
+the predicament of quantity. 3. In reference unto Garments and other things
+which are about the body, or whole; and so it is referred to the predicament of
+Habit. 4. In reference to the having of a thing, in or upon some part; as to
+have a ring upon a finger, and other things which are about the parts, and thus
+it is also referred to the predicament of habit. 5. In referrence to the part
+of a thing, as to have a hand, and this is referred to substance. 6. In
+reference to a vessel, as to have wheat, and this is referred to the
+predicament Where. 7. In reference to a possession; as to have a house, and so
+it is referred to the predicament of Relation. 8. The last manner of having is
+the having a wife; and this according unto Aristotle, is the most improper
+manner of all. And this shall suffice to be spoken of simple Theams, whether
+singular or universal; and of the several predicamental ranks or orders, to
+which all simple Theams may be reduced, and in which they may be ranked and
+placed.
+CHAP. XVIII. Of a Proposition.
+I Come now to speak of compounded Thames And a compounded Theme is by some
+called an Enuntiation by others a Proposition.
+
+An Enunciation, or a Proposition is an indicative, congruous and perfect
+oration signifying true or false without any ambiguity.
+
+Concerning which we are to consider the parts, the kinds and the affections.
+
+The parts of a proposition are two, viz. either the parts signing, or signed.
+
+The parts signing are simple terms, and those are called Simple Terms whose
+parts can signify nothing, when they are separated from the whole, or no such
+thing as they did signify, when they were all joined together, and these are
+either Categorematical or Syncategorimatcal.
+
+1. Categorimatical or significative terms, are such simple Terms as do by
+themselves signify something perfectly, and these are either Nouns or Verbs.
+
+A Noun is a simple term or word, which does signify some certain thing
+without distinction of time; as, a man, a horse.
+
+A Verb is a simple term which does signify something with some distinction of
+time past, present, or to come, as, he runs.
+
+2. Syncategorimatical or consignificative terms are such simple terms, which
+of themselves do not signify any certain thing, or constitute a proposition,
+but being joined with other words are significative, to express the manner of
+such a thing; and such are all words which serve to express the quantity of a
+proposition, as all, none, some etc. all Adverbs, Conjunctions, Prepositions
+and Interjections.
+
+The parts signed are Compounded Terms, or such as do signify the same thing
+being separated from one another, as they did signify when they were joined
+together; and these terms are otherwise called Orations, and an Oration is
+either imperfect or perfect.
+
+1. An Imperfect Oration is that which leaves an imperfect sense in the mind of
+the hearer; as, a rational creature, a learned man. 2. A perfect Oration is
+that which leaves a perfect sense in the mind of the hearer; and this is either
+not enunciative; that is, such an oration as does not express whether a thing
+be true or false, of which there is no use amongst Logicians; or enuntiative,
+that is such an oration, as does express whether a thing be true or false; and
+this may be either with ambiguity, when some word is ambiguous; as there is a
+Dog in Heaven; or without ambiguity when there is no word ambiguous; as in this
+proposition, a man is a living creature. The signed parts of a proposition are
+these three, the subject, the predicate, and the Copula.
+Place this between the 52 and 53 pages, and blot out the four first lines of
+the 53 page.
+
+those are either categorematical, or syncategorematical as was showed before.
+
+The parts signed are three, the subject, the predicate, and the Copula.
+
+1. The subject is all that which preceeds the Copula in the proposition, as,
+man is a living creature; there this word man is the subject. 2. The Predicate
+is all that which is spoken of the subject, as, man is a living creature; there
+these words living creature, is the predicate. 3. The Copula is the principal
+verb joining the predicate to the subject: and every proposition is some person
+of this verb substantive [I am] or of a verb adjective as in this proposition,
+Socrates lived at Athens.
+But here two things must be observed. First, That the subject does not always
+preceed, and the predicate follow the Copula in order of the parts or terms,
+but in sense or construction; as in this proposition. Hard is the way to
+virtue. Where the way to virtue is the subject, and this word hard the
+predicate.
+
+Secondly it is to be observed that a proposition may be either explicit or
+implicit.
+
+1. Explicit, in which the three parts, the subject, the Predicate, and the
+Copula are expressed, as in this proposition, a man is a living creature.
+
+2. Implicit, in which all these three parts, the subject the predicate and
+the Copula are not expressed, but some of them employed, as, I walk. And may be
+resolved by turning the verb into a participle and using some person of this
+verb [I am] and thus this implicit proposition, I walk, is turned into this, I
+am walking; in which all the parts of a proposition are expressed.
+
+As for the several sorts or kinds of propositions we must know, that a
+proposition is distinguished three ways, viz: 1. According to its Substance,
+Quantity, and Quality.
+
+1. According to its substance or parts of which it does consist; and so it is
+either, Categorical or Hypothetical.
+
+1. A Categorical proposition is that which does consist of one subject, one
+predicate, and one Copula, and therefore the matter thereof are simple terms;
+as, a man is a living creature. And this is either Pure or Modal.
+
+A pure categorical proposition is, when the predicate is purely affirmed or
+denied of the subject, without expressing the manner of Affirming or denying.
+
+A modal Categorical proposition is that in which, besides the subject,
+predicate and copula, we add some modification to show how the predicate is in
+the subject. (but of these afterward.)
+
+2. A Hypothetical which does consist of two Categorical propositions joined
+together by some conjunction; as, if a man be a living creature, then a man is
+a body.
+
+Secondly. A proposition may be distinguished in respect of its quality; and so
+first, it is affirmative or negative, and again it is in respect of quality,
+true or false; but if it be asked of what quality a proposition is? it must be
+answered, that it is either affirmative or negative. An affirmative proposition
+is that in which the predicate is affirmed of the subject.
+
+A Negative proposition is that in which the predicate is denied of the
+subject, as a man is not a stone, and this is the formal quality of a
+proposition.
+
+The material quality is that by which it is said to be either true or false.
+
+That is a true proposition which does agree with the thing, as, a man is a
+living creature; a man is not a stone. And that is a false proposition, which
+does not agree with the thing, as, a man is a stone, a man is not a living
+creature.
+
+And because the matter of a proposition may be sometimes necessarily true,
+sometimes manifestly false, and sometimes neither plainly true nor altogether
+false, the quality of a proposition in respect of the matter about which it is
+made, is threefold.
+
+1. Necessary, when the predicate does so agree with the subject from the
+nature of the thing, as that it cannot possibly be otherways; as in this
+proposition, man is a living creature. 2. Imp^ssible, when the predicate is so
+repugnant to the nature of the subject, as that it cannot be as it is affirmed;
+as in this proposition, a man is a stone. 3. Contingent, when the predicate
+has such an indifferent relation to the subject that naturally it does neither
+agree with it, nor yet is repugnant to it; as in this proposition, a man is
+learned.
+In necessary matter, affirmative propositions are always true, negative false;
+as, a man is a living creature, is true; a man is not a living creature, is
+false.
+
+In impossible matter, affirmative propositions are always false, negative
+true, as, a man is a stone, is false; a man is not a stone, is true.
+
+In contingent matter, propositions whether affirmative or negative, are
+neither always true nor always false; for either of them both may be true or
+false; as, a man is learned; a man is not learned.
+
+Thirdly, a proposition may be divided in respect of its quantity, into an
+universal, particular, indefinite and singular.
+
+An universal proposition is that, which has a note of universality added to a
+common or an universal subject; as, every man is a living creature.
+
+A particular proposition is that, in which a note of particularity is added to
+an universal subject; as, some man is a living creature.
+
+An indefinite proposition is that, in which no note whether universal or
+particular is put before the universal subject; as, a man is learned.
+
+A singular proposition is that in which the subject is singular, whether it be
+a proper name, as Socrates is a Philosopher; or, whether it be a common name
+with a note of singularity set before it, as, this man is learned.
+
+For the better understanding of that which has been said we must observe.
+
+1. That a note is not a part of a proposition but the sign of quantity in some
+proposition. 2. That some notes are universal; 1. Affirmative; as, every one,
+always, whenever. 2. negative; as, none, no body, never. Some particular; 1.
+Affirmative; as, a certain man, some body, sometimes. 2. negative; as, not
+every one. Some singular; as all pronouns Demonstratives which design some
+certain; as, this, he, and this world all, when it is taken collectively not
+distributively, as, all the fingers are five. 3. That an indefinite proposition
+in necessary matter is equal to an universal; in contingent matter it is equal
+to a particular: And the matter of a proposition is then said to be necessary,
+when the subject cannot be without the predicate, and then it is said to be
+contingent, when the subject may be without the predicate; as in this
+proposition, a man is learned; the matter is contingent; but in this, a man is
+living creature, the matter is necessary; for he cannot be a man except he be a
+living creature.
+According to this threefold division there arises a threefold question
+concerning a proposition.
+
+What a prop^sition is it? To which it must be answered, Categorical or
+Hypothetical. 2. Of what quality is the proposition? To which it must be
+answered, Affirmative, or Negative. 3. Of what quantity is the proposition? To
+which it must be answered, Universal, Particular, Indefinite, or Singular.
+CHAP. XIX. Of the Opposition of Categorical Propositions.
+PVre categorical propositions, as they have reference to one another, have
+these three affections.
+
+1. Opposition. 2. Aequipollency. 3. Conversion.
+Opposition is the repugnancy of two Categorical propositions either in
+quantity alone, or in quality alone, or else in quantity and quality, in which
+there is the same subject, the same predicate, and the same copula; as in
+these, every man is just: no man is just.
+
+Hence it is apparent that these five conditions are required that any
+proposition may be said to be opposite.
+
+1. That they be two different propositions; and therefore these are not
+opposite, a man is a living creature, a man is a living creature; for these are
+not two but one, not differing or repugnant, but the same. 2. That they be
+different either in quantity or in quality or in both these; therefore these
+are not opposite; some man is learned; not every man is learned; for they
+differ only in their words but not in quality nor in quantity. 3. That both
+propositions have the same subject and the same predicate; therefore these
+propositions are not opposite. A man is white; a man is black; for though these
+simple terms white and black, are in themselves opposite in sense and reality
+of the thing; yet they are not opposite in respect of the form of opposition,
+which is required in propositions, because they have not both the same
+predicate. 4. That both propositions be ad idem, or to the same thing; these
+propositions therefore are not opposite. A Blackmore is white, viz, in respect
+of his teeth. A Blackmore is not white, viz, in respect of his body. 5. That
+they be opposite in respect of the same time; otherways they are not opposite;
+as S. Paul was at Rome, and S. Paul was not at Rome. In reference to distinct
+times both propositions may be true.
+These conditions being observed there are four ways by which two propositions
+may be said to be opposite to one another, Contrarily, Subcontrarily,
+Contradictorily, Subalternally,
+
+Two propositions that are Contrarily and Subcontrarily opposite are opposite
+only in quality; and such as are subalternately opposite, are opposite only in
+quantity. And such as are contradictorily opposite, are opposite both in
+quantity and quality.
+
+Opposition by way of contrariety is the repugnancy of two universal
+propositions in quality; as, every man does run, no man does run. And these in
+a contingent matter may be together both false, but cannot be both together
+true.
+
+Opposition subcontrarily is the repugnancy of two particular propositions in
+quality; as, some man does run, some man does not run; and these in a
+contingent matter may be both together true, but cannot be both together false.
+
+Subalternate Opposition is the repugnancy of 2 affirmative or 2 negative
+propositions in their quantity; as, every man does run; some man does run; some
+man does not run, no man does run.
+
+Contradictory opposition is the repugnancy of two propositions both in quality
+and in quantity; so as that if one of them be affirmative the other shall be
+negative; if one be universal the other shall be particular; as, every man is
+learned, some man is not learned.
+
+Hence it is apparent. 1. That every proposition is opposite to some
+proposition or other. 2. That every proposition which is opposite to another,
+is opposite, either by way of contrariety, subcontrariety, subalternation, or
+contradiction; all which may be easily apprehended from the following Scheam.
+
+Every man is learned. Contrariety No man is learned. Subalternation
+Contradiction Subalternation. Some man is learned. Subcontrariety. Some man is
+not learned.
+
+And thus it has been showed what opposition is, and how many ways one
+proposition may be opposite to another; come we now to the rules to be observed
+in such propositions as are any way opposite.
+
+1. Such propositions as are opposite by way of contradiction, have these four
+Rules or Canons.
+
+1. Contradictory propositions are the greatest, because they are repugnant
+both to quantity and quality. 2. Contradictory propositions can never be ^oth
+true, or both false, if but one be true the ^ther must be false; as, every man
+is just, ^^me man is not just. 3. Every proposition of what quantity or quality
+soever it be, it is opposite unto one, and but to one, by way of contradiction.
+4. In every legitimate disputation, a contradictory proposition is always
+concluded by the Thesis of the respondent.
+And here observe that contradictory propositions are of two sorts, viz. 1.
+Either such as have a common subject; and such are those of which we have
+hitherto spoken; or, 2. such as have a singular subject, and which are two
+singular propositions, having the same subject and the same predicate, but one
+affirmative, and the other negative: as, Socrates is learned, Socrates is not
+learned,
+
+2. The laws of such propositions as are opposite by way of subalternation, are
+two.
+
+1. If the universal or subalternating proposition be true, then the particular
+or subalternated proposition is also true, and the contrary; as, if this be
+true, every man is learned, this is also true, some man is learned. 2. If the
+particular or subalternated proposition be false, the universal or
+subalternating proposition is also false, but not the contrary; as if this be
+false, some man is learned; this shall be also false, every man is learned. 3.
+Propositions which are opposite by way of contrariety have this only rule, that
+they can never be both together true, but they may be both together false, viz;
+in a matter that is contingent; as these are both false, every man is learned,
+no man is learned. 4. Propositions that are opposite by way of subcontrariety
+have one rule, namely this, that they may be both together true, but cannot be
+both together false; as these be true, Some man is learned, Some man is not
+learned.
+And thus much concerning opposition or the first affection of Categorical
+propositions.
+
+CHAP. XX. Of the Aequipollency of Categorical Propositions.
+AEQuipollency is the equivalency of two propositions in sense and
+signification, though they differ in words, by virtue of this word of negation,
+[not] being either set before the sign and subject, after the sign, and
+subject, or, both before and after, in which there is the same subject and the
+same predicate; as, some man is learned, not every man is learned; whence it is
+apparent that to a true aequipollency these conditions are required.
+
+1. That they be two propositions. 2. That these two propositions have the same
+sense, so as that both of them be affirmative, or both negative, both true or
+both false, and both of the same quantity. 3. That they differ in words though
+not in sense. 4. That they be made equivalent by virtue of this word of
+negation, [not] so that these propositions, a man is learned, a man is knowing,
+are materially equivalent, viz. equivalent in the sense, but not formally, and
+as we understand aequivalency in this place. 5. That this word of negation
+[not] be either set before the sign and the subject, or after the sign and the
+subject, or both before and after. 6. That both have the same subject and the
+same predicate.
+Cateoorical proprositions are as many several ways made aequipollent as this
+word of negation [not] may be severally placed; and that is three; for this
+word of negation [not] may be set,
+
+1. Only before the sign and subject, and then it makes two contradictory
+propositions to be aequivalent; as, not every man is learned, some man is
+learned 2. Only after the subject and sign of quantity, and then it makes two
+contrary propositions to be aequivalent; as, no man is not learned, every man
+is learned; this holds if the first be negative. 3. Both before and after the
+sign and subject, and then it makes two subalternate propositions to be equal;
+as, not every man is not learned, some man is learned; all which are fully
+expressed in these Distichs.
+If after sign and subject this [not] be,
+Contraries then, make Aequipollenoie.
+Only before make contradictories,
+But before and aft' are subalternants guise.
+CHAP. XXI. Of the Conversion of Propositions.
+COnversion is an apt mutation of the whole subject, into the place of the
+whole predicate, and of the whole predicate into the place of the whole
+subject, keeping the same quality, but sometimes changing the quantities; as,
+every man is a living creature, some living creature is a man.
+
+In conversion we are to consider the proposition to be converted, which is
+that, whose terms are to be transposed, and this is the first; as every man is
+a living creature.
+
+Then we are to consider the proposition converting, into which the other is to
+be converted, and this is the latter; as some living creature is a man.
+
+This conversion is threefold.
+
+1. Simple, in which the predicate is changed into the place of the whole
+subject, and the contrary, keeping the same both quality and quantity; as no
+man is a stone, therefore no stone is a man. In this conversion an universal
+negative, is turned into an universal negative, and a particular affirmative
+into a particular affirmative. 2. By accident, in which the whole predicate is
+changed into the place of the whole subject, and the contrary, keeping the same
+quality but changing of the quantity; as, every man is a living creature,
+therefore some living creature is a man. In this conversion an universal
+affirmative is turned into a particular affirmative, an universal negative into
+a particular negative. 3. By contraposition, in which the whole subject is
+changed into the place of the whole predicate, and the contrary, keeping both
+the same quality and quantity, but the finite terms are made infinite; as,
+every man is a living creature, therefore every thing that is not a living
+creature, is not a man. In this conversion an universal affirmative is turned
+into an universal affirmative, and a particular negative into a particular
+negative; but this is the most useless, and indeed no conversion, because the
+terms are changed, which in a true conversion, is not to be admitted.
+But that this concerning the terms may be made more clear; we must observe,
+that these terms are said to be. Finite, before which this word of negation
+[not] is not set; as, a man, Infinite before which this word of negation [not]
+is set; as, not a man, not a stone, not learned.
+
+The Rules for conversion are four.
+
+1. If the proposition to be converted be tru^, in a legimate conversion, the
+proposition converting is also true, and the contrary; as if this be true,
+every man is a living creaure, this is also true, some living creature is a
+man; but not on the contrary: for this is not true, every man is learned, and
+yet this is true, some man is learned. 2. Every proposition cannot be converted
+every way, but every proposition may be converted some way; this proposition
+therefore cannot be converted by simple conversion; every man is a living
+creature; for then the proposition converting should be false: that therefore
+it may be known, what propositions may be converted this, or that way, these
+verses are to be considered.
+E. E. I. I. conversion simple make.
+A. I. E. O. of accident partake,
+A. A. O. O. for Contraposits sake.
+In which the four letters A. E. I. O. are thus to be understood. A. signifies
+universal affirmative. E. universal negative. I. partiular affirmative; and O.
+particular negative: according to these Distichs. A. affirms, E. denies, both
+universal are,
+I. affirms, O. denies, but both particular.
+
+
+The first verses show, that E. is to be converted into E. and I. into I. by
+simple conversion; that an universal negative into an universal negative etc.
+so likewise A. into I. and E. into O. to be converted by accident and lastly A.
+into A. and O. into O. by contraposition.
+
+3. That the whole predicate be changed into the place of the whole subject,
+and the contrary. 4. That we beware, that imperfect terms be not taken for such
+as are entire. This proposition therefore; a certain tree is in the field, is
+not thus converted, therefore a certain field is in the tree; but thus,
+therefore a certain thing in the field is a tree. Some man does see one that is
+blind, is not thus to be converted, therefore some one that is blind does see a
+man, but thus, therefore some thing seeing one that is blind is a man. Every
+old man was a boy, is not thus to be converted, therefore a certain boy was an
+old man, but thus, therefore a certain person which was a boy is an old man.
+And thus much concerning the affections of pure Categorical propositions.
+
+CHAP. XXII. Of Modal Propositions.
+HItherto we have spoken of such Categorical propositions, as are pure, and
+without modes; it remains now that we speak something of such categorical
+propositions as are called modal, the which are thus defined.
+
+A modal proposition is (as we defined it above) that in which, besides the
+subject, predicate and Copula, we add some modification to show how the
+predicate is in the subject; as in this proposition: it is impossible that a
+man should be without reason.
+
+The division of modal propositions is taken from the diversity of the modes,
+which respect either the matter or the form of the proposition.
+
+Such modes which respect the matter, that is, the subject and the predicate
+without connection are twofold,
+
+1. Such in which the mode affects the subject only, as he which does easily
+learn is ingenious; where facility is the qualification of the learner. 2. Such
+in which the mode affects the predicate only, which does more frequently
+happen.
+And this is twofold,
+
+1. That which respects the time signified; as, Peter was here a long while. 2.
+That which respects the thing signified; as, a horse runs swiftly, of which
+sort are these, it is a holy thing, it is eight, it is sweet, etc. which if
+they be resolved into nouns, do make the predicate it self; as, to worship God
+is a holy thing, that is, to worship God is piety; and in this manner the rest
+may be resolved.
+Secondly, other modes respect the form or the connection of the terms, to which
+especially the definition of a modal proposition does agree, and is twofold.
+
+1. Principal, in which the moods are affected with some primary manner, such
+as are these four. 1. Nec^ssary, and is defined to be that, which is and cannot
+be otherwise; as, a man must needs be a living creature; and has the force of
+an universal affirmative. 2. Contingent, and is defined to be that which is and
+may be otherwise, or may not be, as, perchance it may rain to morrow; and has
+the force of a particular affirmative. 3. Impossible, which is defined to be
+that which neither is, nor can be, as it is impossible that a man should be a
+beast; and has the force of an universal negative. 4. Possible, which is
+defined to be that which is not, but may be; as it is possible that roses may
+flourish again, and has the force of a particular negative.
+2. Less principal, in which the modes are affected in a secundary manner, and
+may be reduced to the four first. 1. Probable, and may be reduced unto
+Contingent. 2. True, and is referred to necessary. 3. Easy, and is contained
+under possible. 4. Difficult, and is included in impossible.
+
+That this may be the better conceived five things must be considered.
+
+1. That the modification of a proposition does consist in two things.
+
+1. The saying, which is the whole Categorical proposition; which supplies the
+place of the subject only; as, it is possible that water may be warm. 2. The
+manner, which supplies the place of the praedicate, in what part of the
+propoposition soever it be set.
+2. In every modal proposition the manner of the modification is the most
+principal, and does the office of the copula.
+
+3. No other modes or manners but the formal are in Logic to be regarded; that
+is, such as respect the connection of the terms.
+
+4. The four modes respect the four differences that are in things.
+
+Now things may be said, 1. Always to be; with which agrees this, necessary to
+be. 2. Never to be; with which agrees this, it is impossible to be; and this,
+never to be actually, as, an Infinite number; or, never to be either actually
+or potentially, as, an irrational man. 3. Sometimes not to be, but also may be;
+and with these agrees this, it is possible to be. 4. Sometimes to be, but also
+may not be; and with these agrees this, it is contingent. 5. That the four
+modes may be distinguished, two things are required.
+
+
+1. That they respect the same time, otherwise the same thing may be both
+possible and impossible; as, It is impossible for one that fitteth to run [that
+is while he sitteth]; but if it be referred unto another time, it is possible.
+2. That they be referred to the same subject; as, whilst I see Socrates
+running, Socrates of necessity must run. But if it be referred to the liberty
+of Socrates, then it is contingent, for he may and he may not run.
+The quantity of modal propositions as it has reference unto the [dictum] or
+[saying] is altogether the same with pure Categorical, and is the material
+quantity; but as it has reference to the mode, that is universal which has an
+universal mode, as necessary or Impossible.
+
+That is particular, which has a particular mode, as possible or contingent,
+and this is the formal quantity; as, it is impossible that any man should be a
+stone; the which is particular in reference to the [dictum] or [saying,] and
+universal in respect of the mode.
+
+In like manner the quality of modal propositions, as it has reference to the
+saying, is the same with pure Categorical; and as it has reference to the
+mode, that affirms which has an affirmative mode, viz. necessary or
+contingent; and that denies, which has a negative mode, viz. possible or
+impossible. But if respect be had to the whole modal proposition, that is
+negative in which the mode is formally denied, and that affirmative in which
+it is not denied; as this, It is impossible that a man should not be a living
+creature, is negative in respect of the saying, and negative in respect of the
+mode, but in respect of the whole proposition it is affirmative.
+
+Every true modal proposition is necessary, every false, impossible; and
+between these there is no mean.
+
+In the necessary mode, that proposition is true, whose matter is necessary;
+false, whose matter is impossible, or contingent.
+
+In the impossible mode that proposition is true, whose matter is impossible,
+and that is false, whose matter is necessary or contingent.
+
+In the contingent mode, that proposition is true, whose matter is contingent,
+and that is false, whose matter is necessary or impossible.
+
+In the possible mode that proposition is true, whose matter is necessary or
+contingent, and that is false, whose matter is impossible,
+
+The Opposition and Aequipollency of modal propositions, Logicians have
+expressed by these fictitious words, Purpurea, Iliace, Amabimus, Edentuli; The
+four syllables of every of these words do signify the four modes, the first
+syllable in every word does signify the possible mode; the second syllable,
+the contingent mode; the third syllable the Imp^ssible mode, and the fourth
+syllable the necessary m^de.
+
+As for the four vowels which are in these words, A. notes that the dictum and
+the mode are both affirmative V. notes that they are both negative; E. notes
+that the mode is affirmative and the dictum negative; I. notes that the mode
+is negative, and the dictum or saying affirmative, according to these verses.
+
+V, both denies. A, both affirms: but I,
+
+Destroys the mode; E, dictum does deny.
+
+Which being premised the whole matter may be easily understood by the
+following Scheam.
+
+Pur not possible not. Pu not contingent not. re impossible not. a necessary.
+A possible. ma contingent. di not imp^ssible. mus not necessary not.
+not possible. I not contingent li impossible. a necessary not. ce
+possible not. E contingent not. den not impossible not. tu. not necessary. li
+In which scheam those are aequip^llent, which are contained in any one word,
+but those at the bottom, top sides and opposite Angles, are in the same manner
+opp^sed, as has been showed concerning the opposition of pure Categorical
+propositions; therefore, Purpurea, and Iliace, are contraries; Amabimus, and
+Edentuli are subcontraries. Purpurea and Edentuli are contradictories; and so
+are Iliace and Amabimus; Purpurea and Amabimus are subalterns, and so are
+Iliace and Edentuli.
+
+As for the conversion of modal propositions I willingly pass them by, as being
+unwilling to give my Reader the trouble of that, which will not requite his
+pains.
+
+To these modal propositions those may be reduced, which are called exclusive,
+exceptive, and reduplicative,
+
+An exclusive proposition is that in which an exclusive particle is found, as,
+only, alone, and the like; as, man only is rational.
+
+And it is exclusive either of the predicate or the subject. Exclusive of the
+predicate is that, which by a sign of exclusion put between the subject and the
+predicate does exclude other predica^es from the same subject; as, the Eliments
+are only four; and this is called a proposition excluding the extreme.
+
+Exclusive of the subject is that, which with an exclusive particle set before
+it, excludes or shuts out other subjects from participation with the same
+predicate; as, only man is rational: and this is absolutely called an exclusive
+proposition.
+
+A Proposition excluding the extreme is expounded by taking away the sign and
+removing from the predicate any other number or thing, as the case shall
+require; as this, the elements are only four, is thus expounded, the elments
+are four and no more.
+
+A proposition exclusive of the subject, though it may be otherwise expounded,
+yet is it more simply done by the universal affirmative of the transposed
+terms; as this, a man only is rational, is thus expounded, every thing that is
+rational is a man, and so of the rest; mutatis mutandis.
+
+An Exceptive proposition is that in which there is an exceptive particle; as,
+except, besides, unless, and such like; as, every living creature besides a man
+is irrational.
+
+In every legitimate exception, the term excepting must be of a larger
+comprehension than the term excepted, that it may be distributed.
+
+This is expounded by two exponents, the first of which ought to be of the same
+quantity and quality, with the exceptive in the subject of the excluded term;
+and the other of diverse quantity and quality, in which the subject is the
+excepted term, and the predicate the same with the exceptive; as, every living
+creature besides a man is irrational, is expounded by these, every living
+creature, which is another from a man is irrational; And, some man is not
+irrational; and thus may any other be expounded.
+
+A Reduplicative proposition is that, in which there is found some
+reduplicative particle; as, according to, in respect of, as far forth as, and
+such like; as, man is rational, and this is called, a Restrictive or a
+limitative proposition.
+
+Reduplication is twofold.
+
+1. Uniform, which is also called simple or specifical, when the reduplication
+is by the same name; as, in this, man as man is rational: and this
+reduplication is not used, but in an essential predication, where the predicate
+so agrees with the subject, as if it were the very subject it self. 2. Not
+uniform, or compounded, when the reduplication is made by diverse names, whether
+it be of the Genus, and so is called Generical; as in this, a man, as he is a
+living creature, is sensible; or of the part, and is called partial or
+Synechdochical, as in this, a man in respect of his soul is immortal; or of the
+Accident, and is called Accidental; as, Socrates, as he is a Philosopher, does
+dispute.
+A reduplicative proposition is expounded by four exponents; the first of which
+exponents, does attribute the principal predicate to the subject. The Second
+does attribute the reduplicative predicate to the subject. The third does
+attribute the principal predicate to the subject, by way of universality. The
+fourth is a causal inferring the principal predicate from the reduplicative; as
+this, a man, as he is a living creature, is sensible, may be expounded by these
+several exponents thus.
+
+1. A man is sensible; and a man is a living creature, and, every living
+creature is sensible. And, because something is a living creature, that
+something is sensible. In like manner may all other reduplicative propositions
+be expounded, whether negative or aff^rmative.
+
+But the whole matter may be more readily done, and no less commodiously, if it
+be expounded by a simple exposition by the help of one causal only; thus the
+former proposition, a man as he is a living creature, may be thus expounded;
+because a man is a living creature, therefore he is sensible.
+
+CHAP. XXIII. Of Hypothetical propositions.
+HItherto we have spoken of Categorical propositions, come we now to
+Hypothetical.
+
+An Hypothetical proposition is that, which does consist of two Categorical
+propositions joined together by some conjunction; as, man is a living creature;
+and, a man is learned.
+
+Hypothetical propositions are of three sorts, conditional Copulative, and
+Disjunctive.
+
+1. A conditional or Hypothetical proposition strictly taken, in which several
+categorical propositions are joined together by a conjuction conditional; as,
+if it be day, then the Sun does shine; to this may that which is called a
+causal proposition, be reduced; such as is this, because the Sun does shine it
+is day; and also this, the Sun does shine, therefore it is day; and note that
+the first Categorical proposition is called the antecedent, and the second is
+called the consecuent, because it follows from the former. 2. Copulative, in
+which several Categorical propositions are joined together by a Conjunction
+copulative; as a man is rational, and, a beast is irrational. To these, those
+propositions are referred, which are called adversative; as, Socrates, though
+he is not an Orator, yet he is a Philosopher; and comparative; as, Socrates is
+as learned as Plato; and significative of Place, as, where Socrates does read,
+Plato does dispute; and significative of time; as, while Socrates does read,
+Plato does dispute. 3. Disjunctive, in which several propositions Categorical
+are joined together by a conjunction disjunctive; as, either it is day, or it
+is night.
+A conditional proposition is, 1. True, when the Antecedent does prove the
+consequent; as, if it be granted, that it is day; it follows, that the sun
+does shine; therefore the antecedent being granted, the consequent must of
+necessity be granted also. 2. False, when the antecedent does not prove the
+consequent; but the antecedent being granted, the consequent does not
+necessarily follow; as, granting that a man is a liv^ng creature, it does not
+follow, that he is learned: this conditional prop^sition is therefore false, if
+a man be a living creature, then he is learned.
+
+
+A Copulative proposition is, 1. True, when both parts thereof are true: as
+this is true, a man is a living creature, and a man is rational, for both the
+parts thereof are true. 2. False, when either one or both the parts are false;
+as this is false, a man is a living creature, and irrational, for the latter
+part is false, namely this, a man is irrational.
+
+
+A dis^unctive proposition is, 1. True, when one or both of the parts are true,
+as this is true, either it is day, or it is night; for one of the parts is
+true, though the other be false. 2. False, when both parts are false; as this
+is false, A man is either a tree or a stone, for neither of them is true.
+
+
+Hypothetical propositions have not properly either quantity or quality, but
+what they have from their Categoricals; neither have they such oppositions and
+Aequipollencies which Categorical propositions have: they are capable but of
+one only kind of opposition, and that is Contradictory; and this is made by
+putting the particle of negation, in the first part of the Hypothetical
+proposition; and therefore this, if Socrates does run, he is a living creature,
+is contradictory unto this, if Socrates does not run, he is a living creature.
+And thus it is also both in Copulative, and in disjunctive propositions.
+
+The Second Book OF THE ART of LOGIC.
+CHAP. I. Of Definition.
+HAving done with the first part of Logic, namely that which treats of
+Theams both simple and compound, with their various affections: come we now to
+the second called the Organical, or that which treats of Logical instruments,
+and their composition.
+
+2. Logical Instruments are these four* Definition, Division, Syllogism and
+Method.
+
+3. Definition is the explication of the thing which is defined; and this is
+either nominal or real.
+
+4. A Nominal Definition is that which shows the signification of the name;
+whether it be by giving the Etymology thereof; or by expressing it by some
+other Synonymous word more generally known.
+
+5. A real Definition is that which shows what the thing is: and this is
+twofold, perfect imperfect.
+
+6. A real and a perfect Definition is that which does explain the thing by
+essential attributes; whether they be such as constitute the thing; and then it
+is a Definition of the substantial form, which does most exactly explain the
+nature of its species; as, a man is a rational living creature: Or such as do
+partly constitute the thing, and partly produce the same necessarily; and then
+it is a Definition of the accidents, and this is threefold.
+
+1. Formal, which consists of the Genus, and the subject of the accident; for
+the subject of the accident is as it were the form; as, Thunder is a noise in
+the clouds. 2. Causal, which does demonstrate the nature of the thing defined,
+and it is the next cause of the accident, either efficient or final. 3. Both
+formal and causal, which shows the Genus, subject, and cause of the thing
+defined; as if an Eclipse of the Moon be thus defined, it is a privation of
+light in the Moon, by the interposition of the earth. The Genus is privation,
+the difference or form is the subject, viz. the Moon; and the efficient cause
+is the interposition of the earth.
+7. A real but imperfect definition, otherwise called a description, is that,
+which explains the nature of the thing, by certain accidental attributes; it
+does consist of a Genus or something which does supply the place of a Genus,
+and of proper and common accidents, which supply the place of the difference;
+as, a man is a living creature that is risible, has two feet.
+
+And because our knowledge begins from the accidents, therefore this kind of
+description is most in use with all.
+
+The Canons or Rules are; 1. In every science, you are to begin with the
+definition of the name thereof. 2. A description may be suitable as well to the
+substantial, as the accidental part of any thing. 3. A Species only is defined
+by a formal definition. 4. An accident only is defined by a causal definition,
+or by a formal and a causal both. 5. A definition consisting of the form and
+cause both, does differ from a Demonstration in the disposition of the terms
+only. 6. Every descriptive definition whether formal, or formal and causal
+both, is an oration.
+
+
+CHAP. II. Of Division.
+DIvision is the resolving of the whole into parts.
+
+And this is either of some ambiguous word into its several significations: or
+of the whole into its parts.
+
+2. Now the whole, is either simple or aggregate.
+
+3. Division of the whole, simply and properly so called, is threefold.
+
+1. Universal into its subjective parts, or of the General into the specials;
+as to divide animal into man and beast. 2. Essential, which resolves the whole
+into essential parts, and this is either of a species into its Genus and
+difference, or of some spefical nature into its matter and form; as, a ^an into
+soul and body. 3. Integral; which resolves the whole in^o integral parts, and
+this is the division of some individual, either into its sensible or material
+parts.
+4. Division of the aggregated whole into ^s parts, and by accident is four
+fold.
+
+1. When the subject may be divided by its accidents; as, men are learned or
+unlearned. 2. When an accident may be divided by ^ts subjects; as, Fevers are
+in the spirits, or in the humors, or in the solid parts. 3. When an accident
+may be divided by ^ccidents; as, good is either profitable, honest ^r pleasant.
+5. When things may be divided by their ^bjects; as, sight by colors, hearing
+by ^ound.
+
+6. When causes may be divided by their ^ffects, and the contrary; as; Heavenly
+heat ^s from the Sun, and Elementary from fire.
+
+The Canons or Rules are these.
+
+1. An ambiguous word must be explained before it can define any thing. 2.
+Unless the ambiguity be explained in the beginning, the error will be
+afterward the greater. 3. In the simple dividing of the whole, t^^ members
+dividing should be equal to, and agre^ with the whole. 4. The members dividing
+should be disjoine^, from one another. 5. Division does consist of as few
+members or parts as the nature of the whole will bear. 6. In any Division the
+whole must be of a larger extent than any one of the parts.
+CHAP. III. Of a Syllogism.
+A Syllogism is an oration in which some things being taken for granted,
+something else not granted before is proved or inferred from them: and this is
+twofold, perfect or imperfect.
+
+2. A perfect Syllogism is an argumentation, in which from two premises
+disposed rightly, and according to rule, some conclusion does necessarily
+follow; as, every man is an animal, every thing that has reason is a man,
+therefore every rational thing is an animal.
+
+3. A perfect Syllogism is twofold, Categori^l and Hypothetical.
+
+4. A Categorical Syllogism is that in ^ich all the propositions are
+categorical; and ^^is is also twofold, Common and Exposito^
+
+5. A common categorical Syllogism is that in which the Medium is a common
+name; (...) every sound may be heard, every voice is a found, therefore every
+voice may be heard.
+
+6. An Expository Categorical Syllogism is that in which the Medium is a
+singular ^^me; as, Sorates is learned, Socrates is an Athenian, therefore some
+Athenian is learn^^.
+
+7. An Hypothetical Syllogism is that in which one or more of the propositions
+are Hypo^^etical; as, if Socrates be a man, he is an a^imal; but Socrates is a
+man, therefore he (...) an animal.
+
+8. To make a common Categorical Syllo^sm two things are required, matter and
+^rm.
+
+9. The matter of a Syllogism is either remote or next.
+
+10. The remote matter of a Syllogism is that matter of which it is remotely
+made, ^s the three terms in every proposition, called the major extreme, the
+minor extreme, and the middle term or argument.
+
+11. The major extreme, is that which is in the major proposition, and in the
+conclusion, but never in the minor.
+
+12. The minor extreme, is that which is in the minor proposition, and in the
+conclusion, but never in the major.
+
+13. The middle term or argument, is that which is in the major and minor
+propositions, but never in the conclusion.
+
+14. The next or immediate matter of a Syllogism, is that of which the
+Syllogism is immediately made; as, the three propositions, of which the first
+is called the major, the second the minor, and the third the conclusion.
+
+15. The form of a Syllogism, is the right disposing of the matter both next
+and remote; and this comprehends two things figure and mode.
+
+16. A figure is that which shows how the middle term may be fitly placed,
+which may be done three ways, or by three figures.
+
+17. The first figure makes that which is the subject in the major proposition
+to be the predicate in the minor.
+
+18. The Second figure makes that which is the predicate in the major
+proposition to be the predicate in the minor also.
+
+19. The third figure makes that which is the subject in the major proposition
+to be the subject in the minor also, according to these disticks.
+
+Both sub and prae does the first figure use,
+
+Twice prae the next, the third twice sub I muse.
+
+20. A Mood is the disposing of the propositions according to quantity and
+quality.
+
+21. There are nineteen Moods, of which some are perfect, some imperfect. In
+the first figure there are nine, Barbara, Celarent, Darii, Ferio; and these
+four are perfect: Bara^ipton, Celantes, Dabitis, Fapesmo, Fricesmorum, and
+these five are imperfect. In the second figure there are four Moods, Cesare,
+Camestres, Festino, Baroco; and in the third figure there are these six,
+Darapti, Felapton, Disamis, Datisi, Bocardo, Ferison: the Moods ^n both these
+figures are all perfect, and are so many words of art, which serve only to
+denote the quality and quantity of every proposition, by help of the vowels
+which are in them; A. E. I. and O. And how the quanti^y and quality of a
+proposition may be known by these vowels has been showed before.
+
+22. And these directions are sufficient for the placing of the middle terms,
+and the right disposing of the two first propositions in a syllogism called the
+premises; the third proposition or conclusion may be inferred from them by
+help of these moods two ways, to wit, directly or indirectly.
+
+1. Directly, when the minor extreme or term is the subject in the conclusion;
+and the major term the predicate: and thus the conclusion is inferred in four
+moods of the first figure and in all the moods of the second and the third
+figures. 2. Indirectly, when the Major extreme is the subject in the
+conclusion, and the Minor the predicate; and this is the five last modes of the
+first figure only, according to these verses.
+All the nineteen directly do conclude,
+Except of figure first, the last five moods.
+The Canons or Rules concerning the matte^ and form of a common Syllogism.
+
+1. From true premises rightly disposed a tru^ conclusion is rightly inferred.
+2. A Syllogism consisting of pure negatives, o^ pure particulars in the
+premises, no universa^ can be rightly inferred. 3. The conclusion is always
+inferred from the more unworthy or weaker parts: and an affirmative is always
+more worthy than a negative, and an universal than a particular. 4. In every
+Syllogism there must be three terms and no more; and four terms may be either
+expressed or employed in using a doubtful word; for every doubtful word is a
+double word. 5. Every Syllogism either is in the first figure, or may be
+reduced thereto.
+Examples of the universal moods, in which the conclusion is directly inferred
+in the first figure.
+
+Bar Every animal is sensible. ba Every man is an animal, ra Therefore every
+man is sensible.
+Ce No animal is a stone, la Every man is an animal, rent Therefore no man is a
+stone.
+Da Every color is visible, ri Some quality is a color, ^i Therefore some
+quality is visible.
+Fe No vice is placed in the middle, ri Some habit is a vice, ^o Therefore some
+habit is not placed in the middle.
+Examples in the second figure.
+
+Ce No rich man is poor, sa Every covetous man is poor, re Therefore no
+covetous man is rich.
+Ca Every animal is mortal, mes No Angel is mortal, tres Therefore no Angel is
+an animal.
+fes No animal is a plant, ti Something that has life is a plant, no Therefore
+something that has life is not an animal.
+Ba Every man is an Animal, to Something that has life is not an animal, co
+Therefore something, that has life is not a man.
+Examples in the third figure.
+
+Da Every virtue is difficult, rap Every virtue is honest, ti Therefore
+something, that is honest, is difficult.
+Fe No stone does live, lap Every stone does naturally descend, ton Therefore
+something which does naturally descend, does not live.
+Di Some man is a thief, sa Every man is a rational creature, mis Therefore
+some rational creature is a thief.
+Da Every man is a living creature, ti Some man is wise, si Therefore some body
+that is wise is a living creature.
+Bo Some Animal is not rational, car Every animal is mortal, do Therefore some
+mortal is not rational.
+Fe No severity is pleasing, ri Some severity is good, son Therefore, something
+that is good, is not pleasing.
+CHAP. IV. Of the Reduction of Syllogisms.
+SOme Syllogisms which do naturally and evidently conclude are perfect and need
+no Reduction, such are those that are made according to the four first moods of
+the first figure, but all the rest are imperfect, and are to be reduced to
+these four; and the third proposition or conclusion in these Syllogisms formed
+according to these four moods, does depend upon two rules; the one is called
+Dictum de omni, spoken of all; the other Dictum de nullo, spoken of none.
+
+2. A thing is then said to be spoken of all, when that which is universally
+affirmed of the predicate is also affirmed of all his subject, and upon this
+rule are these two moods, Barbara and Darii, founded.
+
+3. A thing is then said to be spoken of none when that which is universally
+denied o^ the predicate is also denied of all the subject and upon this rule
+are these two moods, Celarent and Ferio founded. Hence it appear why all the
+other moods are to be reduced to these four, because the conclusion is s^
+naturally inferred in them, and because they ^re founded upon these rules.
+
+4. And, Reduction is the declaration, or manifestation, how the conclusion in
+any imperfect mood, is inferred from the premises by reduction to some perfect
+mood, or some other part of ^he contradiction.
+
+5. Reduction is twofold, Direct or Indirect.
+
+1. Direct reduction is, when some Syllogism of the second or third figure is
+reduced to some Syllogism of the first, by converting one or both of the
+premises, or by transposing them, or by conversion and transposition both. 2.
+Indirect reduction is, when we compel the adversary to confess some absurd or
+Impossible thing.
+6. The manner how both these kinds of Reduction must be performed, will be
+easily understood by considering the Consonants in the beginning and middle of
+those Moods, which are to be reduced to the moods of the first figure.
+
+7. The Consonants in the beginning of the Moods are these four, B. C. D. F.
+and show unto which mood of the first figure, every mood of the second and
+third figures is to be reduced, namely to that, which does begin with the same
+letter: all the imperfect Moods therefore which begin with B, must be reduced
+to Barbara; those which begin with C, to Celarent, Those with D, to Darii, and
+those with F, to Ferio.
+
+8. The consonants to be observed in the middle of the Moods are these four. S.
+P. M. C. and show by what instrument the reduction is to be made, whether by
+Conversion, Transposition, or Deduction to some absurd or impossible thing. S,
+shows that that proposition in which it is sound must be converte^ by simple
+conversion. P, notes that the proposition must be converted by accident. M*
+notes that the premises must be transposed that is, the Minor into the place
+of the Major, and the Major into the place of the Minor. C, notes that the
+Reduction must b^ made by some absurd or impossible thing.
+
+According to these disticks, The letter S, Simple conversion notes,
+But P, for Accident does spend its votes.
+The letter M, does Transposition use,
+C, notes that you the apponent must abuse.
+
+
+9. Indirect reduction, or reduction by bringing the adversary to some
+absurdity has pla^ only in these two Moods, Baroco of the second figure, and
+B^cardo of the third; and to reduce these two moods, two things must be
+observed.
+
+1. If Baroco be to be reduced, the Minor proposition must be contradictory to
+the Conclusion: if Bocardo, the Major proposition must be contradictory to the
+Conclusion. 2. If Baroco be to be reduced, the Major shall still be the same;
+but if Bocardo the Minor: according to these disticks.
+The Major keep Baroco to reduce,
+And keep the Minor for Bocardo's use.
+CHAP. V. Of an imperfect Syllogism.
+AN imperfect Syllogism is a Syllogism that has some defect, either in the
+number of the premises, in the disposing them, or in the inference from them;
+and is fourfold; 1. Enthymem. 2. Induction. 3. Example. 4. Sorites.
+
+
+1. An Enthymem is an imperfect Syllogism, inferring the conclusion from some
+one proposition only; as, a man is a living creature, therefore he has a soul.
+
+In which these three things are to be observed.
+
+1. In an Enthymem the first proposition is called the Antecedent, the other
+the Consequent. 2. If the Predicate be in the Antecedent and conclusion, the
+Minor is wanting; If the subject be in the antecedent and conclusion the Major
+is wanting. 3. An Enthymem is a perfect Syllogism in respect of the firm proof,
+and imperfect in respect of the evidence of the conclusion, one of the
+premises being understood, but not expressed.
+2. An induction is an imperfect Syllogism, in which from many singulars some
+universal conclusion is inferred; as, this man is a living creature, and that
+man is a living creature, and so of the rest, therefore every man is a living
+creature.
+
+In an Induction, four things are to be observed.
+
+1. By singulars we are not only to understand Individuals, but less
+universals; Specials in respect of Generals, and all integral parts in respect
+of the whole. 2. If the enumeration of all the singulars be not full, the
+conclusion will be false. 3. Induction is the most convenient instrument to
+find out arts. 4. An induction may be reduced to an Hypothetical Syllogism. If
+Peter be rational, If Socrates, etc. then every man is rational; but Peter and
+Socrates, etc. are rational, therefore. etc.
+3. Example is an imperfect Syllogism, in which from one or more singulars, we
+infer another particular; as, Catiline was punished for making sedition,
+therefore this seditious fellow should be punished.
+
+In an Examplary Syllogism, four things are to be observed.
+
+1. An Examplary Syllogism is an imperfect induction. 2. In every Examplary
+Syllogism there are four terms, and therefore cannot be immediately reduced to
+a perfect Syllogism. 3. An Examplary Syllogism is but of little force to prove
+a thing, but of great force to persuade. 4. In an examplary Syllogism this
+general rule is much observed in the inference; that, like does agree with
+like.
+4. Sorites is an imperfect Syllogism, in which, from four or more premises,
+we infer a conclusion, in which the first subject is joined with the last
+predicate; as, Socrates is a man a man is a living creature, a living creature
+is a body, a body is a substance, therefore Socrates is a substance.
+
+And in this kind of Syllogism, three things are to be observed.
+
+1. A Sorites contains as many Syllogisms, as there are terms between the
+subject of the first proposition and the predicate of the last. 2. A Sorites
+may be resolved into Syllogisms of the first figure. 3. A Sorites is in use
+only, in such terms as are necessarily subordinate, in a causal or a
+predicamental subordination. This way of arguing, is grounded upon the first
+Antepredicamental rule.
+And thus much concerning a Syllogism in the General, and the several kinds, or
+forms thereof.
+
+CHAP. VI. Of the first Definition and Praecognita of Demonstration.
+I Come now to speak of a special or Material Syllogism, as it is restrained to
+certain conditions of matter.
+
+2. A Special or Material Syllogism, is of three sorts; Apodictical,
+Dialectical, and Sophistical.
+
+3. An Apodictical Syllogism otherwise called a Demonstration, may be defined
+two ways, either from the end, or from the matter of demonstration.
+
+4. From the end of Demonstration an apodictical Syllogism may be defined.
+Demonstration is a Syllogism begetting knowledge, or making to know.
+
+5. Demonstration among Geometricians, is a Delineation by Diagrams, in which,
+the truth of their propositions is exhibited unto the eye: but amongst
+Logicians it is sometimes taken for every certain and clear proof; and here it
+is strictly taken for a scientifical Syllogism.
+
+6. The Genus in this definition is Syllogism, in which it agrees with
+Dialectical Syllogism. The difference is taken from the end, which is Science.
+
+7. This word Science may be taken three ways, largly, strictly, and most
+strictly.
+
+1. Largly, for every cognition or true assent. 2. Strictly, for firm and
+infallible assent. 3. Most strictly, for the assent to such propositions, as
+are known by causes and effects: for firm and infallible cognition is either by
+sense, and so we know that the sun does shine at noon; or by understanding, as
+when the question is concerning universal propositions, concerning the truth of
+which sense is not able to judge; but, the cognition of universal propositions
+is attained by, or without a Syllogism.
+8. Cognition is begotten without a Syllogism, when full assent is given to a
+proposition for the clearness of it in its self without any proof. Thus we know
+that the whole is greater than any part thereof; that God must be worshipped,
+and such like. This kind of Cognition, Aristotle calls Intelligence, and says
+it is distinguished from Science by this, that Science does proceed from
+ratiocination: but for as much as reason may be brought from several heads,
+that cognition is here called by the name of Science, which is begot either by
+the cause or by the effect. And this is the most strict acception of Science,
+and proper to this place.
+
+9. Or thus, Science is a certain knowledge of conclusions, to which we assent,
+for our preceding knowledge of the premises: and the praecognita in every
+science are these three, the subject, the affection, and the cause, by which it
+is demonstrated that the affection is in the subject.
+
+10. The Question to be demonstrated is composed of the subject and the
+affection. The premises by which the Question is demonstrated, are made,
+first, by joining the cause with the effect, and then by joining the cause with
+the subject. In all these two things are to be considered, the precognitions,
+which precede the demonstration, and the conditions, which are to be observed
+in the demonstration it self.
+
+11. The Precognitions are two. 1. That the thing is. 2. what it is?
+
+12. In these precognitions, the things which are evident and obvious unto all,
+are so in the understanding only; but the things which are not so evident, but
+that they may be unknown, are expressed in the very beginning of sciences.
+
+13. And if being delivered the learner does presently believe them, they are
+properly called fuppositions; but if the learner either doubt of them, or be of
+another opinion, they are called postulata, or things to which an assent is
+requested.
+
+14. The first of these precognitions, viz. the Quod sit, That the thing is,
+includes two things. 1. That the thing sougt has a being, or a true
+existence, and this answers to the Question, Is there such a thing? 2. That
+the thing sought is the true predicate in a subject.
+
+15. The other of these precognitions, namely, the Quid sit, What it is? does
+also include two things. 1. The name, or what the signification of the name is.
+2. The nature of the thing, that is called by that name, so that from these two
+precognitions four questions do arise; of which two are simple and two
+compounded.
+
+16. The simple questions are those which do equally agree, to accidents and to
+substances. The first is made concerning the essence or existence by asking An
+sit? whether it be or not? The second makes inquiry concerning the nature of
+it and asks, Quid sit, What it is?
+
+17. The compounded questions chiefly agree with accidents: the first asks,
+whether the predicate be in the subject? as, whether man be risible? The other
+asks, why the predicate is in the subject? as, why is man risible?
+
+18. Of these four questions the third has such reference to the fourth, as
+the first has to the second; for then in simple terms when we know they have
+being, we ask what the things are? and in propositions, when we know they have
+a being, we inquire, why they are?
+
+19. After these precognitions and questions the three praecognita are next to
+be considered; namely the subject, affection, and cause.
+
+20. The subject is a simple term, or less extreme in the demonstration,
+concerning which, some accident is demonstrated by its next cause; as, a man;
+concerning whom we must both know, that he is, and what he is? First that he
+is, or otherwise we seek the knowledge of him in vain, for there is no knowledge
+of a thing, that is not; and then we must also know, what he is, not only in
+respect of his name but also of his nature, for that must be the medium of the
+demonstration; and we must know the medium, at least confusedly, before we can
+infer the conclusion. The precognition of the things existence is called the
+Hypothesis; of its nature, the Definition.
+
+21. Passion is a proper Accident which is demonstrated of the subject by the
+proper cause, it is always the greater extreme which is predicated in the
+conclusion; as, Risibility; the which is necessary to be foreknown in respect
+of the name, what it is? though not in respect of its nature; and that it be
+considered how it is inherent; for seeing it supplies the place of the subject,
+it is in some sort called a substance. Arist. lib. 1. post. cap. 27. but it is
+not foreknown, That it is, for that is the thing inquired after, and which we
+are to find by demonstration.
+
+22. A Cause is that, by which the passion or affection is demonstrated of its
+subject, and is always the Major proposition of the demonstration; as, Every
+rational animal is risible; that being known, the conclusion is vertually known
+also, as being vertually contained in it; but yet it is not actually known,
+till the Minor be assumed; which being known, the Conclusion, though after in
+nature, yet is known at the same time also. What the cause is, cannot be
+foreknown, because it is a compounded proposition; and what a thing is, is only
+of uncompounded; but it ought to be known, That it is, or has a true
+existence, or else the Conclusion cannot be inferred from it.
+
+CHAP. VII. Of the Conditions to be observed in a perfect Demonstration.
+A Demonstration is to be considered, either in the respect of the matter, or
+in respect of the form.
+
+2. In respect of the matter, one kind of Demonstration shows, why the
+predicate is inherent in the subject; and that, 1. By an immediate intrinsecal
+cause, and this is either the before demonstrated matter, or form, or affection
+of the subject. 2. By an immediate extrinsecal cause, and this is either final
+or efficient by some transient action.
+
+
+3. Another kind of Demonstration in respect of the matter, shows that the
+predicate is inherent in the subject, and that either by the effect, or by some
+remote cause.
+
+4. A Demonstration, in respect of the form, is to be considered, 1. In
+quantity, and so it is universal or particular. 2. In quality, and so it is
+affirmative or negative. 3. In the manner of the proof, and so it is either an
+ostensive demonstration, or a demonstration reducing to some impossible thing.
+
+
+5. In the first of these kinds of demonstration called the demonstration Cur
+sit, why a thing is, the conditions to be observed do partly belong to the
+question, partly to the cause or medium of the demonstration, and partly to the
+premises.
+
+6. Every question does not admit of the first and most perfect kind of
+demonstration, called why a thing is? but such a question only as is true, and
+has a certain and immutable cause of its own truth.
+
+7. The conditions to be observed in the premises of a demonstration, are
+absolute or relative.
+
+8. Those are said to be absolute conditions, which are suitable to the
+premises considered absolutely and in themselves; and those are said to be
+relative conditions, which are suitable to the premises in reference to the
+conclusion.
+
+9. The absolute conditions are two, the first is, that the propositions be
+necessarily true and reciprocal: The second is, that they be immediate or first.
+
+10. Demonstrative propositions must be true (for that which is false cannot be
+known) and they must be necessarily so, for from ^ropositions not necessarily
+true, no necessary ^nclusion can be inferred, unless by chance or ^ccident, and
+they must be necessarily true in the ^ighest degree, that is, they must be
+recipro^l. For they contein the next cause of the ^^edicate, which is such as
+that it is reciproca^d with its effect.
+
+11. A proposition is said to be immediate, ^o ways. 1. In respect of the
+subject, ^hen there is no more immediate subject be^ween the predicate and the
+subject; as, a ^an is rational, a man is risible. 2. In re^ect of the cause,
+when no more immediate ^^use does intervene between the predicate, and the
+subject; as, that which is rational is ^^sible; a man is rational.
+
+12. In a most perfect demonstration, where ^^e middle term is the material or
+formal in^rnal cause of the subject, and efficient of the ^^fect by emanation,
+the major proposition (...) immediate in respect of the cause, but not ^f the
+subject, as that which is rational, is ^sible: The conclusion is immediate in
+respect (...) the subject, but not of the cause; as, a ^an is risible: The
+minor is immediate in re^^ect of the cause and the subject both; as, a ^an is
+risible.
+
+13. In a most perfect demonstration, where the middle term is not the internal
+cause of the subject, though both the major and conclusion be immediate, yet
+the minor is not immediate in respect of the cause. This happen in every chief
+demonstration from the external cause; as also where we proceed from one
+affection predemonstrated, to the demonstration of another; such as are all
+mathematical demonstrations for the most part; a^ Zab. de medio demonst. c. 7.
+
+14. The relative conditions to be observed in reference to the conclusion are
+three first, that the premises be the cause of the conclusion; secondly, that
+they be before; thirdly* that they be more known than the conclusion
+
+15. The premises may be said to be the cause of the conclusion, as the medium
+is the cause, why an affection is not only the cau^^ why the conclusion is
+known, but the cau^^ why it is true: and as the medium is before a^ affection,
+not in time but nature, so the tru^^ of the premises is first in nature,
+before the truth of the conclusion. Lastly, as the medium is more known than an
+affection, not b^ a confused knowledge and in respect of us but by a distinct
+knowledge, and accordin^ to nature: so are the premises more know^ than the
+conclusion; because we by reason (...) the premises receive the conclusion
+with full assent of mind, we must needs assent to that more than to the
+premises; for according to Aristotle, That for which another is such as it is,
+must needs it self be more such. Lib. 1. post. cap. 2.
+
+16. Premiss^s are of two sorts, Axioms and Theses.
+
+17. An Axiom is a proposition of whose truth no body can be ignorant, the
+signification of the words being known.
+
+18. A Thesis is a proposition, whose truth does not sufficiently appear by
+knowing only the signification of the words, but by the judgment of the senses,
+or any other declaration; and it ^s either a Definition or an Hypothesis.
+
+1. A Definition is that, by which we show what a thing is. An Hypothesis is
+that, by which we show whether the thing be or not.
+
+20. The medium of a demonstration ought to be the next cause of the predicate;
+and that either efficient or final; and the efficient either internal or
+external.
+
+21. A cause may be said to be the next either absolutely, or in his own kind;
+here it is understood to be the next absolutely, that it is such a cause as
+does produce the effect, and without which that effect cannot be: For as much
+as there are four kinds of causes, and in every kind some one the next, of the
+four next causes, there is but one, that is the next absolutely.
+
+22. Moreover it is required that this next cause should be the cause of the
+predicate, but it is necessary that it should be the cause of the subject also;
+for the question is not, whether there be a subject? for this is supposed; but
+whether there be a predicate, or whether it be inherent in the subject?
+
+23. This next cause must be either the efficient or the final; for when the
+predicate is an accident it has neither matter not form properly so called.
+The final cause is used in those things, which are made for other; such as are
+mediums and natural instruments; actions also and habits, if any such can be
+demonstrated. The efficient cause is used in all the rest. Sometimes it falls
+out that the next efficient cause is also the form o^ matter of the subject,
+and these kind of demonstrations are indeed the most excellent but do not make
+a different species of themselves, but these things will be more clearly
+understood by the examples following.
+
+1. Every rational creature is capable (...) knowledge, Every man is a rational
+creature, Therefore every man is capable of knowledge.
+
+
+In this demonstration the medium, rational, is the internal efficient cause of
+the predicate, and form of the subject.
+
+2. Every terrestial thing does sink in water, Ebene is terrestial, Therefore
+Ebene does sink in water.
+
+
+Here the medium is the internal efficient cause, and matter of the subject.
+
+3. Whatsoever does consist of matter and form has three dimensions. Every
+body does consist of matter and form, Therefore every body has three
+dimensions.
+
+
+Here the medium is the internal efficient cause of the predicate, and both the
+form and matter of the subject.
+
+4. That which has three dimensions, will not admit of another body in the
+same place, with it self, But every body has three dimensions, Therefore etc.
+
+
+Here the medium is the internal efficient cause of the predicate, and
+propriety of the subject.
+
+5. That which by the interposition of the earth cannot be enlightened by the
+Sunbeams, does suffer an Eclipse of the Sunlight, But the Moon, the earth
+being interposed cannot be enlightened by the Sunbeams, Therefore the Moon etc.
+
+
+Here the medium is the external efficient cause of the predicate.
+
+6. Whosoever is made for the contemplation of Heavenly things, ought to have his
+countenance lift up, Man is made for the contemplation of Heavenly things,
+Therefore etc.
+
+
+Here the medium is the final cause of the predicate.
+
+24. Sometimes it so comes tO pass, that one and the same question may be
+demonstrated both by the efficient and final cause so you may demonstrate that
+a living creature does sleep, either because the common ^ense is overcome by
+vapors, and that the ^assage of the external senses are obstruct^d, and this
+is a demonstration from the ^ficient cause; or that the animal spirits may be
+^efreshed and strengthened, and this is a demonstration from the final cause.
+
+CHAP. VIII. Of an Imperfect Demonstration or the Demonstration, What.
+HAving hitherto spoken of the principal Demonstration, or the Demonstration
+^hy? the next is the less principal, or the ^emonstration What? and which
+leaves an ^mperfect knowledge, and is twofold; the ^ne is from the effect, the
+other from a remote ^ause.
+
+The first of these collecteth the cause from ^ome sensible effect; for example
+Every thing that is risible is rational, Every man is risible, Therefore every
+man is rational.
+
+
+Here the medium is the next effect, and the predicate is the cause of the
+conclusion.
+
+2. The second of these demonstrations collecteth the effect from some remote
+cause* for example. That which has not a sensitive soul does not breath, A
+Plant has not a sensitive soul, Therefore a plant does not breath.
+
+
+3. A Demonstration from the effect may be affirmative in Barbara, and
+sometimes negative, though seldom, in Camestres.
+
+4. A demonstration from a remote cause i^ negative, very seldom affirmative,
+and consequently is restrained to the third figure i^ Camestres: for example.
+Every risible thing is an animal, No Tree is an animal, Therefore no Tree is
+risible.
+
+
+5. Demonstration from the effect (...) more excellent than from a remote cause.
+
+1. In respect of the form, the one being affirmative in Barbara, the other
+negati^ in Camestres. 2. In respect of the matter for in the one the
+propositions are most necessarily true, and differs nothing from the most
+perfect Demonstration, but in placing of the terms, and begets a perfect
+knowledge not simply, but in its kind: but the Demonstration from the remote
+cause is made of less necessary, and not immediate propositions, nor does it
+beget a know^edge that is perfect in its own kind, and ^n which the mind may
+rest satisfied; yet both of them are so perfect, that they are either of them
+sufficientl to beget such a knowledge as to give us satisfaction of the being,
+or not being of a thing.
+CHAP. IX. Of Demonstration in respect of the form, and of the Affections o^
+the most perfect Demonstration.
+HItherto we have spoken of the tw^ kinds of demonstration in respect (...) the
+matter; we are now to speak of them i^ respect of the form.
+
+2. The form of a demonstration is par^ly discerned from the quantity, partly
+from the quality, and partly from the manner (...) the proof.
+
+3. The form of a demonstration in respect of the quantity is universal or
+partic^lar:
+
+An universal demonstration is that, i^ which an affection is demonstrated of
+the fi^ adaequate and universal subject by an immedia^ cause; as when we
+demonstrate risibility i^ man, by his rationality, and all the most pe^fect
+demonstrations are of this kind, W^ a thing is so. And a Demonstration provin^
+from the effect, That a thing is, is of the kind also.
+
+A Particular demonstration, (not so called ^s if the terms were particular) is
+a demon^ration in which an affection is demonstrated ^om an inadequate and a
+less universal subject, or ^om one part of the first subject only; as, when ^e
+demonstrate a man to be sensible, by his ^nsible soul.
+
+The form of demonstration in respect ^f quality, is affirmative or negative.
+
+An affirmative demonstration is that, in those conclusion the predicate is
+affirmed of ^e subject, which happens in all demonstrations, ^cept the
+particular, which is sometimes ne^tive.
+
+A Negative Demonstration is that in whose ^nclusion the predicate is denied of
+the subject; as, Every thing that breaths is an animal. A wall is not an
+animal, Therefore a wall does not breath.
+
+
+And this does often come to pass in the ^emonstrate That, from a remote cause;
+it may ^so happen in all other demonstrations ^ough very seldom, and that by
+conse^uence only: for an affirmation is before ne^ation, both in reference to
+the thing, and ^ur knowledge of it.
+
+5. The form of a demonstration in respect of the manner of the proof, is
+either ostensive, or by reduction to impossibility.
+
+An Ostensive Demonstration is that, in which the conclusion is evidently and
+directly inferred from former and more kn^wn premises, etc. Of which sort are
+all the before named kinds of demonstration.
+
+A Demonstration by reduction to impossibility is, when from granted premises
+we prove the conclusions to be therefore true, because their contradictories
+are apparently false; for example, Every rational thing is risible, Every man
+is rational, Therefore every man is risible.
+
+
+Here if the major be denied, we may reduce the respondent to an absurdity b^
+taking the contradictory of the major thus, No rational thing is risible, Every
+man is rational, Therefore no man is risible.
+Which conclusion being manifestly false, we infer that the major in the former
+syllogism, (...) well as the conclusion were both true; or the the two
+contradictories are together, true or false; and this kind of Demonstration is
+the meanest of them all.
+
+But here we must observe, that an universal contrary proposition, is rather to
+be taken, than a particular contradictory; both because particular propositions
+have no place in demonstration, as also because contrary propositions in
+necessary matter, stand in the place of contradictory. Zabarel. lib. 1. post.
+c. 22. sect. 176.
+
+And thus having done with the kinds of demonstration; I come in the next place
+to speak of the affections of the chiefest and most perfect demonstration, and
+they are chiefly three, Analysis, Regressus, and Conversion into a Definition,
+
+1. Analysis is the resolution of effects into their first causes to beget a
+perfect knowledge thereof; for when there is a certain chain and subordination
+of efficients, and effects, although the latter may be demonstrated by the
+former, yet the mind is not satisfied in that, but inquireth further for the
+cause of that effect also, and so forward, to the first cause which is the form
+of the subject, of which no cause can be given, and in which alone the mind is
+satisfied; as, if Augmentation in all things living were demonstrated by
+nourishment, and that again by the vegetative faculty, and that by the soul.
+
+1. Regressus is the reciprocation of the cause and effect by demonstration:
+which effect we do reciprocally demonstrate by that cause, by which the said
+effect was it self demonstrated: this affection or power is called Regressus,
+because after our understanding has proceeded from la kind of confused and
+experimental knowledge of the effect, as nearer to sense, to the ^ike confused
+knowledge of the cause; and has ripened that knowledge by often meditating on,
+and comparing of the cause to the effect, till it come from a confused to a
+distinct knowledge: then it returns from that distinct knowledge of the cause
+to the like distinct knowledge of the effect. Progress is therefore made by the
+demonstration That, and by an after demonstration, and has respect unto the
+confused knowledge of the cause by the effect. But regress is by the
+demonstration Why, and by a former demonstration and has respect unto the
+distinct knowledge of the effect by the cause, and differs from that vicious
+demonstration, which they call a circle in three things.
+
+1. In the form; for a circle does from the premises demonstrate the
+conclusion, and from the conclusion put into the place of the Major and the
+Minor simply converted, it does again demonstrate the Major; then again from
+the same conclusion put into the place of the Minor, and the Major simply
+converted in the place of that, it does demonstrate the Minor: which any one,
+that will, may experiment by this instance. Every rational thing is resible,
+Every man is rational, Therefore every man is risible.
+
+
+But in regress we only demonstrate the minor, from the major simply converted,
+and the conclusion put into the place of the minor. And so there will be a
+natural predication in every proposition, the which is not in a circle.
+
+2. In the Matter; for the matter of a circle or middle term, is uniform in
+both the demonstrations, seeing it is the next cause of the major extreme,
+proving why a thing is; but in regress the effect does first demonstrate, that
+there is a cause, then after consideration had about the cause, the cause does
+demonstrate why there is an effect.
+
+3. In the end; for in a circle the same thing is both beginning and end,
+seeing it proceeds from a cause distinctly known, to a cause distinctly known,
+and returns from this to that; but in regress, the end is a distinct knowledge
+of the effect, and the first progress is from an effect confusedly known to a
+cause to be confusedly known; but from a cause confusedly known, consideration
+being had, we come to the distinct knowledge of the cause, and from that once
+habituated and radicated in the understanding, we return to the distinct
+knowledge of the effect.
+
+3. Conversion of a demonstration into a definition is, when from the terms of
+a demonstration, the definition of a proper accident is framed by
+transposition. And the definition of a proper accident is twofold.
+
+1. Partial; and that is either, Nominal, which consists of a Genus and a
+subject; as, an Eclipse in the defect of light in the Moon. Causal, which is
+the middle term in the most perfect demonstration, showing, why there is an
+effect; as, an Eclipse is the interposition of the Earth. 2. Total, which being
+made of the nominal and the causal both, does consist of a Genus, a subject,
+and the next cause; as, an Eclipse is the defect of llight in the Moon, by
+reason of the interposition of the earth. A nominal definition is the
+conclusion of the of the demonstration: A causal is the beginning: A total is
+an entire or whole demonstration, differing in nothing from it, but the placing
+of the terms: for the thing defined is the greater extreme, the lesser extreme
+the subject, and the cause the middle term.
+CHAP. X. Of a Topical Syllogism in the General.
+HItherto we have spoken of a demonstrative Syllogism, whose matter is
+necessary, and the end a perfect knowledge: come we now to a dialectical or
+topical Syllogism, whose matter is probable and contingent, and the end,
+opinion.
+
+2. In a dialectical or topical Syllogism, we are to consider of Problemes,
+Propositions, and the invention of arguments.
+
+3. A Problem or Question, is the thing of which it is probably discoursed,
+and the conclusion of a Syllogism already made. But that this Problem may be
+dialectical, two conditions are required.
+
+1. That it be profitable either to life, and then it is called a moral
+Problem; as, whether pleasure be good? or to knowledge, and then it is called
+a Physical or a natural problem; as, whether the world be eternal? or to some
+thing that is subservient unto these, and then it is called a Logical Problem;
+as, whether division be a Syllogism? 2. That it be doubtful, in which either
+the common people do dissent from wise men; as, whether riches make men happy:
+or the common people dissent among themselves; as, whether usury be lawful; or
+the wise men dissent among themselves; as, whether the heart be the most noble
+part of man.
+4. The parts of a Problem are the two terms of subject and predicate. As
+concerning the subject I give no directions, because a dialectical Syllogism is
+not restrained to any certain subject. But the Predicates according to
+Aristotle are four, Genus, Definition, Accident proper and common. He adjoineth
+difference to Genus, if it be more comprehensive than the species, or to
+definition if it be reciprocated with the species: if the species chances to
+be attributed in any Problem, it is reduced to Genus.
+
+5. Dialectical Propositions ought to be certain, at least probable and not
+Paradoxes.
+
+6. That is said to be probable, which not being absolutely true, does rather
+seem to be true, than false. There are five degrees of probability; for that is
+said to be probable which seems to be true, either to all, to most men or
+unto wise men, and that either to all of them, or to the most, or to the wisest
+of them.
+
+7. That is said to be a Paradox, which is true, though contrary to the vulgar
+opinion.
+
+8. For the invention of arguments, we are to consider common places and rules.
+
+9. A place is a sense or commmon note, by whose help an argument is found.
+
+10. A Rule or Canon is a proposition containing the reason of the consequence
+in a dialectical Syllogism.
+
+11. Arguments are of two sorts, artificial and inartificial.
+
+12. Artificial arguments, are such as from the consideration of the parts of
+the problem, are not found but by rules of art.
+
+13. Inartificial arguments are such as are found without any help of art, and
+these are nothing but testimonies.
+
+14. Several men do reckon the order of these heads or places severally.
+Aristotle reduces all heads to the four predicates mentioned before; some for
+the more plainness and distinction, reckon up twenty and five; and this number
+some contract to thirteen; others to ten; and perhaps they may without any
+inconvenience be reduced unto seven.
+
+1. The Cause and the Effect. 2. The subject and the Accident. 3. Dissentany
+and Comparison. 4. Conjugates and Notation. 5. The whole and its parts. 6.
+Genus and Species. 7. Definition and Division. In every of these places, I will
+in the proposed order show you the Canons to be observed, and the restrictions
+of them.
+CHAP. XI. Of the Topics from the Cause and the Effect.
+THere are four kinds of Causes, efficient, material, formal and final; there
+are several sub-divisions of them, but these following are the most convenient
+to our purpose: as, 1. Into total, as Gold is the cause of money, the Sun of
+the day; and partial; as, timber in the cause of a house; nature of learning.
+2. Into a cause actually, as, a builder is the cause ^f an house; and a cause
+potentially, as, an ^rchitect may build an house. 3. Into a re^ote cause, as, a
+feast may be the cause of ^^ckness; and the next cause, as, crudity in ^he
+stomach is the cause of sickness. 4. Into (...) cause simply and by it self;
+as, the Sun is ^he cause of light; and a cause by accident, as, ^he Sun of
+blindness.
+
+The Canons or Rules of this Topic are ^hese.
+
+1. The cause being granted, the effect cannot be denied; and, if the cause be
+taken away, the effect is taken away also; as, if the Sun shine, it must be
+day, if the Sun does not ^hine, it is not day; the former part of this Canon
+has four limitations.
+1. In a remote cause; as, he that drinks wine is not always made drunk. 2. In
+a cause that is obstructed in its operation; as, heavy things do not always
+descend, because they may be hindered by some thing that holds them up. 3. In a
+cause by accident; as, he that diggeth in the earth does not always find gold.
+4. In a cause not sufficient of it self; as, he is not always learned that is
+industrious; nor that ground always fertile, that is well tilled; because to
+both these more is required.
+
+The latter part of this Canon has three limitations. 1. In a cause by
+accident; as, he that does not dig into the earth may find a treasure. 2. In a
+cause that may, but is not; as, a building may stand, though the Architect be
+dead. 3. As often as the effect may be produced by diverse causes; as, Socrate^
+may die, though he does not drink poison.
+
+2. The effect being granted, the cause is also granted, and the effect being
+taken away, the cause is taken away also. The first part of this Canon has
+three limitations. 1. In an effect by accident; as, a treasure may be found
+though the earth be not dug. 2. In an effect that does remain after the
+cause; as, the house may remain, though the builder be dead. 3. In an effect
+that may be produced by diverse causes; as, a man may die, though not by
+poison. The latter part has also three limitations. 1. In an effect by
+accident; as, a man may dig in the earth, and not find a treasure. 2. In an
+effect which was, but is not; as, a building may be destroyed though the
+builder be living. 3. In an effect produced by a free agent; as, there may be a
+Physician although he does not cure any disease.
+
+3. Such as the cause is, such is the effect, and the contrary; as, if the tree
+be good, the fruit will be good, and the contrary; both parts of this Canon
+have two limitations. 1. In aequivocal causes and effects; as, the draught may
+be beautiful though the painter be deformed. 2. In a material cause, for some
+thing that is extrinsecal; as ice is not fluid because water is so.
+
+4. That for which any thing is such, is much more such it self; as, the air
+being hot by reason of fire, does argue that fire is much hotter than air.
+
+This rule fails. 1. Where both are not such; as, wine which makes a man
+drunk, is not it self more drunk, because drunkenness cannot be said to be in
+wine. 2. Where it does not receive more and less; as, a father is not more a
+man than a son, although he be the cause why the son is a man; for humanity
+does not receive more and less. 3. In a cause not sufficient of it self; as, a
+Master which makes his scholar learned, is not always more learned than his
+scholar; for by his ingenuity and industry it sometimes so comes to pass, that
+the scholar is more learned than the master.
+
+5. The cause is in nature before the effect; as, reason before risibility; and
+this never fails; for a final cause in which it only seems to fail, although
+it be in act and execution after the effect, yet it is before it in the
+intention of the agent, for which only reason it is the cause.
+
+CHAP. XII. Of the Topics from the Subject and the Accident.
+WE do not here take the subject for substance in which the accident is
+inherent, or accident for that which does precisely and adequately adhere to
+the substance; but subject is here taken for all that, to which any thing not
+belonging to its essence is attributed: An accident is here taken for every
+such attribute; as, number is the subject of equality, that is, it is an
+accident of an accident.
+
+An accident may be divided many ways, and so may a subject, for an accident is
+1. either proper or common. 2. Separable or inseparable. 3. Inherent or
+internal, and adherent or external. 4. And chiefly it is either accidental, as
+weariness does accompany a fever, a pale Moon, rain, and all prognosticating
+signs: Concomitant, as an Eclipse of the Full-Moon, and consequent, as, a day,
+to the twilight; signs and circumstances do also belong to this Topic.
+
+The Canons or Rules are five.
+
+1. The subject being granted, the proper accident is also granted; and being
+taken away the proper accident is taken away also, and the contrary; as, if he
+be a man, he is risible, and the contrary; and if he be not a man, he is not
+risible, nor the contrary. This rule never fails by reason of the
+reciprocation of the subject and the proper accident. 2. The subject being
+granted, the common accident is also granted, but not the contrary; as if it be
+snow, it is white; but if it be white it is not therefore snow. The first part
+of ^his rule fails in separable accidents; as if ^t be water it is not
+therefore cold. And the ^atter part fails; 1. In a proper accident, ^he first
+way; as, if there be knowledge there ^s a man; 2. In an individual accident; as
+^f there be this whiteness, there is snow; because an accident does not change
+its subject. 3. A common accident being taken away, ^he subject is taken away,
+but not the contra^y; as, if it be not white, it is not snow but yet there may
+be white, though there be no snow. The first part fails in a separable
+accident, the latter in a proper accident, the first way; and in an individual
+accident and subject, as in the former rule. 4. The thing being granted, the
+circumstance of time and place is granted, and the circumstance being taken
+away, the thing is taken away; as, if Milo did kill Clodius, then Milo was
+living and present; if he was neither living nor present he did not kill him.
+This rule never fails in any requisite circumstance, necessarily. 5. The
+antecedent, concomitant, and consequent being granted, the consequent,
+concomitant and antecedent for every exigence is also granted; to wit a
+concomitant in being, an antecedent in being, or that has been, a consequent
+in being, or that will be, and being taken away the other is taken away also;
+as, if there be an Eclipse there is a full Moon; if there be a birth there was
+a conception; if there be a twilight, the Sun will rise. This rule fails; 1.
+In a thing not cohering necessarily; as he which is a Philosopher, must not of
+necessity be therefore poor; and if there be a Comet, it does not follow there
+must be war. 2. In things cohering necessarily, if there be not a mutual
+necessity; for though it be true, that if there be an Eclipse there is a Full
+Moon; yet it does not follow that if there be a Full Moon there must always be
+an Eclipse; yet these things not necessary are of great force to beget belief,
+especially if many of them shall be joined together in one. Hence Astrologers,
+Physiognomers and Orators do highly value this Topic, in questions of fact
+especially.
+CHAP. XIII. Of the Topics from Dissentany and Comparison.
+DIssentanies are either Opposites or Disparates; as, a Horse and a Bull. There
+are four kinds of Opposites, of which, Book I. Chap. 13. Comparisons are either
+in respect of quality, as like and unlike, or in respect of quantity; or also
+of degrees, as equal and unequal; and whatever may be said to be more or less
+and equal. All which have their several Rules or Canons.
+
+Concerning Relative opposition the Canon is, One of the relates being granted,
+the other is granted also, and one being taken away, the other is taken away
+also; as, if there be a son there is a father etc. This rule fails; 1. In
+accidental relations, as it being granted that there is something knowable, it
+does not follow that there is a knowledge of it. 2. If it be understood of the
+same subject; as, he which is the father of this man may not not not be at all,
+but it is impossible, that he should be the son of him, of whom he is the
+father.
+
+Concerning contrary opposition the Canons are these following.
+
+1. One of the contraries being granted the other is taken away; as, if water
+be warm, it cannot be cold. This rule fails in remiss qualities, for the
+water which is hot to six degrees, is cold to two; because the remission of
+quality is always by admission of the contrary. 2. One of the contraries being
+taken away, the other does remain; as, if water be not dry it is moist. This
+rule fails 1. In mediate contraries; as, Honey is neither white nor black,
+but yellow. 2. In an incapable subject, as, a soul is neither white, nor black,
+nor hot, nor cold. 3. Contraries have the same Genus and subject; as, if white
+be a color, black is a color also; if love be a concupiscible faculty, so is
+hatred. This rule never fails. 4. Contraries have contrary causes, effects,
+properties, and next subjects; as, if grief be to be avoided, pleasure is to be
+followed; and if cold congeals, heat dissolves. This rule fails; 1. in the
+predications of a Genus or a Generical affection; as, because whiteness is a
+color or visible, it does not follow that blackness is not a color. 2. If the
+nature of the subject will not bear it; as, because health is agreeable to
+living creatures, it does not follow that diseases are agreeable to things
+without life, but rather the contrary. 3. In causes by accident; for if a good
+man does love and defend his children, it does not follow that a wicked man
+must therefore hate and destroy his, because to love his children, is not so
+much from virtue, as nature. 4. In causes whose action is determined by the
+disposition of the matter; for cold does not therefore soften dirt, because
+heat does make it hard. 5. The contrary of a greater good is a greater evil,
+and the contrary; as, because that health is better than riches, therefore
+sickness is worse than poverty. This rule fails where one of the good things
+is included in the other, or supposed by it; as, it is more advantageous to be
+a Philosopher than to know letters; but yet of the two, Philosophy may be best
+spared.
+The Canons of privative opposition are these two.
+
+1. The habit being granted, privation is taken away, and the contrary; as, if
+a man does see, he is not blind; if he be blind, he does not see. And this rule
+never fails. 2. The habit being taken away, privation is granted, and the
+contrary; as, he does not see, therefore he is blind. He is not blind,
+therefore he does see. This rule fails; 1. in an incapable subject; as, a
+stone does not see, and yet it is not blind 2. In a capable subject, before the
+time in which it is capable, and therefore though a whelp does not see, until
+it be nine days old, yet cannot it be said to be blind.
+Of contradictory opposition there is one only never failing Canon, One of the
+contradictories being granted, the other is taken away, and one being taken
+away the other is granted; as, if a wall be white, it cannot be said, to be not
+white; if it be not white, it cannot be said to be white.
+
+The Disparates have but one Canon, One of the Disparates being granted, the
+rest are taken away; as, if Socrates be a man, then he is neither a bull nor a
+stone. This rule fails in accidents, when they are attributed unto subjects
+in the concrete, for the same mess may be white and sweet.
+
+The Canons of like and unlike, proportional and unproportional are these.
+
+Like and proportional do agree with like and proportionals; dislike and
+unproportional do agree with dislike and unproportionals; as, if Plato be
+mortal, Socrates is also mortal; if the eye directs the body, then reason
+should direct the mind. This rule fails unless it be understood
+reduplicatively, that is of like as like; for every like is also unlike, or
+else it could not be like, but the same; and hence a Crow cannot be said to be
+rational, because a Blackmore is so, and so of the rest: And here the
+respondent (if he do except against the arguments founded on this Canon) must
+show in what the things propounded are like or unlike.
+
+Probable propositions, and things compared among themselves, are said to be
+more and less and equal. The Canons concerning comparison of things are general
+or special.
+
+The general rules are these.
+
+1. That which is such by nature, is more such than that which is so by
+participation; as, the Sun is lighter than the air. 2. That which is by it self
+is more so, than that which is by accident. 3. That which is more remote from
+the contrary, is more than that which is nearer; as, the air is colder under
+the Poles, than under the Tropic. 4. That which makes more, is more than that
+which makes less; as, fire vehemently heating. 5. That in which the cause is
+more inherent, is more than that in which it is less; as, a young man is
+stronger than an old. 6. That to which the definition or the mean is more
+agreeable is more than that to which it is less; as, that which does more
+conduce to the end, is more profitable, and many more which do all fail, unless
+there be a restriction of the rest being like; for terms of comparison do
+almost exceed one another mutually and are exceeded.
+Special rules concerning that which is more or less good are these.
+
+1. The more good things there are in any subject, the better it is; as,
+peripatetick felicity, is better than the Stoic. 2. The more it is good to,
+the better; as, Justice is better than fortitude. 3. That which is desired for
+it self, is better; as, peace is better than war. 4. That which is in it self
+good is better: as, good laws are better than evil manners. 5. That which is
+more durable, is better; as, verture is better than beauty. 6. That which is
+solitarily good is better; as, a competency is better than great riches. 7.
+That which has the more noble object, is better; as, Divinity is better than
+Physic. 8. That which leads to perfection is better than that which serves for
+necessity; as, seeing is better than feeling. 9. That which is the nearer to
+the end is the better; as, the Harvest is better than seedtime. 10. That which
+tends to the more noble end is the better; as, Liberal Arts are better than
+Mechanical. 11. That which is the more like the better is better; as, Brass is
+better than Lead. And many more of this kind Lib. 3. Aristotle's Topics. All
+which are to be understood with this limitation, that all other things be
+answerable.
+The Canons of the Probability of propositions are these.
+
+1. Of such propositions, which are equally such or not such; if one be such,
+the other is, if the one be not such, neither is the other; as, honor and
+riches do both seem to conduce alike to happiness; if honor therefore do not
+make a man happy, neither do riches; if meat be necessary to maintain life,
+drink is also necessary. 2. If that which seems more to be such, be not such,
+that which seems less to be such is not such; as, all that like Maevius, do not
+like Homer. 3. If that which does less seem to be such be such, then that which
+does more seem to be such is such also; as, if he that is guilty of theft
+deserves to be hanged, he that is guilty of Sacrilege, does much more deserve
+it.
+CHAP. XIV. Of the Topics concerning Conjugates, and Notation.
+THey are properly called Conjugates which for the affinity of signification
+have also an affinity in the voice or sound; as just, justice, and justly; some
+Conjugates are only nominal, some real and some both, and do comprehend
+Denominatives under them, and are either substantives, where one is a Noun
+Substantive, abstracted from the subject; as, justice, just; or an Adjective,
+where they be both Denominatives, or Concretes which show the form in the
+abstract; as, just, justly. Notation, or Etymology, is the explication of a
+word by the original thereof; as, a Consul from counselling the commonwealth.
+
+The Canons or Rules of Conjugates are,
+
+1. That to which one of the conjugates does agree, the other does agree also;
+and the contray; as, if Socrates be just, he will do justly. This rule fails
+1. In those which are nominal Conjugates only; for if Socrates drink wine, it
+does not presently follow, that he is a wine-bibber, that is, a drunkard. 2.
+When we argue from one or some far actions, that there is a habit, and
+therefore it does not follow, that Socrates is just, because he has done some
+things that are just. 3. When we argue from the power to the act, as, Socrates
+is risible, though he do not laugh at present. 2. If one of the Conjugates may
+be predicated of one, the other may be predicated of another, and so also
+negatively; as, if whiteness be a color, white shall be a thing colored. This
+rule fails 1. In those which are nominal conjugates only; as it does not
+follow that wine is an evil thing, because wine-bibbing is so: 2. In arguing
+affirmatively, from the concretes to the abstracts, where the predication is
+not by it self; as, it does not follow that whiteness is sweetness, because
+something that is white (as milk) is sweet. 3. In arguing negatively from the
+abstracts to the concretes; as, because no whiteness is sweetness, it does not
+follow that nothing that is white, is sweet.
+The Canons of Notation are two.
+
+1. That which does or does not agree to notation, does, or does not agree with
+the thing noted; as, if the study of wisdom be to be preferred before the
+study of the military art; Philosophy is also to be preferred before the
+military art. 2. That of which the thing noted is predicated, notation is also
+predicated, and the contrary; as, if there be a solstice, the Sun does stand;
+if there be no holy thing taken away, there is no Sacrilege.
+The Topic from notation is more delightful than forcible, and the Canons
+thereof do fai^ very often; as, 1. If the notations be too much strained; as,
+it does not follow tha^ Thomas Perseval is therefore wiser than other men,
+because he does perceive all. 2. If in argumentation a true notation or
+etymology be no^ taken in a true manner; as, it does not follow that Socrates
+does teach or instruct his pupils because he is a teacher, for he is indeed
+called a teacher from teaching, or because he ought to teach; not because he
+does always actually. And by several other ways, which a diligent observer
+may easily understand.
+
+CHAP XV. Of the Topics from the Whole and his Parts.
+THe whole and its parts are relations.
+
+The whole is that which is composed by the union of all the parts; as, a man:
+The parts are those which are united in the whole; as, the head, the breast,
+the legs. The essential parts of an essential whole are matter and form. The
+integral parts of an integral whole are those which differ so in their
+situation, as that one part may be separated from another; as the parts of a
+house are, the foundation, the walls, the roof. An Homogeneal Integer or whole
+is distributed into Homogeneal or similary, parts, of which every one has name
+and definition of the whole; as, every part of water is water. An Heterogeneal
+whole is distributed into Heterogeneal or dissimilary parts, which have
+distinct names and natures from the whole; as, the parts of a man are the head,
+hands, feet, etc. Parts may be considered either every one single by its self,
+or all of them jointly and together.
+
+The Canons or Rules are these.
+
+1. The whole being granted, the parts are granted also; as, if there be a
+house, there is a foundation. 2. If the parts be taken away, the whole is taken
+away also; as, if there be no foundation, certainly there can be no house; both
+these rules fail, 1. In equivocal parts, and parts so called improperly; as, it
+does not follow, that he is not a man, because he has neither hair nor nails.
+2. In a whole, that is lame in some part not simply necessary: as he may be a
+man, though one of his fingers or hands be cut off. 3. The whole being taken
+away, the parts are also taken away; as if there be not a house, there is not a
+foundation. 4. The parts being granted, the whole is also granted; as if there
+be a foundation, walls, and roof, there must be a house. Either of these rules
+fail, when the parts are taken by themselves; as, there may be a foundation,
+though there is not a house as yet.
+CHAP. XVI. Of the Topics from Genus and Species.
+TOpically Genus and Species are not always taken as in the predicables: for
+here Genus is every essential predicate; whether it be a Genus, properly called
+the predicate of some species or individual: as animal is spoken of man, or of
+Socrates; or a species spoken of individuals, as man of Socrates; or whether a
+Generical or specifical difference be spoken of the inferior Species, which it
+does constitute; as, sensibility of man; rationality of Socrates.
+
+In like manner by Species here, we do not only understand that which is
+properly so called, which is immediately under his Genus, but a specifical
+difference, and also an individual it self; and whatsoever is subjected to
+something superior, in that particular in which it is subjected, is called by
+the name of Species.
+
+The Canons or Rules of Genus and Species, are 1. If the Genus be taken away,
+the Species is taken away also; as, if there be not an Animal, there is neither
+man nor beast, nor reasonable creature. 2. The Species being granted, the Genus
+is also granted; as, if there be a man or something that is rational, there is
+an animal. These rules hold always. 3. What does or does not agree to the
+Genus, does also agree or not agree to the Species; as, if an animal be
+sensible, a man is so; if it be not incorporeal, neither is a man. This rule
+failleth 1. In a material or simple supposition, for neither is man a Genus,
+because there is an animal, or not a Species, because there is not an animal.
+2. In those things which do agree or not agree in part only and not
+universally; as, neither is a man irrational because some animal is so, or not
+rational because some animal is not rational. 4. What does or does not agree to
+a Species, does or does not agree unto its Genus. This must be explained two
+ways. 1. What does or does not agree to any Species, does or does not agree to
+its Genus in part; thus are Syllogisms in the third figure; as, if man be
+rational, or not fourfooted, certainly some animal is rational, and some animal
+has not four feet. 2. What does or does not agree to all the Species, does or
+does not agree to all the Genus: hence inductions are formed; as, if a man, a
+horse etc. be sensible, or are not immortal; certainly every animal is
+sensible, and no animal is immortal.
+
+
+CHAP. XVII. Of the Topics from Definition and Division.
+DEfinition, Topically taken, does comprehend not only every essential
+definition, but every, perfect description of a thing also, and every
+convertible predicate, as the constitutive difference and proper accident. But
+division is so taken, as in the second book of Logic is expressed, Chap. 2.
+
+Definiton has this only Canon. The definition being granted or not granted,
+the thing defined is also granted or not granted; and the contrary; as, if
+there be a rational creature, there is a man, and the contrary; if there be not
+a man, there is no rational creature, nor on the contrary. This rule fails in
+those things which agree to the definition or the thing defined as a definition
+or thing defined; for if a rational creature be a compounded speech, it does
+not follow that there is a man, otherwise it is always true; for it is founded
+in their mutual reciprocation.
+
+Division has this only Canon also: One or other of the dividing members being
+taken away, the other is taken away also, and one being granted, the other is
+also granted; as, if this animal be not a brute, it is a man, if it be a man,
+it is not a brute. This does always hold in every good division; for it is
+founded upon these two Canons of a perfect division. 1. The members do take up
+the whole that is to be divided. 2. The dividing members are contrarily
+distinct and opposite, so that they can neither agree nor be confounded.
+
+CHAP. XVIII. Of the Topic from Testimony.
+WE are now to speak of inartificial arguments, or such as are void if not
+against the rules of art. These contend not with strength of reason, but
+authority: and are drawn from Testimony or Witness.
+
+Testimony or Witness is either, Divine By Revelation, as the Scriptures,
+Dreams and Visions etc. By operation, as the judgments of God, miracles,
+experiences of Gods justice, power, and providence; and unto this the Testimony
+of nature may be referred.
+
+Humane Proper, as the Testimony of the senses. Common Public, as Customs,
+Laws, Monuments etc. Private; as, Confessions, Wills, Oaths, Compacts, the
+judgment of Authors, and such like.
+
+
+
+
+
+Some Testimonies are more firm than others, concerning which many Canons or
+Rules might be given; some of the chief are these which follow.
+
+1. Testimony in the negative is of no value, for it does not follow that it is
+not so, because Aristotle has no where made mention of it. This rule fails,
+1. In those things which are not to be commanded without a certain authority;
+as because it is not in the Scriptures, therefore it is not to be believed; nor
+is it a capital crime to swear rashly, because no law has made it capital. In
+those things in which an author either should or has promised, to discourse
+perfectly; as, Aristotle lib. 1. Metaphys. where he promises to enumerate the
+several species of quantity, yet makes no mention of place; is not place
+therefore one Species of Quantity? 2. Divine Testimony is of infallible truth;
+as, Christ is the Messiah, because; the Scripture says it. This Rule never
+fails. 3. The Testimony of sense is surely to be believed; as, fire is hot,
+because sense shows it to be so. This rule fails when a reason can be
+showed, that the senses are deceived; as, a staff is not therefore crooked,
+because it seems so when it is in the water. 4. An artist is to be believed in
+his own art; as, a perfect birth may be in seven months; as Hyppocrates
+affirms. This rule failerh; where others as skilful, or more skilful do think
+and affirm otherwise: as there are no Ideas, though Plato affirm it, because
+Aristotle does oppose it. 2. Where sense or reason does contradict; as Snow is
+not black, though A^axagoras does say it; nor, (...) of an elementary nature,
+though Aristotle does affirm it; because the one is contrary unto sense, and
+the other unto reason. 5. The Testimony of many is to be received, before the
+Testimony of a few; as it is more probable, that there is an element of fire,
+because many think so, then that there is not, that being the opinion but of a
+few. This rule fails 1. When the fewer are the wiser; as, virtue is to be
+preferred before riches, because the wiser sort do think so. 2. Where the fewer
+in number do give the strongest reasons; as, Logic is an art rather than a
+science, though they are the fewer number that think so, because it appears to
+be so by most firm and strong Arguments. 6. The Testimony of the Ancients is to
+be preferred before the testimony of the Neotericks; which is especially to be
+received in things belonging to piety and good manners; for in things of art
+and ingenuity, the ancients without doubt are much outdone by men of later
+years; it being easier to add something to things already invented, than to
+find out new inventions,
+CHAP. XIX. Of Fallacies in the General.
+HItherto we have spoken of a true Syllogism, as it consists either of
+necessary or probable matter; it remains now that we speak of a Sophistocal
+Syllogism.
+
+A Sophistical Syllogism, is a captious argumentation, which is seemingly only
+or apparently true or probable, but is indeed deceitful. And the Ancients did
+call those Sophisters which endeavored to obtain Glory by disputation, and
+that by five ways or means especially by forcing the respondent, 1. To
+Redargution, which is the denial of something that was before granted, or the
+concession of something that was before denied. When the respondent is forced
+to contradict himself. 2. To something that is false; as, when he admits of
+something that is apparently known to be so. 3. To something contrary to common
+sense; as, when he admits of some proposition, that is contrary to the common
+received opinion. 4. To some Soloecisme; as when he admits of some thing
+contrary to the rules of Grammar; or, 5. And lastly, to some trivial and vain
+thing; as when there is a vain and useless repetition of the same thing.
+
+
+These fallacious ways of arguing, Aristotle has well referred to these two
+heads, to Fallacies in words, or in things: Of Fallacies in words he reckons
+five. Ambiguity, Amphibolie, Composition, Division and Figure of a word: Of
+Fallacies in things he names seven; Accident, Of a thing spoken after a sort to
+a thing spoken simply, Ignorance of the argument, A false or wrong Cause,
+Consequent, Begging of the question, and, An asking of many questions.
+
+CHAP. XX. Of Fallacies in Words.
+ALL Fallacies in words arise from some Multiplicity that is in them; and the
+multiplicity that is in words, is either Actual, Potential, or Fantastic.
+
+1. Actual, when a word without variation has many meanings; as, in
+Aequivocation, and Amphibolie. 2. Potential, when a word being altered in the
+pronunciation, has many meanings; as in Composition, Division, and Accent. 3.
+Fantastic, when a word does really and indeed signify but one, and yet does
+seem to signify many things, as in the figure of a word.
+A Fallacy of Aequivocation, or Homonymie, is when some simple word is diversely
+taken in the several propositions of the same Syllogism; and this may be three
+ways.
+
+1. When one word is applied to several things; for example, Every Dog does
+bark, The Dog star is a Dog, Therefore the Dog star does bark.
+2. When a word properly signifying but one thing is by Analogy or Metaphor
+applied to another; as if one would prove that water has feet, because it
+runs, or the meadow a mouth, because it smiles. 3. When there is some ambiguity
+in respect of the accidents of the parts of speech according to Grammar; as, if
+one would prove that he which is sitting does stand, because he did rise.
+In these Fallacies there are four terms; and may be resolved by showing the
+several significations of the ambiguous word.
+
+A Fallacy of Amphibolie is when some sentence is doubtful by reason of the
+construction, and this may be three ways.
+
+1. The construction of the words being the same but under a diverse habitude;
+as, if one would prove this to be Aristotle's book because he made it. 2. By
+changing the order of the construction; as; thus, That which one does see is
+true, But you saw Thomas drunk, Therefore it is true that Thomas was drunk
+3. When a sentence has both a proper and a Metaphorical sense; as thus, They
+which laugh have mouths, The Meadows do laugh, Therefore the Meadows have
+mouths.
+
+And to this belong all proverbial speeches, and may be resolved by showing the
+ambiguity of the sentence.
+
+A Fallacy of composition, is when such words are joined together which should
+be disjoined; and the contrary unto this is a Fallacy of division; when such
+words are severed which ought to be joined together; both of these may happen
+four ways. 1. When the dictum in a modal proposition may be put for its whole
+self, or for a part of its self: as for example, It is possible for him that is
+sitting to run; the which proposition is false if taken together, for while he
+does sit, he cannot actually run; but being disjoined it is true, for he that
+does now sit, at another time may run. 2. In Hypothetical propositions, whose
+parts are joined by some conjunction copulative or disjunctive; as, two, and
+three are even and odd, but five are two and three, therefore five are even and
+odd. 3. When some word in a sentence may be joined to diverse things; as for
+example; He that may now be truly said to be born, is born in this hour; But a
+man that is threescore years old may now be truly said to be born; Therefore a
+man that is threescore years old is born in this hour.
+
+
+4. When two things are taken severally in the premises, and conjunctly in the
+conclusion, and the contrary; as thus; This dog is a father, And this dog is
+yours, Therefore this dog is your Father.
+
+
+In these there are four terms, and are resolved by separating the divided
+sense from that which is compounded; and showing which of them is true and
+genuine, and which not.
+
+A Fallacy in Accent, is when one and the same word or sentence does signify
+diverse things, by reason of the different accent or manner of pronunciation;
+and this may be four ways. 1. By making a wrong pronunciation, a long syllable
+for a short; or the contrary. 2. By the diverse writing, without a diphthong or
+aspiration; as thus, They that could pronounce Shibboleth were safe from the
+Gileadites, but the Ephramites could pronounce Shibboleth, therefore they were
+safe. 3. When one word is made of two, or two of one. 4. By changing the manner
+of the pronunciation, as, thus; He that says well done, does acknowledge the
+action to be good; But he that derides another, does say, well done! Therefore
+he that derides another, does acknowlede the action to be good. In these also
+there are four terms; and they are solved, by showing the reason of the diverse
+accent or writing.
+
+A Fallacy of the figure of a word, is when for some similitude and likeness of
+words, that does seem to agree to one thing, which is proper to another. But
+these Fallacies have the least show of probability, and therefore are but
+rarely used, and are many of them solved by saying that the words are indeed
+like, by reason of some accidents, as, sound or termination; but not in
+substance sense or signification.
+
+CHAP. XXI. Of Fallacies (...) Things.
+FAllacies in things are seven.
+
+1. A Fallacy of accident, when that which agrees to one of the terms in a
+Syllogism only by accident, is attributed unto another as if it were essential.
+This happens, 1. When we argue from the accident to the subject, and the
+contrary; for example, That which causes drunkenness is to be removed; But
+wine is the cause of drunkenness; Therefore wine must be taken away. 2. When
+the Genus of the supposition is changed, the material into the formal, the
+simple into personal, and the contray; as thus, An animal is a Genus, a man is
+an animal, therefore a man is a Genus. 3. When we argue from the Superior to
+the Inferior and the contrary; as if we would prove that rationality is
+convertible with living creature, because it is convertible with man. These are
+solved by distinguishing that which agrees with any thing of it self, from that
+which does so by accident.
+2. A Fallacy from a thing spoken in some respect to a thing spoken simply; and
+this is when from the mean term disposed with limitation, or after a sort with
+both or either of the extremes, a conclusion is inferred simply and absolutely
+true. And this may be three ways. 1. When the limitation added destroies the
+term to which it is added; as, Socrates is a dead man, therefore he is a man. 2.
+When the limitation added, does signify a part; as a Blackamore has white
+teeth, therefore a Blackamore is white. 3. When the limitation aded, does
+signify some notable circumstance of time, place, person, and the like; as, It
+is fit to cast the merchants goods into the Sea, for the preservation of the
+men in the ship; therefore it is fit to cast the merchants goods into the Sea.
+These are solved by distinguishing that which is simply and absolutely so, from
+that which is so in some respects only. 3. A Fallacy from ignorance of the
+argument, and this is, when either the state of the question is quite turned or
+wrested; or the adversaries conclusion is not directly opposite to our Thesis,
+according to the Canons of lawful opposition. This happens if the
+disputation, 1. Be not to the same thing; as, Socrates is rich, if he be
+compared with Codrus, poor, if compared with Craesus, therefore Socrates is
+both poor and rich. 2. If it be not so in reference to the same; as, no
+Blackamore is white, every Blackamore is white in reference to his teeth,
+therefore a Blackamore is and is not white. 3. If it be not taken in the same
+manner; as Socrates does run freely, Socrates does not run freely, therefore
+Socrates does and does not run. 4. If it be not in reference to the same time;
+as, The faithful under the law did believe that Christ was to come, The
+faithful under the Gospel do not believe that Christ is to come, but that he is
+exhibited, Therefore the faithful do and do not believe that Christ is to come.
+All Fallacies may in some sort be reduced unto this of ignorance of the
+argument, even as all opposition may be reduced to contradiction. These are
+solved by showing the defect of the contradiction, in some of the four
+mentioned conditions. 4. A Fallacy from that which is not the cause for the
+cause. And this is when that is brought for the true cause, which either is no
+cause, or else a cause only by accident, or not like unto the effect. This
+happens 1. When that which is not the true cause is brought for the true; as if
+one would prove such a war to be a cruel war, because of the appearance of a
+Comet. 2. When that which is the cause by accident is brought for the true; as
+if one would prove that the use of wine is to be forbidden because it makes
+men drunk. These Fallacies are very useful in such Syllogisms which drive the
+respondent to something that is impossible; and they are solved, by denying the
+false cause, and showing the true. 5. A Fallacy of the consequent; and this is,
+when that is inferred from the antecedent as the consequent which yet is not
+the consequent. This happens as often as the rules of conversion, or conditions
+of Syllogisms are not observed. And these are solved by showing the weakness of
+the inferences, either from the rules, or from some other inferences of the
+same form, which are infirm. 6. A Fallacy from begging the question; and this
+is when that is used for the mean which is not granted, or is different from
+that which is sought, but as much unknown. This happens many ways. 1. When
+the thing sought is taken in the same terms; as thus, every man is rational,
+every man is a man; therefore every man is rational. 2. When the thing sought
+is expressed in words, Synonymous or equivalent; as if one would prove that a
+shilling is the twentieth part of pound, because twelve pence is so. 3. When
+the question is proved by that which is as much or more unknown; as, Heaven is
+immovable, because the earth is moveable. 4. When the propositions do mutually
+prove one another; as, if one would prove that fire is the hottest, because the
+thinnest; and then again that it is the thinnest because the hottest. It is
+solved by showing the vanity and folly of such arguing. 7. A Fallacy of asking
+many questions; and this is, when many questions or conclusions are confounded
+in one. This may be two ways. 1. When the same predicate is sought from
+diverse subjects; as, is the Earth, Sea, or Heaven. 2. When diverse predicates
+are sought from one and the same subject; as, is man, a living creature, and a
+stone. These are solved not by answering in one answer to all the parts of the
+question together, but distinctly to every one.
+And thus much concerning a Sophistical Syllogism.
+
+CHAP. XXII. Of Method.
+I Am now to speak of Order or Method which is the fourth and last Logical
+instrument. And, Method is the disposing of things belonging to the same matter
+or subject, so, us that they may be best understood, and easiest remembered.
+
+2. That the limitations of this Definition may be observed; such things must
+be premised which do conduce to the knowledge of those that follow; or those
+things at least must be spoken of first, which are more easy to be understood
+than the rest.
+
+3. Method is twofold, Natural or Arbitrary.
+
+4. A natural Method is that in which the order of nature and our distinct
+knowledge is observed. Some controversy there is here amongst writers, whether
+in the writing of any subject, it be fit to speak of those things first, which
+are first in nature; or those things with which we are best acquainted. And I
+think that for the most part, we are best acquainted with that which is first
+in nature; but if any time it happens otherwise, then I concur with Zabarel,
+that those things are to be spoken of first, which come first under our
+cognizance, and not those that are first in their own nature.
+
+5. In a natural method all the parts ought to be Homogeneal. We ought not in a
+natural method to mingle one science with another, as Ethics in a treatise of
+Geometry, or Geometry in a treatise of Ethics. This must be strictly observed
+in all precepts which belong to the essence of any science; but in the
+commentaries or expositions of any precepts, we may make use of any other
+science as well as of that, of which we write or speak; as in writing of
+Physic, we may repeat something of Logic, or in writing of Ethics we may
+make use of something in Physic.
+
+6. In a natural Method, we must speak first of Generals, and then of
+Particulars; and as we proceed from one thing to another, every part must have
+a dependence on that which was last spoken of, by some apt translation. This
+dependence or connection must be in this or the like form. And this shall
+suffice to be spoken of this thing; the next in order to be spoken of is etc.
+How much such forms do help the memory, is very had to be believed.
+
+7. A Natural Method is either Total or Partial.
+
+8. A Total Method is that in which a whole sience is methodically ordered or
+disposed. And this is either Synthetical or Analytical.
+
+9. A Synthetical or Compositive Method is that, which begins with the first
+and most simple principles, and so proceeds to those which do arise from, or
+are composed of these first principles. And according to this Method we are to
+write or speak of all speculative arts.
+
+10 An Analytical or Resolutive Method is that which begins with the end, and
+so proceed still lower and lower till we come to the first an^ most simple
+beginnings. And according t^ this Method, we are to write or speak of all
+Practical arts.
+
+11. A Partial Method is that, by which any part of any art or science is
+methodically ordered or disposed: Or by which any particular Theme or Subject,
+is handled by it self. In this Method we are to consider, that as it is a part
+of a Total Method, it ofttimes so falls out, that in handling a part of some
+science, we ought to observe the Analytical Method; if the whole science be to
+be handled in a Synthetical, and the contrary; that is, in such a science in
+which the whole is too handled in an Analytical Method, a part thereof must be
+handled in a Synthetical. As for example, if we were to write of all Physics,
+we must write in a Synthetical Method, but if we were to write of that part
+which concerns a living body, it were fit to observe the Analytical Method,
+beginning first with the actions, which are the ends of life; then proceeding
+to the causes and principles which are the faculties of the soul, the
+temperaments and the Organical parts of the living body; And as some particular
+Theme or Subject is to be handled by it self, we are to consider; That in
+simple Theams we are first to explain the name, by showing the Etymology, and
+explaining the words that are Synonymous thereunto either in the same or in
+other languages, if it may any thing conduce to the explanation of the Theme
+propounded: next to the name we are to consider the nearest Genus and Causes;
+and if the Theme be an accident, the Subject and Object also; and hence the
+Definition thereof must be composed. To the Definition we must add the adjuncts
+and effects etc. But in compounded Theams first the question must be rightly
+stated, and then the proper and genuine sense must be ^nfirmed by good reason
+and proof, of ^hese things I have already spoken more at large in my Art of
+Rhetoric.
+
+12. An Arbitrary Method is that which not regarding the natural order is
+fitted for such a confused knowledge as may be most taking with the people or
+suit best with their capacities. If we are to speak to sober, judicious and
+knowing men, there is no question, but that we ought to speak of things in
+their natural order; but if we have to do with the common sort of people, and
+such as are guided more by sense than reason, we are to consider of their
+capacities, and to speak of things not as they are in their natural order, but
+as they are or may be best apprehended by them.
+
+And thus much concerning Method, which is the fourth and last Logical
+Instrument; and with this I shall conclude these my Logical Precepts.
+
+Soli Deo Gloria.
+
+FINIS.
+Books sold by Thomas Passenger at the Three Bibles on London Bridge.
+A Mirror or Looking-glass for Saints and Sinners, showing the justice of God
+on the one, and his mercy toward the other. Set forth in some thousand of
+examples by Sam. Clark late Minister of Bennet-Finck London, in 2 volumns; in
+folio.
+
+Royal and Practical Chemistry, by Oswaldus Crollius, and John Hartman,
+faithfully rendered into English, folio, price 10. s.
+
+Gods revenge against murder, by John Reynolds, containing thirty Tragical
+stories, digested into six Books, newly reprinted, folio, price 10 s.
+
+Lord Bacons Natural history, folio, price, 8 s.
+
+Sandy's Travels, containing a description of the Turkish Empire, of Egypt and
+the Holy Land, of the remote parts of Italy, and Islands adjoining, folio,
+price 8 s.
+
+Markham's Masterpiece.
+
+Roman Antiquities, by Tho Godwin, quarto, price 2 s. 6 d.
+
+The famous History of the destruction of Troy, in three books, quarto, price 3
+s.
+
+Valentine and Orson, price 18 d.
+
+Etymologicum parvum, by Francis Gregory, octavo, price 3 s.
+
+Chemical essays, by John Begumis, price, 18 s.
+
+Spiritual Antidotes against sinful contagion, by Tho. Dolittle, price 18 d.
+
+Pools Dialogue betwixt a Papist and a Protestant, twelves, price bound 1 s.
+
+Monasticon Favershamiense; or a description of the Abbey of Faversham, octavo,
+price bound 18 d.
+
+The Christians Crown of glory; or Holiness the way to hapiness, octavo, price
+bound 18 d.
+
+The path way to health, price bound 18 d.
+
+The complete Academy, or Nursery of complements, bound 1 s.
+
+The book of knowledge in three parts, price 10 d.
+
+The book of palmistry in octavo, price bound 18 d.
+
+The Wise Virgin, being a narrative of Gods dealing with Martha Hatfield, price
+bound 18 d.
+
+The pilgrim's port, or the weary man's rest in the grave, in twelves, price
+bound 1 s.
+
+Books Printed for, and sold by Ben. Hurlock, over against St. Magnus Church on
+London Bridge near Thames Street.
+MAriners Magazine, folio, price bound twelve shillings.
+
+Newton's Logarithms, folio, price bound 10 s.
+
+Norwood's tryangles, quarto, price bound 4 s.
+
+Collins Sector on a quadrant, quarto, price bound 3 s. and 6 d.
+
+Collins plain scale, quarto, price bound 4 s.
+
+Seamans companion, quarto, price bound 2 s. 6 d.
+
+Safeguard of Sailers, quarto, price bound 2 s. 6 d.
+
+Geometrical Seaman, price bound 2 s.
+
+Petiscus doctrine of tryangles, quarto, price bound 5 s.
+
+Phillips advancement, quarto, price bound 3 s. 6 d.
+
+Seamans Kallendar, quarto, price 1 s. 4 d.
+
+Seamans practice, quarto, price 1 s. 4 d.
+
+^mans Dictionary, quarto, price 1 s. 4 d.
+
+^amans glass, quarto, price, 1 s.
+
+Seamans secrets, quarto, price 1 s.
+
+Complete ship wright, quarto, price 1 s.
+
+Complete Modellist, quarto, price 6 d.
+
+Pilots Sea mirror, quarto, price 1 s.
+
+Mathematical Manual, octavo, price bound ^ s. 6 d.
+
+Mariners compass rectifyed, octavo, price bound 2 s.
+
+Norwoods Epitomy, octavo, price bound 1 s. 6 d.
+
+Saints anchorhold, twelves, price bound 1 s.
+
+Newtons Institutions in twelves, price bound 2 s. 6 d.
+
+Newtons Tables in twelves, price bound 2 s. 6 d.
+
+Newtons Geometrical Trigonometry in twelves, price bound 1 s.
+
+Carpenters Rule in twelves, price bound 1 s.
+
+Mariners divine Mate, twelves, price bound 6 d.
+
+Seamories Architecture, quarto, price bound ^ s.
+
+Salionstals navigator, quarto, price 1 s. 4 d.
+
+Pathway to sailing, quarto, price 10 d.
+
+^^w shining light, quarto, price 1 s. 4 d.
+
+(...) Quadrant in octavo, price 6 d.
+
+

@@ -1,0 +1,820 @@
+THE PRACTICAL GAUGER: BEING A Plain and Easy Method OF GAUGING ALL SORTS OF
+Brewing Vessels.
+
+Whereunto is added, A SHORT SYNOPSIS OF THE Laws of EXCISE.
+
+By JOHN MAIN.
+
+London, Printed by W. G. for N. Brook, at the Angel in Cornhill. 1676.
+
+To the Honorable PEREGRENE BERTIE, ESQUIRE.
+May it please Your Honor,
+MY present Service is so much the more valuable to me, since I was preferred
+thereto by Your Recommendation, which I shall endeavor to preserve with
+unwearied Industry and constant Fidelity. Your Favor, Sir, is a Blessing my
+Soul is too narrow to enclose, and me thinks I can hardly be reconciled to that
+Divinity which calls Pride a Sin. But if I am guilty, I heartily beg Your
+pardon, and permission to subscribe,
+
+YOUR HONORS Most humbly devoted Servant, John Main.
+
+To the Worshipful PETER CALVERD, SAMUEL VINCENT, EDMUND BOSTOCK, JOHN PARSONS,
+And RICHARD BRET, ESQUIRES, FARMERS of His Majesty's Revenue of EXCISE within
+the Kingdom of England, Dominion of Wales, and Town of Berwick upon Tweed; John
+Main
+Wishes Increase of Happiness here, and everlastingly hereafter.
+
+To the Reader.
+HAving been commanded by my Masters into the North-west Parts of this
+Kingdom, I found there many ingenious Men, employed in their Service, viz. the
+Revenue of Excise, which were willing to gain some little knowledge in the Art
+of Gauging, but had been frighted therefrom by the seeming difficulty of
+obtaining their desires. I thought it no disservice to endeavor to inform
+these Men, upon whose shoulders the whole Matter of Fact, in this Affair,
+between the King and the Subject lay. And accordingly I wrote and read to some
+of them these short Rules thou have now before thee, endeavoring to make the
+Art plain and easy, even to the meanest Capacity, without much expense of Time
+in reading the Text, or breaking his Teeth with hard Terms of Art: And not
+having leisure to write so many Copies, as my Friends in those Parts desired,
+and I could afford them, I am prevailed with to commit it to the Press.
+Farewell.
+
+I. M.
+
+THE PRACTICAL GAUGER.
+IT would be very convenient, that every Gauger were well acquainted with the
+Art of Decimal Arithmetic; but it is necessary that he be so well seen in
+Vulgar, as to be able to add, subtract, multiply, and divide any whole Numbers.
+
+It is also necessary, that he understand the three sorts of Quantity, viz. a
+Line, a Superficies, and a Solid.
+
+A Line has length, but no breadth.
+
+A Superficies has length and breadth, but no depth.
+
+A Solid has length, breadth, and depth.
+
+Moreover there is no kind of Quantity but is commensurable by some Common
+Measure thereto assigned, as a Line by a Line of Inches, Feet, Poles, Furlongs,
+etc. and a Superficies by a Superficies, as the Square Inch, etc. and also a
+Solid by a Solid: So when it is known how many Inches, Poles, or Furlongs is
+contained in any Line, the length of that Line is said to be known; and when it
+is known how many square Inches, square Feet, or square Perches are contained
+within any Superficies, the Content or Area of that Superficies is said to be
+known; and also when it is known how many solid Inches are contained in any
+Solid, the Content of that Solid is known.
+
+To find the Content of a Back in the form of a Square or Parallelogram.
+The Rule is:
+Multiply the length by the breadth, and the Product divide by 282 (the number
+of solid Inches contained in the Ale Gallon) and the Quotient is the Ale
+Gallons contained upon one Inch in depth of that Back or Tun.
+
+A Square.
+^
+
+An Oblong or Parallelogram.
+^
+
+One contains 10 Gallons, and 205/282 parts of a Gallon; the other 21 Gallons
+and 128/282 of a Gallon. To reduce which Fraction into Pints, you need only
+multiply the Remainder or Numerator by 8, and divide by the old Divisor, and
+the Quote will be the Pints contained in that Fraction.
+
+To find the Area or Content of one Inch of a Back or Tun, in the form of a
+Triangle, in Ale Gallons:
+The Rule is:
+Multiply the Line a c ( viz. the Line falling perpendicularly from any Angle
+on its opposite Base) by half the Line b c d, here the Base, and the Product
+divide by 282, the Quotient will be the Ale Gallons contained in one Inch of
+depth upon that Triangle.
+
+Example.
+
+^
+
+There is contained in the first Inch of this Back or Tun 63 Ale Gallons, 6
+Pints, and above an half.
+
+But admitting the Back or Tun be of an irregular Form, divide it into
+Triangles, and let fall Perpendiculars in each, and find their several Area's,
+as in the last Example, then add them together, and you have the Content or
+Area of the whole Figure.
+
+Example.
+
+
+
+First I find the Triangle abe.
+
+^
+
+Now in the other two Triangles, the two Perpendiculars falling upon one common
+Base, I multiply the Sum of the Perpendiculars by half the Base, and that
+Product is the Area or Content of both Triangles.
+
+^
+
+So does one Inch of this Back or Tun appear to contain of Ale Measure, 9
+Barrels, 3 Firkins, and 3 Gallons.
+
+Here Note, That formerly the Ale Gallon was accounted to contain 288 Cube
+Inches; but by the care and pains of my good Friend, Mr. Nicholas Gunton, the
+just quantity of the Quart, remaining in the hands of the Chamberlains of His
+Majesty's Exchequer, appears to be 70, as some of late have found to their no
+small cost. And I am of opinion, that if the Wine Gallon were carefully
+examined, it would prove to contain less than it is commonly holden to do, by
+so much as would improve the Revenue of the Crown some thousands per annum.
+
+Now having showed thee how to find the superficial Quantity of any Figure
+enclosed or bounded by Right Lines, if the Dimensions be alike above and below,
+multiply the Area by the Depth and you have the Content of the whole; or by any
+part, and you will find thereby the Solidity of that part.
+
+But if the Dimensions above and below be unequal, take your Dimensions or
+cross Diameters at every Foot or half Foot, and so find the Solidity.
+
+Of a Circle.
+A Circle is a Figure contained or bounded by one Line, which is called the
+Circumference, as the Line abgd.
+
+
+
+Within which Line there is a Point, from whence all Lines drawn from the
+Circumference are equal: And that Point is called the Center, as the Point c:
+And through which all Right Lines drawn from one side of the Circumference to
+the other divide the Circle into two equal parts, and that Line is called the
+Diameter, as the Line a c b; and the two parts of the Circle, divided by the
+Diameter, are called Semi^circles, as the part a c b g or a c b d.
+
+And although there is not yet found any true proportion between a Square and a
+Circle, (a Square Inch being our Common Measure) yet is there an Approximation
+found by Vanculen, which comes almost infinitely near the truth, being as Unity
+to 3.14159 etc. to the Square of the Semi-diameter. But the old Proportion
+comes near enough for common practice, viz. As 14 to 11, so is the Square of
+the Diameter to the Area in Square Inches, etc.
+
+Example.
+
+^
+
+Which Area in Square Inches divided by 282 quote the Ale Gallons contained in
+one Inch of depth in that Circle, or by 231 the Wine Gallons.
+
+Example.
+
+^
+
+But I would advise my young Gauger not to trouble himself with the Inches, his
+business being to find the Gallons the shortest way he can: In order whereunto,
+let him observe the following Rule.
+
+Having the Diameter of a Circle in Inches, to find the Area or Content in Ale
+or Wine Gallons.
+The Rule.
+Square the Diameter ( viz. multiply it by it self) and that Square or Product
+divide by 359 for Ale, and 294 for Wine, and the Quotes will be the Ale or Wine
+Gallons respectively, that shall be contained in a Circle of that Diameter, and
+one Inch in depth.
+
+^
+
+^
+
+If the Tun be in form of a Cylinder, viz. like the Rolling-stone of a Garden,
+the Circles above and below of equal Diameters, then to find the Content of
+that Tun, or any part thereof, you need only find the Area of the Circle, and
+multiply by the whole Depth, or such part as you desire, and the Product will
+be the Solidity of the whole, or part, respectively.
+
+
+
+Diameter ab or cd = 80 Inches, the Area before found to be 17 gallons 6 pints,
+and the Depth = 40 Inches: To find the Content.
+
+^
+
+The Content of this Tun in Beer Measure.
+
+But if your round Tun have unequal Dimensions above and below, it is then
+taken to be the part of a Cone or round Pyramid, having the top cut off as the
+following Diagram; the whole Cone = abcdefg, the part or Frustum = abcdeg.
+
+
+
+Having the two Diameters and Depth of the Tun, to produce the whole Cone the
+Rule is by Proportion thus:
+
+As the Semidifference of Diameters is to half the Diameter at the Base: So is
+the height of the Frustum to the Cones whole Axis.
+
+Admit ab 80, cd 140, eg 50, then is the Difference 60, half the Base 70.
+
+Example.
+
+^
+
+Having all these Dimensions, the Content of the Tun is not hard to be found.
+
+For if you find the Area of the Base, and multiply that Area by of the
+Altitude, or of the Area by the whole Altitude, the Product is the Solidity of
+the whole Cone. Then having found the whole Cone, find also the lesser Cone,
+and subduct that from the greater, the Remainder will be the Content of the
+Frustum.
+
+Or if you would find the Content of the Frustum, without producing the whole
+Cone,
+
+The Rule is:
+Multiply the Sum of the two Diameters by it self, then multiply the two
+Diameters by each other, subduct the lesser Product from the greater, and the
+Remainder multiply by the depth, the last Product divide by 1077, and the Quote
+is the Ale Gallons contained in that Tun.
+
+^
+
+^
+
+The Content appears to be 1727 Ale Gallons, or 47 Barrels, 3 Firkins, 8
+Gallons.
+
+If it be desired in Feet or Inches, you may find all the Differences of the
+Diameters, at every Foot, half Foot, or Inch, by this Proportion:
+
+As the whole Depth, is to the Difference of Diameters: So is any part of the
+Depth, to its respective difference of Diameter.
+
+Then by Addition or Subduction, you have the Diameters all the way upward or
+downward.
+
+Or, if you please, you may take the Diameters actually, in the midst of every
+Foot or half Foot, and seek its Area in the Table of Area's hereto annexed,
+which Area multiplied by the Foot or half Foot gives the Solidity accordingly,
+without any sensible error. This way I would oblige the young Gauger to, if he
+be not ready at Proportion.
+
+Example.
+
+^
+
+All these Mean Diameters cut this Tun into so many Cylinders.
+
+^
+
+Now having the Area of each Circle, which is an Arithmetical Mean of the half
+Foot, multiply this Area by 6, and the Product is the Solidity of that half
+Foot.
+
+^
+
+This Tun cast up by the Rule, page 19.
+
+^ ^
+
+Whereby appears not a Gallon difference.
+
+If the Conjugate or Cross Diameters above and below are not equal, then do
+Geometricians call that Tun Eliptical; to reduce which to a Circle, there ought
+to be a Geometrical Mean taken, but the common practice is to add them
+together, and take the half, which if the Diameters differ not much, the error
+is the less.
+
+Coppers are commonly taken at every 6 Inches, as that Tun in page 21.
+
+To find the Content of a Coppers Crown, take this Rule:
+
+Square the Diameter at the Base, to this add 4/3 of the Square of the Crowns
+Altitude, the Sum multiply by the Altitude, the last Product divide by 718, the
+Quote is the Ale Gallons contained in that Crown.
+
+To find the Content of the Mash Tun, in Quarters, Bushels, and Gallons, there
+can be no certain Rule in taking the Depth of the Goods, by reason of the
+difference in the goodness of Malt, some spending it self much more in the
+wetting than other; yet that considered, there may be some estimate given
+thereto, whereby a very considerable fraud may be discovered.
+
+In a square Mash Tun, divide the Product of the Length and Breadth by 227 for
+indifferent, or by 200 for the finest, and the Product will be the Gallons
+wetted; and for round Mash Tuns, let your Divisors be 288 or 260, respectively.
+
+For Cask-Gauging, wholly full, I have given many Precepts and Examples in a
+Treatise called The Merchants Companion, Printed about a year since; but that
+the Reader may not be left here wholly without, take the following Rule, which
+considers the Cask as the Frustum of a Spheroid, that being the most general
+form.
+
+To find the Content of a Cask in Ale or Wine Gallons.
+The Rule.
+To the doubled Square of the Boung Diameter add the Square of the Head
+Diameter, and that Sum multiply by the Casks Length, the last Product divide by
+1077, and the Quote is the Ale Gallons, or by 882 quotes the Wine Gallons
+contained in that Cask.
+
+Example.
+
+^ ^ The Content of this Cask is 73 Ale Gallons, 2 Pints, and almost an half.
+
+Or, by the Table of Area's, thus:
+
+To twice the Area of the Boung Circle in Gallons and parts add the Area of the
+Head Circle, the Sum of these multiply tby of the Casks Length, and the Product
+is the Content in Gallons and parts, as in the former Example.
+
+^
+
+Which Fraction being reduced is 2 Pints and better, as was before found.
+
+A TABLE OF Area's of CIRCLES IN ALE GALLONS AND MILESIMAL PARTS^
+To every Quarter of an Inch, From 1 to 12 Foot of Diameter.
+Circles Area's in Ale Gallons.
+Inches. Area..25.5.75 10 0.278 0.293 0.307 0.322 11 0.337 0.352 0.368 0.384 12
+0.401 0.418 0.435 0.453 13 0.471 0.489 0.508 0.527 14 0.546 0.565 0.586 0.606
+15 0.627 0.648 0.669 0.691 16 0.713 0.731 0.758 0.781 17 0.805 0.824 0.853
+0.877 18 0.902 0.923 0.953 0.979 19 1.005 1.027 1.059 1.086 20 1.114 1.142
+1.170 1.199 21 1.228 1.258 1.287 1.317 22 1.348 1.379 1.410 1.441 23 1.473
+1.505 1.538 1.571 24 1.604 1.638 1.672 1.706 25 1.741 1.776 1.811 1.847 26
+1.883 1.919 1.956 1.993 27 2.030 2.068 2.106 2.175 28 2.184 2.223 2.262 2.302
+29 2.342 2.383 2.424 2.465
+
+Circles Area's in Ale Gallons.
+Inches. Area..25.5.75 30 2.507 2.549 2.591 2.634 31 2.676 2.720 2.764 2.808 32
+2.852 2.896 2.942 2.987 33 3.033 3.079 3.126 3.172 34 3.220 3.267 3.315 3.363
+35 3.412 3.461 3.510 3.560 36 3.610 3.660 3.710 3.761 37 3.813 3.864 3.916
+3.969 38 4.022 4.075 4.128 4.182 39 4.236 4.291 4.345 4.401 40 4.456 4.512
+4.568 4.625 41 4.682 4.739 4.797 4.855 42 4.913 4.972 5.031 5.090 43 5.150
+5.210 5.270 5.331 44 5.392 5.453 5.515 5.577 45 5.640 5.703 5.766 5.829 46
+5.893 5.957 6.022 6.087 47 6.152 6.218 6.284 6.350 48 6.417 6.484 6.551 6.619
+49 6.687 6.755 6.824 6.893
+
+Circles Area's in Ale Gallons.
+Inches. Area..25.5.75 50 6.963 7.033 7.103 7.173 51 7.244 7.315 7.387 7.459 52
+7.531 7.603 7.676 7.750 53 7.823 7.897 7.972 8.046 54 8.121 8.197 8.272 8.348
+55 8.425 8.502 8.579 8.656 56 8.734 8.812 8.891 8.970 57 9.049 9.128 9.208
+9.288 58 9.369 9.450 9.531 9.613 59 9.695 9.777 9.860 9.943 60 10.026 10.110
+10.194 10.279 61 10.363 10.448 10.534 10.620 62 10.706 10.792 10.879 10.970 63
+11.054 11.142 11.230 11.320 64 11.408 11.497 11.587 11.677 65 11.767 11.868
+11.949 12.040 66 12.132 12.224 12.316 12.409 67 12.502 12.596 12.690 12.784 68
+12.878 12.973 13.068 13.164 69 13.260 13.356 13 453 13.550
+
+Circles Area's in Ale Gallons.
+Inches. Area..25.5.75 70 13.647 13.745 13.843 13.941 71 14.040 14.139 14.238
+14.338 72 14.438 14.539 14.639 14.740 73 14.842 14.944 15.046 15.148 74 15.251
+15.354 15.458 15.562 75 15.066 15.771 15.876 15.981 76 16.087 16.193 16.299
+16.406 77 16.513 16.620 16.728 16.836 78 16.945 17.053 17.162 17.270 79 17.382
+17.492 17.603 17.713 80 17.825 17.936 18.048 18.160 81 18.273 18.386 18.499
+18.613 82 18.727 18.841 18.956 19.071 83 19.187 19.302 19.418 19.535 84 19.652
+19.769 19.886 20.004 85 20.122 20.241 20.360 20.479 86 20.599 20.718 20.840
+20.959 87 21.088 21.202 21.323 21.445 88 21.560 21.691 21.814 21.937 89 22.061
+22.185 22.309 22.434
+
+Circles Area's in Ale Gallons.
+Inches. Area..25.5.75 90 22.559 22.685 22.811 22.937 91 23.063 23.190 23.318
+23.445 92 23.573 23.701 23.830 23.959 93 24.088 24.217 24.348 24.478 94 24.609
+24.740 24.872 25.003 95 25.136 25.268 25.401 25.534 96 25.667 25.801 25.936
+26.070 97 26.205 26.340 26.476 26.612 98 26.748 26.885 27.022 27.159 99 27.297
+27.435 27.573 27.712 100 27.851 27.990 28.130 28.270 101 28.411 28.552 28.693
+28.834 102 28.976 29.118 29.261 29.404 103 29.547 29.691 29.835 29.979 104
+30.124 30.269 30.414 30.560 105 30.706 30.852 30.999 31.146 106 31.293 31.441
+31.589 31.738 107 31.887 32.036 32.185 32.335 108 32.485 32.636 32.787 32.970
+109 33.090 33.242 33.394 33.577
+
+Circles Area's in Ale Gallons.
+Inches. Area..25.5.75 110 33.700 33.853 34.007 34.192 111 34.315 34.470 34.625
+34.812 112 34.936 35.093 35.249 35.437 113 35.563 35.721 35.878 36.037 114
+36.195 36.354 36.513 36.673 115 36.833 36.993 37.154 37.315 116 37.476 37.638
+37.800 37.962 117 38.125 38.288 38.452 38.616 118 38.780 38.944 39.109 39.274
+119 39.440 39.606 39.772 39.938 120 40.105 40.273 40.440 40.608 121 40.777
+40.945 41.114 41.284 122 41.453 41.623 41.794 41.965 123 42.136 42.307 42.479
+42.651 124 42.824 42.997 43.170 43.343 125 43.517 43.692 43.866 44.041 126
+44.216 44.392 44.568 44.744 127 44.921 45.098 45.275 45.453 128 45.631 45.809
+45.988 46.167 129 46.347 46.527 46.707 46.887
+
+Circles Area's in Ale Gallons.
+Inches. Area..25.5.75 130 47.068 47.249 47.431 47.613 131 47.795 47.978 48.161
+48.384 132 48.527 48.712 48.896 49.081 133 49.266 49.451 49.637 49.823 134
+50.009 50.196 50.383 50.571 135 50.758 50.946 51.135 51.324 136 51.513 51.703
+51.893 52.083 137 52.273 52.464 52.656 52.847 138 53.039 53.232 53.424 53.618
+139 53.811 54.005 54.199 54.393 140 54.58^ 54.783 54.979 55.174 141 55.371
+55.567 55.764 55.961 142 56.159 56.357 56.555 56.754 143 56.953 57.152 57.352
+57.592 144 57.752 57.953 58.154 58.395
+
+To make any Number in the precedent Table,
+
+The Rule is:
+Divide the Square of the Diameter by 359, and the Quote exhibits the Area of
+that Circle in Ale Gallons.
+
+Example.
+
+^
+
+Thus may be made any Number, greater or lesser than the Table does exhibit,
+the difference here being not 1/1000 part of a Gallon.
+
+To make a Table of ds of Area's of Ci^cles in Wine Gallons,
+
+The Rule is:
+Multiply of the Square of the Diameter by.0034, or multiply the whole Square
+by.0034 and the Product divide by 3; and the Product of the former Work, or the
+Quotient of the latter, is the Circles Area.
+
+Example.
+
+What is the d of the Area of that Circle in Wine Gallons whose Diameter is 30
+Inches?
+
+^
+
+A TABLE Of One thirds of AREA's of CIRCLES IN WINE GALLONS: CALCULATED To
+every quarter of an Inch, From 10 to 60 Inches of Diameter.
+One thirds of Circles Area's
+Inches. Area..25.5.75 10 0.1133 0.1190 0.1250 0.1330 11 0.1371 0.1434 0.1499
+0.1565 12 0.1632 0.1701 0.1771 0.1842 13 0.1915 0.1990 0.2066 0.2143 14 0.2231
+0.2301 0.2383 0.2466 15 0.2550 0.2636 0.2723 0.2811 16 0.2901 0.2993 0.3086
+0.3180 17 0.3275 0.3372 0.3471 0.3570 18 0.3672 0.3775 0.3879 0.3984 19 0.4091
+0 4200 0.4310 0.4420 20 0.4533 0.4647 0.4763 0.4880 21 0.4998 0.5117 0.5272
+0.5362 22 0.5485 0.5609 0.5734 0.5866 23 0.5995 0.6126 0.6259 0.6393 24 0.6528
+0.6665 0.6803 0.6943 25 0.7083 0.7226 0.7370 0.7515 26 0.7661 0.7808 0.7969
+0.8110 27 0.8262 0.8416 0.8571 0.8727 28 0.8885 0.9044 0.9206 0.9368 29 0.9531
+0.9696 0.9863 1.0031
+
+in Wine Gallons.
+Inches. Area..25.5.75 30 1.0200 1.0370 1.0543 1.0716 31 1.0891 1.1064 1.1245
+1.1425 32 1.1605 1.1787 1.1971 1.2156 33 1.2342 1.2530 1.2719 1.2910 34 1.3101
+1.3298 1.3490 1.3686 35 1.3883 1.4082 1.4283 1.4485 36 1.4688 1.4893 1.5099
+1.5306 37 1.5513 1.5726 1.5938 1.6184 38 1.6365 1.6581 1.6799 1.7018 39 1.7238
+1.7460 1.7683 1.7908 40 1.8133 1.836^ 1.8589 1.8819 41 1.9051 1.9285 1.9519
+1.9755 42 1.9992 2.0231 ^.0471 2.0713 43 2.0955 2.1199 2.1445 2.1693 44 2.1941
+2.2291 2.2443 2.2696 45 2.2950 2.3206 2.3463 2.3722 46 2.3981 2.4243 ^.4506
+2.4770 47 2.5035 2.5303 2.5571 2.5840 48 2.6112 2.6385 2.6659 2.6934 49 2.7211
+2.7489 2.7736 2.8051
+
+One thirds of Circles Area's.
+Inches. Area..25.5.75 50 2.8333 2.8617 2.8867 2.9190 51 2.9478 2.9768 3.0059
+3.0352 52 3.0645 3.0941 3.1237 3.1536 53 3.1835 3^2136 3.2439 3.2743 54 3.3048
+3.3355 3.3663 3.3972 55 3.4283 3.4596 3.4910 3.5224 56 3.5541 3.5859 3.6179
+3.6500 57 3.6822 3.7146 3.7471 3.7797 58 3.8125 3.8454 3.8786 3.9118 59 3.9451
+3.9786 4.0123 4.0461 60 4.0800 4.1141 4.1483 4.1826
+
+To Gauge a Cask by the precedent Table,
+
+The Rule is:
+To the Double of the Boung Diameter add the Head Diameter, their Sum multiply
+by the Length, and the Product is the Content.
+
+Example.
+
+A Casks Boung Diameter 29.5 Inches, Head Diameter 23, and the Length 48
+Inches, I demand its Content in Wine Gallons?
+
+^
+
+Answer 123 Wine Gallons, fer^.
+
+A TABLE OF EXCISE, At iij. s. iij. d. per Barrel, To every Firkin, From One to
+Thirty Barrels.
+A Table of Excise, at 3 s. 3 d. per Bar.
+Barrels. l. s. d. l. s. d. q. 1 00 03 03 00 04 00 3 2 00 06 06 00 07 03 3 3 00
+09 09 00 10 06 3 4 00 13 00 00 13 09 3 5 00 16 03 00 17 00 3 6 00 19 06 01 00
+03 3 7 01 02 09 01 03 06 3 8 01 06 00 01 06 09 3 9 01 09 03 01 10 00 3 10 01 12
+06 01 13 03 3 11 01 15 09 01 16 06 3 12 01 19 00 01 19 09 3 13 02 02 03 02 03
+00 3 14 02 05 06 02 06 03 3 15 02 03 09 02 09 06 3 16 02 12 00 01 12 09 3 17 02
+15 03 02 16 00 3 18 02 18 06 02 19 03 3 19 03 01 09 03 02 06 3 20 03 05 00 03
+05 09 3 21 03 08 03 03 09 00 3 22 03 11 06 03 12 03 3 23 03 14 09 03 15 06 3 24
+03 18 00 03 18 09 3 25 04 01 03 04 02 00 3 26 04 04 06 04 05 03 3 27 04 07 09
+04 08 06 3 28 04 11 00 04 11 09 3 29 04 14 03 04 15 00 3 30 04 17 06 04 18 03 3
+
+From 1 to 30 Barrels ^^
+^/4 l s. d. q. l. s. d. q. 00 04 10 2 00 05 08 1 00 08 01 2 00 08 11 1 00 11
+04 2 00 12 02 1 00 14 07 2 00 15 05 1 00 17 10 2 00 18 08 1 01 01 01 2 01 01 11
+1 01 04 04 2 01 05 02 1 01 07 07 2 01 08 05 1 01 10 10 2 01 11 08 1 01 14 01 2
+01 14 11 1 01 17 04 2 01 18 02 1 02 00 07 2 02 01 05 1 02 03 10 2 02 04 08 1 02
+07 01 2 02 07 11 1 02 10 04 2 02 11 02 1 02 13 07 2 02 14 05 1 02 16 10 2 02 17
+08 1 03 00 01 2 03 00 11 1 03 03 04 2 03 04 02 1 03 06 07 2 03 07 05 1 03 09 10
+2 03 10 08 1 03 13 01 2 03 13 11 1 03 16 04 2 03 17 02 1 03 19 07 2 04 00 05 1
+04 02 10 2 04 03 08 1 04 06 01 2 04 06 11 1 04 09 04 2 04 10 02 1 04 12 07 2 04
+13 05 1 04 15 10 2 04 16 08 1 04 19 01 2 04 19 11 1
+
+A TABLE OF THE Content of Cylinders IN ALE GALLONS AND CENTESIMAL PARTS, From
+twelve to sixty Inches of Diameter, And to eight Inches in Depth.
+Content of Cylinders
+Diam. DEPTH. Area. 2 3 4 12 0.40 0.80 1.20 1.60 13 0.47 0.94 1.41 1.88 14 0.55
+1.10 1.65 2.20 15 0.63 1.26 1.89 2.52 16 0.71 1.42 2.13 2.84 17 0.80 1.60 2.40
+3.20 18 0.90 1.80 2.70 3.60 19 1.00 2.00 3.00 4.00 20 1.11 2.22 3.33 4.44 21
+1.23 2.46 3.69 4.92 22 1.35 2.70 4.05 5.40 23 1.47 2.94 4.41 5.88 24 1.60 3.20
+4.80 6.40 25 1^74 3.48 5.22 6.96 26 1.88 3.76 5.64 7.72 27 2.03 4.06 6.09 8.12
+28 2.18 4.36 6.54 8.72 29 2.34 4.68 7.02 9.36 30 2.51 5.02 7.53 10.04 31 2.68
+5.36 8.04 10.72
+
+in Gallons and hundred parts.
+DEPTH. 5 6 7 8 2.00 2.40 2.80 3.20 2.35 2.62 3.29 3.76 2.75 3.30 3.85 4.40
+3.15 3.78 4.41 5.04 3.55 4.26 4.97 5.68 4.00 4.80 5.60 6.40 4.50 5.40 6.30 7.20
+5.00 6.00 7.00 8.00 5.55 6.66 7.77 8.88 6.15 7.38 8.61 9.84 6.75 8.10 9.45
+10.80 7.35 8.82 10.29 11.76 8.00 9.60 11.20 12.80 8.70 10.44 12.18 13.92 9.40
+11.28 13.16 15.04 10.15 12.18 14.21 16.24 10.90 13.08 15.26 17.44 11.70 14.04
+16.38 18.72 12.55 15.06 17.57 20.08 13.40 16.08 18.76 21.44
+
+Content of Cylinders
+Diam. DEPTH. Area. 2 3 4 32 2.85 5.70 8.55 11.40 33 3.03 6.06 9.09 12.12 34
+3.22 6.44 9.66 12.88 35 3.41 6.82 10.23 13.64 36 3.61 7.22 10.83 14.44 37 3.81
+7.62 11.43 15.24 38 4.02 8.04 12.06 16.08 39 4.24 8.48 12.72 16.96 40 4.46 8.92
+13.38 17.84 41 4.68 9.36 14.04 18.72 42 4.91 9.82 14.73 19.64 43 5.15 10.30
+15.45 20.60 44 5.39 10.78 16.17 21.56 45 5^64 11.28 16.92 22.56 46 5.89 11.78
+17.67 23.56 47 6.15 12.30 18.45 24.60 48 6.4^ 12.84 19.26 25.68 49 6.69 13.38
+20.07 26.76 50 6.96 13.92 20.88 27.84 51 7.24 14.48 21.72 28.96
+
+in Gallons and hundred parts.
+DEPTH. 5 6 7 8 14.25 17.10 19.95 22.80 15.15 18.18 21.21 24.24 16.10 19.32
+22.54 25.76 17.05 20.46 23.87 27.28 18.05 21.66 25.27 28.88 19.05 22.86 26.67
+30.48 20.10 24.12 28.14 32.16 21.20 25.44 29.68 33.92 22.30 26.76 31.22 35.68
+23.40 28.08 32.76 37.44 24.55 29.46 34.37 39.28 25.75 30.90 36.05 41.20 26.95
+32.34 37.73 43.12 28.20 33.84 39.48 45.12 29.45 35.34 41.23 47.12 30.75 36.90
+43.05 49.20 32.10 38.52 44.94 51.36 33.45 40.14 46.83 53.52 34.80 41.76 48.72
+55.68 36.20 43.44 50.68 57.92
+
+Content of Cylinders
+Diam. DEPTH. Area. 2 3 4 52 7.53 15.06 22.59 30.12 53 7.82 15.64 23.46 31.28
+54 8.12 16.24 24.36 32.48 55 8.42 16.84 25.26 33.68 56 8.73 17.46 26.19 34.92
+57 9.05 18.10 27.15 36.20 58 9.37 18.74 28.11 37.48 59 9.69 19.38 29.07 38.76
+60 10.03 20.06 30.09 40.12
+
+in Gallons and hundred parts.
+DEPTH. 5 6 7 8 37.65 45.18 52.71 60.24 39.10 46.92 54.74 62.56 40.60 48.72
+56.84 64.96 42.10 50.52 58.94 67.36 43.65 52.38 61.11 69.84 45.25 54.30 63.35
+72.40 46.84 56.22 65.59 74.96 48.45 58.14 67.83 77.52 50.15 60.18 70.21 80.24
+
+The Use of the precedent Table.
+Having taken the Diameter of the Vessel, and also the Depth of the Liquor,
+seek the Diameter in the first Column of the Table, and casting your Eye
+upwards, you find over all the other Columns (except that for 1 Inch of Depth,
+over which stands the Title Area) one of the Digits, amongst which you shall
+find your Depth of Liquor, if it exceed not 8 Inches; then under that Figure,
+and against your Diameter you shall find your number of Gallons and parts.
+
+Example.
+
+To find the Content of a Cylinder, whose Diameter is 38, and Depth 4 Inches.
+
+I first seek the Diam. 38, and against it in the Column under 4 I find 16.08,
+which is 16 Gallons and 8/100 parts.
+
+^To reduce which Fraction into Pints, multiply it by 8, and cut off two places
+in the Product, the figures to the left hand are Pints, and those cut off parts
+of a Pint, as in the Margin.
+
+A TABLE OF AREA's of SEGMENTS OF A CIRCLE, Whose whole Area is 2, and the
+Radius divided into 100 pts, Calculated To the 1/10000 part of a Square Inch.
+Area's of Segments.
+V Area V Area V Area V Area 1.0017 99.9983 26.2066 74.7934 2.0048 98.9952
+27.2178 73.7822 3.0087 97.9913 28.2292 72.7708 4.0134 96.986^ 29.2407 71.7593
+5.0187 95.9813 30.2523 70.7477 6.0245 94.9755 31.2640 69.7360 7.0308 93.9692
+32.2759 68.7241 8.0375 92.9625 33.2878 67.7122 9.0446 91.9554 34.2998 66.7002
+10.0520 90.9480 35.3119 65.6881 11.0598 89.9402 36.3241 64.6759 12.0680 88.9320
+37.3364 63.6636 13.0764 87.9236 38.3487 62.6513 14.0851 86.9149 39.3611 61.6389
+15.0941 85.9059 40.3735 60.6265 16.1033 84.8967 41.3860 59.6140 17.1127 83.8873
+42.3986 58.6014 18.1224 82.8776 43.4112 57.5888 19.1323 81.8677 44.4238 56.5762
+20.1424 80.8576 45.4364 55.5636 21.1527 79.8473 46.4491 54.5509 22.1631 78.8369
+47.4618 53.5382 23.1737 77.8263 48.4745 52.5255 24.1845 76.8155 49.4873 51.5127
+25.1955 75.8045 50.5000 50.5000
+
+The Use of the precedent Table is very considerable in Geometry, but my
+present intention is to apply it to Cask-Gauging, viz. To find the vacant
+Frustums in a Cask partly full, lying with its Axis parallel to the Horizon,
+the Cask being taken as the Frustum of a Spheroid cut with two Planes parallel,
+bisecting the Axis at Right Angles.
+
+And here it is requisite, the Boung and Head Diameters, Casks Length, the
+whole Content, and dry or wet Inches be known. Then, if the Question be what is
+wanting, or what is remaining in the Cask? divide either the dry or wet Inches
+by the Boung Diameter, and the Quote seek in the Table, under V or Versed Sine,
+against it stands a number, which multiplied by the Content exhibits the
+Vacuity, if your Dividend were the dry, or the remaining Liquor, if it were the
+wet Inches.
+
+FINIS.
+A SHORT SYNOPSIS OR INDEX OF THE LAWS OF EXCISE.
+
+LONDON: Printed by William Godbid, 1676.
+
+The Use of the precedent Table is very considerable in Geometry, but my
+present intention is to apply it to Cask-Gauging, viz. To find the vacant
+Frustums in a Cask partly full, lying with its Axis parallel to the Horizon,
+the Cask being taken as the Frustum of a Spheroid cut with two Planes parallel,
+bisecting the Axis at Right Angles.
+
+And here it is requisite, the Boung and Head Diameters, Casks Length, the
+whole Content, and dry or wet Inches be known. Then, if the Question be what is
+wanting, or what is remaining in the Cask? divide either the dry or wet Inches
+by the Boung Diameter, and the Quote seek in the Table, under V or Versed Sine,
+against it stands a number, which multiplied by the Content exhibits the
+Vacuity, if your Dividend were the dry, or the remaining Liquor, if it were the
+wet Inches.
+
+Some Examples of the Use of this Table of Area's of Segments, in finding the
+Vacuity of Cask.
+
+QUEST. I.
+What is the Vllage of a Cask, whose Boung Diameter is 28 Inches, Content 60
+Gallons, and dry Inches 7?
+
+According to the precedent Rule, I divide 7 by 28, which I do by adding two
+Ciphers, thus: ^
+
+Then seeking 25 in the Table in the Column under V, in the next Column against
+it I find.1955, which number I multiply by the whole Content, and cutting off
+four places toward the right hand of the Product, it exhibits the Ullage or
+Wants in that Cask in Gallons and parts.
+
+Example.
+
+^
+
+So is the Ullage or Wants 11 Gallons and almost of a Gallon.
+
+QUEST. II.
+What quantity of Liquor is there remaining in this Cask?
+
+Divide the wet Inches by the Boung-Diameter, after this manner: ^
+
+Against which number (75) I find in the Table.8045, which I multiply by the
+whole Content as before, and the Product gives the quantity of remaining Liquor.
+
+Example.
+
+^
+
+Now if after Division there happen a Remainer, and that be above half the
+Divisor, I take the next bigger number; or if it be less than half the Divisor,
+I take the next lesser number, as in the following Examples.
+
+QUEST. III.
+If in the forementioned Cask there be 9 Inches of the Boung Diameter dry,
+what is the Wants?
+
+^
+
+Here the Remainer being under half the Divisor I take 32, ^
+
+QUEST. IV.
+There being 19 wet Inches, what is the remaining Gallons?
+
+^
+
+Here the Remainer being above half the Divisor, I take the next bigger number,
+viz. 68, ^
+
+THE DESCRIPTION AND USE Of the GAUGING-RULE.
+
+THE DESCRIPTION and USE OF THE GAUGING-RULE.
+THis Rule is commonly four Foot in length, and is made to double in four
+joints, for convenient portage: It has also four Sides, on which are drawn
+several Lines, viz.
+
+1. There is two Lines called Diagonals, the one for Wine, the other for Beer
+or Ale-measure. These are so commonly known, that I suppose there are few
+Officers but are well acquainted with them; however, lest any should be
+ignorant, take this following advice.
+
+Put the end which is cut slope-ways in at the Boung-hole, and let i^ touch the
+bottom of the Head, the Number that appears at the Boung is the Number of Ale
+or Wine Gallons respectively.
+
+As for Example.
+
+a Cask.
+
+
+Put your Rule down at the Boung-hole e to the bottom of the Head c, if 60
+appear at the Boung on the Diagonal for Wine, then is the Content 60 Wine
+Gallons, and almost 49 Ale Gallons, for the Sub-divisions between the Numbers
+from 10 upwards signify each one Gallon.
+
+This way will give a very good estimate of the Content of all Cask, in ^he
+form of the London Beer Barrel, or the French wine Hogshead. These Lines being
+together serve also very well for a Table of Reduction of Wine into Ale
+measure, and the Converse, by inspection only.
+
+2. On another Side or Face there is put a Line of Inches, from 1 to 48 Inches,
+and each decimally divided; and also upon the same Side you have Oughtred's
+Gauge-Line, it being a Line of One thirds of Area's of Circles, in Wine
+Gallons, by which you may Gauge a Cask after this manner: Put your Rule down at
+the Boung perpendicularly, observing what Number appears j^^t even with the
+inside of the Cask, admit it be 7, set that down twice, then take the Diameter
+at the Head, and let that show you 6 upon the same Line, set that down to the
+former, add these three Numbers together, and multiply the Sum by the Casks
+Length, here 30, then cut off one place from the Product toward the right hand,
+and the Figures toward the left hand are your Number of Wine Gallons contained
+in the Cask.
+
+Example.
+
+^
+
+Note, If your Diameter fall amongst the Divisions, between the Numbers, you
+must cut off two places from the Product.
+
+Example.
+
+^
+
+Content as before 60.00 Wine Gall.
+
+3. On a third Face of this Rule (which meets the precedent Line of One thirds
+of Area's upon one Angle or Edge of the Rule) is put a Line of equal parts,
+numbered from 1 to 96, and is divided into halves: This Line considered together
+with that before mentioned, do make a Table of Area's of Circles in Ale
+Gallons, so that if you find your Diameter in this Line, turn up the other
+Face, and against your Diameter you shall have the Area of your Circle in Ale
+measure.
+
+As for Example:
+
+The Diameter of a Circle is 19 Inches, the Area of that Circle upon the other
+Edge in Oughtrea's Line is a little above one Gallon.
+
+Again, the Diameter being 30 Inches, the Area is 2.5 Gallons; and if the
+Diameter be 67 Inches, it holds 12.5 Gallons upon one Inch of depth.
+
+The Use of these Lines, thus together, is the same with that of the Table of
+Area's page 29, etc.
+
+4. On the fourth Side of this Rule is drawn a Line of Numbers, vulgarly called
+Gunters's Line, which Line with a pair of Compasses is of excellent use upon
+sundry occasions, it being a Line of Logari^hms, and by it is performed
+Multiplic^^ion, Division, Extraction of the Square and Cube Roots, and many
+other Calculations Arithmetical: Of this Line alone, are two or three Books of
+like magnitude with this already printed, to which for those things I r^fer
+you, and shall here only apply it to Cask-Gauging; of which take the following
+Instructions: First learn to find any Number upon the Line; from 1 to 10 you
+have the Figures Arithmetically placed, and the subdivisions are tenths; but
+from 10 to 20 the divisions signify each an additional Unite, and so to 100.
+At 17.2 you have a small brass Pin, whereon to set the Foot of your Compasses,
+and is called the Gauge-point for Wine Gallons, almost at 19 is the Gauge-point
+for Ale Gallons, the first has w g, and the other a g placed over it, by which
+they are easily known. To Gauge a Cask by this Line, you must first find the
+Diameter at the Head and Boung, and also the Casks Length, by the Line of
+Inches: These being had, find your mean Diameter, by adding double the Boung
+Diameter to once the Diameter at the Head, and divide their Sum by 3, the Quote
+take for your Mean: Then with your Compasses set one Foot in the Gauge-point,
+and extend the other to the mean Diameter upon your Line of Numbers, so keeping
+your points at that distance, set one Foot at the number expressing the Casks
+Length, and from thence double the distance of the Feet of the Compasses
+exhibits the Content in Ale or Wine Gallons respectively.
+
+
+As for Example:
+
+A Cask, Boung Diameter 27, Head 24, Length 30 Inches, if the Content be
+required in Ale or Wine Gallons, I find the mean Diameter according to the Rule
+thus: ^
+
+The mean Diameter being 26, I take my Rule and Compasses, if the Question be
+Ale Gallons, and set one Foot in the Gauge-point for Ale, and the other I
+extend to 26, then I take off the Compasses so extended, and setting one Foot
+at 30, the Length, giving the Compasses one turn upon the other Foot, whereby
+to take the double distance, and the point touches at 57, which is the Content
+of that Cask in Ale Gallons.
+
+If the Question be Wine Gallons, I take the distance from the Gauge-point for
+Wine to 26, the mean Diameter, and the Compasses applied to the Casks Length,
+and turned as before, exhibits 69, the Content of the Cask in Wine Gallons.
+
+This is a very quick and easy way of Gauging Cask, and is also an
+approximation near enough the truth for common practice.
+
+Having the mean Diameter of any Conical Tun, and the Depth of Liquor, the
+Quantity is found after the same manner.
+
+Example.
+
+The mean Diameter of a Tun 28, Depth of Liquor 29, Quantity of Ale Gallons
+will be found 63.
+
+The common way of finding the mean Diameter of a Conical Tun, is by adding the
+Diameters above and below together, and take the half. This I allow, as an
+easy and practical way for young Gaugers; but note, that the greater the
+difference of the Diameters are, the greater is your error, but in Diameters
+that differ not much, it does very well.
+
+There is also another Line, that runs parallel with this Line of Numbers, and
+is called a Line of Segments, but I like not the Hypothesis upon which it is
+framed, and the way of finding the Wants of a Cask (lying with its Axis
+parallel to the Horizon, being partly empty of Liquor) made so plain and easy,
+by the precedent Exampl^s upon the Table of Area's of Segments, I had thought
+to have left it out, but lest any having a Rule and not Table by him, should
+have such occasion, let him take one
+
+Example.
+
+A Casks Boung 24 Inches, wet 18 Inches, Content 50 Ale Gallons, what is the
+Ullage or Wants in this Cask?
+
+As 24 on the Line of Numbers, is to Radius on the Segments: So is 6 on the
+Numbers, to 17.8 on the Segments.
+
+Then, As Unity, to 50 on the Numbers: So 17.8 on the Numbers, to 8.9 Ale
+Gallons, the Wants required.
+
+FINIS.
+

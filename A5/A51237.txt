@@ -1,0 +1,63 @@
+An Excellent TABLE for the finding the Periferies or Circumferences of all
+Elleipses or Ovals, so near the Truth as any Mechanical Practice can require,
+Calculated with great Diligence and Care by Sir JONAS MOORE, and not done
+before.
+Axis Periferies Diff. Axis Periferies Diff. 2.0000 50 2.4218 1 2.0012 12 51
+2.4342 124 2 2.0028 16 52 2.4467 125 3 2.0048 20 53 2.4594 127 4 2.0072 26 54
+2.4723 l29 5 2.0100 28 55 2.4852 129 6 2.0133 33 56 2.4983 131 7 2.0170 37 57
+2.5114 131 8 2.0213 43 58 2.5245 131 9 2.0261 48 59 2.5377 133 10 2.0314 53 60
+2.5510 133 11 2.0370 56 61 2.5644 134 12 2.0432 62 62 2.5779 135 13 2.0496 64
+63 2.5915 136 14 2.0564 68 64 2.6052 137 15 2.0634 70 65 2.6189 137 16 2.0708
+74 66 2.6327 138 17 2.0784 76 67 2.6465 138 18 2.0862 78 68 2.6604 139 19
+2.0942 80 69 2.6744 140 20 2.1024 82 70 2.6884 140 21 2.1106 82 71 2.7025 141
+22 2.1192 86 72 2.7166 141 23 2.1281 89 73 2.7309 143 24 2.1373 92 74 2.7453
+144 25 2.1467 94 75 2.7599 146 26 2.1561 94 76 2.7745 146 27 2.1658 97 77
+2.7891 146 28 2.1756 98 78 2.8038 147 29 2.1856 100 79 2.8186 148 30 2.1956 100
+80 2.8334 148 31 2.2057 l01 81 2.8482 148 32 2.2160 103 82 2.8630 148 33 2.2264
+104 83 2.8779 149 34 2.2368 104 84 2.8929 150 35 2.2474 106 85 2.9080 150 36
+2.258l 107 86 2.9231 151 37 2.2692 111 87 2.9382 151 38 2.2803 111 88 2.9534
+152 39 2.2915 112 89 2.9686 152 40 2.3028 113 90 2.9839 153 41 2.3142 114 91
+2.9993 154 42 2.3256 114 92 3.0147 154 43 2.3371 115 93 3.0302 155 44 2.3488
+117 94 3.0458 156 45 2.3607 119 95 3.0614 156 46 2.3726 119 96 3.0771 157 47
+2.3848 122 97 3.0928 157 48 2.3970 122 98 3.1086 158 49 2.4094 124 99 3.1244
+158 50 2.4218 124 3.1402 158
+
+EXAMPLE I.
+
+WHere the longer Axis of the Elleipsis is 1, and the shorter.78; Because the
+Table is made for such Elleips's, enter with.78, the Perifery of that Elleipsis
+will be 2.8038.
+
+EXAMPLE II.
+
+The longer Axis 1, the shorter.4382, I enter with.43, gives 2.3371: Then to
+find the part answering to.71, say, If 100 give.117; what shall.71 give?
+Answ..83, which added to 2.3371, gives 2.3454 for the Perifery desired.
+
+EXAMPLE III.
+
+Where the longer Axis is 388, the shorter 280, first say, 388: 280:: 1.000:
+Answ..721, seek in the Table for.72, it gives 2.7166; then say, 1.0000:2.7166::
+388: Answ. 1054.06, which is the Circumference desired.
+
+EXAMPLE IV.
+
+The longer Diameter 32.54, the shorter 18.64; say; 32.54: 18.64:: 1.000: 572;
+to which in the Table answers 2.5114, and the part proportional for 2 is 26,
+which makes the whole 2.5140; then 1.000: 2.5140:: 32.54: 81.805 the Perifery
+required. The Area or Superficies of an Elleipsis is easily got by this Rule.
+As the longer Diameter, is to the shorter: So is the Circle of the longer
+Diameter, to the Elleipsis.
+
+I have made above 45000 Arithmetical Operations for this Table, and am now
+well pleased it is finished. Some perhaps may find shorter ways, as I believed
+I had my self, 'till advised otherwise by the truly Honorable the Lord
+BRUNCKER. I therefore pursued the Rules given by me, in that Contemplation of
+the Elleipsis Printed in my Arithmetic, taking 100 Elleipsis betwixt that
+which falls upon the Diameter equal in this case to 2.0000 the first in the
+Table, and the greatest which is the Circle 3.1402 the last.
+
+SOLI DEO GLORIA.
+LONDON, Printed by W. G. for N. Brook, at the Angel in Cornhill, 1676.
+
+

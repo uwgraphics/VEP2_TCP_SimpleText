@@ -1,0 +1,3302 @@
+THE Country-Survey-Book: OR LAND-METERS VADE-MECVM. WHEREIN The PRINCIPLES and
+practical RULES for Surveying of Land, are so plainly (though briefly)
+delivered, that any one of ordinary parts (understanding how to add, subtract,
+multiply and divide,) may by the help of this small Treatise alone, and a few
+cheap Instruments easy to be procured, Measure a parcel of Land, and with
+judgment and expedition Plot it, and give up the Content thereof. WITH An
+APPENDIX, containing Twelve Problems touching Compound Interest and Annuities;
+and a Method to Contract the work of Fellowship and Alligation Alternate, very
+considerably in many Cases.
+
+Illustrated with Copper Plates.
+
+By ADAM MARTINDALE, A Friend to Mathematical Learning.
+
+Frustra sit per plura quod fieri potest per pauciora.
+
+London, Printed for R. Clavel, at the Peacock in St. Paul's Churchyard, and T.
+Sawbridge, at the Three Flower-de-luces in Little-Britain, 1692.
+
+TO THE Right Honorable THE LORD DELAMER, Baron of Dunham-Massie, etc.
+My Lord,
+THIS small Tract comes to Your Lordship, not as to a Patron to protect its
+Errors (if any such there be) but as to a critical noble Friend, that will be
+sure faithfully to tell the Author of them. Which favor, together with a
+cheerful acceptance of this poor present, he humbly hopes for, because of its
+Relation, being writ at Dunham, by Your humble Servant, who besides his
+domestic dependence, cannot forbear without ingratitude to tell the World that
+Your Lordship's kindness has very much encouraged and assisted him in
+Mathematical Studies, not only by a free Communication of many a choice notion
+both viva voce, and by the loan of Manuscripts. But also by a Considerable
+number of excellent Books and costly Instruments bountifully bestowed upon him:
+Who wanting other ways to express his many singular Obligations, and deep sense
+thereof, humbly offers this Punie Treatise for Your Lordships diversion at
+spare hours; and is ambitious to write himself,
+
+Oct: 26. 1681. MY LORD, An humble and faithful (though unworthy) Servant to
+all Your Lordship's Noble Family A. M.
+
+Mr. COLLINS TO THE READER.
+Courteous Reader,
+THE Learned Mr. Adam Martindale formerly Writ two excellent Almanacks, called
+Country Almanacks, which were Printed, and esteemed by several Members of the
+Royal Society very useful, especially for Country Affairs, but meeting with
+some Discouragements from such as knew not how to judge of the Authors worth,
+he gave over that undertaking, contrary to the desires of many Ingenious Men.
+
+And having since Writ a little Treatise of Survey, in which he has had
+experience, as well as Theory, and being willing to have the Approbation or
+Dislike of others, that it might either be Printed or Stifled, imparted the
+same to some of the Members of the aforesaid Illustrious Body.
+
+Upon the Perusal of whom and diverse Experienced Artists who make a Livelihood
+of it, I find it well approved (as clear and concise) only the latter were
+sorry so much was discovered, as detrimental to their Practice, particularly
+about setting off the outjettings, where it is inconvenient entirely to measure
+them.
+
+The Book is small, the price (though not the worth) mean, no small
+Encouragements to young Students and the Vulgar, for whom it was chiefly
+intended: By which, that they may reap Benefit, is the hearty desire of (a
+Well-willer to the Author and them)
+
+John Collins.
+
+The PREFACE.
+READER,
+THe Title sufficiently informs thee in general of my Designs: But I confess I
+owe thee a a more particular Account, not only of that, but several other
+things which I shall briefly give thee.
+
+1. I have observed that the Country abounds with such, as by their
+Inclination and Interest are prevailed with to take pains in measuring Land,
+that for want of better Instruction use ill divided Chains and tedious Methods
+of Computation, which makes their work intolerable troublesome, if exactness be
+required. And some for want of skill in the Fundamentals of Geometry, have
+imbibed prodigiously false Principles, as this for one, viz. That the Content
+of any Close, of what Figure soever, may be found by Squaring a quarter of the
+Perimeter. Mathematical-Schools, where better things might be learned, are very
+rare, and an able Artist to instruct one in private is hard, and charge able to
+be procured. Excellent Books indeed there are in our English Tongue, Written by
+our Famous Rathborn, Wing, Leybourn, and Holwell, to which may be added
+Industrious Mr. Atwells Treatise, and some part of Capt. Sturmy's: But those I
+rather esteem fit to be read byan able Artist (toward his perfecting) than by
+a new beginner, for in the best of those Books he will find the most useful and
+plain Rules so intermixed with others that are less necessary, and more
+intricate, (though very excellent for their proper ends) and so many
+Curiosities touching Trigonometry, Transmtation of Figures, etc. which his
+business never calls for, that for want of judgment to pick out that which fits
+his present purpose, and to study higher Speculations afterward, he is apt to
+be confounded and discouraged; whereby it accidentally comes to pass that
+plenty, makes him poor.
+
+Besides, three of these six Books are in Folio, another in Quarto, and the
+other two (though Octavo's) too large for ordinary carrying in a Pocket, and in
+that regard not so convenient for one that has much occasion to be out of his
+own House; to say nothing of their Price, which to some poor Youths is not the
+least discouragement.
+
+I have therefore made my Book so little, that the Price can neither much empty
+the Pocket, nor the Bulk overfill it. And yet so plain, that I doubt not to be
+understood by very ordinary Capacities. My Method is fitted to my Design:
+Beginning with the Principles of the Art, and so proceeding gradatim till I
+have showed how all ordinary Figures may be Measured, Protracted, and Cast up,
+without any other Instrument of charge but Chains, Compasses and Scales.
+Afterward for such as desire higher Seize, I have endeavored to speak
+so fully (in a little compass) of the Plain Table, and given such hints,
+applicable not only to it, but also to the Peractor, Theodolite, and
+Semicircle, as that an Ingenious Person may make great use of them.
+
+But as touching the Doctrine of Triangles, and Transmutation of Figures into
+others equipollent, with the large Tables (referring to the former) of
+Logarithms of Numbers, Sines, and Tangents, I thought it improper to cumber
+this small Manual, or the unlearned Reader with them, having (as I humbly hope)
+sufficiently informed him how to find all his Sides and Angles by Instruments,
+and also the Content of any Figure without such transmutation, reserving such
+Curiosities and many others touching Drawing and Painting of Maps; Measuring of
+Ways, and Rivers, etc. to a Second Part, which I may perhaps hereafter Publish
+upon due encouragement, but if I do not, the Curious may find themselves good
+store of work in the Authors even now quoted.
+
+2. It may seem strange to some, that in referring to the Figures, I sometimes
+use Words seeming to imply that the Figure I speak of is in that very Page, and
+so it was in my Copy, but the Printer and Gravers have otherwise contrived them
+for convenience in Copper Cuts by themselves. And to give them their due they
+are generally done with great accuracy, and none of them having any such error
+as is like to beget trouble or mistake to the Reader, saving only that fig. 19
+has D instead of O at the Center, and the Line OL in the Margin of Fig. 14.
+should be of the length from L to the uppermost o in the Scale, and the Figures
+on the side should be made 1 less than they are, viz. 2 should be 1, 3 made 2,
+etc.
+
+And lastly, as to the Errata, though I have not been so anxiously careful, as
+to correct every literal mistake, I have very diligently perused all from p. 1
+to p. 224 inclusive, and hope I have sufficiently restored the Sense to the
+places wronged, when thou have done them right by the Pen according to the
+Directions of the Errata following next after the contents, and that you
+continue the Line in the Margin of p. 34. to the length of the Line OL in fig.
+14.
+
+THE CONTENTS OF THE CHAPTERS.
+Chapt. 1. OF Geometrical Definitions, Divisions, and Remarks. p. 1. Chapt. 2.
+Of Geometrical Problems. p. 6. Chapt. 3. To find the Superficial Content of any
+right lined Figure, the lines being given. p. 17. Chapt. 4. Concerning Chains,
+Compasses, and Scales. p. 26. Chapt. 5. How to cast up the Content of a Figure,
+the lines being given in Chains and Links. p. 35. Chapt. 6. How to measure a
+Close, or parcel of Land, and to protract it, and give up the Content. p. 41.
+Chapt. 7. Concerning the measuring of Circles and their parts. p. 48. Chapt. 8.
+Concerning Customary measure, and how it may be reduced to Statute measure, and
+e Contra, either by the Rule of Three, or a more compendious may by
+Multiplication only. p. 52. Chapt. 9. How a Man may become a ready Measurer by
+Practice in his private Study, without any ones assistance or observation, till
+he design to practice abroad. p. 65. Chapt. 10. How to measure a piece of Land
+with any Chain of what length soever, and howsoever divided; yea with a Cord or
+Cart-rope; being a good Expedient when Instruments are not at hand of a more
+Artificial ^ake. p. 67. Chapt. 11. Concerning dividing of Land Artificially and
+^echanically. p. 70 Chapt. 12. Concerning the Boundaries of Land, where the
+^ines to be measured must begin and end. p. 80. Chapt. 13. Containing a
+Description of the Plain-Table, the ^rotractor, and Lines of Chords. p. 82.
+Chapt. 14. How to take the true Plot of a Field by the ^lain-Table upon the
+Paper that covers it, at one or ^ore Stations. p. 85. Chapt. 15. Concerning the
+plotting of many Closes together, ^hether the ground be even or uneven. p. 99.
+Chapt. 16. Concerning shifting of Paper. p. 102. Chapt. 17. Concerning the
+plotting of a Town Field, where (...) several Lands, Buts, or Doles, are very
+crooked: ^^th a Note concerning Hypothenusual or sloping ^^undaries, common to
+this and the fifteenth Chapter. ^ 104. Chapt. 18. Concerning taking the plot of
+a piece of ground (...) the Degrees upon the Frame of the Plain-Table se^^^al
+ways, and protracting the same. p. 108. Chapt. 19. Concerning taking
+inaccessible Distances by the ^^ain-Table, and accessible Altitudes by the
+Protractor. ^ 121. Chapt. 20. Of casting up the Content of Land by a Table. ^
+193.
+ERRATA.
+PAge 3 Line 16 Read Trilaterals. p. 4 (...) Geodates. p. 5 l. 29 Eneagon. p.
+10 l. 6 belong as the other two. p. 16 l. 6 Centers at right A^^gles. p. 28 l.
+1 forefinger. p. 36 l. 20 Poles or R^^ p. 47 l. 15 fourth Diagonal and the
+sixth side. p. (...) l. 28 as in this figure is ABC. p. 56 l. 23, (...) and l.
+24 ^. 22 p. 58 l. 11 28. p. 69 l. 5 side 74 l. 25 FG. p. 77 l. 27 138562, and
+l. 28 (...) 33 r. 242030. p. 79 l. 33 triangulate. p. 80 l* former. p. 82 l. 24
+fitted. p. 86 l. 2 Stationary ^^^stances. p. 90 l. 15 Chart, or Card. p. 95 l.
+^ Park, Pond. p. 103 l. 22 Line. p. 104. l. 19 (...)
+
+Fig. 1. Fig. 2. Fig. 3. Fig. 4. Fig. 5. Fig. 6. Fig. 7. Fig. 8. Fig. 9. Fig.
+10. Fig. 11. Fig. 12. Fig. 13. Fig. 14
+
+
+
+
+Fig. 15. Fig. 16. Fig. 17. Fig. 18. Fig. 19. Fig. 20. Fig. 21. Fig. 22. Fig.
+23. Fig. 24. Fig. 25.
+
+
+
+
+Fig. 26. Fig. 27. Fig. 28. Fig. 29. Fig. 30. Fig. 31. Fig. 32. Fig. 33. Fig.
+34. Fig. 35. Fig. 36. Fig. 37. Fig. 38. Fig. 39.
+
+
+
+
+THE Country Survey-Book: OR, LAND-METER's VADE-MECVM.
+CHAP. I.
+Of Geometrical Definitions, Divisions, and Remarks.
+I. A Point is that which has no parts, either of longitude or latitude, but
+is indivisible, ordinarily expressed with a small prick, like a period at the
+end of a sentence.
+
+II. A Line has length, but no breadth nor depth, whose limits or extremities
+are Points. This is either right or crooked.
+
+III. A right Line lies straight, and equal between its extreme points, being
+the shortest extension between them; the crocked or circular not so.
+
+IV. A Superficies has length and breadth, but no depth; of this Lines are the
+limits.
+
+V. A plain Superficies is that which lies equally (or evenly) between its
+Lines.
+
+VI. An Angle is the Meeting or two Lines in one point, so as not to make one
+straight Line, and if drawn on past that point, they will intersect or cross
+one another. This is vulgar English may be called a Corner; of which there be
+two sorts, one right, the other oblique.
+
+VII. A right Angle is that which is made by two right lines, crossing or
+touching one another perpendicularly, (or squarely) like an ordinary Cross, or
+Carpenters Square.
+
+VIII. An oblique Angle is that which is either greater or less than a right
+Angle, and this is of two sorts, obtuse and acute.
+
+IX. An obtuse Angle is greater than a right Angle, like the left and right
+Corners of a Roman X.
+
+X. An acute Angle is less than a right Angle, like the highest and lowest
+Corners of the same Letter.
+
+XI. A Figure is that which is comprehended under one line or many: Of this
+there are two kinds, a Circle and a right-lined Figure.
+
+XII. A Circle is a perfect round Figure, such as is drawn with a pair of
+Compasses, the one Foot being turned round in a point, and the other wheeled
+about it. The point in the precise middle is called the Center; the round line,
+the Circumference or Peripheri; a line going through the Center, and divide the
+Circle into two equal parts, is called the Diameter; half of that line is a
+Somidiameter, or Radius; half the Circle is styled a Semicircle; the quarter, a
+Quadrant; any portion of it, cut off by a right Line not touching the Center,
+is called a Segment.
+
+XIII. Right-lined Figures are such as are limited by three right Lines or
+more, and are either Triangles or Triangulate, that is, such as are compounded
+of, and resolvable into Triangles.
+
+XIV. Triangles are Figures comprehended under three right Lines, and (as Ramus
+thinks for a Reason that he gives, lib. 6. pr. 6.) might be better called
+Trilaterals; but the name Triangle from the number of the Angles has obtained.
+
+Also from the nature and Quantity of their Angles these Triangles are
+distinguished into three sorts: 1. Rectangled, having one right Angle; 2
+Obtuse-angled, having one obtuse Angle; and 3. Acute-angled; having all acute
+Angles; for no Triangle can have more right or obtuse Angles than one, because
+by by an old Rule (easy to be demonstrated) no Triangle upon a plain
+Superficies can consist of three greater Angles than such, as being jointly
+taken are equal to two Right.
+
+These three sorts of Triangles may, according to the length and proportion of
+their sides, be subdistinguished into seven; for each of them may have either
+two equal Sides or none, and the Acute-angled may have all three Sides or lines
+equal: To all which kinds, learned Men give distinct Greek Names, which if mine
+English Reader have a mind to see, they are to be found in (...) Practices,
+Book 1. page. 6. for my present purpose the abovementioned ^rimembred
+distinction will abundantly suffice; for be Triangles of what name or kind
+soever, they are all capable of being exactly measured by one plain Rule as
+hereafter shall fully appear.
+
+XV. Triangulare Figures are such as have more Angles (and consequently more
+Sides or Lines) than three: and these are either Quadrangular or Multangular.
+
+XVI. Quadrangular Figures are such as have fo^^ Angles (and as many Side) and
+these are either Parallellograms or Trapezia's.
+
+XVII. Parallellograms are Figures that are bounded with parallel Lines, that
+is, such lines as are every where of the same distance one from another, so as
+if they were infinitely extended they would never meet, like the upright lines
+of he Roman H. These Parallellograms are either Rectangular or Obliquangular.
+
+XVIII. Rectangular Parallellograms are such as have four right Angles. viz.
+the Square or Quadrat, and the long Square, otherwise called the Oblong.
+
+XIX. The Square is that Figure that has four right Angles, and four equal
+Sides, like any of the six Faces of a Die.
+
+XX. The long Square has also four right Angles, and the oposite Sides are
+equal, but the adjoining Sides meeting at each Angle differ in length. Of this
+Figure is a well printed Page in a Book, and the Superficies of a well cut
+Sheet of Paper, or an ordinary Pane of Glass.
+
+XXI. Obliquangled Parallellograms are such as have oblique Angles, viz. two
+acute, and two obtuse. Of these there are two kinds, the Rhombus, and the
+Rhomboides.
+
+XXII. The Rhombus is a Figure that has equal Sides, but no right Angles,
+(like the form of a Diamond on the Cards, or the most ordinary Cut of Glass in
+Windows) whose oposite Angles are equal.
+
+XXIII. The Rhomboides is (as it were) a defective Rbombus, for if from any
+side of a Rhombus we cut off a part with a parallel Line, the Remainder will be
+a Rhomboides, which has neither equal Sides nor Angles, but yet the opposite
+Sides and Angles are equal.
+
+XXIV. The Trapezium is a Figure that is neither parallellogram, nor
+(consequently) has equal Sides or Angles, but is irregularly quadrangular, as
+if drawn at adventure. Of this shape most Fields prove, that seem to the Eye to
+be Squares or Oblongs.
+
+XXV. Multangular Figures are such as contain more Sides and Angles than four,
+and they are either regular or irregular.
+
+XXVI. Regular Multangulars take their names from their Number of Angles, so a
+Pentagon, Hexagon, Heptagon, Octogon, Encagon, Decagon, signify a multangular
+Figure of five, six, seven, eight, nine, ten, Angles, and consequently Sides.
+
+XXVII. An irregular Polygon or multangular Figure, is that which has more
+Angles (and Sides) than four, the Sides (and Angles) being unequal to one
+another.
+
+CHAP. II.
+Of Geometrical Problems.
+I. To draw a Line parallel to another, at any Distance assigned.
+
+
+
+II. To raise a Perpendicular upon a Line given, or to cross that Line at right
+Angles in a Point assigned.
+
+
+
+But if the said line AB had been given to be divided in the precise middle, by
+another Line crossing it at right Angles, the way were to set one Point of the
+Compasses in A and B severally, and having described two Arches above the line,
+intersecting one another as at D, do the like below the line AB from the same
+points and with the same extent of your Compasses, then through the several
+intersections (a Rule being laid upon them) a line may be drawn, cutting the
+given line exactly in the middle at right Angles.
+
+Note, That when one point of your Compasses stand in A, you may make both the
+Arches belonging to that Center above and below the line, and then removing the
+Compasses to B, you may cross them both.
+
+III. To raise a Perpendicular at the End of a Line.
+
+
+
+IV. To let fall a Perpendicular upon a given Line from any Point assigned.
+
+Open your Compasses so as one Foot being set in the assigned point the other
+may go clear over the line given, and thereby describe an Arch cutting the line
+at two points; then shall the half distance between those two points be the
+point to which the Perpendicular may be drawn from the point assigned. But if
+you think it too much pains to find the point of half distance by trial, you
+may help your self by the second Problem: For if you describe two Arches
+intersecting one another on the farther side of the line from the assigned
+point, placing (to that purpose) the Foot of your Compasses first in one of the
+Intersections of the given line, and then in the other; you may by laying a
+Rule upon the assigned Point, and the Intersection of the two Arches, draw a
+Perpendicular from the said assigned Point, cutting the given Line at right
+Angles.
+
+Note,
+that all these Problems touching perpendiculars, aim at no greater matter,
+than what may be performed in a Mechanical way with exactness enough (and much
+more neatly by avoiding unhandsome Pricks and Arches) by the help of a small
+Square exactly made, (or for want thereof a Plate Quadrant, or broad Rule,
+having a right Angle and true Sides) for if you apply one Leg of such a Square
+to any Line, so as the Angle of the Square may touch the end of the said Line,
+or any other Point where the Perpendicular is to be raised, you may by the
+other Leg draw the Perpendicular. In like sort to let fall a perpendicular from
+a point assigned you need only to apply one Leg of the Square to the Line, so
+as the other may touch (at the same time) the assigned point whence you may
+draw the perpendicular, by that Leg that touches the Point:
+
+If the Angle of your Square be a little blunt either through ill making or
+long using, you must allow for it when you apply it to the point in a Line. And
+when you are drawing a Perpendicular, you must stop before you reach the given
+line, and then by applying the Leg of your Square to that part of the
+perpendicular already drawn, so as part of that Leg may pass clearly over the
+given Line, you may draw the rest of your perpendicular as exactly as if the
+Angle had been true. The like course is to be taken when a line is to be
+crossed by another drawn quite through it at right Angles.
+
+V. An Angle being given, to make another equal to it.
+
+
+
+Note,
+when we speak of the quantity of Angles, their equality, or unequality, we
+never regard the length of the Lines; for if you extend or contract them at
+pleasure, the Angle is still the same. But that is the greatest Angle whose
+lines are farthest distant from one another, at the same distance from the
+Angular Point, or the place where its lines meet.
+
+VI. Any three Lines being given (equal or unequal) so as no one of them be
+longer than the other two joined together to make a Triangle of them.
+
+
+
+Note,
+that if all the Sides, or two of them, be equal, the method is the same; but
+the labor less, because we need not to take the same length twice over with
+the Compasses.
+
+VII. To find the Perpendicular of the Triangle, in order to the measuring of
+it.
+
+Probl. 4. Upon that line at D, which is ready for taking off with Compasses
+and measuring on a Scale, of which hereafter in the Chapters of measuring the
+Content of Figures.
+
+But if we have no occasion to draw the perpendicular, but only to know the
+length of it, (as it most frequently falls out in measuring) no more is needful
+but to set one foot of the Compasses in the Angular point C, and extend the
+other to the Base AB, so as it may touch it, but not go beyond it; then have we
+the perpendicular between the points of the Compasses.
+
+VIII. One Side being given, how to make a Square.
+
+
+
+IX. To make a long Square, the length and breadth being given.
+
+This is so like the former, that a particular Figure is not necessary to
+conceive of it. Suppose each side of the Square in the last Problem to consist
+of 8 small equal parts, and you were to make a long Square whose length must be
+equal to a side thereof, viz. 8. and the breadth half so much given in a line
+thus -- 4; then when you had drawn the line CD for the length, and raised the
+Perpendicular at C, you must take the shorter Line given for the breadth, and
+set it upon the Perpendicular from C upwards to a Point, which for distinction
+we shall call the Point E, imagining it so marked: With the same extent of the
+Compasses describe the Arch, placing (to that purpose) one foot in D. Lastly,
+extending your Compasses to the length of the line CD, set one foot in E, and
+with the other cross the Arch aforesaid. Then a right Line drawn from that
+Intersection to E, and another from the same to D, complete the long Square.
+
+X. To make a Rbombus, the Sides being given.
+
+viz. in D to describe the Arch FG, and in E to describe the Arch HI, crossing
+one another in the Point K, from which, right lines drawn to D and E, finish
+the Rhombus DAEK.
+
+Note,
+if any Angle be given, together with the Side; to limit the shape and content,
+begin with that, and proceed as before: For you must know, that to make a
+Rhombus (or Rhomboides) like to another for Figure, or equal to it in Content,
+it is not sufficient to have the same Sides; for the more oblique the Angles
+(...) the farther will the Rhombus differ from a (...) (and the Rhomboides from
+a long (...) are) and the less will be the Content. But (...) must have an
+Angle given, (which will pro^^^e all the rest) or else a Diagonal Line, which
+(...) right Line passing through the Rhombus (or ^omboides), from one opposite
+Angle to another, and dividing the Figure into two equal ^^^angles. If the
+former (viz. an Angle) be ^^n, I have showed what use is to be made (...). If
+the latter, (i. e. a Diagonal) toget^^^ with the length of the Sides, you may
+by ^^^ng the length of the Sides with your Com^^es, and setting a Foot in the
+ends of the ^^gonal Line, make a Triangle on the one side ^he Diagonal, by
+Probl. 6. and then another on the other side by the same problem, the ^^gonal
+being a common Base to them both; this will give the Figure exactly.
+
+To make a Rbomboides, the Sides being given.
+
+
+
+XII. To make a Trapezium, the Diagonal and Lines in order being given.
+
+
+
+Then with your Compasses set to the length of the Line A, place one Foot in H,
+and with the other describe the Arch OF. Next taking the length of the Line B,
+with the one Foot, o^ your Compasses placed in L, with the other make the Arch
+GI intersecting the former at K, from which Point of Intersection, Lines drawn
+to H and L make the Triangle HKL.
+
+Then with the extent of the Line C, set one of the Feet of your Compasses at
+L, and describe the Arch OP. Lastly, setting them to the length of the Line D,
+and placing one Foot of your Compasses in H, with the other make the Arch SR
+intersecting the former at Q; (...) shall Lines drawn from Q to L and H make u^
+the Triangle LQH, and finish the Trapezium HKLQ.
+
+I could have been much briefer in this problem by referring to the sixth; but
+this being of very great and frequent use, I desired to be very plain.
+
+XIII. To make a regular Polygon, otherwise called a regular multangular, or
+multilateral Figure, consisting of many equal Sides and Angles, viz. above four
+apiece.
+
+Being satisfied what shall be the distance between the Center and every Angle,
+with that distance describe a Circle, which being equally divided into as many
+Parts, as the Figure must have Angles (or Sides, for they are equal in number)
+and Lines drawn from the Points of Division within the Circle from Point to
+Point, (ordinarily called Chords) the Polygon is finished as in this Diagram.
+
+
+
+I shall rather leave my unlearned Reader to find out the Points of Division by
+many trials, than to puzzle him with the Geometrical way for finding out Chords
+to that purpose; nor shall I busy my self to tell him at large how he may
+divide 360 by the number of his Angles or Sides, and then finding in his
+Quotient the Degrees and Parts belonging to every Division, set them readily
+out by a Protractor, or (for want thereof) by a Line of Chords; for I suppose
+him yet ignorant of such things.
+
+I shall therefore only tell him thus much: A Line drawn through the Circle at
+the Center divides it into two equal parts, which being crossed in the Center
+by another Line, the Circle will be parted into four equal Parts or Quadrants,
+and those by halving them into eight Parts. The extent of the Compasses whereby
+the Circle is drawn (usually called the Radius or Semidiameter) will divide it
+into six equal parts; two whereof must be a third part, and half of one a
+twelfth part; and these still easily capable of farther Division.
+
+XIV. Having the Sides of the Triangles whereof it consists, orderly given,
+to make an irregular multangler, or multilateral Figure.
+
+This will be more fully handled hereafter, when I come to show the method of
+drawing plots of Ground: In the interim I will give you a Specimen of an
+irregular Pentagon.
+
+viz. 20, from A to B for a Base, and by Probl. 6. make a Triangle of it and
+the other Lines 16 and 10. viz. the Triangle ABO.
+
+Secondly, you find by the number o over the first Line of the second Triangle
+that it is the common Base to them both, and therefore by the same Probl. 6.
+make the Triangle A B P of the Lines 20, 14, 18.
+
+
+
+How every Line is to be found in its due order in this or any other sort of
+multangular Figures, so as to give a true and exact account, not only of the
+superficial Content, but also of the Figure (or shape) and situation, is to be
+taught hereafter in the Doctrine and Practice of protraction.
+
+CHAP. III.
+How to find the Superficial Content of any Right-lined Figure, the Lines being
+given.
+AS a Foundation to what I shall say upon this Subject, there are some few
+Geometrical principles or Theorems out of Enclid and Ramus, which I desire may
+be remembered; and because understanding is a mighty help to memory, I design
+for my Country Reader a kind of ocular Demonstration, which though not so
+strict and artificial as that which is to be found in the Commentators upon
+Euclid in the quoted places, will be more serviceable to him, because more
+easily understood.
+
+Theor. 1. Every Parallellogram being of the same length with the Base of a
+Triangle, and of the same height with the Perpendicular of that Triangle, is
+double to it, Euclid 41. 1.
+
+
+
+In like manner it is evident, that the Parallellogram BEFC is double to the
+Triangle CQF, because CRQ is equal to BQC, and QRF is equal to QEF.
+
+Theor. 2. All Triangles having the same Base, and lying between the same
+Parallels, are equal. Euclid 37. 1.
+
+So in our last Diagram, the two given Triangles having Bases of the same
+length, and lying between the same parallels, are evidently equal, because they
+are demonstrated to contain each of them the exact half of the Parallellograms,
+wherein they are inscribed; and the Parallellograms being equal, their halves
+must be equal also.
+
+Theor. 3. The Sides of a Triangulate (that is, one that has four or more
+Sides) are ever two more than the Triangles of which it is made. Ram. lib. 10.
+prop. 2.
+
+12th and 14th Problems of the second Chapter.
+
+These Theorems being allowed to be found (as nothing more certain) the
+Doctrine concerning the Superficial Content of Right-lined Figures might be
+reduced to a narrow compass; for he that knows how to husband these three
+Theorems, may easily take up these Corollaries, ordine inverso.
+
+1. Any quadrangular Figure (regular or irregular) may by a Diagonal be parted
+into two Triangles; any five-sided Figure by two Diagonals into three
+Triangles; and six-sided Figures into four by three Diagonals, etc. by Theor. 3.
+
+2. It Is no matter of what shape the Triangle is, as to the rule for measuring,
+for whether it be Right-angled, Acute-angled, or Obtuseangled, and whether it
+have three, two, or no Lines equal; it is only the length of the Base, and
+height of the Perpendicular, that is considerable* by Theor. 2.
+
+3. The true measure or content of any Triangle, whether alone, or as part of
+any triangulate Figure of 4, 5, 6, or more Sides (and consequently of the whole
+Figure, by summing up the content of all the several Triangles) is found by
+multiplying the whele Base of the Triangle by half the Perpendicular,
+or the whole Perpendicular by half the Base; which being a Rule of such
+infinite use in surveying, I desire it may be remembered; and that it may be
+understood, I shall give you a plain Example.
+
+44 10 440
+20 22 40 40 440
+
+
+Having thus given a general method how all Right lined Figures may be reduced
+to Triangles, and so their Content found out; I might pass to the next Head
+concerning Instruments, and their use; but because there are nearer ways in
+measuring particular kinds of triangulate Figures proper to those kinds. I
+shall briefly touch them.
+
+I. To find the Contents of a Square, or long Square.
+
+Multiply the length by the breadth, the product gives the Area or Content.
+
+Example of a Square 17 Inches length. 17 Inches breadth. 119 17 289 Square
+Inches.
+
+
+Example of an Oblong 25 Feet long. 13 Feet broad. 75 25 325 Square Feet.
+
+
+II. To find the Area or Content in Measure of a Rhombus.
+
+Let fall a perpendicular from one of the obtuse Angles upon the opposite side;
+that side multiplied by the perpendicular, gives the Area. 20 Yards the Side.
+14 Yards the Perpendicular. 80 20 80 Square Yards.
+
+
+III. To find the Area of a Rhomboides.
+
+Divide it into two Triangles by a Diagonal drawn between either pair of the
+opposite Angles, (as suppose the Acute) then from either of the other Angles
+(for instance, the Obtuse let fall a perpendicular upon that Diagonal then
+shall that Diagonal, being multiplied by that perpendicular, give the Area.
+
+Example.
+
+19 Rods the Diagonal. 5 Rods the Perpendicular. 95 Square Rods the Content.
+IV. To find the Content of a Trapezium.
+
+Chapter 2. pr. 12 is divided by the Diagonal HL, then from the other two Angles
+(which in that Figure a^^ marked with K and Q) let fall Perpendicular upon the
+Diagonal, half the Sum of those Perpendiculars being multiplied by the Diagonal
+(or common Base) gives the Superficial Content.
+
+Example.
+
+Suppose in the Trapezium before mentioned the Diagonal is 33, the
+Perpendicular from (...) Area or Superficial Content is thus computed: 13
+Chains the first Perpendicular. 15 The second Perpendicular 28 The Sum of both
+Perpendiculars. 14 Their half Sum. 33 The Diagonal. 42 42 462 Square Chains the
+Area.
+
+
+V. To find the Content of a regular Polygonial, or multangular Figure,
+otherwise called multilateral.
+
+Draw a Line from the Center to the middle of any Side; half of the Perimeter
+(or of all the Sides) being multiplied by that Line beforementioned, gives the
+Content.
+
+VI. To find the Content of an irregular Polygon, or many sided Figure.
+
+Divide it into Trapezia's and Triangles by Diagonals, then find their Content
+severally, and sum up all together; which that you may better apprehend,
+
+those Diagonals, Area of the whole polygonial Figure.
+
+But now methinks I see (as it were) my Country Student scratching his Head,
+and wishing for an opportunity) to propound two doubts to me.
+
+1. Why I called the Numbers correspondent to my Lines by diverse denominations,
+as Inches, Feet, Yards, Rods; and sometimes by none at all but propounding the
+Numbers abstractly.
+
+2. How I came to know how many of those Measures (whatever they be) are
+represented by the Lines given, and perpendiculars found.
+
+To the former I answer, I am not yet teaching how to measure Lines (that work
+is presently to follow) but what Lines of Figures are to be measured, and the
+measures of those Lines being known (or supposed) how the Content upon those
+real (or supposed) Grounds may be found, and to this purpose I might call the
+Numbers represented by the Lines, Inches, Feet, Yards, or any other Measures,
+at pleasure, provided I called the Squares, to which the Area is equal, by the
+same names; for an Inch in length bears the same proportion to a square Inch
+(having length and breadth) that a Mile in length bears to a square Mile. For
+this reason I profess not in the Title of this Chapter to teach how to measure
+Figures, (much less how to measure the Lines of such Figures) but how to find
+the Content, the Lines being given.
+
+And then to take away the second doubt, know that the Numbers represented by
+the Lines, were either given by those Learned Artists from whom I borrowed the
+Figures, or supposed by my self as grounds to go upon (as in such cases is
+ordinary) or, lastly, found out to be agreeable thereto by some Scale of small
+equal parts, which he is yet supposed ignorant of. But now I am going to show
+him the nature and use of two or three plain and cheap Instruments, by the help
+whereof he may with much exactness, 1. Measure the length of any Lines bounding
+Right-lined Figures upon the ground. 2. Draw Lines and Figures upon paper
+proportionable thereunto (which we call protracting). 3. Find upon his
+paper-figures the true length of all the desired Perpendiculars, which shall
+also be proportionable to those on the Ground, but much more easy to be
+obtained. And withal, I intend to give him such farther Instructions and
+Cautions for the application of the general and more particular Rules of this
+Chapter to his peculiar use, as will render them (especially some of them)
+singularly advantageous.
+
+CHAP. IV.
+Concerning Chains, Compasses, and Scales.
+1. Amongst the many sorts of Chains used for measuring Land, three are most
+famous* bearing the Names of their Inventors, Mr. Rathborne, Mr. Gunter, and
+Mr. Wing, all of them Ingeniously divided, and useful in their kind^ but my
+brievity will give me leave only to describe one, and that shall be Mr.
+Gunter's, being most in use, and easy to be procured.
+
+This Chain contains in length four Statute-Poles or Perches, each Perch
+containing 1^ Feet and a half, or 5 Yards and a half; so that the whole Chain
+is 66 Feet, or 22 Yards long.
+
+This whole Chain is divided into 100 equal parts or Links, whereof 25 are a
+just Pole or Perch; and for ready counting, there is usually a remarkable
+distinction by some Plate or large Ring at the end of every 25 Links, but
+especially at the precise middle of the Chain, which should differ from the
+rest in greatness and conspicuousness. Also at the end of every tenth Link it is
+usual to hang a small Curtain-Ring and if there be at every five Links end a
+piece o^ Wire made like the bow of a Link, with a little shank an Inch or less
+long, (or some such distinction) it is still better.
+
+When you are to measure any Line by this Chain, you need to regard no other
+Denomination but only Chains and Links, set down with a prick of your pen
+betwixt them, e. g. If you found the side of a Close to be 6 Chains and 35
+Links long, it is thus to be put down 6. 35.
+
+But if the Links be under 10, a Cipher must be prefixed; so 7 Chains 9 Links
+must be thus set, 7. 09.
+
+In the using of this (or indeed of any) Chain, care must be taken, both to go
+strait, and to keep a true account; for which purpose, it is good that he which
+goes before carry in his hand a bundle of Rods, to stick down one at the end
+of the Chain which leads, having first stretched it well, and that he which
+follows do not only gather up the Rods to keep the Account, but also at every
+remove, mark whether he see the Leader directly between his Eye and the Angle,
+or other Mark he aims to measure to; and if need be, call to the Leader to move
+toward the right or left hand, till he see him in a direct Line to it.
+
+II. Compasses are so well known, that I need not describe them; only they
+should be of Brass, with Steel Points small and neatly wrought, nine or ten
+Inches long from the Joint to the points, turning so truly upon the Rivet that
+they may be easily opened; and yet stand so firmly, that an Arch or Circle may
+be without their shrinking described upon a large Radius.
+
+For the form, I would commend above all, those that have large Bows, so
+contrived, that by pressing them with the hinder part of the Hand, they will
+gently open, and by the Thumb and fourth Finger be put together (as others
+will) so that they are manageable by one hand, which is a great convenience for
+one that at the same time should hold his Rule with Scales in the other.
+
+These might also be contrived with a Screw to take out one of the points, to
+place in the room (upon occasion) a Black-Lead pen, or any pen to draw Circles,
+with either black or otherwise colored.
+
+And for a Man that would be an Artist indeed, it were convenient he were
+furnished with dividing Campasses, beam Compasses, and triangular ones, for
+several uses not here to be mentioned; but a Country Surveyor may make a good
+shift with such a plain pair as I first described; which Mr. Wynn, over against
+the Rolls in Chancer^-lane, will help him to, with the Chain and Scales, for a
+small matter.
+
+III. Scales are certain Lines divided into equal parts, upon plates or broad
+Rules of Brass or Box, and they are of two sorts, 1. Plain; 2. Diagonal.
+
+1. Plain Scales are made up of two small Lines parallel to one another at a
+little distance, and these are divided into great equal parts, which signify
+Tens, and are noted 10, 20, 30, 40, 50, etc. according to the length of the
+Lines.
+
+They may be of any convenient length, but these great divisions are seldom
+more than Inches, or less than third parts a piece.
+
+Again, one of the great Divisions (or parts) is subdivided into ten equal
+parts by short Lines, whereof that in the middle standing for 5 is longer than
+the rest.
+
+According to the Numbers of these little parts contained in an Inch, the Scale
+is named A Scale of 10, 11, 12, 16, 20, 24, 30, etc. in an Inch.
+
+As for Example.
+
+7 is the extent of the Compasses upon the Scale A from the Line OQ to K; 30 is
+their extent from the Line so marked to OQ; and 27 is their extent from the
+Line 20, to the short Line K aforesaid.
+
+Here note, that you must not expect to find the Letters OQ or K upon the
+Scales which you buy, being only marks used at pleasure, to make my meaning
+plain; and likewise that this Scale of 10 in an Inch, and others that are
+smaller (all being composed after the same manner) are usually made for more
+convenient use, so long as to contain nine or ten (the more the better) of the
+great Divisions, signifying Tens* though the Figure at A being designed for no
+other use than to help your conceptions, extends but a little beyond 30, that
+length being sufficient for my purpose in this place.
+
+
+
+Also in the surveying of Forests, Chases, and great Commons, where the Lines
+are vastly long, and the mistake of a few Links (yea, of half a Pole) is not
+considerable, they may be conveniently used, accounting the Tens and Unites to
+signify so many whole Chains, and so estimating the parts of a Chain with the
+Compasses upon the small Divisions, which a sagacious Man may do very near upon
+one of the larger Scales. But it were much better, in my opinion, for ordinary
+measuring, if the grand Divisions on the Scale were two Inches a piece, as I
+have one upon the Index of my plain Table) for then the smaller Divisions being
+of five in an Inch, would be so large as to be subdivided into five apiece,
+which represents 20 Links; and then the half of one of those smaller Divisions
+signifying 10 Links, and the quarter 5, a very ordinary judgment may come very
+near to the truth by estimation.
+
+2. But the Diagonal Scale is so well known to every Mathematical
+Instrument-maker, so easy to be procured, and every ways so fitted to Gunter's
+Chain, and our Countryman's use, that I cannot but highly commend it.
+
+Of these Diagonal Scales, there are two sorts, the Old and New.
+
+Leybourn's Book, whereof I shall present you with a fragment, with such a
+description as may enable you to understand the whole.
+
+1. It is made (as appears by the Figure B) upon eleven parallel Lines
+equidistant, so as to include ten equal spaces, which are all cut at right
+Angles by Transwerse Lines dividing them all into four equal parts.
+
+2. One of these Transverse Lines (viz: PR) where it touches the first and
+last Lines, separates between the Hundreds (or whole Chains) and the Tens,
+(representing 10 Links apiece) the Chains being numbered downwards on the left
+hand from P only to 3, but on the Instrument it self they may go on to 9 or 10,
+(the Rule being a Foot long) but the Tens (or Decads) upward from P to 10.
+
+3. From the Points of Division into Tens upon the first Line beginning at P,
+to the like Points beginning at R in the last Line, are nine Diagonal Lines
+drawn, the first beginning at P, and ending at the first Division above R. The
+second beginning at the first Division above P, and ending at the second above
+R. In a word, they are all drawn from one Division less from P, to one more
+from R; by which it comes to pass, that every Diagonal, by that time it has
+passed from the first Line to the eleventh is a whole tenth part of an Inch
+(which answers to ten Links of the Chain) farther distant from the Line PR,
+than at the Point upon the first Line whence it was drawn.
+
+
+
+From what has been said, and inspection of the Figure B, these things plainly
+follow, which as so many clear instances will help you to understand it fully.
+
+1. The distance from PR to the second Division below it answers to two
+Chains.
+
+2. The distance from PR to the eighth Division upward being taken (with
+Compasses) upon the first Line of the eleven from P to 8, answers to 80 Links.
+
+3. Consequently the extent of the Compasses from the second grand Division
+below P to the eighth of the less Divisions upward, is proportionable to 2
+Chains 80 Links.
+
+4. The distance from PR to the first Diagonal being taken upon the parallel
+Line noted with 9 above answers to 9 Links: Where note, that the first
+Diagonal is not that which is noted with 1, but that which is drawn from the
+point P.
+
+5. The distance upon the same Line from PR to the Diagonal that is marked with
+7, is answerable to 79 Links.
+
+
+
+Briefly whole Chains may (by Analogy) be measured upon any Line from PR to the
+grand Division noted with the given Number, Decads alone, or Chains and Decads
+upon the first Line of the eleven where the Diagonals begin. Links alone,
+Decads with Links, and Chains and De^ads with Links, always upon that Line upon
+which the number ofodd Links stands at the head of the Scale.
+
+And know,
+that these Directions (mutatis mutandis) will as well fit, if half an Inch be
+only allowed for a Chain, and consequently all the Diagonals drawn within that
+extent, as it is usual (and very commodious for longer Lines) upon the other
+end of the same Rule, the grand Divisions for Chains going the contrary way,
+and noted with Numeral Figures in order. It (...) good therefore when you
+furnish your self with Scales, to have Diagonal Scales of both ^imensions on
+the fore-side of your Rule; and upon the backside many plain Scales of equal
+parts, with a Line of Chords; all which you may have (by enquiring only for the
+Scales described ^n Mr. Leybourn's Book) of Mr. Win aforesaid, ^s likewise
+all other Mathematical Instruments.
+
+Having been so large for my plain Countryman's sake, I shall not proceed to
+the description of the new Diagonal Scale, of which you may have the Figure and
+Description in Mr. Wing's Book: For though it be an excellent good one, Hayes
+having (at my desire) furnished my noble Friend Si^ Charles Hoghton with an
+artificial one of that sort, when I had the honor of assisting him in
+Mathematical Studies) yet because it is pretty cost^^ (if well made), and that
+before described will very well answer its end, I shall at present say no more
+of it.
+
+But my Reader may perhaps object to me, th^^ though I have instructed him how
+he may make a Line of an exact length, to answer to any number of Chains and
+Links (given or found by measure) upon the Diagonal Scales: I have not yet
+showed him how to measure a Line (as suppose a Perpendicular) whose length is
+unknown, upon them.
+
+To give him therefore all satisfaction (though what I have writ already, might
+help him to find this out) let us suppose, that in some Figure made according
+to the Diagonal Scale B of 10^ in an Inch, we meet in measuring with an unknown
+Perpendicular equal to the Line in the Margin. Taking it between the Points of
+my Compasses, I first try whether it be even Chains and finding upon the first
+view that it is not, (...) make a second trial, whether it will prove to be
+even Decads, or Tens of Links; to which purpose I set one Foot at 3 Chains in
+the bottom o^ my Scale in the first Line where the Diagonals begin, and the
+other Foot rests in the same line betwixt 6 and 7; whereby I am assured the odd
+Links above 3 Chains are more than 60 and less than 70. And to find how many
+above 60, I remove the Compasses from parallel to
+
+CHAP. V.
+How to cast up the Content of a Figure, the Lines being given in Chains and
+Links.
+HAving described these plain Instruments, and in some measure showed the use
+of them in severals, it were very proper in the next place to teach their joint
+use in measuring and protracting; but because I would have my young Surveyor,
+before I take him into a Close, able to perform his whole work together, I
+intend to show him, 1. How he ought to make his Computations; 2. The Grounds or
+Principles that will justify him in so doing.
+
+For the first, take these Rules:
+
+1. Put down your length and breadth of Squares and Oblongs, and your Base and
+half Perpendicular of Triangles directly under one another, expressed by chains
+and links with a prick betwixt them, as was taught before, Chap. 4.
+
+2. If the odd links were under ten, put a Cipher before the numeral Figure
+expressing them, (as there also was showed) and if ther^ be no odd links, but
+all even chains, put tw^ Ciphers after the prick.
+
+3. Multiply length by breadth, and Base (...) the half Perpendicular, according
+to the Rul^ for finding the Content of Figures, Chap. 3.
+
+4. From their Product cut off 5 Figures (accoun^ing Ciphers for such) reckoned
+from the right hand backward, with a dash of your (...) so shall those to the
+left hand signify Acres.
+
+5. If those five cut off were not all Cypher^ multiply them by 4, and cutting
+off fiv^ towar^^ the right hand again, the rest will be Roods (...) Quarters.
+
+6. If amongst these five Figures toward the right hand that were cut off at
+the second Multiplication there be any Figures besides Ciphers multiply all the
+five by 40, and cutting off fiv^ again by a dash of your Pen, those on the left
+hand signify square Perches, Poles, or Roods*
+
+A few Examples will make all plain.
+
+Quest. 1. What is the content of a Square, (...) Sides are every one of them 7
+Chains, 25 Links?
+
+Length 7.25 Breadth 7.25 3625 1450 5075 525625 525625 4 102500 40 100000
+Answ. 5 Acres, 1 Rood, and 1 Perch, as here appears.
+
+Quest. 2. In a long Square, whose length is 14 Chains, and the breadth 6 Chains
+5 Links, what is contained?
+
+Length 14.00 Breadth 6.05 7000 84000 847000 4 188000 40 3520000
+Answ. 8 Acres, 1 Rood, and 35 Perches, as the Work makes it evident.
+
+Quest. 3. In a Triangle, whose Base is 3 Chains, and half the Perpendicular 98
+Links, what is the Content?
+
+The Base 3.00 Half Perpend. 0.98 2400 2700 29400 4 117600 40 704000
+Answ. 0 Acres, 1 Rood, 7 Perches, as here is plain.
+
+There be other ways of Computation by Scales, Tables, etc. but that this is
+sound and demonstrative, I come now to show by these following Steps.
+
+1. It is evident, that in this way of Multiplication the Product is square
+Links; for every Chain being 100 Links, it is all one to multiply 7.25 by 7.25,
+or 725 by 725 without pricks, for the pricks signify something as to
+Conceptions but nothing at all in Operation. The Product therefore of the first
+Example was really 525625 Links.
+
+2. Every Chain being 4 Perches long, it follows, that 5 Chains (or 20 Perches)
+in length, and 2 Chains (or 8 Perches) in breadth, make an Acre, or 160 square
+Perches; for 20 being multiplied by 8, gives 160.
+
+3. From hence it plainly follows farther, that there are exactly 100000
+square Links in an Acre; for 5 Chains multiplied by 2, is the same with 500
+Links by 200, which makes 100000. And he deserves not the name of an
+Arithmetician that is ignorant of this old plain Rule, When the Devisor
+consists of 1 and Ciphers, (as 10, 100, 1000, 10000, 100000, etc.) cut off from
+the right hand so many Figures of the Dividend as the Devisor has Ciphers,
+accounting them the Remain; so shall the rest on the left side be the Quotient.
+It is plain then that 525625 square Links make 5 Acres, and 25625 square Links
+over.
+
+Thus I have made it clear to a very ordinary capacity, that as far as concern
+Acres, the Rules for Computation are good. Now for Roods and Perches, though I
+might turn off my Reader with that known Rule in Decimal Arithmetic:
+Multiplying Decimal Fractions by known Parts, gives those known Parts in
+Integers, due regard being had to the separation. I shall proceed in my plain
+way thus: If 25625 square Links, which remain above an Acre, do contain any
+quarter or quarters of an Acre; then if they be multiplned by 4, and divided by
+100000, (that is, five cut off from the Product) they will contain so many
+Acres as now they do quarters (or Roods), for any number of quarters multiplied
+by 4, must needs produce the like number of Unites or Integers, and the
+Division does only reduce them into the right denomination. Now 25625 being
+multiplied by 4, and five Figures being cut off from the product, the result
+is, 1^02500, that is an Acre and above; which shows it was above a quarter
+before it was multiplied by 4.
+
+And to find how much, (that is, how many square Perches are contained in this
+last remainder) you must consider this 2500, not as square Links remaining
+above the Rood or Quarter, but as fourth parts or quarters of square Links; or
+(which is all one) as the true number of square Links multiplied by 4, and
+consequently being multiplied by 40, (the fourth part of square Perches in an
+Acre) it must as often contain 100000 square Links (or an Acre) as the quarter
+of this number 2500, viz. 625, signifying square Links, containing square
+Perches; and so it does, for 100000 divided by 160 (the number of Perches in an
+Acre) gives 625 as answerable to 1 Perch; and 2500 multiplied by 40, gives
+100000, or 1 Acre; the five Ciphers being cut off as here is manifest.
+
+2500 40 100000
+160) 100000 (625 960 400 320 800 800 0
+Some may perhaps wonder, that in so small a Manual I spend so many words about
+such ordinary things, as in this and the last Chapter; but I am most afraid,
+lest I shall not for all my plainness be sufficiently understood by such as I
+purposely write for, in things of such necessary and frequent use: And I
+designed not to make this Treatise small by being obscurely brief in
+substantial things, but by leaving out such Curiosities as I thought my Country
+Friend might well spare.
+
+CHAP. VI.
+How to measure a Close, or parcel of Land, and to Protract it, and give up the
+Content.
+HItherto we have been like Children learning to spell, now let us set our
+Syllables together. I mean, let us make use of the Instructions beforegoing to
+measure a plece of land, to plot it, and to cast up the Content.
+
+All Closes, or parcels of land, are either such as need not to be plotted for
+finding out their true measure, but the Chain alone does the Work; or such as
+cannot be conveniently measured without plotting or protraction.
+
+Of the first sort are the Square and long Square, known beforehand to be
+such, or found so to be by such Instruments as I have not yet described, or by
+measuring all the Sides and Diagonals. These Squares and long Squares (I say)
+need no protracting, for you need only to multiply the Chains and Links of the
+length, by the Chains and Links of the breadth, and so proceed as in the first
+and second Examples of the fifth Chapter: But all others, whether Triangles or
+Triangulate, are to be protracted. I shall give Examples therefore in the 3
+sorts of Figures, triangular, quadrangular, and multangular.
+
+But before I proceed to particular Instances, let me advise the young
+Practitioner thus: Remember,
+
+1. To begin at some notable Angle of the Field, where there is some House,
+Gate, Style, Well, or the like; or if there be none, then to dig up a Clod,
+drive down a Stake; or at least, to observe what quarter of the Heavens it
+points toward, whether East, West, North, or South, and on your Paper mark
+it with the Letter A, or any other.
+
+2. To go parallel to the side of the Field, (...) Pits, Bushes, or the like,
+hinder not, (and if they do, to allow for it) accustoming your self to go
+either cum Sole, that is, with your left hand toward the Hedges, Walls, or
+Pales; or contra Solemn, with your right hand toward them; and when you go
+contrary to your usual custom, note it on your paper by some mark known to your
+self.
+
+3. To set down the Chains and Links of every side as you measure them, and not
+to trust your memory. A Black lead pen will be very proper for this purpose.
+
+4. To take heed (if you have more Scales than one upon your Rule) lest you
+confound your self by taking lines off of several Scales, or measuring
+perpendiculars upon wrong ones; for every line of the same Figure must be made
+by the same Scale, and the perpendiculars measured by it.
+
+5. To make use of a Scale of larger Divisions when you measure small Closes,
+and of smaller when you measure great ones.
+
+6. To make your lines and points where Angles meet, small, pure, and neat.
+
+7. To set on your Chains and Links at twice, when any line is too long for
+your Scale.
+
+These things being premised, I proceed thus:
+
+I. Suppose I measure a triangular Field with my Chain, beginning at the
+Eastern Angle A, and find the Sides in their order and measures to be
+severally, thus: (I going cum Sole) 2.229, 3.45, 4.07.
+
+cum Sole, I describe (at that distance 2. 29.) the Arch E E.
+
+Chapter 2. Probl. 6.) the Triangle A B C is the Plot of the Triangular Field
+measured.
+
+But before I can give the Content, I must find the length of the
+Perpendicular, which is done by setting one Foot of the Compasses in B, and
+extending the other to the Base A C, so as (...) touch it and pass not over it,
+(according to Chapter ^* Probl. 7.) for then the length of the Perpendicular is
+between the Points of the Compasses, and being applied to the same Scale by
+which the Triangle A B C was made, it appears to be 1 Chain 42 Links. With the
+half whereof I multiply 4.07 the length of the Base, and proceeding in my Work
+as was showed in the last Chapter, the Content appears to be 0 Acres, 1 Rood, 6
+Perches, as it is here evident.
+
+The Base 4.07 Half Perpend. 0.71 407 2849 28897 4 115588 115588 40 623520
+II. Suppose I were to measure a quadrangular or four-corner'd Field, I begin
+as before at ^ome remarkable Angle; and going round the ^lose cum Sole, I find
+the Sides to be 9.04, 6.72, ^.46, 7.28, and the Diagonal from that remarkable
+Angle to the opposite Angle to be 10.02, I ^^gin therefore to protract it thus.
+
+Chapter 2. Probl. 6. and another after the same method of that Diagonal, and the
+third and fourth Sides 8.46 and ^.28, so have I the Trapezium ABCD.
+
+Then by the help of my Scale and Compasses, (...) find the Perpendicular of
+the Triangle A B C (...) be 6.02, and of the other, viz. CDA 6.01, which added
+are 12.03, whereof the half Sum (...) 6.01; by which multiplying the Base
+10.02, and proceeding as formerly has been shown, I and the Content of the
+Field to be 6 Acres, 0 Roods, 3 Perches, as is here apparent.
+
+The Base10.02 Half Perpend. 6.01 1002 60120 6^02202 4 ^08808 40 3^52320
+
+
+Before I pass any further, let me tell you,
+
+1. Any quadrangular Close, or parcel Ground whatsoever, having right Lines,
+(...) be thus measured, protracted, and computed.
+
+2. The odd measure above Perches is (...) valuable here, nor in the former
+Computatio^ being always under a square Perch; but in mu^^ angulars where there
+be many Remainders, th^^^ must be summed up, and the Perches contain^ in them
+added to the Content before found.
+
+3. This last, and the following Figures (wh^^ I use any Scale at all) are made
+that they mig^^ not be too large, by a Scale of 400 in an In^^^ i. e. by the
+less Diagonal Scale, each Chain (...) Link being counted two.
+
+
+
+
+
+But when I come to protract by the help of ^^y Scale and Compasses, I first
+make the Trian^^e BCD of the first Diagonal, and the second and third sides.
+Then the Triangle DEF upon (...) second Diagonal, and fourth and fifth sides,
+(...) upon the same Diagonal as a common Base, (...) Triangle BDF of the first,
+second and third Diagonals.
+
+Next of the same third Diagonal, together ^ith the fourth and sixth sides I
+make the Triangle BFG, and upon the fourth Diagonal as upon a common Base with
+the first and last sides (...) Triangle ABG, so is the whole Close ^^otted.
+
+And now it stands visibly reduced into two ^rapezia's ABFG and BDEF, together
+with ^he Triangle BCD, which I shall not now cast (...), having so often showed
+how such work is (...) be done.
+
+But I must acknowledge that this sort of plotting of parcels of Land that have
+many Angles, ^equires not only more care and pains, but better skill and memory
+than to draw Diago^als upon Paper, when the Plot is already taken by the plain
+Table, or other standing Instrument. I shall therefore to help my young
+Practitioner in this case, advertize him of two easy ways to help himself, so
+as to be out of danger of mistakes.
+
+One way is to divide the Multangular Field into two or more parts as the last
+might have been by the Diagonal BF; then might each pa^^ have been measured
+severally, as if they had been separated by a Pale, or were sundry Men's Land
+parted by a Boundary.
+
+Another way that much helps both the understanding and memory, is to draw a
+rude Draugh^ of the Figure of the Land you intend to measure, not only as to
+the sides, but also necessary Diagonals. Then measuring the Lines upon the
+Ground correspondent to those on the Paper (which by the help of the Draught
+may be easily hit) set the Lines as you measure them upon the Lines of the
+Draught, as if it were the true ones, and when you have finished your
+measuring, protract it truly. Such as you see her^ (but it is better larger)
+will do your business for it is not a Pin matter how rude or false the Lines or
+Angles be, resemblance being all that is desired.
+
+CHAP. VII.
+Concerning the measuring of Circles, and their Parts.
+I Have hitherto abstained of purpose from meddling with the Circle and its
+Parts, that I might lay those things close together without unnecessary
+mixtures, that are of the greatest use.
+
+It Is wonderful rare, if a Land-meeter ever have occasion to measure any Field
+or parcel of Land, that will prove either Circle, Semicircle, Quadrant, or
+Sector. Sometimes indeed there will be a little crook in an old Hedge bowing
+like an Arch: But I have never seen any offer to measure it as a Segment, but
+always take it as an Angle or Angles.
+
+Yet because it may be expected I should say somewhat of those things, I shall
+briefly do it.
+
+1. To measere a Circle in the more exact way (...) to square the Diameter, and
+to multiply that Square by. 7854, so shall the Content be in Integers and
+Decimals.
+
+But the more usual and quick way (and near enough for any use we shall make of
+it) is to multiply the half of the Periphery or Circumference by the
+Semidiameter.
+
+In like manner to find the Content of a Semicircle, Quadrant, or Sector made
+up of Semidiameters, and arched Lines, multiplying the half Arch by the
+Semidiameter, gives the Content.
+
+Section, less than a Semicircle, such as this Figure ABC. And to find the
+Content of it, the center of the Circle whereof this is a Section must be first
+found out, as here at O, from which Lines drawn to A and B, make up the Sector
+AOBC; which being measured according to the last Rule, and from the Content
+thereof,
+
+But two Questions may be here demanded:
+
+1. How may the Center be found? 2. How may such a portion of Land be truly
+protracted and computed?
+
+To the first I answer, that the most exact and artificial way is by making a
+Mark any where in the Arch.
+
+As for Example.
+
+At the Point C; and then (by a Problem known not only to every Surveyor, but
+to ordinary Carpenters and Joyners, for finding the center of a Circle, whose
+Circumference will pass through 3 given points that are not in a right line as
+ACB) to find the Center O. But if you know not how to do it so, cross the Line
+AB in the middle, as here it is done by the Perpendicular OC, so you may by a
+few trials find both the due extent of your Compasses, and the point in the
+Perpendicular that will fit your purpose near enough; for if a little error be
+committed in making up the Sector, the most of it goes off again in the
+substraction of the Triangle.
+
+II. For the latter you may take this ready course: Measure the length of both
+your Lines, (the Chord and the Arch) and their distance at the middle of them
+both. Then when you come to protract, first take the length of your right Line
+from the Scale, and having laid it down, cross it in the middle at right Angles
+with a dry Line as in the last Figure, so shall it intersect the Line AB in the
+point E;
+
+These few hints are as much as I thought necessary for my Country Practitioner
+concerning circular lines; but if he think otherwise, there are large Treatises
+enough, and particularly those I mentioned, whose Rules (though ingenious,
+sound, and fit to be known by every one that intends to plunge deep into
+Mathematical Studies) will not (I think) be of that use to him in ordinary
+measuring, that I should transcend the intended bounds of brevity to transcribe
+them.
+
+CHAP. VIII.
+Concerning customary Measure, and how it may be reduced to Statute-Measure,
+and e contra, either by the Rule of Three, or a more compendious way by
+Multiplication only.
+WHereas the Statute-Perch or Pole is 16 Feet and a half, and no more, there be
+Poles of larger measure used in many places, as of 18, 20, 21, 24, and 28 Feet,
+yea in some 22 Feet and a half. It were therefore very convenient, that our
+young Surveyor were furnished with a Chain fitted to the customary measure of
+the Country where he lives, as I use to make Chains for my self and Scholars of
+21 or 24 Feet to the Pole for Lancashire and Cheshire, where those Measures
+most obtain. But because these are too large and cumbersome for small Closes,
+it is very convenient, instead of one Chain of 100 Links, to make two of 2
+Poles apiece, each Pole divided into 25 Links as that of 100 is, which two half
+Chains may in measuring large Fields be tied together by the Loops with
+Pack-thread, or joined by a buttoning Keyring for more speedy dispatch; but in
+smaller we may use the half Chain of 50 Links, only taking care that we count
+not half Chains for whole ones.
+
+And in these cases where the Poles are large and the Closes small,
+it were still more convenient if you had a Chain of 2 Poles only, divided into
+100 Links: Only you must then take notice, that whereas working by whole Chains
+and Links, the first Multiplication, after five cut off, gives the Content in
+Acres and Parts. The like work by half Chains and half Links will give the
+Content in Roods or quarters of Acres, and parts of such Roods.
+
+But though it is no hard matter (for one that can find out the length of a
+Link by dividing the number of Feet in a Chain by 100, and provide himself of
+good Iron-wyre, and Curtain Rings to make it of, and a sharp edged File, and
+round nosed Plyers to make it with) to be furnished with such a Chain; yet
+because every one cannot do this, I shall show you how you may easily and yet
+very truly reduce Statutemeasure into customary, that so the Chain before
+described may do your business all England over.
+
+Know therefore (for a ground to go upon) that Acres bear proportion to one
+another, as the squares of their Poles; and therefore if you multiply 33, the
+number of half Feet in the Statute-pole by it self, which gives 1089, and also
+multiply the number of half feet contained in a Pole of that measure you would
+reduce into; in the same manner you may by the Rule of Three reverse obtain
+your desire, making to that purpose 1089 the first number, the Statutemeasure
+the second, and the squared half-feet of the Pole given the third. As for
+example: 9.33 L. 7.21 B. 933 1866 6531 672693 prod.
+Suppose of a Close measured by the Statute-Pole, the length, breadth, and
+their product be as here represented in the Margin. And it is desired that the
+Content may be cast up according to our large Cheshire measure of eight yards
+or 24 feet to the Pole or Rood (as we call it:) The^ before I cut off any
+Figures, I consider that in the Statutepole are 33 half-feet, and in the
+Cheshire-pole 48, then multiplying 33 by 33, and 48 by 48, I have these two
+square numbers, 1089 and 2304, which together with the said product may be thus
+placed: 1089. 672693 2304, and so multiplying 672693 by 1089, and dividing
+their product being 732562677 by 2304, the quotient is 317952, from which if 5
+figures toward the right hand be cut off, and dealt withal as was taught in the
+fifth Chapter, the Content by our customary measure of 24 feet to the Pole,
+will be 3 acres, 0 roods, 28 perches as here appears 317952 4 71808 40 2872320
+
+
+But if the lines on the land had been measured according to our custom here,
+of 24 feet to the pole, and the Content must have been found according to
+Statute measure; then I must have multiplied the product by 2304, and have
+divided that latter product by 1089* And in the same method you may proceed in
+all or any of the rest. But the truth is, that though this way be very exact,
+plain and comprehensive, suting all the customary measures beforementioned
+without fractions, which for my Learners sake I studiously avoid, and for that
+reason reduced my poles to half-feet: It is something tedious except he knows
+how to relieve himself by a large Table of Logarithms, or at least a set of
+Nepair's-bones, which I cannot stand here to treat of: Therefore to contract
+the work a little, take notice, that all the customary poles before mentioned,
+(saving only those of 20 and 28 feet, which I suppose are somewhat rarely used,
+because I never heard nor read of them (to my remembrance) save only in Mr.
+Holwel; all the rest I say, are capable of being divided into half-yards: And
+therefore if instead of squaring the half-feet you square the half-yards of
+both poles, and work with them, you will attain the same end without any
+regardable difference, the small diversity that there is being usually in the
+useless remainders, not at all affecting the desired Quotient that gives the
+answer near enough for use.
+
+As for Example.
+
+If I had squared 11, the number of half-yards in the Statute-pole, which would
+make 121, and also 16 the number of half-yards, in our Cheshire-pole, which
+would make 256, as appears in the Margin, and then multiplied the first product
+672693 by 121, the second product would have been 81319853, which being divided
+by 256, the Quotient would have been (as before) 317952. And this way is in a
+manner coincident with Mr. Holwells first Method.
+
+11 11 11 11 121
+16 16 96 16 256
+Take notice also further once for all, that whether you use either of these or
+the following Methods, you need not reduce the particular Squares, Triangles,
+or Trapezia's severally; but sum up all their products together, and then
+reduce all at once.
+
+But if you would reduce Statute measure into Customary by Multiplication only,
+take notice of this present Table following.
+
+The Content by the Statute-pole being multiplied by. 84027 Gives the Content
+by the Pole of 18 feet.. 68062 20. 61734 21. 53777 22. 47265 24. 34725 28
+
+The use of this Table.
+
+When you have multiplied Lengths by Bredths, or Bases by half Perpendicalars,
+multiply these Products by the Decimal Fractions answering to the
+Customary-measure into which you would reduce Statute-measure, and from that
+latter product, first cut off five places toward the right hand as not to be
+regarded, (being only parts of a square Link;) then cutting off 5 more, and
+proceeding to multiply by (...), and then by 40, as has been often showed, you
+will have the Content by that Customary-measure,
+
+Example.
+
+Suppose once more the length of a Close measured by Gunter's Chain, and
+multiplied by the breadth measured also by the same, produced 672693 square
+Links; and it is desired that the Content may be given in Cheshire-measure of
+24 to the Pole: You must multiply (...) 72693 by.47265, the decimal fraction
+answering to 24 feet, and from that product being 31794834645 cut off and cast
+away 5 places, and the rest being ^17948, are in the usual way easily ^educible
+into 3 Acres, 0 Roods, 28 Perches, as here appears, agreeable ^o what it
+amounted to in the former Method.
+
+317948 4 71792 40 2871680
+But if you measured by a Chain of Customary Poles, and desire to know what the
+Content (...) in Statute-measure; this following Table is for your purpose.
+
+The Content measured by the Pole of 18 Feet. being multiplied by 1. 19008
+gives the Content by the Statute-pole. 20 Feet. 1. 46923 21 Feet. 1. 61983 22
+Feet. 1. 85950 24 Feet. 2. 11570 26 Feet. 2. 87970
+
+To understand which, take this Example.
+
+Suppose the length and breadth of a lo^ Square being measured by a Chain of 24
+feet (...) the Pole, and multiplied together, make the^^ product 317952, le^
+this be multiplied b^ 2.11570, which answers to 24 feet, and the latter
+product will be 67269104640, from which if you cut off and cast away 5 places
+toward the right hand, the remainder is 672691, which in the usual way is
+easily reduced to 6 Acres, 2 Roods, and 36 Perches, as you see here.
+
+67269 29076 4 363056
+One thing more and I have done with the business of Reduction: If the Content
+to be r^^duced, be given cast up into Acres, Roods, and Perches, reduce all
+into Perches, and then i^ other respects work as before either by the Rule of
+Three, or by this last Method of Multi^^lication only. So shall you have the
+Content in square Perches according to the Measure desired, which you may
+reduce into Acres by dividing them by 160, and if any thing remain, that
+remainder being divided by 40, will give you the Roods in the Quotient, and the
+latter remainder the number of square Perches.
+
+For trial of which Rules, mind the Answer ^o these two following Questions
+wrought all ^hree ways.
+
+Quest. 1. How many Acres, Roods and Perches, according to the Pole of 18 Feet,
+are contained in 5 Acres, 3 Roods, and 11 Perches, Statute-measure?
+
+Answ. 4 Acres, 3 Roods, and 22 Perches, as ^^ere appears:
+
+I. Method.
+33 36 5 A: 3 R: 11 P. 33 36 4 -- -- -- 99 216 23 99 108 40 -- -- -- 1089 1296
+931
+
+1089. 931 1296 1089 8379 7448 9310 1013859 1296) 1013859 (782 9072 10665 10368
+2979 2592 387
+160) 782 (4 640
+40) 142 (3 120 22
+II. Method.
+11 11 11 11 121
+12 12 24 12 144
+
+
+121. 931 144 121 931 1862 931 144) 112651 (782 1008 1185 1152 331 288 43
+160) 782 (4 640 40) 142 (3 120 22
+Or thus: 40) 782 (19 40 382 360 22
+4) 19 (4 16 3
+
+
+III. Method
+. 84027 931 84027 252081 756243 782. 291 37
+160) 782 (4 640 40) 142 (3 120 22
+Quest. 2. How many Acres, Roods and Perches, of Statute-measure are contained
+in 8 Acres, 3 Roods (or Quarters) and 21 Perches of 21 Feet to the Pole?
+
+Answ. 14 Acres, 1 Rood, and 21 Perches, as appears by the three following
+works in the several Methods.
+
+I. Method.
+8 A: 3 R: 21 P 4 35 40 1421
+42 42 84 168 1764
+33 33 99 99 1089
+1764. 1421 1089 1764 5684 8526 9947 1421 1089) 2506644 (2301 2178 3286 3267
+1944 1089 855
+160) 2301 (14 160 701 640 40) 61 (1 40 21
+II. Method.
+14 14 56 14 196
+11 11 11 121
+
+
+196. 1421 121 196 8526 12789 1421
+121) 278516 (2301 242 365 363 216 121 95
+160) 2301 (14 160 701 640 61
+40) 61 (1 40 21
+III. Method.
+1.61983 1421 161983 323966 647932 161983 2301.77843
+160) 2301 (14 160 701 640 40) 61 (1 40 21
+CHAP. IX.
+How a man may become a ready Measurer by Practice in his private Study,
+without any ones assistance or observation, till he design to practice abroad.
+THis Art above all parts of the Mathematics, is burdened with two
+Inconveniences to the young Practitioner: The necessity of having one to assist
+him in measuring his Lines with the Chain, as often as he would practice his
+skill, or get more, and the exposing of his unreadiness to the view of
+meddlesom people, while he is yet raw and unexperienced, as every one must
+needs be at first: Both which may in good measure be avoided by this easy
+knack.
+
+Take a small Packthread, and by knots about half Inch asunder divide it into
+an 100 parts, as Gunter's Chain is divided; So shall these small divisions
+between the knots answer to Links; and if they be not exactly of one length,
+the matter is not very weighty, but the more equal and short they are, the
+better. Having this String thus prepared, and marked with longer and shorter
+pieces of thread tied in the knots, so as you may readily see where is the
+middle, and where your divisions of 25 Links, and the smaller divisions of 10
+links begin and end; make all sorts of Figures in your Study or Chamber, by
+marking places, or sticking Knives or Bodkins at pleasure for Angles,
+accounting the straight lines betwixt them for sides, and so measure the
+Figures by your knotted string, and cast up the Content by a Scale. This Work
+you may manage with your own hands in private, and so make your self very quick
+and ready when you begin to measure for good and all; as I once made a full
+experiment, and it was thus:
+
+When I first began to instruct Youths in Mathematical Learning in Warrington,
+some of my Boys Parents desired a sensible demonstration of their Sons
+proficiency in somewhat that they themselves could in some measure understand;
+and particularly pitched upon measuring a Piece of Land: Whereupon I took four
+or five of my Scholars to the Heath with me, that had only been exercised
+within the Walls of the School, and never saw (that I know of) so much as a
+Chain laid on the ground: and to the admiration of the Spectators, and
+especially of a skilful Surveyor then living in the Town, they went about their
+work as regularly, and dispatched it with as much expedition and exactness, as
+if they had been old Land-meters.
+
+CHAP. X.
+How to measure a piece of Land with any Chain of what length soever and
+howsoever divided; yea with a Cord or Cart-Rope, being a good Expedient when
+Instruments are not at hand of a more Artificial make.
+IF you can procure a Chain, and find it is not divided as before has been
+showed, but into Feet or quarters of Yards, or any such vulgar divisions, make
+no reckoning of the divisions at all, but measure it as exactly as you can to
+find out the true length of the whole Chain, and if it fit none of those
+lengths mentioned in the 8th Chapter, nor any of their halfs, make it to fit,
+by taking off a Link or two, or piecing it out with a string; then dividing the
+length of that Chain by 100, or the half of it by 50, find the true length of a
+Link according to our artificial division, and having got a long stick or rod,
+set as many of those link-lengths upon it as it will hold; Then may you measure
+all the whole Chains by your regulated Chain, and the odd links of every line
+by your divided stick or rod, as is manifest in this Example following.
+
+Being far from mine Instruments, and requested by a Friend to measure him a
+Close, I procure a pair of Compasses, an ordinary Carpenters Rule of two foot,
+divided into Inches and quarters, and meeting also with a piece of an old Chain
+seemingly divided into feet, I measure it by the Rule, and finding it to be 45
+feet long, and some odd measure, I piece it out with a pretty strong Cord that
+will not stretch much, to 48 feet exactly; then it will serve me for half a
+Chain of 24 feet to the Pole: This 48 I multiply by 12 (the number of Inches in
+a Foot) and that product being 576, I divide by 50, the number of links in half
+a decimal Chain, and the Quotient is 1166-50 Inches, or 11 Inches and an half,
+and an trifle over: So then dividing a long stick throughout into such parts,
+each containing 11 Inches and an half, besides the breadth of the nicks, I am
+provided of Tools to measure Lines to a Link with exactness enough.
+
+In like manner would I proceed with a Cord or Rope, having fitted them to some
+known length or other. And then for protraction it were easy with the
+Compasses to make a plain Scale of a large sort, either upon Paper, or an even
+piece of Wood; this for once may serve a man's turn well enough.
+
+Besides there is a way of measuring the Perpendiculars of Triangles and
+Trapezia`s upon the ground it self, so as to prevent the necessity of a Scale;
+for if you have a little Square with an hole in it, to turn upon the head of a
+little stick, which you may fix where you please, as you are measuring the Base
+of a Triangle, or the Diagonal of a Trapezium, you may by a very few trials
+find the place where the one Leg will be just in the Line which you are
+measuring, and the other point at the Angle from which the Perpendicular falls
+on it, and then the space between your Stick and that Angle truly measured, is
+the Perpendicular.
+
+If you have not such a Square, a square Trencher, or any end of a Board that
+has one right Angle, and two true sided, will supply the want of it.
+
+And now that I am mentioning this way of measuring,
+I shall make bold to add, that this is a good way, (and as such ordinarily
+used by that general Scholar and reverend Minister Mr. Samuel Langley of
+Tamworth in Staffordshire, whose ancient acquaintance I have long esteemed both
+mine happiness and honor) to measure a Trapezium thus, though it be protracted
+afterward; for by measuring the Perpendiculars as aforesaid, and observing at
+how many Chains and Links end the said Perpendiculars meet the common Base, the
+whole Trapezium may be truly protracted, without going about it; this little
+Square competently supplying the place of an Instrument, which is usually
+called a Cross or Square, made up (as it were) of two small Indices, like those
+for a Plain-Table (but much less) with fore-sights and back-sights, and cutting
+one another at right Angles, put together, and having an hole at the Center,
+like those things which here in Cheshire we call Yarndles, being used by
+Country Housewives in winding of their Yarn.
+
+CHAP. XI.
+Concerning dividing of Land Artificially and Mechanically.
+WEre it suitable to my Design or Humor to be copious or curious, I had here a
+fait opportunity; for four or five modern Survey-Books of the best Account
+lying open before me, would tempt me to transcribe abundance of ingenious
+things; but for reasons often hinted before, I shall confine my self to a few
+plain things that will competently do this business.
+
+1. To divide a Triangle into any parts required; divide the Base as the Demand
+imports; then shall Lines drawn from the Points of Division to the opposite
+Angle finish the Division of the Triangle.
+
+Example.
+
+
+
+Also it is very obvious, that if the same Triangle were so to be divided, that
+the one part should be double to the other; a Line drawn from B to 4 or 8, does
+the work. Or if it be required to divide it into two parts, so as the one shall
+be triple to the other, a Line drawn from B to 3 or 9, compleats the Work. So
+also a Line from B to 2 or 10 divides it into two parts, whereof the one is
+quintuple (or five-fold) to the other, and a Line from B to 1 or 11, divides it
+into two parts, whereof the one is 11 times as large as the other.
+
+Further yet, if it were required this Triangle should be so divided, that the
+two parts should in quantity bear proportion, as 5 and 7, a Line from B to 5 or
+7, does that feat.
+
+But to deal plainly with you, I must confess that sometimes the Division will
+be a little more intricate than thus, yet not such, but that the seeming
+difficulty may be easily overcome, by observing the method wherein I shall
+satisfy the following demand.
+
+Suppose a large Triangle of common Land be to be divided amongst three Tenants
+A, B, and C, according to the quantity of their Tenements, A having 19 Acres of
+Land to his Tenement, B13, and C7, the Base of the Triangle being found by
+measure to be 17 Chains and 27 Links; and the Them and is, where the Points of
+Division must be placed in the Base, so as Lines drawn from thence to the
+opposite Angle, shall truly limit each man's part?
+
+To answer this, let us add 13 and 07 to 19, (as in the Margin) and they give
+39: So is the work plainly reduced to the Rule of Fellowship; and therefore to
+find every man's distinct portion, we need only to multiply the Base by his 19
+13 07 39
+particular number, and divide that product by 39, the sum of all their numbers
+as here is plain* A
+39. 17. 27 19 19 15543 1727 39) 32813 (841 14/39 312 161 156 53 39 14
+B
+39. 17. 27 13 13 5181 1727 39) 22451 (575 2^/3^ 195 295 273 221 195 26
+C
+39. 17. 27 7 7 39) 12089 (309 38/39 117 389 351 38
+
+
+From these Operations it is plain, that if we set off from the Angular point
+where the Base begins, 8 Chains 41 Links, and a little above the third part of
+a Link upon the Base for A, and where that ends, 5 Chains and 75 Links and 2/3
+of a Link for B, and consequently leave between this second division and the
+other end of the Base 3 Chains and almost 10 Links for C; Lines drawn from
+those points of division to the opposite Angle, will give each man his due.
+
+What I have said touching the division of Triangles upon their Bases,
+will with a little variation serve for the dividing of all sorts of
+Parallellograms, whether Square, Long-squares, Rhombus's, or Rhomboides's: all
+the difference is, that in stead of drawing Lines from Points in the Base to
+the opposite Angle, you must draw parallel Lines from Points in one opposite
+side to another, as will be sufficiently plain by this one Instance.
+
+
+
+If it be not thought convenient (as in some cases it is not) to cut off a
+piece so long and narrow, you may by the Rule of Three find what other length
+of any greater breadth will limit an equal quantity to it. Or you may multiply
+the breadth by 2, 3, or any other, and divide the length by the same number
+that you multiplied the breadth by. Or lastly, if you set out a double
+proportion that is 2/6 or 1/3, from C toward D, and from the Point where it
+falls, draw a Line to the Angle A, you will have a Triangle equal to 1/6 of
+the Square ACDN.
+
+But to return to Triangles, (the most simple and primitive of all
+Rectilinears, and therefore the most considerable in this case of partition, as
+giving Laws often to the rest:) It may fall out, that a Triangle must be
+divided (convenience so requiring) by a Line from some Point in a side, so as
+that Line may either be parallel to some other side, or not parallel to any.
+For the former case take this Example following out of Mr. Wing. Lib. 5. Prob.
+5.
+
+
+
+
+
+Let ABC be a Triangle given to be divided into two parts which shall bear
+proportion to one another, as 3 and 2, by a Line drawn from the point D in the
+Base, or, Line AC.
+
+From the limited point D, draw a Line to the Angle B; then divide the Base AC
+into five equal parts, and from the third point of Division draw the Line to E,
+parallel to BD. Lastly, from E draw the Line ED. So shall the Trapezium ABED be
+in content, as 3 to 2, to the new Triangle DEC.
+
+I have now done with the Division of Triangles, when I have added these three
+Advertisements.
+
+1. You must be sure to take very exactly the distance of every point, where a
+dividing line cutteth any side, to one of the ends of the same side, as in this
+last Figure, the distances BE and AD, which distances being applied to the
+Scale by which the Triangle was protracted, will show at how many Chains and
+Links-end you are to make your dividing Line on the Field it self.
+
+2. The proportions by which you are to divide, are not always so formally
+given as in the former examples, but are sometimes to be found out by
+Arithmetical working, as in this case.
+
+Suppose a Triangular Field of 6 Acres, 2 Roods, and 31 Perches, must be
+divided, so as the one of the two parts shall be 4 Acres, 3 Roods, and 5
+Perches, and the other (consequently) 1 Acre, 3 Roods, and 26 Perches, reduce
+both measures into Perches, and the one will be 765, and the other 306. Their
+Sum is 1071, which by their common measure being reduced into their lowest
+terms of proportion in whole Numbers, will be 5, 2, and 7, which shows that the
+Triangle being divided into 7 equal parts, the one must have 5 of those 7
+parts, and the other 2. And observe, that it will be sufficient to find the
+common measure between the Sum of the terms and either of the terms; the method
+whereof is showed in every Arithmetic Book for reducing Fractions into their
+lowest terms.
+
+But if my unlearned Reader cannot skill of that work, he may multiply either
+of the parts; (as suppose 765) by the length of the Base, which we will suppose
+to be 8 Chains and 75 Links, or 875 Links: and that product divided by 1071,
+(the Content of the whole Close in Perches) gives by the Rule of Three direct,
+625 Links, or 6 Chains and 1 Pole, the true distance from either end of the
+Base, that his mind or occasions may direct him to begin with, to the point of
+Division; for the Division must be not only for proportion or quantity, but
+also as to position or situation of parts upon the Paper, as it is required to
+be on the Ground.
+
+3. In these and all other divisions of Land, where a strict proportion in
+quantity is to be observed, you must have respect to the Rules hereafter
+following, concerning measuring of uneven Ground, Chapter 15. especially if one
+part prove much more uneven than another: and if there be any useful Pond or
+Well to draw your Line of Division through it; but if it be an unuseful Pond,
+Lake or Puddle; or if there be an boggy or barren ground, that must be cast out
+in the divisions; measure that first, and substract it from the Content of the
+whole Close, and then lay the just proportion of the remainder on that side
+that is free from it, that the other may have its just part also, besides that
+which is useless.
+
+What has been said, with an ordinary measure of discretion, may sufficiently
+instruct a young Artist to divide Triangles, Parallellograms, and regular
+Polygonials, in an artificial way: but because many Closes and open Grounds are
+Trapezia's, and many irregular Polygons, and even those that are regular
+enough, may fall under an irregular division, in regard of the quality of the
+Land, Woods upon it, or Quarries in it: Or the conveniences of ways, Currents
+of Water, situation in respect of adjacent Lands, etc. I shall propose a
+Method, which though it has somewhat of the Mechanic in it, will be
+singularly useful in such cases.
+
+Chap. 5.)
+
+But as to my present Work, they are in a better Order already. Dividing then
+242018 into three parts, each of them is 80676 and 2/3,
+
+Then resolving to lay out the double part toward the Line BD, I strike at
+adventures the Line OF, and measuring the Trapezium bounded by that Line, and
+the opposite side BD, together with the Interjacent parts of the Lines AB and
+CD, I find it to contain 119140 square Links, but because it should have been
+161353, I substract 119140, out of 161353, and their difference is 42213, and
+perceiving that the Lines AB and CD are very near parallel, and finding their
+distance where they are cut by the Line OF, to be 326 Links, or 3 Chains and 26
+Links, I divide 42213 by 326, and the quotient is 129 Links and almost half, at
+which distance I draw the Line GH parallel to OF; so shall the Trapezium GBDH
+be the Heirs part.
+
+Another way whereby this may be preformed, is thus: Finding the Triangle ABC,
+to contain 138550 square Links, substract it out of the Heirs part, viz.
+161353, the difference 22803, shows how many square Links must be taken out of
+the Triangle BCD, and added to the Triangle ABC: Which to perform with all
+necessary exactness; suppose the side or line BD to be the Base, which by
+measure proves to be 344 Links, or 3 Chains and 44 Links. Say by the Rule of
+Three direct, If the whole Content of the lesser Triangle, viz. 103468, give
+344; what shall 22803 give? so will the result be 75 links, and somewhat more
+than 4/5 of a Link; for 22803 multiplied by 344, gives 7844232, which being
+divided by 103468, the Quotient is 75 84132/^03468; or (according to decimal
+Division) 75.8131, which is (as I said before) somewhat more than 75 Links and
+4/5, wherefore extending your Compasses upon the Scale to almost' 76 Links, set
+that distance upon the Line BD, from B to I, and draw the Line CI: so shall the
+Trapezium ABIC be double to the Triangle ICD, within so small a matter as is
+not worth regarding, though the Land were a rich Meadow.
+
+I hope I need not stand to tell any man of sense, that if he please he may
+begin with the less part, and take out that: or if there be many Partners, he
+may divide betwixt any one and all the rest, (putting their parts together) and
+then by the same method subdivide amongst them till each has his due share;
+nor to spend many words in telling him he must substract where he has by a
+separating Line at adventures, or by choosing, out a Triangle, taken too much.
+as I added, when I took too little. Nor lastly, that these methods are not only
+applicable to Trapezia's, but to any triangular Figure whatsoever, whether
+regular or irregular.
+
+CHAP. XII.
+Concerning the Boundaries of Land, where the Lines to be measured must begin
+and end.
+IF there be no agreement between the Parties concerned, (for if there be, that
+must be observed) Reason and Custom are the Surveyor's Guide.
+
+The Farmer speaks loudly, that when a piece of Arable or Meadow-land is let
+for a year to be sown or mown, no more should be measured nor expected to be
+paid for, either to the Letter or Workmen, than the Plow or Sithe can go over.
+So also when a parcel of Land is let for Pasture by measure to a Farmer, it
+seems very reasonable, that all and only so much should be measured as is
+useful to that purpose.
+
+But Commons to be enclosed are usually measured (except it be otherwise
+agreed) to the uttermost bounds of every man's particular proportion, without
+any allowance for Ditch or Fence; every man being to make them upon his own of
+what breadth he pleases: Nor is this unreasonable, for it is as good for one as
+another, and the rate paid to the Lord is usually very little, sometimes
+nothing.
+
+It is also very usual in measuring betwixt Lord and Tenant, in case of Leases
+for Lives, and long terms of years, to extend the Lines to the utmost bounds of
+the Tenants claim, taking in the very Walls, Hedges, and Ditches: but this is
+accounted very hard, and often proves very unequal among the Tenants of a
+Lordship; some being forced to make much more waste of their Ground this way,
+than others that hold as much or more. But where the Custom obtains, the Survey
+or must observe it: For it is others work to appoint what must be measured, and
+his only to measure truly what is so appointed. A good Landlord may (and will
+be apt) to consider it in his Rates, and a bad one it is like will be tenaC^^us
+of a Custom to his own advantage.
+
+Lastly, In case of Sale by measure at a rate agreed upon per Acre (no
+Boundaries being specified in the Bargain) the Rule (as I had it from an old
+famous Surveyor many years ago) is to extend the Lines to the quick Wood-row,
+that is, as Reason prompts me to understand him, to the place where the
+quick-wood actually grows, or where according to custom it ought to be set.
+
+I confess these things are trivial, but yet more necessary to be known, than
+many artificial things much stood upon, for a young Artist, whom ignorance of
+these things may expose to considerable mistakes in practice.
+
+CHAP. XIII.
+Containing a description of the Plain-Table, the Protractor, and Lines of
+Chords.
+THough what has been already said, may competently suffice to instruct my
+young Artist in measuring a Close of Land, yet to advance him a degree higher
+in useful knowledge, I shall take occasion to describe unto him the
+Plain-Table, which with Mr. Wing I account the best of all fixed Instruments:
+This Instrument consists of several parts.
+
+1. The Table it self, which is a Parallellogram of Wood fourteen Inches and an
+half long, and eleven Inches broad, or thereabouts, and for necessity may be
+made by an ordinary Country-workman of one Board: but for neatness, convenience
+of carriage, and freedom from warping, it is usually made of three little
+Boards joined together side-ways, with a ledge at each end to hold them fast
+together, and upon the middle Board a Socket of Brass fixed with three Screws,
+and with a fourth to be fastened on the head of a three-legged Staff; of which
+anon.
+
+2. A Frame of Wood fixed to it, so as a sheet of Paper being laid on the
+Table, the Frame being forced down upon it, squeezes in all the edges, and
+makes it lie firm and even, so as a Plot may be very conveniently drawn upon
+it: this is usually made with Joints for more easy carriage, but a plain one
+may suffice. Upon one side of this Frame should be equal divisions, for drawing
+parallel Lines both longwise and cross-wise (as occasion may require) over your
+Paper, and on the other side the 360 degrees of a Circle projected from a
+Center of Brass conveniently placed in the Table.
+
+3. A Box with a Needle and Card, to be fixed with two Screws to the Table,
+very useful for placing the Instrument in the same Position upon every remove.
+
+4. A three-legged Staff to support it, the Head being made so as to fill the
+Socket of the Table, yet so as the Table may be easily turned round upon it,
+when it is not fixed by the Screw.
+
+5. An Index, which is a large Ruler of wood, (or rather brass) at the least
+sixteen Inches long, and two Inches broad, and so thick as to make it strong
+and firm, having a sloaped edge, (by which we draw the Lines) called usually
+the fiducial edge, and two sights of one height, (whereof the one has a slit
+above, and a thread below, and the other a thread above and a slit below) so
+set in the Ruler, as to be perfectly of the same distance from the fiducial
+edge. Upon this Index it is usual to have many Scales of equal parts, and there
+might be a Diagonal Scale if the Instrument-maker please, and Lines of Chords
+of sundry lengths: but if you have such a Scale as I before described; you need
+not to have them here.
+
+The Protractor is an Instrument so well known, and so easy to be made and
+procured, that I shall be very brief in the description of it. As it is usually
+made, it consists of two parts, a Scale and a Semicircle, but the Scale is no
+necessary part of it, but serving (if you be not otherwise provided) for other
+uses before mentioned in the case of Plain-Scales.
+
+But the Semicircle is more essential, and it may be made of Brass or other
+Metal of any convenient size, as four Inches (more or less) for the straight
+sid, this Semicircle being bounded as all others are by two Lines, the one
+right or strait, the other circular.
+
+The right Line is divided in the precise middle by a Point which is in the
+Center, upon which the Circular boundary is drawn, and two other Arches
+concentrial with it.
+
+The Center, when the Semicircle goes alone without the Scale, should be
+guarded with two little lips, on each side one, or a little loop, for more
+convenient turning of the Instrument about upon a Pin fixed in a Paper.
+
+The arched or circular edge is divided into 180 Degrees or equal Parts numbered
+by Tens upon the upper Concentrick Arch, from 0 to 180, and in the lower from
+180 to 360. So that by applying the straight edge of the Protractor twice to
+any Line, (keeping the Center right^ upon a Pin fixed in the Line) that is,
+with the Semicircle first above it, and then below it, or contrarily, you may
+draw a whole Circle by the guidance of the Arch, or set out any number of
+Degrees, as will appear more plainly hereafter.
+
+A Line of Chords is a Line divided into 90 unequal parts, whereof 60, and the
+Radius upon which the Circle was drawn, are equal, and the Divisions upon that
+Line are equal to the next Extent in a right line, of so many Degrees from the
+beginning of the Quadrant as answer thereunto.
+
+When lines of Chords are cut upon wood, it is both usual and necessary that
+there be two Studs of Brass, the one at the beginning, and the other at 60 Degrees.
+with little holes for the feet of the Compasses, when you take the extent of
+the Radius, to preserve the line from being wounded by the Compasses; and being
+thus fenced, it will for need do the work of a Protractor, but not altogether
+so commodiously.
+
+CHAP. XIV.
+How to take the true Plot of a Field by the Plain-Table, upon the Paper that
+covers it, at one or more Stations.
+THere are three ways or methods for doing this work, two more usual and
+ordinary, the third more unusual and extraordinary, though now pretty well
+known to most Surveyors, and in late Books published. The first performs the
+work by measuring every line from the Instrument to every Angle, and is a very
+sure substantial way where it can be done, as it ordinarily may in most Closes.
+
+The second does it by measuring only the Station or the Distances, and is very
+quick, but not so sure and exact as the other; yet if managed by a skilful
+Artist, that knows how to plant his Instrument, so as to avoid making acute
+Angles unnecessarily, it will come near enough the matter in many cases; as in
+measuring for Workmen, that take the Mowing or Reaping of Fields by the Acre,
+or when Tithes are let at a small value per Acre, as in poor barren Parishes
+they usually are.
+
+The third is the way of Circuition or Perambulation, the Instrument being often
+to be planted, and the Plot to be measured about, by which not only difficult
+Closes, but even the thickest Woods, yea Bogs, Meres, and Pools of Water, may
+be plotted, which by neither of the other methods can be performed.
+
+In all these Methods, two things are to be performed:
+
+1. At every Angle where there is no perspicuous Mark already, as a Tree, Bush,
+Style, etc. one must be placed, as a white Paper, or such like; or else some
+one must go from Angle to Angle, and remain there as your Mark to look at, till
+you bid him remove to another: only when Angles are very near you, this labor
+may be spared.
+
+2. When ever you have occasion to plant your Instrument more than once, (as it
+will often fall out in the first Method, and ever in in the two latter) you
+must be sure it stand just as it did the first time for situation, for which
+your Needle if well touched and hung, will be good direction, but is not
+thought sufficient without back sight and foresight, (by some practical
+Surveyors:) I shall therefore in due season show you that knack. Now for the
+first Method.
+
+I. When you go about to plot your parcel of Land, find such a place in it if
+possible, from whence you can see all the Angles, and in that place plant your
+Instrument covered with a sheet of Paper, and turning it about till the Needle
+playing at liberty, hang over the Flower-de-luce, (or any other notable place
+that you make choice of) screw it fast. Then choosing any convenient place in
+your Paper for a Center, and to represent your station (or place where you fix
+your Instrument) make a prick with the small point of your Compasses, to which
+prick applying the fiducial edge of the Index, (which is easily done if you
+keep the Point of the Compasses resting in it) direct the Index by the sight to
+all the Angles, and when through the slit or long sight, you see the opposite
+Thread cut the Mark in the Angle, draw a neat dry line along the fiducial edge
+to or from the Center: then measuring from the Instrument to every Angle, set
+the measure by a Scale and Compasses from the Center toward the Angle, upon
+the line that points at it, making a prick in the line where the Chains and
+Links (reckoned from the Center) do truly end: then shall Lines drawn by a
+straight Rule from prick to prick, give you the perfect plot upon your paper,
+which you may divide (as has been before showed) into Trapezla's and
+Triangles, and to find the true Content. To make which plain, mark this Example.
+
+etc. limit the true Figure of the Field according to the Scale I used, viz. of
+400 in an Inch.
+
+And now before I pass to further varieties, let my Reader take notice of these
+following things.
+
+1. From henceforth I shall forbear (for brevities sake) to take any notice of
+the measures of lines measured from the Instrument to the several Angles,
+having so often showed how to measure by a Scale.
+
+2. When I speak of measuring from or to the Instrument, I always mean from or
+to that part of ground that is perpendicularly under the head of the
+Instrument, where you are to draw your Plot, which will ever be enclosed with
+the three Legs of your Staff.
+
+3. That it is usually the quickest way to measure first from the Instrument to
+the first Angle, and then back from the second Angle to the Instrument, and so
+the rest in order, still one from the Instrument, and the other to it.
+
+4. It is no matter at all whether your Plain-Table be placed toward the
+middle of a Field, as was represented in this Figure, or at an Angle, as will
+appear anon.
+
+5. In all workings by this Instrument, you must have a care that the
+Instrument be not moved out of its due place, till you have finished the work
+of the present Station; for which purpose, cast your eye now and then upon your
+Needle, observing whether it continue to hang directly over the same point you
+set it at when you began your work, and to rectify your Instrument if you see
+cause. But because all Tables have not Needles, and where Needles are, they are
+not accounted over-trusty, make use of the following help.
+
+When you have planted your Instrument, and made a point or prick in your
+paper, representing your station, set the fiducial edge of your Index to it,
+and turning it softly about till you find one remarkable thing or other upon
+one side of the Close, and another on the opposite side as you look through the
+sights of your Index (which we call foresight and back-sight) draw a
+remarkable Line with Ink, or rather with a Black-lead Pen quite over your
+Paper, which in this Figure is represented by the black line KL: and then if
+you suspect that by any accidental jog, or other casuality, the Instrument is
+any thing removed, you may easily try and rectify it, by applying the fiducial
+edge to the same Line, and making use of fore-sights and back-sights again,
+upon the same Marks which you before observed upon the opposite sides of the
+Close.
+
+But if there be no convenient place for the placing of your Instrument, whence
+you may see all the Angles of the Field, more stations must be made use of thus:
+
+
+
+Then I remove the Instrument to the place of my second station, having set up
+a mark at A, and laying the fiducial edge to the Line OP, I turn about the
+Table upon the head of the Staff, till through the slit of the back-sight, I
+see the thread cutting the mark at A, and then screw it fast, so will my
+Needle, if a good one, hang directly over the same point that it did at the
+first station; but however that be, foresight and back-sight will do the
+business; for which purpose it is good to take back-marks as well as fore-marks
+at every station, as was taught in the Example of a single station, only taking
+notice that the back-mark when the Instrument is planted in an Angle, must
+needs be out of the Field; as suppose here at O. But to proceed.
+
+Having measured the distance between the first and second station, and finding
+it to be 7. 10, I set it upon the Line OP, from A to Q, where I make another
+point to represent the second station, and turning about my Index with the
+fiducial edge upon that point, and so looking through the sights at the Angles
+GHIK, I draw Lines toward them on my Paper, and having measured between every
+one of those four Angles, and the Instrument, I set those Measures as I did the
+other, with my Scale and Compasses, from Q toward every Angle upon his proper
+Line: and then having drawn the black bounding-lines from A to B, from B to C
+and so round about the Close, the Protraction is finished.
+
+But here to make this Figure yet more advantageous, let me (according to my
+usual method) add some Advertisements.
+
+1. Sometimes a Station is so taken, that you may measure toward two Angles at
+once, (as here from Q to G and H) in which case you are to set down the Chains
+and Links where the first Angle falls, but still be proceeding to the further
+Angle, causing the remainder of the Chains at the fore-end to advance beyond
+the former Angle, so going on with whole Chains so far as you can, to which the
+odd Links at the end are to be added.
+
+2. If at any of your Stations (as suppose A) you can see an Angle (for example
+E) to which you cannot measure in a direct Line without passing the boundaries
+of your parcel of Land given to be measured; you may notwithstanding take in
+that Angle by a strait measured Line, as I have done, provided it may be
+lawfully done without trespass, and conveniently without troublesome passing of
+Fences, otherwise it must be taken from another station.
+
+3. I here took one of my Stations at an Angle, and the other within the body
+of the Field, to show the variety of working taught by other Authors, and that
+it is no great matter where you make your Stations, so you can see the Angles:
+else it had been full as convenient to have taken my first Station also within
+the body of the Field, as suppose at R.
+
+4. Though this Figure represents to your eye only two Stations, A and Q,
+your fancy may multiply them at pleasure, for suppose the Angle H could not
+have been seen from A or Q, how easy had it been to have set up a Mark at S,
+and then to have removed the Instrument thither, observing the same directions
+that were given at the removal from A to Q.
+
+II. In the second Method the Instrument is to be planted twice, or oftener as
+occasion is, the Rules for removal of the Instrument foresight and back-sight,
+and measuring the distance of Stations, being the same as formerly was ^aught:
+but instead of measuring to and from ^very Angle, we only view each Angle
+through ^he Sights from two Stations, having applied ^he fiducial edge to the
+Points representing those Stations, and having drawn Lines with the point of
+the Compasses, or a protracting Needle, the Interfections represent the Angles,
+from which the boundary-lines may be drawn, so is the Field protracted: Which
+that my Reader may understand, let him note these three Figures.
+
+etc. and ^he Stations by a point in a small Circle numbered, 1, 2, or 1, 2, 3,
+according to their number and order.
+
+
+
+
+
+at three Stations or more, when two such places cannot be found whence to view
+al^ the Angles; which last having more of difficulty than the two former,
+(though indeed no^ very much) and the Explanation of that will sufficiently
+help to the understanding of them* I shall a little explicate the meaning of it
+in these particulars.
+
+1. From the first Station taken acording to former directions, I see the
+Angles ABCD FGK, and acordingly draw Lines upon my Paper toward them from the
+point representing that Station, by the fiducial edge of my Inde^ with the
+point of my Compasses.
+
+2. Having removed my Instrument to the second Station, (and in so doing,
+observed the Rules before given, touching such removals) I thence see the
+Angles ABDEFGHIK* and draw Lines upon my Paper toward them from the point
+representing the second Station. And now viewing my Work, I find upon my Paper
+Interfections for the Angles ABDF GK, but only single Lines toward the Angles
+CEHI: therefore.
+
+3. Removing the Instrument regularly as before, to a third Station, I thence
+see those four Angles CEHI, and drawing Lines toward them, I have
+interfections for them also; so that having drawn the Lines AB, BC, etc. from
+one Interfection to another,
+I have the Field perfectly protracted. For these bounding-lines from Angle to
+Angle, do not only signify the Boundaries of a piece of Land given to be
+measured, limiting the Figure or shape thereof, (and are to that purpose given
+in this and all other Survey-books) but also are the true distance by a Scale
+from Angle to Angle for the Plot upon the Paper: I mean by the same Scale by
+which the stationary distances were laid down upon their own lines. And this
+holds true in all kind of true plotting, whether in this Method or any other.
+
+III. The third Method is that of Circuition, and this has several varieties,
+according to these three following Cases.
+
+1. When the distance from Angle to Angle, (without any exception) is measured
+quite round the Plot, either within or without.
+
+2. When the distance is taken only between some more notable Angles, and the
+Perpendiculars of the rest measured as you pass along their Bases, within the
+Plot, proper for plain solid ground.
+
+3. When the like is done without the Plot, as in the case of Plotting thick
+Woods, Meres, Pools, Bogs, etc.
+
+The first of these is very easy, consisting in nothing but planting the
+Instrument at every Angle (either within or without, as necessity and
+convenience determine it*) observing the former directions for planting and
+removing the instrument; and also for measuring the stationary-lines on the
+ground, and protracting them on the paper, as is manifest in this Example.
+
+B, drawing a dry Line from a convenient Poin^ on my Paper toward B on the
+ground, and having measured by my Chain the distance AB I set it by a Scale
+upon the Correspondent Line from A to B, drawing a black-line between them with
+Ink or a Lead-pen, the Extremities whereof are the Points A and B on my Paper,
+and the little pricked Line that goes beyond B, represents the remainder of the
+dry Line drawn at random (as to length) with the point of the Compasses.
+
+Then setting up a Mark at A (if there was none before) I remove the Instrument
+to B, and laying the fiducial edge to the Line AB, I turn about the Instrument
+upon the Saff, till through the sight I perceive the thread cutting the Mark at
+A, and my Needle (if I have one) directly over the same point, that it was when
+it was planted at A, and so screw it fast.
+
+My next work is to lay the fiducial edge to the point B, and direct the sights
+to C, drawing a dry Line toward it, and setting the distance BC measured by
+the Chain from B to C.
+
+In this manner I proceed, surrounding the Close till I come at last to A,
+where I began, by planting the Instrument at every Angle, using the help of
+Back-sight and my Needle, as I did at B, and then from the point representing
+my present station, directing the sight to the next Angle, as I did from B to C.
+
+In the second Case, we do not plant the Instrument at every Angle, but at the
+more considerable, taking in the smaller by their Perpendiculars from the Base
+as we pass along, of which this following Figure may be an Instance.
+
+Tenth Chapter; for thereby finding at how many Chains and Links distance from
+A upon the ground, the Perpendicular B b falls upon the Line AC; and having
+measured the length of that Perpendicular, and taken it between my
+Compass-points off my Scale, I erect a Perpendicular of that length at b, which
+is the point upon the Paper, where so many Chains and Links determine, as were
+measured upon the Ground, from the Angles A, to the place where the
+Perpendicular fell on Ac, viz. at b. Just in the same manner I raise the other
+Perpendiculars, Dd, Gg, Ii, and Ll: and then by the help of the Perpendiculars,
+I draw (from and to the proper Angles) the Boundary-lines AB, BC, CD, DE, FG,
+GH, HI, IK, K L, LA; which together with the Line OF between the Angles E and
+F, give the true Plot of the Field in one large Trapezium, and five small
+Triangles ready for casting up.
+
+The third case is so like the second, that there needs no new Direction
+concerning it, but to annex one plain Diagram; all the difference consisting in
+this, that because we cannot go within it, (being supposed to be some Pool,
+Bog, or Thicket) we must of necessity go on the outside, and consequently all
+the Triangles made by inward Angles, and their Lines upon the measured Bases,
+must be excluded by the boundary-lines from being any parts of the Plot, as
+here is manifest.
+
+viz. at AEFH and M, and upon the dry Lines AE, FH, HM, and MA, I raise their
+Perpendiculars in due places, (according to measure) and also of a right
+height: by which and my five stationary Angles, I draw the bounding-lines of
+the Plot, excluding all the Triangles as foreign to it, they being no
+resemblances of any part of the Pool, but of Land adjacent.
+
+Where note, 1. That both in this and the former Case, such a little Square as
+I mentioned in the Second Chapter, will be very useful for speedy raising of
+Perdendiculars; but where the Triangles are very small, it needs not be used,
+not the other mentioned Chap. 10.
+
+2. That if by reason of troublesome Brushwood, Gorse, or Bogs, etc. I could not
+have measured close to the sides OF, HI, or LM, it would be the same thing if I
+went parallel to them. And this is a shift that the practical Surveyor will often
+be put to make use of, in other cases as well as this.
+
+CHAP. XV.
+Concerning the Plotting of many Closes together, whether the Ground be even or
+uneven.
+THough I design not so high in this Manual as to make my Reader able to Survey
+Lordships and Forests, much less to draw Maps of Countries, but to measure a
+parcel of Land with truth and judgment; yet I would have him so expert, as not
+to be puzzled, if any should desire him to draw (as it were) a true Map of a
+Tenement or small Demesne, consisting of several Closes; for which purpose, let
+him that knows no better observe this Method.
+
+(cum scle) to M again: And then for the third Close I plant my Table at C and
+go round to B, (the Line BC being protracted already) and so of all the rest,
+still observing which are common Lines belonging to several Closes
+(representing the Fences) that I may avoid the trouble of measuring those Lines
+oftener than once, and lay ever^ part of ev^^y Close in its due place; and that
+I be su^^ to keep the Instrument throughout the whole Work to its true Position
+by Needle, foresight and back-sight.
+
+There are I confess diverse other ways of doing this Work, but none more sure
+or plain, especially if the ground be uneven; for in that case, if you protract
+according to the length of Lines measured from your Station to the Angles, you
+will put your Closes into unproportionable shapes, except you reduce
+Hypothenusal Lines to Horizontal, by instruments or otherwise (which is
+somewhat troublesome:) and the like may be said when you Plot with the Chain
+only. Indeed the Method of measuring only the stationary distances were very
+proper for setting out the Figure of each particular Close, provided the
+distance of the stations be large, and taken (if possible) upon pretty even
+ground, (which sometimes may be done, though most of the Close be uneven) and
+the Work so ordered, as not to make too acute Angles: but because this
+requires skill and care, I rather advise my young Artist to use the circling
+way, as ordinarily most commodious in my poor judgment, (but not prejudicing
+other men's that may differ from me in opinion) and where need requires let him
+observe the directions in the 17 Chapter.
+
+But which way soever you go to work,
+there is one very necessary Rule to be observed. If the Ground be uneven
+considerably, you must not give up the Content by measuring the Bases and
+Perpendiculars of the Triangles on the Paper by your Scale; but you must
+measure the Lines correspondent to them on the Ground, and cast up the Content
+according to that measure. And if it be desired that you should adjoyn to your
+Plot (as is usual) a Scale of Chains to measure distances by; you must either
+by making the Forms of Hills erect and reverse, or some other Note in writing,
+mark out your uneven Ground, lest those that try it by the Scale, judge your
+work erroneous: for though you make that Scale exactly correspondent to that
+you protracted by (as you ought to do) the Hills and Dales in the ground truly
+measured, may make a considerable alteration.
+
+It is convenient when you plant your Table that the Needle hang just over the
+North-point of the Compass under it in the Box; then may you by the Lines
+overthwart the Frame of the Table, easily draw two Lines quite through the
+Plot, cutting one another at right Angles, the one pointing at North and South,
+and the other at East and West. And if your skill serve you to make the Two and
+thirty Points of the Compass upon the place where they intersect, and to draw
+the Forms of the Houses, Woods, and other remarkable things upon the Demesne,
+and the course of Brooks and Rivers running through it, it will add to your
+commendation.
+
+And so it will also, if you take in such parcels of Land bounding it, whether
+common or peculiar to other men, as will make your Plot to look handsomely, like
+a perfect Square or Oblong. But however that be, you must be sure to protract
+truly all Lanes going into it, or through it, and all Closes of other men's
+mixed with it; and also all considerable Ponds, Ways and Outlets, with the
+Names of the Closes and quality of the Ground, whether Meadow, Pasture, Arable,
+etc.
+
+CHAP. XVI.
+Concerning shifting of Paper.
+IN such work as that of the last Chapter, it may sometimes fall out (through
+the multitude and largeness of Fields) that one sheet will not hold your whole
+Plot, in which case you may help your self by shifting Paper (as we call it)
+thus.
+
+with the Point of my Compasses striking the Line PO, parallel to the edge of
+the Paper BC, and the Line QO parallel to DC, and cutting PO in O, I throw
+aside that paper for a while, covering the Instrument with a new one, which I
+mark with the figure (2) for my second sheet.
+
+viz. the Line OR, being of the same distance from BC, that QO in the former
+sheet was from DC. Then with a Rule and a sharp Penknife I cut off the end of
+the first sheet at the Line PO, and applying the edge of it to the Line PO of
+the second sheet, so as it may touch that Line all along, and the Line QO of
+the former, touch the Line OR in the latter, so as to make one Line with it: I
+draw the Lines PG, being the Remainder of the Line FG, and the Line OH being
+the remainder of the Line IH, and from their extremities the Line GH. And if
+the Plot required it, you might proceed on in the second sheet, and annex a
+third and a fourth, etc. as there is occasion.
+
+These sheets may be pieced together with Mouth-Glew or fine Paste, applying
+the edge of the former (as you did upon the Table) to the Line PO of the latter.
+
+And note here once for all, that when I speak of applying the edge of the
+paper to a Line, I mean the precise edge cut by the Line PO; but when I speak
+of drawing Lines to the edge of the Paper upon the Table, I hope none will
+think me so absurd as to mean the edge that is couched under the Frame, but
+that my meaning is, that the Lines must be continued on the paper till they
+touch the Frame.
+
+CHAP. XVII.
+Concerning the Plotting of a Town-Field, where the several Lands, Butts, or
+Doles, are very crooked: With a Note concerning Hypothenusal, or sloaping
+Boundaries, common to this and the Fift^enth Chapter.
+you on a Table, with the side AE toward you; the Compasses must be so opened
+and placed (as by a few trials they may) that one foot resting upon the Table,
+the other may pass through the Points of Division upon all the three Lines,
+viz. AB, OC, and ED, as in this Figure they do.
+
+If the Content of any one or more of these Parts, Butts or Doles, be desired
+without Plotting; it may easily be done without your Plain-Table thus: Take the
+breadth by your Chain at the head, middle, and lower end, and adding these
+Numbers together, the third part of their Sum is the equated breadth: by which
+multiplying the length measured down the ridge (or middle) the Product gives
+the Content.
+
+But both in this case, and that mentioned in the 15th Chapter, the Figure of a
+Plot may be somewhat disordered, not only by the unevenness of the ground
+within, for which I have given due caution already (that being both the more
+common and more considerable case) but also by the great diclivity of the
+Ground where the boundary-lines go, either of the whole Plot or particular
+parcels. For whereas in Plotting, every Line is presumed to be Horizontal (or
+level) that it may pass from Angle to Angle the shortest way, and that every
+part may be duly situated, and none thrust another out of its right place: If
+it be not level, but falling down toward a Valley, or rising up Hill, or
+compounded of both; a Line over such Ground (though true for the measure, and
+for giving up the Content) will be false as to the Plot, and therefore must be
+reduced to a level, and so taken off the Scale and protracted. For the doing of
+this there are several Instruments very proper, especially Mr. Rathbourne's
+Quadrant upon the head of his Peractor (though it were better to have a
+Semicircle than a Quadrant so placed) and diverse others. But supposing my
+Country friend to have no other but such as I have already described; I shall
+show him a plain easy way much used by practical Surveyors, especially in
+Ireland, as some of themselves have told me, being the very same that he may
+meet with in Mr. Leybourn's Book, Entitled, The Complete Surveyor; I mean the
+second way by him discovered.
+
+viz. the point B. And now as the pricked Lines of this Figure put together,
+and evidently equal to the Line AC: So are the Links noted down at every
+Station, when summed up, equal to the Horizontal Line of that part of the Hill.
+
+In the very same manner, only inverting the Order, you may find the Horizontal
+Line going down-hill, where that is most convenient: And if there be both
+Ascents and Descents in one Line betwixt two Angles, the Horizontal Lines of
+both must be found and joined together in Protraction.
+
+All this concerning Declivities of rising or falling Ground, is to be
+understood when they are considerable, and a very exact plot required: for
+small ones, especially when much exactness is not expected, are not regardable.
+
+CHAP. XVIII.
+Concerning Plotting a piece of Ground by the Degrees upon the Frame of the
+Plain-Table several ways, and Protracting the same.
+HItherto I have showed the use of the Plain-Table as such, and I think my
+Directions have been near as plain as the Instrument it self: At which some
+quarrel for its over-plainness, exposing the Art to proud ignorant people, who
+judging the rest of the Surveyors work to be as easy as looking through sights
+at a Mark, and drawing lines by a Rule, are apt to undertake to use it, or
+slight the skill of such as do. Others say, (and that truly) that for vast
+things, such as Forests, Chases, etc. the Circumferentor is more proper: And
+every one must grant, that in wet Weather, either that a Peractor, a
+Theodolite, or Semicircle, must needs be better than the Plain-Table covered
+with the paper which cannot endure wet. Hence it is that some Artists have to
+good purpose showed how the Box screwed to the Index, and that made to turn on
+the head of the three-legged Staff become a Circumferentor. And if these thus
+fixed be turned about upon the Center of the Table; they will (say some with
+good reason, Mr. Leybourn for one) perform the work of the Peractor, much
+better than the Peractor it self. Others show, (as I shall briefly) that taking
+the Instrument as it is without the charge of further fitting it, or trouble of
+removing the Box, the Index turned upon the Center will by help of the Degrees
+on the Frame, perform the work of the Theodolite, to which the Semicircle is
+near of kin.
+
+And though I might easily answer all these Objections, by saying the first is
+frivolous; such foolish Arrogance being easily contemned or checked (if worth
+the while) by putting such conceited Fools upon the harder part of the work.
+The second impertinent to our purpose, who design not to plot such vast parcels
+of Land: And the third concerning only an extraordinary case, and that well
+provided for otherways, for sure no man that has not a Body of the same Metal
+with his Instruments, will ordinarily measure Land in continual Rain, (a sudden
+shower may be fenced against by a cover:) and if any be so eager upon his work,
+I have showed ^how it may be done in the former Chapters of this Book, without
+planting any Instrument at all, by Chain, Scale, and Compasses alone: Yet I
+shall show how the plot of a Field may be ta^en by the Degrees on the Frame not
+every way that I could imagine, nor that I could transcribe, (for that would be
+tedious) but two ways only, whereof the one is proper for an ordinary Close,
+where all the Angles may be seen from (...) Station within it, the other
+fitting any par^^l of Land though much larger, whatever be the Figure of it.
+
+For the former take this Example
+
+The like work I do, turning the Sights to CD and D, (but not to F, for there
+is no Angle, but only a Mark in the Boundary) and I find mine Index to cut for
+every Angle as I have marked them within the pricked Circle of the last Figure,
+viz. 157 Degrees. 35 Min. for C, 225 Degrees. 20 Min. for D, and 278 Degrees. and 50 Min.
+for E.
+
+Then I measure (or cause to be strictly measured by others) the Distances
+betwixt the Place where the Instrument stands, and every Angle, and find them
+to be as I have set them upon the pricked lines in the little Circle, viz. A4
+Chains ^0 Links, B4 Chains 3 Links, C3 Chapter 84 Li. D5 Chapter 35 Li. E5 Cha. 6 L.
+And now my Table both for Lines and Angles is thus perfected, and the Work is
+ready for Protraction within Doors. D. M. C. L A 360 00 4 20 B 76 15 4 03 C 157
+35 3 84 D 225 20 5 35 E 278 50 6 06
+
+Your judgment will easily inform you, that in such weather we shall hardly
+stand to make our Table neat and formal, but any thing (how rude soever) that
+we can understand, does the feat. A Welsh Slate with a sharp Style, (or for
+want thereof, a Black-lead Pen and a smooth end of an hard Board like a
+Trencher) is more convenient at such a season than Pen, Ink and Paper. But of
+all I would commend for expedition a Red-lead Pen,
+whereby you may mark out every Angle neatly with one touch upon the Table it
+self, just where it touches the Frame, by help of the fiducial edge, and close
+by it the length of the Line from the Center to that Angle: All which may be
+easily cleared off by a wet Sponge or Cloth so soon as you have protracted. Or
+if through the sponginess of the wood, the head of the Table (which we use to
+cover with paper) were made a little reddish, what great harm were that? We are
+forced to do it more real wrong by the points of the Compasses in the ordinary
+way.
+
+Now to protract our Observations: I draw upon a paper the Line AF at
+adventures, so it be long enough, and stick a Pin in it at pleasure for the
+Center O, upon which I place the Center of the Protractor, so as the straight
+side (or Diameter) of the Protractor may just lie upon the Line AF, the Limb or
+Arched-side being upwards toward B, by help whereof I make a prick or point on
+the paper at 76 Degrees. 15 Min. for B, and at 157 Degrees. 35 Min. for C, according to
+the numbers nearest to the Limb.
+
+Then turning the Protractor about on the Pin with the Arch or Limb down
+toward D and E, till the Diameter lie again just upon the Line AF, I number
+downwards from the right hand toward the left, by that rank of Figures that
+are nearer to the Center, beginning 190, 200, etc. and over against the places
+where 225 Degrees. 20 Min. and 278 Degrees. 50 Min. fall, I prick the Paper at the side
+of the Limb, and through those four points I draw so many several Lines,
+(having laid aside the Protractor) upon which and also upon the Line AO, I mark
+out by Points the true measure of every Line (by a Scale) from the Center, and
+from those points drawing the Lines AB, BC, CD, DE, and EA, I have the true
+Plot of the Field.
+
+Where note by the way, that we estimate Minutes as well as we can both upon
+the Frame of the Plain-Table, and the Protractor, accounting half a Degree, 30
+Minutes; a third part, ^0; a fourth part, 15, etc. And though by this means it
+is impossible to avoid small errors, it is easy to avoid sensible ones; and
+the like may be said when we protract by a Line of Chords, of which I now come
+to treat.
+
+Having proceeded in the Field as before, and made my Table for Lines and
+Angles, or done that which is equivolent by a Red-lead Pen, I draw the Line AF,
+and having extended my Compasses to the Radius (or 60 Degrees) on a Line of
+Chords, I set one Foot toward the middle of the Line AF, and with the other I
+describe a Circle like that in this Figure of a five-angled Field, but much
+larger, according to the length of the Radius: Then extending the Compasses
+from the beginning of the Line to 76 Degrees. 15 Min. I set one foot in the
+Intersection of the Circle by the Line A, and with the other foot make a mark
+in the Circumference of the Circle upwards toward the righthand, and through
+it draw the dry Line BO.
+
+In the next place I substract the angle 76. 15 from 157. 35, where the Index
+cut for the Angle C, and there rests 81 Degrees. 20 Min. which I take off the
+Line as before, and set it upon the Circumference from the Intersection by BO,
+toward the end of the Diameter marked with F, and through the Point were it
+falls, draw the dry line CO.
+
+In like manner I subtract 157 Degrees. 35 Min. from 225 Degrees. 20 Min. and the
+difference is 67 Degrees. 45 Min. which I set from the Intersection by the Line CO
+downwards past the prime Diameter AF, and through the point where it falls,
+draw the Line DO.
+
+Lastly, Having subtracted 225 Degrees. 20 Min. from 278 Degrees. 50 Min. there rests
+53 Degrees. 30 Min. which must be set downward toward the left hand from the
+Intersection by DO, and through the point where that falls, I draw the Line
+EO. And now when I have set the particular Measures upon every Line, and drawn
+the Boundary lines, as I must have done if I had used a Protractor, the Plot is
+finished.
+
+But for better assurance that I have done my Work well, I take the measure of
+the remaining Angle AOE upon its proper Arch, viz. from the Intersection of the
+Circumference by AF, to the Intersection by EO, and applying it to the Line of
+Chords, I find it to be 81 Degrees. 10 Min as it ought to be, for it should be the
+Complement of 276 Degrees. 50 Min. to 360, and so it is,
+
+And for further satisfaction, I sum up the Degrees and Minutes of all the five
+Angles, which for plainness sake I have noted in every one of them on the
+outside of the Circle in the Figure so often referred to, and their sum is 360,
+as it ought to be, and as here is evident.
+
+76. 1^ 81. 20 67. 4^ 53. 3^ 81. 1^ 360. 00
+My Reader may now perhaps expect that I teach him how to take a Plot at two or
+more Stations, when all the Angles cannot be seen from one: But because this is
+so easy from the grounds already laid, to any that is Ingenious, and in part
+rend^red unnecessary by the Method presently following, I shall content my self
+to give this general hint.
+
+When you have from one Station taken in all the Angles you can see from
+thence, and then are to remove to your second Station, do just as you would do
+if the Table were covered with a Paper; only it is at your choice, whether you
+would guide your self for back-sight by a Line that may be rubbed off, drawn
+upon the Table it self from the Center to the Degrees on the Frame along the
+fiducial edge, or by noting only what Degrees it cuts on either side of the
+Center, the edge passing through it, that by the help thereof and the Needle,
+the Instrument may be placed in the same Line and Situation as before, for
+taking in the rest of the Angles, if it can be, if not, another Station must be
+taken after the same manner. But now to my second Method;
+
+cum sole, beginning at A, who return me such an account of every side, in
+Chains, and Links, as I have noted them upon the Figure and in the Table
+following, viz. AB 3 Chains, 73 Links, BC 4 Chains, 91 Links, etc. In the mean
+season, I make haste to find the Angles, and without curiosity plant the
+Instrument at B, and laying the Index on the Center, I look at C, and find the
+Index cutting 10 Degrees. 15 Min. and looking at A, it cuts 126 Degrees. 45 Min. out of
+which if I subtract 10 Degrees. 15. Min. there rests 116 Degrees 30 Min. for the
+Angle A: but because I like not my Quarters so well as to subtract there, I set
+them down thus;
+
+B A 126. 45 C 10. 15.
+the meaning whereof is, that B notes the Angle, and CA the Lines meeting
+there, cutting such Degrees on the Frame, and the reason why I set A above, is
+for more ready subtracting afterward: then removing to the Angle C, and thence
+looking at B and D, I find the Index to cut as here expressed,
+
+C B 153. 10 C 15. 40.
+
+
+In like manner I find at D thus,
+
+D C 96. 05 E 28. 50
+At E thus,
+
+E D 141. 20 A 11. 45.
+
+
+And lastly, at A I find them thus,
+
+A E 98. 30 B. 9. 20
+An. D. M Sides. Chapter L. A 89 10 A B 3 73 B 116 30 B C 4 91 C 137 30 C D 1 88 D
+67 15 D E 6 64 E 129 35 E A 2 29 This being done, I have under Covert, and by
+Subtraction find 116 Degrees. 30 M. for the Angle B. 137 Degrees. 30 M. for C. 67 Degrees.
+15 Min. for D. 129 Degrees. 35 Min. for E. and 89. Degrees. 10 Min. for A, as you find
+them on the Figure, and in this Table together with the length of the Lines.
+
+Note, that there is a way to find the Angles without Subtraction, if at every
+Station you lay the fiducial edge over the Center, and the Divisions 180 and
+360, turning about the head of the Instrument upon the Staff, till through the
+Sights you see one of the Neighboring Angles, for the Index turned upon the
+Center to the other Angle, will give you the quantity of the Angle you are at,
+but this exact planting at every Angle is more tedious than the other, and
+therefore not so fit for wet weather. But now to protract this Plot:
+
+First, by my Scale, Rule, and Compass, I draw the Line AB in length 3 Chains,
+73 Links, ending at the pont B: then laying the Center of my Protractor upon
+the Line AB, so as the Center of it be upon the Point A, and that end of the
+Diameter from which the Numbers are reckoned on the Arch or Limb toward B, I
+make a point for the Angle A at 89 Degrees. 10 Min. by the guidance whereof and the
+point A, I draw the Line AE, which according to my Scale, must be 2 Chains, 29
+Links.
+
+In like manner placing the Diameter upon AE, just as it was upon AB, and the
+Center upon the point E, I mark out by the Limb (for the Angle E) 129 Degrees. 20
+Min. by which I draw the Line ED, 6 Chains, 64 Links.
+
+In the next place, I bring the Center of the Protractor to the point D its
+Diameter, lying on the Line ED, and its Limb toward A, by which I prick out 67
+Degrees. 15 Min. for the Angle at D and draw the Line 1 Chain, 88 Links.
+
+Lastly, the Center being at C, and the Diameter upon the Line DC, in such
+manner as before at other Angles, I prick out by the Limb or Arch 137 Degrees. 30
+Min. and draw the Line CB, for at B my Plot should close, and if rightly done,
+the Angle at B will be 116 Degrees. 30 Min. and the side BC 4 Chains 91 Links,
+which by measure I find so to be.
+
+But if I plot by a Line of Chords, I am not bound to this Order, but may go
+from A to B, and so round that way if I please, which I could not so well do
+with a Protractor, without reckoning my Numbers backward, yet it must be
+granted that a Line of Chords neither does the work so quickly nor
+conveniently, for this is the way.
+
+When I have drawn the Line AB of a right length, I set the Compasses to the
+Radius, and placing one Foot of the Compasses in the point B, and with the
+other describe an Arch of a competent length, beginning at that side of the
+Line AB, that is designed to be the inward-side, and upon this Arch, 116 Degrees.
+30 Min. must be set, but because my Line of Chords gives me only 90, I set them
+first on from the Line AB, and then take off the remainder 26 Degrees. 30 Min. I
+join them to the 90 upon the Arch, making a Point, through which the Line B
+must be drawn of a due length. In the like manner must I do at CE, but the
+Angles at A and D need no such piecing, being capable of being measured out by
+a Line of Chords at once.
+
+Nor do your Angles only give you trouble in this kind of work, but oft-times
+your Lines will be found too short to receive the touch of an Arch upon the
+Radius, especially if the Line of Chords be large and your Scale little, and so
+it may often fall out when you use the Protractor upon such short lines as AE
+and CD of this last Figure: In which case a Rule must be applied to them, and
+they must be extended to a due length that the Arches may meet them without the
+Figure. And if those Extensions of lines and describing of Arches spoil the
+beauty of your Plot, the matter is not weighty, it is so easy to be retrieved,
+for if you lay it on a clean paper and prick through every Angle, lines drawn
+between those points will give you the Plot neat and perfect.
+
+One thing more before I close this long Chapter; the Artist sometimes loses
+his labor of Protraction through some error in the Field, so as his Plot will
+not close: it is therefore good to know before we begin that work, whether it
+will or no; for which purpose if we take a Number less by two than the number
+of Angles in the Plot, and thereby-multiply 180, that Product being found to be
+equal to all the Angles, the Plot will close, and so it appears by our Plot in
+this present work: the Multiplier being 3, because the Angles are 5, and the
+Multiplier must be two less than the number of Angles.
+
+180 3 540
+Degrees. Min. 89. 10 116. 30 137. 30 67. 15 129. 35 540
+
+This kind of trial is grounded upon two principles of Euclid and Ramus
+mentioned in the first and third Chapters of this Book, showing that in all
+plain Triangles, all the Angles taken together, are equal to two right Angles,
+and that the sides (consequently the Angle also) of every triangulate Figure,
+are more by two than the Triangles of which it consists: But I think it not
+proper to be large in such things whereof my young Artist is like to make but
+little use; for when all is done, I confess with Mr. Wing in his Art of
+Surveying, Lib. 6. Chap. 15, that this way of Plotting by the Degrees, is far
+more troublesome, tedious, and liable to error, than the other ways upon a
+sheet of paper, and therefore not ordinarily to be used, but when necessity
+compels us.
+
+CHAP. XIX.
+Concerning taking inaccessible Distances by the Plain-Table, and accessible
+Altitudes by the Protractor.
+
+
+To satisfy his demand, I plant my Table covered with a paper at A, causing
+one to set me up a mark at B at a good distance from me, along the Bank of the
+River (the further the better, if distance do not hinder sight:) Then having
+chosen a point to represent A, and laid the fiducial edge upon it, I direct my
+sights toward C and B, and strike lines toward them. Which done, I set up a
+mark at A, and from thence measure to B, (6 Chains, 32 Links) and so plant my
+Instrument at B, laying the fiducial edge to the line AB, and turning about the
+head of the Instrument upon the Staff, till through the sights I spy the Mark
+at A, and then screw it fast.
+
+In the last place, I take 6 Chains 32 Links off my Scale, and set it on the
+Line AB, from A to B, and laying the fiducial edge to the point B, from thence
+direct the sights to C, and draw the Line BC, meeting or cutting the Line AC in
+C: So shall the space AC measured on the Scale (viz. 8 Chains, 29 Links be the
+distance desired: and because the Chain is 22 Yards long, if I multiply 8. 29
+by 22, the Product is 182 Yards and 38/100 of a Yard, which by reduction is
+some little more than 13 Inches and 3/5 of an Inch.
+
+Now to take the height of a Tree, Tower, or Steeple by a Protractor, without
+any Arithmetical operation, hang a Plumet with a fine Silk Thread at the Center
+of it, and hold it steadfastly with that end to your Eye where the Numbers
+begin, then look straight along the Diameter, as if you were to shoot in a
+Crossbow without a Sight (still removing backward and forward as there is
+occasion) till you see the top of the Tree, Tower, or Steeple, and the Thread
+at the same time fall upon 45 degrees; 10 shall the distance from your Eye to
+the Tree, Tower, or Steeple, measured in an horizontal or level Line, together
+with the height of your Eye above the bottom of it, be equal to the height
+thereof.
+
+If either for convenience of sight, or any other reason, you think good to set
+the other end of the Diameter to your eye, then the Thread for the trial
+aforesaid, must fall upon 135 Degrees* instead of 45. Other ways of doing this work
+by this Instrument (or a Quadrant) with the help of Trigonometry, and by other
+Instruments, I forbear at present (till I write a second Part) considering
+whose benefit is here intended.
+
+CHAP. XX.
+Of casting up the Content of Land by a Table.
+TO make up the number of my Chapters to an even score, I shall add one at the
+desire of my worthy Friend Mr. S. L. before mentioned (to whose Experience and
+Communicative^ess I acknowledge my self indebted for the notion of measuring
+crooked Lands or Doles at the middle and both ends, marking every where how the
+Divisions fall, as is mentioned in the beginning of Chapter 17.) concerning the
+use of a Table borrowed out of the 46th Chapter of Mr. Leybourns Complete
+Surveyor, second Edition, Page 271, which with the use take as follows.
+
+Links R. P. 1 00000 4 00 90000 3 24 80000 3 08 70000 2 32 60000 2 16 50000 2
+00 40000 1 24 30000 1 08 20000 0 32 10000 0 16 8750 0 14 8125 0 13 7500 0 12
+6875 0 11 6250 0 10 5625 0 09 5000 0 08 4375 0 07 3750 0 06 3125 0 05 2500 0 04
+1875 0 03 1250 0 02 625 0 01
+
+This Table consists of three Columns, the first containing Links, the second
+Roods (or Quarters of Acres) the third Perches: and the use of it is thus:
+
+7. 25 5. 50 36250 3625 3625 3. 98750
+Suppose a Field to be 7 Chains and 25 Links long, and 5 Chains 50 Links broad,
+these by multiplication make 398750 (as here is evident) whereof five Figures
+being cut off toward the right hand, the Figure 3 signifies Acres, and the
+rest, viz. 98750 denote parts, and to reduce them into Roods and A R P 3 3 24
+14 3 3 38 Perches, I first subtract from 98750 the greatest number of Links in
+my Table that can be subtracted from it, viz. 90000 (and put down for it 3
+Roods, 24 Perches which I find over against it in the annexed Columns) and the
+remain being 8750, I look in the Table, and find over against it 14 Perches,
+which by addition makes 3 Roods 38 Perches: So is the whole Content of the
+Field 3 Acres, 3 Roods, 38 Perches.
+
+But not here, that if the Remainder after the first Subtraction cannot be
+found in the Table, you may take the nearest to it, so the error will be but
+part of a Perch.
+
+As for Example:
+
+7. 35, being the half Perpendicular, and 9. 23, the Base, give for their
+Product 6.78405. The 6 signifies Acres and from the rest 70000 being subducted,
+(to which 2 Rood, 32 Perches answer) there rests 8405, which because I cannot
+find in my Table, I take the nearest, which is 8125, to which 13 Perches
+answer: So the whole Content of that Triangular Close is 6 Acres, 3 Roods and 5
+square Perches, and a little better, A R P 6 2 32 13 6 3 05
+
+But Manum de Tabula --
+
+I am at present taking leave of my Countryman, and supposing he brought with
+him any competent stock of Natural Capacity, and so much Arithm^tick as enabled
+him to add, Subtract, Multiply, and Divide; I dare make him judge, after he
+has as faithfully labored to understand me, as I to be understood; whether I
+have not performed what I undertook in my Title or elsewhere.
+
+FINIS.
+ADVERTISEMENT.
+The Author hereof uses in Winter and Spring Seasons to board young Gentlemen
+and others at his Habitation near Dun^am in Cheshire, and to instruct them in
+these parts of the Mathematics, viz.
+
+Arithmetic. Vulgar concerning Whole Numbers. Fractions Balancing Accounts.
+Artificial by Decimals Logarithms Instruments Symbols or Algebra.
+
+
+
+Geometry and therein The Doctrine of plain Triangles. Measuring Superficials,
+and particularly Land, by all usual Instruments. Measuring of Solid Bodies.
+Gauging of Casks.
+
+
+The Doctrine and use of Globes and Spherical Triangle^.
+
+The Principles of Astronomy and Navigation.
+
+The Art of Dialling, by Logarithms, Scales, and Geometrical Projection, etc.
+
+Vivat Rex.
+
+Floreat Regnum.
+
+AN APPENDIX CONTAINIMG XII. PROBLEMS TOUCHING Compound Interest and Annuities.
+BEING Part of a Letter sent by the Author to his worthy Friend Mr. John Collins
+Fellow of the Royal Society. Together with A quick and easy Method to contract
+the Works of Fellowship and Alligation alternate.
+
+LONDON Printed in the Year. 1692.
+
+XII. PROBLEMS
+Touching Compound Interest and Annuities, expressed in Symbols, to be resolved
+by Logarithms; first presented in Twelve short Lines, to the Right Honorable
+the Lord Delamer; afterward Explained by the Inventor Adam Martindale, and by
+his Consent presented to the Royal Society by Mr. Collins, and now applied to
+pertinent Questions in a Practical way, to make them more plain and useful.
+THese Problems are distinguished into three Ranks, whose Symbols are thus to
+be understood.
+
+p Principal, r Rate, viz. 1 l. with its Rate, t Time,
+common to all the three Ranks. a Amount or aggregate, proper to the first Rank.
+s Sum of Principal and Arrearages, proper to the second Rank. d Difference of
+Principal and Worth, proper to the third Rank.
+Their Capitals stand for the Logarithms (...) the Numbers signified by the
+small Symbolic^ Letters before mentioned.
+
+D. signifies Data, Q. Quaesita, Prob. Problem Res. Resolution.
+
+The first Rank, concerning Compound Interest for a single Sum of Money.
+
+1. Prob. D p, r, t. Q. a? Res. Rt + P = ^ 2. Prob. D. a, r, t. Q. p? Res. A -
+Rt = ^ 3. Prob. D. p, a, t. Q. r? Res. A - P / t = ^ 4. Prob. D. p, a, r. Q. t?
+Res. A - P / R = ^
+Examples relating to the Four Problems in order.
+
+Quest. 1. What will 15 l. 10 s. amount to i^ 12 yeaps at 6 per Cent. Compound
+Interest?
+
+Answ. 31 l. 3 s. 9 d. 1 q. as appears by the work.
+
+R viz. of 1.06 = 0.25306 t = 12 050612 025306 Rt = 0.303672 P 15.5 = 1.190332
+A 31.188 = 1.494004
+Quest. 2. What is 31 l. 3 s. 9 d. 1 q. due ^^elve years hence worth in ready
+money, abating ^^er 6 per Cent. Compound Interest.
+
+Answ. 15 l. 10 s. as here appears.
+
+A 31.182 = 1.494004 R = 0.025306 t 12 050612 025306 Rt = 0.303672 A - Rt = P =
+15.5 = 1.190322
+Quest. 3. At what Rate of Compound Interest (...) 15 l. 10 s. amount to 31 l.
+3 s. 9 d. 1 q. in ^^elve years?
+
+Answ. At 6 per Cent. as here.
+
+A = 1.494004 P = 1.190382 0.303672
+12) 0.303672 (0.025306 = 1.0^ 0
+Quest. 4. In wha^ time will 15 l. 10 s. amount to 31 l. 3 s. 9 d. 1 q. at 6
+per Cent. Compound Interest.
+
+Answ. In 12 years.
+
+A = 1.494004 P = 1.190332
+R.025306) 0.303672 (12 = t 0
+The second Rank, touching Annuities in arrear, grounded upon these two Axioms.
+
+1. The Annuity and Rate of Interest being given, the Principal correspondent
+to that Annuity is in effect given also, being easily found by the Rule of
+Three, thus;
+
+As the Interest of any Principal (ex gr. of 1^ 10, 100, 1000, etc.) is to that
+Principal: S^ the Annuity of Pension, to its Principal.
+
+2. The Sum of the Principal and Arrearage^ of all the Payments being found,
+the Arrearage^ alone may be obtained by subtracting the Principal from that Sum.
+
+1 Prob. D. p, r, t: Q. s? Res. Rt + P = S 2 Prob. D. s, r, t. Q. p? Res. S -
+Rt = P 3 Prob. D. p, s, t. Q. r? Res. S - P / t = R 4 Prob. D. p, s, r. Q. t?
+Res. S - P / R = t
+Examples suited to the first and last of these Four Problems.
+
+Quest. 1. What will 33 l. per annum amount to in 14 years at 6 per Cent.
+Compound Interest?
+
+Answ. 693 l. 10 s. as here.
+
+6. 100 33 33 300 300 6) 3300 (.550 30 30 30 00
+R = 0.025306 t = 14 0.101224 0.25306 0.354284 Rt = 0.354284 P = 2.740363 S =
+3.094647 = 12435 550 6935
+Quest. 2 In what time will 33 l. per annu^^ raise a stock of 693 l. 10 s. at 6
+per cent. Compound Interest?
+
+Answ. In 14 years, as here is evident.
+
+6. 100 33. 550 550 + 693.5 = 1243.5 = s^ S = 3.094647 P = 2.740263 25306)
+0.354285 (14 25306 101224 101224 0
+The third Rank of Problems touching Annuities anticipated or bought for a Sum
+in hand (o^ that which is equivalent) at compound Interes^ discounted, is
+bottomed upon the former of th^^ two Axioms above mentioned, and this that
+follows:
+
+Axiom. If the difference of the Principal and Worth be once found, the Worth
+is easily obtained by subtracting that difference from the Principal, which is
+ever greater, being the Worth of the Annuity at that Rate for ever.
+
+1 Prob. D. p, r, t. Q. d? Res. P - Rt = D 2 Prob. D. d, r, t. Q. p? Res. D +
+Rt = P 3 Prob. D. p, d, t. Q. r? Res. P - D / t = R 4 Prob. D. p, d, r. Q. t?
+Res. P - / R = t
+Examples fitted to the first and fourth of these Problems.
+
+Quest. 1. What is 17 l. 10 s. per annum to continue for 11 years, worth in
+present Money, at 8 per cent. Compound Interest allowed to the Pur^^aser?
+
+Answ. 124 l. 18 s. 8 d. as here is showed.
+
+8. 100 17.5? 17.5 500 700 100 8) 1750.0 (218.75 0 (...)
+R = 0.033424 11 033424 033424 Rt = 0.367664 P = 2. 339948 Rt = 0.367664 --
+21875 D = 1. 972284 = 93817 124933
+Note, that if in stead of subducting Rt from P, I had turned Rt into the
+Arithmetical Complement 9632335, and added that to the P 2. 339948, it would
+have done the same thing in a more convenient manner, (save that it is not so
+suited to the letter of the Problems) as here is evident, 10 being rejected (as
+in this case it must ever be) from the Index.
+
+0.033424 11 033424 033424 0.367664 9.632335 2.339948 1.972283
+Quest. 2. In what time will 17l. 10s. pay off a Debt of 124 l. 18 s. 8 d.
+allowing the Creditor after 8 per cent. Compound Interest?
+
+Answ. In 11 years, thus manifest:
+
+8. 100 17.5. 218.75 = p 124.933 93 817 = d
+P = 2.339948 D = 1.972284 R = 33424) 0.367664 (11 0
+Any one that understands the very Elements of Algebra, may contract these
+Twelve Problems into Three; for the First of any Rank will by Reduction,
+Application, and Transposition, produce the rest. Then the work of the second
+Rank may be performed by the first, if one but understand, that instead of the
+Pension, he must take the principal correspondent to it, and work with it till
+he have found the Amount, from which the principal must be subducted when the
+Arrearages of an Annuity are sought, and so proportionably in the rest of the
+Problems.
+
+My Noble Lord Delamer, only noted down for his own use Rt + P = A, and P - Rt
+= D: by which and a small Canon of Logarithms he will quickly answer any
+Question of this kind. But for the help of young Mathematicians, I have set
+them forth thus explicitly.
+
+The only inconvenience of any importance that I can yet discover in this
+Method, is, that in both Ranks concerning Annuities, the second and third
+Problems are rather for demonstration of the other, and to complete the Rounds
+than for any other great use, proceeding upon such. Data as are seldom given
+for finding the pensions and rate, (or if they were, the Work would be rendered
+useless) yet we are not left without sufficient help to find out pensions or
+annuities by plain and proper Data. For in reference to the second Rank, if the
+Arrearages (or Stock to be raised) with the rate of Interest and time, be given
+for finding out such an Annuity, as at such a rate, and in so much time, will
+raise a given Stock by its Arrearages; it is easily found thus:
+
+Suppose an Annuity at pleasure, and by the first Problem of the second Rank,
+find out its Arrearages: Then say by the Rule of Three.
+
+As the Arrearages found, to the supposed Annuity: So the Arrearages given, to
+the Annuity required.
+
+For clearing whereof, let this be the Example.
+
+Quest. What Annuity will at 6 per cent. comp. Interest, raise a Stock of 693
+l. 10 s. in fourteen years.
+
+Answ. 33 l. per annum, as here is manifest.
+
+Suppose 30 l. then the Work goes on thus:
+
+6. 100 30 30 6) 3000 (500 30 000.
+R. 0.025306 14 0.101224 0.25306 Rt = 0.354284 2. 698970 S = 3. 053254 =
+1130^46 500^ 630^46
+630.46.30 693.5^ 30 630.46) 20805.0 (32.999 44046
+Here we account 32. 999 for 33, being so much within an inconsiderable trifle.
+
+Likewise in relation to the third Rank, if the Worth (or Price) Rate and Time
+be given, and the Pension to be purchased be required; find the worth of any
+supposed Pension by the first Problem of the third Rank, then the proportion
+stands thus:
+
+As the Worth found, to the supposed Annuity: So the Worth (or price) given, to
+the Pension required; as in the Example follow (...):
+
+Quest. What Annuity to continue eleven years will be purchased for 124 l. 18
+s. 8 d. at 8 per cent. Comp. Interest.
+
+Answ. 17l. 10s. as here.
+
+Suppose 12 l. Then
+
+8. 100 12? 12 200 100 8)1200 (150 8 40 40 00
+R = 0.033424 11 0.033424 0.33424 Rt = 0.367664 P = 2. 176091 Rt = 0.367664 --
+150 1. 808427 = 64332 85668 85.668.12 124.933? 12 249866 124933 85.668)
+1499.196 (17. 5 60
+If the Interval betwixt every two payments (...) less than a year, consider
+what part it is; ^hether 1/12 1/13 1/32 1/365, etc. And by the ^enominator of
+the Fraction signifying that part, ^ivide the Logarithm of 1 l. and its Rate of
+In^rest, (usually called the Logarithm of the Rate) ^en the absolute Number
+answering to that ^^otient, being made less by an Unite, will be (...) new
+Divisor, whereby dividing the given Pen^on so payable, half, yearly, quarterly,
+etc. the ^orrespondent Principal will appear in the Quo^ent, with which you may
+proceed, as if the payments were so many yearly ones; as this ^ext Example
+shows.
+
+Quest. 1. What is a quarterly Rent of 3 l. 15 s. (...) continue Thirteen Years
+and one Quarter, worth in ^^dy Money at 6 per cent. Compound Interest?
+
+Answ. 137 l. 10 s: 1 d: as appears here.
+
+R = 4) 0.025306 0.006326 = 1^01467 -1^ ^01467.01467) 3.75000 (235.623 1059
+1/4 R = 0.006326 Number of Quarters 53 0.018978 0.31630 1/4 Rt = 0.335278 Ar.
+C. 9^664721 P = 2.407600 -- 255623 2.072321 = 118119 137504
+Whereas I multiplied the Fourth part of the Log. of the Rate, viz. 0.006326 by
+53 (the Number of Quarters) I might as well have multiplied the whole Log. of
+the Rate, viz. 0.025306* by 13.25, i. e. 13 years and 1 quarter, and it would
+have been full as exact, or rather more, (two places being cut off from the
+Logarithm so multiplied toward the right hand:) I say rather more exact,
+because there remained 2 when I quartered the Log. of the Rate.
+
+Quest. 2. What is 5 s. per Week to continue 7 ^ears and three quarters worth
+in ready Money at 8 per cent. Compound Interest?
+
+Answ. 75 l. 17 s. 8 d. 2 q.
+
+52) 0.033424 (0.000642 =.00148 40.00148).25000 (168.918 136 R = 0.033424 t =
+7.75 0 167120 2 33968 2 33268 Rt = 0.259036.00 Ar. ^9.740960 P = 2.227675 --
+168918 1.968638 = 913033 75885
+Here I multiplied (not by the Number of Weeks) but by the Number of Years and
+Quarters, cutting off two Ciphers from the Product. And I also took the
+Arithmetical Complement of 0.259036, viz. 9.740963, and added it to the Log. of
+the Principal in stead of substracting the Log. 0.259036 from it.
+
+Lastly, As to the Rate of Interest, according to the sense of Dr. Newton, Mr.
+Dary, and others, I see not why this Method may not b^ made use of as well as
+any other. This universal Rule being first understood: In Questions belonging
+to the Second Rank, the greater Rate (...) Interest, the greater Arrearages;
+and the less Rate the less Arrearages. But in Questions belonging to the third
+Rank, the greater the Rate of Interest the less the present Worth (or price)
+and the less the Rate of Interest, the greater the Worth, and vice versa. I
+shall show this in answering the Question following, concerning a yearly
+payment of 1 l. because that by bare Multiplication may easily be applied to
+any other.
+
+A Field worth 1 l. per annum clearly, is offered to be let 11 years for 15 l.
+to be paid at the end of those years: What is the Rate of Interest demanded for
+the several payments?
+
+Answ. First, I suppose 6 per cent. and trying it by the first Problem of the
+second Rank, it find the Arrearages to be but 19 l. 19 s. 5 d. which is 6 d. 3
+q. too little.
+
+Then trying what the Arrearages will amount to at 6. 2 (or 6 l. 4 s.) per
+cent. I find 15. 13, or 15 l. 2 s. 7 d. 1 q. Perceiving then I have over-shot
+my Mark, I make my third trial at 6.1 (or 6 l.2 s.) per cent. and the Result is
+15.05, or 15 l. 1 s. which is pretty near, being but (...) above the truth.
+
+But that I may yet bring it nearer, I first subtract the Result at 6 per cent.
+which is 14.971 from the Result of the Arrearages at 6.1. viz. 15.05 (because
+these are the Results that come nearest to the truth) and their difference
+is.079.
+
+2. I subtract the Rate 6 from the Rate 6.1, and there rests. 1.
+
+3. I substract the nearest Result to 15, viz. 14. 971, from 15 the given
+Arrearages, and their difference is.029. Then working by the Rule of Three, I
+find (as follows).0367
+
+.079.1 029 1.079).0290 (.0367 7
+Which.0367 being added to 6, gives 6.0367, or 6 l.0 s, 8 d. 3 q. per cent.
+Compound Interest. And that this Rate exactly fitteth, is plain by the
+following work.
+
+6.0367.100 1 1 6.0367) 100.0000 (16.565 20245 R.0.025456 11 0.025456 0.25456
+0.280016 1.219191 1.499207 = 31/565 16/565 15/000
+But perhaps it will be said, that though in this and all other matters
+foregoing, I agree well enough with the learned Authors before mentioned, and
+others that have writ of these Subjects; yet in my Country-Almanack for the
+Year 1677, the Fourth Problem agrees neither with them, nor what I have here
+written, but apparently clasheth with them.
+
+I confess this Charge had been very just, had that Problem been designed for
+the same end, and produced a different effect: (for in such a case to differ is
+to contradict.) But forasmuch as in my very entrance upon it, I began thus.
+There is a Problem in some Learned men's Works, seemingly of the same importance
+with this, but indeed much different both in the Design and Effect: And after
+in answering Objections show wherein the Design differs; I cannot but admire
+the Undertakings of that able Artist, who was so much at leisure as to prove
+with a great deal of Pomp, that mine will not attain the end for which I
+declared it was never designed, as clearly as words can utter it. A Sword may
+be a very good one, yet a very bad Instrument to fell Trees with: But I hear he
+is dead, and I shall rather lament the loss of him, and diverse other famous
+Mathematicians (which Death has of late deprived us of) than unnecessarily to
+expose the impertinence of his Paper to the Public View; or so much as name
+him to the prejudice of his Memory. But from henceforth I expect from all
+ingenious persons, that they neither take for granted what I professedly deny
+and disprove; nor urge mine Objections against my self, without taking notice
+of mine Answers.
+
+For understanding of what follows, it were very convenient to have inserted
+herein the whole Discourse in the Country-Almanack about this business; but
+because this little Paper cannot afford it room, I shall only point briefly at
+the Design and Management; and answering all the Objections I ever met with of
+any seeming Importance, make things as clear as I can in so narrow a compass.
+The Design was to discuss in plain language (suitable to Country-mens
+understanding) this practical Question, wherein they are often concerned; viz.
+Whether it be more advantage for the Lender to receive for 100 l. in hand,
+Compound Interest at 8 per cent. viz. 71 l. 7 s. 7 d. 3 q. at the end of seven
+years above the stock of 100 l. supposing it can be legally assured (as in
+Ireland it may, and in England by equivalence in Goods or Lands, without
+mentioning Interest) Or to enjoy a Farm for seven years in consideration of 100
+l. that will clear him just 20 l. per annum?
+
+My Answer was, that the former was the better Bargain (and consequently the
+higher Rate of Interest for the whole Stock during the whole term) for which I
+gave in these grounds under the feigned persons of A and B.
+
+1. A is to receive (as is said) 171 l.7 s. 7 d. 3 q. and if B, who takes the
+Farm, receive not equivalent, his rate of Interests is lower.
+
+2. B receives only 140 l. by 20 l. per annum; only he has the advantage to
+improve the several payments from the time they grow due, to the end of the
+term.
+
+3. These must be computed at some certain rate of Compound Interest: For to
+Compute them at no rate of Interests, or at Simple Interest, or one taken up
+arbitrarily, will not suit the case.
+
+4. The Rate tolerated by the Statute, viz. 6 per cent. under which none will
+take, and above which none dare expressly bind any to give, and at which any
+responsible man may be fitted, is to be preferred before any other.
+
+5. At this Rate the 7 payments will amount but to 167 l. 17 s. 6 d. q.
+
+Of these 5 Pillars, the 132, and 5 th, were never attempted to be shaken by
+any that I know of: What assaults have been made against the other two, or
+design of the whole Fabric, I shall briefly consider; and I find them (besides
+those answered when I first published that Problem) to be these three:
+
+1. Ob. The Question is not at all, how the Receiver improves his Payments, but
+what Improvements was made in the Debtors hands, and the same Rate carried on?
+
+Ans. We are agreed that the Rate is not to be computed according to what the
+Usurer actually makes of it. If he gives away, loses, or lends freely all the
+several Payments: Or if he make new Bargains more oppressive than the Original
+one; the true value of the loan of so much Money for such terms, is one and the
+same. But I utterly deny that it is to be reckoned, as if the same Rate must be
+carried on, and that for unanswerable Reasons (as I suppose them to be) laid
+down in my former discourse, or easily colligible from it.
+
+1. The Laws of our Nation prohibit upon severe Penalties, the taking of more
+than 6 per cent therefore that is the utmost of the legal worth, which he that
+exceeds, runs (as I take it) the hazard of all, and a great fine.
+
+2. If he can evade the penalty, no responsible man needs to give more than 6
+per cent. and few are willing to give more than they need.
+
+3. If he get over both these blocks, and make ^ew oppressive Bargains, this is
+nothing to the Question as I propounded it; for that was, whether A. or B.
+received the highest Interest for his Money, by virtue of the above mentioned
+Bargains, not by virtue of occasional after Bargains. When the Debtor has paid
+in a years Pension, he has done with it; and if he have ^t not ready, he may
+take it up at ordinary Interest, and the proportion is broken off for so much.
+
+2. Object. If we regard Laws in the case, what need we any Rules concerning
+Compound Interest, seeing the Laws of the Land allow only simple Interest:
+
+Ans. 1. The Laws are not against Compound Interest, as it may be managed: that
+is, the Usurer may receive his simple Interest at the years end, and put out
+that as a new Stock, and so undeterminately from time to time; or if you will
+call this simple Interest, it is the same to the purse.
+
+2. I am told they have ways in London for putting out very small Sums to mean
+Traders upon sufficient security; and then it is both legal and practical,
+though I say not how lawful before God; especially as I hear some use it.
+
+3. Object. It ought to be a Question only o^ Art, without dependence upon Laws
+and Usages; it being the nature of Art in these kind (...) Questions, not to
+show so much what ought (...) ^e done, as what is really done.
+
+Ans. 1. It is one Question, what is the nature of Art, and another how far Art
+is concerned that is, whether nothing else save the Rules o^ Art be regardable
+in the case; which I deny, because Laws and Usages have a great influenc^ upon
+it, hindering the continuance of the proportion.
+
+2. I consider not the Laws as pinching the U^surers Conscience (as to what is
+lawful) but (...) tying up his hands, and so obstructing the proportionable
+increase of his gain.
+
+3. Whatsoever may b^ said of Art (as Art i^ the strict notion of it) the
+Artist must not be such a Slave to the Rules of it, as not to allow for
+unavoidable Obstructions and irregularities I hope I may be allowed to tell my
+Scholars that learn Navigation, that though the direct cours^^ from one Port to
+another be upon such a Point of the Compass; yet other Courses must be steered
+sometimes in regard of Rocks, Shallows^ crooked Channels, Currents, Trade-winds
+(...) convenience of Harbor, and fresh Supplies (...) Or to avoid Pirates,
+Enemies, Forts, and Places where great Customs or Payments will be exacted; and
+many such things which the experienced Seaman is better acquainted with, than
+I with their Names. And to say to such as learn Merchants Accounts, that though
+it were more Artificial and Rational, that Rebates of Interest for Money paid
+before ^t be due, should be computed at Compound Interest (as certainly it is:)
+yet forasmuch as it is usual with Merchants to allow no more than simple
+Interest (as appears by printed Accompt-Books) they must submit to the Laws of
+the great Tyrant Custom.
+
+An Artist has not the same liberty of supposition in answering Questions
+(especially such such as are real and practical) that he has in proposing
+Questions, or receiving them from others, when trial of skill is only or
+chiefly intended. I may without absurdity in this latter case demand or find
+the Amount or present worth of any single Sum of Money, or yearly Pension for
+any terms propounded at any rate of Interest given, though such as is never
+likely to come in practice: (ex. gr. at 2, 3, 14, or per cent.) But if I be put
+by the nature of my Work, to compute the Amount or present worth of Payments,
+no rate of Interest being named, I ought prudently to weigh all Circumstances,
+and pitch upon that which is possible and rational. And this is not a work of
+Art, but of discreet Judgment, (wherein great respect is to be had to penal
+Laws, Usages, and other obstructions) after which Art takes it own Province, in
+computing after such a Rate resolved upon.
+
+To make all this plainer (if possible) than I made it at the first
+Publication; Let us for once suppose a rare case, viz. That B a Mathematician
+turns Usurer, and for 100 l. ready Money, takes a Farm for 7 years, that he
+lets to another for 30 l. per annum clearly, knowing before hand he could so
+let it: and A his familiar Friend thus accosts him; I wonder to bear you are
+grown such an Extortioner, as to receive 20 l. per annum, seven years together
+for 100 l. B answers, Before you find fault with the Mote in mine Eye, take the
+Beam out of your own: You have bought the Reversion of a piece of Land after
+seven years for 100 l. for which I will bona fide give you 172 l. at the time
+of your Entrance upon it; which I find by the Rules of mine Art to be 12 s. 4
+d. 1 q. above Compound Interest at 8 per cent.
+
+A replies, Learned men, say such a Bargain as yours will clear 9 l. 3 s. 4 d.
+per cent. and better. B rejoyns, It Is true they do so, but then they suppose
+the same Rate to be continued, (for none will say, that if the Payments lie by
+unimproved, or be let out at an under Rate, that in such cases that Rate of
+Interest can be answered) and this supposition is really impracticable; or (to
+say the least) that which a rational man cannot depend upon. I did accidentally
+meet with this Bargain from the hands of a weak man, which yet I durst not have
+accepted (the Laws are so strict) if it had been a Rentcharge in Money. And
+will you undertake to find me Fools that shall at every years end, take off the
+several Payments, yea and all the increase of them as they grow due upon the
+same terms that I put out the 100 l. upon, and to let me Land for it? If you
+think you can, I will make you a great Bargain, (because I know you to be a
+punctual responsible man) you shall receive the first yearly Payment, and at
+the end of the second year, pay me simple Interest for it at 6 per cent. as the
+Statute allows, and I will instantly return it you, together with the second 20
+l. which we will join into one Sum, and you shall take it at the same rate: and
+thus we will do every year to the end of the term, still adding that years
+growth to what was before, and so keep up all the Accounts to 6 per cent. and
+if you can make any more profitable use of it, much good may it do you, and I
+will heartily thank you to boot, for helping me so readily to place out my
+small parcels without loss. But if you dare not do this, let ingenuity mollify
+your charge, and I shall not quarrel with you about your rate of 9 l. 3 s. 4 d.
+which perhaps you borrowed (or some one for you:) from Dr. Newton, his
+Trigonometria Britannica, P. 37. for I acknowledge it is that and somewhat
+more, though not much; but I say (which I desire you to observe) that I receive
+no compound Interest after that rate, but only simple: and that not for the
+whole Sum during the whole term (as you do compound Interest for all your
+Stock) but only for the whole 100 l. for the first year: for you know that if
+at the end of that year 20 l. be subtracted from 109 l. 3 s. 4 d. all the
+Interest is paid, and so much of the Stock as brings it down to 89 l. 3 s. 4 d.
+This 89 l. 3 s. 4 d. being computed at the same rate of Interest, 20 l. abated
+from it, clears the Interest again, and brings down the Stock much lower: and
+so year by year the Stock is dwindled away, till at last the seventh payment
+(if the Rate were absolutely exact, as it is near) clears off (...) Stock and
+Interest. And this is all I receive, save only the benefit of the severa^
+yearly payments, which I offer you (or any other solvent man) at 6 per cent. as
+aforesaid (...) At which rate (abating not a Farthing for loss of time, but
+supposing good places ready for eve^ry parcel as it becomes due) it will but
+amount^ to 167 l. 17 s. 6 d. q. which being the whole Aggregate of Stock and
+Interest, if we substract from its Logarithm, the Log. of 100, and divide their
+difference by 7, as we are directed by Mr. Wingan's (...), Chap 5. Prove. 13.
+the rate of Interest will appear to be 7 l. 13 s. 7 d. 2 q.
+
+I profess freely, Sir, I cannot withstand B's Arguments; but if any other can,
+I shall neither envy his happiness, nor despise, (if fairly and ingeniously
+offered) his Animadversions; in that case you shall command a Sheet from me at
+any time, in consideration of any thing so objected; but for such injurious and
+passionate discourses as are apter to provoke than convince, I confess, it is
+such a piece of drudgery to answer them, that (if I could not ease my self by
+contempt) I should think it hard measure that my silence should be interpreted
+as their Victory.
+
+Sir, You will p^rdon this Prolix Appendix, when it is considered that it is not
+intended for such as your self, but for such to whom nothing can be too plain,
+by
+
+SIR, Your Friend and Servant, Adam Martindale.
+
+A Compendious Method for working out many Conclusions in Arithmetic, wherein
+the Rule of Three is often repeated; long since invented, practiced and taught
+by the Author, but never till now published.
+IN all Books of Arithmetic that I have had the happiness to peruse, the works
+of both Rules ^f Fellowship and Alligation alternate are performed by the Rule
+of Three, so often to be repeat^d, as there ere particular proportionable parts
+^o be found; which proving intolerable tedious, when the Partners in
+Fellowship, or the parcels (...) Alligation are many, caused me to think of ^is
+following course, every way as plain and useful, and much more compendious,
+which to ^e short is this:
+
+The Rule.
+
+Divide that which is usually made the second Number in the Rule of Three, by
+that which is as ^sually made the first and the common Divisor; That Quotient
+multiplied severally by the respe^^ive third Numbers, gives the particular
+results. ^ut here it will be necessary if you use Decimal Division (which I
+judge most convenient) that you continue your Division till either nothing
+remain, or you have six places of Decimals in the Quotient, accounting Ciphers
+(if there be any) into the number. And if upon the Addition of your Parcels,
+the Total amount not just to the Sum expected, but an Unite short in the
+Integers, and three more Figures of 9 immediately following, take it for exact,
+for so it is within a matter of nothing.
+
+All this will be plain by three Examples whereof the first shall be wrought
+(for plainness) both in the old and in this newer way; the other two (for
+brevity) this latter way only.
+
+1. Example in Fellowship without time.
+
+A B C
+Put into the Common Stock 15 24 33 72
+The Sum whereof is 72 l. and their gain 63 l. what is each Man's Part?
+
+The Resolution in the old Method is thus.
+
+A 72.63 15 15 315 63 72) 945 (13.125 Or 13l. 2 s. 6 l.
+B 72.63 24 24 252 126 72) 1512 (21 l. 0
+C 72.63 33 33 189 189 72) 2079 (28.875 0 Or 28l.17 s. 6 d.
+13.125 21. 28.875 63.000
+Or thus, 13-02-06 21-00-00 28-17-06 60-00-00
+
+
+In the new way the work is thus done.
+
+72) 63.0 (.875 A.875 -- 15 0 -- 4375 875 13.125
+B. 875 24 3500 1750 21.000
+C. 875 33 2625 2625 8.875
+I hope by this time mine intelligent Reader is aware, that if the Partners had
+been many (as in Voyages and Adventures it often falls out) the difference
+betwixt the two Methods would have been yet more signally conspicuous; for one
+single Division suffices, be the Partners never so many: Though I confess
+there is yet a nearer way by the help of Logarithms; of which I shall present
+this Specimen.
+
+63 = 1.79934055 72 = 1.85732250.875 = 1.94201805
+.875 = 1.94201805 24 = 1.38021124 21 = 1.32222929
+.875 = 1.94201805 15 = 1.17609126 13.125 = 1.11810931
+.875 = 1.94201805 33 = 1.51851394 28.875 = 1.46053199
+The second Example in Fellowship with time.
+
+A laid in 43 for 8 Months They gained 73l. Q. each Man's part? B 52 5 C 63 7
+
+The Resolution by this new Method is thus.
+
+A 43 8 344
+B 52 5 260
+C 63 7 441
+344 260 441 1045
+
+
+1045) 73.00 (.069856 480
+A..069856 344 279424 279424 209568 24.030464 or 24 l. -- 0 s. -- 7d. -- 2 q.
+B.069856 260 4191360 139712 18.162560 or 18 l. -- 3 s. -- 3d. -- 0 q.
+C.069856 441 069856 279424 279424 30.806496 l. s. d. q. or 39 l. -- 16 s. -- 1
+d. -- 2 q.
+Proof
+24.030464 18.162560 30.806469 72.999520
+or thus
+24 l. -- 00 s. -- 7 d. -- 2 q. 18 l. -- 03 s. -- 30 d. 30 l. -- 16 s. -- 1 d.
+-- 2 q. 73 l. -- 00 s. -- 0 d. -- 0 q.
+The third Example in Alligation alternate.
+
+Suppose a mixture of Wine of 119 Quarts be required, that must be made up of
+these several prices 7 d. 8 d. 14 d. and 15 d. so as the whole may be afforded
+at 12 per Quart, the parts may be found out in their method (without decimals)
+thus.
+
+Having linked 8 to 14, and 7 to 15, and Counterchanged their differences from
+the Common price 12d, I find the Sum of their differences to be 14, by which
+dividing 119 the Quotient is 8/14 or 8, which for convenience of Multiplication
+we shall change into the improper Fraction so ^ 2 the Resolution^ will be thus.
+
+8 2 14 4 7 3 15 5 14
+Quarts.
+17/2 X 2 = 34/2 = 17 17/2 X 4 = 68/2 = 34 17/2 X 3 = 51/2 = 25 17/1 X 5 = 85/2
+= 42 119
+Having our just Measure of Wine, let us try the Prices how they suit our
+purpose by Alligation medial, for considerable errors may be caused by
+misapplication of Prices, when the parts were truly taken; but here-under it is
+apparent that each parcel multiplied by its price, the Sum of the Products is
+1428 pence, which divided by 119 give 12 for the common price.
+
+17 8 136
+34 14 136 34 476
+136 476 178 637 1428
+25 7 178
+42 15 217 42 637
+119) 1428 (12 119 238 238 0
+This Proof by Alligation medial I do not account a needless curiosity; but
+very useful to be thoroughly understood, for experience informs me, that young
+Men being defective in Skill, Care and Memory, are apt to mistake in several
+points, but especially one: That is so as to esteem the several parcels to be
+of the several prices from which the differences (by which they are found) were
+originally taken, and not (as the truth is) of the prices to whom in the
+counterchange they were annexed.
+
+As to that which seems to look like an unnece^^sary affectation of Novelty, in
+linking the pric^ and differences by separate couples; I designed (...) no
+higher thing than to free the Printer (if th^^ pass (...) hand) from the
+trouble of lookin^ up his dusty Cuts of Semilunes intersecting or enclosing one
+another, as in our usual Books of Arithmetic^^ Though the truth is, in such
+cases as this before us, no linking at all is needful; but when the common
+Quotient is multiplied severally by all the differences, any price above the
+common may b^ assigned to any product made by the difference o^ riginally
+belonging to an under price, and contr^^rily, so as true couples be observed.
+So here (...) might have assigned the price 15 to the parcel 3^ found out by
+the difference 4 originally belongi^^ to 8, and the price 14 to the parcel 42,
+found b^ multiplying the common Quotient by 5 the difference of 7 from the
+common price. But then (...) must be sure to do justice, so as to assign the
+pri^^ 8 to the parcel 25 found by 3 the difference o^ 15 from the common price,
+and the price 7 to the parcel 17 arising from 2 the difference of 14^ us here
+is plain.
+
+17 X 7 = 119 25 X 8 = 204 34 X 15 = 510 42 X 14 = 595 1428
+119) 1428 (12 119 238 238 0
+FINIS.
+

@@ -1,0 +1,874 @@
+Thursday December. 10. 1674.
+At a Meeting of the Council of the Royal Society.
+WHereas it was desired by the Royal Society, that a Discourse made before them
+by Sir William Petty Knight, at their Meeting the 26. of November last, might
+be Printed: It is this day Ordered by the Council of the said Society, That the
+said Discourse be Printed by the Printer of the Royal Society.
+
+BROUNCKEK, P. R. S.
+
+THE DISCOURSE Made before the Royal Society The 26. of November 1674.
+
+Concerning the Use of Duplicate Proportion In sundry Important Particulars:
+Together with a New Hypothesis of Springing or Elastique Motions.
+
+BY Sir WILLIAM PETTY, Knight. Fellow of the said Society.
+
+Pondere, Mensura, and Numero Deus omnia fecit: Mensuram and Pondus Numeres,
+Numero omnia fecit. LONDON: Printed for John Martyn, Printer to the Royal
+Society, at the Bell in St. Paul's Churchyard, 1674.
+
+
+
+To his Grace, WILLIAM, LORD DUKE OF NEWCASTLE.
+May it please your Grace,
+I Am commanded by the Royal Society to Print the Discourse, which I made
+before them, upon the last Meeting-day of their last year, and next before that
+of their Anniversary Election: Because, as Drapers cut Patterns of their whole
+Cloth out of an End, not because the End is better than the rest, but because
+it may be best spared; so (I suppose) the Society are content, that this
+Exercise pass for a Sample, pro tanto, of what they are doing; for that the
+same may be conceived to consist of three parts, viz. The first being an
+Endeavor to explain the Intricate Notions, or Philosophia Prima of Place,
+Time, Motion, Elasticity, etc. in a way which the meanest Member of adult
+Mankind is capable of understanding: The second being, to excite the World to
+the study of a little Mathematics, by showing the use of Duplicate Proportions
+in some of the most weighty of Humane affairs, which Notion a Child of 12 years
+old may learn in an hour: And the last being, without Chymerical Speculations,
+to consider such points and properties, even in Atoms (such, whereof perhaps a
+Million do not make up one visible Corpusculum,) as may give an intelligible
+Account of the Nexures, Mixtures, and Mobilities of all the parts of the
+Universe.
+
+In like manner, it is the Profession of the Society, to make Mysterious things
+plain; to explode and disuse all insignificant and puzling words; to improve
+and apply little small threads of Mathematics to vast uses; and yet not to
+neglect, the finest Consideration, even of Atoms, where the same is necessary.
+The which purposes of theirs, I venture to say, do as much differ (both as to
+difficulty and dignity) from what is commonly called Wit (and which takes with
+far the greater part of Mankind,) as the skill of Drawing and Painting a Cloud
+or Periwig does from that of Designing or Painting many complicated Figures of
+Men and Beasts in some one Table, wherein each is perfectly to express some
+particular passion, and all standing together to contain the true and entire
+Spirit of the Story represented: For, in the latter, precise exactness is
+indispensible, whereas in the former, not only liberty always, but even
+extravagancy sometimes is not only tolerable, but laudable. And when I have
+said this; I withal say, that there is one Glory of the Sun, another of the
+Moon, and another of the Stars, which may all consist together, without
+destroying or maligning each other. And all these several Glories shine
+steddily in your Graces Firmament.
+
+Being, I say, appointed to publish this Exercise, I have presumed to dedicate
+it to your Grace. First, because the Society have been pleased to order it to
+be published; (I dare not say, as approving it, but as committing it to
+Examination.) Secondly, because your Grace does not only love the search of
+Truth, but did encourage Me 30 years ago as to Enquiries of this kind. For
+about that time in Paris, Mersennus, Gassendy, Mr. H^^^ Monsieur Des Carts,
+Monsieur Roberval, Monsieur Mydorge, and other famous men, all frequenting, and
+caressed by, your Grace and your memorable Brother, Sir Charles Cavendish, did
+countenance and influence my Studies, as well by their Conversation as their
+Public Lectures and Writings: Much of which honors and helps I ow unto your
+Grace, and have a fresh remembrance of them. Thirdly, because my Lord Ogle
+being now about to carve a significant Figure upon my Lord his Son, by his
+careful Education of him, I thought it a service to his Lordship, as well as an
+Expression of my Thanks for his former acceptance of my Endeavors, to call
+upon him, not only to instruct my Lord his Son in some Mathematicsk, but also
+to store and stock him with variety of Matter, Data and Phenomenon, whereupon
+to exercise the same; since Lines and Numbers, without those, are but like
+Lutestrings without a Lute or a Hand. For, my Lord, there is a Political
+Arithmetic, and a Geometrical Justice to be yet further cultivated in the
+World; the Errors and Defects whereof, neither Wit, Rhetoric, nor Interest can
+more than palliate, never cure. For, Falsity, Disproportion, and Inconsistence
+cannot be rectified by any sermocinations, though made all of figurate and
+measured periods, pronounced in Tune and Cadence, through the most advantageous
+organs; much less by Grandisonous or Euphonical Nonsense, farded with
+formality; no more than vicious Wines can be remedied with Brandy and Honey, or
+ill Cookery with enormous proportions of Spice and Sugar: Nam Res nolunt male
+administrari.
+
+These are the Reasons, why I have put your Graces Name to this Treatise;
+though there is a contrary reason, why it should have wholly shunned your Graces
+sight and knowledge: which is, That your Grace might not perceive how little
+progress I have made in thirty years time upon those Studies. However I hope
+your Grace will take what I have done for an Argument of my patience and
+perseverance in these pleasant, though profitless, Employments, and see, that
+no heterogeneous Cares and Troubles have or can quench my affections to
+Philosophy, as no distances of Time or Place have made Me less than formerly,
+
+Your GRACES* Most humble, most faithful, and most obedient Servant, WILLIAM
+PETTY.
+Ult. December. 1674.
+To the Right Honorable WILLIAM Lord Viscount Brouncker, PRESIDENT OF THE
+Royal Society.
+My Lord,
+THE Observations on the Bills of Mortality were distinctly Dedicated to a Peer
+of this Realm, and also to the President of the Royal Society, and both with
+good acceptance: Wherefore I have also (like the Author of those Observations)
+Dedicated this Discourse to his Grace the Duke of Newcastle, for the reasons in
+the foregoing Epistle mentioned; and I now again Dedicate the same to your
+Lordship. First, In Gratitude for the several assistances I had from your
+Lordship toward the Experiments mentioned in this Discourse. Secondly, Because
+your Lordship is an Eminent Judge in those Matters, a Person whose
+Animadversions I shall take for Kindnesses; and who is able to excuse the
+Errors, and defend the Truths I have delivered. Lastly, For that near half the
+whole Discourse relates to Shipping, Artillery, Fortresses, Seabanks, etc.
+which all concern his Majesty's Service, and part whereof are happily entrusted
+by him to your Lordships Care; I thought I might express My affection to those
+his Majesty's Concernments even by offering this my Mite unto them. Upon the
+whole Matter, I have laid hold on this Occasion, to Publish my desire of being
+esteemed,
+
+My LORD, Your Lordships most humble and faithful Servant WILLIAM PETTY.
+Ult. December. 1674.
+ERRATA.
+PAge 6. l. 5. r. Proportion. p. 44. l. 1. r. be for being. p. 49. l. 6. r.
+etc. be. p. 49. l. 13. r. moreover for viz. ibid. l. 14. r. Mice, or rather
+some small Animals (whose correspondent parts are but 1/12 in length of the
+Horses.) ibid. l. ult. r. 12/144 for 1/144 p. 87. l. 10. r. Numerus for
+numerous. ib. l. 11. v. of for or. p. 88. l. 8. r. whereof for thereof.
+
+A DISCOURSE TO THE Royal Society.
+FOrasmuch as this Society has been censured (though without much cause) for
+spending too much time in matters not directly tending to profit and palpable
+Advantages (as the Weighing of Air and the like) I have therefore, to
+streighten this crooked stick, bent it and my present Discourse the quite
+contrary way, viz. to the Sails and Shapes of Ships; to Carpentry and
+Carriages; to Mills, Mill-dams, Bulwarks; to the Labor of Horses, and to
+several other particulars: The which are not only gross enough of themselves,
+but are also as grossly handled in this Exercise, to prevent the further
+imputation of needless Nicity, and to leave room for your own further thoughts
+upon the same.
+
+And forasmuch as We have been also complained of for producing nothing New, I
+have together with my Instances and Applications, above and hereafter
+mentioned, presented you as an Appendix, to what is said of Springs and other
+Elastique bodies, with a new Theory (as I think) of Elasticity it self, and
+that mechanically explicated in order to make a breach on this hard Rock in
+Philosophy, and to chip off a little of that Block which has long lain thwart
+Us, in the way of Our Enquiries. Upon the whole matter I have followed the
+Example of Elderly Divines, who finding their Flocks not to mend their lives by
+perplexed Discourses about Predestination, Transubstantiation, etc. betake
+themselves at last to preach Faith and Good Wooks, Neighbourly Love and
+Charity, or Doing as we would be done unto, and the like. For I have in this
+Exercise declined all Speculations not tending to practice, and ventured at few
+new Hypotheses, but that of Elasticity; rather calling upon you to review your
+own former Observations, and to apply your Mathematics to Matter, so as both
+may be improved to the profitable purposes hereafter mentioned.
+
+Wherefore the Title and Scope of this Exercise is, Several Instances, wherein
+the consideration of Duplicate and Subduplicate propoortion, or wherein the
+consideration of Sides and their Squares is of use in humane affairs. And the
+Instances which I have pitched upon for this day are these following, viz.
+
+1. In the Drawing or Driving powers, which force Ships or other bodies through
+the water, with reference to the respective Velocities caused thereby. 2. In
+the shapes or sharpness of bodies, cutting or dividing the water, through which
+they are driven or drawn, and in the different Velocities arising from thence,
+where the Bodies and Forces are equal. 3. In the Strength of Timbers or other
+homogeneous materials applied to Buildings, to Carts, or any other Machinaments
+intended for strength: And how by a Model to judge the sufficiency of such
+Engine as is represented by it. 4. In the effect of Oars upon equal and like
+Vessels, according to their Numbers, Length, Blades, and Motions with or
+against the stream of smooth or uneven waters. 5. In the Motion or Traveling
+of Horses, on their several Paces, and with different Burdens on them. 6. In
+the Strength and Velocity of Mills and their Wheels. 7. In the Effects of
+Gunpowder. 8. In the Distance at which Sounds may be heard. 9. In the Distances
+at which Odoriferous* matters may be smelt. 10. In the Distance at which the
+Objects of Sight may be seen. 11. In the time of the Returns made by vibrating
+Pendules. 12. In the Lives of men and their Duration. 13. In Musical and
+Sounding Bodies, such as Strings and Bells. 14. In the Effects and Motions of
+Fire, and burning Spirits. 15. In the Rising and Falling of Bodies, but
+especially of Water in Pumps, Overshot Mills, Leaks in Ships, the Heights of
+Rivers at their head above their fall into the Sea. 16. In Bellows, 17. In the
+Prices of several Commodities, as Masts, Diamonds, large Timber, Amber,
+Loadstones, etc. 18. In Mill-dams, Seabanks, and in the Bulwarks or Walls of
+Fortresses. 19. In the Compression of Wool, and other Elastick Bodies, and of
+the Air within diving Vessels, as also in the Effects of Skrew-presses upon
+several Materials.
+Having thus enumerated my several Instances, wherein Duplicate, and
+Subduplicate proportion is of great importance; I might now fall downright
+upon the Application of those proportions to each of the respective matters
+above mentioned. But because Custom has made it almost necessary to make a
+Preface to every Discourse, my Preface to this one Lecture shall be such, as
+may serve me for many more; that is, an Explication of what I my self (at
+least) understand by Matter, Body, Figure, Place, Motion, Quantity, Quality,
+Habit, Time, Proportion, Weight, Swiftness, Force, and Elasticity; which I
+shall do without imposing or scarce recommending the same to any other. For I
+would be glad, when any man speaks to me in matters of importance, by words
+which he uses often, that he would first give me a Dictionary of such words, to
+contein what he himself means by each of them. Wherefore I shall, as a
+Preface, prefix this Dictionary, wherein I dare not define Matter by Ens, or
+Substance, because I think most men conceive Matter better than they do either
+of these two words, Ens, or Substance. Nor do I define the words, Think,
+Consider, or Conceive, by the words, Soul, Spirit, Act, or the like, for the
+same reason. But presuming you all understand, conceive, imagine, or fancy the
+words Matter and Thought, as well as any other I can use, I venture to say as
+follows, and first, That
+
+1. Place is the Image or Fancy of Matter, or Matter considered. 2. Quantity,
+the Fancy of Place. 3. Ratio, several Quantities considered together. 4.
+Proportion, several like Rations. 5. Situation, several Places considered
+together. 6. Figure is Quantity and Situation considered together. 7. Body is
+Matter and Figure considered together. 8. Motion is change of Place. 9. Time,
+the Image of Motion. 10. Quality, several Motions considered together. 11.
+Habit, the same Motions repeated. 12. Likeness, several Figures, or Qualities,
+and Proportions considered together. 13. Swiftness, Time and Place or Space
+considered together. 14. Force is Body and Swiftness considered together. 15.
+Right is the Image of Possession, and is to it as Place to Body. 16. Elasticity
+I shall speak of hereafter.
+In the next place, I suppose all the First Matter of the World to be Atoms;
+that is, Matter Immutable in Magnitude and Figure. I suppose Corpuscles to be
+as many Atoms joined together, as make up a visible or sensible Object, and
+that all Iuncture of Atoms is made by their Innate motions. Moreover I
+suppose, That every Atom is like the Earths Globe or Magnet, wherein are three
+Points considerable, viz. two in the surface, called Poles, and one within the
+substance, called Center, or rather Byas, because in Atoms we consider neither
+Magnitude nor Gravity. These Atoms also may have each of them such Motions as
+Copernicus attributes to the Earth, or more. Lastly, Motion to or from a Point
+makes a straight Line, and, about it, a Circle. But from the Center to several
+Points in the Circle, is Angle. We further say, that the motions of Corpuscles
+are compounded of the abovementioned motions of Atoms; and the motions of
+bigger and Tangible Bodies ( viz. their qualities) are decompounded out of the
+Motions, Situation, Figure, and Magnitude of Corpuscles; and that out of, and
+by, the premises all Phenomenon in nature must be solved. And this is all the
+Preface I shall trouble you with, being (as was said) the Dictionary wherein to
+find what I mean by every material word I intend to use in this ensuing
+Exercise, which we thus begin, viz.
+
+The First Instance, Wherein Duplicate, and Subduplicate Ratio or Proportion is
+considerable, Is
+IN the Velocities of two equal and like Ships; which Velocities, I say, are
+the square Roots of the Powers which either drive or draw them; as, for
+example, Such two Ships having sails near double to each other, or as 49 to 25,
+the Velocity will be as 5, the square Root of 25 unto 7, the like Root of 49.
+Again, if the sails be near triple, or as 49 to 16, there the Velocity shall be
+as 7 (the Root of 49) to 4 (the Root of 16.) So as a quadruple Sail is
+requisite to double swiftness, and noncuple to treble; that is, The sails must
+be in duplicate proportion to the swiftness of the Ship; or this, in
+subduplicate to that.
+
+Again, let there be two Ships of Equal sails, but of unlike or unequal
+sharpness, suppose the head of one extremely obtuse or quite flat, and the head
+of the other to be an Isosceles Triangle added thereunto; I say, the swiftness
+of these Bodies shall be as the Roots of the Perpendicular of that Triangle to
+the Root of half the Base, or half breadth of the same. Secondly, Or if the
+same Triangular head be cyphered away into an Angle from bottom to top; then,
+as the Root of the same Perpendicular is to the Root of the Depth or Thickness,
+so are the Velocities. Thirdly, If the said head be cyphered both ways
+together, then the Proportion of Velocities shall be as half of one of the
+above mentioned Proportions added to the other whole Proportion: Ex. gr.
+Suppose the Perpendicular of the triangle-head be 36, the half breadth 9, and
+the whole depth be 4; then the one Proportion shall be as 6, the Root of 36, to
+3, the Root of 9: The half of which Proportion is as 6 to 6; and the other
+Proportion is as 6, the Root of 36, to 2, the Root of 4. Now add the
+Proportions of 6 to 6, to that of 6 to 2, the sum will be, as 36 to 12, or as 3
+to 1.
+
+Fifthly, Suppose two Paralellepipedons of unequal heads or resistances, Ex.
+gr. as 8 to 5, or 64 to 40: And suppose the Sail on the bigger, to that on the
+lesser, to be as 9 to 4, or 72 to 32; then the Velocity of the bigger shall be
+to the Velocity of the lesser, as the Root of 45 is to the Root of 32. For if
+the Resistances be as 64 to 40; then, if the sail of the bigger to that of the
+less were proportionable to the Resistances, the sail of the less should be 45,
+whereas we suppose it but 32. Wherefore the Velocity shall be as the Root of
+45, which is almost 7, to the Root of 32, which is about 5, that is, as about
+14 to 11.
+
+Memorandum, That wetting of Sails (by lessening the intersperst apertures
+between the threads of the Sail-cloth) does make the Sail, as it were, bigger;
+which biggerness may be known and measured by the increase of the Ships
+velocity upon such wetting. For, if the Ship should move one tenth part quicker
+after wetting than before, we may conclude the Sails are swollen to the
+equivalent of about part bigger; for 100 (whose Root is 10) exceeds 81, whose
+Root is 9, by about of 100.
+
+By these ways the different Velocities, arising from the different Trim of the
+same Ship, may be also computed, the best Trim being that which makes least
+resistance, caeteris paribus.
+
+Now, having said thus much of the Effects of Sharpness and Sails, (the two
+principal causes of Velocity in shipping, and unto which all others may be
+referred;) I shall add, That the want of these two Advantages are the chief
+cause, why short, bluff, undermasted Vessels sail cheaper than others.
+
+For suppose two Ships* of equal burdens, but of unlike dimensions, the main
+Beam of the one being scarce of the Keels length, and in the other, a full th;
+I say first, that the Hull of the latter shall cost part more than that of the
+former, and the advantage as to sailing shall be scarce part. Again, suppose,
+the sharper could carry as much sail more as the bluffer, whereof the advantage
+in sailing would be part more, in all. Now, where the Sails are as 2 to 3, the
+Masts and Yards must be as 4 to 9 in substance; and in value much more: And
+where the Masts and Yards are as 4 to 9 in weight and bulk, the Cordage and
+Rigging must be answerable: And where the Masts, Yards, Sails, and Rigging are
+great, the Wind-taught of the Ship will correspond, and will require
+proportionable Cables; and the weight of the Anchor must follow the size of the
+Cable, and the number of hands must be proportionable to all the premises: So
+as the one Ship will cost at least double as much as the other, and will sail
+at double charge of Wages and Victuals, Ware and Tare, etc. Now if no trading
+Ship be (one time with another) above 1/10 of her whole reign under sail, or 6
+days in 60, suppose the sharper and larger-sail'd Ship sail in 4 days what the
+other performs in 6; the difference will be but 2 days in 60, or 1/30 part of
+the Wages, and Victuals, and other charges; whereas the charges is supposed to
+be more than double. I say, this consideration is of great weight in Vessels of
+burden, especially such as carry gross and cheap bulky Commodities, neither
+liable to damage or perishing: Of which goods 7 parts of 10 of all Seacarriage
+do consist. But on the other hand, where safety against Enemies, speedy
+dispatch upon important occasions, or preoccupation of a Market are in the
+case, there sharpness and great Sails may be admitted to the greatest
+proportions practicable.
+
+Having thus digressed, I mind you that we said, Velocities are the Roots of
+Resistances and Extent of Sails, etc. It may be well asked, How we know the
+same, since that very few Seamen or Shipwrights, either in their writing or
+discourses seem to understand or own this important Position. To which I
+answer, that I have by many Observations, Calculations, and Comparisons, found
+the same to be praeter propter true, although there be many circumstances which
+intermingle themselves in this Experiment, so as to disturb and confound it: As
+namely, The ill placing of Masts, The ill cutting and standing of Sails, The
+ill Trim of the Vessel, with the Cleanness or Foulness of the same; The Sails
+more or less worn or wet; as also taught or slack Rigging, etc. Wherefore not
+only to avoid these last mentioned Intricacies, but also to make these
+Positions Examinable by every one that desires it; I say, that the different
+Velocity of Bodies (of several sharpnesses, and as drawn or driven by different
+Powers of knocks or falling weights,) have been by my self and others much
+experimented in large Canales, or Troughs of water, fitted with a convenient
+Apparatus for that purpose, and by no man more, nor more judiciously, than by
+the Right Honorable the Lord Brouncker, President of this Society. For I do not
+think it hard to conceive, that Weights and Sails are powers of like Effect,
+and reducible to the same Principle; so as if a Body have moved in double
+velocity, when drawn by a quadruple weight; and in triple, when by a noncuple
+weight; I doubt not but the same will hold in Sails, or other impellent Powers
+of the same proportions.
+
+And for the further clearing or easier trying hereof, I offer two small
+Machinaments heretofore made in this Society: The one, to measure the Velocity
+of the Wind, and the other its Power or Equivalency to Weight; whereby it did
+and will appear, when the wind is of double velocity, it will stir a quadruple
+weight; and the like in other cases according to the proportions of Roots and
+Squares above mentioned. The same may also be seen even in any good
+Turnspit-Jack, where a quadruple weight makes double Velocity (at the same
+distances of Time from the beginning of the Motion) both in the time of the
+Weights descent, as also in the Revolutions of the Fly, and each intermediate
+Wheel. Now perhaps the reason of these Phenomenon may be here expected; to
+which I answer, that the many parallel Instances above and hereafter mentioned,
+do, like concurrent witnesses, prove the premises, at least as to any
+practical use. And as for giving other reasons (which I take to be Explaining
+this Subject from the very first Principles of Atomical Matter, and Motion) I
+leave it to discourse, as too long for this Exercise.
+
+The Second Instance Is in the Strength of Timber, etc.
+LEt there be Square Rods or Pieces made of any Clean Timber, or other
+Materials, whose Ends let be supported with convenient Blocks or Fulcra: These
+Rods in Experience will bear weight hung in the middle of them, according to
+the proportion of their lengths or distance, between the Fulcra; that is to
+say, a Rod A. being of double length to the Rod B. will bear the weight which B
+can bear; and being of triple length, it will bear one third; and sic de
+caeteris. Again, let two of those equal and alike square Rods be placed one
+upon the other (so as to touch and sit,) then the two together shall bear 4
+times as much as one alone, and three of them, placed as aforesaid, shall bear
+nine times as much, and so on in proportion of Roots to Squares. Again, lay the
+same two Rods side by side, to each other, then they shall bear but double,
+three shall bear triple, and so forward, in Arithmetical proportion. From
+whence it follows, that four of them placed square, shall bear eight times as
+much as one alone. But if the same four Rods taken as One, being of double
+length making an Octuple quantity to One, they shall bear but four times the
+weight of One alone. So as two like pieces of Timber, that are in cubical or
+triplicate proportion of their Sides, are strong but according to duplicate
+proportion, or the Squares of their respective Sides; and consequently, to have
+like Vessels (differing in Content as the Cubes of their like Sides) equally
+strong, the Timber of which they consist must be Quadrato-quadratic; that is to
+say, a Ship of 400 Tuns, equally strong with one of 50, must have not only 8
+times as much Timber in it, but 16 times; which is seldom or never done. Which
+defect is the true Reason, why great Shipping is both Dearer and Weaker than
+small Shipping, (no Ship in the world being so strong as a Nutshel;) I say,
+Weaker, for what is here said; and Dearer, for what shall be said hereafter in
+the sixteenth Instance of Masts, Diamonds, etc. And on the other hand, if the
+Timbers were Quadratoquadratic, then the Ship of 400 Tuns would be laden with
+her own Materials; if the Ship of 50 Tuns were not over-timbered.
+
+Now, for not well understanding these matters, many men designing Engines of
+strength, do make Models of such Machinaments by a Scale (suppose wherein an
+inch represents a foot,) by which the Model is the 1/1728 part of the Engine
+intended: And thereupon they conceive, that if the Model be strong enough to
+bear 1/1728 part of what the great Machinament is intended to bear, that then
+the said great Machinament will be strong enough. Whereas indeed the Model must
+bear the full 1/144 of what is intended for the great Machinament; otherwise
+great mischiefs will appear in the Work. Wherefore the Square of the Linear
+Difference between the Model and Engine, is the measure and way of trying the
+strength and sufficiency sought for: The ignorance whereof has made many a
+poor Projector. Upon these Principles, a Cask which will hold a Tun, ought to
+have 16 times as much Timber in it, as the Cask which holds only a Barrel, or
+of a Tun; provided one be as strong as the other (which is not usually seen.)
+For the bigger Vessels, Carts, etc. they are usually the weaker compared with
+the strength of the lesser; which appears also in Animals, whose strength is as
+the Square Roots of their weights and substance, viz. if 1728. Mice were
+equiponderate to one Horse, the said Horse is but 1/144 part as strong as all
+the said Mice.
+
+From these considerations the Scantlings of Timber in Buildings must be
+adjusted; as for example, Let the Walls of any Room be infinitely, that is,
+sufficiently strong; let the length and the breadth of the Room be given: Next,
+suppose the Room is to be made so strong, as that every foot and a half square
+shall bear a Man, and so, that 31 square feet should bear a Tun weight,
+(reckoning 14 men to the Tun:) Lastly, let the strength of the Timber be also
+given. Now the Questions are, to find the Scantlings of the Girders, Gise, etc.
+first in square pieces, and afterward by altering the Squares into more
+advantageous ablong Sizes; as for example, Let the Room be supposed 26 foot
+long and 20 broad, viz. 520 foot in the Area, and able to receive about 250
+men, and to bear about 16 Tuns. Suppose the Timber be such, as whereof a Rod of
+an inch square, and 20 foot long, will bear 1/20 part of an hundred weight; or,
+that 20 such Rods, or a Board of 20 inches broad, and 20 foot long within the
+walls, an whole hundred weight; and so the whole Floor consisting of about 16
+such Boards, but 1600. Now if the same Board were planck of 4 inches thick, it
+would bear 16 times 1600 or 256 hundred weight: If 5 inches, 400 hundred
+weight: But the whole weight designed being but 325 hundred, some size between
+4 and 5 inches thick will suffice in this case, where we suppose the Floor to
+be of planck without Gise or Girder. Next, suppose instead of this Planck there
+be used Gise of double thickness to the said Planck, and placed at quadruple
+distance; I say, the Effect and Strength will be the same with half the stuff.
+And I also say, that one Girder alone of 18 inches square, and 20 foot long, is
+near Equivalent to the 17 Gises of 9 inches deep, and 4 broad-abovementioned;
+which Girder has but half the stuff which the Gise had; as the Gise did contein
+but half the stuff, which the 4 inch-Planck first mentioned did contein. Which
+saving of stuff is the reason of dividing Plank into Girders, Gise, and Board.
+Where note, that these Proportions and Scantlings are not offered as exact and
+best for practice, but only to intimate the method of inquiring into these
+matters so useful in the world.
+
+The Third Instance* In the Oars of a Boat, etc.
+TO determine or make a good estimate of the power of Oars, I first, for easier
+calculation, suppose a Paralellipipedon-Boat or Vessel, of breadth fit for a
+pair of Skulls, viz. of about 5 foot broad, and of length sufficient for 9 such
+Skulls or Oars, viz. about 30 foot long, and one foot deep, and to draw but
+three inches water. Next, I suppose, that every Skuller with his Skulls and
+Bench, etc. their weight to be equivalent to three Cubical foot of water; so as
+every pair of Skulls (with its appurtenances) depresses or sinks the Vessel
+1/50 of a foot, or about of an inch. Now, suppose also a smooth calm standing
+water, in which one Rower will row this Vessel 12000 foot, or above two miles
+in an hour or 3600 seconds; I say then, that, if one Remex or Skuller move 12
+quarters or 3 inch.es draught, 12000 feet forward in 3600 seconds; then 4 like
+Rowers shall move the same Vessel, drawing 15 quarters, or 3 inches of water,
+the same 12000 feet, in 1800 seconds plus 360 seconds, or in all, 2160 seconds:
+And that 9 shall row the same Vessel, as the Root of 21 to the Root of 208,
+which is, as near 3 to 7; or in 3/7 of the time that one Rower alone could have
+done the same. Again, suppose each Oar lengthened from two to three, and that
+as many strokes are made in the same time as before; then the Velocity shall
+increase proportionably.
+
+But suppose, that the Oars remain of the same length, but that the Blade be
+doubled; then the Velocity shall increase but according to the Roots of that
+doubling, or as 10 to 7, or 7 to 5, etc. supposing still the same number of
+strokes, within the same time, in every Case or Experiment.
+
+Again, suppose these Experiments be made not in still water, but in water
+which runs 6000 foot an hour; then, against the stream the Velocity will be
+lessened by one half, and accelerated answerably with it.
+
+Lastly, if the said water be so rough, as that the Vessel heavs and sets,
+suppose 20 degrees of the Quadrant in it; then, for as much as the Boats way
+will be increased as much as the Tangent of 20 degrees exceeds the Radius, the
+way or Velocity of the Boat must abate proportionably.
+
+The Fourth Instance. In the Motion of Horses.
+SUppose an Horse can travel 5 miles an hour with 200 pound burden on his
+back; then with half the said burden he shall travel 7; and with double but
+three miles and a half. Again, suppose a Horse with 200 pound burden can
+endure to travel 10 hours per diem; then with half the same burden he may
+endure 14 hours, and with double but 7 hours. Lastly, suppose a Horse (as
+Race-horses) can run after the rate of four miles in of an hour, or 32 miles
+per hour, then they can run about 6 miles 1/28 in, or after the rate of 24 1/7
+miles per hour; and in one half an hour can run 8 miles, or after the rate of
+16 miles per hour; and in a whole hour can run 12 1/14 miles; and in 2 hours
+can run 16 miles, or 8 miles per hour; and in 4 hours can run 24 miles, at 6
+miles per hour; and in 8 hours 32, or 4 miles per hour; and in 16 hours may go
+48 miles, or 3 miles in an hour. All which agrees well enough with Experience.
+
+The Fifth Instance, In Mills.
+WHere the wind blows, suppose, on a Sawmill, in double Velocity, there the
+Saw-mill, which carried but one Saw, shall carry four; If treble, shall carry
+nine. And the like is true of water gushing out upon the floats of Under-shot
+Mills; as may be seen in the Stampers of Paper-Mills, the Stocks of
+Fulling-Mills; and other Works of the like nature.
+
+The Sixth Instance, In Gunpowder.
+THe way of a Bullet, shot out of a good Gun, is as the square Roots of the
+quantity of the Gunpowder fired; I say, of Powder fired, because what goes out
+unburnt, goes rather as Shot than Powder; and the Length of Guns signifies only
+the constraining of the Powder within the Lines of Direction, till it be all
+fired: The use of hard ramming and screwing of Guns, being also the same; and
+the excellency of Powder being to fire quick, and before it goes out of the
+Gun. I say therefore, the Velocities caused by Gunpowder are as the Roots of
+the Powder fired, that is to say, 4 pound of Powder, all equally fired within
+the Piece, shall carry a Bullet twice as far as one pound shall do; and in
+Time, as 10 to 7; which last mentioned numbers are the Roots of the double
+distances aforementioned. Now, if the Capacity of the Concave of Guns ought to
+be, as the Weight of their Bullets or Powder; then, if the just length of any
+one Gun has been well found by good Experimentation, then may also be known
+the length of every Gun for every Bullet respectively. As, for example, suppose
+a Gun, that carries a Ball of 5 inches Diameter, be 10 foot long in the
+Concave, then the Content of the said Concave will be 3000 Cylindrical inches.
+Now the question is, how long must the Piece be, which carries a Bullet of 7
+inches Diameter? I say, that forasmuch as the Weight of the 5 inch Bullet, to
+that of 7, is as 125 to 343; the Concave of the greater Gun must be in the same
+proportion to 3000, viz. 8232 like inches, so as it may contein and fire a
+proportionable quantity of powder: Which 8232 being divided by the Area of the
+Bullet, 49, the Quotient will be 168 inches, or 14 foot; that is (to speak
+shortly and plainly) The Length of Guns must be measured by the Diameters of
+their respective Bullets. I cannot say, I have tried the effects of Gunpowder
+to be in the abovementioned proportion, but have credibly heard it to be so;
+and because of the Similitude of Sails, Weights, Knocks, and the other points
+above described, unto this of Gunpowder, I believe it; and recommend it to your
+further thoughts and experience.
+
+The Seventh Instance. Of Sounds.
+LEt there be many Equal Sounds; I say, that the Distances, at which they may
+be heard, are the Roots of the Numbers of such Sounds. For, four Muskets will
+be heard twice as far as one, and nine thrice; and so of the rest. By which
+reckoning, the hearing of some of our Fleets Engagement with the Dutch even to
+S. James's Park near this City is easily solved; and the truth of that
+Observation does reciprocally countenance this Doctrine. For suppose both
+Fleets (consisting of two hundred Ships great and small) had about 12000 pieces
+of Ordnance on board them, which at a Medium suppose to be Demi-Culverins:
+Suppose also, that a Demiculverin, with the same circumstances of Wind and Air,
+may be as easily heard five miles, as the said Engagements were heard 160
+miles. Then I say, that 1024 of the said 12000 Guns firing together, or very
+near the same time, might (as they were) be well heard 160 miles; and that
+about 4000 such Guns might as well be heard 300- miles, as one Demi-Culverin
+five miles; which last point I add, to prevent the unbelief of a probable
+matter, when it shall happen. Now what effect this had in the Popes Presage of
+the Battle of Lepanto, I know not.
+
+The Eighth Instance Of Smells
+I Say the same of Smells, viz. that the Distances at which they are perceived
+are the Roots of the Quantity of the Matter out of which they are emitted;
+which Doctrine I apply to solve what I once did hardly believe, viz. that Ships
+coming from America toward Portugal, did smell the Rosemary and other
+odoriferous herbs 60 miles off from the Land: The which seems not only
+credible, but very likely. For, if a foot square of a Rosemary-Field may be
+smelt one Perch or Rod (whereof 320 make a mile,) then about 8000 Acres of
+Land, whereon such sented Plants do grow (or a piece of Land about 4 miles
+long, and 3 miles broad; or 6 miles long, and 2 miles broad) may be smelt 64
+miles: And 72000 Acres of the like Land, or a parcel of such Land about 11
+miles square, may be smelt as many leagues, or near 200 miles. And this
+Consideration I pitch upon, as one of the grounds whereupon I would build a
+Doctrine concerning the Influence of the Stars, and other Celestial or remote
+Bodies upon the Globe of the Earth, and its Inhabitants, both Men and Brutes.
+
+The Ninth Instance Concerns Visible Objects.
+I Say also, that four equal and like Candles will give light but twice as far
+as one, and 9, thrice as far; and that 16 will also enlighten but 4 times as
+far as one, etc. And if a Flag or Ships-Vane of a yard square may be seen a
+league off at Sea, it must be 2 yards square, or 4 square yards to be seen 2
+leagues, and so forward. But whoever will make experiment hereof, must first
+consider, how many miles in thickness of a Middling, Clear, and Diaphanous Air
+do make an Opaque. For we find, that although a very thin plate of clear Glass
+seems to hinder our sight of near Objects but very little; yet we also know,
+that great number of them (suppose one hundred) can scarce be seen through at
+all. Hereunto also must be added the Consideration of the Convexity of the
+Earth; and then I doubt not, but this Doctrine (of Roots and Squares) rectified
+and corrected with the two additional Considerations last mentioned, will hold
+concerning Visible and Lucid Bodies, as was above propounded.
+
+The Tenth Instance, In the Time of the Vibration of Pendules.
+THe times in which the Returns of a Vibrating Pendulum are made, are the Roots
+of the Distances between the Center of the Pendulum, and the Center upon which
+it moves. I shall need to make no application of this Truth, since we all enjoy
+the benefit of it in our more regulated Clocks and Measures of Time, which are
+now in common use, and from whose Improvements we may most hopefully expect a
+better measure of Longitude upon the Surface of the Earth. The further uses
+which may be made hereof, (it being a very simple and examinable Experiment) is
+to witness and give evidence to other the more abstruse and complicate
+Positions, which are of the like and parallel Nature.
+
+The Eleventh Instance In the Life of Man, and its Duration.
+IT is found by Experience, that there are more persons living of between 16
+and 26 years old, than of any other Age or Decade of years in the whole life of
+Man (which David and Experience say to be between 70 and 80 years:) The reasons
+whereof are not abstruse, viz. because those of 16 have passed the danger of
+Teeth, Convulsions, Worms, Rickets, Measles, and Smallpox for the most part:
+And for that those of 26. are scarce come to the Gout, Stone, Dropsy, Palsies,
+Lethargies, Apoplexies, and other Infirmities of Old Age. Now whether these be
+sufficient reasons, is not the present Enquiry; but taking the aforementioned
+Assertion to be true; I say, that the Roots of every number of Men's Ages under
+16 (whose Root is 4) compared with the said number 4, does show the proportion
+of the likelihood of such men's reaching 70 years of Age. As for example; It Is 4
+times more likely, that one of 16 years old should live to 70, then a newborn
+Babe. It Is three times more likely, that one of 9 years old should attain the
+said age of 70, than the said Infant. Moreover, it is twice as likely, that one
+of 16 should reach that Age, as that one of 4 years old should do it; and one
+third more likely, than for one of nine. On the other hand, it is 5 to 4, that
+one of 26 years old will die before one of 16; and 6 to 5, that one of 36 will
+die before one of 26; and 3 to 2, that the same person of 36 shall die before
+him of 16: And so forward according to the Roots of any other year of the
+declining Age compared with a number between 4 and 5, which is the Root of 21,
+the most hopeful year for Longaevity, as the mean between 16 and 26; and is the
+year of perfection, according to the sense of Our Law, and the Age for whose
+life a Lease is most valuable. To prove all which, I can produce the accounts
+of every Man, Woman, and Child, within a certain Parish of above 330 Souls; all
+which particular Ages being cast up, and added together, and the Sum divided by
+the whole number of Souls, made the Quotient between 15 and 16; which I call
+(if it be Constant or Uniform) the Age of that Parish, or numerous Index or
+Longaevity there. Many of which Indexes for several times and places, would
+make an useful Scale of Salubrity for those places; and a better Judge of Airs
+than the conjectural Notions we commonly read and talk of. And such a Scale the
+King might as easily make for all his Dominions, as I did this for this one
+Parish.
+
+The Twelfth Instance In Music.
+TAke a Musical String, one end thereof being fastened; hang unto the other
+(over a convenient Bridge) any weight which may strain it to some grave Musical
+Tone or Note; then set some other string of near the same length, Unisone
+thereunto. Lastly, instead of the first weight, hang to the first String the
+Quadruple of the same weight; and it will appear, that the String with the
+quadruple weight shall yield a Tone of an 8th or Diapason above it self, when
+singly charged. The reason is, because the quadruple weight doubles the number
+of Vibrations, (2 being the Root of 4:) And for that the Ratio Formalis of
+Tones lies in the number of the Vibrations; and of the Diapasons, in the
+doublness of such numbers. By the same Method of hanging-on several weights at
+one end of the same String, all Tones may be produced, of which such String is
+capable. The Tones or Notes also of like Bells and Drums do follow the same
+proportions of their Tension and Metal, so as able Artists can cast Bells in
+Tones assigned.
+
+The Thirteenth Instance, of Fire and Spirits.
+LEt a Cylindrical Flatbottom Vessel be filled with Water, and let it be tried,
+in what time one Lamp or Candle would make the water boil through, or come up
+to its greatest heat: Then see, in how much lesser time, 2, 3, or 4 more like
+fires will hasten the same effect. I cannot speak positively hereof, but know
+from several Observations, that the Acceleration abovesaid shall not be made in
+Arithmetical Proportion; forasmuch as I know, that in Fireworks great Fires
+are more profitable than small; as in Brewers Coppers, and Iron-works may be
+seen; wherein double Fires produce more than double dispatch or advantage. I
+shall therefore suspend this matter, and pass to the measuring of the
+Spirituosity of Liquors, or in what proportions several Liquors contein more or
+less of inflameable or ardent parts. Now in this case I conceive, the
+Consideration of Roots and Squares is also material; for I understand by
+strength or multitude of Spirits, the Space, greater or lesser, into which such
+Liquors will be rarefied, or will fill with Spirits: As for example, if a Pint
+of Water rarefied into Vapor will fill a Globe but of 3 foot Diameter; and a
+Pint of rectified Spirit of Wine will fill a Globe of six foot diameter, or 8
+times as large as that of Water; I shall say, that there is 8 times as much
+Spirit or Vapor in one as in the other. But if these Liquors were put into
+open Lamps or Vessels, there the space in which the Spirits rise, are the
+Roots, whose Squares do show the Spirituosity of those Liquors: Ex. gr. Let
+there be a Lamplike Vessel of common Aquavitae; in which place a Week as high
+as the same will burn by the rising of the Spirit unto it, suppose an inch
+above the surface of the Liquor: Now, let there be a like Equal vessel with
+such a Spirit, as will rise up higher, suppose to a Week placed two inches
+above the Surface; in this case, I say, that the latter Liquor is quadruple in
+strength or extent of Spirit to the former; for it is certain, that as the
+Spirit rises double upwards, so also it emitteth or rarifieth it self double
+also sideways; and consequently the quantity of the Spirit or Vapor must be
+quadruple; and so of other proportions.
+
+The Fourteenth Instance, of Rising and Falling Bodies; but particularly of
+Waters in Pumps and River-streams.
+LEt it be observed in the Transparent Pipe of a Forcing Pump, at how many
+strokes the Water is forced from the Bottom to the Top; and let as many marks
+be made at the several places unto which the Water mounted at every stroke
+(which strokes we suppose to be all in Equal Times;) it will appear, that all
+the said Divisions will be according to the Proportions or the Logarithms
+abovementioned. As for the Descents and Accelerations of falling Bodies, the
+Times are the Roots of these Spaces, which they fall in the said times
+respectively. The great effect whereof we see in Overshot-Mills, where a little
+water falling upon a Wheel of a large Diameter, produces wonderful Effects;
+the which may be well computed upon the Principles we hold forth.
+
+Waters also have greater forces in the abovementioned proportions, as the
+hole or place whereat they issue is lower from their Surface; as may be seen in
+all Breast* and Undershot-Mills; where it is pleasant to divide the Sinking of
+the water into Equal Spaces, and to count the Clacks, Revolutions or Strokes
+made within the Time of the waters sinking every such equal Space; for therein
+the abovementioned Logarithmes may also be observed.
+
+Unto this head may be referred the Leakage of Ships. For let there be a hole
+in a Ship somewhere under water; then let it be seen, what water comes in at
+the said hole, within any space of Time; then let the like hole be made at
+double the perpendicular distance from the top of the water, and there shall
+come in four times as much as at the upper hole; and let a third be at three
+distances, and that shall admit 9 times as much, etc. Again, let there be two
+Equal holes or Leaks in a Ship, the one at Head, and the other at Stern, and
+let the Ship be in motion; then the Leakage at the Head is composed of the
+pressure of the water from the Surface, and of the Ships Motion together.
+Moreover, if the Ship make double way, the Leakage will be quadruple; if treble
+way, non cuple, etc. Wherefore to stop Leaks before, the Ship must stop its
+motion, lie by, or bear up to go with the Wind and Sea, etc.
+
+Lastly, I shall add, that the Swiftnesses of Waters or River-streams, are the
+Roots of the Power that causes them; which causes are Steepness or Descent in a
+sharper Angle from the Perpendicular. Wherefore knowing by observations, what
+degree of Steepness causes any degree of Swiftness; hereby, and by our
+Doctrine, the Height of ground where any River rises above its fall into the
+Sea, may be computed.
+
+The Fifteenth Instance, In the Blast of Bellows.
+IN Iron-work Furnaces are the greatest and most regular moving Bellows that
+are any where used; the which are commonly turned by the evenest overshot
+Wheels. Now the Times wherein these Bellows rise and fall, are Roots of the
+Strength of such Bellows-blast upon the fire; for rising in double Quickness
+admits double air in the same Time; which being in like manner squeezed out
+again, double Quickness makes double Expulsion, and consequently double
+Swiftness; (the whole passing through the same Twire-pipe in half the time;)
+and double Swiftness makes quadruple effects upon the fire or Furnace, as
+aforesaid.
+
+The Sixteenth Instance, In the Price of several Commodities.
+SUppose a Mast for a small Ship be of 10 inches Diameter, and as is usual, of
+70 foot in height, and be worth 40 s; then a Mast of 20 inches through, and
+double length also, shall not only cost eight times as much, according to the
+Octuple quantity of Timber it conteins, but shall cost 16 times as much, or 32
+l. And by the same Rule, a Mast of 40 inches through shall cost 16 times 32 l.
+or 516 l. Of which last Case there have been some instances. But whereas it may
+be objected, That there are no Masts of four times 70, or 280 foot long, I
+still say, that the Rule holds in common practice and dealing. For, if a Mast
+of 10 inches thick, and 60 foot long, be worth 30 s; a Mast of 20 inches
+throughout, and 80 foot long, shall be worth 15 l. And a Mast of 40 inches
+thorough, and 100 foot long (not 280 foot) shall be worth near 100 l.
+
+Moreover, suppose Diamonds or Pearls be equal and like in their Figures,
+Waters, Colors, and Evenness, and differ only in their Weights and
+Magnitudes; I say, the Weights are but the Roots of their Prices, as in the
+Case aforegoing. So a Diamond of Decuple weight, is of Centuple value. The same
+may be said of Lookingglass-Plates. I might add, that the Loadstone A, if it
+take up 10 times more than the Loadstone B, may be also of Centuple value.
+
+Lastly, A Tun of extreme large Timber may be worth two Tuns of ordinary
+dimensions; which is the cause of the dearness of great Shipping above small;
+for the Hull of a Vessel of 40 Tuns may be worth but 3 l. per Tun, whereas the
+Hull of a Vessel of 1000 Tuns may be worth near 15 l. per Tun. From whence
+arises a Rule, how by any Ships Burden to know her worth by the Tun, with the
+Number and Size of her Ordnance, etc.
+
+The Seventeenth Instance, In Mill-Dams, Sea-Bancks, and Bulwarks of Fortresses.
+SUppose any Wall, Dam, or Banck, to be just sufficient to keep out or resist
+the Sea, or other Stream against the appulse of its waters, being of a certain
+force; I say, that to make this Wall or Damm strong enough against a double
+swiftness of appulse, it must be augmented by quadruple thickness; and if it
+must be made sufficient against the greatest violence which ever was observed,
+then that violence being known, is the Root of the number by which the Walls
+thickness must be augmented.
+
+So Cannon-Bullets do Execution or batter in duplicata ratione of their
+swiftness; and therefore Ramperts must be strong and thick in duplicata ratione
+of the said swiftness, which depends upon the Distance of the Battery, and the
+degrees of Tardation, which Bullets make in every part of their way between the
+Gun and the Rampert, which they are to batter. Where note, that Bullets
+commonly beat out a Cone of Wall, whose Vertex is in the Bullets Entry, and
+like the Conical Fovea to be seen in the Sand of an Hourglass.
+
+The Eighteenth Instance, In the Compression of Yielding and Elastic Bodies, as
+Wool, etc.
+SUppose some Cylindrical or other paralleled sided Vessel, filled with Wool,
+or Down, or Feathers, or other Elastic Materials; let the same be covered with
+a moveable Head (such as in pressing of Pilchards they call a Buckler;) then
+first observe, how low the Buckler descends by its own weight; and then upon
+this Head or Buckler lay a triple weight, to make the whole quadruple, and it
+will appear, that the Buckler will sink but just as much lower; and being
+Noncuple, another like Space lower: So as the several Spaces of Depressions are
+the Roots of the depressing Powers. From hence may be seen, how the Force must
+be increased at every Turn or Thread of a Screw-Press; which being done
+according to the proportions here understood, I doubt not, but a Light
+Substance with a convenient Apparatus, might be compressed unto the Density and
+Weight even of Gold. But, that Silver might be so condensed, I made no
+question, till I heard of some Anomaly in the practice, which I must better
+consider of. The further Truth whereof does appear in the Vnder-waterAir within
+the Vessels of Water-Divers, who the lower they go, do find their stock of Air
+more and more to shrink; and that according to the Roots of the Quantities of
+the super-incumbent Water or Weight. In like manner take a Bow, and hang any
+weight to the middle of its string, and observe how low it draws the said
+string. Now, if you shall quadruple the same weight, it will draw down double
+the first distance, and noncuple will draw it down treble, etc. So as in a
+drawn Bow, let the Arrow be divided into quotcunque parts, each equal part of
+the Tension carries the Arrow to an Equal Distance, notwithstanding each equal
+part of the Tension was made by Unequal power, and that each equal Space or
+Part also of the Arrows first flight requires Unequal Force, viz. least
+strength at first, and most at last; and that, in the proportion first
+mentioned. So in the Fuze of a Watch, the greatest strength of the Spring is
+made to work upon the shortest Vectis; and the least upon the longest, so as to
+equalize the whole. The like also happens in the Traction of Muscles upon two
+Bones with a turning Joint between them; which Bones and Muscles make a
+Triangle, whereof the Muscle is the Base, subtending the Angle-Joynt. Now in
+the working, the Muscle is strongest, when the Vectis is smallest, as lying
+most obliquely; and vice versa, when the Muscle and moving Bone come to make a
+right Angle.
+
+An Appendix OF ELASTICITY.
+HAving done with the Consideration of duplicate and subduplicate Proportion in
+Elastic Bodies and Materials, I hope it will not be amiss to subjoyn a short
+Appendix of Elasticity it self, whereby to draw forth the better thoughts of
+other men for Countenance or Correction. Wherefore I say as follows; viz.
+
+First, Supposing every Body to have a Figure or Positure of its own, out of
+which it may be disturbed by External Force; I say, that Elasticity is the
+power of recovering that Figure, upon removal of such Force. 2. I think it
+easiest to consider Elastic, Springing, or Resilient Bodies, as Laminae, Laths,
+or Lines; so as a straight Lath, being by force bent circularly, does upon the
+removal of that Force, return to be straight again by its Elasticity; and a
+Circular Hoop being forced straight, leaps back into its own crookedness by its
+Elasticity. 3. Elastic Bodies in their returns do overshoot their own Natural
+Positure, and vibrate cis citra the Point they seek, as does a Pendulum, or
+MagneticNeedle, till at length they rest; the one in his Perpendicular, and the
+other in his Meridian. 4. An Elastic Body is a gross Tangible Body, which is
+made of Corpuscles, or the smallest Bodies that can possibly be seen; and these
+Corpuscles are made of Atoms, or the smallest bodies in Nature (such as whereof
+a Million does not perhaps make one of the Corpuscles last mentioned.) 5. I
+know no reason, why we may not, upon occasion, suppose Atoms to be of several
+Figures and Magnitudes, provided we suppose them immutable, such as Corpuscles
+are not; gross tangible Bodies being very mutable by the various Additions and
+Detritions that befall them. 6. I suppose in every Atome three such points as we
+all see and know to be in the Globe of the Earth, and in every Magnet, viz. two
+Poles in its Superficies, and a Central point within its substance, which I
+call its Byas. The Heavens also visibly have their Poles, and must have a
+Center of Gravity or Magnitude, or some other Central and predominant Point. 7.
+I suppose every Atome may move about his own Axis, and about other Atoms also,
+as the Moon does about the Earth; Venus and Mercury about the Sun; and the
+Satellites Iovis about Jupiter, etc. 8. I suppose, that the Byas of one Atome
+may have a tendency toward the Byas of another near it, and that the Byasses
+of many Atoms may tend to some common point without them; as we see in
+Electrical Bodies, and in the Globular drops of Water and Quicksilver, and all
+Mucilaginous Substances. 9. I suppose, that all Atoms have, like a Magnet, two
+Motions, one of Gravity, whereby it tends toward the Center of the Earth,
+and the other of Verticity, by which it tends toward the Earths-Poles, and
+whereby Magnets join to each other by their Opposite Poles. 10. All Atoms by
+their Motion of Verticity or Polarity, would draw themselves, like Magnets,
+into a straight Line, by setting all their Axes in directum to each other; did
+not the Motion of their respective Byasses toward each other, and toward
+other Points, curb them into a Triangle, whereof the Two Axes of Two Atoms are
+two sides, and the distance between the Bias of each making the third side:
+Wherefore I call the Polar Motion abovementioned, the Motion of Rectitude; and
+the Motion of the Biasses, the Motion of Angularity or Curvity, or the Angular
+or Curve Motion. 11. I suppose, that all these Motions may be of different
+Velocities, and that by Contra-colluctations they balance each other, sometime
+into seeming rest: I say, seeming, because perhaps there is no rest in Nature.
+Lastly, I might suppose (even without a Metaphor) that Atoms are also Male and
+Female, and the Active and Susceptive Principles of all things; and that the
+abovenamed Byasses are the Points of Coition: For, that Male and Female extend
+further than to Animals, is plain enough; the fall of Acorns into the ground,
+being the Coition of Oaks with the Earth. Nor is it absurd to think, that the
+words in Genesis, [Male and Female created he them] may begin to take effect,
+even in the smallest parts of the first Matter. For although the words were
+spoken only of Man; yet we see they certainly refer to other Animals, and to
+Vegetables in manner aforesaid, and consequently not improbably to all other
+Principles of Generation.
+Conclusion.
+To Conclude, I hope I may say, that these my Principles, are Principles
+indeed; for there can be no fewer nor easier than Matter and Motion. My Matter
+is so simple, as I take notice of nothing in each Atome, but of three such
+Points as are in the Heavens, the Earth, in Magnets, and in many other Bodies.
+Nor do I suppose any Motions, but what we see in the greater parts of the
+Universe, and in the parts of the Earth and Sea.
+
+Again, all the Motions I fancy in my Atoms, may be represented in gross
+Tangible Bodies, and consequently may be made intelligible and examinable.
+Moreover, I hope none of my Suppositions are inconsistent with each other, nor
+do necessarily infer any absurdity or falsehood.
+
+And lastly, I hope they solve all the Phenomenon of Elasticity, and, as I
+think, of Hardness, Fixedness, Tenacity, Fluidity, Heat, Moisture,
+Fermentation, and the rest. All which is humbly submitted to the Censure of
+this Society; whose Atoms or inseparable Members I wish may happily
+Conglomerate, and Unite themselves into the most fixed and most noble Bodies
+amongst the Sons of Men.
+
+FINIS.
+

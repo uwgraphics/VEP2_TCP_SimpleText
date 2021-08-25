@@ -1,0 +1,1223 @@
+Mechanic Dyalling: TEACHING Any Man, though of an Ordinary Capacity and
+unlearned in the Mathematics, to draw a True SUN-DYAL On any Given Plane,
+However situated: Only with the help of a straight RVLER and a pair of
+COMPASSES; And without any Arithmetical Calculation.
+
+By Joseph Moxon, Hydrographer to the Kings most Excellent Majesty.
+
+LONDON. Printed for Joseph Moxon on Ludgate Hill, at the Sign of Atlas.
+MDCLXVIII
+
+MECHANIC DYALLING.
+Description of Dyalling.
+DYalling originally is a Mathematical Science, attained by the Philosophical
+contemplation of the motion of the Sun, the motion of the Shadow, the
+Constitution of the Sphere, the Situation of Planes, and the consideration of
+Lines.
+
+Explanation.
+THE motion of the Sun is regular, it moving equal Space in equal Time; But the
+motion of the Shadow irregular in all parts of the Earth, unless under the two
+Poles, and that more or less according to the Constitution of the Sphere and
+situation of the Plane. And therefore Scientifick Dyalists by the Geometrick
+considerations of Lines, have found out Rules to mark out the irregular motion
+of the Shadow in all Latitudes, and on all Planes, to comply with the regular
+motion of the Sun. And these Rules of adjusting the motion of the Shadow to
+the motion of the Sun may be called Scientifick Dyalling.
+
+But though we may justly account Dyalling originally a Science, yet such has
+been the Generosity of many of its studious Contemplators, that they have
+communicated their acquired Rules; whereby it is now become to many of the
+Ingenious no more difficult than an Art, and by many late Authors so entitled:
+Nay more, by this small Treatise it will scarce be accounted more than a Manual
+Operation; for, though (hitherto) all the Authors I have met with seem to
+presuppose their Reader to understand Geometry, and the projecting of the
+Sphere already, or else endeavor in their Works to make him understand them,
+as if they were absolutely necessary to be known by every one that would make a
+Dyal, when as in truth (the contemplative pains of others aforesaid considered)
+they are not; but indeed are only useful to those that would know the reason of
+Dyalling. Thus they do not only discourage young beginners, but also disappoint
+many Gentlemen and others that would willingly either make them themselves, or
+set their Workmen about them, if they knew how to make them.
+
+This little Piece I have therefore composed for the help of those who
+understand neither the Projection of the Sphere, or Geometrical Operations:
+Only, if they know how to draw a straight Line between two Points by the side
+of a Ruler, describe a Circle with a pair of Compasses, erect a Perpendicular,
+and draw one Line parallel to another, they may know how to draw a Dyal for any
+given Plane, however situated in any Latitude.
+
+But perhaps these two last little Tricks are not known to all new beginners,
+therefore I shall show them. First,
+
+How to erect a Perpendicular. For Example, in Fig. 1.
+Upon the Line AB you would erect a Perpendicular to the Point C: Place one
+Foot of your Compasses upon the point C, and open the other to what distance
+you please; For Example, to the point A, make there a mark; then keeping the
+first Foot still in C, turn the other Foot toward B, and make there another
+mark; then open your Compasses wider, suppose to the length AB, and placing one
+Foot in the point A, with the other Foot describe a small Arch over the point
+C, and removing the Foot of your Compasses to the point B, with the other Foot
+describe another small Arch, to cut the first Arch, as at D. Then lay your
+straight Ruler to the point where the two small Arches cut each other, and upon
+the point C, and by the side of the Ruler draw the Line CD, which shall be a
+Perpendicular to the Line AB.
+
+Another way with once opening the Compasses, as by Fig. 2.
+Draw the Line AB, and place one Foot of your Compasses upon the point you
+would have the Perpendicular erected, as at the point C, and with the other
+foot describe the Semicircle A ab B, then placing one Foot in B, extend the
+other Foot to b, in the Semicircle; and keeping that Foot in b, extend the
+other Foot to D, and make there a small Arch: Then remove one Foot of your
+Compasses to A, and extend the other Foot to a in the Semicircle, and keeping
+that Foot in a, extend the other to D, and make there another small Arch, to
+cut the first small Arch; and laying a straight Ruler to the point where these
+two small Arches cut each other, and upon the point C, draw by the side of the
+Ruler the Line CD, which shall be Perpendicular to the Line AB.
+
+To erect a Perpendicular upon the end of a Line, as by Fig. 3.
+On the point B, at one end of the Line AB, place one Foot of your Compasses in
+the point B, and extend the other on the Line toward A, as to b, and with it
+describe the Arch ba C; then placing one Foot in b, extend the other to a in
+the Arch, and make there a mark; Divide with your Compasses the Arch ba into
+two equal parts, and keeping the Feet of your Compasses at that distance,
+measure in the Arch from a to C, then draw a straight Line from the point C to
+the end of the Line B, and that straight Line shall be Perpendicular to the end
+of the Line AB.
+
+To draw a Line Parallel to another Line, as by Fig. 4.
+Example. If you would draw a Line Parallel to the Line AB, open your Compasses
+to the distance you intend the Lines shall stand off each other, and placing
+one Foot successively near each end, describe with the other Foot the small
+Arches CD; lay a straight Ruler to the top of these Arches, and draw a Line by
+the side of it, and that Line shall be Parallel to the Line AB.
+
+Definitions.
+A Dyal Plane is that Flat whereon a Dyal is intended to be projected.
+
+Of Dyal Planes some be Direct, other Decliners, others Oblique.
+
+Of Direct Planes there are five sorts: 1. The Horizontal whose Plane lies
+flat, and is parallel to the Horizon, beholding the Zenith. 2. The South Erect,
+whose Plane stands upright, and directly beholds the South. 3. The North Erect,
+whose Plane stands upright, and directly beholds the North. 4. The East Erect,
+whose Plane stands upright, and directly beholds the East. 5. The West Erect,
+whose Plane stands upright, and directly beholds the West.
+
+
+Of Decliners there are infinite: and yet may be reduced into these two Kinds:
+1. The South Erect Plane, declining more or less toward the East or West. 2.
+The North Erect Plane, declining more or less toward the East or West.
+
+
+Of Oblique Planes some are Direct, others Declining; and are of four sorts: 1.
+Direct Inclining Planes, which lean toward you, and lie directly in the East,
+West, North, or South quarters of Heaven. 2. Direct Reclining Planes, which
+lean from you, and lie directly in the East, West, North, or South quarters of
+Heaven. 3. Inclining Declining Planes, which lean toward you, but lie not
+directly in the East, West, North, or South quarters of Heaven: But decline
+more or less from the North or South, toward the East or West. 4. Reclining
+Declining Planes, which lean from you, but lie not directly in the East, West,
+North, or South quarters of Heaven: But Decline more or less from the North or
+South, toward the East or West.
+
+
+If the Situation of the Plane be not given, you must seek it: For, there are
+several ways how to know these several kinds of Planes used among Artists; But
+the readiest and easiest is by an Instrument called a Declinatory, fitted to
+the variation of your Place: And if it be truly made, you may as safely rely
+upon it as any other.
+
+OPERATION I. The Description of the Clinatory.
+THE Clinatory is made of a square Board, as ABCD, of a good thickness;, and
+the larger the better; between two of the side is described on the Center Aa
+Quadrant as OF divided into 90 equal parts or degrees, which are figured with
+10, 20, 30, to 90; and then back again with the Complements of the same numbers
+to 90: between the Limb and the two Semi-diameters is made a round Box, into
+which a Magnetical Needle is fitted; and a Card of the Nautical Compass,
+divided into four Nineties, beginning their numbers at the East, West, North,
+and South points of the Compass, from which points the opposite sides of the
+Clinatory receives their Names of East, West, North and South.
+
+But, Note, that the North point of the Card must be placed so many degrees
+toward the East or West sides of the Clinatory as the Needle varies from the
+true North point of the world, in the place where you make your Dyal; which
+your Workman that makes your Clinatory will know how to fit.
+
+Upon the Center A, whereon the Quadrant was described, is fastened a
+Plumb-line, having a Plumbet of Lead or Brass fastened to the end of it, which
+Plumb-line is of such length that the Plumbet may fall just into the Grove GH,
+below the Quadrant, which is for that purpose made of such a depth that the
+Plumbet may ride freely within it, without stopping at the sides of it. See the
+Figure annexed.
+
+
+
+With this Clinatory you may examine the situation of Planes. As if your Plane
+be Horizontal, it is direct: and then for the true scituating your Dyal you
+have only the true North and South Line to find: which is done only by setting
+the Clinatory flat down upon the Plane, and turning it toward the right or
+left hand, till you can bring the North point of the Needle to hang just over
+the Flower-de-luce, for then if you draw a Line by either of the sides parallel
+to the Needle, that Line shall be a North and South Line.
+
+If Your Plane either Recline or Incline, Apply one of the sides of your
+Clinatory parallel to one of the Semi-diameters of the Quadrant to the Plane,
+in such sort that the Plumb-line hanging at liberty, may fall upon the
+Circumference of the Quadrant, for then the number of degrees of the Quadrant
+comprehended between the side of the Quadrant parallel to the Plane, and the
+Plumb-line shall be the number of degrees for Reclination, if the Center of the
+Quadrant points upwards; or Inclination, if the Center points downwards.
+
+If your Reclining or Inclining Plane Decline, Draw upon it a Line parallel to
+the Horizon, which you may do by applying the backside of the Clinatory, and
+raising or depressing the Center of the Quadrant, till the Plumb-line hang just
+upon one of the Semi-diameters, for then you may by the upper side of the
+Clinatory draw an Horizontal Line if the Plane Incline, or by the under side if
+it Recline. If it neither Incline or Recline, you may draw a Horizontal Line
+both by the upper and under sides of the Clinatory. Having drawn the Horizontal
+Line, apply the North side of the Clinatory to it, and if the North end of the
+Needle points directly toward the Plane, it is then a South Plane. If the
+North point of the Needle points directly from the Plane, it is a North Plane:
+but if it points toward the East, it is an East Plane: if toward the West, a
+West Plane. If it do not point directly either East, West, North, or South,
+then so many degrees as the Needle declines from any of these four points to
+any of the other of these four points, so many degrees is the Declination of
+the Plane.
+
+You may find a Meridian Line another way; thus, If the Sun shine just at Noon,
+hold up a Plumb-line so as the shadow of it may fall upon your Plane, and that
+shadow shall be a Meridian Line.
+
+OPERAT. II. To describe a Dyal upon a Horizontal Plane.
+FIrst draw a North and South Line (which is called a Meridian Line) through
+the middle of the Plane: Thus, Set your Declinatory flat upon the Plane, and
+turn it to and fro till the Needle hang precisely over the Meridian Line of the
+Declinatory; then by the side of the Declinatory parallel to its Meridian Line,
+draw a straight Line on the Plane, and if that straight Line be in the middle
+of the Plane, it shall be the Meridian Line, without more ado: But if it be not
+in the middle of the Plane, you must draw a Line parallel to it through the
+middle of the Plane for the Meridian Line, or twelve a Clock line: And it shall
+be the Meridian Line, and also be the Substilar Line; then draw another
+straight Line through the middle of this Line, to cut it at right Angles for
+the VI. a Clock Lines; and where these two Lines cut one another make your
+Center, whereon describe a Circle on your Plane as large as you can, which by
+the Meridian Line, and the Line drawn at right. Angles with it will be divided
+into four Quadrants; one of the Quadrants devide into 90 degrees thus, Keeping
+your Compasses at the same width they were at when you described the Quadrant,
+place one Foot in the twelve a Clock Line, and extend the other in the
+Quadrant, and make in the Quadrant a mark with it; so shall you have the
+sixtieth degree marked out: then place one Foot of your Compasses in the six a
+Clock Line, and extend the other in the Quadrant, and make in the Quadrant
+another mark with it; so shall that Quadrant be divided into three equal parts;
+each of these three equal parts contains 30 degrees: Then with your Compasses
+devide one of these three equal parts into three parts, and transfer that
+distance to the other two third parts of the Quadrant, so shall the whole
+Quadrant be divided into nine equal parts. Then devide one of these nine equal
+parts into two equal parts, and transfer that distance to the other eight equal
+parts, so shall the Quadrant be divided into eighteen equal parts. Then devide
+one of these eighteen equal parts into five equal parts, and transfer that
+distance to the other seventeen equal parts, so shall the whole Quadrant be
+divided into 90 equal parts. Each of these 90 equal parts are called Degrees.
+
+Note, That you may in small Quadrants devide truer and with less trouble with
+Steel Deviders, (which open or close with a Screw for that purpose,) than you
+can with Compasses.
+
+In this Quadrant (thus divided) count from the Substilar or Meridian Line the
+Elevation of the Pole, that is, the number of Degrees that the Pole of the
+World is elevated above the Horizon of your Place, and draw a Line from the
+Center through that number of Degrees for the Stilar Line. Then on the
+Substilar Line choose a point (where you please) and through that point draw a
+Line at right Angles to the Substilar Line as long as you can, for the Line of
+Contingence, and from that point in the Substilar Line measure the nearest
+distance any part of the Stilar Line has to that point; and keeping one Foot
+of your Compasses still in that point, set off that distance in the Substilar
+Line, and at that distance describe against the Line of Contingence a
+Semicircle, which devide from either side the Meridian or Substilar Line into
+six equal parts thus; Draw a Line through the Center of this Semicircle
+parallel to the Line of Contingence, which shall be the Diametral Line, and
+shall devide this Semi Circle-into two Quadrants; one on one side the Substilar
+Line, and the other Quadrant on the other side the Substilar Line: Then keeping
+your Compasses at the same distance they were at when you described the
+Semicircle, place one Foot first on one side the Diametral Line at the
+Intersection of it and the Semicircle, and then on the other side, at the
+Intersection of it and the Semicircle, and extend the other in the
+Semicircle, and make marks in the Semicircle on either side the Substilar
+Line: Then place one Foot of your Compasses at the Intersection of the
+Semicircle and the Substilar Line, and turn the other Foot about on either
+side the Semicircle and make marks in the Semicircle, so shall the
+Semicircle be divided into six equal parts: Devide one of these equal parts
+into two equal parts, and transfer that distance to the other five equal parts,
+so shall the whole Semicircle be divided into twelve equal parts. These twelve
+Devisions are to describe the twelve Hours of the Day, between six a Clock in
+the Morning, and six a Clock at Night.
+
+If you will have half Hours you may devide each of these twelve into two equal
+parts, as before: If you will have Quarters you may devide each of these twenty
+four into two equal parts more, as before.
+
+For thus proportioning the Devisions in the Semicircle, you may proportion
+the Devisions and Subdevisions of Hours upon the Dyal Plane; for a straight
+Ruler laid upon each of these Devisions, and on the Center of this Semicircle,
+shall show on the Line of Contingence the several Distances of all the Hours
+and parts of Hours on the Dyal Plane: And straight Lines drawn from the Center
+of the Dyal Plane, through the several Devisions on the Line of Contingence
+shall be the several Hour Lines and parts on the Dyal Plane.
+
+But an Horizontal Dyal in our Latitude will admit of four Hours more, viz. V,
+IV, in the Morning, and VII, VIII, in the Evening. Therefore in the Circle
+described on the Center of the Dyal Plane transfer the distance between VI and
+V, and VI and IV, on the other side the six a Clock Line; And transfer the
+Distances between VI and VII, and VI and VIII on the other side the opposite
+six a Clock Hour Line, and from the Center of the Dyal Plane draw Lines through
+those transferred Distances for the Hour Lines before and after VI.
+
+Then mark your Hour Lines with their respective numbers. The Substiler Line in
+this Dyal (as aforesaid) is XII, from thence toward the right hand mark every
+successive Hour Line with I, II, III, etc. and from XII toward the left hand
+with XI, X, IX, etc.
+
+The Style must be erected perpendicularly over the Substilar Line, so as to
+make an Angle with the Dyal Plane equal to the Elevation of the Pole of your
+Place.
+
+Example.
+You would draw a Dyal upon a Horizontal Plane here at London; First draw the
+Meridian (or North and South Line) as XII B, and cross it in the middle with
+another Line at right Angles, as VI, VI, which is an East and West Line; where
+these two Lines cut each other as at A, make the Center, whereon describe the
+Semicircle B, VI.VI; but one of the Quadrants, viz. the Quadrant from XII to
+VI, toward the right hand you must devide into 90 equal parts (as you were
+taught in Fol. 12.) and at 51 degrees (which is Londons Latitude) make a mark,
+and laying a straight Ruler to the Center of the Plane, and to this mark draw a
+Line by the side of it for the Stiler Line. Then on the Substilar Line choose a
+point as at C, and through that point draw a Line as long as you can
+perpendicular to the East and West Line VI, VI, as OF, (which is called the
+Contingent Line,) where this Contingent Line cuts the Substilar Line place one
+Foot of your Compasses, and from thence measure the shortest distance between
+the point C and the Stilar Line. And keeping one Foot of your Compasses still
+in the point C, set off the shortest distance between the point C and the
+Stilar Line on the Substilar Line, as at D; which point D shall be a Center,
+whereon with your Compasses at the same width you must describe a Semicircle
+to represent a Semicircle of the Equinoctial. This Semicircle devide into six
+equal parts (as you were taught Fol. 13.) to each of which equal parts, and to
+the Center of the Equinoctial Semicircle lay a straight Ruler, and where the
+straight Ruler cuts the Line of Contingence make marks in the Line of
+Contingence. Then lay the straight Ruler to the Semicircle of the Dyal Plane,
+and to each of the marks in the Line of Contingence, and by the side of it draw
+twelve straight Lines for the twelve Fore and Afternoon Hour Lines, viz. from
+VI in the Morning to VI in the Evening. Then in the Quadrant VI B, measure the
+distance between the VI a Clock Hour Line, and the V a Clock Hour Line, and
+transfer the same distances from the VI a Clock Line to VII, and V on both
+sides the VI a Clock Hour Lines, and through those distances draw from the
+Center of the Plane the VII and V a Clock Hour Lines, and measure the distance
+between the VI a Clock Hour Line and the IV a Clock Hour Line, and transfer the
+same distance from the VI a Clock Line to VIII and IV, and through those
+distances draw from the Center of the Plane the VIII a Clock and IV a Clock
+Hour Lines.
+
+
+
+If you will have the half Hours and quarter Hours, or any other devision of
+hours, you must devide each six devisions of the Equinoctial into so many parts
+as you intend, and by a straight Ruler laid to the Center of the Equinoctial,
+and those devisions in the Equinoctial Circle make marks in the Line of
+Contingence, as you did before for the whole Hour Lines; and Lines drawn from
+the Center of the Plane through those marks shall be the sub-devisions of the
+Hours: But you must remember to make all sub-devisions short Lines, and near
+the verge of the Dyal Plane, that you may the easier distinguish between the
+whole Hours and the parts of Hours; as you may see in the Figure.
+
+Having drawn the Hour Lines, set the number of each Hour Line under it, as you
+see in the Figure.
+
+Last of all sit a Triangular Iron, whose angular point being laid to the
+Center of the Dyal Plane, one side must agree with the Substilar Line, and its
+other side with the Stilar Line; so is the Style made. And this Style you must
+erect perpendicularly over the Substilar Line on the Dyal Plane, and there fix
+it. Then is your Dyal finished.
+
+OPERAT. III. To describe an Erect Direct South Dyal.
+YOU may know an Erect Direct South Plane by applying the North side of the
+Declinatory to it; For then if the North end of the Needle hang directly over
+the North point of the Card in the bottom of the Box, it is a South Plane; but
+if it hang not directly over the North point of the Card, it is not a Direct
+South Plane, but Declines either East or West, and that contrary to the
+pointing of the Needle Easterly or Westerly from the North point of the Card:
+for if the North point of the Needle points Easterly, the Plane Declines from
+the South toward the West: if it point Westerly, the Plane Declines from the
+South toward the East.
+
+You may know if the Plane be truly Erect or upright, by applying one of the
+sides AB or AD to it; for then by holding the Center A upwards, so as the
+Plumb-line play free in the Grove, if the Line falls upon 0, or 90, the Plane
+is upright; but if it hang upon any of the intermediate Degrees, it is not
+upright, but Inclines or Reclines.
+
+If you find it Incline, apply the side AB to it, and see what number of
+Degrees the Plumb-line falls on, for that number of Degrees counted from the
+side AB, is the number of Degrees of Inclination.
+
+If you find the Plane Reclines, apply the side AD to it, and see what number
+of Degrees the Plumb-line falls on, for that number of Degrees counted from the
+side AD is the number of Degrees of Reclination.
+
+These Rules being well understood, may serve you to find the situation of all
+other sorts of Planes.
+
+But for the making a Dyal on this Plane, you must first draw a Meridian Line
+through the middle of the Plane, by applying a Plumb-line to the middle of it,
+till the Plumbet hang quietly before it: for then if the Plumb-line be black't
+(for a white Ground, or chalked for a dark Ground) and strained as Carpenters
+do their Lines, you may with one stroke of the string on the Plane describe the
+Meridian Line, as A XII: This Meridian is also the Substilar Line.
+
+
+
+Then on the top of this Meridian Line, as at A, draw another Line athwart it
+to cut it at right Angles, as VI, VI, for an East and West Line. At the meeting
+of these two Lines on the top, make your Center, whereon describe a Semicircle
+on your Plane, as large as you can, which by the Meridian Line and the East and
+West Line will be divided into two Quadrants. One of these Quadrants devide
+into 90 Degrees (as you were taught Fol. 12.) and from the Substilar Line count
+the Complement of the Poles Elevation, which (here at London where the Pole is
+elevated 51 Degrees, its Complement to 90) is 38 Degrees, and make there a
+mark, as at E. Then on the Substilar Line choose a point (where you please) as
+at F, for the Line of Contingence to pass through: which Line of Contingence
+draw as long as you can, so as it may cut the Substilar Line at right Angles,
+and from the point F in the Substilar Line measure the shortest distance
+between it and the Stilar Line, and keeping one Foot of your Compasses still in
+the point F, transfer that distance into the Substilar Line, as at G; then on
+the point G describe a Semicircle of the Equinoctial against the Line of
+Contingence, which Semicircle devide into twelve equal parts, (as you were
+taught by the Example in the Horizontal Dyal, Fol. 13.) and by a straight Ruler
+laid to each of these Devisions, and to the Center of the Semicircle make
+marks in the Line of Contingence by the side of the Ruler: For straight Lines
+drawn from the Center of the Dyal Plane through these marks in the Contingent
+Line shall be the 12 Hour Lines before and after Noon.
+
+Then mark your Hour Lines with their respective Numbers: The Substilar or
+Meridian Line is XII, from thence toward the right hand with I, II, III, etc.
+and from thence toward the left hand with XI, X, IX, etc.
+
+The Style must be erected perpendicularly over the Substilar Line, so as to
+make an Angle with the Dyal Plane equal to the Complement of the Poles
+Elevation, viz. 38 Degrees.
+
+OPERAT. IV. To make an Erect Direct North Dyal.
+THE Erect Direct North Dyal, Style and all, is made by the same Rules,
+changing upwards for downwards, and the left side for the right, the Erect
+Direct South Dyal is made: for if the Erect Direct South Dyal be drawn on any
+transparent Plane, as on Glass, Horn, or an oyled Paper, and the Horizontal
+Line VI, VI, turned downwards, and the Line VII marked with V, the Line VIII
+with IIII, the Line V with VII, and the Line IIII with VIII, then have you of
+it a North Erect Direct Dyal.
+
+All the other Hour Lines in this Dyal are useless, because the Sun in our
+Latitude shines on a North Face the longest Day only before VI in the Morning,
+and after VI at Night.
+
+OPERAT. V. To describe an Erect direct East Dyal.
+HAng a Plumb-line a little above the place on the Wall where you intend to
+make your Dyal, and wait till it hang quietly before the Wall: Then if the Line
+be rubbed with Chalk (like a Carpenters Line) you may by holding the Plumbet
+end close to the Wall, and straining it pretty stiff, strike with it a straight
+Line, as Carpenters do: This Line shall be a perpendicular, as AB. Then choose a
+convenient point in this Perpendicular, as at C, for a Center, whereon describe
+an occult Arch, as DE; This Arch must contain the number of Degrees of the
+Elevation of the Equinoctial, counted between D and E, which in our Latitude is
+38, or (which is all one) the Complement of the Poles Elevation. Therefore in a
+Quadrant of the same Radius with the occult Arch measure 38 Degrees, and set
+them off in the Plane from E to D: Then from D to the Center C in the
+Perpendicular draw the pricked Line DC; this pricked Line shall represent the
+Axis of the World. Then cross this Line at right Angles with the Line CF, and
+draw it from C to F, so long as possibly you can: This Line shall be the
+Contingent Line. Then choose a point in this Contingent Line, as at VI, draw a
+Line through that point at right Angles for the Substilar Line, as G VI H for
+the Substilar Line; then open your Compasses to a convenient width, (as to VIG)
+and pitching one Foot in the point G, with the other Foot describe a
+Semicircle of the Equinoctial against the Line of Contingence, which
+Semicircle devide from VI both ways into six equal parts, as you were taught
+by the Example in the Horizontal Dyal: and laying a straight Ruler on the
+Center of this Semicircle of the Equinoctial, and to each of those equal parts
+mark on the Contingent Line where the Ruler cuts it, for those marks shall be
+the several points from whence Lines drawn parallel to the Line CD shall be the
+respective Hour Lines.
+
+
+
+The reason why the Contingent Line is drawn from VI. to F, so much longer than
+from VI to C is; because the Hour Lines from VI toward XII are more in number
+toward Noon, than they are from VI backward toward IIII: for this Dyal will
+only show the Hours from a little before IV in the Morning to almost Noon: For
+just at Noon the Shadow goes off the Plane; as you may see if you apply a
+straight Ruler to the Center of the Equinoctial Semicircle G, and lay it to
+the point 12 in the Semicircle; for the straight Ruler will then never cut the
+Line of Contingence, because the Line of Contingence is parallel to the Line G
+XII on the Equinoctial Circle, and Lines parallel, though continued to never so
+great a length never meet.
+
+To these Hour Lines, set Figures as may be seen in the Scheme.
+
+The Style IK of this Dyal as well as of all others must stand parallel to the
+Axis of the World; and also parallel to the Face of the Plane, and parallel to
+all the Hour Lines, and stand directly over the Substilar or VI a Clock
+Hour-Line, and that so high as is the distance of the Center of the Equinoctial
+Semicircle from the Contingent Line.
+
+OPERAT. VI. To describe a Dyal on an Erect Direct West Plane.
+AN Erect Direct West Dyal, is the same in all respects with an Erect Direct
+East Dyal: Only as the East Dyal shows the Forenoon Hours, so the West shows
+the Afternoon Hours.
+
+Thus if you should draw the East Dyal on any transparent Plane, as on Glass,
+Horn, or oyled Paper, on the one side will appear an East Dyal, on the other
+side a West: Only the numbers to the Hour Lines (as was said before in the
+North Dyal) must be changed; for that which in the East Dyal is XI, in the West
+must be I; that which in the East Dyal is X, in the West must be II; that which
+in the East Dyal is IX, in the West must be III, etc. The Style is the same.
+
+OPERAT. VII. To describe a Dyal on an Erect North, or Erect South Plane
+Declining Eastwards or Westwards.
+THese four Dyals, viz. the Erect North Declining Eastwards, the Erect North
+Declining Westwards, the Erect South Declining Eastwards, and the Erect South
+Declining Westwards, are all projected by the same Rules; and therefore are in
+effect but one Dyal differently placed, as you shall see hereafter.
+
+First draw on your Plane a straight Line to represent the Horizon of your
+place, and mark one end of it W for West, and the other end E for East. Choose a
+point in this Horizontal Line for a Center, as at A, whereon you may describe a
+Circle to comprehend all these four Dyals: Draw a Line as MAM perpendicular to
+the Horizontal Line WE, through the Center A for a Meridian Line, and on that
+Center describe a Circle, which by the two Lines WAE, and MAM will be divided
+into four Quadrants, which will comprehend the four Dyals aforesaid: for if it
+be a North declining West you are to draw, the upper Quadrant to the left hand
+serves your purpose: If a South Declining West, the same Lines continued
+through the Center A into the lower Quadrant to the right Hand serves your
+turn; if a North Declining East, the upper Quadrant to the right Hand serves
+your turn; or if a South Declining East, the same Lines continued through the
+Center A into the lower Quadrant to the left hand serves your turn; and you
+must draw the Declination, Complement of the Poles Altitude, Substile, Style
+and Hour Lines in it; but the Hour Lines must be differently marked as you
+shall see hereafter. I shall only give you an Example of one of these Dyals;
+viz. A South Declining East.
+
+
+
+We will suppose you are to draw a Dyal that declines from the South 50 Degrees
+toward the East; here being but one Dyal, you need describe but one Quadrant
+of a Circle. Set off in the lower Quadrant WAM 50 degrees from the Meridian
+Line M toward W, and from the Center A draw a straight Line through that mark
+in the Quadrant as DA, which may be called the Line of Declination; then set
+off from the Meridian Line the Complement of the Poles Elevation, which in our
+Latitude is 38 degrees, and there draw another Line from the Center as AP,
+which we will call the Polar Line. Then take in the Horizontal Line a
+convenient portion of the Quadrant, as AB, and from the point B draw a Line
+parallel to the Meridian Line AM, and continue that Line till it intersect the
+Polar Line, as at P, from which Point P draw a Line parallel to WA, as PC: Then
+measure the distance of AB in the Horizontal Line, and set off that distance in
+the Line of Declination, as from A to D, and from that point of distance draw a
+Line parallel to the Meridian AM through the Horizontal Line at R, and through
+the Point D, and continue it through the Line PC, as at S; then laying a
+straight Ruler to the Center A, and the Intersection of the Line PC, at S draw
+the Line AS for the Substile: Then upon the Point S erect a Line
+perpendicularly as ST; Then measure the distance between R and D, and set that
+distance off from S to T, and from the Center to the point T draw the Line AT
+for the Style or Gnomon; and the Triangle SAT made of Iron or Brass and erected
+perpendicularly over the Substile SA shall by its upper side TA cast a shadow
+upon the Hour of the day. But you will say the Hour Lines must be drawn first:
+It is true; Therefore to draw them you must choose a point in the Substile Line
+where you think good, and through it draw the Line FF as long as you can for
+the the Line of Contingence: then with your Compasses take the shortest
+distance between this point and the Style, and transfer that distance below the
+Line of Contingence on the Substile as at Ae, and with your Compasses at that
+distance describe on the Center Ae a Circle to represent the Equinoctial; Then
+(as you were taught in the Example of the Horizontal Dyal) devide the
+Semicircle of the Equinoctial into twelve equal parts, beginning at the point
+in the Equinoctial Circle, where a straight Line drawn from the Center of it to
+the Intersection of the Line of Contingence with the Meridian Line cuts the
+Equinoctial Line, as here at the Point G; Then lay a straight Ruler to the
+Center of the Equinoctial Circle, and to every one of the Devisions in the
+Semicircle, and mark where the straight Ruler cuts the Contingent Line; for
+straight Lines drawn from the Center A of the Dyal to those several marks on
+the Contingent Line shall be the Hour Lines; and must be numbered from the Noon
+Line or Meridian A M backwards, as XII, XI, X, IX. etc. toward the left hand.
+So is your Dyal finished.
+
+This Dyal drawn on any transparent matter as Horn, Glass, or an oyled Paper,
+shall on the other side the transparent matter become a South Declining West,
+(Style and all) but then the I a Clock Hour Line must be marked II, the XII
+XII, the XI a Clock Hour Line I, X, II, IX, III, etc.
+
+If you project it anew, you must describe the Quadrant MW on the other side
+the Meridian Line, on the Center A from M to E, and then count, (as before) the
+Declination, Altitude of the Pole, Substile, and Style in the Quadrant,
+beginning at M toward E, and work in all respects as with the South Declining
+East; only number this South Declining West as in the foregoing Paragraph.
+
+If you project a North Declining East, you must describe the Quadrant above
+the Horizontal Line from M upwards, toward E on your right hand, and count (as
+before) the Declination, Altitude, Complement of the Pole, Substile, and Style
+from the Meridian Line, and work as with the South Declining East: It must be
+numbered from the Meridian Line M toward the right hand with XI, X, IX, VIII,
+etc.
+
+If this Dyal were drawn on transparent matter, the other* side would show a
+North Declining West: But if you will project it anew, you must describe the
+Quadrant above the Horizontal Line, from M upwards toward W, and count from
+the Meridian Line AM the Declination, Complement, Altitude of the Pole,
+Substile and Style, and work with them (in all respects) as with the South
+Declining East; but then the XI a Clock Hour Line must be marked I, the X, II;
+the IX, III, etc.
+
+OPERAT. VIII. To draw a Dyal on an East or West Plane Reclining, or Inclining.
+DRaw a straight Line parallel to the Horizon, to represent a Meridian, or XII
+a Clock Line, and mark one end N, the other S; Choose a point in this Line, as
+at A for a Center: then if your Plane be an East or a West Incliner, let fall a
+Perpendicular upon this Center, (that is, the Perpendicular must stand above
+the Meridian Line NS.) as AE, and upon the Center A describe a Semicircle
+above the Meridian Line NS;) But if your Plane be an East Incliner, or a West
+Recliner, let fall a Perpendicular from the Center A under the Meridian Line,
+and upon the Center A describe a Semicircle under the Meridian Line. If your
+Plane be a West Incliner, work (as shall be taught) in the Quadrant on the left
+hand above the Meridian Line. If an East Recliner, in the Quadrant on the right
+hand above the Meridian Line. If it be a West Recliner, work in the Quadrant on
+the left hand under the Meridian. If an East Incliner, in the Quadrant under
+the Meridian Line the right hand.
+
+For Example, An East Dyal Reclining 45 Degrees.
+You would draw a Dyal on an East Plane Reclining 45 Degrees: Therefore in the
+Quadrant on the right hand above the Meridian Line, set off from the
+Perpendicular AE 45 Degrees on the Quadrant, for the Reclination of the Plane;
+and set off also in the Quadrant 38 Degrees from the Perpendicular for the
+Complement of the Poles Elevation, and at these settings off make marks in the
+Quadrant: Then lay a straight Ruler to the Center A, and to the marks in the
+Quadrant, and draw straight Lines through them from the Center. Then choose in
+the Meridian Line NS a convenient point, as at B, and through that point draw a
+Line parallel to the Perpendicular AE, which will intersect the Line drawn for
+the Complement of the Poles Elevation AP in P; from which point P, draw a Line
+parallel to the Meridian Line NS, to cut the Perpendicular AE in C, and also
+the Line of Obliquity AO in O. Then measure the length AO, and set off that
+length in the Perpendicular ACE from A to E, and draw the Line EG parallel to
+the Meridian Line NS, which will cut the Line BP prolonged in G. Measure also
+the length of CO, and set that length off from A to Q on the Line of Obliquity
+AO, and draw the Line QR parallel to the Perpendicular ACE. Then measure the
+distance of AR, and upon the Line GPB set it off from G to S; and laying a
+straight Ruler to the point S and the Center A, draw by the side of it the Line
+AS; for the Substile Line. Then measure the length of QR, and from S raise a
+Perpendicular, and in that Perpendicular set that length off from S to T; and
+laying a straight Ruler to the Center A and the point T, draw the Line AT for
+the Stilar Line, which Stilar Line being perpendicularly erected over the
+Substilar Line AS, will stand parallel to the Axis of the World, and cast its
+shadow on the Hour of the Day.
+
+
+
+To draw the Hour Lines on this Plane, you must (as you have several times
+before been directed) choose a point in the Substilar Line, and through that
+point draw at right Angles with the Substilar Line the Line of Contingence so
+long as you can: Then measure the shortest distance between that Point and the
+Stilar Line, and transfer that distance below the Line of Contingence in the
+Substilar Line, as at Ae, and with your Compasses at that distance describe
+against the Line of Contingence the Equinoctial Circle; Then divide the
+Semicircle of the Equinoctial next the Line of Contingence into twelve equal
+parts, (as you have formerly been taught) beginning at the Point in the
+Equinoctial Circle, where a straight Line drawn from the Center of it to the
+Intersection of the Line of Contingence with the Meridian Line NS cuts the
+Equinoctial Circle, as here at the point D: Then lay a straight Ruler to the
+Center of the Equinoctial Circle, and to every one of the Devisions in the
+Equinoctial Semicircle, and mark where the straight Ruler cuts the Contingent
+Line: for straight Lines drawn from the Center A of the Dyal through these
+several marks in the Contingent Line shall be the Hour Lines, and must be
+numbered from the Meridian or Noon-Line NS which is the XII a Clock Line
+upwards, with XI, X, IX, VIII, etc. The Center of this Dyal must stand downward.
+
+If this Dyal were turned with its Center upwards, it would show a West
+Inclining 45 degrees, only the numbers to the Hour Lines must be changed; for
+to XI you must set I, to X, II; to IX, III, etc. and the Substile over which
+the Style must stand, must be placed in the Semicircle (at first described) as
+much to the right hand the Perpendicular AE, as it does on the left hand.
+
+If this Dyal were drawn on Glass, Horn, or an oyled Paper, and you turn the
+Meridian Line NS upwards, the backside shall be an East Inclining 45 degrees,
+and the Hour Lines must be numbered as they are on the East Reclining: But the
+Substile over which the Style must stand, must be placed, in the Semicircle
+(at first described) as much to the left hand the Perpendicular AE, as it is on
+the oyled Paper to the right hand.
+
+If you turn the Meridian Line NS downwards, the backside shall be a West
+Recliner 45 degrees, and the Hour Lines must be numbered from the XII a Clock
+Line upwards, with I, II, III, etc.
+
+You must note that all the Hour Lines of the Day will not be described in this
+single Quadrant, nor does the Quadrant at all relate to the Hour Lines; but is
+described only for setting off the Complement of the Poles Elevation and
+Reclination of the Plane, that by working (as has been shown) you may find the
+place of the Substilar Line, and the Angle the Style makes with it: For having
+the Substilar Line, you know how to draw the Line of Contingence, and to
+describe the Equinoctial Circle, by which all the Hours are described on the
+Plane.
+
+To draw a Dyal on a Direct South or North Plane Inclining or Reclining.
+Direct Reclining or Inclining Dyals are the same with Erect Direct Dyals that
+are made for the Latitude of some other Places; the Latitude of which Places
+are either more than the Latitude of your Place, if the Plane Recline; or less,
+if the Plane Incline: and that in such a proportion as the Arch of Reclination
+or Inclination is.
+
+Thus a Direct South Dyal Reclining 10 degrees in London's Latitude, ( viz. 51
+degrees) is an Erect Direct South Dyal made for the Latitude of 61 degrees. And
+a Direct South Dyal Inclining 10 in the Latitude of 51 is an Erect Direct South
+Dyal in the Latitude of 41 degrees: and is to be made according to the
+Direction given in Operat. III.
+
+OPERAT. IX. To draw a Dyal on a South or North Inclining Declining, or
+Reclining Declining Plane.
+THese four sorts of Dyals viz. the South Inclining Declining, and South
+Reclining Declining, and North Inclining Declining, and South Reclining
+Declining, are all projected by the same Rules; and therefore are in effect but
+one Dyal differently placed, as you shall see hereafter.
+
+First draw on your Plane a straight Line parallel to the Horizon, and mark one
+end W for West, and the other E for East. On South Incliners and Recliners, E
+on the right hand, and W on the left: on North Incliners and Recliners E on the
+left hand and W on the right. Choose a point in this Horizontal Line for a
+Center, as at A; Through this point A draw a Line Perpendicular to the Horizon,
+and on this point (as on a Center) describe a Semicircle, one Quadrant above,
+and another below the Horizontal Line. (though for this Example I describe but
+one.) Then if the Plane respect the South, set off in the lower Quadrant from
+the Perpendicular the Declination, the Inclination, or the Reclination, and the
+Complement of the Altitude of the Pole; and through these several settings off
+in the Quadrant, draw straight Lines from the Center A; then take in the
+Horizontal Line toward the Semicircle, a convenient distance from the Center
+A, as B, and through the point B draw a straight Line parallel to the
+Perpendicular, and prolong it through the Polar Line, as BP: Through the point
+P, draw a Line parallel to the Horizontal Line, as PC; this Line will cut the
+Line of Obliquity in the point O: Then measure the distance of AO, and set off
+that distance on the Perpendicular from A to F, and through the point F draw a
+straight Line parallel to the Horizontal Line, as FG, for the Horizontal
+Intersection. Then measure the distance of CO, and set off that distance on the
+Perpendicular from A to I; from the point I, draw the Line ID parallel to the
+Horizontal Line, to cut the Line of Declination in the point D. Then measure
+the distance of AB, and set off that distance in the Line of Declination from A
+to E; and from the point E draw a straight Line parallel to the Horizontal Line
+WE, to cut the Perpendicular in the point K. Measure the distance of EK, and
+set off that distance on the other side the Perpendicular in the Horizontal
+Intersection, from F to H, and from the point H draw HN parallel to the
+Perpendicular to cut the Horizontal Line in the point N.
+
+
+
+Then to find the Meridian Line, Substile and Style, do thus. If your Plane be
+a Southern Incliner, or a Northern Recliner, measure the distance of LD, and
+set off that distance in the Horizontal Intersection from F to M, and through
+the point M draw the Line AM for the Meridian Line. Then add the distance of AL
+to AK, thus: measure the distance of AL, and place one Foot of your Compasses
+in the point K in the Perpendicular Line, and extend the other to X, and
+measuring the distance of AX, set it off in the Line of Obliquity from A to Q;
+and from the point Q draw the Line QR parallel to the Perpendicular, and
+cutting the Horizontal Line in the point R. Then measure the distance of AR,
+and set off that distance from H in the Horizontal Intersection to S on the
+Line HN, and to the point S draw the Line AS for the Substile. Then measure the
+distance of QR, and set off that distance perpendicularly from the point S to
+T; and lastly, from the point A, draw the straight Line AT for the Stilar Line,
+which Stilar Line being perpendicularly erected over the Substilar Line AS,
+will stand parallel to the Axis of the World, and cast its shadow on the Hour
+of the Day.
+
+But if the Plane be a Southern Recliner, or Northern Incliner, measure (as
+before) the distance of LD, and (as before you were directed) to set it off
+from F in the Horizontal Intersection on the right hand the perpendicular Line;
+So now, set that distance from F to m in the Horizontal Intersection on the
+left hand in the Perpendicular Line, and draw the Line A m for the Meridian
+Line. Then as before you were directed to add AL to AK: So now, substract the
+distance of AL from AK, and the remainder will be LK: Set therefore the
+distance of IK from A to q in the same Line of Obliquity, and from the point q,
+draw the Line qr parallel to the perpendicular. Measure then the distance of A
+r, and set off that distance in the Line HN, from H to s for the Substilar
+Line: Then erect on the point s a Perpendicular, and on that Perpendicular set
+off from s to t the distance of qr: And lastly, from A draw the Line A t for
+the Stilar Line.
+
+If K falls upon L the Plane is parallel to the Axis of the World, and the Dyal
+drawn upon it will have no Center: But s will fall upon H, and AH (or A s) will
+be the Substile.
+
+I shall give you two Examples of these Rules: One of a Dyal with a Center, and
+the other of a Dyal without a Center. And first,
+
+OPERAT. X. How to draw a Dyal with a Center, Declining 20 Degrees, and
+Inclining 30 Degrees.
+
+
+HAving by the foregoing Precepts of the last Operat. found the Substile,
+Style, and Meridian, you must (as you have often been directed) choose a point
+in the Substilar Line, through which, at right Angles to the Substilar Line
+draw the Line of Contingence as long as you can: Then measure the shortest
+distance between the point of Intersection and the Stilar Line, and transfer
+that distance on one side the Line of Contingence upon the Substilar Line, and
+so describe the Equinoctial Semicircle against the Line of Contingence: Then
+lay a straight Ruler to the Center of the Equinoctial Circle, as at Ae, and to
+the point where the Line of Contingence cuts the Meridian Line, as at Z, and
+mark where the straight Ruler cuts the Equinoctial Circle, and from that mark
+begin to devide the Semicircle into twelve equal parts, and by a straight
+Ruler laid to those devisions and the Center of the Equinoctial, make marks in
+the Line of Contingence. Then shall straight Lines drawn from the Center A of
+the Dyal through every one of those marks in the Contingent Line be the Hour
+Lines of the Dyal, and must be numbered from the XII a Clock Line toward the
+right Hand with I, II, III, IV, etc. And the other way with XI, X, IX, etc.
+
+OPERAT. XI. How to draw a Dyal without a Center, on a South Plane; Declining
+East 30 Degrees, Reclining 34 Degrees 32 Minutes.
+HAving by the Precepts of Operat. IX found the Substile, you must find the
+Meridian Line otherwise than you were there taught: For, having drawn the Lines
+of Latitude, Declination and Reclination, and found the Substile, measure the
+distance of BP, and set it off on the Line of Declination from A to K, and draw
+from the Perpendicular AF the Line KQ parallel to AB: Then measure the length
+of KQ, and set it off on the Polar Line AP, from A to V; then take the nearest
+distance between the point V and the Line AB, and set it off on the Line QK
+from Q to M; through which point M, draw a Line from the Center A: Then measure
+with your Compasses in the Semicircle WNE (which in this Dyal may represent
+the Equinoctial) the distance of the Arch N m, and set off that distance from
+the Intersection of the Substile with the Semicircle at S to T in the
+Semicircle, which point T shall be the point in the Equinoctial that you must
+begin to devide the Hours at, for the finding their distances on the Line of
+Contingence.
+
+
+
+Then consider (according to the bigness of your Plane) what height your Style
+shall stand above the Substile, and there make a mark in the Substile: For the
+distance between the Center A and that mark must be the height of the Style
+perpendicularly erected over the Substile, as at I. Draw through this point I a
+Line of Contingence, as long as you can to cut the Substile at right Angles,
+and then laying a Ruler to the Center A, and successively to each Devision of
+the Equinoctial make marks in the Line of Contingence, and through those marks
+draw straight Lines parallel to the Substile, which shall be the Hour Lines;
+and must be numbered from the left hand toward the right, beginning at the XII
+a Clock Line with I, II, III, etc. and from the right hand toward the left on
+the XII a Clock Line with XI, X, IX, etc.
+
+The Style to this Dyal may be either a straight Pin of the length of AI, or
+else a Square of the same height, erected perpendicularly upon the point I, in
+the Substile Line.
+
+OPERAT. XII. To make a Dyal on the Ceeling of a Room, where the Direct Beams
+of the Sun never come.
+FInd some convenient place in the Transum of a Window to place a small round
+piece of Looking-Glass, about the bigness of a Groat, or less, so as it may lie
+exactly Horizontal. The point in the middle of this Glass we will mark A, and
+for distinction sake call it Nodus. Through this Nodus you must draw a Meridian
+Line on the Floor, Thus, Hang a Plumb-line in the Window exactly over Nodus,
+and the Shadow that the Plumb-line casts on the Floor just at Noon will be a
+Meridian Line; or you may find a Meridian Line otherwise by the Clinatory.
+Having drawn the Meridan Line on the Floor, find a Meridian Line on the
+Ceeling, thus, Hold a Plumb-line to the Ceeling, over that end of the Meridian
+Line next the Window; If the Plumbet hang not exactly on the Meridian Line on
+the Floor, remove your hand on the Ceeling one way or other, as you see cause,
+till it do hang quietly just over it, and at the point where the Plumb-line
+touches the Ceeling make a mark, as at B; that mark B shall be directly over
+the Meridian Line on the Floor: then remove your Plumb-line to the other end of
+the Meridian Line on the Floor, and find a point on the Ceeling directly over
+it, as you did the former point, as at C, and through these two points B and C
+on the Ceeling, strain and strike a Line blackt with Smal-Coal or any other
+Color (as Carpenters do) and that Line BC on the Ceeling shall be the Meridian
+Line, as well as that on the Floor: Then fasten a string just on the Nodus, and
+remove that string, forwards or backwards, in the Meridian Line on the Ceeling,
+till it have the same Elevation in the Quadrant on the Clinatory above the
+Horizon that the Equinoctial has in your Habitation, and through the point
+where the string touches the Meridian Line in the Ceeling shall a line be drawn
+at right Angles with the Meridian, to represent the Equinoctial Line.
+
+Thus in our Latitude the Elevation of the Equator being 38 degrees; I remove
+the string fastened to the Nodus forwards or backwards in the Meridian Line of
+the Ceeling, till the Plumb-line of the Quadrant on the Clinatory, when one of
+the sides are applied to the string, falls upon 38 degrees: and then I find it
+touch the Meridian Line at D in the Ceeling: therefore at DI make a mark, and
+through this mark strike the line DE (as before I did in the Meridian Line) to
+cut the Meridian Line at right Angles: This Line shall be the Equinoctial Line,
+and serve to denote the Hour Distances, as the Contingent Line does on other
+Dyals, as you have often seen^
+
+Then I place the Center of the Quadrant on the Clinatory upon Nodus, so as the
+Arch of the Quadrant may be on the East side the Meridian Line, and underprop
+it so, that the flat side of the Quadrant may lie parallel to the string, when
+it is strained between the Nodus and the Equinoctial, and also so as the string
+may lie on the Semi-diameter of the Quadrant, when it is held up to the
+Meridian Line on the Ceeling. Then removing the string the space of 15 degrees
+in the Quadrant, and extending it to the Equator on the Ceeling, where the
+string touches the Equator, there shall be a point through which the I a Clock
+Hour line shall be drawn: and removing the string yet 15 degrees further to the
+Eastwards in the Semicircle of Position, and extending it also to the Equator,
+where it touches the Equator, there shall be a point through which the II a
+Clock Hour Line shall be drawn. Removing the string yet 15 degrees f^rther, to
+the Eastwards in the Semicircle of Position, and extending it to the Equator,
+there shall be a point through which the III a Clock Hour Line shall be drawn:
+The like for all the other Afternoon Hour Lines. So often as the string is
+removed through 15 degrees on the Quadrant, so often shall it point out the
+Afternoon distances in the Meridian Line on the Ceeling.
+
+Having thus found out the points in the Equator through which the Afternoon
+Hour Lines are to be drawn, I may find the Fore-noon Hour distances also the
+same way, viz. by removing the Arch of the Quadrant to the West side the
+Meridian, as before it was placed on the East, and bringing the string to the
+several 15 degrees on the West side the Quadrant; or else I need only measure
+the distances of each Hours distance found in the Equator from the Meridian
+Line on the Ceeling; for the same number of Hours from XII, have the same
+distance in the Equinoctial Line on the other side the Meridian, both before
+and afternoon: The XI a Clock Hour distance is the same from the Meridian
+Line, with the I a Clock distance on the other side the Meridian; the X a Clock
+distance, the same with the II a Clock distance; the IX with the III, etc. And
+thus the distances of all the Hour lines are found out on the Equator.
+
+
+
+Now if the Center of this Dyal lay within doors, you might draw lines from the
+Center through these pricks in the Equator, and those Lines should be the Hour
+lines, as in other Dyals: But the Center of this Dyal lies without doors in the
+Air, and therefore not convenient for this purpose: So that for drawing the
+Hour Lines, you must consider what Angle every Hour Line in an Horizontal Dyal
+makes with the Meridian; that is, at what distance in Degrees and Minutes the
+Hour Lines of an Horizontal Dyal cut the Meridian; which you may examine, as by
+Operat. II. For an Angle equal to the Complement of the same Angle, must each
+respective Hour Line with the Equator on the Ceeling have.
+
+Thus upon the point marked for each Hour distance in the Equinoctial Line on
+the Ceeling, I describe the Arches I, II, III, IV, as in the Figure, and
+finding the distance from the Meridian of the Hour Lines of an Horizontal Dyal
+to be according to the Operat. II. Thus, The 1 a clock Hour line 11.40 whose
+Complement to 90 is 78.20 The 2 a clock Hour line 24.15 whose Complement to 90
+is 65.45 The 3 a clock Hour line 38.14 whose Complement to 90 is 51.56 The 4 a
+clock Hour line 53.36 whose Complement to 90 is 36.24
+
+
+I measure in a Quadrant of the same Radius with those Arches already drawn
+from the Equinoctial Line for the 1 a Clock Hour 78.20 for the 2 a Clock Hour
+65.45 for the 3 a Clock Hour 51.56 for the 4 a Clock Hour 36.24
+and transfer these distances to the Arches drawn on the Ceeling: For then
+straight Lines drawn through the mark in the Arch, and through the mark in the
+Equator, and prolonged both ways to a convenient length, shall be the several
+Hour Lines (aforesaid;) And when the Sun shines upon the Glass at Nodus, its
+Beams shall reflect upon the Hour of the Day.
+
+Some helps to a young Dyalist for his more orderly and quick making of Dyals.
+IT may prove somewhat difficult to those that are unpractised in Mathematical
+Projections, to devide a Circle into 360 Degrees (or which is all one) a
+Semicircle into 180, or a Quadrant into 90 degrees; and though I have taught
+you in the projecting the Horizontal Dyal the original way of doing this, yet
+you may do it a speedier way by a Line of Chords, which if you will be curious
+in your Practice, you may make your self; or if you account it not worth your
+while, you may buy it already made on Box or Brass of most Mathematical
+Instrument-Makers. This Instrument is by them called a Plain Scale, which does
+not only accommodate you with the devisions of a Quadrant, but also serves for
+a Ruler to draw straight Lines with: the manner of making it is as follows.
+
+Describe upon a smooth flat even-grain'd Board a quarter of an whole Circle,
+as BC, whose Radius AB or AC may be four inches, if you intend to make large
+Dyals, or two inches if small; but if you will, you may have several Lines of
+Chords on your Scale or Rule. Devide this Quadrant into 90 equal parts as you
+were taught in the making the Horizontal Dyal.
+
+
+
+Then draw close by the edge of your straight Ruler a Line parallel to the
+edge, and at about 1/20 part of an Inch a second Line parallel to that, and at
+about of an Inch a third Line parallel to both. Then place one Foot of your
+Compasses at the beginning of the first degree on the Quadrant descibed on the
+Board, as at B, and open the other Foot to the end of the first degree, and
+transfer that distance upon your Rule, from B to the first mark or devision,
+between the two first drawn Lines. Then place one Foot of your Compasses again
+at the beginning of the first degree on the Quadrant described on the Board, as
+at B, and open the other Foot to the end of the second Degree, and transfer
+that distance upon your Rule from B to the second mark or devision between the
+two first drawn Lines; And thus measure the distance of every Degree from the
+first Degree described on the Quadrant, and transfer it to the Rule. But for
+distinction sake, you may draw every tenth devision from the first Line
+parallel to the edge of the third Line, and mark them in succession from the
+beginning with 10, 20, 30, to 90: and the fifth Devisions you may draw half way
+between the second and the third parallel Lines; the single Devisions only
+between the two first parallel Lines. So is your Line of Chords made.
+
+The Use of the Line of Chords.
+AS its use is very easy, so its convenience is very great; for placing one
+Foot of your Compasses at the first Devision on the Scale, and opening the
+other to the 60th Degree, you may with the points of your Compasses (so
+extended) describe a Circle, and the several Devisions, on the Scale shall be
+the Degrees of the four Quadrants of that Circle, as you may try by working
+backwards, to what you were just now taught in the Making the Scale: For as
+before you measured the distance of the Degrees of the Quadrant, and
+transferred them to the Scale, so now you only measure the D^visions on the
+Scale, and transfer them to the Quadrant, Semicircle, or whole Circle
+described on your Paper. For Example:
+
+If you would measure 30 Degrees in your described Circle, place one Foot of
+your Compasses at the beginning of Devisions on the Scale, as at A, and extend
+the other Foot to the Divisions marked 30, and that distance transferred to the
+Circle, shall be the distance of 30 degrees in that Circle. Do the like for any
+other number of Degrees.
+
+You may draw your Dyal first on a large sheet of Paper, if your Dyal Plane be
+so large, if it be not so large, draw it on a smaller piece of Paper; Then rub
+the backside of your Paper-Dyal with Smal-coal, till it be well black't; and
+laying your Paper Dyal on your Dyal Plane, so that the East, West, North, or
+South Lines of your Paper agree exactly with the East, West, North, or South
+situation of your Dyal Plane. Then with Wax or Pitch fasten the Corners of the
+Paper on the Plane, and laying a straight Ruler on the Hour Lines of your Dyal,
+draw with the blunted point of a Needle by the side of the Ruler, and the
+Smal-coal rubbed on the backside the Paper will leave a mark of the Lines on
+the Plane.
+
+If you will have the Lines drawn Red, you may rub the backside of your Paper
+with Vermillion; if Blew, with Verditer; if Yellow, with Orpment, etc. Then
+draw upon these marked Lines with Oil Colors, as you please.
+
+If your Dyal Decline far toward the East or West, the Hour Lines (unless
+projected to a very great length) will run very close to one another; therefore
+in this case you must project your Dyal on a large Table, or sometimes on the
+Floor of a Room, and cut it off as far as you think good, from the Center; for
+the further from the Center, the larger the distance of the Hour Lines. See the
+Figure.
+
+An Explanation of some Words of Art used in this BOOK.
+ANgle. The meeting or joining of two Lines.
+
+Arch. A part of a Circle.
+
+Axis. The straight Line that runs through the Center of a Sphere, and both
+ways through the Circumference: though in Dyalling it is all one with the
+Diameter of a Circle.
+
+Clinatory. See Fol. 8, 9, 10.
+
+Chord. See Fol. 44, 45, 46.
+
+Complement. The number that is wanting to make up another number 90 Degr. or
+180 Degr. or 360 Degrees.
+
+Contingent. A Line crossing the Substile at right Angles.
+
+Degree. See Fol. 12.
+
+Diameter. The longest straight Line that can be contained within a Circle,
+viz. the Line that passes through the Center to the Circumference both ways.
+
+Dyal Plane. See Fol. 7.
+
+Elevation of the Pole. So many degrees as the Pole is elevated above the
+Horizon.
+
+Equinoctial. The Equinoctial is a great Circle that runs evenly between the
+two Poles of the World. But when we name the Equinoctial in this Book, we mean
+a small Circle which represents it, and is the Circle or Arch of a Circle which
+is divided into equal parts to find thereby the unequal parts on the Line of
+Contingence. In the Horizontal Dyal it is that Arch of a Circle marked GCH.
+
+Horizon. Is a great Circle encompassing the place we stand upon; but in
+Dyalling it is represented by a straight Line, as in Operat. III. In the South
+Dyal the Line VI A VI is the Horizontal Line.
+
+Latitude. The Latitude of a Place is the number of Degrees contained between
+the Equinoctial and the place inquired after.
+
+Line of Contingence. See Contingent.
+
+Magnetic Needle. The Needle touched with the Loadstone, to make it point to
+the North.
+
+Meridian, is a great Circle of Heaven passing through the North and South
+points of the Horizon; but in Dyalling it is represented by a straight Line, as
+in Operat. II. in the Horizontal Dyal the Line XII A is a Meridian Line.
+
+Nadir. The point directly under our Feet.
+
+Nautial Compass, Is the Compass used by Navigators, whereon is marked out all
+the 32 Winds or Points of the Compass.
+
+Oblique Plane. See Fol. 7.
+
+Parallel. See Fol. 6
+
+Perpendicular. See Fol. 5.
+
+Pole. The North or South Points on the Globe of the Earth, are called North or
+South Pole.
+
+Quadrant. The fourth part of a Circle.
+
+Radius. Half the Diameter of a Circle.
+
+Right Angle. A straight Line that falls perpendicularly upon another straight
+Line, makes at the meeting of those two Lines a Right Angle.
+
+Semicircle. Half a Circle.
+
+Semi-Diameter, The same Radius is.
+
+Sphere. The highest Heaven with all its imagined Circles is called the Sphere.
+
+Style. The Gnomon or Cock of a Dyal.
+
+Substile. The Line the Style stands on upon a Dyal Plane.
+
+Triangle. A figure consisting of 3 Sides and 3 Angles.
+
+Zenith. The Point directly over our Head.
+
+FINIS.
+A Catalogue of GLOBES Celestial and Terrestrial, Spheres, Mapps, Sea-Platts,
+Mathematical Instruments, and Books, made and sold by Joseph Moxon, on
+Ludgate Hill, at the Sign of Atlas.
+GLOBES 26 Inches Diameter. The price 20 l. the pair. GLOBES, near 15 Inches
+Diameter. The price 4 l. GLOBES, 8 Inches Diameter. The price 2 l. GLOBES, 6
+Inches Diameter. The price 1 l. 10 s. CONCAVE HEMISPHERES of the Starry Orb;
+which serves for a Case to a Terrestrial Globe of 3 Inches Diameter, made
+portable for the Pocket. Price 15 s. SPHERES, according to the Copernican
+Hypothesis, both General and Particular, 20 Inches Diameter. Price of the
+General 5 l. Of the Particular 6 l. Of both together 10. SPHERES, according to
+the Ptolomaick Systeme, 14 Inches Diameter. Price 3 l. SPHERES, according to
+the Ptolomaick Systeme, 8 Inches Diameter. Price 1 l. 10 s. Gunter's Quadrant,
+13 Inches Radius, printed on Paper, and pasted on a Board, with a Nocturnal on
+the backside. Price 5 s. Gunter's Quadrant, 4 Inches Radius, printed on Paper,
+and pasted on Brass, with a Nocturnal on the backside, and a Wooden Case
+covered with Leather fit for it: A new invention contrived for the Pocket.
+Price 6 s. A large Mapp of the World, 10 Foot long, and 7 Foot deep, pasted on
+Cloth and colored. Price 2 l. A Mapp of all the World, 4 Foot long, and 3
+Foot deep, pasted on Cloth and colored. Price 10 s. In sheets 2 s. 6 d. A
+Mapp of the English Empire in America, describing all places inhabited there by
+the English Nation, as well on the Islands as on the Continent. Price 15 s. Six
+Scriptural Mapps, 1. Of all the Earth: And how after the Flood it was divided
+among the Sons of Noah. 2. Of Paradise, or the Garden of Eden; with the
+Countries circumjacent inhabited by the Patriarchs. 3. The 40 years travel of
+the Children of Israel through the Wilderness. 4. Of Canaan, or the Holy Land:
+and how it was divided among the twelve Tribes of Israel, and traveled through
+by our Savior and his Apostles. 5. The Travels of St. Paul, and others of the
+Apostles, in their propagating the Gospel. 6. Jerusalem, as it stood in our
+Savior's time; with a Book of Explanations to these Mapps* entitled Sacred
+Geography Price 6 s. Useful to be bound up with Bibles. A Sea-Platt, or Mapp of
+all the World, according to Mercator, in two large Royal Sheets of Paper; set
+forth by Mr. Edward Wright, and newly corrected by Joseph Moxon Hydrogr. etc.
+Price 2 s. Sea Platts for sailing to all parts of the World. Price 6 d. the
+sheet. The famous City of Batavia in the East Indies, built and inhabited by
+the Duth; curiously engraved, and printed on four large Sheets of Royal Paper.
+Price 2 s. 6 d. A small Mapp of all the World, with Descriptions, on one Sheet.
+Price 6 d.
+BOOKS.
+A Tutor to Astronomy and Geography, or the Use of both the GLOBES Celestial
+and Terrestrial; by Joseph Moxon Hydrographer to the Kings most Excellent
+Majesty. Price 5 s. The Use of the Copernican Spheres, teaching to salve the
+Phenomenon by them, as easily as by the Ptolomaick Spheres; by Joseph Moxon
+Hydrographer etc. Price 4 s. Wright's Correction of Errors in the Art of
+Navigation. Price 8 s. New and rare Inventions of Waterworks. Teaching how to
+raise Water higher than the Spring. By which Invention the perpetual Motion is
+proposed, many hard labors performed, and varieties of Motion and Sounds
+produced. By Isaac de Cause, Engineer to King Charles the First. Price 8 s.
+Practical Perspective, or Perspective made easy. Teaching by the Optics how
+to delineate all Bodies, Buildings and Landskips, etc. By the Catropticks, how
+to delineate confused Appearances* so, as when seen in a Mirror or Polisht
+Body of any intended shape, the Reflection shall show a design. By the
+Dioptricks, how to draw part of many Figures into one, when seen through a
+Glass or Crystal cut into many Faces. By Joseph Moxon Hydrographer, etc. Price
+7 s. An exact Survey of the Microcosine. Being an Antaomy of the Bodies of Man
+and Woman; wherein the Skin, Veins, Nerves, Muscles, Bones, Sinews and
+Ligaments are accurately delineated. Engraven on large Copper Plates, Printed
+and curiously pasted together, so as at first sight you may behold all the
+parts of Man and Woman; and by turning up the several Dissections of the
+Papers, take a view of all their Inwards: with Alphabetical referrences to the
+Names of every Member and part of the Body. Set forth in Latin by Remelinus,
+and Michael Spaher of Tyrol: and Englished by John Ireton Chyrurgeon: and
+lastly, perused and corrected by several rare Anatomists. Price 14 s. Vignola,
+or the Complete Architect. Showing in a plain and easy way, the Rules of the
+five Orders in Architecture, viz. Tuscan, Dorick, Ionick, Corinthian and
+Composite: whereby any that can but read and understand English, may readily
+learn the proportions that all Members in Building have to one another: set
+forth by Mr. James Barrozzio of Vignola, and translated into English by Joseph
+Moxon Hydrographer, etc. Price 3 s. 6 d. Christiologia, or a brief, but true
+Account of the certain year, Month, Day and Minute of the Birth of Jesus
+Christ. By John Butler B. D. and Chaplain to his Grace James Duke of Ormond,
+etc. and Rector of Lichborough, in the Diocese of Peterburgh. Price 3 s. 6 d. A
+Tutor to Astrology, or Astrology made easy; being a plain Introduction to the
+whole Art of Astrology. Whereby the meanest Apprehension may learn to erect a
+Figure, and by the same give a determinate Judgment upon any Question of
+Nativity whatsoever. Also new Tables of Houses, calculated for the Latitude of
+51 degrees. 32 min. Also Tables of Right and Oblique Ascensions to 6 degrees. of
+Latitude. Whereunto is added an Ephemeris for three years; with all other
+necessary Tables that belong to the Art of Astrology. Also how to erect a
+Figure the Rational way by the Tables of Triangles, more methodically than has
+yet been published; digested into a small Pocket Volume, for the convenience of
+those that erect Figures abroad. By W. Eland. Price 2 s. The Use of a
+Mathematical Instrument called a Quadrant, showing very plainly and easily to
+know the exact height and distance of any Steeple, Tree, or House, etc. Also to
+know the Hour of the Day by it; the height of the Sun, Moon or Stars; and to
+know the time of the Sunrising and setting, and the length of every day in the
+year, the place of the Sun in the Ecliptic, the Azimuth, right Ascension, and
+Declination of the Sun: with many other necessary and delightful Conclusions,
+performed very readily. Also the use of a Nocturnal, whereby you may learn to
+know the Stars in Heaven, and the hour of the Night by them. With many other
+delightful Operations. Price 6 d. A brief Discourse of a passage by the
+North Pole to Japan, China, etc. Pleaded by three Experiments, and Answers to
+all objections that can be urged against a passage that way. As 1. By a
+Navigation into the North Pole, and two degrees beyond it. 2. By a Navigation
+from Japan toward the North Pole. 3. By an Experiment made by the Czar of
+Muscovy: whereby it appears that to the Northward of Nova Zembla is a free and
+open Sea as far as Japan, China, etc. With a Mapp of all the discovered Land
+nearest to the Pole. By Joseph Moxon Hydrographer etc. Price 6 d. Regulae Trium
+Ordinum Literarum Typographicarum: Or the Rules of the three Orders of
+Print-Letters, viz. The Roman, Italick, English, Capaitals and Small. Showing
+how they are compounded of Geometrick Figures, and mostly made by Rule and
+Compass. Useful for Writing-Masters, Painters, Carvers, Masons, and others that
+are lovers of Curiosity. By Joseph Moxon Hydrographer etc. Price 5 s. The Use
+of the Astronomical Playing Cards. Teaching an ordinary Capacity by them to be
+acquainted with all the Stars in Heaven: to know their Places, Colors, Natures
+and Bignesses. Also the Poetical Reasons for every Constellation; very useful,
+pleasant and delightful for all lovers of Ingeniety. By Joseph Moxon Hydrogr.
+etc. Price 6 d. The Astronomical Cards. By Joseph Moxon Hydrographer, etc.
+Price plain 1 s. Colored 1 s. 6 d. Best colored and the Stars gilt 5 s. The
+Genteel Housekeepers Pastime: Or, the Mode of Carving at the Table represented
+in a Pack of Playing Cards. By which, together with the Instructions in this
+Book, any ordinary Capacity may easily learn how to Cut up, or Carve in M^de
+all the most usual Dishes of Flesh, Fish, Fowl, and Baked M^^^^; and how to
+make the several Services of the same at the Table; with the several Sawces and
+Garnishes proper to each Dish of Meat. Set forth by several of the best Masters
+in the Faculty of Carving, and published for public Use. Price 6 d. Carving
+Cards. By the best Carvers at the Lord Mayors Table. Price 1 s. Compendium
+Euclidis Curiosi: Or Geometrical Operations. Showing how with one single
+opening of the Compasses, and a straight Ruler all the Propositions of Euclids
+first Five Books are performed. Translated out of Dutch into English. By Joseph
+Moxon. Hydrogr. etc. Price 1 s. An Introduction to the Art of Species. By Sir
+Jonas Moore. Price 6 d. Two Tables of Ranges, according to degrees of Mounture.
+By Henry Bond, Senior. Price 6. d. Mechanic Exercises: Or the Doctrine of
+Handy-Works, in six Monthly Exercises; began January 1. 1677. and monthly
+continued till June 1678. The first three, viz. the Numb. I. Numb. II. Numb.
+III. teaching the Art of Smithing. The other three, viz. Numb. IIII. Numb. V.
+Numb. VI. teaching the Art of faynery. Accommodated with suitable engraved
+Figures. By Joseph Moxon Hydrographer, etc. price 6 d. each Exercise.
+At the place abovesaid, you may also have all manner of Mapps, Sea-Platts
+Drafts, Mathematical Books, Instruments, etc. At the lowest prizes.
+
+ADVERTISEMENT.
+THere is invented by the Right Honorable the Farl of Castlemain, a new kind
+of Globe, called (for distinction sake) the English Globe; being a fixed and
+immovable one, performing what the Ordinary ones do, and much more, even
+without their usual Appendancies; as Wooden Horizons, Brazen Meridians,
+Vertical Circles, Horary Circles, etc. For it Composes it self to the site and
+Position of the World without the Mariners Compass, or the like foreign Help;
+and besides other useful and surprising Operations (relating both to the Sun
+and Moon, and performed by the Shade alone) we have by it not only the constant
+proportion of Perpendiculars to their Shades, with several Corollaries thence
+arising, but also an easy, new, and most compendious way of describing Dyals
+on all Planes, as well Geometrically, as Mechanically: most of which may be
+taught any one in few Hours, though never so unacquainted with Mathematics.
+
+To this is added on the Pedestal a Projection of all the appearing
+Constellations in this Horizon, with their Figures and Shapes. And besides,
+several new things in it differing from the common Astrolabe, (tending to a
+clearer and quicker way of Operating) the very Principles of all
+Steriographical Projections are laid down, and Mathematically demonstrated; as
+is every thing else of Moment throughout the whole Treatise.
+
+These Globes will be made and exposed to Sale about August next, (God
+willing:) against which time the Book for its use will also be Printed, and
+sold by Joseph Moxon, on Ludgate Hill, at the Sign of Atlas.
+
+
