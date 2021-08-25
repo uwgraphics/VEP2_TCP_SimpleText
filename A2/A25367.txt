@@ -1,0 +1,1897 @@
+STEREOMETRICAL Propositions:
+
+VARIOUSLY APPLICABLE;
+
+But PARTICULARLY INTENDED For GAGEING.
+
+By ROBERT ANDERSON.
+
+LONDON,
+
+Printed by William Godbid for Joshuah Conniers at the Sign of the Black Raven
+in Duck-lane, 1668.
+
+To the READER.
+ABout seven years since I resolved these following propositions, with others
+of the like nature; but did not intend ever to have published them: But being
+overperswaded by some of my Friends, I have here made so many of them public,
+as I thought would be convenient to what here is intended.
+
+Here I ought to acknowledge that great Respect which I owe to my Worthy Friend
+Mr. John Collins, one of the Royal Society; which propounded to me about 6
+years since, that proposition of the second Sections of the Sphere and
+Spheroide; and also in giving me Information, and helping me to such Books as
+might be most advandageous: Further, not only I, but all Lovers of the
+Mathematics are very much obliged to this our Worthy Friend for his good
+Intelligence, great care in sending for Books from beyond the Seas, and his
+continual love in promoting the Mathematics, and Mathematical Men.
+
+Forasmuch as throughout this little Tract, here is much use made of
+Parallelepipedons, Prismes and Pyramides: I think fit, a little to insist
+thereon; chiefly for the young Learners sakes, for which this is only intended.
+
+In the Diagram,
+Let there be a Solid, as POHG VFIR; the plane POHG parallel equal and alike to
+the plane RIFV; Further, POIR is parallel equal and like to the plane GHFV: Yet
+further, the plane OHFI is parallel equal and like the plane PRVG: such a Solid
+is called a Parallelepipedon.
+
+Let there be a Solid as GHDEV F, the plane GEV is parallel equal and like the
+plane HDF; Further, the planes HGFV and DEVF are alike and the line FV common
+to both: such a Solid is called a Prisme.
+
+Let there be a Solid as HBCDF, the planes BCF, CDF, DHF and HBF all meet at
+the point F, such a Solid is called a Pyramide.
+
+Further,
+
+Pyramides, Prismes and Parallelepipedons upon the same Base and Altitude, are
+as, one, one and a half, and three, that is, if the Pyramide be 4, the prisme
+will be 6, and the parallelepipedon will be 12.
+
+An Example in Numbers.
+If PG, 6; PO, 8; and HF the Altitude be 9; Then multiply 6 by 8, and the
+product will be 48, the Area POHG, this Area multiplied by 9 the Altitude, the
+product is 432, the parallelepipedon POHGVFIR, if the Area 48 be multiplied by
+half 9 that is 4^ the product will be 216, equal to a prisme of the Base POHG
+and altitude HF.
+
+If the Area POHG, 48, be multiplied by one third of 9, that is by 3, the
+product will be 144 equal to a pyramide whose Base is POHG and altitude HF.
+
+To find the solidity of the prisme ^HDEVF.
+Let GE, 10; GH, 8; HF 9; multiply 10 by 8, and the product will be 80 the Area
+GHDE, this 80 being multiplied by half the altitude HF, 9; that is, 4, the
+product will be 360, the prisme GHDEVF.
+
+To find the solidity of the pyramide HBCDF.
+Let HD, 10; HB, 4; multiply 10 by 4 the product will be 40, the Area HBCD,
+this Area multiplied by 3, that is one third of the Altitude HF, the product
+will be 120, the pyramide HBCDF.
+
+
+
+To find the solidity of a Solid, that has one of its Bases an Ellipsis and
+the other Base a Circle, these two Bases are supposed to be parallel.
+In such a Solid, the sides being continued will never meet at a point as in
+circular and Elliptick cones, and therefore the general Rule will not resolve
+these kind of Solids: therefore consider it thus;
+
+Let PE be equal to the Transverse diameter in an Ellipsis, PA its Conjugate
+diameter. Let RV and RI be the diameters of a Circle. First, Let there be made
+a Rectangled figure of the Transverse and Conjugate diameters of the Ellipsis,
+as PACE. Let there be a square made of the diameter RV, as RIFV. Let the
+altitude of the Solid be HF, find the solidity of the Solid PACEVFIR, thus, Let
+it be cut into as many parallelepipedons, prismes, and pyramides as are
+necessary: then find the solidity of those parallelepipedons, prismes and
+pyramides, as before is taught, those parallelepipedons, prismes and pyramides
+being added together will be equal to the whole Solid, thus, the parallepipedon
+POHG VFIR, more the prisme GEDHFV, more the pyramide DCBHF, more the prisme
+HBAOIF; these 4 Solids being added together make the whole Solid ACEPRIFV. For
+the whole is, 4 the product is 40 equal to the prisme GHDEVF. HD, 3; HB, 1;
+therefore HBCD is equal to 3; which being multiplied by one third of the
+altitude HF, that is, 3; the pyramide HBCDF will be equal to 9; BA, 3; AO, 1;
+therefore ABHO will be equal to 3, which being multiplied by half HF the
+altitude, that is, by 4 the product is 13, equal to the prisme OABHFI. Now
+these 4 composed Numbers being added together make 144 equal to the whole
+frustum pyramide PACEVFIR. Then as 14: 11:: 144: 113 1/7 the irregular
+Elliptick solid, whose Transverse PE, and conjugate PA diameters at the
+Elliptick Base are 6 and 4, and the diameters of the Circular Base is RV 3.
+
+Here note,
+Although Archimedes gives the proportion of the square of the diameter of any
+Circle, to the area of that Circle; as 14, is to 11. And also; that the
+diameter of any Circle is to the circumference of that Circle, as 7, is to 22;
+Yet you are not to underderstand that these proportions are in their just
+values; But that they are the least numbers that will best agree to that
+approach.
+
+If those numbers be thought not to agree near enough to truth, instead of
+those, these may be used; for, 14 and 11, take 452 and 355; for 7 and 22, take
+113 and 355.
+
+Further note.
+In the 24th. proposition there is somewhat said of Cylindrick hoofs. Those
+cylinders ought to be upright and not inclining cylinders.
+
+Ye^ further note.
+By reason of much business, I could not attend the Press as I ought to have
+done; and by that means there are considerable faults, which I desire may be
+corrected before the Book is read, otherwise there may rise a misapprehension
+of what there is intended.
+
+Lastly note,
+Almost at the beginning of the first proposition you may find it printed,
+Thus, CN: NZ:: EH: HZ, 4. 6. the meaning is thus, as CN is to NZ; so is EH, to
+HZ, by the fourth prop. of the sixth of Euclid; The like in the rest.
+
+R. A.
+
+PROPOSITION I. To find the solidity of a Frustum Pyramide, whose bases are
+parallel and a like.
+LEt ABCNHEDF be a frustum pyramide, whose solidity is required; Let the Lines
+AF, BD, CE, and NH be continued till they meet at Z; Let GO, be the height of
+the frustum pyramide, OZ the height of the Continuation; Let FDEH be set at the
+Angle N, as NR QK. Then CN: NZ:: EH: HZ, 4. 6.
+
+And CN: EH:: NZ: HZ, 16. 5. CN -- EH: EH:: NZ -- HZ: HZ, 17. 5. That is, CK:
+KN:: NH: HZ, because the planes HFDE, and NABC are parallel, they cut the Line
+ZG, in G and O in the same proportion as they cut NZ, in N and Z, by 17. 11.
+Thus, NH: HZ:: GO: OZ, Therefore CK: KN:: GO: OZ, 11. 5. OZ being found, which
+added to GO makes the whole Altitude GZ; by which find the whole pyramide
+NABCZ, which done, find the pyramide HFD EZ, by the 7. 12. then N ABCZ less
+HFDEZ, the Remainder is the frustum HFDECB AN.
+
+
+
+A 2d way may be thus; First to prove that AK is a mean proportion between AC
+and F E; then C N: NK:: C A: AK, 1. 6. AN: NR:: NM: NQ, 1. 6. CN: NK:: AN: NR,
+7. 5. CA: AK:: NM: NQ, 11. 5.
+
+Further, if GO the Altitude of the frustum FDEHCBAN, be multiplied by AC more
+AK more KR, that Product will be the triple of the said frustum; for the
+parallelepipedon made of GZ the altitude of the pyramide in the Base NABC is
+triple of the pyramide NABCZ, by the same reason the parallelepipedon made of
+GO in AC, together with the parallelepipedon made by ZO in AC is triple of the
+said pyramide by 7. 12. if the parallelepipedon made of OZ in FE, that is, in
+RK, that is, the triple of the pyramide HFDEZ be taken from the
+parallelepipedon NABCZ, there remains that which is made of GO in AC, together
+with those that are made of OZ in AQ and the same OZ in MC, the triple of the
+frustum ABC NHEDF, by 5. 5. for, CK: KN:: GO: OZ, CK: KN:: AR: RN, Therefore
+GO: OZ:: AR: RN, and CK: KN:: CM: MN, 4. 6. AR: RN:: AQ: QN, therefore GO: OZ::
+CM: MN, 11. 5. GO: OZ:: AQ: QN, therefore GO in MN=OZ in CM, GO in QN=OZ in AQ,
+add GO in AC to both, that is, GO in MN, more GO in QN, more GO in AC, is equal
+to OZ in CM, more OZ in AQ, more GO in AC; but OZ in CM, more OZ in AQ, more GO
+in AC are triple of the said frustum; therefore GO in MN, more GO in QN, more
+GO in AC are equal to the triple of the said frustum.
+
+An Example in Numbers, and first of the first.
+CK, 34: KN, 26:: GO, 68: OZ, 52; then 68 more 52=120, GZ: then AC 3600; in GZ,
+120; is equal to 432000, a third part is 144000, ABCNZ, FE, 676 in OZ, 52 is
+equal to 35152.
+
+A third part is 11717, HFDEZ, 144000 less 11717 is equal to 132282^ the
+solidity of the frustum ACEF.
+
+The Second way.
+AC, 3600 more FE, 676, more AK, 1560 the sum of those are 5836, which
+multiplied by GO, 68, is 396848, a third part is 1322 82. These ways
+Christopher Clavius has, page 208 of his Geometria practica. I shall give a
+third in conformity to what follows.
+
+A Third way.
+Let ACEZHPOF be a frustum pyramide the Bases Squares and Parallel; Let HPOF be
+projected in the Base ACFZ, as ZVRT; VR and TR be continued to D and B; then
+will TD be equal to RA, and RC a Square; most manifest it is, that the
+parallelepipedon ZVRTPOFH, more the prisme VABR OP, more the pyramide RBCDO,
+more the prisme RDETOF is equal to the said frustum pyramide.
+
+For all the parts of any magnitude being taken, together are equal to the
+whole. Axiom 19. 1.
+
+
+
+The prisme V ABROP is equal to the prisme RDETFO, because of equal bases and
+altitude, but the prism VA BROP is half the parallelepipedon, made of the base
+VABR, and the altitude TO, by 28. 11. therefore the parallelepipedon made of
+the base ZABT, that is the Rectangle made of HF and ZA, and the altitude TO,
+more the pyramide RBDCO that is ^ of the square of the difference of the sides
+of the upper and lower Bases and the altitude TO, shall be equal to the frustum
+proposed.
+
+Example in Numbers.
+ZE, 60; ZT, 26; the product 1560 equal to BZ, a third part of RC is 385, which
+added to 1560, is equal to 1945^, this last composed number multiplied by 68
+equal to TO makes 132282 the solidity of the said frustum; then as 14 to 11, or
+more near the truth, as 452 to 355, so is 132282 to 103894^ the frustum cone
+adscribed within the frustum pyramide.
+
+PROPOSITION II. To find the solidity of a frustum pyramide, whose Bases are
+parallel, but not alike; that is, when their corresponding sides are not
+proportional.
+LET ADGOVZTS be the pyramide proposed, here AG is a square, SZ a
+parallelogram; Let STZV be projected in the base, as, QPKL; continue the sides,
+as QL, to B and I; PK, to C and H; LK, to M and F; PQ, to E and R; the Figure
+being completed, the whole frustum will be composed of these parts, namely 4
+pyramides, as CDEPT, KFGHZ, LIOMV, RQ BAS, more 4 prismes, as BCPQTS, QR MLVS,
+LKHIVZ, KFEPTZ, more the parallelepipedon PQLKZVST; a further demonstration is
+needless.
+
+
+
+An Example.
+CD equal to 25, DE equal to 12, the ^ike for the other Angles, CE equal to
+300, which being multiplied by 5, that is of TP, makes the pyramide CDEPT equal
+to 1500, which multiplied by 4 (because there are 4 of them) is 6000; BC, 34;
+CP, 12; BP, 408; this last being multiplied by 7^ that is ^ the altitude TP,
+makes 3060 equal to the prisme BCQPTS, this being doubled (because there are
+two of that magnitude) is 6120; PE, 25; PK, 60; PF, 1500; which being
+multiplied by 7^ makes 11250, equal to the prisme PEFKZT, this being doubled
+(because there are two opposites equal) is 22500; PQ, 34; QL, 60; LP, 2040;
+this last number being multiplied by 15 the altitude of the pyramide TP,
+produces 30600; the parallelepipedon QPKLVZTS; these 4 composed numbers being
+added together, makes the whole frustum pyramide.
+
+Thus.
+The 4 pyramides are 6000. The 2 lesser prismes are 6120. The 2 greater prismes
+are 22500. The parallelepipedon is 30600. The whole frustum pyramide is 65220.
+
+A Second way thus.
+Let FC be the greater base, RQ the lesser, GO the height; make it as RH: HQ::
+FA: AB; draw BE parallel to FA, then will the plane FB be like the plane RQ;
+Let the Figure be completed, then will the frustum ACDFRHQZ be equal to the
+frustum ABEFRHQZ more the prisme, BCVT QZ, more the pyramide TVDEZ: here note
+that TB is made equal to QZ.
+
+
+
+The Example in Numbers.
+The frustum ABEFRHQZ, is equal to 124501^, found by the first Proposition, BC,
+16; CV, 26; BV, 416; being multiplied by the altitude, that is 32, makes 13312,
+equal to the prisme BCVTQZ; TV, 26; VD, 34; TD, 544; being multiplied by ^ of
+GO that is 21^, makes 11605 equal to the pyramide TVDEZ; these three composed
+numbers being added together, makes 149418^ equal to the frustum pyramide ACD
+FRHQZ.
+
+The frustum ABEFHRZQ 124501^. The prisme BCVTQZ 13312. The pyramide TVDEZ
+11605^. The frustum ACDFRHQZ 149418^.
+
+A Third way thus.
+Let PC the greater base; RF the lesser; Let the upper base be projected in the
+lower, as RIFV be equal to POHG, most easy it is to apprehend, that the
+frustum pyramide PACEVFIR, is equal to the parallelepipedon POHGVFIR, more the
+prisme OA BHFI, more the pyramide HBCDF, more the prisme HDEGVF, for the whole
+is equal to all its parts.
+
+In numbers thus.
+
+Let AC, be 56; AP, 38; RI, 26; RV, 30; RP, 40; RI, 26; VR, 30; IV, 780 equal
+to PH; which being drawn into RP, 40; makes POHGVFIR, 31200: OA, 12; AB, 30;
+AH, 360; being multiplied by 20, that is half the height PR, it makes 7200
+equal to OABHFI. BC, 28; HB, 12; BD, 336; being multiplied by ^ of the altitude
+that is 13, it produces 4480, equal to the pyramide HBCDF; GH, 26; HD, 28; HE,
+728; being multiplied by 20, the product is 14560 equalto the prisme HDE GVF;
+these 4 composed numbers being added together, makes the solidity of the said
+frustum.
+
+The parallelepipedon-POHGFVRI= 31200 The prisme -- OABHFI= 07200 The pyramide
+-- HBCDF= 04480 The prisme -- HDEGVF= 14560 The frustum pyramide -- PACEVFIR=
+57440
+
+Then,
+
+As 14 is to 11, so is the solidity of any frustum pyramide thus found, to any
+Elliptick frustum, adscribed in that frustum pyramide.
+
+PROPOSITION. III. To find the solidity of a Frustum Prisme.
+LEt CAGDEF be a prisme, who solidity is required, let BC be mad^ equal to FE,
+and BH parallel to CD, and the
+
+
+
+Figure being completed, the frustum prisme ^CDGFE may be composed of the
+prisme ^CDHFE, more the pyramide BAGHF: further demonstration is needless.
+
+An Example in Numbers.
+BC, 52; BH, 64; BD, 3328; this last ^umber being multiplied by 40, that is
+half ^he height, makes 133120 equal to the prisme ^BCDEF; AB, 32; BH, 64; BG,
+^048: this last being drawn into 26^, that ^s, a third part of the altitude
+makes 54613^ equal to the pyramide GABHF: this prisme and pyramide being added
+together, makes 187733^, equal to the frustum prisme AGD CEF.
+
+The second Case thus.
+Let ZBCDEH be a frustum prisme; Let AC be equal to HE and AO parallel to ZB,
+the Figure being completed, the prisme AC DOHE less the pyramide ABZOH is equal
+to the prisme BCDZHE; or thus, the prisme ZBCDFE more the solidity ZBHF, that
+is, half the pyramide ZBAOH, is equal to the frustum proposed.
+
+Example in Numbers.
+AC, 84; AO, 64; AD, 5376; this last drawn into 40, half the height makes
+215040; equal to the prisme OACDHE; AC, 32; BZ, 64; AZ, 2048 being multiplied
+by 26^, that is, one third of the height, it makes 54613 equal to the pyramide
+ABZOH this pyramide taken from the prisme leaves 160426^, equal to the frustum
+prisme proposed.
+
+Then as 14 is to 11, so are such prismes to Elliptick solids adscribed in
+those prismes.
+
+Hence follows a Fourth way for finding the solidity of these irregular
+frustums.
+Suppose ACDFGNIH be the frustum proposed, because FA is equal to DC, and AC
+equal to DF, and GN equal to IH, and NI to GH; and because GN is less than FA,
+and HI than DC; therefore if AN, CI, DH, FG, be continued toward Z and V, they
+will meet, suppose at Z and V, then AC DFVZ, less NI HGVZ, there remains ACDF
+GNIH the frustum proposed.
+
+It also follows, That such prismes have such proportions one to another, as
+Squares and Cubes of their corresponding sides, disjoined, thus.
+
+The pyramide BCDEZ, is to the pyramide RQIHZ, as the cube of BE to the cube of
+RQ; 8, 12. The prisme FABEVZ, is to the prisme GNQRVZ, as the square of FA, is
+to the square of GN; the reason why these prismes are not in a triplecate ratio
+of their homologal sides, as well as the pyramides; is because FE, GR, and VZ
+are equal, and the ratio rises but from VG^ GN and VF, and FA; whereas in the
+pyramide the ratio rises from three, that is from ZR, RQ, and RH; and from ZE^
+ED, and EB.
+
+In Numbers thus.
+Let VZ be 9, ZR, 3; ZE, 6; RQ, ^ EB, 8; RH, 3; ED, 7; Therefore G^ QRZV is
+equal to 54, and RQIHZ ^ equal to 14; then as the cube of 3, that ^ 27, to the
+cube of 6, that is 216; so is the pyramide RQIHZ, that is 14, to the pyr^mide
+EBCDZ, that is 112. Then 112 le^ 14 is equal to 98, equal to RQIHDCB^ Again, as
+the square of 3, that is 9, to the square of 6, that is, 36; so is the prisme
+G^ QRZV; that is, 54 to the prisme FABE^ V, that is, 216. Then 216 less, 54 is
+equ^ to 162, equal to GNQREBAF. This la^ frustum, more the frustum RQIHDBC^ is
+equal to the frustum GNIHDCA^ equal to 260.
+
+Or thus.
+As 27: 189:: (that is the cube of ZE le^ the cube of ZR) 14: 98, equal to the
+fr^stum RQIHDCBE. Again, as 9: 27* (that is the square of ZE less the square o^
+ZR) 54: 162, equal to the frustum GN^ REBAF.
+
+What ever is said of these prismes and pyramides, the same is to be understood
+in Cones and Ecliptic prismes;
+
+For they are in duplicate and triplicate ratio of their homologal sides,
+further for as much as that, the two first terms in each proportion may be
+fixed; there may by the help of a Table of Squares and Cubes, the solidity of
+such solids easily be calculated gradually, that is, inch by inch, or foot by
+foot, the two fixed numbers in the pyramide are the Cube of the continuation,
+or the side RZ; and the pyramide RQIH, the like in the prisme, and with the
+square of the continuation RZ.
+
+Thus.
+27: 14:: 37: 19 ^, 27: 14:: 98: 60 ^, 27: 14:: 189: 98, these three numbers,
+namely, 19 5/27, 50 ^, and 98, are the solidity of the frustum pyramide RQIHDC
+^E, the first number is the solidity of one ^nch, the second number of two
+inches, the ^hird of three inches; for the prisme; as 9: 54:: 7: 42, 9: 54::
+16: 96, 9: 54:: 27: 162; these 3 numbers, viz. 42, 96, and 162 are the solidity
+of the frustum prisme GNQREBAF, taken ^nch by inch; therefore 42 more 19 5/27
+equal ^o 61 ^, 96 more 50 ^ equal 146 ^, 162 more ^6 equal to 260, are equal to
+the solidity of ^he whole frustum GNIHDCAF, taken inch ^y inch; the like for
+any Elliptick frustum.
+
+Proposition. IV. To find the solidity of a frustum pyramide, whose Bases are
+not parallel; and the inclination is from side to side.
+
+
+LEt R HE TCBA^ be a frustum pyramide, the base R^ ET, no^ parallel to the base
+^ ABC; le^ RHD^ be paralle to AB^ F, the^ may the whole frustum pyramide RH
+ETAB^ F be composed o^ the frustum pyramide RHDZABCF more, the prisme RHDZTE,
+by a composition of the last Propos. PD being the altitude of the frustum
+pyramide RHDZABCF: EX the height of the prisme RHDZTE may be found, thus* BD:
+DP:: DE: EX; a further demonstration is needless.
+
+II. To find the solidity of a triangular frustum pyramide, whose bases are not
+parallel.
+
+
+Let CABDHF be a frustum pyramide, CAB not parallel to HDF, let QDE be parallel
+to CAB; the triangular frustum Q DEBAC is half a quadrangular frustum pyramide,
+found by the 2 Proposion, DZ the height of the pyramide QHFED; Therefore the
+frustum pyramide QDEBAC more the pyramide QHFED will be equal to the frustum
+pyramide FHDABC.
+
+III. To find the solidity of the frustum pyramide, ACFEDZ.
+
+
+Here the base AFC is not parallel to the base ZDE but to the plane ZOE; the
+frustum pyramide ZOE FCA may be found by the 2 Proposition, the part ZOE D will
+be a pyramide, its altitude may be found, thus, As OF: OG:: OD: DR, the frustum
+pyramide ZOEFCA more the pyramide ZOED will be equal to the solid ACFEOZD.
+
+IV. To find the solidity of a frustum pyramide, whose bases are not parallel,
+and whose inclination is from Angle to Angle.
+Let CABDFXKQ be a frustum pyramide, the base CABD not parallel to the base
+FXKQ, but parallel to the plane FEH G; then the frustum pyramide C ABDHEFG
+found by the 2 Propos. more the pyramide EQXG F, found by the 2 case of this
+Propos. more the frustum pyramide GEHZXQ, found by the 2 Propos. more the
+pyramide XKZQ, found by the 3 case of this Propos. will be equal to the whole
+frustum pyramide CABDFXKQ.
+
+
+
+PROPOSITION V.
+LEt FHAOE be a Semicircle, HO parallel to FE; FB and ED parallel to CA, the
+Figure being completed, the Cone QCI is equal to the Cylinder GE less the
+portion of the Sphere FHOE.
+
+
+
+For the square of CO less the square of TO is equal to the square of RC, the
+square of RN (equal to the square of CO) less the square of TO is equal to the
+square of ON more the Rectangle twice under RON; therefore the square of RC
+(that is the square of RI) is equal to the square of ON more, the double
+Rectangle RON, by 4: 2. every one of these being considered one by one; but
+being collected ( viz.) all the squares of RI is equal to all the squares of
+RN, less all the squares of TO; or if there be taken the quadruple of them, all
+the squares of QI is equal to all the squares of GN less all the squares of HO:
+by 2: 12, all the circles; therefore the Cone QCI is equal to the Cylinder GE
+less the portion of the Sphere HFEO which was proposed.
+
+The second Case.
+Let ROBC be of a Circle, and RSQC of an Ellipsis complete the Diagram, then
+will the square of QC, that is IV less the square of LV be equal to the square
+of SV. For AR: RD:: TV: VL, there fore the squares of them, and AR: RD:: OV:
+US, therefore the squares of them; therefore, as the square of TV, to the
+square of VL, so the square of OV, to the square of US; Therefore, as the
+square of EV, to the square of EV less the square of TV. So the square of IV,
+to the square of IV less the square of LV, but the square of EV less the square
+of TV is equal to the square of OV; therefore the square of IV less the square
+of LV equal to the square of SV.
+
+PROPOSITION VI.
+IN the Hemisphere IAP, Let FE be parallel to IP, SZ and GX parallel to AC; the
+Figure being completed; the Cylinder QG is equal to the Cylinder IE less the
+Cylinder RH; for as the square of AC, to the square of BC; so the Cylinder IE,
+to the Cylinder RH; again, as the square of AC, to the square of AC less the
+square of BC, (that is the square of BS) so is the Cylinder IE, to the Cylinder
+IE less the Cylinder RH, (that is the Cylinder QG) it follows that the
+Cylinder RH is equal to the excavetus Cylinder IQSFGEPV, for the Cylinder QG is
+equal to the excavetus Cylinder IROFHTPE.
+
+But if the excavetus Cylinder ORQSGV TH, be added to both; the Cylinder RH
+will be equal to the excavetus or hollow cylinder QIFSGVPE; but the cone OCH is
+equal to FISGPE by the first part of the Fifth Proposition; Therefore IQSGVP is
+equal to ORCTH, that is, ^ of the difference betwixt the circumscribed IE and
+inscribed QG cylinders; subtracted from the circumscribed cylinder IE is equal
+to the portion of the Sphere ISGP; or if ^ of the difference be added to the
+inscribed cylinder QG it will be equal to the portion of the Sphere IS GP.
+
+The like in a Spheroid by the second part of the last Proposition.
+
+
+
+In Numbers thus.
+Let IP be 20; QV, 16; CB, 10; the square of IP is 400, the square of QV 256;
+the difference of the squares is 144, a third part of that number is 48, which
+subtracted from the greater square 400, leaves 352: or if two thirds of the
+difference, that is, 96 be added to the lesser square, that is, to 256, the sum
+will be 352 the true mean square; but if it be as 14: 11:: 352: 276 4/7 the
+mean circle, which being multiplied by the length ZS, 20; the Product is 5531
+3/7 the solidity of the portion ZISG PX.
+
+PROPOSITION VII.
+IF two equal and alike Triangles as GCA and GFA be contrary put, ( viz.) the
+Vertex of the one to the Base of the other, and Lines drawn parallel to the
+Base as MXV parallel to CA; If MX be drawn into XV, that so the Triangle GCA
+and GFA being drawn one into another; they will generate a solid equal to one
+sixth of the paralellepipedon ABD CEFGH.
+
+
+
+For by 4; 2. the Line MV being cut into 2 parts in X, the square MX, (that is
+IZ) more the square of XV, (that is XO) more the double Rectangle of MXV, that
+is, the Rectangles XQ and OR, are equal to the whole square VZ; for that reason
+the whole paralellepipedon ABDCEFGH is composed of these parts, the pyramide
+ABDCH more the pyramide EFGHA more the two solids BDKOIRHE and ACMXIQFG, but
+the paralellepipedon ABDCEFGH is equal to three pyramides of the same Base and
+Altitude; therefore one of these solids as ACXMQIFG will be equal to of the
+whole.
+
+PROPOSITION VIII.
+IF in the side of the paralellogram ACDE there be taken a point, suppose at B,
+and the Line BF drawn parallel to AE and CD, the Diameter BD being drawn, and
+the Figure being completed; then will the Rectangle under EB and BD, be to the
+Rectangle under the trapezium EABD and the Triangle BDC, as AB, to the composed
+of AB more of BC; For the Rectangle EB, BD; that is, all the Rectangles of AB,
+BC; QR, RX; OF, FD; that is the paralellepipedon made of AB, BC; and the
+Altitude BF: the Rectangle EABD, BDC; that is, all the Rectangles OF, FD; QR,
+RZ; that is a prisme of EFD and the Altitude FB; more all the Rectangles of RZ,
+ZX; but a paralellepipedon is to a prisme of the same Base and Altitude as 1
+to, that may be as AB, to AB, but all the Rectangles of RZ, ZX, are of the
+paralellepipedon BCB and the Altitude CD by the last Proposition; but the
+paralellepipedon BCBFD, is to BC, as of the paralellepipedon BCBFD, to of BC,
+the prisme made of DFE and the Altitude EA, more all the Rectangles of RZ, ZX;
+that is of the paralellepipedon BCB and the Altitude BF, is equal to the
+Rectangle EA BD, BDC; that is all the Rectangles of QZX; Therefore as AB, to AB
+more ^ BC, so are all the Rectangles AB, BC QR, RX; OF, FD; to all the
+Rectangle of AB, BC; QZ, ZX.
+
+The second part of this Theorem may b^ that the Rectangle EC, CF; is to the
+Rectangle of the Tropezium EABD and the Tr^angle BDF, as the Line AC, to AB mo^
+BC; the demonstration of this differs no^ from the former part, except in this,
+that a^ the Rectangles DFD, ZRZ, ZR Z, are of the paralellepipedon, as appears
+by the la^ Proposition.
+
+This Proposition is the 30 of the second o^ Caval. Geomet. Indivis. and is of
+good use i^ solid Geometry.
+
+PROPOSITION. IX.
+LEt ADBEK be a cone and be cu^ through the axis, whose Section will b^ the
+Triangle AKB, Let it be cut by another Plane as EZD, the diameter of the
+Section Z^ parallel to BK, the Base of the Section ED at Right Angle at C with
+AB; Let it b^ as ABA: AKB:: PZ: ZK, then will PZC be equal to the square of CE;
+
+For,
+
+AB: BK:: AC: CZ, therefore by 23. 6.
+
+BA: AK:: CB: ZK, therefore by 23. 6.
+
+ABA: BKA:: ACB: CZK:: PZ: ZK, apply CZ to the two last terms, and it will be
+as ACB: CZK:: CZP: CZK, because CZK is in each proportion; Therefore ACB that
+is the square of CE is equal to CZP; the like in all other planes parallel to
+the Base AEBD. This manner of section Apollonius calls a parabola; but if the
+semiparabola EIZRC be moved about the axis ZC, until it return to that point
+from whence it began its motion, it will Generate a solid, Archimedes names
+such a solid, a Rectangled conoide; but generally it is called by the name of a
+parabolical conoide.
+
+PROPOSITION X.
+LEt AVBXK be a cone, and be cut through the axis, whose Section shall be the
+Triangle AKB, Let it be cut by another Plane as NIEC whose diameter is NC,
+(being continued if need be) shall cut both sides of the cone, the Plane NIEC
+being at Right Angle with the Plane AKB, the Planes FED and TIG parallel to the
+Plane AVBX, Let it be made, as CRN: GRT:: CN: NP, then will QRN be equal to the
+square of RI; for CN: NP:: CR: RQ, taking the Altitude RN it may be CN: NR::
+CRN: QRN:: CRN: GRT, in these last four terms CRN is twice, therefore QRN is
+equal to GRT, that is the square of RI.
+
+By reason of the similitude of the Triangle CHD to CRG, and of the Triangle
+NRT to NHF, it may be, as
+
+NR: TR:: NH: FH by 23. 6.
+
+RC: RG:: HC: HD by 23. 6.
+
+NRC: TRG:: NHC: FHD, but T ^ G is equal to the square of RI, and FHD ^s equal
+to the square of HE; therefore as ^RC to the square of RI, so is NHC to ^he
+square of HE.
+
+This Section of a cone is named by Apollo^ius an Ellipsis.
+
+
+
+But if the Semi-Ellipsis CEIN be move^ about the axis, CN, until it return to
+tha^ point from whence it began its motion, it will Generate a solid,
+Archimides calls such a soli^ a Spheroide; but if it be turned about the lesser
+Diameter, then he calls that solid a Spheroide prolatus.
+
+PROPOSITION XI.
+LEt ABCBF be a cone, and be cut through the axis, whose section will make the
+the Triangle AFC, Let it be cut b^ another Plane BHD, the Diamete^ HG, and the
+side of the Triangle C^ being continued may meet at K, HN at righ^ Angle with
+HG, the Plane OIE parallel t^ ABCD, the Plane BDH at right Angl^ with the Plane
+AFC; Let it be made, a^ KRH: ERO:: KH: HN, draw RZ parallel to HN, and join
+ZNK, then will ZR^ be equal to the square of RI; For, as KH*^ NH:: KR: ZR, take
+the Altitude RH an^ apply it to the two last terms, and it will be a^ KH: NH::
+KRH: ZRH:: KRH: ERO* Therefore ZRH is equal to ERO that is the square of RI
+because of the similitude of the Triangle AGH to HRO, and of KGC to KRE, it may
+be as,
+
+KG: CG:: KR: ER by 23, 6.
+
+GH: GA:: RH: TO by 23, 6.
+
+KGH: CGA:: KRH: ERO; CGA is equal (...) the square of GB, and ERO is equal to
+the square of RI; Therefore as KGH, the square of GB, so is KRH, to the squa of
+RI.
+
+This manner of Section Apollonius calls Hyperbola; but if the semihyperbola
+BIHR be moved about the Axis HG, until it retu^ to that point from whence it
+began its mtion, it will Generate a solid; such a solid called by Archimedes an
+Amblygon conoid^ but generally it is called a Hyperbolical conide.
+
+PROPOSITION XII. To find the solidity of the portion of the Sphere BNRE.
+LEt ABNE be a Sphere and BH a C^ linder, it is manifest that the
+paralellepipedon whose Base is the square of GE, a Altitude GN is equal to the
+paralellepipea whose Base is the square of GN and Altitu AG; it is also
+manifest that the Rectang AGN is equal to the square GE, the li for any other,
+as, AZN equal to ZR Therefore by the 8 Proposition, as AG t^ AG more GN, so are
+all the squares Z to all the squares of ZR; Therefore, as A to AG more GN, so
+the Cylinder E ^o the portion of the Sphere ERNB. The ^ike in a Spheroide.
+
+
+
+In Numbers thus.
+Let AG be 150; GN, 54; GE 90; the paralellepipedon made of the square of BE
+and Altitude GN, in 1749600; then, as AG, 150; to ^ AG, more GN; that is 75
+more 9; that is 84; so is 1749600, to 979776, that is all the squares in the
+portion of the Sphere BNRE; then as 14: 11:: 979776: 769824, the portion of the
+Sphere BNRE.
+
+PROPOSITION XIII. To find the solidity of a Parabolical Conoide
+LEt BCOE be a semiparabola; by the 9 Proposition it is, as EB, is to ER that
+is to ZQ; so is the square of BC that i^ the square of RI, to the square of TO,
+tha^ is, as the parallelogram BF, is to the Triang FEB; so is the
+parallelepipedon made of the square of BC and Altitude BE, to all the squares
+of TO, but the Triangle FBE is of the parallelogram BF; Therefore the
+parabolical conoide will be of the cylinder of the same Base and Altitude.
+
+
+
+Thus in Numbers.
+Let AB, 10; BC, 10; Therefore AC, 20; Let BE, 30; the square of AC, 20; is
+400, which being multiplied by EB, that is by 15; the Product is 6000, equal to
+all the squares in the conoide AEC; but if it be made as 14: 11:: 6000: 4714 ^
+the solidity of the conoide AEC.
+
+PROPOSITION. XIV. To find the solidity of a Hyperbolical Conoide.
+LEt ZRHX be a semihyperbola, and OF parallel to ZK, AR the Transverse
+Diameter, RX the intercepted Axis, the point H in the Hyperbolical Line by the
+11 Proposiion it is, as AXR to AFR, so is the square of XZ, to the square of
+FH, that is, as the parallelepipedon made of the Rectangle RXZ and the Altitude
+AX, is to the prisme made of the Rectangle ARX and the Altitude ^D, more the
+pyramide made of the square ^f ZD and Altitude DR; so is the parallelepipedon
+made of the square of ZK and Altitude XR, to all the squares in the conoide
+^HRK.
+
+But as the parallelepipedon made of the Rectangle RXZ and Altitude AX, is to
+the prisme made of the Rectangle ARX and Altitude RD, more the pyramide made of
+the square DZ and Altitude DR; so is the Line AX to the Line BR (that is AR)
+more of the Line RX, by the 8 Proposition; Therefore by the 11. 5. it will be
+as the Line AX, is to the Line BR, more of the Line RX, so is the
+parallelepipedon made of the square of ZK and Altitude XR, to all the squares
+in the conoide ZHRK; then as 14: 11, so are all the squares in the conoide
+ZHRK, to the conoide ZHRK.
+
+
+
+In Numbers thus.
+Let AX be 150; RX, 54; ZX, 90; AR, 96; BR, 48; the parallelepipedon whose Base
+is the Rectangle of RXZ and the Altitude AX is 729000.
+
+The prisme whose Base is the Rectangle ARX and Altitude RD is 233280.
+
+The pyramide whose Base is the square of RX and Altitude RD is 87480.
+
+The parallelepipedon whose Base is the square of ZX and Altitude XR is 437400.
+
+Then 729000: 233280 more 87480, that is, 320760:: AX, 150: BR, 48, more of RX,
+18; that is 66:: 437400: 192456 equal to all the squares in the of the conoide
+ZH RK; but if that last number be multiplied by 4, the Product will be 769824
+equal to all the squares in the conoide ZHRK, then 14: 11:: 769824: 533433 ^
+the solidity of the Hyperbolick conoide ZHRK.
+
+PROPOSITION XV. To find the solidity of a whole Sphere, or a portion thereof.
+LEt ADEF be a Plane and the Semicircle DQIQE be in that Plane, Let the Planes
+ABCD and CDE be at Right Angle with the Plane ADEF; Let DC, AB and OF each of
+them be equal to DE; Let the Planes KHXR be parallel to the Base of the prisme;
+namely, parallel to AB CD. The Rectangle DRE is equal to the square of RQ, by
+353, that is, the Rectangle comprehended of IR and RX, for RX is equal to RE,
+and IR is equal to RD, therefore all the squares in of the Sphere E QIQD are
+equal to all the Rectangle in the prisme CDFE, the like in any part; Therefore
+the prisme RXHKFE, less the pyramide OIKHF shall be equal to all the squares in
+the portion of the Sphere QER. Then as 14: 11, so the prisme XRIOFE to the
+solidity of the portion of the Sphere QER.
+
+In Numbers thus.
+Let AB, AF, FE, AD, DC, BC each of these be equal to DE, and DE be equal to
+204: from E to the first R be 54, and from that first R to D be 150; KR, 204
+multiplied by RX, 54; is XK, 11016; which being multiplied by RE 27; the
+Product will be 297232, equal to the prisme KHXR OF; FK, KH, HO, and IK, every
+of them equal to 54; Therefore the pyramide KHO IF will be 52488; then KHXREF,
+297 232; less KHOIF, 52488 there will remain IOXREF, 244944; equal to all the
+squares in the portion QER; that is, all the squares in the portion of of a
+Sphere,
+
+PROPOSITION XVI. To find the solidity of a whole Spheroide, or a portion
+thereof.
+LEt FADE be a Plane, the Ellipsis EQ D be in that Plane; Let AB and DC each of
+them be equal to DE, the Planes K RXH parallel to the Base of the prisme AB CD.
+Find the Line FE by the 10th. Prop. by the said 10th. Prop. the Rectangle IRE
+will be equal to the square of RQ; but the Rectangle IRE is equal to the
+Rectangle IRX, because DC is equal to DE, therefore RX is equal to RE,
+therefore the Rectangle IRX is equal to the square of RQ; therefore the prisme
+XHKREF less the pyramide KHOIF will be equal to all the squares in the portion
+QER.
+
+In Numbers Thus.
+Let DE the longest Diameter be 36, the Conjugate or shortest 18, therefore FE
+will be 12, for it is 36: 18:: 18: 12. Let from E to the first R be 9, then FE,
+12, multiplied by R X, 9; XK will be 108; which being multiplied by of ER, that
+is 4 the Product will be 486, equal to KHXREF; for the finding of KI, work
+thus, AF, 36; to AD, 12; so is FK, 9; to IK, 3; then IK, 3, multiplied by KH 9;
+the Product is 27, that is, HI; this last number being multiplied by of KF,
+that is by 3; the pyramide KHIOF will be equal to 81, which being subtracted
+from the prisme KHXREF there will remain 405 the prisme IOXREF equal to all the
+squares in the portion of the spheroide QER.
+
+PROPOSITION XVI. To find the solidity of a hyperbolical Conoide.
+LEt MAEL be a Plane, and the hyperbola be in that Plane; to that Plane let the
+Planes BAM, CEL and DEL be perpendicular; Let DE, CF and BA be each of them
+equal to AM; Let the Planes KIXH be parallel to the Plane ABDE the Base of the
+prisme ABDELM; find the Lines ML and MG by the 11 Proposition, the Rectangle
+IKM, is equal to the square of KZ, but the Rectangle IKM is equal to the
+Rectangle IKHX, because AB is equal to AM, therefore HK is equal to KM;
+Therefore the Rectangle IKHX, is equal to the square KZ; Therefore the prisme
+ABDELM, is equal to all the squares in the conoide AMZ.
+
+In Numbers thus.
+Let GM the Transverse Diameter be 18; MA, 12; AE, 10; ML, 6; AB equal to AM
+multiplied by AE, 16; the Product is 72 equal to ABCF, which being multiplied
+by AM, that is, 6, the Product is 432 equal to the prisme ABCFLM; FE, 4;
+multiplied by FC, 12; the Product is 48, equal to FCDE, which being multiplied
+by of FL, that is, 4; the Product is 192, equal to the pyramide FCDEL; this
+pyramide being added to the prisme before found, the whole prisme ABDELM, will
+be 634, equal to all the squares in the conoide AZM.
+
+PROPOSITION XVIII. To find the solidity of a Conoide parabola.
+LEt AVHP be a Plane, the parabola PO RA be in that Plane, Let VC and AB each
+of them be equal to AP; Let the Planes QG, QF, and QE be parallel to the Base
+of the prisme ABCV. By the 9 Proposition the parallelogram HQ is equal to the
+square of QO, but the Plane HQ is equal to the Rectangle QZGI, because IQ is
+equal to HP and QZ is equal to QP; Therefore the Plane QG is equal to the
+square of QO, the like in the rest; Therefore the prisme AB CVHP is equal to
+all the squares in the conoide RPA.
+
+
+
+In Numbers thus.
+Let AP, be 10; AV, 8; Therefore AC will be 80; which being multiplied by AP,
+10; that is, by 5, the Product will be 400, equal to the prisme ABCVHP; that
+is, all the squares in of a parabolical conoide whose Altitude is AP, 10; and
+semidiameter of the Base is AR.
+
+In these 4 last Propositions it ought to be ^ade, as 14: 11; so are all the
+squares in the ^ortion to the portion it self.
+
+PROPOSITION XIX. To find the Area of a segment of a Circle or an Ellepsis.
+LEt AGE be a semicircle, the area HGF the segment required; Let there be given
+AC, 13; HR, 12; CR, 5; then, as 14* 11, so is the square of 13, that is, 169,
+to the area of of the Circle, 132 11/14, the area AGC. In the Triangle HRC,
+there i^ given HR, 12; CR, 5; and the Right Angle CRH; therefore there is given
+the Angle CRH; thus, 5: 12:: 100000: 240000, the Tangent of 67 Degrees 23
+Minutes, again, as 90 Degrees, that is the Angle ACG, is to 67 Degrees 23
+Minutes; so is the area ACG, 132 11/14; to the area of the Sector HC G, 98::
+88; the Triangle HCR, 30; being taken from the Secto^, leaves the Segment HRG,
+68:: 88; by the latter part of the 10 Proposition it will be as AC: BC:: IO:
+ZO, Therefore as AC: BC, so the segment of the Circle HRG, to the segment of
+the Ellipsis ZRG; Let BC be 10, then as 13: 10:: 68:: 88: 52:: 98 the segment
+of the Ellipsis.
+
+PROPOSITION XX. To find the solidity of a Circular or Elliptick Spindle.
+LEt ABCOHP be a Circle, HB and PVO be two Diameters at right Angle ^t Z; Let
+AK and GC be parallel to HB, ^he Lines PO parallel to PVO; Let GC ^qual to AK
+be the axis, VO the Diameter of the Spindle. Suppose there be Solid whose Base
+shall be the segment KHG ^BA and Altitude the segment APK; such a Solid is
+equal to all the squares in of Sphere whose Diameter is AK; for the Rect angle
+ORP is equal to the Rectangle AR^ 35, 3, and by the same 35, 3, the Rectangle
+ARK are equal to all the squares In of Sphere whose Diameter is AK.
+
+If from the Solid whose Base is KHG^ CBA and Altitude APK, there be take a
+Solid, whose Base is KGCA and Altitud^ AKP there will remain a Solid whose Ba^
+and Altitude is equal to the segment GO^ or APK; equal to all the squares in
+the o^ the Spindle.
+
+By the 15 Proposition find all the squares in of a Sphere whose Diameter is AK.
+
+By the 19 Proposition find the segment A PR which multiplied by KG makes a
+parallelepipedon, which being taken from of the forementioned Sphere, leaves
+all the squares in of the Spindle, this being multiplied by 4 gives all the
+squares in the Spindle; Then, as 14: 11, so are all the squares in the Spindle,
+to all the Circles, that is the Spindle it self.
+
+Further, as the whole so the parts are calculated; find the segment of a
+Sphere by the 15 Proposition, and the segment of the Circle KRP by the 19
+Proposition, this segment KRP multiplied by KG, which taken from the
+corresponding part of the Sphere, leaves the corresponding part of the Spindle
+GOI.
+
+Let BOHP be supposed to be an Ellipsis, HB and PZO its Diameters; the Area K
+PA may be found by the last part of the 19th. Proposition: find of a Spheroide
+that has KA for one of its Diameters, if the square of ZP be lessened by the
+square of ZR, there will remain a square whose Root shall be half the other
+Diameter; find all the squares in of such a Spheroide by the 16. Propos. then
+proceed as in the Circle, as well for the parts as the whole.
+
+PROPOSITION XXI. To find the solidity of the second Sections in: Sphere or
+Spheroide.
+LEt DABRCMNLFQ be of ^ Sphere cut by two Planes, viz. the Plan^ RXDGZQ and
+MXAPZT being a^ right Angles, their Intersection XZ. MA Equal to MZ; RD equal
+to RZ; CN equal to CB the semidiameter of the Sphere MX and XR being known, the
+rest may be found thus.
+
+
+
+1.
+The Areas ZXD and ZXA may be found by the 19th. Proposition.
+
+2.
+The Spherical Superficie of BDZQ is equal to a Surface whose Base is equal to
+the Line FLN and Altitude RB.
+
+Or,
+
+The Spherical Superficie of RDZQ is equal to the Area of a Circle whose
+Diameter is equal to a Line drawn from B to D.
+
+The like for the Spherical Superficie of NA ZT. Archimedes 36. 1. of the
+Sphere and Cylinder.
+
+3.
+Let RDGZQ and MAPZT be Quadrants of lesser Circles of the same Sphere, RD and
+MA their Semidiameters; CBZL and CNZE Quadrants of great Circles of the Sphere;
+AOZ and DIZ Arches of great Circles of that Sphere, the Arch NZ equal to the
+Arch NA, and the Arch BZ equal to the Arch BD; the right lined Angle DRZ equal
+to the Spherical Angle DBZ, the Angle ZMA equal to the Angle ANZ.
+
+4.
+As 90 Degrees, is to the degrees and parts of a Degree in the Angle DBZ; so is
+the Spherical Superficie BADGZQ, to the Spherical Superficie of the Triangle
+BADGZ.
+
+5.
+In the Triangle IZBDI; there is given the Arches BD and BZ, and the Angle D
+BZ; Therefore there are given the Angles BDZ and BZD. The like in the Triangle
+OZNAO for the Angles NAZ and NZA; by the third Case of Oblique angled Spherical
+Triangles.
+
+6.
+In the Triangle AOZID, there is given the Arch AD and the Angles ZAD and ZDA;
+Therefore there is given the Angle AOZID, by the 8th. Case of Oblique angled
+Spherical Triangles.
+
+7.
+In the Triangle AOZID there are given the three Angles, Therefore the Area may
+be found, thus. As 180 Degrees, is to the excess of the three Angles over and
+above 180 Degrees; so is the Area of a great Circle of that Sphere to the Area
+of that Triangle, Foster, Miscel. page 21.
+
+Or,
+
+It may be found by that method which is delivered by that Learned
+Mathematician Mr. John Leek, in page, 116, of Mr. Gibsons Syntaxis Mathematica,
+Which is this. If the excess of the three Angles above 180 Degrees be
+multiplied by half the Diameter of the Sphere, the Superficies of any Spherical
+Triangle is thereby produced.
+
+By this Rule and by what Mr. Gibson delivered in that 116 page, I found this
+way to resolve this Proposition.
+
+8.
+By this last Rule we are to find the Areas of the Triangles BDIZ and NAOZ: the
+difference between the Areas of these, and those found by the 4. of this
+shows the Areas of the two Figures, viz. GZID and OZPA, which added to the
+Area DIZOA gives the Superficie of the mixed Lined Triangle APZ GD.
+
+
+
+9.
+In the 9th. Chapter of the forementioned Syntaxis Mathematica there is given
+some Rules about some solids; but when it was time to treat of these second
+fragments, that Author breaks off thus; There may be other parts of a Sphere
+besides those which are here called Fragments, (not to speak of those which are
+irregular and multiform) which are either Cones or Pyramides, whose Bases lie
+in the superficies of the Sphere, and their vertices at the Center, the
+solidity of one of these is found by multiplying the third part of the Base by
+the Altitude (which here is the semiaxis) the product is the solidity: these
+Fragments are those which are usually called Solid Angles. Thus fa^ Mr. Gibson.
+
+In the Diagram, Let the Triangle AZF, be equal to the Triangle ZPADG in the
+last Diagram, the Spherical Superficie of that Triangle multiplied by one third
+of the Semidiameter CA, CF or CZ produces the Spherical pyramide ZFAC.
+
+This pyramide may be divided into three solids, viz. a pyramide whose Base is
+the segment ZFX and Altitude ZB, the pyramide whose Base is the Area ZAX and
+Altitude XE; and the solid AZXF the solid required. But the pyramides are
+given, because the Areas ZXF and ZXA may be found by the I of this, and the
+Altitudes XB and XE are given to limit the Proposition; Therefore the pyramides
+ZXFC and ZXAC taken from the pyramide ZFAC leaves the solid FXAZ.
+
+10.
+Let ABD HFCT be ^ of a Spheroide, OXVIABD HF^T, be of a Sphere. Unto the
+Planes and LO XC, Let there be Planes at right Angles as QDH, QBF and AC. OIDH,
+IBF and XIAC. From the points L parallel to C draw the Line L E, because the
+Line LE is parallel to C, Therefore the Line T is equal to LT, and the Line T
+is equal to TI, Therefore the Quadrants of the Circle T and TLI are equal. In
+these Planes, viz. QDH, QBF and AC, Let there be Lines drawn, viz. P comma, and
+QN, parallel to H. P comma, and QN parallel to F. comma, and N parallel to C.
+The points PQD, PQD and A in those Ellipses, the points OVID, VIB and XV IA in
+those Circles.
+
+
+
+C: XC:: H: OH, by the 10. Prop.
+
+C: XC:: E: LE,
+
+H: OH:: E: LE, 11. 5.
+
+H-OH: OH:: E-LE:LE, 17. 5.
+
+O: OH:: L: LE, 19. 5.
+
+F: E:: F: LE, 10th. Prop.
+
+F-E: E:: F-LE: LE, 17. 5.
+
+R: E:: Z: LE, 19. 5.
+
+TO: E:: ZOZ: LE, 12. 5.
+
+E: LE:: C: XC,
+
+C: XC:: TO: ZOZ, 11. 5.
+
+C: XC:: Area R: Area ZOL,
+
+Again.
+
+H: E:: (QN) OH: IN, 10. Prop.
+
+H-QN: QN:: OH-IN (ZH) IN, 17. 5.
+
+O: OH:: OZ: ZH, 19. 5.
+
+P,: QN:: V,: IN,
+
+P,-QN: QN:: V,-IN: IN, 17. 5.
+
+P.: QN:: V,: IN, 19. 5.
+
+OP.: QN:: (E)OZVI:IN; (LE,) 12. 5.
+
+OP.: E:: OZ + VI: LE,
+
+C: XC:: E: LE,
+
+C: XC:: OP.: OZVI, that is,
+
+C:XC:: Area OQP: Area ZIVO. the Plane.
+
+PQBF or any other drawn parallel to these, shall have the same qualifications;
+which makes us conclude that the whole Section ILTX shall be to the whole
+Section T as XC is to C, and as XC to C so the segment ILZO to the segment Q O,
+the second Section in the Spheroide.
+
+PROPOSITION XXII.
+IF four Numbers be in proportion, that is, as the first is to the second; so
+is the third, to the fourth. It will always be, as the first, is to a
+Geometrical mean proportion between the first and second; so is the third, to a
+Geometrical mean proportion between the third and fourth.
+
+Let it be,
+
+A: B:: C: D, multiply the two first terms by A, and it will be, as AA: AB::
+C: D, 17. 7. If the two last terms be multiplied by C, it will be AA: AB:: CC:
+CD, then, as A: AB:: C: CD, 22. 6.
+
+In Numbers thus.
+4: 9:: 16: 36.
+
+16: 36:: 16: 36.
+
+16: 36:: 256: 576.
+
+4: 6:: 16: 24.
+
+PROPOSITION. XIII. To find the Relation of one Hyperbola to another.
+LEt FLBC be a semihyperbola, its Transverse Diameter FH, its intercepted Axis
+FC. Let GMBC be another semihyperbola, its Transverse Diameter KG, its
+intercepted Axis GC.
+
+Let it be made, as,
+
+1.
+KG: GC:: HF: FC, KGGC: GC:: HFFC: FC, 18. 5. KC: GC:: HC: FC KC: HC:: GC: FC,
+16. 5. KC: HC:: GC: FC, 17. 7. 2 2
+
+KC: HC:: GF: FE
+
+KF: HE:: GF: FE, 19. 5.
+
+KC: HC:: KF: HE, 11. 5.
+
+GC: FC:: GF: FE, 11. 5.
+
+KCG: HCF:: KFG: HEF, 23. 6.
+
+KCG: KFG:: HCF: HEF, 16. 5.
+
+HCF: HEF:: CBC: ELE, 11 Pro.
+
+KCG: KFG:: CBC: FMF=ELE, 11. 5. 11. Prop.
+
+Therefore FM is equal to the Line LE, and for as much as GC is divided in F,
+in the same Ratio as FC is in E, Therefore,
+
+GG: FC:: GF: FE, 17. 7.
+
+GC: FC:: FC: EC, 19. 5.
+
+GC: FC:: MD: LD,
+
+GC: FC:: area CBG: area CBF, 12. 5.
+
+
+
+2.
+From the Vertex of the Hyperbola CBF, Let there be a Semihyperbola as CAF; FH
+its Transverse Diameter.
+
+Then as,
+
+HCF: HEF:: CBC: ELE, 11. Prop.
+
+HCF: HEF:: CAC: ENE, 11. Prop.
+
+CBC: CAC:: ELE: ENE, 11. 5.
+
+CB: CA:: EL: EN 22. 6.
+
+CB: CA:: area CBF: area CAF, 12. 5.
+
+3.
+Let CVQ be of an Ellipsis, its Transverse Diameter FV, its semiconjugate CQ,
+Let CGQ be of another Ellipsis its Transverse Diameter EG, its conjugate CQ.
+
+Let it be made, as,
+
+FC: EC:: CV: CG, FC: EC:: CV: CG, 17. 7. 2 2
+
+FC: EC:: CG: CD, 17. 7.
+
+FC: CG:: EC: CD, 16. 5.
+
+FC: FCCG:: EC: ECCD, 18. 5.
+
+FC: FG:: EC: ED, 18. 5.
+
+CV: GV:: CG: DG, 17. 7.
+
+FCV: FGV:: ECG: EDG, 23. 6.
+
+FCV: FGV:: CQC: GLG, 10. Prop.
+
+ECG: EDG:: CQC: DHD=GLG, 10. Prop.
+
+Therefore DH and GL are equal, Because the Line CV is divided in G in the same
+ratio as CG is in D.
+
+Therefore, as,
+
+CV: VG:: CG: GD,
+
+CV: CG:: CG: DC, 19. 5.
+
+CV: CG:: IL: IH,
+
+CV: CG:: area CQV: area CQG,
+
+4.
+From the vertex of the Quarter of the Ellipsis CGQ; Let there be of another
+Ellipsis, as CGR, its Transverse Diameter EG the semiconjugate CR,
+
+Then, as,
+
+ECG: EDG:: CQC: DHD, 10. Pr.
+
+ECG: EDG:: CRC: DKD, 10. Pr.
+
+CQC: DHD:: CRC: DKD, 11. 5.
+
+CQ: CR:: DH: DK, 22. 6.
+
+CQ: CR:: area CDQ: area CGR, 12. 5.
+
+5.
+Let CGB be half a parabola, its Diameter CG, its Ordinate CB. Let CVB be half
+of another parabola, its Diameter CV, its Ordinate CB.
+
+
+
+Let it be,
+
+CV: CG:: CV: CG, CV: CG:: CV / 2: CG / 2,
+
+CV: CG:: GV: GD,
+
+CG: GD:: CBC: DND, 9. Prop.
+
+CV: GV:: CBC: GTG=DND, 9. Prop.
+
+Therefore GT is equal to DN; because the Line CV is divided in G in the same
+ratio as CG is in D.
+
+Therefore,
+
+CV: CG:: CG: CD,
+
+CV: CG:: AT: AN,
+
+CV: CG:: area CVB: area CGB, 12. 5.
+
+6.
+From the vertex of the semiparabola CGB; Let there be another semiparabola, as
+CGZ,
+
+Then, as,
+
+GC: GD:: CBC: DND, 9. Pr.
+
+GC: GD:: CZC: DOD, 9. Pr.
+
+CZC: CBC:: DOD: DND, 11. 5.
+
+ZC: BC:: OD: ND, 22. 6.
+
+ZC: BC:: area ZGC: area BGC, 12. 5.
+
+7.
+Hence,
+
+It follows that the areas of hyperbolas, Ellipses and parabolas may be
+increased or decreased in any proportion assigned; either according to their
+Transverse diameters or Ordinates: or both together.
+
+It follows also,
+
+That the areas of hyperbolas, ellipses and parabolas of the same bases are as
+their Altitudes.
+
+And also,
+
+That the areas of hyperbolas, ellipses and parabolas of the same Altitudes are
+as their bases.
+
+Further it follows,
+
+If there be two hyperbolas, namely, A and B; if the Transverse diameter of A,
+be to the Transverse diameter of B; as the conjugate diameter of A, is to the
+conjugate diameter of B; if the Transverse diameter of A, is to the Transverse
+diameter of B; as the interpreted diameter of A, is to the interpreted diameter
+of B: if the conjugate diameter of A, is to the conjugate diameter of B; as the
+Ordinate of A, is to the Ordinate of B. Then such hyperbolas are called like
+hyperbolas.
+
+And the area of A, will be to the area of B; as the Rectangled Figure of the
+Transverse and conjugate diameters of A, to the Rectangled Figure of the
+Transverse and conjugate diameters of B.
+
+Or,
+
+The area of A, will be to the area of B; as the Rectangled Figure of the
+interpreted diameter, and Ordinate of A, is to the Rectangled Figure of the
+interpreted diameter and Ordinate of B.
+
+8.
+Here note,
+
+In the byperbolas CFB, CFA and CGB the Lines CB, EL; and CA, EN; and CB, FM,
+are called Ordinates.
+
+In the Ellipses, CGQ, CGR and CVQ; the Lines DH, and DK and GL are Ordinates;
+the Lines CQ and CR conjugate diameters.
+
+In the parabolas.
+
+CGB, CGZ and CV. B; the Lines CB, DN; and CZ, DO; and CB, GT are called
+Ordinates.
+
+9.
+In the hyperbola CFB; CF, OF, CB and EL being given, to find the Transverse
+dameter FH.
+
+Let FE=A. FC=B. CB=D. EL=E. Z=HF. Therefore HE=ZA. HC=ZB.
+
+Therefore,
+
+DD: EE:: ZBBB: ZAAA, 11. Prop.
+
+ZADDAADD=ZBEEBBEE, 16. 6.
+
+-ZBEE -AADD.
+
+In Words thus.
+The difference between the square of B in the square of E, and the square of A
+in the square of D; being divided by the difference between A in the square of
+D and B in the square of E; the Quotient is the value of Z.
+
+10.
+In the Ellipsis CQG; CQ, DH, and CD being given, to find the Transverse
+diameter EG.
+
+Let CQ=A. DH=B. CD=D, GC=Z. Therefore ZD=ED. Z-D=DG.
+
+ZZ: ZD in Z-D:: AA: BB, 10. Prop.
+
+ZZBB=ZZAA-DDAA. 16. 6.
+
+DDAA=ZZAA -ZZBB
+
+In Words thus.
+As the square Root, of the difference between the square of A and the square
+of B, is to A, so is D, to Z, the semitransverse diameter. 22. 6.
+
+11.
+In the parabola CGB; CB, CD and DN being known, to find the diameter DG.
+
+Let CB=A. DN=B. CD=C. DG=Z. Then
+
+CZ=CG. AA: BB:: CZ: Z, 9. Prop.
+
+AAZ=BBCBBZ 16. 6.
+
+-BBZ
+
+In Words thus.
+As the difference betwixt the square of A and B, is to the square of B; so is
+C, to Z,
+
+Or thus.
+
+AA: BB:: CZ: Z, 9. Prop.
+
+AA-BB: BB:: CZ-Z: Z, 17. 5.
+
+12.
+Yet further, it may be made manifest, that by the points of B and F there may
+be infinite hyperbolick lines pass: the area of the least, shall not be so
+little as half the parallelogram, whose base is BC, and Altitude CE: nor the
+area of the greatest, so great, as three fourths of the said parallelogram.
+
+PROPOSITION XXIV. Of all manner of cylindrick hoofs.
+1.
+LEt MACFTP be half a parabolick Cylinder, the base MAC parallel, equal and a
+like to the base FTP. Let C and F be the vertices of the parabolas ACM and TFP,
+CM and FP their diameters. Let this cylinder be cut by the Plane HVKB parallel
+to the Plane FPMC, the Line HB in the superficie of the cylinder. Let it be cut
+by another Plane, as HGRB parallel to the Plane PTAM, the line HB in the
+superficie of the said cylinder. Let it be cut by the Plane OADQM, the line AOD
+in the superficie of the cylinder, and the line DQM in the Plane CFPM; the
+Ordinate AM the common Section of the Planes ABCM and AODQM. Further, Let it be
+cut by the Plane AIELM, the line. AIE in the superficie of the cylinder and the
+line ELM in the Plane CFPM. From K, to O and I let lines be drawn, and also
+from M to D and E: from the intersection of GR and ME, that is from L, to the
+intersection of the lines HB and AE, that is to I, let there be a line drawn,
+as LI; and likewise the line QO; then the line LI and QO will be equal and
+parallel to the line RB. Because the Planes AODQM and AIELM, cut the Plane GFPM
+at right Angles* and the points B, O, I, H, are in the superficie of the
+cylinder and in the lin^ BH.
+
+Betwixt the Planes ACM and AODQM there is a solid made, as ABCMQDOA; also
+betwixt the said base ABCM and the Plane AIELM there is another solid made as
+AB^ MLEIA: such solids are called cylindric^ hoofs, and they take their
+particular name^ from such cylinders as they are part of; viz. if the base ABCM
+be half, or a quarter of a circle, it may be called a circular cylindrick hoof;
+If half or a quarter of an ellipsis, then an elliptick cylindrick hoof. If the
+base be half, or a whole parabola, then a parabolick cylindrick hoof. If half,
+or a whole hyperbola, then a hyperbolick cylindrick hoof; the like for any
+other.
+
+
+
+2.
+To prove that the Section AODQM is of the same kind and degree as the base
+ABCM.
+
+The Angle BKO is equal to the Angle RMQ; because BK and RM are parallel, equal
+and in the Plane ABCM, the Lines OK and QM are parallel, equal and in the Plane
+AODQM, also the Lines BO and RQ are parallel, equal and in the Plane BHGR;
+Therefore the Triangles BKO and RMQ are equal and a like.
+
+Because it is, as, CM: CR:: MAM: RBR. 9th. Prop. as MC: MR:: MD: MQ. 4. 6. but
+AM is common to both and OQ equal to BR; Therefore by the 5th. of the 23.
+Propos. as, DM: DQ:: MAM: QOQ. Therefore the Section AODQM is a parabola by the
+9th. Proposition.
+
+3. To find the relation of one hoof to another.
+The Triangles MCD and MCE are upon the same base MC, Therefore they are as
+their Altitudes CD and CE. 1. 6. Again, the Triangles KBO and KBI are upon the
+same base KB, Therefore they are as their Altitudes BO and BY, 1. 6.
+
+Further, the Triangles KBO and MCD are alike, and also the Triangles KBI and
+MCE are alike, therefore their sides are in proportion. 4. 6.
+
+The Triangle MCD: Triangle MCE:: CD: CE. 1. 6.
+
+The Triangle KBO: Triangle KBI:: BO: BY. 1. 6.
+
+But BO: BY:: CD: CE. 4. 6.
+
+The Triangle KBO: Triangle KBI:: CD: CE. 11. 5.
+
+KBOMCD: KBIMCE:: CD: CE. 12. 5.
+
+Hence it follows,
+
+That the solidities of hoofs upon the same base are as their Altitudes, that
+is, the hoof ABCMQDOA, is to the hoof ABCMLEIA; as CD, is to CE.
+
+Further it follows.
+
+Because it is BO: BY:: CD: CE, Therefore the superficies of hoofs, upon the
+same base are as their Altitudes, that is, the superficie CBAOD, is to the
+superficie CBAIE; as CD, is to CE.
+
+4. To find the solidity of cylindrick hoofs.
+The Triangles MCD and KBO a^ alike, Therefore as, as KB: BO:: MC CD, 4. 6. and
+KB: BO / 2:: MC: CD / 2, by the converse of 17. 7. then as, KB, to a
+Geometrical mean proportion between KB and ha^ BO, so is MC, to a Geometrical
+mean proportion between MC and half CD, by the 22. Proposition. Let MX be made
+equal to the last term in the last Proportion, viz. the Geometrical mean
+proportion between MC and half CD. Then will KZ be equal to a Geometrical mean
+proportion between K^ and half BO, and AZXM will be a semiparabola by the 5th.
+of the 23: Propsition: that is, as CM: XM:: BK: ZK. Further* the area of the
+Triangle MCD is equal to the Product of MC in half CD, that is, a Square whose
+side is a Geometrical mean proportion between MC and half CD, that is, equal to
+the Square of MX. Also the area of the Triangle KBO is equal to the Product of
+KB in half BO, that is, equal to a square whose side is a Geometrical mean
+proportion between KB and half BO; that is equal to the Square of KZ.
+
+5.
+Hence it follows.
+
+That the solidity of the hoof MQDOA BC is equal to all the squares in one
+eighth of a parabolick Spindle whose semiaxis is AM and semidiameter is MX; but
+all the squares in a parabolick Spindle is to a parallelepipedon of the same
+Base and Altitude; as 8, is to 15. Bonav. Caval. Exerc. quer. page 282.
+
+6.
+It further follows.
+
+As all the squares in the whole solid AZXM are equal to the whole hoof MQDOAC,
+so are their parts equal, if the axis be cut by a Plane at right Angle.
+
+Example.
+The Plane BKO cuts the axis AM in K at right Augle, that is, the Plane KBO is
+parallel to the Plane MCD, the part of the Spindle AKZ, is equal to the part of
+the hoof AKOB.
+
+7.
+If the hoof ABCMQDOA be cut by a Plane QON parallel to the Base ABCM, the part
+QOND may be found thus.
+
+First, take away the part KABO equal to the part of the Spindle KAZ: then take
+away the prisme KBRMQO; Lastly, take away the parabolick Semicylinder RBCNOQ
+there will remain the little hoof QOND.
+
+8.
+If ACM be a semihyperbola its Transver^ diameter Crum, the hyperbolick
+cylinder may be MABCFHTP: this cylinder being c^ by Planes according to the
+First of this Proposition, the Sections AODQM and AI^ LM will be
+semihyperbolas, DS and EW their Transverse diameters by the First of the 23d.
+Proposition. If between Mrum and ha^ rumS there be a Geometrical mean
+proportion found, suppose it M, and if between M^ and half DC there be taken a
+Geometrica^ mean proportion, suppose it MX: And also if a Geometrical mean
+proportion be taken between KB and half BO, suppose it KZ; the Plane AZXM will
+be the area of a hyperbola its Transverse diameter X; by the 22d. Proposition
+and by the First of the 23d. Proposition all the Squares in one Fourth of the
+hyperbolick Spindle AZXM taking AM for its axis, will be equal to the
+hyperbolick hoof ABCMQDOA, by the 4th. and 5th. of this Proposition. The
+relations of the solidities and supersicies, by the Third of this.
+
+9.
+If ABCM be a quarter of a Circle, the circular cylinder will be ABCMTHFP; this
+cylinder being cut by Planes, according to the First of this, the Sections
+AODQM and AIELM will be quarters of Ellipses by the Third of the 23d.
+Proposition. If a Geometrical mean proportion be taken between MC and half CD,
+suppose it MX, and also a Geometrical mean proportion be taken between KB and
+half BO, suppose it KZ. The area AZXM will be one quarter of an Ellipsis by the
+22d. Proposition, and by the Third of the 23d. Proposition.
+
+All the squares in one fourth of the semispheroide, taking AM for its
+Semiaxis, and MX for its semidiameter, will be equal to the circular cylindrick
+hoof AODQMCBA, by the Fourth and Fifth of this Proposition. As the whole, so
+the parts, according to the Sixth and Seventh of this Proposition. How to find
+all the squares in any Sphere or spheroide is taught Proposition the 15th. and
+16th.
+
+Here Note,
+
+If the Altitude of the hoof be equal to four diameters of the base, that hoof
+will be equal to all the squares in a Sphere adscribed in that cylinder.
+
+If the Altitude be less than Four diameters of the base, that hoof will be
+equal to all the squares in a spheroide whose longest diameter shall be the
+axis.
+
+But if the Altitude be greater than Four diameters of the base, then that hoof
+will be equal to all the squares in a spheroide whose shortest diameter shall
+be the axis.
+
+10.
+If ABCM be a quarter of an Ellipsis, the Elliptick cylinder will be ABCMTHFP;
+this cylinder being cut by Planes, according to the First of this, the Sections
+AODQM and AIELM will be quarters of Ellipses by the 3d. of the 23d. Proposition.
+
+If Geometrical means be taken between MC and half CD, and also between KB and
+half BO, suppose them to be MX and KZ, Then will AZXM be a quarter of an
+Ellipsis by the 22d. Proposition, and by the 3d. of the 23d. Prop. all the
+squares in one Fourth of a semispheroide taking AM for its semiaxis and MX for
+its semidiameter, will be equal to the Elliptick cylindrick hoof AODQMCBA by
+the Fourth and Fifth of this Proposition. The parts KABOBCRQON and QOND are
+found as in the Sixth and Seventh of this.
+
+A Table of Squares and Cubes.
+Roots. Squares. Cubes. 1 1 1 2 4 8 3 9 27 4 16 64 5 25 125 6 36 216 7 49 343 8
+64 512 9 81 729 10 100 1000 11 121 1331 12 144 1728 13 169 2197 14 196 2744 15
+225 3375 16 256 409^ 17 289 4913 18 324 5832 19 361 6859 20 400 8000 21 441
+9261 22 484 10648 23 529 12167 24 576 13824 25 625 15625 26 67^ 17576 27 729
+19683 28 784 21952 29 841 24389 30 900 27000 31 961 29791 32 1024 32768 33 1089
+35937 34 1156 39304 35 1225 42875 36 1296 46656 37 1369 50653 38 1444 54872 39
+1521 59319 40 1600 64000 41 1681 68921 42 1764 74088 43 1849 79507 44 1936
+85184 45 2025 91125 46 2116 97336 47 3209 103823 48 2304 110593 49 2401 117649
+50 2500 125000 51 2601 132651 52 2704 140608 53 2809 148877 54 2916 157464 55
+3025 166375 56 3136 175616 57 3249 185193 58 3364 195112 59 3481 205379 60 3600
+216000 61 3721 226981 62 3844 238328 63 3969 250047 64 4096 262144 65 4225
+274625 66 4356 287496 67 4489 300763 68 4624 314432 69 4761 328509 70 4900
+343000 71 5041 357911 72 5184 373248 73 5329 389017 74 5476 405224 75 5625
+421875 76 5776 438976 77 5929 456533 78 6084 474552 79 6241 493039 80 6400
+512000 81 6561 531441 82 6724 551368 83 6889 571787 84 7056 592704 85 7225
+614125 86 7396 636056 87 7569 658503 88 7744 68147^ 89 7921 704969 90 8100
+729000 91 8281 753571 92 8464 778688 93 8649 804357 94 8836 830584 95 9025
+857375 96 9216 884736 97 9409 912673 98 9604 941192 99 9801 970299 100 10000
+1000000 101 10201 1030301 102 10404 1061208 103 10609 1092727 104 10816 1124864
+105 11025 1157625 106 11236 1191016 107 11449 1225043 108 11664 1259712 109
+11881 1295029 110 12100 1331000 111 12321 1367631 112 12544 1404928 113 12769
+1442897 114 12996 1481544 115 13225 1520875 116 13456 1560896 117 13685 1601613
+118 13924 1643032 119 14161 1685159 120 14400 1728000 121 14641 1771561 122
+14884 1815848 123 15129 1860867 124 15376 1906624 125 15625 1953125 126 15876
+2000376 127 16129 2048383 128 16384 2097152 129 16641 2146689 130 16900 2197000
+131 17161 2248091 132 17424 2299968 133 17689 2352637 134 17956 2406104 135
+18225 2460375 136 18496 2515456 137 18769 2571353 138 19044 2628072 139 19321
+2685619 140 19600 2744000 141 19881 2803221 142 20164 2863288 143 20449 2924207
+144 20736 2985984 145 21025 3048625 146 21316 3112136 147 21609 3176523 148
+21904 3241792 149 22201 3307949 150 22500 3375000 151 22801 3442951 152 23104
+3511808 153 23409 3581577 154 23716 3652264 155 24025 3723875 156 24336 3796416
+157 24649 3869893 158 24964 3944312 159 25281 4019679 160 25600 4096000 161
+25921 4173241 161 26244 4251528 163 26569 4330747 164 26896 4410944 165 27225
+4492125 166 27556 4574296 167 27889 4657463 168 28224 4741632 169 28561 4826809
+170 28900 4913000 171 29241 5000211 172 29584 5088448 173 29929 5177717 174
+30276 5268024 175 30625 5369375 176 30976 5451776 177 31329 5545233 178 31684
+5639752 179 32041 5735339 180 32400 5832000 181 32761 5929741 182 33124 6028568
+183 33489 6128487 184 33856 6229504 185 34225 6331625 186 34596 6434856 187
+34969 6539203 188 35344 6644672 189 35721 6751269 190 36100 6859000 191 36481
+6967871 192 36864 7077888 193 37249 7189057 194 37636 7301384 195 38025 7417875
+196 38416 7529536 197 38809 7645373 198 39204 7762392 199 39601 7880599 200
+40000 8000000 201 40401 8120601 202 40804 8242408 203 41209 8365427 204 41616
+8489664 205 42025 8615125 206 42436 8741816 207 42849 8869743 208 43264 8998912
+209 43681 9129329 210 44100 9261000 211 44521 9393931 212 44944 9528128 213
+45369 9663597 214 45796 9800344 215 46225 9938375 216 46656 10077696 217 47089
+10218313 218 47524 10360232 219 47961 10503459 220 48400 10648080 221 48841
+10793861 222 49284 10941048 223 49729 11089567 224 50176 11239424 225 50625
+11390625 226 51076 11543176 227 51529 11697083 228 51984 11852352 229 52441
+12008989 230 52900 12167000 231 53361 12326391 232 53824 12487168 233 54289
+12649337 234 54756 12812904 235 55225 12977875 236 55696 13144256 237 56169
+13312053 238 56644 13481272 239 57121 13651919 240 57600 13824000
+
+PROPOSITION XXV.
+LEt AYDG be a Sphere, GY its axis, C the Center of the Sphere, the Lines AD
+and BY be at right Angles, and at right Angles with the axis GY.
+
+
+
+Let this Sphere be cut by a Plane through the axis GY, and the Base AD; the
+Section makes the Circle AYDG.
+
+Let the Sphere be cut by another Plane, viz. as by the Plane CBHSI; HC its
+diameter, BY its diameter of the Base. In the inclining Solid whose diameter of
+the Base is BY, and diameter of the Section CH and the altitude CZ or HN, that
+is the inclining Solid BHSIC is equal to the Zone AHFD, less the Cone HWFQC, or
+the inclining Solid BHSIC is equal to the Excavatus part of the Sphere ACHFCD.
+Let the plane KSE be parallel to the plane AID; RS the common section of the
+planes KSE and CHI: OE, OS and OK are equal; the square of OS is equal to the
+squares of TO and RS. 47. 1. Therefore the Area of the Circle who
+semididiameter is OS, is equal to the Areas of the two Circles whose
+semidiameters are OR and RS, that is, the Area of the semicircle OKSE, less the
+Area of the semicircle OR is equal to the armille RKSE, that is, the Area of a
+semicircle whose semidiameter is RS. Wherever the plane KSE be drawn parallel
+between the two parallel planes AID and HWF it will have the same qualification
+by the 47. 1.
+
+Whence it is manifest the inclining Solid BHSIC is the difference betwixt the
+Zone AHFD. and the Cone HWFQC. Further this inclining Solid BHSIC is equal to ^
+hemispheroide whose axis is HN, the altitude of the section BHSIC, and the
+semidiameter of the Base of the hemispheroide is CA* By the 10th. of the 6th.
+of Euclid, and by the 3d. of the 23. Proposition.
+
+2.
+Let AKD be a Hemisphere; the Plane AKD and the Plane L F cutting one another
+at right Angles their common section the line LF. From the points L and F draw
+the Lines as LG and FM parallel to the line AD; also from the points L and G,
+to the points F and M let there be lines drawn as GM and LF their common
+section the point Z. From the point L, to the line MF let there be a
+perpendicular line as LE. Let YP be equal to; then will the Spheroide whose
+axis is EL and its conjugate diameter YP be equal to the Excavatus part MZLGZF
+of the Zone MLGF; or the Zone MLGF less the cones GZL and FZM will be equal to
+the Spheroide EYLP. By the 47. of the 1. of Euclid, and by the 10th. 6th. of
+Euclid, and by the 3d. of the 23d. Propos. Here note, Z is the vertex of the
+two cones. Here also note, that L is equal to F. Further note, the lines IO,
+and BO are supposed to be at right Angles with the line LF.
+
+
+
+3.
+Let AGE be a Hemisphere; the planes AGE and GIE cutting one another at right
+Angles; their common section the line GE. Let GZ be equal to ZE; and also RL
+equal to ZI; then will the Hemisphere AGE less the cone whose diameter of the
+Base is AE and Altitude CG, that is the Cone AGE, be equal to a Spheroide whose
+axis is CG and conjugate semidiameter is RL. By the 47th. 1. and 10th. and 6th.
+and by the third of the 23d. Prop.
+
+4.
+Let AGE be a Hemisphere; the Planes AGE and G Q cutting one another at right
+Angles; their common section the line GB. Let G be equal to B being continued
+till it meets with the Circle GYA being continued; Let TO be equal to. Then
+will the Hemisphere AGE, less the cone whose diameter of the Base is BD and
+altitude CG, that is the cone BGD, be equal to the frustum spheroide whose axis
+is BP and conjugate semidiameter is OR. By the 47. 1. and 10. 6. and by the
+third of the 23d. Proposition.
+
+This holds true not only in the Sphere, but also in both the Spheroides; as
+well in the cone as also in both the Conoides, not only when the cutting plane
+cuts the axis, but when it is parallel thereunto; but when it is parallel to
+the axis, there will be a cylinder instead of these cones. The Excavatus parts
+in the sphere and both the spheroides, will always be spheres or spheroides, or
+parts thereof their demonstrations by the 47. 1. 10. 6. and by the third of the
+23d. Prop.
+
+5.
+The Excavatus parts of a frustum cone, will have relation to the hyperbola,
+ellipsis and parabola; Their demonstrations from the 47. 1. 10. 6. and from the
+first, third and fifth of the 23. Prop.
+
+6.
+The Excavatus parts of a hyperbolick conoide will have relation to all the
+three sections, viz. the hyperbola, ellipsis and parabola; their demonstrations
+by the 47. 1. 10. 6. and by the first, third and fifth of the 23. Prop.
+
+7.
+The Excavatus parts of a parabolick conoide, will have relation but to the
+ellipsis and parabola, their demonstrations from the 47. 1. and 10. 6. and from
+the third and fifth of the 23. Proposition.
+
+8.
+The solidity of every frustum cone, is equal to a cylinder whose Base is the
+lesser Base of the frustum, and its altitude the altitude of the frustum, more
+a hyperbolick conoide whose Base is equal to the difference of the Bases of the
+said frustum, and its altitude the altitude of the frustum; the Transverse
+Diameter of the hyperbolick conoide will be a line intercepted, betwixt the
+continuation of the other side of the frustum cone, and the intercepted
+Diameter, being continued.
+
+9.
+The solidity of every frustum parabolick conoide, is equal to a cylinder whose
+Base is the lesser Base of the frustum, and altitude the altitude of the said
+frustum, more a parabolick conoide whose Base is equal to the difference
+betwixt the Bases of the said frustum, and its altitude the altitude of the
+frustum.
+
+10.
+The solidity of every frustum hyperbolick conoide, is equal to a cylinder
+whose Base is the lesser Base of the frustum, and altitude the altitude of the
+said frustum; more a hyperbolick conoide whose Base is equal to the difference
+betwixt the Bases of the said frustum; and its altitude the altitude of the
+frustum.
+
+This latter hyperbolick conoide, is like to that hyperbolick conoide, of which
+the frustum is a part.
+
+11.
+A Sphere being cut by two parallel planes, both of them equidistant and
+parallel to a plane passing through the Center of the Sphere; includes a part
+of the Sphere, which for distinction sake may be called a middle Zone.
+
+The solidity of every middle Zone of any Sphere, is equal to a cylinder of the
+same Base and altitude as the Zone; more a Sphere whose diameter is equal to
+the altitude of the Zone.
+
+12.
+A Spheroide being cut by two parallel planes, both of them equidistant and
+parallel to a plane passing through the Center of the Spheroide and cutting the
+Axis of the said spheroide at right Angles, includes a part of the spheroide,
+which part for distinction sake may be called the middle Zone of a spheroide.
+
+The solidity of the middle Zone of any spheroide, is equal to a cylinder of
+the same Base, and altitude as the Zone; more a spheroide whose Axis is equal
+to the altitude of the Zone.
+
+The ellipsis which generates this last spheroide is like to that ellipsis
+which generated that spheroide of which this middle Zone is a part.
+
+13.
+The solidities of hyperbolick conoides upon the same Base, are as their
+altitudes. Here the Transverse Diameter is increased or decreased in the same
+proportion as the intercepted Diameter. By the first of the 23d Proposition.
+
+And also,
+
+The solidities of hyperbolick conoides under the same altitude, are as their
+Bases. Here the conjugate Diameter is increased or decreased in the same
+proportion as the ordidinate. By the second of the 23d. Proposition.
+
+The solidities of like hyperbolick Conoides, are in a triplicate ratio of
+their corresponding terms, that is, their Transverse Diameters, or their
+intercepted Diameters, their conjugate Diameters, or the Ordinates.
+
+14.
+The solidities of hemispheroides upon the same Base, are as their Altitudes.
+By the 3d. of the 23d. Prop.
+
+The solidities of hemipheroides under the same Altitude, are as their Bases,
+by the 4th. of the 23d. Prop.
+
+The solidities of like spheroides, are in a triplicate ratio of their
+corresponding terms.
+
+15.
+The solidities of parabolick conoides upon the same Base, are as their
+Altitudes. By the 5th. of the 23d. Prop.
+
+The solidity of parabolick conoides under the same Altitude, are as their
+Bases. By the 6th. of the 23d. Prop.
+
+The solidities of like parabolick conoides, are in the triplicate ratio of
+their corresponding terms.
+
+An Example thus.
+Suppose there be two parabolick conoides, A and B, the solidity of A, will be
+to the solidity of B; as the Cube of the axis of A, is to the Cube of the axis
+of B.
+
+Further, as the parabolick conoide of A, is to the parabolick conoide of B; so
+is the Cube of latus rectum of A, to the Cube of latus rectum of B.
+
+Yet further, if these conoides both equally incline, it will be;
+
+As the conoide of A, is to the conoide of B; so will the Cube of the Diameter
+of A, be to the Cube of the Diameter of B. The like in the rest.
+
+If there be two parabolick conoides unlike, suppose A and D. Then,
+
+A will have that proportion to D, as is composed of the Base and altitude of
+A, to the Base and altitude of D.
+
+In parabolick conoides, as A and B.
+
+If the conoide of A be equal to the conoide of B, then their Bases and
+altitudes are reciprocal, and if their Bases and altitudes are reciprocal;
+those conoides are equal.
+
+Thus.
+
+As the Base of A, is to the Base of B; so is the altitude of B to the altitude
+of A.
+
+These are said to be reciprocal, and their magnitudes are equal.
+
+The like in hemispheroides, but not in hyperbolick conoides; for there may be
+infinite hyperbolick conoides, yet having the same Base and altitude; the least
+not so little as a Cone, no^ the greatest so great as a parabolick conoide of
+that same Base and altitude. In this condition the semidiameter of the Base,
+and the altitude are supposed to be equal.
+
+16.
+Spheres of equal Diameters may be added together, their sum will be a
+spheroide, whose axis will be equal to the Diameter of one of the spheres; But
+the area of that Circle which passes through the Center of this spheroide, and
+cutteth the axis at right Angles; will be equal to the areas of so many great
+Circles of those spheres, as there are spheres in number. Suppose there be six
+spheres to be added together, the axis of the spheroide will be equal to one of
+their Diameters; but the area of that Circle, that passes through the Center
+of that spheroide, and cutteth the axis at right Angles, shall be equal to the
+areas of six Circles whose Diameter is equal to the Diameter of one of the
+spheres. The areas of the Circles are added, or subtracted, by the 47th. of
+the 1. of Euclid.
+
+Spheres and Spheroides of the same axis, may be added to, or subtracted from
+each other, their sum, and difference will be spheres or spheroides.
+
+17.
+Hyperbolick conoides of the same axis may be added too, or subtracted from
+each other, their sum and difference will be hyperbolick conoides. Here you are
+to take the sum of the Bases, for the base of the sum, and the difference of
+the bases, for the base of the difference. Further, We are to take both the
+parameters for the parameter of the sum, and the difference of both the
+parameters for the parameter of the difference.
+
+18.
+Parabolick conoides of the same axis, may be added too, or subtracted from
+each other, the sum and difference will be parabolick conoides, using the
+former rules for their bases and parameters,
+
+Here note, the line PZ in the Diagram for the 9th. Propos. the line PN in the
+Diagram for the 10th. Propos. the line NH in the Diagram for the 11th. Propos.
+are called parameters.
+
+19.
+If the axis, Transverse and conjugate Diameters of a hyperbolick conoide be
+equal one to another; and the axis equal to the axis of a Sphere: this
+hyperbolick conoide and Sphere being added together, they make a parabolick
+conoide; its Base and altitude equal to the Base and altitude of the
+hyperbolick conoide, its parameter the double of the Diameter of the Sphere.
+
+If there be a hyperbolick conoide, A; and a Spheroide, B; their axis equal: If
+the transverse Diameter of A, is to the parameter of B; as the parameter of A,
+is to the parameter of B. Two such conoides being added together, they will
+make a parabolick conoide; its Base the same as the hyperbolick conoide; its
+parameter equal to the parameters of the other conoides, being added together.
+
+If there be a Cone, whose axis is equal to the Diameter of the Base; and a
+Sphere whose axis is equal to the axis of the Cone; this Cone and Sphere being
+put together, makes a parabolick conoide; its Base equal to the Base of the
+Cone, its parameter equal to the Diameter of the Sphere:
+
+20.
+Parabolick Conoides, may always be added to, and sometimes subtracted from
+hyperbolick conoides of the same axis; that sum will be a perbolick conoide,
+and that difference when a difference may be, will be a hyperbolick conoide,
+the sum of their Bases for the Base of the sum: and the difference of their
+Bases for the Base of their difference: the sum of their parameters for the
+parameter of the sum, and the difference of the parameters for the parameter of
+the difference.
+
+Here note, when the parameter of the hyperbolick conoide is greater than the
+parameter of the parabolick conoide then a difference may be: but if it be
+lesser, then no difference can be taken.
+
+The Demonstrations of these are in Prop. 15, 16, 17 and 18, compared with
+Propos. 9, 10 and 11. of this Book.
+
+The Application.
+THe first Proposition is to find the solidity of pyramides and Cones, or
+frustum pyramides and Cones, and may be applicable to the measuring of all
+solids or Vessels in that form, whether whole or in part, or gradually, that
+is, foot by foot, or inch by inch.
+
+The second Proposition may be applied to the measuring of irregular solids,
+and may be useful for the exact measuring of all sorts of Stone and Timber:
+also for the exact measuring of all sorts of elliptick, parabolick and
+hyperbolick irregular solids, or Vessels that are made in that form: for such
+solids may be cut into parallelepipedons, prismes and pyramides, and then
+reduced to their own nature, by the proportion of the parallelogram adscribed
+about those Figures to the Figures themselves, Thus.
+
+The proportion of parallelograms of the same Base and altitude with the areas
+of parabolas are as 4 to 3, Therefore,
+
+As 4, is to 3; so is any such solid to any such parabolick irregular solid.
+
+By the help of a Table of Squares and Cubes any such solids may be calculated
+foot by foot, or inch by inch, without any great trouble, as is showed in the
+third case of the third Proposition; This second and third Propos. are the
+general use in such kind of solids.
+
+In the fourth Propos. with its several cases, there is the measuring of
+frustum pyramides when their Bases are not parallel.
+
+In the fifth Propos. there is the relation of the Sphere and Spheroide to the
+cylinders of their bases and altitudes, as well of the parts as the whole.
+
+In the sixth Propos. there is the measuring of the middle Zone of a Sphere and
+Spheroide; the middle Zone of a Spheroide, has been taken generally for the
+Figure representing a Cask; so, the measuring of one, the other is measured.
+
+In the twelfth Propos. there is the measuring of a portion of a Sphere, which
+may be applied to the measuring of the inverted Crown of Brewers Coppers, or
+several other uses.
+
+In the thirteenth Propos. there is the measuring of parabolick conoides, which
+may be taken for a Brewers Copper, the inverted crown.
+
+Sometimes it may be a portion of a Sphere, or Spheroide, but sometimes the
+portion of a paetbolick conoide; other times the portion of a hyperbolick
+conoide, they ought to be taken as discretion seems convenient.
+
+In the fourteenth Propos. there is the measuring of a hyperbolick conoide,
+which may be token for a Brewers Copper.
+
+In Propos. 15, 16, 17, and 18. there is the measuring of a sphere, spheroide,
+parabolick conoide and hyperbolick conoide, as well the whole as their parts.
+
+If the parabolick or hyperbolick conoides be taken for Prewers Coppers, with
+the help of the Tables of Squares and Cubes, they may easily be calculated foot
+by foot, or inch by inch according to the third Prop.
+
+In the twentyeth Prop. there is the masuring of Circular and Elliptick
+splindles.
+
+The middle Zone may be taken for a Cask.
+
+In the twenty first Propos. there is the measuring of the second Section in a
+sphere and spheroide.
+
+The use may be to measure the middle Zone of a spheroide, cut by a plane
+parallel to the axis; that is, when the superfice of the liquor cuts the heads
+of the Cask.
+
+In the twenty fourth Propos. there is the meesuring of right cylindrick hoofs,
+viz. Circular, Elliptick, parabolick and hyperbolick; and may be used for the
+measuring of Brewers leaning Vessels.
+
+If a Brewers Copper be taken to be of that Figure that parabolick or
+hyperbolick conoides are, and they stand leaning, the measuring of them is
+almost the same as though they did not lean.
+
+Here I ought to have showed the making, and use of an Instrument for taking
+the leaning of such Vessels; But my business calls me off; However, they may be
+had of Mr. John Marks Instrument maker, living at the Sign of the Ball near
+Somerset House in the Strand, who was formerly Servant to that incomparable
+Instrument maker Mr. Henry Sutton.
+
+Here note, the Table of Squares and Cubes is very ready and useful in finding
+the portions of a sphere, spheroide, parabolick and hyperbolick conoides.
+
+To find two such numbers, that their Product being added to the sum of their
+squares, the sum shall be a square, and its Root commensurable.
+LEt one of the numbers be A, and the other Z. The product may be AZ; the sum
+of their squares ZZ + AA; the sum of their squares and product may be ZZ + ZA +
+AA, equal to a square whose side is, Z + 2 that is the square ZZ -- 4Z + 4,
+therefore ZZ + ZA + AA = ZZ -- 4Z + 4, that is, ZA + AA = -- 4Z + 4; Let A be a
+unit, then 5Z = 3, that is, Z = ^, that is, Z is 3, and A, 5. These two numbers
+make good the question, for 3 in 5, is 15; the square of 3, 9, and the square
+of 5, is 25; their sum is 49, whose Root is 7. Albert Girad observes from this
+seventh Propos. of the 5th. of Diophantus, That if there be a Triangle made of
+3 such numbers, the Angle opposite to the greatest side will be 120 degrees. It
+may be further observed, that if there be 2 right angled Triangles made of
+these 3 numbers, the sum of the hypotenuse and base of the one, will be equal
+to the sum of the hypotenuse and base of the other; and also the area of the
+one shall be equal to the area of the other.
+
+Thus,
+
+7 49 7 49 5 25 3 9 74 58 The sum of their Squares. 24 40 The difference of
+their Squares. 70 42 Their double Rectangles. 98 89 The sum of their sides. 840
+840 Their Areas.
+
+Here note, the double Rectangles are taken for their Altitudes.
+
+Here note,
+
+In Progressions from a Unit, the sum, of the sum and difference of the
+greatest number in that progression, and any one number betwixt the greatest
+and Unity, is equal to the sum, of the sum and difference of that same greatest
+number; and any other number betwixt Unity and that greatest.
+
+Further note,
+
+This seventh Proposition is a Lemma to the eighth, to find three Triangles of
+equal areas; therefore the areas are equal, and the hypotenuse and base of the
+one, is equal to the hypotenuse and Base of the other.
+
+A general Theorem for the finding of two such numbers; Take the square of any
+number, from which take a Unit; take the double of that number, to which add a
+Unit; that sum and difference will be the two numbers required. Thus,
+
+The number taken is 3, its square 9, less a unit is 8; the double of 3, is 6
+more, a unit is 7; these two numbers makes good the question.
+
+For 56 + 64 + 49 = 169, whose root is 13.
+
+Two right angled Triangles being made of these three numbers, viz. 7, 8, 13.
+according to the former method, will have that same qualification.
+
+This Proposition was publicly proposed i^ PARIS in the year 1633, which
+Renatos de Carts resolved, and Francis Schooten published in Sect. 12. Miscel.
+encumbered with a squar^ adfected equation, with surds.
+
+FINIS.
+Errata.
+Page 17, line 3, for Ecliptic read Elliptick. p. 25, for Excavetu^ r.
+Excavatus. p. 29, l. 12, for, r.. In the same line, for B^ BFE; r. BCBFD p. 30,
+l. 22, for ZB, r. ZC. p. 32. l. 19* for NR, r. NP. p. 39, l. 13, put; after
+Line. p. 46, l. 21 for 634, r. 624. p. 53, l. 3, for APR, r. APK. p. 48, l. 25*
+for ZB, r. XB. p. 60, l. ult. for R, r. R. p. 61, l. 6, for V, r. VI. p. 64, l.
+4, for GG, r. GC. p. 66* l. 18, for CDQ, r. CGQ. p. 70, p. 71 l. 5, put, after
+D* p. 74, l. 4, for GFPM; r. CFPM. p. 80, l. 21, put: before all. p. 82, l. 25,
+after KABO put,
+
+Imprimatur.
+Tho. Tomkins R. Rmo in Christo Patri ae Domino Dno. GILBERTO Divina
+Providantia Archiep. Cant. a Sac. Dom.
+
+Ex Ad. Lamb. Aug. 25. 1668.
+

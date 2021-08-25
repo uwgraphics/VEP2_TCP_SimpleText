@@ -1,0 +1,278 @@
+TO Cut the Rigging:
+
+AND PROPOSALS For the IMPROVEMENT OF Great Artillery.
+
+By ROBERT ANDERSON.
+
+LONDON:
+
+Printed for Robert Morden, at the Atlas in Cornhill, 1691.
+
+To all Ingenious Persons that are employed in, and love the Use of Great
+Artillery.
+HOW the French Engineers and Gunners come to be so skilful, to do such Service
+with their Great Artillery by Sea and Land, may be seen at Prop. IV. hereof.
+
+Our English Engineers and Gunners may learn to be more skilful with their
+Artillery (at Sea, at Prop. I. hereof; and by Land, in a Treatise To Hit a
+Mark, lately published) than the French.
+
+If our English Engineers say, That it is so much of Art that they cannot use
+it, the Answer is, Then they must be foiled by them that will learn Art and use
+it. If they say they can do it without Art, it is true; but that will require
+much more Time and Charge before they can come near the Mark, And because some
+do not know Art, therefore others must not practice Art. Not to say what might
+be said, but to bring Art into Practice: I freely offer, if it might please
+those Generous and Noble Souls whom it concerns, to command the Gunners, and
+the Gunners to be so kind to themselves and the Country that they serve, as to
+go with me to Wimbleton-Heath, where I have Guns mounted, fit for extraordinary
+Service, and have practiced my self near 20 Years; there will I endeavor to
+teach them the Use of the Mortar and Long Gun, according to Art, which is much
+better than that absurd way which they now use.
+
+One thing I have for a long time wondered at, viz. That the Train of Artillery
+under all its Circumstances, being so very chargeable, and its Execution of so
+great importance, and yet the Practice thereof neglected in the greatest
+Extreme.
+
+I hope no Man will count those things difficult, or too much of Art, which
+falls so necessary in his Way, to serve his King and Country. All ingenious
+Persons know, that Art at first seems difficult, yet with some Study and
+Practice becomes very easy.
+
+For when that great Mathematician Torricellius came to strike a Mark upon
+Ascents and Descents in the Parabola, he found it so difficult, that he himself
+confesses, That he had no Science to resolve it. De Motu Project. page 220. But
+being now resolved, is become wonderful easy to them that will consider it.
+
+Certainly, it may be taken for a General Rule, The more any Person is
+Mathematical, or knowing in the Mathematics, the fitter he is for all the
+parts of Military Affairs; and likewise a Nation never receives greater Damage
+and Disgrace, than when ignorant and unfaithful Persons are put in Places of
+Trust, which I wish never to see in England
+
+Whilst I am ROB. ANDERSON.
+Ian. 14. 1690/91.
+To Cut the Rigging.
+LET A be one Ship, and B the other, and B C the Rigging to be Cut in the Point
+E.
+
+PROPOSITION I.
+The greatest Range of the Piece in the Parabola, the Line of Impulse, the
+Ascent, or Height of the Rigging to be Cut, and the Angle of Elevation being
+given. To find the Horizontal Distance, or the Distance from one Ship to the
+other.
+
+
+
+Then, In the Right Angled Triangle ABC, the Angle BAC, the double of the
+greatest Range in the Parabola G, of the Culverin; the Line of Impulse AD, and
+the Perpendicular Ascent BE, or the Height of the Rigging to be cut with this
+Qualification, as G:DC::DC:CE being given. To find AB the Distance of the two
+Ships.
+
+Then R: r + Z::S:BC, that is rS + Zs / R = BC in Diag. and Z2/G = CE in Diag.
+then Z2 + PG / G = BC in Diag. that is Z2 + PG / G = ZS + rS / R that is
+Z2R=ZGS + G rS - GPR.
+
+G= 9374 the double of the greatest Range of the Culverin.
+
+BE=P= 5 Paces, 5 foot to a Pace.
+
+AD= r= 106
+
+Sine of 8d=S= 13917
+
+Rad. =R= 100000
+
+DC=Z= 1371.31
+
+The Equation in Numb. Z2=Z1304.57958 + 91415.43548
+
+A Method to extract the Roots of square Equations.
+Take half the Number of the Coeficient. To the square of that half, add or
+subtract the absolute Number, according to the Sign + or -, then extract the
+square Root of that Sum or Difference, which Root added to or subtracted from
+the half Coeficient, the Sum or Difference will be the Root of the Equation.
+
+Example. Half the Coeficient is 652.28979, its square is 425481.9701382441, to
+which add the absolute Number 91415.43548, the Sum is 516897.4056182441, whose
+square Root is 718.95, which added to the half Coeficient makes 1371.24 the
+desired =Z. Geometrically thus,
+
+
+
+In Fig. Z, If OD be made the Ascent, and DE the double of the greatest Range
+in the Parabola, DC will be a mean Proportion. In Fig. Y, If AC be made Radius,
+and CB the Sine of the Angle of Elevation, and AD the Line of Impulse, then DE
+will be a fourth Proportion. In Fig. Z, If RC be made equal to DE in Fig. Y,
+and CD in Fig. Z, be made equal to the double of the greatest Range, then CA
+will be a mean Proportion. Further in Fig. Y, if AC be Radius, and CB the Sine
+of the Angle of Elevation, and AD be made equal to the greatest Range in the
+Parabola, then DE will be a fourth Proportion. Let DF in Fig. Z, be made equal
+to DE in Fig. Y, then AL will be the Line desired.
+
+GP = square of DC, and GrS / R = square of AC, also because the sine of GP is
+-, and GrS / R is +, therefore the square of AD is the difference of those
+Squares, 47. I. Euclid. and GS / 2R = the Line DF, therefore the Square of DE +
+the square of AD is = the square of AF, which Line AF + DF = ALL the Line
+desired.
+
+By Logarithms.
+G 9374 3.971925 G 9374 3.971925 G 9374 3.971925 r 106 2.025306 8 degrees. S
+4.143555 P 5 0.698970 8 degrees. 8.13917 4.143555 GS 8.115480 GP 4.670895 Sum Log.
+10.140786 2R subst. 5.301030 DC 2.335447 R 100000 sub. 5.000000 DF 652.31
+2.814450 CA subst. 2.570393 5.140786 Sine of DAC 9.765054 CA 371.87 is 2.570393
+tang. of DCA 10.145085 DC 2.335447 r= 106 AD from 12.480532 Z= 1371.24 DF
+subst. 2.814450from r + Z=AC 1477.24 3.169468 tang. of AFD 9.666082 Sine 82.
+9.995753 sine of FAD 9.957736 sub. AB 1462.9 3.165221 AF 719. 2.856714 FD
+652.31 AL 1371.31
+
+A B Degrees. Hor. Did. 3 606.01 4 790.66 5 965.35 6 1134.6 7 1300.2 8 1462.9
+
+In the Column A the Degrees. of Elevation, to hit an Object at the Horizontal
+Distances in the Column B, at the Ascent of 5 Paces with a Culverin.
+
+Two Ships lying at the distance of 1135 Paces, the Culverin requires 6 degrees. of
+Elevation, charged with 10 Pound of Powder, to hit the other Ship at 5 Paces
+above the plain Parallel to the Horizon where the Gun is mounted.
+
+Here note, The Distance between the two Ships is to be taken by Instrument, or
+by good Estimation.
+
+Of a MUSKET. PROP. II.
+A Musquet-Barrel made a little wider toward the Britch than forward, the
+Britch-pin easily to screw in and out, to take aim at the Mark by the inside of
+the Piece, fixed fast with Timber and Screws, with a Ball fitting the Muzzle of
+the Piece, charged with half an Ounce of Powder, put to a Mark, Ranged the Ball
+in a right Line 200 Yards, or 120 Paces (wonderful exactly) if not farther.
+Wimbleton-Heath in the Year 1690.
+
+By this we find the greatest Range of the Musket thus,
+
+The Line of Impulse of the Saker 124 2.093422 The greatest Range of the Saker
+5654 3.752356 The Line of Impulse of the Musket 120 2.079181 The great. Range
+of the Musq. proxime that is, more than 5 English Miles. 5472 3.738115
+
+By this, and what is said at Prop. VIII. To Hit a Mark, the Futura of a
+Musket is known.
+
+There are Fowling-Pieces whose Length of their Chases are 8 Foot, the Diameter
+of their Bores Bastard-Musquet, that is 7/10 of an Inch; such a Piece
+(certainly) will Range its Ball 10 Miles (the Air excepted). What Use may be
+made of this, I leave to ingenious Persons that delight in these Matters.
+
+Here some cry aloud against these great Ranges, but what my Hands act, and my
+Feet measure, and my Eyes see, I shall freely assert, and endeavor to maintain.
+
+Of GRENADES commonly called blind. PROP. III.
+SUch are those Grenades which have no Fusce burning in the flight, but has a
+Steel and Flint or Firestone placed within the Granado, to fire the Powder when
+it arrives to the Earth; the Description of which is set down in Casimire in
+his great Art of Artillery, Part I. Book IV. Chap. 3. in Plate marked M, Fig.
+K, Numb. 121; as also the Cylindrical Fireshot, the Spheriode with a Dovetail
+to be screwed in, to direct it in its flight, Boxes to be filled with small
+Grenades and other things of consequence, to be shot either out of the
+Mortar-piece or Long-Gun, are treated on in the forecited place, and therefore
+saves the labor here.
+
+These, with many other things belonging to great Artillery lie fair from
+Improvement.
+
+PROP. IV.
+IN the Year 1673. I published my Genuine Use of the Gun, upon the Principles
+of Galileus without any accidental Impediment, that is, that the Transit of the
+Bullet to be in the Curve of a Parabola, and from that to Hit a Mark at demand
+within the reach of the Piece Analitically, as well upon Ascents as Descents,
+as upon the Plain of the Horizon. In the Year 75, Mons. Blundell in his de
+jeter les Bombes, page 283. propounded that Problem to the Royal Academy of
+Sciences of France, to be resolved Geometrically, Mons. Buot, Romer the Sweed,
+and Mons. de la Hire set upon the Mathematical Part, from Page 285. to Page
+312. of the said de jeter les Bombes; whilst Mons. Marriott and Perault made
+many Experiments several times repeated before the Royal Academy, Mons. the
+Dauphin being present, viz. with Water, with a Bow, with a Cross-Bow, a
+Stone-Bow, an Engine in imitation of the ancient Balistes, with a Pistol, and
+with Quicksilver, all agreeing precisely with that of Galileus de jeter les
+Bombes, page 490. For which Service the French King made Mons. Blondell Master
+de Camp and gave him about 200l. sterling. a Year, as I am credibly informed.
+Whilst the French Mathematicians and Philosophers were a trying the Truth of
+this noble Invention of the famous Galileus, for the carrying on of their
+Warlike Designs; here in England some Persons made Experiments upon
+Black Heath, and near Newington-Butts, but what they amounted to I know not.
+
+By these means the French Engineers sling their Shot as exactly as the
+Benjamites, and ours in England remain as at first.
+
+But as I have been at some Pains and Charge to bring the Use of Great
+Artillery to a greater perfection than formerly, in my Genuine Use of the Gun,
+and in a Treatise To Hit a Mark, so now, I move forward, that ingenious Persons
+may be instructed in that Art, so they may be capable to serve, and to be an
+Honor to their King and Country.
+
+In order to which: For the Improvement and Practice of the MORTAR.
+LET there be a firm Platform, and a Mortar-piece about 6 Inches diameter, with
+a fit Ball, mounted in a Carriage to move from an Horizontal to a Vertical
+Line, and to be firmly fixed to any degree and Minute at demand, and even ground
+for two Mile in length; such a Platform, Mortar-piece, and level Ground, is fit
+for extraordinary Service, and to instruct the Gunners, that so they may see
+and understand the Ranges of their Piece, and learn to strike any Mark at
+demand within the reach of the said Piece.
+
+The Gunners to be instructed one day in a Week throughout the Year, and upon
+public days to shoot for a Piece of Plate given by the King, tho to the value
+of 5 s. in doing which, His Majesty will be no Loser if Wars continue.
+
+For the Improvement and Practice of LONG-GUNS.
+LET there be a firm Platform to mount the Guns upon, and 2 or 3 Mile of Ground
+to Range the Shot, and a moveable Butt to be set up perpendicular to the
+Horizon, the Gunners to be practiced one day in a Week, and to shoot for a
+Piece of Plate on general days; such a Method will make them expert Gunners,
+and that Prince that will not use some such Method to exercise his Gunners,
+will lose a great deal more than that Charge comes to when he puts them to
+Service.
+
+If any make Objections, and say, That the Gunners cannot practice that of the
+Parabola.
+
+To which I Answer.
+I Will take a Gunner of the Capacity of a Youth of 14 years of Age, and teach
+him Arithmetic, and so much of Geometry that is requisite for Practice, and
+learn him the Use of the Mortar, that he shall be capable to strike any Mark at
+demand within the reach of the Piece when it is demanded of him, and to teach
+the rest of the Gunners to do the like.
+
+But,
+
+If the Gunners say they can strike any Mark at demand within the reach of the
+Piece according to that of the Parab.
+
+Then, To conclude my Endeavors.
+Concerning the Improvement of Great Artillery, I freely offer to be at the
+Charge of Platform, Mortar-piece mounted, Powder, Ball, and all things
+necessary for extraordinary Service, and a Medal of Silver, if they whom it
+chiefly concerns will command the Gunners to endeavor to strike a Mark at any
+place within the reach of the Piece, and he that comes nearest the Mark with
+the most rational Rules of Art, shall have the Medal of Silver.
+
+Not to omit the Example of two eminent Soldiers.
+When the Lord Fairfax besieged Worcester, he had a Scotch Man for his
+Engineer; Nathaniel Nigh, a very young Man, went to the L. Fairfax, and desired
+that he and the Scotch Engineer might have a fair Trial with their Mortar-piece
+against the Town, and he that did the best Service, should be the L. Fairfax's
+Engineer; to which the L. Fairfax readily answered, All the reason in the
+world. The said Not. Nigh blew up the Magazine, which forced them to surrender,
+for which he was made the L. Fairfax's Engineer, and Master Gunner of
+Worcester. From an eminent Person now living that was an Eye and Ear Witness.
+
+Oliver Cromwell sent for Mr. Wright, a Joyner by Profession, and took care of
+his Family, sent him to the Siege of Dunkirk, with 2 Eighteen Inch
+Mortar-pieces, which were so well managed by the said Wright and one Stint,
+that the first Granado they threw into the Town fell near the Townhouse, and
+made such a prodigious Breach, that the Governur of the Town set up the white
+Flag immediately, and capitulated.
+
+But, when unworthy Persons and Relations were preferred the Government
+dwindled to
+
+FINIS.
+

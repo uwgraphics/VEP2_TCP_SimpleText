@@ -1,0 +1,502 @@
+A Collection of Centers and useful Proportions on the Line of Numbers, by John
+Brown at the Sphere and Sun-Dial in the Minories.
+In Multiplication.
+AS 1 to the Multiplicator, so is the Multiplicand to the Product, consisting
+of as many Figures, as the Multiplicator and Multiplicand, and sometimes of one
+less, when the 2 first Figures of the Product are greatest. And more than 4
+figures in the Product, must be adjusted by multiplication of the last figures
+by the Pen or Head.
+
+In Division
+As the Divisor to 1, so is the Dividend to the Quotient, containing as many
+figures as the Divisor may be set times under the Dividend by the Pen, and the
+fraction remaining is a Decimal Fraction, and reduced to the Vulgar Fraction,
+by setting the sa^e extent the contrary way from the Decimal Fraction, gives
+the Vulgar Fraction.
+
+Of mean Proportions
+The Arithmetical mean, is the half sum of the two extremes added.
+
+The Geometrical mean, is the Square Root of the Product of the two extremes
+multiplied together: Or the middle between the two extremes* counted on a line
+of Numbers.
+
+The Musical is thus found; As the Arithmetical mean, to one extreme, so is the
+other extreme to the musical mean proportion required.
+
+Of Square and Cube Roots.
+The middle between 1, and any other Number more or less than 1, is the Square
+Root of that Number, being measured on a fit Line of Numbers; the exact third
+part between 1 and any other Number, more or less then 1, counting from 1 is
+the Cube Root of that Number, counted on a true Line of Numbers.
+
+The exact fourth part, between 1 and any other Number* counted on a Line of
+Numbers, from 1, is the Byquadrat Root of that Number, etc.
+
+Of Reduction.
+As one Denominator to his Numerator, so is the other Denominator to the
+inquired Numerator.
+
+Or, As one Denominator to the other; so is one Numerator to the other required.
+
+Note* That the Line of Numbers and Pence together, reduces Decimals of a
+pound, to shillings and pence, and the contrary, by inspection only.
+
+Thus,,001 is near 9 farthings *,0^ ^^ just 2 s. or 1, 10th, of al. or 20
+s.,0125 is 2 s. 6 d. and 1,532 is 1 l. 10 s. 7 d. 2 f. and so for any other;
+for 1 is 1 l.,05 is 10 s. and just against,032 is 7 d. 2 f. the exact Reduction.
+
+In the Rule of Three Direct.
+As the first term, to the second, so is the third to the fourth required.
+
+Or, As a greater to a less, so is another greater to another less, extending
+the same way, from the third to the fourth, as from the first to the second.
+
+And so the contrary, As a lesser term to a greater, so is another less to
+another greater extending the same way.
+
+In Superficial Measure.
+1. As the breadth in inches to 12, so is 12 to the inches long to make 1
+superficial foot.
+
+2. As the breadth in foot measure to 1, so is 1 to the length in foot measure,
+to make 1 foot of Superficial measure.
+
+3. As 1 to the length in feet, so is the breadth in feet to the content in
+feet.
+
+4. As 12 to the breadth in inches, so is the length in feet to the content in
+feet.
+
+5. As 1 inch to the breadth in inches, so is the length in inches to the
+content in inches.
+
+6. As 144 to the breadth in inches, so is the length in inches to the content
+in feet.
+
+Of Land-measure.
+1. As 9 to the length in feet; so is the breadth in feet to the content in
+yards.
+
+2. As 14f. 0625 the feet in a Square Ell to the breadth in feet, so is the
+length in feet, to the content in Superficial Else.
+
+3. As 1 Perch to the breadth in Perches, so is the length in Perches, to the
+content in like Perches; 16 foot and a half to a Perch.
+
+4. As 160 (the Perches in 1 Acre) to the breadth in Perches, so is the length
+in Perches to the content in Acres.
+
+5. As 10 to the breadth in Chains and Links, so is the length in Chains and
+Links, to the content in Acres, (because 10 Square Chain is 1 Acre).
+
+6. As the length of a customary Perch, is to the length of the Statute Perch,
+so is the content in Statute Acres known, to the content in customary Acres
+required, at two repetions or turning the Compasses twice.
+
+7. To find by what Scale a Field is plotted, measure by a Scale as near as you
+can estimate, then the middle between the Area, found by the estimated Scale,
+and the Area set down in the Plot; and the Area found by the estimated Scale,
+shall reach from the estimated Scale to the true Scale by which the draught was
+plotted.
+
+8. As the length of any Oblong in Perches to 160, so is 1 Acre to the breadth
+in Perches required to make 160 Perch or 1 Acre.
+
+Or, As the length in Chains to 1, so is 1 to the breadth in Chains for 1 Acre.
+
+Or, As the length in feet to 43560, (the feet contained in a Square Acre) so
+is 1 to the breadth in feet to make up 1 Acre.
+
+Of Triangles.
+1 As 2 to the Base, or longest side of any Triangle, so is the Perpendicular
+to the Area of the Triangle required, in like parts.
+
+2 The sides given, to find the Perpendicular, square each side severally, then
+add the greatest, and least Squares together, and from the half Sum of them,
+substract the remaining Square, noteing the difference or remainder; half this
+Remainder divide by the longest side, and the quote shows where the
+Perpendicular will fall on the Base.
+
+Then square the Quotient, and substract it from the least Square first added,
+then the Square Root of the remainder is the Perpendicular required for that
+Triangle.
+
+3. To find the Area by the sides only,
+
+Add the 3 sides together, to get the sum and then the half sum, and then find
+the difference between the half sum and each side severally.
+
+Then multiply one difference by another difference, and then this Product by
+the remaining difference; and lastly, this second Product, by the half Sum,
+after the manner of continual Multiplication.
+
+Then Lastly, the square Root of this last Product, is the Area or Content of
+the Triangle required* The three sides 6, 8, and 10, have 24 for the Area.
+
+4 All irregular many sided figures, are reduced to Triangles, by drawing of
+Lines, and then measured by the first Rule of Triangles, or two Triangles at
+once, by one common Base and two Perpendiculars.
+
+5 Regular Polligon, of 5, 6, 7, 8, or more sides, are measured at one
+Multiplication, thus, As 1 to the Radius or Measure from the Center to the
+middle of one side, so is the half Sum of the measure of the sides to the
+content.
+
+Of the Circle and Elipsis.
+1 As 10, as a fixed Diameter, to any other Diameter; so is 31,416 the fixed
+circumference where 10 is Diameter, to the circumference required.
+
+2 As 31,416 the fixed circumference, to any other circumference, so is 10 a
+fixed Diameter to the Diameter required*
+
+3 As 10 to 8,862, the fixed side of a square equal to a Circle, whose Diameter
+is 10*
+
+so is any other Diameter given, to his proportional Square equal required.
+
+4 As 10 to 7 ^71 the side of the inscribed Square, so is any other Diameter to
+his proportional side of the inscribed square required.
+
+5 As 8,862, to 10, so is the side of any other square equal to his Diameter
+required.
+
+6 As 10 to any other Diameter, so is 78,540 the Area of a Circle whose
+Diameter is 10, twice repeated to the Area required.
+
+7 As 31,416 to any other Circumference given, so is 78,540 the fixed Area, to
+the Area required at twice turning the Compasses.
+
+8 The half distance on a line of Numbers, between 78,540 and any other Area
+given, shall reach from 10 the fixed Diameter, to the Diameter required.
+
+And from 31,416 the fixed circumference to the circumference required.
+
+And from 8,862 the fixed side of the square equal, to the side of the square
+equal required.
+
+And Lastly, from 7,071 to the side of the square inscribed in the Circle
+required.
+
+9 A mean Proportion Geometrical, between the longest and shortest Diameters of
+an Elipsis, or Oval, is the diameter of a circle, equal in Area to the Oval.
+
+Then having the Diameter, you have the rest.
+
+10 As 100 the square of 10 a fixed Diameter, is to the Rectangle Figure made
+of the longest and shortest Diameters of a Oval; so is 78,540 the Area for 10,
+to the Area of the Oval or Elipsis required.
+
+12 As 452, to 355, or as 14 to 11, so is the square of any Circles Diameter to
+the Area.
+
+13 As 1 to the Radius of a Circle, so is the semicircle to the content of a
+Circle.
+
+14 As 1 to the Radius of a Circle,
+
+so is half the arch of any portion, to the Area or Superficial Content of that
+Portion, proceeding to the Center, as a Quadrant, a Sextance, or the like part.
+
+15 For other segments find the Diameter of the Circle or the Radius and length
+of the Arch, by measuring: Or thus, First, for the Diameter of the whole
+Circle, Square half the Diameter, or Chord of the segment, divide the Product
+by the segments Altitude or Side, then the quote and sine added together shall
+be the Diameter required, and half the Diameter is Radius.
+
+2 And the Square Root of the Sum of the Segments Altitude, and half the
+Segments Chord, is the Chord of half the Segments Arch.
+
+3. Lastly, the length of the Arch of the whole Segment is equal to twice the
+Chord of the half Segments Arch, more 1 third part of the difference between
+them, and the whole Segments Diameter.
+
+Then measure the whole Segment as before by Radius and half the Arch, and then
+the Triangle subtracted remains the Area of the Segment required.
+
+Of a Globe, or Sphere, and his Segments, the Diameter and Circumference is the
+same as in a Circle; the rest thus,
+1 As 1 to the Diameter in inches, so is the Circumference in inches, to the
+superficial Content round about the Sphere in inches likewise.
+
+2 Or as 10 to the Diameter, so is 31,416 twice, to the Superficial Content
+round about.
+
+3 As 1 to the Diameter, so is the Diameter twice to the Cube of the Diameter;
+then as 21 to 11, so is the Cube of the Diameter to the solidity.
+
+4 Or the extent from 10 to any other Diameter, being thrice repeated from
+523,60, (the solid content of a Globe of 10 inches Diameter) gives the solid
+content required.
+
+5 The extent from 1 to 1,90986, the Arithmetical Complement of 523,5987, the
+Area of that Globe whose Diameter is 10, shall reach from the Solid Con^ent, to
+the Cube of the Diameter, whose Cube Root ^s the Diameter required.
+
+6 As any Gauge point, for Wine or Beer Gallons, to the Spears Diameter, so is
+two third parts of the Spears Diameter twice, to the solid content according
+to the Gauge Point.
+
+7 As 1 to the Segments Diameter in Inches, so is the ^egments half Altitude,
+less by 1, 8th thereof twice ^epeated, to the near solidity in inches required.
+
+8 As 1 to the Spears Circumference, so is the Seg^ents Altitude, to the
+Superficial Content of the sphe^cal part of the Segment*
+
+9 As the Gauge Point for Wine or Ale Gallons, to ^^e Segments D^ameters, so is
+the Segment half Altitude ^ore by one eighth of the half Altitude twice
+repeated (...) the Segments near Content in like Gallons, to the ^auge Point.
+
+10 As for Solid Angles of a Sphere, they are reduced to Cones or Pyramids, and
+so measured, but for the Superficies of Spherical Triangles, by Mr. John Leak
+thus,
+
+As 1 to the excess of the three Angles above 180 degso is Radius, to the
+Superficial Content of the Spherical Triangle.
+
+Of Cones, and Pyramids, and Prismes.
+As 1 to the Area of the Base, so is one third of the Perpendicular Altitude,
+to the Solidity.
+
+1 A Cone is best Gauged thus,
+
+As the Gauge Point for round Vessels, to the Cones Diame^er at the Base, so is
+one third of the Cones Perpendicular Altitude twice, to the Content in Wine or
+Beer Gallons: as the Gage Point was.
+
+2 To get the Perpendicular height,
+
+Square half the Diameter of the Base; also square the Hypothenuse or slaunt
+height, then take the lesser square from the greater, and the Square Root of
+the residue, is the Perpendicular height of the Cone required.
+
+3 For Prismes and Pyramids say,
+
+As the Gauge Point for square Vessels to the side of the Square, equal to the
+Base of any Prisme or Piramid, so is one third part of the Perpendicular
+Altitude twice, to the content in Gallons, according to the Gauge Point used.
+
+Or, As the Gauge Point for Square Vessels is to the breadth of any Prisme, so
+is the length to a 4th. Again, As the same Gauge Point to the 4th. so is one
+third of the depth, to the content in Gallons acording to the Gauge Point used.
+
+A Table of Cube inches and Gauge Points for these Vessels.
+Names of the Vessels. Cube Inches GP Round* GP Square Wine Gallon at 231 0 17
+1485 15 199 Corn Gallon at 272 25 18 6168 16 500 Ale Gallon at 288 00 19 1485
+16 972 Ale Gallon at 282 00 18 9468 16 793 Firkin at 282 Ale 2256 00 53 5960 47
+498 Firkin at 282 Beer 2538 00 56 846 48 552 Kilder. at 282 Ale 4512 00 75 798
+67 180 Kilder. at 282 Beer 5076 00 80 395 7 246 Barrel at 282 Ale 9024 00 107
+191 95 000 Barrel at 282 Beer 10152 00 113 690 100 58 Barrel at 288 Ale 9216 00
+108 380 96 000 Barrel at 288 Beer 10368 00 114 88 101 823 Corn Bushel at 272 1,
+4th, for a Gallon; 2178 00 52 6666 46 668 Coal Bushel at 280 ^, 4th, to a
+gallon, 2246 00 53 500 47 395
+
+The first column is the Number of Cube inches con^ained in any of these
+Vessels, and serve as Divisors to bring any great Number of Inches, to Gallons,
+Barrels, or Bushels, accordingly.
+
+The Second is the Gauge Points for round Vessels, being the Diameters of
+Circles, whose Content at 1 inch deep, contains a Gallon, or Barrel, etc.
+
+The Third column are Square Roots of the First Co^umn, and thus used as Gauge
+Points for Square Vessels.
+
+1 As the Gauge Point to the side of the Square of any ^quare Vessel, 10 is the
+depth twice to the content in Gallons or Barrels, according to the Gauge Point
+used.
+
+2 As the Gauge Point to the breadth of any square Vessel, so is the length to
+a 4th.
+
+Again, As the Gauge Point to the 4th so is the depth to the content as the
+Gauge Point was.
+
+3. As the Gauge Point for a round Vessel is to the equated Diameter, so is the
+length twice, to the content as the Gauge Point was.
+
+4. The most ready Rule for all ordinary Casks for the mean Diameter is, as 10
+to 7, so is the difference of Diameters to a fourth, to be added to the least
+Diameter to make a mean.
+
+Note, That in Cask near a Cyllender, you may say as 10 to 8,50; in Cask like
+to Cones, say as 10 to 5,30. In Cask like a Parabolick Spindle, or Oval, say,
+as 10 to 6. But for very much swelling Cask, say, as 10 to 7,3; or 7,4, or 7,5,
+so is the difference of Diameters to a 4th, to add to the lesser Diameter, to
+make a mean Diameter.
+
+Of Square Solid or Timber Measure.
+1 A mean Proportion Geometrical, or the middle between the breadth and
+thickness, measured on a line of Numbers, is the side of the square equal.
+
+2 As the inches square to 12, so is 12 twice, to the inches long to make 1
+foot.
+
+3 As 12 to the breadth in inches, so is the depth in inches to a 4th. Again,
+as the 4th. to 12, so is 12 to the inches long to make 1 foot.
+
+4. For small timber, say, As 1 to the breadth, so is the depth in inches to a
+fourth.
+
+Again, As that 4th. to 12, so is 12 to the feet and parts long, to make 1 foot.
+
+5. As 12 to the inches square, so is the inches square to the quantity in 1
+foot in inches.
+
+6. As 12 to the breadth in inches, so is the depth in inches, to the quantity
+in a foot in inches.
+
+7. As 12 to the inches square, so is the feet long twice, to the content in
+feet.
+
+8. As 12 to the breadth in inches, so is the depth in inches to a 4th. Again,
+As 12 to that 4th. so is the length in feet, to the content in feet.
+
+9. As 1 to the breadth in inches, so is the depth in inches to a 4th. Again, As
+1 to tha 4th. so is the length in inches, to the content in Cube inches
+required.
+
+10. As 1 to the thickness in inches, so is the breadth in inches to a 4th.
+Again, As 144 to the 4th. in inches, so is the length in feet, to the conteet
+in feet.
+
+Of round Timber measure, by the Diameter.
+1 As the Diameter in inches to the 13,54, (the Diameter, when one foot long
+makes 1 foot of Timber) so is 12 twice, to the length in inches to make 1 foot.
+
+2. As 13,54, to the Diameter in inches, so is 12 twice to the quantity in a
+foot long in inches, or so is 12 twice, to the feet in a foot long. (With foot
+measure use 1,128.)
+
+3. As 13,54, to the Diameter in inches, so is the length in feet twice, to the
+content in feet.
+
+4. As 1,128 to the Diameter in inches, so is the length in inches twice, to
+the content in inches.
+
+5. As 1,128, to the Diameter in feet and parts, so is the length in feet and
+parts, to the content in feet and parts.
+
+By the Circumference.
+1. As the Circumference in inches to 147,36 (the inches about, when one inch
+long makes a foot) so is 1 twice, to the inches long to make a foot.
+
+2. As the Circumference in inches to 42,54 (the inches about, when 12 inches
+long makes one foot) so ^s 12 twice, to the inches long to make 1 foot: Or so
+^s 1 twice to the feet long to make one foot of Timber.
+
+3. As 42,54 to the Circumference in inches, so is 12 twice, to the inches in a
+foot long: Or so is 1 ^wice to the feet in a foot long.
+
+4. As 42,54, to the inches about, so is the length in feet twice, to the
+content in feet.
+
+5. As 3,545 the feet about, when 1 foot in length is a foot of Timber) to the
+girt in feet, so is the length in feet twice, to the content in feet.
+
+6. As 3,545, to the girt in inches, so is the length in inches twice, to the
+content in solid inches.
+
+To measure Brickwork and reduce it.
+1. Note 272 foot 1 fourth is a rod of Brickwork, at a Brick and half thick,
+and the center for it is 1.
+
+Centers for other thicknesses are thus found:
+
+2. As half a Brick, at 05, or as (1 Brick at 1,2 Bricks at 2,2 and a half at
+2,5,3 Bricks at 3,) is to 1,5; so is 1 the Center for a Brick and half to 3 the
+Center for half a Brick required.
+
+3. As the Center for any thickness, is to the length in feet of any
+Brick-wall, so is the breadth in feet to the content in feet, at a Brick and a
+half thick,
+
+4. As 272, 1 fourth to 1, so is any number of feet to the Rods, and Quarters,
+and Decimals; and the same extent laid the contrary way, from the Decimal
+Fraction gives the odd feet.
+
+For the extent from 272, 1 fourth to 1, laid the same way from 1528 foot,
+gives 5 Rod and a half and 11 parts over, then the same extent laid the
+contrary way from 11, gives 30 foot over, in all 5 Rod and half 30 foot.
+
+5. As 272,1 fourth the foot in one Rod, to 5 l. the price of one Rod, so is
+1528 foot to 28 l. 1 s. the price of 1528 foot at 5 l. per Rod.
+
+6. As 0666, a point for once and half, is to the breadth of any roo, so is the
+length, to the content in feet on both sides (being measured in feet.)
+
+For Digging of Earth in Square Yards
+1st. As 9 to the length in feet, 10 is the breadth to the superficial Yards.
+Again, As 3 foot the depth of one Yard, to the content in superficial Yards, so
+is the depth 11 feet, to the content in solid Yards.
+
+2ly. 1. Or plainly thus, As ^ to the length in feet, so the breadth in feet,
+to the superficial ^eet.
+
+2. As 1 to the superficial feet, so is the depth in feet to the solid content
+in feet.
+
+3. As 27 the feet in 1 yard to 1, so is the solid content in feet, to the
+content in solid yards.
+
+Of Simple Interest
+1st. As 100 is to 6 l. the Interest due for 100 l. in 1 year, so is any other
+sum to his proportional interest in 1 year.
+
+2ly. For months count thus, If 6 be 12 months or 1 year, then 5 is 10 months,
+4 is 8 months, 3 is 6 months, etc. decreasing less than 1 year; so likewise 12
+is 2 year, 18 is 3 year, etc. So that for 30 months, take 15 the half of 30*
+etc. As 100 to 15 the interest of 100 l. in 30 months, so is any other sum to
+his simple interest in the like time at 6 per Cent.
+
+3ly. For principle and interest either increase or present worth, thus at any
+time.
+
+If 106 is 1 years principle and increase, 112 is 2 years, 118,3 years: thus
+every tenth on the line of Numbers: is 2 months: thus,
+
+What is the increase of 125 l. interest and principle in 40 months, or its
+present worth being due 40 months to come.
+
+As 100 to 120, so is 125 to 150 l. the principle and increase in 40 months.
+
+And if the same extent be laid the contrary way from 125, it gives 104 l. 4 s.
+the present worth of 125 l. due 40 months to come at 6 per Cent. simple
+interest.
+
+4ly. 1. For days thus, As 365, the days in a year to the rate; so is the
+number of days, to the interest of 200 l. in so many days, as a 4th.
+
+2. As this 4th, with 100 added to it, is to 100, so is the sum propounded to
+the present worth; if the sum be pounds, shillings and pence, reduce it to a
+Decimal Fraction, and the years to days: Note also the same extent laid the
+other way, gives the principal and increase in so many days.
+
+Equation of Payments
+1. By the last rule find all the present worths, at the times to comes, then
+say, as all the present worths to all the payments, so is 1 l. to a fourth,
+from which taking a unite, the remainder is the interest of 1 l. the time
+sought, which divided by the inetrest of 1 l. for 1 day, viz. 000164384, the
+quote is the number of days required. Example,
+
+If 220 l. be due at a years end, the present worth is 207 l. 11 s. 6 d. for
+the extent from 106 to 100 laid from 220, gives 207 l. 11 s. 6 d. But if it
+should be paid at 55 l. per quarter, when should it be paid at once to be equal
+between Debtor and Creditor?
+
+As 101,5 3 months 103,0 6 months 104,5 9 months 106,0 12 months to 1003 So is
+55 to 55,20 53,41 52,63 51,90
+The sum of them 212,14
+
+Then as 212 l. 14 s. the sum of the present worths, to 220 the sum of the
+payments, so is 1 to 103,70, from which tak^ng 100, rests 03,70, the interest
+of 100 l. the time sought. Then the 03,70, divided by 00016438 the interest of
+1 l. 1 day, has in the quotient 225 days the true time to pay the 220 l. at
+once.
+
+Compound Interest
+The extent from 100 to 106, the principal and increase in one year, repeated
+as many times as there be years, gives the principle and increase of any sum,
+and being turned as many times the decreasing way gives the present worth.
+
+FINIS
+

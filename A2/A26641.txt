@@ -1,0 +1,2465 @@
+ARTIS LOGICAE COMPENDIUM.
+
+ARISTOTELES.
+Apud Fulvium Ursinum in Marmore.
+
+
+
+OXONII, E THEATRO SHELDONIANO, An. Dom. MDCXCI.
+
+PRAEFATIO.
+. 1. SI quis autore inscio in hoc inciderit Compendium, ante omnia rogandus
+est, ne idcirco editum existimet, quia typis excusum videt. Quippe annis abhinc
+compluribus in gratiam desideratissimi juvenis F. C. Howard discipuli olim mei
+inchoatum, illoque migrante, tertio in capite, est abruptum: Et fuisset (quod
+fortasse merebatur) aeterna nocte damnatum, nisi boni quidam juvenes, and
+nimium amantes mei exscriptu dignum judicassent; quorum ut labori parceretur,
+pauca pro eorum numero exemplaria, nec aliis destinata, sunt impressa. Sed cum
+horum voluntati eatenus essem obsecutus, tam propensam erga me benevolentiam
+ampliore quadam gratia demereri, haud absurdum censui: praesertim, cum id sibi
+gratum fore indicasset, magnum Aedis nostrae ornamentum, Carolus Boil; cujus
+singulari bonarum literarum studio prodesse, magnopere quidem volo, deesse
+certe non debeo. Itaque relictum opus ad incudem denuo revocavi; and suscepti
+olim oneris quod supererat, nunc tandem absolvere constitui. Utilissimum autem
+arbitratus sum, pauca quaedam, de Antiquae Logicae historia, hunc in modum
+praefari.
+
+. 2. QUae vocatur hodie Philosophia, dicta olim Sapientia est; eamque professi,
+fastuoso nomine (...). In his, circa Cyri initia, Graeci septem praeter
+caeteros, communi Antiquorum consensu, Sapientes habiti sunt, and nominati.
+Quorum antiquissimus, and princep^ Thales, Mileti natus est Ol. 35a; mortuus
+58a; anno primo; quo and Croesus dicitur flumen Halym illius opera trajecisse.
+
+Thaletem senem, Mileti convenisse dicitur Pythagoras* magnus vir, magnoque
+Providentiae dono genitus, in quo totas vires suas Natura experiretur. Cujus de
+patria, nihil certi; praeceptore usum Pherecyde, satis constat. Hic, cum
+universum pene orbem discendi studio peragrasset, in Italiam venit regnante
+Superbo; and Crotone Scholam aperuit* (...) primus qui se (...) appellari
+maluit; tanta verecundiae autoritate, ut deinceps caeteri idem nomen
+usurpantes, sapientiam sequi prae se ferrent, consecutos esse non jactarent.
+
+A Thalete and Pythagora institutae sunt Philosophorum Sectae Capitales duae.
+Nam Ionicam Thales Ion instituit; Italicam, qui in Italia docuit, Pythagoras.
+Haec Ionica paulo erat recentior, and multo minus diuturna: interiit enim circa
+tempus Aristotelis; saltem si illius auditori credamus Aristoxeno, qui apud
+Laertium, Pythagoreorum ultimos se vidisse testatur. Successorem habuit
+Pythagoras Telaugem filium; quem audivit notus ille Empedocles, Rhetoricae
+artis inventor. Hujus condiscipulo Xenophani successit Parmenides; illi, Zeno
+Eleates: qui cum ratione and via disserere primus instituerit, autorem eum
+Artis Dialecticae statuimus, Aristotelem secuti.
+
+. 3. QUam invenit artem, tribus partibus constabat; prima, de Consequentiis;
+secunda de Colloquio; tertia de Contentione. De priori, obscura quaedam extant,
+apud Platonem in Parmenide, ex ipso ut videtur Zenonis libro descripta; quorum
+mentem quando Socrates se negat intelligere, ego libenter ignoro; nec si possem
+divinare, operae pretium puto: sufficere arbitror, quod haec novae artis pars,
+vivente etiam Zenone, inutilis quaedam and importuna garrulitas, habita est,
+and nominata; post Zenonem vero, a nemine quod sciamus exculta.
+
+Pars altera de Colloquiis, sive Dialogis, adeo avide ab omnibus est arrepta,
+ut antiquum, and ad illa usque tempora receptum, tradendae carmine Philosophiae
+morem deseruerint. Colloquendi autem ea erat ratio, ut qui vellet aliquid
+probare, non (quod nos facimus) Syllogismos totos proponeret, verum alteram
+solummodo praemissam: quippe arbitratu suo colloquentem secum interrogabat; and
+accepto ad singulas quaestiones responso, per concessa perveniebat ad
+propositum. Quae quidem disserendi ratio cum a plerisque pene sola probaretur,
+factum inde est Argumentationi nomen (...); quique argumentum proponeret (...)
+dicebatur; and (...) idem prorsus valebat quod nobis hodie Disputare. Plura
+dicere nihil attinet, quando extant Platonis Dialogi, quosque illum imitatus
+Cicero tanta art contexuit, ut non desideremus praecepta, quae de ha^re Zeno
+conscripsit.
+
+Pars tertia, quae and Ars (...) dicta est, ad litem tota erat comparata;
+ejusque scopus, non tam adversarium convincere, quam impedire: proposita
+scilicet interrogatione ad quam esset difficile sine incommodo respondere; ut
+qui temere respondisset, sua se concessione tanquam laqueo sentiret implicitum.
+Respondenti igitur summa cautione opus erat, ut paratas sibi insidias
+praesentire posset and effugere: unde tenui hac velitatione, qua nihil videtur
+otiosius, magnum tamen ingenii acumen cum ostendi, tum etiam comparari posse
+Zeno censebat.
+
+. 4. ZEnonem quadragenarium, cum adesset una Parmenides annos quinque and
+sexaginta natus, juvenem admodum Socratem convenisse, tradit Plato. Erat autem
+Socrates ex Ionica secta, Archelai Physici discipulus, Sectae suae magister
+post Thaletem quintus. Sub finem Ol. 77ae natus; sub initium 95ae mortuus.
+Relicto Physicae studio, cui propemodum soli decessores ejus incubuerant,
+Ethicam praesertim excoluit: nam in caeteris artibus and scientiis ita est
+versatus, ut hanc non ante praeponeret quam illis esset imbutissimus; adeo ut
+Rhetoricam oppugnans, causam vicerit eloquentia. Omnium doctissimus, nihil
+scripsit: Philosophiae parens, nusquam scholam aperuit: nihil se scire nisi id
+ipsum dixit, quem sapientissimum omnium Apollo judicavit, spectata quantum
+nusquam alias Oraculi fide.
+
+Ex illius consuetudine mirum quot prodierint Philosophi, quamque praeter
+caeteros illustres: magna encomio materia, si id sineret instituti ratio: Nunc
+tribus contenti sumus, sectarum trium conditoribus, Platone, Antisthene,
+Euclide.
+
+Plato Athenis non sine miraculo si Laertium audimus natus est, Ol. 88a. Vir
+(si virum appellare fas est) omni Philosophiae, Matheseos, Eloquentiae,
+Virtutis laud cumulatus. Scholam habuit Athenis in suburbano Academiam; fuerat
+enim Herois Academi, vel (ut alii) Ecademi, unde Ecademia primo dicta est.
+Sectam instituit Academicam. Aristotele discipulo clarior quam ille Alexandro.
+Anno uno and octogesimo scribens mortuus est.
+
+Partem Logicae nuper inventae secundam praeter caeteras excoluit; conscriptis
+tanta art Dialogis, quanta sese explicare potuit consummata scientia, cum
+divina quadam dicendi facultate conjuncta. Quod si pauca excipias praecepta
+quae Dialogis obiter intexuit, ad instaurandam Artem Logicae nihil amplius
+contulisse videtur. Ne voluisse quidem verisimile est, si recte Cicero, factam
+esse ab aliquibus disserendi artem, quam Socrates minime probabat. Fuere tamen
+qui universam qua nos utimur Logicam, perspectam illi esse contenderent; quia
+nempe sic disputat, ut quae affert argumenta in omne genus Syllogismos converti
+possint: quasi id non sit in communi etiam sermon necessarium, siquis velit
+cohaerenter loqui.
+
+. 5. EUclides Megarensis (alius a Megarensi illo Geometriae Magistro) sectam
+instituit quae initio Megarica, post, a Dialecticae studio dicta est
+Dialectica. Tantus in eo Philosophiae amor, ut cum vitae discrimine Socratem
+quotidie conveniret: erat enim Megarensibus illo tempore capitale si Athenis
+deprehenderentur. Itaque noctu, obvelato capite, amictu muliebri, per viginti
+and amplius milliaria, and pedibus, and tamen venit.
+
+Placuit illi praeter caeteras pars tertia Logicae Zenonis; ut illi multa
+tribuenda sint quibus Stoici deinceps claruere: puta Mentiens, Obvelatus,
+Acervalis, Cornutus etc. Sophismatum formulae quae veteribus multum facessebant
+negotii; quanquam Achillem, and fortasse plures ipse Zeno invenit. Horum
+exempla, and quam inepta sint, vide Libro hujus Compendii secundo, capite
+secundo.
+
+. 6. PRope portas Urbis in Gymnasio Cynosarge scholam habuit Antisthenes
+Cynicorum pater; de quo praeclarum extat Xenophontis in Symposio testimonium.
+Successorem habuit Diogenem Canem; hic Cratetem Thebanum, abjectis in mare
+opibus illustrem; cujus discipulus Zeno Cittiensis Stoicorum sectam condidit.
+Nam cum doceret (...) quadam, nempe Pisianactea, inde sectae nomen. Clarus Ol.
+120, cum durasset annos exinde 40, senex admodum decessit.
+
+Fertur Antisthenes librum unum scripsisse (...): Successores ejus ejusdem
+argumenti infinita pene volumina, quae magno rei literariae bono periere. Sed
+hoc recte Stoici, quod Rhetoricam statuerent partem esse Dialecticae; quas
+pariter differ Zeno censuit atque contracta manus ab expansa. De Rhetorica
+itaque scripsere, Cicerone judice satis infeliciter: De Logica nihilo melius.
+Dandum tamen est illorum celebritati ut quid profecerint videamus.
+
+Ordiuntur a Voce; cujus gratia, ipsa Grammaticae elementa repetunt and vexant;
+Quot sint literae, Quid sit Nomen, intellige proprium; Quid Appellatio h. e.
+nomen appellativum; Quid Verbum; Quid Conjunctio; Quid Articulus, quinque
+parts orationis, exquisite docent: Quid sit porro Dialectus; Quae orationis
+virtutes; Quae contra vitia; Quid denique Foema; aliaque ejus generis infinita:
+Tum de Definitione, Divisione, Genere, Specie, Ambiguis, magna moliuntur.
+
+Posthaec de Rebus significatis, quas in animo esse docent, multiplici sensuum
+ministerio impressas. Quae in (...) Intellectu scilicet fit impressio (...)
+dici volunt; (nam phantasmata non vocant praeter ea quae furentibus videntur,
+aut somniantibus) atque hanc, si clara and distincta sit, comprehensivam (...)
+appellant; and normam veritatis esse statuunt, utpote imaginem rei verae
+riteque perceptae.
+
+Hanc cum effertur, sive Verbo, sive Oratione, (...) Dictum appellant. Unde
+Dictum aliud Imperfectum, quem nos Terminum simplicem diceremus; and Perfecti
+species duae, Axioma and Syllogismus. Axioma est, quod nobis Propositio;
+eodemque fere quo apud nos modo definitur and dividitur: Syllogismum, praeter
+Hypotheticum non videntur agnovisse. Quo deterius factum est, quod cum haec non
+initio docerent, sed post inventam and perfectam ab Aristotele Artem Logicam,
+ab eo tamen merito repudiata retinerent, quasi repertis frugibus, glande
+vescerentur.
+
+Sed illud pessimum, quod Sophismatis supra modum indulgerent, nugisque illis
+nugacissimis pene toti incumberent; quodque nec vere negare, nec sine magno
+humanae mentis opprobrio confiteri possumus, Sectae propemodum omnes in eandem
+insaniam sunt prolapsae: unde nova quaedam Sophistarum haeresis est exorta, qua
+nec importunior ulla, nec (quod pudet dicere) numerosior.
+
+In hoc propemodum statu erat res Dialectica circa tempus Aristotelis; de quo
+deinceps est dicendum.
+
+. 7. NAtus est Stagyris Aristoteles Macedoniae oppido, Ol. 99a; anno primo; quo
+and Romae M. Manlius Capitolinus e Tarpeia rupe dejectus est. Statura erat
+mediocri, voce balba, parvis oculis, cruribus exilibus, ingenio supra humanam
+sortem admirabili; sed praecone alio non indiget quem (...) Plato appellavit.
+Pretiosa vest (Curiae ut videtur obsecutus) annulisque utebatur; seque
+tondebat, contra quam solerent Philosophi.
+
+Athenas venit anno aetatis suae 180, seque in Platonis disciplinam tradidit,
+quem viginti annis audivit. Hoc defuncto ad Hermiam Atarnensium tyrannum
+commigravit; ejusque filiam in matrimoniam duxit. Hoc itidem mortuo, post
+biennium, Mitylenen concessit; and rursus post biennium ad Philippum Macedonem
+venit; filiumque ejus Alexandrum per octennium instituit. Post Philippi mortem
+Athenas rediit, and in Lycei Peripato Scholam aperuit; quam cum 13. annis
+tenuisset, Euboeae Chalcidem profectus, anno tertio Ol. 114, aetatis suae
+climacterico, morbo decessit. Sunt qui eodem anno Demosthenem quoque mortuum
+volunt.
+
+A Platone descivisse Aristotelem Sectamque propriam condidisse, notum est:
+quae exinde Peripatetica vocabatur, quod and Ipse, and ipsius exemplo
+successores ejus deambulantes disputarent. Dum in Asia maneret, cum erudito
+quodam Judaeo versatum, ab illo multa hausisse, idque se (si been memini)
+audiente confessum, discipulus ejus insignis Clearchus prodidit. Hinc tanta
+illius Philosophiae cum sacris literis consensio.
+
+Sed ut caetera mittamus quae non sunt hujus instituti, Primus mortalium
+Aristoteles certum Logicae finem constituit; praecepta in ordinem redegit;
+singulari artificio integrae artis methodum contexuit; uno verbo, quam invenit
+Logicam, tam feliciter perfecit, ut in hunc usque diem, per annos circiter bis
+mill, perpetuis clarissimorum virorum studiis exculta, nihil prorsus acceperit
+incrementi.
+
+. 8. SUccessorem Tyrtamum designavit Aristoteles, quem a divina illa qua
+pollebat eloquentia, Theophrastum nominavit. Post hunc alii quorum nomina
+recensere nihil attinet, longo ordine subsecuti. Undecimus ab ipso Aristotele
+Andronicus Rhodius Magistri sui opera, in eum quo habentur ordinem digessit:
+eodem fere tempore quo Athenis Cratippum Ciceronis filius audivit. Circa annum
+Christi 140 Interpretum princeps Galenus floruit, (...) sive Expositor (...)
+dictus. A. D. 325. Claruit Porphyrius cujus superest praeter alia nonnulla,
+(...) ad Categorias, quae plerumque Aristotelis operibus praefigi solet. Anno
+Domini 525. occisus est Boethius; qui primus Aristotelis Logicam Latin
+convertit.
+
+Post aliquot annos ingruentibus Barbaris, literatura pene omnis est oppressa:
+ut nihil mirere, si in tantis Reipublicae fluctibus, rari admodum Philosophi,
+velut in gurgite vasto nantes apparuerint. In his fuere, sub annum Christi 800
+Ioannes Damascenus; sub 1000, Eustathius and Eustratius; sub 1100, Michael
+Ephesius, and Michael Psellus; sub 1200, Georgius Pachymerius: singuli suo
+tempore, commentariis, cum in alia Aristotelis opera, tum in Organum (hoc est
+Logicam) praesertim editis, illustres.
+
+. 9. PEr eadem fere tempora claruere Arabes; qui Graecorum scriptis in sermonem
+patrium conversis, totam pene Philosophiam ab interitu vindicabant. Horum
+princeps, si ipsos audimus Arabes, Alfarabius; nobis autem notiores Avicenna
+atque Averroes; hic praesertim, qui Aristotelis opera egregie praeter caeteros
+illustrando, Commentatoris nomen fecit suum. Dictu autem incredibile est, quam
+sit apta ad tradendam Philosophiam lingua Arabum; in qua, quae Latin dicere
+(sine summa saltem barbary) non possumus, non accurate solum eloqui, verum
+etiam eleganter licet. Horum beneficio, cum Hispania Mauri potirentur,
+Aristoteles Arabs eodem commigravit: cumque ex Arabico Latin versus, Occidenti
+innotescere caepisset, tantae omnibus admirationi fuit, ut post aliquot annos,
+autoritate publica cautum esset, nequis Aristoteli contradiceret.
+
+Hinc omne deinceps studium explicando Aristoteli insumtum est; in hoc, Schola
+omnis versabatur, huic qui incumberent, dicti sunt Scholastici; quorum
+historiam non meis, sed Sandersoni verbis accipe.
+
+. 10. INsecutum est (inquit) brevi, Seculum Scholasticum; in quo Logica and
+Philosophia Peripatetica a plurimis fuit illustrata; stylo quidem ineleganti,
+nec elaborato, sed quem abunde compensavit admirabilis judicii profunditas, and
+in rebus perscrutandis omnino felix subtilitas. Post Alexandrum ab Ales Anglum,
+(qui Pater Scholasticorum habetur) Logicalia scripserunt Albertus Magnus,
+Thomas, Scotus, Burlaeus, Occam etc. Qui hos secuti, in varias postea Sectas
+sunt divisi: dum alii Scotistae, alii Thomistae, Nominales alii, alii Reales
+dici voluerunt. Sed Scholasticis illis praesertim vetustioribus (degeneres enim
+illi qui in Summulis and Sophistria omne aevum ineptierunt, indigni sunt qui
+locum inter Logicos sortiantur) tantum debet Logica, quantum fere aliis
+hominibus nullis. Sane illud optandum fuisset, ut non heterogenea saepius
+infarcissent; and Quaestiones Theologicas, Physicas, Metaphysicas in Logica
+determinandas proposuissent.
+
+Scholasticorum plerisque qui reconditioris subtilitatis aut judicii
+habebantur, cognomina quaedam indita suntia discipulis suis: quae quoniam
+celebria sunt in Scholis, facturi videbamur rem non ingratam si hic
+attexeremus; etsi non sint omnes Logici.
+
+A. D. 1 Alexander ab Ales Doctor 1 Irrefragabilis. ob. 1245. 2 S. Thomas
+Aquinas 2 Angelicus. ob. 1274. 3 Johannes Duns Scotus 3 Subtilis. ob. 1308. 4
+S. Bonaventura 4 Seraphicus. ob. 1274. 5 Henricus de Gandavo 5 Solennis. ob.
+1293. 6 Gualterus Burlaeus 6 Planus. ob. 1337. 7 Gulielmus Occam 7
+Invincibilis. ob. 1347. 8 Aegidius Romanus 8 Fundatissimus. ob. 1316. 9 Thomas
+Bradwardinus 9 Profundus. ob. 1349. 10 Joannes de Baccone 10 Resolutus. ob.
+1346. 11 Franciscus Mayronis 11 Illuminatus. fl. 1320. 12 Adamus de Marisco 12
+Illustris. fl. 1260. 13 Petrus Aureoli 13 Facundus. fl. 1317. 14 Joannes
+Bassolis 14 Ordinatissimus. fl. 1466. 15 Alexander Saxo 15 Illibatus. 16
+Gerardus Odonis 16 Moralis. fl. 1330. 17 Antonius Siretus Magister 17
+Formalitatum. ed. 1541. 18 Petrus Lombardus 18 Sententiarum. ob. 1164. 19
+Petrus Comestor 19 Historiarum. ob. 1179. 20 Petrus Hispanus 20 Summularum. fl.
+1290. 21 Averroes 21 Commentator. fl. 1150. 22 Petrus de Abano 22 Conciliator.
+ob. 1316. 23 Suicetus 23 Calculator. fl. 1350.
+
+. 11. CApta tandem a Turcis Constantinopoli die Maii 29. A. D. 1453, migrantes
+incolae quas habebant Graecorum veterum reliquias secum in Occidentem
+transtulere. Ex illo itaque tempore, incredibili literarum bono, Platonem,
+Aristotelem caeterosque non alieno Interpretum sermon balbos, sed suis verbis
+quasi nobiscum colloquentes audimus.
+
+Hactenus de Historia Logicae. Nunc ad Artem ipsam veniamus, ex mente
+Aristotelis tradendam.
+
+Pagina 23. linea proantepenultima, pro in Antecedente propositiones, scribe
+intermediae propositiones; (vel si mavis, quot in Antecedente termini
+intermedii.)
+ARTIS LOGICAE COMPENDIUM.
+ARTEM Logicam duobus Libris ita scribere institui, ut quae in ea scitu sunt
+necessaria, brevi and perspicuo opere complectar. Quare sequar licet
+Aristotelem, eandem quam Scholastici solent viam non insisto; sed quibusdam
+praetermissis, ita explico caetera, ut cum praeceptis una eorum quoque ratio
+demonstretur: eaque utor Methodo quae mihi videtur commodissima ut totius
+Logicae scopus, quoque ad eum modo parts singulae colliment, a juvenibus
+facile percipiatur.
+
+LIB. I. CAP. I. De Terminis Simplicibus.
+. 1. MEntis operationes in universum tres sunt. 1. Simplex Apprehensio. 2.
+Judicium. 3. Discursus.
+
+1. Simplex Apprehensio est nudus rei conceptus intellectivus, similis
+quodammodo perceptioni sensitivae; sicut enim imago rei est in ocula ita Idea
+in animo: estque Incomplexa vel Complexa.
+
+Apprehensio simplex Incomplexa, est unius objecti, ut calami, veletiam plurium
+confuse; ut calami, manus, etc. Complexa plurium, sed cum ordine quodam and
+respectu; ut calami in manu.
+
+2. Judicium est quo men's non solum percipit duo objecta, sed quasi pro
+tribunali sedens, express apud se pronuntiat, illa inter se convenire aut
+dissidere.
+
+Est enim Judicium aliud Affirmativum, quod vocatur etiam Compositio; aliud
+Negativum quod and Divisio.
+
+Porro tam part^cula Est quae affirmando convenientiam exprimit, quam Non-Est
+quae negando Dissidium, appellatur Copula: (sicut and Grammatica conjunctiones
+Disjunctivas habet;) atque hanc sub determinatione cognoscendo differt Judicium
+ab Apprehensione complexa.
+
+3. Discursus est motus sive progressus mentis ab uno Judicio ad aliud; quod
+and Ratiocinium dicitur; and significatur Copula Illativa, qualis est Ergo aut
+alia similis. V. g. Qui est extra fortunae potestatem est beatus. Sapiens est
+extra fortunae potestatem Ergo Sapiens est beatus.
+
+Singulis operationibus sui accidunt defectus. Apprehensioni, Indistinctio;
+Judicio, Falsitas; Discursui, Mendosa Collectio. Quae cum Sapientes
+animadverterent, and opportuna illis remedia excogitassent, praecepta sua in
+unum compegere; eorumque Scientiam dixere Logicam, sive Artem Rationis.
+
+Est igitur Logica Ars instrumentalis dirigens mentem in cognitione rerum:
+ejusque parts tres sunt, pro operationibus mentis quas dirigit. 1. De Simplici
+Apprehensione. 2. De Judicio. 3. De Discursu.
+
+. 2. QUoniam vero inter docendum and disputandum neque res aliqua, neque
+conceptus cui subjacet commode in medium afferri potest; necesse est vicaria
+utrisque signa substituere, quorum usum idoneum docendo Logica mentem una ad
+been operandum instruit.
+
+Hujusmodi signa apud homines recepta sunt Voces: Nam Vox est signum rei vel
+conceptus ex instituto vicarium: and in significando primo quidem declarat
+conceptum, deinde supponit pro re. Dico autem ex instituto quia soni
+inarticulati, vocesque quas Natura sponte suggerit extra artem censentur.
+
+Jam quae simplicem Apprehensionem exprimit Vox Simplex est; quae Judicium,
+Complexa; quae Discursum, Decomplexa. Nam argumentum omne resolvitur in tres
+Propositiones, sive sententias, and propositio omnis complectitur voces, non
+semper numero, sed sensu semper tres; 1. Subjectum, sive de quo aliud dicitur.
+2. Praedicatum, sive id quod dicitur. 3. Copulam, quae utrisque media
+intercedit. Nam Subjectum and Praedicatum quoad sensum semper extrema sunt, and
+vocantur ideo Termini propositionis.
+
+Atque hinc adeo vulgo dicitur Pars prima Logicae versari circa terminos
+simplices, i. e. voces simplices Apprehensionem simplicem exprimentes: secunda
+circa Propositionem, sive Vocem complexam quae Judicium exprimit: tertia vero
+circa Syllogismum sive Vocem decomplexam qua Argumentatio sive Discursus
+exprimitur.
+
+. 3. PRima igitur pars Logicae, versatur circa terminos simplices; i. e.
+ejusmodi voces quae solitariae in propositione praedicari vel subjici possunt
+and vocantur ideo Categorematicae, ut homo, lapis. Quaedam enim Vocabula sunt
+tantum Syncategoremata sive compartes Subjecti aut Praedicati, ut omnis,
+nullus; Quaedam etiam mixta, ut semper, i. e. omni tempore; Nemo, i. e. nullus
+homo, Currit, i. e. est currens; quo etiam modo verbum omne Grammaticum resolvi
+potest.
+
+Verbum igitur Logicum, (nempe purum) praeter Copulam nullum est: caetera ex
+participio and copula coalescunt.
+
+Nomen Logicum est terminus simplex sine tempore significativus. Nam ex
+antedictis terminus simplex idem valet atque Vox articulata and recta and ex
+instituto significans: siquidem exclusae sunt voces inarticulatae quasque
+natura sponte suggerit; voces autem obliquae sunt Syncategoremata.
+
+Multae sunt Nominis Divisiones; quarum tres sufficient hujus Loci instituto;
+sed ob multiplicem earum usum, quinque alias adjungam.
+
+1. Nomen singular est quod rem unam and solam significat ut Socrates; Commune
+quod plura and eorum singula significare potest ut homo.
+
+2. Transcendens quod solis omnibusque veris Entibus convenit, ut ens, res,
+aliquid, unum, verum, bonum: Super-transcendens quod omnibus etiam fictis, ut
+imaginabile, cogitabile: Non-transcendens omne aliud nomen.
+
+3. Finitum est cui abest particula non: Infinitum cui praefigitur ut non-homo,
+i. e. omnia praeter hominem; unde particula non, dicitur infinitans.
+
+4. Positivum est quod significat rem quasi praesentem: Privativum quod dicit
+absentiam rei a subjecto capaci: Negativum quod ab incapaci. Sic homo est vox
+positiva; videns dicitur de homine positive; caecus de homine privative,
+caecus, seu potius non-videns de lapide negative.
+
+5. Univocum est cujus una significatio aeque convenit multis ut homo:
+Aequivocum cujus diversae ut Gallus: Analogum cujus una inaequaliter ut pes.
+Vox ipsa dicitur Univocum Univocans; res significata Univocum Univocatum, and
+sic de caeteris.
+
+6. Absolutum est cujus tota significatio spectat rem per se sumtam, ut
+Justitia: Connotativum quod eandem quasi alteri nexam, ut Justus. Concretum,
+quod rem quasi sua natura liberam, sed jam implicitam subjecto, ut Justus:
+Abstractum, quod rem quasi sua natura nexam, sed jam subjecto exemtam, ut
+Justitia. Denique si Concretum sola terminatione diversum sit ab Abstracto ut
+justus a justitia, hoc Denominans dicitur, illud Denominativum, Subjectum vero
+Denominatum.
+
+Denominativis accensentur aliquando Derivativa illa quae vel solam nominis
+Analogiam, vel solam rei vim, non utramque retinent ut Studiosus studii and
+virtutis. Sed ista verius Conjugata sunt.
+
+Connotativum quoque dicitur de nominibus quorum conceptus se mutuo
+ingrediuntur, ut Pater and filius: nam and illa opponuntur absolutis; sed
+vocantur proprio nomine Relativa.
+
+7. Convenientia sunt quae possunt de eodem simul dici ut doctus and pius:
+Repugnantia, sive Opposita, quae non possunt, ut album and nigrum.
+
+Oppositio incomplexa sive terminorum simplicium est omnino quadruplex: 1.
+Relativa inter terminos relativos, ut Patrem and filium. 2. Contraria inter
+contrarios, i. e. absolutos se mutuo pellentes ex subjecto alterutrius capaci,
+ut album and nigrum. 3. Privativa inter privativum and positivum, ut videntem
+and caecum. 4. Contradictoria inter positivum and negativum, intellige finitum
+and infinitum, ut hominem and non-hominem. Haec est oppositionum maxima, quia
+nullum admittit medium; neque Participationis, quale est fuscum respectu albi
+and nigri; neque Abnegationis, quale est lapis inter videntem and caecum.
+Relativa contra omnium minima; nam Relata non sunt opposita nisi ad idem
+sumantur.
+
+8. Nomen primae intentionis est Vox in communi usu posita. Secundae, Vox
+artis, quam ex communi sermon sumptam Philosophia recudit denuo and moderatur.
+
+. 4. VOx Singularis dicitur alio nomine Individuum, ejusque significatum Unum
+numero: neque enim singular est quicquid Unum dici potest; sed multa quae sunt
+invicem similia, eatenus Unum censentur. Vocantur enim uno eodemque nomine;
+quod ipsa Vocis definitio non patitur, nisi in illis reipsa sit, vel saltem
+concipi possit una aliqua eademque Natura quae huic nomini respondeat.
+
+Talem reperit intellectus dum plura contemplando abstrahit ab eorum
+differentiis; i. e. spectat in rebus ea tantum quae convenient, neglectis
+omnibus quibus dissident; adeoque fundamentum omne discriminis praeter numerum
+eximit. Quare naturam sic abstractam cum sit omni singulorum differentiae
+superstes, concipi par est non ut in singulis diversam, sed ut in omnibus
+eandem; adeoque Universale quiddam sive Ens unum in multis: ejusque signum
+idoneum erit Nomen commune, Univocum, Secundae intentionis, uno verbo
+Praedicabile, sive Vox apta praedicari i. e. Univoce dici de multis.
+
+. 5. PRaedicabilium capita constitui and definiri possunt ad hunc modum.
+Quicquid in multis reperiri potest vel est tota eorum essentia, vel ejus pars,
+vel cum essentia conjunctum. Quare Universalia vel (quod eodem redit)
+Praedicabilia sunt quinque, and non plura; viz. Genus, Species, Differentia,
+Proprium, Accidens.
+
+Nam 1. Genus, est quod praedicatur de pluribus ut eorum essentiae pars
+materialis sive communis; ut animal. 2. Differentia, quae ut essentiae pars
+formalis sive discretiva; ut rationale. 3. Species, quae ut tota essentia; ut
+homo. 4. Proprium, quod ut essentiae junctum necessario; ut risibile. 5.
+Accidens, quod ut essentiae junctum contingenter; ut album, nigrum, sedere.
+
+Patet hinc 1o De iis dici Praedicabile quibus inest Universale. Genusque adeo
+quod est plurium essentiarum vel specierum pars communis, de specie
+differentibus, h. e. de diversis speciebus quas ingreditur dici; ut animal de
+homine and bruto. Speciem vero de numero differentibus, h. e. de diversis
+individuis, quorum singula habent essentiam speciei vocabulo significatam; sic
+homo de Socrate and Platone dicitur, and de omnibus quibus natura inest humana.
+Reliqua vero Praedicabilia (prout inferius patebit) eadem de causa tam de
+specie quam numero differentibus dicuntur.
+
+Et NB ex recepto more loquendi Genus and Speciem praedicari in (i. e.
+respondere quaestioni factae per) Quid; Differentiam in Qualequid; Proprium and
+Accidens in Quale. Unde facile est conficere Vulgatas Praedicabilium
+definitiones. Nam Genus definitur Praedicabile quod praedicatur de pluribus
+specie differentibus in Quid Differentia quod de pluribus specie vel numero
+differentibus in Qualequid etc.
+
+Patet 2o Genus esse Totum quiddam, nempe Logicum, sive in modo loquendi;
+quatenus continet (i. e. praedicationis ambitu complectitur) species tanquam
+parts sui subjectivas. Speciem quoque Totum esse, nempe Metaphysicum, sive in
+modo concipiendi; quatenus continet (i. e. ad perfectionem sui postulat) Genus,
+tanquam partem sui essentialem. Unde Differentia Generi accedens dicitur Genus
+ipsum dividere quatenus ejus significata distinguit, and speciem constituere
+quatenus ejus essentiam complet.
+
+. 6. GEnus aliud Summum aliud Subalternum est: Species quoque in Subalternam
+and Infimam distinguitur. Genus summum est quod nulli, Species infima quae omni
+cognato Generi subjicitur: Genus vel Species subalterna quae and cognato Generi
+subjicitur, and de cognata Specie praedicatur. Voco autem Cognata quae ex
+iisdem Individuis perpetua abstractione collignntur; ut Homo, Animal, Vivens,
+Corpus, Substantia: quae ex Socrate, Platone etc. expurgatis continue
+differentiis oriuntur.
+
+Quare 1. Differentia est vel Generica, quae constituit Speciem Subalternam;
+vel Specifica, quae infimam: haec est quae de numero differentibus, illa quae
+de specie differentibus praedicatur. Exempla Sensibile and Rationale.
+
+2. Proprium quoque vel. Genericum est, quod necessario comitatur essentiam
+Generis summi vel subalterni; atque ex illa adeo fluere atque oriri dicitur:
+vel Specificum quod fluit ab essentia speciei infimae: Illud itaque de pluribus
+speciebus, hoc de una specie and pluribus Individuis praedicatur. Exempla
+Mobile and Risibile.
+
+Proprium tamen aliunde quadrifariam dicitur. 1. Quod convenit soli sed non
+omni; scil. soli Speciei sed non omni ejus Individuo; ut homini esse
+Grammaticum. 2. Quod omni sed non soli; ut homini esse bipedem. 3. Quod omni
+and soli sed non semper; ut homini canescere. 4. Quod omni, soli, and semper;
+ut homini risibilitas. Hujusmodi Proprium est quod constituit Quartum
+Praedicabile.
+
+Accidens cum essentiae junctum sit contingenter, adesse igitur vel abesse
+potest, salva interim essentia subjecti: cui tamen aliquando tam tenaciter
+inhaeret, ut cogitatione sola divelli atque separari possit; ut Mantuanum esse
+a Virgilio. Quare vocatur Inseparabile. Quod autem actu sive reipsa separari
+potest; ut albedo a pariete dicitur Separabile.
+
+. 7. QUemadmodum Vox Singularis dicitur Individuum, ita and Communis Dividua
+dici potest. Eam enim per Metaphoram dividere dicitur, qui plura ejus
+significata recenset, nam in uno multa distinguit. Ita qui animal dicit esse
+(i. e. vocabulum animal significare) hominem and brutum, dicitur animal in
+hominem brutumque dividere.
+
+Quare Divisio est distincta enumeratio plurium quae communi nomine
+significantur. Estque analoga distributioni totius in parts. Unde and nomen
+ipsum Commune dicitur Totum Divisum, and distincta ejus significata, Parts
+sive membra dividentia and been Dividendi leges statuuntur tres.
+
+1. Dividentia sigillatim minus contineant (i. e. arctius significent) quam
+Divisum. Nam Totum est majus partibus. singulis. 2. Dividentia conjunctim plus
+minusve ne contineant quam Divisum. Nam Totum est aequale partibus universis.
+3. Membra Divisionis sint opposita (i. e. in se invicem ne contineantur) nam
+sine distinctione frustra est partitio.
+
+. 8. DIvisionem excipit (quae per Metaphoram quoque dicitur) Definitio; cujus
+est assignare conceptus and voces, quibus ea quae ab invicem distincta volumus,
+velut agrorum sines ex limitibus suis dignoscantur. Quae cum definitis notiora
+esse debeant magisque obvia, Definitio vulgo dicitur Oration explicativa
+definiti. Oration inquam ut a nomine distinguatur; Explicativa quoque nam and
+nomen exprimit.
+
+Definitio alia Nominalis est, quae vocis significationem aperit; alia realis
+quae rei naturam. Realis iterum vel Accidentalis, sive Descriptio quae definito
+accidentia (puta causas, effectus, proprietates aliaque id genus) assignat; vel
+Essentialis, quae parts essentiae constitutivas. Essentialis denique vel
+Metaphysica sive Logica, quae Genus and Differentiam; vel Physica quae parts
+Essentiae physicas i. e. realiter distinctas: nam Genus and Differentia sola
+mente distinguuntur.
+
+E. g. Definitur homo Nominaliter qui ex humo. Accidentaliter Animal bipes
+implume. Metaphysice Animal rationale. Physice Ens natural constans corpore
+organico and anima rationali.
+
+Bonae Definitionis leges potissimum tres sunt.
+
+1. Definitio sit adaequata definito: alias non explicat definitum. Quae enim
+angustior est explicat tantum partem, cum definitum sit totum; quae laxior
+explicat totum, cum definitum sit tantum pars. 2. Ut per se clarior sit and
+notior definito: alias non explicat omnino. Dico tamen per se, quia per
+accidens potest minus intelligi quod notius est sua natura. 3. Ut justo vocum
+propriarum numero absolvatur: nam ex Metaphoris oritur ambiguitas, ex nimia
+brevitate obscuritas, ex prolixitate confusio.
+
+LIB. I. CAP. II. De Propositione Categorica pura.
+. 1. SEcunda Pars Logicae agit de Propositione sive Enuntiatione; quod est
+signum secundae operationis Intellectus, sive Judicium verbis expressum.
+
+Quare ad Propositionem legitimam requiritur*
+
+1. Quoad vocem ut sit Oration affirmans vel negans, quae est ejus essentia.
+
+2. Quoad sensum ut verum vel falsum significet (id scil. quod res est vel
+secus dicat) quod essentiae necessatio nexum, and proinde proprietas est. Unde
+and
+
+3. Non est ambigua; sic enim orationes esset. Nec 4. Solaeca vel mutila; sic
+enim nihil significaret.
+
+Quare ea demum Propositio legitima censebitur, quae juxta definitionem
+vulgatam est Oration Indicativa, congrua, and perfecta, verum vel falsum
+significans, sine ambiguitate.
+
+. 2. EJus Divisiones variae sunt;
+
+1. Categorica est quae enuntiat absolute; ut Homo est risibilis. Hypothetica
+quae sub condition; ut si Homo est rationalis est risibilis. Vel dies est vel
+nox.
+
+Quod Categorica dicit nihilo nexum est, quasi per se subsistens: quod
+Hypothetica, conditioni substat. Unde and haec Divisio peti dicitur a
+Substantia Propositionis; and per ejus membra respondetur interroganti Quae est
+Propositio?
+
+Categorica rursus dividitur in Puram and Modalem. Hypothetica in
+Conditionalem, Disjunctivam etc. Categorica pura, sive Propositio de inesse,
+est, quae pure assirmat vel negat; i. e. simpliciter dicit Praedicatum inesse
+vel non inesse subjecto; ut Homo est animal. Homo non est lapis. Modalis quae
+cum Modo, h. e. vocabulo exprimente quomodo Praedicatum insit subjecto; ut
+Necesse, est hominem esse animal. Impossible est hominem esse lapidem. De
+Categorica pura and quidem sola in praesentiarum loquor, de caeteris alibi
+dicturus.
+
+2. Affirmativa est cujus Copula affirmativa est; ut Homo est animal. Non
+progredi est regredi. Negativa, cujus negat; ut Homo non est lapis. Nullus
+avarus est dives. Vera, quae quod res est dicit; ut Homo est animal. Falsa,
+quae secus; ut Homo est lapis. Et cum per hasce species been respondeatur
+interroganti Qualis est Propositio (respondent enim per Differentiam and
+Proprium quae in quale praedicantur) dicuntur hae duae divisiones peti a
+Qualitate Propositionis. Prior a Qualitate Vocis, sive Essentiali; Posterior a
+Qualitate rei, sive Accidentaria.
+
+3. Universalis est quae subjicit terminum communem (cum signo universali,
+omnis, nullus, etc. adeoque) pro universis suis significatis distributive
+sumptum. Particularis, quae terminum communem (cum signo particulari aliquis,
+quidam, etc. adeoque) ex part tantum significantem. Singularis, quae vocem
+(vel sponte, vel ex signo saltem) Individuam; ut Socrates legit, Hic homo est
+doctus. Indefinita, quae (terminum communem sine signo and proinde) ancipitem:
+nam manente formula, vim recipit diversam; ut Homo est Animal, nempe omnis:
+Homo est doctus, Aliquis scil.
+
+Petitur haec Divisio a Quantitate Propositionis; nempe numero eorum pro quibus
+subjectum supponit: unde and per has species been respondetur interroganti
+Quanta sit Propositio? Hanc doctrinam Scholastici hujusmodi carmine sunt
+complexi; Quae? Ca. vel Hyp. Qualis Ne vel Aff. Quanta? Uni. Par. In. Sing.
+
+. 3. PRopositio Singularis in Syllogismo aeque potest Universali. Nam Subjectum
+ejus supponit pro omni suo significato. Socrates est homo Universalis est, quia
+omnis ille Socrates tantum unus est. Indefinitae quantitas judicatur ex materia
+Propositionis sive habitudine connexionis extremorum quae triplex est; 1.
+Necessaria, quando extrema essentialiter convenient; 2. Contingens, quando
+accidentaliter tantum; 3. Impossibilis, quando essentialiter differunt. Unde
+Propositio Indefinita pro Universali habetur, in materia impossibili and
+necessaria; pro Particulari vero in contingenti.
+
+Quare Quantitas Propositionis, quatenus ad Syllogismum facit est duplex;
+Universalis and Particularis. Et nota, quod Universalis affirmans symbolum
+habet A; negans E: Particularis affirmans symbolum I, negans O.
+
+Asserit A; negat E: Universaliter ambae
+
+Asserit I; negat O: sed Particulariter ambo.
+
+In Universali, signum affirmans distribuit tantum Subjectum: Negans, etiam
+Praedicatum. Nam ut verum sit Omne a est b, sufficit aliquod b convenire omni
+a: sed falsum est nullum a esse b, si vel aliquod b conveniat alicui a. Eodem
+argumento, ut sit verum Aliquod a est b, sufficit si vel aliquod b conveniat
+alicui a: sed falsum est quod aliquod a non est b, nisi illud a differat a
+quovis b. Et proinde
+
+In Particulari, nullus terminus distribuitur, praeter negantis praedicatum,
+quod semper distribuitur.
+
+Quanquam igitur fieri potest ut praedicatum distribuatur in affirmante, tamen
+non est necessarium; sed per accidens fit, and virtute significati, non virtute
+signi. In statuendis autem Propositionum legibus, spectandum est id tantum quod
+structura postulat, non quicquid sensus admittit: cum illud essentiale, and
+perpetuum sit; hoc mutabile, and incertum.
+
+Haec igitur regula generalis esto, quod in Propositione A, subjectum tantum
+distribuitur; in O tantum Praedicatum; in I neutrum; in E utrumque.
+
+. 4. PRopositionibus accidunt Oppositio and Conversio. Opponi dicuntur duae,
+quae cum subjecta habeant and praedicata omnino eadem, Quantitate tamen, vel
+Qualitate vocis, vel utraque pugnant.
+
+Oppositionis doctrina tota Colligitur and Demonstratur ex apposito Schemate,
+in quo A.E.I.O. sunt quatuor propositiones quantitate sua and qualitate
+signatae: quae sunt v. f. (hoc est, verae vel falsae) pro materia n. i. c. (hoc
+est, necessaria, impossibili, contingente,) quod ex ipsa materiae definitione
+satis patet. De necessaria; quia Propositionis extrema in ea essentialiter
+convenient: De impossibili; quia in ea essentialiter differunt: De contingenti;
+quia secus non esset materia contingens. Inspecto igitur hoc Schemate facile
+est.
+
+1. Oppositionis species numerare; quae sunt vulgo quatuor: Contradictoria,
+Contraria, Subcontraria, Subalterna.
+
+2. Singularum definitiones conficere. V. g. Oppositio Contradictoria est inter
+(A. O. vel E.I. hoc est) duas Categoricas quantitate pariter and qualitate
+pugnantes. Contraria inter (A. E. h. e.) duas universales qualitate pugnantes
+etc.
+
+3. Oppositarum Canones quatuor eruere and demonstrare hunc in modum.
+
+1. Contradictoriae A. O. vel E. I. sunt in nulla materia simul verae; in nulla
+simul falsae; sed in quacunque una vera, falsa altera.
+
+2. Contrariae A. E. in nulla simul verae; in Contingenti, simul falsae; in
+caeteris, una vera, falsa altera; nempe in Necessaria, vera A, falsa E; in
+Impossibili, vera E, falsa A.
+
+3. Subcontrariae I. O. in Contingenti, simul verae; in nulla simul falsae; in
+Necessaria vera I, falsa O; in Impossibili, vera O, falsa I.
+
+4. Subalternae A. I. vel E. O. and simul verae, and simul falsae, and una
+vera, falsa altera esse possunt. Nam in Necessaria simul verae sunt A. I; in
+Impossibili, simul verae E. O; In eadem, simul falsae, A. I. and in Necessaria,
+simul falsae E. O. In Contingenti, (propter A. E. falsas, I. O. veras) A. I,
+vel E. O, sunt una vera, falsa altera.
+
+Possunt etiam aliter hi Canones Oppositarum, cum pluribus aliis, tum hoc
+quoque modo demonstrari.
+
+1. Contradictoriae A. O. vel E. I. nec simul verae nec simul falsae esse
+possunt. Quod enim una negat, idem altera de eodem, secundum idem, affirmat: Id
+vero fieri nec natura patitur, nec sensus ipse communis. Quare.
+
+a. Si Universalis vera sit, particularis quae sub ea continetur vera est. Et
+
+b. Si Particularis falsa sit, Universalis quae eam continet falsa est: Quoniam
+enim Subjectum in Universali distribuitur; fit ut in ea, and in Particulari,
+idem, de eodem, secundum idem, dicatur: vere igitur and falso simul dici, (hoc
+est, affirmari simul and negari) nequit.
+
+2. Contrariae A. E* non possunt esse simul verae: sed in materia contingenti
+sunt simul falsae. Nam. 10. Exponatur Universalis vera; Ergo particularis vera
+per 1. (...); Ergo quae particulari contradicit falsa per 1. Sed haec est
+Expositae contraria.
+
+2o. Exponatur Universalis de materia contingenti; Ergo and haec falsa est, and
+Particularis vera, vi materiae: Ergo quae particulari contradicit falsa per 1.
+Sed haec est expositae Universali contraria.
+
+3. Subcontrariae I. O. simul falsae esse non possunt: sed simul verae, vel una
+vera, falsa altera, esse possunt. Sunt enim duae duarum Contrariarum
+Contradictoriae, ut in schemate patet, cum contrariis decussatim comparandae.
+Quare. (per 1. and 2.) Subcontrariae sunt in nulla materia simul falsae; quia
+Contrariae in nulla simul verae. Subcontrariae in contingenti simul verae; quia
+Contrariae in eadem simul falsae. In impossibili vero, and necessaria, Eadem
+utrisque lex est, ut sit una vera, falsa altera.
+
+4. Subalternae A. I. vel E. O. and simul verae, and simul falsae, and una
+vera, falsa altera, esse possunt* Nam 1o. Si subalternans (nempe Universalis)
+vera sit, Subalternata (sive Particularis) vera est (per 1. a.) 2o. Si
+Subalternata falsa, Ergo Subalternans falsa (per 1. b.) 3o. Si Subalternans
+falsa, Ergo quae illi contradicit, vera (per 1.) Ergo hujus Subcontraria, quae
+est Expositae subalternata, vera vel falsa esse potest (per 3.) 4o. Si
+Subalternata vera, Ergo quae illi contradicit falsa (per 1.) Ergo hujus
+Contraria, quae est expositae Subalternans, vera vel falsa esse potest (per 2.)
+
+. 5. COnverti dicitur Propositio, cujus extrema transponuntur. Variis id modis
+fieri potest, sed praesertim duobus: 1. Simpliciter, quando tam quantitas, quam
+utraque qualitas servatur. 2. Per accidens, quando servata qualitate, quantitas
+mutatur.
+
+fEc I Simpliciter convertitur Ev A per Acci and conversio utrobique illativa
+est.
+
+Nam 1. sit vera E, puta Nullum A est B: ergo (cum uterque terminus
+distribuatur,) quodvis A differt a quovis B. Ergo vicissim: Ergo Nullum B est
+A. 2. Sit vera I: Ergo falsa est ejus Contradictoria E: Ergo and
+contradictoriae simpliciter conversa: Ergo quae conversae contradicit, (i. e.
+expositae simpliciter conversa) est vera. 3. Sit vera E: Ergo and ejus
+simpliciter conversa: Ergo and conversae subalternata: quae est expositae
+conversa per accidens. 4. Sit vera A: Ergo and ejus subalternata: Ergo and
+subalternatae simpliciter conversa: quae est expositae per Accidens.
+
+Caeterae Conversiones, cum sint partim ambiguae, partim falsae, partim ad
+praecepta Syllogismorum inutiles, in Logica negliguntur.
+
+LIB. I. CAP. III. De Syllogismo Categorico puro.
+. 1. TErtia pars Logicae agit de Argumento sive Syllogismo: quod est signum
+tertiae operationis intellectus; nempe Discursus, vel Ratiocinium
+Propositionibus expressum.
+
+Quare cum Discursus sit progressus mentis ab uno judicio ad aliud, perspicuum
+est in eo requiri 1. Aliquid unde discursus ordiatur. 2. Aliud quo perveniat.
+3. Ea sic ab invicem pendere, ut unum ex alio, and alius vi innotescat; secus
+enim, unum post aliud cognoscere, est tantum saepe judicare.
+
+Jam ex quo aliud cognoscendum est, ipsum certe praecognosci debet; and proinde
+quasi sine discursu notum, antecedere, poni, praemitti; and ex eo reliquum
+concludi, colligi, inferri and sequi dicitur. Est autem duplex consequentia
+
+1. Materialis; quando ex Antecedente Consequens infertur, sola vi Terminorum,
+quae est Argumenti materia: ut, homo est animal Ergo est vivens.
+
+2. Formalis, quando infertur propter ipsum colligendi modum, quae est
+argumenti forma; ut B est A. C est B* Ergo C est A. Mutatis terminis and
+servata eorum dispositione, Materialis plerumque fallit, Formalis semper
+obtinet: and proinde haec solum in Logica spectatur, illa tanquam mutabilis and
+lubrica negligitur.
+
+Hisce intellectis, opinor satis constare quo sensu definiatur Syllogismus,
+Oration in qua positis quibusdam atque concessis necesse est aliud evenire
+praeter and propter ea quae posita sunt atque concessa.
+
+. 2. MUltae sunt ejus species; sed una tantum praesentis instituti; nempe
+Categoricus simplex, i. e. qui constat tribus Propositionibus de inesse. E
+quibus duae priores sunt Antecedens, tertia Consequens; quae extra Syllogismum
+spectata (scil. quamdiu haeret in incerto) Problema, and Quaestio dicitur; in
+Syllogismo autem (nempe post fidem factam) Conclusio. Quaestionis duo sunt
+extrema, Subjectum and Praedicatum; quorum de Convenientia vel Dissidio
+inquiritur, open termini alicujus tertii; idque propter Canones sequentes, in
+quibus vis omnis Syllogistica fundatur.
+
+1. Quae convenient in uno aliquo eodemque tertio, ea convenient inter se.
+
+2. Quorum unum convenit, alterum differt uni and eidem tertio, ea differunt
+inter se.
+
+3. Quae non convenient in uno aliquo eodemque tertio, ea non convenient inter
+se.
+
+Sunto enim A and C, nec assignari possit ejusmodi tertium, Ergo nihil habent
+commune; Ergo non convenient inter se.
+
+4. Quorum neutri inest quod non sit in alio, ea non differunt inter se.
+
+5. Quae non probantur convenire in uno aliquo eodemque tertio, ea non
+probantur convenire inter se. Dubitari enim potest utrum detur ejusmodi
+tertium, and dubitatio ista non tollitur.
+
+6. De quibus non probatur, convenire unum eidem alicui tertio cui alterum
+differt, ea non probantur differ inter se. Dubitari enim potest utrum detur
+ejusmodi tertium, h. e. utrum alterutri insit quod non est in reliquo; and
+dubitatio ista non tollitur.
+
+. 3. EX sex hisce Principiis Syllogismi structura sic deducitur.
+
+1. In omni Syllogismo sunt tres and tres tantum termini. Nam Syllogismus omnis
+probat aliquam conclusionem: Et in illa sunt duo tantum extrema: Et illa neque
+convenire, neque differ probatur, sine uno, unoque tantum tertio.
+
+Jam Praedicatum Quaestionis, dici solet majus extremum, major terminus;
+Subjectum Quaestionis, minor; Terminus vero tertius cui quaestionis extrema
+comparantur, Aristoteli Argumentum, vulgo Medium: Nam Praedicatum Quaestionis
+plerumque amplius est Medio; hoc minori.
+
+2. In omni Syllogismo sunt tres and tres tantum Propositiones. Duae
+praemissae, in quibus Medium cum extremis seorsim conferatur (nempe Major, in
+qua cum majori; Minor in qua cum minori;) una Conclusio, in qua extrema invicem
+committantur.
+
+NB. 1. Quod Major dici solet simpliciter Propositio; Minor, Assumptio. 2.
+Quod* Medium non ingreditur conclusionem, alias idem per idem probaretur;
+adeoque non essent tres termini.
+
+3. Ancipiti medio nihil conficitur. Neque enim affertur in hoc casu unum
+aliquod idemque tertium vel in quo extrema conveniant, vel cui unum conveniat,
+alterum differat.
+
+4. Medium non distributum est anceps. Esto enim B terminus communis in b and b
+divisibilis* Ergo b and b sunt opposita: and tamen vere dicitur Aliquod B est b
+and Aliquod B est b. Quare aliquod B est Medium anceps.
+
+5. Quare Medium in praemissis semel ad minimum distribui debet; sufficit tamen
+si vel semel distribuatur. Nam 1. ad probandum A est C conveniat C alicui B,
+and A omni; Ergo eidem alicui B: Ergo affertur unum aliquod idemque tertium
+etc. 2. ad probandam A non est C conveniat C alicui B, and A differat omni;
+Ergo eidem alicui B: Ergo affertur etc.
+
+6. Processus ab extremo non distributo in praemissis, ad idem distributum in
+conclusione vitiosus est. Nam ex aliquo non sequitur Omne. Esto enim verum quod
+aliquod; Ergo potest esse verum quod aliquod non; (nam Subcontrariae possunt
+esse simul verae:) Ergo de aliquo potest affirmari quod non de omni. Esto
+rursus verum quod aliquod non; Ergo potest esse verum quod aliquod: Ergo de
+aliquo potest negari quod non de omni.
+
+7. Praemissis negantibus nihil probatur. Affertur enim tertium cui utrumque
+extremum differt; non autem cui vel utrumque conveniat, vel unum conveniat
+alterum differat.
+
+8. Si praemissarum altera sit negativa, erit etiam Conclusio. Nam praemissarum
+reliqua est affirmativa: Ergo extremorum unum differt medio, alterum convenit:
+Ergo extrema differunt inter se: Ergo conclusio est negativa.
+
+9. Contra si Conclusio sit negativa erit etiam altera praemissarum. Nam
+extrema differunt inter se: Ergo eorum unum convenit medio, alterum differt:
+Ergo praemissarum altera affirmat, reliqua negat.
+
+10. Praemissis particularibus nihil probatur. Nam praemissarum altera
+affirmat: Ergo in illa medium non distribuitur: Ergo distribui debet in
+reliqua: Ergo illa est negativa in qua medium praedicatur. Ergo conclusio
+negativa: Ergo praedicatum ejus distribuitur, quod in praemissis non est
+distributum; Fuit enim vel affirmativae terminus alter, vel subjectum
+negativae; horum vero nullus distribuitur.
+
+11. Si praemissarum altera particularis sit, conclusio quoque particularis
+est. Sit enim 1. Praemissarum altera particularis affirmativa: Ergo in illa nec
+extremum suum nec medium distribuitur: Ergo medium distribuitur in reliqua,
+quae etiam Universalis est, sitque 1. Affirmativa: Ergo in illa medium
+subjicitur, and extremum medio attributum non distribuitur: Ergo neutrum
+extremorum distribuitur in praemissis: Ergo neutrum in conclusione: Ergo
+conclusio particularis affirmativa est. Sit 2. Negativa: Ergo conclusio
+negativa: sed debet habere extremum non distributum: Ergo particularis negativa
+est.
+
+Sit 2. Praemissarum altera particularis negativa: Ergo Reliqua Universalis
+affirmativa: Ergo in praemissis duo tantum termini distribuuntur: Ergo alterum
+extremorum non distribuitur: Ergo Conclusio habet extremum non distributum:
+Ergo cum negativa sit, erit etiam particularis.
+
+12. Quod si Conclusio particularis sit, non necesse est praemissarum alteram
+particularem esse. Fieri enim potest ut instituto meo sufficiat subalternata,
+quando subalternans potuit inferri. Et cum illae fint simul verae, liberum est
+utramvis infer. Quanquam stricte loquendo, Argumentatio ista non est
+accurata; nam Subalternatae veritas non immediate deducitur ex praemissis, fed
+ex subalternante.
+
+Syllogismi generales regulas complectitur hoc Tetrastichon,
+
+Distribuas medium; nec quartus terminus adsit.
+
+Utraque nec praemissa negans, nec particularis.
+
+Sectetur partem Conclusio deteriorem.
+
+Et non distribuat, nisi cum praemissa, negetve.
+
+. 4. SUperest per hasce regulas inquirere quot modis componi possunt tres
+Propositiones de inesse, ut Syllogismum conficiant. Qua in inquisitione duo
+spectanda sunt.
+
+1. Modus, sive legitima determinatio Propositionum secundum Quantitatem and
+Qualitatem.
+
+2. Figura, sive legitima dispositio Medii cum partibus Quaestionis.
+
+Modi sunt in universum 64. Nam ut supra ostensum est, ad Syllogismum faciunt
+Propositiones tantum quatuor A.E.I.O. Quare concipi potest Quadruplex tantum
+Major in Syllogismo; cuilibet vero Majori quadruplex tantum Minor adjungi; unde
+16. paria praemissarum: and singulis praemissis quadruplex tantum Conclusio;
+unde 64. Modi Syllogismorum.
+
+AAA. AAE. AAI. AAO. * AEA. AEE. AEI. AEO. * AIA. AIE. AII. AIO. * AOA. AOE.
+AOI. AOO.
+
+EAA. EAE. EAI. EAO. * EEA. EEE. EEI. EEO. * EIA. EYE. EII. EIO. * EOA. EOE.
+EOI. EOO.
+
+IAA. IAE. IAI. IAO. * IEA. IEE. IEI. IEO. * IIA. IIE. III. IIO. * IOA. IOE.
+IOI. IOO.
+
+OAA. OAE. OAI. OAO. * OEA. OEE. OEI. OEO. * OIA. OIE. OII. OIO. * OOA. OOE.
+OOI. OOO.
+
+Ex his excluduntur sedecim per Regulam 7, propter praemissas negantes, viz.
+EEA. EEE. EEI. EEO. * EOA. EOE. EOI. EOO. *OEA. OEE. OEI. OEO. *OOA. OOE. OOI.
+OOO. Duodecim per Reg. 10. propter praemissas particulares, viz. IIA. IIE. III.
+IIO. *IOA. IOE. IOI. IOO. * OIA. OIE. OII. OIO. Duodecim per Reg. 8. quia
+praemissarum altera negat, sed non Conclusio, viz. AEA. AEI. AOA. AOI. * EAA.
+EAI. EIA. EII. * IEA. IEI. * OAA. OAI. Octo per Reg. 11. quia praemissarum
+altera particularis est, sed non conclusio, viz. AIA. AIE. AOE. * EYE. * IAA.
+IAE. IEE.* OAE. Denique quatuor per Reg. 9. quia conclusio negativa est sed
+neutra praemissarum, viz. AAE. AAO. AIO. * IAO.
+
+Excluduntur igitur in universum Modi 52=16+12+12+8+4. e quibus multi contra
+plures regulas peccant, quamvis una tantum notetur.
+
+Supersunt (64 -- 52=) 12 Modi ad Syllogismum utiles, viz. AAA. AAI. AEE. AEO.
+AII. AOO. * EAE. EAO. EIO. * IAI. IEO. * OAO.
+
+. 5. FIgurae Syllogismorum sunt 4. Nam Medium quod cum utroque extremo
+comparatur, vel 1. subjicitur majori and tribuitur minori, and fit figura
+prima; vel 2. tribuitur utrique, and fit secunda; vel 3. subjicitur utrique,
+and fit tertia; vel 4. tribuitur majori and subjicitur minori, and fit quarta.
+Quae omnia sequenti Schemate declarantur.
+
+Dispositio trium terminorum. Scil. majoris A. medii B. minoris C. in Figura
+1 2 3 4 B. A. A. B. B. A. A. B. C. B. C. B. B. C. B. C. C. A. C. A. C. A. C.
+A.
+
+Quare quaelibet Figura excludit adhuc sex modos. Nempe
+
+1. Propter Medium non distributum. Prima duos IAI. OAO. Secunda quatuor AAA.
+AAI. AII. IAI. Quarta duos AII. AOO.
+
+2. Propter processum majoris illicitum. Prima quatuor AEE. AEO. AOO. IEO.
+Secunda duos IEO. OAO. Tertia quatuor AEE. AEO. AOO. IEO. Quarta duos IEO. OAO.
+
+3. Propter processum minoris illicitum. Tertia duos AAA. EAE. Quarta duos AAA.
+EAE.
+
+Supersunt Modi certo and necessario concludentes 24. sex in qualibet Figura.
+
+I.
+bA r Omne B est A cE Nullum B est A bA Omne C est B: Ergo lA Omne C est B:
+Ergo rA Omne C est A. rE nt Nullum C est A. dA Omne B est A fE Nullum B est A
+rI Aliquod C est B: Ergo rI Aliquod C est B: Ergo I Aliquod C est A. O Aliquod
+C non est A. A Omne B est A E Nullum B est A A Omne C est B: Ergo A Omne C est
+B: Ergo I Aliquod C est A. O Aliquod C non est A.
+
+II.
+cE s Nullum A est B cA m Omne A est B A Omne C est B: Ergo E s Nullum C est B:
+Ergo rE Nullum C est A. Tree s Nullum C est A. fE s Nullum A est B bA r Omne A
+est B tI Aliquod C est B: Ergo O k Aliquod C non est B: Ergo nO Aliquod C non
+est A. O Aliquod C non est A. E Nullum A est B A Omne A est B A Omne C est B:
+Ergo E Nullum C est B: Ergo O Aliquod C non est A. O Aliquod C non est A.
+
+III.
+dA r Omne B est A fE l Nullum B est A A p Omne B est C: Ergo A p Omne B est C:
+Ergo tI Aliquod C est A. tO n Aliquod C non est A. dI s Aliquod B est A bO k
+Aliquod B est A A m Omne B est C: Ergo A r Omne B est C: Ergo I s Aliquod C est
+A. dO Aliquod C non est A. dA t Omne B est A fE r Nullum B est A I s Aliquod B
+est C: Ergo I s Aliquod B est C: Ergo I Aliquod C est A. O n Aliquod C non est
+A.
+
+IV.
+brA m Omne A est B cA m Omne A est B A n Omne B est C: Ergo E n Nullum B est
+C: Ergo tl p Aliquod C est A. E s Nullum C est A. dI Aliquod A est B fE s
+Nullum A est B mA Omne B est C: Ergo A p Omne B est C: Ergo rI s Aliquod C est
+A. O Aliquod C non est A. frE s Nullum A est B A Omne A est B I s Aliquod B est
+C: Ergo E Nullum B est C: Ergo O n Aliquod C non est A. O Aliquod C non est A.
+
+Barbara, Celarent, Darii, Ferioque, prioris:
+
+Cesare, Camestres, Festino, Baroko, secundae:
+
+Tertia Darapti, Disamis, Datisi, Felapton,
+
+Bokardo, Ferison, habet: Quarta insuper addit
+
+Bramantip, Camenes, Dimaris, Fesapo, Fresison.
+
+Quinque Subalterni totidem Generalibus orti
+
+Nomen habent nullum, nec si been colligis usum.
+
+. 6. ATque omnes quidem 24 eatenus concludere, quod in iis convenientia vel
+dissidium extremorum certo atque necessario colligatur, ex Principio primo and
+secundo abunde constat. Certum est igitur, extremorum unum de altero ibi
+affirmandum, hic negandum esse: sed potest adhuc dubitari utrum illud sit?
+Posito enim quod duo termini conveniant, vel differant, non statim sequitur
+alterutrum de reliquo praedicari.
+
+Facilis est solutio, si ex secunda part repetatur, 1. Quod in propositione A
+subjectum tantum distribuitur; in O tantum praedicatum; in I neutrum; in E
+utrumque. 2. Quod Subalternata necessario sequitur ex sua subalternante.
+
+In Modis igitur nominatis, termini conclusionis rite disponuntur. Nam 1.
+Quando concluditur in A, patet ex Schemate, quod Extrema sunt Aliquod A and
+Omne C: Ergo C subjicitur. 2. Quando in E, extrema sunt Omne A and Omne C: Ergo
+alterutrum subjici potest: Ergo quod in Schemate rite subjicitur. 3. Quando in
+I, extrema sunt vel Aliquod A and Aliquod C (ut in omnibus praeter Bramantip)
+unde alterutrum subjici potest, adeoque quod in Schemate rite subjicitur; vel
+Omne A and Aliquod C (ut in Bramantip) in quo cum alterutrum possit, tamen C
+subjicitur, ut distinguatur hic modus ab innomine AAI in prima. 4. Denique
+Quando in O, extrema sunt Omne A and Aliquod C: Ergo C subjectum est.
+
+Modi vero innomines probantur, per nominatos, and Regulam Subalternarum. Nam
+innomines concludunt de Aliquo; singulis vero respondent nominati, de Omni
+concludentes, ex iisdem praemissis, and in eadem figura.
+
+. 7. IDem aliter and melius demonstrat Aristoteles ad hunc modum.
+
+Statuit primo Theorema quod Scholastici vocant Dictum de Omni and Nullo; scil.
+Quod praedicatur Universaliter de alio (i. e. de termino distributo) sive
+affirmative, sive negative, praedicatur similiter de omnibus sub eo contentis.
+
+Admisso hoc Theoremate (quod Axioma sponte perspicuum est) constat una, modos
+quatuor priores in prima certo atque necessario concludere. Nam eorum major
+ostendit majus extremum praedicari de medio distributo; and minor, minus
+extremum sub medio contineri.
+
+Quare Modi quatuor praedicti nihilo penitus indigent quo necessitas
+conclusionis appareat, praeter ea quae in praemissis posita sunt; and proinde
+quatuor illi sunt prae caeteris evidentes. Nam caeteri omnes aliquo vel
+aliquibus egent, quae utcunque per praemissas necessaria, in Syllogismo tamen
+non exprimuntur. Quare illos Aristoteles perfectos, hos imperfectos dicit;
+Scholastici directos, and indirectos vocant: quia per illos, ad conclusionem
+velut ad scopum recta itur; per reliquos eodem perveniri potest, prius tamen
+alio deflectendum est.
+
+Perfici igitur and revocari atque reduci dicimus indirectos, cum per modum
+aliquem directum illationis suae vim demonstrant. Et definitur Reductio,
+imperfecti Modi in perfectum mutatio, quo necessitas illationis fiat ex
+inevidenti evidens. Fiet autem, quando evidenter (h. e. in prima) ostenditur
+conclusionem vi praemissarum vel 1. Talem esse; vel 2. aliam esse non posse.
+Unde Reductio est vel ostensiva vel ad impossible.
+
+Utriusque praxin pro Modis nominatis docent ipsa Modorum nomina a Scholasticis
+in hunc finem conficta. Nam in iis tres vocales sunt totidem Propositiones
+Syllogismi sua quantitate and qualitate signatae. Consonae initiales B. C. D.
+F. notant modum primae ad quem fit Reductio. S. P. propositionem quam vocalis
+proxime antecedens designat esse in Reductione convertendam; S simpliciter; P
+per accidens. M transponendas esse praemissas. K reductionem fieri per
+impossible, i. e. pro praemissa cujus symbolo adhaeret, sumendam esse
+Conclusionis contradictoriam. Quibus ex praescripto factis, colligetur in prima
+conclusio vel expositae eadem, vel eam inferens, vel praemissae contradictoria,
+ut in exemplo.
+
+cE s Nullum A est B cE Nullum B est A A r Omne C est B: Ergo ad lA Omne C est
+B: Ergo E Nullum C est A. rE nt Nullum C est A. dI s Aliquod B est A dA Omne B
+est C A m Omne B est C: Ergo ad rI Aliquod A est B: Ergo I s Aliquod C est A. I
+Aliquod A est C. bA r Omne A est B bA r Omne A est B O k Aliq. C non est B:
+Ergo ad bA Omne C est A: Ergo O Aliquod C non est A. rA Omne C est B.
+
+. 8. REductionis ostensivae validitas sic ostenditur. Ex praemissis reducendi,
+per conversionem imperatam, necessario colliguntur praemissae reducti: atque ex
+iis, per figuram primam, conclusio reducti; quae vel ipsa conclusio reducendi
+erit, vel per illativam conversionem fiet.
+
+Reductionis per Impossible validitas sic ostenditur. Quoniam praemissae ex
+hypothesi sunt semper verae, Ergo Contradictoria praemissae nunquam vera: Ergo
+Contradictoria conclusionis nunquam vera: (Nam has simul veras esse
+demonstratur in Barbara) Ergo Contradictoria conclusionis semper falsa: Ergo
+Conclusio ipsa semper vera.
+
+Reducitur etiam quilibet modus innominis, facto quod praecipitur ad praemissas
+sui subalternantis. Tum vero conclusio quae colligetur in prima, erit vel
+expositae subalternans, vel in expositam per accidens convertetur.
+
+Reductiones cum primae ad reliquas, tum earum ad se invicem, been multas, quod
+and obviae sint, and instituto meo minus necessariae praetermitto. Illud tamen
+notatu dignum est, quod cum Darii ad Camestres, and Ferio ad Cesare reducatur
+per Impossible, Uterque igitur ad Celarent; omnisque adeo modus reducitur ad
+duos universales primae.
+
+. 9. PErspicuum est ex antedictis
+
+I. Syllogismos simplices, certo atque necessario concludentes, fieri 24 modis:
+6 in qualibet figura.
+
+II. ET in aliquo istorum modorum probari posse conclusionem quamlibet de
+inesse: nempe A uno modo, E quatuor, I septem, O duodecim. Et rursus; in prima,
+conclusionem quamcunque: In secunda, omnes and solas negativas: In tertia,
+omnes and solas particulares: In quarta quamlibet praeter A. De praemissis
+denique, quod in prima and secunda Major semper Universalis est; in prima and
+tertia, minor Affirmativa: In secunda, praemissarum altera Negativa: aliaque
+ejusmodi; quae ipsa Modorum nomina satis indicant.
+
+Atque hinc facile colligitur, inspecto Schemate Modorum, quali medio probanda
+sit Quaestio omnis de inesse. e. g. Quaestio A probatur in Barbara; medio, de
+quo praedicatum quaestionis universaliter affirmatur, quodque de subjecto
+quaestionis affirmatur itidem universaliter: and sic de caeteris.
+
+Adverte tamen quod imperite disputantis est afferre modum innominem; ponet
+enim in praemissis plusquam opus est ad conclusionem. Quare and innomines
+hactenus sunt incensi; quamvis negari nequeant, sicubi per inscitiam adhibentur.
+
+Adverte etiam quod figura quarta tribus caeteris deterior est; cum aliis de
+causis, tum ex hoc praesertim, quod medium dicat de majori, hunc de minori,
+minorem de medio, h. e. medium nugatorie de seipso.
+
+III. ET praeter hos 24 alium non esse. Nam ostensum est in Syllogismo tres
+tantum terminos, and tres tantum propositiones esse; atque hoc posito quatuor
+tantum figuras; and in qualibet figura modos tantum sex; qui etiam numerus
+perfectus est.
+
+Falluntur igitur, qui transpositis Syllogismi praemissis, vel conversa
+conclusione, videntur sibi modum aliquem novum, vel figuram novam invenisse. Si
+quis hoc fecerit, ad definitiones extremorum, medii, Propositionum, Figurae,
+Modi, provocetur.
+
+IV. INtelligendum tamen est Syllogismos non ita semper exigi ad rigorem
+Canonis, ut qualiscunque deflexio ab ea praecise formula quae in Schemate supra
+constituta est Syllogismum faciat illegitimum. Neque enim obsunt Syllogismo
+
+1. Propositiones secundi adjacentis, sive quarum praedicata copulae adjacent,
+i. e. in unam cum illa vocem coalescunt. e. g. Vivens spirat: Vivis; ergo
+Spiras. Nam ejusmodi propositiones in terminos suos facile resolvuntur.
+
+2. Neque Propositiones singulares. Nam ostensum est eas aequeposse
+Universalibus, e. g. Praeceptor Epamonidae est Musicus: Socrates non est
+Musicus; Ergo Socrates non est praeceptor Epamonidae, est Syllogismus in
+Camestres. Periander est Dives: Periander est Sapiens; Ergo Aliquis sapiens est
+dives, est Syllogismus in Darapti. Et tales quidem Syllogismi fiunt potissimum
+in tertia; quia singularium est maxim subjici: Vocantur autem Expositorii;
+quia videntur rem magis exponere, nempe objicere sensui, cujus objecta sunt
+singularia, quemadmodum Universalia intellectus.
+
+3. Neque Propositiones indefinitae. Nam ostensum est earum materiam esse pro
+signo; e. g. Rationale est risibile: Homo est rationalis; Ergo Homo est
+risibilis, est Syllogismus in Barbara.
+
+V. SYllogismis etiam adnumerantur aliae Argumentorum species; quae nec stricte
+loquendo Syllogismi sunt, nec ita tamen peccant ut propterea mereantur excludi:
+In quibus scilicet reticetur Argumenti pars aliqua, sed quam proclive est
+cogitatione substituere.
+
+1. Enthymema; cujus Antecedens constat propositione and judicio; nam judicium
+est propositio in mente; e. g. Homo est animal; Ergo est vivens. Dicitur etiam
+Aristoteli Syllogismus Oratorius; and si integra ejus vis contineatur in unica
+propositione, sententia Enthymematica; utrumque Quintiliano sententia cum
+ratione, ut Mortalis cum sis immortale ne geras odium. Deest illi ad
+Syllogismum altera praemissarum; utrum vero major an minor, ex Quaestione
+dignoscitur.
+
+2. Inductio; in qua ponitur quantum opus est de singulis, and deinde assumitur
+de universis; ut Hic, and ille and iste magnes trahit ferrum; Ergo omnis. Est
+igitur Enthymema quoddam; nempe Syllogismus in Barbara, cujus minor reticetur.
+
+3. Exemplum; (Aristoteli Inductio Oratoria) ubi quod ponitur de singulari
+noto, assumitur de simili ignoto: ut Sylla and Marius laceravere Rempublicam;
+Ergo Caesar and Pompeius lacerabunt. Hujus etiam minor reticetur: quapropter
+(ut in caeteris) quaestionem assumi dico; neque enim colligitur nisi ex posito
+and subintellecto.
+
+4. Sorites; in cujus Antecedente, ex ordinata serie terminorum, praecedens
+quisque subjicitur sequenti, donec a subjecto quaestionis pervenitur ad
+praedicatum, v. g. Homo est animal: animal est vivens: vivens est substantia;
+Ergo Homo est substantia. In Sorite igitur subaudiuntur Syllogismi quot sunt in
+Antecedente propositiones; unde and a cumulo nomen habet.
+
+5. Soriti affinis est Syllogismus, cujus praemissarum altera est sententia
+Enthymematica, ut Nullus injustus est amandus: Omnis Tyrannus (crudelis cum
+sit) est injustus; Ergo Nullus Tyrannus est amandus. Qui quidem Syllogismus
+peculiare nomen non habet; Praemissae autem Enthymematicae Antecedens,
+Aristoteli Prosyllogismus est.
+
+6. Huc denique revocandum est compendium illud disputandi opponentibus
+usitatissimum, reticendi scilicet conclusionem; cum sit ipsa Quaestio, quam
+Respondens non supponitur ignorare.
+
+VI. ADmittuntur denique in Scholis etiam Syllogismorum formulae quia contra
+regulas voce tantum non sensu peccant, and mutata phrasi ad Canonicas facile
+revocantur. Suntque nihil aliud quam Licentiae quaedam Syllogisticae, and in
+accurata disputatione non videntur admittendae.
+
+1. Quando pro termino repetendo substituitur vox illi aequipollens. Ut in hoc,
+Ens Natural constans corpore organico and anima rationali est homo: Socrates
+est ejusmodi; Ergo est homo; and similibus. Potest enim Sophista abuti ista
+liberate vel ad nugandum vel ad fallendum.
+
+2. Quando fiunt Syllogismi ex obliquis. Qualis est, Omnis hominis equus
+currit: Socrates est homo; Ergo Socratis equus currit. Pro minori rectius
+dixeris Socratis equus est hominis equus, alias consequentia licet bona non
+erit immediata. Atque illo insuper laborat disputatio omnis ex obliquis quod
+praeter necessitatem aperit locum fallaciae.
+
+3. Quando Propositio aliqua intelligitur contra quam sonat, e. g. Quod non
+habet parts non interit per dissolutionem partium: Anima humana non habet
+parts; Ergo anima humana non interit per dissolutionem partium. Nam major
+sonat negative, intelligitur vero affirmate: puta, Quod interit etc. habet
+parts. Vel etiam singulae propositiones intelliguntur affirmate, ac si esset
+Syllogismus, Omne expers est incorruptibile: Anima humana est expers: Ergo
+anima humana est incorruptibilis.
+
+Eodem accenseri possunt Syllogismi quales Author Artis cogitandi vocat
+Complexos, in quibus etiam dijudicandis jactat se satis imperite. v.g. p. 164.
+laudat hunc Syllogismum, Lex divina jubet Reges honorari: Ludovicus 14 est Rex;
+Ergo Lex divina jubet Ludovicum 14 honorari. Ubi valet certe Argumentum;
+Syllogismus tamen est falsissimus, cum habeat quinque terminos. Nam ex
+conclusione patet quod major terminus est jubet Ludovicum 14 honorari, and
+minor Lex divina: Ergo minor Propositio Lex divina jubet Reges honorari: Ergo
+Medius terminus jubet Reges honorari: Ergo Major Propositio debuit esse, Quod
+jubet Reges honorari, jubet Ludovicum 14 honorari; and tum valeret Syllogismus;
+nec redundarent duo termini qui in secunda propositione jam redundant.
+
+P. 166. Syllogismum hunc improbat, Debemus credere Scripturae: Traditio non
+est Scriptura: Ergo non debemus credere Traditioni; quia eum scil. imperite
+reducit ad primam, cum tamen Syllogismus apertissime hoc dicat in secunda,
+Objectum fidei divinae est Scriptura: Traditio non est Scriptura: Ergo Traditio
+non est Objectum fidei divinae.
+
+Ibidem imperite autumat Syllogismum sequentem, in qua omnes propositiones
+videntur affirmativae, esse in secunda; salvari vero, quia minor sensu
+exclusiva, negativam in se contineat. Quod si ipsos Syllogismi terminos rite
+dignoscere potuisset, vidisset sane Syllogismum esse in Barbara transpositis
+praemissis, v. g. Bonus pastor est paratus animam ponere pro ovibus: Pauci hoc
+saeculo sunt parati etc. Ergo Pauci hoc saeculo sunt Boni Pastores. Hujus
+conclusio perspicue dicit (non de paucis quod sunt boni pastores sed) de Bonis
+Pastoribus quod sunt hoc saeculo pauci. Quare Major terminus est hoc saeculo
+pauci and Minor Boni Pastores. Ergo Minor Propositio, Boni Pastores sunt parati
+etc. and Medius terminus, parati animam ponere pro ovibus. Syllogismus vero hic
+est, Qui parati sunt animam ponere pro ovibus sunt hoc saeculo pauci: Qui sunt
+Boni Pastores sunt parati animam ponere pro ovibus: Ergo qui sunt boni pastores
+sunt hoc saeculo pauci.
+
+LIB. I. CAP. IV. De Propositionibus and Syllogismis Hypotheticis.
+. 1. QUamvis ad been disputandum abunde sufficiant quae sunt hactenus ostensa,
+cum nulla sit Quaestio quae nequeat Syllogismis Categoricis, iisque puris
+probari; tamen ex aliis quoque Propositionibus fieri possunt Argumenta; quae
+interdum brevitatis, alibi fallendi studio, plerumque vero prae inopia
+sermonis, vel ignorantia artis adhibentur. Quare de iis pauca libet attexere;
+non ut addiscant Studiosi, quae omnino fugienda censemus; sed ut ea consuescant
+ad legitimam artis formam revocare; quo facilius and ab aliis oblata
+dijudicent, and ipsi evitent.
+
+Praeter puras quas diximus Categoricas, sunt and aliae apud Scholasticos,
+Modales puta and Exponibiles; quarum doctrina subtilis, and vacuis fortasse
+auribus non injucunda, ad institutum nostrum nihil facit. Porro Modalium usus
+in Syllogismo pene obsolevit: de quibus tamen diligenter Aristoteles; nam
+necesse erat cum ejusmodi disputationes obtinerent. Possunt hujus generis
+Syllogismi si usus postulet, interpretatione facile explorari; idque faciet
+quisque in arena.
+
+V. g. Valet hic Syllogismus. Necesse est omne animal esse substantiam: Omnis
+homo est animal; Ergo Necesse est omnem hominem esse substantiam. Huic enim
+aequipollet. Omne animal est necessario-substantia: Omnis homo est animal; Ergo
+Omnis homo est necessario-substantia.
+
+Valet and hic. Necesse est omnem hominem esse rationalem: Necesse est aliquod
+bipes non esse rationale; Ergo Necesse est aliquod bipes non esse hominem. Huic
+enim aequipollet, Omne necessario-irrationale, est necessario-non-homo: Aliquod
+bipes est necessario-irrationale; Ergo Aliquod bipes est necessario-non-homo.
+Hanc autem methodum interpretandi majorem esse hoc in casu eligendam, ex
+interpretatione Quaestionis statim agnoscitur.
+
+Hic autem fallit, Omne animal est substantia: Necesse est omnem hominem esse
+animal; Ergo Necesse est omnem hominem esse substantiam. Huic enim aequipollet,
+Omne animal est substantia: Omnis homo est necessario-animal; Ergo Omnis homo
+est necessario-substantia: in quo quatuor termini prima front comparent.
+
+Eadem fere methodo Syllogismus quivis ex Modalibus in aequipollentem
+Categoricum purum converti potest. Verum hujusmodi Syllogismi, Aristotelis aevo
+usitatissimi, hodie perraro adhibentur.
+
+2. COntra, invaluit Hypotheticorum usus; quos tamen Aristoteles ita aspernatus
+est, ut de iis nullum verbum faceret. Est autem Syllogismus Hypotheticus, in
+quo una, duae, vel tres Propositiones Hypotheticae. v. g. Si sapit, est beatus:
+Sapit; Ergo est beatus. Vel Qui sapit est beatus: Si est Philosophus, sapit;
+Ergo Si est Philosophus, est beatus. Vel Si sapit, est beatus: Si est
+Philosophus, sapit; Ergo Si est Philosophus, est beatus. Nos de eo tantum loqui
+instituimus qui est caeteris usitatior, in quo nempe Major Hypothetica.
+
+Propositio Hypothetica late sumpta definitur, Plures Categoricae per
+Conjunctionem aliquam unitae: and Conjunctio vocatur Copula; estque
+Conditionalis, Disjunctiva, Causalis etc. ut apud Grammaticos; unde totidem
+Hypotheticarum species, suis Copulis cognomines. Sed ad Syllogismum non
+faciunt, praeter Conditionalem, and Disjunctivam; quarum exempla, Si sapit est
+beatus. Vel dies est vel nox.
+
+Conditionalis habet vim illativam. Unde Conditio ipsa, sive pars prior, quae
+est instar inferentis, Antecedens dici solet; Assertio, sive pars posterior,
+quae rationem habet illatae, Consequens; partiumque inter se connexio,
+Consequentia.
+
+Conditionalis cujusque sententia est, quod Data Condition, datur Assertio;
+quod bifariam explicari potest. 1. Si detur Conditio, danda est Assertio; unde
+Regula prima: Posita Antecedente, recte ponitur Consequens. 2. Si daretur
+Conditio, danda esset Assertio; unde Regula secunda: Sublata consequente, recte
+tollitur Antecedens.
+
+Porro hoc unum statuit, Antecedente vera, veram esse Consequentem; non autem
+ambas esse simul veras, aut simul falsas, aut una vera, falsam alteram: per
+illam igitur, Sublata Antecedente, poni vel tolli potest Consequens; aut Posita
+Consequente, poni vel tolli Antecedens. Unde Regula tertia: Sublata
+Antecedente, vel Posita Consequente, nihil certo colligitur.
+
+Conditionalis igitur Syllogismi duae sunt, nec plures formulae.
+
+I. quae vocatur Constructiva.
+Si C. D. tum K. D. Sed C. D. Ergo K. D.
+II. quae dicitur Destructiva.
+Si C.D. tum K. D. Sed non K.D. Ergo non C.D.
+
+
+. 3. HAec non ignoravit Aristoteles; sed re penitius excussa, vidit omnem
+Syllogismum Conditionalem vel aequipollere Categorico, vel prorsus esse
+repudiandum. Quippe dato quocunque Conditionali, qui legitimo uteretur
+Argumento, dari aliquem Categoricum, in quo idem Argumentum eandem vim
+obtineret, ad eandem Conclusionem inferendam.
+
+Nam in hujusmodi disputatione, proposito Syllogismo cujus Major constat duabus
+Categoricis, statuitur vel harum altera, vel quae alteram evertit, ut inferatur
+vel reliqua, vel quae reliquam evertat. Quicquid horum fiet, proponetur
+Enthymema, cujus vis in Hypothesi fundatur; quodque propterea non valebit,
+nisi, elici possit ex Hypothesi Completoria, Praemissa nempe altera quae
+Enthymemati ad Syllogismum deest.
+
+Jam cum Enthymema legitimum sit nihil aliud quam proemissa altera cum
+conclusione alicujus Syllogismi, erunt in eo tres, nec plures termini; duo D
+and D diversi, tertius C communis: desideratur vero praemissa reliqua cujus
+termini sunt D and D. Atque hinc fit, ut pro varia terminorum dispositione
+quatuor sint formulae Enthymematis; quarum unaquaeque duplicem recipit
+Completoriam; ut in Schemate Enthymema. complet D. D. D. D. C. D. Ergo C. D
+Major in figura I. in II. D. C. III. IV. C.D. Ergo D. C. Minor in figura IV.
+II. D.C. III. I.
+
+Quando igitur Syllogismi Categorici modi possibiles sunt 24; tolerabiles,
+tantum 19; probabiles, tantum 14: cumque ad complendum Enthymema, quaelibet
+Figura bis adhibeatur: erunt complendi Enthymematis modi possibiles 48;
+tolerabiles 38; probabiles tantum 28; qui etiam numerus perfectus est. Quot
+autem modis compleri poterit Enthymema, totidem and non pluribus legitime
+disputari potest, adhibito Syllogismo cujus Major est Conditionalis.
+
+Nam si Enthymema vel duos tantum, vel quatuor habeat terminos, nisi (quod
+interdum accidit) ad tres possint revocari, prorsus explodi debet; etiam si
+vera sit Antecedens, and ab ea Consequens dependeat. Ut in his; Omnis homo est
+animal: Ergo Aliquod animal est homo. Zeno non fallitur: Ergo Aliquis suitor est
+Rex. Argumentum utrobique bonum; Enthymema vitiosum est. Neque enim in
+hujusmodi casibus Consequens ex Antecedente sequitur, sed ex Antecedente cum
+alio, vel pluribus aliis. Quare posita Antecedente, non continuo inferenda est
+Consequens; sed adjunctis caeteris quae perficiunt argumentum, per plures
+Syllogismos recto ordine deducenda.
+
+. 4. QUae de Conditionali dicta sunt, Disjunctivae satis cavent. Ejus enim in
+Syllogismo positae sententia conditionaliter efferri semper potest.
+
+v. g. Si posita Vel C vel D. Subsumatur Pro exposita Disjunctiva Dic
+conditionaliter Sed C Ergo non D Si C tum non D D non C D non C non C Ergo D
+non C tum D non D C non D C.
+
+. 5. SUperest Syllogismus quidam Hypotheticus redundans, alio nomine Dilemma
+quia plerumque duo (etsi interdum plura) proponit adversario capienda; quorum
+utrumvis acceperit, causa cadet. Tale est illud Biantis, Si uxorem ducat
+formosam, habebis (...) communem; si deformem, (...) poenam: Ergo Nulla est
+ducenda.
+
+Hoc non valet, nisi ita comparetur, ut partem alteram accipi sit necesse;
+utraque autem feriat; nec possit retorqueri. Quae si vidisset Bias, suo sibi
+Dilemmate minus placuisset; neque enim vel formosa uxor vel deformis necessario
+futura est; sed est media quaedam pulchritudo, quam Ennius statam appellavit;
+Favorinus eleganter uxoriam. Porro nec formosa omnis est comm^nis, nec
+deformis, poena. Denique Dilemma facile retorque^i potest. Puta Si formosam
+duxero, non habebo poenam; si deformem, non habebo communem.
+
+Dilemma nihil aliud est quam Inductio Negativa; in qua Syllogismi Major,
+Conditionalis est cum consequente distributiva: puta, Si omnino, tum sic, vel
+sic, vel sic; quam efferre Categorice adeo est proclive ut non indigeat
+praecepto.
+
+ARTIS LOGICAE COMPENDIUM.
+LIB. II. CAP. I. De Syllogismo quoad Materiam.
+. 1. HAEC de Syllogismo quoad Formam spectato. Jam de eodem quoad Materiam, h.
+e. Certitudinem and Evidentiam propositionum ex quibus componitur.
+
+Certa autem Propositio est cui nihil occurrit in contrarium, vel quod occurrit
+instar nihili est; ut Omnis homo est risibilis: Evidens, quae simul ac
+percipitur assensum impetrat; ut Totum est majus sua part: Dubia in qua
+haeremus, cum illius pars utraque valde se probet Intellectui; ut Astra regunt
+homines; nam and regere and non regere videntur.
+
+Dubitanti siquid aliud occurrat, quo pendens animus in alterutram partem
+propendeat, quod erat Dubium fit Probabile. Et potest quod probatur Verum esse,
+sed probanti tantum Verisimile est. Multis nihilominus assentimur isto modo,
+and assensui nomen est Opinio.
+
+Est igitur Opinio propositionis tantum probabilis; eique nulla competit
+certitudo; sed in ipsa sui ratione includit formidinem oppositi. Sunt Opinioni
+tamen Gradus quidam ad certitudinem, pro diverso pondere rationum qui assensum
+movent, diversi. Est quod omnibus, quod plerisque, quod Sapientibus videtur;
+and quod horum singulis, quod plerisque, quod celeberrimis: quorum omnium
+dispar est probabilitas; quorundam vero tanta, ut ad Certitudinem quam proxime
+accedat.
+
+. 2. CErtitudo eadem videtur quae improprie vulgo dicitur Evidentia Moralis;
+quaeque iis convenit Effatis de quibus nemo Prudens dubitaverit: qualia
+praesertim sunt Principia ad vitam moresque pertinentia, cum Conclusionibus
+quae ab his legitime deducuntur. Nam hujusmodi Propositiones videntur esse
+plusquam Probabiles, nondum tamen Evidentes: neque enim eas quisque amplectitur
+quamprimum apprehendit; sed iis Prudens sine ulla formidine assentitur.
+
+Certitudo duple^^st; alia Objecti quae est rei percipiendae; alia Subjecti,
+q^ae est Intellectus percipientis. Et utrique sui sunt gradus. Est enim Certius
+certitudine Objecti id cui minus obest; certitudine Subjecti, cui quod obsit
+minus percipitur. Evidentia similiter duplex est; Objecti nempe, and Subjecti;
+and utrique sui sunt gradus. Dispar enim Evidentia est, prout id quod
+percipitur vel est sponte perspicuum; vel a sponte perspicuo propius abest; vel
+utrumvis horum videtur.
+
+Atque hinc rursus Evidentia multifariam dividitur. Sed nostro sufficit
+instituto, quod haec de qua loquimur Propositionis Evidentia vel est 1.
+Axiomatis sponte perspicui; cui proinde sine ulla Probatione assentimur: vel 2.
+Conclusionis ab ejusmodi Axiomatibus ( immediate an mediate parum refert, modo)
+rite deductae. Nam cum una sit Veritas, sibi constans, apteque cohaerens;
+quodque Verum, vel per se certum atque evidens sit, vel cum Effatis qulbusdam
+certis and evidentibus necessario connexum; fit ut quamprimum apprehenditur
+haec Connexio, eadem omnia quasi luce perfusa parem (specie) consequantur
+assensum.
+
+Qui postremae huic Evidentiae competit Assensus apud Logicos vocatur Scientia.
+Est igitur Scientia conclusionis certae and evidentis, a praemissis certis and
+evidentibus legitime deductae. Certitudinem vero utramque intelligo; and
+utramque (tam Objecti scilicet quam Subjecti) Evidentiam. Nam per Objecti
+certitudinem Scientia distinguitur ab Errore; per Subjecti certitudinem ab
+Opinione. Si desit Evidentia Subjecti, nulla est Scientia; ubi sola adest,
+persuasa tantum non realis Evidentia est.
+
+. 3. DAri autem Certitudinem, immo and Scientiam, non est operose probandum,
+quando sentiunt omnes, and fatentur cordati, multa sibi constare; diversa
+quidem certitudine, and dispari Evidentia, sed utcunque satis explorata. Nam
+perito homini and probo libenter assentimur; libentius, si quod asserit ratione
+confirmet: Quaedam neque test indigent, neque ratione, quae Natura duce
+amplectimur; quaedam etiam accepimus divinitus revelata. Est igitur ubi nos
+Autoritas divina, ubi insita Naturae vis, ubi Rationum pondus, ubi Hominum
+reverentia commoveat, ut quod harum rerum aliqua confirmat, in eo animus
+tanquam vero libenter acquiescat: etsi non eadem in omnibus propensione, sed in
+iis promptius and libentius quae ab omni Erroris periculo remota longius
+arbitratur.
+
+Ubi nos commovet Autoritas, Testimonio assentimur; idemque est quod vocamus
+Credere; and assensui nomen Fides est. Appellatur autem Fides divina quae
+divino nititur testimonio; Humana quae humano. Quae Natura duce amplectimur ea
+nos Percipere, quae docet Ratio Cognoscere, (quando carent nominibus propriis)
+non incommode dicemus.
+
+Deus nec errare potest, nec decipere; at saepissime falluntur homines, and
+saepe fallunt: media quadam fide nobiscum agunt Ratio and Natura, quae si ipsae
+fallantur interdum, tamen se sequentem rarius in errorem ducunt. Fide igitur
+divina nihil est stabilius; nihil tam lubricum quam humana; nam in illa nulla
+est Erroris possibilita^; in hac, magna semper suspicio: in caeteris quae
+percipimus, quaeque cognoscimus, saepe nullus erroris metus, sed aliquod semper
+est periculum: unde Animus in Fide divina summum obtinet quietis gradum; in
+humana infimum; in caeteris medios, proque Objecti Evidentia, Certitudine,
+Probabilitate diversos.
+
+Quod silibuerit quandam quasi Assensus Scalam construere, erunt in ea Gradus
+sex hoc ordine numerandi. 1. Fides humana, quae est agnitio Propositionis
+dubiae: 2. Opinio, quae Probabilis: 3. Caret nomine, sed vocari potest
+Sententia, quae est Propositionis certae: 4. Scientia, quae est Conclusionis
+certae and evidentis: 5. Intelligentia, quae est Principii indemonstrabilis: 6.
+Fides divina, quae est Propositionis infallibilis.
+
+. 4. CUilibet Assensus gradui sunt Effata quaedam congruentia, quae and illi
+pariendo sunt idonea. De iis breviter dicemus, sumpto inde initio ubi maxima
+habetur Certitudo.
+
+1. FIDEI DIVINAE Principia sunt ea omnia, and sola, quae Divinitus accepimus,
+Sacris Literis consignata; ut Deum esse tres Personas, unum Deum; Jesum
+Christum esse Messiam; etc.
+
+2. 3. INTELLIGENTIAE quae proprie vocantur Axiomata; SCIENTIAE, quae sunt
+(...); and quicquid aliud ex Praemissis certis and evidentibus legitime deduci
+potest.
+
+Est autem Axioma proprie dictum, Propositio quae cum negari nequeat, probari
+neque indiget, neque potest. Quippe cujus est tanta Certitudo, tam illustris
+Evidentia, ut Terminis suis rite intellectis, Assensum quasi extorqueat; nec
+est aliquid illa clarius, per quod demonstretur.
+
+(...) est Propositio quae probari non indiget, sed tamen potest. Hujus enim
+posterior Evidentia, quia Discursiva est, Axiomatis vero Intuitiva. Quapropter
+Axioma est natura sua evidentius; etsi fuerit (ut interdum accidit) quoad Nos
+intellectu difficilius.
+
+Sunt qui unicum esse volunt Axioma, idque Metaphysicum; de quo non libet
+disputare. Plura autem si sint, in iis esse existimem quae sequuntur.
+
+1. E Theologia Naturali. I. Deus nec errare potest, nec decipere. Unde manant
+duo quae sequuntur (...). II. Testimonio Divino (rite agnito, riteque
+intellecto) absoluta Fides adhibenda est. III. Quod divinitus revelatur neque
+Rationi unquam, neque sensui contradicit. Est ubi utrumque superet; sed neutri
+uspiam contradicit, circa proprium Objectum munus suum rite obeunti.
+
+2. E Mathesi. I. Totum est majus partibus suis singulis; aequale universis.
+II. Superficies quae superimpositae sibi mutuo congruunt sunt aequales. Cum
+nonnullis aliis. Sed pro Axiomatibus ea saepe statuunt Mathematici quae stricte
+loquendo sunt tantum (...).
+
+3. E Metaphysica. I. Impossible est idem simul esse and non esse: quod est
+nobile illud Axioma proprie dictum; quippe certum, evidens, and
+indemonstrabile, a quo manant haec sequentia. II. Quodlibet est vel non est:
+quod videtur priori simplicius, sed non est prius; potest enim ex eo
+demonstrari. III. Ex duobus hisce sequitur, quod Affirmatio and Negatio de
+eodem, secundum idem, nequeunt esse simul verae. Vel, ut Logici loquuntur, Duae
+Contradictoriae nec simul verae, nec simul falsae esse possunt. "Sed notandum
+est ad Contradictionem requiri quatuor: nempe loqui de eodem 1. eodem modo. 2.
+secundum idem. 3. ad idem. 4. in eodem tempore: quarum conditionum si defuerit
+aliqua, possunt Est and Non est inter se been convenire. E. g. 1. Cadaver
+hominis est and non est homo: Est enim homo mortuus; Non est homo vivus. 2.
+Zoilus est and non est niger: Est enim Crine ruber, niger ore. 3. Socrates est
+and non est comatus: nempe est ad Scipionem non est ad Xenophontem comparatus.
+4. Nestor est and non est senex: Est enim, si de tertia ejus aetate, non est si
+de prima loqueris. IV. Sequitur ex primo quod Quicquid est, quando est, necesse
+est esse: quia maxima est Ejus necessitas cujus Oppositum est impossible.
+
+4. E Logica. I. Quod praedicatur Universaliter de alio etc. quod est Dictum de
+Omni and Nullo; de quo vide supra p. 20. II. Quod in aliis quoque Scientiis
+locum habet, viz. Quae convenient in aliquo tertio, convenient inter se: vide
+p. 14. Quibus addi possunt caetera, ex quibus Syllogismi structura ibidem
+deducitur.
+
+. 5. 4. CAEteris Artibus and Scientiis nulla esse Axiomata plerique autumant.
+Quod si ita sit, non videtur ipsi Rerum Naturae, sed nostrae potius inertiae
+tribuendum. Nam cum ipsius Physicae tot parts sint adeo luculenter
+demonstratae, quid esse causae putemus cur in caeteris idem non potuerit
+praestari, modo eadem omnes solertia fuissent excultae? Nec videtur Moralis
+Philosophia Mathematicam Demonstrandi methodum refugere, etsi nondum sit
+adepta: sed utiliter hac in re sibi defuit humana Ratio, quando recte vivendi
+Principia cum majori Certitudine pariter and Autoritate Divinitus essent
+revelanda.
+
+Sed in iis Disciplinis quas Philosophi negant Demonstrare, magnam tamen
+Certitudinem reperiri posse confitentur: and reperta esse Effata apud sanos
+omnes Axiomatum instar indubia, quibus si non Scientia, saltem quae ad illam
+proxime accedit, quamque SENTENTIAM ante diximus pariatur. Ad hanc itaque
+Classem revocanda sunt, quae ex communi lege Naturae, recte rem reputantibus,
+certa sunt and perspicua: ut Ex Nihilo Nihil fieri; In Nihilum Nil posse
+revocari; Nihil aut fieri sine causa, aut suiipsius causam esse; aliaque plura
+hujus generis, de quibus posse dubitare non mediocris est insaniae. Porro Deum
+esse, and Parents coli oportere, nulla est gens tam barbara quae non agnoscat:
+Quodque fieri Tibi nolis, id ne alteri facias, ipsi etiam infantes sine ulla
+Disciplina prohibent.
+
+Fuere (inquies) qui de hisce omnibus dubitaverint: At fuere etiam (sic enim
+accepimus) qui de Principiis quoque Mathematicis dubitarent. Potest contra
+disputari: Sed, quae est illa tam indubia Propositio, cui Sophista nequeat
+contradicere? Si instes, Posse haec omnia Ratione concludi, Posse quidem
+confitendum est; sed cur indigeant, non apparet: aut cur habendus sit rectae
+Rationis compos, si quis ea sibi neget constare, quae sunt Infantibus
+Barbarisque manifesta. Sed de his alias: Nunc, id quod largiuntur accepimus,
+and hujusmodi Principia in quarto gradu collocamus.
+
+. 6. 5. OPINIONI pariendae quae inserviunt Effata appellantur Maximae: nam
+plerumque obtinent, and plerisque probantur: verum nec omnibus, nec ubique;
+sunt enim plerisque suae quae vocantur Fallentiae.
+
+Inter haec Effata quaedam numerari solent quae sunt aeternae veritatis. V. g.
+Posito Subjecto, ponitur Accidens proprium; and contra: Item Posito
+Contradictoriorum uno, tollitur reliquum; and sublato, ponitur; aliaque. Sed ad
+hanc Classem ea sola proprie pertinere videntur, quae locum quasi medium
+obtinent inter Certa and Dubia: cujusmodi est quaelibet Propositio quae non
+nititur Testimonio, cujusque veritas ad partem alteram inclinat, sed nondum est
+explorata. Sicubi autem Disputando perfectum est ut propositae Quaestionis pars
+altera retineri debeat, tum, Quaestio sic determinata, non in Probabilibus
+subsistere, sed ad Gradum aliquem altiorem promoveri debet.
+
+6. FIDEI HUMANAE lubricitas ex hoc nascitur, quod Idoneum Testem oporteat quid
+dicat scire, quidque sciat dicere, and utrumque Credenti constare: quae ab
+homine, si hominem cogites, non est cur expectes. Rerum alia est ratio; de
+quibus judicantes si fallamur, nostra culpa est: Bona fide semper agit Natura.
+Quamobrem necesse est si rem ipsam spectemus, cuivis potius quam homini
+confidere; quaeque ab homine accipimus pro infirmissimis habere; etiam cum
+acciderit (ut saepe solet) nihil nobis occurrere cur de Testimonio dubitemus
+magis quam de Demonstratione Mathematica.
+
+. 7. PRo diversis gradibus Assensus, poterat Syllogismus quoad Materiam
+spectatus quinquefariam dividi. Esset enim Infallibilis, Scientificus, Certus,
+Probabilis, Dubious. At cum duo priores Assensum certum and evidentem (h. e.
+Scientiam) pariant; cumque nulla sit tanta Certitudo quae (Scientia minor)
+oppositi formidinem aliquam non relinquat; ea omnis Opinionis ambitu concludi,
+adeoque distingui solet Syllogismus quoad materiam in duas species.
+
+1. Qui Scientiam parit appellatur Scientificus; alio nomine (...)
+Demonstrativus, and interdum Demonstratio. Conclusiones enim certas and
+evidentes apud Mathematicos reperiri multas in confesso est: cumque Illi quae
+docent soleant adjuncto Diagrammate ostendere; seque propterea non rem probare,
+sed (quod majorem innuit Evidentiam) demonstrare dicant; arcessito igitur ab
+Illis vocabulo, Syllogismus scire faciens apud Logicos vocatur Demonstratio.
+Cumque in Scientia (siqua forte possibilitas, tamen) nullus sit Erroris metus;
+quod hujusmodi Syllogismis, sive uno, sive pluribus probatur, id libenter
+agnoscimus sicut perhibetur ita esse; and aliter (saltem naturaliter) se habere
+non posse.
+
+2. Qui Opinionem (h. e. Assensum quemlibet Scientia minorem) parit, appellatur
+Dialecticus, (...), i. e. probabiliter disserens: quaeque proprie dicitur
+Dialectica est pars Logicae quae de hoc agit Syllogismo. Multiplex autem est
+Materia circa quam versatur Opinio, and per omnes sparsa Disciplinas: cujus
+infinitam pene varietatem ad pauca capita revocavit Aristoteles, and sub iis
+Effata Dialectica suis quasi in sedibus locavit. Haec itaque Capita (...) i. e.
+Locos appellat; unde Syllogismus Dialecticus alio nomine Topicus dicitur.
+
+. 8. DE Locis hisce Dialecticis (quamvis omitti poterant) dicam quod sufficiat
+Compendio. Locorum Artificialium ad Logicam proprie pertinentium Classes septem
+sunt.
+
+I. CAUSA and CAUSATUM. Hujus Maximae. 1. Causa est prior (natura) suo Causato.
+Finalis, intention; Efficiens, Materialis, and Formalis, executione. 2. Posita
+Causa (proxima, per se, and totali) ponitur effectus; sublata tollitur. 3.
+Efficiens non dat quod non habet; vel Formaliter scil. vel Eminenter. 4. Qualis
+(essentialiter) Causa (univoca) talis Effectus.
+
+II. SUBJECTUM, i. e. cui aliquid attribuitur; and ACCIDENS sive Adjunctum h.
+e. ipsum Attributum. Hujus Maximae. 1. Subjectum denominatur ab Adjuncto. 2.
+Posito Subjecto, ponitur adjunctum (proprium and inseparabile) and contra.
+
+III. DISSENTANEA quae quovis modo differunt; and COMPARATA, quae ratione
+Quantitatis vel Qualitatis. Hujus Maximae. 1. Oppositorum eadem est ratio,
+respectu Scientiae, and Subjecti. 2. Majoris boni contrarium est majus malum;
+and contra. 3. Nullum simile est (essentialiter) idem.
+
+IV. CONJUGATA, i. e. Dictiones cognatae vocis and significationis; and
+NOTATIO. Hujus Maximae. 1. Cui convenit unum Conjugatorum convenit alterum.
+Fallit tamen quoties arguitur ab Action ad Habitum; vel a Potentia ad Actum.
+2. Si unum Conjugatorum de uno dicatur, alterum de altero dicitur. 3. Notatum
+and Notatio eidem convenient: nisi in Notationibus ineptis.
+
+V. TOTUM and PARS. Hujus Maximae. 1. Positis partibus ( simul sumptis and
+unitis) ponitur Totum. 2. Parts sunt propter Totum.
+
+VI. GENUS and SPECIES, seu potius Generale and Particulare. Hujus Maximae. 1.
+Sublato Genere, tollitur Species. 2. De quo praedicatur Species, de eodem and
+Genus.
+
+VII. DEFINITIO and DIVISIO. Hujus Maximae. 1. Quicquid definitur
+(essentialiter) est Species. 2. Cui convenit Definitio convenit Definitum. 3.
+Praestat Divisio bimembris ubi commode haberi potest.
+
+Argumentum Inartificiale unum est; nempe TESTIMONIUM. Hujus Maximae. 1. Divino
+Testimonio absoluta Fides adhibenda est. 2. Peritis credendum est in sua art;
+ubi nec peritiores, nec sensus contradicunt.
+
+Exemplum Syllogismi Topici. Inter Maximas Loci qui vocatur Testimonium
+reperitur haec; Peritis credendum est in sua art; ex qua elicitur hujusmodi
+Syllogismus Topicus. Quod (Pythagoras) Ipse dixit concedendum est. Migrare
+animas Ipse dixit: Ergo Migrare animas concedendum est. Probatur Major; quia
+Peritis credendum est in sua art.
+
+. 9. DUae sunt Demonstrationis species. Prima quae demonstrat (...), sive Quod
+res sit; probando, vel simpliciter and Direct rem ita esse, and tum vocatur
+Ostensiva, seu potius Directa; vel si non sit, absurdi aliquid necessario
+secuturum. Haec est quae Graece dicitur (...), Latin, ducevs ad absurdum,
+impossible, incommodum; uno verbo recte dixeris Obliquam. Exemplum ejus dat
+Reductio Syllogismi a Baroko vel Bokardo ad Barbara.
+
+Ostensiva Directa fit duobus modis. 1. Quando aliquid demonstratur per
+Effectum; ut si diceres, Luna Soli opposita nigra cernitur; Ergo patitur
+Eclipsin. 2. Quando per Causam remotam; ut si idem colligeres quia Sol and Luna
+diametraliter opponuntur. Quod si illud demonstrares per Causam proximam, quia
+nempe Terra inter Solemn and Lunam interponitur, tum fieret
+
+Secunda Demonstrationis species (...), i. e. quae docet Quare, vel Propter
+quid res sit; causam ejus assignando, non quamcunque, sed proximam seu
+immediatam. Sic enim statuunt Logici quod Scientia omnis est Cognitio rei per
+causam, sed proprie dicta per propriam h. e. proximam: nam per remotam Cur sit
+aliquatenus ostenditur; nihil amplius quam Quod sit demonstratur.
+
+Utriusque Speciei membra gradu differunt. Nam Obliqua (...) est deterior
+Directa, quia non demonstrat rem ita esse, nisi quatenus docet eam aliter se
+habere non posse; quod tametsi eodem redeat, tamen animo minus satisfacit; nam
+si par sit utrobique Certitudo, hujus tamen minor Evidentia est.
+
+Habet and (...) suos gradus; quia potest esse causa proxima quae non est prima
+h.e. per se nota and indemonstrabils: cujus ideo praefertur Evidentia, quia
+(contra quam caeterae) sua luce est conspicua, and nihil indiget aliena. Quare
+quae hanc adhibet causam Demonstratio, and habetur, and nominatur Potissima.
+
+Sunt igitur ex mente Logicorum Demonstrandi quatuor modi; quorum alter alteri
+evidentia, adeoque dignitate praestat. Valet Demonstratio Obliqua; Potens est
+quaelibet Directa; Potior quae per causam proximam, Potissima quae per primam
+demonstrat. Hujus est Vulgata illa Definitio, Syllogismus constans veris,
+primis, immediatis, notioribus, prioribus, and causis Conclusionis. Exemplum
+nisi forte apud Mathematicos, an uspiam occurrat nescio.
+
+. 9. ESt and alia Syllogismi species (seu imago potius) Fallacia, quae Errorem
+parit; quaeque proinde hoc in loco a plerisque tractatur. Sed ut aliis videtur
+minus recte: quia quae proprie dicitur Fallacia non tam Materia quam Forma
+peccat; idque innuit Aristotelis Definitio Qui videtur esse Syllogismus nec
+tamen est: Esset enim nisi Forma peccaret. Nihilominus in Fallaciis numerari
+solent quaedam quae Materia potius quam Forma peccant. Quare integra illarum
+doctrina cuilibet praecedentium Capitum se addici vetat; suumque sibi seorsim
+locum vendicat.
+
+LIB. II. CAP. II. De Fallaciis.
+. 1. HOnestum initio Sophistarum nomen tandem ad eos transiit, qui non
+indagandae veritatis studio, sed pompae, quaestus, victoriae, litis gratia
+disputarent. Hi in disputando id plerumque agebant, ut Respondens cogeretur vel
+1o. Seipsum redarguere; h. e. sibi contradicere, quod dedisset retractando; vel
+2o. Dare quod esset manifesto falsum; vel 3o. Dare aliquid Paradoxum, sive
+praeter communem sententiam; vel 4o. Facere Soloecismum; vel 5o. denique
+Nugari; h. e. aliquid dicere quod ad rem non faceret, vel si faceret, esset
+ante dictum. Unde quinque vocabantur Sophistarum metae; Redargutio, Falsum,
+Inopinabile sive Paradoxum, Soloecismus, Nugatio.
+
+Has ut attingerent, utebantur plerumque Syllogismis veros mentientibus; quibus
+incautum Respondentem capere, laudi ducebant; and si ad primam metam
+pervenissent, quae Graece dicitur Elenchus, id vero serio triumphabant. Hinc
+itaque factum ut Fallacia h. e. quilibet Syllogismus ad fallendum adhibitus,
+diceretur etiam Captiosus, Sophisticus, Sophisma item, and Elenchus.
+
+Magna horum Varietas ad tredecim species seu Classes potius ab Aristotele
+reducitur. Nam Fallacias numerat sex quae multiplicitate dictionis, septem,
+quae aliquo extra dictionem vitio laborant.
+
+. 2. Fallaciae dictionis sive in dictione sex.
+I.II. FAllacia aequivocationis, sive nata ex voce aequivoca: ut Canis est
+animal; Sirius est canis; Ergo, Sirius est animal. In hac sunt quatuor termini;
+quorum du^, vox Canis aequivoce sumpta.
+
+Fallacia Amphiboliae; sive nata ex sententia amphibola, h. e. ancipitis
+structurae; ut, Quod tangitur a Socrate illud sentit; Columna tangitur a
+Socrate; Ergo, Columna sentit. Vox sentit, non sponte sed in hac structura est
+ambigua, cujus vi in Majori significat Sentit Socrates, in Conclusione, Sentit
+Socratem: Quare Syllogismus habet quatuor terminos.
+
+Huc pertinet illud Chrysippi: Quod loqueris ex ore Tuo egreditur; Currum
+loqueris; Ergo, Currus ex ore Tuo egreditur.
+
+Illud quoque Menedemi Eretriensis quem (...) appellat Laertius: Diversum a
+Diverso Diversum est. Prodesse est a Bono Diversum: Prodesse igitur non est
+Bonum.
+
+Item hoc Enthymema, quod fefellit Virum satis alias perspicacem; Possum datae
+peripheriae trientem exhibere; Possum igitur datam peripheriam trisecare: cujus
+falsitatem ipsa Praxis redarguit; neque enim trientem exhibuit, sed minoris
+circuli peripheriam trienti parem: h. e. non trientem ipsum, sed trientis
+valorem: Paria fecisset qui oblatum sibi solidum trisecturus, ne attrectato
+quidem solido porrexisset drachmam.
+
+III.IV. Fallacia Compositionis, ubi datum in sensu diviso sumitur in
+composito; ut, Duo and Tria sunt Par and Impar; Quinque sunt duo and tria;
+Ergo, Quinque sunt Par and Impar. Fallacia Divisionis, quando datum in sensu
+composito sumitur in diviso; ut, Planetae sunt septem; Sol and Luna sunt
+Planetae; Ergo, Sol and Luna sunt septem. Utroque modo quatuor termini si
+aperte loquaris. V. g. Prioris Syllogismi men's est, Duo and Tria seorsim
+accepta sunt Par and Impar. Quinque sunt Duo and Tria in unum composita etc.
+Posterioris vero, Planetae collective sumpti sunt septem. Sol and Luna sunt
+Planetae distributive sumpti, etc. Unde duplex utrobique Medius.
+
+Hujus Exemplum est Syllogismus qui (...) METENS dicitur; qui tantopere placuit
+Zenoni Stoico, ut Sophistae a quo eum didicerat duplum pactae mercedis
+numeraret. Proponente Ammonio sic se habet: Si messurus es, non forrasse metes,
+fortasse non metes, sed metes omnino; Pariter, Si non messurus es, non fortasse
+metes, fortasse non metes, sed prorsus non metes. Atqui vel metere Te vel non
+metere necessarium est; Perit igitur Fortasse illud quod in neutra hypothesi
+locum habet. Fortunatum Sophistam! qui dupla mercede hunc fumum vendidit; Vel
+hoc vel illud evenire est necesse; Quare hoc and non illud necessario eventurum
+est. Nihil amplius dicit qui sic dixerit, Ut vel met as vel non metas est
+necesse; Ergo, vel necessario metes, vel necessario non metes. Breviter haec
+Fallacia Divisionis est; nam in Antecedente Modus Necessario non tribuitur nisi
+toti Disjunctivae; sed in Consequente dicitur de ejusdem membris seorsim
+acceptis.
+
+V. Fallacia Accentus seu Prosodiae potius, quando pro eodem sumuntur quae vel
+Litera, vel Spiritu, vel Tempore, vel Accentu sunt diversa: ut, Est servus;
+Ergo est cervus. Est ara; Ergo est hara. Est malum an apple; Ergo malum an
+evil. Venatur lepores; Ergo, and lepores; quibus falli qui potest, debet.
+
+VI. Fallacia Figurae dictionis quando propter dictiones similes, quod de uno
+datur, de altero artipitur: idque vel Grammatice, ut Musa est Foeminini
+generis, Ergo and Poeta: vel Logice ut Docere est agere, Ergo and Videre. Haec
+Materia potius quam Forma peccat, and operose solvi non postulat: ponit aliquid
+manifest falsum; quo negato evertitur.
+
+. 3. Fallaciae extra dictionem, septem.
+I. FAllacia Accidentis; quando accidentarium aliquod confunditur cum eo quod
+est essentiale seu principaliter intentum: ut, Quod emisti comedisti; Crudum
+emisti; Ergo, Crudum comedisti: in quo, Quod emisti, and Quale emisti
+confunduntur; unde quatuor termini.
+
+Ad hanc poterit (vel si mavis ad sequentem) revocari Syllogismus qui dicitur
+OBVELATUS, alio nomine ELECTRA. Nam colligere pertendit, quod and Patrem
+Filius, and Soror Fratrem (v. g. Electra Orestem) prorsus nesciat, si eundem
+velo obductum se nescire fateatur.
+
+Eodem revocari p^^^^int ACERVALIS and CALVUS quae sunt ejusdem Sophismatis duo
+tantum exempla. V. g. Si rogatus a Sophista gradatim neges te Calvum fore
+amisso crine uno, duobus, tribus, and sic deinceps ad 99, sed amissis centum
+concedas; vel eodem modo neges 99 grana Acervum esse, centum autem esse
+fatearis; concludet ille grano Unico adjecto Acervum fieri; crine unico amisso,
+Calvitiem. Facile autem respondetur Unum Centesimum non esse Unicum; nam est
+Unum cum 99. Vel si mavis sic. Fit Acervus grano uno, sed adjecto; adeoque non
+Unico, sed cum pluribus aliis. Fit Calvities crine uno sed post multos alios
+amisso.
+
+II. Fallacia a Dicto secundum Quid, ad Dictum Simpliciter; quando proceditur a
+voce determinate sumpta, ad eandem absolute positam: ut, Aethiops est albus
+dentes; Ergo albus: unde quatuor esse Terminos necesse est.
+
+In hanc incidit Fallaciam qui ACHILLES dicitur Zenonis Eleatae. Sit Achilles
+(inquit) quantum voles (...), puta decuplo velocior Testudine. Quiescente illo,
+confecerit Testudo partem aliquam (puta decimam) spatii percurrendi. Tum
+procedat Achilles, idemque spatium percurrat; progredietur interim Testudo per
+partem ejus decimam, h. e. totius spatii centesimam; hanc conficiat Achilles,
+and percurret interim Testudo hujus centesimae decimam; and sic deinceps in
+infinitum. Quo fiet ut Achilles nunquam assequatur Testudinem.
+
+Ineptum est hoc Sophisma. 1. Quia solvitur ambulando; quod fecit Diogenes. 2.
+Quoniam ex ipsa Hypothesi, dum Testudo quae praecessit spatio A, conficit 2/10
+A, Achilles conficiet 2A; adeoque statim assequetur eam, and antecedet. Sed hoc
+(inquies) in casu proposito nunquam fiet; Recte; Ne enim fiat, in ipso
+proponendi modo clam inseritur nova conditio. Nam 3. Argumentum aliis verbis
+hoc dicit; Si Achillem decuplo velociorem praecesserit Testudo, and uterque meo
+pergat arbitratu, Ego perficiam ne Achilles assequatur Testudinem; Quare
+prorsus nunquam assequetur.
+
+III. Fallacia Ignorationis Elenchi. Elenchus proprie Syllogismus est
+Adversarium redarguens; confirmando scilicet quod illius sententiae
+contradicat. Quare in hanc incidit Fallaciam qui se putat Adversarium
+redarguere, non servatis Contradicendi Legibus, (de quibus vide supra p. 33.)
+Qui in his peccat, docendus est se nescire quid sit Contradicere.
+
+IV. Fallacia a Non-causa pro Causa; sive sit a non-vera pro vera; sive a
+non-tali pro tali: ut, Cometa fulsit; Ergo Bellum erit; Nullo modo; nam si
+fuerit, aliis de causis futurum est. Quod inebriat prohibendum est. Vinum
+inebriat. Nequaquam vero, sed abusus Vini. Haec Fallacia been solvitur negando
+Causam falsam; melius, adducendo germanam.
+
+V. Fallacia Consequentis, quando infertur quod non sequitur; ut, Animal est;
+Ergo, Est homo. Hic memineris, quod si recte Ratione uti volumus, Consequentia
+aut Directa, Immediata, Formalis, aut plane nulla est: peccat enim contra
+aliquam Dialecticae regulam; ad quam si provoces, refelletur.
+
+In hac itaque Class non injuria repones Syllogismos aliquot Complexos, quos
+in Art Cogitandi leges. V. g. Page 163, 164, 173, 175 Exemp. 4: in quibus
+omnibus Cogitator ex duobus bonis unum fecit non bonum; substituendo pro
+praemissa altera propositionem quae illam probat. Horum unum ex quo de caeteris
+judicabis vide supra p. 24.
+
+Huc etiam referri poterit CROCODILUS, qui a Chrysippo inventus sic proponitur.
+Surripuerat infantem Crocodilus; redditurum se pollicitus, si divinet matter,
+utrum apud se reddere an non reddere constituerit. Si dicat matter Non reddere,
+mentietur si infantem receperit: Si dicat Reddere, non reddet quia hoc est
+falsum. Quamobrem Chrysippus nihil esse putat difficilius quam responsum matri
+suggerere. Non injuria, si lubricum putet divinare; sed immerito si in hoc (ut
+videtur) haereat, quod, si puerum Crocodilus non reddere constituerit, quamvis
+id matter divinaverit, non reddet; quia hoc facto Matter mentietur. Nam hoc non
+sequitur. Nam recepto puero, non mentitur illa, sed consilium mutat Crocodilus;
+quod sane potest facere, and ex pacto debet.
+
+VI. Fallacia Petitionis Principii, cum ut datum assumitur quod probatum
+oportuit. V. g. Cum probatur aliquid vel per seipsum (quae vocatur Petitio
+statim) ut, Homo est; Ergo, Est homo: vel per Synonymum; ut, Ensis est acutus,
+Ergo and Gladius: vel per aeque ignotum, ut Hic est pater Melchisedek, Ergo
+haec Matter: vel per ignotius; ut, Hoc Quadratum est hujus Trianguli duplum,
+quia huic Circulo aequale: vel per Circulum; resumendo scilicet quod relictum
+est; ut si diceres Ignis est calidus, Ergo urit; and post pauca, Ignis urit,
+Ergo est calidus.
+
+Hujus Classis est pervulgatum illud Veterum Sophisma Quod non amisisti habes,
+Cornua non amisisti, Ergo habes; nam supponit Te Cornua habuisse.
+
+Ineptissima haec Fallacia plus acuminis praefert juxta veterem Disputandi
+modum rogando proposita. Erit enim fortasse, qui rogatus, Quod non amiserit,
+utrum habeat necne? non intelligat se captum iri si simpliciter respondeat;
+sive habere se, sive non habere dicat. Nam eum adiget Sophista ut vel se habere
+Cornua, vel non habere Oculos fateatur.
+
+VII. Fallacia plurium interrogationum, quando plures quaestiones velut una
+proponuntur. V. g. Suntne Mel and Fell dulcia? Estne homo animal and lapis?
+Evertitur, ad singulas quaestiones distinct respondendo; sicut fecit Menedemus
+Eretriensis, qui rogante eum Alexino Numquid Patrem verberare desiisset? Nec
+verberavi inquit, nec desii.
+
+. 4. ATque hae sunt tredecim Sophismatum formulae Veteribus usitatiores, quae
+Tyronibus Logicis in exemplum proponi solent. Poterant esse pauciores; nam
+videntur aliquae coincidere; and praeterea tres, Non-causa pro causa, Petitio
+Principii, and Plures interrogationes, non sunt Fallaciae proprie dictae, h. e.
+Syllogismi Forma peccantes, sed Vitia male Opponentis.
+
+Poterant and plures, nisi hic numerus Aristoteli satisfecisset; unde caeteris
+post illum Logicis satisfecit. Breviter, Quot modis contra Syllogismi regulas
+supra constitutas peccatum fieri, and latere, totidem intendi poterit Fallacia:
+quam tamen facile deprehendet, qui ad Canonem norit exigere.
+
+V. g. Ex Dilemmatis legibus haec tria facile solvuntur.
+
+1. Diodori Croni, qui cum Stilponis Sophismata solvere non posset, exinde
+(...) appellatus est. Is ad hunc modum contra Motum disputabat: Mobile movetur
+vel in quo est loco, vel in quo non est; At Neutrum horum; Ergo non omnino.
+Unde facete illum lusit Herophilus, qui ut luxatum illi humerum restitueret
+rogatus, Tuus, inquit, humerus vel in quo erat loco existens excidit, vel in
+quo non erat; At Neutrum horum, Ergo, non omnino. Diodori argumento breviter
+and perspicue respondet Gassendus, Quod movetur, moveri a loco in quo erat, per
+locum in quo est, sive quem pertransit, ad locum in quo nondum est, sed futurum
+est. Neutram igitur Dilemmatis partem accipi est necesse.
+
+2. Sed nec hujus, quae IGNAVA RATIO (...) appellatur; quae si valeat nihil est
+omnino quod agamus in vita, inquit Cicero, qui eam sic proponit: Si Fatum est
+aegroto convalescere, sive medicum adhibuerit, sive non adhibuerit,
+convalescet: Pariter, Si Illi Fatum est non convalescere, sive medicum
+adhibuerit, sive non adhibuerit, non convalescet: Et alterutrum Fatum est;
+medicum igitur adhibere nihil attinet. Lepide respondit Chrysippus posse esse
+Confatalia adhibere medicum, and convalescere: quemadmodum and Zeno quando
+servum furem verberabat, Furari sibi Fatum esse dicenti, and Vapulare
+respondit. Sed and huic reponi potest, Si sit Fatum, hoc valere argumentum;
+idque unum sufficere ne Fatum esse concedamus.
+
+3. RECIPROCUM vocat Argumentum Gellius quod Graece dicitur (...): cui
+illustrando conficta est fabula quae Graecorum vanitatem olet. Narrant enim
+inter Protagoram and Euathlum, vel (ut Facetiae locus sit) inter Coracem and
+Tisiam convenisse, ut hunc ille Dialecticam doceret; idque hac lege, ut
+dimidium mercedis statim acciperet; reliquum cum discipulus causam vicisset.
+Primam exinde litem cum discipulo contestatus est Magister, cum mercedis
+reliquum lege peteret; apud Judices vero sic agebat: Ego si vicero Tisia, tu
+solves ex sententia, sin minus ex pacto; utroque igitur modo solvendum est.
+Respondit Tisias, Ego nihil solvo; Tu si viceris, ex pacto; sin minus, ex
+sententia. Tanto utrinque acumine perculsi boni Judices, exclamarunt (...),
+causamque in longissimum diem distulerunt.
+
+Ineptum erat Coracis Dilemma quia potuit tam been retorqueri. Nihilominus
+callide agebat si id Judices vidissent. Nam cum mercedem inique peteret, causa
+cadere debebat; Quam primum autem cecidisset, ei merces ex pacto debebatur.
+
+. 5. PLeraque Sophismata pluribus modis solvi possunt; unde a diversis
+diversimode solvuntur: quaedam aliter, and operose, quae videntur solvi posse
+simplicissime docendo Sophistam tuum congrue loqui.
+
+E. g. 1. Possibile est album esse nigrum. Possibile est sedentem stare. Potest
+quidem album fieri nigrum; and Possibile est sedenti stare; at si haec velles,
+incongrue locutuses. Nullo igitur acumine opus est ad respondendum; sed Oration
+utraque est simpliciter neganda; vel ut ape^te falsa si sit congrua; vel si non
+sit congrua, quia non est Propositio.
+
+2. Qui magis esurit plus comedit; Qui minus comedit magis esurit, Ergo, Qui
+minus comedit plus comedit. Qui congrue loqueretur ita diceret; Qui magis
+esurit plus comedet. Qui minus comedit magis esurit. Ergo, Qui minus comedit
+plus comedet.
+
+3. MENTIENS qui est Graece (...), Chrysippi Syllogismus ne ab ipso quidem
+solutus, praeter caeteros insolubilis olim habebatur: adeo ut Philetas Cous,
+Praeceptor Ptolemaei Philadelphi illius explicandi studio confectus interierit.
+Illum Cicero sic enuntiat: Si dicis Te mentiri and verum dicis, mentiris; Sed
+dicis Te mentiri and verum dicis; mentiris igitur.
+
+Congrue loquere Chrysippe, and intelliges Te vel nihil prorsus, vel nihil
+dicere difficile. Qui dicit se mentitum and verum dicit, mentitus est; Qui
+mentiturum, mentietur. Horum utrumque verum est, and nemini obscurum. Sed qui
+ut verum simul dicat and mentiatur, dicit unum aliquid cujus parts sibi
+invicem contradicunt, is nec verum nec falsum, sed omnino nihil dicit: ubi enim
+sententiae pars una evertit alteram, tota nihil significat sed inaniter strepit.
+
+Subtilius disputare videbantur qui sic agebant: Cretenses esse mendaces dicit
+Epimenides Cretensis; Mentitur igitur; Ergo; Illi sunt veraces; Ergo, and Ille
+verum dicit; Ergo, Illi rursus sunt mendaces, etc. Sed profecto nihil est
+infirmius hoc argumento, nisi vox Cretenses eos ad unum omnes significet; and
+Omnis mendax quicquid dicit mentiatur.
+
+Videtur autem hic Mentiens peperisse subtilem illam Scholasticorum de
+Insolubilibus doctrinam. Nam talia argumenta (inquit Occam) non possunt fieri,
+nisi quando actus humanus respicit illum terminum Falsum vel aliquem consimilem
+affirmative; vel hunc terminum Verum, vel aliquem consimilem negative. Esse
+haec Sophismata ante dixerat; nec vocari Insolubilia quia nullo modo solvi
+possunt, sed quia cum dissicultate solvuntur.
+
+Insolubilis exemplum sic proponitur. Incipiat Socrates sic loqui, Socrates
+dicit falsum; and nihil amplius loquatur: tum interroget aliquis, utrum vera an
+falsa sit haec Propositio? Respondeo, nec veram nec falsam esse, sed nihil
+significare, nisi aliquid aliud respiciat quod a Socrate ante dictum
+supponatur. Qui enim profert haec verba, Socrates dicit falsum, fert judicium
+de dicto Socratis; quique fert judicium necessario praesupponit aliquid de quo
+judicet. Unde cum sententia praesupponat objectum suum, clarum est eandem
+numero propositionem, and sententiam ipsam, and objectum ejus esse non posse.
+Quare and Scholarum subtilitas hic nihil proficit; nihilque opus est plura
+dicere de Insolubilibus.
+
+4. FALLENS (...), vel ut alii (...) de Juramento ludit, sicut Mentiens de nuda
+Affirmatione. E.g. Qui jurat se falsum jurare, and falsum jurat, vere jurat.
+Quare eodem fere modo quo Mentiens explicatur.
+
+. 6. LIbet hic extremo loco (quippe non valde alieno) eximere scrupulum qui
+nonnullos hodie Mathematicos male habet. Nam in Demonstrationibus quibusdam
+Conclusionem ex sui Contradictoria per legitimas necessariasque Consequentias
+direct inferri volunt. Quod si ita sit, miror a Veteribus, praesertim
+Scepticis non fuisse animadversum; quippe hoc dato, tota ruat Logica necesse
+est.
+
+Dicunt tamen Theodosium demonstrasse quod si Maris superficies non est
+Sphaerica, est Sphaerica. Verum ille nihil tale demonstravit, sed solummodo
+Maris superficiem si nondum esset, fore Sphaericam; quia siquid emineat
+(inquit) illud statim ex natura humidi subsidet: unde Maris superficies si sit
+(ut non est) inaequalis, fiet perfect Sphaerica.
+
+Videamus aliud Exemplum. Sunto numeri duo inaequales, and inter se primi;
+Dico, quod eorum differentia ad minorem prima est. Esto enim numerus aliquis
+qui metitur minorem, idemque metiatur differentiam; Ergo, metitur eorum summam;
+Ergo, metitur majorem, huic summae parem; Ergo, non metitur minorem.
+
+Possum hoc loco dicere quod mendose colligitur; siquis enim numerus minorem
+metiatur ex supposito, and majorem ex demonstrato, colligendum erat, datos esse
+inter se compositos, quod est contra Hypothesin. Verum ne pluribus exemplis sim
+molestus, malo generale responsum. Dico igitur quod Nulla hujusmodi
+Demonstratio supponit solam suae Conclusionis Contradictoriam; sed quaelibet
+cum Contradictoria ponit aliquid quod eam evertit; and evertere demonstrando
+ostendit. Quare Conclusionem non infert ex ejus Contradictoria; sed ex
+Contradictoria cum Contradictoriae-eversiva; quod si faciat, nihil mirum. Nam
+Si Socrates v. g. est homo, and irrationalis, tum Si est homo, non est homo:
+Et, Si Socrates est mortuus, and scit se esse mortuum, tum Si est mortuus, non
+est mortuus: Et Universaliter, Si and haec est vera, and quae hanc evertit; tum
+Si haec est vera, non est vera: quibus omnibus inest una, quae est prorsus
+nulla difficultas. Ubi enim Hypothesis evertit Suppositionem, quidni ex
+Hypothesi sequatur quod Suppositioni contradicit?
+
+. 7. IN Tractatu de Fallaciis desinit Aristotelis Organon, adeoque Veterum
+Scholasticorum Logicae ni fallor omnes. Nihil igitur amplius ad Logicam proprie
+pertinere censeo; sed promissum Artis Logicae Compendium hoc sexto Capite
+absolvi. Nihilominus, quia placuit Junioribus, plerisque quidem de Methodo,
+Sandersono etiam de usu Logicae disserere; de utroque dicam quam brevissime.
+
+De Methodo.
+. 1. QUI de Methodo agunt in Logica, duas species Discursus statuunt. 1.
+Argumentationem quae discurrit inferendo; 2. Methodum, quae ordinando. Est
+autem Methodus talis dispositio partium alicujus Disciplinae, ut integra
+facilius discatur. Estque duplex. 1. Inventionis, quae disciplinae praecepta
+invenit; 2. Doctrinae, quae tradit. Prior procedit a sensibilibus, and
+singularibus, quae sunt nobis notiora, ad intelligibilia, and universalia, quae
+sunt notiora natura: Posterior, contra.
+
+Methodus Doctrinae duplex est. Perfecta (...); and Imperfecta, (...). Perfecta
+rursus, vel Universalis est, qua integra disciplina, vel Particularis qua
+aliqua disciplinae pars docetur. Utraque duplex est.
+
+1. Compositoria sive Synthetica, quae inservit disciplinis Theoreticis; and a
+notione Subjecti incipiens, principia ejus and species investigat, donec a
+summo genere in ista disciplina perveniat ad infimam speciem. 2. Resolutoria
+sive Analytica quae inservit disciplinis Practicis; and a notione Finis
+incipiens, subjectum, and tandem media investigat.
+
+Regulae Methodi generales hae sunt. In tradenda Disciplina* 1. Nihil desit aut
+redundet. 2. Singulae parts inter se consentiant. 3. Nihil tractetur quod non
+sit Subjecto aut Fini homogeneum. 4. Singulae parts aptis transitionibus
+connectantur. 5. Praecedat in docendo sine quo alterum intelligi non potest,
+ipsum vero sine altero potest.
+
+Regulae particulares hae sunt. 1. Unitas scientiae pendet ab unitate Subjecti;
+unitas disciplinae practicae ab unitate finis. 2. Magis Universalia praecedant
+minus universalia.
+
+Methodus imperfecta, cryptica, arbitraria and popularis est, sive Methodus
+Prudentiae. Haec fere Logici.
+
+. 2. IN tradendis disciplinis suis Mathematici hac utuntur Methodo. 1. Vocum
+significationem constituunt* h. e. Vocabula artis suo quodque loco sic
+definiunt, ut legem sibi statuant iis nusquam uti, praeterquam in eo sensu quem
+explicat Definitio. 2. Definitionibus subjungunt Axiomata quas and (...)
+vocant; h. e. Effata sponte perspicua, quibus in decursu operis utendum vident.
+3. Posthaec adjiciunt Postulata quae ad praxin spectant; suntque per se certa
+and evidentia; quae proinde sine probatione concedi suo jure postulant. 4.
+Hisce positis, Propositiones demonstrant; ordine, and quoad fieri potest
+affirmate: una lege contenti, ut Quicquid demonstratum eunt, ex ante datis vel
+probatis manifestum faciant. Caetera in quibus Methodi praeceptores multi sunt
+and odiosi, non morantur.
+
+Mathematicorum methodum in caeteris artibus and scientiis si tenere non
+liceat, aemulari certe licet. Quo ad hanc quaeque propius accedit, eo caeteris
+perfectior, and ad docendum aptior videtur. Sed ad ea quae docentur retinenda,
+nihil est utilius absoluti operis Conspectu; in quo ea quae sunt ante, (extra
+ordinem fortasse) demonstrata, suis quaeque in locis h. e. servata Logicorum
+Methodo reponantur.
+
+De Usu Logicae. Ex Appendice prima Logicae Sandersoni.
+. 1. USus Logicae est in Commentatione, quae Genesis, and Resolutione, quae
+Analysis dicitur. A Genesi pendet, and intelligitur Analysis.
+
+Genesis vel Thema simplex proponit; vel Problema argumentis discutit; vel
+integram Disciplinam Methodice disponit.
+
+Thema simplex tractatur Explicando. Explicatio, est Nominis vel Rei. Nominis
+explicatur (...), and (...): Rei, Attributio, and Distributio.
+
+In Rei Explicatione Ordiendum ab Attributis Essentialibus; Genere,
+Differentia, etc. quae sunt ita prosequenda, ut Essentialis Rei Definitio
+quamprimum poterit, habeatur. Tum Sequatur Distributio Thematis in suas
+Species, aut Parts; plerumque tantum nominandas. Succedant Attributa Thematis
+Non-Essentialia. 1. Effecta; ubi locus Exemplis opportunus. 2. Comparata; tam
+Cognata, quam Privative and Contrary Opposita.
+
+Geneseos Thematicae Exemplum vide apud Authorem p. 9.
+
+Problema proponitur dupliciter. 1. Integre (and vocetur Categoricum) quum de
+utroque termino constat, and ambigitur utra pars Contradictionis sit vera:
+Exprimitur autem vel Positive, ut hoc Logica est ars, and vocatur Thesis; vel
+Interrogative, ut hoc, Q. An Logica sit ars? and dicitur Quaestio. 2. Diminute
+(and vocetur Disjunctivum) cum expresso termino uno, ambigitur de reliquo:
+Exprimitur fere ad modum Thematis, ut hoc, De Principio Individuationis,
+Interdum Before and disjunctive, ut hoc, An Materia sit Principium
+Individuationis? an Forma, Accidens vel aliquid aliud?
+
+Genesis Problematica est vel Solitaria vel Socia. Solitariae tres sunt parts.
+(...), Praeparatio Quaestionis. (...), Probatio veritatis. (...), Dilutio
+Objectionum: quibus ex abundanti accedant, Prooemii loco (...), de gravitate
+and occasion disputationis; and Epilogi vice (...), complectens summam
+disputationis, cum Corollariis inde emergentibus. Exemplum vide apud Authorem
+p. 31.
+
+Tractatio Problematis Socia est cum instante Adversario disputatur.
+Scholasticae Disputationis leges ut satis nota^ praetereo.
+
+In Genesi Methodica continentur Praecognita and Systematis parts; in
+Instrumentalibus, Usus. Praecognitis comprehenduntur Disciplinae Nomen, Genus,
+Ordo, Differentia, Subjectum, Finis, Subjecti Objectique Notatio. Quibus
+habitis, Systema per Partitiones instituitur, per Subpartitiones continuatur.
+
+Praecognita autem, and Systematis parts, Ususque, tractantur 1. Per
+Principia; h. e. Definitiones, Divisiones, and Axiomata. 2. Per Commentarios;
+ubi Methodus declaratur, and defenditur; Praecepta explicantur; Testimonia
+allegantur; Exempla proponuntur; Exceptiones notantur; Dubia solvuntur. 3. Per
+Quaestiones; quae sunt nobilior Propositionis materia, and pertinent ad Genesin
+Problematis sociam.
+
+. 2. ANalysis habet tria Praecognita. 1. Argumentum sive Materiam Textus; quod
+considerat ejus Genus, Conditionem, and Sedem (...). 2. Causam, sive
+Efficientem Principalem, quae est Author; sive Impulsivam quae est Occasio
+scribendi. 3. Adjuncta; quae sunt Utilitas, Dignitas, and Jucunditas.
+
+Analysis est vel Simplex quae resolvit Propositionem, aut Syllogismum; vel
+Methodica late, quae longiorem tractatum. Ea rursus est Thematica,
+Problematica, vel Methodica stricte.
+
+In Analysi Thematica, Thema principale investigetur, and constituatur; Termini
+Thema explicantes eruantur; and Logicis intentionibus notentur; and
+Amplificantia accurate secernantur ab Explicantibus.
+
+In Analysi Problematica, Problema principale eruatur; Termini explicentur;
+Conclusiones quibus Author sententiam suam complectitur, proponantur; Argumenta
+probantia in certas classes digerantur; and eorum Loci indicentur; una cum
+Syllogismis unde formantur; Objectionum Solutiones ostendantur; Corollaria
+proponantur.
+
+In Analysi Methodica stricte, Praecognita Disciplinae indicentur; Partitio
+Textus fiat Methodice; Praecepta a Commentariis and Quaestionibus accurate
+distinguantur; Connexiones partium notentur.
+
+CONCLUSIO.
+. 1. HABES Carole quod Te cupere dixisti, Artis Logicae Compendium: multo
+equidem minus quam volebam perfectum; sed quale proficisci potuit a pectore quo
+nullum aegrius duas curas admittit. Tute igitur qui currente praelo scriptum
+intelligis, inter negotia multitudine pariter and diversitate infinita,
+festinato operi ignosces; nec mirabere si in eo multa reperias, quae vel
+concinnius dici, vel uberius explicari, vel commodius disponi poterant; multa
+etiam quae secunda cura amputabit. Priusquam vero Manum de Tabula, potes non
+inique postulare, ut cum in initio pauca dixerim de Antiqua Logica, quaedam
+etiam de Nova hic in fine adjungam. Illa igitur ut expediam quoad potero
+brevissime, sic habeto.
+
+. 2. IN Majoricae urbe Palma, quae and ipsa appellatur Majorica, natus est
+Raymundus Lullius circa A. D. 1220. Adolescentia turpiter consumpta, pene
+quadragenarius rediit ad bonam mentem. Tum ad Saracenorum conversionem fe
+accinxit; in eaque prosequenda multa mala perpessus, ab iis tandem lapidatus
+dicitur A. D. 1315. unde Arragonensibus olim pro Martyr colebatur. Extitere
+tamen postea qui Diabolo praeceptore usum esse contenderent: deque haeretica
+ejus pravitate Papae (ut saepe alias) pugnantia decrevere. Diu igitur utrinque
+sed frustra disputatum est: nunc plerique Pontificii rem in medio relinquunt.
+
+De Religione vero quicquid fecerit, novam Haeresin Logicam instituit; ad
+propagandam saltem Philosophiam, se miracula editurum pollicitus. Prodiit
+(inquit Sandersonus) e media Barbary vir magna professus Raymundus Lullus; qui
+opus Logicum, quam specioso titulo insignivit Artem Magnam commentus est: cujus
+open pollicetur, trimestri spatio hominem quam vis vel ipsa literarum elementa
+nescientem, totam Encyclopaediam perdocere; idque per circulos, and triangulos,
+and literas Alphabeti sursum vorsum revolutas. Habuit and iste tamen suos
+assertores, and sequaces; Bernardum Lavinhetam, Cornelium Agrippam, Paulum
+Schalichium, Petrum Gregorium Tholosanum, Jordanum Brunum and paucos alios.
+Nunc vanissimae Artis (ut intelligas non fuisse vitalem) pene ipsa obsolevit
+memoria: qualis autem fuerit, si cognoscere cupias, and abundes otio, Summam
+ejus exhibet Gassendus Cap. 8. De Origin and Varietate Logicae; magis
+perspicuam, and exemplo (quod Gassendus non dedit) illustratam, Alstedius
+Encyclopaediae tom. 4. sect. 17. Insignem ejus vanitatem luculenter ostendit
+Keckermannus tract. 2. Praecog. Log. c. 2.. 39.
+
+. 3. CIrca A. D. 1450. Floruit Laurentius Valla; A. D. 1465. mortuus. Diligens
+Latinae linguae instaurator; suae tamen (ut videtur) Eloquentiae nimium
+confisus. Quem ne ausum mireris his temporibus contra Aristotelem scribere,
+Idem eodem seculo Constantini Donationem scripto edito refutavit. Hujus incepti
+poenas dedit, abjurata Haeresi, per Coenobium virgis caesus, flammisque aegre
+per Alphonsum Regem ereptus: alterius imitatores habuit quamplurimos, qui
+relicto Aristotele, suam quisque Logicam edidere, Rodolphus Agricola, A. D.
+1480: Philippus Melancthon, 1525: Ludovicus Vives, 1531: Franciscus
+Titlemannus, 1533: Petrus Ramus, 1543: Hieronymus Cardanus, cum sexcentis aliis.
+
+. 4. CAEteris vero omnibus existimatione praeluxit Petrus Ramus; qui in
+Veromanduis natus A.D. 1515, iniquitatem fortunae suae, and familiae utcunque
+nobilis paupertatem-vicit industria. Quippe aliquot annis, quasi Cleanthes
+alter, interdiu labor victum tolerabat, ut per noctem studiis vacaret.
+Mathesin in Schola primum Praelensi, post, in Auditorio Regio cum laud
+professus, tandem Mathematicam professionem Ipse instituit, and e suis
+reditibus luculento stipendio dotavit. Religionem Pontificiam aspernatus,
+Philosophiam quoque Scholasticam contempsit; quam cum paulo liberius
+incesseret, ne ipsi quidem pepercit Aristoteli; unde graves illi controversiae
+cum Jacobo praesertim Carpentario: quarum memor ille bipedum nequissimus, A. D.
+1572, cum in Parisiensi Laniena, latentem Ramum invenisset, etiam post depensam
+pecuniam, e fenestra praecipitem dedit, multis ante vulneribus confossum.
+
+Intercesserunt Ramo simultates cum multis aliis, Goveaeno autem and Perionio
+praeter caeteros, ob eandem causam; verum apud plerosque ejus Logica magnam
+gratiam, novitate, and sermonis nitore colligebat: nunc aetatem non fert;
+ejusque fama magis in dies magisque atteritur. Nam in ea multa sunt (inquit
+Sandersonus) quae eruditis merito displicent: ut 1o Innovatio terminorum Artis,
+and vocum jam diu receptarum in Scholis Logicorum; 2o, Mutilatio Logicae
+multiplex, quam Ramei limitibus nimium angustis definierunt, and partibus
+quibusdam integris spoliarunt; 3o, Explicatio Usus Logicae ex Poetarum and
+Oratorum scriptis, qui tamen res Logice non tractarunt, sed Exoterice; 4o,
+Praescriptio unicae Methodi ubique adhibendae, ejusque nimium exilis and
+morosae, qua Disciplinas omnes tradi volunt, per Definitiones tantum and
+Dichotomias. Sunt and alia plurima, qua vitia, qua defectus, in Rameis, justa
+reprehensione dignissima: quae accurate and graviter persequutus est
+Keckermannus tract. 2. Praecog. Log. cap. 4. per totum.
+
+Rameae vero Logicae compendium apud Gassendum invenies, capite nono libri
+supra laudati.
+
+. 5. DE ipso igitur Ramo nihil amplius dicendum. Sed operae pretium est audire
+quid existimet idem Sandersonus de insignibus quibusdam Systematicis qui ad
+Ramum valde accedunt.
+
+Produxit (inquit) novissimum saeculum nonnullos Logicos, qui media quadam via
+Peripateticos inter and Rameos incedere gestierunt. Invehuntur ipsi palam in
+Rameos, laudant Peripateticos: sed tamen in Systematibus suis Logicis Ramei
+magis sunt quam Peripatetici. Nam and terminos receptos in Peripatetica Schola
+immutarunt, and luxuriant nimis in Methodo; dum sic omnia minutatim in frustra
+dividendo and subdividendo concidunt, ut succum rerum and substantiam interea
+amittant. Philippo-Ramei hi dici possunt, vel Systematici; quorum praecipuus
+est Keckermannus: quem insequuti (non passibus aequis) Timplerus, Alstedius,
+and alii nonnulli. Habet ille usum suum, sane magnum and perutilem; sed iis qui
+judicio sunt maturo, and probe subacto in Schola Peripatetica. Qui enim illius
+Viri scripta cum Scholasticis, delectu facto Terminorum and Methodi, dextre
+conjungere poterit; is mea sententia in omni Philosophia utilissime versabitur.
+Optarim tamen ut minus tereretur Keckermannus in manibus juventutis: qui sunt
+assuefaciendi potius terminis Peripateticis, ac Methodo simpliciore
+instituendi; nec tantum pollent judicio, ut norint inutilia ab utilibus
+secernere.
+
+. 6. INter Novae Logicae conditores Verulamium quoque and Cartesium numerat
+Gassendus; utriusque item Logicae Compendium exhibere profitetur. At Cartesius
+de instauranda Logica ne per somnium quidem suum cogitavit; quin videtur potius
+Philosophiam moliri quae Art Logica non utatur: eodem fortasse animo quo
+scribendam censuit sine Demonstratione Geometriam. Long alia Verulamio men's;
+cujus Organon cum Aristotelico nihil habet commune praeter unum Nomen. Negat
+Vir eximius Syllogismo opus esse ad eam rem quam parat, ad instituenda scilicet
+Experimenta; neque vero Aristotelis Logicam non probat, sed in praeclaro opere
+de Augmentis Scientiarum saepe laudat. In ea tamen aliquid, ut in caeteris fere
+Scientiis desiderat; duas praesertim res; quarum unam praeeunte Aristotele. 1.
+Artem inveniendi and perlustrandi Scientias. 2. (Quod notasse dicit
+Aristotelem, sed nullibi prosequutum) Quales Demonstrationes ad quales
+Materias, sive Subjecta applicari debeant; nequis vel Demonstrare postulet
+Oratorem; vel Geometram ferat probabiliter tantum disserentem. Sed hoc
+postremum satis est si monuerit Logica; doceri enim, nisi tota doceatur
+Encyclopaedia, prorsus nequit. Porro Logicae Officium non est invenire arts,
+praesertim (quas Ille nominat) Mechanicas; sed juvare eum qui inventas quas
+vocant Liberales vel docere cupit vel discere. Hoc unum profitetur Logica; and
+abunde praestat.
+
+. 7. MIttamus igitur hos duos quibus nulla Nobiscum res est, quidque ipse
+praestiterit Gassendus in Nova sua Logica quaeramus, quidque Author ille Artis
+Cogitandi, cujus de Opere tam multa, and tam praeclara narrantur.
+
+Natus est Gassendus A. D. 1592 Campotercerii in agro Gallico Diniensi.
+Adolescens annorum 16, Rhetoricam public docuit; and imberbis adhuc
+Philosophiam: Juveni displicere coepit Aristoteles, ut placeret Epicurus.
+Factus est Matheseos Professor Regius A. D. 1645. Professionem postea reliquit,
+valetudinem causatus. Admoverat eum huic Muneri Cardinalis Alphonsus, Armandi
+Richelii frater: Armandus ipse vel neglexit hominem, vel nescivit potius, quia
+maluit latere. Nam and Epicuri mores quoad Christiano licuit imitatus est;
+parvo contentus, jucundus, innocens, probus, and infeliciter Philosophatus.
+Institutionem Astronomicam, and nonnulla Philosophica, aliaque quaedam Ipse
+edidit; plura moriens A. D. 1655 amico suo Monmorio legavit: cujus auspiciis,
+universa Gassendi opera A. D. 1658 Lugduni in Gallia prodiere.
+
+De Autore Artis Cogitandi nihil habeo dicere, praeter ea quae Interpretationi
+Latinae sunt praefixa; Conversum scilicet Librum e Gallico tertium recognito,
+quem scripsisset Jansenista aliquis, qui nomen suum premebat, ut praeluderet
+bello contra Protestants ab iis postea indicto.
+
+Jam in Gassendum quadrat quod de Magistro ejus Epicuro dixit Cicero: ut
+Democrito ille, ita hic Aristoteli adjicit perpauca mutans; sed ita, ut ea quae
+corrigere vult mihi quidem depravare videatur. Condonemus ei caetera si in
+Part tertia de Syllogismo been rem gesserit: Sed Ille postulat in Figura prima
+Aristotelis primo transponi Praemissas, quo Terminus scilicet Medius locum
+medium obtineat, quod and ipsum voluisse Aristotelem, solus mortalium vidit.
+Porro, secari hanc Figuram in duas, Cohaerentem and Dejunctam, h. e.
+Affirmative and Negative concludentem; utriusque vero tres Modos statui,
+Generalem, Particularem, and Mistum; Particularem vocat, quem nos barons
+Expositorium, acutus Ille vidit a Generali suo esse diversum.
+
+Hisce positis, rem confectam arbitratur: Quaestioni enim cuilibet probandae
+Modum unum assignavit; quis est ille tam insatiabilis disputandi ardor qui
+admittat plures? Sunt plures, inquies: Fatetur: sed Figuras duas Aristotelis ad
+Primam reduci docet; quodque latuit profecto Aristotelem, Baroko and Bokardo ad
+Ferio, hunc in modum Ostensive.
+
+Syllogismus in Baroko: Omnis gemma est lapis; Aliquod animal non est lapis;
+Ergo, Aliquod animal non est gemma. Minor convertatur simpliciter; and ex
+Particulari fiat Universalis; Major contra ex Universali Particularis; sic enim
+fiet (inquit) compensatio; tum conversa conclusione, efficietur Negativus
+mistus hujusmodi: Aliqua gemma est lapis; Nullus lapis est animal; Ergo, Aliqua
+gemma non est animal. Jam conversa hac Conclusione, redibit prior quam volebas,
+quamque nulli bono ante convertisti.
+
+Sed hoc non necesse est quando reducitur Syllogismus in Bokardo. V. g. Aliquis
+homo non est lapis; Omnis homo est animal; Ergo, Aliquod animal non est lapis.
+Fiet enim Negativus mistus hujusmodi: Aliquod animal est homo; Nullus homo est
+lapis; Ergo, Aliquod animal non est lapis.
+
+Et ne Te conturbet (inquit) quod in utroque Exemplo Praemissa particularis in
+Universalem convertitur; est enim Negativa; nihilque certius aut clarius, quam,
+Si aliquod A non est B, Ergo Nullum A est B. Praeterea, Praemissa reliqua ex
+Universali Particularis facta est; atque ita Fit compensatio.
+
+Vidit insuper Vir acutus, contra quam sentit Aristoteles, in Figura ejus
+secunda affirmative interdum concludi. Valere enim hunc Syllogismum: Ars est
+collectio praeceptorum ad certum finem tendentium; Rhetorica est collectio etc.
+Ergo, Rhetorica est Ars: nam reduci posse ad Primam. Nullo inquam modo, nam in
+Prima est. Cum enim Medius cujusque Syllogismi debeat distribui, hic autem
+Medius in Minore distribui nequeat, in Majori igitur distribuitur; ejusque
+propterea Subjectum est: Affirmantis enim cujuscunque Praedicatum non
+distribuitur.
+
+Plura non adjicio, quia Virum sane eruditum nihil horum sentire arbitror; sed
+vidisse isto modo dicendum, si fideliter exprimere vellet Epicuram, omnium
+omnino Mortalium a Logica maxim alienum.
+
+. 8. DE Art Cogitandi dicam primo ipse Author quid existimet. Profitetur se ea
+potissimum collegisse quae Judicio nostro formando aptissima videbantur; hunc
+esse praecipuum hujus operis Scopum; quamvis multa nova (sed non sua)
+inseruerit, quae and mole maximam, and utilitate forsan praecipuam operis
+partem faciunt: quo in numero Geometrica (opinor) habet and Theologica quae
+ubique fere admiscet. Evulgaribus Logicis transtulisse omnia quae revera sunt
+utilia; and (ne quid desiderent Studiosi) quaedam etiam parum utilia. Addidisse
+Rhetorica quot in aliis libris qui Rhetoricam ex professo docent, frustra forte
+quaesieris: Physica, Ethica, immo Metaphysica omnia ferme quae sunt scitu
+necessaria. Denique quamvis omnia quae utcunque oportet discere hic non
+reperiantur, vere nihilominus affirmari poterit, omnia haberi quae memoriae
+mandari, and ad usum servare conveniat.
+
+Quid igitur restat (inquies) nisi ut abjectis omnibus aliis, hunc unum librum
+devoremus? Ego vero neminem deterreo; sed fateri cogor vix aliquid mihi
+molestius accidisse quam ut eum perlegerem. Nam abundat Declamationibus,
+plerumque otiosis, semper arrogantibus: aliena sic vituperat author, ut praeter
+Cartesium and Paschalium, quorum scrinia compilavit, vix quenquam nominet sine
+contumelia: quae pro suis obtrudit, fastuose omnia quasi Ex Cathedra
+pronuntiat: quae a Scholis mutuatur ita dicendo obscurat, ut qui praeceperit
+omnia quae dicit, aegre tamen intelligat quid velit dicere. Tum and illa in
+Scholis tritissima, and nemini obscura, (Conversionis e. g. and Syllogismorum
+regulas) tanto molimine aggreditur, atque ita sudat explicando ut si ruenti
+mundo succurreret; tam idoneus interim huic operi, ut Argumentum Syllogismo
+prorsus quid intersit nesciat.
+
+In librum suum Theologica quasi obtorto collo pertraxit, ut posset
+Protestantibus convitiari: quamvis in eos nihil nisi Fallacias intendit; ut
+exemplis pluribus demonstratum est, in initio Interpretationis Latinae.
+
+In Euclidem involat, miser qui tam nihil scit in Geometria, ut ( in
+Dissertatione secunda) putet se Lectorem demereri hac (arcana scilicet)
+Chiliogoni proprietate patefacta, quod omnes ejus anguli, 1996 rectis sunt
+aequales: quasi nesciret aliquis qui novit 32. e. 1. Cujuscunque Rectilinei
+omnes simul angulos bis tot rectos valere demptis quatuor, quot sunt latera
+Figurae.
+
+Euclidaeam Anguli definitionem non probat; suam itaque substituit pro
+definitione concionem. Vide p. 284. Tum concussis alis, Haec (inquit) definitio
+tam clare, tam nitide, and quae sequuntur. Sed (ut omittam caetera) quid
+stupidius quam quod Ille postulat, in 8. def. e. 1. partem circuli
+proportionalem nominari? etiam cum Proportio inaequalitatis sit? ab Euclide
+denique, qui de ea nihil censuit dicendum immo dicere non potuit donec ad
+Elementum usque quintum pervenisset?
+
+Displicet illi Rationis definitio quam Euclidem dedisse credidit, Ipse ab
+Interpret accepit. Eam enim definit Euclides (...) non (...) sed (...) quod
+notavit and explicuit in Arithmetica sua Wallisius, multis ante annis quam hic
+noster scribere cogitaret.
+
+Saepe alias exagitat Euclidem; quod ferendum erat forsitan, si semel
+emendasset. Sed in part quarta c. 10. defendentibus eum Geometris toto capite
+nono frustra lacessitum, nihil amplius respondet, quam sentire Se, scribi posse
+Geometriam, quae iis omnibus vitiis (immo and virtutibus) careat, quibus scatet
+Euclides. Quin Tu talem (si haberi poterit) ab hoc homine ne expectes; non
+daturus est Ille Geometriam nisi huic Logicae Gemellam.
+
+. 9. ARistotelem multo indignius quam Euclidem habet: Huic enim fortasse nihil
+debet a quo nil didicit; per Illum se fatetur profecisse. Ex Illius (inquit)
+Analyticis, quamvis pro confusis traducantur, illud omne desumptum est quod de
+Regulis Logicis scitur. At si hoc verum, Huic obsecro quid relictum est? quem
+si audias Se and sua praedicantem, non solius Logicae sed totius Philosophiae
+and Matheseos inventorem loqui putes? Prorsus unum quod assidue facit pro
+Terminis utiliter receptis, novos minusque aptos fabricari; quo fit ut in toto
+opere vix aliquid novi reperias quod ad Logicam proprie pertineat, praeter
+novum loquendi modum. Fallit me fortasse nimius amor Aristotelis; quare cupio
+refelli; novumque illud quod me hactenus deprehendisse nego, ubi lateat doceri.
+Nam Principium illud generale quod tantopere ostentat Cogitator, cujus open
+dijudicat scilicet omne genus Syllogismos, sine ulla reductione ad Modum and
+Figuram, plane nihil amplius docet quam quod omnes docuerant Scholastici, Bonum
+nempe Syllogismum regulari per Dictum de Omni and Nullo. Inspice sodes hoc
+dictum Compendii Tui page 20. and ostende quid dicat amplius haec Regula, Boni
+Syllogismi praemissa altera continet Conclusionem, idque reliqua ostendit.
+
+Jam cum ex hac Regula caeterae omnes ad Syllogismum pertinentes deduci and
+demonstrari possint, ineptus ille Aristoteles deduxit eas and demonstravit:
+sicut ineptus Euclides cum Principia sua posuisset, Propositiones insuper
+adjecit; quanquam ex Principiis and se invicem essent omnes demonstratae.
+Quanto rectius hic noster? qui Principio unico confisus, omnes quae exinde
+manant regulas contemnit? Quem si roges tamen ut ex hoc Principio Syllogismum
+aliquem quem repudiat, esse probet illegitimum, vel utetur iis Regulis, vel
+tacebit. Si porro roges ut ostendat legitimum in Modo imperfecto, esse huic
+Principio congruentem, nec tamen faciat quod caeteri, qui fatentur se Reducere
+ad Primam; nec dicit Ipse, nec dicturus est aliquis qui ex hoc tantum Principio
+Syllogismum dijudicet. Dico ex hoc tantum Principio, non ut excludam solertiam
+naturalem quam in eo postulat hic noster qui utatur Principio suo; quanquam hoc
+non docentis est, sed optantis; sed ne confugiat Cogitator ad Principium aliud,
+a se non positum qui hoc unico se contentum profitetur. Nam ex alio Principio
+(saltem aliis) omnes Syllogismi regulas deduci, and sine Reductione demonstrari
+posse ostendimus Lib. 1. cap. 3. Verum (quod ibidem monuimus) Idem aliter and
+melius demonstrat Aristoteles ex hoc Principio. Retinenda enim est Reductio;
+quod and exercitationem habeat per se jucundam, and acuat juvenum ingenia, and
+ostendat quam angustis limitibus tota illa Discurrendi facultas concludi possit.
+
+Dies me deficeret si vel numerando percenserem reliqua quae in Art illa
+Cogitandi probare non possum. Neque vero idcirco postulo ut ea non legate and
+probet alius: Unum peto, quod utinam impetrare possem, ut si erro, tacenti mihi
+liceat hoc meo frui errore. Nam mihi quidem nihil est molestius quam aliena
+redarguere, quae, si mentiri possem, malo laudare. Sed ut Finem aliquando
+faciam, Tibi Carole, caeterisque Tui similibus, Apostolicum illud commendo,
+Probate omnia; quod bonum est retinete. Erit fortasse aliquis qui mecum
+sentiat, quod Caeteros quanto melius intellexeris, tanto pluris Aristotelem
+facies.
+
+FINIS.
+

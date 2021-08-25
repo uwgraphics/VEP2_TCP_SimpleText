@@ -1,0 +1,775 @@
+GAGING PROMOTED. AN APPENDIX TO Stereometrical Propositions.
+
+By ROBERT ANDERSON.
+
+LONDON, Printed by I. W. for Joshua Coniers, at the Raven in Ducklane, 1669.
+
+Gaging Promoted AN APPENDIX TO Stereometrical Propositions.
+I. Note.
+AS an Abstract from the undoubted Axioms of Geometry, it is generally
+observed, that in a Rank of numbers, having equal difference, the second
+differences of the squares of those numbers are equal; the third differences of
+the cubes of those numbers are equal: and so in order in the higher powers.
+Thus, In Squares
+1
+1 1 3 2 4 2 5 3 9 2 7 4 16 2 9 5 25 1 2 3 4 2
+1 1 8 3 9 8 16 5 25 8 24 7 47 8 32 9 81 1 2 3 4
+
+Observe in the first of these Examples, in the first collum are the numbers of
+a progressition, having equal difference, to wit, a unite. In the second colum,
+the squares of those numbers. In the third colum, the first differences. In the
+fourth colum, the second differences, to wit, 2, 2, 2. In the second Example,
+in the first colum are a Rank of numbers, having equal difference, to wit, 2.
+In the second colum, their squares. In the third colum, the first difference.
+In the fourth colum, the second difference.
+
+II. Note.
+Hence it follows, that by the help of such differences the table of squares
+may be calculated: thus, in the first Example, the sum of 1 and 3, is 4; the
+square of 2. The sum of 2, 3 and 4, is 9; the square of 3. The sum of 2, 5 and
+9, is 16; the square of 4. The sum of 2, 7 and 16, is 25; the square of 5. The
+sum of 2, 11 and 36, is 49; the square of 7. etc.
+
+III. Note.
+Like plain numbers are in the same proportion one to another, that a square
+number is in, to a square number: Euclide the 26 Proposition of the Eighth
+Book. Therefore the second difference in such a Rank of plane numbers are
+equal. Further, what planes and solids are either equal or proportionable to
+such Ranks may be gradually calculated; as in the last.
+
+IV. Note.
+1 1 7 2 8 12 19 6 3 27 18 37 6 4 64 24 71 5 125 1 2 3 4 5 1 1 26 3 27 72 98 48
+5 125 120 218 48 7 343 186 386 9 729 1 2 3 4 5
+
+In the first Example, in the first colum are the numbers in a Rank having
+equal difference, to wit, a unite. In the second colum, the cubes of those
+numbers. In the third colum, the first differences of those cubes. In the
+fourth colum, the second differences. In the fifth colum, the third
+differences, to wit, 6, 6. The like in the second Example.
+
+V. Note.
+Hence it follows, that the table of cubes may be made thus: In the first
+Example, 1 and 7, is 8; the cube of 2. The sum of 8 and 19, is 27; the cube of
+3. The sum of 18, 19 and 27, is 64; the cube of 4. The sum of 6, 18, 37 and 64,
+is 125; the cube of 5. The sum of 6, 24, 61 and 125, is 216; the cube of 6. The
+sum of 6, 30, 91 and 216, is 343; the cube of 7. The like in the second Example.
+
+VI. Note.
+Like solid numbers are in the same proportion one to another, that a cube
+number is in, to a cube number* Euclide the XXVII Prop. of the Eighth Book.
+Therefore the third differences in such a Rank of solid numbers are equal:
+further, such planes and solids as are either equal or proportionable to such
+Ranks, may be gradually calculated, as in the last.
+
+VII. Note.
+If a Rank of Squares, whose Roots have equal differences, be multiplied by any
+number, the second differences of such a Rank of proucts are equal. Let the
+number multiplying be 10.
+
+0 0 00 10 1 1 10 20 30 2 4 40 20 50 3 9 90 10 70 4 16 160 20 90 5 25 250 1 2 3
+4 5
+
+In the first colum are the numbers bearing equal difference. In the second
+colum are the squares of those numbers. In the third colum the products. In the
+fourth colum the first differences. In the fifth colum the second differences
+and they equal.
+
+VIII. Note.
+If unto such a Rank of Products, as in the last, there be added a Rank of
+Cubes, whose Roots are equal to the Roots of the Squares, the third differences
+of such a Rank will be equal.
+
+0 00 0 00 11 1 10 1 11 26 37 6 2 40 8 48 32 69 6 3 90 27 117 38 107 6 4 160 64
+224 44 151 5 250 125 375 1 2 3 4 5 6 7
+
+In the first colum are the numbers having equal difference. In the second
+colum the Products of their squares by a given number. In the third colum the
+cube of the numbers in the first colum. In the fourth colum the sum of the
+products and cubes. In the fifth colum their first difference. In the sixth
+colum the second differences. In the seventh colum the third differences which
+are equal.
+
+IX. Note.
+Let a constant number be added to a Rank of Products, so that one of the
+numbers multiplying be a constant number, and the other of the numbers be the
+squares of numbers having equal difference, and this Rank of sums be added to a
+Rank of cubes, whose roots are the same with the roots of the squares; such a
+compounded Rank will have their third difference equal. Thus, 1 8 10 1 19 37 2
+8 40 8 56 32 69 6 3 8 90 27 125 38 107 6 4 8 160 64 232 44 151 5 8 250 125 383
+1 2 3 4 5 6 7 8
+
+In the first colum are the numbers having equal difference. In the second
+colum is constant number to be added. In the third colum are the Rank of
+products, that is, the squares of the numbers in the first colum multiplied by
+a given number. In the fourth colum are the cubes of the numbers in the first
+colum. In the fifth colum are the sum of the numbers in the second, third and
+fourth colums. In the sixth colum are the first differences of their sums. In
+the seventh colum are the second differences. In the eighth colum the third
+differences, and they equal.
+
+X. Note.
+In a Rank of numbers, having equal difference, and equal in number; if the
+third part of the cubes of each of these numbers, be subtracted from the
+products of the squares of each of these numbers, in half the greatest number
+of that Rank, the remainders will be a Rank of numbers, equal to all the
+squares in the several portions of one fourth of a sphere, whose diameter is
+equal to the greatest number in that Rank, and the third differences of this
+Rank of portions are equal; but the first and second differences will increase
+and decrease, differently one from another. Thus, 0 00 00 00 99 3 09 108 99 162
+261 54 6 72 432 360 108 369 54 9 243 972 729 54 423 54 12 756 1728 1152 00 423
+54 15 1125 2700 1575 54 369 54 18 1944 3888 1944 108 261 54 21 3087 5292 2205
+162 96 24 4608 6912 2304 1 2 3 4 5 6 7
+
+In the first colum are the numbers having equal difference. In the second
+colum are the pyramides adscribed within the cubes of the numbers in the first
+colum. In the third colum are the products of the squares of the numbers in the
+first colum, by half the greatest number in the first colum. In the fourth
+colum are the differences of the numbers in the second and third colums, that
+is, all the squares in several portions of one fourth of a sphere, whose
+diameter is 24. In the fifth colum are the first differences. In the sixth colum
+are their second differences. In the seventh colum are the third differences,
+and they equal.
+
+XI. Note. The Application or Use of the Preceding Notes.
+The application or Use may be, to calculate Pyramides and cones, either the
+whole or their parts* as also to calculate the parabolick and hyperbolick
+conoides, either the whole, or their frustums; yet also, to calculate the
+sphere or spheroide, either the whole or their portions or Zones, and that
+gradually, that is, to find the solidity upon every inch or foot.
+
+To find the solidity of a parabolick Conoide upon every two inches.
+To do which, consider the Diagram of the 18 Prop. of my Stereometrical Prop.
+Let PA be 16; AR 12; therefore AV or PH will be 9; for it ought to be as PA, is
+to AR; so is AR, to AV. Let the axis AP be divided into eight equal parts; viz.
+2, 4, 6, 8, 10, 12, 14, 16. Let there be planes drawn parallel to the base,
+through every one of these divisions, though in the Diagram there is not so
+many. From P to the first Q suppose to be 2, its square 4; the half thereof 2,
+which multiplied by 9 equal to PH, the Product will be 18; that is, the Prism
+QZGIHP; equal to all the squares in the portion of the conoid QOP. Let from P,
+to the second Q be 4, its square 16, the half is 8; which multiplied by 9, the
+Product is 72; equal to the Prism QZFIHP, equal to all the squares in the
+portion of the conoid QOP. Let from P to the third Q be 6, its square 36, the
+half of it is 18, which multiplied by 9, the product is 162; the Prism QZEIHP;
+equal to all the squares in the third portion of the conoid QOP.
+
+Having obtained two portions, the rest may be obtained thus: having obtained
+the second difference, which is 36, we may proceed to find the rest by the
+Seventh Note; thus, add 36 to 54, and it makes 90: which added to 72, the sum
+is 162, equal to all the squares in that portion, and so in order; 36, 90 and
+162; the sum is 288. 36, 126 and 288; the sum is 450. 36, 162 and 450, the sum
+is 648, etc.
+
+0 00 8 2 18 36 54 4 72 36 90 6 162 36 126 8 28^ 36 62 10 45^ 36 198 12 648 36
+234 14 882 36 270 16 1152 1 2 3 4
+
+In the first colum are the parts of the altitude of the conoid. In the second
+colum are all the squares in several portions of one fourth of a conoid. In the
+third colum the first differences. In the fourth colum the second differences.
+These portions in the second colum may be reduced to circular portions, thus,
+as 14 is to 11; so are all the squares in these portions to the portions
+themselves.
+
+I. Scholium:
+The use of this gradual calculation may be thus: Suppose a Brewers Copper be
+in form of a parabolick conoid; the quantity of liquor therein contained may be
+found, thus, having calculated a table upon every inch, or two inches, or as is
+thought convenient; then having a straight Ruler divided equally into inches,
+putting the Ruler into the liquor to the bottom of the Copper, see how many
+inches of the Ruler is wet; with the number of wet inches enter the first colum
+of your table, and in the next colum are the number of cubick inches which that
+portion contains; the number of cubick inches thus found, being divided by the
+number of cubick inches in a Gallon, the quotient shows the number of Gallons
+in that portion of the Copper.
+
+II. Scholium: To compose several works into one.
+As 14, is to 11; so are all the squares in one fourth of the conoid, to one
+fourth of the conoid it self. because this one fourth ought to be divided by
+the number of cubick inches in a Gallon, suppose it 288, to show the number of
+Gallons in each portion, we may multiply 14 by 288, that is 4032. Then as 4032
+is to 11; so are all the squares in one fourth of the conoid, to the Gallons in
+that one fourth. Further, because this one fourth ought to be multiplied by 4,
+to reduce it to a whole conoid; therefore, divide the constant divisor, that
+is, 4032, by 4, and it will be 1008. Then, as 1008, is to 11; so are those
+several portions in the second colum of the last table, to the number of
+Gallons in those several portions of a parabolick conoid. By such compositions
+may the Practitioner compose constant divisors or dividends, which will much
+breviate the work; this is only for an Example.
+
+Every parabolick conoid has its second differences equal. To find the second
+differences, work thus, Square one of the equal segments of the axis, and
+multiply that Square by the Parameter, that product will be the second
+difference. In this Example, the equal segment of the axis is 2, the square of
+it 4; which multiplied by the Parameter 9, the product is 36, the second
+difference. Half of the second difference, is always the first of the first
+difference. Half 36 the second difference, is 18, the first of the first
+difference, etc. Here note, this 36 is the second difference of one fourth of
+all the squares in a parabolick conoid; if 36 be multiplied by 4, it makes the
+second difference 144; whose half is 72, the first of the first differences.
+Or, the first differences are found by taking half the difference of the
+squares of any two segments, which multiplied by the Parameter, thereby the
+first differences are obtained. Thus, to find the first difference answerable
+to the Segments 6 and 8; the Square of 8, is 64; the Square of 6, is 36; the
+difference of those Squares is 28, whose half is 14; which multiplied by the
+Parameter 9, the product is 126; the first difference answerable betwixt 6 and
+8.
+
+XII. Note.To find the solidity of an hyperbolick conoid gradually, to wit,
+upon every three inches.
+For the performance of which, take notice of the XVI Prop. of Stereom. Prop.
+in that Diagram, Let AM equal to AB be 9. Let ML equal to AF, be 6. Let AE be
+15: therefore FE will be 9. Let the rest of the construction be as in that
+Proposition. Let from M to the first K be 3, whose square is 9, whose half is
+4, the area KHM; which being multiplied by ML, 6; the product will be 27, the
+prism KHNOLM. Because FE, FC and FL are equal, that is, each of them 9:
+Therefore, the first pyramid ONXILM will be 9. Then this prism and pyramid
+being added, will make 36, the whole prism KHXILM, equal to all the squares in
+the portion KZM. Let from M to the second K be 6, whose square is 36, its half
+18, the area KHM; which being multiplied by ML, 6; the product will be 108,
+equal to the prism KHNOLM. The cube of 6, is 216; a third part is 72, the
+pyramid ONXIL, this prism and pyramid being added together, the sum will be
+180; the prism KHXILM: equal to all the squares in the portion KZM. Let from M
+to A, be 9; its square 81, the half 40, equal to the area ABM, which being
+multiplied by ML, 6; the product will be 243: the cube of 9, is 729; a third
+part thereof is 243; equal to the pyramid FCDEL: this prism and pyramid being
+added together, is 486; the whole prism ABDELM, equal to all the squares of the
+portion AZM.
+
+These three portions being obtained, they may be continued by the VIII Note,
+thus: 0 00 36 3 46 108 144 54 6 180 162 306 54 9 486 216 522 54 12 1008 270 792
+54 15 1800 324 1116 54 18 2216 378 1494 54 21 4410 432 1926 24 6336 1 2 3 4 5
+For if the third differences which are equal, and in this Example is 54, be
+added to the first of the second differences, being 108, it makes 162, and by
+such additions, the second differences in the fourth colum are made. Further,
+by adding these second differences to the first of the first differences which
+is 36, it makes 144, etc. So the numbers in the third colum are made. Yet
+further, by adding these first differences to the first number in the second
+colum, the Rank of portions of such a conoid is made.
+
+Then,
+
+By making use of the directions in the first and second Scholiums, the number
+of Gallons are obtained. The parabolick and hyperbolick conoides may well be
+made use of for Brewers Coppers; the parabolick, when the crown is somewhat
+blunt; but the hyperbolick conoid when the crown is more sharp.
+
+XIII. Note. To calculate a Sphere gradually, to wit, upon every three Inches.
+Consider the XV Prop. of Stereom. Prop. Let ED equal to OF, be 24. The rest of
+the construction as in that Prop. Let from E, to the first R be 3, whose square
+is 9; whose half is 4, the area RXE, which being multiplied by 24, the product
+will be 108; the prism KHXREF. The cube of 3, is 27; a third part thereof is 9,
+the pyramid KHOIF; this pyramid taken from the former prism, leaves the prism
+RXOIFE, 99: equal to all the squares in the portion RQE. From E, to the second
+R, 6; its square 36, the half 18, which multiplied by 24, makes 432; the prism
+RXHKFE. The cube of 6, is 216, a third part of it is 72; the pyramid KHOIF:
+this pyramid being taken from that prism, there rest 360; the prism RXOIFE,
+equal to all the squares in the portion RQE. Let from E to the third R be 9;
+its square 81, the half thereof 40, the area RXE, this area being multiplied by
+24, the product will be 972, the prism KHYREF: the cube of 9, is 729, a third
+part of it is 243, the pyramid KHOIF: this pyramid being subtracted from that
+prism, the remainder is 729; the prism RXOIFE, equal to all the squares in the
+third portion RQE. Having obtained these three portions, the rest may be found
+by their third difference, according to the X. Note.
+
+0 00 0 0 99 3 09 108 99 162 261 54 6 72 432 360 108 369 54 9 243 972 729 54
+423 54 12 576 1728 1152 00 423 54 15 1125 2700 1575 54 369 54 18 1944 3888 1944
+108 261 54 21 3087 5292 2205 162 99 24 4608 6912 2304 1 2 3 4 5 6 7
+
+The numbers in the seventh colum are the third differences, and they equal;
+the numbers in the sixth colum are the second differences, and are composed by
+substracting the numbers in the seventh from the first and last numbers in the
+sixth colum; the numbers in the fifth colum are the first differences, and are
+composed by adding those numbers in the sixth colum to the first and last of
+those in the fifth colum; the numbers in the fourth colum are all the squares
+in several portions of one fourth of a sphere whose diameter is 24, those
+portions are made by adding the numbers in the fifth colum to the numbers in
+the fourth, thus, 261, and 99, is 360. 369, and 360, is 729. 423, and 729, is
+1152, etc.
+
+Then making use of the first and second scholium the number of gallons are
+obta^ned. Or if it be made, as 14, is to 11, so is 54, to a fourth number, with
+that fourth number proceed to make tables of the second and first differences,
+and then the table of portions it self. Every sphere has its third
+differences equal. To find the third difference, do thus. Cube one of the
+equal segments of the axis and multiply that cube by 2, and that product will
+be the third difference, thus, the cube of three is 27, which multiplied by 2,
+the product is 54; the third difference of all the squares in one fourth of a
+sphere. Here note, that it is to be understood, that the axis of the sphere is
+equally divided into an equal number of segments; so then, if the number of
+segments in the semiaxis, less by one; be multiplied by the third difference,
+it gives the first of the second differences. Thus, the number of segments in
+the semiaxis is 4, then 4 less 1, is 3; which being multiplied by 54, the
+product is 162: the first of the second differences.
+
+To find the third difference in one fourth of all the squares in a spheroid,
+do thus: The axis being divided as above in the sphere; cube the difference
+betwixt two Segments, which being multiplied by 2, makes a product; then, as
+the square of the semiaxis, is to the square of the other semidiameter; so is
+that former product to a fourth number, which will be the third difference. For
+the second differences, use the Rules given for the sphere.
+
+XIV. Note.
+To calculate a pyramid or cone gradually. To find the third difference in a
+pyramid work thus, the Altitude of the pyramid being equally divided* cube the
+difference of the two segments, which being doubled, makes a number; then, as
+the square of the Altitude of the pyramid, is to the area of the base of that
+pyramid; so is that former number, to the third difference of that pyramid.
+
+To find the second differences in a pyramid: As the difference of two of the
+segments of the Altitude, is to the following segment; so is the third
+difference, to the second difference answerable to that segment.
+
+To find the first differences in a pyramid. Cube two of the segments, and take
+a third part of their difference. Then, as the square of the Altitude of the
+pyramid; is to the area of the base of that pyramid; so is that former
+difference; to the first difference answerable to those two segments.
+
+Let there be a pyramid whose Altitude is 10, and one side of the base is 40,
+and the other side 5; therefore the area of the base is 200. Let the Altitude
+be divided into five equal parts, and to calculate accordingly. To find the
+third difference, the cube of 2, is 8; whose double is 16. Then, as 100 the
+square of the Altitude, is to 200 the area of the base; so is 16, to the third
+difference 32. To find any of the second differences at demand, to find the
+second difference answerable to 8. As 2, the difference betwixt the segments 6,
+and 8, is to 8; so is the first difference 32, to 128 the second difference
+answerable to 8. The second differences are in proportion one to another, as
+their answering segments; as 2, is to 3*2; so is 8, to 128. To find any of the
+first differences, cube the two Segments, to wit, 2 and 4, and the cubes will
+be 8 and 64; then take 8 from 64 and the Remainder is 56, a third part is 18.
+then, as the square of the Altitude 100, is to the area of the base 200; so is
+18, to 37, the first difference, answering to 2 and 4. Then by a continual
+adding of the third difference to the second differences they are made, and by
+adding the first of the second differences to the first of the first
+differences and so in order the first differences are made. Lastly by adding
+the first differences the Segments of the pyramid, are made according to the
+III. Note; or thus.
+
+0 0 5 2 5 32 37 32 4 42 64 101 32 6 144^^ 96 197 32 8 341 128 325 10 666 1 2 3
+4 5
+
+The numbers in the fifth colum are the third differences, the first number in
+the fourth colum being found by the Rule before given, all the numbers in that
+fourth colum may be made by adding the third difference, thus, to 32 add 32,
+the sum is 64. add 32, to 64; the sum is 96. add 32, to 96; the sum is
+128. The first number in the third colum being found by the Rule above, then 5
+added to 32; the sum is 37. add 64, to 37; the sum is 101. add 96, to
+101, the sum is 197. add 128, to 197; the sum is 325. further, add the first
+of the third colum, to the first of the second colum; thus, add 5, to 0; the
+sum will be 5, add 57, to 5, the sum is 42, add 101, to 42; the sum is 144.
+add 197, to 144; the sum is 341, add 325, to 341; the sum is 666.
+
+If it be to calculate a cone whose diameters of the base are 40 and 5. Let it
+it be made, as 14, is to 11; so is 32, to the third difference of the same
+cone. Then proceed with the third difference to make the second and first; and
+lastly, the table it self.
+
+XV. Note.
+The calculation of frustum pyramides whose bases are unlike, To the
+performance of which consider the third case of the second proposition of
+Stereom. Prop.
+
+Every such solid has its third differences equal, but the second and first
+differences will be complicated according to the IX. Note.
+
+To find the third difference proper to the pyramid BCDHF, Let the construction
+and numbers be the same as in that diagram, and let it be to calculate it upon
+every two inches, thus. The cube of 2, is 8; the double thereof is 16, Then, as
+the square of the Altitude 40, that is 1600, is to the area of the base BCDH,
+336; so is 16, to 336/100. by the Rule delivered in the 14 Note, the first of
+the second differences is 336/100. and the first of the first differences is
+56/100.
+
+The solid HDEGVF has its second differences equal by the VII. Note.
+
+To find its first and second differences. The square of 2, is 4. which
+multiplied by FV, 26; the product will be 104. then, as 40 the Altitude, is to
+HD, 28; so is 104, to 7280/100. the second difference. Therefore the first of
+the first differences will be 3640/100.
+
+To find the second differences of the solid ABHOIF the square of 2 is 4,
+which multiplied by IF, 30; the product is 120, then, as 40, the Altitude; is
+to OA, 12: so is 120, to 36, the second difference. Therefore the first of the
+first differences are 18. For the complication of these differences. 1 2 3
+^6/100 336/100 3^6/100 in the pyramid BCDHF 3640/100 7280/100 in the prism
+HGEDFV 18 36 in the prism ABHOIF 5496/100 11216/100 336/100 their sum.
+
+Rejecting the denominators they may be written Thus, 5496 11216 336
+
+Because the denominators are Rejected, therefore the two last figures toward
+the Right hand are decimals.
+
+0 161496 2 161496 11216 172712 336 4 334208 11552 184264 336 6 518472 11888
+196152 336 8 714624 12224 208376 336 10 923000 12560 220936 336 12 1143936
+12896 233832 336 14 1377768 13232 247064 336 16 1624832 13568 260632 336 18
+1885464 13904 274536 336 20 2160000 14240 288776 336 22 2448776 14576 303352
+336 24 2752128 14912 318264 336 26 3070392 15248 333512 336 28 3403904 15584
+349096 336 30 3753000 15920 365016 336 32 4118016 16256 381272 336 34 4499288
+16592 397864 336 36 4897152 16928 414792 336 38 5311944 17264 432056 40 5744000
+1 2 3 4 5
+
+The construction of the table may be thus; the numbers in the first colum are
+the third differences* The first number in the fourth colum is the complicated
+second difference, and the other number in that fourth colum are made thus, to
+the first 11216, add 336; the sum is 11552. Then to that 11552, add 336; the
+sum is 11888, etc.
+
+The first number in the third colum is complicated from the first complicated
+difference and a parallelipepidon whose base is the plane RIFV, and the
+Altitude the first Segment of the Altitude of the frustum, thus, the plane
+RIFV, is 780; which being doubled is 1560; then, 156000 more 5496 is 161496;
+the first of the first differences, then 161496 more 11216, is 172712. Further,
+172712 more 11552, is 184264. Yet further 184264 more 11888, is 196152, etc.
+
+The numbers in the second colum are made thus, the first number in the second
+colum, is the same as the first number in the third colum, then, 161496 more
+172712, is 334208, and 334208 more 184264, is 518472, etc.
+
+Then making use of the first and second scholium, the quantity of Liquor that
+such vessels contain may easily be obtained.
+
+XVI. Note.
+To calculate Elliptick solides whose bases are unlike. The calculation of such
+solides are the same as in the 15, note for if the first, second and third
+complicated differences be found, then making use of this propotion as 14, is
+to 11; so is 336; to the third difference.
+
+And
+
+As 14, is to 11; so is 11216, to the first of the second differences.
+
+Further
+
+As 14, is to 11; so is 161496, to the first of the first differences, then
+proceed to make the table it self, as in the 15 note. Or make use of the
+secund scholium of the 11 note and you will have the quantity in Gallons.
+
+Or
+
+Such Elliptick solides may be calculated by the 12 note: for every such
+Elliptick solid is equal to a frustum hyperbolick conoide whose circular
+bases of the conoide, are equal to the Elliptick bases of the Elliptick
+solid; and the Altitude of one frustum is equal to the Altitude of the other.
+
+XVII. Note.
+Every hyperbolick conoid has its third differences equal.
+
+To find the third, second and first differences in an hyperbolick conoid, and
+consequently to calculate that conoid gradually. In the forementioned diagram
+of the 17. prop. Stereom. Prop. Let GM, the Transverse diameter be 12. ML, the
+parameter 6. MA, the axis of the conoid 24.
+
+To calculate the solidity of this conoid upon every three Inches.
+To find the third difference of this conoid.
+
+Take the difference of two of the Segments, to wit, 3; whose cube is 27: whose
+double is 54. Then, as GM, 12; is to ML, 6: so is 54, to 27. The third
+difference of all the squares in one fourth of that conoid proper to that
+pyramid FCDEL.
+
+By the Rule in the last note the first of the second differences is 27.
+
+For the first of the first differences, work thus; take the first Segment
+which is 3; whose cube is 27; a third part is 9, then, as GM, 12; is to ML, 6:
+so is 9, to 4. the first of the first differences proper to the pyramid FCDEL.
+
+The second and first differences of all the squares in the fourth of this
+conoid, is complicated from the second and first differences of the pyramid
+FCDEL, and the second and first differences of the prism ABCFLM. Every such
+prism has it second difference equal.
+
+To find the second and first difference of the prism ABCFLM.
+
+Square the difference of two of the Segments of the axis, to wit, 3* that is
+9, which being multiplied by the parameter ML, 6; the product is 54, the second
+difference. The first of the first d^fferences of every such prism is half of
+the second difference; therefore the first of the first differences is 27.
+
+To complicate these differences.
+
+1 2 3 differences 4 27 27 in the prism FCDEL. 27 54 in the prism ABCFLM. 31 81
+27 in all the squares of one fourth of that hyperbolick conoid. 0 0 31 3 31 81
+112 27 6 144 108 220 27 9 364 135 355 27 12 720 162 517 27 15 1237 189 706 27
+18 1944 216 922 27 21 2866 243 1165 24 4032 1 2 3 4 5
+
+In the first colum are the third differences. In the fourth colum the second
+differences. In the third colum the first differences. In the second colum the
+portions of all the squares of one fourth of an hyperbolick conoid, upon every
+three inches, whose Transverse diameter is 12, and parameter is 6, and axis is
+24.
+
+The construction of this table is the same as the former; thus, 81 more 27; is
+108. more 27; is 135. more 27; is 162. etc.
+
+31. more 81; is 112. more 108; is 220. etc.
+
+0 more 31; is 31. more 112; is 144. more 220. is 364. more 355; is 720.
+
+Here remember that the Transverse diameter is found, by the 9 of the 23
+Proposition. of Stereom. Prop. Also the parameter found by the converse of the
+first part of the 11 Prop. of Stereom. Prop. The parameter of the parabolike
+conoid is found, by the converse of the 9 Prop. Of Stereom. Prop.
+
+XVIII. Note.
+Cautions Concerning Reduction. 1
+If it be to calculate pyramids whether Regular or Irregular, whole or
+frustums; the third, second and first differences are to be found as above:
+then Reduce those differences into Gallons and parts of a Gallon, or Barrells,
+or parts of a barrels;
+
+Thus
+
+Suppose 288 cubick inches make one Gallon, and 36 Gallons make one Barrel.
+
+Then,
+
+If the measure be taken in inches, divide the third, second and first
+differences by 288, and so there will be three quotients in Gallons or parts of
+a Gallon, then with those three quotients proceed to make the table of solid
+Segments, and that table will be in Gallons or parts of a Gallon. If it be to
+calculate a table in Barrells multiply 288 by 36 and the product will be 10368
+the number of cubick inches in one Barrel. Then divide the third, second and
+first differences by 10368, there will be three quotients in Barrells or parts
+of a Barrel: Then with these three quotients proceed to make the table of
+solides Segments.
+
+That table being so made will be in Barrells or parts of a Barrel.
+
+2*
+To calculate Cones and Elliptick solids, whether the whole or their frustums.
+
+Having found their third second and first differences, as above, and it be to
+calculate them in cubick inches, Let it be made as 14, is to 11; so is the
+third difference, to a fourth,
+
+And,
+
+As 14, is to 11; so is the second difference, to a fourth,
+
+Further,
+
+As 14, is to 11; so is the first difference, to a fourth with these three
+number thus found, proceed to make the table of solid Segments, and that table
+will be in cubick inches.
+
+To calculate these solids in Gallons.
+
+Multiply 14 by 288 the product will be 4032.
+
+Then,
+
+As 4032, to 11; so is the third difference, to a fourth.
+
+And,
+
+As 4032, to 11; so is the second difference, to a fourth.
+
+Further,
+
+As 4032, to 11; so is the first difference, to a fourth.
+
+With these three numbers thus found, proceed to make the table of solid
+Segments. So that table will be in Gallons.
+
+To calculate these solids in Barrells.
+
+Suppose 288 cubick inches makes one Gallon, and 36 gallons makes one Barrel,
+then multiply 288, 36 and 14 one into another and they make 145152.
+
+Then,
+
+As 145152, is to 11; so is the third difference, to a fourth.
+
+And,
+
+As 145152, is to 11; so is the second difference, to a fourth.
+
+Further,
+
+As 145152, is to 11; so is the first difference, to a foruth.
+
+With these three numbers thus found make the table of solid Segments: that
+table will be in Barrells.
+
+III.
+Having found the third, second and first differences of all the squares of one
+fourth of a sphere, spheroid and hyperbolick Conoid, as in the 12 and 13 notes
+and the second and first differences of all the squares of one fourth of a
+parabolick conoid as in the 11 note: they may be Reduced to Circular
+differences.
+
+Thus*
+
+As 14, is to 11; so is the third difference, to a fourth.
+
+And,
+
+As 14, is to 11, so is the second difference, to a fourth.
+
+Further,
+
+As 14, is to 11; so is the first difference, to a fourth.
+
+With these numbers thus found make a table, of solid Segments of cubical
+inches of one fourth of any of these solids.
+
+These solid Segments ought to be multiplied by four, to reduce them to solid
+Segments of a whole sphere, spheroid, hyperbolick and parabolick conoid: but to
+shun that work divide 14, by four, and then find the new differences; but
+because 14 cannot be just divided by four, therefore divide 14, by two, and
+multiply 11, by two, and then work; Thus,
+
+Then,
+
+As 7, to 22; so is that third difference, to a fourth.
+
+And,
+
+As 7 to 22; so is that second difference, to a fourth.
+
+Further,
+
+As 7, to 22; so is that first difference, to a fourth.
+
+With these numbers thus found, proceed to make tables as is taught in those
+Notes: tables so made, will be tables of solid Segments of those solids, in
+cubick inches.
+
+To calculate these solids in Gallons.
+
+Multiply 288 by 14, whose product is 4032; one fourth thereof is 1008;
+
+Then,
+
+As 1008, is to 11; so is the third difference, to a fourth.
+
+And
+
+As 1008, is to 11; so is the second difference, to a fourth.
+
+Further,
+
+As 1008, is to 11; so is the first difference, to a fourth.
+
+Tables being made, with numbers thus found; according to the former directions
+in the sphere, spheroid, hyperbolick and parabolick conoids, will be tables of
+solid Segments of a whole sphere, spheroid, hyperbolick and parabolick conoid,
+in Gallons or parts thereof.
+
+To calculate these solids in Barrells.
+
+Multiply 4032 by 36, the product will be 145152, one fourth thereof will be
+36288;
+
+Then,
+
+As 36288, is to 11; so is the third difference, to a fourth.
+
+And,
+
+As 36288, is to 11; so is the second difference, to a fourth.
+
+Further,
+
+As 36288, is to 11; so is the first difference, to a fourth.
+
+Tables being made, with numbers thus found, according to the former
+directions, will be tables of solid Segments in Barrells. etc.
+
+Then,
+
+Using a Rod or Ruler equally divided into inches as in scholium the first, the
+number of Gallons or Barrells may speedily be obtained.
+
+As for the just magnitude of the Gallon, it i^ not my business to dispute;
+that being determined by custom or Authority: I took 288 only for Example sake.
+
+XIX. Note. In a Rank of numbers having equal differences.
+Let the first term in the Rank be Z, its square ZZ. the second term 2Z, its
+square 4ZZ, therefore the first of the first differences is 3ZZ, the third term
+in that Rank 3Z, its square 9ZZ, then 9ZZ, Less 4ZZ, the second of the first
+differences 5ZZ, therefore 5ZZ Less 3ZZ the second difference will be 2ZZ.
+
+Further,
+
+The fourth term in that Rank is 4Z, its square is 16ZZ, then 16ZZ Less 9ZZ the
+third of the first differences 7ZZ; again, 7ZZ Left 5ZZ the second difference
+is 2ZZ.
+
+Hence it follows,
+
+That the second difference is equal to the square of the first term doubled.
+
+Or also,
+
+The second difference is equal to the squar^ of the difference of two of the
+terms, (in order taken) doubled.
+
+By the same method we find that the third difference in a Rank of cubes are
+equal, and the third difference is equal to the first term multiplied by 6.
+
+Or,
+
+The third difference is equal to the cube of the difference of two of the
+terms, taken in order, multiplied by 6.
+
+The index and equal difference, of every power agrees; to wit, the index of
+the square is 2, and the second differences are equal. The index of the cube is
+3, and the third differences are equal. The index of the square squared is 4,
+and the fourth differences are equal. etc.
+
+The equal difference of every power, is complicated from the index of that
+power, and the equal difference of the next Lesser power.
+
+Let the Rank be in natural order, Thus; 1, 2, 3, 4. etc.
+
+The indices of the powers, Thus.
+
+1 2 3 4 5 Z ZZ ZZZ ZZZZ ZZZZZ
+
+A unity the equal difference in that natural Rank, whose square is 1, which
+multiplied by 2 the index of the square the product is 2, the equal difference
+in the squares. 3, the index of the cube multiplied by 2 the equal difference
+in the squares, the product is 6, the equal difference in the cubes* 4 the
+index of the square squared multiplied by 6 the product is 24 the equal
+difference in the square squared, etc.
+
+If the Rank be in order thus, 2, 4, 6, 8, etc.
+
+2 the equal difference of this Rank whose square is 4; multiplied by 2 the
+index of the square the product is 8; the equal difference of the squares in
+such a Rank. Because the equal difference of the Rank is 2, therefore the
+indices are to be doubled, etc.
+
+And the equal difference of the powers in such a Rank will be 8, 48, 384, etc.
+
+XX. Note. For the more easier calculation of the second sections of the sphere
+and spheroid; work, Thus.
+From the double of the superficies of the triangle BZN, substract the
+superficies of the triangles BZGD and NZPA, the Remainder will be the
+superficies of the triangles BZPA and NZGD, the areas of these two triangles
+being subtracted from the area of the traingle NZB, the Remainder will be the
+superfice of the triangle ZGDAP.
+
+FINIS.
+By John Baker, living in Barmonsey-street in Southwark, over against the
+Princes-Armes, is Taught Arithmetic, both in whole numbers and fractions,
+Decimal, Logarithmetical and Algebraical, Geometry, Trigonometry, Astronomy,
+the use of Globes, Navigation, Measuring, Gageing, Dyalling, etc. Also the
+Construction and use of all the usual lines put upon Rules or Scales, He also
+teaches how to find the (Length and) Spreading of a Hiprafter, only by a Line
+of Chords of singular use for Carpenters, a way not as yet vulgarly known
+amongst Workmen.
+
+Faults Escaped in the Impression of Stereometrical Propositions.
+Page 1, line 18, for and Z Read and H. p. 10, l. 23, for 56, r. 58. p. 34, l.
+25, after RI put. p. 43, for 297232, r. 297432. p. 45, for 18, r. V432* p. 46,
+l. 1. for XVI, r. XVII. and l. 21, for AE, 16; r. AF, 6; p. 48, l. 6, for 634.
+r. 624, p. 51. l. 22, for diameter, r. semidiameter. p. 58* l. 25, for ZB, r.
+XB* p. 63, l. 1, for XIII. r. XXIII. p. 100. l. 17, for parameter, r. diameter.
+p. 102 and 103 for as 4 to 3, r. as 3 to 2. p, 105. l. vlt. for Z+2* r. Z-2. p.
+106, l. 4, for Z=^ r. Z-. and l. 25, for 89, r. 98.
+
+p. 7 against 12 in the first col. in the sec. r. 576. and in the fifth colum
+f. 96 r. 99. p. 13. in the second col. f. 46. r. 36. and in the same col. f.
+2216, r. 2916.
+
+

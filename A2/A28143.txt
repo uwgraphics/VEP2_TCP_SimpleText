@@ -1,0 +1,1430 @@
+A VOYAGE Of the Late King of Sweden, And another of MATHEMATICIANS, Sent by
+Him: In which are discovered The Refraction of the Sun, which sets not in the
+Northern Parts, at the Time of the Summer Solstice, Var^^tion of the Needle,
+Latitudes of Places, Seasons, etc. of those Countries. By Command of the Most
+Serene, and Most Mighty Prince, Charles XI. King of Swedes, Goths, and Vandals.
+
+Faithfully Rendered into English.
+
+LONDON, Printed for Edward Castle, next Scotland-Yard-Gate, by Whitehall, School.
+
+TO THE Most Serene, and Most Mighty Prince and Lord Charles XI. King of
+Sweden, Goths, and Vandals; Great Prince of Finland; Duke of Schonen, Estland,
+Lifland, Carelen, Bremen, Verden, Stetin, Pomerania, Cassuben, and Vandalia;
+Prince of Rugen; Lord of Ingria, and Wismar; Palsgrave of the Rhine; Duke of
+Bavaria, Juliers, Cleves, and Mons, etc. etc.
+My most Gracious King and Master. Most Serene KING, AND MY Most Gracious LORD,
+BECAUSE it Pleased Your Majesty, most Serene Prince, to lay Your Commands upon
+me, to Write both in our own Language and Latin, what we observed in a late
+Northern Journey, concerning the Elevation of the Pole, and other things of
+that Nature, I have therefore for a few Weeks past, since our Return, daily
+deducted somewhat from my Public Concerns, that thereby I might most humbly
+Obey the Commands of Your Most Serene and Royal Majesty. But as the Nature of
+Mathematical Sciences is such, that they depend upon Easy Use and Exercise,
+but require a more difficult Invention and Demonstration; so our Observations
+are made in fewer Hours than Demonstrated. The distinction of the little Wheel
+into its known Parts, gives but small Trouble to the Clock-Maker; but the
+manner of dividing is not his, and but difficultly Invented. Even Boys at
+present do mutually teach one another Arithmetic; but the Practice of it has
+been Intricate, the Rules being altogether drawn from the very depths of
+Mathematics. The Masters of that Art will peradventure wonder, that at this
+day the Mathematicians solve the more difficult Problems by the help of
+Addition solely; but when they have gotten the Key they will cease any further
+to admire it. For the Ignorant Plough-man will play you upon his Instrument any
+French Air, just as well as the most excellent Musician, provided he have but
+the Key of it. In a word, all Artifices which owe their Births properly to
+Mathematics, are of the same Nature. And because very many not well skilled in
+this Learning; and not sufficiently accustomed to distinguish the Truth of
+Sense and Reason, have rendered Philosophy only sensible; and by this Error of
+theirs, have rendered the way to solid Learning in other Sciences also very
+abstruse and difficult; therefore Mathematicians have resolved never to admit
+of any thing whatsoever, without clear and perspicuous Demonstration. How
+imperfect the knowledge of our Senses is, when destitute of Reason, the Sun
+being elevated above the Horizon in the whole World may teach us; which yet
+reason dictates to be otherwise placed. I have therefore expounded the Doctrine
+of Refraction, and other things not altogether so unknown more at large than
+was absolutely needful. And it is well that our Observations come forth in both
+Languages, though our Mother Tongue might have been sufficient for our
+Countrymen; as it is now usual for the French, English, and other Nations of
+Europe, to express Arts and Sciences to their Countrymen. And yet because very
+many Foreigners have laid the Seat of their Fortunes in Swedeland; and, besides
+that, there be diverse People of the Subjects of Your Most Serene Majesty, who
+speak a Language only proper to themselves; the Latin Tongue being familiar to
+all in the European World, will best fit every one of them in Particular.
+
+Lastly, because Foreigners born under another Climate and Soil, have a desire
+to learn such things from us; as not long since, both the French and Italians
+undertook this Journey, not without the greatest labor; so, Great King,
+something will redound to the Immortality of your Name, from this Observation
+not only begun, but likewise perfected under the Auspicious Influences of your
+most Serene Majesty. The World is not ignorant, that God has adorned and
+accumulated your Majesty with Endowments of all sorts, which we falling into
+the other Extreme do more sparingly commend; whilst studiously shunning the Mob
+of Flatterers so much detested by your Majesty, with a tacit Veneration only
+honor every Perfection drawn from the heap of your Imperial Virtues:
+Outlandish Men will not be silent in it; nor shall after-Ages neglect to extol
+it to Heaven with the justest Praises. As for what concerns this little Work, I
+ought not to conceal that it is not only below Mediocrity, but I am sensible
+will be far beneath the Hopes of your most Serene Majesty: For since the Time
+that your Majesty unexpectedly imposed the Province upon me of a most different
+Nature from this Affair; for some Years together I threw away the Rule and
+Compass, as unprofitable Instruments for the Course of Life which was then to
+be taken; and hid those old Masters in a certain Corner of my Library, which
+still fills up a little Room in my House at Upsal; but now endeavoring to wipe
+off that filthy Rust from my Mathematical Instruments, which they had
+contracted by lying by, I have made it my Business, that rather Power than Will
+should be wanting in me so far distant from my Books; and because a great
+Strife amongst your Subjects in the Veneration of your Serene Royal Majesty
+grows daily warmer; as for me, the least share of them, if I cannot act equally
+to the rest, yet certainly will never suffer my self to be outdone by any in
+Obedience, Reverence, Observance, submissive Respects, and a devoted
+Disposition. To the very last I will humbly implore the Divine Majesty of the
+Supreme God, that he will vouchsafe perpetually to preserve your Majesty, the
+Glory of Kings, (given from Heaven to promote his Honor, and conserve our
+Country) healthful, vigorous, undisturbed, and cheerful to us, and to them that
+are, and shall be born of us: So wishes, and will ever pray,
+
+Of Your most Serene and Royal Majesty, The Eternally, most Devoted Servant,
+John Bilberg.
+
+In Solstitium aestivum a Serenissimo, Potentissimoque PRINCIPE, CAROLO
+UNDECIMO, Suecorum, Gothorum, Vandalorumque REGE, In TORNEA Urbe spectatum
+expositumque a Celeberrimo Viro JOANNE BILBERG.
+TOrna, vetus septem sed nunc nova fama Trionum,
+Ultima Botniaci quam maris unda ferit:
+Grande tibi cessit, praesens quod suspicit aevum,
+Quodque canent semper postera secla, decus.
+Nuper Hyperboreum propius cum viserit axem
+CAROLUS, Augusti sideris instar habens;
+Quaque iit, in plausus sese utraque solveret Arctos,
+Et nova conciperet gaudia totus apex:
+In te, pervigilem, nocturno tempore, Phaebum
+Vidit, pro patria pervigil ipse sua:
+Vidit inocciduo radiantem lumine vultum,
+Perpetuoque die tum sua Regna frui.
+I nunc, quicunque es, nostris atque objice terris
+Aeternumque gelu, Cimmeriumque chaos.
+Haec lege, quae narrat Bilbergius, (Is quoque tantae
+Spectator lucis, Rege jubente, fuit)
+Cognosces quanto fulgore hic ferveat aestas;
+Quantaque naturae munera mitis alat.
+Cognosces, quam pura fluat, qua vescimur, aura;
+Quam fit, quod colimus, non sibi segne solum.
+Ut nulli faveat Titan impensius orae;
+Majores nusquam ducat ut ille moras.
+Hibernae noctes tolerentur, and aspera brumae
+Omnia nam redimit solstitiale jubar.
+THE CONTENTS.
+Chap. 1. THE Observation of His most Serene Royal Majesty. Page 1. Chap. 2. An
+Account of the Longitude of Places. Page 19 Chap. 3. Diurnal and Nocturnal
+Observations of the Sun. Page 38 Chap. 4. The Doctrine of Refractions. Page 52
+Chap. 5. The Constitution of the Frigid Zone. Page 75 Chap. 6. The Latitudes of
+Places observed in our Return. Page 83 Chap. 7. The Figure of the Earth,
+Variation of the Needle, and difference of Refractions under the Role, and
+Equator. Page 96
+A VOYAGE Of the Late King of SWEDEN, etc.
+CHAP. I. The Observation of His most Serene Royal Majesty.
+IN the Ancient and Learned Ages, when it was the greatest Strife amongst Men,
+that Eternity should accompany the Glory of Arts and Sciences, they were
+carried in a short time to the height of Learning; for the Romans emulated the
+Greeks, the Greeks the Egyptians and both of them the Chaldaeans; but they all
+both imitated those who went before them, and were Examples to such as did
+follow: Only Epicurus gloried that he had no Master; and that he made the way
+for himself unto Truth; but that is the happiness of few People, and rarely
+falls out in our Times: We think it is excellent well for us, if we commendably
+follow; nor do we wonder that the things which are hidden deeply, should be
+slowly discovered; for such is the nature of our present Age, that Men avoid
+Difficulties, and treat lighter Matters with a slight hand, and are ignorant of
+very many things which they think they know, not so much through weakness of
+Judgment as Laziness. It Is apparent, almost to all Men, not only to
+Philosophers, but Unlearned, that the Sun, the Moon, and other Stars of this
+visible World, keep the Course which the Wisdom of the Supreme Deity ordered
+from the beginning; and no body is so silly as not to understand, that at set
+times they return to illuminate the several Parts of the World; for it is well
+known, that the Earth sometimes is torpid with the sharpest Cold, and bound
+together with the hard Frost; and sometimes in one and the same place of the
+World is inflamed with the burning Heat of the Weather, and thereupon undergoes
+its various Vicissitudes; and Experience joined to Reason does sufficiently,
+and too much confirm, that no other Cause can be assigned of that Matter, than
+the departure of the Sun, its return, and various Situation; but that some
+Countries should burn with the continual Heat of Heaven, and others grow hard
+with a perpetual Cold, and yet equally afford Advantages to their Inhabitants,
+is that which many Philosophers have called into Question; and is not at this
+Day believed, but by those who have found it by Experience. It would be a
+pleasant sight to behold the Earth in an Abridgement, to view the Situation of
+it, its Form, and Bounds; some Parts very well Peopled, whilst again some
+others are frequently void of Inhabitants, through the violence and extremity of
+Cold or Heat, for there are many altogether as great Strangers in their own, as
+Foreign Countries; and if they know any thing by the Relation of others, yet
+they themselves are almost Ignorant of the Matter; and hence it is, that very
+often they judge wrong of the Condition, both of their Native and other
+Countries: wherefore, seeing it is now long since, that it seemed ill for Men
+to be Ignorant both of their own and Outlandish Climates, by degrees a certain
+Desire seized upon Noble Souls, by Voyages and Learned Studies, to render this
+Knowledge familiar to them. Without this culture of the Mind no Person could
+have easily and soon persuaded us, who live in the remotest Northern Countries,
+that there are some People who have perpetually their Days and Nights equal; or
+these last, that we should undergo so different Changes, to wit, that we should
+be sometimes destined to a perpetual Night; and again, under our sometimes
+unsetting Sun, have no room left us for Darkness; but that they should rather
+cry out,
+
+Triste solum, sterilis, sine fruge, sine arbore tellus,
+Frigus iners, illic habitant, pallorque tremorque,
+Et jejuna fames. --
+Sad Soil, Earth barren, without Fruit or Tree,
+Cold, Paleness, Shivering do Inhabit thee,
+And meager Hunger. --
+The Industry of that Italian is to be commended, who not long since viewed our
+Northern Parts, with curious researches. I am willing here to make use of his
+Words, out of his Manuscript, that by his Example, we may confirm our own, and
+invite others to do the like Matters. In questa (says he) Zona glaciale
+boreale, bisogna ammirar la Providenza di Dio, nel vider il Sole, che per sei
+settimane resto sobre dell' Orizonte, formando a questa regione non arco ma
+Corona, e cosi la Luna e le Stelle; ma queste non apparono per hora, cedendo al
+primo luminare, e campeggiono poi altretanto tempo circa il Solstitio hiemale,
+cosi loro permettendo quello con la sua contenanza: Pare in un certo modo che
+sia degno di non minor osservatione e maraviglia in quest' effetto il sole, di
+quello che sarebbe se si vedesse arrestar il suo corso, come nel tempo di
+Josue, overo retrocedere, come in quello d' Ezechia, insegnando S. Agostino nel
+decimo della citta di Dio, che: Quamvis miracula visibilium naturarum videndi
+assiduitate viluerint: tamen cum ea semper intuemur, inusitatissimis
+rarissimisque majora sunt. Che se all hora fece il giorno alcune hoar piu long
+dell' ordinario, che lo so per settimane e mosi, si come ho detto, onde pare
+che di questo specialmente si verifichi il detto del Salmo: Ordinatione tua
+perseverat dies. So far he.
+
+But our Weakness, not to say Laziness, causes this difficulty of Believing in
+many; who are very seldom persuaded that the things are true, which our
+Countrymen, and the Inhabitants of this Kingdom, though of very good Repute,
+relate concerning the various Vicissitudes of the Year in distant places.
+Nothing certainly being a greater Impediment to a right understanding, than the
+prejudicate Opinions of our Infancy, which having sucked in with our Mother's
+Milk, and an ill Education, we can hardly at last lay aside in our Old Age; for
+who does not, that I may use this Example, persuade himself that he lives in
+the upper part of the Earth, and the highest place of it; that others dwell on
+the sides, or if he can apprehend it, on the bottom of it? And yet it is
+certain, that some do Inhabit Countries farther distant from the Pole, and
+others live in places nearer to it. The Experience of those who Travel by Land
+or Sea, convinces us of this, which to deny or oppose, is the sign of a Mind
+either Distracted, or altogether Perverse. Hence it is, that of late more
+Credit is given to some illiterate Sailors, who having sailed round the World,
+have asserted that it is round, than to those Ancient Divines and Philosophers,
+who contended that the Form of the Earth was not so, only that they might gain
+a greater Strength to their Authority and Doctrine. Certainly we admire, that
+Men eminent for Learning, at the very mentioning of whose great Names we pay
+respect, should ever fall into so absurd Opinions. Tertullian and Austin
+thought that they were over-wise, who taught that there were any Antipodes.
+Others Ridiculously. (...).
+And Posterity perhaps will be surprised, that we, at this time of Day, are
+ignorant of many, and those not so difficult Matters neither.
+
+And further, I do believe it is agreed amongst all Virtuoso's, and such as are
+given up to Ingenuous Studies, that from the first Moment the Creator of the
+World gave to the Sun, as to the Ruler and Governor of the Day, a motion so
+equal and constant to it self that every where by equal Circumvolutions, it
+makes also alike Courses; and produces sometimes equal, and sometimes inequal
+Shadows, and as much as in it lies in places alike, produces effects alike
+also; from whence it comes to pass, by the great Providence of God, that the
+Sun warping toward either Pole at set times, regulates the Days and Nights,
+and gives Light or Darkness to Countries, to be estimated by the Spaces of
+Hours, of Days, or of Months; and it ought to seem a Paradox to none, that the
+People who dwell under the Equator, and have their Days and Nights perpetually
+equal, should not have longer Days than those, who if they live under the very
+Poles, will reckon one Night to be of six Months, and the opposite Day to be
+equal to it; and that those who are situated between the Equator and the
+Poles, however they divide their time, reckon also so many Days and Nights to
+be measured in the same Spaces.
+
+No Mathematician is ignorant, that those who live about the 65th. degree of
+Altitude, have their whole Day in the Summers Solstice of 24 Hours; or which is
+the same, at that time the Sun does not set as well from Natural as Optic
+Causes, before the 66th. degree be completed: But very few Mathematicians have
+drawn this Knowledge from the Experience of their own Eyes; from whence it
+comes to pass, that though the Inhabitants of the Country should assert this to
+be true, yet in this Point they would not gain Credit from such as urge only
+Natural Causes; and besides, the Variety and Disagreement of the Relaters
+increases the obstinate doubts of the Incredulous, since, after the Vulgar way,
+some mix incredible Things with Truths. This Assertion moved the most Serene
+Prince Charles the 11th. the most Potent King of Sweden, Goths, and Vandals,
+and our most Gracious Sovereign, when the last Year he viewed these Regions;
+who, as he is endowed by the Supreme Deity with a truly Divine and Admirable
+Wit, and adorned with all the Gifts that are most proper for his Royal Post; so
+he delights to make the exactest Scrutiny into all things, and to discuss every
+one of them in particular, and to give as much credit to every Person as he
+deserves; so being now desirous to try with his own Eyes, what Truth there was
+in the common Report of the People, and whether they did really see in those
+Places a Sun which sets not: He was then in the City Torneo in Westro Botnia,
+situated about 65 and 43 of Latitude; whose Horizon, although it was in part
+hindered by Mountains and Woods, so that the Truth of this Matter could
+scarcely be discovered upon the plain ground; and besides, it being some Days
+after the Summer Solstice, we might doubt the opportunity of seeing it was
+slipped; however the undaunted Heart of the most Invincible Monarch, never
+fatigued by any Labors, conquered all these Difficulties: A little Tower being
+showed to us of about One hundred Foot high, on which the Bells of the Church
+of the City are hung; he gets up into it by Ladders, and those very steep,
+accompanied with some Eminent Persons, as Curious Witnesses of this
+Observation; amongst whom by Name, were Count Gustavus Douglas, Governor of the
+Northern Provinces, Charles Piper, Secretary of State, and the Secretary of
+War, John Hoghusen: In the Year M DC XCIV. on the 14th. of June we viewed the
+same until Eleven a - Clock and 53 M. at Night; at which time a little Cloud
+covering the Sun by little and little, it disappeared; but about the 12th.
+Hour, and 6th. Minute after Midnight, or of our following Day, which was June
+the 15th the Sun passing again out of the small Cloud, shined out very
+brightly; from whence it is certain that it did not set in the mean time, but
+that Cloud was the only Cause why it was not discerned all Night long; the
+Experience of the Inhabitants confirm it, who always at that time of the Year,
+when the Weather is clear, use to see the Sun all the Night long: The most
+Serene King himself did not disdain to put down with his own Hand into his
+Table Book this Observation; which when the rest of the Company had neglected,
+they were surprised the next Day at the admirable Exactness of the King, in an
+Affair so foreign to Royal Concernments, and his most exact and Mathematical
+Diligence; and being ashamed for the Neglect of it, and that they were outdone
+by their King in so small a Share of Trouble, they humbly and submissively
+beseech'd the King, that they might have a Copy of his Observation; His most
+Gracious Majesty readily granted their Requests, and gave leave to all those
+who desired to take a Copy of it. This way the Royal Observation came to the
+joyful Hands of his Subjects; and by the Care of the most Illustrious Governor
+of that Country, Count Gustavus Douglas, may be read in Golden Letters upon a
+Table fast'ned to the Wall, near to the Altar of the Church in that City; and
+lest any thing should be wanting in our Testimonial, for the Credit of the
+Transcribers, behold a Confirmation.
+
+IVnderwritten do testify this Description wholly to agree with the
+Observation of his most Serene Majesty, written with his own Hand,
+
+Torneo, June 15. 1694. John Hoghusen.
+
+
+Certainly a Monument fit for Posterity to admire, and to propose to themselves
+the Sedulity, Care, Vigilance, and incredible enduring of Toils of so great a
+Prince; for who being intent, and exposed to mighty, not to say Royal Fatigues,
+can endure to descend to so minute, so unusual Matters? And ye Sons of the
+Mathematics whose Talent it was to fetch such things out of their secret
+Places, and to demonstrate them; You, I say, ought to blush, and publicly
+acknowledge that your Science has received this Improvement, not from your
+selves, but from the most Potent King.
+
+Our most Gracious King having viewed these Countries, as he designed; and
+having traveled some Tracts of Land, inhabited by such People as either speak,
+or understand the Sweedish Language; and at length being come amongst other
+Nations, using only the Finland, or Lapland Tongue, used by few in the World,
+returned with great speed according to his usual Custom. After his Return,
+amongst other things, he relates to his Subjects, who enjoy a milder Air, and
+more fertile Soil, the incredible Varieties of Days and Nights, which he had
+seen in the most Northern Parts of his Kingdom; not only where the day at that
+time is continual by the Presence of the Sun, but also where they live in
+Summertime without any Night, by the perpetual Twilights; and affirmed that he
+had spent a continued Day without any Night, a thing before heard, but not at
+all believed by him; and when that Business, known to very few, rendered all of
+them doubtful who were so attentive to his Majesty's Discourse, several
+Questions were started, which exercised the Belief of some, and the Judgment of
+others: Thereupon our Mathematicians are consulted, whether really under that
+Elevation of the Pole, such Phaenomena's were to be expected; and which were
+the true Causes, why in those Places the Body of the Sun did not set: But they
+most humbly answered, they believed it might be so through diverse Natural
+Reasons to be determined by the Situation of Places, Temper of Air, and other
+Changes; but as yet not at all understood by them, having never lived under
+that Elevation of the Pole, but only giving Credit to their Land-Maps; which
+being often made and corrected, cannot always merit our undoubted Belief in all
+things; but that every Astronomical Observation should be so made, as to answer
+the Celestial Observations, and besides illustrate them; and they all to be
+confirmed by Geometrical Demonstrations, that they may show their Readers such
+Reasons, as do not persuade, but force them. By this means the Science of
+Astronomy had its Rise, Progress, and no ordinary Increase, first from the
+Asiaticks, then from the Europaeans for many Ages, by the indefatigable Labor
+of the Observer. In the Northern World, the Inhabitants being studious of War,
+and Arms, that Science did not lie altogether neglected, as appears from the
+Grave-stones, and Runick Calendars, with other very Ancient Monuments; however
+it was not cultivated with a Care that might equal that of the Chaldaeans, or
+the Ancient Mathematicians in Greece: Nevertheless, by the Grace of God, these
+Ages owe their Happiness ever since the most Blessed Times of the Reformed
+Religion, to Kings of Pious and most Glorious Memory; and especially to His
+most Serene Royal Majesty, which by a Paternal Affection, and truly Majestic
+Love for Learning, and Men of Letters, by his incredible and inexhausted
+Magnificence to them, has brought not only the Mathematics; but all sorts of
+Sciences to that pitch, as neither we could hope, or Foreigners believe, they
+could ever attain to; and yet a great deal of Work is still remaining, and
+there will never want an occasion to any who shall be born a thousand Ages
+hence to add something. For many things, according to the Conjecture of the
+wise Roman, are reserved for future Ages, when the very Memory of us shall be
+worn out: These things and others of the like Nature, discoursed they, not
+without Pleasure, before His most Serene Majesty; who, after considering them
+more deeply, carefully weighs with himself the Force and Effects of Nature; and
+though he did not distrust his own Eyes in the Observations once made, yet that
+he might gain the Consent and Confession of all, and lay open the true Series
+of Causes, resolves to send thither some Mathematicians about the same time of
+the following Year, that so they might note every thing distinctly, and duly
+observe the differences of Motions, with the true Risings, and Settings of the
+Sun, and what they were with Refraction or without it. In the mean time, his
+loyal Subjects made a Medal to the most grateful Memory of that so fortunate
+Royal Expedition, with the Picture of the King, and an agreeable Emblem.
+
+CHAP. II. An Account of the Longitude of Places.
+NOW therefore in the present Year, 1695. in the Month of April, this Charge is
+committed to me by His most Serene Royal Majesty, that I should undertake the
+Journey, together with the most Illustrious Person, Mr. Andrew Spole, the most
+ingenious Mathematick Professor in the University of Upsal, and now almost
+superannuated, my Companion and Associate in the Journey, and formerly for
+eleven Years my most pleasant Colleague in this sort of Studies; and that we
+should omit nothing that might conduce for the making of these Experiments, or
+any other of this Nature; and above all we were injoined so to hasten our
+Journey, that we might be in the City Torneo, where the King's Observation was
+made, not only some days before the Summer-Solstice, but also that we should go
+farther to the Northward, where we might see the Sun higher above the Horizon
+in the North Meridian, by reason of the greater Latitude of the Place: Thus we
+departed from Upsal with Hearts and Souls resolutely fixed, on the 21st. Day of
+May, Old Style, which is used in our Country, at a Season unusual, and not yet
+fixed, by reason of the Unseasonableness and Rigor of the Weather; and
+therefore with great Difficulty we passed through Upland, Gestricland,
+Holsingland, Medelpadia, Angirmarnland, and West Bothnia, being for the most
+part in these last Countries detained by Ice and Snow; especially in passing
+over Rivers, and Arms of the Sea, which are there in great Plenty, and
+sometimes so wide, as to be 1000 Paces over; in which not only the Rapidity of
+the Rivers, and Fierceness of the Winds, but also the Ferry-Boats are to be
+minded, least they be severed asunder; for two Boats placed at a certain
+distance from one another, make a Ponton, into which a Chariot is to be so put
+with Horses, that the sore-wheels rest upon one Boat, and the hind-wheels on
+the other; the Oars being fitted on both sides: And in the high way the ground
+being sometimes slippery, and the Horses and Charriots sticking in dirty
+Places, created us great Trouble, where the Cold being partly dissipated, yet
+the Earth did not return to its former Solidity and Firmness; for at this
+Season the Creeks nearest the Shore being hardn'd with Frost and Ice, and many
+Pines being cut down, and disposed into order, did even then represent a
+Winter-Journey, the Frost being melted, and thawing near the Bank-side only, so
+that no body could go any further of the Journey with Safety; and therefore
+almost all by Land, the way being as yet not well beaten; wherein being tossed
+by diverse Fortunes, at length we happily arrived at Torneo on the 6th. of June,
+having made a most hazardous Voyage in sixteen Days, in Charriots, Boats, or on
+Horses, and a-foot by turns.
+
+The City Torneo is situated by the River Torneo, rising in Lapland, a very
+pleasant Place, which the River makes, by parting it self into two Arms, and
+joining again where it discharges it self into the Sea, from which Island the
+Citizens assert the City to have received its Name at the time of its Building:
+But it was founded in this Island in the Year of our Lord M DC XX. when before
+it was the Seat of Inhabitants, who dwelt some Furlongs from it to the South,
+where there is still an old Stone-Church; for they have a wooden one in that
+City, and that curiously built, as generally is usual in other Cities of that
+Country, not long rebuilded. This City trades chiefly with the Finns and
+Laplanders, whose Language the Citizens understand well: In the Winter they
+likewise give them a Visit with their Ram Deer; and for the Merchandise which
+they carry with them, receive others from the Laplanders of equal Value: They
+have also no inconsiderable Commerce with the Moscovites, who yearly sell their
+Goods to them, and part with them at a very reasonable Price; since those which
+are brought out of the City Archangel, lie them in less, when the Concourse of
+the Hollanders is the greatest. The same Evening that we came to Torneo, we
+observed the Sun above the Horizon, noting the Time by the going of a most
+exact Clock, which showed Minutes and Seconds, which I had for that use, by the
+Favor of the most excellent Count, and Royal Senator, Nicolas Gyldenstolp, by
+this at 11 h. 15, 45, the Sun was hidden in a little Cloud, passing over it,
+and appeared that Night no more to us.
+
+On the 7th of June we sound the Altitude of the Sun, by two Brass Astrolabes,
+exactly divided into Degrees. and Min. One of which we would have to be loose, and
+the other fixed with the Perpendicular, by which the Errors which arise by the
+Disposition, might be the more easily detected; and by this Means we took Care
+that the very least difference of them should not escape us; nor was any
+Calculation made by us, except the Instruments agreed most exactly. The same
+day in our first Observation, we found the greatest Altitude of the Sun to be
+47. 48. On the 8th Day we found the Meridian Altitude to be 47. 49. The 9th Day
+was Cloudy. On the 10th it was 47. 50. from which repeated Observations, and
+another more made in the same place at our return, on the 18th of June, when
+the Suns Meridian height had decreased to 47. 45. we gathered by an
+Astronomical Calculation, the true Motion of the Sun being considered, and the
+just Parallax added, that the Elevation of the Pole in that City is not so
+much, as is laid down in some Geographical Tables, especially those of
+Foreigners, being but 65. 43. but no account ought to be had of the Refraction
+in these Observations, the Body of the Sun being elevated beyond that degree
+where they cease; we desired truly to confirm these Diurnal Observations by the
+fixed Stars; because to those who observe by the Circumpolar Stars, the
+Altitude of the Pole uses to come out less; and the Winter and Summer
+Declinations of the Sun being otherwise equal, the Hypothesis of the fixed
+Obliquity of the Ecliptic being granted; but amongst the more Northerly, at
+several Times are rendered inequal by reason of their Refractions; but at that
+time the Light of the Sun, and its continual Presence saved us that trouble.
+
+The Latitude of Torneo being found, we were solicitous to find out the true
+Longitude of it; but seeing that could not be Astronomically obtained, by any
+direct Journey, by reason of the Situation of Places, we were forced to be
+satisfied with the Reports of the Land-Surveyers, who have so exactly described
+the Measures of the Ways, and the Situation of all the Countries and Counties,
+by the Command of His most Serene Royal Majesty, and because amongst the
+several Ways of finding out the Longitude of Places, especially at Sea, for
+which the States of the United Provinces promised so great a Reward to the
+finder of it, all Eyes being intent upon this Victory, which is not as yet
+obtained: I say, amongst so many ways, no Invention has yet appeared more
+excellent than that which is performed by the help of a Pendulum; of which that
+Noble Hollander, Christianus Con-stantine Huygens, was the Inventer and Author;
+a Person, as well for his other Famous Works, as for the sake of this, most
+worthy of Immortality. And here it came into our Heads to admire the great
+Constancy of these Portable Clocks, made after that Example, two of which I
+brought with me from home, accurately distinguished with an Horizontal
+Pendulum, and divided into Minutes; but the Third, having also Seconds, was
+added to them at Stockholm. Before our departure I so disposed these Two for
+three Weeks together, to the Motion and Measure of a most correct, exact
+Pendulum of three Foot, which was such a Rule for me, that I could scarce doubt
+of their Exactness; since in the whole Journey they went so equally, that they
+did not differ from one another so much as one Minute at the same time. But it
+moved me more than I can express, in the first Observation at Torneo, when the
+Suns greatest Altitude, and from thence the true place of the South was known
+to us, all these Three Clocks wanted only 18 Minutes of this Point; to wit, the
+Automaton showed the Hour of the Day of the Meridian from whence I came, and to
+which I was joined when I departed at Twelve a Clock, and yet could not rightly
+show us the Meridian of Torneo; or to agree with it, because that City is
+judged to be some Degrees more Easterly than Stockholm. For of the Mapps which
+I now have, one of them, which Aegidius Valkenier put forth in a lesser Form,
+makes the Longitude of Stockholm 35 Degrees, and 30 Minutes, but of Torneo 40.
+0. this difference of the Meridians, 4. 30. gives the Intervals of Time 18
+Astronomically computed: The other of Fred. de Wit makes the Longitude of
+Stockholm, 36. 20. but of Torneo 41. 10. This difference of the Meridians 4.
+50. makes the measure of Time betwixt them 19. 20. A third of Scandinavia, by
+the same De Wit makes the Longitude of Stockholm 39. 00. but that of Torneo
+precisely 44. 00. which is the greatest, and produces the difference of the
+Meridians of five Degrees; whence also in Time the difference of Meridians is
+given 20 Minutes. But which of these two Tables is the latter and truer is not
+certain; for in Maps and Clocks the Age of them is not expressed, on purpose
+that so they may always seem to be New; but howsoever it was, these three Maps
+did not differ so very much from one another, nor from the Scope which I
+proposed to demonstrate; for if the first Map please, that agrees exactly with
+my Clocks, which were so much too slow; and it is plain, that the second
+differs only in one Minute, and twenty Seconds; the third differs two Minutes;
+which equality of Motion and Agreement is certainly to be mightily admired in
+so little and portable Machines; nor did I think that it could by any Accident
+happen, that for so long a time they should mutually answer one another in the
+same Laws of Motion; and it is pleasant to be employed in so delightful a
+Speculation; now therefore, if any shall desire a further Scrutiny into it; let
+him also know that in winding; up the Clock I daily lost five Seconds; for that
+has been long observed by me; as likewise, that 72 Beats of the Pulse of the
+Artery, being Fasting, answer also to one Minute, when the Body is in Health,
+and neither bound up with too much Cold, nor inflamed with vehement Heat; which
+Experience, and that is wonderful, never failed me for fifteen Years together.
+Therefore, since these five Seconds 12 times reckoned, make one Minute, the
+Clock also in twelve Days was too slow by one Minute. Now, because we got to
+Torneo in sixteen Days, add for those four Days twenty Seconds, that so the
+number of the lost may be 1 20 which added to 18 wanting at Torneo, makes the
+Sun 19 20 which agrees excellently well with the second Maps, as is above
+showed; they requiring in that time the difference of so many Minutes. But many
+will be of Opinion, that the inequality of Natural Days does much oppose this
+Calculation; for the Apogaeums and Perigaeums teach us, that the daily Motion
+in which the Sun returns from one Meridian again into it, is sometimes slower,
+and sometimes swifter; and that the Anomalies of the Plane of the Ecliptic,
+lying inclined to the Equator, may beget some difference of Ascensions; but as
+these are very little every Day, and that we use only the Mean, we neglect such
+a small Time as a thing of lesser Consequence; but when it is necessary we also
+correct them by Tables of mean Motions made for this Purpose. The Companions of
+our Journey know that these things are neither precariously asserted, nor
+rashly related by me; and they can honestly certify, that I have often
+mentioned this Certainty, not without Admiration; and I will show in the
+following Problem, why I have been so long on this Subject, for the sake of
+those who do not understand it; why the difference of Time in two distant
+Places ought to be equal to the difference of Longitudes betwixt them.
+
+Let P. be the Pole of the World in this Diagram, A. C. the Aequinoctial
+Circle, G. E. some Paralle, B. S. the Meridian of Stockholm, D. T. the Meridian
+at Torneo; therefore because the Sun, by its Diurnal Motion daily runs through
+the Aequinoctial Circle, A. C. and in it every Hour spends 15 Degrees, and by
+consequence 360 in its entire Circumvolution, in the space of 24 Hours. Let
+these two Places in the Question Stockholm, S. and Torneo, T. be either of them
+under their Meridians; now let there be taken out of that middle Map
+aforementioned, the distance of these Places, 4. 50. when the Sun was in the
+Meridian, D. T. it was 12 of the Clock at Torneo, 19 and 20, after that the Sun
+comes to the Meridian at Stockholm, B. S. at which time it was Twelve a Clock
+there; but at the same time at Torneo it was Twelve a Clock, 19 20, since
+Torneo is more Easterly by so many Minutes than Stockholm; and therefore it is
+manifest that the Arch B. D. and also every one of the Parallels with it to be
+4. 50. and so much to be the difference of Longitude between Stockholm and
+Torneo, therefore the Horary difference is equal to the difference of
+Longitude, Q. E. D.
+
+This is the true cause why those who go Westerly have longer Days than those
+who go to the Eastward; for whosoever by going from the East to the West, after
+some Days passes into a different Meridian, has a longer Day than if he had
+stayed in the same Meridian; but it matters not whether the Latitude be the
+same or different, because in every Latitude it is Noon when the Sun is in the
+Meridian; wherefore those who go from Torneo to Stockholm have the Day of 24
+Hours, and almost 20 Minutes; as on the contrary those who go from Stockholm to
+Torneo lose so many Minutes in a whole Day.
+
+It is manifest from their Journals, that these Variations was the greatest
+admiration to the Spaniards and Portugueze; for these Sailing to the Philippine
+Islands with an Easterly Course, almost a Semicircle, gained Twelve Hours of
+the Europeans; but those with a Westerly Course had so many Hours of Day later.
+Wherefore if two Ships Sailing out of the same Port, go to the same Places, by
+contrary Courses, the one to the Eastward, and the other to the Westward,
+having Sailed a Semicircle of the Earth, at their meeting, their Accounts do
+differ a whole Day from one another; but having Sailed about the whole Earth,
+at their return Home will find two Days difference in their Journals. It is
+clear from Pliny, that the Ancients did not want this Knowledge, who proves it
+by many Experiments. But especially that those who Sail to the Westward,
+although on the Shortest Day, can Sail faster than those who Sail in the Night,
+as having the Sun it self for their Companion.
+
+I thought it necessary to Treat more largely of these very well known Matters;
+not that I can, by my own Clocks, prove any certain Longitudes to be found out,
+but that in Land Journeys, they may be this way most easily observed. But how
+much we exceed the Skill of the Ancients in this Machine, no body is so
+Ignorant in Letters as not to understand; for the Ancients had no other way of
+distinguishing Times, but by Shadows, and Water-Glasses; the more ancient way
+was used amongst the Chaldeans and Egyptians, and at last brought down to the
+Greeks; but at Rome they Learned it latelier, as we may see by the same Plinius
+Secundus: For Scipio Nasica first of all divided the Hours, as well of Nights
+as of Days, and set up an Hourglass in his House in the Year, U. C. 595. which
+falls out 155 Years before the Birth of our Savior. So long, says he, the
+Romans had divisions of Time; but at length in Octavius Augustus's Time, the
+manner of making Dials was taken from Vitruvius, which afterward made so great
+Improvements, that now all Europe, which before had gotten the Victory from the
+other Parts of the World (whose Inhabitants much admire the Industry of the
+Europeans) daily strive amongst themselves by new Inventions of this Machine.
+
+How great the Variation of the Needle is in these Northerly Countries is not
+to be rashly determined; for we by a Meridian Line found in the Town of Torneo,
+find its Declination from the N. to the W. to be about seven Degrees; for the
+great incertainty of the Weather hindered us to determine it precisely, which
+seldom permitted us to see the Light of the Sun, either before or after Noon;
+and that scarcely except amongst the Clouds; so that a shadow could scarcely be
+distinguished from a Penumbra; though it is to be confessed, that the time of the
+Solstices is least fit for this purpose: For if that matter of moment is to be
+sought either from the greatest height of the Sun, in which the Meridian Line
+may be had exactly; or from an upright Gnomon perpendicularly erected, that
+Observation may nevertheless be liable to Error, unless it be frequently
+repeated in the same place, because the Shadows of the Sun nearest about Noon
+are sensibly neither increased or decreased: The Sun however in the mean time
+making its Progress in its own Parallel.
+
+CHAP. III. Diurnal and Nocturnal Observations of the Sun.
+BUT let us return to our Sun seen by Night; in consideration of which, the
+chiefest part of our Labor was undertaken; in vain for some Nights did we
+watch in the Observation of it; the Sky being always filled with Rain and
+Clouds; but at length in the Night between the 10th and 11th of June, an happy
+Season broke forth, which beyond our Expectation dispersed the former Clouds;
+and that was the first opportunity we had to enjoy a clear Night; we therefore
+saw three Parts (almost four) of the Suns Body above the Horizon, one fourth
+only being under it; So that the Center of the Sun did really appear above the
+Horizon: We therefore Congratulated our selves in the Affair, for a long time
+believed, but before not usual to our Eyes. Being excited by that occasion, I
+joyfully composed the Day after the following Epigram, before we proceeded any
+further upon the Memory and Confirmation of the Royal Observation; and such as
+it was, sent it to Stockholm, to the most Illustrious and excellent Count
+Nicholas Guldenstolp, that so before our return, it might appear what might be
+expected in that business.
+
+Rex Carolus terras, quas Circulus Arcticus ambit,
+Dum peragrat, proprias atque tuetur opes:
+Miratur parere suis latissima sceptris,
+Sol ubi continua lampade lustrat humum.
+Hactenus and nostris haec sensibus invia, Princeps
+Nullus, ait, Phoebum vidit inocciduum.
+Substitit in votis Alphonsi gloria Regis;
+Cur se perpetuo lumine jactat Iber?
+Sobrietas sed enim, Pietas, vigilantia, cura,
+Sufficient Carolo munera tanta Dei.
+In our Observation we used the same Turret, in which His most Serene Royal
+Majesty observed the Sun; but lest any one might think that small height to be
+the reason why so much of the Sun was discerned, we chose a Place some Paces
+from thence, not far from a Gallows, where there was a free Prospect from the
+Northern Quarter; and there we found the Appearance to be no other, than out of
+the Turret, being satisfied with this clear and distinct Observation when the
+Sun was so very few hours from the Solstice, which on the following Day, June
+the 11th. by an Astronomical Calculation falls out 9 h. 39 before Noon. And now
+we thought it our business to prosecute our Journey farther to the Northward;
+and to look out for a Place, where abating the Refraction, the whole Body of
+the Sun might be discerned, since it was clear that all that which appeared
+here of the Body of the Sun did appear by Refraction only; since beyond our
+Opinion and Calculation, according to the late found out Elevation of the Pole,
+more of the Sun it self was seen than ought to have been.
+
+Daedalus, and fama est, fugiens Minoia regna,
+Praepetibus pennis ausu^^^e credere coelo,
+Insuetum per iter ge^^^as enavit ad Arctos.
+So we likewise being to pass to the cold Northern Parts, did not trust to
+swift Wings, but to Boats very slenderly fast'ned together; for from hence as
+we go farther to the Northward, there is no more Use of Chariots, or Horses;
+wherefore quitting our Journey by Land, we desired the help of Pilots, whose
+Language we understood no more than those who are most ignorant of it; and
+entering into their Boats, were to strive against the Stream of the River,
+which would suffer us neither to row nor sail, but amongst Stones and Rocks
+which lay in our way, which requires only a diligent help of Boats, Poles, and
+strong Arms to make use of them: Thus our Seamen passed along the Banks of this
+rocky River; and in some Places with their most vigorous Endeavors, they
+seemed scarcely to get a Foot forward; and for several Hours to advance but so
+many Paces; and sometimes by long bendings and turnings of the River they were
+forced to go ashore, and hale their Boats out of the violence of the River,
+where nothing else could be otherwise expected by Humane Assistance; but it
+seemed very hard, and strangely unusual to us, that on the Bank-side there was
+no room between the Thorns and Brambles, and heaps of Stones where we could set
+our Feet; since being wearied with the Fatigue of this Haling, we attempted
+rather to make our Journey a-Foot, and by that means make the Boat somewhat
+quicker and lighter. And as an addition to these our Troubles, Mountains of Ice
+of twenty Cubits and more being driven together by the force of the Waters,
+covered both sides of the River, and they also so sloping and craggy, that
+every moment we dreaded their fall, together with our own Ruin: Neither was
+there any help for us, clinging constantly with the Poles of our Boats to the
+Shore, had not God by his special Favor vouchsafed to avert the Mischief; but
+if it did any where happen, that the course of these Mountains was interrupted
+we joyfully leaped Ashore, admiring the Nature of the Country, which not
+without great Pleasure to the Spectators, amongst Snows and heaps of Ice
+produced green Herbs and Flowers, among which was a great plenty of the Lilies
+of the Valleys.
+
+Amidst these Wonders of Nature we looked for Men; and at length, as indeed we
+met with very few Houses of the Finns, we were carried to a certain Countrymans
+Cottage, which in their Language was called Pello. It Is said to be Ten old
+Miles distant from the City Torneo; and there was an Inn in which we might lie
+on Rain Dear Skins, for they make use of no other Bedding. However, amongst
+other Inconveniences, this was our Comfort, that in the said place, neither
+Mountains or Woods hindered our prospect from the Northern Board, whereby the
+Sun might all Night be the less discerned; and it was a particular Gift of God
+that the same Night was free from Clouds; since in our whole Journey we had
+ever a doubtful and lowering Sky; therefore 'twas here that we beheld, with
+much pleasure, the whole Body of the Sun, not only entire, but elevated more
+than two Diameters of its Body; and when we had tried sufficiently in this
+place, with no less difficulty we performed the rest of our Journey; and on the
+14th of June we Arrived at the Workhouses of Iron and Copper at Kengis. That
+Night likewise favored our purpose; and we saw the Sun from our Boats on the
+River, three Diameters of its Body above the Horizon.
+
+The Situation of this place is between the Confluence of both Rivers, whose
+right Branch owes its rise to the Lakes, Streams, and Moorish Places in
+Lapland, and thence from Swadawara, and perhaps further by several bendings
+through Monier and Kengis; but the left is excluded from the Western side, and
+the Lake Torn, situate almost in the Confines of Norway, and is here
+precipitated with that violence through the tops of Mountains and broken Rocks,
+that the fall of the Waters near these Workhouses for Metals, is esteemed to
+be 36 Feet high, and that with extraordinary Noise, and vehement Impetuosity;
+but it gives an excellent advantage to the said Workhouses, which are so
+placed, that where the River has a turning to the Western Bank, it is not
+restrained with the Wears, though they be of considerable bigness; nor can it go
+over the top of them, but runs with a free Course, without any Cataracts to the
+opposite Bank. On the 15th Day, being troubled with vehement Cold Winds, and
+most boisterous Weather, we took the height of the Sun, amongst the
+interspersed Clouds, with an Astrolabe; and at length, at Ten of the Clock 15
+looking for its Altitude with an Astrolabe, the Calculation being taken off, we
+guessed the Latitude of the Place to be scarcely more than 66 and 45, although
+the Sun there in the Night Time shows it self so largely above the Horizon, and
+makes its Day long enough, and with an ample Circuit. And here, when we were
+designing to go further into Lapland, by the right Branch of the River, which
+seems to lead strait to the Northward, the Inhabitants declared, that it was
+not in the Power of Man to perform such a Journey in Summer; for all Journeys
+into North Lapland ought to be made in Winter; but although the left side of the
+River was alike open, as before for the Boats; yet it seemed to us to incline
+too much to the Western Shore; so that it was of very little use to us, from
+that side, to proceed one degree further; therefore supposing what we had
+already found out to be sufficient for the Lovers of Astronomy; and considering
+the account of our Time, because we were stinted to narrow Limits in the
+Journey, and had not as yet performed all that was to be done, we resolved to
+take our Course homeward. Tum vero nautae incumbunt, and littore parvas
+Deducunt sur do naves; natat uncta carina.
+At our going away we had great plenty of Metals, which with great Care are
+drawn out of the Metallic Veins of Lapland; and those rich enough in Copper
+and Iron, and yet not carried out without great Charges, and very mighty
+Risques, through the Precipices of Waters (...)
+(...).
+And some pieces of the Magnet were presented to us, taken out of the same Iron
+Mines, which we carried home with us. The Loadstones there have very little
+force; and yet in one of them, which I still keep, I perceive it daily
+increases, and I hope that they will augment in time, being armed.
+
+Magnets are found in the Iron Mines of Sweden, and elsewhere; but those of
+Lapland excel in Force all that ever I had the Fortune to meet with. I pass by
+other things, which we saw, or were related to us, lest I should seem to give
+an History of the People, which others have before written: And now being
+gotten into our Boats, we no longer, as before with our Boat Poles and Spreads,
+followed the Course of the Shore, but keeping the middle of the River, where it
+was most Rapid; the Rowers doubling their Strokes, we strove at least to
+emulate, if not to outdo, the swiftness of the Waters; this was absolutely
+necessary, lest the Impetuosity being swifter than the Boats Course, should
+fill our Boat with Water, and so drown it with its Waves, especially when the
+Waters a head of us, being rolled with the greatest violence amongst the
+sharpest Rocks, Whirlpools, and deepest Gulfs, returning with like force,
+should meet the Head of the Boat, and so detaining it as it were in a
+Whirlpool, should appear altogether to overset it. In these Streights we were
+sensible Quantoque ratem qui temperat anteit
+Remigis officium; quanto Dux milite major.
+By so much more was the safety placed in the Pilots of our Boats; for they
+Steered with that Skill amongst the unseen Shoals, that we were so amazed and
+astonished, that when we were delivered from Dangers, we could scarcely believe
+our selves to be in Safety; but their Art appeared still more, and especially
+in some certain Places. Those that are the most Experienced in this Voyage will
+witness, that there are some Precipices of this River, where the Boat is tossed
+up into the Air for the space of some Feet, the Pilot Steering in the same
+manner, until it is again in the Water. And this whole Voyage from Kengis to
+the City Torneo, which flows with one continued Channel, receives 29 Rivers,
+one of which makes a whole Swedish Mile in breadth; the other being less,
+recompense their smallness by the violence and rapidity of their Waves. Neither
+can they be passed at any time, except by the most able Boatmen of the Place;
+and in one of the Rivers, although the Passengers are expert, yet they Hire an
+Inhabitant to be Pilot, but which is wonderful, for two Farthings only,
+venturing his Life; certainly a great hazard, as we have sometimes beheld from
+the Shore with horror; but necessity imposed that Law on them, for this is the
+King's Highway, and the only one for those who pass into Lapland for sometime
+in the Summer; but the Inhabitants who dwell near the River side, and those but
+very few, as they live for the most part by catching of Fish, never Inhabit in
+any other place, since beyond the Shore side, for a long Tract, all the Lands
+are uncultivated and horrid; and they are contented with a little Ground,
+wherever any place is found fit to be sowed; neither do they break it up with
+a Plough, or Plough with Oxen or Horses, but by digging and Spades temper and
+bring the Soil into order by the Labor of their Hands. But at our return, we
+were carried by so swift a Course, that we came from Kengis to Torneo, a Voyage
+of 16 Miles, in less than a day and halfs time. There we immediately observed
+the Diurnal and Nocturnal Sun, trying whether the Observations again made did
+agree with the former; but because it was many Days after the Solstice, this
+after Care was of little advantage. Having therefore once observed the Meridan
+Altitude of the Sun on the 18th of the Month, we perceived it to have decreased
+to 47. 45. and yet from the declination of that time gave the same elevation of
+the Pole with our former Observations.
+
+And now, Courteous Reader, you have wherewith you may exercise your Wit, by
+enquiring into the true Causes of these Apparitions. We have given you
+Materials, make use of them as seems fit to your Judgments; but by your leave
+we interpose ours also, most freely suffering every one to abound in his own
+sense. What therefore appertains to our Nocturnal Observations, and the true
+ascension of the Sun above the Horizon, because it cannot be understood by all
+without the premised Doctrine of Refraction, which is the most subtle part of
+the Science of Optics, we will briefly lay down some things for the use of
+Students, whereby they may with greater ease take our Demonstrations.
+
+CHAP. IV. The Doctrine of Refraction.
+MAny are the Arts and Sciences which owe their beginnings to Chance and
+Fortune; which would be long and difficult to reckon, since their first
+Originals are unknown, and their Progress made by little and little, which
+renders us doubtful both of the Order and Manner in which they began. First of
+all it is very certain, that we learn by Experience, that the Rays which
+proceed from any visible Body, if they fall from a more dense Body upon a more
+rare, or on the contrary (which Philosophers use to term a different Medium) at
+this Entry the Ray proceeds no more strait forward, but is Refracted, and in
+its passage gets another way different from the former. This Assertion is
+proved many ways; but leaving the more subtle, we will explain it in a vulgar
+way not unknown to all People. Let some bright Piece be put into an empty
+Vessel, as Gold or Silver Money; whereby the splendid Ray may more easily
+represent the image to the Eye; then let him that makes the Experiment go so
+far from the empty Vessel that the Money being at the bottom is so covered with
+the Edges of the Vessel, that it cannot be discerned, let him stay in that
+place, and order Water to be poured out of another into this Vessel; which
+being done, the Money will appear through the Water to him in that Posture,
+being inconspicuous before; and that so much the higher as the Water is put in
+in greater plenty, by which it may be understood, that this visive Ray between
+the Money and the Eye is only Refracted in the highest Superficies of the
+Water, since a right Ray cannot be carried to the Eyes, remaining in the same
+Posture, from the Money, by the Opake sides of the Vessel: The reason is the
+same, when an Oar seems to be broken in the Water, where no other Cause can be
+given of this Fallacy of the sight, than the Inclination of the Ray of the
+things seen, from that side in which it enters a different Medium. Wherefore
+since the Solar Rays are right Lines, it is doubted, not without cause, if the
+Sun, and other Lucid Bodies in Heaven, be any where or every where discerned in
+their true places; but since it is for certain observed in the Eclipses of the
+Luminaries, that the places of the hidden Bodies, both true and apparent, are
+different not only by reason of the Parallaxes, but also Refractions, the
+strongest Argument of Astronomical Truth, and besides, some other Observations
+most deserving Credit, takes away all Doubts.
+
+Since therefore, by consent of all Men, it is evinced, that the Air is nearest
+the Earth, whose Particles going out from the Earth are the Causes almost of
+all the Vicissitudes which happen to it from natural Motions; and we think do
+scarcely exceed, or not much transcend, the highest tops of Mountains (and that
+is it which we call the Atmosphere) but next to this the Aetherial Air
+succeeds, diffused through the whole Universe, in which the Sun, and fixed
+Stars, and all Planets are moved; and yet there is not the same tenuity and
+purity of both of them: For the Aetherial Region (the spaces of Shadows which
+proceed either from the Earth, the Moon, or Planets, or Comets excepted) is
+wholly in the Rays of the Sun, and Stars; and is so splendid, that at Night its
+splendour may be perceived by us, dwelling in the shadow of the Earth, although
+the Interval betwixt us and the fixed Stars be inestimable, by which this
+Splendour, with the difference also of Color, is transmitted to us, but is
+always open to the Rays of them, except when it is obscured by the Atmosphere,
+but the Air swelling with smoaky and thick Exhalations, drawn from the
+Terrestrial Globe by the help of the Sun, and subterraneous Fire, according to
+the measure of the Matter is sometimes thicker and sometimes thinner, both in
+diverse, and in one and the same place, but at diverse times, to wit, that
+Matter, being rarefied or compressed, which perpetually ascends from the Sea or
+Earth, and its Superficies sometimes takes up a greater, sometimes a lesser
+part of Ether, which Vicissitudes we prove by several Mechanical Instruments,
+Hygrometrical and Barometrical, and from thence also determine its true
+Altitude; and we daily perceive by the disposition of our Bodies (the sick and
+weakly especially, and who have any crude Wounds, confirm this Truth more
+certainly than any Almanac) that the Ray entering into the Atmosphere is
+variously determined, nor cannot go forward in strait way, according to its
+thickness and condensation, no otherwise than a Leaden-Ball obliquely shot into
+the Water, on its Superficies, recedes from its first direction, losing some of
+its strength in passing through a different Medium; or as a Nail driven through
+two Boards, not contiguous enough, acquires one determination in the
+intermediate Air at the end of one, and another at the entrance of the other
+Board; these things being more largely Premised than was intended, we will, by
+a rude Scheme, delineate the Refraction of the Sun.
+
+
+
+Let T. be the Center of the Earth, O. the Eye on the Plane of the Earth, A. B.
+C. the Superficies of the Atmosphere, where the more gross Air is separated
+from the thinner Ether. E. D. G. the Orbit of the Sun. O. B. D. the right
+Horizontal Ray to the Sun appearing in D. Now it is certain that no Celestial
+Body can appear to the Eye, placed in O. before it shall come to the Point D.
+And further, because Experience teaches us, that it appears below O. B. D. that
+cannot be done except by a Ray Refracted; for this Ray would fall sooner on the
+Unequal of the Earth's Globe, than upon the Horizontal Line O. B. D. and so that
+Body would remain inconspicuous, the Ray S. B. falling from the Ether into a
+more dense Medium, to wit, the Atmosphere A. B. C. is Refracted, and in one
+part of it represents the Line B. O. when otherwise it would have been produced
+to R. if the Medium had been the same, but not to the Eye, O. Hence it is
+certainly concluded, that the Sun appears on the Earth, sometimes before its
+Rising, when it seems to be discerned by us in an Horizontal Line, Q. E. D.
+
+But because it is manifest, that the nature of Refractions is diverse, and that
+the Rays falling perpendicularly upon the Superficies of a different Medium are
+not Refracted, as if the Ray from E. should fall upon the Atmosphere A. it
+reaches to the Eye O, directly and without any Refraction; but those which fall
+obliquely, are by so much the more Refracted, by how much the more they recede
+from the Perpendicular; hence it is manifest, that the Celestial Bodies,
+nearer to the Horizon, appear under a greater Refraction, and therefore appear
+higher than the more remote, which come nearer to the Perpendicular. Hence the
+Rules of Refraction are by the Mathematicians derived to a certain Degree, for
+the Sun and Moon, even to the Degree of 38 Altitude; but for the fixed Stars,
+but to the Degree of 20. which Rules would never fail, if the disposition of
+the Atmosphere was everywhere the same; but this variety is not in the least to
+be neglected, because that Refraction cannot in all Parts of the Earth be
+equal, but is found to be greater in places nearer to the Pole than that which
+is in the more remote, which may be confirmed by the sole Experience of the
+Hollanders; and that Example is wont to be produced, as most true, by all, even
+the most excellent of Mathematicians, since there are but a few Observations in
+places near to the Pole, which we may use in examining the Phenomenon; for the
+Dutch Wintering in Nova Zembla saw the Body of the Sun above the Horizon, at
+the time when it should have been four Degrees below the Horizon, which
+certainly is a Paradox; for by this reason the Horizontal Refraction increased
+too much beyond the quantity commonly allowed in the Tables of Refractions.
+
+Very many therefore not undeservedly suspected this Observation of the
+Hollanders, and yet they themselves are compelled to confess that those
+Observers were Learned in Astronomy, so that they could not commit so great an
+Error in their Observation. Certainly the exact noting of the Time by a
+corrected Clock; and that hindered by the Frost, by an Hourglass of Twelve
+Hours; as also the conjunction of the Moon and Jupiter, observed by them, by
+which compared with Ephemerides, they found out the Longitude of the Place.
+This they related more at large, say they, lest any should doubt of the Truth
+of the Observations, since they all seemed to oppose the Opinion of the
+Ancients and Moderns, the Order of Nature, the roundness of the Earth and
+Heaven. From which the more celebrated Mathematicians gather, that Refractions
+are greater or lesser in the very same Horizon, according to the density or
+rarity of Vapors, and especially about the Northern side of the World, they
+increase and augment by reason of the thicker Air. I shall not uneasily give my
+assent to their Opinions; for in our Nocturnal Observation somewhat happened
+altogether like it, for let the found-out Elevation of the Pole at Torneo, 65.
+17. that being taken from a Quadrant 90. gives the Complement of the Elevation
+of the Pole, 24. 17. now because the Observation was made about the time of the
+Solstice, the Sun being in the beginning of Cancer, if the Declination of the
+Ecliptic, which is commonly 23. 30. be taken from it, the residue will be 47
+for the place of the Sun below the Horizon.
+
+
+
+In ^ ^ L Q. be ^he M^ridian at (...) (...) this Diagram, P L. the Axis of the
+World, AE Q. the Equator, H R. the Horizon, E C. the Eccliptick, the Angle P.
+O. R. the Elevation of the Pole, R O Q. its Complement, C O Q. shall be the
+Declination of the Eccliptick R O Q. -- C O Q. = R O C. that is to say, the
+place of the Sun shall be 47 below the Horizon, Q E D.
+
+Now because the Diameter of the Sun, at that time of the Year is supposed by
+us, about 30. to which the Horizontal Refraction may be equal in the Opinion of
+those who think the Tychonick Tables of Refractions are greater than they
+ought, by reason of his assuming the Suns Parallax too bigg. Let it be either
+by his Table, or that of Lansberg, 34 for the difference is small in either of
+them, the Sun shall be still depressed below the Horizon, although it should
+appear in its Center, being Elevated above the Horizon, three fourth Parts of
+its Body, to wit, 22 30. Since therefore there is so great a difference between
+Diurnal and Nocturnal Observation, it follows, that here the Horizontal
+Refractions are far greater than in those Places where the foresaid Tables were
+made; but to form an exact Rule for them is an hard Work, and of no few Years,
+as we learn from Tycho's Tables, composed by a long use from the Risings,
+Sittings, and Culminations of the fixed Stars.
+
+And further it appears from this our Observation, that they who place Torneo
+beyond the 66 Degree of Latitude are mistaken. For if it be laid down to be
+only 66 30. then 66 30. = 90 -- 23 30. But when this number is the Declination
+it self of the Eccliptick, by this Hypothesis the Sun will also be Elevated one
+half above the Horizon, without Refraction, when its Center is in the Horizon
+it self; but adding the usual Refraction, the inferior Limb will be Elevated
+at Torneo, above 19 which yet contradicts Observations.
+
+In the little Cottage Pello, where we saw the Sun at Night two Diameters, or
+60 Minutes above the Horizon, by Tycho's Rule of Refractions, which makes the
+Refraction 34 in the Horizon, and in one Degree above the Horizon 26, it is
+easily concluded, that the Sun is discerned in its whole Body without
+Refraction, for the Sun being elevated two Diameters or 60 Minutes above the
+Horizon, its Center will possess 45. But in that Altitude let the Refraction be
+proportionable to 34 and 26 or 30= to the Diameter of the Sun, therefore its
+lower Limb will appear without Refraction 15 above the Horizon; but if we
+assume, as it is fit, a greater Refraction some Particles of the Solar Body
+will also be elevated in this place by Refraction: But at Kengis, where it was
+discerned in three Diameters of its Body, it appears by what has been
+demonstrated, that the Sun was seen without any Refraction at all, to which end
+we are willing to delineate in one Scheme, the Nocturnal Observations, which we
+had at that Season in three Places, that the inexperienced in Mathematics may
+judge more rightly of them, and understand their true and genuine Sense.
+
+Let T. be the Globe of the Earth, B F G. the Horizontal Line, K A B C I. the
+Suns Orbit, F E D H. the Quadrant of the Atmosphere, G. the Eye in an
+Horizontal Plane, C D G B E G. A E G. the Refracted Rays, A G F. the Angle of
+47 Minutes, the rest successively lesser; for the first of the Sun observed at
+Torneo is under the greatest Refraction; the second at Pello a little less; the
+last at Kengis, least of all; whence it follows, that the Sun seen by Refracted
+Rays in the Points A. B. C. does not make the Lines F A. E B. D C. drawn from
+the Points of Refractions Parallel, further it is clear that the Sun at Torneo
+in D. was below the Horizon by Refraction at A. but being Refracted at Pello
+from E. to B. some part of its Body was really still beneath the Horizon,
+although it appeared two Diameters, or a whole Degree above it in E. Lastly,
+being Refracted at Kengis from F. to C. it was really above the Horizontal
+Line; the Experience of the Inhabitants confirms this Opinion, who there also,
+for the first Days of July, confess that the Sun sets not; which Argument I do
+not bring, but only as probable; for it is known from the foresaid Observation
+of the Hollanders in Nova Zembla, that they in the same Altitude did not yet
+see the Sun for so many Days after it ceased to rise; and therefore this
+appearance might be drawn from the thickness of the Air; for (as different
+Liquors make different Refractions, and a greater plenty also of them increases
+the Refraction) a more rare or more dense will make a diversity of Refractions.
+How much the Hollanders admired this, their Words prove in their Voyage to the
+Northward, on the 24th Day of January, 1597. but, say they, as for what relates
+to the Matter it self, as God is wonderful in his Works, so we refer it to his
+Omnipotence, and leave it to be discussed by others, viz. That the Sun under
+the foresaid Altitude of 76 Degrees disappeared to us on the fourth of
+November, and on the 24th of January was again seen by us. For the rest, there
+is no doubt but a right Judgment may be made Astronomically from the Altitude
+of the Sun of its stay above the Horizon, even not attending to Refractions,
+which alike dispatch this business; although in the determination of Climates, I
+do not still deny that it is Controverted amongst the Mathematicians, whether
+any notice is to be taken of Parallaxes and Refractions, some asserting, and
+others denying it. But waving these things, and neglecting Refraction, the
+longest Day in Kengis is found to be of about 30 of our Days, by the sole
+Calculation of Climates.
+
+In this Diagram, let the Pole be A, the Elevation of it A. B., B. C. the last
+Parallel in which the Sun is carried above the Horizon; H. I. the Equator B.
+N. the Horizon, B. L. H. the Angle of the Complement, E. L. of the Pole, E. F.
+the Tropic of Cancer, G. K. the Tropic of Capricorn, E. G. the Eccliptick, D.
+the Point where the Eccliptick cuts the Parallel B. C. which Arch being
+doubled, gives the place in which whilst the Sun tarries, by ascending to the
+Tropic, and again descending to the Parallel, it does not reach the Horizon,
+but that whole Line will not set.
+
+The reason is the same of any place within the Arctick Circle, according to
+its different Latitude, even to the Arctick Pole, that the Sun Yearly does not
+rise or set for some Days; and by so much the more as the Places are nearer to
+the Pole; so that in the place of the Pole it self it does not set for an whole
+half Year, and does not rise all that time in the place opposite to it, but in
+the furthest places follows the Course of the Tropicks; for the Sun being in
+the beginning of Cancer, as it does not set there, so in the beginning of
+Capricorn it does not rise, but only sweeps the Horizon; but it will rise or
+set in all other Points of the Eccliptick, all which may be easily understood
+from what is before said.
+
+CHAP. V. Of the Constitution of the Frigid Zone.
+LAstly, We must not omit, that all the time we were at Torneo, and the further
+places, we were Periscii; for so long as the Sun did not set to us, the Shadow
+was carried about into all Parts; and the Sun being in the upper Semicircle of
+the Meridian, it was extended toward the North; but being in the lower toward
+the South, but in so little an Elevation of it to the North, the Light of the
+Sun could not show the Hour of the Night on our Dials: Without doubt as well by
+reason of the Parallelism, with the place of the Dial, because it was scarce
+above its Plane; as also because of the thicker Vapors about the Horizon.
+There is some difference between Observations made at Land and at Sea; so that
+even they who are in a less Latitude of place, see the Sun all the Night, which
+very many Inhabitants of Western Bothnia confirm to be true to their Knowledge,
+in the Cities of Bithea and Buhlea, and other Maritine Places; for besides
+that, the Horizon seen upon the Waters is even, being hindered by no
+Inequalities, which at Land the Mountains or Trees use to make. I also think,
+that Reflection comes nearest to Refraction, which being joined in a double
+manner, represents the Species of the Solar Body, no otherwise than happens in
+Looking-Glasses, where the first Reflection without Refraction, is made in the
+polished Superficies of the Glass, but the other in the bottom of it, in its
+filed bottom, but with Refraction; which Composition, except you take heed,
+shows to you one thing sometimes falsely, under a double Image, or somewhat
+greater than it should be; and further, many things may be Objected about the
+Maritine Observations of Peasants; and we very often want the Confirmation of
+Fishermens Sayings, who being accustomed to spread Probabilities for
+Certainties, sometimes both egregiously deceive, and are deceived; yet we will
+admire it the less, because Mathematicians, as well in their Celestial as
+Terrestrial Observations have something that is Human in them.
+
+In the Frigid Zone, and its Neighborhood, the stay of the Sun above the
+Horizon, brings this Advantage to the Inhabitants, that the Corn in those
+Places ripens in a short time; for as we have heard from the Husbandmen in
+fertile and fruitful Years, not above six or seven Weeks are required amongst
+them, from the time of Sowing their Corn until Harvest, we made no difficulty
+to suffer our selves to be persuaded of it, when the first Sower, as we went,
+was in the City Torneo, and the Barley sown in the beginning of June, or the
+16th Day of the same Month, was grown beyond Expectation; and the Grass, which
+as we passed by some places of Western Bothnia, in the beginning of June, had
+scarcely come out of its Stalk, at our return, after four Weeks was Mowed. But
+this Advantage is followed by another Disadvantage; for the Corn is liable to
+much danger from the Cold, in this so short a space of time; for if it do but
+happen about the time when it ripens, or when they hope it should ripen, that
+the Dew or Frost falls upon it in the Morning, it hurts the Grain, and wholly
+destroys it, which Mischief they cannot otherwise prevent, than by cutting the
+Corn unripe, before it so suffer. Even then they did conjecture, that they
+should experience this Year the same Damage, not without the greatest prejudice
+to them; and the event showed that they were not False Prophets; for although
+they saw the Cold to be near, yet the Corn was not then come to that Maturity,
+as it could be exposed to any inconvenience by the violence of the Cold Weather.
+
+But here is one thing which I would have my Courteous Reader to observe, that
+the Nature of these Northern Countries is not altogether to be estimated from
+the Intemperateness of this Year, for the present Year exceeds all others that
+are past in the Memory of Man, for the severity of the Season; and there are
+very long lived Men in those Places, who sometimes live to an Hundred and more
+Years; but not one to be found amongst them who could testify that Thunder is
+so much as once heard in the Year, and especially in the middle of April, which
+now happened and seemed to presage something unusual: And it is very
+remarkable, that when our most Serene King went to see these Places, the Year
+before, the Inhabitants never saw a more pleasant Time, as if the Countenance
+of Heaven was composed for Mirth, the Lord of the Country being present.
+
+As for what concerns the Islands of the Bothnick Sea, they underwent a
+different Fortune; for as we went from Torneo, to the Parish Calix, in our
+Voyage on the 19th of June; at our Arrival at some little Islands, we there
+perceived that the Soil was not yet freed from Cold; nor did the Birch-Trees,
+which are very many, in that place, show any sing of Greenness; when yet in
+other Places beyond Sea, they abounded with their ripe and full grown Leaves;
+and we know, that this is not also unusual in other Countries, since in Japan,
+whilst the sharpest Winter continues, and the Snows and Rains continually fall,
+other Countries of Asia and Europe, situated under the same Climate, are not
+sensible of the same hardness of Winter.
+
+And Nova Albion being situated about Forty Two Degrees North Latitude, when
+Drake the Englishman first Arrived there, he found the Mountains covered with
+Snow; and the English were so troubled with Cold in the Month of June, that
+they were forced to go from it. Other Islands also lying in the Ocean, are
+reported to be liable to these Inconveniences.
+
+At Night, between the Nineteenth and Twentieth Day we saw the Sun setting in
+Calix at Eleven a Clock and Twelve Minutes, though the Horizontal Plane, by
+reason of that unequal part, in which it looks to the North, scarcely permitted
+us to determine its true setting. We tried the next Day to take the height of
+the Sun; but this hope vanished amongst the Clouds. As much as we can judge
+from our Journey, and the Sun's setting, the Latitude of that place can differ
+but little from Torneo, since the Church in Calix, where the Observation was
+taken, seems to be situate directly to the Westward of it.
+
+CHAP. VI. The Latitudes of Places observed in our Return.
+ON the 21st we observed in the Old Town Luhlea, the Meridian Altitude of the
+Sun, and thence gathered the Latitude of the Place to be 65 Degrees, and 25
+Minutes. And the Declination of the Magnet from the North to the West, to be
+about Six Degrees. That City was founded in the Year M DC XX II. where there is
+still an Old Church, yielding to none in that Country, for Structure and
+Largeness; but for a more convenient Situation New Luhlea was Built nearer to
+the Sea, in the Year M DC XL II. but by the Carelessness of the Laplanders,
+kindling a Fire in the Neighboring Wood, was Five Years after, together with
+the Wood, destroyed by Fire; nor was it Rebuilt more Fortunately after; for in
+the Year MDCLIII. it was again ruined by an accidental Fire, and from those
+Ruins, became such an one as we now see it.
+
+On the 24th, in the Old City Bithea, we in vain hunted after the Meridian
+Altitude of the Sun, the Sky being thick set with Clouds, wholly hindering our
+Design; and therefore we went the next Day into the Neighborhood, to search
+for it. This Old City was Built in the Year M DC XX I. but after it was
+casually by Fire reduced into Ashes in the Year M DC LX VI. for some time the
+Rebuilding of it was deferred, until some fresh Privileges and Immunities being
+granted by His Most Serene Royal Majesty, they might undertake the Business.
+But the New City then beginning to be Built, is distant half a Mile from the
+Old, being situated nearer to the Sea, for a more convenient Port, and
+convenience of exporting Merchandises.
+
+The next Day, in the Parish of Schelefta, near to the Church, we observed from
+the Meridian Altitude of the Sun, the Latitude of that place to be 64 37 and
+the variation of the Needle to be equal to the former.
+
+On the 26th and 27th Days we did nothing, the Air being Cloudy, nor was there
+any thing which deserved the noting; except only that the Church of the Parish
+Bygde, seems to be the most ancient of all the Churches of the Norlands,
+provided the Inscription which appears in the Front of the Church, be genuine,
+and sets down the Year of Christ, 1169. Yet the Chronicle of those Times takes
+away the doubt, which clearly show, that it was Founded under the Reign of St.
+Erice, at which Time Religious Worship, although Infected with Old Popery, made
+extraordinary Progress; And besides, there was the Picture of a certain
+Religious Person which was placed in a Wood half a Mile and more from thence;
+where formerly those who were Remote from Church, are said to have met together
+to Prayers, on Holy Days; but after the most happy Times of Religion being
+purged from the Heresies of Papists, as that sort of Worship ceased in our
+Country, so the Picture was laid up in a certain place of the Temple, in
+detestation of the Memory of that Matter.
+
+On the 28th in Uhma, near the Old Temple, we observed the Meridian Altitude of
+the Sun, to be 48 38. And thence we computed the Latitude of the place to be 63
+48 but the variation of the Needle not different from the former. That City is
+situated in a more convenient place toward the Sea, and is the first and
+chiefest of Western Bothnia; in which also is the Seat of the Governor of that
+Province.
+
+On the 29th leaving that Place, and going through the Borders of Western
+Bothnia, which although it be more Northerly, yet is happy in a more convenient
+Soil than the Countries next to the South, which abound in Mountains, and give
+place to it in Fruitfulness; but the Mountain Scula in Angermannia, is Famous
+before all others, very craggy and broken, threatening Ruin, as it were to all
+who pass by it, for it is very near to the Highway. Many Stories are vulgarly
+reported about it, which relish only of Gentilism. Their only chief City is
+Hernosand, being furnished with a most convenient Haven, and is situated in the
+Island, where the Seat of the Super-Intendant is, and the Royal-School, the
+Seminary of the Youth of Norland. We stayed there three Days, hoping to find
+the Elevation of the Pole; but this stay was to no purpose, as in several other
+Places, by reason of the Rains, and the Sky being covered with perpetual Clouds.
+
+On the 7th. of July in the Town Medelpadia Sundswald, we endeavored to find
+the Latitude of the Place; but Heaven also opposed it. When therefore all
+things seemed to thwart our Labors, which we could not stick long to in one
+Place for our other Affairs; yet we still continued two days not far from this
+City in an Inn near the Church Niurunda, a Place fit for Observations,
+expecting but with lost labor the Light of the Sun; and this is the reason why
+at no Place in Angermannia or Medelpadia we made Observations.
+
+On the 10th. of July, coming to Helsingland, first we sought for the Sun's
+height in Hudwikswald, a neat City of that Country conveniently situated near
+the mouth of the Sea; but without any Success, by reason of the imminent
+Tempest.
+
+After that, on the 11th. day, we at length found the Elevation of the Pole to
+be 61 12 in another City of that Country, called Soderhamn, in a famous Armoury
+built there. Thence by a crooked way, going to the Copper and Iron Mines, in
+our Passage we first observed the Elevation of the Pole of the City Gefle,
+being in the County of Gestrefland, 11 miles from Upsal, and is famous for
+being the Seat of the Governor of that Country; and having a Royal School, the
+Altitude was 60 31.
+
+On the 13th. at our coming into Dalecarle, or the mountainous Country, the
+Elevation of the Pole was found at our Inn Lomsheden, to be a little greater
+than before, by reason of our Journey's bending to the Northward, viz. 60 41
+going thence through the Parish of Dalicarton Swerdsio, whose Church was first
+beautified with a Monument of a gilded Crown, by King Gustavus of most Glorious
+Memory: Some Antiquities were produced here by the Inhabitants; let those who
+please believe them in a Matter so dubious, and not confirmed by any ancient
+Monuments.
+
+On the 14th. we came to the City Fahlun, very famous and eminent for being the
+Seat of the Governor of that Country; and especially being the richest in
+Copper Mines, of so great Antiquity, that the Original of it is very uncertain
+and doubtful. From this City which we arrived at with so many Windings and
+Turnings, we did not think it convenient to depart without an Observation;
+therefore staying there six days before the Sky was as agreeable as we wished,
+at last the grateful Light shone forth on the 20th. of July, by help of which
+we found the Meridian Altitude of the Sun, and by it the Places Latitude to be
+60 32; and therefore perceived this City to lie almost in the same Latitude as
+Gefle.
+
+After that designing to bring our Journey to an end. (without any Observation
+because of Showers and Storms) we passed the several Cities of Westmanland and
+Hedenore, so well known for its Merchandise, Agriculture, and Fairs; and then
+Afwestafors famous for Copper Mines of several sorts, and coining of Moneys;
+and then to Soleburg a very noble Place, and celebrated for one of the most
+precious and ancient Mines of Silver.
+
+Happily returning to Upsal on the 24th. of July, the Situation and Antiquities
+of which City being described by others, are well known to all People; but the
+Elevation of that Place's Pole is 59 54 for ten Years, and more at several
+times observed by me, and the Variation of the Compass about eight degrees.
+
+Because we were sensible at our return, that our most Serene King was at
+Kongsor, to Review his Army, to whom we were to give an Account of our
+Expedition, we thought fit to wait on His Most Serene Royal Majesty there; and
+therefore setting our Affairs in Order in two Days, on the 27th we passed through
+the City Enecopia in Upland, and the Cities of Arosia, Koping, and Westmanland.
+
+On the 28th we came to Kongsor, in that most pleasant place of Sudermanland,
+to the Latitude of 59 34. situated by a most pleasant River, where it empties
+it self into the Lake Galtem, and Malaren.
+
+His Most Serene Royal Majesty received us at our Coming with a singular
+Clemency; and as we gave him that Account of the demanded Expedition, hearkened
+to us with a Countenance full of Grace and Majesty; and the Most Serene
+Hereditary Prince, and some of the King's Council, and great Ministers of State
+being present, He enquired much about our Demonstrations; and would have the
+Reasons of the most minute Matters laid before him; but we wondered at nothing
+more, than that the Most Serene King being loaded with such a weight of Empire,
+and perplexed with infinite Cares, should, of all the things which he saw or
+heard the Year before, in the Northern Countries, forget nothing; so that we
+but just returning from those Places, and doing no other Business, did not seem
+to have a fresher Memory of Things, Events, Places, Persons, and of the Names
+of Towns and Houses, which we beheld as if we were present, being just come
+from our Journey, and Instructed with our Journals; but what need of our
+Testimony in a Thing so well known in our Country? Those whom God has Exalted
+upon Earth to so high a Place, he has thought fit to endue with Divine Gifts;
+which certainly He has bestowed with a full Hand on our Most Gracious Monarch.
+
+The next Day being dismissed most favorably by His Most Serene Royal Majesty,
+we heartily Rejoiced that we had obtained the height of our Wishes, that our
+slight Labors seemed not to displease our Most Gracious Master; and now having
+dispatched this Business, every one went to his own Home.
+
+Homer relates of his Ulysses; (...).
+
+
+But who can believe that we traversed so many Cities in this Journey; and
+Northerly waste Part of Sweden; going no more than Five Miles beyond Kongsor,
+through Holmia, before we came to Upsal. We saw besides the said Cities Orebro,
+Arboga, Torshella, Strangnans, Mariefred, Sodertelus, and Stockholm. So that in
+all we passed through Twenty Four of them in a direct way.
+
+CHAP. VII. The Figure of the Earth, Variation of the Needle, and difference of
+Refractions under the Pole and Equator.
+NOW although in this Journey, but a little may seem to be Remarked, which may
+please a Curious Reader; yet there are some Things, which amongst Just and
+Learned Critics, will at least Excuse, if not Commend our Labor; for as to
+what concerns Chorography, that by Command of His Most Serene Royal Majesty, is
+described with the greatest Care, by the Surveyors of those Countries, who for
+some Time had the Charge of it. The Antiquities of the s^veral Provinces are
+not slightly discussed by the mo^^ Learned Antiquaries of ^^e Kingdom,
+therefore Astronomy was only our Point, in which if we have performed nothing
+else, we have really shown, that all those Places in which we made
+Observations, being laid down too much to the Northward, both in our Maps and
+Charts, ought to be more Southerly. And this very Thing has been before
+observed by those who Sail to the Northern Parts about the Promontory of the
+Northern Cape; which in their Opinion is more Southerly, than is described in
+the Geographical Tables.
+
+As for the variation of the Compass, although by reason of the Imped^ments
+before expressed, we could not describe it so exactly as we ought; yet we may
+assert for certain, that in all those Places we had the Fortune to go to, it
+was never found less than Six Degrees, which Experiment may be serviceable to
+Posterity who may observe the Constancy of its Declination; for it is very
+probable and agreeable to Natural Causes, that its Declination is changed with
+the Time; as the Experiments and Observations of Mathematicians made in very
+many places, many Years since, do abundantly teach us.
+
+There yet remained one thing which rendered us very sollicitous, though in
+vain, of which we conceived an ample Hope at our departure, viz. That in these
+more Northerly Voyages, an occasion is given of enquiring into the true Figure
+of the Earth, which although no Body who has a sound Head, at a Time of so great
+an Improvement of Mathematics, will make to be Triangular or Cubical, since
+the Superficies of the Water and Earth returning into it self has long proved
+it to be Gibbous. Yet since there are sundry sorts of Gibbous which arise from
+a Cone or Cylinder, if it goes from a Circular, it is doubted to which of these
+it is to be chiefly referred.
+
+We have spoke before of the Experience of Sailors, to whose Credit and
+Relations we owe the asserting the Roundness of the Earth, but only to convince
+the obstinate Heads of some People, who trust more to their Senses than
+Understanding. For Mathematicians have demonstrated this very Thing many Years
+ago, by other, and those most evident Reasons.
+
+All know the Story that Ferdinand Magellanus Sailing out of Spain toward the
+West, and having passed the Atlantic Sea, by a strait he sound out, got into
+the Eastern Ocean, and by that way came to the Moluccos Islands; in which
+Voyage, when he had sufficiently viewed enough that Country, he might have
+returned by the same way: But not contented with that Experiment, he went
+farther to the West, by a direct continued Course; at length returning as it
+were out of the East, by the Indian Ocean, and Atlantic; and lest any should
+think, that the Face of the Continent is different from that of the Waters, let
+him consider, that the Ocean is distinguished by Lands, from the East to the
+West; and on the contrary, by Seas betwixt them; and again, slowing into the
+Northern Land, above and below Tartary, whence arise so many Continents as if
+they were Islands, scarcely cohereing any where by the most narrow Isthmus
+which every where almost have the same height. For here is no Controversy
+about the Mountains or higher Places in the Earth, which no more hinder its
+being round, than the small Inequalities in an Apple; since we will grant to
+any, that its Superficies is not most exactly round; for Nature seldom makes
+Mathematical Circles in its Motion; but if the Motion of the Sun were
+altogether Sphaerical near the Equator, which we know to be inequal, although it
+is supposed to be equal; for the Earth is not the Center of that Motion; yet
+would it not follow, that a Sphere is formed by Motion, equally near the Poles,
+as the Equator; for the Experience of Artists shows, that Cups turned, may
+imitate another Figure than Spherical.
+
+It is not to no purpose therefore, that some in this Age doubt whether the
+Earth be equally Spherical near the Poles as the Equator. Some of the Reasons
+which John Childrey brings in his Britannia Baconica, for the Oval Figure of
+the Earth, are not to be despised; although we do not much approve of that which
+is brought from the Snows being gathered together in a great heap near to the
+Poles, ever since the Creation of the World.
+
+It is certainly true, that in Lapland very old Snows, of many Years standing,
+are found in the Valleys between the Mountains; as may be gathered from their
+outward Coat Yearly remaining: And yet, no doubt, some of this Heap is Yearly
+dissolved into Water. But those heaps of Snow make no more for taking away the
+Roundness of the Earth, than the Risings of those Mountains we before
+mentioned; but besides, if this was true, there ought to be the same Accession
+of Snow every where about the whole Globe of the Earth, which the Industry of
+those who going to Eighty Degrees Latitude, sound Mountains crusted with Ice in
+that Sea: Though in time dissolvable by the violence of a Tempest, forbids us to
+assert of Maritime Places.
+
+Better Arguments might be brought from the Diurnal Motion, and the Nature of
+Celestial Vortices, which peradventure would produce some variety in a
+Spherical Figure; so that this Hypothesis should not seem to be altogether
+neglected, especially since amongst Oval Figures, by reason of the small
+difference of Diameters, almost Parallel at the Section of a Cone or Cylinder,
+they do not much differ from the Figure of a Circle. Caspar Eisenschmit has
+therefore confirmed this Argument with great probability, and illustrated it
+with the Demonstrations that were needful. Of which at present we must say no
+more, since it requires a separate Work and Demonstration assuredly. In our
+Journey we long sought after some places of the Earth, situate in some Plain,
+stretching from South to North, by advantage of which we might Be more certain
+of the true measure of Degrees in Northern Latitudes, and by comparing them
+with the more Southerly, collected by the Pains of others, we also might give
+our Judgment of the Figure of the Earth; but the steep tops of Mountains, the
+Moorish Grounds, and inaccessible Woods, rendered our Desires unsuccessful.
+
+Lastly, We hope that this our little Work will not be unacceptable to
+Mathematicians abroad; though it were only for that Doctrine of Refractions,
+lightty attempted; from which occasion, they will not disapprove of our Opinion
+to make Tables of them in the several Parts of the World. For as we do not at
+all doubt that they increase according to the different Account of Elevations
+in places nearer to the Poles; so in those placed in the Equator, and next to
+it; if there shall be any Refractions, we believe they will be very little. And
+from hence, when the Reason is asked, why the Polar Stars are not seen by those
+who Sail under the Aequinoctial; and yet it is probable, that the Stars placed
+in the Equator may be discerned from the Poles, if there was any Observer. We
+think that, amongst other Reasons, this of Refractions is not of the least
+Moment.
+
+And if it be true which Mandeslo asserts in his Travels, in the Thirteenth
+Chapter, that he saw not the Arctick Pole, except beyond the Sixth Degree, on
+this side of the Equator; but the Antartick beyond the Eighth. It follows,
+besides other Reasons, that the Refraction from the Northern Part of the Earth;
+is greater than from the Southern, To Confirm which, we could bring many
+probable Arguments, if the Matter was to our purpose.
+
+(...).
+(...).
+FINIS.
+BOOKS Printed for, and Sold by Edward Castle NEAR WHITE HALL.
+I. THe Whole Works of that excellent Practical Physician, Dr. Thomas Sydenham.
+
+II. An Epitomy of the whole Practical part of Physic, contained in the Works
+of the Learned Dr. Willis. With a Treatise of the Plague, its Nature and Cure,
+etc.
+
+III. A Letter to the Deists.
+
+IV. A List of all the Offices and Officers of England, both Civil and
+Military, in Church and State. With a Table for finding out any Office or
+Officer therein.
+
+V. Contemplations Moral and Divine. By Sir M. Hale, Knight, Late Lord Chief
+Justice of the King's Bench.
+
+VI. A Letter to the Right Reverend Edward Lord Bishop of Worcester, concerning
+some Passages relating to Mr. Locke's Essay of Humane Understanding. In a late
+Discourse of His Lordship's, in Vindication of the Trinity. By John Lock, Gent.
+
+VII. Mr. Locke's Reply to the Right Reverend the Lord Bishop of Worcester's
+Answer to his Letter, concerning some Passages relating to Mr. Locke's Essay of
+Humane Understanding. In a late Discourse of His Lordship's in Vindication of
+the Trinity.
+
+VIII. A Treatise of the Causes of Incredulity: Wherein are Examined the
+General Motives and Occasions which dispose Unbelievers to Reject the Christian
+Religion. With two Letters, containing a direct Proof of the Truth of
+Christianity. Translated from the French of Monsieur Le Clerc.
+
+IX. An Abridgement of Mr. Locke's Essay concerning Humane Understanding.
+
+X. The Reasonableness of Christianity, as it is delivered in the Scriptures.
+The Second Edition. To which is added, A Vindication of the same from Mr.
+Edward's Exceptions.
+
+XI. A Second Vindication of the Reasonableness of Christianity. By the Author
+of the Reasonableness of Christianity.
+
+XII. The Christians Pattern, or a Divine Treatise of the Imitation of Christ.
+Written in Latin by Thomas of Kempis, above 200 Years since. 8.
+
+XIII. Historia Nuperae rerum mutationis in Anglia, in qua Res a Jacobo Rege,
+contra Leges Angliae, and Europae Libertatem, and ab Ordinibus Angliae contra
+Regem patratae, duobus Libris recensentur. Authore E. Burridge, A. M.
+
+

@@ -1,0 +1,2330 @@
+HONI ^ SOIT ^ QVI ^ MAL ^ Y ^ PENSE
+A Brief Introduction to SYNTAX.
+
+Compendiously showing the true use, grounds, and reason of Latin construction.
+Collected for the most part out of Nebrissa his Spanish Copy.
+
+With the Concordance supplied, By I.H. Med. Doct. Together with the more
+difficult assertions, proved by the use of the learned Languages.
+
+London, Printed by Thomas Harper, for G. Emondson. 1631
+
+TH
+
+DEA CERES
+
+DEA CERES
+
+printer's or publisher's device
+
+
+
+TO MY HONOVR'D FRIEND, Sir KENELME DIGBIE, Knight.
+WEre it not well known to me, and more clearly to some singularly literate
+men, endowed with sublime wits (with whom great is your name) whose ingenuity,
+doctrine, judgment, and justice I have not without cause) in high esteem.
+Were it not that the voices of all those Scholars who have occasionarily
+conversed with you, testify your great gifts by nature, your enrichments by
+industry, methodically commenced in the Latin, Greek, and the mystical
+Languages (rare instruments of universal knowledge) prosecuted in the liberal
+Sciences, perfected in the high and divine. I say your propitious nature, your
+named addictions, with attentions not ordinarily found in any so intensive,
+yea, and so immersed, by which the accomplishment of them, as also almost of
+all speculative and practique has been by you rarely acquired. Were you not
+known to be a great Animater to Learning, and hence affect and cherish all the
+ways to the acquisition of it in favor of them, who yet are to be bred; were
+there not yet over and above manifestations of your courteous respects to our
+family, my notable encouragement among these so many foresaid.
+
+I should not have been so bold to have presented this, alas, poor
+Introductory offering, so far below you, so richly in this and other
+excellent parts endowed.
+
+And lest yet I prove too too hardy in my presumptuous importunities upon the
+precedent named. I here crave humbly that I may under your wings coverture
+deliver these not formerly received in our kingdom, to this our countries
+view; yet such, as I am no ways diffident, but will square to true,
+authentic, and genuine Latin construction, with evident perspicuitie, and
+easy manuduction, therefore profitable and full of encouragement to youth. All
+which will clearly appear to your worthy self, as singular helps, I say, to
+those who are not arrived to the habit of Latin construction.
+
+Let but the luster of your incomparably endowed self appear favorable to my
+labors, and many sollicitudes in this little compiled piece, then will Momists
+snarles easily be checked, nipt, and intelligent men (such as are not
+preiudicated) to whose judgments I humbly submit my self, will not disdain
+the reading hereof, were it that they were solely allured by your acceptance.
+For further abilities cannot they acquire by this low subject. Language already
+in them being spunged up from authentic Authors true fountains.
+
+And though small be my present, yet may not I give the attribute of the entire
+piece to my self. Should I be bold herein, it must necessarily be that I were
+a betrayer of the Truth. Though I may well say that I have not been idle. The
+most part of the Regimen, as you read it in Latin, was compiled by Nebrixa (a
+rare professor of Salamanca) His Spanish Comment, vindicatory of his texts
+truth, I turned into English. Yet have I strengthened the one and the other
+diversely, and in many places.
+
+Whatsoever concerns Concordance is mine, there being not found in the said
+Nebrixa, such as might ought profit, or exceeding little.
+
+The total cutting off the figures of Construction has been my attention;
+which I have wrought to release the learner from innecessary perplexities:
+which both the truth and profit will plainly appear to the intelligent, and
+will facilitate the ignorants task.
+
+The further reasons of all will appear in the Preface which is drawn, at my
+request, by a friend, well versed in the learned Languages, importuned by me to
+confront the Latin with them. Upon assurance was my request that there would
+be found consonance and harmony in this Latin Language and them. I am
+satisfied in my friends integrity therein, that so they are found.
+
+Be you (worthy Sir) judge who are expert in them. And were it that the Latin
+Syntaxe should appear diverse from the construction of those Languages; yet
+notwithstanding, so delivered as it is, The Latin will answer in its true
+fountain completely for it self.
+
+Thus wishing happiness, and all graces to your worthy self, Noble Sir, I
+humbly take my leave.
+
+Yours in all due respect: IOH. HAWKINS.
+
+THE PREFACE to the READER.
+IF that be true which the Orator writes in his first Book, De Finibus,
+saying, that those who use liberality, get themselves good will: and (which is
+most important to live in quiet, Love: I hope, yea am confident (courteous
+Reader) that both these will not be wanting to this worthy Author, both in
+regard of the goodness of his cause, and the wisdom of thy Judgment. For if
+you turn over all the writings both of ancient and modern in this kind, you
+will not find any who communicates his knowledge more liberally and
+bountifully, I add more willingly and courteously; only desiring to deserve
+well of such as shall please to make use of these his useful labors. Well in
+this case has Ennius counseled, That what good may be done without our own
+de^riment and loss, must not be denied even to strangers, and such as are
+unknown to us. Nor are the gates of the Muses unlike to those of Hecale, which
+ever open made (...), An ever open house of bounty, according to Callimachus,
+their breasts as free from envy at others good, as full of desire to promote
+any thing commodious for their progress. And let thy breast (good Reader) be
+open in receiving what is here laid down, thy mind courteous and well
+opinionated, and thy judgment and candid censure void of all malice. Be alike
+loving to him, whom the love of thy commodity has drawn to these labors, and
+the apprehension of a certain way and means wholly confirmed. For although
+the Author hereof is rather desirous to instruct such as desire it, then blame
+any other, yet must he needs confess, what with others he cannot but
+acknowledge, that of so many, very few have either so far as is requisite
+delivered the knowledge hereof, or with such perplexity, as that the over
+tediousness of it has proved too often the utter discouragement and confusion
+of the learner. Well says the Arabian, (...) The luster of speech consists
+in brevity. And the same being true in the deliverie of any art, being done
+without obscurity: it may well be esteemed and judged, how much the Author
+hereof ( absit verbis invidia) has excelled all in this kind, as being not
+only brief in deliverie of rules, but also by the same having quite cut off
+and solved all grammatical figures, so great impediments of the quick
+progress of the learner, and the causes of so much incertainty and ambiguity,
+either in understanding or writing. And verily if we take a view of other
+languages, wherein the Authors of grammar neither trouble themselves nor their
+Readers in like manner, we shall find as hard constructions as may be found in
+Latin, solved by genericke rules. As what reason have we to say that this
+Saucis frontem is necessarily by Synecd. more then that of Homer, Il. a. (...)
+Iratus cor, for cord: or of Nazianz. (...) Deus quidnam sit naturam and rem,
+for natura and re? Or not to solve this, Omnes laudare, etc. by a common rule,
+as well as the Hebrews do the like: (...), and animalia ire and redire,
+(...): that is as if one would say, Currebant and rediba^t, sive [erant]
+currentes and redeuntes, or by a subintellection of an Indicative to the
+Infinitive: Currendo currebant, redeundo redibant. Or that this Sic ore locuta
+est, is a greater redundancie then that which is common to the Syrians, and in
+particular used, Luke. 2.4. (...), Ex domo eius and familia eius Davidis: i. Ex
+domo and familia Davidis. Or the use of the adiective for the adverbe, more
+figurative then of the mere adiective for a Substantive usual in Arabique, as
+(...), Vniversitas hominis, id est, omnes homines. But if we should speak of
+the discordance (yet concordance) of the Nominative case and the Verb, in
+number and gender common to the Hebrews and Chaldaeans, the putting of the
+Future for the Participle, often used by the Syrians and Arabians, with many
+other kinds of speech no less usual, we may very well conclude, that as by
+general rule such constructions no less difficult then in Latin are solved,
+and supplied; so in Latin with more brevitie by the like means may they well
+be satisfied.
+
+2. Whereas in delivery of any Art, not only truth, but a certain (...), or
+congruitie of the precepts, as proper to the Art is required. For an absurdity
+it were in Geometry, to teach Arithmetike; or in Grammar, Logic. Surely they
+err, who in Grammar induce Prolepsis, Epanalepsis, Hyperbaton, and many other,
+being (as to one well considering may easily appear) figures proper to
+Rhetorique.
+
+3. Whereas all precepts ought to be proper, that is things general to be
+spoken generally and once, things particular and special more often and
+specially, as to make it plain by this similitude. Sleep is a natural affect
+common to a man and a beast. If the natural Philosopher therefore should
+explicate this affect in a man and a beast, specially taken, he should do
+amiss, because he should repeat a thing which generally might be said and
+satisfied. The cause of error in this kind, Cicero 2. de Legib. under the
+person of Lawyers thus expresses. Lawyers, says he, either to breed a
+mistake in their Auditors, whereby they may seem to know things more in
+number, and more hard, and difficult, or (which is more likely) through the
+ignorance of teaching, often infinitely dissipate that which consists in one
+notion. Against this some Grammarians have offended in delivering a
+construction by rule, and after making the same figurative, as in Pars abiere,
+in one place by rule, in another by Synthesis: In criminibus terrere novis, by
+rule of subintellection, and Enallage, etc. In which act (me thinks) they
+imitate that Medea, whom the Poets say in her flight out of Pontus to have
+scattered the limbs of her Brother in those places, by which her Father
+followed her, so forcing pity out of an impious act, and by the enforced
+collection of them foreslowing his just and desired revenge: so have the parts
+of this Art been dissipated, so have the species been placed without their
+Genera, and both confounded, that what by some things was meant, whereto others
+did appertain, could hardly be discerned. Whereby all speed in attaining any
+perfection in these kinds of studies was not only hindered, but even all hope
+was utterly taken away.
+
+Whereas to know aright according to that great light of knowledge (even
+Aristotle himself) is (...), to know the first grounds, or primary causes;
+this in regard of prepositions expressed, or with other parts together
+understood, has been qu^te left untoucht by other Grammarians, being here
+without comparison excellently expressed: to the great benefit and assurance of
+the Learner. And so well laid down, that whether I seek brevitie, propriety
+both in the matter and manner of the deliverie, certainty, (things being
+examined according to their first grounds and causes) or in a word whatsoever
+is requisite to this useful and necessary Art: I am enforced to say of this,
+what the Ithacan feared not to pronounce of his assisting Pallas. Hom. Odyss.
+(...)
+(...).
+So is whatsoever may be required fully satisfied, so does fullness of matter
+seem to contend with right order. So is brevitie joined with perspicuity, that
+I may well say of the Author, what is commended by an ancient Father, He knew,
+to the end to edify and profit others.
+
+Now if we should a little consider the learned Languages, I mean the Latin,
+Greek, Hebrew, Chaldaie, Syriaque, and Arabique together, as we shall find some
+Idioms and proprieties of every one in particular; so shall we find them in
+most points of construction (for of Etymology I say nothing) to agree
+together. That of all these the Hebrew was most ancient, besides Christians,
+Targum Hiersol. Genesis 11.1. averreth in these words: (...) that is, And all men
+of the earth were of one language, and one speech, for they spoke in the holy
+or Hebrew tongue. And the Jews Thalmud, Tract. Sanhedrin, cap. 23. In the
+beginning was the Law given to Israel in the Hebrew tongue. But when they were
+in banishment in the time of Esdras, they took the Assyrian Character, and
+Language, and left to the Samaritanes the Hebrew. From the Hebrew corrupted
+proceeded the Chaldaie, Syriaque, and Arabique. Now as man was first created in
+the East, and therein the Church first planted; so from hence were letters
+first derived, and the use of them brought into other Nations (as if a man say
+(...), etc. he speaks Chaldaie) Read the learned Tractates, De dijs Syris,
+and Sacer Aristarchus, you will confess, that even the religious of the
+Greeks and Latins (to say nothing of other) came out of the East, and that so
+much as the names of the gods cannot otherwise be understood, then by the
+Eastern tongues. And as from these Languages are derived into the Latin, and
+Greek, diverse words, some of which you may find noted by the learned
+Caninius, So does the construction of all these for the most part agree. Let
+these therefore learn -- Risu cognoscere matrem. To imitate the other, and
+without such abundance of figures, creeping in by constructions less usual,
+but in the other Languages no less usual, as well as the other to be taught.
+
+It is recorded in the Jews Thalmud Tract. Bava bathra (or acording to them
+Basra) cap. 2. that there were two Schoolemasters, whereof one taught many
+things, but had no care of his Scholars how and how much they learned: The
+other taught few things, but was exceeding careful of their progress, which
+they explicate briefly and sententiously thus: (...). The one read and took no
+care: the other took care and read not. The same, me thinks, I see here
+imitated. Other Grammarians not regarding the time in learning, or the
+difficulty in retaining, have delivered multiplicity of rules, and added
+unnecessarie matter, which our Author attending the commodity of the learner,
+has more wisely, and with better reason quite cut off. And desiring indeed
+rather to profit then to arrogate any thing to himself, he cert^fies the
+Reader that the Regimen herein contained is translated (for the most part) out
+of Spanish, written therein by one Aelius Antonius of Nehrissa, by the command
+of Philip the third. The notes ^nferring the more learned Languages added by
+one who has vowed and dedicated his service to so worthy a Gentleman. The
+Concordance for the better perfecting of the whole with the supplying of
+figures, adjoined by himself.
+
+For these reasons (gentle Reader) kindly interpret this excellent Labor of
+this worthy Author, intended for thy better progress, which if he find
+willingly, and gratefully received, you shall not only move, but oblige and
+bind him to labor in other things necessary to the same. Farewell, and to
+speak with Virgil: Et nos, and tua dexter adi pede sacra secundo.
+
+Ad clarissimum virum, and amicum eius dignissimum, Dominum Iohannem Haukins,
+Med. Doct.
+INclyta Longaevo lacerata scientia bello,
+Et metuens priscas inde subire vices,
+Te petit, and Criticae co^monstrat vulnera turbae
+Quaeque tulit Medicum commonet aegra suum.
+Proh superi, gemina^ praestas Aesclepius artem,
+Auxilium referunt corpora mensque tuum.
+Ille micat coelis uno praefulgidus astro,
+Tu (meritus) gemino lumine clarus eris.
+Wars more then civil, raised by the crew
+That challenge Judgment to themselves as due:
+(Wherein no Foe opposed in general,
+Each others Foe gave wounds reciprocal)
+You have appeased; you conquering have allaid
+All future strifes, and endless concord made.
+Rare victory which joy and peace does bring,
+Whence to the Foe overcome, such ease may spring.
+Guilhelmus Bold Armiger:
+
+GRammatices morbos curasti, membra dolentis,
+Quae infirmae and, firmae est, convalet art tua.
+Art Haukine tua haec, aeternum, credo, valebit.
+Huic vitam impertis, vivere teque facit.
+Ars haec, art tua, reparatur: te ergo negaret
+Mors hic esse diu? vivere fama jubet.
+C. C.
+
+WHat mar's young wits, what drives them in their prime,
+From getting Knowledge, is it not things sublime?
+And passing their capacities which make
+Some borne for Arts, inferior courses take.
+This seen, the Author did himself apply
+To give this groundwork such facility,
+Whereby wits weak through Authors deep may wade:
+No Comments used, rules hard so plain are made.
+Grammar's unmasked. What is not here discerned?
+Read, reap much fruit, ye less, and better learned.
+C. C.
+
+CVm Pharum liquit Solymaea proles,
+Sort concessos repetens penates
+(Quo darent hosts geminu^ triumphu^)
+Abstulit Aurum*
+Iussa coelesti superum loquela
+Praemium iustum misero labori
+Hinc capit; terras spolijs onusta
+Quaerit auitas.
+Praessit haec longo teneram dolor
+Ars iuventutem, tibi cedit omnes
+Haec opes, coelo duce quas reportas
+Dives ab host.
+Divites vestro sumus hinc labor,
+Et iugum nostris humeris regestum est:
+Libero aeternum spaciare coelo
+Grata inventus.
+Johannes Fish.
+
+To my noble friend, the Author, upon his worthy and useful Work.
+WHat time is lost, what wit vex't' what health spent,
+Only in search of things impertinent?
+What war among critics raised, to reconcile
+Some little difference both in speech and style,
+So that in this war too, our costs and pain
+Are more to get the outworks, then the main.
+Then your great Oracle Hippocrates
+His truth and knowledge fully did express,
+When he said life was short, and Art was long,
+You who know all his Art, and know the wrong
+Our minds and bodies suffer in such strife,
+And study for the perfect use of life,
+In opening us this secret, shall do more,
+Even for our health, then Art could do before.
+Since those rough ways, our youth has past with pain,
+Are by your noble industry made plain.
+I. G.
+
+VMbris Roma novos redit en visura triumphos
+Discutiens cineres,
+Obvia quae cultae nunc dat penetralia linguae
+Vix adeunda prius.
+Per varios casus, per quot discrimina rerum
+Tendimus in Latium?
+Sidere nunc meliore, leves appellimus oris,
+Quid superesse putem?
+Artibus ut grata Palinuro mente Litemus
+Qui patefecititer.
+I. S.
+
+To my honored Friend upon his Introduction.
+IF they which find out clear and happy ways
+To wealthy kingdoms, where the treasure pays
+Their cost again,
+Deserve to have their name
+Shine, in the list of fame,
+What honor then,
+Shall we and time bestow
+On him, to whom we owe,
+For this near way to know?
+Grammar which opens to the arts, had lost
+Her golden key, this new one is thy cost;
+Ages were spent,
+And many Rocks our youth
+Were forced to clime to truth,
+Till this was lent.
+For which great trust, since we
+Are bad security,
+The Arts are bound to thee.
+Ia. Shirley.
+
+Dear Sir, It is not my desire to show
+Your Peerlesse worth, which all the world does know:
+Nor (with those ^ond Astronomers who take
+Great heights, with little instruments, and make
+Unpardonable errors) to express
+Deserts with unproportion'd feebleness:
+It Is my ambition to be known your Friend,
+"Worth clear to all, it is needless to commend.
+John Fish.
+
+Clarissime Domine:
+QVantum respublica literaria solerti industriae tuae debeat, non tyrones modo,
+qui in literarum elementis haesitabundi ad fastidum usque desudant, sine re,
+sine spe: Sed and veterani etiam, qui cum compendium and perspicuitatem methodi
+tuae cum prioris aevi dispendio and obscuritate aequa libraverint lance,
+benedicent Deo and vigilijs tuis, qui e tenebrosa antiquitatis caligme lucem
+eruisti merdiana clariorem, adeoque conspicuam, quod lippus per eam deviare non
+poterit. Macte Domine, and progredere bonis avibus, ita quod non coetanei tui
+tantum, sed and nati natorum and qui nascentur ab illis, ubertatem calami tui
+poterint redolere: In tractatu ho^ quem ad me misisti inte^tus haesi, and
+plurima reperi quae bonu^ commune meo iudicio multum possunt promovere; In
+cuius rei gratiam and tuam, licet poesi nuntium misi, soluta tamen oratione,
+inter amantissimorum tui iudicia and congratulationes quin and calculos meos
+subijcere non sustinui.
+
+Amoris and reverentiae ergo, Mich. Huggansonus. A cancellis Regijs.
+
+Ad clarissimum virum, Dominum Iohannem Haukins, Med. Doctorem.
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+(...)
+R. Abbay.
+
+(...)
+(...):
+(...),
+(...).
+(...),
+(...).
+(...),
+(...).
+R. Abbay.
+
+EGregiae sincera domus Haukine propago,
+Inclyta Cantiacis quem tulit ora iugis.
+Quem facilis splendour, facilis quem gratia morum
+Imbuit, and docti gratia blanda salis.
+Hoc pignus tibi sacrat amor, ducitque recessu
+Pectoris, and votis addere vot a parat.
+Progredere, O foelix, generosam invadito lauru^
+Angliacaeque novum tu iubar add scholae.
+Quo dum fata trahant longaevae stamina vitae
+Et meritus famae perpetuetur honos,
+Add is nostri Princeps heroibus aevi,
+Dum monstret tantam docta papyrus open.
+AVthority had like the Scythian Snake
+Long kept this golden treasure, and did take
+All courage from adventurers, to tame
+The monstrous Foe, and vindicate the same;
+You noble Sir, like Jason, boldly try,
+And free this science from obscurity,
+That like the Sun amidst the inamor'd day
+She spreads her rays, and drives dark clouds away,
+Could ages, like the billows of the maine
+Reduce themselves to former state again.
+Or back restore the men, that in their time
+Used Romans tongue, when Rome was in her prime.
+They would confess, that pen did never declare
+This Art with better art, with skill more rare.
+R. Abbaye.
+
+Lector benevole:
+Constructionis figuras (discentium maxima impedimenta and obices) little
+commodo, quantum in nobis situm est, consulentes, regulis Syntaxi nostrae
+insertis, hoc modo supplemus.
+
+Appositio. p. 8. l. 10. Evocatio. p. 1. l. 14. Syllepsis. p. 2. l. 9. Zeugma.
+p. 1. l. 18. Synthesis p. 4. l. 13. Antiptosis p. 4. l. 2. Synechdocho p. 16.
+l. 12. and alibi. Ecclypsis p. 89. l. 12. Enallage ibid. l. 18.
+Reliquas ad Rhetoricam potius spectantes, scientes omisimus. Vale and fruere.
+
+SYNTAXIS EST PARS GRAMMATIcae vocum connexionem dirigens, estque vel
+Concordantia vel Rectio.
+De Concordantia.
+COncordantia est partium orationis in communibus affectionibus convenientia.
+
+Concordantia est triplex; Nominativi and Verbi: Substantivi and Adiectivi,
+Relativi and Antecedentis.
+
+Concordantia prima.
+Nominativus and Verbum convenient numero and persona: vt, Probitas landatur
+and alget. Suus cnique est mos.
+
+Observatio.
+Cum vnum verbum ad plures nominativos diversos repertum cum propiore numero
+and persona convenit: vt, Hic illius arma, hic currus fuit. Aeneid. 1. Tu quid
+ego, and populus mecum desideret, audi.
+
+Cum digniore persona: vt,
+Si tu and Tullia lux nostra valetis, ego and suavissimus Cicero valemus. 14.
+Epist. 5. Iam.
+
+Plures nominativi coniuncti verbum plurale expetunt. Interdum etiam omissa
+copulativa, vt Frons, oculi, vultus persaepe mentiuntur, oration vero
+saepissime. Cic. ad Quint. Fr.
+
+Interdum singulari contenta sunt. Vt men's and ratio and consilium in senibus
+est.
+
+Concordantia secunda.
+Substantivum and Adiectivum convenient casu, genere, and numero: vt,
+Corrumpunt bonos mores colloquia prava. Quandoque bonus dormitat Homerus.
+
+Tam in hac quam in praecedenti regula reperitur nonnunquam anomalia and
+irregularitas apud Poetas, sicut enim dicunt Graeci, (...) pro (...), sic and
+Latini, Virg. 2. Aeneid.
+
+-- Quibus Hector ab oris.
+Expectate venis, pro expectatus.
+Pers. S. 3. Censoremve tuum vel quod trabeate salutas, pro trabeatus. Virg.
+Adsis laetitiae Bacchus dator, pro Bacche. Observatio prima.
+Cum unum Adiectivum ad plura substantiva diversa referatur cum propiore genere
+numero and convenit; vt, Locus et tempus constitutum est. Caper tibi salvus and
+haedi. Virg. 7. Ecl.
+
+Cum digniore genere: vt,
+Pater and matter mortui. Eun. Act. 3. Sc. 3.
+
+Observatio secunda.
+Substantivis rerum inanimatarum subijcitur saepe Adiectivum plurale neutrum:
+ut Divitiae, decus and gloria in oculis sita sunt.
+
+Concordantia tertia.
+Relativum and Antecedens convenient genere, numero, and persona: ut, Literae
+placuerunt, quas ad me dedisti. Qui leviter saeviunt, sapiunt magis.
+
+Observatio prima.
+Si Relativum and Antecedens eidem verbo adiungantur, etiam in casu convenient;
+ut, Vrbem quam statuo, vestra est. 1. Aeneid.
+
+Observatio secunda.
+Relativum Qui, positum inter duo Antecendentia diversorum generum, nunc cum
+priore, nunc cum posteriore convenit: ut, Vnus erat toto naturae vultus ^n
+orb, Quem dixere Chaos. Animal plenum rationis, quem vocamus hominem.
+
+Ob^ervatio tertia.
+In Concordantia quic quid in vicem Nominativi, substantivi, vel Antecedentis
+venit, casum, genus, numerum, and personam induere potest eius, in cuius vicem
+venit: vt, Divellimur inde Iphitus and Peiias mecum. Pars certare parati. Vbi
+illic scelus est, qui me perdidit.
+
+Observatio Quarta.
+Interrogatio and responsio eodem fere ponuntur casu: Cui Praeceptori dedisti
+operam? Platoni. Cuius est haec oration? Ci^eronis. Quo morbo fuisti impeditus?
+assidua febricula.
+
+Excipe quaestionem factam per Quanti; ut Quanti emptus est Liber? duobus
+denarijs.
+
+Et Cuius, cum ad hanc respondendum est per pronomen possessivum: ut, Cuius est
+Liber? meus. Cuius puerum adduxisti? meum.
+
+Et quando respondendum est per verbum variae Syntaxeos: ut Furtine accusas, an
+Homicidij? vtroque.
+
+De octo Partium orationis Constructione Lib. vnicus.
+BEfore ought be commenced in the construction of a Noune and Verb, that is
+to be noted in general, that Rection or Government of as many cases as the^^
+are in Latin, is in three manners only; either it is a Genitive of
+Possession, the which depends necessarily of a Noune substantive: I would
+say, that as often as you shall find a Noune substantive in the genitive case,
+it must of force be governed by some substantive which is either expressed or
+understood.
+
+The second, all Verbs that are, do govern their Accusative, and the
+Accusative is governed by them.
+
+The third, Prepositions govern their cases answerable to their Natures; The
+first rule has two exceptions: for a Noune Adjective man govern a Genitive;
+as Studiosus virtutis: but this is a Greek construction.
+
+Likewise Adverbs may govern a genitive; as, satis temporis and then it is
+said, that they take the place of a Noune. In such sort that setting ap^rt
+these two exceptions, each genetiue is g^uern'd of a noune substantive; each
+Accusative of a verb, each other case what soever, of his preposition; if the
+case be capable of a preposition.
+
+Secondly, it is to be observed that the Nominative, Dative, and Vocative are
+never governed of any: as for the relation which is between the nominative and
+the verb, it is not called Rection, but Concordance: the dative is always of
+loss or profit, which we call a Dative of Acquisition* the Vocative is that
+with which we speak, and to which we address our speech. This will we
+examine by the following notes, in which the Reader shall be rationally
+informed, of some things said, against that which has hitherto been in use:
+which notes shall serve for a comment; for there is no reason, that all other
+parts of the Art should be well po^sessed and yet there should remain a
+deficiencie in the syntaxe, whereof there is m^st need. In the same notes,
+there shall be inserted, the particular constructions of some verbes, which we
+have cut off from the general Rules, because it has seemed expedient, to many
+learned men, that the syntaxe should be brief, for that boys may have less
+to commit to memory.
+
+The Notes that shall succeed under each occurrent are principally for learned
+men: for being to teach some things in the syntaxe against some received
+opinions, it is meet I should distinctly render account of them.
+
+The grounds of them shall be rendered as is aforesaid: for if it should be
+taught according to the opinion of many learned men, that a superlatiue does
+not make comparison, as hitherto has been said: and that Refert and Interest
+have after them an accusative, and others in the same manner, it would be an
+argument of imprudence, not to declare the reason and ground of those things,
+and produce the Authors whom we follow. And because in this place a large
+exposition cannot be composed, we desire that the Notes may serve for a brief
+Comment.
+
+De constructione Nominis substantivi.
+DVo Substantiva continuata, si ad eandem rem pertinent, eodem casu gaudent:
+ut, Vrbs Athenae.
+
+Si autem ad diversas alterum cui sit possessionis nota erit Genetivus. Cic. In
+Pison. Supplicium est poena peccati.
+
+1. Note.
+Be you advertised that the Genitive of Possession imports action, or
+passion; as, Vulnus Achillis, he would say, the wound that Achilles gave to
+another; or the wound that was inflicted on him Achilles. The same have you to
+understand of the possessives, Meus, tuus, suus, noster, vester: Laurentius
+Valla without foundation teaches the contrary. Cicero pro Marcel. Quis non
+intelligat tua salute contineri suam: where salute tua, is that which Caesar
+had; in such sort that tua is taken actiuely. Idem Cic. Philip. 10. An vero hoc
+pro nihilo putas, in quo quidem pro amicitia tua iure dolere soleo? where
+amicitia tua, is not what you have, but what is had to you, for you, and in
+your behalf; and so said Budaeus in his Comment. Pro amicitia tua, id est, pro
+amore quo tu diligeris. Answerable to Valla his doctrine, it should be rendered
+pro amicitia tui. This which we profess, Budaeus, Muretus, and most amply
+Franciscus Sanchez in his Minerva lib. 2. cap. 13. and others deliver.
+
+Si vero Genitivus laudem, vel vituperaetionem significet, in Ablativum mutari
+potest. Cic. 4. Fam. Neque te confirmare audeo maximi animi hominem, vel maximo
+animo. Adiectiva cum substantive ponuntur, more substantivorum construuntur.
+Cic. Tantum cibi, and potionis adhibendum est, etc.
+
+De Constructione Nominis Adiectivi.
+ADiectiva, quae scientiam, communionem, copiaem, and his contraria
+significant, cum genitivo iunguntur: ut, juris peritus, consilii particeps,
+plenus officij.
+
+Item, quaedam in ax, ius, idus, and osus: ut, Philosophus tenax recti, nulliu^
+culpae conscius, avidus virtutis, studiosus literarum. Quibus add memor,
+Immemor, securus: ut, Memor beneficij* immemor injuriae, securus rumorum. Hi
+casus reguntur ab adiectivis Graeco more.
+
+Partitiva nomina, Numeralia, and quaecunque adiectiva partitionem significant,
+genitivum possessionis, vel ablativum multitudinis cum praepositione, E, vel
+Ex, vel de admittunt: ut, Nulla belluarum, unus militum multae arborum, vel ex
+arboribus: unus militum, id est, unus ex numero militum: ex numero, inquam, nam
+est partitio* Sic dicitur Animalium haec binis, illa quaternis pedibus incedunt.
+
+2. Note.
+The Grammar of this, is Vnus Militum, id est, unus ex numero Militum. And ^o
+this genitive is of possession, for it is governed by the substantive Numero;
+which is to be understood necessarily, for the being Partitives is nothing
+else, then for one particular, to be parted, and divided from the common number.
+
+Superlativa.
+Superlativum Nomen est, quod dissolvitur in Positivum, and Adverbium valde,
+aut maxim: ut, doctissimus, valde doctus, aut maxim doctus. Iungiturque cum
+genitivo plurali possessionis, vel singulari, qui multitudinem significet. Cic.
+5. Tus. Theophrastus elegantissimus omnium. idem ^ro Rab. Plato totius Graeciae
+doctissimus. Est autem doctissimus omnium, idem, quod, doctissimus ex numero
+omnium. Hic genitivus in ablativum cum praepositione E, vel Ex, vel De mutari
+potest. Cic. pro Cluen. Ex his omnibus natu minimus. Inter dum in accusativum
+cum praepositione, Inter. Senec. 2. Contro. Croesus inter reges opulentissimus.
+
+3. Note.
+Very learned men aver, that the genitive of the superlative is by way of
+comparison: others instance that there is no comparison in the superlative, but
+partitio^ only; which no body denies: the difference is the first will that
+there be comparison, and partition; the second, that there be partition only;
+And that there is not in the superlative any comparison, it appears evident,
+it being that comparison has his force in these two particles, magis quam,
+more then: and the superlative admits not these, for the same resolved, is,
+Doctissimus, quasi valde, or Maxim doctus, id est, most learned, or very
+learned. In such sort that this speech, Cicero is the more learned of the
+Romans, is not to be thus rendered, Cicero doctissimus omnium Romanorum, but is
+to be delivered by comparative, as hereafter shall be seen: for the word does
+not comprehend in it a superlative; so as, Doctissimus omnium, shall import the
+same, that Doctissimus ex numero omnium, most, or very learned of the number of
+all. And the Castilian language must maintain these said of necessity, for all
+acknowledge, that every superlative, is partitive: and is to be declared as
+partitive, so as the genitive shall be of possession. You will say that a
+superlative includes always excess, which cannot be without comparison. I
+say that it always contains excess, yet not comparative excess, which
+consists in this particle, More, for from hence would it follow, that Magnus,
+which is a positive, might bear comparison.
+
+Moreover that the superlative includes excess without comparison is manifest
+by the Hebrew and Chaldaie circumlocutions, Genesis 1. (...) Chal. (...) valde
+bonum, id est, optimum. As who would say, exceeding good, or good beyond
+comparison. For so some Jewish expositors explicate the place.
+
+Secondly, you will instance that these manner of speeches are in the Latin
+tongue very ordinary, Prudens, prudentior, prudentissimus; from whence it
+appears, that there is a comparative ascent received. I answer, that the
+Spanish is, to run, Prudente, mas prudente, prudentissimo, or muy prudente, and
+that it is a mere deceitful folly to say muy mas prudente, for that the
+superlative imports an excess, beyond all comparison (so likewise in our
+English tongue is it found Prudent, more prudent, and most prudent: which
+though it express not the superlative, in one single word, yet most so added,
+add excess without all comparison) by what we have produced: for really if I
+were to make comparison, were it an hundred times, I should be constrained to
+repeat the word Prudentior, as Horace has done, saying, Aetas maiorum peior
+avis, tulit Nos nequiores mox daturos Progeniem vitiosiorem, where as least
+according to the Grammarians Rules, he should have put a superlative in the
+last. Yet be it observed, that whenever there shall be annexed any
+preposition, including any excellency, then shall it have comparison, as,
+Doctissimus ant^ omnes, supra omnes, prae omnibus, more learned then all the
+rest.
+
+Which comparison takes his force from the preposition, as in the like case it
+does in Greek; Lucian de Galatea, (...), Ego ex omnibus pulcherrima visa sum:
+nor for this may it be said to compare, for the positive has the same, as,
+Formosus prae omnibus, more fair then all besides. The prepositions e, ex, de,
+inter, do not import excellency, and even so say we, Doctissimus omnium, is
+the same that is ex omnibus and inter omnes.
+
+Genitivus vel Dativus post Nomen.
+Nomina quae similitudinem aut dissimilitudinem significant item Communis,
+Proprius, interrogandi, vel dandi casui haerent, Teren. Eunu. Domini similis,
+vel Domino. Cic. de Senect. Proprium senectutis vitium. Commune valetudinis,
+vel valetudini.
+
+4. Note.
+This construction, in that which concerns the Genitive is Greek, and the
+Dative is of acquisition, which is to be noted in all these like Nounes.
+
+Dativus post Nomen.
+Nomina quibus commodum, voluptas, graetia, favor, aequalitas, fidelitas, and
+his contraria significantur, iunguntur eleganter Dativo acquisitionis: ut,
+Consul salutaris, perniciosus Reipublicae. Iucundus, molestus, gratus, invisus,
+propitius, infestus civibus, fidus, infidus imperio: par, impar tanto oneri.
+Item verbalia in bilis: ut, Amabilis omnibus, and quaedam nomina, quae ex
+particula con, componuntur: ut, conscius mihi, consentaneus omnibus. Denique,
+quaecunque Adiectiva habent hunc Dativum acquisitionis. Pleraque autem
+eleganter efferuntur interdum cum accusativo, et praepositione ad: ut,
+accommodatus, appositus, aptus, habilis, Idoneus, utilis, natus huic rei, vel
+ad hanc rem.
+
+Accusativus post nomen.
+Adiectiva quae vel patriam, vel gentem, vel habitum, vel parte^ in homine
+significant, et a Grammaticis per praepositionem, secundum, exponuntur; apud
+Poetas saepius, in prosa oratione rarius, accusativum adsciscunt. Vir. 4.
+Aeneid.
+
+Omnia Mercurio similis vocemque coloremque, Et flavos crines, etc.
+
+Tradunt in Misia feram esse quae Bon^sus vocatur, equina iuba, caetera tauro
+similem. Pl. l. 3.
+
+Ablativus post Nomen* Comparativa.
+Comparativum nomen est, quod unum vel plura quocunque modo superans
+dissolvitur in positivum, and adverbium magis: ut, Doctior, magis doctus;
+iungiturque cum ablativo, Cic. 1. Cati. Luce sunt clariora nobis tua consilia.
+Plin. lib. 36. cap. 9. de quadam navi. Omnibus, quae in mari visae sunt
+mirabiliorem. Est autem doctior omnibus, idem quod doctior prae omnibus. Quod
+apud Hebraeos magis patet, exprimunt enim comparativum per particulam (...),
+ex, five prae, ut Cant. 1. Boni amores tui (...) prae vino. Eodem modo caeterae
+linguae orientales cum Graeca lingua circumscribunt comparativum.
+
+5. Note.
+Hitherto it has been a wont to exclude comparatives, and this was held for
+false Latin, Cicero est doctior omnibus Romany: saying that it should have
+been expressed by the superlative; yet so many authorities are there, which
+teach the contrary, that we were compelled to deliver the Rule as it is now.
+Plin. lib. 36. cap. 9. making mention of a ship, uses these words: Omnibus
+quae in mari visae sunt mirabiliorem. Valerius Max. speaking of three
+Dionisio's. Tertium te importuniorem habere caepimus. Ovid. 13. Metamorph.
+Omnibus inferior quas sustinet arduus ether; and 2. Praestantior omnibus
+Hearse. Plaut. capti. Non ego nunc Parasitus sum, sed Regum rex regalior.
+Martial. lib. 11. Hic totus volo rideat libellus and sit nequior omnibus
+Libellis. Ovid treating of the five Zones. Quinta est ardenuor illis. Plin.
+lib. 36. cap. 7. writing of the Marmoles. Viride cunctis hilarious. Thus the
+Greek often use the Comparative, as it were, instead of the Superlative.
+(...). Omnibus difficilius est praeesse animabus for difficillimum, Nilus. In
+confirmation of this, there might be brought in, many more testimonies: so as
+well shall this speech be delivered. Virgilius poetis omnibus politior est.
+Latinis excellentior, Graecis praestantior, Homero divinior, caeteris, cunctis,
+reliquis suavior. But mark well, that the Ablative of the Comparative is ruled
+by the Praeposition, Prae, which is understood, and so the Grammar is Doctior
+omnibus, id est, doctior prae omnibus: which Preposition, many clearly
+expressed. Apulei. lib. 8. Prae ceterie feris mitior cerva. Ibid. Vnus prae
+ceteris fortior. Moreover and above, that this Doctrine is of the learned
+Sosipater, Charifius, lib. 1. does clearly likewise teach it; and brings
+examples, wherewith he does ratify it. And to make this Rule more general,
+it is to be understood, that how many soever they are, by virtue of a
+Preposition, one while it is joined to Verbes, sometimes to Nounes, Positives,
+Comparatives, or Superlatives. Plaut. Mostel. Nihil pendere omnes prae
+Philolache. Cic. Sulpitio. Prae nobis, beatus vir. O foelix una ante alias
+Priameia virgo. Idem, Scelere ante alios immanior omnes. Sucton. Galba. Crucem
+statui iussit praeter caetera altiorem. We have spoken of the Superlative
+already, in his proper place. In such sort, that of two particles, that it has
+which makes comparison, viz. Magis quam, more then, the Comparative has in
+himself the first place, for Doctior is the same, that is Magis doctus, and
+the rest it receives of a Preposition.
+
+Pleraque Adiectiva iunguntur Ablativo quae significent Laudem, Vituperationem,
+vel Partem. Q. Cic. de petit. Consul. Nequaquam sunt tam genere insignes, quam
+vitijs nobiles. Sal, de Bell. Catil. Antonius pedibus aeger.
+
+6 Note.
+This Ablative is governed of the Preposition In, or of some other which may be
+commodiously understood: which the Latins have forsaken, for elegancy sake;
+the reason of this is, that oftentimes they applied a Preposition to the same
+things.
+
+Opus nomen substantivum eleganter Ablativo, vel Nominativo adiungitur: ut,
+Opus est mihi libro, opus est mihi liber. Mi obra, y negocio es ellibro.
+
+7 Note.
+Hitherto it has been taught that opus was a Noune Adjective, although it
+cannot be other then a Substantive, which is manifest, because sometimes it is
+found with an Adjective. Horat. sunt quibus vnum opus est, intactae Palladis
+vrbem, Carmine perpetuo celebrar^: this proposition, Opus est mihi Liber, is
+the same, that, Totum meum opus est liber, all my business and entertainment,
+is a Book: the Greeks say (...) Opus est mihi Libro, id est, Totum opus meum
+est in libro positum: So do learned men of the University of Salamanca
+expound these speeches. In such sort, that Opus est mihi liber, does not
+import, I have need of a book, but my business and entertainment, and my
+work, is a book, as is seen in other like expressions. For as it is said,
+Opus est mihi liber, so likewise is spoken, Cura est mihi liber, a book is my
+care; Senectus mihi est morbus; Pater mihi est taedium, imagine that you say,
+Liber est opus meum: All my business is a book; the same likewise will it be,
+meum, being left out. Sextum Nudus amat. Dignus, Contentus, Inanis
+Atque Refertus, item Locuples, Alienus, Onustus.
+Immunis, Plenus, Casus, Diuesque, Potensque.
+Tum Fretus, Vacuus, tum captus, Praeditus, Orbus.
+Praeterea Extorris, quibus omnibus addito Liber.
+
+
+Cic. Atti. Huic tradita est vrbs nuda praesidio, referta copijs. Horum
+pleraque iunguntur etiam Genitivo, Graeco more: ut, dignus honoris. So say
+they, Hom. Il. (...) (...) Vnus vir medicus dignus multorum aliorum. So
+Chrysostom, (...). Nihil dignum amici fidelis. Ablativus horum nominum pendet
+a varijs praepositionibus.
+
+Alienus interdum cum dativo reperitur, ut pro Cec. ^d dicit quod illi causae
+maxim est alienum. Vbi alienum est dativus acquisitionis incommodum
+significans.
+
+8 Note.
+The Ablative of these nounes depends ever more of a Preposition, for many
+Authors have attributed it to them, and even it will be necessary sometimes to
+express the preposition, to avoid Amphibology: as liber servitute, may have
+two meanings, id est, liber a servitute, vel liber in ipsa adhuc servitute; so
+in the same manner, vacuus, vel ab ipsa cura, vel in cura ipsa, and so others.
+
+Adiectiva diversitatis, and Numeralia Ordinis Ablativum cum Praepositione A
+vel Ab. admittunt, Cic. 4. Acad. certa cum illo, qui a te totus diversus est.
+Her. de Bell. Alex. Imperio and Potentia secundus a Rege.
+
+Item securus. Liber; vacuus. Purus, Nudus. Inops. Extorris. Cic. pro Dom. Tam
+inops aut ego eram ab amicis, aut nuda Resp. a Magistratibus.
+
+De constructione verbi.
+Omne verbum Personale, seu finitum, utrinque Nominativum habere potest, cum
+utrumque nomen ad eandem rem pertinet, maxim verbum substantivum, ut suo loco
+dicetur, and vocativum. Cic. de Orat. Qui habentur, and vocantur sapientes.
+
+De Constructione verbi cognatae significationis, vulgo neutri.
+Note that the intension is according to Syntax, which is handled, not
+Etymology.
+
+BEfore entrance be made in the Verb, which is ordinarily styled a Neuter, be
+advertised, that there be many learned me^, who with great reason think that
+there are no such verbes, rather that all they so called, are Actives: the
+ground is, for that Verbes are in two kinds: the one, whose action passes not
+further then to an accusative, denominated Cognatae significationis, which is
+the same as if one should say, passes not further then to an accusative, which
+declares the action contained in the same verb, for further clearness not
+expressed, but when he would have some thing more added: as vivo requires this
+accusative vitam, and it needs not to be added for clearness, and if it had
+been set down, it would have been a speech of Pleonasmus, and Redundance
+without necessity; yet if I would express ought besides that which is
+signified by this acculative vitam, I must deliver it thus; Vivo vitam
+perdifficilem. And so Cicero had no cause why he should h^ve said, Gaudere
+gaudium, because it was in it self clear; yet when he would add more, he
+expressed himself thus, Vt suum gaudium gauderemus; and Virgil: Furere hunc
+furorem. And likewise many others, as Cicero, Curro arduum cursum. Consimilem
+luserat ludum: dormit somnum Endymionis; Navigat navigationem asperam: The same
+have the verbes which all the world acknowledge to be Actives, Verbi gratia
+lego, iudico. With which it suffices to say, Legit Magister, Iudex indicat,
+for now is understood Lectionem, Iudicium, and surely as you will not profess,
+that this speech Legit Magister, is of a verb Neuter, as little have you to
+aver of this. Nauta navigat.
+
+And although some of these under the Active termination, have a passive
+signification, yet may they rightly be styled Actives, as in other languages
+in the same case they are. For Xenoph. speaks thus: (...): Ille a vobis
+interfectus est vir bonus cum esset. So in Hebrew in Active coniugations, the
+signification is plainly neuter and intransitive, as (...) in Piel festinavit
+(...) in Hiphil surrexit. So in the Chald. and Syriaque (...) pervenit, in
+Pael. (...) in Aphel regnavit. So in Arabique in the first conjugation merely
+active, (...) contristatus est, in a passive and intransitive signification.
+
+The other sort is of Verbes, which clearly all men call Actives, to which is
+added an accusative, because of incertaintie, as, Amo filium: Libros:
+Haereditatem: And if you shall answer, that to have one only action, is not
+sufficient that they be called Actives: this answer satisfies not the learned,
+for one action is enough to prove a verb to be active, without that very many
+of them have more then one action: of which we will lay before your view a
+brief Catalogue, in the succeeding ninth Note, which has reference to this
+Note. Finally, when an appropriate accusative was not found for these verbes,
+in lieu of action they applied their own Infinitive: and therein, were many
+ancient forms, of speaking, grounded. Plautus, Pseudo. Pergitis pergere. Cic.
+in Arato. Post hunc ore fero Capricornus vadere pergit. Livi. lib. 22. Pergit
+deinde ire sequentibus paucis: and so were many others, as Iaceo jacere, perit
+perire, etc. which is the construction of the Greeks, who use much this kind
+of action.
+
+The Hebrew tongue and Chald. use the like manner of speaking, Genesis 2. (...),
+Chapter (...) mori morieris, cap. 3. (...), Non mori moriemini.
+
+Finally, the Grammarians themselves, and Authors of Arts acknowledge, that all
+Verbes have no more, then action and passion: which you shall survay in the
+underwritten note, which I take out of the seventh Note of the third Book of
+my Author; and whilst they profess so much, yet make they so many divisions
+of verbes; not agreeing with their own proper doctrine.
+
+In conclusion, be it known, that these verbes besides the accusative of their
+proper action tacit, or expressed, many have other common cases which are
+Genitives of possession, Dative of acquisition, Ablative which depends of a
+preposition: which cases, although they may be annexed to many verbes, yet
+with particular elegancie they are joined to those which are placed in the
+three following orders.
+
+Verbs Deponents are so called, not for the reason delivered by some
+Grammarians, but for that anciently, there were many verbes in Or, which were
+common, ^ignifying action and passion, and this in imitation of the verb
+called medium of the Greeks: yet now by custom they have forsaken their
+passive signification, abiding only with the active, insomuch as it is all
+one, to name verbs deponents, as to say verbes actives deponents. For Amplector
+virtutem, is action, and so these verbes are actives. And those of these
+deponents which are styled Neuters, are also Actives, and that there are no
+more verbes then actives and passives, the Grammarians themselves deliver,
+Priscian lib. 8. Verbum est pars orationis cum temporibus, sine casu, agendi,
+vel patiendi significativum. Ha dissinitione omnia tam finita quam infinita
+verba comprehenduntur, and neutra etiam quae dicuntur absoluta; and Deponentia
+omnino naturali^er, vel in actu sunt, vel in passione. Antoninus de Nebrixa,
+lib. 3. professes the same. Verbum est pars orationis declinabilis cum modis
+and temporibus agendi, vel patiendi significativa. Scaliger says, Quibus
+manifestum est verba Neutra non esse ab activis seiuncta. Besides this all good
+Philosophers do deliver, that in all actions there is Agere, vel Pati; for
+that these verbs which are called Neuters, have place in humane actions, which
+is all one, as if you should aver, that they neither have action nor Passion:
+and less have the deponents, unless it be so far forth as they are Actives.
+
+9 Note.
+Besides, an Accusative, which Verbs improperly called Neuters, have of their
+own Action, as Vivo vitam, curro cursum, etc. Many others have Accusatives,
+though Neuters called: first it shall not be needful to bring examples of
+eleven several Verbs which are wont to be numbered in the neutrall order, since
+that all Grammarians confess that they have an Accusative. These are Antecedo,
+Anteeo, Antesto, Anteverto, Attendo, Praesto, Praecurro, Praeeo. Praestolor,
+Incessit, Illudo. And in truth, as these are, all the rest are, and I know not
+why they did not reckon the rest together with these eleven, since they have
+likewise an Accusative. Let us then draw up a Catalogue of these Verbs, giving
+them Accusatives, from the authority of very approved Authors.
+
+Abstineo, Brutus ad Attic. Vt se maledictis non abstineat.. Abnuo. Salust.
+Iugar. milites abnuentes omnia.. Abutor. Teren. In prologis scribendis operam
+abutitur.. Adoleo. Adolere verbenas auctores omnes dicunt.. Adulor. Cice. 2. de
+Divi. Adulari fortunam alterius, and Tacit. lib. 6. Neronem adulari.. Adversor.
+Tacit. lib. 17. Deos infaustam adoptionem adversantes.. Aestuo, Papinius,
+Aestuat annum, quod dixit, Turnebo adnotante, ut aestum aestuare.. Allatro.
+Livi. 38. Allatrare eius magnitudinem solitus erat.. Ambulo. Cice. 2. Fin.
+Ambu^are maria, and. terram navigare, loquitur de Xerxe.. Anhelo. Cice. 2.
+Cati. Anhelare Scelus.. Annuo. Catul. Epith. Annuit omnia omnibus.. Appello,
+is. Valor. Ma. lib. 1. cap. 7. cum ad littus navem appulissent.. Ardeo, Virg.
+Coridon ardebat Alexinalij, ar det virginem, aurum, pecuniam, etc.. Arrideo.
+Agelli. En. Flavius id arrisit.. Aspiro. Virg, Ventosque aspirat eunti..
+Assentor. Terent. Eun. Imperavi egomet mihi omnia assentari: alij legunt
+assentare.
+
+. Assentor, and Assentio; Plaut. Amph. Qui illud, quod ego dicam, assentiant.
+Cic. ad Octav. Timet multa, assentitur omnia.. Attinet faciunt impersonale, sed
+est Attineo, attines, idem fere quod teneo, aut tango. Plaut. Capti. Nunc iam
+cultros attinet, and Tacit, lib. 1. Ni proximi prehensam dextram vi
+attinuissent.
+
+Caleo. Plaut. Ego illius sensum pulchre caleo; alij, calere virginem, id est,
+ardere, aut amare. Careo. Plaut. cur id, quod amo, careo: careo pecuniam, citat
+ex Catone-Scaliger. Caueo. Cic. Topic. cum mihi meisque multa saepe cavisset,
+and Cato. 5. c. Rei Rust. Scabiem pecori, vel iumentis caveto. Cede maiori, id
+est, locum maiori. Valor. Max. lib. 1. cap. 5. Ego tibi libenter meam sedem
+cedo.. Certare cum aliquo, id est, certamen, sic legitur de Terentio, Multos
+incertos certare hanc rem vidimus. Coeo, Cicero alijque, coire socitatem, and
+societas coita. Coenare epulas, tritum: et Apule lib. 9. sacrificales epulas
+coenitabat. Collachrymo. Cice. p. Sestio, Histrio casum meum collachrymabit,
+Commisereor Agel. lib. 7. cap. 5. Commisereatur interitum eius. Conclamo. Ovid.
+13. Metam. conclansat socios; Caes. Conclamare Victoriam. Conqueror, Cice.
+Pauperiem meam conqueror, and Plaut. Conqueri libidinem, vim. Consulo tibi, id
+est, utile, vel commodum. Consuesco. Lucret. lib. 6. Brachia consuescunt,
+firmantque lacertos; and Colum: Plaustro, aut aratro invencum consuescimus,
+Contendo, Virgil. Cursum contendere; contendere tormenta, Hastam, passim obvia.
+Crepo, Proper: Et m^nibus faustos ter crepuere sonos. Corruo, Plaut. Corruere
+divitias; and Propert. lib. 3. Voverat, and spolium corruit ille Iovis.
+Corusco, Virg. 10. Aeneid. Strictumque coruscat Mucronem. Curro, Cic. 3. offic.
+Qui stadium currit.
+
+Declino. Plaut. Aulul. Declinavi paululum me extra viam, declinare mala,
+tritum est. Deficio, Horat. Animus si te non deficit aequus. Quod et Graeci
+dicunt, (...). Degere vitam, tritum est, Degenerare a parentibus, id est, genus
+dedecorare, pervertere, vel quid simile. Colum. lib. 7. c. 12. Venus cambus
+carpit vires, animosque degenerat. Deliro, Lactan. de opificio cap. 6. Illius
+enim sunt omnia, quae delirat Lucretius. Despero, Cicer. Attic. Pacem
+desperavi. Disputo, Plaut. Men. Vt hanc rem vobis ad amussim Disputem:
+aisputare rationem, aliquoties dixit Cicero. Doleo, Ovid. Tu vero tua damna
+doles. Dormio, Endymionis somnum dormis; Adagium est: Cic. Edormi crapulam, and
+exhala, dixit, and Plaut. omnem obdormivi crapulam.
+
+Egeo, Censorinus apud Agel. multa egeo: Varr. lib. 4. de ling. Lati. Dives a
+Divo, qui ut Deus nihil indiger. * Emergo, Cic. de Aru. Resp. ut sese emergit,
+and fertur illuc. * Emineo, Curti. lib. 4. Iamque paulum moles aquam eminebat.
+* Efflo, Ovi. 7. Meta. Vulcanum naribus efflant Aeripedes tauri, Virg. Latos
+afflarat honores. Lucret. lib. 5. Flaret e corpore flamma. * Eo, ire viam,
+tritum est, sic composita in Plaut. Rud. Abi tuam viam. Cice. pro Mur Redire
+viam, dixit, and ibid. Inire viam. * Erumpo, Cas. 2. Lib. portas sese for as
+erumpunt, and tribu. lib. 4. Erumpat terra liquores. * Eructo, Cic. 2. Cat.
+Eructant caedem honorum. * Evado. Suet. Tibe. Carmillus me evasit. Virg. Gra.
+dus evaserat, altos.
+
+Fastidio, Virg. hi te hic fastidit Alexis. and Horat. Fastidire lacus, and
+rinos ausus apertos. * Festino, Virg. Iussa sybillae, Festinant. and Fleo, Ovid
+Flere funera. * Fluo Activum fecit Homer. Odys. 9. (...), Fluit ^ons aquam
+limpidam. * Fruor, Apul. libr. 9. beatam illam, quae libertatem fruitur.
+Fungor, Tacit, lib. 4. Hominum officiae fungi. * Furo, Livius, Id furere, and
+Virg. Furorem furere.
+
+Gaudeo, Stati. lib. 9. Tu dulces lituos, ululataqus proelia gaudes. * Garrio,
+Horat. Dum quidlibet ille garriret. * Gemo, Cice. p. Sestio Gemere plagam. *
+Glacio. Hor. lib. 5. Od. 10. Vt glaciet nives Jupiter.
+
+Horreo, Cic. Horreo crimen ingrati animi, * Hyemo. Pli. lib. 19. cap. 4.
+Decoquunt alij aquas. mox and illas hyemant. * Hiulca, Catul ad Manli. Cum
+gravis exustos aestus hiulcat agros.
+
+Ignosco, Cic. hanc culpam ei facile ignoscamus. * Illuceo, Plaut. Bacchi. Dij
+diem illuxere. * Impendeo, Ter. Phorm. Tanta te imparatum impendent mala. *
+Impono, Cic. 2. de Not. Onera bestijs imponimus. Cum audis, alicui imponere, id
+est, engannar a alguno, proprie est, tratar le como a un iumento, deest enim,
+clitellam. * Incubare de avibus, id est, ova. * Incumbo, Salust. 3. Hist.
+citante Frotone, Arma sua quis que incumbere^. * Indigeo, Var. lib. 1. cap. 31.
+quod indigent potum poma dicta. * Indulgeo, Sueto. Domit. Exilium indulsit. *
+Inservio, Plau. Mostel. Non est meretricium unum inservire Amantem. * Insanio*
+Proper. Lynceus ipse meos seros insanit amores. * Insuesco. Horat. Insuevit
+pater optimus hoc me, sic legit Turneb. and docti omest tametsi Lambinus
+aliter. * Insulto, Tac. lib. 4. Qui patientiam senis, and segnitiem iuvenis
+insultet. * Insisto. Cic. 3. Orat. Quonam igitur modo tantum munus insistemus:
+and Plaut. Mili. Insiste hoc negotium. * Insto huic rei, id est, operamdo,
+Virg. lib. 8. Marti currumque rotasque volucres Instabant. * Invideo tibihoc,
+vel illud. tritum est. * Intendere animum, omnes sciunt. * Iurare alicui, id
+est, iusiurandum: Cice. Atti. Qui te negat, and iuravit morbum. Ovid. Stygias
+iuravimus undas.
+
+Laboro, Cic. Atti. Ad quid laboramus res Romanas? * Latro, Horat. Catullus
+cervinam pellem latravit. * Luceo, Plaut. Cass. Lucebis novae nuptae facem. *
+Ludo, Sueton. Troiam lusi^ turma duplex. * Manent me damna, tritum.
+
+Mano. Horat. Manare Mella. Plin. Manat picem. Idem, sudorem purpureum emanat.
+* Medeor, Cic. 12. Fam. Epis: 15. Haec mederi voluerunt. * Medicor, Plaut.
+Most. Ego istum medicabor metum. Virg. 7. Aen. Medicari cuspidis ictum, *
+Mereo, pro, milito, deest stipendium, vel era: Ovid. i. Am. Iussit and in
+castris era merere suis. * Metuo. Cic. 3. Ver. Pupillo metuo calamitatem. *
+Micare hastam: poetae passim. * Migro, Agel. lib. 2. cap. 19. Cassita nidum
+migravit. * Milito, deest, militiam: Lactan. lib. 7. cap. vltim. Militiam
+infatigabilem deo militemus. * Moereo. Cic. 1. Tus. Cum graviter filij mortem
+moereret.
+
+Nato. Mart. lib. 14. Ipsa suas melius carta natabit aqua. Nitor, Virg. 12.
+Aen. Nitentem gressus. Navigo, Cice. 2. Fin. Terram navigasset. Noceo, id est,
+noxam; sed praeterea Plau. Mi. Iura te non nociturum esse hominem. Seneca 5.
+Controu. Dum filium vindico, ubi me gravissimenocere possit, ostendit. Nubo,
+Arnobi. lib 3. contra Genesis Quod aqua nubat terram appellatus est Neptunus.
+Virg. Comas obnubit amictu. Columella in Hort. Tellus, cupiens se nubere
+plantis.
+
+Obire mortem, diem, legationem nemo negabit Obedio. Apul. lib. 10 Haec omnia
+perfacile obediebam. Obsequor omnia, dixit Teren. Adel Obstrepo, Virg Culic.
+Vox obstrepit aures. Occumbere mortem, dixit Cic. 1. Tusc Officio, Plau. iam
+ego hercle. te hic affatim officiam. Oleo, Horat. Pastillos Ruffillus olet,
+Gorgonius hircum. Terent. Olet Vnguenta.
+
+Palleo, Persius, Eupolidem palles: Horat. Mediasque frauds palluit audax *.
+Parco, Agel lib. 16. cap. 19. Vitam sibi ut parcerent. Terent. Nihil parcunt
+seni. * Pareo, Statius. Parchimus omnia matri. *. Parturio, Horat. Neque
+parturunt imbres perpetuos *. Pascor. Virg. 4. Geor. Pascuntur and arbuta
+passim. * Paveo Pavesco, Luca, lib. 7 Pavere pugnam: Tacit. li. 1. seditiosum
+exercitum pavescerent. *. Pecco, Cic. 1. de Not. Xenophon eadem ferepeccat. *.
+Penetro, Plaut. Amph. In fugam se penetrare. *. Pereo, Plaut. Truc. Tres unam
+pereunt adolescentes multerem. *. Plangere pectus, usitatum est. *. Plaudere
+choreas. Virg. 6. Aen. Cic. de Ora. Pedem supplosit. *. Pluit lapides, and
+sanguinem trita in prodigijs. *. Potiriurbem, Cic. ^uscul. *. Praesideo. Tacit.
+lib. 4. sociorum manus littora Oceani praesidebat. * Procedo, id est, Iter, vel
+viam. *. Propero, Virg. Pro perare iussa. and properat mortem per vulnera. *.
+Proficiscor, id est, viam, Fest, Pom. Profecturi viam. *. Prospicio tibi, and
+Provideo tibi, id est, u^ile. * Pugnare proelia Horat. 4. Carm.
+
+Quadro, Horat. and quae pars quadret acervum. * Quiesco, Apul. lib. 9. somnum
+humanum quievi. *. Queror calamitatem, pauperiem, obvia.
+
+Regnare, id est regnum possidere: regnata rura. Horat. idem regnata Bactra. *
+Requiesco, Virg. Ecl. 8. Requierunt flumina cursus. *. Resideo, Reside^t
+Esuriales ferias, dixit. Plaut. Capt* and Plin. l. 34. c. 14. dixit, residere
+poenitentiam. Ro^^, Plin. lib. 17 cap. 10. Si roraverit quantulumnumque imbrem.
+Ruc, id est, ruinam, and item a^ia. Teren. Adel. Caeteros ruerem, agerem,
+^^nderem* and prosternerem. Rutilo, Val. Max. lib. 2. cap. Capillos cinere
+rutilarunt.
+
+Salto, Horat. Pastorem saltaret uti Cycopla rogabat. *. Sapio rem meam, multa
+ungues demorsos obvia. * Satisfacio, Cato. Rei Rust. cap. 149. Donicum pecuniam
+satisfecerat. *. Sitio, Cice. 5. Phil. sanguinem nostrum sitiebat. * Somnie,
+Sueton: Galb. somniavit speciem fortunae. * Sono, Virg. Nec vox hominem sonat.
+*. Spiro, Virg. 1. Aen. comae spiraverunt odorem. *. Studeo, Cic. de Reditu,
+cum vere literas studere caepit: Plaut. Mil minus has res studebant: Cic. 6.
+Phi. unum omnes studetis: Teren. Quin tu hoc stude. *. Stupeo, Virg. 2. Aen.
+Pars stupet donum Minervae. *. Sudo. Virgil. Quercus sudabunt mella. *.
+Succenseo imuriam, dicit Agel. li. 16. cap. 11. Supersideo, Agel. lib. 2. ca.
+29. operam supersident. *. Suspiro, Tibul. lib. 4 suspiret amorem: Horat. lib.
+3. Od. 2. Illum adulta virgo suspiret.
+
+Taceo, Plaut. Mil. Taceo te. Teren. Eun. Ne hoc quidem tacebit Parmeno. *.
+Tendo, Plaut. Pse. tenes, quo^sum haec se-tendant. Titillo, Cice. Fin. Voluptas
+titillaret sensus: Hora. ne vos titillet gloria. *. Tono, Plin. Pref. Quanto tu
+ere patris lauds tonas? and Virg. Tercentum tonat ore Deos.
+
+Vescor, Plin. lib. 8. cap. 50. Caprinum iecur vescantur. *. Vivo, Plaut.
+Paenu. Vivimus vitale aevum.. Vlulo, Luc. lib. 1. Vlularunt tristia Galli.
+Vtor, Teren. Mea bona utantur: Plaut. Asin. Caetera, quae v^lumus uti, Graeca
+mereamur fide.
+
+So many examples we have brought in, to the end that we might banish the abuse
+of these Verbes Neuters. This Note belongs of due unto the great diligence of
+Francis Sanchez, the collector of them, and many more examples, in the third
+book of his Minerva: And although in that his book, there has been taken
+great pains, yet it has seemed expedient to compile this note. For we
+understand that this Art will draw together more hands besides these of
+Minerva. We have left other many examples and Verbes, for hardly is there any
+verb of these, in which is found no action: and it is not necessary that a
+Verb to be active, should have all the accusatives, that are, those that every
+one confesses to be actives, have them in as little measure; for to say, Agere
+ve^ba, would be Barbarism, to say Accuso parietem furti, would be
+innecessarie: and an infinite of others of the same sort. and answerable to
+what has been said, it is not needful that a verb active have as many
+accusatives, and actions as there are in the world.
+
+The reason of this construction is very probably the active and transitiue
+signification of these verbes. For so we find in like manner in other tongues,
+that verbes absolute and intransitive govern an accusative. For the Greeks
+sa^, (...) privor bona, for bonis. So the Syriaque, Ioh. 7. uses the passive
+participle, (...) in the active signification, and joins it with an
+accusative. The reason of this is, that the signification becomes transitive.
+So where it is said, Coelos splendido coruscat astro, id est, facit coelos
+coruscare. In the Greek, the preposition (...) is understood. In the Syriaque
+is the like subintellection, which in Heb. 1. Sam. 12. is expressed.
+
+De Genitivo.
+Interest, and Refert Genitivo possessionis iunguntur, Cic. 1. Fini, Interest
+R^gis recte facere, id est, recte facere est inter officia Regis.
+
+Item his Accusativis, Mea, Tua, Sua, Nostra, Vestra; Teren. Hecy: Tua quod
+nihil refert, percontari desinas, Mea* interest id* est, est inter mea,
+videlicet, officia, aut munerae.
+
+Item his Genitivis, Magni, Parvi, Tanti, Quanti. Cice. 6. Tir. Magni ad
+honorem nostrum interest, me ad urbem venire; Caetera huiusmodi per Adverbium
+adduntur. Cice. Theodori nihil interest. Cuia, v^l cuius interest pereleganter
+dicitur.
+
+Verbum interest loco genitivi potest accusativum cum praepositione recipere.
+Cic. Et quidem ad laudem nostram non multum video interesse.
+
+Verbum est impersonale pro licet, fieri potest, vel fas est quandoque
+accipitur, and tunc infinitivum asciscit. Virg. Aeneid. 6.
+
+Nec non and Tityon terr^ omnipotentis alumnu^ Cernere erat* id est, licebat.
+Plin.
+
+Nocturnorum animalium veluti felium in tenebris fulgent radiantque oculi, ut
+contueri non fit.
+
+10. Note.
+These words, Mea, tua, sua, etc. according to some, are Ablatives of the
+singular number, and that the meaning is, Mea interest, id est, mea re
+interest, mea re refert. But if this be as is delivered, we might likewise
+say, Meo interest, id est, meo negotio interest. Caelius Calcagninus, lib. 1.
+Epist. Julius Scaliger de causis: and Franciscus Sanchez in his Minerva, avouch
+with great confidence, that these words are accusatives, of the plural number,
+and neuter termination: and that the sense is Mea interest, est inter mea
+negoria, aut officia, aut munera. And indeed the Greeks often express a
+preposition after the verb Est impersonall, as Nazi. (...) Non est ad virum
+bonum, id est, non est viri boni. For that the Ancients with more facility
+supply words of the neuter gender then any other. In the same manner, Mea
+refert, is, Refert mea negotia, munera, aut officia, id est, Repraesentat, as
+Ego refero patrem, id est Repraesento. For that these being Accusatives, as
+these Authors determine, there cannot be other meaning, then what is delivered.
+In the same manner, Donat. Phorm. Terent. upon those words, Quid tua, malum, id
+refert, professes clearly, that these are accusatives: and adds, that they
+are governed of a preposition which is to be understood, not unlike said
+Horace, 1. Ser. villa. -- Quae superest Claudi cau pona, id est, quae est super
+Claudi caupona. The sense of this preposition: Regis interest, aut ref^rt, is
+this: Est inter officia Regis: Refert, id est, Repraesentat officia Regis: and
+so the Genitive is of possession. Satago etiam Genetivo adiungitur. Terent.
+Heaut. Clinia rerum suarum satagit.
+
+11. Note.
+This Genitive is governed of the Adverbe sat, or satis, of which the verb is
+compounded, and so the meaning will be, Ago aut agito satis mearum rerum.
+Plaut. Bacchid. treating of those things of fate; Nunc agitas tute sat tuarum
+rerum.
+
+Other verbes there are, to whom there is not only annexed a genitive, but
+other cases, and so as verbes of exception we place in the 12. Note.
+
+12. Note.
+Misereor is joined sometime with a genit^ve. Cic. Qui miserere mei: another
+time with a dative. Senec. Controv. Misereor tibi puellae. The genitive is
+ruled of the accusative vicem, which is understood: Misereor tui, id est, vicem
+tui. The Dative is of acquisition. Obliviscor, Recordor, Reminiscor, are joined
+sometimes to a Genitive, some times to an accusative. Cic. 3. Tuscul. Ob
+livisci suorum, vel sua, to which is added, Memini, when it does signify the
+same that does Recordor. Cic. de Senect. Omnia quae curant senes meminerunt,
+vel omnium. The same Memini when it signifies Mentionem facio, sometimes is
+joined to a Genitive, sometime to an Ablative with the Preposition De. Quintil.
+lib. 11. cap. 2. Neque omnino huius rei meminit usquam Poeta: vel de hac re.
+
+De Dativo.
+Verba, quae auxilium, adulationem, commodum, incommodum, favorem, studium
+significant, iunguntur Dativo Acquisitionis: (praeter Iuvo and Laedo quae
+accusativo gaudent) ut, Auxilior* Adulor, commedo, incommodo, faveo tibi,
+studeo Philosophiae*
+
+Vide 29. Note.
+
+Dativo item adhaerent composita ex verbo sum: and quae obsequium, obe
+dientiam, submissionem, Repugnantiam significant: ut, Prosum, obsequor,
+obtempero, servio, repugno tibi.
+
+Item quae eventum significant. Cic. i. offi. Quod cuique obtigi^, id quisque
+teneat. Teren. Facite, quod vobis libet. Praeter Attinet, Pertinet, Spectat ad
+me.
+
+Multa denique composita, ex verbis cognatae significationis, and
+praepositionibus Ad, Con. In. Inter. Ob. Prae. Sub ut, Assurgo, consentio,
+Immineo, illacbrymor, intervenio, obversor, praeluceo, succumbo oneri.
+
+In the ensuing 13. Note, we do put the Verb Incumbo, Consulo, Interdico,
+because ^hey are particulars. Concerning those Verbs which others use to
+dispose in this place which sometimes have a Dative, sometimes an Accusative,
+as Praesto tibi, vel te, we treat of in the 9. Note in the beginning.
+
+13 Note.
+Incumbo, when it does refer it self to things importing Addiction of the
+mind, as study, it is joined with the Preposition In or Ad, Cic. lib. 10. Fam.
+Mi Plance, incumbe toto pectore ad laudem. Consulote. I ask counsel of you:
+Consulo tibi, I give counsel to you, id est, Consulo tibi utile, vel commod^m.
+Interdico, has an Accusative, and a Dative of Acquisition. Sueton. Domit.
+Interdixit histrionibus Scoenam. Liui. 34 Foeminis duntax at vsum purpurae
+interdicamus. Likewise it has a Dative, and an A^lative. Coesar. Gall.
+Ariovistus. omni Gallia Romany interdixit: where the Dative is of Acquisition,
+and the Ablative is governed of the Praeposition, id est, ab omni Gallia: for
+that Plin. lib. 39. cap. 1. said, Interdixit tibi de Medicis, and ^ice. pro
+Caecin. Praetor interdixit de vi hominibus armatis.
+
+De Ablativo.
+Sextum vult egeo, indigeo, Vaco, victito.
+Vescor. Vivo, supersedeo, Potior, Delector, Abundo.
+Mano, redundo, fluo, scateo, fruor, atque laboro.
+Glorior, Oblector, Laetor, quibus addito nitor.
+Consto, pluit, valeo, possum, Sto, Fungor, and utor.
+Cum Careo, Fido, Confido, Periclitor add.
+Cic. ad Q. Fr. Incredibile est, mi, frater, quam egeam tempore. In his omnibus
+Ablativus pendet a Praepositione.
+
+This Verb utor signifying the same that utilitatem capere, according to
+Stephanus, or usum habere, may have the Preposition Ex or Cum, very well
+understood, which in other Languages is expressed, as Psalm. 51. verse 1. (...)
+the Chalde Paraphrase explaineth it thus, (...) postquam usus est, cum
+Bathsheba, id est postquam usum habuit.
+
+Eruor, according to Donatus in Eunuch. Ter* being the same that a frumine
+vesci, and servius, expressing that of Virgil 7. Aeneid. Frui colloquio
+deorumi, pasci, may very well have the Preposition ( a) understood, as the
+Jewish Rabbines say. (...) Fructus est ab hoc, id est, utilitatem cepit. Fungor
+is expressed by the Greek, (...) id est, finio, so that fungi officio may have
+the Preposition In understood, and import as much as Finio in officio. The like
+or more plainly of the rest.
+
+14 Note.
+Egeo, Indigeo, Potior, are also joined to a Genitive, Cic. 6. Phil. hoc bellum
+indiget celeritatis. Potior, Vescor* Fungor, Pluit are found oftentimes with an
+Accusative. Teren. Adelph. Ille sine labor, patria potitur commoda. Neuters
+oftentimes admit an Ablative, which signifies part Cic 2. de Orat. In
+principijs dicendi tota mente, at que omnibus artubus contremisco. All the
+Ablatives of this third rank, depend on diverse Prepositions, howbeit as use
+has abandoned them altogether, with difficulty may they be found out, yet this
+is proved, for that many of this kind are joined with a Preposition, Cic. 1.
+not. Deo. Homo qui ex animo constat and corpore. Idem de offic. Iudiciorum
+ratio, ex accusatione, and defensione constat. Idem 3. de Fin. Gloriari de
+vita. Idem pro Mil. Cuius in vita nitebatur salus civitatis. Apulcius, Fons ex
+aqua redundans, So it is said, Laetari de aliqua re, etc. Mark that there are
+many other Verbes put in this rank, which we pass, that for they are
+altogether common cases, which appertain to Instrument, Manner, or Action:
+
+De constructione Verbi substantivi.
+Sum utrinque Nominativum Substantivum habet: ut, Senectus ipsa est morbus.
+Virgilius est Mantuanus, id est, civis, vel vir; Adolescentis est maiores natu
+vereri, id est, Maiores natu vereri est officium adolescentis.
+
+Cum hoc verbo iocum non habent illi Genitivi mei, tui, sui, nostri, vestri:
+pro quibus utimur. Meum, tuum, suum, nostrum, vestrum: ut, nostrum est senes
+vereri; id est, senes vereri est nostrum officium.
+
+15 Note.
+The rest of this Verb we do reduce to the Notes, for being a common
+construction, when it signifies to be esteemed, it is joined with the
+Genitives, Magni, Maximi, and with those of price and estimation, Cic. lib. 15.
+Fam. Magni crunt tuae literae. So likewise is annexed to it a Dative, of
+Acquisition, as sum pater tibi natura, and consilijs: and then they use to
+express it by the Verb habeo, as Habes me patrem natura, and consilijs. Or by
+two Datives, as, mihi hoc est molestiae, which is the same with A^sicior
+molestia. It is associated also with a Genitive or an Ablative, of Praise or
+Dispraise, Plin. lib. 4. Epist. Erat puer acris Ingenij, vel acri ingenio.
+
+De constructione Verbi Activi.
+Verbum activum, vel potius Accusativum, cuiuscunque id demum positionis sit,
+post se Accusandi casum postulat; ut, Deum cole, imitare Divos. Novi animi tui
+moderationem, non decet ingenuum pueru^ scurrilis iocus. Vivo vitam
+perdissicilem.
+
+Every Verb Active does govern only an Accusative, and whatsoever other case
+is joined thereunto, is a common case, and there may be added four. A Genitive
+of Possession, Dative of Acquisition, Accusative according as it is governed by
+some Preposition, and an Ablative which is likewise ruled by a Preposition. Of
+all these, reason is, and shall be given.
+
+De Genitivo praeter Accusativum.
+Verba accusandi, absolvendi, damnandi, praeter Accusativum admittunt Genitivum
+Possessionis, qui poenam crimenve significet. Cic. p. Rab. An non intelligis
+quales viros summi sceleris arguas. Teren. Eu. Hic furti se alligat, id est,
+furti crimine.
+
+Genitivus, qui crimen significet, in Ablativum cum praepositione, De, mutari
+potest, maxim cum his verbis Accuso, Arguo, Appello, Absolvo, Damno, Condemno,
+Defero, Postulo, Livi. 6. bell. Pun. Blactius de proditione Dasium appellabat.
+
+Hoc nomen Crimen Ablativo sine Pr^positione eleganter effertur, a qua tamen
+pendet. Cic. 2. Fam. Ego te eodem crimine conde^nabo.
+
+Dicimus eleganter, capite aliquem Damnare, Punire, Plectere.
+
+Absolvo etiam, Libero, Alligo, Astringo, Obstringo, Mulcto, Obligo, Ablativum
+significantem poenam, crimenue tacita praepositione admittunt. Liu. lib. 1. Ego
+me etsi peccato absolvo, supplicio non libero.
+
+Miseret, Miserescit, Piget, Poenitet, Pudet, Taedet, Genetivo praeter
+accusativum efferuntur, sic, Miseret me tui, id est, misericordia tenet me tui.
+Eodem modo Pigritia, Poenitentia, Pudor, Taedium.
+
+16 Note.
+The Genitive of these Verbes, is governed of the Ablative Crimine, which is
+understood, and the reason is, because many times the Authors clearly dispose
+it so, Martial. lib. 11. Arguimur lentae crimine pigritiae. Val. Max. lib. 4.
+cap. 2. Incesti crimine a Tribus Lentulis accusatus, and lib. 6. cap. 1.
+Crimine impudicitiae damnatus est. From hence is conceived the reason of two
+things. The first that disposing of all Nounes which import Crimen in the
+Genitive, the same name Crimen alone is put in the Ablative, for all the rest
+are ruled by it, and all of them are genitives of possession. The, second that
+this speech shall be approved in Latin: Accusasne illum superbiae? an
+avaritiae? an altero tantum? an utroque? an ambobus? for that Crimine, or
+Criminibus is understood. That which we say of the verb Miserescit* and the
+rest; that it is the same, Pudet me tui, that is, Pudor me habet tui, is the
+opinion of Priscian.
+
+Verba pretij and Aestimationis.
+Verba Pretij, atque Aestimationis praeter Accusativum hos fere Genitivos
+possessionis assumunt, Magni, Maximi, Pluris, Plurimi Parvi, Minoris, Minimi,
+Tanti, Tantidem, Quanti, Quanticunque. In his Grammatica est: Emo, aut Aestimo
+pallium tanti, id est: Emo, aut Aestimo pallium pretio tanti aeris.
+
+Dicimus etiam Magno, Permagno, Parvo, Nonnihilo, and magno pretio aestimare.
+Vale: Max. lib. 5. Magno ubique pretio virtus aestimatur. Parvo aestimatur, id
+est, parvo pretio Sic etiam tanto, quanto, quantocunque, Minore pretio. Livi.
+2. Bell. Pun. Non minore pretio redimi possumus.
+
+Nauci, Flocci, Pili, Assis, Teruntij, Nihili, iunguntur eleganter cum verbo
+facio, sed and cum multis alijs; ut, Flocci te facio, aut aestimo, id est,
+pretio flocci.
+
+17. Note.
+All these Genitives are of possession, for they are governed of the Ablative
+of price or estimation not expressed; which Horace 1. Sermon* expressly sets
+down; Nonnunquam pretio pluris licuisse licebit. And it is a pregnant
+argument, that Authors do oftentimes add with these Genitives an Adiective,
+in an Ablative case; which necessarily must agree with the Ablative of price,
+there understood. And so said Plaut. Epid. 1. Quanti emi potest? minimo, id
+est, pretio minimo. And Cic. ad Attic. Id prope dimidio minoris constabit, id
+est, dimidio pretio minoris. It being declared how they govern these
+genitives, it is necessary to know with whom these that are adiectives
+concord. Let it be noted that this genitive Aeris, must be supplied, and so
+Aestimo to magni will import, Aestimo te pretio magni aeris, although for
+elegancie the Latins have forsaken pretio, and aeris. Columel. delivered them
+clearly* lib. 3. cap. 3. Quem vulgus parvi aeris posse comparari putat. The
+reason why this Genitive is supplied, is because a noune adiective, as we have
+avouched in the third book, cannot stand alone by himself, and when it is
+alone some substantive is to be understood, on whom it relyeth. And that rather
+the genitive aeris, then any other is to be understood, is because as Authors
+affirm, Apud veteres omnia pecunia aestimabantur. Supposed that these are
+common cases, these speeches shall be said; Amo te tanti; Doceo pluris; lego
+minoris, Maximi iter facio, etc. And it is collected from the same Authors of
+Arts, who hitherto have been, that these are common cases: for they deliver
+this Rule: Quaelibet verba Ablativum admittunt significantem pretium, vel hos
+Genitivos tanti, tantidem, quanti, quanticumque, pluris, minoris, and they
+extract more then these Genitives. Then I demand when Cicero said 3. Offic.
+Emit tanti, could not he have pronounced, Emit magni? Finally mark that in
+place of pretio, there may be substituted Ablatives of other things, like unto
+those of price, as, Emi hoc quinque talentis, quatuor drachmis, duabus minis,
+aere, argento, auro, etc.
+
+Note also that these genitives, tanti, quanti, etc. after verbes of estimation
+may be said to be used in imitation of the Greeks, who use the like after
+verbes of estimation and permutation, as, (...) Aurea aeneis permutare,
+Demosth. (...), Aestimo hoc plurimi.
+
+De Dativo praeter Accusativum.
+Verba omnia Dativum habent acquisitionis, ut, Amo haereditatem filio meo,
+explico lectionem discipulis. Sed imprimis hunc sibi eleganter adiungunt verba
+Dandi, Reddendi, Committendi* Promittendi, Declarandi, Ant^ ponendi,
+postponendi. Teren. And. Facile omnes, cum valemus* recta consilia, aegrotis
+damus. Sic, Facio tibi fidem. Miner, minitor tibi mortem.
+
+Multa denique composita ex praepositionibus, Ad, in, ob, prae, sub; ut, Adimo,
+impono, obijcio, praeficio, subtraho tibi materiam.
+
+Sunt etiam, quibus geminus Dativus, and uterque acquisitionis, praeter
+accusativum eleganter apponitur* ut, Do tibi hoc laudi; Vitio, Culpae, crimini,
+pignori, faenori: vertis id mihi stultitiae. Ducis honori, damn^.
+
+18. Note. Vide 29.
+The Dative is of acquisition, and it is even common to as many verbes, as
+there are, yet with particular elegancie, the Authors have placed it with them,
+which are in this rank.
+
+De altero Accusativo praeter primum Accusativum.
+Moneo, doceo cum compositis: item Flagito, posco, reposco, rogo, interrogo,
+celo, praeter primum accusativum sibi alterum adiungunt qui pendet a
+praepositione. Cicer. 1. Fin. Sapientia nos omnes docet vias, id est, docet nos
+iuxta omnes vias.
+
+Vtraque ratione similem habent constructionem Graeci Aeschin in Ctesiphont.
+(...), Decet rogare deos bona, and alteri accusativo expressa praepositione, ut
+vulgo dicitur, (...), petere ab aliquo bona.
+
+Vide 19, 20. and 21. Notes.
+
+19. Note.
+Adm^neo, commoneo, commonefacio, are annexed also to a genitive after an
+accusative, Quintil. libr. 4. Grammaticos sui officij commonemus.
+
+20. Note.
+Likewise is observed this particular elegancy, Moneo, admoneo, commoneo,
+doceo, edoceo, erudio te de haec re, id est, commonefacio, certiorem facio.
+Likewise these, Interrogo, and celo, Cic. Partitio, Ego te ijsdem de rebus
+interrogem? Idem Bassus noster me de hoc libro celavit, vel mihi celatus est
+liber.
+
+21. Note.
+Many learned men say, and with much assurance, that the second accusative of
+verbes of this order, is ruled of some preposition, which is understood, Per,
+iuxta, secundum, in, circa, ad, etc. And so when Pla^^* said in Amphi. Haec
+heri immodestia cogit me, is the same, that Heri immodestia cogit me ad haec.
+Stati. 10. Theb. Quae te leges, praeceptaque belli -- Erudijt genetrix, id est,
+erudijt te iuxta leges, and praecepta belli. The reason of this is, because we
+see Authors many times to the same noune do take away, and add the
+preposition. Cic. 4. Attic. Epist. penu^t. Ad quid laboramus res Romanas? and
+the same expres^eth he in a thousand places, Quid laboramus hoc, vel illud,
+etc. Plin. in Panag. In tantum diligo optimum principem, in quantum invisus fui
+pessimo. Others will say, Tantum quantum. Which Livie wrote lib. 4. In aeternum
+urbe condita, and in immensum crescente, Virgil. expressed, sedet aeternumque
+sedebit infoelix Theseus, for these are not Adverbes, as some mistake, but
+Adiectives, which concord with some substantives, as, Tempus immensum aeternum,
+etc. Secondly, this speech may be very well said: Doceo te iuxta omnes vias
+sapientiae: although the preposition be taken away, yet it shall be governed by
+it, and it is oftentimes an elegancie to put a preposition; always when to the
+second noune there shall be put an Adiective, as, Moneo te ad praestantissima
+consilia, ad exitus belli difficillimos, ad literas capessendas, ad improbos
+labefactandos. Thirdly, when these speeches are turned, as, Tu doceris a me
+vias sapientiae, it can never be penetrated, of whom that accusative is
+governed, if it be not of some preposition, id est, Tu doceris, monerisque a me
+ad vias sapientiae. Verbi gratia, (...), id est, (...), Romanus patriam, id
+est, secundum patriam. Fourthly, it is apparent, that this is an imitation of
+the Greeks, who oftentimes put accusatives, which are ruled by the preposition
+Kata, which is understood in the speech. And if any one shall object, that
+those things which have been here delivered, may bear another sense, V. G.
+Haec, heri immodestiae cogit me, id est, cogit me haec facere. As well shall
+any body rise up against such an one and instance: Doceo te literas id est,
+Doceo te s^ire, aut intelligere literas. Haec subintellectio Graecis perquam
+familiaris est, Basil. (...). Cain a Diabolo doctus est caedem, scz. facere. By
+the delivered premises some phrases of the Poets will be understood, as Vultum
+sermon movetur, aut expleri mentem nequit, aut carpitur attonitos sensus, the
+Accusatives are governed of a Preposition.
+
+De Ablativo praeter Accusativum.
+Verba implendi, vestiendi, Onerandi, Liberandi, and his contraria ac multa
+praeterea Privandi, praeter Accusativum Ablativum asciscunt ut, Compleo,
+Exhaurio; Induo, Exuo, Onero, Exonero; Libero impleo, privo. Cic: Atti.
+Aegritudo me somno private.
+
+Vide 22 and 23 Notes.
+
+The Verbes which besides an Accusative have an Ablative with a Preposition, we
+place in the four and twentieth Note; for that many learned men judge that
+there ought not to be made a particular order of them, it being understood,
+that they are altogether governed by a Preposition.
+
+22 Note.
+Induo, Dono, Impertio, Aspergo, may besides an Accusative, admit likewise a
+Dative or an Ablative, as Dono te corona, vel tibi coronam. Cic. lib. 1. sibi
+torquem induit, vel se torque.
+
+23 Note.
+The Ablative of this Rank is ruled by a Preposition which is understood, and
+so said, Plaut. Libera te ex onere.
+
+24 Note.
+That which others use to dispose in the 6 Order of Actives, we place it among
+the Notes, for that it belongs altogether to a Preposition, and so has it
+been judged by the learned. Then, all those Verbes have an Ablative with a
+Preposition, after an Accusative, which are of this Tenor. Petendi,
+Percontandi, and many others, Auferendi, Removendi, Abstinendi, Accipiendi, as
+Peto, Quaero, Aufero, Removeo, Abstineo, Faeneror, Mutuor abs te pecuniam.
+Likewise those Verbes of understanding, receive the Preposition Ex, and many
+others, as Cognosco, Avello, Expello, Quaero, Percontor, Sciscitor a te, vel ex
+te. Cic. Poma ex arboribus, fieruda sint, vi avelluntur. To others after an
+Accusative is joined an Ablative, with a Preposition, or a Dative, as Furor,
+Surripio, Eripio, Aufero tibi, vel a te pecunias.
+
+Finally, all Verbes may have this Ablative with a Preposition: here we will
+recite some, besides those which are usually reckoned. Affero. Cic. de sen.
+Eique dona a socijs attulisset. Amo. Plaut. Pseud. Vbi sunt isti, qui amant a
+Lenone? Idem in Poenu. Amat a Lenone hic. Defendo, Virg. Teneras defendo a
+frigore Myrtos. Deijcio. Cicer. Deiecere oculos a republica. Facio. Cic. de
+orat. A se aliquid facere. -- Cic. de. Invent. Quod nihilo magis ab
+adversarijs, quam a nobis faciet. Habeo, and. Lego. Cic. pro Cluent. Itaque ei
+testamento legate pecuniam grandem a filio. Mitto. Cic. Attic. Ab illo mittas
+mihi. Munio. Tacit. lib. 10. Saevus ille vultus and rubor, a quo se contra
+pallorem muniebat. Numero. Cic. pro Flacco. A Quaestore numeravit. Promitto.
+Cic. 2. orat. Ne ipse aliquid a me promisisse videar. Reddo, Cic. Litteras a te
+mihi stator tuus reddidit. Cic. 5. Attic. a me solvere. and libr. 7. ab Egnatio
+solvat: and pro Plancio. Ab aliquo persolvere. Not these Verbes only, but all
+other have this Ablative, with a Preposition, and as the Authors of Arts
+hitherto have reckoned Verba Petendi, etc. they might also have cited these:
+then it stands with good reason, that there should not be assigned a
+particular order of these Verbes, be it that it be taught in general, that
+this is a common case, and that it may be applied to any Verbs. These examples
+have likewise been produced, for that they make, to the purpose of what shall
+be spoken in the following Note.
+
+De constructione Verbi Passivi.
+Verbum passivum habet eum Nominativum, qui in Activa Accusativus fuerat. ut,
+Colitur Deus; Cui etiam saepissime eleganter adiungitur Ablativus cum
+praepositione A, vel Ab. Cic. Attic. An tu existimas ab ullo me malle legi,
+quam a te.
+
+Vide 25, 26, 27, Notes.
+
+25 Note.
+There are many who think that the Ablative of the Passive with A, or Ab, is
+the same that the Nominative of the person Agent is in the Active. Others say,
+that the Ablative be it now in the Active, now in the Passive, always
+signifies something to be done in the behalf of some body. As when Cic. said
+ad Attic. A Bruto legi Antonij edictum, he would say, I have read the Edict of
+Anthony, which came from the part of Brutus: which speech if it should be made
+in t^is sort, Lectum est edictum a Bruto, would it not be the same that Brutus
+legit? these are the two opinions. It is certain that there are an infinite
+number of speeches in the Passive, which turned into the Active, will not
+express the same, V. G. Caesar the 2. Civil. Tecta munita ab ictu telorum is
+not ictus telorum munijt tecta; Cic. 1. leg. Veritas a te postulatur, is not,
+tu postulas Veritatem, Emuntur a me Libri, is not, Emo, rather Vendo, and alij
+emunt: from whence it appears, that this Ablative which is ruled by the
+Preposition, is not a Person which does, for we see that those that have it in
+the Passive, retain it in the Active. Plaut. Poen. Amat a Lenonc. Plaut: Rudem
+praedam ab eo emerat. Cic. Senect. Dona a socijs attulisset. Idem Atti. A Bruto
+legi Antonij edictum. Idem Bruto, Nullas adhuc a te literas habemus. Idem 13.
+Attic. Ab illo mihi mittas. Idem pro Flacco. A Quaestore numeravit: and all the
+rest of which we have spoken in the precedent Note, which is the 24, in order,
+in all these it is found, even as it is in the Active. This Ablative is not a
+person that does, as little will it be in the Passive, it is only a Case
+governed by a Preposition. And if any will instance that these speeches in the
+Passive have two meanings, Verbi Gr. Petitur a me, id est, Ego peto, vel alij a
+me petunt, it would be a very great Amphibology, from which the Latins do so
+much fly; that they use Reciproques, and a thousand other Rules. I say that it
+cannot be denied, that there are some Passive speeches, in which the Ablative
+with a Preposition, is the person which does, as Diligitur a Patre meo, Filius
+genitus est a Patre, and Filius missusest a Patre, and spiritus sanctus
+mittitur a Patre and Filio: and others innumerable, in which clearly the
+Ablative with a Preposition, is the person which does, yet according to the
+Latins, it is likewise ordinary, that the said Ablative with a Preposition, is
+not the person which does, as has been said: and it is seen in an Infinity
+of speeches; and for the objection which is made of Amphibology, it is
+answered, that this will be understood and avoided by the precedents, and
+subsequents, as it falls out in many other speeches, in which there is some
+equivocation or amphilogie; for that a Verb or a Noune, has diverse
+significations, which noune is acquitted, and understood, by the Antecedent and
+Consequent. And it is to be observed for many other respects, that in these
+Notes, Documents and Rules are given, for Grammarians and Latin Authors. And
+if in the Scripture there have been found Phrases, which are not conformable to
+them, the Scripture neither is, nor ought to be tied to the rules of
+Grammarians. And the fault of many Grammarians has been, to seek to declare
+places of Scripture by their rules, and examine, if the translation from Greek
+into Latin, be good or bad, it being not their parts to sift this It
+belongs to them to give rules, to understand the Latin Authors: and let them
+leave to declare the things and speech^s of the Scripture, to them to whom they
+appertain, and who understand them better then they do.
+
+26 Note.
+It is very much received, that Vapulo, Veneo, Fio, Exulo, Liceo, are Verbs
+Neuter Passives, and they say that they are construed with the Preposition, A
+vel Ab: of the two last we will not speak, for that many Authors of Arts have
+already forsaken them, finding that it is false: we will speak of the first
+three. Many Authors have used this Verb Vapulo, and no body has ever given it
+this Ablative, only Quintilian, lib. 9. cap. 2. in these words; Testis rogatus,
+an ab reo fustibus vapulasset? and innoceni inquit. But let it be observed,
+that this Authority is mistaken, for that Tullius Rufianus, a most ancient
+Rhetoritian, speaking of the figure Apophasis delivers these words in this
+manner* Testis interrogatus ab reo, number fustibus vapulasset? innocens inquit,
+adding this; that no other has assigned this ablative, it seems that it
+convinces clearly, that this Verb has not a passive construction.
+
+Secondly, observe that Vapulo does not signify, to be beaten; it is the same
+that Perire, velire in malam crucem, it comes out of the Greek verb (...).
+It is no marvel that this was not known until now, for that we wanted the
+greater part of Festus, which we now enjoy, much restored by the diligence of
+Joseph Scaliger. And for Erasmus in the Adagie, Vapula Papyria, does
+acknowledge that he cannot understand what it means, for that he wanted
+Festus his book. Festus then says thus. Vapula in proverbio antiquis suit, de
+quo Sisinius Capito sic refert, tum dici solitum esse, cum vellet minantibus
+significare se eos negligere, and non curare fretos iure libertatis. Plaut. in
+Faeneral. Heus tu in barbaria quo^ dixisse dicitur liberta suae patronae, ideo
+dico^ liberta salve, Vapula Papyria: in Barbaria est in Italia. Aelius hoc
+loco, vapula positum esse, ait, pro Dole, Varro pro pe^i, test Teren. in Phor.
+Non tu manes S. Vapula P. id tibi quidem iam siet. Et Plaut. Cucul. Reddin, an
+non mulierem priusquam te huic meae machaerae obijcio mastigia? S. Vapulare ego
+te vehementer iubeo, ne me territes; haec Festus; By these words you shall
+clearly see, what we have delivered.
+
+In the word Veneo, likewise, the ill writing of Quintilian has deceived us,
+who in the 12. lib. cap. 1. takes this saying from Fabricius, A cive se
+spoliari malle quam ab host vaenire; It is to be believed that the place is
+false, for that Cic. 2. de Orat. cites that which Fabricius speaks in this
+manner: Malo compilari quam venire. Behold how Francis Sanchez does expound
+this word in his Minerva.
+
+The Verb Fio is the same, that a verb substantive, and the Greeks esteem
+it for the same. So they often take it for esse, Plut. (...): Darius dicebat se
+in periculis fieri, sive esse prudentiorem. If sometimes it be found with an
+Ablative and a preposition, it is an Ablative of part as we say: Hic amat a
+patre suo, anciently it had a passive termination, as also the verb Venio.
+Priscian libr. 8. brings authorities hereof. Postquam dintius fitur, and
+Graeco ritu fiebantur saturnalia. So as you will rather call it a verb
+substantive, as Julius Scaliger terms it, then a neuter passive. And as is
+said, Hoc est a te, likewise is said, Hoc fit a te. Observe that when it is
+said, Quid me fiet, it is the same that is, Quid de me fiet. As has marked
+Father Manuel Alvarez. For Cice. 2. Attic. wrote, Quid de P. Clodio fiat ne
+scribe. The same is to be understood of the verb Facio. Cice. 3. in ver. Quid
+hoc homine faciat. Teren. And. Nec quid me nunc faciam scio, id est, de me.
+
+27. Note.
+We have left the verbes common, for except the participles of them, they are
+little used. When Cic. said, A te fictis aggrederer donis, it is a passive of
+the verb Aggredio; which was used very long since, and in these days it is
+seen in some ancient Authors: the same is observed in others: for if Cic.
+said, Ne nos adulari sinamus; the same likewise used the active adulo, before
+they were verbes commons. But after those which we call deponents, left the
+passive signification, there are found no verbes commons, but as we have
+professed, they are passives, for there is not any of those which we call
+Verbes commons, which one time or other do not notify their active
+signification. Only there has remained a relic of these verbes commons in
+some participles: who have action and passion, as these underwritten,
+Abominatus, cohortatus, confessus, dimensus, execratus, meditatus, populatus,
+testatus, veneratus.
+
+Communes verborum Constructiones.
+Interrogatio and Responsio caesu cohaerent. Cui praeceptori dedisti operam?
+Flatoni.
+
+Genitivus semper est possessionis, pendetque a nomine substantivo tacito vel
+expresso.
+
+28. Note.
+A Genitive is always common, and is ruled of some noune, as partly has been
+seen in the verbes of price, and accusation. When it is said, Potiri rerum,
+there is wanting Imperium. Caesar. 1. Gall. Totius Galliae sese posse potiri
+sperant, a little before he said, Totius Galliae imperio potiri. In verbs of
+memory, is wanting memoria, mentio, etc. Cic. pro Arch. Pueritiae memoriam
+recordari ultimam. And how be it you will say, Pueritiae Recordari: it has
+Memoriam to be governed of. These forms of speaking, Desine irarum, abstine
+querelarum, are according to the Greeks, who say, (...). Desine laborum pro
+(...). a laboribus: as likewise these, Pendeo animi, discrucior animi, although
+in these it might be said, that the sense is, Pendeo animi mente, in the same
+manner as Plaut Cist. delivered. Nullam mentem animi habeo; and Lucret. Animi
+vix mente videmus. In the verb substantive is wanting Munus officium, aut
+negotium: Regis est gubernare, id est. officium Regis est gubernare. In those
+verbes, Miseret, Miserescit, paenitet, taedet, piget, pudet me tui, the meaning
+is, Pudor habet me tui; and so does Priscian expound. Impleo granarium
+frumenti; he would say, I fill the Granary, which is for wheat: As, Impleo
+pateram Regis. The Poets oftentimes imitate the Greeks, Virg. Implentur veteris
+Bacchi.
+
+De Dativo Communi.
+Dativus ubicumque reperiatur semper est acquisitionis, est enim in cuius
+gratiam, commodum, vel incommodum aliquid fit. Livi. 2. ab urb. condi. Magno
+illi ea cunctatio stetit. Eadem ratio est, si iungatur cum verbis passivis,
+Cic. Neque senatui, neque populo, neque cuiquam bono probatur. Vbi dativus est
+acquisitionis, non persona agens, idem enim in activa invenitur. Cic. pro
+Balbo: Non ut vobis rem tam perspicuam dicendo probaremus.
+
+29. Note.
+Every dative is of acquisition, for if it be in this, Amo haereditatem filio
+meo, why not in this, Do tibi pecunias: peradventure it is not profitable to
+give ones money to any. And because this dative is common to all verbes, it is
+found most often with verbes actives. Plaut. Asin. Pergin precari pessimo?
+Caesar. 3. Gall. Cum tela nostris deficerent. Cic. de orat. Id deceat
+prudentiae tuae. Plaut. Amph. Nostro generi non decet. When two datives are
+present, they are also of acquisition. The same is to be observed in passive
+speeches, as, Deus colitur mihi, where mihi is not a person doer, but a dative
+of Acquisition; for in the same manner, you may say in the Active, Cole Deum
+mihi; I honor God to my good, or God is honored to my benefit. In Virg. Neque
+cernitur ulli, is that same that is, Nulli est conspicuus. The dative of
+Acquisition, is the dative of loss or profit. Be advertised by the way, that
+as little the person doer is put in the passive signification, in an accusative
+with the preposition Per. For it is only a case of the preposition: which you
+shall as well put in the active signification, in the same manner and sense.
+When Cic. ad Attic. lib. 2. said, Per Praetores Consules creantur, you might
+say, Populus creat Consules per Praetores, by means of the Pretors: and also
+he delivered the same. Nihil interest per procuratorem agas, an per te ipsum,
+and when he said, Res agitur per eosdem creditores, he has not desired to
+say, Ipsos creditores agere, sed amicos Regis per creditores.
+
+De Accusativo communi.
+Accusativus, praeter eum, qui regitur a verbo activo, semper est communis,
+pendetque a praepositione tacita, vel expressa* ut videbitur in sequentibus.
+
+Tempus, si per quam diu fiat interrogatio, effertur accusativo, tacita, vel
+expressa praepositione. Livi. Romulus septem, and triginta regnavit annos, vel
+per triginta annos. Idem; Obsidio vix in paucos dies tolerabiles, vel paucos
+dies.
+
+Dicimus etiam abesse bidui, tridui, sed tum aut per tempus, aut iter, aut viam
+subintelligimus quod exprimit Cicero Cat. Aberam ab Amano iter unius diei.
+Caesar Be. Gall. Cum bidui viam processisset.
+
+Distantia omnis aut dimensio, Accusativo etiam efferuntur tacita vel expressa
+praepositione. Caes. Planicies patebat tria millia passuum, id est, per tria
+millia passuum. Lactan. de Phoenice: Per bis sex ulnas eminet ille locus.
+Varro. de re Rust. libr. 3. cap. 5. Ad duos pedes altum a stagno, latum ad
+quinque: vel, duos pedes altum, latum quinque. His omnibus eleganter adimes
+praepositiones, cum velis.
+
+Accusativus cum praepositione Per, communis est omnibus verbis, tam activie,
+quam Passivis, and in Passivis non erit persona agens. Caes. 3. Civi. Pompeius
+frumentum omne per equites comportaverat, vel comportatum erat frumentum per
+equites.
+
+Vide 29 Note in fine.
+
+De Ablativo Communi.
+Tempus, modo per Quamdiu, modo per Quando fiat interrogatio, Ablativo
+effertur, praepositione tacita, vel expressa. Verres depopulatus est Siciliam
+uno triennio, vel in uno triennio, tribus annis, vel in tribus annis. Ter.
+Andria. In diebus paucis, quibus haec coacta sunt, vel diebus paucis.
+
+Distantia quoque, and Dimensio Ablativo effertur. Abest itinere unius diei.
+Locus latus duobus pedibus.
+
+Omnibus verbis addi potest Ablativus is, qui vulgo absolutus dicitur, qui
+tamen re vera pendet a praepositione; ut, Rego Philippo pax floret, id est sub
+Rege Philippo.
+
+30 Note.
+That which they call an Ablative Absolute is governed of a Preposition, for it
+is found with a Preposition most often. Rege Philippo, id est, sub Rege
+Philippo. Pers: satyr. 5. Marco sub iudice palle^. Stat. in Syl. Cerealia dona
+coronae Sub te test tuli. Virg. Sole sub ardenti resonant arbusta cicadis.
+Plin. lib. 18. de muribus, said, sub Authore Aristotele. Other times the
+Preposition Cum is supplied, as Musis faventibus. Livi. lib. 1. Dec^ 3. Agite
+cum Dijs been invantibus. Plaut. Pers. sequere hac mea guata cum dijs
+volentibus. Ennius apud Cic. Doque volentibus, cum magnis Dijs; as well might
+other Prepositions be supplied. Observe that this speech. Me consule hoc feci
+is good, and Latin, which some hold for barbarous. Cic. in Bruto. Se Audiente
+locuples author scribit Thucydides. Idem 15. Fam. Non potes effugere hnius
+culpae poenam te patrono. Quintil. Decla. 4. Te volente misisti. Luca: libr. 5.
+Et laetos fecit se consule fastos. Ovid. Lachrymas quoque saepe notavi, Me
+Lachrymante tuas. Plaut. Mil. Te vidente vides. Of this kind there are very
+many examples, and in them all, the Preposition Sub is understood.
+
+Ablativus Instrumenti, Causae, Excessus, aut Modi, quo aliquid fit, omnibus
+verbis adiungitur, qui semper pendet a praepositione. Teren. And. Hisce oculis
+egomet vidi. Cic. ad Q. Fra. Vestra culpa haec accidunt. Idem. Scipio omnes
+sale, facetijsque superabat. Idem de senec. Sapientissimus quisque aequissimo
+animo moritur. Causae, Excessui, aut Modo eleganter saepe praepositionem
+constitues. Instrumento non ita eleganter.
+
+31 Note.
+The Instrument also is governed of a Preposition, for sometimes it is
+accompanied with it. Plin. lib. 9. cap. 28. Cirricum quibus venantur, this is
+the ancient and true reading of Pliny. Ovid. 4. Fast. verrebat raro cum pectine
+pratum. There is not wanting, who changes this Verse for fault of observing
+that which we are about to say. Virg. Exercere solum sub vomere. Colum lib. 9.
+cap. 1. Semperque de manu cibos and aquam praebere. The Ablative of cause
+likewise is ruled of a Preposition. Teren. And. Laborabat e dolor. Cic. 4.
+Acad* Maria sole colluent, and of excess. Idem Democritus. Huic in hoc
+similis, uberior in caeteris. And of manner, Teren. otiosum ab animo. Plaut.
+Trun. Ab ingenio est improbus. Plaut Cap. Rem de compacto geri.
+
+De constructione verbi infiniti.
+Verbum infiniti modi post se nominativum habet, cum res ad nominativum
+praecedentis Verbi pertinet. Cicer. 1. de Not. Nolo esse longior: Atsi
+Accusativus antecessit, and sequatur necesse est. Cic. 1. Cat. Cupio me esse
+clementem.
+
+Infinitum Esse accedente verbo Licet, Dandi, vel accusandi casui haeret, cum
+caeteris verbis fere accusandi. Cic. 1. Attic. Mihi negligenti esse non licet,
+vel negligentem, (subintellecto me) Terent. Heau. Expedit nobis esse bonas,
+(subintellecto nos.)
+
+Infinitivus saepe construitur cum alio verbo and resolvitur per, Vt. Virg.
+Dederatque comas diffundere vento, pro ut diffunderentur vel se diffunderent.
+
+32 Note.
+For that I know that learned men in this faculty do like a sufficient ground
+of the construction of the Infinitive; I will speak here how these Budeus
+comment. Linguae Graecae. Muret. in Ca^ul. Fran. Brocen. in Miner. Lambi. in
+Horat. Henr. Steph. Iul. Scaliger declare it, all who are most learned men. The
+infinitive of it self, and according to the Latin ^ules, always requires an
+Accusative, Tacit, or express before it, as volo scire, volo me scire. After
+it, it requires another Accusative, of any sort whatsoever, one while Me, Te,
+Se, may precede; some other times not. Sometimes a Verb of the same
+subordination, may be placed before, sometimes not, Cic. pro Quint. Ne ut par
+quidem sit postulat, inferiorem esse patitur. Curti. Ad vestras manus confugio,
+invitis vobis salvum esse nolo. Plaut. Cist. Quia ego nolo meretricem dicier.
+Of such like there are many examples, some Budeus produces pro and con: in
+such manner, that answerable to the rules of the Latins, it should be said,
+cupio esse clementem. But these Authors d^^learnedly add, that the Authors
+have sought ordinarily to forsake their rules, in this particular, and
+endeavor to use the construction of the Creekes, for this cupio esse clemens,
+is a Greek, not a Latin construction; the reason is, for that the Greeks do
+use oftentimes to govern o^e case only, and to join another for elegancy,
+although it be not governed of the same part, the first was, and so they say,
+Vt^r libris quibus habeo, egeo librorum qu^rum non habeo. Of these speeches
+there are an infinity among the Greeks. Then in this speech, Cupio esse
+clemens, these Authors learnedly say, that the word Clemens, trahitur a
+particula, ego, quae subaudit ur in verbo, Cupio. From hence the reason of this
+kind of speaking is easily apprehended. Licet mihi esse negligentem, the which
+goes answerable to the rules of the Latins. But this speech, Licet mihi esse
+negligenti, is altogether a Greek speech, where the word Negligenti is drawn
+from the particle Mihi.
+
+Appen. Cum manetur in eadem persona, accusativus non proprius casus est
+infinitivorum, sed potius nominativus tam apud Latinos quam Graecos, Ovid. 13.
+Met. Retulit Ajax Esse Iovis pronepos -- 2 Tristium Acoeptum refero versibus
+esse nocens, Plutarch in Apothegme: (...). Pericles dicebat vsque ad aram
+amicus esse, id est se amicum fore.
+
+De Gerundijs.
+Gerundiae, quae passionem non significant, casus suorum verborum admittunt:
+ut, tempus obliviscendi iniuriarum, ignoscendi inimicis, coercendi cupiditates,
+abstinendi maledictis.
+
+Gerundijs in Di, adduntur substantiva, ut, tempus, causa, etc. Et nonnulla
+Adiectiva, ut peritus, cupidus. Cicer. de sen. Efferor studio patres vestros
+videndi. Idem 2. de orat. Sum cupidus te audiendi.
+
+Gerundijs in Dum, praeponuntur praepositiones Ad, Ob, Inter. Cic. Tus.
+Conturbatus animus non est aptus ad exequendum munus suum. Ante, etiam
+praeponitur interdum, sed raro.
+
+Gerundia in Do, modo sine praepositione adhibentur: ut, Non sum solvendo. Cic.
+lib. 13. Attic. Plorando defessus sum, modo praeposi^iones assumunt. A, Ab, De,
+In, nonnunquam, E, vel Ex, Cum, Pro, Quint. lib. 1. Scr^bendi ratio coniuncta
+cum loquendo est.
+
+Gerundia, quae passionem significant, nullum post secasum admittunt. Quin.
+lib. 2. Memoria excolendo augotur.
+
+Ratio variandi Gerundia.
+Gerundia, quae Accusativo casis gaudent, in passiva hac ratione commutantur.
+Studios^u d^fendendi Remp* studiosus Reip. defendendae. Plaut. Epid. Epidicum
+quaerendo operam dabo frequentius Epidico quaerendo.
+
+33 Note.
+At the end of the Gerunds, observe that this phrase is very usual among the
+Latins. Tempus est legendi librorum. Plaut. Aulul. Nominandi tibi istorum,
+magis erit, quam eundi copia. Cic. de Inventute. Fuit exemplorum eligendi
+potestas. Idem de univers. Reliquorum syderum, quae causa collocandi fuerit.
+Sueton. Aug. Permissa iocandi licentia, diripiendique pomorum, and obsonioru^,
+and missilium. Plin. in Epist. Cum illorum videndi gratia, me in forum
+contulissem. The Grammar of these speeches is, Tempus est legendi librorum, id
+est, lectionis librorum. So learned men expound.
+
+Participiale in Dum.
+Participiale in Dum, accedente verbo substantivo, dativo iungitur, post se
+habet casum sui verbi. Cic. 2. Tusc. Tuo tibi iudicio utendum est; si tamen
+casus verbi, fuerit accusativus, mutabitur oration hoc modo; Petendum est tibi
+pacem, petenda est tibi pax.
+
+34. Note.
+It is to be noted, that the dative of this Participiall is of acquisition: and
+so, Docendum est mihi, is not, I must teach, but there must be teaching for my
+good. Docendum est discipulis, there must ^e Indoctrination for the profit of
+the Scholars, and it is evident, for the Ancients expressed. Petendum est tibi
+pacem; Const^tuendum est paenam latronibus. Figendum est crucem malefactoribus,
+id est: There must be required peace for thee; There must b^ constituted
+punishment for Thieves, etc. which are ren^red in this manner: Petenda est tibi
+pax; Constituenda poena latronibus; Figenda crux malefactoribus. And this self
+some dative you may put in the Active, Serviendum mihi est Deo. Serviam Deo
+mihi.
+
+De Supinis.
+Supina in um, amant verba, quae motum adsignificant, and ante se nullum, post
+se suorum verborum casum habent. Teren. Phorm. Me ultro accusatum advenit.
+
+Voces illae, quae vulgo dicuntur Supina in V. nominibus adiectivis haerent.
+Virg. Mirabile visu.
+
+35. Note.
+Many learned men there are, who exclude that which we call the last Supine,
+saying that it is a noune, and it seems they fail not therein. First because
+they may be datives, for that Virg. who wrote Mirabile visu, in another part
+said, Oculis mirabile monstrum. Where Mirabile visu will be the same that
+Mirabile visui. And there is no inconvenience that it be so; for even as the
+Latins say, Parce metu, pro me tui, they may likewise say, Mirabile visu, pro
+visui. Secondly, we see these nounes concord with adiectives, Quint. lib. 8.
+Rebus atrocibus verba etiam ipso auditu acerba magis convenient. Agellius lib.
+12. Eos versus assiduo memoratu dignos puto. Stati. 9. The^ log. Longo defessa
+redibat Venatu. Of these are many examples. The which some answer, saying that,
+Res digna memoratu, is the last Supine: yet that Res digna magno memoratu, is a
+noune, does not satisfy, for, if I would only say a thing worthy of memory,
+I will say, Memoratu. If I desire to add ought else, I will say, Magno
+memoratu, incredibili, ingenti, etc. From whence it will appear to be now a
+noune. Thirdly, the connection of speeches in form, that these are Nounes.
+Wherefore the Authors (it seems without doubt) would join two Nounes, in the
+subsequent speeches. Livi. lib. 31. Id dictu quam re facilius. P^in. lib. 7.
+Parvum dictu, sedimmensum aestimatione. Cice. in Piso. Quis enim te auditu,
+quis ullo honor, quis denique communi salute dignum putavit. ^acit. lib. 1.
+Lucos visu, ac memoria deformes. This reason has more force with the
+Grammarians, that a conjunction joins the like cases. Fourthly, the Spanish
+phrases are so hard, with which are declared these speeches, that they give the
+matter in hand to be understood as false. For this is Spanish, Affabilis dictu;
+Affabile de ser dicho, o, aefable que se diga. Affable to be said, or affable
+that it be said. Explicabile dictu. Explicabile do ser dicho, to be explicable
+to be spoken. How much better it is. Explicabile dictu, id est, dictione vel
+sermon. Explicable with a word. Some body will demand, what nounes are these,
+since there is no dictus, dictus, dictui. To this is answered, that many of
+these are entire Nounes, as Venatus, cubitus, etc. And others are de^ective,
+which the Ancients only in the datives, and ablatives singular, as Vis, Vim, a
+Vi. Opis, opem, ab open, and many others.
+
+De Participijs.
+Participia eosdem casus habent, quos verba a quibus proficiscuntur. Livi. lib.
+1. ab Vr. Anius, ingenti praeda potitus, Romam redijt.
+
+Exosus, perosus, pertaesus, cum accusativo efferuntur. Livi. 3. Ab ur. Plebs
+regum nomen perosa erat.
+
+Participia praesentis cum fiunt nomina, and nonnulla quae dicuntur praeteriti,
+interrogandi casu gaudent. Cice. Atti. 9. Boni cives amantes patriae. Sallu.
+Cat. Aliem appetens, profusus sui.
+
+Appendix.
+Aliquando id quod in oratione deest, foris omnino petendum est, Cic. In Verrem
+5. Ridere convivae, cachinnari ipse Apronius, scz caepit Hoc apud Graecos
+frequenti venit usu, Mat. 4. (...), Iacobus Zebedaei* scz. (...), filius. Sic
+dicitur Deiphobe Glauci. Hectoris Andromache, etc quod explicat Par. Sy. (...)
+Iacobus filius Zebedaei, etc. ibidem.
+
+Aliquando una pars orationis ponitur pro alia, ut Virg. Horrendum stridens pro
+horrendo, Graeca est haec constructio.
+
+De Pronomine.
+Possessiva Meus, tuus, suus, noster, vester, genitivo iunguntur tam
+substantivorum, quam adiectivorum. Cic. 2. Phil. Tuum hominis simplicis pectus
+vidimus. Mea unius interest. Rempublicam defendere.
+
+Vbi mei and ^ui genitivi primitivorum in possessivis constructionem aperiunt.
+
+36. Note.
+In the first example the genitive Hominis is ruled of pectus. the second has
+already been handled in the 10. Note, on the verb Interest.
+
+Nomina Numeralia, Partitiva, comparativa, and superlativa genitivos nostrum,
+vestrum habent. Nostri tamen and vestri caeteris iunguntur. Curt. l. 8. Nolo
+singulos vestrum excitare. Cic. 4. Cat. Habetis ducem memorem vestri, oblitum
+sui.
+
+Reciproca, sui, sibi, se.
+Reciproco, sui, utimur, cum tertia persona transit in seipsam, etiam accedente
+verbo. Cic. Qui a me petierit, ut secum, and apud se essem quotidie.
+
+Suus, etiam utimur, cum tertia persona transit in rem a se possessam, Cice. 5.
+Verb. Aiebat multa sibi opus esse, multa canibus suis.
+
+Cum duae tertiae personae in oratione praecedunt, sui, and suus tantummodo
+utemur, cum ad verbi suppositum prius, aut principalius referimus. Sed si nulla
+sit ambiguitas, hoc praecepto non astringimur. Cic. 2. Phi. Hic rogat civem, ut
+secum coeat societatem.
+
+37. Note.
+These rules of Reciproques are only to eschew Amphibology, and so they may
+be left wheresoever there shall not be found this hazard, for in Latin may
+be well said: Cepi columbam in nido suo, v^l eius vel ipsius, supposed that
+there be no danger of Amphibologie. So the Greeks expressing this Reciproque,
+Suus, a, um, in the singular number, masculine, and neuter genders, use the
+genitive (...), or (...). In the feminine (...) or (...). In the plural number
+(...) or (...), in all genders and cases. Ioh. 3. (...). Sic Deus dilexit
+mundum, ut filium suum unigenitum daret, etc. Some there are who have taught,
+that to say in Nido suo, is a solecisme, in which they err: Ovid. in Epist.
+Aspice Laerten, ut iam sua lumina condas. Cic. 2. In Verrem: Vt non modo in
+auribus vestris, sed in oculis omnium sua furta atque flagitia defixurus sim.
+Seneca ad Albinam matrem. Puer ad tuum formetur arbitrium, multum sibi dabis,
+etiamsi nihil dederis praeter exemplum. Plin. Vinea si marcuerit, sarmenta sua
+comburito. Valor. Max lib. 4. ca. 3. Alexander Diogenem gradu suo divitijs pel
+lere tentat, suo, id est, Diogenis. Some of these examples, and others of other
+Authors, as are, Virg. Salust. etc. Laurentius Vala, for that he has not
+observed, what has been here delivered.
+
+Note also that when two persons come in the same sentence, the ancients have
+used another Pronoune to take away ambiguitie. So speaks Quintil. in his
+declamation: Non sic repugnassei si illum Tribunus voluisset occidere. For if
+he had said ( se) it could not be understood whether was meant the man accused,
+or the Tribune. Like as in this: Rogavit Nero Epaphroditum ut se occideret* A
+man cannot tell who is meant, Nero or Epaphroditus.
+
+De constructione Prepositionum.
+Verba composita saepe casum Praepositionis habent, tacita, vel repetita
+Praepositione. Cice. Fin. Pythagoras Persarum Magos adijt vel ad Magos.
+
+Versus suo casui postponitur. Cic. Arpinum versus, Itemque, Tenus, iungiturque
+Genitivo plurali, vel Ablativo singulari: ut oculorum tenus, capite tenus.
+
+In, cum quies, aut aliquid fieri in loco significatur, vel ponitur pro Inter,
+Ablativum amat, alioquin Accusativum: ut sum in templo, deambulo in foro.
+Cicer. Ami. Nisi in honis amicitia esse non potest. Brutus fuit pius in
+patriam, crudelis in liberos.
+
+Sub pro Circiter, Per, Paulo, Ante, Post, and cum tempus adsignificat,
+accusativum amat. Cice. 10. Fam. Sub eas literas statim recitatae sunt tuae;
+sub vesperum, sub noctem, sub Lucis ortum: sub idem tempus. Eadem cum verbis
+Motus Accusativum, cum verbis Quietis Ablativum petit, ut, Clodius se sub
+scalas tabernae librariae coniecit. consedimus sub umbra platani.
+
+Super, Accusativo servit: Ablativo vero cum pro De, ponitur, and interdum cum
+verbis Quietis. Tegula cecidit super caput. Cice. Atti. lib. 16. Hac superre
+scribam ad te. Virg. 1. Ecl. Fronde super viridi.
+
+Subter ferme Accusativum poscit, sive quietis* sive motus verbis adiungatur.
+Cic. 1. Tus. Plato cupiditate^ subter praecordia locavit.
+
+38 Note.
+Some of these Prepositions, by learned men are held for Adverbs, as Versus,
+for in this Italiam versus, the Preposition is understood Ad, Id est Ad Italiam
+versus. And this is the cause wherefore we have left out, from the number of
+Prepositions, both seous and usque.
+
+De Adverbio.
+En and Ecce Nominandi, and Accusandi casibus adhaerent, qui semper pendent ab
+aliquo verbo, ut, En turba, id est, En turba adest, En hominem, id est, en,
+vide hominem: similiter in Adverbio, Ecce.
+
+39 Note.
+These cases are governed of some Verb, which commodiously may be understood.
+An Argument hereof is, that Authors have used them so a thousand times. Teren.
+Adelp. Ecce autem hic adest senex noster. Plaut. Merca. Ecce illum video.
+
+Adverbia Loci.
+Adverbia, quibus interrogamur, sunt haec, Vbi, Vnde, Quo, Qua, Quorsum.
+
+De Adverbio vbi.
+Cum Interrogatio fit per Adverbium, ubi, si respondendum sit per nomina
+propria Pagorum, Castellorum, Vrbium, Provinciarum, Insularum, Regionum:
+primae, vel secundae, declinationis ponuntur in Genitivo: ut, Sum Romae,
+Brundusij, Siciliae, Cretae; Qui Genitivus regitur a subintellecto nomine Vrbe,
+Oppido, Loco, Provincia, Regno, Insula, and Grammatica erit* Sum Romae, id est,
+In Vrbe Romae; Siciliae, id est, In Insula Siciliae.
+
+40 Note.
+Mark first that the names of Provinces, Islands, and Kingdoms, may be also
+put in the Gen^ive. Varro. lib. 1. cap. 7. ^retae ad Cortiniam dicitur Platanus
+esse. Cice. in Verram. Sicilia cum essem Idem, Attic. Cum Cor^yrae ^pala^^
+essemus. Val. Max. lib. 4. cap. 1. Duos egregiae indolis fil^os suos a
+Gabinianis militibus Aegyptio o^eisos cognovit. Sal. Iug. Romae Numidiaeque
+facinora eius memorat. We have set down the rule as it runs, and the same
+doctrine is kept in the following rules. And it is good that they who learn,
+know that these forms of speaking are delivered very elegantly in Latin. Sum
+Siciliae, vel in Sicilia Eo Sicilia^* vel ad Siciliam. Eo Romam, vel ad Romam,
+venio Sicilia, vel ex Sicilia. Venio Roma, vel ex Roma; for some have an
+opinion, that to say: sum Siciliae, eo ad Romam, venio ex Roma, etc. are
+solecismes, some answer that it is least used. To this I say, that in Titus
+Livius, and the best Historians and Poets, it is ordinary to leave out
+Prepositions in Provinces, and to use them to Cities, and Cic. does so most
+often, and there is none of these things, of which there are not more then 500.
+examples, and Suetonius says of Caesar, that he put always Prepositions to
+names of people, for that he liked well, that his language should be clear.
+And if by the authority of Quintilian only it was taught that Vapulo was a
+Neuterpassive, it being not, it is no wonder that this is taught here, ratified
+by so many authorities as there are produced.
+
+Secondly, observe that these genitives are of Possession, for they have their
+Rection of some Substantive understood: which sometime Authors have expressed.
+Cic. 5. Attic. In oppido Antiochiae. Idem Phil. 4. Albae constiterunt in urbe
+opportuna. And so the Grammar is, sum Romae, id est, in urbe Romae. Siciliae,
+id est, in Provincia Siciliae. Athenis, Babylone, id est, in Athenis, in
+Babylone. Sueton. Call. cap. 8 in Treviris.
+
+Thirdly, note this word Ruri, of which mention is made below, is no Dative, as
+many opinionate, but an Ablative, for that the Ancients ended Ablatives in E,
+oftentimes in I. Plaut. Men: Satur nunc loquitur de me and de parti m^a, Cat.
+cap. 37. Ex segeti vellito ebulum. Virgil. Eclog. 6. serta procul tantum capiti
+delapsa iacebant. Auson. de occasion. Heus tu, occipiti calvo es. In this
+manner it is found in many, Vesperi pro Vespere: in that which concerns the
+noune Domus: be it known, that it may be said, sum domi, vel in domo: Eo
+domum, vel ad domum, venio domo, vel, ex domo. The same in the noune Rus; of
+all these are many examples in the Authors, which Franciscus Sanchez has
+spoken of in his Minerva.
+
+Si propria tamen fuerint tertiae Declinatinationis, vel Pluralis numeri, sexto
+casu utendum est. Cic. Divi. Babylone Alexander mortuus est. Idem. Atti. 16.
+Athenis esse. Hic casus pendet a praepositione In.
+
+Sed nomina Provinciarum, Insularum, and Regionum frequenter sunt in Ablativo
+cum praepositione in, quibus ad haerent nomina Appeliaetiva, ut, sum in
+Sicilia, in Creta, in foro, in Vrbe. Dicimus etiam Rure, vel Ruri in Ablativo.
+Plaut. Bacchi. Si illi sunt virgae ruri, at mihi tergum domi est.
+
+Propria sequuntur appellativa quatuor Humi, Belli, Militiae, Domi, quorum
+postremo adiungi possunt, Meae, Tuae, Suae, Nostrae, Vestrae, Alienae. Cic.
+Tusc. Theodori nihil refert humine, an sublime putrescat.
+
+Si responsio fiat per Adverbia, redduntur haec. Hic, Isthic, Illic, Ibi,
+Inibi, Ibidem, Alibi, Alicubi, Vbique, Vtrobique, Vbilibet, Vbivis, Vbicumque:
+Passim, vulgo, Intus, Foris, Nusquam, Long, Peregre, and supra, subter, Infra,
+Ante, Post, Extra, Cic. 6 Fam. Nemo est, quin ubivis, quam ibi ubi est, esse
+malit.
+
+De Adverbio Vnde.
+Cum per unde fit interrogatio, si respondetur per propria Vrbium, aut
+Provinciarum, utemur Ablativo, tacita, vel expressa praepositione, ut venio
+Roma, Brundusio, Carthagine Athenis, Sicilia, Creta, Rure, Domo: vel ex Roma,
+ex Brundusio, ex Carthagine, ex Athenis, ex Sicilia, ex Creta.
+
+In Appellativis semper exprimitur praepositio, ut, Ex foro, ex Vrbe.
+
+41 Note.
+It is not only said Venio Roma, Carthagine, etc. but likewise, A Roma, a
+Carthagine, ab Athenis, etc. Cice. 1. Acad. Venisse ab Roma. idem Phil. 8. Ab
+Alexandria discederet. Fla. Bacch. Ex Epheso huc ad sodales literas misi, and
+Pseud. Ex Sicyone huc pervenisti. Martial. lib. 13. Haec de vitifera venisse
+picata Vienna.
+
+Secondly, it is not only said, Venio ex Italia, but also Italia. Sueton.
+Vespasian, ut eo tempore Iudaea profecti rerum potirentur, and Aug. Decedens
+Macedonia. Cic. Attic. Si Pompeius Italia cederet. Val. Max. lib. 1. cap. 7.
+Paenorum exercitum Italia pelleret; From whence you may collect, that they are
+governed by a preposition, expressed or tacit.
+
+Si per adverbia fiat responsio, redduntur Haec, hinc* isthinc, illhinc,
+indidem, aliunde, undelibet, undevis, undique, undecumque, alicunde, utrinque,
+Eminus, Cominus, superne, inferne, peregre, intus, foris. Terent. Heau. Vide,
+ne quo hinc abeas longius.
+
+De Adverbio Quo.
+Quando per Adverbium Quo, fiat interrogatio, nomina propria urbium, and
+Provinciarum reddentur in accusativo, tacita, vel expressa praepositione: ut,
+Eo Romam, Brundusium, Carthaginem, Athenas, Siciliam, Cretam, Rus, Domum, Vel,
+ad Romam, ad Brundusium, ad Carthaginem, ad Athenas, ad Siciliam, ad Cretam.
+
+42. Note.
+It is not only said, Eo Romam, but likewise, Ad Romam. Cic. de Sen, Miles
+profectus sum ad Capuam, quintoque anno post ad Tarentum. Quaestor. Caesar. 3.
+Civil. Cassius ad Messanam navibus evocavit. Propert. lib. 3. Ad doctas
+proficisci cogor Athenas Plaut. Bacchi. In Ephesum hinc abij, and Epid, Quando
+hinc iturus est in Seleuciam.
+
+Secondly, it is not only said, Eo Italiam, but likewise In Italiam. Cic. pro
+lege Manilia. Sardiniam cum class venit. Suet. Aug. ca. 17. Ab Actio cum Samum
+Insulam, In Hybernia se recepisset. Justin. lib. 20. Aegyptum primo profectus
+Cretam contenderat. Tacit. lib. 2. Germanicus Aegyptum pro ficiscitur. Mela.
+lib. 3. cap. 6. Aegyptum tendere. Virg. Tendimus Italiam. There are very many
+examples of this kind in Livi.
+
+Thirdly observe, that sometimes nounes Appellatives are found without a
+preposition, but it is not good to use it ordinarily, Virg. l. 6. Devenere
+locos laetus, and amaeno vireta. Apul. lib. 9. Proximam civitatem deducere
+consueverunt.
+
+Appollativis additur praepositio: ut, Ad forum, ad urbem.
+
+Vide 42. Note.
+
+Adverbia reddentur haec: Huc, istuc, illhuceo, eodem, illo, aliquo, alio,
+n^utro, utroque, quoque, quocumque, quovis, quolibet, intro, for as, peregre,
+long, nusquam. Teren. Hecy. Abi Parmeno intro.
+
+De Qua.
+Si per Qua fiat interrogatio, per propria respondentes, Ablativo utemur, vel
+accusativo cum praepositione, Per: ut, Qua iter fecesti? Roma, Brundusio,
+Carthagine, Athenis, Rure, Domo: vel, per Romam, per Brundusium, per
+Carthaginem, per Athenas.
+
+43. Note.
+Observe first that there are very learned men that h^ld Qua, which ordinarily
+is held for an Adverbe, to be the Ablative of Quis, supplying Via, as, Qua iter
+fecisti? id est, Qua via iter fecisti? this appears very probable; for that
+all these which answer to it, are such to which Via may be supplied, as, hac
+via, etc.
+
+Secondly, it is to be noted, that not only may it be said, Feci iter Roma,
+but also Per Romam. Howbeit of the one and the other there are few examples;
+for ordinarily they expressed it by other ways, as, Cum transirem Romam,
+praeterijssem Brundusium, Attigissem Capuam, etc.
+
+Proprijs Provinciarum, and Appellativis clare additur praepositio Per: ut, per
+Siciliam, per Cretam, per forum, per Vrbem.
+
+Cum rogamur per Qua, reddemus etiam Haec. Hac, isthac, illhac, aliqua,
+qualibet, quacumque. Terent. Eun. hac, illhac, perfluo.
+
+De Adverbio Quorsum.
+Si per Quorsum fiat interrogatio, quaecumque sint nomina ponuntur in
+accusativ^, cum hac voce, versus, Vt Quorsum tendis? Romam versus, Siciliam
+versus.
+
+Redduntur etiam haec Adverbia, Horsum, istorsum, illorsum, aliorsum, sursum,
+deorsum, dextrorsum, sinistrorsum, laevorsum, prorsum, rursum, introrsum, vel
+introrsus, re^rorsum vel retrorsus, quoquoversum vel quoquoversus, Teren.
+Phorm. Horsum pergunt.
+
+Satis, abunde, affatim, parum, i^star, ergo pro causa. Genitivum postulant:
+Teren Phorm. satis iam verborum est.
+
+Pridie, and postridie, and genitivo and accusativo eleganter iunguntur. Pridie
+eius ^iei venit. postridie ludos Apollinares.
+
+Propius, and proxime accusativo adhaerent. Propius urbem* proxime Italiam, id
+est, ad Vrbem, ad Italiam.
+
+Some insert here a large Catalogue, how some Adverbs are to be used, which you
+shall see in the 45. Note.
+
+44. Note.
+In the Adverbes Propius and proxime, the preposition Ad is understood, by
+which the accusative is ruled: which sometimes the Latins do conceal for
+elegancie, and others have expressed it. Cic. in Partit. Accedere propius ad
+sensum alicuius, and 1. de natura Deo. Ad similitudinem enim Deo propius
+accedebat humana virtus, and pro Mil. Proxime ad Deos accessit Clodius. For if
+these govern an accusative, why say they not, that Proximus also does govern
+an accusative, since Plaut. said in Paenul. Proximus te sum? But here and in
+the rest the preposition ad, ought to be understood, which Ovid expressed when
+he said, Proximus ad dominam nullo prohibente sedeto.
+
+45. Note.
+Vt, when it signifies Postquam, is joined to an Indicative: Cic. Vt ab vrbe
+discessi: and when it imports the same that Quomodo, with a certain
+admiration. Ter. Vt falsus es animi!
+
+Vt, after these words, Adeo, ita, sic, tam, talis, tantus, tot, is joined
+ordinarily to the Subiunctive mood, Cic. Non sum ita hebes, ut ista dicam.
+
+Antequam and priusquam, are joined to an Indicative and a Subiunctive. Cic.
+Priusquam de Rep. dicere incipio, vel incipiam*
+
+Ne, when we command that any thing be not done, is put with a Subiunctive and
+an Imperative. Ne jures, ne jura.
+
+Nae, id est, profecto, if it shall be put before any Pronoune is joined to an
+Indicative; or a Subiunctive. Teren. Adelph. Nae ego sum infaelix. Cic. 1. Ph.
+Nae tu, si id fecisses, melius famae tuae consuluisses.
+
+The adverbes in um, and these words, Per, perquam, quam sane* and others such
+like, are joined with positives nounes, as, Perfacilis. Cic. 2. Fin. In rebus
+apertissimis nimium longi sumus.
+
+Adverbs ending in, O, are joined with comparatives. Multo and Long to
+comparatives and superlatives, Cice. 1. Offi. Quanto superiores sumus, tanto
+nos submissius geramus. Idem in Ver. Arrogantia ingenij est mul^o molestissima.
+Idem in Brut. Servilius long post natos homines improbissimus.
+
+It is likewise said, Facile doctissimus, and Quam doctissimus.
+
+Note that Adiectives signifying time, are as well by the Latin as Greek
+Poets often put in place of the Adverbs, as, Virg. 3. Georg. Nec gregibus
+nocturnus obambulat, id est, nocturn^ vel noctu: so Aenead. 8. Nec minus Aeneas
+se matutinus agebat, for mane: so Homer. Il. 13. (...); Non decet virum
+consiliarium dormire nocturnum, id est, per totam noctem. And sometimes in
+Prose. Plin. Haec singula and matutina and vespertina dantur, pro mane and
+vesperi.
+
+De Interiectione.
+O, Heu, and Proh. Nominandi, Accusandi, and Vocandi casibus junguntur, ut O
+pietas, Heu cladem, Proh Jupiter.
+
+Hei, and vae Dativo gaudent: ut, hei mihi; vaetibi. Omnes hi casus aliunde
+reguntur, quam ab Interi^ctionibus.
+
+46 Note.
+To an Interiection are joined the said Cases, for it seems not probable that
+they govern them. The Nominative is never governed of any, only it
+concordeth. It cannot be understood how a Vocative should rule, since it is
+that to which the speech is directed. In all other Cases something is
+inexpressed, as, Vae tibi, id est, Vae tibi imminet supplicium, vel quid
+simile, etc. O, me miserum, id est, O, poena manet me miserum, etc. O, Jupiter,
+id est, O, ubi es Jupiter, insomuch as Virg. O, ubi campi, id est, O, ubi sunt
+campi. And this is evident, for without any prejudice of the speech, the
+Interiection may be left out: as Me miserum quantis assicior! Jupiter quid mali
+foci! Misero mihi, quanta me premunt mala! Then behold you from whence these
+cases be governed, when there is no Interiection, which when they have them,
+shall be governed by the self same part: from whence comes it, that in good
+Prints, is put always after an Interiection, a Comma, or rather sign, which
+would not be done, if the case following should be governed thereof, as Vae,
+mihi misero, O Jupiter.
+
+De Coniunctione.
+Coniunctiones copulativae and disiunctivae Orationes coniungunt,
+disiunguntque, casus etiam similes, cum ad idem verbum referuntur, sed hoc non
+necessario: ut, Caesar pugnat, and Cicero scribit; forma and gloria fragilis
+est; Horatius. Aut ob avaritiam, aut misera ambitione laborat. Cic. 4. Epist.
+Me, and tibi exire ex urbe necesse sit.
+
+47 Note.
+It was wont to be said, that a Conjunction joins necessarily alike Cases,
+which is false, as well appears by the two last examples of Horace, and
+Cicero, as also for that construction requires oftentimes the contrary, V. Gr.
+fuisti Romae, an Athenis?
+
+48 Note.
+Etsi, Tametsi, Quanquam, in the beginning of a speech, are very elegantly
+joined to an Indicative, but in the middle, and end of a speech, they are
+joined to an Indicative, or to a Subiunctive. Cic. pro Milone. Etsi vereor
+Iudices. Teren. And Obtundis tametsi intelligo, vel intelligam. Etiamsi
+Quamvis, Licet, ut, when it is taken for Quamvis, require a Subjunctive. Cice.
+de Amici. omnia brevia, and tolerabilia esse debent, etiamsi maxima sunt.
+
+Tam and Quam are ordinarily annexed to positives, sometimes to superlatives,
+very seldom to Comparatives, Tam Doctus, quam Sapiens.
+
+De ut, and Ne, after the Verbs, Timeo, Metuo, Vereor.
+When we fear what we desire not, we must say, Timeo ne; when we fear what
+we desire, Timeo ut, as, Timeo ne pater veniat, when I desire not his coming.
+Timeo ut pater veniat, when I desire his coming. Timeo ne non, is the same
+that Timeo ut, (and not the same as Timeo Ne, as some teach) for that two
+Negatives make an Affirmative. Cic. Attic. 9. Timeo non impatre^, id est, timeo
+impatre^. Yet Timeo, ut non, vel Timeo, ut ne, or some other negative
+whatsoever: as, Timeo ut nolit, Timeo ut nihil faciat, in all these it is the
+same, as Timeo ne. Finally adding the third negation, it is understood, that
+one has no kind of fear. Cic. 6. in Ver. Non vereor ne hoc officium Servilio
+non probem, id est, non dubito quin hoc officium meum sim probaturus Servilio.
+The same which has been said in Timeo, is to be understood in Metuo, and
+Vereor.
+
+FINIS.
+

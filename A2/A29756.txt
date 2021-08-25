@@ -1,0 +1,2641 @@
+The Description and Use OF A JOYNT-RULE:
+
+Fitted with Lines for the finding the Hour of the Day, and Azimuth of the Sun,
+to any particular Latitude; Or to apply the same generally to any latitude
+
+Together with all the uses of Gunters quadrant applied thereunto, as
+Sunrising, Declination, Amplitude, true place, right Ascension, and the hour
+of the Night by the Moon, or fixed Stars;
+
+A speedy and easy way of finding of Altitudes at one or two stations; Also
+the way of making any kind of erect Sun-Dial to any Latitude or Declination,
+by the same Rule: With the Description and Use of several Lines for the
+mensuration of Superficies, and Solids, and of other Lines usually put on
+Carpenters Rules:
+
+Also the use of Mr. Whites Rule for measuring of Board and Timber, round and
+square; With the manner of using the Serpentine-line of Numbers, Sines,
+Tangents, and Versed Sines.
+
+Contrived and written by J. Brown, Philom.
+
+London, Printed by T. I. for I. Brown, and H. Sutton, and sold at their houses
+in the Minories, and Thredneedle-street. 1661.
+
+
+
+TO THE READER.
+Courteous Reader,
+AMong the multitude of Books which are printed and published, in this
+scribbling Age, some serious, some seditious; some discovering or savouring of
+Art, others of ignorance, possibly every one endeavoring to bring their Male:
+Among the rest of the crowd, I, like the widow, throw in my mite. If it be (or
+seem to be) little, it. is like the Giver, and therefore I presume will of some
+be accepted, as little as it is; and as little worth as it is, it is like
+enough to be challenged: but I shall endeavor to prevent prejudice, by the
+following Discourse.
+
+Having for some time been enquiring to find out a way, whereby Workmen might
+on their Rules (their constant Companions) have a way easily and exactly to
+find the hour of the Day, and Suns Altitude and Azimuth, and the like; and
+have at several times for several men, at their request, used one and the other
+contrivance, to find the Hour: as that of the Cillender, Quadrant, or the
+like, as the Altitude by a Tangent on the inside of a Square, or Joynt-Rule,
+and the line of Sines on the flat side; but still one inconvenience or other of
+trouble in adding of complements, or difficulty of taking of Aititudes, or
+trouble to the memory, did accrue to the work; or else the Radius was small,
+and so much the more short of exactness: at last there came to my sight a
+Quadrant made by Mr. Thomson, and as I was informed, was first drawn or
+contrived to that form, by Mr Samuel Foster, that ingenious ^rtist, and
+laborious Student, and Reader of the Mathematics in Gresham College: And
+considering of the ease and speed in the using thereof, I set my self to the
+contriving thereof to a more portable form, at last took some pains in
+delineating one, and another in several forms, and enquired after the uses
+thereof, and in effect have done, as Mr. Gunter with Stofflers Astrolabe, and
+Nepeirs Logarithms, and as Mr. Oughtred with Gunters Rule, to a sliding and
+circular form; and as my father Thomas Brown into a Serpentine form; or as Mr.
+Windgate in his Rule of Froportion, and as of late Mr. Collins with Mr. Gunters
+Sector on a Quadrant, so may this not unfitly be called, The Quadrant on a
+Sector. And in fine, the Invention will be valued for the learned Authors sake,
+and never a whit the worse for the new Contrivers sake: For first, hereby it is
+made large in little room, and as well on wood as on brass, which is an
+incommunicable property to broad Quadrants, though of never so good matter, as
+experienced Workmen know right well; and by a Tangent of 30 degrees laid
+together, is gotten all kind of Angles or Altitudes under 90 degrees, and to
+be afforded for a low price, in comparison of other Instruments, which will not
+perform the same operations any better.
+
+Having made some Joynt-Rules in the manner following, and exposing them to
+sale, I have been many times solicited to write somewhat of the use, and now at
+last after near a years suspense, have committed the following Discourse to
+public view, partly to save the labor of tedious transcribings, and also to
+make so useful, cheap, and exact an Instrument, (if it be truly made) to be
+more known or occupied.
+
+In which business, I desire to disclaim all vainglorious os^entation, and
+therefore have nakedly and plainly asserted the manner how, and why it comes to
+be published to the world by me. It is a mechanical thing, and mechanically
+applied, and of mechanical men will be humanically accepted, I doubt not.
+Having begun to write, I could not break off so short and abruptly, as at first
+I did intend to do; therefore have added this short Discourse of ordinary
+Dyalling, the exact Method of which I find in no other Author that ever I met
+with, (and indeed I have not time to read many) yet I dare presume, that for
+speed, ease, convenience, and exactness, inferior to none, especially the way
+of making far declining Dyals; As for other declining reclining Dyals, I
+refer you to other Authors, or to a Discourse thereof by it self: if I find
+encouragement, and ability to perform the same, a Copy whereof I have had a
+long time by me, written by a very ingenious Artist) the demonstration of which
+Dyals is most excellently and easily showed by the Figure inserted, page 77.
+
+As for the other part for taking of Altitudes and Angles, it may also be very
+conveniently done, if the Rule be fitted to a three-leg staff, with a small
+Ball-socket to set it level, or upright, as other Surveighing-instruments be,
+as will be amply found, if a trial be made thereof.
+
+That of Ma^er White's Rule is a thing that has given very good content to
+several Gentlemen in the Counties of Essex, Suffolk, and Norfolk, and indeed is
+a very neat and accurate way of operation, well becoming a Gentleman; for while
+a Workman shall take measure, his Rule keeps the count of length, or breadth;
+and having the length first given, the girt or squareness is no sooner agreed
+on, but you have the content without Pen or Compasses.
+
+As for the other lines, as Decimal-board, and Timber-measure, Inches, and
+Foot, in the way of Reduction, Girt-measure, Circles, Diameter, Circumference,
+Squares inscribed and equal: The Use of them will be very grateful to many a
+learner. Lastly, this brief touch of the Serpentine-line I made bold to assert,
+to see if I could draw out a performance of that promise, that has been so
+long unperformed by the promisers thereof.
+
+These Collections, courteous Reader, I have printed at my friends and my own
+proper charges, and if they prove to be (as I do hope they will) of public
+benefit, I shall enjoy my expectation, and be ready at all times to serve you
+further, as I may, in these or other Mathematical instruments, at my house at
+the Sun-dyal in the Minories, and remain to you much obliged,
+
+February 8* 1660. John Brown.
+
+A TABLE of the things contained in this BOOK.
+CHAP. I.
+Page THe description of the rule for the hour only 1. 2. 3
+CHAP. II.
+To rectify or set the Rule to his true angle for observation 4 To find the
+Suns altitude 5 To find the hour of the day 6 To find the Suns rising and
+setting 7 To find a level or perpendicular 7
+CHAP. III.
+A further description of the rule for hour and Azimuth generally 10, 11, 12
+CHAP. IIII.
+To find the Suns declination 13 To find the Suns true place, and right
+ascension 14 To find the Suns amplitude 14
+CHAP. V.
+To find the Suns Azimuth at any altitude and declination, in this particular
+latitude in Summer 16 To find the Azimuth in Winter, and Equinoctial 17, 18
+CHAP. VI.
+To find the hour of the night by the Moon. 19 To find the Moons Age 20 To
+find the Moons place 21 To find the Moons hour by the 11 chap. 2 and 3
+Proposition 23 To find the true hour of the night thereby 24
+CHAP. VII.
+To find the hour of the night by the sixed Stars 25 Three examples thereof
+26, 27, 28
+CHAP. VIII
+To find the Amplitude, Azimuth, rising and so^^hing of the fixed Stars, and
+Examples thereof in page 29, 30, 31, 32
+CHAP. IX.
+To find the hour and Azimuth, etc. in any latitude 33 To find the Suns
+rising, setting, and ascentional difference ibid. To find his amplitude in any
+latitude 34 To find the Suns altitude at six in any latitude. 35 To find the
+hour when the Sun is in the Equinoctial 36 To find the hour in any l^titude,
+altitude, and declination 37 To find the Suns Azimuth in any latitude, at any
+declination, and altitude in summer 38 To find the same in winter 39
+CHAP. X.
+To find the inclination of Meridians, substile, style, and angle, between 12
+and 6 for erect decliners three ways, one particular, and two general 40 To
+find the substile, styles elevation, inclination of Meridians 41 To find the
+angle between 12 and 6 for a particular latitude 42 To perform the same in
+general for any latitude by the general scale of altitudes 43, 44 Five canons
+to find the same by the artificial sines and ta^gents, and how to work them on
+the rule 45, 46
+CHAP. XI.
+To draw a Horizontal Dyal to any latitude 47 To draw a vertical direct North
+or South Dial to any latitude 48, 49 To draw a direct erect East or West Dial
+50, 51
+CHAP. XIII.
+To find the declination of a Plain 52 To do it by the needle 53, 54 To find
+the quantity of an angle the sector or rule stands at 55 An example of the work
+56 To find a declination by the Sun at any time 57, 58 Some precepts and
+examples for the same 59, 60, 61 To find a declination at two choice
+particular times, viz. when the Sun is in the Meridian of place, or Plain 62,
+63 How to supply a deficiency in one line of the rule, by another line on the
+rule 64
+CHAP. XIIII.
+To draw a vertical declining Dial to any declination and latitude. 65 To
+perform it another way 66, 67 To supply a defect on the parallel contingent 68
+CHAP. XV.
+To draw the hour lines on an upright declining Dial, declining above 60
+degrees 96 To make the table for the hours 70 To find the substile, styles
+augmentation, and Radius, to fit and fill the Plain with any certain number of
+hours 71, 72, 73, 74, 75 An advertisement relating to declining reclining
+Plains 76, 77, 78, 79
+CHAP. XVI.
+To find a perpendicular altitude at one or two stationi 80 To do it at one
+station 81 To perform it at two stations 82, 83, 84 To work it by the sector
+lines 85, 86
+CHAP. XVII.
+The use of several lines inserted on rules for the use of several workmen, for
+the mensuration of superficial, and solid measure, and reduction, etc. 87 The
+use of inches, and foot measure laid together, in giving the price of one, to
+know the price of a hundred, or the contrary 88 The use in buying of timber,
+knowing the price of a load, or 50 foot, to know the price of one foot, or the
+contrary 89, 90. The like work for the great hundred or 112 l. to the C. 90, 91
+The use of the line of decimal board measure 92 The use of the line of decimal
+Timber measure 93 The use of the line of decimal yard measure 94 Or that which
+agrees with feet and inches 95 The use of the line of decimal round or Girt
+measure 96 The use of the line of decimal sollid measure by the diameter 97 The
+table of decimal superficial under measure 98, 99 The table for decimal sollid
+under measure 100, 101 The table of under-yard measure for foot measure or
+inches 102, 103 The table of under girt measure to inches 104 The table of
+under diameter measure to inches and quarters 105 A table of brick measure 106
+The use of the lines of Circumference, diameter, and squares equal and
+inscribed 108
+CHAP. XVIII.
+The use of Mr. Whites rule or the sliding rule in Arithmetique, and measuring
+superficial and sollid measure from 110 to 118
+CHAP XIX.
+To find hour and Azimnth by that sector To find the Azimuth by having
+latitude, Suns declination and altitudes, cemplements, and the hour from noon
+119 To find the hour, by having the same complements, and the Azimuth from
+south 120 Having the complements of the latitude and altitude, and the Suns
+distance from the pole, to find the Suns Azimuth 121 Having the same
+complements, to find the hour by the sector 122 Having latitude, declination,
+meridian, and present altitude, to find the hour of the day. 123 Having
+latitude, declination, and altitude, to find the Suns Azimuth at one operation
+by the sector 124 Having the length of the shadow, to find the altitude, and
+the contrary 126 Having latitude and declination, to find the Suns rising and
+setting 127 To find the Suns altitade at any hour generally 129 To find when
+the Sun shall be due East or West 130 To find the quesita in erect Dials 131,
+132.
+CHAP. XX.
+The use of the serpentine line. The description thereof. 134, 135, 136, 137
+Some observations in the use thereof 138. 139, 140 To find the hour of the day
+thereby, according to Mr. Gunter 142 To find the hour thereby. according to
+Mr. Collins 145 To find the Azimuth thereby Mr. Collins his way 146 To find
+the Azimuth Mr. Gunters way 148 To find the hour and Azimnth at one operation,
+by help of the natural sines and versed sines 149 to 154 To find the Suns
+altitude at any hour or Azimuth 155, 156 To find the hour by having the
+Azimuth, and the contrary 157 Five other useful propositions 159 To square and
+cube a number, and to find the square, and cube root of a number 162, 163 To
+work questions of interest and annuities 164 The use of the everlasting
+Almanac 167
+The right Ascension and Declination of 12 principal fixed Stars in the
+heavens; most of which are inserted on the Rule: or if room will allow, all of
+them.
+R. Asc. Declina. Stars Names H. M. Degrees. M. Pleiades, or 7 Stars 03 24 23 20
+Bulls-Eye 04 16 15 48 Orions Girdle 05 18 01 195 Little Dog 07 20 06 08 Lions
+Heart 09 50 13 40 Lions Tail 11 30 16 30 Arcturus 14 00 21 04 Vultures Heart 19
+33 08 00 Dolphins Head 20 30 14 52 Pegasus Mouth 21 27 08 19 Fomahant 22 39 31
+17s Pegasus lower wing 23 55 13 19 1 3 5 7 4 6 8 Months 9 11 2 10 12 1 2 3 4 5
+6 7 8 9 10 11 12 13 14 Days 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Weekdays S M T W T F Sat Dom. Letter d c b a g f e Leap years 68 80 64 76 60
+72 84 E^acts 26 9 12 25 28 11 23
+
+THE Description and Use OF A JOYNT-RULE.
+CHAP. I.
+The Description of the Lines on the Rule, as it is made only for one
+Latitude, and for the finding the hour of the day only.
+FIrst open the (Joint of the) Rule, then upon the head-leg, being next to your
+right hand, you have a line beginning at the hole, which is the Center of the
+quadrantal lines, and divided from thence downward toward the head, into as
+many degrees as the Suns greatest altitude in that latitude will be, which with
+us at London is to 62 degrees; which line I call the Scale of Altitudes,
+divided to whole, halfs, and sometime quarters of degrees.
+
+2. Secondly, On the other leg, and next to the inside is the line of hours,
+usually divided into hours, quarters, and every fifth minute, beginning at the
+head with 4, and so proceeding to 5, 6, 7, 8, 9, 10, 11, and 12 at the end, and
+then back again with 1, 2, 3, 4, 5, 6, 7, 8, for the morning and afternoon
+hours.
+
+3. Next to this is a Calendar of Months and Days in two lines; the uppermost
+contains that half year the days lengthen in, and the lowermost the shortning
+days, as by the names of the months may appear; the name of every month
+standing in the month, and at the beginning of the month: and all but the two
+months that have the longest, and the shortest days, viz. June and December,
+are divided into single days, the tenth day having a figure 10, or a point or
+prick on the head of the stroke, and the fifth only a longer stroke without a
+prick, and the beginning of every month a long stroke, and every single day
+all alike of one shortness, according to the usual manner of distinguishing on
+lines.
+
+4. And lastly you have a line of degrees, for so they be most properly called,
+and they are the same with the equal limb on quadrants, and serve for the same
+use, viz. for taking of Altitudes, or Horizontal Angles, and are divided
+usually to whole, and half degrees of the quadrant, and figured with 30, 40,
+50, 600, 7010, 8020, and 90, just on the head, cutting the center or point,
+where the Scale of Altitudes and the Line of Hours meet; which point, for
+distinction sake, I call The rectifying point. And the reckoning on this line,
+as to taking of Altitudes, is thus: At the number 600 is the beginning, then
+toward the head count 10, 20, 30, where the 90 is; then begin at the end
+again, and count as the figures show you to 90 at the head, as before.
+
+CHAP II.
+The Uses of the Rule follow.
+1. To Rectify or set the Rule to his true Angle.
+OPen the Rule to 60 degrees, which is done thus, (indifferently:) make the
+lines on the head, and the lines on the other leg, meet in a straight line;
+then is the Scale of Altitudes and the line of Hours set to an Angle of 60
+degrees, the rectifying point, being the center of that Angle; Or to do it more
+exactly, do thus: put one point of a pair of Compasses into the rectifying
+point, then open the other to 10, 20, 30, or 40, on the Scale of Altitudes, the
+Compasses so opened, and the point yet remaining in the rectifying point, turn
+the other to that margenal line in the line of hours, that cuts the rectifying
+point, and there stay it; then remove the point that was fixed in the
+rectifying point, and open or shut the Rule, till the point of the Compasses
+will touch 10, 20, 30, or 40, being the point you set the Compasses too in the
+Scale of Altitudes, in the innermost line that cuts the center, and the
+rectifying point, then is it set exactly to 60 degrees, and fitted for
+observation.
+
+2. To find the Suns Altitude at any time.
+Put a pin in the center hole, at the upper end of the Scale of Altitudes, and
+on the pin hang a thread and plummet; then if the Sun be low, that is to say,
+under 25 degrees high, as in the winter it will always be, then lift up the
+moveable leg, where the months and the degrees be, till the shadow of the end
+fall just on the meeting of that leg with the head, then the thread shall show
+the Suns altitude, counting from 600 toward the head, either 10, 20, 25, or
+any degree between.
+
+But if the Sun be above 25 or 30 degrees high, lift up the head leg till the
+shadow of that play as before, or make the shadow of the pin in the center hole
+play on the innermost line of the Scale of Altitudes where the pin stands,
+then the thread will fall on the degree, and part of a degree that his true
+altitude shall be.
+
+But if the Sun be in a cloud, and can not be seen so as to give a shadow, then
+look up along by the head-leg, or moveable leg, just against the middle of the
+round body of the Sun, and the thread playing evenly by the degrees, shall show
+the true altitude required. The like must you do for a Star, or any other
+object, whose altitude you would find.
+
+3. Having found the Suns altitude, and the day of the month, to find the
+hour of the day.
+Whatsoever you find the altitude to be, take the same off from the Line of
+Altitudes, from the center downwards with a pair of Compasses, then lay the
+thread (being put over the pin) on the day of the month, then put one foot of
+the Compasses in the line of hours, in that line that cuts the rectifying
+point, and carry it further off, or nigher, till the other foot of the Compass
+being turned about, will just touch the thread, at the nearest distance, then
+the point of the Compasses on the line of hours, shall show the true hour and
+minute of the day required.
+
+Example on the 2. of July.
+1. I observe the altitude in the morning, and I find it to be 30 degrees
+high, then laying the thread on the day of the month, and taking 30 degrees
+from the Scale of Altitudes, and putting one point in the line of hours, till
+the other point turned about, will but just touch the th^ead, and I find it to
+23 minutes past 7, but if it had been in the afternoon, it would have been 37
+minutes past 4.
+
+2. Again, on the tenth of August in the Afternoon, at 20 degrees high, I take
+20 degrees from the Scale of Altudes, and laying the thread on the day of the
+month, viz. the tenth aforesaid, counting from the name at the beginning of
+August, toward September, and carrying the Compasses in the line of hours, till
+the other point does but just touch the thread, and you shall find it to be 54
+minutes past 4 a clock.
+
+3. Again, on the 11. of December at 15 degrees high, work as before, and you
+shall find it to be just 12 a clock; but to work this, you must lay the Rule
+down on something, and extend the thread beyond the Rule, for the nighest
+distance will happen on the outside of the Rule.
+
+4. Again, on the 11 of June at noon I find the altitude to be 62 degrees
+high, then laying the thread on the 10 th or 11 th of June, for then a day is
+unsensible, and working as before, you shall find the point of the Compasses to
+stay at just 12 a clock, the time required for that altitude.
+
+4. To find the Suns rising any day in the year.
+Lay the thread on the day of the month, and in the line of hours it shows
+the true hour and minute of the Suns rising or setting; for the rising, count
+the morning hours; and for the setting, count the evening hours.
+
+5. To find if any place lie level, or nor.
+Open the rule to his true angle of 60 degrees, then set the moveable leg upon
+the place you would make level, and if the thread play just on 60 degrees, it
+is a true level place, or else not.
+
+6. To try if any thing be upright or not.
+Hang a thread and plummet on the center, then aply the head leg of the rule to
+the wall or post, and if it be upright, the thread will play just on the
+innermost line of the scale of altitudes, or else not.
+
+CHAP. III.
+A further description of the Rule, to make it to show the Suns Azimuth,
+Declination; True place, right Ascension, and the hour of day or night, in
+this, or any other Lattitude.
+1. FIrst in stead of the scale of Altitudes to 62 degrees, there is one put to
+90 degrees in that place, and that of 62 is put by in some other place where it
+may serve as well
+
+2. The line of hours has a double margent, viz, one for hours, and the other
+for Azimuths, and then every 5 th minute is more properly made 4, or else every
+2 minutes, and in a large rule to every quarter of a degree of Azimuth, or to
+every single minute of time.
+
+3. The degrees ought to be reckoned after 3 manner of ways: first as before is
+expressed; secondly from 60 toward the end, with 10, 20, 30, 40, 50, 60, etc. to
+be so accounted in finding the Azimuch for a particular latitude; and and
+thirdly from the head or 90, toward the end, with 10, 20, 30, 40, 50, 60, 70,
+80, etc. for the general finding of Hour and Azimuth in any latitude, and many
+other problems of the Sphere besides; to which may be added, where room will
+allow, a line of hours, beginning at 6 at the head, and 12 at the end, but
+reckoning 15 degrees for an hour, and 4 minutes for every degree, it may do as
+well without it.
+
+4. To the Calendar of months and days, is added a line of the Suns true place
+in the Zodiac, or where room fails, the Characters of the twelve Signs put on
+that day of the month the Sun enters into it, and counting every day for a
+degree, may indifferently serve for the use it is chiefly intended for.
+
+5. Under that is a line of the Suns right Ascension, to hours and quarters at
+least, or rather every fifth minute, numbered thus: 12 and 24 right under and,
+or the tenth of March, and so forward to the tenth of June, or, where stands 6,
+then backwards to 12 where you began, then backwards still to the eleventh of
+December, with 13, 14, 15, 16, 17, 18, to, then from thence forward to 24 where
+you first began: but when you are straightened for room, as on most ordinary
+Rules you will be, then it may very well suffice to have a point or stroke,
+showing when the Sun shall gradually get an hour of right Ascension, and from
+that for every day count four minutes of time, till it has increased to an
+hour more, and this computation will serve very well; and in stead of saying
+13, 14, 15 hours of right Ascension, say 1, 2, 3, etc. which will perform the
+work as well, and reduce the time to more proper terms.
+
+6. There is fitted two lines, one containing 24 hours, and the other 29 days,
+and about 13 hours, and they serve to find the time of the Moons coming to the
+South, before or after the Sun, and by that, the time of high water at
+London Bridge, or any other place, as is ordinary.
+
+CHAP. IV.
+The Uses follow in order.
+1. To find the Suns Declination.
+LAy the Thread on the day of the month, then in the line of degrees you have
+the declination. From March the tenth toward the head is the Declination
+Northward, the other way is Southward, as by the time of the year is discovered.
+
+Example:
+On the tenth of April it is 11d 48' toward the North; but on the tenth of
+October it is 10d 30' toward the South.
+
+2. As the thread is so laid on the day of the month, in the line of the Suns
+place, it shows that; and in the line of the Suns right Ascension, his right
+Ascension also, only you must give it its due order of reckoning, as thus: it
+begins at Aries, and so proceeds to, then back again to at the eleventh of
+December, then forwards again to Aries, where you began.
+
+3. To find the Suns right Ascension in hours and minutes.
+Lay the thread as before, on the day of the month, and in the line of right
+Ascension you have the hour and minute required, computing right according to
+the time of the year, that is, begin at the tenth of March, or Aries, and so
+reckon forwards and backwards as the months go.
+
+Example.
+On the tenth of April the Suns place is 1 degree in Taurus, and the Suns right
+Ascension 1 hour 55 minutes: on the tenth of October 27d 1/4 in Libra, and his
+right Ascension is 13 hours and 42 minutes.
+
+4. To find the Suns Amplitude at rising or setting.
+Take the Suns Declination out of the particular Scale of Altitudes, and lay it
+the same way as the Declination is, from 90 in the Azimuth Scale, and it shall
+show the Amplitude from the east or west, counting from 90. Example: May the
+tenth it is 33. 37.
+
+CHAP. V.
+Having the Suns Declination, or day of the month, to find the Azimuth at any
+Altitude required for that day.
+FIrst find the Suns Declination, by the first Proposition of the fourth
+Chapter, then take that out of the particular Scale of Altitudes, or scale to
+62 degrees; then whatsoever the Altitude shall happen to be, count the same on
+the degrees from 60 toward the end of the Rule, according to the second manner
+of counting, in the third Proposition of the third Chapter, and thereunto lay
+the thread, then the Compasses set to the Declination, carry one point along the
+line of hours on the same side of the thread the Declination is; that is to
+say, if the day of the month, or Declination be on the right side the
+Aequinoctial, then carry the Compasses on the right side; but if the
+Declination be on the South side, that is, toward the end, (counting from the
+tenth of March, or Aries or Libra, then carry the Compasses along the line of
+hours and Azimuths on the left side of the th^ead, as all win^er time it will
+be, and having set the Compasses to the least distance to the thread, it shall
+stay at the Suns true Azimuth from the South required, counting as the figures
+are numbered; or from East or West, counting from 90.
+
+Example 1.
+On the tenth of July I desire to find the Suns Azimuth at any Altitude, first
+on that day I find the Suns Declination to be 20. 45, which number count from
+the beginning of the particular Scale of Altitudes toward 62, and that distance
+take between your Compasses, then are they set for all that day; then supposing
+the Suns height to be ten degrees, lay the thread on 10, counted from 60 toward
+the left end, then carrying the Compasses on the right side of the thread,
+(because it is summer or north declination) on the line of Azimuths, it shall
+show 110. 40, the Azimuth from the south required; but if you count from 90, it
+is but 20. 40. from the east, or west point northward, according to the time of
+the day, either morning or evening.
+
+Example 2.
+Again, on the 14. of November, or the 6. of January, when the Sun has the
+same declination southward, and the same Altitude, to work this you must lay
+the Rule down on something, then lay the thread on the Altitude, counted from
+60 toward the end (as before) and carrying the Compasses on the south side of
+the Aequinoctial, along the Azimuth-line, till the other point do but just
+touch the th^ead, and it shall stay at 36. 45, the Azimuth from south required;
+if it be morning, it wants of coming to south; if it be afternoon, it is past
+the south.
+
+Example 3.
+But if the Sun be in the Aequinoctial, and have no declination, then it is but
+laying the thread to the Altitude, and in the line of Azimuths the thread shall
+show the true Azimuth required. As for instance: at 00 degrees of altitude, the
+Azimuth is 90, at 10 degrees it is 77. 15, at 20 degrees 62. 45, at 30 degrees
+high 43. 15, at 35 degrees high 28. 10, at 38 degrees 28' high, it is just
+south, as by practice may plainly appear. But if the Suns altitude be above 45,
+then the degrees will go beyond the end of the Rule: To supply this defect, do
+thus: Substract 45 out of the number you would have, and double the remainder,
+then lay the Rule down with some piece of the same thickness, in a straight
+line with the moveable leg; then take the distance from the tangent of the
+remainder doubled (counted from 60 to the end of the Rule, in the line next the
+edge) to the Center, lay that distance in the same straight line from the
+tangent doubled, and that shall be the tangent of the Angle above 45, whereunto
+you must lay the thread for the finding the Azimuth, when the Sun is above 45
+degrees high.
+
+CHAP. VI.
+To find the hour of the Night by the Moon.
+FIrst by the help of an Almanac, get the true time of the New Moon, then
+compute her true place at that time, which is always the place of the Sun (very
+nigh) at the hour and minute of conjunction; then compute how many days old the
+Moon is, then by the line of Numbers say: If 29 days 13 hours, (or on the line
+29. 540) require 860 degrees, or 12 signs, what shall any less number of days
+and part of a day require? The answer will be: The Moons true place at that
+age. Having ^ound her true place, then take her al^itude, and lay the thread on
+the Moons place found, and work as you did for the Sun, and note what hour you
+find; then consider if it be New Moon, the hour you find is the^true hour,
+likewise in the Full; but if it be before or after, you must substract by the
+Line of Numbers thus: If 29 days 540 parts require 24 hours, what shall any
+number of days and parts require? The answer is: What you must take away from
+the Moons hour found, to make the true hour of the Night which was required.
+
+But for more plainness sake, I will reduce these Operations to so many
+Propositions, before I come to an Example.
+
+PROP. 1.
+To find the Moons Age.
+First, it is most readily and exactly done by an Ephemerides, such a one as
+you find in Mr. Lilly's Alman^ck, or (as to her Age only) in any book or
+Sheet-Almanack; but you may do it indifferently by the Epact thus, (by the
+Rules of the 152 page in the Appendix to the Carpenters Rule.) Add the Epact,
+the month, and the day of the mone^h together, and the sum, if under 30, is
+the Moons age; but if above, consider if the month have 30 or 31 days, then
+substract 29 or 30 out, and the remainder is the Moons age in days.
+
+Example.
+August 2. 1660. Epact 28. Month 6. day 2. added makes 36. Now August or sixth
+month, has 31 days, therefore 30 being taken away, 6 days remains for the
+moons age required.
+
+PROP. 2.
+To find the Moons place.
+By the Ephemerides aforesaid in Mr. Lilly's Almanac, you have it ser down
+every day in the year; but to find it by the Rule, do thus: Count six days
+back from August 2. viz. to July 27. there lay the thread, and in the line of
+the Suns place, you have the Moons place required, being then near alike; then
+in regard the Moon goes faster than the Sun, that is to say, in 29 days 13
+hours, 12 signs, or 360 degrees; in 3 days 1 sign, 6 degr. 34 min. 20 sec. in
+one day o signs, 12 degr. 11 min. 27 sec. in one hour, 30 min. 29 sec. (or half
+a minute:) add the signs, and degrees, and minutes the Moon has gone in so
+many days and hours, if you know them together, and the Sun shall be the Moons
+true place, being added to what she had on the day of her change; but far more
+readily, and as exactly by the line of Numbers (or Rule of Three) say, if 29.
+540. require 360. what 6 facit 73 1/4, that is, 2 signs, 13 degrees, 15
+minutes, to be added to 14 degrees in, and it makes 27 1/4 in, the Moons place
+for that day. Or thus, multiply the Moons age by 4, divide the product by 10,
+the quotient shows the signs, and the remainder multiplied by 3, shows the
+degrees which you must add to the Suns place on the day required, and it shall
+be the Moons true place required for that day of her Age.
+
+Example.
+July 27. the Sun and Moon is in Leo 14 degr. 0. August 2. being 6 days, add
+the Moons motion 2. 13d 9'. makes being counted, Virgo, Libra. 27 degrees. 9 the
+place required; which on the Rule you may count without all this work or
+trouble: but for plainness sake I am constrained so to do. Or thus.
+
+PROP. 3.
+To find the Moons hour.
+To do this, you must do the work of the second Chapter, and second and third
+Proposition; where note that the Moons place found, is to be used as the day of
+the month, or Suns declination.
+
+Example.
+The Moon being 27 degrees in Libra, and 20 degrees high, I find the our to be
+31' past 9, if on the eastside; or 29' past 2, if on the west side ^f the
+Meridian.
+
+PROP. 4.
+To find the true hour of the Night.
+Having found the Moons hour, as before, consider the Moons age, then say by
+the Line of Numbers, or Rule of Three, if 29. 540 part require 24, what shall 6
+days require facit 4 hours and 52 minutes? which taken from 9. 31. rest ^. 29.
+the true time required.
+
+Example.
+Moons hour -- 9 31
+
+Time to be subst. ^ 52
+
+True time remain 3 39. the time required. This work is done more readily by
+the two lines fitted for that purpose; for look for 6 the Moons age in one, and
+you shall find ^ hours 52 minutes, the time to be subtracted in the other.
+
+CHAP. VII.
+To find the hour of the Night by the fixed Stars.
+FOr the doing of this, I have made choice of twelve principal fixed Stars, all
+within the two Tropicks; many more might be added, but these will very well
+serve the turn: The names of them, and their right Ascension in hours and
+minutes, is set on the Rule, and the star is placed in his true Declination on,
+or among the months; and for to know the stars next to a Tutor, a Celestial
+Globe, or a Nocturnal, of all the chief stars from the Pole to the Equinoctial,
+and to be had at the Sun-Dial in the Mi^nories, is the best; the uses whereof
+do follow.
+
+First know the star you observe, then observe his Altitude, and laying the
+thread on the star by the second Chapter, second and third Proposition, get the
+stars hour, then out of the righ^ Ascension of the star, take the righ^
+Ascension of the Sun, (found by the fifth Proposition of the third Chapter) for
+that day, and note the difference for this difference added to the star hours
+found, shall show the hour o^ the night.
+
+Example.
+On the first of November I observe the Altitude of the Bulls-eye, and find it
+to be 30. then by second and third of the second Chapter, I find the hour to
+be 7. 54 past the Meridian the Suns right Ascension that day find to be 15
+hours 8 minutes, the stars right ascension is 4 hours 16 minutes; which taken,
+the greatest from the least, by adding of 24 hours, re^ 13. 08. then 7. 54. the
+stars hou^ added, makes 21. 02. from which taking 12 hours, rest 9. 02. the
+hour o^ the night required. For more plainness, note the work of two or thre^
+Examples.
+
+Stars right Ascension being set on the Rule -- 4 -- 16 Nov. 1. -- 15 -- 08 --
+
+Again May 15 by Arcturus, at 50 0' high westwards.
+The right Asc. of Arcturus, is 14h^ -- 0' May 15. is -- 4 -- 10 --
+
+Again January 5. by the Great-dog at 15 degrees high east.
+The right Asc. of Great-dog, is 06-29
+
+Substr. made, by adding 24 h. is 10-39 Stars hour at 15 degr. high, is 9 -- 32
+Ante M. or P. Septen. Which added to the difference found, and 12 subtracted,
+remains 8. 11'. for the true Hour of the Night required to be found, and so of
+any other star se^ down in the Rule, as by the trial and pr^ctice, will prove
+easy and ready to the ingenuous practitioner.
+
+But by the line of 24, or twice 12 hours, and the help of a pair of Compasses,
+you may perform it without writing it down, thus: Take the righ^ Ascension of
+the Sun, out of that lin^ of hours between your Compasses (being always counted
+under 12) an^ set the same from the right Ascensio^ of the star, toward a
+lesser number, o^ the beginning of the hours, and the point shall stay at the
+remainder that is to be added to the stars hour found, then open the Compasses
+from thence to the beginning of the hours, and add that to the stars hour
+found, and it shall reach to the hour of the night required.
+
+Example.
+Feb. 6. 1660. by Arcturus 20 degrees high: Take 10 hours 1 minute between your
+Compasses, and set it from 14 hours, or 2 hours beyond 12, and it shall stay at
+3. 59: then take 3. 59, and add it to 6. 24, the stars hour at 20 degrees
+high, and it shall be 10. 23, the hour of the night required.
+
+CHAP. VIII.
+To find the Amplitude or Azimuth of the fixed Stars; also their rising,
+setting, and southing.
+1. FIrst for the Amplitude, take the stars declination from the particular
+Scale of Altitudes, and lay it from 90 in the Azimuth-line, and it shall show
+his amplitude from East or West toward South or North, according to the
+declination, and time of day, morning or evening. The same work is for the sun.
+
+Example.
+The Bulls-eye has 25. 54 degrees of amplitude, so has the Sun at 15 degrees
+48 minutes of declination.
+
+2. To find the Azimuth, work as you did for the Sun at the same declination
+the star has, by Chapter 5. and you shall have your desire.
+
+Example.
+December 24. at 6 degrees high, by the Bulls-eye I find the Azimuth to be
+107. 53. from the south.
+
+3 To find the stars rising and setting, lay the thread on the star among the
+months, and in the line of hours it shows the stars rising and setting, as you
+counted for the Sun; but yet note this is not the time in common hours, but is
+thus found: Add the complement of the Suns Ascension, and the stars right
+Ascension, and the stars hour last found together, and the Sun, if less than
+12; or the remain 12 being subtracted, shall be the time of his rising in
+common hours; but for his setting, add the stars setting last found to the
+other numbers, and the sum or difference shall be the setting.
+
+Example.
+For the Bulls-eye on the 23 of December, it rises at 2 in the afternoon, and
+sets at 4. 46 in the morning.
+
+4. To find the time of the southing of any star on the Rule, or any other
+whose right ascension and declination is known, Substract the Suns right
+ascension from the stars, increased by 24, when you cannot do without, and the
+remainder, if less than 12, is the time required, in the afternoon or night
+before 12; but if there remain more than 12, substract 12, and the residue is
+the time from midnight to midday following.
+
+Example.
+Lyons-heart on the tenth of March, the Suns Ascension is 0 2'.
+
+Lyons-heart whole right asc. is 9 50' Time of southing is 9 48' at night.
+
+5. To find how long any Star will be above the Horizon.
+Lay the thread to the star, and in the hour-line it shows the ascensional
+difference, counting from 90; then note if the star have North declination,
+add that to 6 hours, and the sum is half the time; if south, substract it from
+6, and the residue is half the time; and the complement of each to 24 being
+doubled, is the whole Nocturnal Arch under the Horizon.
+
+Example.
+For the Bulls-eye, his Ascensional difference will be found to be one hour, 23
+minutes, which added to 6 hours and doubled, makes 14. 46, the Diurnal Ark of
+the Star, and the residue from 24 is 9. 14. for the Nocturnal Ark, or the time
+of its being under the Horizon.
+
+CHAP. IX.
+To perform the foregoing work in any latitude, as rising, amplitude,
+ascensional difference, latitude, hour, and azimuth, wherein I shall give only
+the rule, and leave out the examples for brevity sake.
+1. FOr the rising, and setting, and ascensional difference, being all one, do
+thus: Take the Suns declination out of the general Scale of Altitudes, then set
+one foot of the Compasses in the colatitude on the same scale, and with the
+other lay the thread to the nighest distance; then the thread so laid, take the
+nighest distance from the latitude to the thread, with that distance set one
+foot in the Suns declination, counted from 90 toward the center, and the thread
+laid to the nearest distance, shall in the degrees show the ascensional
+difference required, counting from 90 at the head toward the end of the Rule;
+and if you reduce those degrees and minutes to time, you have the rising and
+setting before and after 6, according to the declination and time of the year.
+
+2. To find the Suns amplitude.
+Take the Suns declination, and setting one foot in the colatitude, with the
+other lay the thread to the nearest distance, and on the degrees it shows the
+Suns amplitude at rising or setting, counting as before from 90 to the left end
+of the Rule.
+
+3. Having amplitude and declination, to find the latitude.
+Take the declination from the general scale, and set one foot in the
+amplitude, the thread laid to the nearest distance in the line of degrees, it
+shows the complement of the latitude required, or the converse.
+
+4. Having latitude, Suns declination and altitude, to find the height at 6,
+and then at any other time of the day and year.
+Count the declination in the degrees from 90 toward the end, thereto lay the
+thread, the least distance from which to the latitude in the general Scale,
+shall be the Suns height at 6 in the summer, or his depression in the winter.
+The Compasses standing at this distance, take measure on the general Scale of
+altitudes, from the beginning at the pin toward 90, keeping one point there,
+open the other to the Suns altitude, thus have you subtracted the height at 6,
+out of the Suns altitude; but in winter you must add the depression at 6,
+which is all one at the same declination with his height at 6 in summer, and
+that is done thus: Put one point of the Compasses so set in the general Scale
+to the Suns Altitude, then turn the other outward toward 90, there keep it,
+then open the Compasses to the beginning of the Scale, then have you added it
+to the Suns altitude; having this distance, set one foot in the colatitude on
+the general Scale, lay the thread to the nearest distance; the thread so laid,
+take the nearest distance from 90 to the thread, then set one foot in the
+declination, counted from 90, and on the degrees it shows the hour from 6,
+reckoning from the head, or from 12, counting from the end of the Rule.
+
+I shall make all more plain, by making three Propositions of it, thus:
+
+Prop. 1. To find the hour in the Aequinoctial.
+Take the Altitude from the beginning of the general Scale of altitudes, and
+set one foot in the colatitude, the thread laid to the nearest distance (with
+the other foot) in the degrees, shall show the hour from 6, counting from 90,
+and allowing for every 15d 1 hour, and 4 min: for every degree.
+
+Prop. 2. To find it at just 6.
+Is before expressed by the converse of the first part of the fourth, which I
+shall again repeat.
+
+Prop. 3. To find it at any time do thus.
+Count the Suns declination in the degrees, thereunto lay the thread, the least
+distance, to which from latitude in the general Scale, shall be the Suns
+altitude at 6; which distance in summer you must substract from, but in winter
+you must add to the Suns present altitude; having that distance, set one foot
+in the coaltitude, with the other lay the thread to the nearest distance, take
+again the nearest distance from 90 to the thread, then set one foot in the Suns
+diclination counted from 90, and lay the thread to the nearest distance, and in
+the degrees it shall show the hour required.
+
+Example.
+At 10 declination north, and 30 high, latitude 51. 32, the hour is found to be
+8. 25, counting 90 for 6, and so forward. Again at 20 degrees of declination
+South, and 10 degrees of altitude, I find the hour in the same latitude to be
+17 minutes past 9.
+
+Having latitude, delination, and altitude, to find the Suns Azimuth.
+Take the sine of the declination, put one foot in the latitude, the thread
+laid to the nearest distance: in the degrees, it shows the Suns height at due
+East or West, which you must in summer substract from the Suns altitude, as
+before on the general Scale of Altitudes, with which distance put one foot in
+the colatitude, and lay the thread to the nearest distance, then take the
+nearest distance from the sine of the latitude, fit that again in the
+colatitude, and the thread laid to the heerest distance, in the degrees shall
+show the Suns Azimuth required.
+
+6. But in winter you must do thus:
+By the second Proposition of the ninth Chapter, find the Suns Amplitude for
+that day, then take the altitude from the general Scale of altitudes, and
+putting one point in colatitude, lay the thread to the nearest distance, then
+the nearest distance from the latitude must be added to the Suns Amplitude;
+this distance so added must be set from the coaltitude, and the thread laid to
+the highest distance, and in the line of degrees, it gives the Azimuth from
+south, counting from the end of the rule, or from the East or West, counting
+from the head or 90 degrees.
+
+Example.
+At 15 degrees of declination and 10 altitude, latitude 51. 32. the Azimuth is
+49. 20. from the South, or 40 degrees and 40' from East or West.
+
+CHAP. X.
+To find all the necessary quesita for any erect declining Sun-dial both,
+particularly and general, by the lines on the Dial side, also by numbers,
+sines, and tangents artificial, being Logarithms on a Rule.
+1. First a particular for the Substile.
+COunt the plains declination on ^he Azimuth scale, from 90 toward the end, and
+thereunto lay the thread, in the line of degrees it shows the distance of the
+substile from 12.
+
+Example.
+At 10 degrees declination, I find 7. 51. for the substile.
+
+2. For the height of the style above the substile.
+Take the Plains Declination from 90 in the Azimuth line, but counted from the
+South end, between your compasses: and measure it in the particular scale of
+altitudes, and it shall give the height of the style required.
+
+Example.
+At 30 declination is 32. 35.
+
+3. For the inclination of Meridians:
+Count the substile on the particular scale of Altitudes, and take that
+distance between your compasses, measure this distance on the Azimuth line from
+90 toward the end, and counting that way it shows the inclination of
+Meridians required.
+
+Example.
+At 15 the substile, the inclination of Meridians will be found to be 24. 36.
+
+4. To find the Angle of 6 from 12.
+Take the plains declination from the particular scale of altitudes, and lay
+it from 90 on the Azimuth scale, and to the Compasses point lay the thread:
+then on the line of degrees you have the complement of 6 from 12, counting from
+60 toward the end.
+
+Note this Rule (as this line is drawn) does not give this Angle exactly,
+neither will it be worth the while to delineate another line for this purpose.
+But if it be required it may be done, but I rather prefer this help, the
+greatest error is about the space of 45 minutes of the first degree in the
+particular scale of altitudes; so that if you conceive those 45 minutes to be
+divided as the particular scale of altitudes is, like a natural sine, and if
+your declination be 30, then take half the space of the 45 minutes less, and
+that shall be the true distance to lay on the Azimuth line from 90 whereunto to
+lay the thread.
+
+Example.
+A plain declining 30 degrees, the angle will be found to be 32. 21. whose
+complement 57. 49. is the angle required.
+
+5. To perform the same generally by the general scale of altitudes; and first
+for the style.
+Lay the thread to the complement of the latitude, counted in the degrees from
+the head toward the end, then the nightest distance from the complement of the
+plains declination to the thread, taken and measured on the general scale,
+from the center, shall be the styles height required.
+
+6. To find the inclination of Meridians
+Take the plains declination, from the general scale, and fit it in the
+complement of the styles elevation, and lay the thread to the nearest distance,
+and on the degrees it shows the inclination of Meridians required.
+
+7. For the substile,
+Count in the inclination of Meridians on the degrees from 90, and thereto lay
+the thread, then take the least distance from the latitudes complement to the
+thread, set one foot of that distance in 90, and lay the thread to the nearest
+distance, and in the degrees it shall show the substile from 12 required.
+
+8. For the angle of 6 from 12.
+Take the side of the square, or the measure of the parallel from 12, and fit
+it in the cosine of the latitude, and lay the thread to the nighest distance,
+then take out the nearest distance from the sine of the latitude to the thread,
+then fit that over in the sine of 90, and to the nearest distance lay the
+thread, then take the nearest distance from the sine of the plains declination
+to the thread, and it shall reach on the parallel line, or side of the square,
+from the Horizon to 6 a clock line required.
+
+Four Canons to work the same by the artificial sines and tangents.
+Inclination of Meridians.
+As the Sine of the latitude, To the Tangent of inclination of Meridians.
+
+Styles Elevation.
+As the Sine of 90,
+
+Substile from 12.
+As the Sine of 90,
+
+For 6 and 12.
+As the Co^tangent of the Latitude,
+
+For the hours.
+As the Sine of 90, To the Tangent of the hour from the Substile.
+
+The way to work these Canons on the Sines and Tangents, is generally thus: As
+first, for the inclination of Meridians, set one point in the Sine of the
+latitude, open the other to the Sine of 90, that extent applied the same way,
+from the Tangent of the Plains declination, will reach to the Tangent of the
+inclination of Meridians required.
+
+CHAP. XI.
+To draw a Horizontal Dyal to any latitude.
+FIrst draw a straight line for 12, as the line A B, then make a point in that
+line for a Center, as at C, then through the Center C, raise a perpendicular to
+A B, for the two six a clock hour lines, as the line D E; then draw two occult
+lines parallel to A B, as large as the Plain will give leave, as D E, and E G
+then fit C D in the Sine of the Latitude, in the general Scale, and lay the
+thread to the nighest distance, then take the nearest distance from 90 to the
+thread, and set it from D and E in the two occult lines, to F and G, and draw
+the line F and G parallel to the two sixes, (or make use of the Sines on the
+other side, thus: Fit A D, or C D in the Sine of the latitude, and take out the
+Sine of 90, and lay it as before from D and E,) then fit D F, or E G in the
+Tangent of 45 degrees, on the other side of the Rule, and lay off 15, 30, and
+45, for every whole hour, or every 3 degrees and 45 minutes for every quarter,
+from D and E, toward F and G, for 7, 8 9, and for 3, 4, and 5 a clock hour
+points. Lastly, set C D, or B E in the Tangent of 45, and lay the same points
+of 15, 30, 45, both ways, from B or 12, for 10, 11, and 1, 2, and to all those
+points draw lines for the true hourlines required, for laying down the Styles
+height; if you take the latitudes complement, out of the Tangent-line as the
+Sector stood, to prick the noon hours, and set it on the line D F, or E G, from
+D or E downwards from D to H, it will show you where to draw C H for the Style,
+then to those lines set figures, and plant the Dial Horizontal, and the Style
+perpendicular, and right north and south, and it shall show when the sun
+shines, the true hour of the day. Note well the figure following.
+
+CHAP. XII.
+To draw a Vertical, Direct, South, or North Dyal.
+FIrst draw a perpendicular line for 12 a clock, then in that line at the upper
+end, in the south plain: and at the lower end in a north plain, appoint a place
+for the center, through which point cross it at right angles, A Horizontall
+Dial
+A South Dial
+for 6 and 6, as you did in the Horizontal Plain, as the lines A B, and C D, on
+each side 12 make two parallels, as in the Horizontal, then take A D the
+parallel, and fit it in the sine of the latitudes complement, and take out the
+sine of 90 and 90, and lay it in the parallels from D and C, to E and F, and
+draw the line E F, then make D E, and B E tangents of 45, and lay down the
+hours as you did in the horizontal, and you shall have points whereby to draw
+the hour lines.
+
+For the north you must turn the hours both ways for 4, 5, 8 and 7 in the
+morning and 4, 5, 7 and 8, at night the height of the style must be the tangent
+of the complement of the of the latitude when the sector is set to lay off the
+hours from D, as here it is laid down from C to G, and draw the line A G for
+the style. For illustration sake note the figure.
+
+CHAP. XII.
+To draw an erect East or West Dial.
+FIrst by the fifth Proposition of the second Chapter draw a horizontal line,
+as the line A B at the upper part of the plain. Then at one third part of the
+line A B, from A the right end if it be an East plain, or from B the left end,
+if it be a West Plain, appoint the center C, from which point C draw the
+Semicircle A E D, and fit that radius in the sine of 30 degrees, (which in the
+Chords is 60 degrees) then take out the sine of half the, latitude, and lay it
+from A to E, and draw the line C E for six in the morning on the East, (or the
+contrary way for the West.) Then lay the sine of half the complement of the
+latitude, from D to F, and draw the line C F, for the contingent or equinoctial
+line, to which line you must draw another line parallel, as far An East Dial.
+A West dial.
+assunder as the plain will give leave, then take the nearest distance from A
+to the six a clock line, or more or less as you best fancy, and fit it in the
+tangent of 45 degrees, and prick down all the hours and quarters, on both the
+equinoctial lines, both ways from six, and they shall be points, whereby to
+draw the hoor lines by, but for the two hours of 10 and 11 there is a lesser
+tangent beginning at 45, and proceeding to 75, which use thus: fit the space
+from six to three, in the little tangent of 45, and then and then lay of 60 in
+the little tangents from 6. to 10 and the tangent of 75 from 6 to 11, and the
+respective quarters also if you please, so have you all the hour^s in the East,
+or west Dial, the distance from six to nine or from six to three, in the West,
+is the height of the style, in the East and West Dial, and must stand in the
+six a clock line, and parallel to the plain.
+
+CHAP. XIII.
+To find the declination of any Plain.
+FOr the finding of the declination of a Plain, the most usual and easy way,
+is by a magnetical needle fitted according to Mr. Fails way, in the index of a
+Declinatory; or in a square box with the 90 degrees of a quadrant on the two
+sides, or by a needle fitted on the index of a quadrant, after all which ways,
+you may have them at the Sign of the Sphere and Sun-Dial in the Minories, made
+by John Brown.
+
+But the work may be very readily and exactly performed by the rule, either by
+the Sun or needle in this manner following, of which two ways that by the Sun
+is always the best, and most exact and artificial, and the other not to be used
+(if I may advise) but when the other fails, by the Suns not shining, or as a
+proof or confirmation of the other.
+
+And first by the needle because the easiest.
+For this purpose you must have a needle well touched with the Loadstone of
+about three or four inches long, and fitted into a box somewhat broader then
+one of the legs of the sector, with a lid to open and shut; and on the inside
+of the lid may be drawn a South erect Dial, and a wire to set the lid upright,
+and a thread to be the Gnomon or style to that Dial: it will not be a miss also
+to extend the lines on the Horizontal part for the same thread is a style for
+that also. Also on the bottom let there be a rabbit, or grove, made to fit the
+leg of the rule or sector; so as being pressed into it, it may not fall off
+from the rule, if your hand should shake, or you cease to hold it there. This
+being so fitted, the uses follow in their order.
+
+Put your box and needle on that leg of the rule, that will be most fit for
+your purpose, and also the north end of the needle toward the wall, if it be a
+south wall; and the contrary, if a north, as the playing of the needle will
+direct you, better then the way how in a thousand words, then open or close the
+Rule, till the needle play right over the north and south-line, in the bottom
+of the Box: then the complement of the Angle that the Sector stands at (which
+may always be under 90 degrees) is the declination of the Plain. But if it
+happen to stand at any Angle above 90, then the quantity thereof above 90, is
+the declination of the wall.
+
+To find the quantity of the Angle the Sector stands at may be done two ways:
+first by protraction, by laying down the Rule so set on a board, and draw two
+lines by the legs of the Sector, and find the Angle by a line of Chords.
+Secondly, more speedily and artificially, thus: By the lines of Sines being
+drawn to 2. 4, or 6 degrees asunder. The Sector so set, take the parallel sine
+of 30 and 30, and measure it on the lateral sines from the center, and it shall
+reach to the sine of half the Angle the line of sines stands at, being more by
+2, 4, or 6 degrees then the sector stands at, because it is drawn one, two, or
+three degrees from the inside.
+
+Or else take the latteral sine of 30 from the center, and keeping one foot
+fixed in 30, turn the other till it cross the line of sines on that line next
+the inside, and counting from 90, it shall touch at the Angle the line of sines
+standsat, being two degrees more then the Sector stands at; the lines being
+drawn so, will be (as I conceive) most convenien.
+
+Take an Example.
+I come to a south-east-wall, and putting my box and needle on my Rule, with
+the cross or north-end of the needle toward the wall, and the Rule being
+applied ^lat to the wall, on the edge thereof, on the evenest place thereof,
+and held level, so as the needle may play well with the head of the Rule toward
+your right hand, as you shall find it to be in an east-wall most convenient;
+then I open or close the Rule, till the needle play right over the north and
+south line in the bottom of the box; then having got the Angle, (take off the
+box, or if you put it on the other side that labor may be saved.) I take the
+parallel sine of 30, and measuring it from the center it reaches, suppose to
+the sine of 20, then is the line of sines at an Angle of 40 degrees, but the
+Sector at two degrees less, viz. 38 degrees, whose complement 52 is the
+declination; then to consider which way, mind thus: First it is south, because
+the sun being in the south, shines on the wall. Secondly consider, the sun
+being in the east, it shines also on the wall, therefore it is east plain: thus
+have you got the denomination which way, and also the quantity how much that
+ways.
+
+Or if you take the latteral sine of 30 from the center, and turn the point of
+the Compasses from 30 toward 90, on the other leg you shall find it to reach
+to the sine of 50 degrees, whose complement, counting from 90, is 40, or rather
+38, for the reason before-said, or else add 2 to 50, and you have the angle
+required, without complementing of it, being the true declination sought for.
+Thus by the needle you may get the declination of any wall, which in cloudy
+weather may stand you in good stead, or to examine an observation by the Sun,
+as to the mis-counting or mistaking therein; but for exactness the Sun is
+always the best, because the needle, though never so good* may be drawn aside
+by iron in the wall, and also by some kind of bricks, therefore not to be too
+much trusted unto.
+
+To find a Declination by the Sun.
+First open the Rule to an Angle of 60 degrees, as you do to find the hour of
+the day, and put a pin in the hole, and hang the thread and plummet on the pin;
+also you must have another thread somewhat longer and grosser then that for the
+hour in a readiness for your use.
+
+Then apply the head leg to the wall, if the sun be coming on the Plain, and
+hold the Rule horizontal or level, then hold up the long thread till the shadow
+falls right over the pin, or the center hole, at the same instant the shadow
+shall show on the degrees, how much the sun wants of coming to be just against
+the Plain, which I call the Meridian or Pole of the Plain, which number you
+must write down thus, as suppose it fell on 40, write down 40-00 want: then as
+soon as may be take the Suns true altitude, and write that down also, with
+which you must find the Suns Azimuth* then substract the greater out of the
+less, and the remainder is the declination required. But for a general rule,
+take this: if the Sun do want of coming to the Meridian of the place, and also
+want of coming to the Meridian of the Plain, then you must always substract the
+greater number out of the less* whether it be forenoon or afternoon, so
+likewise when the Sun is past the Meridian, and past the Plain also. But if the
+signs be unlike, that is to say, one past the Plain, or Meridian, and the
+other want either of the Plain, or Meridian, then you must add them together,
+and the sum is the declination from the South. Which rule for better
+tenaciousness sake take in this homely rhyme.
+
+Signs both alike substraction does require,
+But unlike signs addition does desire.
+The further illustration by two or three Examples.
+
+Suppose on the first of May, in the forenoon, I come and apply the Rule, being
+opened to his Angle of 60 degrees to the wall, ( viz. the head leg, or the leg
+where the center is) and holding up my thickest thread and plummet, so as the
+shadow of it crosses the center, and at the same instant also on 60 degrees,
+then I say the sun wants 60 degrees. of coming to the Meridian of the Plain; at the
+same instant, or as soon as possible I can, I take the suns altitude, as before
+is showed, and set that down, which suppose it to be 20 degrees, then by the
+rules before, get the Suns azimuth for that day, and altitude; which in our
+example will be found to be 94 degrees from the (south or) Meridian, then in
+regard the signs are both alike, i. e. want, if you substract one out of the
+other, there remains 34 the declination required; but for the right
+denomination which way, either north or south, toward either east or west,
+observe this plain rule: First, if the Sun come to the Meridian or Pole of the
+Plain, before it come to the Meridian or Pole of the place, then it is always
+an East-plain; but if the contrary, it is a West-plain, that is to say, if the
+Sun come to the Meridian or Pole of the place, before it comes to the Meridian
+or Pole of the Plain, then it is a West-plain. Also if the sum or remainder,
+after addition or substraction, be under 90, it is a South-plain; but if it be
+above 90, it is a North-plain. Also note, that when the sum or remainder is
+above 90, then the complement to 180, is always the declination from the north
+toward either east or west; So that according to these rules in our example it
+is 34 degrees South-east.
+
+Again in the morning, June 13. I apply my rule to the wall, and I find the
+Sun is past the Pole or Meridian of the Plain 10 degrees, and the altitude at
+the same time 15 degrees, the Azimuth at that altitude, and day in this
+latitude, will be found to be 109 degrees want of south or pole of the place;
+therefore unlike signs, and to be added, and they make up 119 degrees, whose
+complement to 180 is 61; for 61 and 119 added, make up 180, therefore this
+Plain declineth 61 degrees from the north toward the east.
+
+Again the same day in the afternoon, I find the Azimuth past the south or
+meridian of the place 30 degrees, and at the same time the Sun wants in coming
+to the meridian or pole of the Plain 10 degrees, here by addition I find the
+declination to be 40 degrees south-west.
+
+Note what I have said in these three examples, is general at all times; but if
+it be a fair day, and time and opportunity serve, to come either just at 12 a
+clock, when the Sun is the meridian or pole of the place; or just when the Sun
+is in the meridian or pole of the Plain, then your work is only thus:
+
+First if you come to observe at 12, then applying your rule to the wall, and
+holding up the thread and plummet, how much so ever the Sun wants or is past
+the pole of the Plain, that is the declination, if it be past it is east-wards;
+if it wants, it is south-west-wards; if neither, a just South Plain, and then
+the poles, or Meridians of place and Plain, are the same.
+
+But secondly, if you come when the Sun is just in the pole of the Plain, then
+whatsoever you find the Suns Azimuth to be, that is the declination; if it
+wants of south, it declineth East-wards; if it be past, it declineth West-wards.
+
+Thus I have copiously, (and yet very briefly) showed you the most artificial
+way of getting the declination of any wall, howsoever situated.
+
+Note if the Sun be above 15 degrees wanting of the Meridian of the Plain, your
+rule will prove defective in taking the Plains Meridian when the center leg is
+next the wall, then you must turn the other leg to the wall, and then you find
+a supply for all angles to 45 degrees past the Plain. But for the supply of the
+rest which is 45 degrees, do thus: open the rule till the great line of
+tangents and the outside of the leg make a right angle, for which on the head
+you may make a mark for the ready setting, then making the inside of the leg at
+the end of 45, as a center, the tangents on the other leg supply very largely
+the defect of the othersides. Or if you set on the box and needle on the rule,
+and open or shut the rule till the shadow of the thread show just 12, then the
+Angle the Sector stands at, is the complement of what the sum wants, or is past
+the meridian or pole of the Plain.
+
+CHAP. XIV.
+To draw a vertical declining Plain to any declination.
+FIrst draw a perpendicular-line for 12, as A B then design a point in that
+line for the center, as C, at the upper end, if it be a South Plain; or
+contrary, if it be a North Plain, then on that center describe an Arch of a
+Circle on that side of 12, which is contrary to the Plains declination, as D E,
+and in that Arch lay off from 12 the substile, and on that the styles height,
+and the hour of 6, being found by the tenth chapter, and draw those lines from
+C the center, then draw two parallels to 12, as in the direct south: then fit
+the distance of the parallels in the secant of the declination, and take the
+secant of the latitude, and set it from the center C on the line of 12, to F,
+and on the parallel from 6 to G, and draw a line by those two points F and G,
+to cut the other parallel in H: then have you found 6, 3, and 9, then fit 6 G
+in the tangent of 45, and prick off 15, 30, and the respective quarters both
+ways from 6, for the morning, and afternoon hours, then fit F G in 45, and lay
+off the same points from F both ways for 10, 11, 1, and 2, and the quarters
+also, if you please, and those shall be points to draw the hour lines by. The
+style must be set perpendicular over the substile, to the Angle found by the
+rules in the tenth chapter, and then the Dial shall show the true hour of the
+day, being drawn fit to his proper declination.
+
+Another way to perform this Geometrically for all erect Dyals with centers.
+When you have drawn a line of 12, and appointed a center, make a Geometrical
+square on that side 12, as the style must stand on, as A B C D, the
+perpendicular side of which square may also be the parallel as before.
+
+Then first, fit the side of the square in the sine of the latitude, and take
+out the cosine of the latitude, and fit that in the sine of 90; the Sector so
+standing, take out the sine of the declination, and lay it from B toward C,
+unto ^, and draw A E for the substile, then upon the point E in the substile,
+raise a perpendicular, and take out the sine complement of the Plains
+declination, and set it on that perpendicular from E to F, for the height of
+the style above the Plain.
+
+Again, fit the side of the square in the cosine of the latitude, and take out
+the sine of the latitude, and fit that over in the sine of 90, then take out
+the (...) sine of the declination, and lay it from D to G for the hour of 6,
+and draw the line A G for the 6 a clock hour line.
+
+Then again, fit the side of the square (or the distance of the parallel in the
+other way, when you want a secant, or your secant too little) in the sine of
+90, and take out the cosine of the declination, fit that in the cosine of the
+latitude, then take out the sine of 90, and lay it from the center on the line
+of 12, and (...) 6 in the side of the square, and by those two points draw the
+contingent line* and then fit those points or distances in the tangent of 45,
+and lay down the hours as in the former part of this chapter; but if you want
+the hours before 9 in west-decliners, or the hours after 3 in east-decliners,
+and the 6 fall too high above the horizontal line on that side, you may supply
+this defect thus:
+
+Take the measure with your Compasses from 3 to 4 and 5, upwards in the
+west-decliners, or from 9 to 7 and 8 in east-decliners, and lay it upwards from
+9 or 3 on the deficient side, in the parallel as it should have been from 6
+downward in south or upward in north Plains, and you shall see all your
+defective points to be completely supplied, whereunto draw the hourlines
+accordingly.
+
+CHAP. XV
+To draw the Hour Lines on an upright declining Dial, declining above 60
+degrees*
+IN all erect Decliners, the way of finding the style, substile 6 and 12, and
+inclination of Meridians, is the same; but when you come to protract, or lay
+down the hour lines, you shall find them come so close together, as they will
+be useless, unless the style be augmented.
+
+The usual way for doing of which, is to draw the Dial on a large floor, and
+then cut off so much and at such a distance, as best serves your turn, but
+this being not always to be affected, for want of convenience, and large
+instruments, it may very artificially be done by a natural tangent of 75 or 80
+degrees, fitted on the legs of a sector in this manner.
+
+The example I shall make use of, let be a Plain declination 75 degrees, South,
+West.
+
+First on the north edge of the Plain draw a perpendicular-line A B,
+representing 12 a clock line; then on the center draw an occult Arch of a
+circle as large as you can, as B D, therein lay off an angle of 37. 30 for the
+substile, (though indeed this line will not prove the very substile, yet it is
+a parallel to it:) then cross it with two perpendiculers for the two contingent
+lines, at the most convenient places, one in the upper part, and the other in
+the lower part of the Plain, as the two lines C E, and F G do show, then by
+help of the inclination of Meridians, make the table for the hours in this
+manner; for this declination, it is 78:09, Now every hour containing 15
+degrees, and every quarter three degrees 45' I find that the substile will fall
+on near a quarter of an hour past five at night, therefore if you take 75, the
+measure of five hours out of 78. 9, there remains 03. 09. for the first
+quarter from the substile next 12. Again, if you take 78. 09, the inclination
+of Meridians out of 78. 45, the measure of 5 hours one quarter, and there
+remains 00. 36. for the first quarter on the other side of the substile, then
+by continual adding of 03. 45, to 03. 09, and to 00. 36, I make up the table as
+here you see or else you may against 12, set down 78. 09, and then take out 3.
+45, as often as you can, till you come to the substile, and then what the
+remainder wants of. 3. 45, must be set on the other side of the substile, and
+3. 45 added to that, till you come to as late as the sun will show on the
+Plain, as here you see to 1/4 past 8. 45 36. sub. 48 09 2 41 51 8 03 095 51 54.
+38 06. 06 54. 55 39. 34 21. 10 39. 59 24. 30 36. 14 24. 63 09 1 26 51 7 18 094
+66 54. 23 06. 21 54. 70 39. 19 21. 25 39. 74 24. 15 36. 29 24. 78 09 12 11 51 6
+33 093 08 06. 36 54. 04 21. 40 39. 00 36. 44 24.
+
+Then consider what hours will be convenient to put on, also the two places
+most convenient for them two extreme hours: as for this Plain 8 at night, and ^
+afternoon, will fit best; and the two places I appoint for them shall be at E,
+and C, in the upper contingent line. Then look in the table for the numbers of
+8, and I find it to be 41, 51, which sought in a table of natural tangents
+will be found to be 0 8 9 5 6 7. And the number in the table for 1 is 63. 09,
+whose natural number is found to be 1 9 7 5 3 7. Or if you want those tables,
+the line of Lines and Tangents, or a Scale made equal to the Radius of the
+tangents, will supply the same though you cannot see so many figures, yet to
+four figures will serve our turn very well, or else the artificial tangent on
+the edge shall show the natural number in the line of numbers, reading it as a
+Scale of equal parts, and having due respect to the increase of the Radius; for
+if it be under 45, the number right against it, is the natural tangent; if
+above 45 measure from 45 to it, that extent aplyed from 1 in the numbers,
+gives the natural number required. Add these two numbers 0 8 9 6 and 19, 75,
+and they make 2 8 7 1: which sought in the tables will be found to be the
+Logarithm of the natural tangent of 70. 48. or if you take it off from your
+Scale, and measure it on the line of tangents you shall find it reach to 70.
+48, as before, then take the whole space of your upper contingent from E to C,
+the two points for 8 and 1, and fit it in the parallel tangent of 70. 48 and
+then the tangent of 45 shall be Radius, and the ^ecant of the styles height to
+the same Radius, shall be the styles height on ^he contingent. (or the Radius
+before, laid at the nighest distance from H to (...) then the sector so set,
+take ^ut the number for 1, out of the line of tangents, and lay it from C to H,
+and the number for 8, and lay it from E to H, and if your work be true they
+will meet, and that point H, is the ^ue place of the substile: then draw (...)
+I parallel to A D, for the true ^^bstile, and the sector so standing lay ^ff
+all the numbers in the table, taken out of the tangents from H toward E, and C
+as the numbers direct, and note them points with 1, 2, 3, 4, 5, 6, 7, 8. Then
+lay the Radius H K, from I to L, on the other contingent line, and making H I
+Radius, or the tangent of 45, lay off the tangent of the styles height, from L
+to M 9. 16 then shall I M, be the other Radius, on the other contingent line,
+and I N the secant of 9. 16, at the Radius of I M, the place of the styles
+height on this contingent line, being found more readily, by taking the Radius
+I M, at the nighest distance being about I ^, and H ^, then draw ^ ^ for the
+true height of the style, being augmented to sit those hours 8 and 1, and to
+fill the Plain so, that no room be lost, the^ having drawn the style, and set
+the sector to the Radius, lay down al^ the numbers in the table, on this
+contingent line out of the line of tangents, from I both ways: as the numbers
+direct, and mark ever^ whole hour, with 1, ^, 3, 4, 5, 6, 7, 8 as before.
+Lastly, lines drawn by these marks in the two contingent lines, shall be the
+hours and quarters required.
+
+The style or gnomon is to be erected right over the substile, to the angle of
+9. 16, and augmented as much as from H to ^, and from I to ^, at the nighest
+distance from the point H and I, drawnin the substile line on the Plain, this
+way is as easy, speedy, artificial and true, as any extant, (if your scales be
+true,) and improveth the Plain at the first, to the most possible best
+advantage that can be.
+
+Note also, if in striving to put as many hours as you can on the Plain, the
+sum of the two natural numbers added together, comes to above 40000: then you
+must reject something of one of them, for they will not be comely nor
+convenient, nor far enough asunder. I might have enlarged to declining,
+reclining plains, out my intention is not to make a business of it, but only
+to give a taste of the usefulness, and convenience of a Joynt-rule, as now it
+is improved.
+
+An Advertisement relating to Dialling.
+These directions are sufficient for any Horizontal, direct, and declining
+vertical Dials, but for all other, as East or West inclining and reclining,
+direct, or reclining and inclining, and declining polars; and all declining and
+inclining: and reclinimg Plains, the perfect knowledge of their affections and
+scituations is very hard to conceive, but much more hard to remember by roat,
+or knowingly.
+
+Therefore for the better help of the imagination to conceive aright of their
+affections, and setuations you may be furnished with an Instrument in brass, at
+the house of Mr. Walter Hayes, near the Pope's Head Tavern in Morefields, at the
+Sign of the Cross-daggers, or at the house of John Brown, at the Sign of the
+Sun-Dial in the Minories, or at Mr. Henry Suttons in Thredneedle-street behind
+the Exchange. Which Instrument being righ^ly made, you may rectify to any
+latitude, and to any declination or reclination, and being so set, it will give
+the substile, style, inclination of Meridians, and every hours Ark on the Plain
+by occular inspection to half a degree, and show you all the affections
+straightway: howsoever situated, as which Pole is elevated, and which way
+applied, and what hours will be useful, etc.
+
+A representation of which instrument take in this place, let the circle E S W
+N, represent the Horizon S AE P N the Meridian, AE W AE E the Equinoctial, P C
+P the Pole, being the points of an Axes made of th^ead, and passing through the
+center C W C E being shaddowed, represents the Plain, set to a declination, and
+to a reclination 45 degrees, F the foot that does support it; moreover the
+Plain hat^ an Arch fitted to it, to get the styles height, and to set it to any
+angle; also the Horizon and Plain is made to turn round, which could not well
+be expressed in this figure, or representation of the instrument: a more
+liveley and easy help cannot likely be invented, and for cheapness the like
+may be in a half circle, or made of Past-board.
+
+The use and application of which figure, I shall not now speak of, partly
+because of the facillity in the using thereof, and partly because of the
+difficulty in description thereof; and lastly, wheresoever you shall buy the
+same, at either of the three places, the use will be taught you gratis.
+
+Also note, that half of the Instrument may be made either in b^ass, or
+pastboard, and be made to fold down in a book, and perform the uses thereof
+indifferently well, for many purposes, as to the Affections of Dials.
+
+Then having discovered the affections, you may by the Canno^s in the seventh
+Chapter of Mr. Windgates R^le of proportion, find all the requisites, and then
+to speed the laying down the hours, you may do it by help of the tangent of 45,
+as you did in erect decliners; for after you have drawn the hours of 6, and
+three, or nine, and made a parallelogram by two lines parallel to 12, and one
+parallel to six, then making the distance from six to nine, or three in the
+line parallel to 12, a tangent of 45, and the distance from 12 to 9, or 3 in
+the parallel to 6, likewise a tangent of 45, in the sector, and laying off 15,
+30. 45, or the respective quarters from 6, and 12, in those two lines, and they
+shall be the true points to draw the hour lines, by laying a ruler to them, and
+the center of the Dial; but for those that have no centers, the rule of
+augmenting the style in far decliners, serves for these also.
+
+CHAP. XVI
+To find a perpendicular altitude at one or two stations, and observations by
+by the degrees on the rule.
+OPen the rule to his Angle of 60 degrees, then looking up to the top or point
+of altitude you would observe the height of, as you do when you take the Suns
+altitude, and note the degrees and parts the thread cuts, and write it down in
+chaulk or ink, that you forget it not.
+
+Then measure from the place you stand to the foot or base of the object,
+(being right under the top of the object, whose height you would measure) in
+feet, yards, or any other parts.
+
+Thirdly, consider this being a right angled Plain triangle, if you have the
+angle at the top, the angle at the base is always the complement thereof.
+
+These things being premised, the proportion holds, as the fine of the angle
+opposite to the measured side, (or base) being the complement of the angle
+found, is to the base or measured side: so is the angle found, to the height
+required.
+
+Always remember to add the height of your eye from the ground, (at the time
+of taking the angle) to the altitude found.
+
+For the operation of this, extend the compasses from the sine of the
+complement of the Angle found to the number of the measured side, on the line
+of numbers that distance applied the same way, from the sine of the Angle
+found, shall reach on the line of numbers to altitude required.
+
+Example at one station.
+I open my rule, and hang on the thread and plummet on the center, and
+observing the Angle at C, I find it to be 41. 45, and the Angle at B the
+complement of it 48. 15, and the measure from C to A 271 feet: then the work
+being so prepared, is thus:
+
+As the Sine of 48. 15,
+
+Again, at the station D, 160 foot from A, I observe and find the Angle D to
+be 56. 30, the Angle at A is the complement thereof, viz. 33. 30. This being
+prepared, I extend my Compasses from the sine of 33. 30 to 160, on the line of
+numbers the same extent will reach from the sine of 56. 30, to 242 on the line
+of numbers, lacking a small fraction, with which I shall not trouble you.
+
+An example at two stations.
+But if you cannot come to measure to the foot of the object, then you must
+observe at two places: As suppose first at D, where as before the Angle is
+found 56. 30, whose complement is 33. 30, counting from the head of the Ru^e:
+Then I remove right backward to C, 111 feet, and observe the Angle counted from
+the head to be 48. 15, which is the angle at B, but the angle at C is 41. 45.
+Then the work is thus: first, you must take the angle at B at the first
+station, out of the angle at B, at the second station, and note the difference,
+then the rule runs thus:
+
+As the Sine of the difference, which is the Angle C B D 14. 45, viz. D C 111
+feet on the numbers: C 41. 45, To the measure of the side B C, the hypothenusa,
+or measure from your eye to the top of the object, viz. 290 feet.
+
+Again for the second Operation.
+
+As the sine of 90 the right angle at A, B D: So is the sine of 56. 30, the
+Angle at the first station D, B A, the thing required:: B 33. 70, the
+complement of 56, 30. D to A.
+
+To perform the same by the line of sines, drawn from the center on the
+flat-side, and the line of lines, or equal parts or inches in ten parts.
+To work these or any other questions by the line of natural Sines and
+Tangents, on the flat-side, drawn from the center, it is but changing the
+terms, thus: As the measured distance taken out of the line of lines, or any
+scale of equal parts, is to the sine of the angle, opposite to that measured
+side, fitted across from one leg to the other, the Sector so standing, take out
+the parallel sine of the angle opposite to the enquired side, and that measure
+shall reach on the line of equal parts, to the measure of the Altitude requi^^^*
+
+Example as before.
+Take out of the lines or inches 2. 71, and fit it in the sine of 48. 15,
+across from one leg to the other, which I call A parral sine, (but when you
+measure from the center onwards the end, I call it A latteral sine,) then take
+out the parallel sine of 41. 45, and measure it on the line of inches, or equal
+parts, and it shall reach to 2 inches 42 parts, or 242, the Altitude required.
+
+After the same manner may questions be wrought on the line of lines, sines, or
+tangents alone, or any one with the other, by changing the Logarithmetical
+Canon from the first to the second, or third, and the second or third to the
+first to second; as the case shall require, from a greater to a less, and the
+contrary; for the fourth is always the same; of which in the use of the Sector,
+by Edmund Gunter, you may find many examples, to which I refer you.
+
+Also without the lines of sines either natural or artificial, you may find
+altitudes, by putting the line of quadrat, or shadows, on the Rule as in a
+quadrant, then the directions in the use of the quadrat, page* 146 of the
+Carpenters Rule, will serve your turn, which runs thus:
+
+As 100 (or 50 according as it is divided) to the parts cut by the thread, so
+is the distance measured, to the height required; which work is performed by
+the line of numbers only. Or again, As the parts cut, to 100 or 50: so is the
+height to the distance required. But when the thread falls on the contrary
+shadow, that is, makes an Angle above 45, then the work is just the contrary
+to the former.
+
+What is spoken here of taking of Altitudes, may be applied to the taking of
+distances; for if the Sector be fitted with a staff, and a ball-socket, you may
+turn it either horizontal, or perpendicular, and so take any Angle with it,
+very conveniently and readily by the same rules and directions as were given
+for the finding of Altitudes.
+
+CHAP. XVII.
+The use of certain lines for the mensuration of superficial and solid bodies,
+usually inserted on Ioynt-Rules for the use of Workmen, of several sorts and
+kinds.
+FIrst the most general and received line for mensuration of Magnitudes, is a
+foot divided into 12 inches, and those inches into 8, 10, 12, or more parts;
+but this being not so apt for application to the numbers, I shall not insist of
+it here, but rather refer you to the Carpenters Rule; yet nevertheless those
+inches, laid by a line of foot measure, does by occular inspection only, serve
+to reduce foot measure to inches, and inches likewise to foot measure, and some
+other conclusions also.
+
+1. As first, The price of any commodity at five score to the hundred, either
+tale or weight, being given, to find the price of one in number, or one pound
+in weight.
+
+As suppose at two pence halfpenny a pound, (or one) I demand to what comes
+the hundred weight, (or five-score,) counting so many pound to the hundred
+weight?
+
+If you look for two inches and a half, representing two pence two farthings,
+right against it on the foot measure, you have 21 very near; for if you
+conceive the space between 20 and 21, to be parted into 12 parts, this will be
+found to contain ten of them, for the odd ten pence. But for the more certain
+computation of the odd pence, look how many farthings there is in the price of
+one pound, twice so many shillings, and once so many pence is the remainder,
+which if it be above 12, the 12 or 12s, being subtracted, the remainder is the
+precise number of pence, above the shillings there expressed; and on the
+contrary, at any price the C hundred, or 5 score, to find the price of one, or
+1l. As suppose at 40s. the C. or 5 score, look for 40 in the foot measure, and
+right against it in the inches, you have 4 inches, 3 quarters, and 1/4 of a
+quarter, which in this way of account is 4 pence 3 farthings, and about a
+quarter of one farthing. Thus by the lines, as they are divided, it proceeds to
+12 pence a pound; but if you conceive the inches to be doubled, and the foot
+measure also, you shall have it to 24 d. or 48 d. the pound, or one in tale, of
+any commodity. As at 18 d. a piece, or pound, the price comes to 7l. 10s. the
+C. for then every ten strokes is 20s in the foot measure, and every inch is 2
+pence, and every eighth one farthing.
+
+2. Secondly, for the buying of Timber at 50 foot to a Load, at any price the
+load, how much a foot.
+
+Here in resolving this, the inches are to be doubled, and the foot measure
+taken as it is: As at 40 shillings the Load, 40 in the foot measure stands
+right against 4 inches 3 quarters and better, which being doubled, is 9d. 2
+far. 1/2 far. near, for the price of one foot; and on the contrary, at 5d. a
+foot, is 41s. 8 d. a load, etc.
+
+3. For the great Hundred of 112l. to the Hundred, let the space of 12 inches
+be divided into 112 parts, then the like rule holds for that also.
+
+For the inches being divided into quarters, every quarter is a farthing, and
+every eighth half a farthing, and every division of the 112 is a shilling, and
+every alteration of a farthing in the price of a pound, makes a groat in the
+Hundred, as thus: At 3 pence a pound is 28s. the C. At 3d. 1 q. a pound, 30s.
+and 4d. the C. At 3d. 1/2 the pound, 32s. 8 d. the C. At 3 d. 3 farthings, 35s.
+the C. Thus you see that every fraction at a farthing advance, is 4 pence in
+the Hundred; but for any other account, as 3 pence farthing half farthing, then
+count the fraction, as 1, 12th part of a shilling, and nearer you cannot come
+by a bare occular inspection; but the price of the Hundred being given, the
+price of the pound you have as near by this occular inspection, as any usual
+Coin is reducable, viz. to the 32 part of a penny, or nigher if you please.
+
+Again note here also, you may double, or quadruple the price: as to 24d. or
+48d. the pound, or any price between. As for example: At 13d. a pound, is 6l.
+1s. 4d. the C. At 32d. or 2s. 8d. the pound, is 14l. 19s. the C. and the like
+by dupling and quadrupling the inches, and the 112 parts, that lays by it.
+
+4. These lines of equal parts serve as Scales, for the protracting of any
+Draught of house or field, or the like; also for addition or substraction of
+any small number.
+
+5. Note that the line of foot measure, may be applied for the reducing of any
+odd fraction to a decimal fraction, as you may fee it in page 64. of Mr.
+Windgats Arithmetic made easy.
+
+2. The use of the lines of decimal Timber and Board measure.
+The lines of decimal Timber and Board measure, are fitted to agree with the
+tenths, or foot measure, as those lines in the first chapter of the Carpenters
+Rule, are fitted to the inches, and the use of them is thus: And first for the
+decimal Board measure. Suppose a Board is 1 foot 50 broad, I look for 150 on
+that line, and from that place to the end of the Rule forwards, toward 100, so
+much in length must you have to make a foot of superficial or board measure.
+
+2. Or else thus: If you apply the end of the Rule next 100, to one edge of the
+breadth of a board, or glass, then right against the other edge of the board,
+on that line of decimal board measure, you shall find the 10ths and 100s, (or
+feet 10ths and 100) parts of a foot, that you must have in length to make a
+foot superficial at that breadth.
+
+Example.
+I come to a board and applying the upper end next 100, even to one edge of the
+board, the other reaches to 0. 8 tenths, then I say that 8 tenths of a foot
+length at that breadth, makes a foot.
+
+3. The use of decimal Timber measure.
+The use of this is much like the Board measure, only here you must have a
+respect to the squareness of the piece, and not to the breadth only; for after
+you know how much the piece of timber or stone is square, in feet and 100
+parts, then look that number on the line of decimal Timber measure, and from
+thence to the end of the Rule, is the length that goes to make a foot of timber.
+
+Example.
+At 14, or 1. 40. parts of a foot square, look the same on the rule, and from
+thence to the end where 40 is, is the length of a foot of Timber, at that
+squareness, being about 51 parts of a foot divided into a 100 parts.
+
+5. The use of the line of decimal yard measure, also running yard measure,
+according to the inches or decimal parts of a foot.
+The decimal yard measure, is nothing else but a yard or 3 foot divided into a
+100 parts, and used in the same manner as the foot measure is, for if you take
+the length, and the breadth in that measure, and multiply it together, you
+shall have the content, in yards and 100 parts of a yard.
+
+Example.
+Suppose a piece of plastering is 4 yards 78 parts one way; and 7. 35 parts
+another way: being multiplied together makes 35 yards, and 9954. of 10000,
+which is very near 36 yards.
+
+5. But the decimal running yard measure is fitted to the foot measure, and the
+use is thus: Suppose a room is to be measured that is 7 foot 8 tenths high, and
+I would know how much makes a yard, at that breadth or height; look foor 7f. 8
+10ths on the line of decimal running yard measure, and the space on the rule,
+from thence to the end next 100 is the true length, that goes to make up a
+yard of superficial measure, at that breadth or height.
+
+But if the piece be between 4 foot 510 broad, and 2 foot, then the table at
+the end of the line, will supply the defect: or you may change the terms, and
+call the length the breadth, and the contrary. But if it be under 2 foot broad,
+then if you do as you did with the board measure, you shall have your desire.
+
+Example.
+At 1 foot 3 10th broad, 6 foot 9 10ths make a yard.
+
+6. But if the running yard measure be made to agree with the inches, then
+measure the height of the room in feet and inches, and if you take a pair of
+compasses, and measure from that place, to the end of the rule, then turn the
+compasses set at that distance as many times as you can about the room, so many
+yards is there in the room.
+
+7. The use of the line of decimal round measure, commonly called Girt-measure,
+which is when the circumference of a round Cillender, or pillar given in inches
+or ten parts of a foot.
+First (for Girt-measure according to inches, being the most usual measure) now
+much the pillar is about, then look for the same number on the line of
+Girt-measure, and from thence to the end of the rule, is the length that goes
+to make a foot of Timber.
+
+But if it be under 30 inches about, then you must have above two foot in
+length, and then a table at the end of the line, or a repetition in another
+line, will supply the defect. But if the line of Girt-measure be divided
+according to foot measure, then use it as before, seeking the decimal part on
+the line, and from thence to the end is a foot.
+
+8. The use of a line of solid measure, by having the Diameter of a round piece
+given in inches, or foot measure.
+Take the diameter with a rule, or a pair of Callipers, and learn the measure
+either in inches, or foot measure according as your line of Diameter is
+divided. Then look for the same number on the line of Diameter, and from thence
+to the end of the rule forward, is the length that makes a foot of timber at
+that diameter (or measure cross the end of the round piece of Timber or stone.)
+
+The Tables of all the under measure for all these lines follow.
+
+Decimal Superficial under M.
+10th. F. 1000 10 F. 1000 p. 1 100. 00 3. 848 2 50. 000 3. 706 3 33. 300 3. 570
+4 25. 000 3. 450 5 20. 000 3 3 3. 332 6 16. 600 3. 217 7 14. 300 3. 115 8 12.
+500 3. 025 9 11. 120 2. 940 1 1 10. 000 5 2. 850 1 9. 100 6 2. 780 2 8. 340 7
+2. 700 3 7. 720 8 2. 628 4 7. 150 9 2. 560 5 6. 670 4 2. 500 6 6. ^60 ^. 440 7
+5. 888 2. 382 8 5. 5^5 2. 336 9 5. 260 2. 273 2 2 5. 000 2. 213 4. 760 2. 173
+4. 5^6 2. 127 4. 350 ^. 083 4. 170 2. 042 5 4* 000 5 2. 000 Decimall
+Superficial. M.
+F. 1000. p. 01 F. 1000. p. 1. 962 1. 320 1. 923 1. 304 1. 816 1. 286 1. 850 1.
+268 1. 820 8 1. 250 1. 785 1. 237 1. 756 1. 220 1. 726 1. 207 1. 697 1. 192 6
+1. 669 1. 178 1. 640 1. 164 1. 615 1. 151 1. 589 1. 138 1. 563 1. 125 1. 538 9
+1. 112 1. 516 1. 100 1. 493 1. 087 1. 472 1. 076 1. 450 1. 063 7 1. 430 1. 052
+1. 409 1. 041 1. 391 1. 030 1. 373 1. 020 1. 353 1. 011 1. 337 10 1. 000
+Decimal Solid under Measure.
+F. 1000. p. 10 F. 1000. p. 1 10000. 000 14. 805 2 2500. 000 13. 735 3 1100.
+000 12. 780 4 630. 000 11. 916 5 400. 000 3 11. 125 6 277. 900 10. 415 7 200.
+430 9. 760 8 150. 660 9. 125 9 120. 350 8. 625 1 100. 0000 8. 150 82. 800 7.
+700 96. 500 7. 310 59. 390 6. 900 51. 100 6. 565 44. 500 4 6. 250 39. 150 5.
+945 34. 650 5. 664 30. 850 5. 404 27. 750 5. 465 2 25. 000 4. 938 22. 700 4.
+720 20. 675 4. 530 18. 920 4. 342 17. 400 4. 162 16. 000 5 4. 000 Decimall
+Solid under measure.
+F. 1000. p. 01. F. 100. p. 3. 825 1. 738 3. 7^0 1. 694 3. 524 1. 651 3. 430 1.
+608 3. 310 8 1. 568 3. 188 1. 528 3. 078 1. 493 2. 968 1. 458 2. 873 1. 420 6
+2. 780 1. 390 2. 688 1. 356 2. 602 1. 323 2. 521 1. 297 2. 442 1. 266 2. 366 9
+1. 236 2. 294 1. 208 2. 227 1. 185 2. 160 1. 160 2. 100 1. 131 2. 043 1. 109 7
+1. 985 1. 084 1. 93^ 1, 061 1. 878 1. 041 1. 830 1. 021 1. 781 10. 1. 000 Under
+Yard-measure for feet and inches from one inch'to four feet six inches
+F. F. 1000. F. F. 1000. In. In. 1 108.000 3. 850 2 54. 000 3. 720 3 36. 000 3.
+600 4 27. 000 6 3. 482 5 21. 600 3. 373 6 18. 000 3. 271 7 15. 420 3. 175 8 13.
+520 3. 085 9 12. 000 3 3. 000 10 10. 300 2. 922 11 9. 820 2. 842 1. 9. 000 2.
+769 8. 320 2. 710 7. 740 2. 633 7. 201 6 2. 572 6. 760 2. 512 6. 350 2. 455 6
+6. 000 2. 400 5. 680 2. 345 5. 400 2. 298 5. 140 4 2. 250 4. 906 1 2. 203 4.
+695 2 2. 160 2 5. 500 3 2. 119 4. 320 4 2. 073 4. 160 5 2. 037 4. 000 9 2. 000
+Under yard measure according to Decimal or Foot measure
+F. 10. F. 1000. p. F. 1000. p. 1 90. 000 4 3. 7^0 2 45. 000 5 3. 600 3 30. 000
+6 3. 461 4 22. 500 7 3. 332 5 18. 000 1 3. 211 6 15. 000 9 3. 104 7 12. 880 3
+3. 000 8 11. 200 1 2. 903 9 10. 000 2 2. 812 1 9. 000 3 2. 728 1 8. 190 4 2.
+648 2 7. 510 5 2. 572 3 6. 930 6 2. 502 4 6. 430 7 2. 435 5 6. 000 8 2. 370 6
+5. 625 9 2. 310 7 5. 290 4 2. 250 8 5. 000 1 2. 195 9 4. 735 2 2. 142 1 4. 500
+3 2. 093 1 4. 285 4 2. 046 2 4. 092 5 2. 000 3 3912 Under Girt-measure.
+Inc. about F. in. 100. F. in. 100 1 1809.6.81 24 3.1.87 2 452. 4. 74 25 2. 10.
+74 3 201. 0. 77 26 2. 8. 12 4 113. 1. 18 27 2. 5. 87 5 72. 4. 60 28 2. 3. 70 6
+50. 3. 19 29 2. 1. 83 7 39. 3. 22 30 2. 0. 13 8 28. 4. 00 31 1. 10. 60 9 22. 4.
+09 32 1. 9. 21 10 18. 1. 15 33 1. 7: 94 11 14. 11. 46 34 1. 6. 78 12 12. 6. 80
+35 1. 5. 72 13 10. 8. 09 36 1,4,75 14 9. 2. 79 37 1. 3, 86 15 8. 0. 51 38 1, 3,
+04 16 7. 0. 82 39 1, 2, 28 17 6. 3. 14 40 1, 1, 57 18 5. 7. 30 41 1, 0, 92 19
+5. 0. 15 42 1, 0, 31 20 4. 6. 28 43 0, 11, 74 21 4. 1. 24 44 0, 11, 22 22 3. 8.
+87 45 0, 10, 72 23 3. 5. 04 Under measure for the Diameter in Inches and
+quarters.
+In. over F. in 10 F. in 100, 29 3 0, 0, 00, 4, 8, 31, 73^, 1, 00, 4, 4, 06,
+326, 0, 10, 4, 0, 27 1 183, ^, 80 7 3, 8, 89, 118, 2, 16, 3, 5, 85, 81, ^, 00,
+3, 3, 10, 59, 10, 24, 3, 0, 61 2 45, 10, 90 8 2, 10, 36, 36, 2, 41, 2, 8, 31,
+29, 3, 93, 2, 6, 44, 24, 3, 86, 2, 4, 73 3 20, 4, 40 9 2, 3, 15, 17, 4, 25, 1,
+1, 70, 15, 0, 00, 1, 0, 37, 13, 1, 86, 1, 11, 13 4 11, 5, 14 10 1, 9, 99, 10,
+1, 78, 1, 8, 93, 9, 0, 62, 1, 7, 95, 8, 1, 80, 1, 7, 04 5 7, 3, 98 11 1, 6, 18,
+6, 7, 80, 1, 5, 38, 6, 0, 72, 1, 4, 63, 5, 6, 53, 1, 3, 93 6 5, 1, 10 12 1, 3,
+27 13 1, 1, 02 A Table of the number of bricks in a rodd of Walling at any Feet
+high, from 1 to 20 for 1 and 1 1/2
+Feet high. at 1 brick thick. at 1 brick and 1/2 thick 1 176 264 2 352 528 3
+528 792 4 704 1056 5 880 1320 6 1136 1704 7 1232 1848 8 1408 2112 9 1584 2376
+10 1760 2640 11 1936 2904 12 2112 3168 13 2288 3432 14 2464 3696 15 2640 3960
+16 2816 4224 16 1/2 2904 4356 17 -2992 4488 18 -3168 4752 19 -3344 5010 20
+-3520 5280
+
+If you would have this Table for 1/2 a brick, take the half of the table for
+one brick. If for two bricks then double it. If for two and a 1/2 then ad both
+these together; if for three, double that for one brick and 1/2.
+
+If you have any number of feet of brick work, at half a brick, one brick, or
+two bricks, or more, and you would reduce it to one brick and half, then say by
+the line of numbers as 1. 2. 4. 5 or 6 is to three, so is the number of feet at
+1/2 1. 2. 2 1/2 or three bricks to the number of feet at one and 1/2.
+
+The use of four scales, called Circumfence, Diameter, Square equal, Square
+inscribed.
+Suppose you have a circle whose diameter is 10 inches, or 10 feet: and to this
+circle you would find the Circumference, or the side of a square equal, or
+inscribed, or having any one of the three, to find the other three, do thus:
+
+Take the measure of the Circumference, Diameter, or either of the squares,
+which is first given, and open the compasses to the number of the given
+measure, in its respective scale: the compasses so set, if you apply it in the
+scale whose number you would know, you shall have your desire.
+
+Example.
+Suppose a circle whose diameter is 10 inches, and to it I would know the
+Circumference, take 10 out of the diameter scale, and in the Circumference
+scale it shall reach to 31 42, and on the line of square equal 8 86, and on
+square inscribed 7. 07. For illustration sake, note the figure.
+
+The use of the line to divide a circle into any number of parts.
+Take the Semidiameter, or Radius of the circle between your compasses, and fit
+it over in six and six of the line of circles, then what number of parts you
+would have, take off from that point by the figure in the line of circles, and
+it shall divide the circle into so many parts. As suppose I would have the
+former circle divided into nine parts, take the measure from the center to the
+circle as exactly as you can, fit that over in 6 and 6, then take out 9 and 9,
+and that shall divide it into so many parts; but if you would divide a wheel
+into any odd parts, as 55. 63. or 49 parts, you shall find it an almost
+impossible thing, to take a part so exact that in turning about so many times,
+shall not miss at last: to help which the parts the rule gives shall fit you
+exact enough for all the odd parts, then the even will easy be had by
+dividing, therefore usually the rule is divided but to 30 or 40 parts. So that
+for this use as the finding the side of an 8 or 10 square piece, as the mast of
+a ship, or a newel, or a post, this will very readily, and exactly help you.
+
+CHAP XVIII.
+The use of Mr. Whites rule, for the measuring of Timber and Board, either by
+inches or foot measure.
+1. ANd first for superficial or board measure, by the inches, the breadth and
+length being given in inches, and feet and parts, slide or set 12 on any one
+side, to the breadth in inches or parts on the other side, then just against
+the length found on the first side, where 12 was on the second side you shall
+have the content in feet, and 10ths, or 100 parts required. Which by the rules
+of reduction by the foot measure, you may reduce to inches and 8 parts.
+
+Example.
+At three inches broad, and 20 foot long, you shall find it to be 5 foot just:
+but at 7 inches broad, and the same length it will come to 11 foot 7 10th fere,
+or 8 inches.
+
+2. The breadth being given in inches, to find how many inches in length goes
+to make a foot of board or flat measure.
+Set 12 on the first side, to the breadth in inches on the second side, then
+look for 12 on the second side, and right against it on the first side, is the
+number of inches, that goes to make a foot Superficial, at that breadth.
+
+Example.
+At three inches broad you shall find 48 inches to make a foot.
+
+3. To work multiplication on the s^iding, or Whites rule.
+Set one on the first side, to the multiplicator on the second side, then seek
+the multiplicand on the first, and right against it on the second, you shall
+find the product.
+
+Example.
+If 9 be multiplied by 16, you shall find it to be 144.
+
+4. To work division on the same rule.
+Set the divisor on the first side to one on the second, then the dividend on
+the first, shall on the second show the quotient required.
+
+Example.
+If 144 be to be divided by 16, you shall find the quotient to be 9.
+
+3. To work the rule of 3 direct.
+Set the first term of the question, sought out on the first line, to the
+second term on the other, (or second line:) then the third term sought on the
+first line, right against it on the second, you shall find the fourth
+proportional term required.
+
+Example.
+If 15 yard 1/2, cost 37s. 6d. what cost 17 3/4? facit 42s. 10d. 3 q. for if
+you set 15 1/2 right against 37 1/2, then look for 17 3/4 on the first line,
+(where 15 1/2 was found, and right against it on the second line, is near 42
+the fractions are all decimal, and you must reduce them to proper fractions
+accordingly
+
+To work the rule of 3 reverse.
+4. Set the first term sought out on the first line, to the second being of the
+same denomination or kind to the second line, or side. Then seek the third term
+on the second side, and on the first you shall have the answer required.
+
+Example.
+5. If 300 masons build an edifice in 28 days, how many men must I have to
+perform the same in six days, the answer will be found to be 1400.
+
+6. To work the double rule of 3 direct.
+This is done by two workings: As thus for Example.
+
+If 112 l. or 1 C. weight, cost 12 pence the carraiage for 20 miles, what shall
+6 C, cost, 100 miles? Say first by the third rule last mentioned, as 1 C.
+weight to 12, so is 6 C. weight to 72. pence, secondly say if 6 C. cost 72
+pence or rather 6s, for 20 miles? what shall 100 miles require? the answer is
+30 s. for if you set 20 against 6 then right against 100 is 30, the answer
+required.
+
+The use of Mr. Whites rule in measuring Timber round, or square, the square or
+girt being given in inches, and the length in feet and inches.
+1. The inches that a piece of Timber is square, being given: to find how much
+in length makes a foot of Timber, look the number of inches square on that side
+of the Timber line, which is numbered with single figures from 1 to 12, and set
+it just against 100 on the other or second side, then right against 12 at the
+lower, (or some times the upper) end, on the first line, in the second you have
+the number of feet and inches required.
+
+Example. At 4 1/2 inches square, you must have 7 foot 1 inch 1/3 to make a
+foot of Timber. But if it be above 12 inches square, then use the sixth Problem
+of the 5th chapter of the Carpenters Rule, with the double figured side and
+Compasses.
+
+2. But if it be a round smooth stick, of above 12 inches about, and to it you
+would know how much in length makes a true foot, then do thus. Set the one at
+the beginning of the double figured side, next your left hand, to the feet and
+inches about, counted in the other side, numbered with single figures from 1 to
+12, then right against three foot six 1/2 inches, in the single figures side
+next the right hand, you have in the first side the number of feet, and inches
+required.
+
+Example. A piece of 12 inches about, requires 11 f 7 in: fere to make a foot.
+Again a piece of 15 inches about, must have 8 foot 1/2 an inch in length, to
+make a foot of timber.
+
+3. But if you would have it to be equal to the square, made by the 4th part of
+a line girt about the piece, then instead of three foot 6 1/2 inches make use
+of four foot, and you shall have your desire.
+
+4. The side of a square being given in inches, and the length in feet, to find
+the content of a piece of timber.
+
+If it be under 12 inches square then work thus: set 12 at the beginning or end
+of the right hand side, to the length counted on the other side, then right
+against the inches square on the right side is the content on the left side
+
+Example. At 30 foot long, and 9 inches square, you shall find 16 foot 11
+inches for the working this question, 12 at the end must be used.
+
+But if it be above 12 inches square, then ser one at the beginning, or 10 at
+the end of the right hand side, to the length counted on the other side, then
+the number of inches or rather feet and inches, counted on the first side,
+shall show on the second the feet and parts required.
+
+Example. At 1 f. 6 inch. square, and 30 foot long, you shall find 67 feet and
+about a 1/2.
+
+5. To measure a round piece by having the length, and the number of inches
+about, being a smooth piece, and to measure true, and just measure, then
+proceed thus:
+
+Set 3 f. 6 1/2 inches on the right side, to the length on the other side, then
+the feet and inches about, on the first side, shall show on the second or left,
+the content required. As at 20 inches about, and 20 foot long, the content will
+be found to be about 4 foot 5 inches.
+
+But if you give the usual allowance, that is made by dupling the string 4
+times, that girts the piece: then you must set 4 foot on the right side, to the
+length on the other, then at 1 foot 8 inches about, the last example you shall
+find but three foot 6 inches.
+
+6. ^ astly, if the rule be made fit for foot measure, only then the point of
+12 is altogether neglected, and one only made use of as a standing number: and
+the point at three foot 6 1/2 will be at three foot 54 parts; and the four will
+be the same, and the same directions in every respect, serve the turn. And
+because I call it Mr. Whites rule, being the contriver thereof, according to
+feet and inches, I have therefore fitted these directions accordingly, and
+there are sufficient to the ingenious practitioner.
+
+CHAP. XIX.
+Certain Propositions to find the hour, and the Azimuth, by the lines on the
+Sector.
+PROP. 1.
+HAving the latitude, and complements of the declination, and Suns altitude,
+and the hour from noon, to find the Suns Azimuth, (...) that time.
+
+Take the right sine of the complement of the Suns altitude, and make(...) it a
+parallel sine in the sine of th(...) hour from noon, (counting 15 degree(...)
+for an hour, and 1 degree for for minutes) counted from the center.
+
+The Sector so set, take the right sine of the complement of the declination,
+and carry it parallel till the compasses stay in like sines, and the sine
+wherein they stay shall be the sine of the Azimuth required.
+
+Or else thus:
+Take the right sine of the declination, make it a parallel in the cosine of
+the Suns altitude, then take the parallel sine of the hour from noon, and it
+shall be the latteral or right sine of the Azimuth from the south required. If
+it be between six in the morning, and 6 at night; or from the north, if it be
+before or after six: and so likewise is the Azimuth.
+
+PROP. 2.
+Having the Azimuth from south or north, the complement of the Suns altitude,
+and declination, to find the hour.
+
+Take the latteral, or right sine of the complement of the Suns altitude, make
+it a ga^^llel in the cosine of the declination: the sector so set, ache out the
+parallel sine of the Azimuth, and measure it from the center, and it shall
+reach to the right sine of the hour from noon required. Or else as before.
+
+As the right sine of the complement of the Suns declination: is to the
+parallel sine of the Azimuth, so is the right sine of coaltitude, to the
+parallel sine of the hour from noon, counting as before.
+
+PROP. 3.
+Having the complements of the latitude, Suns altitude, and declination. to
+find the Suns Azimuth from the north part of the horizon.
+
+1. First of the complement of the latitude, and Suns present altitude find
+the difference.
+
+2. And secondly count it on the line of sines from 90 toward the center.
+
+3. Take the distance from thence, to the sine of the Suns declination; but
+note when the latitude and declination differ, as in winter you must count the
+declination beyond the center, and you must call it the Suns distance from the
+pole.
+
+4. Fourthly, make that distance a parallel sine in the complement of the
+latitude.
+
+5. Fifthly, then take out the parallel sine of 90.
+
+6. And sixthly, make it a parallel sine in the coaltitude.
+
+7. Seventhly, then the sector so set, take out parallel, Radius, or sine of 90.
+
+And eighthly, measure it on the line of sines from 90 toward, (and if need be
+beyond) the center: and it shall reach to the versed sine of the Suns Azimuth
+from the north, or if you count the other way from the south, note that in
+working of these, if the line of sines be too big, then you have two or three
+smaller sines on the rule, where on to begin and end the work.
+
+Example.
+Latitude 51. 32, Declination 18* 30, Altitude 48. 12, you shall find the
+Azimuth to be 130 from the North, or 50 from the South.
+
+PROP. 4.
+Having the complements of the latitude and declination, or Suns distance from
+the Pole, and the Sun altitude given, to find the hour from East or West, or
+else from noon.
+
+1. First of the complement of the latitude, and Suns distance from the Pole,
+find the difference.
+
+2. Count this from the sine of 9^ toward the center.
+
+3. Take the distance from thence to the sine of the Suns altitude.
+
+4. Make that distance a parallel sine of the complement of the latitude.
+
+5. Take out the parallel sine of 90 degrees, and
+
+6. Make that a parallel sine in the codeclination, then
+
+7. Take out the parallel sine o^ 90 again, and
+
+8. Measure it from the sine of 90 toward the center, and it shall show the
+versed sine of the hour from the North, or the sine of the hour from East or
+West; or if you reckon from 90, the hour from noon required.
+
+Example.
+Latitude 51. 32, Declination North 20. 14, Altitude 50. 55, you shall find
+the hour from the North to be 10 hours, or 10 a clock in the forenoon, or 4
+hours past 6, or two short of noon, according to each proper reckoning.
+
+PROP. 5.
+Having the latitude, the complement of the Suns declination, the Suns present
+altitude, and Meridian altitude for that day, to find the hour.
+
+Make the lateral secant of the latitude, a parallel sine in the codeclination,
+then take the distance from the Suns Meridian altitude, to his present
+altitude, and lay it from the cer on both sides of the line of sines, and take
+the parallel distance between those two points, and measure it from 90 on a
+line of sines, of the same Radius the secants be, (as the small adjoining sine
+is,) and it shall show the versed sine of the hour from noon, or the right sine
+before or after 6, toward noon or night.
+
+PROP. 6.
+Having the Latitude, Declination, and Suns Altitude, to find the Suns Azimuth.
+
+Take the latteral secant of the latitude, and make it a parallel in the
+complement of the Altitude:
+
+Then take the distance, between the sun^ of the complement^ of of Museum the
+latitude and altitude, (if under 90,) and the sons declination, and lay it from
+the center on the line of sines, that parallel distance taken, and measured on
+the sines (of the same Radius the secant was) from 90, shall show the versed
+sine of the Azimuth from noon.
+
+But if the sum of the colatitude, and coaltitude exceed 90, then take the
+excess above 90, out of the natural sine from the center toward 90, and add
+that to the sine of the Suns declination toward 90, and then the parallel
+distance between those two points, shall be the Azimuth required, from noon,
+
+But when the latitude and declination are unlike, as with us (in the northern
+parts) in winter, then you must take the declination out of the excess, or the
+lesser out of the greater, and lay the rest from the center, and the parallel
+distance, shall be versed sine of the Azimuth from noon.
+
+Example.
+At 18 15 altitude, latitude 51 32, declination 13 15 South.
+
+The sum of the colatitude, and the coaltitude is 109. 37, then count the
+center for 90, the right sine of 10 for a 100 and 19 for 109, and 37 minutes
+forwarder, there set the point of the Compasses, then take from thence to the
+right sine of the declination, and lay this distance from the center on the
+line of sines, and the parallel space between, is the versed sine of the
+Azimuth required.
+
+PROP. 7.
+Having the length of the shadow of any object standing perpendicular, and the
+length of that object, to find the altitude.
+
+Take the Tangent of 45, and make it a parallel in the length of the shadow in
+the line of lines, then the parallel distance between the length of the object
+that casts the shadow, taken from the line of lines, and measured on the line
+of tangents from the center, shall reach to the Suns altitude required.
+
+Example.
+If the object be 40 parts long, and the shadow 80 parts, the altitude will be
+found to be 26. 35. But if you have the altitude, and shadow, and would know
+the height of the object, then work thus:
+
+Take the length of the shadow out of the line of lines, or any other equal
+parts, and make it a parallel tangent of 45, then take out the parallel tangent
+of the Suns altitude, and measure it on the line of lines, (or the same equal
+parts) and it shall show the length of the object that caused the shadow: the
+same rule does serve in taking of altitudes by the rule, as in the 18 chapter,
+accounting the measure from the station to the object, the length of the
+shadow, and the Suns altitude, the angle at the base.
+
+PROP. 8.
+To find the Suns rising and setting in any latitude.
+
+Take the latteral cotangent of the latitude, make it a parallel in the sines
+of 90 and 90, then take the latteral tangent of the Suns declination, and carry
+it parallel in the sines till it stay in like sines, that sine shall be the
+asentional difference between six, and the time of rising before or after 6,
+counting 15 degrees to an hour.
+
+PROP. 9.
+To find the Amplitude in any latitude.
+Take the latteral sine of 90, and make it a parallel in the cosine of the
+latitude, then the parallel sine of the declination, taken and measured in the
+line of sines from the center, shall give the amplitude required.
+
+PROP. 10.
+To find the Suns height at six in any latitude.
+Take the lateral or right sine of the declination, and make it a parallel in
+the sine of 90, then take out the parallel sine of the latitude, and measure it
+in the line of sines from the center, and it shall reach to the altitude
+required.
+
+Note in working of any of these Propositions, if the sines drawn from the
+center, prove too large for your Compasses, or to make a parallel sine or
+Tangent to a small number of degrees, then you may use the smaller sine or
+tangent adjoining, that is set on the Rule, and it will answer your desire. And
+note also in these Propositions, the word right, or latteral sine or tangent,
+is to be taken right on from the center or beginning of the lines of sines, or
+tangents; and the word parallel always across from one leg to the other.
+
+PROP. 11.
+To find the Suns height at any time, in any latitude.
+As the right Sine of 90, So is the parallel cosine of the remainder,
+
+PROP. 12.
+To find when the Sun shall come to due East, or West.
+Take the tangent of the latitude from the smaller tangents, make it a parallel
+in the Sine of 90, then take the latteral tangent of the declination from the
+smaller tangents, and carry it parallel in the Sines, till it stay in like
+Sines, and that Sine shall be the Sine of the hour required from 6.
+
+PROP. 13.
+To find the Suns Altitude at East or West (or Vertical Circle.)
+As the latteral sine of declination,
+
+PROP. 14.
+To find the Styles height in upright declining Dials.
+As the right Sine of the complement of the latitude,
+
+PROP. 15.
+To find the Substiles distance from the Meridian.
+As the lateral tangent of the colatitude,
+
+PROP. 16.
+To find the Inclination of Meridians.
+As the latteral tangent of the declination, So is the parallel sine of the
+latitude,
+
+PROP. 17.
+To find the hours distance from the Substile in all Plains.
+As the latteral tangent of the hour from the proper Meridian,
+
+PROP. 18.
+To find the Angle of 6 from 12, in erect Decliners.
+As the latteral tangent of the complement of the latitude,
+
+Thus you see the natural Sines and Tangents on the Sector, may be used to
+operate any of the Canons that is performed by Logarithms, or the artificial
+Sines and Tangents, by changing the terms from the first to the third, and the
+second to the first, and the third to the second, and the fourth must always be
+the fourth, in both workings being the term required.
+
+CHAP. XX.
+A brief description, and a short-touch of the use of the Serpentine-line, or
+Numbers, Sines, Tangents, and versed sine contrived in five (or rather 15) turn.
+1. FIrst next the center is two circles divided one into 60, the other into
+100 parts, for the reducing of minutes to 100 parts, and the contrary.
+
+2. You have in seven turns two in pricks, and five in divisions, the first
+Radius of the sines (or Tangents being near the matter, alike to the first
+three degrees,) ending at five degrees and 44 minutes.
+
+3. Thirdly, you have in 5 turns the lines of numbers, sines, Tangents, in
+three margents in divisions, and the line of versed sines in pricks, under the
+line of Tangents, according to Mr. Gunters cross staff: the sines and Tangents
+beginning at 5 degrees, and 44 minutes where the other ended, and proceeding to
+90 in the sines, and 45 in the Tangents. And the line of numbers beginning at
+10, and proceeding to 100, being one entire Radius, and graduated into as many
+divisions as the largeness of the instrument will admit, being from 10 to 50
+into 50 parts, and from 50 to 100 into 20 parts in one unit of increase, but
+the Tangents are divided into single minutes from the beginning to the end,
+both in the first, second, and third Radiusses, and the sines into minutes;
+also from 30 minutes to 40 degrees, and from 40 to 60, into every two minutes,
+and from 60 to 80 in every 5th minute, and from 80 to 85 every 1oath, and the
+rest as many as can be well discovered.
+
+The versed sines are set after the manner of Mr. Gunters Cross-staff, and
+divided into every 10th minutes beginning at 0, and proceeding to 156 going
+backwards under the line of Tangents.
+
+4. Fourthly, beyond the Tangent of 45 in one single line, for one turn is the
+secants to 51 degrees, being nothing else but the sines reitterated beyond 90.
+
+5. Fifthly, you have the line of Tangents beyond 45, in 5 turns to 85
+degrees, whereby all trouble of backward working is avoided.
+
+6. Sixthly, you have in one circle the 180 degrees of a Semicircle, and also a
+line of natural sines, for finding of differences in sines, for finding hour
+and Azimuth.
+
+7. Seventhly, next the verge or outermost edge is a line of equal parts to get
+the Logarithm of any number, or the Logarithm sine and Tangent of any ark or
+angle to four figures besides the carracteristick.
+
+8. Eighthly and lastly, in the space place between the ending of the middle
+five turns, and one half of the circle are three pricked lines fitted for
+reduction. The uppermost being for shillings, pence, and farthings. The next
+for pounds, and ounces, and quarters of small Averdupoies weight. The last for
+pounds, shillings, and pence, and to be used thus: If you would reduce 16 s. 3
+d. 2 q. to a decimal fraction, lay the hair or edge of one of the legs of the
+index on 16. 3 1/2 in the line of l. s. d. and the hair shall cut on the equal
+parts 81 16; and the contrary, if you have a decimal fraction, and would reduce
+it to a proper fraction, the like may you do for shillings, and pence, and
+pounds, and ounces.
+
+The uses of the lines follow.
+As to the use of these lines, I shall in this place say but little, and that
+for two reasons. First, because this instrument is so contrived, that the use
+is sooner learned then any other, I speak as to the manner, and way of using
+it, because by means of first, second, and third radiusses, in sines and
+Tangents, the work is always right on, one way or other, according to the Canon
+whatsoever it be, in any book that treats of the Logarithms, as Gunter, Wells,
+Oughtred, Norwood, or others, as in Oughtred from page 62 to 107.
+
+Secondly, and more especially, because the more accurate, and large handling
+thereof is more then promised, if not already performed by more abler pens, and
+a large manuscript thereof by my Sires means, provided many years ago, though
+to this day not extant in print; so for his sake I claiming my intrest therein,
+make bold to present you with these few lines, in order to the use of them: And
+first no^e.
+
+1. Which soever of the two legs is set to the first term in the question, that
+I call the first leg always, and the other being set to the second term, I call
+the second leg.
+
+2. Secondly, if one be the first or second term, then for the better setting
+the index exactly, you may set it to 100, for the error is like to be the least
+nearest the circumference.
+
+3. Thirdly, be sure you keep a true account of the number of turns between
+the first and second term.
+
+4. Fourthly, observe which way you move, from the first to the second term. To
+keep the like from the third to the fourth, exept in the back rule of three,
+and in such cases as the Canon requires the contrary.
+
+5. Fifthly in multiplication, one is always the first term, and the
+multiplycator or multiplycand the second, and the product always the fourth.
+Also note that in multiplycation the product of two numbers multiplied, shall
+be in as many places as both the multiplycator, and multiplycand, except the
+least of them, be less then the two first figures of the product; moreover, for
+your more certain assinging of the two last figures of four or six, which is as
+many as you can see on this instrument, multiply the two last in your mind,
+and the product shall be the figure, as in page 28 of the Carpenters Rule.
+
+6. In division, the multiplicator is always the first term, and one the
+second, the dividend the third, and the quotient the fourth; also the quotient
+shall have as many figures as the dividend has more then the divisor, except
+the first figures of the divisor be greater then the dividends, then it shall
+have one less. Also note, the fraction after division, is a decimal fraction,
+and to be reduced as before.
+
+7. Note carefully whether the fourth proportional ought to be a greater or a
+less, and resolve accordingly, and note if one comes between the third and
+fourth term, then must the fourth be raised a Radius or a figure more, and be
+careful to set the hairs exactly over the part representing the number or
+minutes of any degree.
+
+8. Always in direct proportion, and Astronomical calculation, set the first
+leg to the first term, and the second leg to the second term, and note how many
+circles is between, then set the first leg to the third term, and right under
+the second leg, the same way, and so many turns between the third and fourth,
+is always the fourth term required.
+
+Example.
+As 1, to 47, so is 240, to 11280. As the sine of 90, to 51 degrees 30 minutes,
+so is the sine of 80 to 50. 26. And so of all other questions according to
+their respective Canons by the Logarithms in other books as in Mr. Oughtreds
+Circles of Porportions, from page 62 to 107, and others.
+
+Here follows the working of certain Propositions by the Serpentineline.
+
+Those that I shall insert, are only to show the manner of working, and
+knowing of that once, all the Canons for all manner of questions, either in
+Arithmetic, Geometry, Navigation, or Astronomy, by any other Author, as Mr.
+Gunter, Mr. Oughtred, Mr. Windgate, Mr. Norwood, or others, may be speedily
+resolved, and as exactly as by the Tables, if the instrument be well and truly
+made. And first ^or the hour, according to Gunter.
+
+PROP. 1.
+Having the Latitude, Declination, and the Suns Altitude, to find the hour.
+Add the complement of the altitude, the complement of the Suns present
+altitude, and the distance of the Sun, from the elevated Pole together, and
+nore their sum, and half sum, and find the difference between their half sum
+and the complement of the Suns present altitude, then work thus: for 36 42
+degrees high, at 23. 32 declination, lat. 51. 32.
+
+Lay the first leg, viz. that next your right hand being here most convenient,
+on the Sine of 90, keeping that fixed there, lay the other leg to the cosine of
+the latitude, viz. 38. 28. and note the turns between, which here is none
+between, but it is found in the next over it, then set the first leg to the
+Sine of 66, 28, the suns distance from the Pole, and in the circle just over it
+you shall have the Sine of 34. 47. for the fourth Ark or Sine.
+
+Then in the second Operation.
+Set the first or left leg to the sine of 34. 47. of the fourth Sine last
+found, then keeping that fixed there, set the other leg to the Sine of the half
+sum, viz. 79. 37. then remove the first leg to the Sine of the difference
+between the half sum, and the coaltitude, viz. 25. 49. and then in the next
+circle, the other leg shall show the sine of 48. 34. whose half distance toward
+90, being found by the Scale of Logarithms on the outermost circle, will
+discover the Sine of an Ark, whose complement being doubled, and turned into
+time (by counting 15 degrees to an hour) will give the hour required; but by
+help of the versed Sines all this trouble is saved; for when the index or
+second leg cuts the Sine of 48. 34. at the same instant it cuts the versed Sine
+of 60, the hour from noon required, being 8 in the morning, or 4 in the
+afternoon, at 23. 32. of declination, in the latitude of 51. 32.
+
+PROP. 2.
+To work the same another way, according to Mr. Collins.
+
+The Latitude and Declination given, to find the Suns height at 6 a clock,
+Dec. 23. 31. Lat. 51. 32.
+Lay the left leg on the Sine of 90, and the other to the Sine of 23. 32, and
+you shall find one turn between upwards, then the first leg laid on the Sine
+of the latitude 51, 32, the other leg shall show the Sine of 18. 3. (in the
+second circle above 51, 32.) for the Suns height at 6 required, and this is
+fixed for one day.
+
+Then in summer time, or north declinations, by help of the line of natural
+sines, in the second line, find the difference between the Suns present
+altitude, and the latitude at 6, but in Winter or Southern (signs or)
+declinations, add the two altitudes together, in this manner. Lay one leg of
+the index to the natural sine of the altitude at 6, and the other to the
+altitude proposed, the two legs so set, bring one of them ( viz the right) to
+the beginning of the line of natural sines, and the other shall stay at the
+difference required, but in Winter set one leg to the beginning of the sines,
+and open the other to the height at 6, or rather depression under the Horizon
+at 6, (which is all one at like declinations, North and South) then set the
+first leg to the present altitude of the Sun, and the other shall show the Sine
+of the sum of both added together; which sum or difference is thus to be used:
+
+Lay the left leg to the Cosine of the declination, and the other to the secant
+of the latitude, counted beyond 90, as far as the secant of 9, 40; or rather
+lay the left leg on the Cosine of the latitude, and the other to the secant of
+the suns declination, then the first leg laid on the sine of the sum in winter,
+or difference in summer, shall cause the other leg to fall on the sine of the
+hour from 6, toward noon in winter and summer, except the altitude in summer be
+less then the altitude at 6, then it is the hour from 6, toward midnight.
+
+PROP. 3.
+Having the latitude, Suns altitude and declination, to find the Suns Azimuth
+from east or west. Lat. 51. 32. Declin. 23. 30. Alt. 49 56.
+First you must get the Suns altitude, or depression in the vertical Circle by
+this Cannon. Lay the first leg to the sine of the latitude, and the second to
+the sine of 90, and you shall find them both to be on the same line, then the
+first leg laid on the sine of the declination, shall cause the second (being
+carried with the first, without moving the Angle first set) to fall on the sine
+of 30. 39. the Suns altitude in the Vertical Circle; with which you must do, as
+you did before with the altitude at 6, and the present altitude, to find the
+sum and difference by help of the line of natural Tangents, then this
+proportion holds.
+
+Lay the first leg to the cosine of the Altitude, (by counting the Altitude
+from 20) and the second leg to the tangent of the latitude, and observe which
+way, and the turns between; then the first leg removed and laid to the sine of
+the sum (before found) in winter, or the difference in summer, shall cause the
+second leg to fall on the sine of the Azimuth of the Sun, from east or west
+toward noon, if winter; and also in summer, when the Suns altitude is more than
+his altitude at the Vertical Circle; but if less from the east or west, toward
+north or midnight meridian: Thus in our Example, it will be found to be the
+sine of 30 degrees, or 60 from the south, the sine of the difference being
+found to be 14. 49.
+
+PROP. 4.
+To find the Azimuth, according to Mr. Gunter, by having the Latitude, Suns
+Altitude, and Declination given.
+First by the Suns declination get his distance from the Pole, which in summer
+or North declinations, is always the complement of the declination, (likewise
+in south latitudes, and south declinations) but when the latitude and
+declination is unlike, then you must add 90 to the declination, and the sum is
+the distance from the elevated Pole. Having found the distance from the Pole,
+add that and the complement of the latitude, and Suns altitude together, find
+the difference between their half sum, and the Suns distance from the Pole,
+then the proportion will be thus, as in this Example: 13 Declination, 41. 53.
+Alt. Lat. 51. 32.
+
+Lay one leg on the sine of 90, and the other to the sine of 38, 28, being so
+set, remove the first leg to the sine complement of the altitude 48. 07. and
+the second leg shall fall on a fourth sine, which will be found to be 27. 36.
+then set the first or left leg to 27. 36. the fourth sine, and the second to
+81. 47. the sine of the half sum, then removing the first leg to the sine of
+the difference, shall cause the second to show two circles lower, the versed
+sine of 130, the Azimuth required, being counted from the North part of the
+horizon, whose complement to 180 from the South is 50 degrees.
+
+Two other Canons to find the hour of the day, and Azimuth of the Sun, by one
+operation, by help of the natural sines: and first for the hour.
+Having the latitude, the Suns Meridian, and present altitude, and declination,
+to find the hour from noon.
+
+First lay one leg to the Meridian altitude, in the line of natural sines, and
+the other to the sine of the altitude in the same line, then bring the right
+leg to the beginning of the line of sines, and the other (...) difference,
+which difference (...) keep.
+
+Then lay one leg on the (...) the declination, and the other (...) secant of
+the latitude, and note the turns between, or rather lay the first leg to the
+cosine of the latitude, and the other to the secant of the declination, then
+the legs being so set, bring the first or left leg to the sine of the
+difference first found, and the other leg shall show the versed sine of the
+hour from noon, if the versed sines had been set thus, i. e. the versed sine of
+90, against the sine of 90, as in some instruments it is: But to remedy this
+defect, do thus: keep the right leg there, and open the other to the versed
+sine of 0. or sine of 90, and note the turns between, then lay the leg that
+was on the sine of 90, (or versed sine of 0,) to the versed sine of 90, and the
+other leg shall show the versed sine of the hour from noon, counting from 90.
+
+Example.
+At 45 13 degrees altitude, declination North 23 32. latitude 51 32, the
+Meridian altitude is 62, (being found by adding colatitude, and declination
+together, and in southern declinations by substraction.) Then the natural sine
+of 45. 42, taken from 62, shall be the sine of 9. 38. then as the cosine of the
+latitude 38. 28, is to the secant of declination 23. 32, so is the sine of 9.
+38. to the sine of 17. 05) or versed sine of 45* if they were placed and
+numbered, as in some instruments they be: but to help i^ in this, say: as the
+versed sine of 0, is to the verses of 114. 26, so is the versed sine of 90, to
+the versed sine of 135, whose complement to 180 is the angle or hour from noon
+required.
+
+Secondly, for the Suns Azimuth.
+
+Having the latitude, declination, and Suns altitude, to find the Azimuth from
+South or North.
+First add the complements of the coaltitude and cola^itude together, then if
+the sum be under 90, take the distance between the cosine of it, and the sine
+of the declination, in the line of natural sines, and measure it in the line of
+sines from the beginning, and it shall give the sine of the difference; but if
+the sum exceed 90, then when the latitude and declination is alike, add the
+excess to the declination; but if contrary substract one out of other, and
+measuring the sum or remainder from the beginning of the sines, you have the
+difference which you must keep.
+
+Then lay the first or left leg to the cosine of the altitude, and the second
+to the secant of the latitude, or else lay the first to the cosine of the
+latitude, and the other to the secant of the altitude, and more the turns
+between, then lay the first leg to the sine of the difference before found, and
+the other shall show the versed sine of the Azimuth from noon required, if the
+versed sines be set as before is expressed, that is to say 90 of right sines,
+and versed sines together, and numbered forwards as the sines be: but in the use
+of this instrument, the remedy aforesaid supplyeth the defect.
+
+Example.
+At 10. 19. altitude, 23. 32. declination, 51. 32. latitude, to find the
+Azimuth.
+
+The sum of the coaltitude and colatitude is 118.09, the excess above 90, with
+right sine of declination added is 60. 30, found by natural sines, then say, As
+the cosine of latitude, to the secant of altitude, so is the sine of the
+difference 60. 30, to the versed sine of the Azimuth, but here to the versed
+sine of an ark beyond Radius unknown, then as the versed sine of 0, to that
+ark, so is the versed sine of 90, to the ver sine of 60, the azimuth from noon,
+whose complement to 180, is 125 the Azimuth from Sonth required.
+
+Having been so large in these, I shall in the rest contract my self as to the
+repetition, and only give the Canon for the propositions following, the way of
+working being the same in all other, as in these before rehearsed, and note
+also what is to be done by the Serpentine-line, is to be done by the three same
+lines of numbers, sines and Tangents on the edge of the Sector, by altering the
+term leg, to to the point of the Compasses. The Canons follow.
+
+PROP 4.
+Having latitude, declination, and hour given, to find the Suns altitude at
+that hour or quarter.
+And first for the hour of 6.
+
+As the sine of 90,
+
+Secondly, for all hours in the Equinoctial.
+
+As the Radius or sine of 90, to the cosine of the latitude 51. 32: so is the
+sine of the Suns distance from 6 (in hours and minutes, being turned into
+degrees and minutes 30, for 8. or 4,)
+To the sine of the altitude of the Sun at the time required 18. 07, But for
+all other times say,
+
+As the sine of 90,
+
+Which fourth arc must be taken out of the Suns distance from the Pole 66, 21,
+(in Cancer) leaves a residue 44 48, which is called a fifth ark. But for the
+hours before and after 6, you must add the fourth arc to the Suns distance
+from the Pole, and the Sum is the fifth ark. Then say,
+
+As the cosine of the fourth ark 78, 20,
+
+PROP. 6.
+Having the latitude, declination, and Azimuth, to find the Suns altitude at
+that Azimuth.
+And first to find the Suns altitude at any Azimuth in the equator. Then, As
+the sine of 90, to the cosine of the Suns Azimuth from the South 50, 0, So is
+the cotangent of the latitude 38, 28, to the tangent of 27, 03* the Suns
+altitude, at that Azimuth required.
+
+Secondly, to find it at all other times, do thus: As the sine of the latitude
+51, 32, To the sine of the Suns declination, 23, 32:
+
+So is the cosine of the Suns altitude in the equator, at the same Azimuth
+from the vertical, viz. 30, to the sine of a 4th. ark 28, 16.
+
+Which fourth ark must be added to the Suns altitude at the equator in all
+Azimuths under 90, from the meridian, where the latitude and declination are
+alike.
+
+But in Azimuths more then 90 from the meridian, take the altitude in the
+equator out of the fourth ark, and the sum or remainder shall be the altitude
+required, viz. 42, 56. But when the latitude and declination are unlike, as
+with us in winter time, then take the fourth ark out of the altitude at the
+equator, and you shall have the altitude belonging to that Azimuth required.
+
+PROP. 7.
+Having the hour from noon, and the altitude to find the Suns Azimuth at that
+time.
+As the cosine of the altitude,
+
+PROP. 8.
+Having the Suns Azimuth, Altitude, and declination, to find tho hour of the
+day.
+As the cosine of the declination, So is the cosine of the altitude,
+
+PROP. 9,
+Having the latitude and declination, to find when the Sun shall be due East or
+West.
+As the tangent of the latitude,
+
+PROP. 10.
+Having the latitude and Suns declination, to find the Amplitude.
+As the cosine of the latitude,
+
+PROP. 11.
+The latitude and declination given, to find the time of the Suns rising before
+or after 6.
+As the cotangent of the latitude,
+
+PROP. 12.
+Having the Suns place, to find his declination, and the contrary.
+As the sine of 90,
+
+PROP. 13.
+The greatest and present declination given, to find the Suns right ascension.
+As the tangent of the greatest declination,
+
+Only you must regard to give it a right account by considering the time of
+the year, and how many 90s. past.
+
+PROR. 14.
+To find an altitude by the length, and shadow of any perpendicular object.
+Lay the hair on one leg to the length of the shadow found on the line of
+numbers, and the hair of the other leg to the length of the object that caused
+the shadow found on the same line of the numbers; then observe the lines
+between, and which way when the legs are so set, bring the first of them to the
+tangent of 45, and the other leg shall show on the line of tangents, so many
+turns between, and the same way the tangent of the altitude required.
+
+Thus may you apply all manner of quest. to the Serpentine-line and work them
+by the same Canons, that you use for the Logarithms in all or most Authors.
+
+PROP. 15.
+To square, and cube a number, and to findethe square root, or cube roat of a
+number.
+The squaring of a number, is nothing else but the multiplying of the number by
+it self, as to square 12 is to multiply 12 by 12, and then the cubing of 12, is
+to multiply the square 144 by 12, and that makes 1728, and the way to work it,
+is thus: Set the first leg to 1, and the other to 12, then set the first to 12,
+and then the second shall reach to 144, then set the first to 144, and the
+second shall reach to 1728, the cube of 12 required: but note, the number of
+figures in a cube, that has but one figure is certainly found by the line, by
+the rule aforegoing: but if there be more figures then one, so many times 3
+must be added to the cube, and so many times two to the square.
+
+To find the square root of a number, do thus: Put a prick under the first, the
+third, the 5th, the 7th, and the number of pricks does show the number of
+figures in the root; and note if the figures be even, count the 100 to be the
+unit, if odd as 3, 5, 7, 9, etc. the 10 at the beginning must be the unit, as
+for 144, the root consists of two figures, because there is two pricks under
+the number, and if you lay the index to 144 in the numbers, it cu^s on the line
+of Logarithms 15870, the half of which is 7915 whereunto if you lay the index,
+it shall show the 12 the root required; but if you would have the root of
+14+44, then divide the space between that number, and 100 you shall find it
+come to 8, 4140 that is four turns, and 4140 for which four turns, you must
+count 80000, the half of which 8,4140, is 4,2070, whereunto if you lay the
+index, and count from 1444 ^r 100, at the end you shall have it cut at 38 lack
+four of a 100.
+
+To extract the cubique root of a number, set the number down, and put a point
+under the 1, the 4th, the 7th, and 10th, and look how many pricks, so many
+figures must be in the root, but to find the unity you must consider, if the
+prick falls on the last figure, then the 10 is the unit at the beginning of the
+line, as it does in 1728, for the index laid on 1728, in the Log^rithms,
+shows 2,3760, whose third part 0,7920 counted from 10, falls on 12 the root,
+but in 17280, then you must conceive five whole turns, or 1000 to be added, to
+give the number that is to be divided by three, which number on the outermost
+circle in this place, is 12,+3750. by conceiving 10000 to be added, whose third
+part counted from 10, viz. two turns or 4.125, shall fall in the numbers to be
+near 26. But if the prick falls of the last but 2, as in 172800 then 100 at the
+end of the line, must be the unit, and you must count thus: count all the
+turns from 172830 to the end of the line, and you shall find them to amount
+to 7,6250, whose third part 2, 5413 counted backward from 100, will fall on
+55,70 the cubique root required.
+
+PROP. 16.
+To work questions of interest or progression, you must use the help of equal
+parts, as in the extraction of roots, as in this question, if 100 l. yield 106
+in one year, what shall 253 yield in 7 year? Set the first leg to 10 at the
+beginning, in this case representing a 100, and the other to 106, and you shall
+find the legs to open to 253 of the small divisions, on the Logarithms,
+multiply 253 by 7, it comes to 1771, now if you lay the hair upon 253, and from
+the place where the index cuts the Logarithms count onwards 1771, it shall stay
+on 380 l. 8 s. or rather thus: set one leg to the beginning of the Logarithms,
+and the other to 1771 either forward or backward, and then set the same first
+leg to the sum 253, and the second shall fall on 380. 8 s. according to
+estimation; the contrary work is to find what a sum of money due at a time to
+^ome, is worth in ready money: this being premised here, is enough for the
+ingenious to apply it to any question of this nature, by the rules in other
+Authors. However you may shortly expect a more ample treatise, in the mean time
+take this for a taste and farewell.
+
+The Use of the Almanac.
+Having the year, to find the day of the week the first of March is on in that
+year, and Dominical letter also.
+
+First if it be a Leap-year, then look for it in the row of Leap-year, and in
+the column of weekdays, right over it is the day required, and in the row of
+dominical letters is the Sunday letters also: but note the Dominical letter
+changes the first of January, but the week day the first of March, so also
+does the Epact.
+
+Example. In the year 1660, right over 60 which stands for 1660, there is G for
+the Dominical or Sunday letter, beginning at January, and T for thursday the
+day of the week the first of March is on, and 28 underneath for the epact that
+year, but in the year 1661. being the next after 1660 the Leap-year, count
+onwards toward your right hand, and when you come to the last column, begin
+again at the right hand, and so count forwards till you come to the next
+Leap-year, according to this account for 61, T is the dominical letter, and
+Friday is the first of March.
+
+But to find the Epact, count how many years it is since the last Leap-year,
+which can be but three, for every 4th is a Leap-year, and add so many times 11
+to the epact in the Leap-year last past, and the sum, if under 30, is the
+Epact; if above 30, then the remainder 30 or 60, being subtracted is the Epact
+for that year. Example for 1661.28 the epact for 1660, and 11 being added makes
+39 from which take 30, and there remains 9, for the Epact for the year 1661
+the thing required.
+
+Note that in orderly counting the years, when you come to the Leap-year, you
+must neglect or slip one, the reason is, because every Leap-year has two
+dominical letters, and there also does the week day change in the first of
+March, so that for the day of the month, in finding that the trouble of
+remembering the Leap-year is avoided.
+
+To find the day of the Month.
+Having found the day of the week, the first of March is on the respective
+year; then look for the month in the column, and row of months: then all the
+days right under the month are the same day of the week the first of March was
+on, then in regard the days go round, that is change orderly every seven days,
+you may find any other successive day sought for.
+
+Example. About the middle of March 1661 on a Friday, what day of the month is
+it?
+First the week day for 1661 is Friday, as the letter F on the next collumn
+beyond 60 she^et^; then I look for 1 among the months, and all the days right
+under, viz. 1, 8, 15, 22, 29. in March, and November 61, are Friday, therefore
+my day being Friday, and about the middle of the month, I conclude it is the
+15th day required.
+
+Again in May 1661. on a Saturday about the end of May, what day of the month?
+May is the third month, by the last rule I find that the 24 and 31 are Fridays,
+therefore this must needs be the 25 day, for the first of June is the next
+Saturday.
+
+FINIS.
+ERRATA.
+PAge 23. l. 4. add 1660 p. 24. l. 6. for 5 hours r. 4. l. 9. for 3. 29. r. 4.
+39. 1. 12 for 5. 52. r. 4, 52. l. 13. for 3. 39. r. 4. 39. l. 17 for 5 hours
+52. r. 4. 52. p. 27. l. ult. dele or 11. 03. p 31. l 4. for sun r. sum. p. 50.
+l. 8. for B r. A. p. 50 d CHAP. XII. p. 51. r. 16. for 6. 10. 1. 6 to 10. p.
+71. l. 6. for 7/4 r. 1/4. l. penult. for 2 afternoon, r. 1. p. 74 l. ult. for
+1. r. 1, 2. p. 83. l. 18. for BC r. BD. p. 69 l. 17. add measure, p. 129 l. 24.
+for right of, r. right sine of. p. 114 l. 9 for 18 3. r 18 13. p. 147 1. 2 for
+20, r. 90 p. 163. l. 16. for of, r. on.
+
+

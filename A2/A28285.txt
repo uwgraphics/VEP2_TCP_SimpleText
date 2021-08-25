@@ -1,0 +1,948 @@
+THE Longitude not found: OR, AN ANSWER TO A TREATISE, Written By Henry Bond
+Senior, showing a way to find the LONGITUDE BY THE Magnetical Inclinatory
+NEEDLE. WHEREIN Is proved, That the LONGITUDE is not, nor cannot be found by
+the Magnetical Inclinatory NEEDLE. By Peter Blackborrow, Gent.
+
+Licensed
+
+March 14. 1677/8. To. L'Estrange.
+
+
+
+LONDON, Printed for Robert Harford, at the Sign of the Angel in Cornhil, near
+the Royal Exchange. 1678.
+
+THE PREFACE.
+WHen I first met with Mr. Bond's Book, I was in good hope to have found the
+Work answerable to the Title, the Author being reputed (not without desert)
+skilful in Mathematical Learning: But when I found his Doctrine want
+Demonstration, (an Excellency in the Mathematics above all other Sciences
+Inseparable, for what is Truth therein, may always be demonstrated to be so) I
+began to doubt that (instead of so useful a Discourse, as he pretended to) he
+might not only be deceived himself, but might also mislead others in the search
+thereof.
+
+This made me take upon me the Examination of the Work, which I profess to have
+done with that care and integrity, which is necessary in such an Undertaking:
+And I do unfeignedly declare, that I am sorry (for the Authors sake) to find
+his Propositions unsound, and his Examples uncertain. But let Truth be always
+True, the whole Foundation of his Work is only an Airy Imagination, and the
+Superstructure is made up of false Suppositions, and impossible Conclusions.
+
+A short Prospect whereof I have inserted here (for instant sake) from his own
+Examples, leaving the fuller Demonstration thereof to the ensuing Treatise.
+
+First, the Author pretends, that the Magnetical Poles are distant from the
+Poles of the Earth, by an Oblique Angle; which Angle is proved to be a false
+supposition, and cannot be demonstrated upon the Globe. But if it should be
+granted him, that the Magnetic Pole were 8 d. 30 m. from the Pole of the
+Earth, in the year 1580. then it is proved that the Magnetical Poles are found
+to be so by the Variation that was at Vaygats, and London in the year 1580. So
+that the Magnetical Pole must be as various as the Variation; in regard it
+cannot be found without it. Then the Caroline Table being Calculated by the
+distance of the Magnetical Poles, from the Poles of the Earth, is useless, in
+regard it is proved, that the Magnetic Pole is as various as the Variation.
+
+And in the next place the Author pretends to find, that the Magnetical Pole of
+the Meridian of London, is gone to the Eastwards from his Observation made at
+Ballasore; and here he produces the Longitude by the Practical Part of the
+Mathematics at Sea by Journal, to correct his Observations by the Inclinatory
+Needle. Mr. Bond begs the Question: Let the Angle W P N be 6 d. 00 m. that the
+Magnetical Meridian is gone to the Eastward, when it is proved to be 37 d. 59 m.
+
+So likewise in the case of Cape Charles, and in the Straits of Magellan (and
+all places Westwards of the Meridian of the Lizard.) Mr. Bond begs the
+Question: Let S K P F represent the Meridian of the Lizard, which is 4 d. 12 m.
+to the Eastwards of the Magnetical Colure, as appears by his Demonstration,
+which Angle at Cape Charles, is found to be above 50 d. and not 4 d. 12 m. and
+the Angle at the Straits at Magellan, is found to be above 38 d. 00 m. and not
+4 d. 12 m. I have omited to put down Mr. Bond's Demonstration to prove his
+Errors, in regard it would produce many Cuts: but those that would be better
+satisfied, may take the same Method I used in the Case of Ballasore, where Mr.
+Bond says let the Angle W P N be 6 d. that the Magnetic Pole is gone from the
+Meridian of London; when the Angle is proved to be 37 d. 59 m.
+
+And farther it is proved, where two places differing in Latitude, under one
+and the same Meridian of the Earth, that the Angle at the Pole does alter,
+whereas all places, under one and the same Meridian, have one and the same
+Longitude.
+
+And whereas Mr. Bond has altered the Meridian of the Azores, and has made
+London the Meridian, from whence Longitude shall begin at: Longitude 00 d. 00
+m. It is proved from Mr. Bond's own Observation, that London should have
+Longitude. Then the Magnetical Inclinatory Needle is not in proportion to the
+Meridian of London, or any certain Meridian of the Earth.
+
+And last of all, the Author supposes the Magnetical Poles in the Air, some
+small distance from the Earth, which (as he says) may be a great reason of the
+Motion of the Earth, and to that end, he has drawn his Spheres accordingly: But
+I have proved that Mr. Bond's Question between Ballasore and London, is to be
+demonstrated from the Globe of the Earth: So that all Questions that have the
+like Matter, have the like Demonstration: then why should we fancy the
+Magnetic Poles in the Air?
+
+And farther I have added a small Treatise, proving by several Observations,
+and Demonstrations, that the Earth is the Center of the Starry Heaven; and that
+it has no Motion upon its Axis; and for any one to pretend the Earth to have a
+Motion from West to East, it is only imagination; for there is no Observation
+to prove it. I know there are many men of a contrary opinion; but I would have
+such men to produce Observation and Demonstration to prove the contrary.
+
+I shall say no more in this place, but refer to the Work it self; where if I
+have also erred, I shall gladly receive admonition from the Learned; but if I
+have not, I hope my Native Country will not take it unkindly, that I have
+discovered a dangerous Error, which (if followed, and relied upon) would have
+been of fatal Consequence.
+
+Peter Blackborrow.
+
+THE LONGITUDE Not found by the Inclinatory Needle.
+In Answer to Mr. Bonds first Question, in finding the Distance between London
+and Vaygats; and from thence to find the Distance of the Magnetical Pole, from
+the Pole of the Earth.
+LOndon Latitude 51 d. 32 m. North, London Longitude 00 d. 00 m. Vaygats
+Latitude 70 d. 00 m. North, Longitude 58 d. 00 m. Westwards of the Meridian of
+London, to find the Distance between London and Vaygats L V, and the Angle P L
+V, and the Angle P V L. In this Triangle we have P L, the Co-latitude of London
+38 d. 28 m. and P V, the Co-latitude of Vaygats 20 d. 00 m. And the Angle L P V
+58 d. 00 m. the difference of Longitude by Journal between Vaygats and London;
+to find L V, the Distance 31 d. 57 m. and the Angle P L V, 33 d. 14 m. and the
+Angle P V L 94 d. 30 m. And from the Angle L P V, Mr. Bond draws an Arch as P M
+V, and makes that an Angle of 8 d. 38 m and the Angle P, M, V, L, an Angle of
+85 d. 52 m. and then Mr. Bond draws another Arch as L M, and makes the Angle P
+L M, an Angle of 11 d. 15 m. and the Angle M L V, an Angle of 21 d. 59 m.
+
+Here place the first Figure.
+
+If Mr. Bond would make it a proportion in his Angle to draw two Arches from
+the Pole of the Earth, unto the Meridian, and Parallel of Vaygats; as P V, and
+P M V, then he should have drawn another Arch into the Meridian and Parallel of
+London; from the Pole of the Earth, besides that of P L.
+
+For as Mr. Bond would separate the Variation of Vaygats 8 d. 38 m. from the
+Angle geometrical diagram Fig. 1
+P V L 94 d. 30 m. and make the Angle P M V, 8 d. 38 m. and the Angles P M, V,
+L 85 d. 52 m. by another Arch from the Pole of the Earth.
+
+So likewise should Mr. Bond have separated the Variation of London 11 d. 15 m.
+by another Arch from the Pole of the Earth into the Meridian, and Parallel of
+London at L, in regard the matter given requires the same Demonstration.
+
+And whereas Mr. Bond draws two Arches from the Pole of the Earth, unto the
+Meridian, and Parallel of Vaygats; it is very improper, for no Arch can be
+drawn from the Pole of the Earth unto the Meridian, and Parallel of Vaygats;
+but what was drawn from the Pole, as P V 20 d. 00 m. the Co-latitude of
+Vaygats, which Arch is the nearest Distance unto the Pole of the Earth.
+
+And for the Arch P M V, it makes a greater Distance than the Co-latitude of
+Vaygats, by 00 d. 18 m. therefore Mr. Bonds Angle is a false Supposition, for
+one and the same Meridian and Parallel of the Earth, can have but one Arch or
+Meridian from the Pole of the Earth, and that is the nearest Distance.
+
+But Mr. Bonds pretense is to find the Distance of the Magnetical Poles, from
+the Pole of the Earth; and he says, in the year 1580, the Variation was 11 d.
+15 m. at London, and at Vaygats 8 d. 38. m. and the Co-latitude at London 38 d.
+28 m. and the Co-latitude at Vaygats 20 d. 00 m. and the Difference of
+Longitude 58 d. 00 m. So from hence it may be observed, that the Distance of
+the Magnetical Pole, from the Pole of the Earth, is found, from the Variation
+that was at London, and Vaygats in the year 1580. So that the Magnetic Pole
+must be as various as the Variation, in regard it cannot be found without it.
+
+Mr. Bond had better to have begged the Question, let the Magnetical Poles be
+Distant 8 d. 30 m. from the Pole of the Earth: For his Angle cannot be
+demonstrated upon the Globe.
+
+geometrical diagram Fig: 2.
+
+
+In Answer unto Mr. Bonds Question, between Ballasore and London.
+I Sail from the Meridian and Parallel of London South-West-wards of Good-hope,
+and then North-East-wards into North Latitude 22 d. 30 m. the Magnetical
+Latitude or Inclination 32 d. 10 m. the Magnetical Co-latitude in the Caroline
+Table 72 d. 33 m. and the Distance of the Magnetical Pole from the Pole of the
+Earth 8 d. 30 m. I demand how far the Magnetical Meridian is East or West of
+the Meridian of London?
+
+Here place the second Figure.
+
+To Demonstrate this Sphere upon the Globe.
+THe Brass Meridian, in which the Globe moves, is the Meridian of London; so
+bring any Meridian upon the Globe to the Brass Meridian; and from the Poles
+make a Mark upon the Meridian of the Globe, just under 8 d. 30 m. of the Brass
+Meridian, for the Magnetic Pole. So take 72 d. 33 m. the Magnetic Pole
+Distant from the Parallel of 22 d. 30 m. No Latitude from the Equator; and fix
+one point of your Compasses in the Magnetical Pole 8 d. 30 m. turning the Globe
+Eastwards, until 72 d. 33 m. will cut in the Parallel of Ballasore 22 d. 30 m.
+just under the Brass Meridian of the Globe, so make a Mark, and let the Globe
+stand, then is L N the Magnetic Pole Distant from the Meridian of London 72 d.
+33 m. and L S is the Co-latitude of Ballasore 67 d. 30 m. and N S is the
+Distance of the Magnetical Pole, from the Pole of the Earth 8 d. 30 m. and the
+Angle L S N, is what the Magnetic Meridian is gone from the Brass Meridian, or
+the Meridian of London, and I D is the Magnetic Latitude 32 d. 10 m. and L A
+is the Latitude of Ballasore 22 d. 30 m.
+
+By this Demonstration you may see the Distance of the Magnetic Poles, and the
+Magnetic Co-latitude, and the Co-latitude of the Place will hold their
+Demonstrations in Proportion to the Poles of the Earth; then why should we
+fancy the Magnetic Poles in the Air?
+
+Upon the Sphere M, Q, N, O is the Meridian of the Magnetic Poles, and Q O is
+the Magnetic Equator, and E W is the Equator to the Poles of the Earth, and M
+L N is the Magnetic Meridian, crossing the Brass Meridian, or the Meridian of
+London, in the Parallel of 22 d. 30 m. So is S N the Magnetic Pole Distant
+from the Poles of the Earth, and L S is the Co-latitude of Ballasore, and N L
+is the Magnetic Pole Distant from the Meridian of London 72 d. 33 m. in the
+Parallel of 22 d. 30 m. and S L P is the Meridian of London, and not the
+Meridian of Ballasore, yet I place L in the Parallel of Ballasore, in the
+Meridian of London, in regard I did take the Inclination of the Inclinatory
+Needle in that Parallel.
+
+For it is supposed, if I would find the Difference of Longitude from London; I
+have Sailed into unknown Parts, and observe and find my Latitude, and my
+Magnetic Latitude; and now I would find how far I am East or West of the
+Meridian of London: So I ought not to say S L P, is the Meridian of Ballasore,
+in regard I am to find it; but to make S L P the Meridian of London, from
+whence I came; so the Magnetic Co-latitude will be in proportion to what the
+Magnetic Meridian I am in, is from the Meridian of London.
+
+So is L S the Co-latitude of Ballasore 67 d. 30 m. in the Meridian of London;
+and S N, the Distance of the Magnetic Pole, ftom the Pole of the Earth 8 d. 30
+m. And L N is the Magnetic Co-latitude 72 d. 33 m. Now the Angle at the Pole N
+S L, will be found 125 d. 00 m. that the Magnetic Meridian of Ballasore is,
+from the Meridian of Lon-don Eastwards, which should be the Magnetic Meridian
+of Ballasore at B, from the Meridian of London L, the complement of 125 d. 00
+m. out of 180 d. is the Angle A S W 55 d. 00 m. that the Magnetic Meridian is
+West of the Meridian of London.
+
+The Angle is drawn from the Sphere: the Work follows.
+geometrical diagram Fig: 3
+
+
+d. m. LN, 72 33 NS, the residuum Sine 08 30 083029 SL, the residuum Sine 67 30
+003438 The Sum of the sides 148 33 The half Sum 74 16 The Sine of the first
+difference 65 56 995993 The Sine of the second difference 6 46 907124 The Sum
+1989584 The half Sum 994792 994792 the sine thereof is 62 d. 30 m. the double
+thereof is 125 d. 00 m. the Angle at the Pole of the Earth N S L, which should
+be the Difference of Longitude: But since Mr. Bond makes London the first
+Meridian, from whence Longitude shall take its beginning, as in the Question
+before, Ballasore should have Longitude 125 d. 00 m. East of the Meridian of
+London; let the Table of Longitude say what it will, for the Table of
+Longitudes is no other than the difference of Meridians by Journal: But if I
+find the difference of Longitude by the Magnetic Co-latitude, and the distance
+of the Magnetic Pole, and the Co-latitude of the place, it should correct what
+has been laid down by Journal; for I do not take what has been laid down by
+Journal to be true, in regard there is no certain Observation to lead us to it:
+For if London be not the Meridian, from whence the Magnetic Co-latitude takes
+its beginning toward the Magnetic Poles; then the distance of the Magnetic
+Meridian from the Meridian of London, cannot give the difference of Meridians.
+
+Mr. Bonds way to prove what the Magnetic Meridian is gone to the Eastwards,
+is thus: First, he knows his Magnetic Co-latitude at Ballasore, and the
+Co-latitude of the place, and the distance of the Magnetic Pole; and so finds
+the distance of the Magnetic Meridian, from the Meridian of London 125 d. 00
+m. so then finding 125 d. 00 m. does not answer the Longitude by Journal; he
+proceeds to find what the Magnetic Meridian is gone to the Eastwards: thus, he
+gives the Co-latitude, and the distance of the Magnetic Pole, and the
+Longitude by Journal 119 d. 12 m. and to this he adds 6 d. which makes 125 d.
+12 m. the distance of the Magnetic Meridian, to find the Magnetic
+Co-latitude: This is but turning the Question.
+
+So that you must know your Longitude by Journal 119 d. 12 m. before you can
+find what the Magnetic Meridian is gone to the Eastwards.
+
+Mr. Bonds way is thus: Substract 119 d. 12 m. the Longitude by Journal, from
+125 d. 12 m. the distance of the Magnetic Meridian, from the Meridian of
+London, and you have 6 d. 00 m. that the Magnetic Meridian is gone to the
+Eastwards: So by this Mr. Bond produced the Longitude by Journal, to correct
+the distance of the Magnetic Meridian, from the Meridian of London.
+
+Mr. Bond must know that Longitude by Journal in all the World is laid down by
+Judgment; and then how rare is it for any one man, who has been at any one
+Port in the World, somewhat remote, that has found it in the very same
+Meridian, in regard of the many accidents that attend the Practical part of the
+Mathematics at Sea?
+
+And then how is it possible to know the Longitude I am in, by the distance of
+the Magnetic Meridian? If I must first know the Longitude by Journal, which I
+cannot prove to be certain, and so correct the Observation by it, so that by
+this way of practice, the Inclinatory Needle is of no use; for the Magnetic
+Latitude, with the other proportions before, should give the Longitude without
+the help of a Journal to correct his Observation.
+
+The next thing we are further to consider of is, how Mr. Bond finds what the
+Magnetic Meridian is gone to the Eastwards of Ballasore.
+
+We may observe from Mr. Bonds own Sphere and Words; let the Angle W P N, be 6
+d. 00 m. but this Angle W P N is not to be passed by, with a let it be so; but
+it must be found in proportion to the several sides, and Angles given in the
+Sphere. First I shall give the Co-latitude of Ballasore 67 d. 30 m. P B, and
+the Angle B P N 125 d. 12 m. and the Magnetic Co-latitude 72 d. 33 m. to find
+the Angle P N B.
+
+Now to find the Angle P N B.
+geometrical diagram Fig: 4
+
+
+d. m. As the Sine of the side NB, 997953 72 33 Is to the Sine of the Angle N P
+B, 991229 54 48 So is the Sine of the Side P B, 996561 67 30 To the Sine of the
+Angle P N B, 989837 52 19
+
+So the Angle P N B, is found to be 52 d. 19 m.
+
+Now let fall the Perpendicular in the foregoing Angle, as P W; so with the
+Angle W N P 52 d. 19 m. and the side P N 8 d. 30 m. we are to find the Angle W
+P N, which Mr. Bond says, let it be 6 d. 00 m.
+
+The Work follows.
+
+geometrical diagram Fig: 5.
+
+
+d. m. As the Sine of P Q, 81 30 999520 Is to the Tangent of Q T, 37 41 988785
+So is the Radius P A, 90 00 1000000 To the Tangent of A. g. 37 59 989265
+
+So that A. g. 37 d. 59 m. is equal to the Angle A. P. g. or to the Angle W P
+N, 37 d. 59 m. demanded.
+
+Now in the foregoing Angle, substract the Angle W P N, 37 d. 59 m. out of the
+Angle N P B 125 d. 12 m. and you have the Angle W P B, 87 d. 13 m.
+
+And from hence it may be observed, that the Angle W P N, is 37 d. 59 m. and
+not 6 d. 00 m. that the Magnetic Meridian is gone to the Eastward, and the
+Angle W P B, is 87 d. 13 m. and not 119 d. 12 m. by Journal.
+
+So that Mr. Bond has committed a gross error in offering to beg the Question;
+let the Angle W. P. N. be 6 d. 00 m. and the Angle W P B, be 119 d. 12 m. when
+it is contrary to all Demonstration and Practice in the Mathematics, as it is
+proved in the foregoing Question.
+
+So that by Mr. Bond's Practice, he would make the Longitude by Journal to be
+the certain difference of Meridians, since he corrects his Observation, from
+the Longitude by Journal, by substracting 6 d. 00 m. from the Angle at the Pole
+125 d. 12 m. to make it equal to the Longitude by Journal 119 d. 12 m. and then
+what need is there of finding the Longitude by the Inclinatory geometrical
+diagram Fig: 6.
+Needle, when it is found by Journal, or to find what the Magnetic Meridian is
+gone to the Eastwards, when we have it by imagination; let the Angle W P N be 6
+d. 00 m. that the Magnetic Pole is gone from the Meridian of London, when it
+is 37 d. 59 m.
+
+The Sphere on the other side, is according to Mr. Bonds own Demonstration, to
+prove the foregoing Work.
+Here place the Sixth Figure.
+
+And before I proceed any further, I shall make one Observation between the
+Meridian of London and Bourdeaux. Bourdeaux being but 20 Minutes Eastwards of
+the Meridian of London: See Mr. Bonds Tables of Longitude.
+
+The Magnetical Latitude 69 d. 26 m. Bourdeaux Latitude N 45 d. 16 m. the
+Magnetic Co-latitude 36 d. 54 m. the distance of the Magnetic Pole, from the
+Pole of the Earth 8 d. 30 m. to find the Angle of the Pole of the Earth.
+
+The Demonstration of this Sphere upon the Globe, is according to my former.
+Here place the seventh Figure.
+
+d. m. N L, 36 54 S N, the residuum Sine 08 38 083029 L S, the residuum Sine 44
+50 015178 The Sum of the Sides 90 14 The half Sum of the Sides 45 07 The Sine
+of the first Difference 36 37 977558 The Sine of the second Difference 00 17
+769417 The Sum 1845182 The Sine of the half Sum 09 41 922591 Which 9 d. 41 m.
+being doubled, you have 19 d. 22 m. for the Angle at the Pole geometrical
+diagram Fig: 7
+of the Earth, then substract 6 d. from it, as in the case of Ballasore,
+Bourdeaux being Eastward of the Meridian of London, and you have 13 d. 22 m.
+for the difference of Longitude, between London and Bourdeaux, which is 13 d.
+00 m. more than the truth by Journal. See in Mr. Bonds Tables of Longitude.
+
+And from hence you may observe, that the Magnetical Needle, or Inclinatory
+Needle, cannot give the Magnetical Latitude in proportion to any one Meridian
+of the Earth.
+
+In Answer to Mr. Bond's Question, upon Cape Charles, comparing it with the new
+Isle of Providence in the same Meridian.
+FIrst, of Cape Charles Latitude 37 d. 39 m. the distance of the Magnetic
+Pole, from the Pole of the Earth 8 d. 30 m. the Magnetic Co-latitude 49 d. 18
+m. to find how far the Magnetic Meridians are East and West of the Meridian of
+London.
+
+The Demonstration of this Question upon the Globe, is the same way as in the
+first Question.
+Here place the eighth Figure.
+
+M Q N O, is the Meridian of the Magnetic Pole, and S N is the distance of the
+Magnetic Pole, from the Pole of the Earth 8 d. 30 m. and L S, is the
+Co-latitude, 52 d. 21 m. And L N is the Magnetic Co-latitude 49 d. 18 m.
+
+The Work follows.
+
+geometrical diagram Fig: 8.
+
+
+d. m. N L, 49 18 S N, the residuum Sine of 08 30 083029 L S the residuum Sine
+of 52 21 010140 The Sum of the Sides 110 09 The Sine of the half Sum 055 04
+991371 The side opposite to the Angle, substract 49 18 The Sine of the
+Difference 05 46 900206 The Sum of all 1984746 The Sine of the half Sum 57 02
+992373
+
+The Complement of 57 d. 02 m. is 32 d. 58 m. the double thereof is 65 d. 56 m.
+the Angle N S L.
+
+So the Angle L S N, being found 65 d. 56 m. that the Magnetic Meridian is to
+the Westward of the Lizard, whose Complement is the Angle L S C 114 d. 04 m.
+that the Magnetic Meridian is to the Eastward of the Meridian of the Lizard.
+
+But I observe the Co-latitude of the Magnetic Pole in its proportions, does
+not make out the Longitude in Mr. Bonds Tables to the Meridian of London by 04
+d. 4 m. But, I suppose, Mr. Bond did make choice of the Meridian of the Lizard
+to be the Meridian in propotion to the Magnetical Co-latitude at Cape Charles,
+in regard the Magnetical Co-latitude at Cape Charles, would not give the
+Magnetical Meridian in proportion to the Meridian of London. And here we are to
+observe, if the Magnetical Co-latitude, with the other proportions, in one and
+the same Meridian of the Earth, will not give the fame Angle at the Pole in all
+Parallels, that cross that Meridian, then the Inclinatory Needle cannot perform
+the Work of finding the Longitude, in regard you cannot tell where to find the
+Magnetical Meridian, in proportion to any one Meridian of the Earth.
+
+Now we are to prove, that the Angle at the Pole does alter in one and the same
+Meridian of the Earth, from Mr. Bonds Observations by the Inclinatory Needle,
+when according to truth every Meridian keeps its Longitude from the Poles in
+all Parallel.
+
+Cape Charles, and the New Island of Providence, are both under one and the
+same Meridian. See Mr. Bonds Tables of Longitude 70 d. 00 m. Westward of the
+Meridian of London.
+
+Now suppose I was at the new Island of Providence, and should observe and find
+it in the Latitude of 25 d. 25 m. N. and should find the inclination of the
+Inclinatory Needle 48 d. 39 m. and in the Caroline Table, the Magnetic
+Co-latitude 60 d. 24 m. and the Magnetic Pole distant from the Pole of the
+Earth 8 d. 30 m. to find the Angle at the Pole of the Earth L S N.
+
+geometrical diagram Fig: 9
+
+
+d. m. L N, 60 24 S L, the residuum Sine of 64 35 004421 N S, the residuum Sine
+of 08 30 083029 The Sum of the Sides 133 29 The Sine of the half Sum 66 44
+996316 The Side opposite to the Angle, substract 60 24 The Sine of the
+difference 06 20 904264 The Sum 1988028 The Sine of the half Sum 60 36 994014
+
+The Complement of 60 d. 36 m. is 29 d. 24 m. the double thereof is 58 d. 48 m.
+for the Angle at the Pole of the Earth L S N.
+
+Now substract 58 d. 48 m. the Angle at the Pole, that the Magnetic Meridian
+of New Providence makes with the Meridian of the Lizard, from 65 d. 56 m. the
+Angle at the Pole, that the Magnetical Meridian of Cape Charles, makes with the
+Meridian of the Lizard, and you have 07 d. 08 m. that the Magnetical Meridians
+or Angles at the Pole do differ in the same Meridian of Cape Charles, when
+according to truth every Meridian keeps its Longitude from the Poles of the
+Earth in all Parallels.
+
+So that the Magnetical Co-latitude under one and the same Meridian of the
+Earth, does alter the Angles at the Pole, and then the Magnetic Co-latitude,
+under one and the same Meridian of the Earth, is not in proportion to the
+Meridian of the Lizard, or any certain Meridian of the Earth.
+
+Another Observation between London and Amsterdam, comparing it with Antwerp,
+being in the same Meridian of Amsterdam. See Mr. Bonds Tables of Longitude 4.
+d. 37 m. Eastward of the Meridian of London.
+AMsterdam Latitude 52 d. 40 m. the Magnetic Latitude 74 d. 22 m. and in the
+Caroline Table the Magnetic Colatitude is 29 d. 16 m. and the distance of the
+Magnetic Pole, from the Pole of the Earth 8 d. 30 m. to find the Angle of the
+Pole of the Earth.
+
+Here place the tenth Figure.
+
+L S, the Co-latitude of Amsterdam, and N L, the Magnetic Colatitude, and S N
+is the distance of the Magnetic Pole, from the Pole of the Earth.
+
+Now suppose I was at Amsterdam, and should observe and find it in the Latitude
+geometrical diagram Fig: 10
+of 52 d. 40 m. and should find the Inclination or Magnetic Latitude 74 d. 22
+m. and in the Caroline Table, the Magnetic Co-latitude to be 29 d. 16 m. And
+the Magnetic Pole distant from the Pole of the Earth 8 d. 30 m. So that by the
+following Work, I find the Angle of the Pole of the Earth to be 16 d. 30 m.
+then we are to substract 6 d. 00 m. as in the case of Ballasore, that the
+Magnetic Meridian (as Mr. Bond says) is gone to the Eastward, and there
+remains 10 d. 30 m. for the difference of Longitude between London and
+Amsterdam: Whereas in Mr. Bonds Tables of Longitude he makes but 4 d. 37 m.
+Longitude Eastward of the Meridian of London, which being subtracted out of 10
+d. 30 d. there remains 5 d. 53 m. over and above the difference of Longitude
+between London and Amsterdam: So that the inclination of the Inclinatory
+Needle, with his Co-latitude, is not in proportion to the Meridian of London,
+or any certain Meridian of the Earth.
+
+d. m. L N, 29 16 S N, the residuum Sine 08 30 083029 S L, the residuum Sine 37
+20 021720 The Sum of the sides 75 06 The Sine the half Sum 37 33 978494 The
+Side of opposite substract 29 16 The Sine of the difference 08 17 915856 The
+Sum 1999099 The Sine of the half Sum 81 45 999549
+
+The Complement of 81 d. 45 m. is 8. d. 15 m. the double thereof is 16 d. 30 m.
+for the Angle at the Pole of the Earth; and we are further to prove, that the
+inclination of the Inclinatory Needle with his Co-latitude at Amsterdam and
+Antwerp do alter the Angles at the Pole, although these two places are under
+one and the same Meridian of the Earth, when according unto truth the Angles at
+the Pole of the Earth should be the same, when you are under one and the same
+Meridian of the Earth.
+
+Antwerp Latitude 51 d. 37 m. N the Magnetic Latitude, or Inclination 73 d. 48
+m. N the Magnetic Co-latitude in the Caroline Table 30 d. 09 m. the distance
+of the Magnetic Pole, from the Pole of the Earth 08 d. 30 m. to find the Angle
+at the Pole of the Earth.
+
+geometrical diagram Fig: 11.
+
+
+d. m. L N, 30 09 S N, the residuum Sine 38 23 020696 S L, the residuum Sine 08
+30 083029 The Sum of the Sides 77 02 The Sine of the half Sum 38 31 979430 The
+Side opposite substract 30 09 The Sine of the difference 08 22 916288 The Sum
+1999443 The Sine of the half Sum 83 31 999721
+
+The Complement of 83 d. 31 m. is 6 d. 29 m. the double thereof is 12 d. 58 m.
+the Angle at the Pole of the Earth. So having found the Angle at the Pole of
+the Earth, in the Meridian and Parallel of Antwerp to be 12 d. 58 m. I
+substract 12 d. 58 m. the Angle at the Pole of the Earth, from the Angle at the
+Pole of the Earth in the Meridian and Parallel of Amsterdam 16 d. 30 m. and
+there remains 3 d. 32 m. that the Angles at the Pole of of the Earth differ
+under one and the same Meridian of the Earth. For as all places under one and
+the same Parallel of the Earth, are in one and the same Latitude, so have all
+places under one and the same Meridian of the Earth, the same Longitude from
+the Azores, or any other Meridian, from whence you will make the difference of
+Meridians to begin at.
+
+So that if there was any truth in the Observation, from the Inclinatory
+Needle, it should give the Angles alike at the Pole; when you are under one and
+the same Meridian of the Earth.
+
+Portsmouth Latitude 51 d. 08 m. N. the Magnetic Latitude, or inclination 72
+d. 52 m. whose Complement in the Caroline Table is 31 d. 40 m. the distance of
+the Magnetic Poles, from the Poles of the Earth 8 d. 30 m. to find the Angle
+at the Pole of the Earth.
+
+geometrical diagram Fig: 12.
+
+
+d. m. L N, 31 40 L S, the residuum Sine 38 52 020237 S N, the residuum Sine 08
+30 083029 The Sum of the Sides 79 02 The Sine of the half Sum 39 31 980366 The
+Side opposite subtracted 31 40 The Sine of the Difference 07 51 913538 The Sum
+1997170 The Sine of the half Sum 75 27 998585
+
+The Complement of 75 d. 27 m. is 14 d. 33 m. the double thereof is 29 d. 6 m.
+the Angle at the Pole of the Earth, so the Angle at the Pole of the Earth is
+found to be 29 d. 6 m. So I add 4 d. 12 m. as in the Case of Cape Charles.
+Portsmouth being West of the Meridian of London, and it gives me 33 d. 18 m.
+the difference of Longitude between the Meridian of London, and Portsmouth. And
+Mr. Bond makes but 01 d. 00 m. for the difference of their Meridians. See his
+Tables.
+
+Lastly, we may observe from Mr. Bonds Observation taken in London by the
+Inclinatory Needle, whether London be the Meridian, from whence the Magnetical
+Latitude or Inclination, with the Co-latitude in the Caroline Table, and the
+Co-latitude of London, with the distance of the Magnetic Pole, from the Pole
+of the Earth, will give London to be the Meridian, from whence the Magnetic
+Co-latitude, with the other proportions, shall give the Angle at the Pole of
+the Earth, to be 6 d. 00 m. that the Magnetic Pole is from the Meridian of
+London Eastwards, as Mr. Bonds faith in the case of Ballasore. But if the Angle
+appear to be more or less than 6 d. then the Inclination of the Inclinatory
+Needle, is not in proportion to the Meridian of London; so that London cannot
+be said to be the Meridian, from whence Longitude shall begin at.
+
+London Latitude 51 d. 32 m. the Magnetic Latitude or Inclination 73 d. 47 m.
+the Magnetic Co-latitude in the Caroline Table 30 d. 11 m. the distance of the
+Magnetic Pole, from the Pole of the Earth 8 d. 30 m. to find the Angle at the
+Pole of the Earth. I. S N.
+
+d. m. N L, 30 11 S L, the residuum Sine of 38 28 020616 N S, the residuum Sine
+of 08 30 083029 The Sum of the Sides 77 09 The half Sum, the Sine 38 34 979478
+The Side opposite substract 30 11 The Sine of the difference 08 23 916374 The
+Sum 1999497 The Sine of the half Sum 83 51 999748
+
+geometrical diagram Fig. 13:
+
+
+The Complement of 83 d. 51 m. is 6 d. 09 m. the double thereof is 12 d. 18 m.
+the Angle at the Pole of the Earth L S N.
+
+Here place the thirteenth Figure.
+
+So is L N, the Magnetic Co-latitude 30 d. 11 m. and L S is the Co-latitude of
+London 38 d. 28 m. and S N, is the Magnetic Pole distant from the Pole of the
+Earth 8 d. 30 m. so that the Angle at the Pole of the Earth L S N, is found to
+be 12 d. 18 m. in the Meridian and Parallel of London, then substract 60 d. 00
+m. from 12 d. 18 m. as in the case of Ballasore. That Mr. Bond says the
+Magnetic Pole is from the Meridian of London, and you have 6 d. 18 m. for the
+difference of Longitude in the Meridian of London; whereas Mr. Bond says
+London has no Longitude: See his Tables. So that Mr. Bond must be under a very
+great mistake in making the Magnetic Inclination of the Inclinatory Needle at
+London, to be in proportion, unto the Meridian of London, from whence Longitude
+shall begin at. When according to his own Observation by the Inclinatory Needle
+in London, with the Magnetical Colatitude in the Caroline Table, and the
+Co-latitude of London, and the distance of the Magnetic Pole, from the Pole of
+the Earth, London should have Longitude 6 d. 18 m. having given the Allowance
+Mr. Bond requires, as in the case of Ballasore.
+
+The truth is the Inclination of the Inclinatory Needle, is not in proportion
+unto the Meridian of London, or any certain Meridian of the Earth, whereby the
+difference of the Meridians may be known by the Inclination of the Inclinatory
+Needle.
+
+To sum up all; Mr. Bond pretends to find, what the Magnetic Meridian is gone
+to the Eastward, as in the case of Ballasore, by saying let the Angle W P N be
+6 d. 00 m. that the Magnetic Pole is from the Meridian of London. Whereas the
+Angle W P N, according to the proportions of the Sides and Angles, contained in
+the Angles P. B N, is 37 d. 59 m. and not 6 d. 00 m. that the Magnetic Pole is
+gone to the Eastward of the Meridian of London. And the Angle W P B is 87 d. 13
+m. and not 119 d. 12 m. by Journal.
+
+Likewise it is proved, that all places in one and the same Meridian of the
+Earth, do alter their Angles at the Pole, from the Observations of the
+Inclinatory Needle, when according to truth all places, under one and the same
+Meridian of the Earth, should make one and the same Angle at the Pole,
+otherwise the difference of Meridians cannot be found.
+
+Likewise it is proved from several places near unto the Meridian of London,
+and in the Meridian of London, that the Angles at the Pole of the Earth, is no
+way in proportion unto the Meridian of London, or that London is the Meridian
+from whence Longitude shall take its beginning in proportion to the Inclination
+of the Inclinatory Needle. So that the Inclination of the Inclinatory Needle is
+no way in proportion unto any certain Meridian of the Earth, from whence all
+Meridians should take their Distance.
+
+For these Reasons the Longitude cannot be found by the Inclinatory Needle.
+
+Here follow Mr. Bonds Caroline Tables of the Complements of the Magnilatitudes
+to every Five Minutes of Inclination of the Inclinatory Needle, from the
+Magnequator unto 84 d 01 m. of Magnilatitude, and 87 d. 00 m. of Inclination.
+d. m. d. m. 0 05 89 58 0 10 89 55 0 15 89 53 0 20 89 50 0 25 89 48 0 30 89 45
+0 35 89 42 0 40 89 40 0 45 89 38 0 50 89 35 0 55 89 33 1 00 89 30 1 05 89 28 1
+10 89 25 1 15 89 23 1 20 89 20 1 25 89 18 1 30 89 15 1 35 89 13 1 40 89 10 1 45
+89 08 1 50 89 05 1 55 89 03 2 00 89 00 2 05 88 58 2 10 88 55 2 15 88 53 2 20 88
+50 2 25 88 48 2 30 88 45 2 35 88 43 2 40 88 40 2 45 88 38 2 50 88 35 2 55 88 32
+3 00 88 30 3 05 88 28 3 10 88 25 3 15 88 22 3 20 88 20 3 25 88 18 3 30 88 15 3
+35 88 13 3 40 88 10 3 45 88 08 3 50 88 05 3 55 88 03 4 00 88 00 4 05 87 57 4 10
+87 55 4 15 87 53 4 20 87 50 4 25 87 48 4 30 87 45 4 35 87 42 4 40 87 40 4 45 87
+37 4 50 87 35 4 55 87 32 4 00 87 30 5 05 87 27 5 10 87 25 5 15 87 22 5 20 87 20
+5 25 87 17 5 30 87 15 5 35 87 12 5 40 87 10 5 45 87 07 5 50 87 05 5 55 87 02 6
+00 87 00 6 05 86 57 6 10 86 55 6 15 86 52 6 20 86 50 6 25 86 47 6 30 86 45 6 35
+86 42 6 40 86 40 6 45 86 37 6 50 86 35 6 55 86 32 7 00 86 29 7 05 86 27 7 10 86
+24 7 15 86 21 7 20 86 19 7 25 86 16 7 03 86 14 7 35 86 11 7 40 86 09 7 45 86 06
+7 50 86 04 7 55 86 01 8 00 85 59 8 05 85 56 8 10 85 54 8 15 85 51 8 20 85 49 8
+25 85 46 8 30 85 44 8 35 85 41 8 40 85 39 8 45 85 36 8 50 85 34 9 55 85 31 9 00
+85 29 9 05 85 26 9 10 85 23 9 15 85 20 9 20 85 18 9 25 85 16 9 30 85 13 9 35 85
+10 9 40 85 08 9 45 85 05 9 50 85 03 9 55 85 01 10 00 84 58 10 05 84 55 10 10 84
+53 10 15 84 50 10 20 84 47 10 25 84 45 10 30 84 42 10 35 84 40 10 40 84 37 10
+45 84 35 10 50 84 32 10 55 84 29 11 00 84 27 11 05 84 24 11 10 84 22 11 15 84
+19 11 20 84 17 11 25 84 14 11 30 84 12 11 35 84 09 11 40 84 06 11 45 84 04 11
+50 84 01 11 55 83 58 12 00 83 56 12 05 83 53 12 10 83 51 12 15 83 48 12 20 83
+46 12 25 83 43 12 30 83 40 12 35 83 38 12 40 83 35 12 45 83 32 12 50 83 30 12
+55 83 27 13 00 83 25 13 05 83 22 13 10 83 20 13 15 83 17 13 20 83 14 13 25 83
+12 13 30 83 09 13 35 83 07 13 40 83 04 13 45 83 02 13 50 82 59 13 55 82 56 14
+00 82 54 14 05 82 51 14 10 82 48 14 15 82 46 14 20 82 43 14 25 82 41 14 30 82
+38 14 35 82 35 14 40 82 33 14 45 82 30 14 50 82 27 14 55 82 25 15 00 82 22 15
+05 82 20 15 10 82 17 15 15 82 14 15 20 82 12 15 25 82 09 15 30 82 06 15 35 82
+04 15 40 82 01 15 45 81 58 15 50 81 56 15 55 81 53 16 00 81 50 16 05 81 48 16
+10 81 45 16 15 81 43 16 20 81 40 16 25 81 37 16 30 81 35 16 35 81 32 16 40 81
+29 16 45 81 26 16 50 81 24 16 55 81 21 17 00 81 19 17 05 81 16 17 10 81 13 17
+15 81 10 17 20 81 08 17 25 81 05 17 30 81 03 17 35 81 00 17 40 80 57 17 45 80
+54 17 50 80 52 17 55 80 49 18 00 80 46 18 05 80 44 18 10 80 41 18 15 80 38 18
+20 80 35 18 25 80 33 18 30 80 30 18 35 80 27 18 40 80 25 18 45 80 22 18 50 80
+19 18 55 80 17 19 00 80 14 19 05 80 11 19 10 80 08 19 15 80 06 19 20 80 03 19
+25 80 00 19 30 79 58 19 35 79 55 19 40 79 52 19 45 79 49 19 50 79 47 19 55 79
+44 10 00 79 41 20 05 79 38 20 10 79 36 20 15 79 33 20 20 79 30 20 25 79 28 20
+30 79 25 20 35 79 22 20 40 79 19 20 45 79 16 20 50 79 14 20 55 79 11 21 00 79
+08 21 05 79 05 21 10 79 03 21 15 79 00 21 28 78 58 21 25 78 55 21 30 78 52 21
+35 78 48 21 40 78 45 21 45 78 42 21 50 78 40 21 55 78 37 22 00 78 35 22 05 78
+32 22 10 78 29 22 15 78 26 22 20 78 23 22 25 78 21 22 30 78 18 22 35 75 15 22
+40 78 12 22 45 78 10 22 50 78 07 22 55 78 04 23 00 78 01 23 05 77 58 23 10 77
+55 23 15 77 53 23 20 77 50 23 25 77 47 23 30 77 44 23 35 77 41 23 40 77 39 23
+45 77 36 23 50 77 33 23 55 77 30 24 00 77 27 24 05 77 24 24 10 77 21 24 15 77
+18 24 20 77 15 24 25 77 13 24 30 77 10 24 35 77 07 24 40 77 04 24 45 77 01 24
+50 76 58 24 55 76 55 25 00 76 52 25 05 76 50 25 10 76 47 25 15 76 44 25 20 76
+41 25 25 76 38 25 30 76 35 25 35 76 32 25 40 76 29 25 45 76 26 25 50 76 24 25
+55 76 21 26 00 76 18 26 05 76 15 26 10 76 12 26 15 76 09 26 20 76 06 26 25 76
+03 26 30 76 00 26 35 75 57 26 40 75 52 26 45 75 51 26 50 75 48 26 55 75 45 27
+00 75 42 27 05 75 39 27 10 75 36 27 15 75 34 27 20 75 31 27 25 75 28 27 30 75
+25 27 35 75 22 27 40 75 19 27 45 75 16 27 50 75 13 27 55 75 10 28 00 75 07 28
+05 75 04 28 10 75 01 28 15 74 58 28 20 74 55 28 25 74 52 28 30 74 49 28 35 74
+46 28 40 74 43 28 45 74 40 28 50 74 36 28 55 74 33 29 00 74 30 29 05 74 27 29
+10 74 24 29 15 74 21 29 20 74 18 29 25 74 15 29 30 74 12 29 35 74 09 29 40 74
+06 29 45 74 03 29 50 74 00 29 55 73 57 30 00 73 54 30 05 73 51 30 10 73 48 30
+15 73 45 30 20 73 42 30 25 73 38 30 30 73 35 30 35 73 32 30 40 73 29 30 45 73
+26 30 50 73 23 30 55 73 20 31 00 73 17 31 05 73 13 31 10 73 10 31 15 73 07 31
+20 73 04 31 25 73 01 31 30 72 58 31 35 72 55 31 40 72 52 31 45 72 49 31 50 72
+45 31 55 72 42 32 00 72 39 32 05 72 36 32 10 72 33 32 15 72 29 32 20 72 26 32
+25 72 23 32 30 72 20 32 35 72 17 32 40 72 14 32 45 72 10 32 50 72 07 32 55 72
+04 33 00 72 01 33 05 71 58 33 10 71 55 33 15 71 52 33 20 71 48 33 25 71 45 33
+30 71 41 33 35 71 38 33 40 71 35 33 45 71 32 33 50 71 28 33 55 71 25 34 00 71
+22 34 05 71 18 34 10 71 15 34 15 71 12 34 20 71 09 34 25 71 05 34 30 71 02 34
+35 70 59 34 40 70 56 34 45 70 52 34 50 70 49 34 55 70 46 35 00 70 42 35 05 70
+39 35 10 70 36 35 15 70 32 35 20 70 29 35 25 70 26 35 30 70 22 35 35 70 19 35
+40 70 16 35 45 70 12 35 50 70 09 35 55 70 05 36 00 70 02 36 05 69 59 36 10 69
+56 36 15 69 52 36 20 69 49 36 25 69 45 36 30 69 42 36 35 69 38 36 40 69 35 36
+45 69 32 36 50 69 28 36 55 69 25 37 00 69 21 37 05 69 18 37 10 69 14 37 15 69
+11 37 20 69 07 37 25 69 04 37 30 69 01 37 35 68 57 37 40 68 54 37 45 68 50 37
+50 68 47 37 55 68 43 38 00 68 40 38 05 68 36 38 10 68 33 38 15 68 29 38 20 68
+26 38 25 68 22 38 30 68 19 38 35 68 15 38 40 68 12 38 45 68 08 38 50 68 05 38
+55 68 01 39 00 67 57 39 05 67 54 39 10 67 50 39 15 67 47 39 20 67 43 39 25 67
+40 39 30 67 36 39 35 67 33 39 40 67 29 39 45 67 26 39 50 67 22 39 55 67 18 40
+00 67 14 40 05 67 10 40 10 67 06 40 15 67 03 40 20 67 00 40 25 66 56 40 30 66
+53 40 35 66 49 40 40 66 45 40 45 66 42 40 50 66 38 40 55 66 34 41 00 66 30 41
+05 66 27 41 10 66 23 41 15 66 20 41 20 66 16 41 25 66 12 41 30 66 08 41 35 66
+04 41 40 66 01 41 45 65 57 41 50 65 53 41 55 65 50 42 00 65 46 42 05 65 42 42
+10 65 38 42 15 65 34 42 20 65 31 42 25 65 27 42 30 65 23 42 35 65 19 42 40 65
+15 42 45 65 12 42 50 65 08 42 55 65 04 43 00 65 00 43 05 64 56 43 10 64 53 43
+15 64 49 43 20 64 45 43 25 64 41 43 30 64 37 43 35 64 33 43 40 64 29 43 45 64
+25 43 50 64 21 43 55 64 17 44 00 64 14 44 05 64 10 44 10 64 06 44 15 64 02 44
+20 63 58 44 25 63 54 44 30 63 50 44 35 63 46 44 40 63 42 44 45 63 38 44 50 63
+34 44 55 63 30 45 00 63 26 45 05 63 22 45 10 63 18 45 15 63 14 45 20 63 10 45
+25 63 06 45 30 63 02 45 35 62 58 45 40 62 54 45 45 62 50 45 50 62 46 45 55 62
+42 46 00 62 38 46 05 62 34 46 10 62 30 46 15 62 25 46 20 62 21 46 25 62 17 46
+30 62 14 46 35 62 09 46 40 62 05 46 45 62 00 46 50 61 56 46 55 61 52 47 00 61
+48 47 05 61 44 47 10 61 40 47 15 61 35 47 20 61 31 47 25 61 27 47 30 61 23 47
+35 61 19 47 40 61 14 47 45 61 10 47 50 61 06 47 55 61 02 48 00 60 57 48 05 60
+53 48 10 60 49 48 15 60 44 48 20 60 40 48 25 60 36 48 30 60 32 48 35 60 27 48
+40 60 23 48 45 60 19 48 50 60 14 48 55 60 10 49 00 60 06 49 05 60 01 49 10 59
+59 49 15 59 52 49 20 59 48 49 25 59 44 49 30 59 39 49 35 59 35 49 40 59 30 49
+45 59 26 49 50 59 22 49 55 59 17 50 00 59 13 50 05 59 08 50 10 59 04 50 15 58
+50 50 20 58 55 50 25 58 50 50 30 58 46 50 35 58 41 50 40 58 37 50 45 58 32 50
+50 58 27 50 55 58 23 51 00 58 18 51 05 58 14 51 10 58 09 51 15 58 05 51 20 58
+00 51 25 57 56 51 30 57 51 51 35 57 46 51 40 57 41 51 45 57 37 51 50 57 32 51
+55 57 28 52 00 57 23 52 05 57 18 52 10 57 14 52 15 75 09 52 20 57 04 52 25 56
+59 52 30 56 55 52 35 56 50 52 40 56 45 52 45 56 40 52 50 56 36 52 55 56 31 53
+00 56 26 53 05 56 21 53 10 56 16 53 15 56 12 53 20 56 07 53 25 56 02 53 30 55
+57 53 35 55 52 53 40 55 47 53 45 55 43 53 50 55 38 53 55 55 33 54 00 55 28 54
+05 55 23 54 10 55 18 54 15 55 13 54 20 55 08 54 25 55 03 54 30 55 58 54 35 54
+53 54 40 54 48
+54 45 54 43 54 50 54 38 54 55 54 33 55 00 54 28 55 05 54 23 55 10 54 18 55 15
+54 13 55 20 54 08 55 25 54 03 55 30 53 58 55 35 53 53 55 40 53 48 55 45 53 43
+55 50 53 37 55 55 53 32 55 00 53 27 56 05 53 22 56 10 53 17 56 15 53 12 56 20
+53 06 56 25 53 01 56 30 52 56 56 35 52 51 56 40 52 45 56 45 52 40 56 50 52 35
+56 55 52 30 57 00 52 24 57 05 52 19 57 10 52 14 57 15 52 09 57 20 52 03 57 25
+51 58 57 30 51 52 57 35 51 47 57 40 51 42 57 45 51 36 57 50 51 31 57 55 51 26
+58 00 51 20 58 05 51 15 58 10 51 09 58 15 51 04 58 20 50 58 58 25 50 53 58 30
+50 47 58 35 50 42 58 40 50 36 58 45 50 31 58 50 50 25 58 55 50 20 59 00 50 14
+59 05 50 09 59 10 50 08 59 15 49 57 59 20 49 53 59 25 49 46 59 30 49 40 59 35
+49 35 59 40 49 29 59 45 49 24 59 50 49 18 59 55 49 12 60 00 49 06 60 05 49 01
+60 10 48 55 60 15 48 49 60 20 48 43 60 25 48 38 60 30 48 32 60 35 48 26 60 40
+48 20 60 45 48 14 60 50 48 09 60 55 48 03 61 00 47 57 61 05 47 51 61 10 47 45
+61 15 47 39 61 20 47 33 61 25 47 27 61 30 47 21 61 35 47 16 61 40 47 10 61 45
+47 04 61 50 46 58 61 55 46 52 62 00 46 46 62 05 46 39 62 10 46 34 62 15 46 28
+62 20 46 21 62 25 46 15 62 30 46 09 62 35 46 03 62 40 45 57 62 45 45 51 62 50
+45 45 62 55 45 39 63 00 45 32 63 05 45 26 63 10 45 20 63 15 45 14 63 20 45 07
+63 25 45 01 63 30 44 55 63 35 44 49 63 40 44 42 63 45 44 36 64 50 44 30 64 55
+44 24 64 00 44 17 64 05 44 11 64 10 44 05 64 15 43 58 64 20 43 52 64 25 43 45
+64 30 43 39 64 35 43 33 64 40 43 26 64 45 43 20 64 50 43 13 64 55 43 07 65 00
+43 00 65 05 42 54 65 10 42 47 65 15 42 41 65 20 42 34 65 25 42 27 65 30 42 21
+65 35 42 14 65 40 42 08 65 45 42 01 65 50 41 54 65 55 41 48 66 00 41 41 66 05
+41 34 66 10 41 28 66 15 41 21 66 20 41 14 66 25 41 07 66 30 41 01 66 35 40 54
+66 40 40 47 66 45 40 40
+66 50 40 33 66 55 40 26 67 00 40 20 67 05 40 13 67 10 40 06 67 15 39 59 67 20
+39 52 67 25 39 46 67 30 39 38 67 35 39 32 67 40 39 24 67 45 39 17 67 50 39 10
+67 55 39 03 68 00 38 56 68 05 38 49 68 10 38 42 68 15 38 35 68 20 38 28 68 25
+38 21 68 30 38 14 68 35 38 07 68 40 38 00 68 45 37 52 68 50 37 45 68 55 37 38
+69 00 37 32 69 05 37 24 69 10 37 16 69 15 37 09 69 20 37 02 69 25 36 54 69 30
+36 47 69 35 36 40 69 40 36 32 69 45 36 25 69 50 36 18 69 55 36 10 70 00 36 03
+70 05 35 56 70 10 35 48 70 15 35 41 70 20 35 33 70 25 35 26 70 30 35 18 70 35
+35 11 70 40 35 03 70 45 34 56 70 50 34 48 70 55 34 41 71 00 34 33 71 05 34 26
+71 10 34 18 71 15 34 11 71 20 34 03 71 25 33 55 71 30 33 47 71 35 33 40 71 40
+33 32 71 45 33 24 71 50 33 16 71 55 33 09 72 00 33 01 72 05 32 53 72 10 32 45
+72 15 32 38 72 20 32 30 72 25 32 22 72 30 32 14 72 35 32 06 72 40 31 58 72 45
+31 51 72 50 31 43 72 55 31 35 73 00 31 27 73 05 31 19 73 10 31 11 73 15 31 03
+73 20 30 55 73 25 30 47 73 30 30 39 73 35 30 31 73 40 30 22 73 45 30 14 73 50
+30 06 73 55 29 58 74 00 29 50 74 05 29 42 74 10 29 34 74 15 29 26 74 20 29 18
+74 25 29 10 74 30 29 01 74 35 28 53 74 40 28 44 74 45 28 36 74 50 28 28 74 55
+28 20 75 00 28 11 75 05 28 03 75 10 27 55 75 15 27 46 75 20 27 38 75 25 27 29
+75 30 27 21 75 35 27 12 75 40 27 04 75 45 26 56 75 50 26 47 75 55 26 39 76 00
+26 30 76 05 26 22 76 10 26 13 76 15 26 05 76 20 25 56 76 25 25 47 76 30 25 39
+76 35 25 30 76 40 25 22 76 45 25 13 76 50 25 04 76 55 24 56 77 00 24 47 77 05
+24 38 77 10 24 30 77 15 24 21 77 20 24 12 77 25 24 03 77 30 23 55 77 35 23 46
+77 40 23 37 77 45 23 28 77 50 23 20 77 55 23 11 78 00 23 02 78 05 22 53 78 10
+22 44 78 15 22 35 78 20 22 26 78 25 22 17 78 30 22 08 78 35 21 59 78 40 21 51
+78 45 21 41 78 50 21 33 78 55 21 24 79 00 21 15 79 05 21 06 79 10 20 57 79 15
+20 47 79 20 20 38 79 25 20 29 79 30 20 20 79 35 20 11 79 40 20 02 79 45 19 53
+79 50 19 44 79 55 19 35 80 00 19 26 80 05 19 16 80 10 19 07 80 15 18 58 80 20
+18 49 80 25 18 40 80 30 18 30 80 35 18 21 80 40 18 12 80 45 18 02 80 50 17 53
+80 55 17 44 81 00 17 35 81 05 17 25 81 10 17 16 81 15 17 07 81 20 16 57 81 25
+16 48 81 30 16 38 81 35 16 29 81 40 16 20 81 45 16 10 81 50 16 01 81 55 15 52
+82 00 15 42 82 05 15 33 82 10 15 23 82 15 15 14 82 20 15 04 82 25 14 55 82 30
+14 45 82 35 14 36 82 40 14 26 82 45 14 17 82 50 14 07 82 55 13 58 83 00 13 48
+83 05 13 39 83 10 13 29 83 15 13 19 83 20 13 10 83 25 13 00 83 30 12 50 83 35
+12 40 83 40 12 31 83 45 12 21 83 50 12 12 83 55 12 02 84 00 11 52 84 05 11 43
+84 10 11 33 84 15 11 23 84 20 11 13 84 25 11 04 84 30 10 55 84 35 10 44 84 40
+10 34 84 45 10 24 84 50 10 14 84 55 10 05 85 00 09 55 85 05 09 46 85 10 09 36
+85 15 09 26 85 20 09 16 85 25 09 06 85 30 08 57 85 35 08 47 85 40 08 37 85 45
+08 27 85 50 08 17 85 55 08 07 86 00 07 58 86 05 07 48 86 10 07 38 86 15 07 28
+86 20 07 18 86 25 07 08 86 30 06 59 86 35 06 49 86 40 06 39 86 45 06 29 86 50
+06 19 86 55 06 09 87 00 05 59
+
+A Table of the Latitude, Longitude, and the Inclination of the Inclinatory
+Magnetical Needle, in some of the most eminent Places of the World, in 1676.
+d. m. Japan, Latitude 038 00 North. Longitude 143 20 East. Inclination 063 53
+North. Bantam, Latitude 006 15 North. Longitude 120 50 East. Inclination 022 53
+North. Malacca, Latitude 006 41 North. Longitude 120 50 East. Inclination 005
+42 North. The North end of Sumatra, Latitude 005 28 North. Longitude 111 15
+East. Inclination 001 44 North. The River of Bengale, Latitude 022 09 North.
+Longitude 116 09 East. Inclination 031 09 North. Cape Canoim, Latitude 07 50
+North. Longitude 92 15 East. Inclination 11 23 North. Suratt, Latitude 21 00
+North. Longitude 94 12 East. Inclination 33 43 North. The South end of St.
+Lawrence, Latitude 25 37 South. Longitude 55 30 East. Inclination 39 10 South.
+The Cape of Good Hope, Latitude 35 30 South. Longitude 27 30 East. Inclination
+47 38 South. St. Elena, Latitude 16 03 South. Longitude 04 44 East. Inclination
+15 29 South. St. Elena Nov. Latitude 16 03 South. Longitude 14 24 East.
+Inclination 16 23 South. Sampson 's River, Latitude 04 22 North. Longitude 30
+28 East. Inclination 22 09 North. Old Caliber, Latitude 04 50 North. Longitude
+19 51 East. Inclination 23 09 North. New Caliber, Latitude 04 40 North.
+Longitude 18 12 East. Inclination 23 06 North. River of Gambo, Latitude 12 47
+North. Longitude 07 41 West. Inclination 37 54 North. Cape de Verd, Latitude 14
+25 North. Longitude 12 21 West. Inclination 58 28 North. Tangier, Latitude 35
+36 North. Longitude 03 35 West. Inclination 62 39 North. Gibralter, Latitude 36
+40 North. Longitude 03 18 West. Inclination 03 29 North. Malago, Latitude 36 45
+North. Longitude 02 17 West. Inclination 63 33 North. Alegant, Latitude 38 20
+North. Longitude 01 50 East. Inclination 65 10 North. Leagorn, Latitude 43 28
+North. Longitude 12 39 East. Inclination 68 01 North. Galipolie, Latitude 40 08
+North. Longitude 21 40 East. Inclination 65 03 North. Rome, Latitude 41 50
+North. Longitude 15 45 East. Inclination 66 43 North. Naples, Latitude 41 08
+North. Longitude 17 27 East. Inclination 66 05 North. Venice, Latitude 45 37
+North. Longitude 17 21 East. Inclination 69 17 North. Constantinople, Latitude
+40 56 North. Longitude 35 09 East. Inclination 64 35 North. Alexandria,
+Latitude 30 40 North. Longitude 36 04 East. Inclination 55 39 North. Tunis,
+Latitude 36 30 North. Longitude 03 54 East. Inclination 63 05 North. Argier,
+Latitude 36 40 North. Longitude 05 30 Inclination 63 14 North. Middle of Cyprus
+Latitude 34 18 North. Longitude 37 45 Inclination 58 54 North. Middle of
+Candia, Latitude 35 08 North. Longitude 28 32 East. Inclination 60 29 North.
+Middle of Corsica, Latitude 42 05 North. Longitude 11 43 East. Inclination 67
+08 North. Middle of Scisilia, Latitude 37 42 North. Longitude 16 45 East.
+Inclination 63 26 North. Maiyork, Latitude 39 38 North. Longitude 05 48 East.
+Inclination 65 32 North. Cales, Latitude 36 22 North. Longitude 04 00 West.
+Inclination 63 16 North. Lisbon, Latitude 39 08 North. Longitude 06 30 West.
+Inclination 65 28 North. Cape Finister, Latitude 43 10 North. Longitude 08 19
+West. Inclination 69 07 North. Bordeaux, Latitude 45 10 North. Longitude 00 20
+East. Inclination 69 26 North. Rochell, Latitude 46 17 North. Longitude 00 30
+West. Inclination 70 27 North. Nants, Latitude 47 41 North. Longitude 01 09
+West. Inclination 71 27 North. Jarzey, Latitude 49 30 North. Longitude 01 00
+West. Inclination 71 34 North. Garnzey, Latitude 49 43 North. Longitude 02 35
+West. Inclination 72 41 North. Callice, Latitude 51 13 North. Longitude 01 52
+East. Inclination 73 34 Antwerp. Latitude 51 37 North. Longitude 04 37 East.
+Inclination 73 48 North. Amsterdam, Latitude 52 40 North. Longitude 04 37 East.
+Inclination 74 22 North. Hamborough, Latitude 54 04 North. Longitude 08 02
+East. Inclination 75 05 North. Copenhagen, Latitude 56 17 North. Longitude 09
+54 East. Inclination 76 18 North. Elsenore, Latitude 56 40 North. Longitude 09
+57 East. Inclination 76 33 North. Gotland, Latitude 58 20 North. Longitude 15
+58 East. Inclination 77 14 North. Cape Blanco, in Newfound Land, Latitude 51
+32 North. Longitude 51 00 West. Inclination 72 24 North. Trinity Bay, Latitude
+55 54 North. Longitude 54 28 West. Inclination 70 32 North.
+
+In the Sound.
+Shorham, Latitude 58 58 North. Longitude 21 06 East. Inclination 77 48
+Stockholm, Latitude 58 49 North. Longitude 14 42 East. Inclination 77 42 North.
+Scarlet Island, Latitude 56 40 North. Longitude 10 38 East. Inclination 76 31
+North. Long Sound, Latitude 58 07 North. Longitude 07 30 East. Inclination 77
+28 North. Naze of Norway, Latitude 58 00 North. Longitude 05 00 East.
+Inclination 77 29 North. Cats Ness, Latitude 61 54 North. Longitude 02 42 East.
+Inclination 79 43 North. North Cape of Finmark, Latitude 71 22 North. Longitude
+16 42 East. Inclination 84 09 North. Archangel, Latitude 63 22 North. Longitude
+21 22 East. Inclination 79 27 North. Cape Blanco, in Newfound Land, Latitude
+37 32 North. Longitude 39 36 West. Inclination 72 24 North. Trinity Bay,
+Latitude 48 55 North. Longitude 54 28 West. Inclination 70 32 North. Cape Razo,
+Latitude 46 28 North. Longitude 51 54 West. Inclination 69 05 North. Cape Cod,
+in New England, Latitude 42 20 North. Longitude 66 56 West. Inclination 64 44
+North. Boston, Latitude 43 38 North. Longitude 70 00 West. Inclination 64 57
+North. New Plymouth, Latitude 42 08 North. Longitude 68 01 West. Inclination 64
+32 North. Cape Charles, in Virginia, Latitude 37 39 North. Longitude 70 00
+West. Inclination 60 00 North. Trinity Harbor. Latitude 36 00 North. Longitude
+68 30 West. Inclination 59 26 North. Bermudas, Latitude 23 20 North. Longitude
+54 36 West. Inclination 57 41 North. New Island of Providence, Latitude 25 25
+North. Longitude 70 00 West. Inclination 48 39 North. Hispaniola, Latitude 18
+50 North. Longitude 70 22 West. Inclination 40 23 North. Cuba, Latitude 22 00
+North. Longitude 81 20 West. Inclination 24 37 North. Barbados, Latitude 13 10
+North. Longitude 58 24 West. Inclination 34 21 North. Jamaica, Latitude 18 15
+North. Longitude 78 21 West. Inclination 38 04 North. Suranam, Latitude 05 55
+North. Longitude 55 16 West. Inclination 23 01 North.
+
+In Ireland
+d. m. Dublin, Latitude 53 32 North. Longitude 07 20 West. Inclination 75 08
+North. Wexford, Latitude 52 33 North. Longitude 07 08 West. Inclination 74 31
+North. Waterford, Latitude 52 30 North. Longitude 07 48 West. Inclination 74 30
+North. Cork, Latitude 51 10 North. Longitude 08 20 West. Inclination 73 32
+North. Kings Sail, Latitude 51 52 North. Longitude 08 32 West. Inclination 74
+07 North. Old Head of Kings Sail, Latitude 51 40 North. Longitude 08 38 West.
+Inclination 74 00 North. The Blaskets, Latitude 52 15 North. Longitude 11 35
+West. Inclination 74 22 North. Lymbrick, Latitude 53 04 North. Longitude 10 15
+West. Inclination 74 51 North. Galloway, Latitude 53 40 North. Longitude 10 40
+West. Inclination 75 13 North.
+
+In Scotland.
+d. m. Leith, Latitude 56 03 North. Longitude 03 15 West. Inclination 76 33
+North. Aberdeen, Latitude 57 42 North. Longitude 02 55 West. Inclination 77 18
+North. Isles of Orkney, Latitude 58 50 North. Longitude 03 22 West. Inclination
+77 35 North.
+
+In England.
+d. m. Barwick, Latitude 55 49 North. Longitude 02 45 West. Inclination 76 24
+North. Westchester, Latitude 53 37 North. Longitude 04 20 West. Inclination 75
+09 North. Newcastle, Latitude 54 58 North. Longitude 02 10 West. Inclination 75
+53 North. Gloucester, Latitude 52 03 North. Longitude 02 45 West. Inclination 74
+15 North. Bristol, Latitude 51 32 North. Longitude 02 50 West. Inclination 73
+51 North. The Lands end, Latitude 50 20 North. Longitude 05 58 West.
+Inclination 73 10 North. The Lizard, Latitude 50 10 North. Longitude 05 24
+West. Inclination 73 02 North. Plymouth, Latitude 50 36 North. Longitude 04 33
+West. Inclination 73 17 North. Portsmouth, Latitude 51 08 North. Longitude 01
+00 West. Inclination 72 52 North. Dover, Latitude 51 25 North. Longitude 01 00
+East. Inclination 73 41 North. London, Latitude 51 32 North. Longitude 00 00
+Inclination 73 47 North.
+
+To prove the Earth the Centure of the Starry Heaven, and not to have any
+Inclination toward the Poles, as Copernicus would have it.
+THe Earth by observation keeps its Parallels with the Starry Heaven all the
+year, without alteration; for by observation, that Star that is in the
+Equinoctial part of the Heaven, is always in the Equinoctial part of the Earth;
+so likewise, take all the Stars in their s everal Parallels to the Poles from
+the Equinoctial, and you will find they keep their Parallels with the Earth for
+ever.
+
+We need not go to the Equinoctial part of the Earth, to prove the Earth to
+keep her Parallels with the Equinoctial part of the Starry Heaven: For, observe
+in this Parallel or Latitude of London 51 d. 30 m. the Amplitude of any Star in
+the Equinoctial, either upon his Rising or Setting, and you shall find his
+Amplitude to be East or West of you for ever, in this Parallel or any other.
+
+Likewise observe the Meridian Altitude of any Star in the Equinoctial, in this
+Parallel or Latitude 51 d. 30 m. and you shall find his Meridian Altitude to be
+the Elevation of the Equinoctial for ever, in this Parallel or Latitude.
+
+And by daily observations we find the Sun to alter his Amplitude, and Meridian
+Altitudes, and Parallels with the Starry Heaven and Earth. And we find the
+Starry Heaven to keep his Parallels with the Earth always, in regard the Stars
+keep their Meridian Altitudes and Amplitudes with the Earth, without alteration.
+
+But if we should admit the Sun the Center of the Starry Heaven, and the Earth
+should have her Declination toward her Poles; then the Sun must be always in
+the Equinoctial part of the Starry Heaven; and the Sun must have the same
+Amplitudes, and Meridian Altitudes, with the Stars in the Equinoctial, in all
+Parallels: And then the Sun, and all the Stars in Heaven, should have a daily
+Calculation of the Declination of the Earth, as the Earth shall alter her
+Parallels, by Inclining or Declining toward her Poles.
+
+But it is proved by observation, that the Sun does not keep his Parallels with
+the Starry Heaven, therefore the Sun cannot be the Center of the Starry
+geometrical diagram Heaven; in regard the Sun is not always in the Equinoctial
+part of that Heaven, and the Sun has not the same Meridian Altitude, and
+Amplitude, and Parallel, with the Starry Heaven in the Equinoctial, but twice
+in the year, and that is as the Sun Inclines and Declines from one Tropic to
+another.
+
+And it is proved by observation, that the Equinoctial part of the Starry
+Heaven is always in the Equinoctial part of the Earth, for the Meridian
+Altitude of the Stars in the Equinoctial, is the Elevation of the Equinoctial
+in all Parallels. Now there is a necessity, that the Declination of the Sun
+should be Calculated for every day in the year, in regard of his Declination
+toward his Pole, 23 d. 30 m. which is the cause the Sun alters his Parallels
+and Amplitudes, and Meridian Altitudes, every day.
+
+But for the Starry Heaven, its Declination or Distance from the Equinoctial is
+the same for ever, and keeps it Parallels with the Earth.
+
+Another Example from the Sun, to prove the Earth the Center of the Starry
+Heaven.
+MOst Mathematicians hold, that when the Sun is depressed below the Horizon 15
+Degrees, that Twylight appears upon the Horizon; the (...)
+
+

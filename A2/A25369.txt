@@ -1,0 +1,1252 @@
+To HIT a MARK, As well upon Ascents and Descents, As upon the Plain of the
+Horizon: Experimentally and Mathematically DEMONSTRATED.
+
+BY ROBERT ANDERSON.
+
+LONDON: Printed for Robert Morden, at the Atlas near the Royal Exchange in
+Cornhil. MDCXC.
+
+To the Right Honorable Sir Henry Goodrick, Knt and Baront, Lieutenant General
+of their MAJESTY'S Ordnance, And One of His MAJESTY'S Most Honorable
+Privy Council, AND To the Honorable JOHN CHARLETON, Esquire Master-Surveyor of
+Their MAJESTY'S Ordnance, AND ALSO, To the rest of the Principal Officers of
+the same: This New Work Is Humbly Dedicated By Your most Observant, ROB.
+ANDERSON.
+
+To all Ingenious Persons that delight in the TRUE USE OF Great Artillery.
+IN the Year 1673. I published my Genuine Use of the Gun, viz. To strike a Mark
+at demand, within the reach of the Piece Analytically, upon the Principles of
+Galileus. In the Year 75. Monsieur Blondell propounded that Problem to the
+Royal Academy of Sciences of France to be resolved Geometrically, Mons. Buot,
+Romer the Sweed, and Monsieur de la Hire set upon the Mathematical part, whilst
+Monsieur Mariote and Perrault, with others, employed themselves about
+Experiments of several sorts, yet not of the Gun, which is the chief end of
+that Problem, Monsigneur the Dauphin being present.
+
+In the Year 86. Mr. Halley, in Transaction Number 179. gives a Resolution of
+the same Problem.
+
+All these purely Mathematical, without the consideration of any Accidental
+Impediments.
+
+Galileus tells us the beginning of the Parabola will be deformed, by reason of
+the Impulse of Fire: And the latter end, by reason of the Resistance of the
+Air, which amounts to very little, says he.
+
+Cavalierus bids us begin the Parabola where the Force leaves the thing
+projected. And this Line I call the Line of Impulse of Fire, and take it for a
+right Line for ease of Calculation; although I believe the thing projected
+moves as it can so far as the Impulse of Fire, or violent shake of the Engine is
+upon it, and the more irregular the thing projected is, the longer the Line
+will be before it passes into its Parabola.
+
+In these last 15 Years I have made more than a Thousand Experiments (and am
+ready to make as many more to illustrate these Truths) although I set down so few;
+by which I find the Impulse of Fire, and so carry the Work on upon the
+Principles of Galileus, viz. To hit a Mark not only upon the Plain of the
+Horizon, but upon Ascents and Descents in the Parabola, according to
+Mathematical Principles. For ease of the Mortar-Piece, I have made a Table of
+Horizontal Ranges, and the like may be done for Ascents and Descents, if it
+were necessary; Also, by the Experiments of Mr. Eldred and my own compared
+together, I have made Tables of Ranges for Long Guns to 8 degrees of Elevation,
+which I am apt to believe comes near the matter; that so when proved and
+approved, the said Ranges may be graved upon the Guns; so their Use will become
+very easy and exact. Who ever go about to prove or disprove these things, I
+would have them qualified with these three Qualifications, viz. Art, Care, and
+Honesty, and not to stand a tip-toe to see farther than Nature and Art have
+made them capable. To make the Work more perfect, I have given a short
+Discourse of Grenades, Fusees, Carcasses, and Fireballs. The service of War
+being ended, we turn our Guns into Pipes of Music, playing the Charms of a
+Soldiers delight, in Consorts of Musical Instruments, where Sound and Time are
+actually employed.
+
+Last of all, Guns in Geometrical Proportion, beautiful in shape, and
+delightful in sound, which might delight the Minds of noble Souls. These things
+I have done for the Truth, which has been my Recreation, and at my own Charge,
+and now may be useful, if faithfully put in practice, which I am apt to believe
+will not be corrected in this Age, nor perhaps in the next.
+
+In the Mortar-Piece, I verily believe, there cannot be three Minutes got; nor
+in the Long Guns ten, perhaps not five Minutes, taking every thing in its right
+sense, which I shall ever endeavor to do, whilst
+
+I am R. A.
+
+ON THE Most Ingenious AUTHOR, Mr. ROB. ANDERSON, and his New Work.
+AMongst the several Parts of Mathematical Elements, the Sections of a Cone,
+and Algebra, have ever been accounted the most abstruse and curious: But the
+adapting these to explicate the Theories of heavy Bodies forced from Engines,
+and the like, is that wherein the Age preceding ours, exceeded all that went
+before it, by the almost immense and universal Wit of Galileus: His Scholar
+Torricellio succeeded him, and with most admirable Felicity and Learning
+rendered those matters easy, which his Master had made Mathematical. But, To
+hit a Mark (within the Pieces reach) in any Angle above or under the Horizontal
+level of the Piece, was what they could not overcome. And Torricellius does
+professedly avow the Difficulties thereof to be almost insuperable.
+
+But this, our Author, by his extraordinary Abilities in Mathematics, happy
+Address, and indefatigable Pains and Diligence, has not only overcome, but
+further added many useful things, to render this New Science profitable.
+
+Those who have written on this Subject since the Author's Printing of his
+Genuine Use of the Gun, etc. 1673. have all confirmed what he first published
+to the World. Nor can this Doctrine meet with any Opposition, except from those
+who neither understand the Laws of Motion, nor the Nature of that Line wherein
+a Bullet moves.
+
+His long and great Experince (having in Twenty Years made many Thousand Shots,
+with greater Accuracy each, perhaps, than Men of common Practice ever have made
+one); his great Curiosity, Expense, and Labor; of all which this present Piece
+of his is an undoubted Instance; but most of all his Zeal to benefit the
+Public, without regard of profiting himself, renders him meritorious, not only
+of the Thanks and Praises of his Friends, but as he truly is an Honor to our
+Age and Nation, the same is due to him from all Mankind. The matter of this
+present Tract being wholly new, it could not reach that Length at which
+Collectors aim, who write the Histories (as I may say, the Life and Death) of
+such or such a Science: But it truly seems to be all that was wanting to
+complete the Art.
+
+Now having its Foundation laid in Scientifique Certitude, confirmd by much and
+long Experience, and thus explained by Numbers; it neither needs nor can have
+greater Commendation, other than reading of the Book it self, from which I
+shall no longer keep you.
+
+B. M.
+
+TO Hit a MARK.
+PROPOSITION I.
+GALILEUS Dialogo Quarto, Prop. I. Projectum dum fertur motu composito ex
+horizontali aequabili, and ex naturaliter accelerato deorsum, lineam
+Semiperabolicam deseribit in sua latione.
+
+If a thing be projected in a Motion compounded of an equal Horizontal, and
+naturally accelerated motion downward, it describes in its passage a
+Semiparabolical Line.
+
+And from Page 180 to 190, Discourses of the Accidental Impediments, viz. Of
+the Roundness of the Earth; The Impediment of the Air; and The Impulse of Fire.
+Here I shall endeavor to enquire what the Quality and Quantity of these
+accidental Impediments are.
+
+PROP. II.
+EXperiments made with a Mortar-piece well fixed, the Diameter 4 Inches, the
+length of the Chase 2 Diameters, the Chase and Ball turned very fit.
+
+On Wimbleton Heath, August 24. 1676.
+at 15 degrees. of Elevation Ranged the Shot 1336 1357 1378 at 75 degrees. of Elevation
+Ranged the Shot 1232 1337 1442 at 10 degrees. of Elevation Ranged the Shot 539 538
+537 at 80 degrees. of Elevation Ranged the Shot 514 507 500
+
+September. 17. 1677.
+1 at 15 degrees. of Elevat. Ranged the Shot 901 2 at 75 degrees. of Elevat. Ranged the
+Shot 848 3 at 00 degrees. of Elevat. Ranged the Shot 125 The Shot fell lower than
+the Center of the Mouth of the Piece 2.35
+Lo Specchio ustorio, Bonaventura Cavasieri, Page 99. Dico adunque, che I gravi
+spinti dal proiciente a qualsivoglia banda, fuorche per la perpendicolare all'
+Orizonte, separati che siano da quello, and esclusa l'impedimento dell'
+ambiente, descrivono una linea curva, insensibilinente differente dalla
+Parabola.
+
+I say then, that heavy Bodies being projected by any force, except it be
+perpendicular to the Horizon, and excluding the Impediment of the Medium, do
+after their separation from that force describe a curve Line insensibly
+differing from a Parabola.
+
+PROP. III. PROB. I.
+TWO Ranges made upon the plain of the Horizon, equi-distant above and below 45
+degrees. of Elevation, with the same Piece, Ball, and quantity of Powder being
+given. To find the Line of impulse of Fire, and greatest Range in the Parabola.
+
+
+
+Let R be the Axis on which the Piece moves, in Fig. 1.
+
+The Range RI at 15 degrees. of Elevation 901 the half 450.5=B The Range RX at 75
+degrees. of Elevat. 848 the half 424=C The sine of the Angle RFZ =S The sine of the
+Angle R nr = s The Line of Impulse of Fire RF the thing sought =Z
+Then as Radius: Z::S:RZ in the Diag. that is ^ in Diag. and ^ in the Diag.
+then ^, Galileus Dialog. quart. Prop. oct. that is, RB-ZS=RC-Z s, that is ^,
+that is, Half the difference of the Ranges multiplied by Radius, divided by the
+difference of the sine Complement of Elevations, the Quote is the Radius RF=Z
+the thing sought, the Line of Impulse of Fire.
+
+Here we take TO to be equal to OI, which is not exactly so; yet nevertheless
+it is sufficient for the purpose.
+
+Example.
+
+The difference of the Ranges in Radius 2650000 6.423246 The difference of the
+sines of 15 and 75 degrees. 70711 sub 4.849487 The Radius of the Circle RF=Z the
+Line of Impulse of Fire 37.48 1.573759 To find the greatest Range in the
+Parabola.
+As the Radius 90 10.000000 is to the sine of 15 9.412996 so is the Radius RF
+37.48 1.573759 to R r 9.7 0.986755 As the Radius 90 10.000000 is to the sine of
+75. 9.984944 so is the Radius RF 37.48 1.573759 to RZ 36.2 1.558703 the Range
+on the Horiz. at 75 424 the Range on the Horizon at 15 450.5 R r sub 9.7 RZ
+subst. 36.2 ND 414.3 FV 414.3 The Range at 75 NE, in Parab. 828.6 equ. to the
+Ran. FG at 15 in Parab. 828.6
+
+Then the double of NE or FG 1657.2 the greatest Rang in the Parabola.
+
+PROP. IV. PROB. II.
+THE Piece put parallel to the Horizon at R, Ranged the shot RMC, that is, the
+horizontal distance AC, the descent RA equal to MB, with the Range at 15 degrees.
+of Elevation upon the plain of the Horizon RI being given. To find RM the Line
+of Impulse of Fire.
+
+The Range RI at 15 degrees. of Elevat. 901 the half 450.5=B The Piece put parallel
+to the Horizon Ranged the shot 125 AC=A RA the height of the Piece above where
+the shot fell 2.35=C The sine of the Angle RFZ =S Radius =R RM=AB the Line of
+impulse of Fire, the thing sought =Z
+
+Then ^ in the Diag. ^ in the Diag. Then A-Z its square A2-2AZ+Z2, that square
+divided by 8C is ^ in Diagr. so then ^, that is RA2-2RAZ+RZ2=8CBR-8CSZ, that
+is, ^. In Numbers thus, Z2=231.84 Z=7155.6 its square Root is 36.67=Z=RF the
+Line of Impulse.
+
+Here note, if A2-2AZ+Z2 be divided by C, the Quote will be the double of the
+greatest Range in the Parabola; if by 2C the greatest Range, if by 4C the half
+of the greatest Range, if by 8C a quarter of the greatest Range in the Parabola
+FV.
+
+PROP. V. PROB. III.
+THE horizontal distance, and the descent being given. To find the double of
+the greatest Range in the Parabola.
+
+BM, 2.35. AC, 125 less AB, 3667. Their remains BC, 88.33 being given. To find
+the greatest Range in the parabola.
+
+BC 88.33 1.946108 squared 3.892216 BM 2.35 sub 0.371068 The double of the
+greatest Range which we call G 3320 3.521148 The half thereof is 1060 the
+greatest Range.
+
+PROP. VI. PROB. IV.
+THE horizontal distance, the descent, and the double of the greatest Range in
+the Parabola being given. To find the Line of impulse of Fire.
+
+AC 125=A RA equal to MB 2.35=C G the double of the greatest Range 3320 being
+given. To find RM the Line of impulse=Z.
+
+Then A-Z, squared is A2-2AZ+Z2=GC, that is, ^
+
+In Numbers thus Z2=250Z-7823. Whose square Root is 36.68=Z=RF the Line of
+Impulse.
+
+A method to extract the Roots of square Equations.
+
+Take half the number of the coefficient. To the square of that half, add or
+substract the absolute number, according to the Sign + or -, then extract the
+square Root of that sum or difference, which Root added to or subtracted from
+the half coefficient, the sum or difference will be the Root of the Equation.
+
+Example.
+
+Take half of 250 (which is called the Coefficient) 125 its square is 15625
+from that square substract the absolute Number 7823 by the sign-, the remainder
+is 7802, the Root thereof 88.32, subtracted from 125 the remainder is 36.68
+the Root required.
+
+In these Experiments at 0 degree of Elevation, and at 15 degrees. of Elevation
+there could be very little resistance of the Medium; therefore it is the
+impulse of Fire carrying the Ball in a right line, so far as the blast of the
+Piece is upon it, which after its separation from that force, passes into the
+Curve of a Parabola.
+
+By this means the point N is removed from the point F, which is one, if not
+the chief reason, that RX and RI are not equal upon the plain of the Horizon.
+
+PROP. VII. PROB. V.
+
+
+THE three last Propositions, viz. the 4th. 5th. and 6th. may be done
+Geometrically. Thus, if (in the 4th.) BC in the Diagr. be made equal to 8C in
+the equation, and CD in the Diag. be equal to B in the equation, then CE is a
+mean proportion. If EA in the Diag. be equal to A in the equation, and AF in
+the Diag. be equal to half the Coefficient in the equation, then HA and GA will
+be the Roots of the equation, and GA equal to 36.67.
+
+If we take mean proportions between 2A and R, and 8C and S in the Coefficient
+part of the equation, the construction will be more completed.
+
+In the 5th.
+If BC in the Diagr. be made equal to BM in the 5th. Prop. and CE in the Diagr.
+be equal to BC in the 5th. Prop. Then CD in the Diagr. a 3d. proportion will be
+equal to G the double of the greatest Range in the Parabola.
+
+In the 6th.
+If BC in the Diagr. be made equal to C in the equation, and CD in the Diag. be
+equal to G in the equation, then CE is a mean proportion, make EA in the Diag.
+equal to A in the equation, then IE, and KE are the Roots of the equation, and
+KE=36.67.
+
+PROP. VIII. PROB. VI.
+IF two shot be made at the same degree of elevation, with different quantities
+of Powder, the corresponding parts of the Ranges will be in proportion,
+sufficiently near the truth. And to find the parts simile.
+
+June the 5th. 1677. On Wimbleton-Heath, a Mortar-piece whose diameter of bore
+4 inches, and the length of the Chase 2 diameters, charged with 4 ounces of
+Powder, and laid to 15 degrees. of elevation, Ranged its shot to the horizontal
+distance of 659 paces.
+
+By this, and what is done by the Experiments before cited, the qualifications
+of all Mortar-pieces are known, being of the same kind.
+
+
+
+Example.
+
+As RI is to RF fig. 1. the Range at 15 degrees. of elevation 901 2.954725 the Line
+of impulse 37.48 1.573759 so is AB to AD fig. 3. the Range at 15 degrees. of
+elevation 659 2.818885 the Line of impulse 27.41 1.437919 As RI is to FG fig.
+1. the Rang. at 15 degrees. of elevat. 901 on the Hor. 2.954725 the Rang. at 15
+degrees. of elevat. 8286 in the Parab. 2.918345 so is AB to DE fig. 3. the Rang. at
+15 degrees. of elevat. 659 on the Horiz. 2.818885 the Rang. at 15 degrees. of elevat.
+606 in the Parab. 2.782505
+
+DE 606 the Range at 15 degrees. of elevat. in the Parabola, the double of it is
+1212 Paces the greatest Range at 45 degrees. of elevat. in the Parabola.
+
+PROP. IX. PROB. VII.
+THE Line of impulse, the greatest Range in the Parabola, and the Angle of
+elevation being given. To find the Range upon the plain of the Horizon.
+
+
+
+In the right angled Triangle ABC, there is given the Angle BAC, AD the line of
+impulse, and G the double of the greatest Range in the Parabola, with this
+qualification, as G:DC::DC:CB. To find AB the horizontal Range.
+
+BAC=S sine 70 93969 R= 100000 G= 2424 AD= r 27.41 DC=Z 2304.89
+
+Then, as R: r+Z::S:BC in diag. that is ^ in diag. and ^ in diag. by Lemma to
+the 23 Prop. De motu projectorum Liber Secundus, Torricel. Therefore ^ That is
+Z1R=ZGS+G rS. In Numbers thus, Z2=2277.80856Z+62434.7326296, the Root is
+2304.89=DC. Then DC 2304.89+DA27.41=AC2332.3 3.367784 sine 70 9.534052 AB
+797.69 2.901836
+
+A Second way by Lines thus, Geometrically.
+In Fig. X. If AC be made Radius, and CB the sine of the Angle of elevation,
+and AD the Line of impulse, draw DE parallel to CB, then DE will be a fourth
+proportion by 12.6 Euclid. Then make VL in Fig. Y. equal to DE in Fig. X, and
+LE in Fig. Y, equal to the double of the greatest Range; the Line LN will be a
+mean proportion, 13.6. Euclid. Further, if AC in Fig. X. be made Radius, and CB
+the sine of the Angle of elevation, and AD the greatest Range from the point D
+draw DE parallel to BC, DE will be a fourth proportion; Lastly, make OL in Fig.
+Y. equal to DE in Fig. X. then draw the Line NOM, and it will be the Line
+required, viz.=Z in the equation, and DC in the first Fig. of this Proposition.
+
+A Third way by Logarithms.
+G=2424 3.384533 G=2424 3.384533 S=93969 4.972985 S=93969 4.972985 r=27.41
+1.437909 8.357518 from 9.795427 from 2R=200000 5.301030 subst. R=100000
+5.000000 subst. OL 1138.9 3.056488 subst. 4.795427 rest LN+Radius 12.397713
+from LN= 2.397713 half LON tang. 12.22.30 9.341225 rest LON sine 12.22.30
+9.331041 subst. LN+Radius 12.397713 from ON 1165.9 3.066672 rest LO+ON 2304.8
+viz.=Z in the Equation, and DC in the first Fig. of this Proposition.
+
+A Fourth Way shall be showed, where we come to calculate the horizontal Ranges.
+
+PROP. X. PROB. VIII.
+THE Horizontal distance, the Line of Impulse, the double of the greatest Range
+in the Parabola being given. To find the Angle of Elevation, to hit an Object
+at the Horizontal distance given.
+
+
+
+In the Right angled triangle ABC, AB the Horizontal distance, AD the Line of
+Impulse, the Line G the double of the greatest Range, with this qualification,
+as G:DC::DC:CB being given. To find the Angle BAC, the angle of Elevation, to
+hit the Object at B, at the Horizontal distance AB.
+
+AB=H= 264 G= 568.867 To find the Roots Z=487.3=DC Paces. AD= r 6.534
+Z=302.8=DC
+
+Then ^ in the Diagr. r+Z=AC in Diagr. squared is ^ I. Euclid. that is ^
+
+That Equation in Numbers.
+
+-Z4+323609.663689Z2+4228931.085087852Z=22540483202.613561987516
+
+The Roots are had, by the usual method of extracting mixed Powers, which will
+be very easy to any ingenious Person, with a little practice; the lesser Root
+is greater than EB, and lesser than DC at 45 degrees. of Elevation. The greater
+Root DC, is greater than DC at 45 degrees. of Elevation, and lesser than DC, at the
+Complement of the lower Elevation from the Zenith.
+
+DC 302.8 DC 487.3 AD 6.534 AD 6.534 AC 309.334 AC 493.834 As AC 309.33
+2.490422 is to the Radius 90 10.000000 so is AB 264 2.421604 to the sine of the
+angle BAC 31 24 30 9.931182 As AC 493.83 2.490422 is to the Radius 90 10.000000
+so is AB 264 2.421604 to the sine of the angle BAC 57 41 9.728027 On
+Wimbleton-Heath,
+1689. June 17. 1. at 10 degrees. of Elevation the shot Ranged 610 2. at 78.56 of
+Elevation the shot Ranged 616 3. at 15 degrees. of Elevation the shot Ranged 680 4.
+at 73.57 of Elevation the shot Ranged 724 August 13. 1. at 15 degrees. of Elevation
+the shot Ranged 694 2. at 15 degrees. of Elevation the shot Ranged 680 3. at 73.57
+of Elevation the shot Ranged 711 4. at 73.57 of Elevation the shot Ranged 682
+1. at 31.24 of Elevation the shot Ranged 1953 2. at 31.24 of Elevation the shot
+Ranged 1932 3. at 57.41 of Elevation the shot Ranged 1975 4. at 57.41 of
+Elevation the shot Ranged 2020 1. at 31.24 of Elevation the shot Ranged 1077 2.
+at 31.24 of Elevation the shot Ranged 1105 3. at 57.41 of Elevation the shot
+Ranged 1077 4. at 57.41 of Elevation the shot Ranged 1135
+
+Here note, If the Horizontal distance be greater than the greatest Range of
+the Piece; the Object is beyond the reach of the Piece.
+
+On Wimbleton-Heath, June 26. 1689.
+1. at 15 degrees. of Elevation the shot Ranged 1149 2. at 15 degrees. of Elevation the
+shot Ranged 1197-1173 3. at 75 degrees. of Elevation the shot Ranged 1104 4. at 75
+degrees. of Elevation the shot Ranged 1102-1103
+
+In Fig. I.
+
+the difference of the Ranges in Radi 3500000 6.544068 the difference of the
+Sines of 15 and 75 degrees 70711 subst. 4.849487 the Radius of the Circle RF the
+line of Impulse 49.5 1.694581 As the Radi 90 10.000000 is to the sine of 15
+9.412996 so is the Radi RF 49.5 1.694581 to R r 12.8 1.107577 As the Radi 90
+10.000000 is to the sine of 75 9.984944 so is the Radi RF 49.5 1.694581 to RZ
+47.8 1.679525 the Rang. on the Hor. at 75 551.5 the Rang. on the Horiz. at 15
+586.5 R r subst. 12.8 RZ subst. 478 ND 538.7 FV 538.7 the Ran. at 75 NE in the
+Par. 1077.4 equ. to the Ran. FG at 15 in Par. 1077.4 As RI is to RF Fig. I. the
+Range at 15 degrees. of Elevation 901 2.954725 the Line of Impulse 37.48 1.573759
+In this Experiment the Range at 15 degrees. of Elevation 1173 3.069298 the Line of
+Impulse 48.8 1.688332
+
+Here may be seen, the fair agreement of the Parabola, with Experiments:
+
+For 49.5 less 48.8 is but seven Tenths.
+
+Upon Ascents and Descents. PROP. XI. PROB. IX.
+THE angle of Elevation, the double of the greatest Range, the Ascent or
+Descent being given. To find the Horizontal distance.
+
+
+
+In the right angled Triangle ABC, the Angle BAC, the double of the greatest
+Range G, and the Ascent BE, with this qualification; as G:AC::AC:CE being
+given: To find AC=Z.
+
+Then, as R:Z::S:BC in Diagr. that is ^ in Diagr. Then ^ in Diag. Then ^ in
+Diag. that is Z2R=ZGS-GPR.
+
+G= 2424 BE=P= 120 the sine of 80=S= 98581 Radius=R= 100000 AC=Z= 2258.37
+
+In Numbers thus,
+
+Z2=2387.17944Z-290880 whose Roots are 2258.37=AC=Z, and 128.8=AC=Z.
+
+By Logarithms thus, G=2424 3.384533 G=2424 3.384533 P=120 2.079181 S=98481
+4.993352 5.463714 8.377885 from LO+Radius is 12.731857 2R=200000 5.301030
+subst. HO= 1193.6 3.076855 subst. LO+Radius 12.731857 from sine LHO 9.655002
+rest cosine LOH 9.950405 HO=1193.6 3.076855 HL= 1064.8 3.027260
+HO+HL=2258.4=AC=Z HO-HL=128.8=AC=Z Radius 10.000000 AC 2258.4 3.353801 BCA sine
+10 9.239670 AB 392.17 2.593471 AB the Horizontal distance.
+
+By Lines thus,
+
+In Fig. Z, if VL be made equal to P, and LE equal to G, then LO will be a mean
+Proportion. Further, in Fig. X, if AC be made equal to Radius, and BC equal to
+the sine of the Angle of Elevation; as also, AD be made equal to G, that is
+equal to the greatest Range in the Parabola, then DE will be a fourth
+Proportion. Further, from the point O in Fig. Z, make OH equal to DE in Fig. X,
+continue the Line OH to I. Lastly, set one point of the Compasses in H, and at
+the distance HL, sweep the Arch ILR, then are IO and TO the Lines required.
+
+PROP. XII. PROB. X.
+THE Angle of Elevation, the double of the greatest Range, and the Descent
+being given. To find the Horizontal distance.
+
+
+
+In the right angled Triangle ABC, the Angle BAC, the double of the greatest
+Range G, and the descent BE, with this qualification as G:AC::AC:CE being
+given. To find AC=Z.
+
+Then, as R:Z::S:BC in Diagram that is ^ in Diagr. Then ^ in Diag. Then ^ in
+Diagr. that is Z2R=ZGS+GPR. G= 2424 BE=P= 120 The sine of 80=S= 98481 Radius=R=
+100000 AC=Z= 2503.37
+
+In Numbers thus,
+
+Z2=2387.17944Z+290880, whose Root is 2503.37.
+
+By Logarithms thus, ^
+
+Radi 90 10.000000 AC 25034 3.398530 BCA sine 10 9.239670 AB 434.7 2.638200 AB
+the Horizontal distance.
+
+By Lines thus.
+
+In Fig. X and Z, if VL be made equal to P, and LE equal to G, then LO will be
+a mean Proportion. Further, in Fig. X, if AC be made equal to Radius, and CB
+equal to the sine of the Angle of Elevation; as also, AD be be made equal to G
+then DE will be a fourth Proportion. Again make LH in Fig. Z, equal to DE in
+Fig. X, draw the Line OHI, set one foot of the Compasses in H, and at the
+distance HL strike the Arch LI, then IO will be the Line required.
+
+PROP. XIII. PROB. XI.
+THE Line of Impulse, the double of the greatest Range in the Parabola, the
+Ascent or Descent, and the Angle of Elevation being given. To find the
+Horizontal distance.
+
+In the right angled Triangle ABC, the Angle BAC, the double of the greatest
+Range G, the Line of Impulse AB, and the perpendicular Ascent BE, with this
+qualification, as G:DC::DC:DE, being given. To find DC=Z.
+
+Then R: r+Z::S:BC, that is ^ in Diag. ^ in Diagr. then ^ in Diag. that is ^ i.
+e. ^
+
+G= 2424 BE=P= 120 AD= r= 2741 sine of 80=S= 98481 Radius=R= 100000 DC=Z=
+2288.67
+
+In Numbers, thus,
+
+Z2=2387.17944Z-225447.4115496 whose Roots are 2288.67 and 98.51.
+
+By Lines thus,
+
+Upon an Ascent. In Fig. Y, if AC be made Radius, and CB the sine of the Angle
+of Elevation, and AD the Line of impulse, and DE drawn parallel to CB, then DE
+will be a fourth Proportion. In Fig. Z, if OD be made equal to DE in Fig. Y,
+and DE in Fig. Z be made equal to the double of the greatest Range in the
+Parabola, then DC will be a mean Proportion. Further, if RC be made equal to P
+the perpendicular Ascent, and CB equal to the double of the greatest Range,
+then CA will be a mean Proportion. Again, in Fig. Y, if AC be made equal to the
+Radius, and CB equal to the sine of the angle of Elevation, and AD the greatest
+Range, then DE will be a fourth Proportion, make AE in Fig. Z, equal to DE in
+Fig. Y, then LA and HA are the Lines desired.
+
+By Logarithms thus, G Log. 3.384533 G Log. 3.384533 G Log. 3.384533 r 1.437909
+S 4.993352 P 2.079181 S 4.993352 8.377885 5.463714 9.815794 2R 5301030 AC is
+2.731857 subst. R sub. 5.000000 AF 1193.6 3.076855 DC+Ra. 12.407897 from
+4.815794 9.676040 si. of DAC DC 2.407897 9.944661 si. of DCA Lastly. AC
+2.731857 AD 27.41 AD from 12.676518 DC 2288.7 AF subst. 3.076855 1193.6 AC
+2316.1 3.364757 rest 9.599663 si. of AFD ABC 10 sine. 9.239670 add AF 9.962590
+si. of DAF AB 402.2 2.604427 3039445 1095.1 the Horizontal distance desired. ALL the Number 2288.7 de.
+
+PROP. XIV. PROB. XII.
+THE Line of Impulse, the Descent, the greatest Range in the Parabola; the
+Angle of Elevation being given. To find the Horizontal distance.
+
+
+
+In the right angled Triangle ABC, the Angle BAC, AD the Line of Impulse, and G
+the double of the greatest Range in the Parabola being given, with this
+qualification G:DC::DC:CE. To find AB the Horizontal distance.
+
+Then R: r+Z::S:BC that is ^ in Diagr. ^ in Diagram.
+
+Then ^ in Diagr. that is ^ that is ^.
+
+G= 2424 BE=P= 120 the Sine of 80=S= 98481 Radius=R= 100000 AD= r= 27.41 DC=Z=
+2528.11
+
+In Numbers thus,
+
+Z2=2387.17944Z+356312.5884504 the Root is 2528.11.
+
+By Lines thus,
+
+In Fig. Y, if AC be made Radius, and CB, the sine of the Angle of Elevation;
+and AD the Line of impulse; then DE will be a fourth Proportion. In Fig. X. If
+OD be made equal to DE in Fig. Y, and DE in Fig. X, be made equal to the double
+of the greatest Range, then DC will be a mean Proportion. In Fig. X, if DR be
+equal to the Descent, and DB equal to the double of the greatest Range, DA will
+be a mean proportion. Then draw the Line AC. Further, in Fig. Y. If AC be
+Radius, and DC the sine of the Angle of Elevation, and AD the greatest Range,
+then DE will be a fourth proportion. In Fig. X, draw CF (at right Angle to AC)
+equal to DE in Fig. Y, then set one point of the Compasses in the point F, and
+take the distance FC, sweep the Arch CL, then LA will be the Line desired.
+
+By Logarithms thus, G Log. 3.384533 G Log. 3.384533 G Log. 3.384533 S 4993352
+S 4.903352 P 2.079181 r 1.437909 8.3^7885 5.463714 9.815794 2R sub. 5.301030 DA
+is 2.731857 R subst. 5.000000 GF 1193.6 3.076855 DC 4.815794 DC+Radi. is
+12.407897 from DA 2.731857 subst. Tang. DAC 9676040. sine DAC 9631992 subst. AD
+27.41 DC+Radi. 12.407897 from DC 2528.1 AC 2.775905 subst. AC 2555.5 3.407476
+FC+Radi. 13.676855 from ACB sine 10 9.239670 Tang. CAF 10.300950 AB 443.8
+2.647146 sine CAF 9.951528 subst. AF 1334.5 3.125327 CF 1193.6 AL 2528.1 the
+Numb. desired. Ascents. Descents. AB 402.2 with the Line of Impulse. AB 443.8
+with the Line of Impulse. AB 392.2 without the Line of Impul. AB 434.7 without
+the Line of Imp. 10.0 the Horizontal difference. 9.1 the Horizontal difference.
+
+PROP. XV. PROB. XIII.
+THE greatest Range, the Horizontal distance, Perpendicular Ascent, and Line of
+Impulse being given. To find the Angle of Elevation; to hit the said Ascent at
+the Horizontal distance given.
+
+In the right angled Triangle ABC: the double of the greatest Range in the
+Parabola G, the Horizontal distance AB, the Ascent BE, the Line of Impulse AD,
+with this qualification G:DC::DC:CE, being given. To find the Angle BAC.
+
+Then ^ in Diag. Further, ^ in Diagr. that squared is ^ that +H2 is equal to
+the square of r+Z, that is r2+2Z r+Z2 that is ^. 47. I. Euclid. that is ^
+
+G= 2424 AB=H= 392.2 BE=P= 120 AD=R= 27.41 Radius=R= 100000 DC=Z= 2290.6
+
+In Numbers thus, Z4-5294016Z2-322110040.32Z=-984013457269.2544.
+
+Whose Root is 2290.6=DC for the upper Elevation.
+
+Then, DC 2290.6 AD 27.41 AC 2318.01 subst. 3.365113 Radius 90 10.000000 AB
+392.17 2.593474 Cosine of the Angle ACB 80o 15 40 9.228361 The Angle of
+Elevation to hit the Object at E.
+
+PROP. XVI. PROB. XIV.
+THE double of the greatest Range in the Parabola, the Horizontal distance, the
+Perpendicular Ascent or Descent being given. To find whether the Object be
+within the Reach of the Piece or not.
+
+The double of the greatest Range EY, the Horizontal Distance AB, the
+Perpendicular Ascent BC being given. To find whether the Object C be within the
+Reach of the Piece or not. Let AF be the greatest Range, AE half thereof, Let
+ELF be a Simi-Parabola, then all the Projections from the Point A made with the
+same force will touch the Parabola ELF. Toricel. de Mot. Proj. lib. 2. Prop. 30.
+
+Then EY equal to 2AF, or 4AE in EO equal to the square of OL. Appol. Coni.
+Lib. 1. Prop. 11. Therefore if the Horizontal Distance AG be equal to OL, it is
+in the farthest extent of the Projection; if it be less as AB, the Point C is
+within; but if greater, as AI, the Point N is without, therefore beyond the
+Reach of the Piece, that is, if half the greatest Range, less the Altitude of
+the Object in Ascents, more in Descents, be multiplied by the Parameter (equal
+to the double of the greatest Range) whose square Root, if less than the
+Horizontal distance, the Object is out of the Reach of the Piece.
+
+AB= 392.17 OE= 486 2.686636 EY= 2424 EY= 2424 3.384533 AF= 1212 6.071169 AE=
+606 OL= 1085.4 3.035584 AO= 120 AB= 392.17 less than OL=1085.4 therefore the
+Object at C is within the Reach of the Piece.
+
+If any find the XV. Proposition tedious, they may make use of the Tables in my
+genuine Use of the Gun; for the difference is not much, as appears in the Close
+of the XIV. Proposition; the difference is 10 in the Ascent and 9 in the
+Descent, in that place; and in the XV. Proposition it is 16 minutes.
+
+By the Tables in my genuine Use of the Gun.
+Greatest Rang. G 1212 sub. 3.083503 greatest Range G 1212 sub. 3083503
+Greatest Rang. G 2000 3.301030 greatest Range G 2000 3.301030 Horizont. did. H
+392.17 2.593474 Perpend. Ascent P 120 2.0^9181 Horizont. did. H 647.15
+2.811001 Perpend. Ascent P 198 2.296708
+
+Then entering the Tables with the Horizontal distance 647.15 and Perpendicular
+Ascent 198, and you will find the Elevations 80 degrees. and 27. degrees.
+
+Thus have I given a Method to strike any place at demand within the Reach of
+the Piece, as well upon Ascents and Descents, as upon the plain of the Horizon,
+by Experimental and Mathematical demonstration. It remains now to say something
+of Mortar-Pieces, Granadaes, Fusees, Bombs, Carcasses, and Fireballs, etc.
+
+About 70 or 80 degrees of Elevation is the best place to work a Mortar-Piece
+for service: Therefore I have given Rules from the Elevation given, to find the
+Horizontal distance, which is as necessary as the Converse. These Examples are
+of both kinds, viz. as well upon Descents as Ascents: As also, with the Line of
+Impulse and without it, that the difference may be seen: But this is to be
+sure, that, with the Line of Impulse, will come nearest the Mark.
+
+In these Examples I have made use of the Ascent of Edinburgh Castle, which is
+the highest Ascent, if below, or lowest Descent if above, of any Garrison in
+this part of the World.
+
+If Mortar-Pieces were all similis, and their requisits of Powder as the Cube
+of the Diameter of their Bores, and their Grenades, Bombs, Carcasses, and
+Fireballs were similis, as they ought to be, their Ranges upon the plain of
+the Horizon under the same degrees. of Elevation would be equal, comparing like
+with like: So one Piece being well proved, that is, the Range of the Granada,
+Bomb, Carcass, and Fire-Ball being found to any degree of Elevation, the whole
+Work of a Mortar-Piece would become very easy and exact.
+
+Considering they are not similis, there is required the Range of the Piece, at
+any convenient degrees. of Elevation, with its requisite of Powder, then proceed by
+the Tables.
+
+A Table of Horizontal-Distances.
+de. ^i nu. dif. de. m^ nu. dif. de. mi. nu. dif. de mi. nu. dif. de. mi. nu.
+dif. de. mi. nu. dif. 521 145 82 4 89 151 30 521 30 5406 30 8851 30 9996 30
+8523 30 4808 190 144 79 7 92 152 711 16 5550 8930 46 9989 61 8431 76 4656 181
+142 76 10 94 154 30 892 30 169^ 30 9006 30 9979 30 8337 30 4502 177 149 73 13
+97 155 2 1069 17 5832 32 9079 47 9966 62 8240 77 4347 175 138 71 16 99 157 30
+1244 30 5970 30 9150 30 9950 30 8141 30 4190 173 132 69 19 101 157 1417 18 6107
+9219 48 9931 63 8040 78 4033 172 135 65 22 103 159 30 1589 3^ 6242 30 9284 30
+9909 30 7937 30 4874 170 133 62 25 107 160 4 1759 19 375 34 9346 49 9884 64
+7830 79 3714 170 131 61 28 110 161 30 2929 30 6506 30 9407 30 9856 30 7720 30
+3553 168 129 57 31 111 162 5 2097 20 663^ 35 9464 50 9825 65 7609 80 3391 16^
+128 54 34 113 16^ 30 2264 30 6763 30 9518 30 9791 30 7496 30 3228 167 126 51 36
+116 165 6 2431 21 6889 36 9569 51 9755 66 7380 81 3063 166 123 49 40 118 165 30
+2597 30 7012 30 9618 30 9715 30 7262 30 2898 166 122 46 42 120 166 7 2763 22
+7134 37 9664 52 9673 67 7142 82 2732 164 119 43 45 121 166 30 2927 30 7253 30
+9707 30 9628 30 7021 30 2566 163 117 40 49 125 168 8 3090 23 7370 38 9747 53
+9579 58 6896 83 2398 193 115 37 51 126 168 30 3253 30 ^485 30 9784 30 9528 30
+6770 30 2230 162 113 34 53 128 16^ 9 3415 24 ^598 39 9818 54 9475 69 6642 84
+2061 160 111 32 58 131 17^ 30 3575 30 ^709 30 9850 30 9417 30 6511 30 1891 159
+108 28 59 132 17^ 10 3734 25 ^817 40 9878 55 ^358 70 6379 85 1721 158 106 26 6^
+134 17^ 30 3892 30 ^923 30 9904 30 9295 30 6245 30 1550 158 104 22 65 136 171
+11 4050 26 8027 41 9926 56 9230 71 6109 86 1379 156 102 20 6^ 138 17^ 30 ^206
+30 8129 30 9946 30 ^162 80 5971 30 1208 155 98 16 71 139 172 12 1361 27 8227 42
+9962 57 9091 72 5832 87 1036 153 96 14 73 141 17^ 30 ^514 30 8323 30 9976 30
+9018 30 5691 30 864 151 95 11 76 144 173 13 ^665 28 8418 43 9987 58 8942 73
+5547 88 691 151 92 8 7^ 144 17^ 30 ^816 30 8510 30 9995 30 8864 30 5403 30 519
+150 89 4 8^ 146 17^ 14 ^966 29 8599 44 9999 59 8782 ^4 5257 89 346 148 87 2 8^
+148 17^ 30 5114 30 8686 30 10001 30 8698 30 5109 30 173 147 83 1 8^ 150 17^ 15
+5261 30 8769 45 10000 60 861^ ^5 4959 ^^ ^000
+
+The Use Table of Horizontal Distances.
+I. Any degree of Elevation under 45 being given, to find at what degree above
+45 will hit the same horizontal distance; suppose 12 degrees, I look against 12
+degrees in the Table, and find 4^61, which I look for beyond 45 degrees, and
+find it against 76 degrees. 57 min. so I conclude, a Piece charged with the same
+quantity of the same Powder, and the same Ball put to 12 degrees. and 76 degrees. 57.
+min. of Elevation, will Range the Shot to the same Horizontal distance.
+
+Here note, Suppose a Piece be charged with 1, 2, 3, and 4 parts of Powder and
+the same Ball, and put to those degrees of Elevation, if the upper and lower
+Ranges be equal, there is no sensible resistance of the Medium.
+
+II. June the 5th. 1^77. on Wimbleton Heath I charged the Mortar Piece with 4
+ounces of Powder, and put it to 15 degrees. of Elevation, it ranged the Ball to the
+Horizontal distance of 659 paces; with that, I would hit a Mark with the same
+Piece, Ball, and quantity of Powder, at the Horizontal distance of a 1000
+paces. Then as 659, is to a 1000, so is 5261 the tabular Number of 15 degrees. to
+7983, which gives in the Table 25 degrees. 47 min. and 63 degrees. 16 min. to hit a
+Mark at the Horizontal distance of a 1000 paces.
+
+III. Feb. the 12th 1677/8. on Wimbleton Heath, a Piece whose Length of its
+Chase is 18 Inches and Diameter of Bore 3 Inches, charged with 8 ounces of
+Powder, and laid to 10 degrees. of Elevation, Ranged its shot to the Horizontal
+distance of 1805 paces; with that I would hit a Mark at the Horizontal distance
+of 2112 paces, that is 2 English Miles: Then as 805, is to 2112, so is 3734 the
+Tabular Number at 10 degrees. to 9797, which gives in the Table 38 degrees. 41 min. and
+50 degrees. 25 min. to hit a Mark at the Horizontal distance of 2112 paces, viz. 2
+English Miles.
+
+The Making of the Table.
+In Fig. to the III. Proposition, the Angle MRF being given, RZ, FV and OI
+being found; that is RI the Horizontal distance to that degree of Elevation;
+and then reduced, as in the Table.
+
+A Table of the Requisites of Powder of like Mortar-Pieces, from 6 Inches to 20
+Inches Diameter; and they are as the Cubes of the Diameters of their Bores.
+In. Dec. Pou. Ou. In. Dec. Pou. Ou. A B A B 6 13 13 8 09 6 5 1 01 13 5 9 10 7
+1 05 14 10 11 7 5 1 10 14 5 11 14 8 2 00 15 13 03 8 5 2 06 15 5 14 09 9 2 14 16
+16 00 9 5 3 06 16 5 17 09 10 3 14 17 19 03 10 5 4 08 17 5 20 15 11 5 03 18 22
+12 11 5 5 15 18 5 24 11 12 6 12 19 26 13 12 5 7 10 19 5 28 14 20 31 04
+
+The Use of the Table.
+The Diameter of a Mortar Piece 9 Inches and being given. To find the Requisite
+of Powder.
+
+Look in Column A, and there find 9 Inches and 5 Tenths, and against it in
+Column B there is 3 Pound 6 Ounces, its Requisite of Powder.
+
+The like in the rest.
+
+OF GRENADES, CARCASSES, And FIREBALLS.
+
+
+OF GRENADES.
+AS a Granarium keeps Corn for the Preservation of the Life of Man, so these
+Granariums (corruptly called Grenades) are filled with Corns of Fire for the
+Destruction of Mankind.
+
+A Granade is a hallow Sphere of Iron (as we may so call it) filled with
+Corn-Powder, with a Fusee to fire the dry Powder to break the Shell when it
+arrives to the designed Object (as in Fig. A) the Fusee B, the Vents R, ZR
+equal to two Thirds of the Diameter of the Granado.
+
+If the Granado be too little for the Chase of the Mortar, marle it with slack
+twisted Thread, brushing it all over with hot Pitch, throwing Brick-dust
+thereon, till it be fit for the Piece, by its Gauge C, charge the Fusees with
+one of these Compositions following, 1. Of Powder 1 Of Saltpetre 1 Of Sulphur 1
+2. Of Powder 3 Of Saltpetre 2 Of Sulphur 1 3. Of Powder 4 Of Saltpetre 3 Of
+Sulphur 2 4. Of Powder 4 Of Saltpetre 3 Of Sulphur 1
+
+Casimire Simienowiez, Page 206.
+
+Drive it into the Granade to the Shoulder Z, being well glued.
+
+Mortars usually Range the Granads with their due Requisite of Powder about 1250
+paces upon the plain of the Horizon; the best place generally to work a Mortar,
+is from 70 to 80 degrees. of Elevation, the greatest Altitude of a Projection at 75
+degrees. of Elevation whose Horizontal distance is 1250 paces, is about 583 paces,
+and the time of the Flight of the Granad will be about 27 Seconds of time,
+which time the Fusee ought to continue burning before it fires the Granad; but
+if upon an Ascent or Descent, less or more time is to be allowed, according as
+the Object is situated. And this in the general.
+
+Example.
+
+The greatest Range in the Parabola 1250 A ^/4 part equal to ND in Fig. I 312.5
+In the Right Angled Triangle NDL.
+
+As Radius 90 10.000000 is to ND 312.5 2.494850 so is Tang. of the Angle DNL 75
+10.571948 to DL 1166.2 3.066798 the half DQ 583.1
+
+Then, As 20.2 Paces 1.305351 is to the square of 2. 30 that is 150 that is
+22500 4.352183 so is DQ 583.1 2.765743 to the square of the Time 5.812575 The
+Root 805.9 i. e. 13.43 2.906287 The Double, that is near 27, 26.86
+
+To give a Fusee its just time of burning, viz. 27 Seconds.
+Take a Bullet of any convenient weight, fasten a String to it, measure from
+the Center of the Bullet, 39 Inces 2 Tenths, make a Loop there, hang it upon a
+Pin, move the Bullet with your Hand to a convenient distance out of its
+Perpendicularity, then let it loose, these Swings or Vibrations will be Seconds
+of Time sufficiently near the truth.
+
+Drive your Fusee with one of the former Compositions, then fire it, if it
+continues burning 27 Seconds of Time, you have hit right, if the Fusee
+continued not burning the full Time, give it a slower Composition, or the
+contrary.
+
+Few Trials make Perfectness.
+A Bomb has the same Office as a Granade, only it is in the form of a Spheriod,
+that is, longer one way than the other, therefore its Range will be more
+uncertain.
+
+There are also Granads to be cast with the hand; their Office is the same as
+the former; they are of Iron, Brass, Glass, and other mixed Metals that are
+brittle.
+
+Thomas Malthus, an Engineer of England, was the first that exercised the
+Mortar-Piece, and taught the Use of Grenades in the 17 Provinces in Germany
+and Poland.
+
+The French King hearing of his good success, sent for him, to instruct the
+French as he had done the Dutch, and employed him in several Sieges, and at the
+Siege of Graveline, where he was slain by a Musket Shot in the Head.
+
+William Eldred, 60 Years a Gunner, sometime Master-Gunner of Dover-Castle, an
+honest industrious Person, gives us many good Experiments of Long Guns, for the
+space of thirty Years; a good Work: At the latter end of his days he eat the
+Charity of charitable Sutton, and not the Bounty of his Prince; for he dyed in
+the Charter House.
+
+OF CARCASSES.
+TAke two Armillas of Iron of a convenient breadth, a little less than the
+Diameter of the Mortar-Piece to which they belong, put them at right Angles,
+rivet them fast at each Pole, at a and b in Fig. D.
+
+Rivet a Basin of Iron at the bottom, as c, a and d, to bear the Impulse of
+Powder and fall of the Carcass, a lesser Basin at the top, as gbh, in which
+there ought to be Holes to fire the Carcass, take an Armilla fit to the
+Diameter of the Piece, and place it equidistant from each Pole, as of.
+
+Fill it with this Composition. 12 of Pitch 12 of Colophone. 4 of Oil of
+Turpentine. 1 of Hemp cut short.
+
+
+Or, 2 lb of Pitch. 4 of Oil of Turpentine. 1 of Hemp cut short.
+
+
+All these melted together, take fit Marlin, and from the two Shoulders d and c
+marle it fast, fill it as you marel, till you come to gh, fasten the Marlin to
+the Armillas with fine Marlin, if need be.
+
+Coat it with this Receipt.
+
+Pitch 4 Rosin 3 Wax 2 Turpentine 1
+Fit it to its Gauge C, make Holes in the top of the Carcass about 3 Inches
+deep, more or less, according to the magnitude of the Carcass.
+
+Use for the Priming the same Composition as for Fusees of Grenades, with
+quick Match moderately droven into the Holes. If it be designed to place
+Petards in the Carcass, let there be Holes made in the Armillas to fix them in,
+or they may be placed in the Marlin, as the Carcass is a filling: These are
+things of Common Sense.
+
+There is another kind of Carcass, namely, in form of an Egg, as E, whose
+length is a Diameter and half of the Piece to which it belongs, composed of two
+Hoops of Iron and two Basins, as in the former, with a Zone of Iron in the
+middle, as also a Trunk of Iron E, with two Shoulders, as Z and X, to be placed
+in the Carcass, as AB, with Holes to place the ends of the Petards in, the
+Trunk filled with a slow Composition to fire the Petards as the Carcass
+confumes; these Petards, as F, are to be charged with dry Powder and Bullets,
+to destroy those that come to quench the Carcass. The Range of this Carcass
+will be very uncertain, by reason of the irregular form.
+
+OF FIREBALLS,
+IN Fig. G, Take the Trunchion H, wind Marlin about it in form of a Sphere, as
+AB, leaving the first end of the said Marlin out, as I, about this Sphere of
+Marlin put Canvas several thicknesses, dipping the Sphere of Marlin in Glue
+betwixt every thickness of Cloth.
+
+Then coat it with the Coating before cited, till it fits its Gauge C, pluck
+out the Truncheon H, then draw the Marlin I till it all comes out, there will
+remain a Concave Sphere AB, which being filled with this Composition, viz.
+Powder-dust 12 Saltpetre 6 Sulpher 3 Colophone 2 more or less, as necessity
+requires.
+
+
+Driving it hard as you fill, it being finished, it is fit for use.
+
+Lastly, place a Basin of Lead at E, as CED, to bear the blast of the Piece,
+and carry that side of the Ball E foreright, that the mouth of the Ball may be
+uppermost, when it arrives to its assigned place.
+
+Fill the Concave Sphere AB with either of the Compositions made for the
+Carcasses, and that will be another sort of Fire-Ball.
+
+Much more might be said of this Subject, as well as of the whole, but this may
+suffice at the present.
+
+To HIT a MARK WITH Long Guns.
+PROPOSITION I.
+THE Length of the Chase, Diameter of the Bore, and Requisite of Powder of any
+Piece; with the Length of the Chase, Diameter of the Bore of any other Piece
+being given. To find its Requisite of Powder.
+
+
+
+For if, as AE:BD::AF:BL, then as the Cylinder GE, is to the Cylinders ID; so
+is the Requisite of Powder in GF, to the Requisite of Powder in IL. But as
+quantity is to quantity, so is weight to weight being of the same kind.
+Therefore as the square of AG in AE is to the square of BY in BD; so is the
+weight of the Powder GF, to the weight of Powder in IL. Here we compare the
+Basilisk with the Culverin, EAG the Basilisk, and DBI the Culverin.
+
+L the Length of the Culverin 11 Foot. D the Diameter of the Bore 5 Inch. P the
+Requisite of Powder 9.977 R the greatest Range 4.837 T the Time of the Flight
+of the shot. F the comparative Force. L the Length of the Basilisk 23.5 Foot. D
+the Diameter of the Bore 46 Inch. P the Requisite of Powder. R the greatest
+Range. T the Time of the Flight of the shot. F the comparative Force.
+1 the Diameter of the Bore of the Culverin BY 5 Inches 0.698970 2 the Square
+of the first 1.397940 3 the Length of the Chase of the Culverin BD 11 Foot
+1.041393 4 the Log of the second and third 2.439333 5 the Diameter of the Bore
+of the Basilisk AG 4.6 0.662758 6 the Square of the fifth 1.325516 7 the length
+of the Chase of the Basilisk AE 23.5 1.371068 8 the Log of the sixth and
+seventh 2.696584 9 the Requisite of Powder of the Culverin 9 l. 977 3.998999 10
+Log of the 8 and 9 6.695583 11 the Log of the 4 subst. 2.439333 12 the
+Requisite of Powder of the Basilisk AGFH 18 l. 041 4.256250
+
+That is, LD2: LD2::P: P, That is, LD2 P=LD2 P, so any five of these six being
+given, the sixth is also given.
+
+1. LD2: LD2::P: P 2. D2 P:D2P:: L:L 3. L P:LP:: D2:D2 4. LD2:LD2:: P:P 5.
+DP:D2 P::L: L 6. LP:L P::D2: D2
+PROP. II.
+THE Length of the Chase, the Diameter of the Bore and greatest Range of any
+Piece, with the Length of the Chase and Diameter of the Bore of any other Piece
+being given, to find the greatest Range.
+
+Let XY=ZR; then as AE to BD, so is the Range of the Cylinder HV, to the Range
+of the Cylinder KN, but as XC is to XY; so the Range of the Cylinder KN to the
+Range of the Cylinder KM. That is as AE in XC, is to BD in ZR, so is the Range
+of the Cylinder HV, to the Range of the Cylinder KM. But a Sphere is two Thirds
+of its circumscribed Cylinder, therefore the Ranges of the Bullets are in the
+same proportion.
+
+1 the length of the Culverin BD 11 Foot 1.041393 2 the Diameter of the Bore of
+the Basilisk 45 Inches 0.662758 3 the Log of the 1 and 2 1.704151 4 the length
+of the Basilisk AE 235 Foot 1.371068 5 the Diameter of the Bore of the Culverin
+BY 5 Inches 0.698970 ^ the Log of the 4 and 5 2.070038 7 the greatest Range of
+the Culverin 4837 3.684576 8 the Log of the 6 and 7 5.754614 9 the 3 subst.
+1.704151 10 the greatest Range of the Basilisk 11.232 4.050403
+
+1 L D:LD::R: R 2 DR:DR:: L:L 3 L R:LR::D: D 4 LD:L D:: R:R 5 DR: DR::L: L 6
+LR:L R::D:D
+PROP. III.
+THE length of the Chase, Diameter of the Bore and force of any Piece; with the
+length of the Chase, and Diameter of the Bore of any other Piece being given.
+To find the force.
+
+Let AB be the greatest Range of the Culverin, and CD the greatest Range of the
+Basilisk. Let the natural falling of the Ball from A to B, be as the Cube of
+its Diameter, viz. 125 the force of the Culverin. The natural falling of the
+Ball from C to Z be as the Cube of the Diameter of the Ball of the Basilisk
+97.336; the falling of the Ball from C to D be the force of the Basilisk, to be
+found; as the square Root of AB=CZ, is to the square Root of CD so is the force
+at Z, to the force at D. Torricel. de Motu Proj. Lib. II. Prop. XXII.
+
+1 the greatest Range of the Culverin AB 4.837 3.684576 2 the square Root of
+the 1 1.842288 3 the greatest Range of the Basilisk 11.232 4.050457 4 the
+square Root of the 3 2.025228 5 the Diameter of the Bore of the Basilisk 4.6
+0.662758 6 the Cube of the 5 1.988274 7 the Log of the 4 and 6 4.013502 8 the 2
+subst. 1.842288 9 the force of the Basilisk 148 2.171214
+
+1 L D:LD:: D6: F2 2 DF2:D D6:: L:L 3 L F2: LD6::D: D 4 LD:L D::F2: D6 5 D D6:
+DF2::L: L 6 LD6:L F2:: D:D
+PROP. IV.
+THE Length of the Chase, Diameter of the Bore of any Piece, with the Time of
+the flight of the shot; with the length of the Chase, Diameter of the Bore of
+any other Piece being given. To find the Time or Duration of the shot in its
+flight.
+
+Let AB be the greatest Range in the Culverin, CD=AF the greatest Range of the
+Basilisk, the time of the falling of the Ball from A to B, is to the time of
+the falling of the Ball from A to F; as the square Root of AB, is to the square
+Root AF. Or as AB to AF, so the square of the time of AB, to the square of the
+time AF. Torricel. de Motu Proj. Lib. II. Prop. XIX.
+
+June 24. 1686. I made an Experiment of the falling of heavy Bodies from the
+top of Cripplegate-Steeple, which is 101 Foot higher than the place where they
+fell, viz. Three Iron Balls, one of 5 Inches Diameter, another of 3 Inches, and
+another of 2 Inches and an half Diameter, which constantly passed that space in
+2 30 of Time, with such exactness, that not any difference could be discerned;
+Mr. Leake, Mr. Tompion, our famous Watchmaker, who kept time with a Watch that
+moved seconds, Mr. Norris, Mr. Morden, with several other Persons there present.
+
+If any heavy Body fall 101 foot, or 20.2 paces in 150 thirds of time, what
+time shall it require to fall 4837 paces, the greatest Range of the Culverin.
+As 20.2 is to the square of 150, so is 4837 to the square of the time.
+
+1 the Time 150 thirds 2.176091 2 the square of the 1 4.352182 3 the greatest
+Range of the Culverin 4837 3.684576 4 the Log of the 2 and 3 8.036758 5 the
+first space 20.2 subst. 1.305351 6 the Log of the square of the time 6.731407 7
+the time 2321, that is, 38 41 3.365703
+
+The time of the flight of the shot of any Piece at 45 degrees of Elevation, is
+the time of the falling of an heavy Body the greatest Range of the same Piece.
+
+1 the Log of the square of the time of the Culverin 6.731407 2 the greatest
+Range of the Basilisk 11.232 4.050463 3 the Log of the 1 and 2 10.781870 4 the
+greatest Range of the Culverin Log. subst. 4837 3 684576 5 the Log of the
+square of the time of the Basilisk 7.097294 6 the time of the Basilisk 3537
+that is 58 57 3.548647
+Or, 1 L D:LD::T2: T2 2 L T2: LT2::D: D 3 DT2:DT2:: L:L 4 LD:L D::T2:T2 5 DT2:
+DT2::L: L 6 LT2:L T2:: D:D
+
+
+PROP. V.
+THE greatest Range in the Parabola, the Line of Impulse, the Angle of
+Elevation being given. To find the Range upon the plain of the Horizon
+
+The greatest Range in the Parabola 1657.2 DE, the Line of Impulse AD, the
+Angle KAD 45 degrees. of Elevation. To find AB the Range upon the plain of the
+Horizon.
+
+As Rad. 90 10.000000 is to AD 37.48 1.573800 so is the sine of the Angle KAD
+45 degrees. 9.849485 to KD or AK 26.5 1.423285
+
+DAK being 45 degrees. therefore ADK is 45 degrees. therefore AK is equal to KD, and by
+the same reason, GP and DG are equal, therefore GH is equal to half DG.
+
+HG 414.3 DK 26.5 HN 440.8 As HG 414.3 2.617315 is to HN 440.8 2.644242 so is
+the square of DG or GE 8286 5.836690 to the square of NB 5.863617 ND 854.7
+2.931808 NK 828.6 AK 26.5 AB 1709.8
+
+Here note, AK and FB differs but 4 Tenths of a Unit, therefore in the
+following Work, I take the double of AK for them both.
+
+PROP. VI.
+TO make a Table of Ranges, of any Gun; for the plain of the Horizon to every
+30 Minutes and single degree of Elevation.
+
+And here remember, that the Ranges upon the plain of the Horizon, are as the
+sines of the double of the Angle of Elevation.
+
+For Example sake, the Cannon Royal whose greatest Range is 3298 paces.
+
+As AB 1709.8 3.232945 is to AD 37.48 1.573800 so is the greatest Range of the
+Cannon 3298 3.518251 to the Line of Impulse 72 paces 1.859106
+
+If we make use of the last Diagram, and suppose AB to be the Horizontal Range
+at 45 degrees. of Elevation of the Cannon Royal, and AD the Line of Impulse 72
+paces. Then, As the Rad. 90 10.000000 is to the sine of the Angle ADK 45 degrees.
+9.849485 so is the Line of Impulse AD 72 1.859106 to AK 51 1.708591
+
+The greatest Range of the Cannon Royal AB 3298 subst. FB+AK=102 The greatest
+Range in the Parabola DE 3196
+As the Rad. 90 subst. 10.000000 is to DE 3196 3.504607 so is the sine of 1
+degrees. 8.241855 to 56 1.746462 L:P 72 2 degrees. 8.542819 56 112 2.047426 30 128 3
+degrees. 8.718800 112 167 2.223407 1 184 4 8.843585 167 223 2.348192 30 239 etc.
+223 2 295 etc.
+
+These Calculations may suffice, till such time as we have more Experiments to
+confirm these; or to make Tables of Ranges more exactly.
+
+The greatest Ranges of Long Guns, are deduced from many Experiments made by
+Eldred in his Gunners Glass, especially those in Page 74. 1611. July 2. and
+Page 75. 1636. August 30. The manner how they are deduced may be seen in my
+Genuine Use of the Gun, Prop. 1, 2, 3, 4. Printed for Robert Morden, at the
+Atlas in Cornhil, near the Royal Exchange.
+
+These Ranges for single degrees, are deduced from those Ranges, and what was
+done on Wimbleton-Heath, September. 17. 1677.
+
+A Table of the Names, Diameters of the Bores, and Length of the Chases of Ten
+several Pieces of Canon; with their Requisites of Powder, greatest Ranges,
+Comparative Force, with their Ranges to 8 degrees. of Elevation, Experimentally and
+Mathematically demonstrated.
+The Names of each Piece. Lengths of the Chases. Diamet. of the Bores.
+Requisits of Powder. Greatest Ranges. Comparative Force. Feet. Inches. lb
+Paces. A Rabbinet 1 3 1.75 5 3769 38 A Falconet 2 4 2 9 4398 61 A Falcon 3 6
+2.75 1 10 4797 166 A Minion 4 8 3 2 10 5864 238 A Saker 5 9 3.5 4 5654 371 A
+Demi Culverin 6 10 4.5 7 5 4886 733 A Culverin 7 11 5 10 4837 1000 A Demi
+Cannon 8 11 6 14 6 4031 1575 A Whole Cannon 9 12 7 21 5 3769 2422 A Cannon
+Royal 10 12 8 27 14 3298 3382
+
+The USE of these Ranges.
+Suppose an Engineer be commanded to batter a Bastion, or a Curtain, at the
+Horizontal distance of 900 paces, with a whole Cannon, a Demi Cannon, and a
+Culverin; I look in the Table, and find 900 against the Demi Cannon, and at the
+head 6, for the whole Cannon 6 27 and for the Culverin 4 52 to batter the said
+Bastion or Curtain, taking the proportional parts; thus, in the Culverin,
+80:30:60:22, whole Cannon 63:30:58:27.
+
+0 30 1 30 2 30 3 30 4 L.P. D. R. D. R. D. R. D. R. D. R. D. R. D. R. D. R. D.
+1 83 64 147 63 210 64 274 64 338 63 401 64 465 63 528 63 591 63 2 96 74 170 75
+245 74 219 74 393 74 467 74 541 74 615 74 689 74 3 105 81 186 81 267 81 348 81
+429 81 510 81 591 80 671 81 752 80 4 128 99 227 99 326 99 425 93 524 99 623 99
+722 98 820 99 919 98 5 124 96 220 95 315 96 411 95 506 95 601 9 697 95 792 94
+886 95 6 107 83 190 82 272 83 355 82 437 83 520 82 602 82 644 82 766 82 7 106
+83 189 81 270 82 352 81 433 82 515 81 596 82 678 80 758 82 8 88 68 156 68 224
+68 292 69 361 68 429 67 496 68 564 68 632 67 9 83 64 147 63 210 64 274 64 338
+69 401 64 465 63 528 63 591 63 10 72 56 128 56 184 55 239 56 295 56 351 55 406
+55 461 56 517 55
+
+Here note well also; The Object that the Ball is to hit, ought to be as high
+above the Horizon, as the Mouth of the Piece; if not, the Ranges at 0, 1, 2,
+and 3 degrees of Elevation will sensibly differ, those Ranges at 6, 7, and 8
+degrees of Elevation not so much as the former.
+
+30 5 30 6 30 7 30 8 R. D. R. D. R. D. R. D. R. D R. D. R. D. R. 1 654 3 717 63
+780 62 842 63 905 62 967 61 1028 62 1090 2 763 73 836 73 909 73 982 73 1055 72
+1127 72 1199 72 1271 3 832 80 912 80 992 79 1071 80 1^51 78 1229 79 1308 78
+1386 4 1017 98 1115 97 1212 97 1309 97 1406 97 1503 96 1599 95 1694 5 981 94
+1075 94 1169 94 1263 93 135 93 1449 93 1542 92 1634 6 848 81 929 81 ^010 81
+1091 81 1172 80 1252 80 1332 80 1412 7 840 80 920 81 1001 79 1080 81 1161 79
+1240 80 1320 78 1398 8 699 67 766 67 833 67 900 67 967 66 1033 66 1099 66 1165
+9 654 63 717 63 780 62 842 63 905 62 967 61 1028 62 1090 10 572 55 627 55 682
+54 736 55 791 54 845 54 899 54 953
+
+Warlike Music ILLUSTRATED, In several Consorts of Phrygian Flutes. Clearly
+demonstrated by Principles of Music and Mathematics.
+PROP. I.
+THE length of the Chase 12 foot of a Cannon Royal being given. To find the
+length of the Chases of seven lesser Pieces of Cannon that shall be in Musical
+Proportion.
+
+The greater tone 9/8 their Log. 95424251 90308999 The difference of their Log.
+5115^52 The lesser tone 10/9 their Log. 100000000 95424251 The difference of
+their Log. 4575749 The half Note 16/15 their Log. 1.20411998 1.1^6^9126 The
+difference of their Log. 2802872 The perfect Eight 2/1 12 1.07918125 4575749
+10/9 The middle Seventh 9/5 10.8 1.03342376 5115252 9/8 The lesser Sixth 8/5
+9.6 0.98227124 2802872 16/15 The perfect-Fifth 3/2 9 0.95424252 5115252 9/8 The
+perfect Fourth 4/3 8 0.90309000 4575749 10/9 The lesser Third 6/5 7.2
+0.85733251 2802872 16/15 The greater Second 9/8 6.75 0.82930379 5115252 9/8 The
+Unisound 1/1 6 0.77815127
+
+PROP. II.
+THE Diameter of the Bore of the Cannon Royal being 8 Inches. To find the
+Diameter of the Bore of seven lesser Pieces of Cannon, which shall be in
+Musical Proportion: By the first.
+
+PROP. III.
+THE Requisite of Powder of the Cannon Royal being 28 Pounds. To find the
+Requisite of Powder of seven lesser Pieces of Cannon in Musical Proportion: By
+the first.
+
+PROP. IV.
+THE Force of the Cannon Royal being taken to be as the Cube of the Diameter of
+the Bore, viz. 512. To find the Force of seven lesser of Pieces of Cannon which
+shall be in Musical Proportion: By the first.
+
+PROP. V.
+THE Time of the Flight of the shot of the Cannon Royal 1000. To find the time
+of the flight of the shot of seven lesser Pieces of Cannon which shall be in
+Musical Proportion: By the first.
+
+PROP. VI.
+THE Length of the Chase, Diameter of the Bore of the Cannon Royal, as also the
+Length of the Chase, and Force of any of the aforesaid Pieces being given. To
+find the Diameter of its Bore.
+
+PROP. VII.
+THE Length of the Chase, Diameter of the Bore, and the Time of the Flight of
+the shot of the Cannon Royal, as also the Length of the Chase, and time of any
+of the aforesaid Pieces being given. To find the Diameter of its Bore.
+
+PROP. VIII.
+THE Length of the Chase 12 Foot, the Diameter of the Bore 8 Inches, the
+Requisite of Powder 28 lb of a Cannon Royal being given. To find the Length of
+the Chase, Diameter of the Bore, and Requisite of Powder of seven lesser Pieces
+of Cannon, which shall be in Geometrical Proportion.
+
+The Length of the Chase 12 Foot Log. 1.07918125 Its half 6 Foot Log.
+0.77815127 The difference of the Log. 30102998 The 7th. part is, add 4300428
+Add to the length of the least 1 6 foot 0.77815127 2 6.624 0.82115555 3 7.314
+0.86415983 4 8.076 0.90718411 5 8.916 0.95016839 6 9.844 0.99317267 7 10.869
+1.03617655 8 12. 1.07918123
+
+The like for the Diameters.
+
+The Requisite of Powder 28 lb Log. 1.44715803 The eighth part thereof is 3.5
+Log. 0.54406804 The difference of the Log. 0.90308999 The 7th part is
+0.12901285 1 3.5 0.54406804 2 4.71 0.67308089 3 6.34 0.80209374 4 8.53
+0.93110659 5 11.48 1.06011944 6 15.46 1.18913229 7 20.80 1.31814514 8 28.
+1.44715809
+
+I. By the first Proposition for the length of the Chase, and second
+Proposition for the Diameter of the Bore; we compose the first Consort of
+Phrygian Flutes, whose visible shapes are in Musical Proportion, the Ranges and
+Time upon the same degree of Elevation are equal, their Force and Requisite of
+Powder as the Cube of the Diameters of their Bore.
+
+II. By the first Proposition for the Length of the Chase, and third
+Proposition of the Requisite of Powder, we compose the second sort of Phrygian
+Flutes, whose Sounds or Reports and Ranges shall be in Musical Proportion, the
+Diameter of their Bores equal.
+
+III. By the first Proposition for the Length of the Chase, and the fourth
+Proposition for the Force, and Proposition the 5th. for the Diameter of the
+Bore, we compose a third sort of Phrygian Flutes whose Force shall be in
+Musical Proportion.
+
+IV. By the first Proposition for the Length of the Chase, and 6th. Proposition
+for the Time of the Flight of the shot, and Proposition the 7th. for the
+Diameter of the Bore, we compose a fourth sort of Warlike Flutes, whose Times
+shall be in Musical Proportion.
+
+V. By the eighth Proposition we find the Length of the Chase, Diameter of the
+Bore, Requisite of Powder of Eight Pieces of Cannon in Geometrical Proportion,
+their Ranges upon the same degree of Elevation equal.
+
+So then, here is nothing wanting in these things that the Heart of Man can in
+reason desire; for in the first, the Eye is satisfied, their shapes are in
+Musical Proportion. In the second, the sense of Hearing is delighted, their
+Sounds are in Musical Proportion. In the third the sense of Feeling may be
+terrified, the Smart of the Blow in Musical Proportion. In the fourth, that
+precious thing called Time is employed in delightful Musical Proportion.
+
+What can be presented to a Prince more delightful, or what can a Prince more
+delight in, than to conquer his Enemies with Music and Delight?
+
+FRom what has or may be said concerning Guns in Musical and Geometrical
+Proportion, and what may be said concerning Guns under other Qualifications, it
+may manifestly appear, that the business of Gun-founding lies as open for
+Improvements in these days, as their Uses did when Galileus first appeared in
+the World: For,
+
+An Engineer draws the Draught of a Gun, and gives it a certain Fortification,
+the Founder founds it according to the Draught or Pattern, a Proof-Master
+proves it, and gives it its Requisite of Powder. Quere, Whether it be the
+Engineer's or Draught-Man's business to give it its Requisite of Powder, and
+consequently its Range, or the Proof-Master's?
+
+Then,
+
+I. In the Diagram, Let K, G, B, and P, be any Piece of Cannon. It being
+demanded to increase the Metal to I, H, A, and Q; or decrease the Metal to L,
+F, C, and O; so as the strength of the Metal K, G, B, and P, be to the
+strength of the Metal I, H, A, and Q; as 3 to 7; and to L, F, C, and O, (being
+of the same Metal) as 7 to 3.
+
+The Requisite of Powder, and Range at 45 degrees of Elevation of the Piece I,
+H, A, and Q; and the Piece L, F, C, and O, are required.
+
+II. If the Lengths of the Chases of two Pieces, and the Diameters of the Bores
+of the same two Pieces be as 8 to 9. To give them such Metal that the strength
+of one Piece may be to the strength of the other, as 3 to 7.
+
+Their Requisites of Powder and greatest Ranges are required.
+
+III. If the Lengths of the Chases of two Pieces be as 9 to 10, and the
+Diameters of their Bores be as 4 to 5. To give them such Metal, that their
+strengths may be as 3 to 7.
+
+Their Requisites of Powder, and greatest Ranges are required.
+
+To Conclude.
+HERE I might produce a Jury of Mathematicians, famous for their Learning, for
+the confirmation of that of the Parabola: But it is so evident in it self, that
+he that is ignorant of, and denies that, viz. The Flight of the Bullet to be in
+the Curve of a Parabola, deserves not the Name of a Mathematician, Philosopher,
+Engineer, or Fire-Master, no, not of a private Gunner.
+
+FINIS.
+

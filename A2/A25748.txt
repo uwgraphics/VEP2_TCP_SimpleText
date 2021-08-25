@@ -1,0 +1,962 @@
+OF THE Laws of Chance, OR, A METHOD OF Calculation of the Hazards OF GAME,
+Plainly demonstrated, And applied to GAMES at present most in Use, Which may be
+easily extended to the most intricate Cases of Chance imaginable.
+
+LONDON: Printed by Benj. Motte, and sold by Randall Tailor near
+Stationers' Hall, 1692.
+
+PREFACE.
+IT is thought as necessary to write a Preface before a Book, as it is judged
+civil, when you invite a Friend to Dinner, to proffer him a Glass of Hock
+beforehand for a Whet: And this being maimed enough for want of a Dedication,
+I am resolved it shall not want an Epistle to the Reader too. I shall not take
+upon me to determine, whether it is lawful to play at Dice or not, leaving that
+to be disputed betwixt the Fanatic Parsons and the Sharpers; I am sure it is
+lawful to deal with playing at Dice as with other Epidemic Distempers; and I am
+confident that the writing a Book about it, will contribute as little toward
+its Encouragement, as Fluxing and Precipitates do to Whoring.
+
+It will be to little purpose to tell my Reader, of how great Antiquity the
+playing at Dice is, I will only let him know, that by the Aleae Ludus, the
+Ancients comprehended all Games, which were subjected to the determination of
+mere Chance; this sort of Gaming was strictly forbid by the Emperor Justinian,
+Cod. Lib. 3. Tit. 43. under very severe Penalties; and Photius Nomocan, Tit. 9.
+Cap. 27. acquaints us, that the Use of this was altogether denied the Clergy
+of that time. Seneca says very well, Aleator quanto in art est melior, tanto
+est nequior; That by how much the one is more skilful in Games, by so much he
+is the more culpable; or we may say of this, as an ingenious Man says of
+Dancing, That to be extraordinary good at it, is to be excellent in a Fault;
+therefore I hope no body will imagine I had so mean a Design in this, as to
+teach the Art of Playing at Dice.
+
+A great part of this Discourse is a Translation from Mons. Hugen's Treatise,
+De ratiociniis in ludo Aleae, one, who in his Improvements of Philosophy, has
+but one Superior, and I think few or no Equals. The whole I undertook for my
+own Divertisement, next to the Satisfaction of some Friends, who would now and
+then be wrangling about the Proportions of Hazards in some Cases that are here
+decided. All it required was a few spare Hours, and but little Work for the
+Brain; my Design in publishing it, was to make it of more general Use, and
+perhaps persuade a raw Squire, by it, to keep his Money in his Pocket; and if,
+upon this account, I should ineur the Clamours of the Sharpers, I do not much
+regard it, since they are a sort of People the World is not bound to provide
+for.
+
+You will find here a very plain and easy Method of the Calculation of the
+Hazards of Game, which a man may understand, without knowing the Quadratures of
+Curves, the Doctrine of Series's, or the Laws of Centripetation of Bodies, or
+the Periods of the Satellites of Jupiter; yea, without so much as the Elements
+of Euclid. There is nothing required for the comprehending the whole, but
+common Sense and practical Arithmetic; saving a few Touches of Algebra, as in
+the first Three Propositions, where the Reader, without suspicion of Popery,
+may make use of a strong implicit Faith; tho I must confess, it does not much
+recommend it self to me in these purposes; for I had rather he would enquire,
+and I believe he will find the speculation not unpleasant.
+
+Every man's Success in any Affair is proportional to his Conduct and Fortune.
+Fortune (in the sense of most People) signifies an Event which depends on
+Chance, agreeing with my Wish; and Misfortune signifies such an Event contrary
+to my Wish: an Event depending on Chance, signifies such an one, whose
+immediate Causes I don't know, and consequently can neither foretell nor produce
+it (for it is no Heresy to believe, that Providence suffers ordinary matters
+to run in the Channel of second Causes). Now I suppose, that all a wise Man can
+do in such a Case is, to lay his Business on such Events, as have the most or
+most powerful second Causes, and this is true both in the great Events of the
+World, and in ordinary Games. It is impossible for a Dye, with such a
+determined force and direction, not to fall on such a determined side, only I
+don't know the force and direction which makes it fall on such a determined
+side, and therefore I call that Chance, which is nothing but want of Art; that
+only which is left to me, is to wager where there are the greatest number of
+Chances, and consequently the greatest probability to gain; and the whole Art
+of Gaming, where there is any thing of Hazard, will be reduced to this at last,
+viz. in dubious Cases, to calculate on which side there are most Chances; and
+tho this cannot be done in the midst of Game precisely to an Unite, yet a Man
+who knows the Principles, may make such a conjecture, as will be a sufficient
+direction to him; and tho it is possible, if there are any Chances against him
+at all, that he may lose, yet when he chooses the safest side, he may partwith
+his Money with more content (if there can be any at all) in such a Case.
+
+I will not debate, whether one may engage another in a disadvantageous Wager.
+Games may be supposed to be a trial of Wit as well as Fortune, and every Man,
+when he enters the Lists with another, unless out of Complaisance, takes it for
+granted, his Fortune and Judgment, are, at least, equal to those of his
+Play-Fellow; but this I am sure of, that false Dice, Tricks of Legerde-main,
+etc. are inexcusable, for the question in Gaming is not, Who is the best Iugler?
+
+The Reader may here observe the Force of Numbers, which can be succesfully
+applied, even to those things, which one would imagine are subject to no Rules.
+There are very few things which we know, which are not capable of being reduced
+to a Mathematical Reasoning, and when they cannot, its a sign our Knowledge of
+them is very small and confused; and where a mathematical reasoning can be had,
+it is as great folly to make use of any other, as to grope for a thing in the
+dark when you have a Candle standing by you. I believe the Calculation of the
+Quantity of Probability might be improved to a very useful and pleasant
+Speculation, and applied to a great many Events which are accidental, besides
+those of Games; only these Cases would be infinitely more confused, as
+depending on Chances which the most part of Men are ignorant of; and as I have
+hinted already, all the Politics in the World are nothing else but a kind of
+Analysis of the Quantity of Probability in casual Events, and a good Politician
+signifies no more, but one who is dexterous at such Calculations; only the
+Principles which are made use of in the Solution of such Problems, cannot be
+studied in a Closet, but acquired by the Observation of Mankind.
+
+There is likewise a Calculation of the Quantity of Probability founded on
+Experience, to be made use of in Wagers about any thing; for Example, it is
+odds, if a Woman is with Child, but it shall be a Boy; and if you would know
+the just odds, you must consider the Proportion in the Bills that the Males
+bear to the Females: The Yearly Bills of Mortality are observed to bear such
+Proportion to the live People as 1 to 30, or 26; therefore it is an even Wager,
+that one out of thirteen, dies within a Year (which may be a good reason, tho
+not the true one of that foolish piece of Superstition), because, at this rate,
+if 1 out of 26 dies, you are no loser. It is but 1 to 18 if you meet a Parson
+in the Street, that he proves to be a Non-Juror, because there is but 1 of 36
+that are such. It is hardly 1 to 10, that a Woman of Twenty Years old has her
+Maidenhead, and almost the same Wager, that a Town-Spark of that Age has not
+been clapped. I think a Man might venture some odds, that 100 of the Gens d'arms
+beats an equal Number of Dutch Troopers; and that an English Regiment stands
+its ground as long as another, making Experience our Guide in all these Cases
+and others of the like nature.
+
+But there are no casual Events, which are so easily subjected to Numbers, as
+those of Games; and I believe, there the Speculation might be improved so far,
+as to bring in the Doctrine of the Series's and Logarithms. Since Gaming is
+become a Trade, I think it fit the Adventurers should be upon the Square; and
+therefore in the Contrivance of Games there ought to be a strict Calculation
+made use of, that they may not put one Party in more probability to gain than
+another; and likewise, if a Man has a considerable Venture, he ought to be
+allowed to withdraw his Money when he pleases, paying according to the
+Circumstances he is then in: and it were easy in most Games to make Tables, by
+the Inspection of which, a Man might know what he was either to pay or receive,
+in any Circumstances you can imagine, it being convenient to save a part of ones
+Money, rather than venture the loss of it all.
+
+I shall add no more, but that a Mathematician will easily perceive, it is not
+put in such a Dress as to be taken notice of by him, there being abundance of
+Words spent to make the more ordinary sort of People understand it.
+
+FOR the sake of those who are not versed in Mathematics, I have added the
+following Explanation of Signs.
+
+= Equal. + More, or to be added. - Less, or to be subtracted. x Multiplied.
+Example.
+
+3 x 4 + 3 - 1 = 14 = 5/9 a, is to be read thus,
+
+3 multiplied in 4 more by 3 less by 1 is equal to 14, which is equal to five
+ninth parts of a.
+
+An Exact METHOD For SOLVING the Hazards of Game.
+ALthough the Events of Games, which Fortune solely governs, are uncertain, yet
+it may be certainly determined, how much one is more ready to lose than gain.
+For Example: If one should wager, at the first Throw with one Dye, to throw
+Six, it is an accident if he gains or not, but by how much it is more probable he
+will lose than gain, is really determined by the Nature of the thing, and
+capable of a strict Calculation. So likewise, if I should play with another on
+this condition, that the Victory should be to the Three first Games, and I had
+gained one already; it is still uncertain who shall first gain the third; yet
+by a demonstrative reasoning I can estimate both the Value of his expectation
+and mine, and consequently (if we agree to leave the Game unperfect) determine
+how great a share of the Stakes belong to me, and how much to my Play-fellow;
+or if any were desirous to take my place, at what rate I ought to sell it.
+Hence may arise innumerable Queries among two, three, or more Gamesters; and
+since the Calculation of these things is a little out of the common road, and
+can be oft-times applied to good purpose; I shall briefly here show how it is
+to be done, and afterward explain those things which belong properly to the
+Dice.
+
+In both cases I shall make use of this Principle, Ones Hazard or Expectation
+to gain any thing, is worth so much, as, if he had it, he could purchase the
+like Hazard or Expectation again in a just and equal Game.
+
+For Example, If one, without my knowledge, should hide in one Hand 7 Shillings,
+and in his other 3 Shillings, and put it to my choice which Hand I would take,
+I say this is as much worth to me, as if he should give me 5 Shillings;
+because, if I have 5 Shillings, I can purchase as good a Chance again, and that
+in a fair and just Game.
+
+PROPOSITION I.
+If I expect a or b, either of which, with equal probability, may fall to me,
+then my Expectation is worth ^, that is, the half Sum of a and b.
+
+THat I may not only demonstrate, but likewise investigate this Rule, suppose
+the Value of my Expectation be x; by the former Principle having x, I can
+purchase as good an Expectation again in a fair and just Game. Suppose then I
+play with another on these terms; That every one stakes x, and the Gainer give
+to the Loser a, this Game is just, and it appears, that at this rate, I have an
+equal hazard either to get a if I lose the Game, or 2 x-a if I gain; for in
+this case I get 2 x, which are the Stakes, out of which I must pay the other a;
+but if 2 x-a were worth b, then I have an equal hazard to get a or b; therefore
+making 2 x-a=b, ^, which is the Value of my Expectation. The Demonstration is
+easy, for having ^, I can play with another who will stake ^ against it, on
+this condition, that the Gainer should give to the Loser a; by this means I
+have an equal Expectation to get a if I lose, or b if I win; for in the last
+case I get a+b the Stakes, out of which I must pay a to my Play-fellow.
+
+In Numbers: If I had an equal hazard to get 3 or 7, then by this Proposition,
+my Expectation is worth 5, and it is certain, having 5, I may have the same
+Chance; for if I play with another so that every one stakes 5, and the Gainer
+pay to the Loser 3, this is a fair way of Gaming; and it is evident, I have an
+equal hazard to get 3 if I lose, or 7 if I gain.
+
+PROP. II.
+If I expect a, b, or c, either of which, with equal facility, may happen, then
+the Value of my Expectation is ^, or the third part of the Sum of a b and c.
+
+FOR the Investigation of which, suppose x be the value of my Expectation; then
+x must be such, as I can purchase with it the same Expectation in a just Game:
+Suppose the Conditions of the Game be, that playing with two others, each of us
+stakes x, and I bargain with one of the Gamesters, if I win, to give him b, and
+he shall do the same to me; but with the other, that if I gain, I shall give
+him c, and vice versa; this is fair play: And here I have an equal hazard to
+get b, if the first win, c if the second, or 3 x-b-c if I gain my self; for
+then I get 3 x, viz. the Stakes, of which I give the one b and the other c; but
+if 3 x-b-c be equal to a, I have an equal Expectation of a, b, or c; therefore
+making 3 x-b-c=a, ^, which is the Value of my Expectation. After the same
+method you will find, if I had an equal hazard to get a b c or d, the Value of
+my Expectation ^ that is the fourth part of the Sum of a b c and d, etc.
+
+PROP. III.
+If the Number of Chances, by which a falls to me, be p, and the Number of
+Chances, by which b falls, be q, and supposing all the Chances do happen with
+equal Facility, then the Value of my Expectation is ^, i. e. the Product of a
+multiplied in the Number of its Chances added to the Product of b, multiplied
+into the Number of its Chances, and the Sum divided by the Number of Chances
+both of a and b.
+
+SUppose, as before, x be the Value of my Expectation; then if I have x, I must
+be able to purchase with it that same Expectation again in a fair Game: For
+this I shall take as many Play-fellows as, with me, make up the Number of p+q,
+of which let every one stake x, so the whole Stake will be px+qx, and every one
+plays with equal hopes of winning; with as many of my Fellow-Gamesters as the
+Number 9 stands for, I make this bargain one by one, that whoever of them gains
+shall give me b, and if I win, I shall do so to them; with every one of the
+rest of the Gamesters, whose Number is p-1, I make this bargain, that whoever
+of them gains, shall give me a, and I shall give every one of them as much, if
+I gain: It Is evident this is fair play; for no Man here is injured; and in this
+case I have q Expectations to gain b, and p-1 Expectations to gain a, and 1
+Expectation (viz. when I win my my self) to get px+qx-bqap+a; for then I am to
+deliver b to every one of the q Players, and a to every one of the p-1
+Gamesters, which makes ab+pa-a; if therefore qx+bx-ba-ap+a were equal to a, I
+would have p Expectations of a (since just now I had p-1 Expectations of it)
+and q Expectations of b, and so would have just come to my first Expectation;
+therefore putting px+qx-bq-ap+a=a, then is ^
+
+In Numbers: If I had 3 Chances to gain for 13, and 2 for 8, by this Rule, my
+Hazard is worth 11; for 13 multiplied by 3 gives 39, and 8 by 2 16, these two
+added, make 55, divided by 5 is 11, and I can easily show, if I have 11, I can
+come to the like Expectation again; for playing with four others, and every one
+of us staking 11, with two of them I make this Bargain, that whoever gains
+shall give me 8, and I shall too do so to them; with the other two I make this
+Bargain, that whoever gains shall give me 13, and I them as much if I gain: It
+appears, by this means I have two Expectations to get 8, viz. if any of the
+first two gain, and 3 Expectations to get 13, viz. if either I or any of the
+other two gain; for in this case I gain the Stakes, which are 55, out of which
+I am obliged to give the first two 8, and the other two 13, and so there
+remains 13 for my self.
+
+PROP. IV.
+That I may come to the Question proposed, viz. The making a just Distribution
+amongst Gamesters, when their Hazards are unequal; we must begin with the most
+easy Cases.
+
+SUppose then I play with another, on condition that he who wins the three
+first Games shall have the Stakes, and that I have already gained two, I would
+know, if we agree to break off the Game, and part the Stakes justly, how much
+falls to my share?
+
+The first thing we must consider in such Questions is, the Number of Games
+that are wanting to both: For Example, If it had been agreed betwixt us, that
+he should have the Stakes who gained the first 20 Games, and if I had gained
+already 19, and my Fellow-Gamester but 18, my Hazard is as much better than his
+in that Case, as in this proposed, viz? When of 3 Games I have 2, and he but 1,
+because in both cases there is 2 wanting to him, and 1 to me.
+
+In the next place, to find the portion of the Stakes due to each of us, we
+must consider what would happen if the Game went on; it is certain, if I gain
+the first Game, I get the Stake, which I call a; but if he gained, both our
+Lots would be equal, and so there would fall to each of us a; but since I have
+an equal Hazard to gain or lose the first Game, I have an equal Expectation to
+gain a, or a, which, by the first Proposition, is as much worth as the half Sum
+of both, i. e. a, so there is left to my Fellow-Gamester a; from whence it
+follows, that he who would buy my Game, ought to pay me for it a; and
+therefore, he who undertakes to gain one Game before another gains two, may
+wager 3 to 1.
+
+PROP. V.
+Suppose I want but one Game, and my Fellow-gamester three, it is required to
+make a just Distribution of the Stake:
+
+LET us here likewise consider in what state we should be, if I or he gained
+the first Game; if I gain, I have the Stake a, if he, then he wants yet 2
+Games, and I but 1, and therefore we should be in the same condition which is
+supposed in the former Proposition; and so there would fall to my share, as was
+demonstrated there, a; therefore with equal facility there may happen to me a,
+or a, which, by the First Proposition, is worth a, and to my Fellow-Gamester
+there is left 1/8 a, and therefore my Hazard to his is as 7 to 1.
+
+As the Calculation of the former Proposition was requisite for this, so this
+will serve for the following. If I should suppose my self to want but one Game,
+and my Fellow four (by the same Method) you will find 15/16 of the Stake
+belongs to me, and 1/16 to him.
+
+PROP. VI.
+Suppose I want two Games, and my Fellow-Gamester three.
+
+THen by the next Game it will happen, that I want but one, and he three, which
+(by the preceding Proposition) is worth a; or that we should both want two,
+whence there will be a due to each of us; now I being in an equal probability
+to gain or lose the next Game, I have an equal Hazard to gain a or a, which, by
+the First Proposition is worth 11/16 a, and so there are eleven parts of the
+Stakes due to me, and five to my Fellow.
+
+PROP. VII.
+Let us suppose I want two Games, and my Fellow four.
+
+IF I gain the next Game, then I shall want but one, and my Fellow four; but if
+I lose it, then I shall want two, and he three: So I have an equal Hazard for
+gaining 15/16 a, or 11/16 a, which, by the First, is worth 13/16 a: So it
+appears, that he who is to gain two Games for the others four, is in a better
+condition than he who is to gain one for the others two; for my share in the
+first Case is a or 12/16 a, which is less than 13/16, my share in the last.
+
+PROP. VIII.
+Let us suppose three Gamesters, whereof the first and second want 1 Game, but
+the third 2.
+
+TO find the share of the first, we must consider what would happen if either
+he, or any of the other two gained the first Game; if he gains, then he has the
+Stake a; if the second gain, he has nothing; but if the third gain, then each
+of them would want a Game, and so a would be due to every one of them. Thus the
+first Gamester has one Expectation to gain a, one to gain nothing, and one for
+a (since all are in an equal probability to gain the first Game) which by the
+second Proposition is worth 4/9 a: Now since the second Gamesters Condition is
+as good, his Share is likewise 4/9 a, and so there remains to the third 1/9 a,
+whose Share might have been as easily found by its self.
+
+PROP. IX.
+In any Number of Gamesters you please, amongst whom there are some who want
+more, some fewer Games: To find what is any ones Share in the Stake, we must
+consider, what would be due to him, whose Share we investigate, if either he,
+or any of his Fellow-Gamesters should gain the next following Game; add all
+their Shares together, and divide the Sum by the Number of the Gamesters, the
+Quotient is his Share you were seeking.
+
+SUppose three Gamesters, A B and C, A wants 1 Game, B 2, and C likewise 2, I
+would find what is the Share of the Stake due to B, which I shall call q.
+
+First we must consider what would fall to B's share, if either he, A, or C,
+wins the next Game; if A wins, the Game is ended, so he gets nothing; if B
+himself gain, then he wants 1 Game, A 1, and C 2; therefore, by the former
+Proposition, there is due to him in that Case 4/^q, then if C gains the next
+Play, then A and C would want but 1, and B 2; and therefore, by the Eigth
+Proposition, his Share would be worth 1/9q; add together what is due to B in
+all these three Cases, viz. o4/9q, 1/9q, the Sum is 5/9q, which being divided
+by 3, the Number of Gamesters gives 5/27q, which is the Share of B sought for:
+The Demonstration of this is clear from the Second Proposition, because B has
+an equal Hazard to gain o 4/9 q or 1/9q, that is, ^, i. e. 5/27q; now it is
+evident the Divisor 3 is the Number of the Gamesters.
+
+To find what is due to one in any Case, viz. if either he, or any of his
+Fellow-Gamsters win the following Game; we must consider first the more simple
+Cases, and by their help the following; for as this Case could not be solved
+before the Case of the Eighth Proposition was calculated, in which, the Games
+wanting were 1, 1, 2; so the Case, where the Games wanting are 1, 2, 3, cannot
+be calculated, without the Calculation of the Case, where the Games wanting are
+1, 2, 2, (which we have just now performed) and likewise of the Case, where the
+Games wanting are 1, 1, 3, which can be done by the Eighth: And by this means
+you may reckon all the Cases comprehended in the following Tables, and an
+infinite number of others. ^ ^ ^ ^ ^
+
+As for the Dice; these Questions may be proposed, at how many Throws one may
+wager to throw 6, or any Number below that, with one Dye; How many Throws are
+required for 12 upon two Dice; or 18 on 3; and several other Questions to this
+purpose.
+
+For the resolving of which, it must be considered, that in one Dye there are
+six different Throws, all equally probable to come up; for I suppose the Dye
+has the exact figure of a Cube: On Two Dice there are 36 different Throws; for
+in respect to every Throw of One Dye, any One Throw of the 6 of the other Dye
+may come up; and 6 times 6 make 36: In Three Dice there are 216 different
+Throws; for in relation to any of the 36 Throws of Two Dice, any one of the six
+of the Third may come up; and 6 times 36 make 216: So in Four Dice there are 6
+times 216 Throws, that is, 1296: And so forward you may reckon the Throws of
+any Number of Dice, taking always, for the addition of a new Dye, 6 times the
+Number of the preceding.
+
+Besides, it must be observed, that in Two Dice there is only one way 2 or 12
+can come up; two ways that 3 or 11 can come up; for if I shall call the Dice A
+and B to make 3, there may be 1 in A and 2 in B, or 2 in A and 1 in B; so to
+make 11, there may be 5 in A or 6 in B, or 6 in A and 5 in B; for 4 there are
+three Chances, 3 in A and 1 in B, 3 in B and 1 in A, or 2 as well in A as B;
+for 10 there are likewise three Chances; for 5 or 9 there are four Chances; for
+6 or 8 five Chances; for 7 there are six Chances.
+
+In 3 Dice there are found for 3 or 18 1 4 or 17 3 5 or 16 6 6 or 15 10 7 or 14
+15 8 or 13 21 9 or 12 25 10 or 11 27
+
+
+PROP. X.
+To find at how many times one may undertake to throw 6 with One Dye.
+
+IF any should undertake to throw 6 the first time, it is evident there is one
+Chance gives him the Stake, and five which give him nothing; for there are 5
+Throws against him, and only 1 for him: Let the Stake be called a, then he has
+one Expectation to gain a, and five to gain nothing, which, by the Second
+Proposition, is worth 1/6 a, and there remains for the other a; so he who
+undertakes, with one Dye, to throw 6 the first time, ought to wager only 1 to 5.
+
+2. Suppose one undertake, at two Throws of 1 Dye, to throw 6, his Hazard is
+calculated thus; if he throw 6 at the first he has a the Stake, if he do not,
+there remains to him one Throw, which, by the former Case, is worth 1/6 a; but
+there is but one Chance which gives him 6 at the first Throw, and five Chances
+against him; so there is one Chance which gives him a, and five which give him
+1/^ a, which, by the Second Proposition, is worth 11/36 a, so there remains to
+his Fellow-Gamester 2^/3^ a; so the Value of my Expectation to his, is as 11 to
+25, i. e. less than 1 to 2.
+
+By the same method of calculation, you will find, that his Hazard who
+undertakes to throw 6 at three times with one Dye, is 91/216 a; so that he can
+only lay 91 against 125, which is something less than 3 to 4.
+
+He who undertakes to do it at four times, his Hazard is 671/1296 a, so he may
+wager 671 against 625, that is, something more than 1 to 1.
+
+He who undertakes to do it at five times, his Hazard is 4651/7776 a, so he can
+wager 4651 against 3125, that is something less than 3 to 2.
+
+His Hazard who undertakes to do it 6 times, is 3^031/45656 a, and he can wager
+31031 against 15625, that is something less than 2 to 1.
+
+Thus any Numb. of Throws may be easily found, but the following Proposition
+will show you a more compendious way of Calculation.
+
+PROP. XI.
+To find at how many times one may undertake to throw 12 with Two Dice.
+
+IF one should undertake it at One Throw, it is clear he has but one Chance to
+get the Stake a, and 35 to get nothing; so, by the Second Proposition, he has
+much 1/36 a.
+
+He who undertakes to do it at Twice, if he throw 12 the first time gains a, if
+otherwise, then there remains to him One Throw, which, by the former Case, is
+worth 1/36 a; but there is but One Chance which gives 12 at the first Throw,
+and 35 Chances against him; so he has 1 Chance for a, and 35 for 1/36 a, which,
+by the Second Proposition, is worth 71/1296 a, and there remains to his
+Fellow-Gamester 1^2^/1296 a.
+
+From these it is easy to find the Value of his Hazard, who undertakes it at
+four times; passing by his Case who undertakes it at three times.
+
+If he who undertakes to do it at four times throws 12 the first or second
+Cast, then he has a, if not, there remains two other Throws, which, by the
+former Case, are worth 71/1296 a; but for the same reason, in his two first
+Throws, he has 71 Chances which give him a, against 1225 Chances, in which it
+may happen otherwise; therefore at first he has 71 Chances which give him a,
+and 1225 which give him 71/1296 a, which, by the Second Proposition, is worth
+19006^5/167961^ a, which shows that their Hazards to one another are as 178991
+to 1500625.
+
+From which Cases it is easy to find the Value of his Expectation, who
+undertakes to do it at 8 times, and from that, his Case who undertakes to do it
+at 16 times; and from his Case who undertakes to do it at 8 times; and his
+likewise who undertakes to do it at 16 times; it is easy to determine his
+Expectation who undertakes it at 24 times: In which Operation, because that
+which is principally sought, is the Number of Throws, which makes the Hazard
+equal on both sides, viz. to him who undertakes, and he who offers, you may,
+without any sensible Error, from the Numbers (which else would grow very great)
+cut off some of the last Figures. And so I find, that he who undertakes to
+throw 12 with Two Dice, at 24 times, has some Loss, and he who undertakes it at
+25 times, has some Advantage.
+
+PROP. XII.
+To find with how many Dice, one can undertake to throw two Sixes at the first
+Cast.
+
+THis is as much, as if one would know, at how many Throws of one Dye, he may
+undertake to throw twice Six; now if any should undertake it at two Throws, by
+what we have shown before, his Hazard would be 1/36 a, he who would undertake
+to do it at 3; times, if his first Throw were not 6, then there would remain
+two Throws, each of which must be 6, which (as we have said) is worth 1/36 a;
+but if the first Throw be 6, he wants only one 6 in the two following Throws,
+which by the Tenth Proposition, is worth 11/36 a; but since he has but one
+Chance to get 6 the first Throw, and five to miss it; he has therefore, at
+first, one Chance for 11/36 a, and five Chances for 1/36 a, which, by the
+Second Proposition, is worth 16/216 a, or 2/27 a, after this manner still
+assuming 1 Chance more, you will find that you may undertake to throw two Sixes
+at 10 Throws of one Dye, or 1 Throw of ten Dice, and that with some Advantage.
+
+PROP. XIII.
+If I am to play with another One Throw, on this condition, that if 7 comes up
+I gain, if 10 he gains; if it happens that we must divide the Stake, and not
+play, to find how much belongs to me, and how much to him.
+
+BEcause of the 36 different Throws of the Two Dice, there are six which give 7
+and 3, which give 10 and 27, which equals the Game, in which Case there is due
+to each of us a: But if none of the 27 should happen, I have 6, by which I may
+gain a, and 3, by which I may get nothing, which, by the Second Proposition, is
+worth a; so I have 27 Chances for a, and 9 for a, which, by the second
+Proposition, is worth 13/24 a, and there remains to my Fellow-Gamester 11/24 a.
+
+PROP. XIV.
+If I were playing with another by turns, with two Dice, on this condition,
+that if I throw 7 I gain, and if he throw 6 he gains, allowing him the first
+Throw: To find the proportion of my Hazard to his.
+
+SUppose I call the Value of my Hazard x, and the Stakes a, then his Hazard
+will be a-x; then whenever it is his turn to throw, my Hazard is x, but when
+it is mine, the Value of my Hazard is greater. Suppose I then call it y; now
+because of the 36 Throws of Two Dice, there are five which give my
+Fellow-Gamester 6, thirty one which bring it again to my turn to throw, I have
+five Chances for nothing, and thirty one for y, which, by the Third
+Proposition, is worth 31/36 y; but I supposed at first my Hazard to be x;
+therefore 31/36 y=x, and consequently y=36/3^x. I supposed likewise, when it
+was my turn to throw, the Value of my Hazard was y, but then I have six Chances
+which give me 7, and consequently the Stake, and thirty which give my Fellow
+the Dice, that is, make my Hazard worth x; so I have six Chances for a, and
+thirty for x, which, by Prop. 3. is worth ^ but this by supposition is equal to
+y, which is equal (by what has been proved already) to 36/3^ x; therefore ^,
+and consequently x=31/6^a, the Value of my Hazard, and that of my
+Fellow-Gamester is 30/61 a; so that mine is to his as 31 to 30.
+
+Here follow some Questions which serve to exercise the former Rules.
+
+1. A and B play together with two Dice, A wins if he throws 6, and B if he
+throws 7; A at first gets one Throw, then B two, then A two, and so on by
+turns, till one of them wins. I require the proportion of A's Hazard to B's?
+Answer, It is as 10355 to 12276.
+
+2. Three Gamesters, A, B, and C, take 12 Counters, of which there are four
+white and eight black; the Law of the Game is this, that he shall win, who,
+hood-winked, shall first choose a white Counter, and that A shall have the first
+choice, B the second, and C the third, and so, by turns, till one of them win.
+Quaer. What is the proportion of their Hazards?
+
+3. A wagers with B, that of 40 Cards, that is, 10 of every Suit, he will pick
+out four; so that there shall be one of every suit; A's Hazard to B's, in this
+Case, is as 1000 to 8139.
+
+4. Supposing, as before, 4 white Counters and 8 black, A wagers with B, that
+out of them, he shall pick 7 Counters, of which there are 3 white. I require
+the proportion of A's Hazard to B's?
+
+5. A and B taking 12 Counters, play with three Dice after this manner; that if
+12 comes up, A shall give one Counter to B, but if 14 comes up, B shall give
+one to A, and that he shall gain who first has all the Counters. A's Hazard to
+B's is 244140625 to 282429 536481.
+
+The Calculus of the preceding Problems is left out by Mons. Hugens, on
+purpose that the ingenious Reader may have the satisfaction of applying the
+former Method himself; it is in most of them more laborious than difficult; for
+Example, I have pitched upon the Second and Third, because the rest can be
+solved after the same Method.
+
+Problem 1.
+The first Problem is solved by the Method of Prop. 14. only with this
+difference, that after you have found the share due to B, if A were to get no
+first Throw, you must subtract from it 5/36 of the Stake which is due to A for
+his Hazard of throwing Six at the first Throw.
+
+Probl. 2
+As for the second Problem, it is solved thus, Suppose A's Hazard, when it is
+his own turn to choose, be x, when it is B's, be y, and when it is C's, be z; it
+is evident, when out of 12 Counters, of which there are 4 white and 8 black, he
+endeavors to choose a white one, he has four Chances to get it, and eight to
+miss it, that is, he has four Chances to get the Stake a, and eight to make his
+Hazard worth y; so ^, and consequently ^. When it is B's turn to choose, then he
+has four Chances for nothing, and eight for z, (that is to bring it to C's
+turn) consequently ^; this equation reduced gives ^; when it comes to C's turn
+to choose then A has four Chances for nothing, and eight for x, consequently
+z=8/12x, therefore ^; this equation reduced gives x=9/19a, and consequently
+there remains to the B and C 10/19 a, which must be shared after the same
+manner, that is, so that B have the first Choice, C the next, and so on, till
+one of them gain; the reason is, because it had been just in A to have demanded
+9/19 of the Stake for not playing, and then the seniority fell to B; now 10/19
+a parted betwixt B and C, by the former method, gives 6/19 to B, and 4/19 to C;
+so A, B, and C's Hazards, from the beginning, were as 9, 6, 4.
+
+I have supposed here the sense of the Problem to be, that when any one chus'd
+a Counter, he did not diminish their Number; but if he missed of a white one,
+put it in again, and left an equal Hazard to him who had the following Choice;
+for if it be otherwise supposed, A's share will be 55/123, which is less than
+9/19.
+
+Prob. 2. It is evident, that wagering to pick out 4 Cards out of 40, so that
+there be one of every Suit, is no more, than wagering, out of 39 Cards to take
+3 which shall be of three proposed Suits; for it is all one which Card you draw
+first, all the Hazard being, whether out of the 39 remaining you take 3, of
+which none shall be of the Suit you first drew. Suppose then you had gone right
+for three times, and were to draw your last Card, it is clear, that there are
+^7 Cards, (viz. of the Suits you have drawn before) of which, if you draw any
+you lose, and 10 of which, if you draw any, you have the Stake a; so you have
+10 Chances for a, and 27 for nothing, which, by Prop. 3. is worth 10/37 a.
+Suppose again you had gone right only for two Draughts, then you have 18 Cards
+(of the Suits you have drawn before) which make you lose, and 20, which put you
+in the Case supposed formerly, viz. where you have but one Card to draw, which,
+as we have already calculated, is worth 10/37 a; so you have 18 Chances for
+nothing, and 20 for 10/37 a, which, by Prop. 3. is worth 100/703 a. Suppose
+again you have 3 Cards to draw, then you have 9 (of the Suit you drew first)
+which make you lose, and 30 which put you in the Case supposed last; so you
+have 9 Chances for nothing, and 30 for 100/703 a, which, by Prop. 3. is worth
+3000/27417 a, or 1000/9139 a, and you leave to your Fellow-Gamester 8139/9139
+a; so your Hazard is to his as 1000 to 8139.
+
+It is easy to apply this Method to the Games that are in use amongst us: For
+Example, If A and B, playing at Backgammon, B had already gained one end of
+three, and A none, and if A had the Dice in his Hand for the last Throw of the
+second end, all his Men but two upon the Ace Point being already cast of:
+Quaer. What is the proportion of As Hazard to Bs?
+
+Solution: There being of the 36 Throws of two Dice, six which give Doublets;
+if A throw any of the Six, he has the Stake a; if he throw any of the other
+Thirty, then he wants but one Game, and his Fellow-Gamester three, which, by
+Prop. V. is worth a; so A has six Chances for a, and thirty for a, which, by
+Prop. 3. is worth 129/144 a, and there remains to his Play-Fellow 15/144 a; so
+A's Hazard to B's, is as 129 to 15, that is, less than 9 to 1.
+
+Supposing the same Case, and if their Bargain had been, that he who gained
+three ends before the other gained one, should have double of what each staked,
+that is, the Stake and a half more, then there had been due to A 282/285 of the
+Stake, that is, B ought only to take 1/^^, and leave the rest to A.
+
+Thus likewise, if you apply the former Rule to the Royal Oak-Lottery, you will
+find, that he who wagers that any Figure shall come up at the first throw,
+ought to wagers 1 against 31; that he who wagers it shall come up at one of two
+throws, ought to wager 63 against 961; that he who wagers that a Figure shall
+come up at once in three times, ought to lay 124955 against 923621, etc. it
+being only somewhat tedious to calculate the rest. Where you will find, that
+the equality will not fall as some imagine on 16 Throws, no more than the
+equality of wagering at how many Throws of one Dye 6 shall come up, falls on
+three; the contrary of which you have seen already demonstrated; you will find
+by calculation, that he has the Disadvantage, who wagers, that 1 of the 32
+different Throws of the Royal Oak-Lottery, shall come at once of 20 times, and
+that he has some Advantage, who wagers on 22 times; so the nearest to Equality
+is on 21 times: But it must be remembered, that I have supposed in the former
+Calculation, the Ball in the Royal Oak-Lottery to be regular, tho it can never
+be exactly so; for he who has the smallest Skill in Geometry, knows, that there
+can be no regular Body of 32 sides, and yet this can be of no advantage to him
+who keeps it.
+
+To find the Value of the Throws of Dice as to the Quantity.
+NOthing is more easy, than by the former Method to determine the Value of any
+Number of Throws of any Number of Dice; for in one Throw of a Dye, I have an
+equal chance for 1, 2, 3, 4, 5, 6, consequently my Hazard is worth their Sum 21
+divided by their Number 6, that is, 3. Now if one Throw of a Dye be worth 3,
+then two Throws of a Dye, or one Throw of two Dice is worth 7, two Throws of
+two Dice, or one Throw of four Dice is worth 14, etc. The general Rule being to
+multiply the Number of Dice, the Number of Throws, and 3 continually.
+
+This is not to be understood as if it were an equal Wager to throw 7, or above
+it, with two Dice at one Throw; for he who undertakes to do so, has the
+advantage by 21 against 15. The meaning is only, if I were to have a Guinea, a
+Shilling, or any thing else, for every Point that I threw with two Dice at one
+Throw, my Hazard is worth 7 of these, because he who gave me 7 for it, would
+have an equal probability of gaining or losing by it, the Chances of the Throws
+above 7 being as many, as of these below it: So it is more than an equal Wager
+to throw 14 at least at two Throws of two Dice, because it is more probable
+that 14 will come, than any one Number besides, and as probable that it will be
+above it as below it; but if one were to buy this Hazard at the rate
+abovementioned, he ought just to give 14 for it. The equal Wager in one Throw
+of two Dice, is to throw 7 at least one time, and 8 at least another time, and
+so per vices: The reason is, because in the first Case I have 21 Chances
+against 15, and in the second 15 Chances against 21.
+
+Of RAFFLING.
+IN Raiffing the different throws and their Chances are these; Where it is to
+be observed, that of the 216 different Throws of three Dice, there are only 96
+that give Doublets, or two, at least, of a kind; so it is 4 to 5 that with
+three Dice Throws. Chan. 3 18 1 4 17 3 5 16 6 6 15 4 7 14 9 8 13 9 9 12 7 10 11
+9 you shall throw Doublets, and it is 1 to 35 that you throw a Raffle, or all
+three of a kind. It is evident likewise, that it is an even Wager to throw 11
+or above it, because there are as many Chances for 11, and the Throws above it,
+as for the Throws below it; but tho it be an even Wager to throw 11 at one
+Throw, it is a disadvantage to wager to throw 22 at two Throws, and far more to
+wager to throw 33 at three Throws; and yet it is more than an equal Wager that
+you shall throw 21 at two Throws in Raffling, because it is as probable that
+you will, as that you will not throw 11, at least, the first time, and more
+than probable that you will throw 10, at least, the second time.
+
+For an instance of the plainness of the preceding Method, I will show, how by
+simple Subtraction, the most part of the former Problems may be solved.
+
+Suppose A and B, playing together, each of 'em stakes 32 Shillings, and that A
+wants one Game of the Number agreed on, and B wants two; to find the share of
+the Stakes due to each of 'em. It Is plain, if A wins the next Game he has the
+whole 64 Shillings; if B wins it, then their Shares are equal; therefore says A
+to B, If you will break off the Game, give me 32, which I am sure of, whether I
+win or lose the next Game, and since you will not venture for the other 32, let
+us part them equally, that is, give me 16, which, with the former 32, make 48,
+leaving 16 to you.
+
+Suppose A wanted one Game, and B three; if A wins the next Game, he has the 64
+Shillings; if B wins it, then they are in the condition formerly supposed, in
+which Case there is 48 due to A; therefore says A to B, give me the 48 which I
+am sure of, whether I win or lose the next Game, and since you will not hazard
+for the other 16, let us part them equally, that is, give me 8, which, with the
+former 48, make 56, leaving 8 to you, and so all the other Cases may be solved
+after the same manner.
+
+Suppose A wagers with B, that with one Dye he shall throw 6 at one of three
+Throws, and that each of them stakes 108 Guineas: To find what is the
+proportion of their Hazards; Now there being in one Throw of a Dye but one
+Chance for 6, and five Chances against it, one Throw for 6 is worth 1/6 of the
+Stake; therefore says B to A, of the 216 Guineas take a sixth part for your
+first Throw, that is, 36; for your next Throw take a sixth part of the
+remaining 180, that is, 30; and for your third Throw, take a sixth part of the
+remaining 150, that is, 25, which in all make 91, leaving to me 125; so his
+Hazard who undertakes to throw 6 at one of three Throws, is 91 to 125.
+
+Suppose A had undertaken to throw 6 with one Dye at one Throw of four, and
+that the whole Stake is 1296; says A to B, Every Throw for 6 of one Dye, is
+worth the sixth part of what I throw for; therefore for my first Throw give me
+216, which is the sixth part of 1296, and there remains 1080, I must have the
+sixth part of that, viz. 180, for my second Throw; and the sixth part of the
+remaining 900, which is 150, for my third Throw; and the sixth part of the last
+remainder 750, which is 125 for my fourth Throw; all this added together makes
+671, and there remains to you 625; so it is evident, that A's Hazard, in this
+Case, is to B's 671 to 625.
+
+Suppose A is to win the Stakes (which we shall suppose to be 36) if he throws
+7 at once of twice with two Dice, and B is to have them if he does not; says B
+to A, the Chances which give 7 are 6 of the 36, which is as' much as 1 of 6;
+therefore for your first Throw you shall have a sixth part of the 36, which is
+6; and for your next Throw a sixth part of the remainder 30, which is 5; this
+in all makes 11; so you leave 25 to me; so A's Hazard is to B's as 11 to 25.
+
+It were easy, at this rate to calculate the most intricate Hazards, were it
+not that Fractions will occur, which, if they be more than, may be supposed
+equal to an Unit, without causing any remarkable Error in great Numbers.
+
+It will not be amiss, before I conclude, to give you a Rule for finding in any
+Number of Games the Value of the first, because Hugens's Method, in that Case,
+is something tedious.
+
+Suppose A and B had agreed, that he should have the Stakes who did win the
+first 9 Games, and A had already won one of the 9; I would know what share of
+B's Money is due to A for the Advantage of this Game. To find this, take the
+first eight even Numbers 2, 4, 6, 8, 10, 12, 14, 16, and multiply them
+continually; that is, the first by the second, the product by the third, etc.
+take the first eight odd Numbers, 1, 3, 5, 7, 9, 11, 13, 15, and do just so by
+them, the product of the even Number is the Denominator, and the product of the
+odd Number the Numerator of a Fraction, which expresses the quantity of B's
+Money due to A upon the winning of the first Game of 9; that is, if each staked
+a number of Guineas, or Shillings, etc. expressed by the product of the even
+Numbers, there would belong to A, of B's Money, the Number expressed by the
+product of the odd Numbers: For Example, Suppose A had gained one Game of 4,
+then by this Rule, I take the three first even Numbers, 2, 4, 6, and multiply
+them continually, which make 48, and the first three odd Numbers, 1, 3, 5, and
+multiply them continually, which make 15; so there belongs to A 15/48 of B's
+Money, that is, if each staked 48, there would belong to A, besides his own 15
+of A's. Now by Hugens's Method, if A wants but three Games while B wants four,
+there is due to A 21/32 of the Stake; by this Rule there is due to A 15/48 of
+B's Money, which is 15/69 of the Stake, which, with his own 48/96 of the Stake,
+makes 63/96 or 21/32 of the Stake, and so in every Case you will find Hugens's
+Method and this will give you the same Number; a Demonstration of it you may
+see in a Letter of Monsieur Pascals to Monsieur Fermat; tho it be otherwise
+expressed there than here, yet the consequence is easily supplied. To prevent
+the labor of Calculation, I have subjoined the following Table, which is
+calculated for two Gamesters, as Mons. Hugens is for three.
+
+If each of us stake 256 Guineas in
+
+There belongs to me of 256 of my Play-fellow
+
+The Use of the Table is plain; for let our Stakes be what they will, I can
+find the Portion due to me upon the winning the first, or the first two Games,
+etc. of 2, 3, 4, 5, 6. For Example, If each of us had staked 4 Guineas, and the
+Number of Games to be played were 3, of which I had gained 1, say, As 256 is to
+96, so is 4 to a fourth.
+
+256: 96:: 4: 1
+
+To find what is the Value of his Hazard, who undertakes, at the first Throw,
+to cast Doublets, in any given Number of Dice.
+
+In two Dice it is plain to avoid Doublets, every one of the six different
+Throws of the first, can only be combined with five of the second, because one
+of the six is of the same kind, and consequently makes Doublets; for the samo
+reason, the thirty Throws of two Dice, which are not Doublets, can only be
+combined with four Throws of a third Dice, and three Throws of a fourth Dice;
+so generally it is this Series,
+
+6 x 5 x 4 x 3 x 2 x 1 x 0, etc.
+
+6 x 6 x 6 x 6 x 6 x 6 x 6, etc.
+
+The second Series is the Sum of the Chances, and the first the Number of
+Chances against him who undertakes to throw Doublets, each Series to be
+continued so many terms, as are the Number of Dice. For Example, If one should
+undertake to throw Doublets at the first Throw of four Dice, his Adversary's
+Hazard is ^ or 5/18 leaving to him 13/18, so he has 13 to 5. In seven Dice, you
+see the Chances against him are o, because then there must necessarily be
+Doublets.
+
+Of WHIST.
+IF there be four playing at Whist, it is 15 to 1 that any two of them shall
+not have the four Honors, which I demonstrate thus:
+
+Suppose the four Gamesters be A, B, C, D: If A and B had, while the Cards are
+a dealing, already got three Honors, and wanted only one, since it is as
+probable that C and D will have the next Honor, as A and B; if A and B had
+laid a Wager to have it, there is due to them but of the Stake: If A and B
+wanted two of the four, and had wager'd to have both those two, then they have
+an equal Hazard to get nothing; if they miss the first of those two, or to put
+themselves in the former Case if they get it; so they have an equal Hazard to
+get nothing or, which, by Prop. 1. is worth of the Stake; so if they want three
+Honors, you will find due to them 1/8 of the Stake; and if they wanted four,
+1/16 of the Stake, leaving to C and D 15/16; so C and D can wager 15 to 1, that
+A and B shall not have all the four Honors.
+
+It is 11 to 5 that A and B shall not have three of the four Honors, which 1
+prove thus:
+
+It is an even Wager, if there were but three Honors, that A and B shall have
+two of these three, since it is as probable that they will have two of the
+three, as that C and D shall have them; consequently, if A and B had laid a
+Wager to have two of three, there is due to them of the Stake. Now suppose A
+and B had wager'd to have three of four, they have an equal Hazard to get the
+first of the four, or miss it; if they get it, then they want two of the three,
+and consequently there is due to them of the Stake; if they miss it, then they
+want three of the three, and consequently there is due to them 1/8 of the
+Stake; therefore, by Prop. 1. their Hazard is worth 5/16, leaving to C and D
+11/16.
+
+A and B playing at Whist against C and D; A and B have eight of ten, and C and
+D nine, and therefore cannot reckon Honors; to find the proportion of their
+Hazards.
+
+There is 5/16 due to C and D upon their hazard of having three of four
+Honors; but since A and B want but one Game, and C and D two, there is due to
+C and D but, or 4/16 more upon that account, by Prop. 4. this in all makes
+9/16, leaving to A and B 7/16; so the hazard of A and B to that of C and D, is
+as 9 to 7.
+
+In the former Calculations I have abstracted from the small difference of
+having the Deal and being Seniors.
+
+All the former Cases can be calculated by the Theorems laid down by Monsieur
+Hugens; but Cases more composed require other Principles, for the easy and
+ready Computation of which, I shall add one Theorem more, demonstrated after
+Mons. Hugens's Method.
+
+Theor.
+If I have p Chances for a, q Chances for b, and r Chances for c, then my
+hazard is worth ^, that is, a multiplied into the number of its Chances added
+to b, multiplied into the number of its Chances, added to c multiplied into the
+number of its Chances, and the Sum divided by the Sum of Chances of a, b, c.
+
+To investigate as well as demonstrate this Theorem, suppose the value of my
+hazard be x, then x must be such, as having it, I am able to purchase as good a
+hazard again in a just and equal Game. Suppose the Law of it be this, That
+playing with so many Gamesters as, with my self, make up the number p+q+r, with
+as many of them as the nnmber p represents; I make this bargain, that whoever
+of them wins shall give me a, and that I shall do so to each of them if I win;
+with the Gamesters represented by the number of q, I bargain to get b, if any
+of them win, ann to give b to each of them, if I win my self; and with the rest
+of the Gamesters, whose number is r-1, I bargain to give, or to get c after the
+same manner: Now all being in an equal probability to gain, I have p Chances to
+get a, q Chances to get b, and r-1 Chances to get c, and one Chance, viz. when
+I win my self, to get px+qx+rx-ap-bq-rc+c, which, if it be supposed equal to c,
+then I have p Chances for a, q Chances for b, and r Chances for c (for I had
+just now r-1 Chances for it) therefore, if px+qx+rx-ap-bq-rc+c=c, then is ^.
+
+By the same way of reasoning you will find, if I have p Chances for a, q
+Chances for b, r Chances for c, and s Chances for d, that my hazard is ^, etc.
+
+In Numbers.
+If I had two Chances for 3 Shillings, four Chances for 5 Shillings, and one
+Chance for 9 Shillings, then, by this Rule, my hazard is worth 5 Shillings; for
+^; and it is easy to prove, that with 5 Shillings I can purchase the like
+hazard again; for suppose I play with six others, each of us staking 5
+Shillings; with two of them I bargain, that if either of them win, he must give
+me 3 Shillings, and that I shall do so to them; and with the other four I
+bargain just so, to give or to get 5 Shillings: This is a just Game, and all
+being in an equal probability to win; by this means I have two Chances to get 3
+Shillings, four Chances to get 5 Shillings, and one Chance to get 9 Shillings,
+viz. when I win my self; for then out of the Stake, which makes 35 Shillings, I
+must give the first two 6 Shillings, and the other four 20 Shillings, so there
+remains just 9 to my self.
+
+It it easy, by the help of this Theorem, to calculate in the Game of Dice,
+commonly called Hazard, what Mains are best to set on, and who has the
+Advantage, the Caster or Setter. The Scheme of the Game, as I take it, is thus,
+Throws next following for Mains. The Caster. The Setter. V. V. II. III. XI.
+XII. VI. VI. XII. XI. II. III. VII. VII. XI. XII. II. III. VIII. VIII. XII. XI.
+II. III. IX. IX. II. III. XI. XII.
+
+By an easy Calculation you will find, if the Caster has VI. and the Setter
+VII, there is due to the Caster of the Stake; if he has V. against VII. 2/5 of
+the Stake, VI. against VII. 5/11 of the Stake, IV. against VI. 3/8 of the
+Stake, V. against VI. 4/9 of the Stake, VI. against V. 3/7 of the Stake,
+
+
+I need not tell the Reader, that IV. is the same with X, V. with IX, and VI.
+with VIII.
+
+Suppose then VII. be the Main: To find the proportion of the hazard of the
+Caster to that of the Setter.
+
+By the Law of the Game, the Caster, before he throws next, has four Chances
+for nothing, viz. these II, III, XII; eight Chances for the whole Stake, viz.
+those of VII, XI; six Chances for, viz. those IV, X; eight Chances for 2/5,
+viz. those of V, IX; and ten Chances for 5/11, viz. these of VI, X; so his
+hazard, by the preceding Theorem, is ^
+
+Now to save the trouble of a tedious reduction, Suppose the Stake which they
+play for be 36, that is, the Setter had laid down 18; in that case, every one
+of these Fractions are so many parts of an Unite, which, being gathered into
+one Sum, give 1741/59 to the Caster, leaving 1814/55 to the Setter; so the
+hazard of the Caster is to that of the Setter 244, 251.
+
+Suppose VI. or VIII. be the Main, then the Share of the Caster is
+
+II.
+
+III. VI. IV. V.
+
+XI. XII. X. IX. VIII. VII.
+
+5x0+6x1+6x3/8+8x4/9+5x+6x6/11= =17229/396, leaving to the Setter 18167/396, so
+the hazard of the Caster is to that of the Setter as 6961 to 7295.
+
+Suppose V. or IX. be the Main, then the Share of the Caster is
+
+II.
+
+III.
+
+XI. IV. VI.
+
+XII. V. X. IX. VIII. VII.
+
+6x0+4x1+6x^+4x+10x^+6x^= =17 229/315, leaving to the Setter is 1886/315, so
+the hazard of the Caster is to that of the Setter as 1396 to 1493.
+
+It is plain, that in every Case the Caster has the Disadvantage, and that V.
+or IX. are better Mains to set on than VII, because, in this last Cast the
+Setter has but 18 and 14/55 or 84/330; whereas, when V. or IX. is the Main, he
+has 1886/315; likewise VI. or VIII. are better Mains than V. or IX. because
+167/396 is a greater Froction than 86/315.
+
+All those Problems suppose Chances, which are in an equal probability to
+happen, if it should be supposed otherwise, there will arise variety of Cases
+of a quite different nature, which, perhaps, 'twere not unpleasant to consider,
+I shall add one Problem of that kind, leaving the Solution to those who think
+it merits their pains.
+
+In Parallelipipedo cujus latera sunt ad invicem in ratione a, b, c: Invenire
+quota vice quivis suscipere potest, ut datum quodvis planum, v. g. ab jaciat.
+
+FINIS.
+ERRATA.
+PReface, page 3. line 1. read in. p. 6. l. 5. r. incur. p. 10. l. 8. for is
+left to me, r. properly deserves the name of Conduct. Book, p. 2. l. 7. for 9
+r. q. p. 16. l. 5. add and he one. p. 71. l. 5. r. wins.
+
+Advertisement.
+THe whole Duty of Man according to the Law of Nature. By that famous Civilian
+SAMUEL PUFFENDORF, Professor of The Law of Nature and Nations, in the
+University of Heidelberg, and in the Caroline University, afterward
+Counselor and Historiographer to the K. of Sweden, and to his Electoral
+Highness of Brandenburg. Now made English. Printed for C. Harper, at the
+Flowerde-Luce over against St. Dunstan's Church in Fleetstreet.
+
+
