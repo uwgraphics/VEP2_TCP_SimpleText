@@ -1,0 +1,204 @@
+Sixteen pence in the Pound. OR, A Table showing the present worth of one Pound
+Annuity, for any time under 100 years, by years, halves, and quarters.
+
+COMPUTED, For the just proportioning of the Fines at that rate, according to
+the present worth of every man's respective Interest in Houses built upon New
+Foundations since the 25th. of March, 1620.
+
+By JOHN NEWTON, M. A.
+
+London, Printed 1658.
+
+TO THE COURTEOUS READER.
+BY an Act of Grace, and not by imposition of a new tax, a years rent only,
+is now required of such as have transgressed the Laws formerly made for
+preventing of Buildings, least any should suffer too much by the rigorous
+execution of those Laws, and further it is provided that this years rent be
+indifferently proportioned, upon several persons, according to their respective
+interests in such Houses, where more then one are concerned; (for where one
+only person is concerned, the Fine is quickly set, viz. a years rent,) but
+where there are more concerned, though there is still but one years rent
+required; yet how this shall be raised, is not so easy to determine, and is
+therefore to be proportioned upon the several persons concerned therein,
+according to their respective interests, in such manner as the Commissioners
+appointed, by his Highness, shall think fit, for which purpose, a certain
+value of such Houses must be fixed, and therefore that the Head-Land-lord, (by
+whom the transgression was first committed) might pay somewhat a greater
+proportion, for his estate in reversion, then the Under-tenants, that do
+derive their interests from him, it is determined by his Highness
+Commissioners, that the Fee-simple of such Houses shall be valued at 15 years
+purchase, and the estates of the Under-tenants, at 8 li. in the Hundred, or 12
+years purchase, and a half, or as near that rate, as the condition of their
+estates will allow, without imposing too great a proportion upon the
+Head-Land-lord, now by this ensuing Table, these fines or parts of rent may be
+so computed, as that all the Under-tenants shall be allowed between 7, and 8,
+in the Hundred for their purchase money, according as their interest is,
+whether for a longer or a shorter time, nevertheless then 7, that so the fine
+may fall somewhat more heavily upon the Head-Land-lord, then the Under-tenant,
+and never more then 8; least the reversion should fall heavier then is
+intended, for the first 20 years, the present worth is here to be computed at
+the rate of 8 per Cent. and at the rate of 12 pence less for every fourth year
+after, that is a lease of 24 years is computed at the rate of 7 l. 19.. per
+Cent. 28 at the rate of 7. 18 s. Cent. and so decreasing 12 pence for every 4
+years till you come to 100, for which time the rate is 7 per Cent. per Ann. now
+how such Fines or parts of rent may be so computed by this Table, as that the
+several Fines, which are proportioned upon him that has the Fee, and upon his
+Under-tenants shall in the whole make but one years rent, we will explain by
+example, taking it for granted, that the Reader already knows, how the parts
+of a pound may be reduced into a Decimal, and the contrary.
+
+1 Question.
+
+There is a House let for 14 l. 10 s. in which A B has 2. 10 s. for 11 years,
+C D has 4 l. for 11 years and 6. 10 s. for 24 years after E F has 8 l. for
+35 years and the Fee, the question is what every of these estates is worth in
+present money, and what each man's Fine or proprrtion of rent is, which he must
+pay for his interest.
+
+For answer to this Question: First, compute the present worth of A B in this
+manner, the number in the Table answering to 11 years is 7.138963, now then I
+say,
+
+If 1 l. Annuity, for 11 years be worth 7.138963 2.5 What is the present worth
+of and multiplying the second and third terms together, the product is which is
+the present worth required. 17.8474075
+
+Now because CD has 4 l. for 11 years and 6.10 s. for 24 years after, I add
+his number of years together, and they make 35, for which time I find the
+present worth of 6.10 s. to be 77.1726085, from deducting the present worth of
+2.10 s. before found, the remainer is the present worth of 4 l, for 11 years,
+and of 6.10 for 24 years after.
+
+The present worth of 6.10 for 35 years is 77.17260 The present worth of 2.10
+for 11 years subtract 17.84740 The remainer is the present worth of CD
+required. 59.32520
+
+And to find the present worth of OF, who has 8 l. for 35 years, and the Fee
+in reversion, I compute the present worth of the whole estate at 15 years
+purchase, now the whole rent is 14.10, or 14,5, which being multiplied by 15,
+the Fee-simple is worth 217.5, from which deducting the present worth of 6.10
+for 35 years 77.17260, which is the present worth of the estates of AB and CD
+added together, the remainer is the present worth of OF.
+
+The present worth of 14.10 in Fee 217.50000 The present worth of 6:10 for 35
+years subtract 77.17260 The remainer is the present worth of OF, who has 8 l.
+for 35 years, and the Fee in reversion of 14.10. 140.32740
+
+Now the present worth of these 3 estates added together, do make the present
+worth of the whole rent 14.10 at 15 years purchase.
+
+The present worth of AB 17.84740 The present worth of CD 59.32520 The present
+worth of OF 140.32740 The present worth of the Fee 217.50000
+
+Or being reduced into current Money.
+
+l. s. d. The present worth of AB 17 16 11 The present worth of CD 59 06 06 The
+present worth of OF 140 06 07 The present worth of the Fee 217 10 00
+
+And the present worth of each man's estate being thus found, the proportional
+part of the years rent which every man must pay for his interest, is easily
+found also; for the Fee being rated at 15 years purchase, it is apparent that
+one pound is the Fine of an estate, that is worth 15 pound in present money,
+and hence to discover the Fine of one pound, I say, if 15 give I, what shall 1
+l. give? and the answer is 1 shilling, 4 pence, or the 15 part of a pound, and
+therefore the Fine of every man's present worth, is 16 pence in the pound; but
+because the Fine, for the part of a pound, is in this manner somewhat
+troublesome, if you divide the present worth of an estate, by 15, the Quotient
+shall be the Fine required.
+
+Example, The present worth of AB 17.84740 being divided by 15, the Quotient is
+1.18982 or 1 l. 3 s. 10 d.
+
+And because it is all one to divide by 5 and by 3, or to divide by 15, the
+Fine will somewhat more easily be discovered by such division, it being easier
+to divide by one digit, then by two. Thus dividing 17.84740 first by 5, the
+Quotient is 3.56948, and then dividing this Quotient by 3 the second Quotient
+1.18982, is the Fine required as before.
+
+And because it is all one to divide a number by 5, or to multiply the same
+number by 2 tenths, therefore if you multiply the present worth by 2 tenths,
+and divide the product by 3, the quotient will be the Fine required.
+
+Example, The present worth of AB 17.84740 which being multiplied by 2, is
+3.56948 And this product divided by 3 gives in the Quotient as before 1.18962
+
+So that by either of these ways the Fines or parts of rent may be discovered;
+And thus,
+
+The Fine which AB must pay is 1.18982 The Fine which CD must pay is 3.95502
+The Fine which OF must pay is 9.35516 In all 14.50000
+
+Or in the parts of current Money.
+
+The Fine which AB must pay is 1 03 10 The Fine which CD must pay is 3 19 01
+The Fine which OF must pay is 8 07 01 In all 14 10 00
+
+And in this manner, may all other questions of the like nature be resolved, I
+shall not therefore trouble thee with any farther Directions, but leave these
+such as they are, to be perused and censured, as in thine own judgment they
+shall deserve.
+
+John Newton.
+
+A Table showing the present worth of 1 l. Annuity, at several rates between 8
+and 7 per Centum, per Annum, Compound Interest, by years, halves, and quarters,
+for time less then one Hundred years.
+00.238204 0.471869 0.701082 1 0.925926 1.146486 1.362842 1.575076 2 1.783264
+1.987487 2.187817 2.384329 3 2.577096 2.766191 2.951683 3.133639 4 3.312126
+3.487214 3.658965 3.827443 5 3.992709 4.154828 4.313857 4.469855 6 4.622879
+4.772989 4.920238 5.064680 7 5.206369 5.345359 5.481702 5.615445 8 5.746638
+5.875334 6.001576 6.125412 9 6.246887 6.366049 6.482941 6.597625 10 6.710080
+6.820416 6.928649 7.034818 11 7.138963 7.241126 7.341341 7.439647 12 7.536077
+7.630673 7.723464 7.814488 13 7.903775 7.991363 8.077281 8.161562 14 8.244236
+8.325337 8.404891 8.482928 15 8.559477 8.634571 8.708232 8.780489 16 8.851368
+8.920899 8.989104 9.056009 17 9.121637 9.186018 9.249169 9.311119 18 9.371886
+9.431498 9.489972 9.547333 19 9.603598 9.658794 9.712937 9.766048 20 9.818146
+9.865308 9.912470 9.959632 21 10.006794 10.053956 10.101118 10.148280 22
+10.195441 10.242603 10.289765 10.336927 23 10.384089 10.431251 10.478413
+10.525575 24 10.572737 10.608954 10.645171 10.681388 25 10.717604 10.753821
+10.790037 10.826254 26 10.862471 10.898688 10.934905 10.971121 27 11.007338
+11.043555 11.079771 11.115988 28 11.152205 11.181951 11.211697 11.241443 29
+11.271189 11.300935 11.330681 11.360427 30 11.390173 11.419919 11.449665
+11.479411 31 11.509158 11.538904 11.568650 11.598396 32 11.604142 11.626522
+11.648903 11.971283 33 11.693664 11.716044 11.738425 11.760805 34 11.783186
+11.805566 11.827947 11.850328 35 11.872709 11.895089 11.917470 11.939851 36
+11.962231 11.980316 11.998401 12,016486 37 12.034571 12.052656 12.070741
+12.088826 38 12,106910 12.124995 12.143080 12.161165 39 12.179249 12:197334
+12-215419 12.233504 40 12.251589 12.266515 12.281440 12.296366 41 12.311292
+12.326217 12.341143 12.356069 42 12.370994 12.385920 12.400846 12.415771 43
+12.430696 12.435622 12.450548 12.465474 44 12.490399 12.502999 12.515599
+12.528199 45 12.540799 12.553399 12.565999 12.578599 46 12.591299 12.603799
+12.616399 12.628999 47 12.641599 12.654199 12.666799 12.679399 48 12.691999
+12.703415 12.714831 12.726248 49 12.737664 12.748551 12.759437 12.770324 50
+12.781211 12.791833 12.802454 12.813077 51 12.823699 12.834321 12.844944
+12.855565 52 12.866187 12.875812 12.885438 12.895064 53 12.904690 12.914316
+12.923941 12.933567 54 12.943193 12.952818 12.962444 12.972069 55 12.981695
+12.991321 13.000946 13.010572 56 13.020198 13.028897 13.037596 13.046295 57
+13.054994 13.063693 13.072392 13.081091 58 13.089790 13.098872 13.107955
+13.117038 59 13.126124 13.134436 13.142741 13.151056 60 13.159381 13.167403
+13.175424 13.183446 61 13.191467 13.199489 13.207510 13.215532 62 13.223554
+13.231575 13.239597 13.247618 63 13.255640 13.263661 13.271683 13.279705 64
+13.287726 13.295256 13.302785 13.310315 65 13.317845 13.325375 13.332904
+13.340434 66 13.347964 13.355494 13.363023 13.370553 67 13.378083 13.385613
+13.393142 13.400672 68 13.408202 13.415379 13.422556 13.429733 69 13.436910
+13.444087 13.451264 13.458441 70 13.465618 13.472795 13.479972 13.487149 71
+13.494326 13.501503 13.508680 13.515857 72 13.523034 13.529963 13.536892
+13.543822 73 13.550751 13.557680 13.564609 13.571539 74 13.578468 13.585398
+13.592327 13.599256 75 13.606185 13.613114 13.619043 13.625972 76 13.633902
+13.640662 13.647423 13.654183 77 13.660944 13.667765 13.674465 13.681225 78
+13.687985 13.694745 13.701506 13.708266 79 13.715027 13.721788 13.728548
+13.735309 80 13.742069 13.748721 13.755373 13.762025 81 13.768676 13.775327
+13.781979 13.788631 82 13.795282 13.801934 13.808586 13.815238 83 13.821889
+13.828541 13.835192 13.841843 84 13.848495 13.855084 13.861673 13.868263 85
+13.874852 13.881441 13.888030 13.894620 86 13.901208 13.907797 13.914386
+13.920976 87 13.927565 13.934154 13.940743 13.947333 88 13.953922 13.960484
+13.967046 13.973608 89 13.980170 13.986732 13.993294 13.999856 90 14.006418
+14.012980 14.019542 14.026104 91 14.032667 14.039229 14.045791 14.052353 92
+14.058915 14.065467 14.072019 14.078571 93 14.085123 14.091675 14.098227
+14.104779 94 14.111331 14.117883 14.124435 14.130987 95 14.137540 14.144092
+14.150644 14.157196 96 14.163748 14.170342 14.176936 14.183530 97 14.190124
+14.196718 14.203312 14.209906 98 14.216500 14.223094 14.229688 14.236282 99
+14.242876 14.249470 14.256064 14.262658 100 14.269252
+
+FINIS.
+

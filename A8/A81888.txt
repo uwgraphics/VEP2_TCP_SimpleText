@@ -1,0 +1,208 @@
+THE General Doctrine OF Equation Reduced into brief Precepts. In III. Chapters.
+
+Derived from the Works of the best Modern Analysts.
+
+By MICHAEL DARY, Philomath.
+
+LONDON: Printed for Nath. Brook at the Angel in Cornhill. 1664.
+
+bookplate N B
+
+
+
+Courteous Reader,
+ABout a Year and an half since there came to my perusal the incomparable
+Treatise of Florimondo de Beaun, of the nature and limits of Equations; the
+contemplation whereof caused me ( rudi Minerva) to draw up The Doctrine of
+Equation for my own use; and perceiving that the later part of the aforesaid
+Treatise about the Limits of Equations might be spared, and supplied by the
+possibility of the first Figure of the Root, I communicated my Observations of
+this nature to others, who desirous thereof have inclined me to publish the
+same to save the trouble of Transcription. Now if my dim Taper may administer
+any light to others, I have obtained my ambition, which is to be accounted
+
+A Lover and Servitor to Art and Artists, MICHAEL DARY.
+London, Jan. 1. 1664.
+The Doctrine of EQUATION comprised in three Chapters.
+CHAP. I. Of Equation, and the true stating and purging of a Mathematical
+question, whereby (if need be) to bring it to one Equation.
+EQuation is when one Quantity is equal to one Quantity, or when one Quantity
+is equal to many Quantities, or when many Quantities are equal to many
+Quantities.
+
+2. Any Equation may be reduced to a new Homogeneal Equation, if each side be
+augmented or diminished equally by Addition, Substraction, Multiplication,
+Division, Involution or Devolution.
+
+3. Any Mathematical Question may be proposed in an Equation, or in several
+Equations, coherent in respect of the unknown quantities.
+
+4. Therefore when a Question of this nature is proposed, and Resolution
+desired, let there be put (Symbolically) for every quantity therein mentioned
+some Letter of the Alphabet, (for the known quantities those Letters toward
+the beginning of the Alphabet; and for the unknown, those Letters toward the
+later end of the Alphabet:) then shall you state the whole business of the
+Question by Ratiocination thereto requisite, (for which purpose you ought to be
+sufficiently furnished with Analytical store) into an Equation, or into several
+coherent Equations: which coherent Equations ought to be one to another
+irreducible or heterogeneal.
+
+5. If (in a question so stated) the unknown Symbols be more then the
+Equations, that question is impertinent, and capable of an infinite number of
+Answers: But if the unknown Symbols be not more then the Equations, that
+question is pertinent, and not capable of an infinite number of Answers.
+
+6. If the question proposed be pertinent, and stated into several Equations,
+you shall (by the 2. hereof) purge those Equations of all the unknown Symbols,
+excepting that which is desired to be known; and so the question will stand in
+one Equation.
+
+CHAP. II. Of clearing and trimming an Equation, whereby to know (what Roots
+and how many it has, viz.) the Constitution thereof.
+1. IF there be any Fractions in the Equation, let them be cleared of their
+Nominators by Chapter 1. Sect. 2. Also by the same let the Surd Roots be taken away
+if there be any.
+
+2. If the unknown Symbol be found in all the Terms, you shall clear as many of
+the Terms of it as may be cleared by Chap. 1. Sect. 2. But if all the Terms may
+be cleared, that Equation is identical.
+
+3. If there be a Cofactor in the first Term, let it be cleared away, (if it
+may be done without Fractionizing any other Term) by Chap. 1. Sect. 2.
+
+4. Let all those Terms on the right side of the Equation be transposed to the
+left by Chap. 1. Sect. 2.
+
+5. Let all Homogeneal Terms be gathered into one Term by the prescription of
+their Signs and Cofactors: placing the highest Potestate of the unknown Symbol
+first, (most sinisterly) and the rest of the inferior Potestates succeeding in
+their order, the absolute being last; and on the right side of the Equation put
+a Cipher.
+
+6. If the Absolute be affirmed, you shall make it denied by changing all the
+Signs throughout the Equation; so is the Equation cleared.
+
+7. This done, you shall expugne all the known Symbols, and put their
+respective Numbers in their rooms; and now you may call it a trimmed Equation.
+
+8. Every trimmed Equation has so many Roots as is intimated by the Index of
+the unknown Symbol in the first Term, whereof there are so many true Roots, as
+the Signs (in their order) have Changes, and the rest are false Roots.
+
+9. A [ true / false ] Root of a trimmed Equation is a number or quantity [
+greater / lesser ] then nothing, which wrought according to the Conscription of
+the unknown Symbol, the result is [ always / sometimes ] equal to nothing.
+
+10. In a trimmed Equation having all the Potestates of the unknown Symbol
+extant, if you change the Signs in even places, the true Roots are turned to
+false Roots, and the false Roots to true.
+
+11. In a trimmed Equation, having all the Potestates of the unknown Symbol
+extant, if you change the Signs in even places,
+
+The Cofactor in the second Term is equal to the sum of all the single Roots.
+Multiplied by the Cofactor in the first term. The Cofactor in the third Term is
+equal to the sum of the Facts of every two Roots. Multiplied by the Cofactor
+in the first term. The Cofactor in the fourth Term is equal to the sum of the
+Facts of every three Roots, etc. Multiplied by the Cofactor in the first term.
+12. In every trimmed Equation the unknown Symbol is arbitrarily equal to any
+one of the Roots (whether true or false) as constituting the Equation proposed.
+
+13. If therefore to the unknown Symbol a true Root be connexed with the Sign -
+or a false Root with the Sign +; every such Connection may not unfitly be called
+an equated Binomial.
+
+14. Every trimmed Equation is constituted by the Fact of all its equated
+Binomials; multiplied by the Cofactor in the first Term.
+
+15. All trimmed Equations, wherein the Signs are not changed, are always
+impossible: yea and sometimes (also) although the Signs are changed, as in some
+pretended trimmed Equations.
+
+CHAP. III. Of the construction and use of the Canon, whereby the possibility
+or impossibility of any trimmed Equation is discovered, as also one of the true
+Roots ^educed in number, and consequently all the rest of the true Roots.
+1. LEt the Absolute Number be transposed to the right side of the Equation,
+and then you may call it the Resolvend.
+
+2. Now if you substitute in the room of the unknown Symbol, any Binomial; as
+(if you please) l+n: then are all the Potestates of l+n equal to all the like
+Potestates of the unknown Symbol, which Potestates of l+n being orderly placed
+do make up the Canon for the Equation proposed.
+
+3. Let the Resolvend be placed on the right side of the Canon, with the Sign
+of Equation between them, and draw a curved line on the right side of the
+Resolvend for a Quotient or Receptacle for the quesitious root.
+
+4. Beginning at the place of Units, let the Resolvend be pointed into Periods,
+as it intimated by the several Potestates of the unknown Symbol, viz. for a
+Root every single Figure, for a Square every second Figure, for a Cube every
+third Figure, and so on; extending toward the left hand for a whole Number, but
+toward the right hand for a Decimal Fraction; completing the Resolvend with
+Ciphers if need be, for there must be as many Periods for one Potestate as
+another, and no more; of which Periods so seated, one of every sort of the same
+gradual distance from the place of Units, are called a congruent set.
+
+5. Having thus limited the Resolvend by Punctation, you shall put for the
+first Figure of the Root, ( viz. for l) the greatest Figure that may be; always
+provided that those parcels in the Canon which have not the Secundary Root n in
+them, being collected according to the first, (if need be, second or third,
+etc.) congruent set of Periods into one Result, may be subducted from the
+correspondent part of the Resolvend limited by Punctation; and the Remainer
+retaining the same Sign with the Resolvend, must be always less then the
+succeeding Divisor.
+
+6. (Subduction being made, let all those parcels in the Canon which have not
+the Secundary Root n in them be expugned, for they are no more to be used.)
+
+7. Now and henceforward in the enquiry for every succeeding Figure of the
+Root, l shall represent (or be equal to) that part of the Root already found;
+and n shall represent that next succeeding Figure of the Root which is enquired
+for.
+
+8. To the Remainer you shall regularly draw down so much of the Resolvend as
+is limited by the last Period of the next congruent set of Periods, makes your
+Minorand, having the same Sign with the Resolvend.
+
+9. That there may be some light exhibited for the choosing of the next
+succeeding Figure of the Root, the known part of the Canon (for therein i^
+nothing unknown but ^) being collected according to the precedent Congruent set
+of Periods into one Result makes your Divisor, having the same Sign with the
+Resolvend; the last Remainer decuplicated being your Dividend.
+
+10. (But if there cannot be such a Divisor made as is required by the 5.
+hereof, that Equation is impossible; if there may, it is possible.)
+
+11. By enquiry and some trial you shall put for the next succeeding Figure of
+the Root, ( viz. for n) the greatest Figure that may be; always provided that l
+being decuplicated, the whole Canon (for now therein is nothing unknown) being
+collected according to the present congruent set of Periods into one Result,
+may make a Subducend, having the same Sign with the Resolvend; which being
+subducted from the foresaid Minorand, the Remainer retaining the same Sign,
+must be always less then the succeeding Divisor.
+
+12. And so you may proceed to find every Figure of the Root, repeating the 8,
+9, and 11. hereof, leaving out the 10, for if the first Figure of the Root be
+possible, all the rest are possible.
+
+13. Now if it be required to find another of the unknown true Roots, (if there
+be any) let the Equation as it stood trimmed by Chap. 2. Sect. 7. be divided by
+the equated Binomial, viz. the unknown Symbol less the new-known Root: and the
+Quotient is a trimmed Equation, (one degree lower then the Dividend)
+constituted (Chapter 2. Sect. 14.) by the Fact of all the remaining equated
+Binomials, multiplied by the Cofactor in the first Term.
+
+Therefore you may proceed to find that other true Root required, (and
+consequently all the rest of the true Roots one after another, if need be) by
+repeating this whole Chapter, excepting the 10 hereof; for if one true root be
+possible, all the rest are possible.
+
+Laus Deo.
+FINIS.
+POSTSCRIPT.
+THe former Precepts are general, and (as the Author conceives) neither
+redundant nor deficient, and are explained in the Examples of other learned
+Analysts, as in Mr. Oughtreds Clavis, and Mr. Moors Specious Arithmetic
+joined with his Conick Sections, books of excellent use, sold by Nath. Brook.
+
+
