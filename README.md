@@ -9,8 +9,7 @@ If you are a GIT user, you can clone this repository. If you don't know what
 that means, use the "Download ZIP" option from the "Code" button above.
 If you just want to download the files, press the "Code" button
 (upper right above the README) and select "Download ZIP". This way you can get
-the files without using GIT. Be patient - it is a HUGE download.
-
+the files without using GIT. Be patient - it is a HUGE download. It is a 3GB ZIP file. 
 
 This collection (61315 documents, about 8.1GB) is a bit big for a GIT
 repository. The total (including the GIT compressed stash) is around 11GB. 
