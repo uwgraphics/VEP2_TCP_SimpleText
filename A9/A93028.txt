@@ -1,0 +1,1110 @@
+THE ANATOMY OF Urania Practica.
+
+OR, A short Mathematical Discourse; Laying open the Errors and impertinencies
+delivered in a Treatise lately published by Mr. Vincent Wing, and Mr. William
+Leybourne, under the title of Urania Practica.
+
+By Jeremy Shakerley Philomath.
+
+Tota stupet natura Deum, robustaque quamvis,
+Viribus in nihilo deficit aegra suis.
+Ars stupet, and tantae spectans molimina dextrae
+Heret, and ipsa suas damnat egena manus.
+Nature's astonished at her god, though fast
+And far she go; her strength is tired at last.
+To view these works, Art does amazed stand,
+Doubts, and condemns her own untuter'd hand.
+LONDON: Printed by Thomas Brudenell, 1649.
+
+To the Honorable Major General LAMBERT: The Author wishes Felicity.
+Most Honored Sir:
+THese few leaves more trusting to the worth of the subject they treat of, then
+the worthiness of their Author's performance, have made bold to become an
+object of your eye, and though small in bulk, yet great in substance: Its
+winged subject has given it occasion to mount on high, and from the top of
+Art, to look down on the unartificiall Fabrics of others, which would make us
+believe they are fixed in solid Orbs, and not subject to corruption: Yet may it
+be doubted, its high flight is endangered with precipices, which every where
+make the passage more difficult: And so much the rather, for that the vain
+confidence of Artists in these days, has drawn into the number of their
+adherents, others who take their Art upon trust, which of how dangerous a
+consequence it is, will in some measure appear in the following Discourse. But
+I did not know any to whom I would more willingly, or could more justly presume
+to Dedicate these the first fruits of my endeavors, then to your worthy self;
+who to your many rare and singular virtues, have added the Star of
+Mathematical knowledge, thereby to make your excellencies a perfect
+Constellation. Under the fortitude of whose favorable aspect, this slender
+piece craves a shelter from the malevolent rays of Detraction. Thus far your
+celebrated goodness has drawn the hopes of him who is
+
+The honourer of your Virtues, And Your Servant devoted, JER. SHAKERLEY.
+
+To the Mathematical READERS.
+THe principal glory of the Mathematick Sciences, is their certainty whereby
+they are able to command the approbation of others, and impose upon their
+Adversaries a necessity of favoring their Demonstrations, when other Arts,
+built upon the experiments of former times, leave room for the refined conceits
+of others, who many times change and alter their dubious principles. But these
+with their own materials have strengthened their holds, and are of power to
+frustrate the designs of opposition. And of these the two cornerstones,
+Arithmetic and Geometry have this pre-eminence above other Arts, that they
+leave no hole to creep out at, no quirk for dissent, but an everlasting
+addition of new Inventions, to what before has been happily demonstrated. But
+Astronomy deriving her current from more abstruse and hidden fountains, has
+left a harder task to her Observers, to find her out, and trace her through
+her curious Laborinth; and unless learned in the other two, here most subject
+to fall into many absurdities and untruths. So nice is Urania in the choice of
+her servants, and so unwilling to prostitute her Virgin excellencies to the
+mercenary embraces of every vulgar Professor.
+
+And hence for the most part it falls out, that in these curious speculations,
+the more we desire to know, the more we come to the knowledge of our own
+ignorance, our new experiments informing us of the insufficiency of ancient
+suppositions, and giving an example to our followers to handle our conceits, as
+we have done theirs that went before us. For although what way soever we turn
+the eyes of our judgment, and from the beginnings draw down our cogitations
+upon each particular, we shall every where find evident testimonies of the
+divine omnipotency; and although that our minds by the Towning raptures of
+sublime imaginations, exalt themselves above the Spheres, and suffer not
+themselves to be bounded with other limits then those that circumscribe the
+universe; yet when we enter into these sacred contemplations, we find as much
+as we can behold, more then we can understand, these mysteries being too
+aenigmaticall for our dull apprehensions, as this load of flesh tries and clogs
+our immortal part in its aspiring journey.
+
+Notwithstanding the most necessary care of worthy Artists, has scarcely in
+any age been wanting, and the divine Urania still found those who admired and
+celebrated her excellencies, whose successive labors have taught us how great
+a thing experience is, and what danger there is in conformity to ancient rules.
+Little could be expected from them who were guided by so few; yet their
+performances were beyond expectation. More may be required from our times,
+whose subsidiary knowledge is greater. This last age (by the blessing of God)
+does enjoy the benefit of more admirable and useful Inventions, then any, or
+almost all before it, and still new ones are added to the old, and the welcome
+tidings of Mathematical novelties daily delight us. And indeed what shall we
+mortals now despain of? within what bounds shall our wits be contained?
+Difficult, remote and envious things are now grown pervious to humane industry.
+We have seen the spots of the Sun, and its conversion about its own axis; we
+have seen the laterall Guardians of Saturn and Jupiter, the various Phases of
+Mars, the horns of Venus and Mercury, the mountains and Seas of the Moon; we
+have seen the generation of Comets, the apparition and disparition of new Stars
+amongst the Planetary Orbs; we have seen innumerable Cohorts of fixed Stars;
+yea, even the small constellation of the Pleiades, beautified with diverse
+lights impossible to be numbered; we have seen the Rainbow like colors of
+diverse lucid Globes, and the motley outsides of the Dog Star and Orion. O
+Heaven and Stars! how much has our age triumphed over you! Neither does our
+victory end here, still new miracles add to the number of the old, and no day
+passes without a triumph.
+
+Why then shall we subject our selves to the authority of the Ancients, when
+our own experience can inform us better? why do we not break their bands
+asunder, and cast their cords far from us? certainly the Ancients (were they
+now alive) would not condemn our choice. Aristotle that referred the studious
+in his time to Eudoxus and Calippus for satisfaction, could not dislike our
+Arguments against the corruption of the visible Heavens. Ptolomey that founded
+his Hypothesis upon Observations, would not be angry if our Observations
+persuade us to another hypothesis then he has constituted. Tycho Longomontanus
+and Lansberge (unless puffed up with self glory, or sworn to contradiction)
+would not deny our demonstration of the insufficiency of their Theories.
+Lastly, M. Wing, and M. Leybourn (if they be owners of that true worth which
+ought to be an inseparable companion of a Mathematician) will not storm, when
+we show them their Writings are subject to error.
+
+Nor is it indeed possible that one age, or one man should perform all things
+requisite in this Science. Many things are impossible ever to be found out, and
+many things reserved to the discovery of after ages. How easily, and how justly
+may we apply the Prophetical words of sententious Seneca to our present
+purpose:
+
+-- Venient annis
+Seculae seris, quibus uraniae
+Vincula rerum laxet, and ingens
+Pateat mundus, Vitrumque novos
+Detegat Orbs, nec fit nobis
+Ultima Tellus.
+But I have been more large and general then for such a small Treatise. At
+your feet then (Mathematical Readers, and my honored Judges) I prostrate this
+my first. born: For it is the censure of you alone which I value; the popular
+voice, like other Agents, never acting beyond their proper sphere of activity.
+
+Your Servant JER. SHAKERLEY
+
+THE ANATOMY OF URANIA PRACTICA.
+CHAP. I. The occasion of this Discourse.
+I Am not ignorant, how dangerous a boldness it is, to appear abroad in the
+world as an Antagonist, and how subject they are to be judged themselves who
+would give judgment upon others, especially upon those whom worth or custom
+has inthroned in the good-likings of other men; and whosoever whets his Pen
+against such as these, is like to be more weakened with the batteries of Envy,
+then strengthened with the fortifications of a good cause. For when once we
+have enslaved our wits to any Author, and look upon him with the eye of
+subjection, we are very hardly drawn from the pressure of that yoke; yea, and
+oftentimes we murmr and repine at those, who show us the way to clear our
+selves of this burden, and free our judgments from captivity. If then I could
+prefer the sloathfull security of My name before the truth, I should rather
+have smothered these modest criticisms, and confined them to the chamber of my
+private thoughts, then in this censorious age, expose my self to the censure of
+the world: for although I do believe that whatsoever I shall write here is
+undoubtedly true and certain, and I doubt not will of learned Readers be
+approved; yet can I not promise to my self the general consent of every
+Reader: for some there will be whom the specious words and large promises of my
+Authors have deluded, and these are most likely to call me obstreperous and
+impertinent, that after the worthy Labors of these famous men, and the sum of
+their endeavors herein, I should yet desire a plus ultra, and manifest my
+boldness and impudence, in that having but newly crept out of the limits of
+Childhood, I dare bend my Pen against famous Artists of such a continuance.
+
+But it is the part of a slothful timorousness, to be afraid of the rash
+censure of the multitude, and it is doubtful I shall not be so much commended
+for modesty, as censured for want of boldness, to be fearful to restore the
+Truth to her proper Dignity, and clear her nobleness from being partaker in
+those counterfeits, which pass abroad under her name. It is to be imagined
+that Urania Practica has found her favorites, and there want not those, who
+have fixed their devotion on this new Deity: And I must confess, when I heard
+the report of her coming, and saw the news of her so considently fly through
+the British Isle, upon the paperwings of several Almanacks, I had a good hope
+some extraordinary performance would have confirmed those glorious reports, and
+upon the Theater of a Mathematical Judgment, acted something worthy those
+Praeludia. But when in January 1648/9. I received from my worthy and honored
+friend, Master William Lilly, that so much expected piece, and had with a
+greedy eye, surveied the contents, the clouds of despair over-shadowed my
+thoughts, and involved my hopes in a sable vesture, yea I could scarcely
+refrain from blaming my self, that upon such uncertain foundations as the
+popular voice had built my hopes to that height: for I did not only fail of my
+expectation of a certain course whereby to attain a reasonable perfection in
+Astronomical grounds and Theories; but on the contrary, perceived scarcely any
+dressing therein, which (if rightly considered) did not misbecome the divine
+Urania. I expected a compound of the best simples that could be found in the
+Treasuries of those Authors, which Master Vincent Wing has put in his
+Muster-roll, recorded in the beginning of his Almanac, 1649. but find that
+their errors are here renewed: all which I beheld with an eye, truly pitying
+such studious Tyro's, as understand only English; for they are those who are
+most subject to swallow these insalubrious baits, so destructive to a perfect
+proficiency in these Sciences. For the remedy whereof, and because I knew no
+other from whom any such performance might be expected, I adventured upon this
+task, and have herein delivered to the eye of the world a detection of some the
+most notable mistakes I considered in that Treatise: but I pass by many things
+worthy also to be noted, if my professed brevity would grant me leave. What I
+have done, is done with such reverence to the sacred name of Urania, that I am
+confident I have not in the least any way wronged the meanest of her
+favorites: And in regard my Authors are the first that have in English
+adventured upon such a subject, my tender Quill shall spare their infancy,
+whose errors otherwise merit to be vindicated with more severity.
+
+CHAP. II. An error in finding the Dominicall Letter and Epact in the Foreign
+Account perpetually, detected.
+THough something below the level of our intended endeavors, it will not be
+amiss to begin with this Peccadillo, which must necessarily proceed either
+from want of care, or knowledge of the true manner of the Calenders Gregorian
+reformation; the explication whereof, I shall choose rather briefly to deliver
+from its beginning, then prefcribe to the Reader a rule he understands not.
+
+Whereas the Julian year contained 365. days, six hours, and the Tropicall
+year, or time of the Sun's restitution to any point of the Zodiac, only 365.
+days, 5. hours, and about 49. minutes, as we shall have occasion to show
+hereafter; it happened that by this defect of the Tropicall year, dilating it
+self throughout every year, since the first establishing this Account in the
+Church, has in process of time, changed the places of the Equinoxes and
+Solstices, and altered the time of the Paschall solemnity: This defect having
+from the year of the Nicene Counsel 322. to the year of the Gregorian
+Reformation, 1582. made an anticipation of ten days, which caused Pope Gregory
+the thirteenth to omit those ten days, thereby repairing what was amiss, and
+also to provide for the future, that no such anticipation should be; which he
+has thus performed. He ordered that from the 5. of October 1582. (at what time
+he omitted his ten days, making that day the 15th) until the year 1700. there
+should be ten days added to the Julian Account; and from that year inclusive,
+every fourth Centenary of the years of our Lord, is only of all the following
+Centenaries to be Bissextile, the rest of the Centenaries only common years of
+365. days; whereby it falls out, the Gregorian Account, every 400. years gains
+three days of what the Julian loses. The differences of the two Accounts in
+some succeeding Centenaries, we have here exhibited in this Table.
+
+An. Do^. ad. da Anno Domini. Add days Anno dom. Ad da. From the 5. of October,
+1582. 10. From the 24 of February. 1700. 11. 2500. 17. 3300 23 1800. 12. 2600.
+18. 3400 24 1900. 13. 2700. 19. 3500 25 2100. 14. 2900. 20. 3700 26 2200. 15.
+3000. 21. 3800 27 2300. 16. 3100. 22. 3900 28
+
+Thus by omitting the intercalation in these years, the Dominical Letter and
+Epact, which depend on the number of days in each year, come to be changed;
+and by reason of the former, the number of direction, and consequently the
+movable Feasts, cannot by my Authors rules be truly perpetually gathered; all
+which, with some other inconveniences, had been here more fully insisted on,
+if we had not thought this that has been said sufficient for the ingenious,
+whereby to correct and amend these imperfections; and that Origanus in the
+first part of his Introduction to his Ephemerides, has saved our Pen that
+labor, which hasts to discoveries of further concernment.
+
+CHAP. III. The inequality of the Precession of the Equinoctial points
+examined.
+WHat may be happy to Urania, and grateful to her true and legitimate
+Favorites, we now adventure upon the Sun and Moons Motions. A large current of
+considerations does charge us, and we are likely to have more matter, then
+convenience to prosecute it: yet shall my unwillingnesse to trouble the Reader
+with more then is needful for our present purpose, and my hope of a future
+fitter opportunity, to dilate my conceits upon this subject, prevail with the
+urgency of the matter, and confine my Discourse to its intended limits.
+
+The first occasion that invites our Pen to consider hereof, is given by our
+Authors, page 52. where mention is made of a mean and true Equinox, in these
+words: So shall you have the true motion of the Sun, ab Aequinoctio vero, for
+in these tables, the Sun's mean motion is reckoned from the true Equinox, and
+not from the mean. Whereby we may gather, that our Authors admit of an
+inequality of the Precession of the Equinoctial points: The manner whereof,
+with the cause of its admission into Astronomy; and lastly, the validity
+thereof, (because none of these are by our Authors so much as touched) it will
+not be inconvenient here in as brief a way as may be to deliver.
+
+After that noble Dane Tycho Brahe had to the glory of Art, and joy of Artists,
+with incredible pains and diligence, perfected that elaborate table of the
+fixed Stars, and rectified it to his own time, a further and necessary care of
+perpetuating it, induced him to consider what helps might be drawn from ancient
+Observations to this purpose; and perceiving by those accounts that were taken
+of their places, first by Hipparchus, afterward by Ptolomey, Albategnius,
+Arzabel, Copernicus, and some others, that they had not only motions, but
+unequal motions, and inconstancy in their latitudes, in several ages; he was
+forced to devise some way whereby these motions might be regulated, to prove
+consentaneous to the observations of all ages. The Theory of this inequality is
+according to the famous Astronomer, Chr. S. Longomontanus, in this manner.
+
+two concentric circles inscribed with several labeled angles Longomontanus
+Theric. lib. 1.
+
+
+Let A be the Pole of tke Ecliptic, BC that part of the Arctick circle of the
+Ecliptic, which the Pole of the earth in B has run, by its equal motion,
+upon the center of the Ecliptic, since the Creation: This Arch measures also
+the Precession of the Equinoxes, and progressive motion of the fixed Stars; BA
+is 23. degr. 42. min the Zodiacks mean obliquity, DGE the small circle
+regulating the obliquity of the Zodiac, AD its radius, 10. min. 53. sec. By
+which it appears, both how the Zodiac changes its obliquity, and also how the
+Equinoctial points, and consequently every several point in the Zodiac do
+inequally anticipate: for when the Pole of the Equator, which is carried in
+the circle EDG, is at E or G, the obliquity is in its mean deviations, and is
+equal to AB, 23. degr. 42. min. But the equation of the Equinoxes is the
+greatest, GBA 27. min. 5. sec. and is to be subtracted at G, added at E; wnen
+the Pole of the Equator is at D, the obliquity is least, and is equal to DB,
+23. degr. 31. min. 7. sec. but when the Pole of the Equator is at F, the
+obliquity B F is greatest, and is 23. degr. 52. min. 53. sec. and in both these
+cases, there is no aequation of the Equinoxes, by reason of the coincidence of
+the lines BA and BG. This is the artifice Longomontanus has used to satisfy
+appearances with, which if we should Phiscally consider, I doubt we should
+find it more ingenuous then true; for it is scarcely tolerable for any
+Astronomers to devise circles and imaginary motions, where with to fill the
+heavens, and withdraw the eye of man from a perfect consideration of the
+wisdom and power of his Creator, which best appears in the simplicity and
+uniformity of these Celestial essences: yet might this Hypothesis have been
+allowed, yea highly commended, if any good to Astronomy had come thereby, more
+then a needless multiplication of uncertainties. We will consider in a few
+words the validity and necessity of this Hypothesis, to perform what it
+promises.
+
+Of the necessity hereof, ancient observations can give us no certainty; for
+from Proclus to our times, for above a thousand years, the Aequinoctiall points
+have made a certain and equal Precession, agreeable to that rule of motion
+which Timocharis and Hipparchus observed above 1800. years ago, if we only
+except Ptolomey: Therefore if any Circulation more then annual and diurnall
+(if those be to be admitted) have befaln to the Poles of the equator, whereby
+it has been so enormiously removed from its situation, it was betwixt the
+times of Hipparchus and Ptolomey, in the space of less then three hundred
+years, and was again restored in the time betwixt Ptolomey and Preclus, in
+other three hundred years: Wherefore without injury we may doubt of the
+certainty of Ptolomies observations; and the rather, for that he himself seems
+to imply as much, by these words.
+
+Non in tropicis tantum Observation bus, sed and in Aequinoctiabus error
+accidere po^est, qui ad quartam unius diei partem se extendat: Quod si ^nim in
+3600 tantum particula (as if that were little or nothing) Aequatoris situs, aut
+Instrumentis divisio, arecta raratione deficiat, illam in Latitudine sive
+Decliatione ac ad aequatorem accessu ad aequabit quarta circiter unius gradus
+pars, in Zodiaco and Longitudine, etc. Praeterquam quod and majus erratum esse
+soleat si per instrumenta fiant Observatirnes, quae non illarum tempore
+exquisite positae sunt sed iam olim ita constituta, ut diu firmata lapsu
+temporum tandem commoveantur ac in situ deficiant. This and more, Ptolom.
+Almag. lib. 3 cap. 2. How sandy a foundation his Observations are, whereon to
+build Astronomy, especially seeing they disagree from others, may by his own
+words best be gathered.
+
+He that desires to see a more full confutation of this inequality, may have it
+in Phocylides his Examen Astronom^ae Lansbergianiae, who from page 38. to page
+63. he clearly evinceth the same, from all the Observations of Equinoxes, had
+by the best Astronomers in every Age, and proves a constant quantity of the
+Tropicall years in all Ages. A short Synopsis whereof, we had here presented
+the Reader with, but that it would grow beyond our intentions; and that if the
+disposer of all our actions grant me ability and convenience to prosecute the
+service of Urania, I may hereafter both enlarge and correct my present thoughts
+upon this subject.
+
+The learned Kepler, page 27. Prec. tab; Rudolph. doubts not to assert, that
+there has never been any other obliquity of the Zodiac, then what is now,
+viz. 23. degr. 31. min. 30. sec. or by reason of his diminution of the Sun's
+paralax, 23. degr. 30. min. 30. sec. or consequently any inequality of the
+Precession of the Equinoctial points, and affirms he can demonstrate it; but
+methinks it is too manifest an injury to the Ancients to deny the one, so
+constantly evinced from their observations. But we must ever look with an
+indulgent eye upon that worthy man, whole Astronomicall performances do
+sufficiently make known his worth, and memorize him to Posterity. It is not one
+Age, much less one man, that is able to restore Astronomy: His setting down
+five forms hereof in his Rudolphine Tables, show the copiousnesse of his wit;
+his choosing of none, manifest the penury and uncertainty of former
+Observations. And surely these things, with many more, lie hidden in the
+Pandects of Posterity, not to be disclosed, until God, the arbiter of Ages,
+shall open this eternal book, and disclose the secrets hereof to mortals.
+
+That noble Frenchman Ismael Bullialdus, the latest restorer of Astronomy,
+has in his Astronomia Philolaica, followed Longomontanus in the obliquity of
+the Zodiac, but rejects the aequation of the Equinoxes, for these reasons.
+
+First, there are no observations of the Ancients, which gives a sufficient
+exactness in the times of the Equinoxes, or places of the fixed Stars,
+whereupon to build such a fabric of turbination, and that it were rashness in
+any to attempt it.
+
+Secondly, no circular revolution in the Heavens, admits in its whole
+circumference, more inequalities then one, being slow in the one semicircle,
+swift in the other; but if we admit this inequality of the Precession of the
+Equinox, the simple motion is many times intended and remitted: But in other
+revolutions, intended but once, and remitted no oftener.
+
+Thirdly, so small a difference is there found in distinct intervals of time,
+that it cannot be attributed to any true aod natural motion, but with great
+boldness and temerity, whereby we impudently fasten upon the Heavens, the
+fictions and Chymera's of our own imperfect intellect.
+
+Fourthly, that body which is furthest distant from the center of the World,
+would be immovable, which yet notwithsanding ought to partake of motion, as well
+as other bodies which move obout the Sun, although the motion be very slow, by
+reason of its immense distance from the Center, and the amplitude of the space
+in which it moves; but why should other bodies move, and the whole Systeme of
+fixed Stars remain unmovable? every body placed about the Center of the World
+ought to have a motion about that, otherwise it would be a stranger to nature,
+and no partaker thereof, it keeping all things in motion, and not suffering
+them to be idle.
+
+Fifthly, we ought not to think that the fixed Stars have an apparent
+progressive motion, according to the order of the Signs; for that cause alone,
+because the fixed Stars and the Equinoctial points have a slow motion upon the
+terrestrial Poles, in antecedence of the Signs: For although in respect of the
+fixed Stars, such an Hypothesis might be true, because there is no exterior
+body diversely proved, to which the motion of the fixed Stars may be sensibly
+compared; yet is it not to be admitted, because it cannot stand with the
+Planets motions; yet might it stand, if the Sun alone did appear: for by the
+annual motion of the Poles of the Earth, the Sun, which then would not be
+supposed to run his annual motion through the Zodiac, would manifest his
+access and recesse; but the Planets would be seen in the circle of Altitudes,
+subject to irregular deviat ons, which nevertheless is not: Therefore this
+Hypothesis were possible, were there but one Planet; but there being more, it
+is not possible, nor ought to be admitted.
+
+Sixthly, this Argument is drawn a simili; we see in the Moon, a certain
+direction of her parts to the Earth, it is therefore likely that there is also
+direction of the Earths parts to the Sun, and that their axes retain always
+the same positure, the one to the other, without any turbination of either.
+
+These are the Arguments which the learned Bullialdus, lib. 5. cap. 2. Astron.
+Philol. has brought for the dissolution of this inequality, which I have here
+presented to the Reader in the same manner that he has delivered them: which
+though some of them vary from my present conceits, yet do the rest notably
+fortify my opinion. Add to these what Bullialdus has demonstrated concerning
+the perpetual equality of the Tropicall years, and I would fain see how the
+Authors of Urania Practica will disprove them. But such is their want of
+consideration, they have not sufficiently followed their own Theory herein; and
+though admitting of this inequality, yet have given no rules or tables how to
+obtain it. The luster of Urania has (it may be) dazzled their eyes, and the
+high flight of their Pen has left their judgments behind it; so that we may
+justly wonder what concert, whether the desire of being serviceable to Urania,
+rr enobling their names, has drawn them to be actors upon the public stage,
+where every judicious Spectator may discern their insufficiency.
+
+CHAP. IIII. Of the Sun and Moons Tables.
+THe next thing in order we should take notice of, is the Sun and Moons tables,
+and hereof we can say little, because our Authors have said nothing, they only
+affording us Epochaes for some few years, without any sufficient rule whereby
+to perpetuate them. For those annual motions by them set down in the end of
+page 65. cannot be perpetually consonant to their own Rule, unless they will
+with us deny the inequall Precession of the Equinoctial points, which their
+own words (mentioned in the precedent Chapter) do oppose.
+
+Yet what we can gather from the Tables themselves, and our Authors
+prescriptions for the use of them, we will here briefly deliver. Our Authors
+have in the Table of the Suns equations, followed the Theorie of Longomontanus,
+or some equivolent thereto (for there are diverse) only a little, though almost
+insensibly increasing the Eccentricity of the Sun, making the proportion of the
+radius of the Suns orb, to the radius of his epicycle as is 100000. to 3577.
+to which Eccentricity in that hypothesis their equations of the Sun agree. But
+for what reason they have made this change themselves do not show, nor can I
+conjecture. In the Tables of the Moons equations they have followed Argol, a
+man very laborious in calculations, but one who has not to my knowledge given
+any reason for what he has done. He has omitted the variation of the Moon,
+induced thereto as he says by Observations. I will not question his doings,
+because I know not what Observations he used, but certainly if there had not
+been a necessity for it, Tycho had never retained it into the Theory of the
+Moon, nor had it been confirmed by the after doings of I ongemontanus, Kepler,
+and the industrious and expert Bullialdus, especially it causing so great a
+difference in the Moons place, extending it self to 40 min. 30 sec. according
+to Tycho, but according to Kepler a fourth part more. And although Keplers
+variation may be justly thought too big, notwithstanding he seems to deduce
+it from Physical and Archetypicall demonstrations, which he so much affected,
+yet in a Mathematical eye, which attends preciseness, the variation is not
+altogether contemptible.
+
+In the latitude of the Moon, our Authors have merely followed Lansberge, and
+together with him rejected the inequality of motion in the Moons Nodes; of
+which I will nor dispute, the demonstration thereof depending upon such dubious
+Principles as Authors are not satisfied thereof. Tycho making the period of
+this inequality menstruall (with whom herein Argol and Bullialdus also agree)
+Kepler annual, yet all since Tycho admitting thereof, excepting only
+Lansherg, of whose corruption and depravation of ancient Observations, so
+wresting them to his purpose, he that is not satisfied may find him
+sufficiently characterized by Phocylides in his forementioned book. Thus from
+the fragments of broken Authors have our Authors patcht up their Tables of the
+Luminaries motions, which, however they will be sufficient to represent
+Celestial Observations, I much doubt and am fearful that our Authors have
+done the divine Urania wrong in attiring her simple excellence in such a
+parti-colored vesture.
+
+CHAP. V. Whether the second inequality of the Moon have dependence of the
+Suns mean or true and apparent place.
+BY the quality of that table of the Moons equations, our Authors have set
+down, occasion is given me to imagine they have therein followed a Theorie
+equivolent to that of Copernicus, viz, a double Epicycle, the circumference of
+the one carrying the Center of the other: Yet however, the two inequalities,
+which are by Copernicus attributed to these Epicycles, are here by our Authors
+digested into one Table, which without question were of great concernment to
+him that desires speediness in calculation, if the Artist could be assured of
+its exactness, and agreement with the Heavens, and those legitimate and
+Physical Theories which may be thence deduced. But whereas it appears by the
+Precepts which guide us to the use of this Table, that the mean distance of the
+Luminaries is one of the steps whereby we attain the Moons equation, we may (and
+not without just cause) suspect it of error.
+
+It is true, that in those Theories of the Planets which were used before Tycho
+had happily confuted the solidity of Caelestiall Orbs, there might be some
+appearance of reason why the Centers of those solid Spheres, rather then the
+Centers of the eccentricke Circles should regulate those other inequalities
+which depended thereon, they being supposed in that age not imaginary, but
+real points, and therefore sufficient whereon to build a connection of mosions.
+But after that Tycho had by the help of his exact Instruments, found the
+existence of temporary and fading Lights, within that Circuit, which was
+supposed to be free from generation and corruption, and thereby solidly refuted
+the solidity of those Orbs and Spheres, so laboriously demonstrated by
+Ptolemie, Proclus, Peurbachius, and others; this disclosure gave the mind
+liberty to think of more rational ways then the old multiplicity of Circles
+and Motions, whereby to salve caelestiall appearances. And hereby it came to be
+known, that the Causes of Motions were merely Physical, and dapended not upon
+the variety of Orbs, but followed that simple and uniforme course Nature had
+assigned them, and respected not those imaginary Centers which prudent
+Antiquity had for want of other helps devised for them; but the very body of
+the Sun, the fountain of Motion and common node of all their Orbs. Why then
+the Moon (which though a secondary Planet, yet has relation to the Suns
+course) should receive the Laws of her extra-sysygiall inaequality from the
+Suns mean motion I cannot see. These reasons will evince she contrary.
+
+1. The mean motion of the Sun, as also of any other Planet, is not in nature,
+but only devised to regulate those exorbitances and deviations from equality,
+to which their apparent motions are subject.
+
+2. Observations testify that the longest line of every Primary Theory, which
+exactly bisects the orb into two semicircles, equal in the quantity and
+celerity of the same parts, passes by the center of the Sun, in which the
+Aphelian lines of the primary Planets concur.
+
+3. The orbite of every primary Planet is intersected by the Eclipticke in
+places opposite by the center of the Sun, and not by any point without it.
+
+4. The fountain of motion, and the general antecedent to the particular
+relative inequalities of the Planets, ought rather to be in the most excellent
+body then any where without it; for these reasons: first, because the moving
+force cannot reside in any Mathematical point (such as this is imagined to be)
+but requires a body the more fully to exercise his operating power. Secondly,
+it is most cnnsentaneous to reason, that the moving force should be in the
+Center of the world (where it is evident the Sun is) there being rest in the
+superficies or sphere of the fixed Stars and motion in the intermediate places.
+
+5. The cause why Copernius and Tycho supposed the two Centers, viz. of the
+Orb, and of the Eccentrick to be different things in themselves, is not
+sufficiently Mathematical, they being drawn hereto by the desire of making
+their Hypotheses equivalent to those of Ptolomie. But it was not necessary to
+follow the steps of Ptolomie so diligently; for Ptolomie made not every part of
+his Hypothesis from observations, but grounded many things upon a
+fore-conceived opinion, that the motions of the Planets were equal through
+every portion of their own circles, which Observations do sufficiently evince
+to be untrue, as may appear by famous Kepler in his learned Comentaries of the
+motions of Mars.
+
+To these reasons I may add also, the continued Observations of Tycho in
+Eclipses, which clear the Moon of any secondary inequality at the time of
+Defect, which is the true, not mean Syzigia of the Luminaries. But to this I
+cannot impute any great force, the difference being so little, as it is hardly
+to be distinguished from those many irregularities, which attend on the
+propinquity of the Moon to the Earth, and of us in these Nothern Regions, by
+reason of the great obliquity of our Sphere more perceived. Nor can we as yet
+think the manifold motions of this inconstant Torrella, so thoroughly known as
+we can for the present build any certainty hereon. I doubt not but that
+Astronomia Brittannica (now by the blessing of God almost brought to
+perfection) will shortly take away many doubts herein, which have hithereto
+puzzled diverse Artists: And I doubt not but I shall discover some things
+concerning the Moons motions, which may be useful for Astronomers in this
+subject, and more rational then those impertinencies our Authors have here
+delivered; for they are out of all possibility of being excused, that in such a
+clear Sunshine, will impudently adventure to set out their dim Lanthorn for a
+guide to the young Practitioner, through these mysterious Laborinths,
+especially such a worthy Luminary as Kepler, having long since put all out of
+doubt, and taught Truth to move in her own Orb, not impedited by the
+adventitious remora's of humane fancy.
+
+CHAP. VI. A demonstrative examination of our Authors Tables of Eclipses.
+WE now come to the touch stone of our Authors judgment, and will (by God's
+help) lay open those many absurdities which would follow, should we admit of
+our Authors Tables, This speculation is not ordinary for obvious to every young
+Practitioner; yea, the intricacies hereof have entangled many profounder
+Artists then either Master Wing, Master L^y^ourn, or my Self, few of those many
+Authors ^ch to this day have appeared the public Champions of Urania, have had
+a full knowledge hereof, excepting Kepler, the late Ballialdus, and the noble
+genius of our worthy Countryman, Master Jeremy Horrox, (...), from whose
+remains I have gathered the most of what I shall write in this Chapter.
+
+Those who have presumed of their own sufficiency, to be able to demonstrate
+those dimensions which are requisite for the calculation of Eclipses, have used
+thereto a Diagram, said to be invented by Hipparchus, which they have severally
+commented on: Amongst the rest, the late famous Lansberge has in his
+Uranometrie made a large discourse thereof; but so simply, as he may be ashamed
+to spend those brasts upon so insufficient a piece. Yet has his greatest fault
+been, that he has not fitted his numbers to those Theoremes or Elements in his
+Uranometrie, as by him that will compare his numbers with the following
+Diagram, may be seen. But the like cannot so well be said of Copernicus, Tycho,
+Longomontanus, etc. by whom it is likely this demonstrative way was rather
+omitted then not conceived: for they perceiving their Observations not to
+answer fully the rigid Theoremes hereof, took more care to satisfy their
+Observations, then Demonstrations. But the greatest cause of this difference
+being the inconstancy of Physical causes, which still interposed themselves,
+they are not altogether to be excused, as not professing to deliver the
+accidental inconstancies of the Phenomenon, but the true and demonstrative
+Principles of Art. But the divine Kepler both understood the excellency of this
+Diagram, and has fitted the Precepts of his Rudolphine Tables hereto. He
+mentions often a book of his own, entitled Hipparchus, wherein the
+demonstrations hereof are contained The Book I have not seen, perhaps it is not
+yet published. I shall only at this time touch some few things herein, that
+concern my present purpose, referring the Reader for the rest to Astronomia
+Brittannica, where it is fully demonstrated, and the manifold uses thereof
+declared.
+
+a semicircle and two circles divided by several labeled angles
+
+In the Diagram annexed, let A be the center of the Sun, C of the Perigaean
+shadow, H of the Apogaean shadow, B of the Earth; so is the apparent
+Semidiameter of the Sun ABE, of the Perigaean shadow CBP, of the Apogaean
+shadow HBN, the vertex of the Conical shadow D, the Semiangle thereof BDG, the
+axis BD; let the lines GF, PK NO, be parallel to DA: the Semidiameter of the
+Earth BG, the Center of the Moon L, the Semidiameter of the Moon in the change
+LBM, the Horizontal Paralax of the Sun BAG, of the Moon BLG, whence we thus
+proceed.
+
+I. The Semiangle of the Cone of the shadow is always less then the Sun's
+apparent Semidiameter, and the difference of these is the Sun's Horizontall
+Paralax.
+
+The former part is proved from an opticall principle: Idem objectum quo
+proprius cerniter, eo majus apparet, so that the Semidiameter of the Sun being
+beheld from B, appears greater then if it be beheld from D, in regard B is
+nearer the object then D. The Sun's Semidiameter apparent is ABE -- AGE, the
+Sun's Horizontall Paralax is BAG -- GAF. Now in regard the two lines AD and FG
+are parallel, it is necessary that ADE should be equal to FGE; therefore
+AGE-FGE-AGF-BAG the Sun's Horizontall Paralax.
+
+II. The Semiangle of the Cone of the shadow is equal to the difference of the
+Moon's Horizontall Paralax, and the Semidiameter of the shadow.
+
+Let us take the Moon in her Apogaeum, and opposition to the Sun, her
+Horizontall Paralax is BHG, whereto BNG is equal; the Semidiamiter apparent of
+the shadow HBN: now BNG -- HBN -- ONP, which by reason of the Paralellisme of
+the lines NO and DA, is equal to the angle ADE, which is the Semiangle of the
+Cone of the shadow.
+
+If we take also the Moon in her Perigaeum, her Horizontall Paralax is BCG,
+whereto BPG is equal; the apparent Semidiameter of the shadow is CBP: now BPG
+-- BPK -- KPG, which by reason of the Paralellism of the lines PK and DA, is
+equal to the angle ADE, the Semiangle of the Cone of the shadow.
+
+Nor need any one think our demonstration invalid or insufficient, for that we
+have assumed the angles BCG and BPG to be equal, whereas indeed they are not
+((...)) precisely so: For I shall show how inconsiderable a difference this is
+and how far it avoids our Observation. For if we take the angle ADE, or which
+is the same KPG to be 12 min. o sec. which follows from our Authors numbers,
+(for by the first Theoreme AGE 15 min. o sec. AGF 3 min. o sec. FGE -- ADE 12
+min. o sec.) the natural Tangent thereof is 349067 -- KG. We shall also from
+our Authors Tables take the apparent Semidiameter of the shadow CBP, or BPK, to
+be 47 min. o sec. which is the greatest they set down; Its Tangent is BK --
+1367260. the sum of the angles is BPG -- 59 min. o sec. the sum of the Tangents
+is BG -- 1716327. whereto answers the angle BCG -- 58 min. 59. sec. 50 thirds:
+This angle differs from the former BPG, (to which it is assumed equal) only
+10 thirds; nor in this practice is the difference ever greater. The like might
+have been said of the former Theoreme, but that the difference which is here so
+contemptible, is there far smaller, and can in neither of them, though with the
+most scrupulous, leave any scruple of the certainty of our demonstration.
+
+This Theoreme is the ground of the 148. Precept of the Rudolphine Tables,
+whose words run thus; Conjice in unam summam Parallaxes Horizontales Solis and
+Lunae; ab hac summa abjiciatur Semidiamiter Solis apparens relinquitur Sem
+diameter umbrae justa ad tempus: which is the same our Theoreme does require, I
+might here show.
+
+III. That if the Cone of the shadow be so continued beyond the Earth, that the
+Diameter of the Sun be the base thereof, and the Center of the Moon be in the
+axes thereof betwixt the Earth and the Sun, the sum of her Horizontall
+Parallax, and the Semiangle of the Cone is equal to the apparent Semidiameter
+of the Cone in that distance.
+
+IIII. That the difference betwixt the apparent Semidiameter of the shadow and
+the Horizontall Parallax of the Moon in the shadow (that is the Semiangle of
+the Cone of the shadow) in the same distance of the Sun from the Earth is still
+the same, and receives no change from the Moons varying her distance from the
+Earth.
+
+V. That it is impossible for any Planet or Star, that is situate without the
+Earth, to be utterly void of Horizontall Parallax, if we speak Mathematically;
+though sensibly the fixed Stars and other remote bodies cannot be said to have
+any Parallax, in regard that the Semidiameter of the Earth, which is the
+Tangent of their Parallax, to the Radius of the distance, bears no evident
+proportion to that distance.
+
+But these things to him that understands any thing of Geomitrie, need no
+demonstration, but are evident from the Diagram it self, and partly for that
+cause they are here omitted, partly because I hold it superfluous to use more
+Engines against our Authors falsities, then are needful for the confuting
+thereof; and lastly, because that all those Theoremes which may be deduced from
+the precedent Diagram, are not to our present purpose, but have a nobler Object
+then any our Authors seem to have aimed at; their rules and tables being made
+of such abject stusfe, they deserve not the title of Mathematical or
+Astronomicall, as not agreeing to the pure and undoubted Principles of Art,
+which we will here manifest.
+
+In the first Theoreme we demonstrated, that the difference of the Sun's
+apparent Semidiameter, and his Horozontall Parallax was equal to the Semiangle
+of the Cone of the shadow: and in the second Theoreme, that the difference of
+the Moons Horizontall Parallax, and the apparent Semidiameter of the shadow was
+likewise equal to the Semiangle of the Cone of the shadow: It follows hence,
+that these two differences are likewise equal one to another. But how well our
+Authors have accorded hereunto may appear by the following Synopsi^, The
+numbers whereof we have taken from our Authors Tables.
+
+I. Apog. Apog.
+Min. Sec. The Semidiameter of the Sun 15 0 AGE The Horizontal Parallax of the
+Sun 3 0 AGF The Semiang. of the cone of the sha. 12 0 FGE -- ADE The Horizontal
+Paral. of the Moon 59 9 BHG The Semidiameter of the shadow 43 0 HGN The
+Semiangle of the Cone 16 9 ONP -- ADE Differing from the former 4 min. 9 sec.
+whereto it should be equal.
+
+II. Apog. Perig.
+The Semidiameter of the Sun 15 0 AGF The Horizontall Paral. of the Sun 3 0 AGF
+The Semiangle of the Cone 12 0 FGE -- ADE The Horizontal Paral. of the Moon 62
+39 BPG The Semidiameter of the shadow 47 0 BPK The Semiangle of the Cone 15 39
+KPG -- ADE Differing from the former 3 min. 39 sec. whereto it should be
+equal.
+
+III. Perig. Apog.
+The Semidiameter of the Sun 15 30 The Horizontall Parallax of the Sun 3 0 The
+Semiangle of the Cone 12 30 The Horizontall Parallax of the Moon 59 9 The
+Semidiameter of the shadow corrected 42 32 The Semiangle of the Cone 16 37
+Differing from the former 4 min. 7 sec. whereto it should be equal.
+
+IIII. Perig. Perig.
+The Semidiameter of the Sun 15 30 The Horizontall Parallax of the Sun 3 0 The
+Semiangle of the Cone 12 30 The Horizontall Parallax of the Moon 62 39 The
+Semidiameter of the shadow corrected 46 32 The Semiangle of the Cone 16 7
+Differing from the former 3 min. 37 sec. whereto it should be equal.
+
+Thus are our Authors Tables unmasked, and laid open to the view of every
+Artist, their disagreement to the demonstration being so great, as no Physical
+Salve that can reasonably be applied, is sufficient to counterpoise these
+differences. In every one of these positures, if we grant our Authors their
+numbers, it would follow, that the semiangle of the Cone is greater then the
+semidiameter of the Sun; which is as if we should affirm, that FGE, part of the
+angle AGE were greater then the whole angle, which is absurd and impossible.
+But who can tell whether or no our Authors desire of exterior helps, has
+furnished them of spectacles fitter for a greater age then their own, which
+amplifying the semiangle of the Cone, made it appear so much too big for the
+room whereon it stood, and yet unlucky, did not amplify the room withal.
+
+Hence likewise would follow, that the Sun's distance from the Earth is not
+only infinite, but (if we may so say) a degree beyond infiniteness: And yet
+with much confidence can they proceed to determine (as we shall show anon) the
+distance of the Sun from the earth in miles; whereas it appears by their Tables
+no such distance is ever possible to be defined, and their very distances there
+set down, are not only disconsonant to the Truth, but also to their own
+erroneous assumptions.
+
+Hence would also follow, that the Sun's Horizontall Parallax were not only
+nothing, but even less then nothing (contrary to the fifth Theoreme) which how
+we should salve, I know not, unless we should imagine, that the Sunbeams
+passing through the Christalline Orbs of the inferior Planets, find in their
+journey a burning point wherein the several rays concur, and invert the
+species of the Object, so that hereby the property of the Sun's Parallax comes
+to changed: But I never heard that this was the confirmed experiment of any
+Optist, and am of opinion, that our Authors never dreamt they should have stood
+in need of such supporters as these for their new Tables; yet have they in the
+Title page spoken more truly then they thought, in these words, Nothing of this
+nature being extant in the English tongue: for scarcely shall we find any such
+absurdities drop from a Pen that professes to be able to perform so much.
+
+I might here urge the Diagram further, and from thence show not only the
+general, but particular defects of our Authors Tables, bu as it is true in all
+Arts, that Contra principia neg^ntem non est disputatio, so neither Contra
+principia non babentem: Aliqua tamen claritas immittenda erit, ne erroris
+sussumig um oculos obtenebret, vapidisque n^gis impeditum mentis visum teneat.
+
+I further observe from these Tables of our Authors; first, that the quantity
+of the Suns semidiameter, page 120. cannot agree to that Hypothesis from which
+the equations, page 59. seem to be derived. For it the eccentricity be taken
+3577. to the Radius 100000. which follows two overlapping triangles with
+labeled angles from the greatest equation 2 d. 2 m. 59 sec. we shall in the
+Diagram annexed have EB the Suns greatest distance from E the earth 103577. the
+least distance ED 96423. the angle of the Apogaean ^m diameter AEB, which we
+will a siume with our Author 15 m o s. and from thence proceed to find the Per
+gaean semidiameter CED, thus: Radius 1000000 Tang 15 m. o s. 4363. EB 103577.
+AB 4519. which is the tangent of the Apogaean semidiameter 35 m. o s. the
+radius being 103577. to which the line CD is equail: then ED 96423. CD 4519.
+Radius 1000000 Tangent of 16 m. 7 s. 4687. which is by our Authors Hypothesis
+the Perigaean semidiameter, and is greater by 37 sec. then our Authors have
+made it: Nor will the diminution of the eccentricity to make it equal with
+that of Longommtanus, any whit avail them, that proportion still leaving half a
+min. difference.
+
+It is true, they have only followed Argol herein, but his authority cannot
+shelter them, for he has in the Equation of the Sun followed Kepler's
+Hypothesis of the bisected Eccenticity, whereto his Semidiameters do agree: but
+our Authors have confounded their Tables, by assuming several parts of
+several Hypotheses, which disagree amongst themselves, and thereby have made
+their work as unseemly a spectacle, as the Daw in her stolen plumes, or the
+Arcadian Dametas in his borrowed Armor.
+
+II That the semediameters of the Moon, which our Authors have given us, page
+121. are not consonant to the Observations which have been made by Artists,
+especially in Eclipses of the Sun: for the Apogaean Semidiameter of the Moon,
+15 min. 15. sec. is almost equal to the Perigaean Semidiameter of the Sun, 15
+min. 30. sec. whence it would fall out, that in most part of the Suns Eclipses,
+where the Moons visible latitude is small, the Sun would be totally eclipsed,
+which nevertheless is contrary to all Observations of this kind.
+
+Chr. Clavius, in the fourth book of his Comentaries (upon my Countryman) John
+de Sac. Bosco, tells of an Eclipse he observed at Rome, Anno 1567. April 9.
+wherein he saw the obscure body of the Moon comprehended all within the light
+body of the Sun, and so that the unobscured part of the Sun, was a bright
+circle about the Moons body. To this Observation, our Authors Calculation will
+not agree, the whole process whereof we had here set down, had not our room
+failed us; yet the general heads thereof we will deliver, as far as concerns
+our present purpose
+
+This Eclipse falling without the limits of our Authors Epochaes, we took this
+course for obtaining the mean motions for the time of the Eclipse. First, we
+took the Radix 1667. and by the annual motions set down page 65. gathered the
+motions of 100. common years, to which we added the motion of 25 days (being
+the number of Leap-yeers therein) the sum subducted from the said Radix, gave
+us the Radix anni 1567. as in the following Paradigma.
+
+Long.. Apog. Lon. a Anom.. Lat.. Si. D. M. S. S. D. M. S. S. D. M. Se. Si. D.
+M. S. Si. D. M. Sec. 1667 9 20 0 42 3 6 51 47 6 7 44 42 2 24 2 53 10 2 38 35
+100 11 6 10 50 0 1 42 20 0 2 16 40 7 21 59 19 3 21 15 0 d. 25 0 24 38 28 0 0 0
+4 10 4 46 7 10 26 37 29 11 0 44 1 y 100 0 0 49 18 0 1 42 34 10 7 2 47 6 18 36
+39 2 21 59 1 1567 9 19 11 24 3 5 9 13 8 0 41 55 8 5 26 14 7 10 39 34
+
+Hence there follows
+D. H. Min. Sec. The mean of and at London 1567. Apr 8 9 4 22 The intervallum
+to be added 13 28 30 The true Conjunction at London 8 22 32 52 The equation of
+days ( tab. page 117.) ad. 8 8 The apparent time of the true at London 8 22 41
+0 The differ. of Merid. of Lon. and Rome ad. 1 7 0 The apparent time of the
+true at Rome 8 23 48 0
+
+At which time is given
+S. D. Min Sec. The Anomaly of the 9 21 30 44 The Anomaly of the 3 8 4 17 The
+mean distance of from 0 6 50 11 The true motion of latitude 2 24 33 51 The
+place of the and 28 32 58 The difference betwixt the true and visible
+Conjunction add. 20 15 The time of the visible April 9 8 15 The Semidameter of
+the 0 15 9 The Semidiameter of the 16 29 The sum of the Semidiameters 31 38 The
+visible lati ude of North 0 5 The scruples deficient 31 33 The digits eclipsed
+12 28 22
+
+This calculation is fitted to the Horizon of Rome, whose latitude, according
+to our Authors, page 182. is 42. degrees. o min.
+
+Hereby it appears, that the Eclipse was total, and that the body of the Moon
+covered the body of the Sun a total solar eclipse on every side, the limb of
+the Moon exceeding the Suns limb on the south part, 1 m 15 sec. on the north
+part 1 m. 25 sec. whereas it ought to have been short of it on every side, and
+contained it self within the luminous body of the Sun, according to the
+observation of Clavius.
+
+Nor can that be objected hereunto, which the learned Kepler has discoursed in
+Astron. Opt. page 297 concerning the possibility of this appearance: Those
+physical causes having not so much power and force, as to take away all this
+distance of the limbs; and besides, never taking place but where the Suns light
+surrounds the limb of the Moon, for otherwise the splendour of the air which
+would increase the Sun's semidiameter, quite vanishes and leaves the
+Luminaries to their just bigness.
+
+Neither can the groundless limitations of Longomontanus or Lansberg be of any
+use in reconciling these difficulties: For by the rule of Longomotanus,
+Theoric. page 177. there should be 33 sec. subtracted from the semidiameter of
+the Moon; and by the rule of Lansberg, Uranometr. page 66. there should be 45
+sec. subtracted from the semidiamer of the Sun, because the Moon is seen in a
+greater angle then the Sun. The former way could something lessen the error,
+but not wholly take it away; the latter way would increase it, and make it more
+notorious.
+
+But why should I spend time in seeking such helps for our Authors, as perhaps
+they will not accept of; none of these limitations being so much as mentioned
+by them, their Tables freeing themselves of such unnecessary burdens, thereby
+to run more freely into error and falsity.
+
+There have been had other observations of Solar Eclipses of this kind, as
+that which was had by D. Jessenius, Anno 1598. February 25 at Torge in Misnia;
+Kepler, Astron. Optic page 299. and that which was observed by the Fisherman,
+near Bergen in Norway, upon the sea shore; where the bright circle about the
+Moon was 1 Digit. This befell Anno 1601. December. 14. Longom. Theor. page 165.
+The calculation of these, he that lists may try by our Authors Tables, and see
+how near he can reconcile them with observation.
+
+CHAP. VII. Of the aequation of Natural Days.
+OUr authors have, page 87. given us a precept for the finding of the
+aequations of natural days, wherein they have followed Tycho, whose Table is
+not consentaneous to Demonstration: For the aequation of days derives it
+current from two fountains, the one whereof is the motion of the Sun, in a
+circle inclined to the Equator, which is the true measure of time, and out of
+this disagreement of the arches of the Equinoctial, and the Ecliptic, arises
+the first inequality of time, which alone our authors have used, consisting of
+the difference of the right ascensions of the Zodiacall arches from the arches
+themselves. The other cause of this aequation is the unequal progression of
+the Sun in the Zodiac, occosioned by his eccentricity; the difference of which
+diurnall arches, from the arch of his diurnall mean motion 59 m. 8 s c is the
+diurnall aequation: Yet must both this, and the former part of aequation be
+converted into time, before it be fit for use.
+
+Yet have Tycho and the most of his followers rejected the later part of the
+equation, whose authority has also drawn our Authors into their number. None
+of them showing any reason for their so doing herein, but this, that their
+restitution of the Moons motions, and the observations of Eclipses, did seem
+to require it; But this Empeiricall way can never be true, because it satisfies
+not the exactness of demonstration. And who can affirm that they have so
+restored the caelestiall motions, as that we may rather trust them then our
+alone senses. Experience is indeed the Lady president of Vrania's republicke,
+and merits regard, so long as she prosecutes the Mandates of Demonstration, the
+supreme Authority; but when once their results agree not, experience must yield
+and resign her power to Demonstration.
+
+CHAP. VIII. Our Authors determination of the distance of Caelestiall bodies
+from the earth examined.
+I Shall not need to particularize the Stars and Planets severally. An
+example-will be sufficient to demonstrate the insufficienty of the rest.
+
+We begin with the Earth, whose dimentions since our Authors have not here set
+down, we must borrow from another place. In Master Wings Almin^ck 16^8. the
+circumference is given 21600. miles, and to this the conversion of degrees into
+miles ( Vran. Pract. par. 5 cha 3) do agree. Whence he has formed the
+Semidiamiter 3436. miles, which nevertheless is not exactly true, for as
+314159. is to 100000. (of this see Ludolphus van Culen and Lansberge de
+Cyclemetria) so is the cireumference 21600. to the Diameter 6875. and so is the
+Semidiamiter 3437. But we will take his number 3436. and see how the rest agree
+thereto.
+
+We find ( cap. 4. par. 4.) that the mean distance of Saturn from the Earth is
+according to Argol 10571. semidiameters, which makes (if we will believe our
+Authors) 9091960. miles. But he that shall multiply the number of semidiameters
+10571. by the number of miles in one semidiameter 3436. shall find another
+number, namely 36321956. So likewise in Jupiter 3990. multiplied by 3436. gives
+13709640. not 343120 And in Mars also 1745. multiplied by 3436. gives 5995820.
+not 1500700 In the Sun the distance in semidiameters of the Earth is not given,
+the distance is in miles 989000 which being divided by 3436. gives the distance
+in semidiameters 287. which gives the horizontall parallax almost 12 min. four
+times as big as that which our Authors have given in their tables of Ecclipses.
+I will spend no more time in reckoning up the rest. I hope these errors
+(obvious to every Schoolboy) are sufficient to manifest the likeness and
+(...) of the rest.
+
+But in regard our Authors are so careful of the common good, that over and
+besides this work of Urania Practica, Master Wing has publicly invited those
+that desire to be satisfied in any thing touching the Mathematics, to repair
+to his judgment for satisfaction; and because he is holden a man of much
+dexterity in these sciences, I shall make bold to propound unto him and his
+(...) Master William Leybourne, a question or two, and upon their answer shall
+be ready to content them for their pains.
+
+1. I shall enquire how the proportions of the fixed Stars to the Earth ( page
+173.) are gathered, and a demonstration that those of the five several
+magnitudes, are so many times greater then the Earth, as is there set down; and
+also how those of the sixth magnitude, are found to be less then the Earth. I
+shall also demand how those of every several magnitude, are approved to be so
+many in number, as they are there given, and no more.
+
+2. I shall desire to know, how and in what manned the Ancients have
+demonstrated the distance of the Heavens by fixed Stars from the Earth to be
+130715000 miles, or indeed whether any such Demonstration can be made, now that
+the Sphaeres are found no less fluid and penetrable then this air of ours.
+
+3. I shall desire to know how the Planets distances from the Earth were
+gathered, or whether the Analogies of Tycho, and the so much mentioned Argol be
+grounded upon sufficient principles, or no; or whether those apparent diameters
+of the Planets, which our Authors have borrowed from Tycho, be consentaneous to
+the truth or no, it being propable that the rays of the Stars illuminating the
+air they pass through made them appear far bigger then indeed they were.
+
+And let my Authors know, that I will not suffer my self to be overruled with
+the authority of any Writer, unless his Reason have a greater authority then
+his Name, and Judgment tread on the heels of Invention.
+
+CHAP. IX. A brief summary of some other Defects and Imperfections.
+BUt my room grows narrow, and so tyeth my Discourse to a period: Good Reader,
+be pleased to take the rest of my collections in a bundle; I shall only tell
+you what it contains, and would, if my professed brevity had granted me leave,
+have laid open the several pieces to your view.
+
+First, I s^y, that by our Authors rules, the Sun's altitude cannot be gathered
+universally: for though the Example, page 99. be truly wrought, yet if we turn
+to the fixed Book for a precept, we shall find none, but only a few concise
+Tables, calculated for some latitudes which are too narrow and insufficient for
+him, whose intentions are for narrow and insufficient for him, whose intentions
+are for generality and exactness.
+
+Secondly, the tedious calculation of the Moons Paralax in her circle of
+Altitude, detracts from the praise of the Book, and might have been with far
+more ease, and by the only help of the Logarithms supplied thus. As the Radius
+to the Sine of the Horizontall Parallax, so the Cosine of the Luminuries
+altitude, to the sine of the Parallax in that altitude. This way is no less
+demonstrative, and far more easy then the other which our Authors have used,
+page 99.
+
+3. That the table of hourly motion of the Moon from the Sun, page 118. cannot
+be exactly true, because it supposes the Suns motion to be equal, and still of
+the same quantity; which nevertheless by reason of his Eccentricity is not so,
+nor can be affirmed.
+
+4. The herozontall Parallax of the Sun is not still 3. min. o. sec. according
+to the Paper adjoined to the end of page 118. but if that be his Parallax in
+his mean distance, the Apogaean Parallax is 2. min. 53. sec. The Perigaean
+Parallax 3. min. 7. sec. according to our Authors Eccentricity.
+
+5. I affirm no Eclipse of Sun or Moon can be truly calculated, if we use no
+other rules then what our Authors have given us. For it appears not whether
+they have used any reduction of the Moon from her Orb to the Eclipticke; or
+of the Sun from the Ecliptic to the Moons Orb; either of which ways
+(consideratis considerandis) would serve. If they used the first, they find
+only the greatest Obscuration, which is not the middle of the Eclipse. If they
+used the second, they find only the middle of the Eclipse, which is not the
+greatest Obscuration, Vide Kepl. Astr. Cop. page 865.
+
+Thus has my Pen run over these imperfections which are the principal Moles
+in the face of Urania Practica, and that without all hatred or desire of
+Contradiction; the Causes whereof have no predominance in the least over my
+affections. I wish my Ink had rather been water to have washed a way these
+blots of Art, then marks to make them notorious. Yet I shall be glad if my
+Authors can clear themselves hereof, which for the present I see not how it may
+be done. My wishes are, that God the creator of the stars, and the disposer of
+their influences, would second the weak endeavors of me and others that
+desire the restoration of these sciences, for the common good of Mankind,
+and the glory of his Name, Amen.
+
+Domino Vincentio Wing in Mathematicis studioso.
+Vir Clarissime,
+ME nec tua (...) multum scribere nequmea (...) conticescere permittit. Hot
+tantum utrique donabo, ut liberioris calami prolixitatem reprimam, nec sinam
+ulterius tendere, quam quod caeteram nostram brevitatem deceat. Privatam quidem
+tecum speravi literarum communionem, net forsan Anatomia haec nostra lucem
+vidisset, si nostras ad te literas dignat us esses agnoscere. Vnam quidem circa
+finem jam proxime anteacti Novembris, alteram circa medium Ianuarii ad te
+miseram, sed quid de illis sentires, aut quomodo amicitiam oblat am acciperes,
+scire nondum potui. Verebar imprimis ne Mathematicus ille candor sublimia
+ingenia comitari solitus in te locum non haberet. Leviculis enim velitationibus
+huic Tractatulo praelusi and sperasti forsan, spretis and suppressis nostris
+literis, suppressa etiam fore in tuam Urania^ (...), sed aliter res cecidit,
+neque rei difficultas, neque Uraniae Practicae fama me ab hoc utili
+contradicendi munere deterruit. Veritati saltem imperium deferendum erit, ut
+faciliori sceptro possit tam suos tutari quam in rebels decernere. Ipsa per
+se satis elucescit, nullis nubibus impedita, nullis verborum lenociniis fucata.
+Nec deest legitima soboles, quae ad tuos cantus aures occludit, and cognoscere
+nolit que probare non possit. Nobis non sufficit speciosa Tabularam Parapegmata
+in tuiri. Splendidulis escis vixdum capimur -- Manet alta mente repostum
+
+Quam male Perpetuas jactavit Belga Tabellas.
+
+Condonabis igitur juventuti nostrae calami libertatem, quaeque hic tela libro,
+non solum in te, sed and in Authors tuos directa puta. Sed inexcusabilius ipse
+peccasti, dum post faeliciter demonstratos little errores, hanc telam retexis,
+fallaciisque fallacias superstruere conaris. Egregia quidem fuisset, summisque
+laudibus evehenda tua cura Astronomiam Orbi Britannico asserendi, si veris
+insisteres fundame^tis, and Cramben recoctam dedignareris introducere.
+Proficuum fortassis and in posterum erit, si inutiles veterum nugas veritati
+posthabeas, and cures ut Progymnasmata illa Astronomica quae meditari te
+profiteris, absurdis Authorum tuorum positionibus depurata prodeant, and ut
+tandem dediscas servitutem ingenii, nec ab aliorum authoritate tibi ipsi
+patiaris imponi. Multa quidem sunt, de quibus privatis literis tecum
+disceptandi occasionem datam gauderem; mulra proponere statueram de vero mundi
+Systemate, de causis motuu^, de Harmonia Sphaerarum non sonora illa quam
+Veterum aliquis prodidere, sed Musica motuum and Orbium contemperatione. Multa
+de Luminarium motibus and Theoriis; de physicis inconstantiis, quae motus
+reales turbare videntur: Multa denique de novis Coeli Phaenomenis, and eorum
+causis agere erat animus, sed silentium tuum ulteriorem progressum intercepit.
+Sed jamdudum definitos carceres vagus transilivit calamus. Deus Opt. Max. tuos
+and aliorum in Astronomia restituenda conatus, pro misericordia sua adjuvare
+dignetur. Hoc summopere precatur
+
+Magnus quamquam minimus Vrani^ cultor tuique amicissimus JER. SHAKERLEY.
+Carre juxta Colne in agro Lancastrensi 8 Martii 1648/9. Aetat. nostrae 23.
+labente.
+A Postscript to the Reader.
+IT is a piece of difficulty as well to avoid the just Censure of some, as the
+unjust Calumniation of others. That little piece of mine which my worthy and
+honored friend Master William Lilly was pleased to insert in his late
+published Book of Astrologicall Predictions, etc. has been subject to the
+misconstruction of some pure-nosed Critics; who have (they suppose) sented out
+an error in the erection of the Figure, page 14. for that the Sun is there
+placed below the Ascendant; whereas my Letter mentioned only the time of
+Sunrise, for the time of the first visibility; nor indeed was it likely that
+the Parelii should appear before the Sun. Let such therefore as have stumbled
+upon that Bloke, give me leave to remove it; and consider that the refraction
+of the Suns rays in the Atmosphaere, or Region of vapors, cause him to
+appear in the Horizon, when indeed he is below it; which this Figure in some
+sort demonstrates.
+
+an arc and two concentric circles, connected by several labeled angles
+
+Let C be the Center of the Earth, CR the semidiameter, R a point in the
+superficies intimating the place of observation. OAB the superficies of the
+Atmosphere, HOR the sensible Horizon, DC the true Horizon: so that when the Sun
+is seen from R by O in H, he is not in H but in S for the beams of the Sun
+emitted from S and falling upon O the superficis of the Atmosphere, proceed not
+on in the line OA, but are refracted in O, the point refringent and pass
+through the diaphanous Atmosphere, in the line OR which is a part of the
+sensible Horizon, and so appears the Sun in H when indeed he is but in S, and
+lower then the sensible Horizon by the quantity of the angle HRS, which is by
+Tycho aslumed 34 min. But as it is not HR but DC which is the true Horizon, so
+likewise is it not the angle HRS but DCS which is the Suns depression or
+inferior distance form the Horizon. To find which, consider that if from the
+arch HDS which subtends the angle of refraction HRS you subtract HD the
+remainer will be DS subtending the angle DCS. Now HCD being (the Suns
+Horizontall Parallax) according to Tycho 3. min. subtracted from the angle of
+Refraction HCS which is sufficiently equal to HRS, leaves the angle DCS the
+Suns depression below the Horizon at what time he appeared ther^n. And he that
+shall from this Depression, and the lati^ude I used, proceed to find the hour
+of the day, and the Cuspes of the 12. houses, I believe will not find them
+much different from what I set down. Only in the cuspes of the eleventh and
+fifth houses. 17. degrees is but in stead of 7. by some mistake of the Cutter,
+or otherwise the minutes agreeing exactly.
+
+Thus much I thought it not amiss to certify concerning that fiigure, least
+any should pass an overhasty Censure thereupon, and either condemn my unknown
+self of ignorance, or traduce the approbation of Master Lilly, whose worthy
+performances have so much dignified these Sciences, and still been able to
+confront Envy in her most pestiferous furniture.
+
+FINIS.
+THE CONTENTS.
+CHap. 1. The occasion of this Discourse, page 1 Chap. 2. An error in finding
+out the Dominicall Letter and Epact in the Foreign Account perpetually,
+detected, page 4 Chap. 3. The inequality of the precession of the Equinoctial
+points examined, page 6 Chap. 4. Of the Sun and Moons Tables, page 12 Chap. 5.
+Whether the second inequality of the Moon have dependence of the Suns mean or
+true, and apparent place, page 14 Chap. 6. A demonstrative examination of our
+Authors Tables of Eclipses, page 17 Chap. 7. Of the aequation of Natural
+Days, page 29 Chap. 9. Our Authors determination of the distance of
+Caelestiall bodies from the earth examined, page 30 Chap. 9. A brief summary of
+some other Defects and Imperfections, page 31
+FINIS.
+

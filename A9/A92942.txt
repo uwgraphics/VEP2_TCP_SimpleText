@@ -1,0 +1,674 @@
+DIALLING UNIVERSAL: Performed by an easy and most speedy way.
+
+SHOWING How to describe the hour lines on all sorts of Planes whatsoever, and
+in any Latitude.
+
+Performed by certain Scales set on a small Portable Ruler.
+
+By G. S. Practicioner in the Mathematics.
+
+LONDON Printed by R. and W. Leybourn for Thomas Pierrepont at the Sign of the
+Sun in Paul's Churchyard. 1657.
+
+TO THE READER.
+COurteous Reader, I here present to thy view a short Tract containing the
+description and uses of certain Scales to be put on a small Ruler, serving for
+the easy and speedy drawing of the Hour lines on all sorts of Planes, in what
+Latitude soever, and howsoever situated.
+
+The first Scale of Hours and the Scale of Latitudes, I acknowledge to be the
+Invention of that famous Mathematician Mr. Samuel Foster, laid down in his book
+of the uses of a Quadrant published Anno 1638. His Scale of Hours on the
+Quadrant, being really divided only into Hours and half hours. But by
+applying of the Thread and Bead, (by which means the hours are there found) the
+Scale is divided into any other parts requisite. Now having perused the labors
+of diverse Authors that have written on this Subject and finding none (in my
+judgment) so easy, pleasant, and of so quick dispatch, for all Dialls with
+Centers; I caused that Scale to be put on a Ruler for my own use, subdivided
+into as many parts as the length of the Ruler would afford, which being exactly
+done. I found that the several hours and parts might be taken off with the
+Compasses from the Scale on the Ruler, with more ease and exactness then could
+be done from the Quadrant, by the application of the Thread and Bead; which
+whosoever shall carefully try both, will find to be true.
+
+The other Scales on the Ruler, (by which are made all sorts of Polar Dialls
+direct or declining, as also direct Meridian Dialls, together with far
+Decliners, and generally all such as fall near the Pole, to be drawn without a
+Center) are of my own framing; which although I esteem not worth publishing,
+yet I am confident will yield some contentment, and give some satisfaction to
+the ingenious; who will accept of my good will. Note that whereas in diverse of
+the Chapters, I have set down short Tables, it was done only to show the
+manner of the work, not that there is any need at all thereof, for having the
+Inclination of the Meridians converted into time, you have sufficient
+directions for setting off all the hours of any Dial; Note also that if your
+Ruler shall be a foot in length, the first hour Scale may have every several
+minute expressed on it, and the Polar Scales every fifth minute, and any Dial
+may be drawn in half a sheet of ordinary paper. But if it be of the length in
+the Book, any Dial may then he drawn in a quarter of a sheet of paper. I
+conclude referring thee to the Book it self, which if it shall find acceptance
+with thee in yielding thee in any kind the satisfctation expected I have my
+ends and desires.
+
+G. S.
+
+The Contents.
+Chap. 1 The Description of the Scales on the Ruler. Page 1 Chap. 2 How to draw
+a Meridian line. Page 2 Chap. 3 How to find the Inclination of a Plane. Page 3
+Chap. 4 How to find the Declination of a Plane. Page 4 Chap. 5 How to draw a
+direct Polar Dial. Page 5 Chap. 6 How to draw an Erect Meridian Dial. Page 6
+Chap. 7 How to draw an Horizontal Dial. Page 8 Chap. 8 How to draw an Erect
+direct vertical. Page 10 Chap. 9 How to make a vertical inclining Dial. Page
+11 Chap. 10 How to make an Aequinoctiall Dial. Page 12 Chap. 11 How to find
+the height of the Pole above the Plane, etc. for Decliners and Declining
+Inclining Planes, Geometrically, only by a line of Chords. Page 13 Chap. 12
+How to make a vertical declining Dial. Page 17 Chap. 13 How to make a
+vertical declining Dial, where the Evation is small. Page 19 Chap. 14 How to
+make a Meridian Inclining Dial. Page 22 Chap. 15 How to make a Declining
+Inclining Dial. Page 24 Chap. 16 How to make a Polar Declining Dial. Page 27
+diagram An Advertisement to the Reader.
+NOte that the Diagrams are all contracted, otherwise they would have taken up
+a great deal of room to little purpose, for as they are, they give as much
+light to the ingenious practicioner as if they had been drawn by the Scale
+annexed, and every Diagram have filled a whole page or near upon, whereas now
+it takes up but a small portion of a page.
+
+And note that these Scales and all other Mathematical Instruments whatsoever,
+are made and sold by Mr. Anthony Thompson, dwelling in Hosier lane near
+Smithfield.
+
+DIALLING:
+CHAP. I. The Description of the Scales on the Ruler.
+THe first Scale is a Scale of six hours, each hour divided into halves and
+quarters of hours, being proper for Dials that have no declination: as the
+Horizontal, the direct North or South, whether upright or inclining.
+
+Moreover each hour is subdivided into as many unequal parts, as the length of
+the Scale will permit, this Scale is of special use in describing all other
+Dials that have Centers; where the Altitude of the Style above the Plain is not
+less then 10 degrees; when that happens there are other Scales to perform it
+with speed and exactness enough.
+
+This Scale has the letters, (Hour,) at the beginning.
+
+The second is a Scale of 90 degrees, answerable to the Scale of Hours, every
+degree being also subdivided into as many parts as quantity will give leave.
+This Scale is known by the letters (Incl.) at the beginning; Note that the
+first and second Scales together show how many degrees and minutes of time are
+contained in any number of degrees and minutes of the Equinoctial under 90 and
+contra.
+
+Example. Against 20 degrees on the second Scale; you shall find on the first
+Scale 1 hour 20 minutes, and against 50 degrees on the second Scale, you shall
+find 3 hours 20 minutes on the first Scale, and so of any other number what
+ever, if carefully computed.
+
+The third Scale is a Scale of Latitudes, known by the letters (Lat.) at the
+beginning.
+
+The fourth and fifth Scales are 2 Scales of hours of different lengths, either
+of which serve to make all direct Meridian or Polar Dialls, also all Polar
+Dialls that decline.
+
+Both these Scales together serve for the speedy drawing the hour lines on all
+sorts of Planes, where the height of the Style is but small, and the Center of
+the Dial left out, these Scales are known by the letters Pol. at the beginning.
+
+These are the chief Scales, there is also a Scale of Chords, whose use is
+common.
+
+CHAP. II. To draw a Meridian line on an Horizontal Plane.
+diagram
+
+WIth your line of chords describe the Circle ABCD, then holding up a thread and
+plummet, so as the shadow of the thread may pass through the Center E, draw the
+line of shadow DEB: Take then the Altitude of the Sun (or rather let another
+take it at the same instant,) which done get the Suns Azimuth, which in this
+Example shall be 50 degrees from South toward East, which 50 degrees. I take out
+of the line of Chords, and set it from the point D, Southward to A, drawing the
+line AEC for the Meridian line.
+
+CHAP. III. To find the Inclination of a Plane.
+THe Inclination of a Plane is the angle which it makes with the Horizon: Draw
+first an Horizontal line as AB, diagram and cross it with the perpendicular
+CD, then apply a Quadrant to the vertical line CD, on a Ruler as the Figure
+directs you, and holding up a thread and plummet, so as that the plummet may
+by means of the Ruler, play under the Center of the Quadrant, the thread passing
+through the Center, observe the degrees cut in the limb, and count them from
+that side of the Quadrant which is perpendicular to the plane, that shall be
+the Inclination of the Plane, as the angle HFE: the Complement whereof EFG, is
+the angle of Reclination of the Plane from the Zenith.
+
+CHAP. IV. To find the Declination of a Plane.
+THe Declination is always reckoned in the Horizon, and is the angle contained
+between the line of East and West and the Horizontal line upon the Plane: Now
+to get the Declination two observations are required, First, the Horizontal
+distance of the Sun from the Pole of the Plane; Secondly, the Suns Altitude.
+
+Draw first an Horizontal line, as the line I K in the figure of the last
+Chapter, then apply thereto the side of a Quadran, holding it parallel to the
+Horizon, then hold up a Thread and Plummet, so as the shadow of the Thread may
+pass through the Center of the Quadrant, then observe the degrees cut off by
+the Threeds shadow on the limb, and reckon them from that side of the
+Quadrant, that is perpendicular to the Plane, as the angle L M N, that is the
+Horizontal distance.
+
+diagram
+
+2 Secondly, take the Suns altitude, and find his Azimuth, these compared
+together will help you to the declination, as may be plainly demo^strated by
+this figure: describe the Circle A B C D: representing the Horizontal circle,
+draw A E C for the Horizontal line of the Plane, then set off the Horizontal
+distance L M N, which in this Example shall be 35 degrees: these I place from A
+to F, then having taken the Suns altitude, I find the Azimuth from East toward
+South to be 50 degrees, these I place from F the Suns place, to G Northward,
+and draw the line G H through the Center, so shall G H be the true points of
+East and West, and I K drawn at right angles to G H shall be the points of
+North and South: Now the angle of declination is A E G, or K E M, which in this
+Example is 16 degrees.
+
+CHAP. V. To draw a direct Polar Dial.
+A Direct Polar Plane is that which is parallel to the hour circle of 6. First,
+draw the Horizontal line A B, with its parallel C D, then draw the
+perpendicular E F, which shall serve for the substile and hour of 12, then
+repair to either of your Scales known by the letters Pol. and fixing one foot
+of your Compasses at the beginning of the said Scale, extend the other foot to
+the hour of 1, set off that extent from E to 11, and from E to 1, as also from
+diagram G both ways, on the line A B, and draw the hours of 11 and 1, parallel
+to the substile E G F: then again extend your Compasses from the beginning of
+the Scale to two hours, set off that extent from E to 10, and from E to 2, also
+from G both ways, and draw the hours of 10 and 2: Then extend the Compasses
+from the beginning of the Scale to 3, and set off that from E to 9, and from E
+to 3, and draw the hours 9 and 3 parallel to the former: then extend the
+Compasses from the beginning of the Scale to 4, and set off that from E to 8,
+and from E to 4, also from G both ways, and draw the hours of 8 and 4. Lastly,
+extend the Compasses from the beginning of the Scale to 5, and set it off from
+E to 7, and from E to 5, also from G both ways, and draw the hours of 7 and 5.
+So have you all the hours proper for this Plane.
+
+The style may be a thin Plate of brass or Iron that must stand directly
+perpendicular to the Plane, and in the substilar line or hour line of 12. The
+length whereof must be the distance from the beginning of the Scale to the hour
+of 3. This done, the Dial is finished.
+
+CHAP. VI. To draw an erect Meridian Dial.
+A Meridian Plane is that which is parallel to the circle of the hour of six,
+having one face to the East, the other to the West, in each of them the style
+and substile will be parallel to the Plane, and the hour lines parallel one to
+the other, as in the direct Polar of the last Chapter, our example shall be of
+a Meridian Dial, with the face to the East, in the Latitude of 51 d. 30 min.
+and is thus described.
+
+Draw first the Horizontal line A B, then with the Radius of your line of
+Chords, one foot fixed in B, with the other draw the arch C D, and in the arch
+C D, set off the height of the Equinoctial 38 d. 30 min. from C to D, and draw
+the line B D E, then in some convenient place of the line B E, as at K, draw
+the line G K F at right angles to the line E D B, so shall G F be the Substile
+and hour of 6, then to E D B draw a parallel as I H, having so done work as in
+the last Chapter was shown, by taking the distance from the beginning of either
+of the Polar Scales to 1 hour, setting that extent from G to 5, and from G to
+7, and on its parallel E B, from K, both ways, and draw the hours of 5 and 7
+parallel to the substile and hour of 6, then take in your Compasses the
+distance from the beginning of the Scale to 2 hours, and set it off from G to
+4, and from G to 8, and also from K both ways, and draw the hours of 8 and 4,
+parallel to the other, so you have no more hours to set off toward I, being 4
+is the hour of Sun rising, but proceed to set off the rest of the hours toward
+H, diagram as you did the other, taking in your Compasses, the distances from
+the beginning of the Scale to 3, 4 and 5, setting each distance off
+respectively from G toward H at 9, 10, and 11, and also from K toward B and
+draw the, hours, of 9, 10, 11: and so you have all the hours proper for this
+Dial.
+
+The distance from the beginning of the Scale to the hour of 3, gives the
+height of the Style which must stand directly over the Substile, making right
+angles therewith, and may be made of a thin plate of Iron or Brass, or a pin
+of either sharpened; whose extremity must give the shadow to the hour lines on
+the Dial; Note that the making of the West Dial differs from this only in
+its situation and changing the hours, this Dial looking to the East and the
+other to the West, this serving from Sun rising to past 11, the other from
+before 1 to Sunset.
+
+Note if you turn the East Dyall drawn in paper from you, and look on the
+backside, you shall there see the perfect form of the West Dial, only instead
+of the hours 11, 10, 9, 8, 7, 6, 5, 4, you must write 1, 2, 3, 4, 5, 6, 7, 8.
+
+CHAP. VII. To draw an Horizontal Dial for the Latitude of 51 degrees. 30 min.
+AN Horizontal Plane is that which is parallel to the Horizontal Circle of the
+Sphere, to draw the hours proceed thus.
+
+Draw a line at length as B A C, then repair to your Scale of Latitudes and
+with one foot fixed at the beginning of the same Scale, extend the other to 51
+degrees. 30 min. and set off that extent from A to B and from A to C, and draw the
+lines A B, A C, then open your Compasses to the length of the whole Scale of
+hours, or first Scale, and with that extent, one foot fixed in B, with the
+other foot make an arch at D, then with the same extent, diagram one foot fixed
+in C with the othercross that arch at D, and draw the lines B D and C D also
+draw the line A D for the substile and hour of 12, thus done return to your
+first Scale on your Ruler extending your Compasses from the beginning of that
+Scale to 1 hour, and set off that extent from D to 1, and from D to 11, also
+the same extent must be set from B to 5, and from C to 7. Then extend your
+Compasses from the beginning of the said scale to 2, and set it off from D to
+10, and from D to 2: also from B to 4, and from C to 8. Lastly, extend your
+Compasses from the beginning of the said scale to 3, and set that off from D to
+3, and from D to 9, so have you points for 12 hours and lines drawn from the
+center A to each of these points shall be the hours required. Note that the
+hours of 4 and 5 in the morning, and 7 and 8, in the evening are to be drawn
+through the center, if you desire the halves and quarters, they are to be drawn
+in all respects as the hours.
+
+With your line of Chords make an angle of 51 degrees. 30 min. for the style or
+cock of your dial, and set it over the substile A D, at right angles as the
+angle E A D, in the Diagram, and the Dial is finished.
+
+CHAP. VIII. To draw a Dial on an erect direct vertical Plane.
+A Vertical Plane is that which is Parallel to the Prime Vertical Circle of the
+Sphere, it has two faces one to the South, the other to the North: our example
+shall be of a South Plane in the latitude of 51 degrees. 30 min. The making of this
+Dial differs little from the Horizontal only, you must take notice that this
+Plane respects the South Pole, which Pole is elevated thereon 38 degrees. 30 min.
+being the complement of the latitude, and so much you must take out of your
+Scale of Latitudes, and set off from A to B, and from A to C, then take in your
+Compasses the whole scale of hours or first scale, diagram and with that extent
+one foot fixed in B with the other make an arch at D, again with the same
+extent, one foot fixed in Cwith the other cross the arch at D, and draw the
+lines B D and C D, also A D for the Substile and hour of 12. Finish the Dial
+in all respects as you did the Horizontal; only observe that whereas in that
+Dial the hours of 1, 2, 3, etc. were set off on the line B D, toward the left
+hand, the same hours must in this Dial be set off on the line C D, toward
+the right hand.
+
+The Style E A D must contain an angle of 38 degrees. 30 min. and must stand
+directly over the Substile A D.
+
+For the North face, the Center must be below and the Style point upward. The
+hours fit for that Plane are the hours of 4, 5, 6, 7, in the morning, and 5, 6,
+7, 8, in the evening.
+
+CHAP. IX. How to draw a vertical Inclining Dial.
+IF the Inclination be toward the North part of the Horizon, you are to
+subtract the Inclination out of the complement of the elevation, and the
+remainer is the new Latitude.
+
+Example. Of a South Dial in the Latitude of 51 degrees. 30 min. inclining
+Northward 25 degrees. I deduct 25 out of 51.30, and there remains 13.30. the
+elevation of the Pole above the Plane, having found the elevation of the Pole
+above the Plane I proceed to make the Dial, as if it were an upright South
+Dial, for the Latitude of 13 degrees. 30 min making A B and A C equal to 13.30
+taken out of the line of Latitudes, following the rules of the last Chapter for
+the rest of the work.
+
+The Style must contain an Angle of 13.30 and must be set directly over the
+Substile A D, and the Dial is finished.
+
+But if the Inclination be toward the South part of the Horizon, then add the
+Inclination to the Latitude and the sum is the elevation of the Pole above
+the Plane, if the sum exceed 90, take it out of 180, and the remainer is the
+elevation of the Pole above the Plane.
+
+Example. In the Latitude of 51 d. 30. a Plane found to incline Southwards 15
+degrees, I add 15 d. to 51. 30 the sum is 66.30 that is the elevation of the
+Pole above the Plane, so observing the former directions you may proceed to
+make the Dial as is before taught.
+
+CHAP. X. How to draw an Equinoctial Dial.
+AN Equinoctial Plane is that which is parallel to the Equinoctial Circle of
+the Sphere: Make AB and AC of the former Diagrams, equal to the whole line of
+Latitudes, and proceed as if you were to make an Horizontal Dial, and set up a
+sharpened point in the Center of any convenient length.
+
+But the best way to draw this Dial, being the hours are equidistant, is to
+divide 360 by 24, the quotient is 15, so having with the Radius of your line of
+Chords described a Circle and drawn the Diameter for the 2 hours of six, and
+the perpendicular for the hour of 12, take 15 degrees out of your line of
+Chords, and set it off from hour to hour, let this Dial contain as many
+hours as the Horizontal and so numbered.
+
+CHAP. XI. How to find the height of the Pole above the Plane, the distance of
+the Substile from the Meridian, and the Inclination of Meridians, for upright
+declining and Meridian inclining Dialls; as also what ever else is necessary to
+be found for all other Dialls, hereafter treated of before the hour lines can
+be drawn.
+THe best and exactest way to find these, is by the Tables, or Canons of
+Logarithms; but of that I will not touch in this small Treatise, but make use
+of some Geometrical way whereof there are diverse, but the best and easiest in
+my judgment (it requiring only a line of Chords,) is that of Mr. Stirrup,
+which I here make use of (I hope without offense.
+
+The first Example shall be of a Plane declining from South 28 degrees toward
+the East: as by the first Diagram of this Chapter is Demonstrated as follows.
+
+Describe a Quadrant as ABC: Set off the Latitude 51.30 from B to E, draw ED
+parallel to AB: then take the distance DE with your Compasses, setting one foot
+in A, with the other draw the Arch GHOR: then set off the declination 28, from
+B to F, draw FA, cutting the Arch GR in the point H, diagram through which
+point H draw the line SHN, so shall CN be the height of the Pole above the
+Plane 33 d. 20, then take the distance HS, and set it off from D to K, and draw
+the line AKL, so shall CL be the distance of the Substile from the Meridian.
+
+Then from the point L, draw LT cutting the arch GR in O; draw AOI: so shall CI
+be the Inclination of Meridians 34 degrees. 12 minutes.
+
+The second Example is of a Meridian Inclining Plane in the Latitude of 51 degrees.
+30 min. inclining 40 degrees. diagram This work differs little from the former,
+describe a Quadrant as ABC, set off the Latitude 51 degrees. 30 min. from C to E
+draw ER parallel to AB, then with the distance ER raw the arch GH OD: then set
+off the Inclination 40 from B to F, and ppraw AF, cutting the arch GOD in H,
+then draw SHN: so shall CN be the elevation of the Pole above the Plane 36 degrees.
+49 min. Then take the distance SH, and set it from R to K, draw AKL, so shall
+CI, be the distance of the substile from the Meridian 38 degrees. 57 min. Lastly,
+draw LT cutting the arch GD, in O draw AOI, so shall CI be the Inclination of
+Meridians 53 degrees. 26 min.
+
+The third Example is of a Declining Inclining Plane, in the Latitude of 51
+degrees. 30 min. declining from South toward East 34, and Inclining to the Horizon
+24 degrees. First draw the Quadrant ABC, set off the declination from C to E: draw
+AE, diagram then set off the Inclination 24 from B to F: draw FZ parallel to
+AC, then draw the arch GHI, cutting AE in H, through the point H, draw KL
+cutting the arch CB in K, take the distance HL, and set it in the line FZ unto
+O, and draw the line AOM, cutting the arch BC in M, from which point M draw MPN
+parallel to AB, cutting the arch GI in P, through which point P draw APQ,
+cutting the arch BC in Q, so shall the arch BK, be the Inclination of the Plane
+to the Meridian 76 degrees. 51 min. and the arch BQ, the Meridians ascension 58
+degrees. 22 min, or the arch of the Plane betwixt the Horizon and Meridian, and the
+arch BM shall be the Elevation of the Meridian, or the arch of the Meridian
+between the Horizon and the Plane 20 degrees. 16 min. Now if the Plane incline
+toward the South add the elevation of the Meridian, to your Latitude, and the
+Sum shall be the Position Latitude, or the arch of the Meridian betwixt the
+Pole and the Plane: if the sum exceed 90, take it out of 180, and that which
+remains shall be the Position Latitude: But if the Inclination shall be
+Northward, then compare the Elevation of the Meridian with your Latitude, and
+take the lesser out of the greater, so the difference shall be the Position
+Latitude as in this example supposing the Inclination to be Northward, I take
+20 degrees. 16 min. the elevation of the Meridian out of 51 degrees. 30 min. the
+Latitude, and there remains 31 degrees 14 minutes for the Position latitude, or
+the arch of the Meridian between the Pole and the Plane: This being done set 31
+degees 14 minutes from B to T in the arch BC, and draw the line AT, then with
+the distance KL upon the Center A describe the arch YMW cutting the line AT in
+M through M draw RS. Parallel to AB cutting the arch BC in S, so shall BS be 30
+d. 20. the height of the Pole above the Plane. Then lay your Rule upon the
+point S, and the Center A, and where it shall cut the line KL there make a mark
+as at V, through V draw the line Dunw cutting YW in the point n, and the arch
+BC in w, so shall the arch B w be 7 degrees. 51 min. the distance of the Substile
+from the Meridian. Lastly, through the point n draw YX parallel to AC, so shall
+BX be 15 degrees. 17 min. the Inclination of Meridians.
+
+CHAP. XII. How to draw the hours on an erect vertical declining Plane.
+HAving by the last Chapter obtained those necessary requisites there mentioned
+I now proceed to draw the hour lines on all thoses Planes treated of in that
+Chapter, by our first Scale of Hours, as also all Polar declining Dials, and
+all far declining vertical, by the Polar Scales. And first for the vertical
+Decliner mentioned in the last Chapter declining from South toward East 28
+degrees in the Latitude of 51 degrees. 30 min. Proceed thus: first, draw a line at
+length as BAC, then considering that the height of the Pole above the Plane was
+33 degrees. 20 min. I take 33 degrees. 20 min. out of the Scale of Latitudes, and set
+it off from A to B, and from A to C, choosing A for the Center of the Dial. Then
+take in your Compasses the whole first Scale, or Scale of Hours, and with one
+foot fixed in B with the other make an arch at D, and with the same extent, one
+foot fixed in C, with the other cross the arch at D, and draw the lines BD and
+CD, as also the line AD for the Substile: Then having found the Inclination of
+the Meridians to be 34 degrees. 12 min. I seek that in the second Scale known by
+the Letters Ind. and just against it on the first Scale, I find two hours 17
+min. then take off two hours 17 min. from that Scale, and set it from D to 12,
+and from B to 6, then extend your Compasses from the beginning of the same
+Scale too hours 17 and set that from D to 10, diagram and from B to 4, then
+open your Compasses to 1 hour 17 of the same Scale and set it from D to 11, and
+from B to 5, then open the Compasses to 3 hours, 17 min. and set it from D to
+1, and from B to 7, then open the Compasses to 4 ho. 17, and set it from D to
+2, and from B to 8, then lastly, open your Compasses to 5 hours 17 min. and
+set it from D to 3, and from B to 9. So lines drawn from A to those points
+shall be the hours proper for this Plane: if you please you may set off the
+largest extents first, as 5 hours 17 min. and so go on closing of the Compasses
+till you come to o hours 17 min. for D 10, and B 4. Note that the first Column
+of the Table contains the hours and minutes that are to be taken in your
+Compasses off of the first Scale, and set from D or B to their Ho. M. from D
+toward C, from B toward D. 5. 17 D -- 3 And B -- 9 4. 17 D -- 2 And B -- 8 3.
+17 D -- 1 And B -- 7 2. 17 D -- 12 And B -- 6 1. 17 D -- 11 And B -- 5 0. 17 D
+-- 10 And B -- 4 respective hours on the Plane, contained in the second and
+third Columns of the Table: consider also that the Inclination of Meridians;
+being 34 d. 12 or 2 ho. 17 of time and the declination toward East, the
+Substile falls between the hours of 9 and 10 in the morning, whereas if the
+declination had been West the Substile would have fain betwixt the hours of 2
+and 3 in the afternoon, and the hour of 12 would have been toward the left
+hand of the Substile, whereas the declination being East, it stands on the
+right hand of the Substile.
+
+The style must have elevation 33.20. as the angle EAD, and must stand directly
+over the Substile AD, and the Dial is finished. I have been more large in this
+Chapter then I shall be in what shall follow, touching all other Dials with
+Centers, by reason the drawing and setting off the hours is the same with the
+work of this Chapter.
+
+CHAP. XIII. To draw the hours on a far declining vertical Plane, by the 2
+Polor Scales on the Ruler.
+THose Planes whose declination, or declination and Inclination shall cause them
+to fall near the Pole, so as that the hours can hardly be distinguished they
+falling so near together, must have the Center left out and the Style
+increased, and then the hours may be easily and speedily drawn by the
+directions following.
+
+The Example shall be of a vertical Dial declining East from South 80 d. By
+the directions of the 11th. Chapter, I find the Inclination of Meridians to be
+82 d. 8 the height of the Pole above the Plane 6 d. 12, and the distance of the
+Substile from the Meridian 38 d. 5: Draw first the perpendicular GH, then set
+off the Style and Substile according to their angles, and draw the pricked
+lines GBA, for the Substile, and GIK for the Style: Then choose any point in the
+Substile as A, through which point A, draw a line at length, making right
+angles therewith as the line EAC, that done fix one foot diagram of your
+Compasses at the beginning of your longest Polar Scale, and extend the other to
+the hour of 3, set off this extent from A to C, and through the point C draw a
+line Parallel to GIK, the style as the line CD. So shall CD be the style
+increased then open your Compasses from the beginning of your second or lesser
+Polar Seal to 3 hours, place one foot of the Compasses in the substile ABG,
+carrying it along the line until the other point of the Compasses, may just
+touch the line CD, and and there make a mark as at B, through which point B
+draw a line at length perpendicular thereunto and parallel to the line EAC:
+Then considering the Inclination of Meridians to be 82 degrees. 8 min. I find that
+on the second Scale, and against it on the first Scale I find 5 hours 29 min.
+by which it appears that the substile falls between the hours of 6 and 7 in
+the morning. According to the Inclination of Meridians 5 hours 29. I proceed to
+make a Table, and to set offt he hours accordingly as follows. I open my
+Compasses to 0 hours, 29 min. of the greater Polar Scale, and set it off from A
+to the hour of 7 in the line CAE, then I open the compasses to 1 hour 29
+minutes of the same scale, and place it from A to 8, then I open the compasses
+to two hours 29 min. and set it off from A to 9. then I take in my compasses 3
+hours 29 min. and set it from A to 10. Lastly, I take in my Compasses, 4 d. 29
+and set it from A to 11. Now having found the points for the hours on one side
+of the substile from A toward E, I must do the like for the other side of the
+substile: and considering that the first hour from the Substile from A toward
+E from A toward C Ho. M H. on the Plane Ho. M. H. on the Plane. 0 29 A -- 7 0
+31 A -- 6 1 29 A -- 8 1 31 A -- 5 2 29 A -- 9 2 31 A -- 4 3 29 A -- 10 3 31 A
+-- 3 4 29 A -- 11 4 31 A -- 2 toward E, namely A 7, contains the distance of 0
+hours 29, as by the Table appears, the complement thereof to 60 or 1 hour: is 0
+ho. 31, as by the said Table appears, so I proceed to set off 0 ho. 31, taken
+from the same Polar Scale; from A to the hour of 6, and the extent of the
+compasses from 1 ho. 31; I set from A to 5, also 2 ho. 31, I set from A to 4.
+and 3 hours 31 min. from A to 3, and lastly, the extent of the Compasses from
+the beginning of the Scale to 4 hours 31 min. I set off from A to 2. And so I
+have found points for all the hours of the Plane on the perpendicular CAE.
+
+Now for the other line DIBF, you must set off the hours thereon taken out of
+the lesser Polar Scale from B, according to the Table in all respects changing
+only A for B: this done draw lines through the respective points in the lines
+CAE and DBF, which shall be the hour lines of the Dial.
+
+Note that a Dial of this kind is near as socn made as spoken of, The Style
+must be a thin plate to stand directly over the Substile, as in the figure is
+demonstrated by AB and CD.
+
+CHAP. XIV. To draw the Hours on a Meridian Inclining Plane.
+THose Planes whose Horizontal line is the same with the Meridian line, are
+called Meridian Planes, as the direct East and West. But if they lean to the
+Horizon they are called Incliners.
+
+Those Planes may incline either to the East or West part of the Horizon, and
+each of them has two faces, the upper toward the Zenith, the lower toward
+the Nadir.
+
+Having by the 11th. Chapter and second Diagram found the height of the Pole
+above the Plane to be 36 d. 49, the Inclination of Meridians 53 degrees. 26 min.
+and the diagram distance of the substile from the Meridian 38 d. 57. I proceed
+to make the Dial thus. Draw the Horizontal line F AE, make A the center of the
+Dial, then with the Radius of your line of Chords, draw an arch and set off the
+distance of the Substile from the Meridian from F to G, and from the center
+draw AGD for the Substile, again through the Center A, draw B C at right angles
+to the Substile A D. Then make A B and A C equal to the height of the Style
+taken ont of the line of Latitudes 36 d. 49, find then the from D toward C
+from B toward D. Ho. Min. Ho. Plane. Hours on the Plane. 0. 34 D -- 3 And B --
+9 1. 34 D -- 2 And B -- 8 2. 34 D -- 1 And B -- 7 3. 34 D -- 12 And B -- 6 4.
+34 D -- 11 And B -- 5 5. 34 D -- 10 And B -- 4 Inclination of Meridians on the
+second Scale, which is 53.26. and against it on the first Scale I find 3 ho.
+34, which being taken out of the same Scale, and set from D and B gives points
+for the hours of 12 and 6, the rest of the work differs nothing from the
+directions of the twelfth Chapter: Draw lines from the Center A to each of
+those points, and they shall be the hours for this Plane. The Style must stand
+directly over the Snbstile AD and contain an angle of 36 d. 49 as the angle
+EAD.
+
+Take notice that when you are to draw any of the Dialls with Centers, let the
+line BAC stand toward you, as if it were the Horizontal line, and the line AD
+a Plumb line, and so you will set off the hours with more ease as the direct
+vertical. Note that this Example is of a Meridian Plane inclining East, and
+therefore the Substile must stand to the left hand of the Meridian or hour of
+12.
+
+CHAP. XV. To draw the Hour lines on a Declining, Inclining Plane.
+A Plane that declines from the prime Vertical and Inclines to the Horizon, and
+yet lies not even with the Poles of the World, is called a Declining Inclining
+Plane.
+
+Of these there are several sorts, for the Inclination being Northward, the
+Plane may fall between the Horizon and the Pole, or between the Zenith and the
+Pole.
+
+Or the Inclination may be Southward, and may fall either below the
+intersection of the Meridian, and the Equator, or above it: and each of these
+have two faces, the upper toward the Zenith, and the lower toward the Naidir.
+
+I take the Example of the 11th Chapter, according to the third Diagram of that
+Chapter, being a Plane that declineth from the South toward the East 34
+degrees, and Inclining to the Horizon 24 degrees, in the Latitude of 51 degrees. 30
+min. I found the height of the Pole above the Plane to be 30 degrees 20 min.
+The arch of the Plane from the Horizon to the Meridian 58 degrees. 22 min. the
+Inclination of Meridians 15 degrees. 17 min. and distance substile from the
+Meridian 7 d. 51. this is all we need to know before we begin to make the Dial;
+which is effected after this manner, draw first the horizontal line of OF, then
+with the radius of your line of Chords draw the arch FH, diagram and set off the
+Altitude of the Meridian 58 degrees. 22 min. from F to H. and the distance of the
+substile from the Meridian 7 d. 51 min. from H to K: Let A be the center of the
+Dial then draw the line AKD for the substile then draw BAC at right angles
+thereto, and make AB and AC equal to the height of the Pole above the Plane 30
+degrees. 20 min. taken out of the Scale of Latitudes, then set off the whole first
+Scale or hour line from B and C to D. as has been before shown.
+
+Then considering the Inclination of Meridians was 15 degrees. 17 min. I find it on
+the second Scale, and against it on the first Scale, I find 1 hour 1 min. so I
+set off the hours as has been formerly shown and this Table demonstrateth.
+
+from D toward B from C toward D. Ho. Min. Hours on the Plane. 0. 1 D -- 11
+And C -- 5 1. 1 D -- 12 And C -- 6 2. 1 D -- 1 And C -- 7 3. 1 D -- 2 And C --
+8 4. 1 D -- 3 And C -- 9 5. 1 D -- 4 And C -- 10
+
+The Style must contain an angle of 30 degrees. 20 min. as IAK in the Diagram to
+stand directly over the Substile AD, and so the Dial is finished.
+
+Now when you meet with Declining Inclining Planes you must consider which Pole
+is elevated above your Plane and how to place the Meridian from the Horizontal
+line, for upon the upper faces of all North Incliners, whose Meridians
+Elevation is less then the Latitude of the Place, on the under faces of all
+North Incliners, whose Meridians Elevation is greater then the Latitude of the
+place, and on the upper faces of all South Incliners the North Pole is
+elevated. And upon the under faces of all North Incliners, whose Meridians
+Elevation is less then the Latitude of the place, on the upper faces of all
+North Incliners, whose Meridians Elevation is greater then the Latitude of the
+place, and on the under faces of all South Incliners the South Pole is elevated.
+
+Now for placing the Meridian from the Horizontal line, upon the upper faces of
+all South Incliners whose Meridians Elevation is greater than the complement of
+Latitude, on the under faces of all South Incliners, whose Meridians Elevation
+is less than the Latitudes, complement, on the under faces of all North
+Incliners, whose Meridian Elevation is greater then the Latitudes of the place,
+and on the upper faces of all North Incliners, whose Meridians Elevation is
+less than the Latitude of the place the Meridian must be placed above the
+Horizontal line as in our Example. Again, contrariwise for the upper faces of
+all South Incliners, whose Meridians Elevation is less than the Latitudes
+complement. On the under faces of all South Incliners, whose Meridans Elevation
+is greater than the complement of Latitudes, on the under faces of all North
+Incliners, whose Meridians Elevation is less than the Latitude of the place,
+and on the upper faces of all North Incliners, whose Meridians Elevation is
+greater then the Latitude of the place, the Meridian must be placed below the
+Horizontal line. But if it be either the upper or under faces of a South
+Inclining Plane, whose Meridians Elevation is greater than the Latitudes
+complement, or either the upper or under faces of a North Inclining Plane,
+whose Meridians Elevation is less than the Latitude of the place, that then
+the Meridian must be placed from that end of the Horizontal line with the
+Declination of the Plane but on all the other faces of these kinds of Planes,
+the Meridian must be placed from that end of the Horizontal line, which is
+contrary to the Declination of the Plane.
+
+Note also that if the Inclination be Southward and the Elevation of the
+Meridian, equal to the complement of your Latitude, then shall the Substile lie
+square to the Meridian.
+
+CHAP. XVI. To make a Dial on a Polar declining Plane.
+THese Planes if the Inclination be Northward and the Elevation of the Meridian
+equal to the Latitude of the Place then neither Pole is elevated above the
+Plane, and therefore its a declining Polar.
+
+diagram
+
+Example. A Plane declining East from South 30 degrees. and inclining North 34 degrees.
+30 min by the rules of the eleventh Chap. I find the distance of the Horizon
+and Meridian to be 71 degrees. 53 min. which I set off from A to B in the arch AB,
+and draw BD for the Substile. Then at right angles to the Substile, I draw the
+lines FG and CE: Then considering the Inclination of Meridians to be 24 degrees. 19
+min. I find it on the second Scale, and against it on the first Scale I find 1
+ho. 37 min. Then having recourse to the Table, I set off the hours from K and
+H, according to the directions of the 13 Chapter, for the far Decliner,
+taking the several distances with my Compasses out of either of the Polar
+Scales, and setting them off from K toward C or E, as the Table plainly
+shows.
+
+from K toward E, from K toward C. Ho. M. Ho. Plane Ho. M. Hours Plane. 0. 37
+K 11 0. 23 K 10 1. 37 K 12 1. 23 K 9 2. 37 K 1 2. 23 K 8 3. 37 K 2 3. 23 K 7 4.
+37 K 3 4. 23 K 6
+
+The extent of the Compasses from the beginning of the Scale to the hour of 3
+gives the height of the Style, which must be a plate of Iron or Brass, set up
+just over the Substile HK, and the Dial is finished.
+
+Some observations relating chiefly to the Dial of the 12 Chap. being a
+vertical Decliner.
+WHereas in the Diagram of the 12th Chapter the Substile stands square to the
+Horizon, you see here how it ought to stand, that is to say the 12 of clock
+hour must in this and all other vertical Decliners be the Plumb line as the
+Diagram here shows.
+
+diagram
+
+Note that no hour lines are to be drawn beyond the line BC.
+
+Note also that if you oil the Pattern of this Dial drawn in paper, it will
+serve for 3 other Dialls that have the same Declination.
+
+First, a Dial for the Southwest face of the Plane if you change the side, and
+the numbers set to the hours, the Center of the Dial upwards and the Style and
+Substile pointing downwards.
+
+Secondly, a Dial for the Northwest face, if you turn the pattern upside down,
+and changing the side taking the backside for the foreside, not altering the
+hours the Style and Substile pointing upward.
+
+Lastly, a Dial for the Northeast face, if you take the foreside only turning
+it upside down, and altering the numbers set to the hours, the Style and
+Substile pointing upward.
+
+A Table showing the Latitude of the most principal Cities and Towns in England.
+Name of the places. Latitude d. m. St. Albans 51 55 Barwick 55 49 Bedford 52
+18 Bristol 51 32 Boston 53 2 Cambridge 52 17 Chester 53 20 Coventry 52 30
+Chichester 50 56 Colchester 52 4 Darby 53 6 Exon 50 40 Grantham 52 58 Halifax
+53 49 Hereford 52 14 Hull 53 50 Launston 50 41 London 51 32 Lancaster 54 8
+Leicester 52 40 Lincoln 53 15 Newcastle 54 58 Northampton 52 18 Oxford 51 54
+Shrewsbury 52 48 Warwick 52 25 Winchester 51 10 Worcester 52 20 Yarmouth 52 45
+York 54 0
+
+FINIS.
+
