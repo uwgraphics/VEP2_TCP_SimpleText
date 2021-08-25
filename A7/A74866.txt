@@ -1,0 +1,2759 @@
+THE GEOMETRICAL SEAMAN: OR, THE ART OF NAVIGATION Performed by GEOMETRY.
+SHOWING How all the three kinds of Sailing, viz. By the Plain Chart, By
+Mercators Chart, By a Great Circle. May be easily and exactly performed by a
+Plain Ruler and a pair of Compasses, without Arithmeticall Calculation. By
+HENRY PHILLIPPES.
+
+LONDON: Printed by ROBERT and WILLIAM LEYBOURN, for GEORGE HURLOCK, and are to
+be sold at his Shop at Magnus Church-corner, 1652.
+
+TO The INGENIOUS, INDUSTRIOUS, and Younger SEAMEN.
+AS it is chiefly for your profit that I write; so I hope, that though I shall
+be condemned of others, yet I shall gain your pardon. I confess my labor may
+seem needless, after so many learned Authots, to set forth any thing of this
+subject. And it may be accounted a presumptious folly for any to go about to
+teach Seamen in their Art, especially in these times, wherein there were never
+more, nor more skillful Seamen. But in answer hereto take notice of these
+considerations.
+
+First, That many Books of this subject, though they are plain and easy for
+all Seamen to understand, yet they are not so exact and perfect in all things
+as they ought to be.
+
+Secondly; That though Mr. Wright, Mr. Gunter, and Mr. Norwood, have very fully
+showed the errors of the foresaid Books, and have very perfectly reformed
+them; yet their Books are not plain and useful for all men, because they
+require much knowledge in Arithmetic.
+
+Thirdly, Though there be many skillful Seamen, which are able to make use of
+these Authors; yet there are many others, who would willingly attain to a more
+perfect knowledge in this Art, and yet cannot, for want of Arithmetic. Now for
+the help of such as these especially, have I published this Book: wherein you
+shall find how all that which is to be performed by Arithmetic in the
+foresaid Authors, may be sufficiently exactly performed by Geometry with the
+Ruler and Compasses; so that any one that can but read and write a little,
+though he have no skill in Arithmetic, may hereby attain a true and perfect
+knowledge of the Art of Navigation, so that he shall be able to keep as true
+and certain an account of his Voyage in any part of the World, as one that
+works by the most exact rules of Arithmetic. Nay, I dare say, that one that
+can neither write nor read, yet being of an ingenious capacity; and having one
+to teach him according to this way, may attain sufficient skill in this Art.
+
+Fourthly, This may also be useful to those who can perform these things by
+Arithmetic, and the Doctrine of plain Triangles: For by this way they may
+perform them far more easily and readily, and almost as exactly. And though
+such men may know many of these things already, yet perhaps they may gain some
+knowledge hereby.
+
+Lastly, As by this way the knowledge of the Art is most easily and speedily
+attained, so it is more certainly and constantly retained and preserved, both
+in respect of the knowledge and practice thereof. First, the knowledge hereof
+is more certainly retained in your memory: for this is the reason why all
+Authors are forced to make use of some Geometrical figures; partly to explain
+their Rules, and partly to fix them in the memory, by making them visible to
+the eye; for we more surely remember any thing which we see done, then what we
+only hear. Now in this way, every thing is made much more visible to the eye,
+and therefore more easy both to learn and remember. Secondly, the practice of
+this knowledge will be more surely and constantly preserved: for Arithmeticall
+calculations require many Tables, viz. of Sines, Tangents, Secants, Meridian,
+which cannot possibly be kept in memory; so that if by any cross accident a
+Seaman be deprived of his Books, he can make no use of his skill in
+Arithmetic. But if a man knows how to perform these things by Geometry,
+though all his Books and Writings be lost, yet having but a plain Ruler and a
+pair of Compasses, he may quickly recover his loss, and fall to his work as
+before.
+
+Upon these considerations, I have adventured to publish this little Book,
+wherein I have briefly and plainly laid down the whole Art (as to the
+Geometrical part thereof) beginning at the first principles, and proceeding by
+degrees to the highest conclusions. I have used the more figures to make every
+thing the plainer. And I have provided such figures, as serve not only for
+demonstration of the thing, but may serve for Instruments to work upon; or you
+may easily, by the directions given, make the like. To conclude, I have studied
+to make those things plainest, which have at any time most troubled my self to
+understand. So that I question not but that any one that is industrious, may
+here of easily and speedily attain, such a competent measure by knowledge in
+this Art, that by Gods blessing upon his study and labor therein, he may
+obtain much credit and profit. Which is all the desire, of
+
+Your well meaning Friend Henry Phillippes.
+
+THE CONTENTS AND order of the whole BOOK.
+IN the two first Chapters is showed how to perform some Geometrical
+Principles; which are necessary to be known, because most of the following work
+is done thereby. The third Chapter shows the making and use of the plain Chart,
+being the common way of sailing. The fourth Chapter shows the making and use of
+the true Sea-Chart, being in many respects more perfect then the former. The
+fifth Chapter shows the way of sailing by a great Circle; being the most exact
+and best way of sailing that can be. The sixth Chapter shows many useful
+observations in all these kinds of sailing. The seventh Chapter shows another
+way of sailing by the arch of a great Circle. he last Chapter shows how to
+keep a perfect account of any Voyage by a little common Arithmetic, viz.
+Addition and Substraction.
+The names of such Books as are printed and sold by George Hurlock, at Magnus
+Church corner.
+THe Seamans Calendar. The enemy of Idleness, teaching how to endite Epistles
+and Letters in 4 Books, 83. Normans Art of Tens, or Decimall Arithmetic, 4o.
+The Art of Navigation by Martin Curtis. Safeguard of Saylors, or great Rutter,
+by Robert Norman. A Table of Gauging all manner of Vessels, by John Goodwin,
+8o. Path way to perfect sailing, by Richard Polter, 4o. Pitiscus his Doctrine
+of Triangles, with a Canon of natural Sines, Tangents, and Secants. Norwood's
+Doctrine of Triangles, with Logarithmes Norwood's Epitomie, applied to plain
+and Mercators sailing. Norwoods sea-mans practice. The Navigator, by Captain
+Charles Saltonstall, 4o. Dary's description and use of a Universal Quadrant,
+8o.
+Errata.
+Page 16. A is wanting in the figure. page 33 line last, read A F, page 56 line
+25. for 28 read 58, page 62, 67, 69. some words doubled may b^ left out. page
+70, line last, read, thereby know whether, etc. page 80. last line of the
+Table, for 22 degrees. read 33. page 88. in the Table, Col. 3. line 3. for 1, 80,
+read 1,00. Col. last line 3. for 0, 8, read. 0, 58.
+
+THE GEOMETRICAL SEAMAN. OR THE Art of Navigation performed by GEOMETRY.
+CHAP. I. Containing some Geometrical Propositions, which will be of frequent
+use.
+PROPOSITION 1. How to erect a Perpendicular line at the end of a line. The
+first Proposition
+
+What a perpendicular line is.
+A Perpendicular line, is a line that stands directly upright from another line.
+As in the figure, the line B C is a perpendicular line, to the line A B. Now in
+the Figure there are two ways of raising it, the one on the right side, and
+the other on the left.
+
+First, Let the line A B be given: and it is required to erect the line B C
+perpendicularly to it, at the end of the line in the point B.
+
+To perform this: first, How to raise a perpendicular.
+set one foot of your Compasses in the point B, and opening the other to any
+distance (you please) draw the arch K E F, then keeping your Compasses at the
+same distance, set one foot in K, and with the other mark the former arch at E:
+then keeping your Compasses still at the same distance, set one foot in the
+mark at E, and with the other draw the arch H F, then remove one foot of your
+Compasses to F, and with the other draw the arch G I: lastly, lay your ruler by
+the cross of the two last arches at I, and the point B, and draw the line C I
+B, so you have performed the demand. geometrical diagram The first figure.
+
+
+Another way.
+The second way to perform this, is demonstrated on the left side of the figure.
+Let the line A B be given as before, and it is required to erect the line A D
+perpendicularly in the point A.
+
+To perform this, first, set one foot of your Compasses in any convenient point
+at pleasure, as at L, and open the other foot to the point A, and draw the arch
+N A M, then lay your ruler to the center of this arch L, and the place where it
+crosses the line A B, which is at N, and draw the line M L N, which does
+cross the arch N A M in the point M. Lastly, laying your Ruler to this cross
+at M, and the point A, draw the line D M A, so you shall have your desire.
+
+PROPOSITION 2. To draw one line parallel to another line, at any distance
+required. The second Proposition.
+
+What is meant by a parallel line.
+A Line is said to be parallel to another line, when it is equally distant from
+it in every part thereof. Thus in the former figure the line P S is parallel to
+the line A B. Now the way to draw a parallel line is thus.
+
+Let the line A B be the first line given, and it is required to draw the line
+P S parallel to it, according to the distance P A.
+
+First, open your Compasses to the distance you have occasion to use, which in
+this example is P A, then setting one foot in A, with the other draw the arch
+at P, and then keeping your Compasses at the same distance, remove one foot to
+B, and with the other draw the arch at S: lastly, laying your ruler on the very
+edge of these two arches, draw the line P S, which will be parallel to A B, and
+so the proposition is performed.
+
+PROPOSITION 3. How to make a Geometrical Square. The third Proposition.
+
+A Geometrical square, is a square whose four sides are all of one and the
+same length. Now in the first figure, let the line A B be the side of such a
+Square, and it is required to make a Square of that length and breadth.
+
+First, How to make a Square.
+you must draw the line A B according to the length given, then erect the
+perpendicular line A D at one end thereof, as was showed before, then setting
+one foot of your compasses in the corner A, open the other to B, and keeping
+one foot still in A, with the other cross the perpendicular A D at D: then
+keeping your compasses at the same distance, set one foot in B, and with the
+other draw a short arch at C, then set one foot at the cross at D, and with
+the other cross the arch last drawn in the point C: now if you draw lines
+through these marks, from A to D, from D to C, and from C to B, so you shall
+make the Geometrical Square A B C D as was required.
+
+If you will try your work whether you have made it true or no, then set one
+foot of your compasses in A, How to try a Square.
+and open the other to the corner at C, then with that distance, set one foot
+in B, and turn the other to the corner at D, if both these opposite corners
+have the same distance, the Square is truly made, otherwise not.
+
+A long Square
+If you would make a long square, as the square A P S B, first, you may draw the
+line P S parallel to A B, and according to the length of the side of your
+square, then erect the perpendicular either at A or B, and draw the opposite
+side, parallel thereunto, according as the length of your square requires: and
+you may try the truth of this square, also by the opposite corners as before.
+
+PROPOSITION 4. To raise a perpendicular in the midst of a line. The fourth.
+Proposition.
+
+IN this second figure, let A B be the line given; and it is required to raise
+a perpendicular in the point C.
+
+geometrical diagram The second figure.
+First, set one foot of your compasses in the point C, and open the other to any
+distance at pleasure, and mark the given line therewith on both sides from C,
+at the points A and B, then setting one foot of your compasses in the point A,
+open the other to any distance you please beyond C, and draw a little arch
+above the line at F. Then with the same distance, set one foot in B, and with
+the other cross, the arch F with the arch D. Lastly, lay your ruler to this
+cross, and the point C, and draw the line G C, which is perpendicular to the
+line A B, in the point C as was required.
+
+PROPOSITION 5. From a point aloft, to let fall a perpendicular upon a line
+given. The fifth Proposition.
+
+LEt G be the point aloft, from whence it is required to let fall a
+perpendicular upon the line A B in the second figure.
+
+First, set one foot of your compasses in the point given, which is G, and open
+your compasses so wide that you may draw the arch A H B, which may cut the line
+A B in the points A and B, and the farther these two points are asunder so much
+the better, then keeping your compasses at this distance; set one foot in A,
+and with the other draw the arch E, then remove one foot to B, and cross the
+last arch at E, lastly, laying your ruler to the point G, and this cross at E,
+draw the line G C E, so you have performed the proposition.
+
+PROPOSITION 6. To draw a line squire wise to another line. The sixth
+Proposition.
+
+IN the second figure let A B be the line given, and it is required to draw the
+line G E squire wise to it, so that it may cross it at right angles.
+
+First, open your compasses at pleasure, and setting one foot in the line at B,
+with the other make two short arches, one above the line at D, and the other
+below the line at E. Then with the same distance, set one foot in A, and with
+the other cross the two former arches at D and E. Lastly, laying your ruler by
+these two crosses D and E, draw the line G E, which will cross the line A B at
+right angles as was required.
+
+PROPOSITION 7. To divide a line given into two equal parts. The seventh
+Proposition.
+
+IN the second figure let A B be the line given, to be divided into two equal
+parts.
+
+First, set one foot of your compasses at the one end of the line at A, and
+open the other to any distance above half the line, and therewith draw two
+little arches one above the line at F, and the other below the line at E, then
+remove your Compasses to B the other end of the line, and cross the two former
+arches at F and E, then lay your ruler to these two crosses F and E, and draw
+the line GC E, which will divide the line A B in two equal parts in the point
+C, so that A C is the one half, and C B the other.
+
+PROPOSITION 8. To raise a Perpendicular at the end of a line another way. The
+eighth Proposition.
+
+IN this figure, let the line given be A B, and it is required to raise a
+perpendicular at the end thereof at B.
+
+geometrical diagram The third Figure.
+First, divide the whole line, or a part thereof into five equal parts, of any
+quantity you please, as you see from B to A, then setting one foot in B, open
+the other to three of those parts, and with that distance keeping one foot
+still in B, with the other make a little arch at E, then open your Compasses to
+five of those parts, and setting one foot in the fourth of those parts at D,
+with the other cross the former arch at E, then lay your ruler to this cross
+at E, and the point B, and draw the line E B, which will be perpendicular to
+the line A B, as was required.
+
+Here you may note that if the three sides of a Triangle be made of these three
+numbers 3 4 5, or any other numbers that are proportionable thereunto, as 6 8
+10, 9 12 15, 12 16 20, 30 40 50, it will have one right angle, which will be
+opposite to the greatest side, as in the Triangle D B E, the side E B is 3, the
+side B D is 4, and the side D E is 5, and the angle at B is a right angle.
+
+PROPOSITION 9. To make one angle equal, or like to another. The ninth
+Proposition.
+
+AN angle is the joining or crossing of two lines: What an angle is, with the
+general kinds of angles.
+if the two lines cross one another, or join one to another perpendicularly,
+then they are said to make a right angle, or angles: if two lines meet or
+cross one another any other way, they are said to make an oblique angle or
+angles.
+
+Thus in the third figure, the lines D B and E B meeting in the point B, make a
+right angle. And in the second figure, the lines A B and G E, crossing one
+another in the point C, make four right angles, or quadrants. But in the third
+figure, the lines E D and B D, meeting in the point D, are said to make an
+oblique angle. Now these oblique angles, if they be less then a right angle,
+they are called acute or sharp angles: if they be more then a right angle,
+they are called obtuse or blunt angles.
+
+Now for example of the proposition, let the angle E D B be the appointed
+angle, and it is required to make the angle D B C like unto it.
+
+In this example, because the line D B is limited, and is common to both the
+angles, you shall need only to set one foot of your compasses in B, and open
+the other to the nearest distance of the line D E, which you may do by drawing
+the little arch which touches the line between 3 and 4: then remove your
+compasses to D, and draw the like arch at C, then lay your Ruler to the point
+B, and the very edge of this arch C, and draw the line B C, so shall the two
+angles be of one quantity or wideness, as was desired.
+
+In other cases this way will not serve, but this is sufficient for the present
+purpose, and I shall show you other ways to perform that in the next Chapter.
+
+PROPOSITION 10. To divide a line into any number of equal parts. The tenth
+Proposition
+
+IN the third figure, let the line B D be given, to be divided into four equal
+parts.
+
+First, from the end D, draw a line as D E, making an angle with the line D B
+at pleasure, then from the other end of the line B make the angle D B C equal
+to the former angle, as was showed in the last Proposition. Then from the point
+D set off with your compasses, such a number of any equal parts, as lacks one
+of the number desired, which in this example, therefore must be 3, set off
+therefore on the line D E three equal parts 1, 2, and 3; then you must with
+the same distance of your compasses set off 1, 2, and 3, from the point B, on
+the line B C, then draw cross lines from the last number in the one line, to
+the first in the other, that is from 3 to 1, from 2 to 2, etc. and these lines
+will divide the line B D into four equal parts as was desired.
+
+PROPOSITION 11. To bring any three points, not lying in a straight line, into
+a Circle. The eleventh Proposition
+
+IN this figure, let A B C be the three points given, and it is required to
+draw a circle through them all.
+
+geometrical diagram The fourth figure.
+Set one foot of your compasses in the middle point at B, and open your
+compasses to any distance you please, so it be above half the distance, between
+B, and either of the other marks (yea, it is no matter if need be, though it
+reach almost to, or quite beyond the nearest of the other marks) and draw the
+arch D E F G, then keeping your compasses at this distance, set one foot in A,
+and with the other draw the arch G F, which crosses the former arch at G and
+F, then set one foot of your compasses in the third point C, and with the other
+draw the arch E D, which crosses the first arch at E and D, then laying your
+ruler to the intersections of these arches; draw the lines G F H and D E H,
+which will cross one another in the point H, this cross at H, is the center
+of the Circle: therefore setting one foot of your compass in this cross at H,
+open the other to any of the three points A B or C, and draw the circle; which
+if you have done well, will pass through all the three points A B C as was
+required.
+
+CHAP. II. Showing how to divide a Circle several ways which will be needful
+for many things.
+THe first usual division of a Circle, is into 24 equal parts, according to
+the 24 hours of a natural day; which is thus to be performed.
+
+First, draw a line at pleasure, and cross it in the midst with another line
+at right angles, To divide a Circle into 24 equal parts.
+then in the crossing of these two lines, set one foot of your compasses, and
+open the other to what distance you please, and therewith draw the circle,
+which by the cross lines of East and West, North and South in the figure, is
+divided into 4 equal parts or quadrants, each of them containing 6 hours
+apiece: set VI and VI, XII and XII to these 4 parts as in the figure; then
+keeping your compasses at the same distance wherewith you drew the circle, set
+one foot in the crossing of the line and the circle, at VI on the one side, and
+with the other make two marks in the circle, one above and the other below, so
+shall you mark out the hours of II and X: then removing your compasses to the
+VI on the other side, mark out the hours of II and X on that side: Again,
+keeping the compasses still at the same distance, diagram of compass points set
+the one foot in the crossing of the line and circle at the upper XII, and with
+the other you shall mark out the hours of VIII and IIII in the upper half of
+the circle, then remove your compasses to the lower XII, and so mark out the
+hours of VIII and IIII, in the lower part of the circle: thus the circle will
+be divided into 12 equal parts, and every one of these will contain two hours
+apiece, and now it will be easy for you to divide each of these parts into two,
+so you will have the 24 hours; lastly, you may divide each hour into four
+equal parts which will be quarters of hours, and so you may number them, and
+draw them out as in the figure.
+
+Secondly, another usual and necessary division of a circle is to divide a
+circle into 360 equal parts. To divide a circle into 360 degrees.
+For in all question of Astronomy, and in the calculation of all triangles,
+these parts are the measure of the angles; so that every arch in this respect
+is supposed to be divided into 360 equal parts, which are called degrees, and
+each degree is supposed to be divided into 60 lesser parts called minutes. To
+divide a circle after this manner, the ready way is thus.
+
+First, draw a line at pleasure, and cross it at right angles with another
+line, and draw a circle as before, then keeping your compasses at this
+distance, divide the circle from the four quarters into 12 equal parts as
+before, then closing your compasses divide each of these 12 parts into 3, so
+you shall have in all 36 parts, then you may easily with your pen divide each
+of these parts into 10 little parts, each of which stands for a degree, and so
+you may number them as in the middle circle of the figure.
+
+A third usual division of a circle is into 32 equal parts To divide a circle
+into 32 parts.
+according to the number of the points of the compass, which may be thus
+performed.
+
+First, draw the line of East and West, and cross it at right angles with the
+line of North and South, and draw the circle as before, then keeping your
+compasses at that distance, set one foot where the line of East does cross the
+circle, and with the other draw two little arches one above at B, and the other
+below at D: then with the same distance of your compasses set one foot where
+the line of west does cross the circle, and draw two little arches like the
+former at A and C: then with the same distance of your compasses, set one foot
+where the line of North does cross the circle, and with the other, cross the
+two upper arches at A and B: then set one foot where the line of South does
+cross the circle, and with the other cross the two lower arches at C and D;
+then laying your ruler crosse-wayes to these crosses, draw the lines A D and B
+C: so the circle shall be divided into eight equal parts; then closing your
+compasses, you may easily divide each of these 8 parts into 4, (for having
+divided one of them they will all fall out alike) and so you shall have the 32
+rumbes or points of the compass, which you may subdivide if you please into
+halues and quarters, and draw the lines, and by three or four letters express
+their names as in the figure, which signify as follows.
+
+The names of the 32 points of the Compass.
+North North by West North-North-west North-west by North North-west North-west
+by West West-North-west West by North West West by South West-South-west
+South-west by West South-west South-west by South South-South-west South by
+West South South by East South-South-east South-east by South South-east
+South-east by East East-South-east East by South East East by North
+East-North-east North-east by East North-east North-east by North
+North-North-east North by East
+To make an angle of any quantity.
+Having thus divided a circle into these three sorts of parts, it will be very
+useful to you in the dividing of any other circle, quadrant, or arch, and by
+this circle you may easily draw any angle of what quantity you please.
+
+For example, let A B be a line given, and it is required to draw another line
+from the point A, so that it may make an angle of 45 degrees.
+
+First, set one foot of your compasses in the center of your divided circle,
+and open the other to the circumference of that circle which is divided in to
+degrees. Then with this distance, set one foot of your compasses in the point
+A, and with the other draw the arch BC. Then again set one foot of your
+compasses in that place of your divided circle, where the degrees begin to be
+numbered, (which is where the line of North and South does cross the circle)
+and open the other to 45 degrees of that circle; and with this distance set one
+foot in B, and with the other cross the arch B C in the point C. Then lay your
+ruler by the point A and the cross at C, and draw the line A C, so the angle
+at A made by these two lines A B and A C, will be 45 degrees, as was required.
+geometrical diagram
+
+In like manner supposing the line A B to be the Meridian or South line, and it
+is required to draw a line from the point A, Another Example.
+which shall represent the Southeast or the fourth Rumbe from the Meridian.
+
+First, set one foot of your compasses in the center of your divided circle,
+and extend the other to that circle which is divided into Rumbes; and with that
+distance draw the arch B C. Then setting one foot of your Compasses in that
+point where the South line and the circle cross each other, open the other to
+the line of Southeast, and then set off that distance from B to C in this last
+figure, then draw the line A C which will represent the Southeast as was
+desired.
+
+You may do this also by a Scale of degrees, and Rumbes, To make a Scale of
+Chords and Rumbs.
+which you may have upon a straight line on your ruler, which you may thus
+make. First, set one foot of your compasses in the center of the divided
+circle, and open the other to that circle, which parts the divisions of the
+degrees and rumbes, and set off this distance on a straight line upon your
+ruler, and mark very well with some special mark, where this distance begins
+and ends, for this is your Radius or distance, which you must always take to
+draw your first arch withal, it being the sixth part of a circle, or 60
+degrees. Then setting one foot of your compasses where the circle, which is
+divided into degrees and rumbes does cross the line of North or South, open
+the other to 10 degrees in that circle, and then transfer that distance into
+your Scale, then again, take out the distance of 20 degrees out of the circle,
+and transfer that likewise into your Scale, and so do for 30, 40, 50, 70, 80,
+90 degrees. Always setting one foot in the place where the line of North or
+South does cross the circle, and opening the other to the degree desired. And
+in like manner when you transfer these distances into your ruler, you must
+always set one foot of your compasses at the beginning of the line, and with
+the other mark the distance in the line. And thus also you may take out the
+distances of the Rumbes, and set them upon a line on your ruler, and so having
+made your Scale, you may draw out any angle by it, as well as by the circle,
+and it will be somewhat more ready.
+
+Example.
+Now if you would draw the foresaid angle of 45 degrees by this Scale, you must
+first set one foot of your compasses in the beginning of your Scale, and open
+the other to 60 degrees, which is the Radius of your Scale, and therewith draw
+the first arch B C, then setting one foot in the beginning of the Scale again,
+open the other to 45 degrees, and with that distance, setting one foot in B,
+cross the first arch at C, and then draw the line A C, as in the former
+example and figure.
+
+CHAP. III. Showing how to make a plain Chart, and many Propositions of sailing
+by it.
+THe drawing of the plain Chart, and the way of sailing thereby, is the most
+plain and easy of all others. And though it be fit to be used, only in places
+near the Equinoctial, or in short Voyages: yet it will serve, for a good
+introduction to that which follows, and this will not be lost labor, for the
+same kind of work (with some cautions) must be observed in all kinds of Sailing.
+
+The description and making of the plain Chart. The description of the plain
+Chart.
+
+First, make the square A B C D of what length, and breadth you please, and
+divide each side into as many equal parts as your occasion requires, and then
+draw straight lines through these parts crossing one another at right angles,
+and so making many little Geometrical squares, each of which you may suppose
+to contain one degree, in longitude and latitude, According to account 20
+Leagues are in one degree, and so each 10 part will be 2 leagus, but it is
+somewhat more, as you may see in the third proposition of this Chapter.
+Then on the four sides of the Chart, let each of these degrees be subdivided
+into 10 parts, so each part will contain about two leagues, which I therefore
+call double leagues. And this division of your Chart will be exact enough for
+the Seamans use, so that you need not trouble your self to divide the degrees
+into 20 parts or 20 leagues, especially because this way of account by decimals
+or tenth parts, is more easy and ready then any other. And if you keep your
+account by Arithmetic, you may suppose each of these parts to be subdided into
+10, so every degree will contain 100 parts, which will very well agree with the
+Chart, better then the old division by 60 minutes, and is far more exact and
+easy. This short description, if you remember what has been showed in the
+first and second Chapters, showing you how to draw and divide the lines, with
+the figure it self following, will I hope be very plain, so that I need not
+repeat those things before, but proceed to the uses of it.
+
+geometrical diagram The Figure of the Plain Chart.
+
+
+PROPOSITION I. Knowing the longitude and latitude of a place, to find out
+that very point upon the Chart, and so to set it upon the Chart.
+THe Longitude of places, is their distance East and West. What the longitude
+and latitude of a place is.
+The latitude of places, is their distance North and South. In the Globe, the
+longitude of places is accounted always from the West, Eastward; still
+increasing the number of degrees, until they come to 360, which is the whole
+compass of the Globe, so that you come to the first Meridian again. This
+account of the Longitude may begin at any place, but Geographers do commonly
+begin to reckon it from one of the Isles of the Azores. But it is the best way
+for the Seamen, not much to regard this, but to reckon by the difference of
+longitude, or (which is all one) by the difference of the Meridians of the two
+places. The latitude of places is reckond by their distance from the
+Equinoctial toward either of the Poles, so that it never exceeds 90 degrees. If
+the place lie between the Equinoctial and the North pole, it is said to have
+North latitude. If it lie between the Equinoctial, and the South Pole, it is
+said to have South latitude. Now though in some propositions, the Seaman
+reckons by the difference of latitude, yet in most of his accounts and
+observations he does reckon the latitude of places by their true distance from
+the Equinoctial North or South.
+
+Now for example of the Proposition. By the longitude and latitude of a place
+to find the point thereof upon the Chart.
+Suppose a place to have 5 degrees of Longitude from the first meridian
+Eastward and to have five degrees of north latitude, and it is required to
+find out the point, where this place must be set upon the Chart.
+
+To perform this you must suppose the line A B in the Chart to be the first
+Meridian, and because the place proposed is 5 degrees from it to the Eastwards,
+therefore you must count 5 degrees from the line A B both in the top and
+bottom of your Chart, and laying your ruler there, draw the line H E I, then
+because the place has 5 degrees of North latitude, you must suppose the lower
+line A D to be the Equinoctial line, and so accounting 5 degrees upward in
+both the sides of the Chart, lay your ruler there, and draw the line F E G. Now
+mark where these two lines do cross one another, which is in the point by E,
+and this is the point where you must set the place, or suppose it to be placed.
+
+PROPOSITION 2. The longitudes and latitudes of two places being known, to
+find the Rumbe, which you must steer your course upon, in sailing directly
+between them.
+SUppose the first place to be A, lying under the Equinoctial, and so having
+no degree of latitude, and likewise to be in the first Meridian, and so to have
+no degree of longitude. And let the other place be E, which has 5 degrees of
+longitude, and 5 degrees of North latitude as before is said, and it is
+required to find the Rumbe between these two places.
+
+By the longitudes and latitudes of two places, to find the Rumbe.
+First, set the places A and E upon the Chart, according to their longitudes and
+latitudes, as is showed before, then laying your ruler by the two places, draw
+the line A E: this line shows the direct way between these two places, and if
+you would know what Rumbe it is, look back to your divided circle, and setting
+one foot of your compasses in the center thereof, open the other to the circle
+of Rumbes, and keeping that distance, set one foot in the corner A, and with
+the other draw the arch K L, then setting one foot of your compasses, in the
+point where this arch does cross the line A B, which is at K, open the other
+to L, which is the place where this arch does cross the line A E, and with
+this distance return to your circle, and setting one foot of your compasses, in
+the point where the North line does cross the circle of Rumbes, turn the other
+downward to the circle, the same way as it lies here, and it will point out the
+fourth Rumbe, which is North-east, and this is the Rumbe you must sail upon,
+from A to E. In like manner if you would know the Rumbe from E to A, you must
+set one foot of your compasses in the point E, as you did before in the point
+A, and draw the arch a b, and so by your circle of Rumbs you shall find that
+the Rumbe from E to A is South-west, which is opposite to the North-east. And
+this is a general rule, look what Rumbe you sail upon from one place to
+another, the Rumbe opposed to that, will carry you back again.
+
+You might have found out the Rumbe likewise by the Scale of Rumbes, and so you
+would have found it to be the fourth Rumbe from the Meridian, which must be
+either North-east or North-west, South-east, or South-west, which of the four
+it is, you may know by the situation of the places when you are a little versed
+therein, but till then the Rumbe will be found best by the circle.
+
+PROPOSITION 3. Knowing the Longitude and Latitude of two places, to know how
+far they are distant one from the other. 3. By the longitude and latitude, to
+find the distance.
+
+LEt the two places be A and E, whose longitude and latitude is as aforesaid,
+and it is required to know how far they are asunder in some known measure,
+viz. of miles, leagues, degrees and minutes, or degrees and tenths, or hundred
+parts.
+
+It is the common practice among Seamen to reckon the distance of places by
+leagues, accounting 20 leagues to a degree, The best way to reckon the distance
+is by tenths.
+and every league to contain about three miles, and so each mile to be the 60
+part of a degree or one minute. But this way is very troublesome, and requires
+often reduction of one sort of parts to another. The decimall way of account is
+far more ready and easy, and therefore I have divided the degrees on the sides
+of the Chart only in to 10 parts which will be exact enough to this purpose,
+each of those parts will contain about two leagues, and therefore I call them
+double leagues or tenths of a degree. If you desire to be more exact when you
+use your pen you may suppose each of these to be subdivided into 10, and so
+make 100 parts in a degree, and then by adding to a cipher, or taking away the
+last figure, they will be reduced one to the other.
+
+Having thus determined the manner of the measure, the way to find the
+distance of the places is thus First, set the places upon the Chart according
+to their longitude and latitude at A and E, then setting one foot of your
+compasses in one of the places as A, open the other to E the other place, then
+measure this distance in one of the sides of your Chart, and your compasses will
+reach from the corner A to * 7 degrees, 7, 07.
+and one of the tenth parts very near, and that is the distance of the two
+places, or 71 double leagues or tenth parts, or 710 hundred parts fere.
+
+The true quantity of a degree upon the earth.
+And here by the way, give me leave to tell you, that it is not enough for you
+thus to know the distances of places in degrees and parts, but it is necessary
+also to know, the just quantity or measure of a degree. And here in the common
+rule is much out, which accounts 5 foot to a pace, and 1000 such paces, that is
+5000 feet to a mile, and 60 such miles, that is 300000 feet to a degree.
+Neither will the English mile which is somewhat more then this serve the turn,
+whose length is thus by the Statute. 16 feet and a half make a pole, 40 poles
+make a furlong, and 8 furlongs, that is 5280 feet, make a mile: and so 60 such
+miles do contain 316800 feet. See the Seamans Practice
+But Mr. Norwood, by measuring the way from York to London found that a degree
+does exactly contain 367200 English feet, and shows how this experiment agrees
+with former experiments made by others, if rightly considered: however his
+experiment is so full and punctual, that it may well pass for current, rather
+then any others which differ from it.
+
+Now by this reckoning, if one degree contain 367200 feet, then the tenth part
+of a degree does contain 36720 feet, and the hundredth part of a degree does
+contain 3672 feet. Thus you shall know the true distance of places, knowing how
+many degrees and parts they are asunder.
+
+And the knowledge hereof is very considerable in the keeping of your dead
+reckoning by the Log-line, How your log-line ought to be marked,
+which you shall do well to rectify according to this experiment thus. If you
+keep your account by an half minute glass, then at every 30 feet length of
+your line, you must make a knot: and then so many of those knots as you veer
+out in half a minute, so many 100 parts of a degree the ship runs in an hour.
+As if you veer but one knot while the half minute glass is running, then the
+ship runs but 1/100, that is one hundredth part of a degree in an hour, if you
+veer 2 knots, then the ship runs 2/100 parts of a degree, and so if you veer 10
+of those knots in half a minute, then the ship runs 20/100 or one tenth part of
+a degree in an hour. If the glass be out not just at a knot, then for every 3
+feet from the last knot you may count a tenth part of an hundredth part more.
+
+And though by this reckoning there be but 360000 feet, allowed to a degree,
+whereas there should be 367200, these 7200 feet are thought fit to be abated,
+not only in regard of the rotundity of the number, to avoid fractions but for
+these considerations. First, because though he that veers the line be never so
+careful not to over-hale it, yet the log will be drawn thereby somewhat after
+the ship. Secondly, the Eddy which the ship makes, is subject to draw the log
+somewhat after it; or at least so to dead the water, that it will somewhat
+hinder the motion of the log. Thirdly, the wind and waves beating after the
+ship will drive the log somewhat forwarder then it should be. For these causes,
+the way of the ship may very well be somewhat more then the log line shows for.
+Besides if this were not so, yet it is the best way to have your reckoning run
+somewhat before your ship, that so you may not fall upon a place before you are
+aware of it.
+
+PROPOSITION 4. Knowing the longitude and latitude of the place from whence you
+came; the Rumbe you have sailed upon; and how far you have sailed there on:
+to know the longitude and latitude of the place where you are, at that present.
+4. By the Rumbe and distance, to find the difference of longitude and latitude.
+
+LEt the place from whence you have sailed be A, whose longitude and latitude
+suppose to be as aforesaid, ^00 degrees. let the rumbe upon which you have sailed
+be Northeast, and let the distance which you have sailed upon this rumbe from
+the place A, 7, 07.
+be almost * 71 double leagues, or tenths of a degree. Now it is required, to
+know what place you are now in, that is, what longitude and latitude you are
+come to.
+
+To perform this first set down the place A according to his longitude and
+latitude, then by your circle or scale of Rumbes, draw the line A L E C which
+is Northeast from the point A, then setting one foot of your compasses in the
+beginning of your scale, which is on the sides of your chart, open the other
+almost to 71 double leagues, that is to * 7 degrees. and one tenth part almost, 7,
+07.
+and with this distance set one foot in the point A, and with the other cross
+the line A L E C in the point E. This cross at E is the place where you are
+now, and if you would know the latitude and longitude of this place, then lay
+your ruler (or rather a small thread) to the point E, so that it may cut the
+scale of degrees, on both sides the Chart at like parts, as the line F E G
+does, which you see cuts the scale at just 5 degrees on each side, which shows
+the latitude of the place E to be 5 degrees North from the Equinoctial. So
+likewise to find out the longitude of the place, lay the thread by the point E,
+and like parts of the scale of longitude, both at the top and bottom of the
+Chart, as the line H E I does, and it will show that the longitude of the place
+is just 5 degrees. So that the place where you now are which is E, has 5 degrees,
+of north latitude, and 5 degrees. of longitude.
+
+Note. How to keep your dead reckoning upon the Chart.
+This is the way whereby you may best keep your dead reckoning upon your Chart.
+For the Seaman always knows what point of his compass he sails upon, and
+also by the log-line, or by experience, he may guess very well how far his
+ship goes in an hour, and by that, for any other time, which distance being
+thus set upon the Rumbe line in the Chart, shows him still whereabouts he is.
+And it will be very good, at all times to keep this dead reckoning as carefully
+as you can, yea, though you sail near the meridian, and so have no need of it
+for the present, yet then you may the better see how your dead reckoning agrees
+with your observations, and so gain experience to keep your dead reckoning
+more truly, in such courses, and against such times, as you shall have more
+need of it. For some times it may be close weather, for 3 or 4 days together,
+and in courses that lie near the East and West, you will be forced to stick to
+your dead reckoning, having no help to rectify it by the observation of the
+latitude.
+
+PROPOSITION 5. Knowing the longitude and latitude of the place, from whence
+you set sail: together with the Rumbe you have sailed upon; and by observation
+knowing the latitude of the place you are in: to know thereby the longitude of
+this place, and how far it is distant from the place you came.
+LEt the place from whence you set sail be A, whose longitude and latitude
+suppose to be as before; let the Rumbe upon which you have sailed be
+North-east; and let the latitude of the place where you are, according to your
+observation be 5 degrees of North latitude. Now it is required to find out the
+longitude of this place, and how it is distant from the place at A. 5. By the
+Rumbe and the difference of latitude, to find the difference of the longitude
+and the distance.
+
+
+To perform this, first set down the place A in your chart, according to its
+longitude and latitude, and draw the line A L E C which is the Northeast Rumbe
+from the point A, as is before showed. Then because by your observation you
+find yourselfe to be in 5 degrees. of North-latitude, count 5 degrees on both the
+sides of your Chart, and laying your ruler thereto, draw the line F E G. Now
+mark well, where this line does cross the line of the Rumbe A L E C, which is
+in the point E: for this point is the place where you are at the time of this
+observation. Now to know the longitude of this place, lay your ruler or a thread
+by the cross at E, so that it may cut like parts of the degrees of longitude,
+both at the top and bottom of your Chart, so you shall draw the line H E I,
+which shows that the longitude of the place is 5 degrees. Lastly, to find the
+distance of this place from A, set one foot of your compasses in A, and open
+the other to E, and measure this distance in your scale, you shall find it to
+be 71 double leagues, or 7 degrees. one tenth almost.
+
+Note.
+Now this is the most certain way that the Seaman can keep his account by, and
+therefore if there be any difference between your dead reckoning and this: you
+must correct your dead reckoning by this, and not this by that. And therefore
+it concerns the Seaman to be very careful in these two things, upon which
+the ground of this Proposition depends. First, that the ship be steered exactly
+upon the Rumbe supposed, and to this end, not only the Steers man must be
+careful to keep the ship to the Rumbe of the compass, which he is appointed,
+but you must be careful to observe the variation of the compass and allow for
+it. And secondly when you make observation of the latitude, you must do it with
+true and good large Instruments, and use the best diligence you can in
+observing by them, that so you may find your latitude as exactly as you can.
+
+PROPOSITION 6. How to rectify your account, when your dead reckoning differs
+from your account by observation.
+THis Proposition has two cases, the first is when yon have kept your way
+only upon one point of the compass. 6. How to perfect your account.
+The second is when you have been forced to sail upon two or more several
+points, before you could make any observation of the latitude.
+
+Case 1. If you have sailed only upon one Rumbe.
+In the first of these cases, if you have only sailed upon one point of the
+compass: as for example, suppose you have sailed from the point I which lies
+under the Equinoctial line in 5 degrees of Longitude; upon the third Rumbe
+from the Meridian N W by N, 40 double leagues, or tenths according to your dead
+reckoning: if you set this upon the Chart according to the Rules before showed,
+according to this your dead reckoning you will find your self to be in the
+point R, which is in 2 degrees. 8/10 of longitude, and in 3 degrees. 3/10 of latitude.
+But at this time suppose by observation, you find that you are but just in 3
+degr. of North latitude. Wherefore to find the true place where you are, do
+thus.
+
+First, lay your Ruler, to 3^ degrees. of latitude on both the sides of your Chart;
+and draw the line c M d, and mark where it does cross the line of the Rumbe I
+R, which is at M, and this is the place where you must reckon your self to be
+at the time of your observation, and not at R, as you supposed by your dead
+reckoning. Now if you examine the longitude and latitude of this place M by the
+former rules, you will find that it lies in 3 degr. of longitude, and in 5 degrees.
+of north latitude, and from this place you must set off your next course, and
+distance, and not from R.
+
+But now for the second case. Case 2. When you have sailed upon diverse Rumbes.
+If it so happen, that you are forced to sail upon two or more several points
+of the compass, before you can make an observation of the latitude to correct
+your dead reckoning by. As suppose you had sailed according to your dead
+reckoning, first N W by N, 40 double leagues, which is set down from I to R,
+(though in truth you had sailed but from I to M; which is but 36 double
+leagues) and then being forced to shift your course to N E by E, and should
+sail upon this rumbe likewise according to your dead reckoning 40 double
+leagues, and at this instant time, you find by observation that you are but in
+5 degrees of north latitude: to know the true longitude of this place, you must
+do thus.
+
+First, from the point I, set the first 40 double leagues upon the Rumbe N W by
+N, which will end at R. Then from the point R draw the rumbe N E by E, which is
+the line R Q, and set thereon the 40 double leagues from R to Q: thus you will
+find Q to be the place you should be in, according to your dead reckoning
+which is in 5 d. 5/10 and somewhat 5d. 55.
+more of north latitude, whereas by your observation you find that you are but
+in 5 degrees. of north latitude: now to know the true place where you are, in
+respect of the longitude, because you have sailed upon two rumbes, draw the
+line I Q from I, the first place you set sail from, to Q, the place of your
+dead rekoning, and then drawing the line F E G at 5 degrees. of latitude according
+to your observation of the latitude; mark where it crosses this line I Q,
+which is in the point N, and this is the true place you are in, whose longitude
+is 6 degrees. and whose latitude is 5 degrees. north. In like manner, if you should
+sail upon 3 or 4 several Rumbes before you can make an observation of the
+Latitude, your best way will be to draw a line from the first place of your
+voyage to that present place according to your dead reckoning; or at least from
+the last place, where you made a fair observation, and are thereby well assured
+both of the longitude and latitude thereof: For otherwise you may be much
+mistaken in the longitude of your places.
+
+As for instance, if in the last example, you should think you were in that
+place, where the line of latitude F E G does cut the last rumbe you sailed
+upon, according to your dead reckoning, viz. the line R Q, by this account you
+would be but in O, which is but in 5 degrees. 35/100 of longitude, whereas you see
+by the other way which is the truth, you are in 6 degrees. of longitude, so that
+the difference is ^/100. which is very considerable in so small a space.
+
+PROPOSITION 7. Being to sail from one place to another, but by reason of
+cross winds, or the coastings of the land, you cannot sail thither upon the
+direct point of the compass which lies between the two places, but are forced
+to alter your course several times: yet how you should keep your account of
+your way, so that you may know at any time what longitude and latitude you are
+in, and how the place you are bound to bears from you, and how far you want to
+it. 7. The manner of keeping your reckoning upon the Chart.
+
+This Proposition contains the use and practice of all the former.
+FOr example, suppose you were to sail from the place I, in the former Chart,
+which is under the Equinoctial, and in 5 degrees of longitude; unto the place
+H, which has 5 degrees. of longitude, and 10 degrees of north latitude: here the
+direct way from I to H lies full north: But supposing that you cannot sail upon
+this point, but are forced first to run N W by N 36 double leagues, and then N
+E by E 36 doubled leagues more, the question is what is the longitude and
+latitude of this place, and how far it is distant from the place H, and upon
+what point of the compass it lies from it.
+
+First, from the point I, draw the Rumbe N W by N, and set off thereon 36 double
+leagues from I to M. Then from this point M draw the Rumbe N E by E, and set
+off thereon the 36 double leagues which you have sailed upon it, from M to N:
+thus you shall find, that N is the place wherein you are, whose longitude is
+fix degrees, and whose latitude is five degrees. Now if you lay a ruler from
+this point N, to the place you are bound, to which is H, and draw the line H N,
+this line is the direct way to the place you are bound, and by the help your
+circle or scale of Rumbes, you shall find that it lies North by West, or the
+first Rumbe from the meridian Westward. Lastly, if you set one end of your
+compasses in N, and open the other to H, and measure that distance in the sides
+of the Charts, you will find it to be about 5 degrees 1/^^ or 51 double
+leagues, and so much you want to the end of your voyage.
+
+PROPOSITION 8. How to know the distance of any Cape, Headland, or Island, from
+you, which you can see at two distant places.
+8. To know the distance of any Cape from you
+SUppose that sailing on the Sea, you epsy an Island or Cape lying at the first
+sight, just North-east from you; and then sailing forward upon your way, which
+lies full North, to the distance of 5 leagues, you then observe that the Island
+lies full East from you, the question is to know the distance of this Isle from
+either of these two places.
+
+In such questions as this, you may suppose each degree in the former Chart to
+stand now but for a league, These two following Propositions rather belong to
+the plain table then the chart.
+and let the first place where you espied the Island be at A, now because the
+Island lay North-east, from this place, draw the line A B which is N E from A.
+Then count the 5 leagues which you have sailed upon your course which was full
+north, in the meridian line from A to F, and because from this place, the
+Island did lie full East, therefore from this point F, draw the East line F E G,
+and mark where this line, does cross the former line A E of N E from A, which
+is in the point E. This therefore must needs be the place of the Island, whose
+distance if you take with your compasses, and measure in the sides of the
+Chart, you shall find that the place E is distant from A 7 leagues and almost
+1/15 part of a league; and from F just 5 leagues. A double use of this
+proposition.
+And by this means if you know the longitude and latitude of this Isle or Cape,
+you may the more certainly know the truth of your account, and if need be
+correct it. Or if you knew not the place before, you may set it down in your
+chart by its longitude and latitude which you find it to be in, according to
+the best account you can make by your observation.
+
+PROPOSITION 9. By observing upon what Rumbes many places lie from you at two
+several stations; to find the distances of those places, and their true
+posture and bearing one from another.
+9. To find out the true distance, and bearing of many places. The use of this
+Proposition.
+AS in the former Proposition you did for one place, so in this you may do for
+many. And this will be of good use, for hereby, sailing in sight of any Coast,
+you may find out how the Points and Rivers and such like lie, and so make a
+Map thereof. The way to perform which is thus. First, observe well how the
+several places lie from your first station, which suppose to be A; and let
+these three places be observed by you viz. I M and E I bears from A full East,
+M and E, North-east, therefore draw the lines A I and A M E according to the
+bearing of the places from A. Secondly, you must observe your course which you
+sail upon, until you come to the second station, which suppose to be five
+leagues full North, let this be set down according to its place at F. Thirdly,
+this being your second station, observe how the three-former places bear from
+this place, and suppose you find, that E lies full east from this place, M lies
+South-east by east, and I lies South-east, from this second station. Then draw
+these lines F E, F M, F I, from the point F, and mark well where they cross
+the former lines, which will be in the said points E M and I, and thus these
+three places E M I are set down according to their true positions and
+distances, both from the two stations A and F, and likewise one from another,
+so that if you try by the former rules, and your comasses you shall find M
+lies from I, N W b N 3 leagues and 6/10, and E lies from M, N E, 2 leagues and
+8/10. Thus you may easily describe the coast of a Country as you sail by it in
+sight of it, which will be both pleasant and profitable, especially when you
+light upon Coasts that have not been discovered.
+
+PROPOSITION 10. To draw a Rumbe line from any point assigned.
+IN this description of the plain Chart, I have purposely omitted the old
+custom, 10. To draw a Rumbe line from any point in the Chart.
+of pestering the Chart with so many Rumbe lines, to little or no purpose. For
+though they may seem to be of some use in this Proposition; yet it may better
+be performed, only by the lines of longitude and latitude with the help of the
+circle, or scale of Rumbes. For first, if your point assigned fall out in any
+of the meridian lines, then you may readily by the rules of the second chapter,
+page 13, 14. draw any rumbe line from that point. But if your point do not fall
+just upon, a meridian line, then you must, first, from the point assigned, draw
+a line parallel to any one of the meridian lines, as is showed by the second
+proposition of the first chapter, and then draw the Rumbe line from your point
+assigned in that line, as you did before. Thus you see these lines of longitude
+and latitude are of double use. For first, they readily show you the longitude
+and latitude of any place in some measure by the eye. And then they help in the
+drawing rumbe lines, from any point. Whereas to draw so many rumbes after the
+usual manner, is but a spending much time and labor to little purpose.
+
+CHAP. IIII. Showing how to make a Sea-chart for any part of the World, which
+shall agree in all particulars with the Globe; with several Propositions
+showing the manner of using it.
+The defects of the plain Chart.
+THe way of sailing by the plain chart, is very easy to understand, as you may
+see by what has been said in the former chapter: But it has this
+inconvenience, that it is fit to be used only in places near the Equinoctial,
+or in some short voyages. For it supposes the degrees of Longitude to be all
+of one length, in every Latitude, and therefore it makes the degrees both of
+longitude and latitude, all of one length and breadth in all places. But you
+must know that though the degrees of Latitude, are always of one and the same
+breadth ( viz. about twenty leagues) yet the degrees of longitude are not all
+of this length, but as you may see in the Globe, they grow less and less
+toward the Poles: so that though about the Equinoctial, a degree of longitude
+is equal to a degree of latitude, viz. about 20 leagues: yet in the latitude
+of 60 degrees. one degree of longitude is equal, but to half a degree of latitude,
+viz. about 10 leagues; and about the latitude of 75 degrees. 30, one degree of
+longitude is equal but to a quarter of a degree of latitude, which is about 5
+leagues. And therefore it is impossible to set three places upon the plain
+chart, which differ much in longitude and latitude, as they ought to be placed,
+that is according to their places on the Globe. But if you set them down,
+according to their longitudes and latitudes; then they will not stand in their
+true Rumbes and Distances one from the other: and if you strive to set them
+down according to their Rumbes and Distances; then their Longitudes and
+Latitudes will not fail out right.
+
+And therefore though you may make a shift to perform some short voyages by
+it, yet you cannot use it in any long voyage without great error: except you
+only go from one place to another, and so directly back again to the same
+place, from whence you came, and by the same course which you came. This
+example is M. Norwoods in his Problemes of sailing.
+For example, suppose you were to sail from the Lyzard, to the Summer Islands,
+and should according to the common course first sail South-west, about 500
+leagues, and then finding your self to be in the latitude of 32 degrees. 20, you
+should then sail full West 782 leagues, and then you should find your self
+directly South from the Summer Islands, and about 2 leagues off them. Now by
+this reckoning upon the plain chart, these Islands should be distant from the
+Lyzard, 1189 leagues. Now admitting this reckoning outward to be true, and
+these places to be thus situated upon the plain chart, let us suppose the
+reckoning homewards to be also kept upon the plain chart. And because in
+coming home, men keep to the Northwards, suppose that you steer away first N E
+half a point Easterly 200 leagues; then N E by E 100 leagues, next E N E half a
+point northerly 165 leagues; then E N E 130 leagues; then E N E half a point
+Easterly 88 leagues, then E by N 70 leagues; lastly, East 317 leagues; if you
+set down this reckoning upon the plain chart, you will be yet short of the
+Lyzard about 160 leagues, whereas you are already come unto the Lyzard, and so
+you will find it, if you keep your reckoning by this following Sea-chart.
+
+For the reformation hereof, Mr. Wright in his book of the Errors of
+Navigation, has showed how to make, and has also made a table, by the
+continual addition of the secants of every minute, which shows how much you
+are to lengthen the degrees of latitude in your Map, that so there may be a
+true proportion between the degrees of Longitude and Latitude in all places:
+which table Mr. Gunter has abridged, and made it more plain and easy, by
+reducing it into decimall parts. I shall here show you how to do the same by
+Geometry, and how to make a line of Latitudes, or a Meridian line answerable to
+any line of longitudes.
+
+geometrical diagram
+
+The projection of the Meridi^n Line.
+First, make the Quadrants A B C of what largnes you please, and divide the
+limb thereof into 90 degrees numbering them from B toward C, then divide the
+side of the Quadrant A B into 10 equal parts, and draw straight lines from
+them parallel to A C, then take one of these parts from A to E, and subdivide
+it into 10 lesser parts, and draw lines from them parallel unto A C. Now you
+must note that the length of this one part A C is to be your radius, or the
+measure of one degree of longitude in your Chart, so that the whole line A B
+will be 10 degrees, and because these degrees of longitude are to be of one
+length in all latitudes, therefore the degrees of latitude must increase as the
+secants of the latitudes increase. Therefore if you would know how long one
+degree of latitude must be in the latitude of 30 degrees. lay your ruler to the
+center A, and the arch of the quadrant at 30 degrees. and draw the line A G, now
+the radius being A E, this line A G is the secant of 30 degrees. to that radius,
+and must be the length of one degree of latitude in a Chart for that latitude.
+So likewise the line A H which is the secant of 45 degrees. to that radius, must be
+the length of one degree of latitude, in the latitude of 45 degrees. and so for any
+other latitude: and note that the 10 intermediate lines may serve to divide
+each of these degrees into 10 parts.
+
+If you would examine the truth of this projection how it agrees with the
+Globe; The proof of of this projection.
+whereas in the Globe one degree of latitude is equal to two degrees of
+longitude in the latitude of 60 degrees: so here A K the secant of 60 degrees. is twice
+the length of A E the measure of one degree of longitude, and whereas in the
+Globe one degree of latitude is equal to four degrees of longitude in the
+latitude of 75 degrees. 30: so here A L the secant of 75 degrees. 30 is four times the
+length of A E, and so the proportion will hold in any other latitude.
+
+If you desire to make a table hereof, To make a Table of the Meridian line.
+then you may make the whole line A B to be your radius, or the length of one
+degree, which you may divide into 100 parts, and then the secants will be the
+lines drawn from the center A to the line B D, thus then the line A I will be
+the secant of 30 degrees, whose length is 115, as you may measure in the scale
+A B if it were increased. And so the line A D is the secant of 45 degr. whose
+length is 141. Note.
+* And note here if you make the table for whole degrees only, then it will be
+the best way to draw the Secant line through the midst of the degree, as if you
+would know the length of the line which must reach from 29 degrees to 30
+degrees, draw the line through 29 degrees 30 minutes, the length whereof will be
+115, and so by the continual addition of these Secants you may make the Table
+following, which you shall find agrees very well with Master Gunters, only his
+radius is divided into 1000 parts and this but into 100.
+
+Another way to make a Meridian line.
+Also by the Quadrant, or the Table, you may make the two Meridian lines
+following. But if you make them by the Quadrant, then because the degrees would
+fall too close together if they were all drawn, under the first Radius A E, you
+may remove the Radius A E further from the center, and then draw them under it.
+As for example, the distance between the lines 8 and 9 being equal to the
+distance A E, you may there draw the first 20 degrees. Then between the lines 7
+and 8 being of the like distance, draw the next ten degrees which is to 30, and
+so do the rest as you see in the Quadrant. Then taking out these degrees one by
+one with your compasses, set them upon the Meridian line, of your Chart, or
+make a Meridian line, at your leisure, as in the following figure, which will
+be very ready upon any occasion.
+
+A Table of the Meridian line, as it is taken out of the Quadrant, as
+aforesaid, the Radius or the whole line A B being divided into 100 parts.
+The Latitude The Meridian line The Sec to be ad. D. D. P. P. 0 0 00 1 1 00 100
+2 2 00 100 3 3 00 100 4 4 00 100 5 5 00 100 6 6 01 101 7 7 02 101 8 8 03 101 9
+9 04 101 10 10 05 101 11 11 07 102 12 12 09 102 13 13 11 102 14 14 14 103 15 15
+17 103 16 16 21 104 17 17 25 104 18 18 30 105 19 19 36 106 20 20 42 106 21 21
+49 107 22 22 56 107 23 23 64 108 24 24 73 109 25 25 83 110 26 26 94 111 27 28
+06 112 28 29 19 113 29 30 32 113 30 31 47 115 30 31 47 31 32 63 116 32 33 80
+117 33 34 99 119 34 36 19 120 35 37 40 121 36 38 63 123 37 39 88 125 38 41 14
+126 39 42 42 128 40 43 71 129 41 45 02 131 42 46 36 134 43 47 72 136 44 49 10
+138 45 50 50 140 46 51 93 143 47 53 38 145 48 54 86 148 49 56 37 151 50 57 91
+154 51 59 48 157 52 61 09 161 53 62 73 164 54 64 41 168 55 66 13 172 56 67 90
+177 57 69 71 181 58 71 57 186 59 73 49 192 60 75 46 197 60 75 46 61 77 49 203
+62 79 58 209 63 81 75 217 64 83 99 224 65 86 31 232 66 88 72 241 67 91 23 251
+68 93 85 262 69 96 58 273 70 99 43 285 71 102 43 300 72 105 58 315 73 108 91
+333 74 112 43 352 75 116 17 374 76 120 16 399 77 124 45 427 78 129 07 462 79
+134 09 502 80 139 58 549 81 145 65 607 82 152 42 677 83 160 10 768 84 168 95
+885 85 179 41 1040 86 192 21 1280 87 208 70 1649 88 231 95 2325 89 271 70 3985
+90 infinite
+
+geometrical diagram The lesser Meridian Line, for general Maps.
+The long Meridian Line, for particular Maps.
+
+
+I have made here two meridian lines and that for two reasons. First, because
+in the larger line after 80 degrees of latitude, the degrees grew so large, and
+increased so much, that it would be both needless and troublesome to make any
+use of them: but the chief reason is this. Because when you are to go any long
+voyage, it will be needful for you first to make a general Map of your whole
+voyage by the lesser line, whereby you may know the course and distance thereof
+in general: and then to make three or four other charts by the greater line
+upon which, with your ruler and compasses you may set down your daily courses
+and distances more exactly.
+
+Also I have made these two lines in such proportion, that the one is the tenth
+part of the other, that so that they may both agree with the scale upon the
+Quadrant.
+
+Now the way to make one of these charts is very easy, To make a Sea Chart by
+these Meridian lines.
+and much after the manner of the plain chart. For first, you may draw the line
+of East and West A B of what length you please, and divide it into equal parts
+or degrees, then you may erect a perpendicular line either at one of the ends
+of the line or in any of the divisions toward the midst of the line, and then
+draw the other parallels of longitude parallel thereto, so far it is all one
+with the plain chart, but when you come to draw the parallels of latitude, you
+must not make them all equal, (though they must be all parallel) each to
+other; but you must either with your compasses, take them out of the Quadrant,
+or which is more easy, lay a scroule of paper to the Meridian line which is
+ready drawn to your hand, and so mark out the degrees of latitude upon the
+scroule of paper, and then laying that scroule to the sides of your chart, you
+may transfer the degrees of latitude into the sides of your chart, and
+through them draw the parallels, and set fit numbers to them, as in the figure.
+
+geometrical diagram The figure of a general Sea-Chart, containing almost an
+eighth part of the Globe. NORTH.
+
+
+Now though this be not a general chart of the whole globe, yet it may be
+called a general chart in respect of others, which will serve only for a
+lesser portion of the Globe. For this chart contains almost an eighth part of
+the Globe, and may be fitted to set forth any part thereof. For if you change
+the numbers of the longitude, if the latitude be northward, it will serve as it
+now stands: but if the latitude be Southward, you must turn the bottom
+upward. If you have occasion in one chart, to set down both North and South
+latitude: then you must draw the like parallels of latitude below the
+Equinoctial, as these are above it.
+
+Now I will show you how the several Propositions which were performed by the
+plain chart, may be performed by this, and wherein they agree, and wherein they
+differ.
+
+PROPOSITION 1. Knowing the longitude and latitude of any place, to set it upon
+the Chart. 1. By the longitude and latitede, to find the point of any place in
+the Chart.
+
+THis must be done, as in the plain chart. For first laying your ruler by the
+longitude of the place, you must draw a little occult line as near the
+latitude of the place as you can guess, then laying your ruler to the latitude
+of the place cross that line you drew before with another little line, and so
+the crossing of these two lines will show you the point where the place must be
+supposed to stand. Example.
+
+
+Thus supposing the longitude of the Summer Islands to be 300 degrees, and the
+latitude thereof 32 degrees, 25 minutes, you will find that it must be set at
+S, upon the chart.
+
+PROPOSITION 2. The longitudes and latitudes of two places being known, to
+find the rumbe which you must sail upon, to go directly from the one place to
+the other. 2. By the longitude and latitude of two places to find the Rumbe.
+Example.
+
+SUppose the one place to be the Summer Islands, whose longitude and latitude we
+will suppose to be as is before set down, let the other place be the Lyzard,
+whose latitude is about 50 degrees. and let the longitude thereof be supposed to be
+10 degr. so the difference of the longitude of the two places, will be 70 degrees.
+(as Mr. Norwood both in his book of the Doctrine of Triangles, and his Seamans
+Practice supposes them to be, though as he says in one place, he does not
+think them to be so far distant) and it is required to find the rumbe.
+
+This Proposition must also be performed as in the plain chart. For first, the
+two places must be set upon the chart, according to their longitudes and
+latitudes, which will be at S and L, then draw a strait line from S to L, this
+represents the direct way between the two places, now to know what rumbe this
+is, open your compasses to the Radius of your scale of rumbes, and setting one
+foot of your compasses in S with the other, draw the arch R M, then setting one
+foot of your compasses in R, open the other to the crossing of the line, and
+the arch at M, and measuring that distance on your scale of chords or Rumbes,
+so shall you find it to be 71 degrees. 21 min. or the sixth rumbe and somewhat
+above a quarter of a rumbe, from the Meridian.
+
+PROPOSITION 3. Knowing the longitudes and latitudes of two places to know how
+far they are distant one from another. 3. To measure the distance of places.
+
+LEt the two places be as is before said S and L, it is required to find their
+distance.
+
+In the working this Proposition, there is some difference from the plain
+chart, for whereas there you measure the distance of places by one and the same
+scale of equal parts here you will have use of many scales, according to the
+latitude of the places.
+
+Mr. Gunter's way.
+Now the ordinary way prescribed by Mr. Gunter, to perform this is thus. Open
+your compasses to the distance of the two places; and then setting your
+compasses in the Meridian line, so that the one point of the compasses may
+stand just so much above the greater latitude, as the other does below the
+lesser latitude, and so the degrees between them is the distance: this way may
+serve for small distances as Master Gunter uses it; but in greater distances
+it will not always hold true; and besides, it is somewhat troublesome to set the
+compasses just as much above the one latitude, as below the other.
+
+As in this example, if you take the distance S L in your compasses, and
+measure it so in the Meridian line, it will reach from about 16 degrees, to
+about 66 degree and an half, that is 16 degrees and an half above 50 degrees,
+the greater latitude, and 16 degrees and an half below 32 degrees, 25 minutes,
+the lesser latitude, and so the degrees intercepted between the points of the
+compasses are about 50 degrees and a half, whereas the distance of the two
+places is almost 55 degrees.
+
+But you shall find the distance more exactly, The way to measure the
+distances of places which differ in longitude and latitude.
+if you do thus. First, divide the space that is in the meridian line between
+the two latitudes into two equal parts, which in this Example will fall at 42
+degrees, then take with your compasses half the length of the line L S, which
+is L M, and setting one foot of the compasses in 42 degrees, which is the
+middle point between the two latitudes, you shall find that the other point
+will reach down to 8 degrees and a half, then keeping the one foot still fixed
+in 42 degrees, turn the other foot upward, and it will reach to 63 degrees and
+a half; now the degrees of the meridian line between these two points are 55,
+which is the distance desired, which is 550 double leagues or tenths of a
+degree, or 1100 leagues. But if this distance were to be measured in the plain
+chart, the two places being set down therein according to their longitudes and
+latitudes aforesaid, their distance would be above 72 degrees, which is 340
+leagues, more then the truth.
+
+If you would measure a parallel distance, How to measure the distance of
+places which differ only in longitude.
+as suppose the two places were L and T, both in the latitude of 50 degrees,
+and their difference of Longitude is 70, the way will be to take half the
+distance which is L Q, with your compasses, and setting one foot in 50 degrees
+of the meridian line, the other foot will reach to 22 degrees and a half
+downwards, and to 67 degrees and a half upward, and if you count the degrees
+between these two places, or else substract the lesser from the greater, you
+shall find 45 degrees. which is the distance of the two places.
+
+Another way to measure the distances of parallel places
+Yet this may more readily be performed by the Quadrant, Page 22, whereby the
+meridian line was made.
+
+First, if you would measure a parallel distance, as for example, suppose you
+would measure the distance of the two places T and L, being both in the
+latitude of 50 degrees, and their difference of longitude is 70 degrees. First,
+draw the line A P at 50 degrees in the quadrant, then take the distance of the
+two places T L with your compasses, and setting one foot in A, the center of
+the quadrant, with the other foot, cross the line A P 50 at P, which is just
+in the midst between the fourth and fifth parallel lines, which are drawn from
+the scale of the quadrant, now because the chart is of the least size,
+therefore you must account every of those greater parts, for 10 degrees, and so
+the distance will be found to be 45 degrees, as before.
+
+Now to know this exactly, these greater parts should each of them be divided
+with lines into ten parts, as the first of them is: or else you may make use of
+those lines in the first part thus. Having made the mark at P, as before; and
+seeing it does not fall just upon one of the parallel lines you may set one
+foot of your compasses on the next parallel line at R, and turning the other
+toward the center A, it will reach in the line P A to the middle line among
+the lesser diagonal lines, which shows it lacks 5 degrees of 50, and so it is
+45 degrees.
+
+But if you would measure the distance of two places which differ both in
+latitude and longitude, To measure the distance of places which differ in
+longitude and latitude.
+as the two places L and S in the chart, you must do thus First, draw the line
+AM in the quadrant, page 32, by the arch of the one latitude 32 degrees 25
+minutes, then draw the line A P 50, by the arch of the other latitude, 50
+degrees, then in any of the parallel lines, divide the space between these two
+lines A M and A P 50 into two equal parts, which if you do in the eighth
+parallel, the half or midst will be at N,, then draw the line A N, which will be
+your scale to measure this distance by. Now if you take the distance S L in the
+chart, and set it on the line A N in the quadrant, it will reach from A to S,
+that is in the midst between the fifth and sixth parallel lines, so that the
+distance is 55 degrees, for every one of these parallel lines stands for 10
+degrees when the chart is drawn by the little meridian line.
+
+PROPOSITION 4. Knowing the longitude and latitude of the place from whence you
+came, and the rumbe you have sailed upon, and how far you have sailed on that
+rumbe: to know the longitude and latitude of the place you are in. 4. By the
+rumbe and distance, to find the difference of longitude and latitude.
+
+The way of keeping your dead reckoning upon the Sea-Chart.
+THis Proposition shows the way how you must keep your dead reckoning upon your
+chart, which is good to be done always, but especially when you cannot have
+opportunity to observe the latitudes, or when your course lies near the East or
+West, so that observation of the latitude will do you little or no good, in
+keeping of your account of the way you have sailed. And that you may the more
+exactly keep this account, it will be needful to make your chart by the greater
+meridian line, and if your voyage be so long that one sheet of paper will not
+make a chart big enough, you may put it into two or three sheets, and keeping
+your daily accounts upon them, you may as often as you shall see cause,
+transfer your accounts out of these perticularr charts, into your general
+chart, and so you shall see the better how to direct your course in general.
+
+Thus supposing the voyage to be as is before mentioned between the Lyzard and
+the Summer Islands, Example.
+the chart following drawn by the greater meridian line may contain a part of
+that voyage. And though this chart being straightened for room contain but a very
+little part of the voyage, yet a sheet of paper will contain one third part of
+the whole voyage, and it would be very ready and necessary for the Seamans use,
+if such blank charts were drawn to all latitudes, which might be done to 70 or
+80 degrees in 4 or 5 sheets of paper so that by setting, fitting numbers of
+longitude to them, you might make them serve for most places in the whole World.
+
+geometrical diagram
+
+Having provided the blank chart, let the example to explain the Proposition be
+this. Having sailed from the Lizard, about the distance of 5 degrees, or 50
+tenths on the fifth Rumbe from the Meridian S W b W. I would know what longitude
+and latitude I am come into.
+
+Now to perform this, first you must set the Lizard according to its longitude
+and latitude aforesaid upon the chart at L, Latitude 50d. Longitude 10d
+then from L draw the line L M which is the rumbe you have sailed upon, then
+take five degrees which is the distance you have sailed, out of the meridian
+line; upon the side of your chart from 50 to 45, and set it from L to N, so the
+cross at N shall represent the place where you are, which you may readily see
+by the Map, to be about 47 degrees and 2/10 of latitude, and about 3 degrees
+8/10 of longitude, that is 6 degrees 2/10 of longitude, distant from the
+Meridian of L. But if you should keep your account by the plain chart you would
+reckon your self but 4 degrees, 2/10 of Longitude distant from the place L.
+
+And though this way there may be some small mistake, sometimes in over,
+sometimes in under reckoning, if you be not very careful to take your distance
+out of the meridian line, as near the latitudes as you can, yet if the distance
+be not great, and especially if the Rumbe be not far from the Meridian, your
+error will not be much. And you may the less regard it, because this being but
+your dead reckoning, you need not trust to it, but may correct it afterward,
+when you have opportunity to observe the latitude.
+
+But when your course lies near the East and West, Example of a parallel course.
+so that you are forced to trust to your dead reckoning, because you cannot
+correct it by observation of the latitude, then it will be the more needful, for
+you to be the more exact in setting off your distance, which you may do by the
+Quadrant: as for example, suppose you have sailed the distance of 5 degrees, or
+50 tenthsful West from L, and would know what longitude you are then in.
+
+First, draw the line A R O in the Quadrant page 32, by the arch of 50 degrees,
+which is the parallel latitude you have sailed in; then because you have sailed
+the distance of 5 degrees in this latitude, mark where the fifth parallel line
+in the Quadrant, crosses the line A R O, which is at R, therefore take the
+distance A R out of the Quadrant, and transfer it into the chart from L to R,
+so shall R be the true point where you are, whose longitude you may see by the
+map to be about 2 degrees 2/10 being distant from the Meridian of L 7 degrees
+8/1^, whereas by the plain chart you would think your self to be but 5 degrees
+distant.
+
+PROPOSITION 5. Knowing the longitude and latitude of the place from whence you
+set sail, together with the rumbe you have sailed upon, and by observation
+knowing the latitude of the place you are in: to know thereby the longitude of
+this place you are in, and how far you are distant from the place you came.
+5. By the Rumbe and difference of latitude to find the point where you are.
+
+THis Proposition is the same with the fifth proposition in the use of the plain
+chart, and is performed just after the same manner, but with far more truth in
+respect of the longitude or difference of meridians. For example, let the place
+from which you set sail be the Lyzard, whose longitude and latitude is before
+set down, let the Rumbe upon which you have sailed be the fifth Rumbe from the
+meridian S W by W. and lastly, by your observation, you find your self in the
+latitude of 45 degrees, the longitude and distance of this place from L is
+required.
+
+To perform this. First, having made the foregoing chart, set down the Lyzard
+according to 'its longitude and latitude at L, then draw the line L M which is
+the fifth Rumbe from the meridian, and lastly, because you find your self to
+be in the latitude of 45 degrees, lay your ruler to the parallel of 45 in your
+chart, and draw the line D M. Now the point where this line D M crosses the
+rumbe line L M, is the place which you are then in, whose longitude you see by
+the Map is 358 degrees 9/10: so that it differs from the meridian of L 11
+degrees 1/10. But if you should perform this proposition upon the plain chart,
+you would account your self to be but 7 degrees. and an half from the meridian of L.
+
+Lastly, if you measure the length of the line L M, either by the meridian line
+on the side of the chart, or rather by the Quadrant, as was showed before, you
+will find that you have sailed from L; 9 degrees, or 90 tenth.
+
+Thus you see this, which is the most useful proposition of all, being the most
+certain way by which the Seaman can keep his account, is as ready performed,
+and just in the same manner, as in the plain chart. Neither shall the Seaman
+need to trouble himself, in keeping his accounts with more curious
+calculations: for considering he cannot observe the latitude so exactly but
+that he may miss therein 5 or 6 minutes: as also that the ship cannot be
+steered, so exactly, but that it may alter from the Rumbe supposed, many
+minutes, if not some few degrees: and seeing also, it will be easy to draw the
+lines of Rumbs and Latitudes, in a chart whose meridian line shall be about
+this size, more exactly then can be observed or steered. What profit will be
+gained then by more curious calculation?
+
+PROPOSITION 6. The rectifying of your dead reckoning, by your observation. 6.
+
+THis Proposition is to be performed here, as is showed in the plain chart,
+only you must measure your distances by the meridian line, near the latitude
+you are in.
+
+PROPOSITION 7. 7.
+
+THis Proposition is but for variety, and recollection of what was said before,
+and to be performed in like manner upon this Chart.
+
+PROPOSITION 8 and 9. 8 and 9.
+
+THese two Propositions belong only to the plain chart or plain table, and is
+not so fit for this.
+
+In all these Propositions, there are these four principal things to be taken
+notice of. 1 the Longitude, 2 the Latitude, 3 the Distance, 4 the Rumbe. Any
+two of these being known; the other two may be known thereby. So that these
+Propositions might be varied many ways, as you may see in Mr. Gunters Works.
+But what I have said already, being I hope sufficient to instruct you in the
+nature and use of the Chart, and these being the most necessary, I shall not
+further enlarge upon this in this place.
+
+CHAP. V. Of sailing by a great Circle.
+The praise of this way of sailing by a great Circle
+I Now come to show how you may sail by the arch of a great Circle, which is the
+most exact way of sailing of all others, but in regard of the difficulty that
+there is in the calculation thereof, it has discouraged the Seaman from
+looking after it: but I shall show you how this may plainly and easily be
+performed by Geometry, which I hope vvil be for the general profit and ease
+of Seamen. For you must know that the distances of places found out as was
+before shevved in the use of the Sea-chart, First, it is the nearest way.
+is seldom the nearest distance betvveen any two places, but it is only
+their distance in the rumbe. So that if the two places are not both under the
+Equinoctial or both in one meridian, then there is somewhat a nearer cut
+between the two places, then the rumbe points out: which sometimes,
+especially near the Poles, is very considerable.
+
+But this is not all the benefit which comes by this way of sailing,
+Secondly, it is the most convenient way.
+but many times when your course lies near the East and West, this way is
+far more convenient. For if you should sail full East or West, you must
+altogether depend upon your dead reckoning, having no way to help your self,
+by the observation of the latitude, but now if you sail by the arch of a great
+circle, betvveen two such places, you not only go the nearer way, but also
+may alter your latitude many degrees, whereby your account may be often
+rectified, So in the example of the Summer Islands the distance by the rumbe is
+3299 miles. The distance by the arch is 3204 miles, that is 95 miles less.
+as for example, suppose you were to sail from Spain to Virginia, both which
+lie near the parallel of 40 degrees, and suppose the difference of longitude
+betvveen two such places in the parallel of 40, to be 70 degrees, the distance
+of these two places measured in the parallel of 40 (which is the rumbe that
+leads betvveen the two places being East and West) is 53 degrees 62/100, but
+their distance in the arch of a great circle is but 52 degrees, 08/100, that is
+1 degree, 54/100 less. But this as said, is but the least part of the benefit
+that comes by this way of sailing: the chiefest is this, that in sailing
+between two such places by the arch of a great circle, you will first in the one
+half of the way raise the Pole 5 degrees 69/100, and then in the other half
+depress the Pole as much, so that in your whole Voyage you will alter the
+latitude 11 degrees 38/^0, and so by the observation of the latitude you may
+rectify your dead reckoning very well, which you cannot do, sailing in the
+parallel. Thus you see this way of sailing is not only the nearest but the best
+way.
+
+Now concerning this way of sailing, there has been but little written by any,
+Few have written of this subject.
+and therefore I shall be the more large in this. Captain Saltonstall in his
+Book called the Navigator, has said somewhat how to direct a parallel course,
+but for any other course he has said nothing, and what he shows is to be
+performed by Arithmetic. Master Norwood in his Book of Trigonometry, has
+added as an appendix many Problemes of Sailing by the arch of a great circle
+whereby those; who both can, and will take the pains, may by calculation find
+out all things necessary in this way of Sailing. But those ways of calculation
+as they are very difficult to the unlearned, so they are tedious to those that
+have the best skill: and therefore I hope it will be well accepted, if I here
+show you how the same may be performed by Geometry, both plainly and speedily,
+and yet with as much exactness, as need be required.
+
+The chief things to be known.
+And in the pursuance hereof, I shall keep as close to Master Norwood, as I can,
+both in his Propositions and Examples, that thereby you may see how nearly my
+plain lines will approach to the exactness of his calculations. Now if you
+observe him, there are these three things, which must be found out in every
+Example. First, the distance of the two places in the arch of a great Circle.
+Secondly, the angle of position from the one place to the other. Thirdly, to
+find out what longitudes and latitudes the arch of the great circle does pass
+through between the two places.
+
+To find the distance of two places.
+For the first of these, knowing the longitude and latitude of two places, to
+find their distance in the arch of a great circle, which is always the nearest
+distance. I might show you how to perform this in the first place, but I here
+pass it by for these reasons. First, because Master Wright, Master Blundevile,
+and Captain Saltonstall, have all of them demonstrated it in their Books
+already. And secondly, because the chief benefit in this way of sailing does
+not so much consist in saving of a little way, as in sailing the most convenient
+way: that is, so as you may alter your latitude most, and so your reckoning may
+be the more certain. For though near the Poles, the difference of the distance
+of two places, in the arch of a great circle, and in their rumbe, may be
+considerable; yet in most Voyages it is not: as in the forenamed Example of two
+places in the parallel of 40 degrees, the difference by calculation is found to
+be but one degree 54/100, which is scarce considerable in the whole Voyage,
+being 52 degrees. Thirdly, it will be somewhat difficult, and it requires great
+curiosity in drawing of those lines prescribed by them so exactly, that you may
+come to the knowledge of the distance any thing near. Lastly, all that trouble
+is needless. For though in calculation this distance must be found out first,
+that so you may find out the rest of the Propositions following: yet in this
+way I am about to show that which follows, no way depends upon the true
+knowledge of this distance: it shall be sufficient therefore for the present, to
+tell you, that this way is always somewhat the nearest way.
+
+For the second of these Propositions, which is to know the angle of position
+from the one place to the other. The angle of position is needless in this
+operation.
+Though this must be found out in calculation before you can proceed any
+further, yet in this work it is more needless then the former proposition, and
+therefore may be very well omitted.
+
+But now for the third Proposition, To find out the longitudes and latitudes
+by which the great circle does pass.
+which is the finding out by what Longitudes and Latitudes the great circle
+must pass between the two places, this being the very end aimed at in all the
+work, may be thus attained.
+
+First, draw the following Quadrant A D B, and divide it into degrees; then
+consider of what length your Tangent line must be, and accordingly set off your
+Radius from A toward D the larger You may make your tangent larger either by
+making your Quadrant larger, or by setting your Radius further from the Center,
+Thus in the Quadrant the line D K is a larger tangent line, which though it
+reach but to 45 degrees, yet by lengthening of the line, you may set on the
+rest.
+the better, but in this Quadrant, the Radius is A R) and this Radius is always
+a tangent of 45 degrees. Then from the point R, draw the line R T parallel to
+the side of the Quadrant A B: this line R T is the Tangent line which you must
+divide into degrees, as you see in the figure by drawing straight lines from
+the Center A to the limb of the Quadrant. Then transfer this line to the
+sides of the Quadrant A B and A D, and then setting one foot of your compasses
+in the center A, open the other to the several degrees in the line A B or A D
+and draw the arches. Now you must know that these arches are the parallels of
+latitude; and the straight lines drawn from the Center, are Meridian lines, or
+the lines of longitude. The arches of latitude you must number as in the
+figure: but the lines of longitude you may number as your occasion requires.
+
+geometrical diagram This is a projection of a part of the Globe in plano by
+Natural Tangents: You may if you please, when occasion requires, divide a
+Circle into four Quadrants, and draw the lines of Longitude from the Center,
+and number them to 360, and likewise describe the Circles of Latitude round
+about the Center, and you may make this Projection as large or as little as you
+will by the Table of Natural Tangents, if you lengthen or shorten your Radius.
+
+
+A Table of Natural Tangents The Radius being 1000 parts.
+D. Ta^. D. Ta^g. D. Tang. D. Tange^t 1 017 24 445 46 1,036 69 02,605 2 035 25
+466 47 1,072 70 02,747 3 052 26 488 48 1,112 71 02, 904 4 070 27 510 49 1, 150
+72 03, 078 5 087 28 532 50 1, 192 73 03, 271 6 105 29 554 51 1,235 74 03,487 7
+123 30 577 52 1, 280 75 03,732 8 141 31 601 53 1, 327 76 04, 011 9 158 32 624
+54 1,376 77 04,331 10 176 33 649 55 1,428 78 04,705 11 194 34 675 56 1,483 79
+05,144 12 213 35 700 57 1, 540 80 05, 671 13 231 36 727 58 1,600 81 06, 313 14
+249 37 754 59 1,664 82 07,115 15 268 38 781 60 1, 732 83 08, 144 16 287 39 810
+61 1,804 84 09, 514 17 306 40 839 62 1, 881 85 11,430 18 325 41 869 63 1,963 86
+14,300 19 344 42 900 64 2, 050 87 19,081 20 364 43 933 65 2, 144 88 28, 636 21
+384 44 966 66 2, 246 89 57,290 22 404 45 1000 67 2,356 90 Infinite 23 424 Rad.
+68 2, 475
+
+Let your Radius be of what length you please, first divide it into 10 equal
+parts, and then subdivide each of those parts into 10, so you shall have 100
+parts in your line, then you may, if you can, divide each of these 100 parts
+into 10, so you shall have 1000, But this last division will be needless, for
+you may by your eye guess at the proportion ill part. Having thus fitted your
+Scale of equal parts, you may prick down the line of Tangents out of this
+Table. Note after you are past 45 degrees in the Table, the Figure before the
+Comma, shows the whole Radius, or how many times the whole Radius is contained
+therein, and the three following Figures, the parts to be reckond upon the
+Scale as before. You will find this Table necessary, either when you would
+make a large Tangent line to serve for places only near the Pole; Or when you
+would make a very little Tangent line that so you may bring in the degrees near
+the Equinoctial into your Quadrant.
+
+The flank being made will serve for many examples, so that the work will be
+very easy.
+Having thus drawn this blank Quadrant, you must set down therein the two places
+you are to sail between, according to their latitudes and longitudes, and then
+only by your ruler draw a straight line from the one place to the other, and
+this straight line will represent the great circle which passes between the
+two places, and will exactly cross those degrees of longitude and latitude,
+which you must sail by.
+
+For the example Example.
+and proof hereof, I shall take Mr. Norwoods example of a voyage from the Summer
+Islands to the Lizard, the latitude of the Summer-Ilands is 32 degrees 25
+minutes, let the longitude thereof be supposed to be ^00 degrees, the latitude
+of the Lizard is near 50 degrees, the difference of longitude betvveen the two
+places is supposed to be 70 degrees, so that the longitude of the Lizard vvil
+be 10 degrees. And it is required to know by what longitudes and latitudes the
+arch of a great circle drawn between these two places does pass.
+
+The working of the example.
+First, let the line A B represent the meridian of the Summer Islands, upon which
+you must mark out their latitude 32 degrees, 25 minutes at B, and because the
+longitude thereof is 300: set down ^00 at the end of the line A B, so the
+Summer-Ilands shall be set down according to their longitude and latitude: then
+count still forward the degrees of the difference of longitude till you come to
+70 degrees in the limb of the quadrant, and there draw the line A C 70, this
+line will represent the meridian of the Lizard, and upon this line you must
+mark out the latitude of the Lizard, which is 50 degrees at C, then lay your
+ruler to these two marks at B and C, and draw the straight line B C. This line
+B C will represent the arch of the great circle between these two places, and
+if you guide your eye along in this line, you may readily and truly perceive by
+what longitudes and latitudes you should sail, for mark well where this line
+crosses the arches of latitude, and the lines of longitude, and that shows the
+true longitudes and latitudes of the arch of the great circle, according to
+your desire. The proof.
+Now the truth hereof will more evidently appear, if you compare the latitudes
+and longitudes which this line intersecteth with this table thereof calculated
+by Mr. In the tenth Problem of sailing by the arch of a great circle.
+Norwood for every fifth degree of longitude.
+
+Longitude Latitude De. or difference of longitude. D. Degrees. m. 310 00 32 25 305
+05 35 52 300 10 38 51 315 15 41 24 320 20 43 34 325 25 45 24 330 30 46 54 335
+35 48 07 340 40 49 04 345 45 49 47 350 50 50 15 355 55 50 31 360 60 50 33 005
+65 50 23 010 70 50 00
+
+Now you may hereby see, that the line B C in the point G does cross the 305,
+or the 5 degree of longitude from B almost at the arch of 36 degrees of
+latitude, just as the table shows it should, at 35 degrees, 52 minutes of
+latitude. Again, the line B C does cross the 310 or the 10 degree of longitude
+from B in the point h, almost at the arch of 39 degrees of latitude agreeing
+with the table which shows it to be in 38 degrees 51 minutes. And so in all the
+rest it so nearly agrees, that if you take any care in making of this blank Map
+to draw the arches of latitude, and the degrees of longitude truly, you shall
+not need to use any calculation, though you are well skilled therein, for the
+thing hereby may be much more exactly known, then the course of a ship can be
+steered.
+
+For the further explaining of this, take another example, An example of two
+places in one parallel.
+which shall be of a parallel course. Suppose two places to be situate in the
+parallel of 40 degrees of North latitude, and their difference of longitude to
+be 70 degrees, the one being in 300, the other in 10 degrees of longitude, and
+it is desired to know what longitudes and latitudes the arch of a great circle
+being drawn between these two places will pass through.
+
+To perform this, first in the line A B mark out the latitude of the one place
+which is 40 degrees at E. Then in that same arch count 70 degrees of longitude,
+from E to F, and there make a mark for the other place, thus the two places
+being set down upon the blanke map according to their latitudes and longitudes,
+draw a straight line from E to F, and this will represent the great circle,
+which is to be drawn between the two places, and the intersections which it
+makes with the arches of latitude, and the lines of longitude will show the
+true longitudes and latitudes by which this great circle ought to pass.
+
+Proof of the work, by its agreement with calculation.
+Now for the proof hereof though Mr. Norwood in his Book, has not calculated
+the longitudes and latitudes of the arch of a great circle in such an example
+as this: yet his rules show how to do it, and according to them I have
+calculated this table, so that you might see the exactness of this way by its
+agreement with the table.
+
+Longitude Latitude Degrees. De. De. m. 100 parts 300 or difference of longit. 00
+40 00 these minutes are in 00 305 05 41 34 57 310 10 42 53 88 315 15 43 55 92
+320 20 44 42 70 325 25 45 15 25 330 30 45 35 58 335 35 45 41 68 335 35 45 41 68
+340 40 45 35 58 345 45 45 15 25 350 50 44 42 70 355 55 43 55 92 360 60 42 53 88
+005 65 41 34 57 010 70 40 00 00
+
+Note if you draw lines by every degree of longitude in the blanck Map, as
+there is by every degree of latitude, you may then find out the latitude of
+the great circle for every degree of longitude. But this pains will be
+needless, yet the lines may be for some use, for if your two places differ
+more in latitude then they do in longitude, then it will be your better way to
+set down by what longitudes the great circle does pass at every fourth or fifth
+degree of latitude.
+
+Now that the longitudes and latitudes of a great circle thus found out will be
+exact enough for the Seamans use, The longitudes and latitudes of the arch thus
+found out will be exact enough.
+if you be any thing careful and handsome in drawing of the lines of latitude
+and longitude true, observe what Mr. See Master Norwood in his Problemes of
+saling by a great circle. Prob. 9. latter end.
+Norwood says to this purpose, his words are these.
+
+Having spoken before the calculation hereof: but notwithstanding all that has
+hitherto been said, it may seem hard to direct a ship, and to keep such a
+rekoning as may be agreeable to this method of sailing. And indeed as it is in
+a manner impossible, so neither is it necessary that a ship should always
+persevere exactly in the arch of a great circle. It may suffice, and it is
+almost the same in effect, if a ship be so directed that she go near this
+arch. Which how to do he shows in the next problem, wherein I shall follow
+him, only whereas he directs you to find out the longitudes and latitudes of
+the arch of the great circle, by calculation, I have showed you how to save
+that labor, and yet find it out sufficiently exactly for your use.
+
+Having therefore found but the longitudes and latitudes by which the great
+circle must pass, as is before showed, How to use the longitude and latitude
+being found out.
+you must likewise provide you a blank Sea-chart, drawing it either by the
+lesser or larger Meridian line, as is before showed. Then prick down in this
+chart the latitudes through which the arch of the great circle does pass at
+every tenth degree of longitude Then if your chart be of the lesser size, you
+may with your compasses draw an arch of a circle through those pricks, and this
+arch will represent the great circle between the two places. But if your chart
+be of the larger size, and so your compasses be not large enough, to draw this
+circle; or else you are forced in regard of the length of the voyage to make
+two or three charts for it, then you may prick down the longitudes and
+latitudes of the great circle for every fifth degree of longitude, and with your
+ruler, draw little straight lines from one prick to another, and yet these
+lines will represent the great circle well enough. And thus the great circle
+being drawn upon the chart, you may easily by the former directions in the use
+of the chart, see what point you must steer upon at the beginning of your
+voyage, and afterward altering your course by half a point at a time, It is
+not good to steer upon quarter points, because they are not so visible in the
+Compass, neither is it good to alter your course too often.
+you may keep as near to the arch of the great circle, as either you need or
+can expect to do.
+
+Now because Mr. Norwood has sufficiently explained this in the example of the
+Summer-Ilands, and the Lizard, I shall pass by that example, only setting it
+down upon the chart, and refer you to his directions, and show you the like
+in a parallel course.
+
+Suppose you were to sail from the coast of Virginia to the coast of Portugal
+between two places lying in the parallel of 40 degrees north latitude, and the
+difference of longitude between them is 70 degrees, the first place being in
+These places are not set down according to their true Longitudes, it is only
+the difference of Long. which I respect.
+300 degrees of longitude, and the second place in 10 degrees of longitude, and
+you would sail by the arch of a great circle, between these two places.
+
+First, you must by your blank Map find out the longitudes and latitudes by
+which the arch of the great circle must pass, then having drawn the following
+Seachart, first prick down the first place therein at N according to its
+longitude 300 degrees, The manner of working upon the general Chart.
+and latitude 40 degrees. Then likewise prick down the second place at P,
+according to its longitude 10 degrees, and latitude 40 degrees, then at every
+tenth degree of longitude from N prick down the latitude of the great circle
+for that proper longitude thus at b, which is 10 degrees. of longitude from N, you
+must make a prick at 42 degrees, 53 minutes of latitude, and then at d, which
+is 20 degrees of longitude from N, you must make another prick in 44 degrees,
+42 minutes of latitude, and so for every tenth degree of longitude. Then draw
+the circle N a b c d e, The course you must steer upon.
+etc. to P, and this will represent the arch of the great circle between these
+two places. And hereby you may see how you must shape your course, viz. as It
+may seem to some that this Circle NO P cannot be the nearest way, but rather
+the straight line of N P, but this proceeds from this cause, because the degrees.
+of longitude grow still lesser toward the Poles, though they be made equal in
+the Chart, and therefore the degrees. of latitude are made larger to answer
+thereunto. But on the contrary, you see in the quadrant that the line E F, is
+shorter then the circle E F, and so it is plainly to be seen upon the Globe.
+follows. First, you must sail from N to a, upon the sixth rumbe from the
+Meridian which is E N E, 4 degrees, 09/100, or 41 tenths of a degree, so you
+will be in the point a, whose longitude is 305 degrees, and the latitude
+thereof is 41 degrees, 34 minutes. Then you must sail from a to c, half a point
+more Easterly, geometrical diagram 7 degrees 69/100 or 77 tenths, or double
+leagues, so you will be in the point c, whose longitude is 315 degrees, and the
+latitude thereof is 43 degrees, 48 minutes. Then you may sail from c to e, upon
+the seventh rumbe from the meridian, which is E by N the distance of 7 degrees,
+26/100, or 72 tenths of a degree, and so you will come to the point e, whose
+longitude is 325 degrees and the latitude 45 degrees 13 minutes. Then altering
+your course half a point more toward the East, you may sail from e to f, the
+distance thereof being 4 degrees 93/100, or ^ degrees, 9 tenths, and almost an
+half, so you will come to the longitude of 332 degrees, and the latitude is 45
+degrees 42 minutes. Then from f you may sail to g, full East, the distance is 2
+degrees 09/100 or 2 degrees, 1 tenth, and the longitude will be 335 degrees, and
+the latitude 45 degrees, 42 minutes, thus you vvil be come just the one half of
+your voyage. Now to perform the other half, as you raised the Pole before by
+little and little, so now in the same order you may depresse the Pole again,
+until you come to the same parallel of 40 degrees, and so finish your voyage,
+which you may more plainly see by this follovving table of the whole voyage.
+
+The several places where you alter your course. The course you steer. The
+did. or way sailed. The Longitude The Latitude Degrees. P. Degrees. m. Degrees. m. P. 1
+from N to a E N E 4 09 305 0 41 34 57 2 from a to c 7 69 315 0 43 48 80 3 from
+c to e E b N 7 26 325 0 45 13 22 4 from e to f 4 93 332 0 45 42 70 5 from f to
+g East 2 09 335 0 45 42 70 6 from g to h East 2 09 338 0 45 42 70 7 from h to i
+4 93 345 0 45 13 22 8 from i to k, E by S 7 26 355 0 43 48 80 9 from k to l 7
+69 005 0 41 34 57 10 from l to P E S E 4 09 010 0 40 0 0 The Sum 52 12
+
+You must not think to find these courses and distances which I have set down
+in this table, How to work upon a larger. Chart.
+can be so exactly found out by the former general chart, which is drawn by
+che lesser Meridian line, but if you draw two or three blank charts by the
+larger meridian line, in two or three sheets of paper, you may then find them
+out easily, and as exactly as need be. In these several charts, you may set
+down your daily courses and distances, and then when you please you may prick
+down the sum of these reckonings upon the general chart, and thereby the
+better see whereabouts you are in respect of your whole voyage. Thus you may
+easily, know the several parts, and the total sum of your voyage at any time.
+
+Or else you may keep account of such a voyage as this, and find out all your
+distances and courses upon one blank chart, A way to avoid drawing of many
+Charts.
+drawn in a sheet of paper, (or less if you please) as in the figure following.
+But I would not wish you to scant your self to so small a chart as this is,
+this being so little, only in regard of the littleness of the book, and so
+the lines are broken off, oftener then otherwise you need to do.
+
+Now in this following chart, being fitted to the latitudes you must sail
+under, first set down your first place N according to the latitude thereof,
+which is 40 degrees, then prick down the latitude of the great circle, at the
+first fifth degree of longitude, which is 41 degrees, 34 minutes at a, then
+laying your ruler from N to a, prick out the line N a, which will represent
+the arch of the circle from N to a. Then the latitude of the circle for the
+next 5 degrees, is 42 degrees. 53 minutes, or 88/100 parts, this must be set
+down at R, and then draw the pricked line from a to R, so you have the arch of
+the circle from N to R. Now if you would know what course you must steer: by
+your scale of rumbes you shall find that from N to a, the course is E N E, and
+the distance from N to a measured in the meridian line, is 4 degrees, 1/10, or
+41 tenths of degrees. And here now because the rumb line does run above the
+arch of the circle at a, I leave this course and alter my course half a point
+more toward the east.
+
+Also in regard of the shortness of the chart, I am forced to break off the
+arch of the great circle at a, and set down the latitude thereof in the first
+meridian again at a, and set down the latitude thereof in the first meridian
+again at a, drawing a line from a to a, then 5 degrees from this meridian that
+is 10 degrees, Take these Latitudes out of the Table. page 56.
+from the first place N, I set down the latitude of the great circle, which is
+42 degrees, 53 minutes or 88 parts at b, and 5 degr. from b, that is 15 degrees
+from N, I set down the latitude of the circle, which is 43 degrees, 55 minutes,
+or 92 at c, and prick out the lines a b and b c, which represent the great
+circle, then by a scale of rumbes, I set off 6 rumbes and a half, which is the
+black line a c, which almost meets with the pricked circle at c, and the
+distance from a to c, is 7 degrees 7/10, as you may find by measuring it in
+the meridian line. And note though the rumbe line and the arch of the circle,
+do not here close exactly, yet it is no matter: for I have drawn it thus to
+even 5 and 10 degrees that it might agree with what has been before said.
+
+geometrical diagram
+
+Here again because of the shortness of the chart I am forced to break off the
+circle, and the rumbe-line, and set them in the first meridian at c, then 5
+degrees. from the meridian at c that is 20 degrees. from N, I prick down the latitude
+of the arch, which is 44 degrees. 42 minutes, or 70 parts, at 20; and five degrees
+from this 20, I prick down the latitude of the arch in that longitude, which is
+45 degrees, 15 minutes, or 25 parts, at c, then I draw the pricked lines from c
+to 20, and from 20 to e, which represent the arch, and I likewise draw the
+rumble line N by E from c to e, which does very nearly concur with the arch
+at e, and the distance from c to e is 7 degrees, and almost ^/10 or as in the
+the table, 7 degrees, 26/100.
+
+Here again by reason of the shortness of the chart, I am forced to break off
+again, and setting the latitude of this point e, in the first meridian at e, 5
+degrees from this I set down the latitude of the arch of the great circle
+belonging to that longitude, which is 45 degrees, 35 minutes, or 58 parts at
+30, this meridian is 30 degrees distant from the first place at N. And then 5
+degrees from this, which is 35 degrees from the first meridian at N, I set down
+the latitude of the arch, which is 45 degrees, 41 minutes, or 68 parts at g,
+then I draw the pricked lines from e to 30, and from 30 to g; this represents
+the arch, now at the point e, I alter my course half a point more to the
+Eastward, therefore by the scale of rumbes, setting off 7 points and a half
+from the point e, I draw the line e f, which is N by E, half a point to the
+East: and having sailed upon this point from e to f, the latitude will be 45
+degrees, 42 minutes, or 70 parts, and the difference of longitude from e is 7
+degrees, and the distance from E is 4 degrees, 9/10, but the difference of
+longitude from the first place at N, is 32 degrees.
+
+Lastly, because now I am as far to the Northward as the arch of the great
+circle will allow me, I here at f alter my course half a point more, and so
+sail from f to g full East, so I have altered my longitude in all 35 degrees,
+and am come just one half of the voyage.
+
+Now to perform the other half, you must continue to do as you did before,
+first prick out the great circle, and then find out the rumbes you must sail
+upon from one point to another, which you may alter now and then half a point,
+and so you may lay the Pole in the same order and proportion that before you
+raised it, as you may see by the table before, page 61.
+
+CHAP. VI. Showing some observations which may be of use in all these three
+kinds of sailing.
+HAving showed you how to sail, either by the Rumbe that leads from one place
+to another, or else by an arch of a great circle extended between two places, I
+shall now lay down some observations, which may be useful in either of these
+ways of sailing, for sometimes it is best to use the one way, sometimes the
+other, in some voyages it is best to sail by the Rumbe, in some voyages it is
+best to sail by the arch, in some voyages it is the best way to use both, and
+to keep neither to the rumbe nor to the arch exactly.
+
+In voyages to the West Indies, though the nearest way, be by the arch of a
+great circle; and though the way by the direct Rumbe, lies very well: yet it is
+usual in these voyages to steer wide from both these nearer ways, viz first, to
+steer much more to the Southward then the course lies, until they come into the
+latitude of the place, and then to run their course West, until they arrive at
+their desired port. And this way is very good, especially when you sail unto a
+little lone Island. To get the benefit of the wind.
+For first, by sailing toward the Line, you shall gain the benefit of the
+Tradewind (as they call it) which does most constantly blow between the North
+and East, between and near the Tropicks. Secondly, hereby you may be sure not
+to overshoot the Island you would sail to, To avoid overshooting the place you
+go to
+which otherwise may easily be done. For it is an hard matter in a long
+voyage, to steer your courses so exactly, and keep your account of your way so
+perfectly, as not to miss some few leagues: and beside if this could be done,
+yet the courses and distances can not be so exactly known, because the true
+longitudes of places one in respect of another is not so exactly found out, as
+is to be wished for. And if by either of these causes, when you shall come to
+the end of your reckoning, you shall chance not to be in sight of the Island,
+you will then be at such a loss, that you will not know which way to sail to
+find it, whether Eastward, or Westward, and so must be forced to wander at
+random until you have a sight of some known place, by which you may know
+how the Island bears from you. Therefore in sailing to such a place as this;
+it is the best way to be sure to get into the latitude of the place, a good
+while before you come to it, and then sailing near that latitude, you shall be
+sure not to pass by it without a sight of it.
+
+2 To get a wind.
+In voyages from the West Indies, the usual way is first to sail much more
+northerly, then the true Rumbe does lie, and this likewise is to get the
+benefit of the wind, for as the wind lies most Easterly toward the
+Equinoctial, so it blows most westerly toward the Pole: also this way is the
+nearest way, because it lies near the arch of a great circle. But many Seamen
+not knowing so much, and especially keeping their reckoning upon the plain
+chart, this convenience might prove an inconvenience to them for they are many
+times at their journeys end 150 or 200 leagues before they are aware, and so
+might easily overshoot their port, and lose themselves, but that they sail to
+the maine land, or great Islands that they cannot pass by.
+
+3 The inconvenience of sailing in a parallel.
+Now as for these causes you sometimes stray from the rumb or arch which lies
+between the two places, so there is another consideration which may be a
+sufficient reason for a little wandering, sometimes out of the way, and that is
+the inconvenience that there is, in sailing far upon a course of East or West.
+Because you must always depend upon your dead reckoning which is subject to
+much mistake, having no way to correct it by observation. This parallel sailing
+makes the journey many times seem tedious. As a man that travails in an unknown
+way, thinks the miles and the way to be longer then indeed they are, whereas he
+that knows the road and how far it is from place to place, goes on more
+cheerfully. Therefore the labor will not be lost if you go sometimes a little
+out of your way for this consideration, that so you may have the more certainty
+of your account.
+
+Indeed the way of sailing by the arch of a great circle does very much help in
+this, How to avoid sailing in a parallel, partly.
+as I have showed at large in the former Chapter, but yet if you keep your self
+in your yoyage too strictly to the arch, you must run much of your way in a
+parallel, or very near it. As in the example of the parallel voyage in the last
+chapter, the difference of longitude between the two places being 70 degrees,
+if you keep to the arch, you must first sail E N E, til you alter your
+longitude 5 degrees, then half a point more Easterly, til you alter your
+longitude 10 degrees more, then you must sail N by E til you alter your
+longitude 10 degrees more, that is in all 25 degrees, but afterward the 7
+degrees which are set down half a point off the East, and the three degrees full
+East, is little better then a parallel course: then again this being the middle
+point of your voyage, you must sail 10 degrees more in the same proportional
+course, so that of the 70 degrees of the whole voyage you must sail 20 of them
+near the course of East and West.
+
+Now you shall see how easily this may be avoided, How to avoid sailing in a
+parallel, totally.
+and that several ways: first let the courses be continued as before til you
+come to 25 degrees difference of longitude, which is at e in the last Page 63.
+chart, then if at this point you leave the great circle a little, and keep on
+your course still upon the 7 rumbe N by E, til you come to 35 degrees of
+longitude, your latitude will be 46 degrees, 36 minutes, or 60 parts, differing
+from the latitude of the arch 55 minutes, but your distance for these 10
+degrees of longitude will be but 7 degrees 09/100, that is but 7/100, more then
+the other way, which makes but 4 miles, which makes 4 miles, which is so little
+that it is not to be regarded in respect of the distance in these 10 degrees,
+being 425 miles.
+
+Again if you begin sooner to swerve from the arch, yet the difference of your
+way will not be much, as you may see by this table which differs much from the
+other in the rumbes, latitudes, and longitudes, but yet it differs but little
+in the total sum of the distances, being but 20/100, which is but 12 miles.
+
+Difference of Longitude. The course or Rumbe. Distance or way sailed. The true
+Longitude. The Latitude. Degrees. m. Degrees. P. Degrees. Min. Degrees. Min. 10 0 E N E 08 10
+310 0 43 6 10 0 07 46 320 0 45 16 15 0 E by N 10 60 335 0 47 20 15 0 E by S 10
+60 350 0 45 16 10 0 07 46 360 0 43 6 10 0 E S E 08 10 010 0 40 0 The Sum 52
+32
+
+See the general Chart, page 58.
+Once * again if you try another way, as if you should sail from the first place
+N, in the latitude of 40 degrees, upon the 6 rumbe E N E, til you have altered
+your longitude 35 degrees, which is the half of your voyage, you will then find
+your self to be at Q, in the latitude of 50 degrees, 12 minutes, and your
+distance or way sailed, will be 26 degrees 63/100. Then if from this point you
+alter your course, and sail upon the 6 rumbe Southward, again, E S E to P, your
+distance will be as before 26 degrees 63/100, and so you will come to the
+latitude of 40 again, being the place you desire, so that your whole voyage by
+this reckoning will be but 53 degrees 26/100, which though it be somewhat more
+then the distance by the arch, which is 52 degrees, 08/100, yet it is less
+then the distance of these two places, in the parallel which is 53 degrees,
+62/100, and the loss of the way will be well recompensed, especially in sailing
+from the Indies, by the advantage of the wind, and by the certainty you may
+keep off your account, sailing always upon the sixth rumbe.
+
+By this also it appears, that the longitudes and latitudes of the arch of a
+great circle, and the courses and distances which you are to sail upon, in
+tracing thereof, may be sufficiently found out in the tracing thereof, may be
+sufficiently found out by the ways before showed, so that there needs no other
+calculation for them, since a small wandering from them, will not alter the
+length of the way in any considerable quantity.
+
+Thus also you may easily avoid sailing upon a course of East and West. Which
+way soever your voyage lies, To avoid sailing East or West at any time.
+it will be your best way to steer no nearer to the East or West, then the 7th
+rumbe from the meridian. For so you may by your observation of the latitude,
+correct your account which otherwise you cannot do, and in doing thus, you vvil
+not go much out of your way. For suppose you were to sail betvveen two
+places, under the Equinoctial line, so that the direct and nearest way between
+these two places, lies full East and West, yet you may sail between these two
+places upon the seventh Rumbe, and go not much out of your way. For example,
+let the two places be distant 10 degrees, if you first sail the one half of
+your way upon the 7 Rumbe, that is till you have altered your longitude 5
+degrees, you will raise the Pole very near one degree, viz. 994/1000, and your
+distance or way sailed will be but 5 degrees, 1/10 almost, viz. 5 degrees,
+098/1000. Then if you alter your course, and so lay the pole as much upon the 7
+Rumbe the other way; so you will come to the place desired, having run the same
+distance as before: thus in a voyage of 10 degrees, or 100 tenths or double
+leagues, you go not fully 2 tenths out of your way, which is not one in 50,
+which will be well recompensed, because in sailing thus upon the 7 Rumbe, you may
+by the observation of the latitude correct your account. For this rumbe raises
+or depresse the Pole almost one degree in sailing of five, which will serve very
+well to correct your account by, and therefore I will not persuade you to go any
+further, out of your way. And if you direct your course according to this rule,
+this is the farthest that you need go out of the way. For in all other places,
+the arch of the great circle, which is the nearest way between two places, does
+always lie somewhat between the Pole, and the parallel of East and West, and
+therefore in raising the Pole upon the 7 Rumbe, you will not go altogether so
+much out of your way, if you observe to incline your course always toward the
+Pole. Thus you see you need not sail directly East or West at any time unless
+it be when you fear you shall pass by some little lone Island, as is aforesaid.
+
+4 Make use of the Sea chart and the Map, or Globe in plano, page 52. both
+together.
+In voyages near the Pole it is best to guide your self as near the arch of the
+great circle as you can, having respect to the former considerations. And in
+these voyages your best way will be to keep your reckonings, both upon the Chart
+and upoe the Map, so the one will help the defects of the other. As for example,
+the Rumbes from one place to another, are easiest to be found out upon the
+chart, but the distances of the places, and the arch between them will be found
+out more easily by the Map. For the places being set upon it according to their
+longitudes and latitudes, will be more composed and hold better conformity to
+the Globe, being in a manner the same with it, especially within 10 or 20
+degrees from the Pole. Thus then if you are to sail upon discovery, and not to
+a certain place, your best way will be; by the rumbe which you sail upon, and by
+the latitude which you find by observation, to find out the longitude of the
+place you are in at any time by the chart, and then setting down this place,
+according to its longitude and latitude thus found out, upon the Map, you may
+more readily see its distance and position from any other place. But if you are
+to sail to a certain place, whose longitude and latitude is known, then it will
+be best, to set the place down first in the Map, and so to find out the
+longitudes and latitudes of the great circle between them, which being pricked
+down upon the chart, you may see how to steer your courses to the place
+appointed.
+
+5 To find out if there be any current.
+In all your voyages it will be a good way to keep your accounts upon two blanck
+charts, upon the one, you may keep your dead reckoning, upon the other, your
+corrected account. And the benefit hereof will be this: if you be careful to
+keep your dead reckoning outward, and homewards true, you may thereby whether
+there be any current between the two places, and which way that current sets,
+and how fast it runs. For if there be a current between the places you sail
+to, which way soever the current sets, your reckonings outward and homeward will
+not agree, and indeed you can keep no good account of your way, til you know
+which way and how fast the current runs.
+
+For example: first, suppose the current runs East 12 miles a day, and you
+sail against this current according to your account, by your Log-line (which is
+the best measure of your dead reckoning) 60 miles West in a day, your true pace
+or distance will be but 48 miles in a day, because the current will set you back
+12 miles, which subtracted from 60, there remains but 48. On the contrary, if
+you sail Eastward in this current, (and so sail with it) 60 miles a day
+according to your log-line, then your true motion will be 72 miles a day,
+because the current will set you forward 12 miles more then you seem to go.
+
+Secondly, suppose the current run East one mile an hour, if you sail in this
+current N E or S E, look how many hours you sail, so many miles the stream will
+set you more forward in your longitude, then you are aware of; and yet your
+latitude, vvil fall out according to your account. On the other side if you sail
+N W or S W in this current, the current vvil drive you backwards so many miles,
+and yet your latitude vvil be according to your account.
+
+Thirdly, if the current run upon any rumbe betvveen the meridian, and the East
+or West, then your true motion vvil differ from your dead reckoning, and also
+from your account by observation, both in longitude and latitude, so that until
+you know in some sort both which way and how fast the current runs, you can
+never keep a good account of your way and the only way to find out the
+current is to keep a good account by the log-line outvvard and homevvard, and
+by setting this down upon your blanck chart you may plainly see which way
+the current runs, and how fast, as Master Norwood has very well demonstrated
+in the end of his Sea-mans Practice.
+
+6 To alter your course as seldame as you can.
+In most voyages, it will be good to keep your course constantly, (or as much as
+you can) upon one and the same rumb, for so your account will be more easily and
+certainly kept. For at every shifting of your course, the true point that you
+are in, cannot be so certainly known, but that you may misreckon somewhat both
+in the latitude and longitude thereof. For the latitude by which you have the
+most certainty of your place, may be mistaken 5 or 10 minutes, by any
+instruments ordinarily used, and this may cause 20 or 30 minutes error in the
+longitude, and this error, at every changing of your course, may as well chance
+to be increased, as to be balanced one time with another, whereas if you steer
+your course constantly upon one rumbe, as it will avoid the trouble of drawing
+so many rumbe lines, so there can be no greater error in your account, then
+there shall happen to be in the last observation of the latitude, which cannot
+be much. But if you are forced to shift your course in regard of the wind, then
+in the correcting of your account, observe the rule in the second case of the
+sixth Proposition of the plain chart, drawing a straight line from your first
+place to the place you are then in.
+
+7 To gain sight of land when you can.
+It vvil not be amiss as often as you can, to get a sight of such Capes,
+Headlands or Islands, as lie near your course, which being standing marks, will
+give you certain knowledge, vvhereabouts you are, and so you may the better
+direct your course and perfect your account.
+
+8 To observe the variation of your Compass.
+Lastly, you must have an especial care of your compass, that it be every way
+perfectly and exactly made, and likewise you must be as careful, that you steer
+your course exactly upon that rumbe you reckon on; to which end, not only the
+Steers-man must be diligent to keep the ship to the course appointed, but you
+must be frequent in observing the variation of the compass, which may be so
+well performed by the Sea rings in use among Seamen, that no Instrument can be
+devised fitter for the purpose, this variation being known, must be allowed
+for in your account, that so you may know the true rumbe you sail upon,
+without which there can be no true account kept.
+
+CHAP VII. Of sailing by a great Circle.
+ALthough the way already proposed for the finding out of the arch of a great
+circle, Another way to find out the longitudes and latitudes of the arch of a
+great circle.
+between two places, is the most easy and plainest way that can be, yet
+because it is not so general as to take in all places, but is only to be used
+when the two places are both, on the one side of the Equinoctial: as also it
+may seem somewhat defective, because it does not show the distances of places;
+I have therefore here added this second way, partly for variety, and partly to
+supply the defects of the former. But as this way is more artificial, so it is
+more difficult, both in the demonstration, and practice, which cannot be
+avoided. But you may the better bear with it, because you will seldom be forced
+to use this way, but may very well content your self with the other in most
+voyages.
+
+This and all other questions of this nature, concerning the resolution of any
+spherical triangle, may very easily be performed by the Globe: but because the
+Globe is a chargeable Instrument, and so every one cannot have it: therefore
+several men have for several uses invented several ways to project the
+Globe upon a Plane. You may see the several projections thereof in Mr. Gunters
+book of the Sector. The fittest for this purpose will be that of Gemma Frisius,
+which is most used in Maps of the whole world, the projection whereof is, as
+follows.
+
+First, draw the circle A D B C, How to describe the Globe in plano.
+and divide it into four parts or quadrants, by the cross diameters, A B and C
+D, then divide each quadrant, into 90 degrees and number them as in the figure,
+then if you keep one end of your ruler fixed at the point A, and lay the other
+end to the several degrees in the lower Semicircle, D B C, so you shall divide
+the Diameter C D into its parts, which are half tangents. In the same manner,
+if you keep one end of your ruler fixed in the point C, and lay the other end
+to the several degrees of the Semicircle A D B, you may divide the diameter A
+B into half tangents.
+
+Having thus divided the circumference and the diameters, they must guide you
+in the drawing of the meridians and the parallels, How to draw the Meridians
+and Parallels.
+which are all parts of perfect circles, and you may find their centers by
+these three points. First, for the Meridians, they all concur in both the
+Poles A and B, and their third point is their correspondent degree in the
+diameter C D. Then for the parallels, two of their points are their degrees in
+the outward circle, and their third point is their correspondent degree in the
+diameter A B. By these three points you may find the center, and so draw the
+arch as is showed in the first chapter. But to save that labor, you must know,
+that the centers all lie in the diameter lines, which must be extended beyond
+the circle, and then the centers are thus found out. The diameter C D being
+divided into half tangents as before, if for every degree you account two,
+beginning from the center E, so you shall have the centers of the meridians.
+Then if you set one foot of your compasses in that center, and open the other
+to the Pole A or B, it will pass through the correspondent degree, or third
+point in the diameter C D: on the other side of the center, so the meridian will
+be drawn upon the one side. Then with the same distance of your compasses, you
+must draw the other answerable to that on the other side. Then keeping your
+compasses yet at the same distance, set one foot in the center E, and with the
+other, mark the diameter A B, both above and below, and these marks shall be
+the centers of the parallels. Then set one foot of your compasses in these
+centers, and close your compasses, til the other foot reach to that degree of
+latitude in the outward circle and so draw that arch from side to side And if
+you find that the arches thus drawn, do pass exactly through their three
+respective points, in the circle and diameter, your work is true, otherwise not.
+
+For example, if you would draw the meridians and parallels of 45 degrees,
+Example in the Meridians and Parallels of 45 degrees.
+first the tangent of 45 being doubled, makes geometrical diagram 90, which
+counted both ways from the center E does reach to C and D, therefore setting
+one foot of your compasses in C or D, and opening the other to the Poles at A
+or B, draw the two like arches A f B, on either side the center. Then to draw
+the parallels of 45 degrees, keep your compasses at this distance, and setting
+one foot in the center E, with the other cross the diameter A B, both above
+and below in the points G and H, these are the centers for the parallels of 45,
+therefore set one foot in the center G, and close the other, till it reach to
+45 degrees in the outmost circle, and so draw the arch 45 R 45. Then set one
+foot of your compasses in the other H, and so draw the other parallel 45 P 45.
+thus these 4 arches are drawn.
+
+And thus you may easily do for any other degree under 45, but when you come
+to the degrees above 45, then you must extend the line C D, and laying one end
+of your ruler to the point A, and the other to the degrees of the upper
+semicircle, you may divide that part of the line without the circle as you did
+before that part which was within, into half tangents, and so doubling your
+degree find out the center thereof. Or else when you draw the former meridians,
+you may remember to turn about the compasses, and mark the line C D without
+the circle; by these marks you shall divide the line into half tangents, and so
+you may find out the centers as before.
+
+How to help your self when your compasses will not reach.
+But because some of these centers, will fall so far without the circle, that
+your compasses will not reach them; you may then bridle a thin ruler, that will
+bend, with a double string like a cross bow, and then by tvvisting the string
+together, you may by little and little, set it to what bent you please, till it
+shall cut the three points of your arch you would draw, and then with your pen,
+you may dravv your arch, which if the ruler be all of one thickness, and so
+bend in all places alike, it vvil be very true. Your compasses vvil reach the
+centers very well, til you come to 60 degrees, but afterward you must be
+forced to use this or some such like way to help your self. The larger you make
+your draught, and the more meridians and parallels you draw in it, so much the
+better it is, therefore if you can, make it so large that you may draw
+meridians and parallels through every degree, which you may do very well in a
+sheet of large paper in a lesser draught, you may draw every second degree,
+which is the least I would wish you to do.
+
+Lastly, to save time and labor in drawing of these blanks for every question:
+when you have made a little trial and know how to draw them, then draw two
+good large ones of one and the same size, which you may do very well by drawing
+the same lines in both, before you stir your compasses from their distances:
+then six the one of these to the other by their centers so that they may be
+turned round, and the uppermost of these being drawn in fine thin paper, and a
+little oyled, you may easily see through it all the lines of the other. And
+thus you shall have an This will be somewhat like Mr. Blagraves Mathematical
+Jewel.
+Instrument whereby this and most other questions of spherical triangles may be
+resolved.
+
+Having thus showed the drawing of this projection, I shall now come to show you
+the use of it in several examples. The first example shall be the
+forementioned voyage from the Summer-Islands, to the Lizard, the latitude of
+the Summer-Islands being 32 degrees, 25 minutes North, The use of this
+projection in finding out the great circle.
+and the latitude of the Lizard, being 50 degrees North, and their difference
+of longitude being 70 degrees, and it is required to know first the Latitudes
+and Longitudes by which the arch of a great circle drawn between these two
+places does pass. Secondly, the angle of position from the first place to the
+second. Thirdly, the nearest distance between the two places.
+
+To perform this, first you must set down upon your draught, First example.
+the first place which is the Summer-Islands, according to the latitude thereof
+which is 32 degrees, 25 minutes in the outmost circle at S. Note well which way
+the first place bears from the second.
+And herein you must regard how the second place does bear from the first If
+the second place lie West from the first, then you must set down the first
+place on the East or right side of the circle: but if the second place lie
+Eastward from the first, as it does in this example, then you must set down the
+first place on the West Side of the circle, as it is here at S. Then from the
+point S through the center E, draw the diameter line S E K, and cross it at
+right angles with the line M E N. Then accounting 70 degrees (which is the
+difference of longitude of the two places) in the diameter C E from C to 70,
+mark that meridian arch, and thereupon mark out the latitude of the other place
+which is 50 degrees at L. Thus the two places are set down according to their
+latitudes and the difference of their longitudes at S and L. Now to help you to
+draw the arch of a great circle between these two places S and L, you have
+these three points S L and K, by which you may find the center of the arch
+which is at M, in the line N M, therefore set one foot of your compasses in M,
+and opening the other to any of the three points, draw the arch S L K. This
+arch is the great circle that passes through these two places, by which you
+shall find all the things desired.
+
+The longitudes and latitudes of the arch.
+As first, if you would know by what longitudes and latitudes this arch does
+pass (which is the thing most needful to be known) if you trace the way of
+this arch, through the meridians and parallels of the draught, you will find
+them to agree with the former table hereof for every fifth or tenth degree. For
+at 10 degrees of longitude from S, the arch passes through 39 degrees of
+latitude: at 20, through 43, and so of the rest.
+
+The angle of position.
+Secondly, if you would know the angle of position from S to L, then observe in
+what point the arch S L K does cross the line N M, which is at T, then take
+the distance N T, and measure it in the semidiameter C E from C toward E, and
+it will reach almost to 49 degrees, which shows the angle of position to be
+North-Easterly almost 49 degrees.
+
+The distance of the places.
+Thirdly, if you would know the distance of the two places, you must with your
+compasses take the distance of the two places S and L, and measuring it in that
+meridian, which agrees with the angle of position, viz. 49 degrees, you shall
+find it will reach from A to V, now if you reckon the degrees of the parallels
+of latitude from A to this point V, you shall have the distance which is 53
+degrees and a half.
+
+Likewise you may measure any part of this arch S L, in this meridian A V, if
+you always set one foot in S, and open the other to the point required, and
+then set one foot in A, and the other will show the distance of that place. Thus
+the distances will be found out as exactly as by any other Geometrical way, but
+in regard of the smalnesse of the projection, you may mistake some fevv miles
+or leagues.
+
+But if you were to sail from the Lizard to the Summer-Islands, The difference
+in sailing forward and backward by the arch.
+then you must first set down the latitude of the Lizard on the other side of
+the circle (as I noted before) and so the work vvil fall out much as it did
+before, for the longitudes and latitudes of the arch vvil be the same, only
+accounting them backvvards, the distance vvil be the same, viz. 53 degrees and
+a half, only it must be measured in another meridian, according to the angle
+of position from the Lizard, which vvil be about 81 degrees, so that in
+effect, all is the same, only the angle of position, which is of little use,
+but to find out the scale of the distances. So that if you regard it well, one
+labor vvil serve to find your way outvvard and homevvard.
+
+I might here show you how to perform the parallel question, but because such
+questions may with more ease and certainty be performed by the former way, I
+shall not spend time about it, I shall only instance in two sorts of voyages,
+which cannot be performed by the other projection, and in such cases as these
+there vvil be some need of this way, and not else. First, when one of the
+places is under the Equinoctial, and the other tovvard one of the poles. The
+other is when the one place has North latitude and the other South.
+
+Suppose you were to sail from the Island of St. Thomas, Example of 2 places in
+another manner of situation.
+which lies under the Equinoctial, and has about 35 degrees of longitude to
+the Straights of Magellan, which has about 53 degrees of South latitude, and
+differs in longitude from the former place 9^ degrees to the Westward: now it
+is required to find out the arch of the great circle between these two places,
+and the longitudes and latitudes of this arch, with the angle of position, and
+the distances of the two places.
+
+To perform this, first set down the Isle of St. Thomas, which is under the
+Equinoctial, at the one end of the Equinoctial line at D, then accounting 90
+degrees of longitude from D to E, there is the meridian of the Straights of
+Magellan, whereupon you must mark out the latitude thereof, which is 53 degrees
+at W, so you shall have these three points D W C, by which you may find the
+center, and draw the arch D W C, now this part of the circle from D to W, is
+the arch of the great circle, which lies between these two places; by which you
+may find all the other things required.
+
+As first for the longitudes and latitudes of this arch, they are found out by
+noting where it crosses the circles of longitude and latitude in the draught,
+which you shall find for every tenth degree to be as in this table.
+
+Long Latitude Degrees D. m. 10 12 58 20 24 25 30 22 34 40 40 28 50 45 31 60 48 58
+70 51 16 80 52 35 90 53 0
+
+Secondly, for the angle of The difference of longitude being just 90 degrees. the
+angle of position is ready measured in the semidiameter E B being the distance
+B W, which is 37 degrees, but at other times must follow the rule.
+position between the two places, this is showed by the arch DW crossing the
+Semidiameter E B, so that if you take the distance B W, and measure it in the
+diameter C D, it will reach from C to 37 degrees, which is the angle required,
+and the situation shows it to be South westerly.
+
+Lastly, for the distance of the two places, if you take the distance D W and
+measure it in the 37 meridian line (according to the angle of of position) it
+will reach from A to the Equinoctial line, Likewise the distance D W needs no
+other measuring, but must needs be 90 degrees.
+which shows the distance to be 90 degrees.
+
+The last example shall be of two places, the one being on the one side, and the
+other on the other side of the Equinoctial. As, suppose you were to sail from
+the Summer-Isles, to the Cape of good Hope, Example of places in another
+situation.
+the latitude of the Summer-Isles, is 32 degrees 25 North, and the latitude of
+the Cape of good Hope is 35 degrees south, and suppose the difference of
+longitude between these two places to be 90 degrees, and it is required to find
+out the arch of the great circle between these two places, according to the
+longitudes and latitudes thereof, the angle of position and the distance of the
+two places.
+
+To perform this first you must set down the first place according to the
+latitude thereof in the outmost circle at S, and draw the diameter S K, to
+which you must draw the line N M squirewise at right angles, then counting the
+difference of longitude which is 90 degrees from C, the meridian of the Cape of
+good hope will fall in the line A B, which you must mark out according to its
+latitude 35 degrees South at X, then by these three points S X K, find the
+center which will be in the line M N extended, and so draw the arch S X K.
+
+Now first for the longitudes and latitudes of this arch you may find them by
+seeing how this arch does cross the circles of longitude and latitude in the
+draught, which for every tenth degree of longitude is as follows.
+
+Long. Latitude Degrees. Degrees. m. North Latitude decreasing. 0 32 25 10 26 57 20 19
+40 30 11 18 40 02 05 50 7 19 South Latitude increasing. 60 16 7 70 23 48 80 30
+05 90 35 0
+
+Then for the angle of position, you shall find it thus, mark where the arch S
+X K, does cross the line M N, which is at Z, then with your compasses take the
+distance Z M, and measuring it in the semidiameter C E, you shall find it will
+reach from C almost to 60, viz. 59 degrees 25 min. South easterly.
+
+Lastly, for the distance of the two places, if you take the distance of the
+two places in the arch S X, and measure it in this meridian, of 60, you shall
+find it will reach from A to Y, which is 107 degrees and a half, or more
+exactly 107 degrees, 34 minutes.
+
+If you make two of these draughts, and join them together, as I noted before,
+your work will be somewhat more easy and readily performed. For then in any
+question of this nature, you need but turn the Pole of the upper paper, to the
+latitude of the first place in the under paper. Then mark out the second place
+according to its longitude and latitude, in the meridians and parallels of the
+under paper. Then mark what circle of of the upper paper, passes through these
+two places, this is the arch required. Now the longitudes and latitudes
+thereof, you may easily see by its crossing the meridians and parallels of the
+under paper. The distance of the two places, you shall know by counting the
+parallels in the upper paper between the two places. The angle of position is
+known by noting where the arch does cross the Equinoctial in the upper paper.
+
+By this likewise most questions of Astronomy may be performed, as by the place
+of the Sun, to know the Declination of the Sun, his right ascension, and
+oblique ascension, his amplitude at rising and setting, and by the height of
+the Sun to know the Azimuth and the time of the day, with many others but
+because some of these require more exactness, then any such Instrument will
+afford: and likewise they are somewhat beside my present purpose; I shall not
+now speak of them.
+
+CHAP. VIII. How to keep a perfect account.
+ALthough the ways I have already showed may be sufficient for the setting
+down of any reckoning upon your Charts: yet because it may be some trouble, if
+you often alter your rumbe, to draw a new rumbe line from every point: and
+besides the scale of the Chart being somewhat small, you will be subject to some
+mistake, in finding out the several points, and this mistake being often
+committed may come to some considerable error, I shall in this chapter show
+you, how you may increase your scale, and by a little help of your pen find
+out these points most exactly: and so you may set them down by the latitude,
+and their Easting or Westing, without drawing of the Rumbe lines, from point to
+point.
+
+First, for the increasing of your scale, which is the chief ground whereon the
+certainty of your reckoning will depend. In the figure following (which is the
+same with the plain chart before) The way to keep a perfect account is to work
+by a very large Scale.
+let each side of the square be supposed to contain but one degree of longitude
+or latitude (whereas before we supposed it to contain 10 degrees) so shall each
+degree by this means be divided into 100 very sensible parts, and be 10 times
+greater then the scale of your chart, by which means you shall keep your account
+as exactly as need be required. Then it will be necessary if you use this as an
+Instrument to draw lines through each of these 100 parts, crossing one another
+as those ten lines do; but for the better distinction, you may make every tenth
+line bigger then the rest, and every fifth line you may prick out. Then making
+the corner at A the center, draw the arch of the quadrant B P 1 2 3 4 5 6 7 D,
+which you may divide either into 90 degrees, or else into the 8 Rumbes and
+their quarters, and it will be good to number them both ways, from B and D.
+Lastly, you must provide you a thin ruler or Index which must be divided as the
+side of the Quadrat is, into 100 equal parts. You may make this Index of a
+piece of thin paper, and oil it: or it will be better, if you get a piecc of
+fine clear horn, and make a scale of equal parts thereon, equal to the sides of
+the quadrat, and so fastening it to the center A, you may turn it to any Rumbe
+in the arch, and very plainly see all the lines of the Instruments through it.
+
+The use of this Instrument might be showed in many propositions, but I shall
+only show you how to use it in two very necessary propositions, by the one of
+which you may keep your dead reckoning, by the other your true reckoning by
+observation.
+
+The proposition for your dead reckoning is this. How to keep your dead
+reckoning.
+By the rumbe and distance, to find the longitude and latitude of the place
+you are in. As for example, suppose the place from whence you set sail to be A,
+which here is under the first Meridian, and under the Equinoctial, and
+therefore has 00 degrees of longitude or latitude. Now suppose you sail from
+this place upon the first Rumbe from the Meridian N by E, to the distance of
+one degree or 100 parts; it is desired to know the latitude and longitude of
+this place. Or rather how far geometrical diagram this place will be Northerly
+from A, and likewise how far it is Easterly from A
+
+To perform this or any such like question, you must first consider which way
+your course is in general, and lay the Quadrat so that the sides A B or A D,
+How to work the proposition upon the instrument.
+the one of them may represent the Meridian; and the other the line of East or
+West as in this example, the side A B must represent the Meridian, and the side
+A D the line of East. Then lay your horn Index to the Rumbe in the arch, and
+find out the distance you have sailed, upon the scale of your Index. Now mark
+very well the point, where your distance upon the scale ends, and what lines of
+the Quadrat meet in this very point, and if by your eye, you trace these lines
+to the sides of the Quadrat, the figures there, will show you the Northing or
+Southing, Easting or Westing as the question requires.
+
+As in this example, because your course in general is North-Easterly, let the
+side A B represent the North Meridian line, so the side A D, at the bottom, or
+B C at the top, will represent the lines of easterly longitude or distance. Then
+because your course is N by E, which is the first rumbe from the North Meridian
+Eastward, lay your horn Index upon the first rumbe from the line A B, which is
+the line A P. Then count your distance which is one degree or 100 parts upon
+your Index, and mark where this number ends, which is in the point P, where
+the line A P crosses the arch B P. This is the exact point where you are.
+Now if you trace the line P B that runs through this point to the Meridian
+line, you shall there find that you are to the Northward of the place A 98
+parts of a degree divided into 100 parts, likewise if you trace the line that
+runs through this point P to the bottom or top of the Quadrat, there you shall
+find that you have altered your longitudes 19/^^^ parts and a half.
+
+Having thus found out the exact Northing and Easting H^w to set the Northing
+and Easting found out, upon the Chart.
+of this place from A, we vvil now to avoid the inserting of another figure)
+suppose this last to be a plain chart again, hahaving each side divided into ^0
+degrees as before, and if you set down this place by the first proposition of
+the plain chart, according to the latitude and longitude thus found out, viz.
+latitude 00 degrees 9^ parts, and longitude 0^ degrees 19 parts and a half,
+you shall find that its place vvil be close by the corner A, at the figure 1.
+Likewise for your better proceeding afterward, you may write down the
+longitude and latitude of this place 1, as you may see in the table following.
+
+Another example in the same voyage-
+Now suppose that you alter your course at this place 1, and sail from hence N N
+E, which is the second rumbe from the Meridian one degree, or 100 parts more.
+And it is desired to know the longitude and latitude of this second place.
+
+To know this lay the Index upon the second rumbe from the Meridian line A B,
+and count upon it your distance sailed, which is 100 parts, and observing well
+where this distance ends, which is where the line of the second rumbe does cut
+the arch B P, which is in the cross at 2: this is the point that shows you the
+difference of longitude and latitude of this place from the last. Now by the
+lines that pass through this cross, you shall see the difference of latitude
+to be 92 parts, and the difference of longitude to be 38 parts. Now if you
+would know the true longitude and latitude of this place, in respect of the
+first place A, that so you may set it down upon your chart; you must add the
+Northing and Easting of both the places together thus.
+
+From A to 1 N by E 100 parts is, North 98. East 19 From 1 to 2 N N E 100 parts
+is, N. 92. E. 38 The Sum of both is 1, 90 57
+
+So that the latitude of this second place is 1 degree 90 parts of North
+Latitude, and 0 degrees 57 parts and a half of longitude. And then setting it
+down according to the first proposition, of the plain chart, you shall find
+this place to be at the figure 2 near the corner A.
+
+And thus you shall find out the point of any place in your chart more
+certainly then other ways it is possible for you to do, and with less trouble,
+as you may see by the table following of the rest of the places, 3 4 5 6 7 in
+the chart.
+
+Note this well.
+But here you must observe that as in these places where the latitude and
+longitude does still increase, you make use of Addition, so if your course lies
+so, that the longitude and latitude both decreaseth, you must make use of
+Substraction both in longitude and latitude. And sometimes the course may lie
+so, that the longitude may increase, and the latitude may decrease, then you
+must add the one, and substract the other. your best rule to guide you in
+this, when to add and when to substract is to observe your course in general,
+which way it tends, which you may easily see by your Chart.
+
+As for example Example.
+being come to the place 7 in the chart, whose latitude is 4 degrees, 57 parts,
+and the longitude thereof is 4 degrees, 57 parts, and from this place you sail
+S by W, that is upon the first Rumbe from the Meridian to the Westward, 100
+parts, and it is desired to know what longitude and latitude you are then in.
+
+To perform this, first you may see by your course in general, which is
+South-westerly from the place 7, that both the longitude and latitude of the
+place you sail to must needs decrease, and therefore the difference of
+longitude and latitude which you shall find out by the Instrument, must be
+subtracted from the longitude and latitude of the place 7, that so you may
+have the true longitude and latitude thereof. Now having considered this; by
+your Quadrat you shall find that the course being the first rumb from the
+Meridian, and the distance being ^0 parts, the difference of latitude will be 98
+parts, and the difference of longitude 19 parts and a half: this subtracted
+from the longitude and latitude of 7, shows the longitude and latitude of the
+place 8 where you are.
+
+The place 7 has latitude 4 degrees. 57 parts. long. 4 degrees. 57 p. Subst. the
+differ of latitude 0 98 long. 0 19 Rest for the place 8 latit. 3 59 long. 4 37
+
+Thus likewise you must do to find the longitude of the other places 9 10 11
+12 13 A. A good way for young beginners to avoid mistakes.
+And it will be a great help to direct you when to add, and when to substract,
+if you join four of these Quadrats together, which you may very well do, if in a
+large sheet of paper, you draw a large circle with your compasses, and dividing
+it into four parts, make each of them like to this, and set the names of the
+points of the compass to the rumbes, as in the figure of the compass page 10.
+By this means without any trouble you shall plainly see the Easting and Westing,
+the Northing and Southing of your course.
+
+How to set down these distances in a table.
+But now for the better setting down of these distances, you must divide your
+table into four columns, for the four principal quarters, East, West, North,
+South, and set down therein according to their titles, the Easting or Westing,
+Northing or Southing of your course, which you find by the Instrument, and
+then in casting up your accounts, you must add altogether that you find under
+one column, but if you have any sums in contrary columns, as East and West,
+or North and South, you must substract the sum of the East from the sum of
+the West; and the sum of the North column from the sum of the South, so
+often as you would find the longitude and latitude of the place where you are,
+as you may see by this following table of all the voyage outward and homeward.
+
+Course. did. d pa. Nor d. pa. Sou, d. pa. East d. pa. west d pa Lat. d. pa.
+Lon d. pa The place A 0, 00 0, 00 Compa e this table and the Chart well together.
+from A to 1 N by E 1, 00 0, 98 0, 19 0, 98 0, 19 from 1 to 2 N N E 1, 80 0, 92
+0, 38 1, 90 0, 58 from 2 to 3 N E by N 1, 00 0, 83 0, 55 2, 73 1, 13 from 3 to
+4 N E 1, 00 0, 71 0, 7^ 3, 44 1, 84 from 4 to 5 N E by E 1, 00 0, 56 0, 83 4,
+00 2, 67 from 5 to 6 E N E 1, 00 0, 38 0, 92 4, 38 3, 59 from 6 to 7 E by N 1,
+00 0, 19 0, 98 4, 57 4, 57 from 7 to 8 S by W 1, 00 0, 98 0, 19 3, 59 4, 38
+from 8 to 9 S S W 1, 00 0, 92 0, 38 2, 67 4, 00 from 9 to 10 S W by S 1, 00 0,
+83 0, 55 1, 84 1, 44 from 10 to 11 S W 1, 00 0, 71 0, 71 1, 13 2, 73 from 11 to
+12 S W by W 1, 0 0, 56 0, 83 0, 57 1, 90 from 12 to 13 W S W 1, 00 0, 38 0, 92
+0, 19 0, 98 from 13 to A W by S 1, 00 0, 19 0, 98 0, 00 0, 00
+
+Thus I hope you see by this table, how that by adding or substracting, the
+Northing, Southing, Easting or Westing, to, or from the longitude and latitude
+of the place before, you may still find out the longitude and the latitude of
+the place you are in, for the keeping of your dead reckoning, as exactly as
+need be required.
+
+Now the other Proposition which is useful in the rectifying of your account,
+according to your observation is this. How to find out the true point of your
+longitude, by observation of the latitude.
+By the rumbe and the difference of latitude, to find the longitude of the
+place where you are, and the distance of this place from the other. Now the way
+of working this Proposition upon the Quadrat is thus, First, you must suppose
+one of the sides to be the meridian line, and the other to be the line of East
+or West as before, then lay your Index to the degree of the Rumbe, on which you
+have sailed, and keep it there. Then count upon the Meridian line from A, the
+difference of latitude of this place you are in (according to your observation)
+from the place you came last, and note where this number ends, and mark well
+the line that is drawn from this place, and trace it to your Index, and this
+point where this line crosses the Index, is the point where you are. Now if
+you count the parts upon your Index from A to this point, so you shall see the
+true distance you have sailed in that Rumbe. And if you trace the line that
+runs through this point to the line of longitude at the top or bottom of the
+Instrument, there you shall see the difference of your longitude, or rather how
+far Eastward or Westward it is from the former place.
+
+For example, Example.
+suppose you sailed from the place A. (whose longitude and latitude let be as
+before) N by E, that is upon the first Rumbe from the Meridian, so long, til by
+observation you found you had altered your latitude 98 parts of a degree
+divided into 10 parts: and you desire to know how far you have sailed in the
+Rumbe; and how far you are to the Eastward of the place A.
+
+First, lay your Index upon the line A P, which is the first Rumbe from the
+Meridian, and keep it there, then count the difference of the latitude, which
+is 98 parts, in the meridian line from A to B, then mark the line that is
+drawn from this part, and observe well where it crosses the Index or Rumbe
+line, which is in the point P, and this is the very point where you are. Now if
+you count the parts upon your Index from A to this point, you shall find your
+distance sailed to be 100 parts or one degree. And if you mark the line that
+runs through this point to the line of longitude, you shall there see the
+difference of longitude which is 19 parts and a half to the Eastward from A,
+thus the proposition is fully resolved.
+
+But in this proposition you must take notice, that if you sail upon several
+Rumbes before you observe the latitude, then first you must find out the Rumbe
+which lies from your first place, to the place where you are according to your
+dead reckoning (as is showed in the sixth proposition of the Plane Chart) and
+then laying your Index upon this Rumbe, work as aforesaid.
+
+How to work when the question is of more then 100 parts.
+Note that in working of either of these propositions by the Quadrat, if the
+distance or difference of latitude be more then a degree or 100 parts, then you
+may first find out what belongs to one degree, and then what belongs to the
+odd parts, and adding them together, you may find the truth as exactly, as if
+your Instrument were large enough to show both at once. But if your distance or
+difference of latitude be four or five degrres, you may then very well work the
+proposition upon your chart, without using the Quadrat, and need not fear
+error, if you be any thing careful, and work by a true scale of rumbes and
+equal parts.
+
+Hitherto I have showed you how to work these two propositions upon the plane
+chart, How to perform these two propositions in all latitudes.
+or in places near the Equinoctial: But because the degrees of latitude in the
+true Sea-chart must not be all of one and the same length, therefore neither
+can the true latitude nor longitude of places be set down by one and the same
+scale of equal parts. Therefore I shall now show you, how when you have found
+out the Northing or Southing, Easting or Westing of any place, as is before
+showed by the Quadrat, how you shall set it down in any latitude that it may
+show the true longitude thereof. For you must know, that though the Northing
+and Southing, does show the true difference of latitude in all latitudes: yet
+the Easting and Westing found out by the Quadrat, does not show the true
+difference of longitude in those places, which are any thing distant from the
+Equinoctial, I shall therefore show you how to perform these two Propositions
+in all latitudes.
+
+For example of the first Proposition. First, for the dead reckoning.
+Suppose you were at the place H, in the following figure, whose longitude is
+under the first Meridian, but it lies in 45 degres of North latitude, and
+suppose you should sail from this place N by E to the distance of 100 parts, as
+before said, and it is desired to find the latitude and longitude of this
+place.
+
+First, you must find out the Northing and Easting by the quadrat as is before
+showed. The first way to perform this by the Chart it self.
+Now the Northing of this course being 98 parts, must be added to the latitude
+of the former place 45 degrees, so the latitude you are in will be known to be
+45 degrees, 98 parts, then lay your ruler to this latitude in the sides of your
+chart, and draw a short line a 1, then consider how much the Easting of your
+place is, which in this example is 19 parts and a half, take this distance with
+your compasses out of the scale of latitude, about the middle latitude between
+these two places, and then setting one foot of your compasses in the Meridian
+of H at a, with the other cross the line a 1 at 1, and so you shall set down
+the place according to its true longitude which is 00 degrees, 28 parts from
+the Meridian of H, as you may see by the chart: and not 19 parts, and a half,
+as before it was under the Equinoctial, or by the plain chart.
+
+But if you think this scale in the sides of your chart will be somewhat to small
+to find out the difference of longitude exactly, you may have recourse to the
+Quadrant of latitudes, A second and better way, by the Quadrant of Latitudes,
+pace
+page 32, and thus help your self. Suppose the whole side of the quadrant A B
+to stand but for one degree, so you shall have in a degree 100 very sensible
+parts, and then proceed thus in your work. Consider the latitude of the two
+places, and draw your line through the middle latitude between them, or lay a
+thread or ruler to it: then count the Easting or Westing of your geometrical
+diagram place in the side A B, and where it ends observe the line that runs
+from that place, where it crosses the line of the middle latitude. Then
+setting one foot of your compasses in this cross, open the other to the center
+A, and measure this distance in the scale A B, so you shall have the true
+longitude of the place.
+
+Thus in this example, the middle latitude between the two places being 45
+degrees, 50 parts, draw the line A c D by this latitude, and then counting the
+Easting of this course, which is 19 parts and a half in the side a b, the line
+b c drawn from thence will cross the former line of the middle latitude at c,
+then setting one foot of your co^passes in this point at c, and opening the
+other to the center A, this distance A measured in the scale A B will show 28
+parts, which is the true difference of the longitude of the place 1 from the
+Meridian of H. And if thus you will make trial, you shall find out the
+longitudes and latitudes of all the other places, 2 3 4 5, etc. as they are set
+down in the table following.
+
+Course. did. d. pa. Nor d. pa. Sou, d pa East d. pa. west d pa Latit. de. pa.
+(*) d. pa. Lon. d. pa The place H 45, 00 0, 00 from H to 1 N by E 1, 00 0, 98
+0, 19 45, 98 0, 28 0, 28 from 1 to 2 N N E 1, 00 0, 92 0, 38 46, 90 0, 74 0, 82
+from 2 to 3 N E by N 1, 00 0, 83 0, 55 47, 73 0, 82 1, 64 from 3 to 4 N E 1, 00
+0, 1 0, 71 48, 44 1, 06 2, 70 from 4 to 5 N E by E 1, 00 0, 56 0, 83 49, 00 1,
+24 3, 94 from 5 to 6 E N E 1, 00 0, 38 0, 92 49, 38 1, 41 5, 35 from 6 to 7 E
+by N 1, 00 0, 19 0, 98 49, 57 1, 50 6, 85 from 7 to 8 S by W 1, 00 0, 98 0, 19
+48, 59 0, 30 6, 55 from 8 to 9 S S W 1, 00 0, 92 0, 38 47, 67 0, 57 5, 98 from
+9 to 10 SW by S 1, 00 0, 83 0, 83 47, 84 0, 82 5, 16 from 10 to 11 S W 1, 00 0,
+71 0, 71 46, 13, 102 4, 14 from 11 to 12 SW by W 1, 0 0, 56 0, 83 45, 57 1. 19
+2, 95 from 12 to 13 W S W 1, 00 0, 8 0, 92 45, 19 1, ^1 1, 64 from 13 to 14 W
+by S 1, 00 0, 19 0, 98 45 00 1, 39 0, 25 from ^ to H West. 0, 7 0, 17 45, 00 ^,
+25 0, 00
+
+This table agrees with the former in most things, the chief difference is in
+the longitude, Note the difference of this Table from the former.
+which must be thus found out. By the Easting or Westing of your course, you
+must find out the difference of longitude thereof according to the middle
+latitude, and set it in the table under the last column, but one, noted thus
+(*) and this difference added or subtracted as it ought to be in the last
+column, shows the true longitude of the place where you are. This will be your
+best way to keep your dead reckoning.
+
+How to perform the second proposition in all latitudes.
+Now for the second proposition, which is by the Rumbe, and the difference of
+latitude; to find the difference of longitude, and the distance. To perform
+this, first knowing the latitudes of the two places, draw a line in your
+Quadrant of latitude, by the middle latitude of the two places. Then count the
+difference of latitude in the scale of the quadrant of latitude, A B, and where
+the number ends, draw or observe the line drawn from it, where it crosses the
+line of the middle latitude, then taking this distance in your compasses,
+measure it in the scale A B (increased if need be) then work with this number
+upon the quadrat as is showed before page 89, as if this number were the true
+difference of latitude between the two places, so you shall find out the true
+difference of longitude in degrees and parts. And for the true distance, if you
+observe the parts of the Index of the quadrat at these points, and then measure
+them in the line of the middle latitude, the line that runs from this point to
+the scale of the quadrant, will show the true distance.
+
+For example, let the place from which you sail be H, in the latitude of 45
+degrees, let the Rumbe you sail upon be N by E and let the difference of
+latitude be 98 parts; and it is required to find the true difference of
+longitude, and the distance of this point.
+
+First in the quadrant of latitude, draw the line A Z, by the middle latitude
+of the two places; which is 45 degrees, 49 parts, then in the scale of the
+quadrant A B (counting the whole scale or Radius for one degree) reckoning the
+difference of latitude 98, and observe the parallel line that comes from this
+where it crosses the line of the middle latitude which is at Z. Then setting
+one foot of your compasses in this point Z, open the other to the center A, and
+measure this distance in the scale A B lengthened, and you shall find it to be
+140 parts: thus the true difference of latitude 98 parts is enlarged to 140
+parts, which is the proportion it ought to have in this latitude. Then working
+with this difference of latitude enlarged upon the quadrat, as was showed page
+89. and 90, first, for 100 parts, I find the difference of longitude to be 20
+parts, and the distance upon the Index is 102 parts, then likewise for the 40
+parts; I find the difference of longitude to be 8 parts, and the distance on
+the Index is almost 41 parts. These two sums added together makes the true
+difference of longitude to be 28 parts, and the distance 143 parts almost. Now,
+lastly, this distance measured in the line of the middle latitude, in the
+quadrant of latitude, will reach from A to D, and the line that runs from this
+place up to the scale A B shows the true distance sailed, which is one degree
+or 100 parts.
+
+Thus having found out by observation at any time the true latitude of the
+place where you are, if it shall differ from your latitude by dead reckoning,
+you may find exactly in what point you are in respect of the longitude as well
+as the latitude. And though some of these things may seem at the first a little
+difficult; yet if you consider well, all that has bin said before and so
+understand the first principles of the Work, you shall find, that a little
+practicing of these questions, and some such like, which you may propose to
+your self, will make all very plain and easy.
+
+FINIS.
+

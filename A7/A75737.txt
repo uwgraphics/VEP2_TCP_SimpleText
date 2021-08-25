@@ -1,0 +1,1694 @@
+Speculum Nauticum.
+
+A Looking-glass FOR SEAMEN.
+
+Wherein they may behold, how by a small Instrument, called the PLAIN SCALE,
+all Nautical Questions, and Astronomical Propositions, are very easily and
+demonstratively performed.
+
+First set forth by John Aspley, Student in Physic, and Practitioner of the
+Mathematics in London.
+
+The Sixth Edition.
+
+Whereunto are added, many new Propositions in Navigation and Astronomy, and
+also a third Book, showing a new way of Dialling.
+
+By H. P. and W. L.
+
+LONDON, Printed by W. Leybourn, for George Hurlock, and are to be sold at his
+Shop at Magnus Church-Corner, in Thames Street, near London Bridge, 1662.
+
+TO THE WORSHIPFVLL, THE MASTER, WARDENS, and ASSISTANTS OF THE TRINITY HOUSE;
+JOHN ASPLEY, IN TESTIMONY OF THE HONOR HE BEARS TO THE GOVERNORS and
+PRACTISERS OF THE ART OF NAVIGATION, DEDICATES THESE HIS FIRST LABORS.
+
+The Printer to the Reader.
+THis little book having been well accepted of among Seamen, being the first
+fruits of Mr. Aspley's Mathematical Studies, has passed five Impressions,
+without any alteration; and so I doubt not might have done still: But because
+since that time there have been several books put out of this nature, I have
+procured this to be revised, and several alterations and additions to be made
+therein, So that here you have both the old, and a new book intermingled all
+in one, with a third part added thereto, concerning Dialling* by a way not
+formerly published by any. All which I doubt not you will kindly accept of, and
+receive much delight and profit thereby.
+
+Your. G. H.
+
+ERRATA.
+PAge 34 line 26 read 360. Page. 45. l. 8. r. Distance I M. Page 50. line 13.
+for 14 etc. (...) which is just the length of the Gnomon. Page. 50 line. 28.
+for increase, read decrease, Page 52 line 4. r. H A I. line 18. r. point O.
+Page 57 line 11 r. point L.
+
+Also for some lite^all faults we shall desire your Pardon*
+
+Speculum Nauticum, OR THE SEA-MANS GLASS.
+The First Book.
+CHAP. I.
+The Explanation of certain Terms of Geometry.
+BEing intended in this Treatise of the plain Scale, to declare the manner of
+projection of the Sphere, in plano, I have thought fitting first, to show unto
+you some terms of Geometry which are necessary for the unlearned to know, (for
+whose sake chiefly I write this Treatise) before they enter into the definition
+of the Sphere. First therefore I intend to relate unto you, what a point or
+prick is, and afterward a Line both right and crooked, and such sorts thereof
+as are appertinent unto the operations and use of this Scale.
+
+Punctum, or a point, is the beginning of things, or a prick supposed
+indivisible, void of length, breadth, and depth: as in the Figure following is
+noted by the point, or prick A.
+
+Linea, or a Line, is a supposed length, or a thing extending it self in
+length, not having breadth nor thickness, as is set forth unto you by the Line
+BAD.
+
+
+
+Parallela, or a Parallel Line, is a line drawn by the side of another line, in
+such sort that they may be equidistant in all places. And of such parallels,
+two only belong unto this work of the plain Scale, that is to say, the right
+lined Parallel, and the circular Parallel.
+
+Right lined Parallels are two right lines equidistant one from another, which
+being drawn forth infinitely, would never touch or meet one another, as you may
+see in the Figure, where the line H I is Parallel unto the line CE, and the
+line GF is Parallel unto them both.
+
+A circular Parallel is a circle drawn either within or without another circle
+upon the same center, as you may plainly see by the two circles BCDE, and XVYW.
+These circles are both drawn upon the center A, and therefore are parallel the
+one unto the other. There is another kind of Parallel also, which is called a
+Serpentine Parallel, but because it is not belonging unto the use of this
+Scale, I will omit it, and so proceed unto the rest.
+
+Perpendiculum, or a Perpendicular is a line raised from, or let fall upon,
+another line, making equal Angles on both sides, as you may see declared in the
+figure, where in the line AC is perpendicular unto the line BAD, making equal
+^ngles in the point A.
+
+Diameter circuli, or the Diameter of a Circle, is a right line drawn through
+the center of any circle, in such sort that it may divide the circle into two
+equal parts, as you may see the line BAD is the Diameter of the circle BCDE,
+because it passes through the center A, and the two ends thereof do divide the
+circle into two equal parts, in the two extremes B and D, making the semicircle
+BCD equal unto the semicircle DEB.
+
+Semidiameter circuli, or the semidiameter of a circle is half of the Diameter,
+and is contained betwixt the center, and the one side of the circle, as the
+line AD is the Semidiameter of the circle BCDE. This Semidiameter contains 60
+degrees of the line of Chords, which we sometimes call the Radius.
+
+Semicirculus, or a Semicircle, is the one half of a circle, drawn upon his
+Diameter, and is contained upon the Superficies, or Surface, of the Diameter,
+as the Semicircle BCD which is half of the circle BCDE, and is contained above
+the Diameter BAD.
+
+Quadrans circuli, is the fourth part of a circle, and is contained betwixt the
+Semidiameter of the circle, and a line drawn Perpendicular, unto the Diameter
+of the same circle, from the Center thereof, dividing the Semicircle into two
+equal parts, of the which parts, the one is the Quadrant, or fourth part of the
+same circle. As for example, the Diameter of the circle BCDE is the line BAD,
+dividing the circle into two equal parts: then from the center A raise the
+Perpendicular AC, dividing the Semicircle likewise into two equal parts; so is
+ABC, or ACD, the Quadrant of the circle BCDE, which was desired.
+
+CHAP. II.
+The manner how to raise a Perpendicular from the middle of a line given.
+(...) first a ground line whereupon you would have a Perpendicular raised,
+then open your Compasses unto any distance (so it exceed not the end of your
+line,) placing one foot of the said Compasses in the point from whence the
+Perpendicular is ^o be raised, and with the other foot make a mark in the line
+on (...) removing your Compasses unto any other distance that (...) set one
+foot thereof in one of the marks, and with the (...) foot make an Arch over the
+middle point, then with the same distance of your Compasses set one foot in the
+other mark upon the line, and with the other foot make another Arch of a Circle
+over the middle Point, so that it may cross the first Arch, and from the
+meeting of these two Arches, draw a right line unto the middle Point, from
+which the Perpendicular was to be raised, which line shall be the Perpendicular
+desired.
+
+
+
+Example, suppose your Base or ground line whereupon a Perpendicular is to be
+raised be the line FLK, and from L the Perpendicular is to be raised, set one
+foot of your Compasses in the Point L, and with the other, make the marks G and
+M on both sides of the point L, the^ opening your Compasses wider, set one foot
+in the point M, and with the other draw the Arch S over the point L, then with
+the same distance of your Compasses, set one foot in G, and with the other make
+the Arch R, crossing the Arch S in the point T, then from T draw the line TL,
+which line is perpendicular unto the line FLK from the point L, which is the
+perpendicular desired.
+
+CHAP. III.
+To let a Perpendicular fall from any Point assigned, unto the middle of a line.
+LET the line whereupon you would have a Perpendicular let fall be the line
+LFK, and the point assigned to be the point T, from whence you would have a
+Perpendicular let fall upon the line FLK, first set one foot of your Compasses
+in T, and open your Compasses unto any distance so that it be more than the
+distance TL, which here we suppose to be the distance TM; then make in the line
+FLK the marks G and M, then with your Compasses take the one half of GM, which
+is the point L, then from L draw a line unto the point T, so the line TL shall
+be the Perpendicular, which was desired to be let fall from the assigned point
+T unto the middle of the line FLK.
+
+CHAP. IV.
+To raise a Perpendicular upon the end of a Line.
+SUppose the line whereupon you would have a Perpendicular raised, be the line
+FLK, and from the point F a Perpendicular is to be raised: first open your
+Compasses unto any distance, which here we put to be the distance FG, and set
+one foot of your Compasses in the point F, and with the other draw the Arch
+DEGREES, then set one foot of your Compasses in the point G, and with the other
+draw the Arch E; then placing one point of your Compasses in E, with the other
+draw the Arch DB; then place your Compasses in D, and with the same distance
+draw the Arch A, cutting the Arch DB in C, then draw a line from C unto the end
+of the line FLK, unto the assigned point F, so shall the line CF be a
+Perpendicular raised from the end of the line FLK, and from the assigned point
+F.
+
+CHAP. V.
+To let a Perpendicular fall from any point assigned unto the end of a Line.
+LET the line FLK be the Base or ground line, and from the point I a
+Perpendicular is to be let fall upon the end of the line at K, first from the
+assigned point I, draw a line unto any part of the Base, which shall be the
+line IHM, then find the middle of the line IM, which is at H; place therefore
+one foot of your Compasses in the point H, and extend the other unto I, with
+which distance draw the Arch INK upon the Center H, cutting the Base or
+ground-line in the point K, then draw the line KI, which line shall be the
+Perpendicular desired.
+
+CHAP. VI.
+A right Line being given, how to draw another parallel there unto at any
+distance required.
+LEt the line given be AB, unto which it is required to draw another right line
+CD which shall be parallel to the former line AB, and at the distance AC.
+
+First open your Compasses to the distance AC, then set one foot in the point
+A, with the other describe the Arch C; again, place one foot in B, and with the
+other describe the Arch D; Then draw the line CD, so that it may only touch the
+two Arches C and D, so shall the line CD, so drawn, be parallel to AB, and at
+the distance required.
+
+CHAP. VII.
+A right line being given, how to draw another parallel thereunto, which shall
+also pass through a point assigned.
+LEt AB be a line given, and the point assigned be C: and let it be required to
+draw another line parallel thereunto, which shall pass through the given point
+C.
+
+First, take with your Compasses the distance from A to C, and placing one foot
+thereof in B, with the other describe the Arch DE, Then take in your Compasses
+the whole line AB, and placingone foot in the given point C, with the other
+foot describe the Arch FG, crossing the former Arch DE in the point H. Lastly,
+if you draw the line CH, it shall be parallel to AB.
+
+NOw I doubt not but you understand the way to let fall, or to raise any manner
+of Perpendicular line, either from, or upon any part of a line: as also to draw
+lines parallel one to another at any distance required, therefore now I intend
+to proceed unto the main point here aimed at, which is, to declare, and make
+known unto you the several operations performed by the plain Scale, which
+though it be in use with very few, yet it is most necessary for Seamen,
+because all questions in Navigation are thereby easily and plainly wrought. And
+also all questions in Astronomy (belonging unto the expert, and industrious
+Seamen) may both speedily and easily be wrought by the same Scale: in regard
+whereof I have declared in this little Book, that knowledge (which God has
+been pleased to bestow upon me) concerning the necessary use and practice
+thereof; hoping that you will as kindly accept it, as it is freely offered unto
+your courteous considerations.
+
+CHAP. VIII.
+Of the description of the Scale.
+THis Scale usually is divided into three parts, the first whereof is a Scale
+of equal Parts, divided into Miles, or Leagues, from 1 unto 100, and upwards,
+at your pleasure, and numbered with 10, 20, 30, 40, and so forth unto the end.
+All these divisions are equal one unto another, and is in use for to measure
+the Leagues that any ship has run upon any course, or the Leagues that she
+has raised or depressed the Pole, or departed the Meridian, as in the work,
+hereafter shall be more fully declated. The figure of the plane Scale.
+
+
+
+The second part of the Scale, is the single Chorde of a circle, or the Chord
+of 90, and is divided into 90 unequal divisions, representing the 90 degrees of
+the Quadrant: and are numbered with 10, 20, 30, 40, etc. unto 90. This Ghord is
+in use to measure any part or Arch of a circle, not surmounting 90 degrees: The
+number of these degrees from 1 unto 60 is called the Radius of the Scale, upon
+which distance all circles are to be drawn, whereupon 60 of th^se Degrees are
+the Semidiameter of any Circle that is drawn upon that Radius.
+
+The third part of the Scale is divided into eight parts, representing the
+Points or Rumbes of the Mariners Compass; which in all are 32 points: but upon
+the Scale there are only S reckoned, which is but one Quadrant or quarter of
+them, being to be reckoned from the Meridian of North and South both ways, as
+you may see more plainly by this figure, representing the order of the points
+of the Compass.
+
+
+
+It is usual also to have another line placed upon your Scale, to she^ you how
+many leagues make a degree of longitude in every latitude, concerning which you
+shall have directions in the 14 Chapter following.
+
+CHAP. IX.
+Knowing the course any ship has made, and the leagues she has sailed: to
+find how much she has raised or depressed the Pole; and likewise how much she
+is departed from her first Meridian.
+The Course is South-west and by South, the leagues sailed are 100, the
+difference of the Latitude, and the distance of the Meridians is required.
+IN the first demonstration, first draw the line AB, and from the Center A, let
+fall the Perpendicular AF, which represents the Meridian; then opening your
+Compasses unto the Radius of your Scale, set one foot thereof in the Center A,
+and with the other draw the Arch KCB: Then in regard your Course is South-west
+and by South, that is three points from the South, take three of the eight
+points of the Compass with your Compasses, out of your scale, and place them
+from K to C; then draw the line ACD, which represents the Rumb or point of the
+Compass you have sailed upon; Then out of your scale of leagues, take with
+your compasses the number of leagues you have sailed upon this course, which is
+100 leagues, and place them upon the Rumb line ACD, from A to D, crossing the
+line ACD at theend thereof with the Arch GDH: Then from the point D, draw the
+line DF parallel to the line AB, so it will cut the Meridian line AKF in the
+point F.
+
+Now you must heedfully observe this point D, for this represents the place
+where your Ship is, and does show both the differencefo the latitude of the
+place you are in, and also your distance or departure from your first meridian.
+
+First for the latitude, you see the line DF, being parallel to the line AB,
+cuts the Meridian line AF in the point F: So that if you take the distance FA
+with your Compasses, and apply it to the scale of equal leagues, you shall find
+it is just 83 leagues, which counting 20 leagues to a degree, makes 4 degrees 9
+min. and so much you have altered your latitude by the said course, which
+degrees and minutes being added to, or subtracted from the latitude of the
+place you came from, according as your course requires, shows you always the
+true latitude you are in.
+
+Likewise from this point D, take with your Compasses the distance DF, and you
+shall find it by your scale of equal leagues to be 56 leagues, and so much you
+are departed from your first Meridian to the Westward; which when you are near
+the Equinoctial, where the degrees of longitude are equal to the degrees of
+latitude, would show the longitude, by taking 20 leagues for one degree, etc.
+so it would be two degrees, and 48 min. for your difference of longitude, from
+your first Meridian AF. But in other places, you must first (...) howmany
+leagues make a degree of longitude about that latitude where you are, and so
+turn your leagues of distance from the Meridian, into degrees and minutes of
+longitude, of which more hereafter, Chap. 14.
+
+I have been the larger in these two Propositions, because they are ^he first,
+for the better understanding of all the rest; and because they are most
+necessary, for thereupon depends the knowledge of the true Traverse point, and
+the keeping of your dead reckoning. Now because this cannot always be kept
+exactly, it is to be corrected by the observation of the latitude, according to
+this following proposition.
+
+CHAP. X.
+Knowi g the difference of latitude of two places, and the Rumb you have sailed
+upon, to find the leagues you have sailed, and the difference of Meridians.
+The Pole depressed four degrees and the Rumb South-West by South or the third
+from the Meridian, to find your true Traverse point, viz. how far you have
+sailed, and how much you are departed from your first Meridian.
+In the first figure
+DRaw the lines as in the former Chapter, so that AKF may represent the
+Meridian line, and ACD may represent the third Rumb from the meridian; then
+because you have altered your latitude 4 degrees, which make 80 leagues, take
+80 leagues with your Compasses out of your Scale, and set them upon the
+meridian line AF, from A to L: Then keeping the same distance of your
+Compasses, draw the line LM parallel to AB, (or else you may erect LM
+perpendicular to the line AF, in the point L) and mark where the said LM
+crosses the Rumb line ACD, which is in the point M. This point M is the true
+Traverse point, the leagues sailed are showed by the line AM, which being
+measured in the Scale, will be found to be 96 leagues and an half, and the
+departure from the Meridian is LM, which is 54 leagues.
+
+Now by this Proposition (as I said) you may correct your dead reckoning; for
+suppose by the former proposition you reckon you had sailed 100 leagues upon
+the ^hird Rumb, then as you see there, you should have been at the point D, and
+have altered your latitude 83 leagues, and departed from your Meridian 56
+leagues; but now suppose that by a good observation of the latitude, you find
+that you have altered the latitude only 80 leagues, from A to L, by drawing
+this line LM, which crosses the Rumb or Ships way in M, you may conclude your
+true Traverse point to be at M, so that you have sailed only from A to M, which
+is 96 leagues, and departed from your Meridian 54 leagues. So that as you are
+short of the latitude you reckoned for 3 leagues or 9 min. you are also short
+of your way you reckoned 3 leagues, and two leagues less in your departure from
+the Meridian. And this you must account for your true reckoning, being thus
+corrected.
+
+CHAP. XI.
+By the difference of the latitudes of two places and the distance between
+their Meridians, to find the Rumb by which you must sail from the one place to
+the other, and how far it is from the one place to the other?
+The difference of latitude between the two places is 4 degrees. 9 min. and the
+distance between the two Meridians is 56 leagues, and it is required to find
+the Rumb from the one place to the other.
+IN the former figure draw the quadrant AKCB, then turn your four degrees 9
+min. of latitude into leagues, it makes 83 leagues, which you must place upon
+the meridian line from A to F. And from the point F draw the line FD parallel
+to the line AB. Then open your Compasses to the distance of the meridians which
+is 56 leagues, and set it on the line FD, from F to D. Then lay your Ruler by
+this mark D and the Center A, and draw the line ACD. Then mark where this line
+cuts the quadrant, which is in the point C, and setting one foot of your
+Compasses in the point C, open the other to K, and keeping your Compasses at
+that distance CK, measure it upon your Scale, either in the line of Chords, or
+in the line of Rumbs, you sh ll find it to be in the one 33 degrees. 45 min. and in
+the other just the third Rumb from the meridian. So that the Rumb from A (...)
+D ^s South-west and by South, and the Rumb from D to A is the Rumb opposite
+thereunto, which is North-east and by North.
+
+Then for the distance between the two places in the Rumb, ^et one foot of your
+Compasses in the one place at A, and open the other to the other place at D,
+and the length of the line A D ineasured in the Scale of leagues, shows the
+distance between them to be just 100 leagues.
+
+These three (or rather these six) Propositions, (for they are each of them
+double) are the most useful and necessary in the art of Navigation. By the
+first of these, knowing the point of the Compass you ^ail upon, and judging
+howmany leagues you have sailed thereon, you know and are able to give a
+reasonable account where you are, both in respect of latitude and longitude. By
+the second having a fair observation of the latitude at any time, you may more
+perfectly know where you are; and thereby correct your former account. And by
+this third you may know how to direct your course from any place to your
+desired haven. So that in effect you need no more, but yet for your better
+instruction by variety of cases and examples, I shall proceed.
+
+CHAP. XII.
+The difference of Latitude and the lea^^es sailed being given, to find the
+distanee from the Meridian, and the Rumb you have sailed upon.
+Sailing 100 leagues between South and West, until the Pole be depressed 4
+degrees. 9 min. the distance from the Meridian is demanded, and what Rumb you have
+sailed upon?
+IN the first figure draw the Quadrant AKCB, as in the former Chapters, and
+then reduce your degrees of latitude into leagues, so 4 degrees. 9 min. make 83
+leagues, which you must take with your Compasses out of your Scale of leagues,
+and set them off in this Meridian line from A to F. Then from the point F draw
+the line FD, parallel to the line AB, which you may do with the foresaid
+distance of your Compasses. Then open your Compasses unto your distance failed,
+which is 100 leagues, and setting one foot of your Compasses in the point A,
+with the other draw the little Arch HG, cutting the line FD in the point D. So
+the line FD measured in the Scale of leagues, shall show you the distance from
+the M ridian, which is 56 leagues, and if you draw the line ACD, it i^ the Rumb
+line upon which you have sailed, and the Arch KC (...) ed in the Scale of
+Rumbs, shows it to be the third Rumb from the Meridian, or South-west by South.
+
+CHAP. XIII.
+To find the distance of any Island from you, that you may discern at two stati
+n^, knowing the po^ut of the Compass, the Island bears unto each of the
+stations.
+Suppose, being at Sea you discover an Island bearing North-east off you, which
+place let it be your first station, and then sailing seven leagues full North
+you observe the Island to bear full East off you, which let be the second
+station; the aemand is to find the distance of the said Island from both the
+said stations?
+IN the second figure, or demonstration, let A be the first Station, and upon
+the Center A draw the Quadrant ABDE; Then in regard you found the Island to
+bear North-East from you, take 4 of your 8 points of the Compass our of the
+Scale, and place them upon your Quadrant from B to D, then from the Center A by
+the point D, draw the line ADF, representing the visuall line passing between
+your sight and the Island, being at the first station A. Then seeng when y^^
+had sailed 7 leagues North, you observed the Island to bear full East off you,
+set off the said 7 leagues from A to C, (reckoning every 10 leag^ s of your
+Scale to be but on^) and from this point C, which is the second station, draw
+the line C F parallel to AE, and it will cut the line ADF in the point F: So
+shall the point F, be the place of the Island desired, and the distance AF, is
+the distance of the Island from the first station, viz. 9 leagues 90 parts or
+almost 10 leagues: Likewise the distance from C, to F, is the distance of the
+Island from the second station, which is just seven leagues. And by this manner
+of work, you may find the* distance of any Island or head land from you, or you
+may take the distances of as many places as you will or can see at any two such
+stations, and by the crossing of their visuall lines, find their position and
+distances each from other.
+
+CHAP. XIV.
+To find how many leagues, miles, and parts do make one degree of longitude in
+every latitude.
+Note, All this while we have been sailing according to the Rules of the plain
+Chart, which supposith the degrees of longitude to be equal to the degrees of
+latitude, in all latitudes, but that is very false and erroneous; it being true
+only in places near the Equinoctial, where every degree of longitude contains
+20 leagues, as the degrees of latitude do; But in places near the Poles it
+alt^rs very much, so that in the latitude of 60 degrees, 10 leagues make a
+degree of longitude: and in other latitudes the degrees of longitude alter, as
+in this little Table, which shows at what degree and minute of latitude, any
+nnmber of leagues make a degree of longitude, by which you may divide a Line
+upon your Scale for your ready use.
+Leagues in one Degree.
+20 00 d 00 m 19 18 11 18 25 50 17 31 47 16 36 52 15 41 25 14 45 34 13 49 27 12
+53 08 11 56 38 10 60 d 00 m 9 63 15 8 66 25 7 69 31 6 72 32 5 75 31 4 78 28 3
+81 22 2 84 16 1 87 08
+
+Now to return to the Question, and show you by demonstration how to find how
+many leagues, miles, and parts, make a degree of longitude in any degree of
+latitude?
+TAke 60 parts out of your Scale of equal parts, which you must reckon for
+miles, and count three of them to a league, and therewit^ draw the quadrant
+ABC, then from the point B set off the degree of the latitude proposed (which
+for example, let it be 58 degrees. 54 m.) from B to D, then from the point D* draw
+the line DF parallel to AB, so shall the length of this line DF, being measured
+in your Scale of leagues, show you the number of leagues and miles, which
+answer to a degree of longitude in the said latitude af 58 degrees. 54 m. which you
+shall find to be 31 miles, or 10 leagues and one mile. So also BE being the
+Arch of 51 degrees. 55 min* the line EG shows one degree of longitude to be 37
+miles, or 12 leagues and one mile.
+
+The larger you make your Quadrant, the more exact will the work be, and show
+the leagues and miles more exactly, which you may make into a Table, as this
+following.
+
+A Table showing how many leagues, miles, and hundred parts of a mile make one
+degree of longitude in any latitude.
+Latitude Leagues Miles Parts Difference Latitude Leagues Miles Parts Diffe
+ence Latitude Leagues Miles Parts Diff^rence 0 20 0 0 -- 30 17 0 96 -- 60 10 0
+0 -- 1 19 2 99 1 31 17 0 43 53 61 9 2 09 91 2 19 2 96 3 32 16 2 88 55 62 9 1 17
+92 3 19 2 92 4 33 16 2 32 56 63 9 0 24 93 4 19 2 85 7 34 16 1 74 58 64 8 2 30
+94 5 19 2 77 8 35 16 1 15 59 65 8 1 36 94 6 19 2 67 10 36 16 0 54 61 66 8 0 40
+96 7 19 2 55 12 37 15 2 92 62 67 7 2 44 96 8 19 2 42 13 38 15 2 28 64 68 7 1 47
+97 9 19 2 26 16 39 15 1 63 65 69 7 0 50 97 10 19 2 09 17 40 15 0 96 67 70 6 2
+52 98 11 19 1 90 19 41 15 0 28 68 71 6 1 53 99 12 19 1 69 21 42 14 2 59 69 72 6
+0 54 99 13 19 1 46 23 43 14 1 88 71 73 5 2 54 100 14 19 1 22 24 44 14 1 16 72
+74 5 1 54 100 15 19 0 96 26 45 14 0 43 73 75 5 0 53 101 16 19 0 68 28 46 13 2
+68 75 76 4 2 52 101 17 19 0 38 30 47 13 1 92 76 77 4 1 50 102 18 19 0 06 32 48
+13 1 15 77 78 4 0 48 102 19 18 2 73 33 49 13 0 36 79 79 3 2 45 103 20 18 2 38
+35 50 12 2 57 79 80 3 1 42 103 21 18 2 1 37 51 12 1 76 81 81 3 0 38 104 22 18 1
+63 38 52 12 0 94 82 82 2 2 35 103 23 18 1 23 40 53 12 0 11 83 83 2 1 31 104 24
+18 0 81 42 54 11 2 27 84 84 2 0 27 104 25 18 0 38 43 55 11 1 41 86 85 1 2 23
+104 26 17 2 93 45 56 11 0 55 86 86 1 1 18 105 27 17 2 46 47 57 10 2 68 87 87 1
+0 14 104 28 17 1 98 48 58 10 1 80 88 88 0 2 09 105 29 17 1 48 50 59 10 0 90 90
+89 0 1 05 104 30 17 0 96 52 60 10 0 0 90 90 0 0 0 105
+
+CHAP. XV.
+The difference of latitude, and the Rumb or distance sailed being known, to
+find the distance of the Meridians, and thereby to find the degrees and minutes
+of the difference of longitude in any latitude.
+Sailing from the North parallel of 56 degrees and 5 min. latitude, 100 leagues
+upon the third Rumb from the Meridian* viz. South-west and by South until I
+find the Pole is depressed 4 degrees. 9 m. and the Meridional distance 56 leagues;
+the longitude is desired thereby?
+I^ the first figure
+DRaw the Quadrant as is showed before, then reduce your 4 degrees. 9 min. o^
+latitude into leagues, it makes 83 leagues, which set off upon the meridian
+line from A to F. Then upon the Rumb line ADC set off the distance sailed from
+A to D, and after, by these two points, draw the line F D; So shall D represent
+the place of the Ship, and as AF is the difference of latitude, so FD is the
+difference of meridians, which measured in your Scale of leagues is 56 leagues.
+
+Now to reduce this 56 leagues into degrees of longitude, you must consider
+from what latitude you have sailed, and to what latitude you are come, viz.
+from latitude 56 d. 5 m. to 4 degrees. 9 min. less, which is 51 d. 56 m. and take
+the middle latitude (or somewhat more) between the two places, which in this
+example falls out to be 54d. 01 m. Then by the Table in the former Chapter,
+find out howmany leagues and miles in the said middle latitude make one degree
+of longitude, and you shall find in that Table, that in the latitude of 54 d.
+there is but 11 leagues, and 2 miles, and 27 parts in one degree of longitude;
+Therefore open your Compasses upon your Scale of leagues, to this 11 leagues, 2
+miles, 27 parts, and keeping your Compasses at that distance, set one foot of
+them at 56 leagues in your Scale of leagues, or in the line DF in the figure,
+(or upon the like line in your Chart at any time) either at F or D, and measure
+howmany times you find that distance either to the end of your Scale coming
+backward, or in the line DF, for so many degrees is the difference o^
+longitude, and if any odd part remain, you may proportion i^ by your eye,
+judging it to be a quarter, a third, an half, or any part more or less of a
+degree, which you may either reckon by parts, or 15, 20, 30 etc. minutes,
+
+Thus this line DF being 56 leagues, opening your Compasses to 11 leagues 2
+miles 27 parts, you will find this distance in it, 4 times and 3 quarters; so
+that the difference of longitude is 4 degrees. 45 min.
+
+Or you may reduce it into miles and work by the rule of proportion, so you
+shall find As 11 leagues, 2 miles, 27 parts, that is 35 miles 27 parts. 35,27
+To one degree of longitude in the latitude of 54 d. 01,00 So is 56 leagues, or
+168 miles. 168,00 To 4 degrees, 76 parts. 04 76
+
+But if your Scale be large, the other way with your Compasses will give you
+the degrees and parts of longitude as exactly as you need for most uses.
+
+Also if the latitude fall not out in equal parts, you may find out for your
+odd minutes by proportion, for which purpose I have set the differences
+between each degree in the Table.
+
+So that as one hundred parts or 60 minutes being one degree, to the difference
+in the Table between the two next degrees;
+
+So the odd hundred parts or minutes of latitude, to the parts and minutes
+proportional to be allowed.
+
+CHAP. XVI.
+Sailing from the South latitude of 60 degrees, 51 min. and from longitude 25
+degrees, 24 min. 99 leagues, upon a South-west course: the latitude and
+longitude of the second place is demanded.
+IN the second demonstration, draw the Quadrant ABCDE, as is formerly taught,
+then in regard you sail South-west, take 4 points of the Compass from your
+Scale, and place them from B unto D, then by the point D draw the line ADF,
+then place your ninety nine leagues upon the line ADF, from A unto F, so shall
+F be the place of your Ship. Then from F draw the line FC parallel unto AE,
+cutting the line ABC in C, so shall the distance CA be the leagues you have run
+South, which is seventy leagues, or 3 degrees. 30 minutes, which being added to the
+latitude from whence you dearted, makes 64 degrees. and 21 minutes for the latitude
+of the second place: then take the distance CF, and apply it unto the line of
+equal parts, and you shall find it likewise 70 leagues: Then finding the middle
+latitude 62 degrees 36 minutes in the Table, Chap. 14. you shall find that 9
+leagues and 0 miles, and 61 parts, do alter a degree of longitude in that
+latitude. Then opening the feet of your Compasses to 9 leagues 0 miles 61
+parts, in the Scale of equal leagues, and keeping the Compasses at that
+distance, see howmany times that distance is in the line CF, which is seven
+times and somewhat above an half, the true difference of longitude being 7 degrees.
+36 m. which being subtracted from the longitude from whence you departed,
+leaves 17 degrees and 48 minutes for the longitudeof the second place.
+
+CHAP. XVII.
+A Ship sailing from the North Parallel of fifty degrees, having an hundred
+leagues to sail South-west, and by West, by the way is enforced by contrary
+winds to sail upon several points of the Compass, first sailing thirty leagues
+upon a direct course, then West North-west twenty leagues, then South sixty
+leagues, the question is to find the latitude of the second place, how far it
+is to the place whereuuto you are bound, the distance of the Rumb that is
+betwixt them, the distance that you are from your first Meridian, and thereby
+the difference of longitude.
+IN the third demonstration, draw the line AD, and from the point A, raise the
+perpendicular AB, then open your Compass unto the Radius of your Scale, and
+place one foot thereof in the center A. and with the other draw the Quadrant
+BCD, then take three points of the compass and place them upon the Quadrant
+from D. unto C, then from the Center A, by the point C, draw the line ACL, 100
+Leagues in length, which is the true course you are to sail, Then in regard
+you sailed thirty leagues direct, take thirty leagues from your Scale of
+equal parts, and place them upon the line AEC, it extends from A unto E: then
+in regard you turned your Course, West, Northwest, from the Center E, draw the
+Line EG parallel unto A. D. and again from the center E draw the line EH
+perpendicular to EG, and parallel to AB, then witn the distance of the Radius,
+set one foot of your compasses in the center E, and with the other draw the
+Quadrant GMH, and in regard you sailed West, Northwest, which is two points
+from the West Northward, take from your Scale two points of the Compass, and
+place them upon the Quadrant GMH, from G unto M, then from the center E unto
+the point M, draw the line EFM, then take 20 Leagues with your Compasses from
+the Scale of equal parts, and place them upon the line EFM, from E unto F,
+then is your Ship in the point F. Lastly, in regard you run South 60 Leagues
+from F, draw a Line Parallel unto the Meridian AB, which is the line FI, then
+take from your Scale of equal parts sixty Leagues, and place them from F,
+unto I, then is your Ship in the point I: then last of all is to be found how
+far it is to the place where unto you were bound, the distance of the Rumb that
+is betwixt you, the degrees and minutes you have raised the Pole, the distance
+of departure from the first Meridian, and thereby the difference of Longitude:
+and that you may so do, first draw the line OIK, Perpendicular unto the line
+IF in the point I, and with your Compasses opened unto the distance of the
+Radius, set one foot of your Compasses in the Center I, and with the other draw
+the Quadrant KNF, then in regard your ship is in the point I, and the place
+whereunto you are bound is the point L, therefore from I, through the point L
+draw the line ILN, cutting the Arch KNF, in the point N, therefore let IL, be
+the Leagues you have unto the place whereunto you are bound, which is forty
+one Leagues and a half, and the Rumb the distance KN, which is West, and by
+North, and three degrees unto the Northward, so likewise is the line AO, the
+number of Leagues you have run due South, which is sixty eight Leagues and one
+mile, or three degrees and twenty five minutes, which being taken from fifty
+degrees, the parallel from which you departed, leaves forty six degrees and
+thirty five minutes for the Parallel you are in. Last of all, shall the line
+IO, be the Leagues that you have departed your first Meridian, which are forty
+two leagues and one mile, Then take the middle latitude which is forty eight
+degrees seventeen minutes and in the Table chap. 14 you shall find that
+thirteen Leagues 0. mile, 92 parts, do answer unto a degree of Longitude in
+that Parallel; then setting one foot of your Compasses in thirteen Leagues,
+and ninety two parts, extending the other to the beginning of the Scale,
+keeping the Compasses at that distance, turn them over the line I O, and you
+shall find it contains that distance three times and almost a quarter, So the
+difference of longitude is three degrees eleven minutes.
+
+CHAP. XVIII.
+Two Ships departing from one Parallel, and Port, the one in sailing eight
+Leagues betwixt the North, and the West, has raised the Pole two degrees, the
+other in sailing a hundred Leagues betwixt the North, and West, has raised the
+Pole four degrees, I demand by what Rhumbs the said Ships have sailed, and the
+Rhumb and distance that is betwixt them?
+IN the fourth Demonstration, draw the Quadrant ABCDE, then in regard the first
+Ship has raised the Pole two degrees, which is forty leagues, take forty
+Leagues off your Scale, and apply them unto the Meridian line AGL, from A unto
+G: then from the point G, draw the line GF, parallel unto AB, then opening your
+compasses unto 80 Leagues, set one foot in the Center A, with the other make a
+mark in the line GF, which will be at F, so shall F be the place of the first
+ship; the second Ship has raised the Pole four degrees, which is 80 Leagues,
+therefore place 80 leagues upon the Meridian line AGL, from A unto L, and from
+the point L draw the line LM, parallel unto GHF, then open your Compasses unto
+the distance of a hundred leagues, which are the Leagues the second ship did
+run, and set the foot of your Compasses in the Center A, and with the other
+make a mark in the line LM, which will be at M, then draw the line MA, which is
+the course of the second Ship, and the line FA, is the course of the first
+ship, then from F let a Perpendicular fall, being Perpendicular to the line GF,
+which is the line FK, then opening your Compasses unto the Radius of your
+Scale, set one foot in the Center F, and with the other draw the Quadrant HIK,
+likewise from F, the place of the first Ship, draw a line by the point M, the
+place of the second, cutting the Quadrant KHI, in I, so let IK, be the course
+that is betwixt them, that is, if you will sail from the first ship unto the
+second, you must sail North and by East, and one and forty minutes to the
+Eastward, likewise let F M, be the distance that is betwixt them, which in this
+Demonstration is forty Leagues, two miles, so shall BC, be the course of the
+first ship from the West Northward, wh ch here is found to be thirty degrees
+and one minut from the West Northward, or Northwest by West, and three degrees
+and forty four minutes to the west ward. Lastly the Arch ED, is in the
+distance of the course that the second Ship made from the North Westward, which
+is found by this Demonstration to be Northwest and by North, and three degrees
+five minutes to the Westward.
+
+CHAP. X^X.
+Two Ships departing from one Parallel and Port in the Parallel of 47 degrees. 56
+min. the first in sailing 80 leag. betwixt the North and West, has raised the
+Pole two degrees, I demand by what course the second ship must run, and how
+much she shall alter in her first Meridian or longitude, to bring her self 40.
+leagues and two miles North and by East, and 41. minutes to the Eastward of the
+first ship?
+IN the fourth Demonstration draw the Quadrant ABCDE, then multiply your two
+degrees you have altered your latitude by twenty and it makes forty
+Leagues; which forty Leagues set upon the line AEL, from A unto G, then from
+the point G draw the line GF, parallel unto AB, then open your Compasses unto
+the distance of 80 Leagues, which are the Leagues your first ship did run,
+and place one foot of your Compasses in the Center A, and with the other make a
+mark in the line GF, which will be at the point F, then from the Center A unto
+the point F draw the line AF, representing the distance of the Course of the
+first Ship 80 leagues: Then from F let fall a Perpendicular FK, and upon the
+Center F, with the Radius of the Scale draw the Arch HIK, Then in regard you
+must bring the second ship North and by East, and 41 minutes Eastward of the
+first ship, take 11 degrees 56 minutes from your Scale of Chords, and place
+them from Kunto I, upon the quadrant KIH. Then from F draw the line IF, and
+upon the line, FI, place the distance that you must bring the second ship from
+the first (which is forty leagues and two miles) from F unto M. So is M the
+place of your second ship. Then from M draw the line ML parallel unto FG,
+cutting the line AGL in L, then draw the line MA, cutting the Quadrant BDE in
+D. So shall the Arch DE be the course that the second ship must run, to bring
+her self forty leagues and two miles North and by East, and 41 minutes East of
+the first ship. Then to know what you have altered the latitude, first take the
+distance LA and apply it unto the Scale of equal parts, and you shall find it
+to be 80 leagues, which is just 4 degrees, which you have altered your
+latitude, or Poles elevation: which 4 degrees added unto the latitude you depar
+ed from, it makes 51 degrees 56 min. for the latitude that your second Ship is
+in, then take the distance LM and apply it to the Scale, it gives 60 leagues;
+then open your Compasses unto the distance of the middle latitude, which is 40
+degrees. 5^ min. of the Chord, and apply it unto the Table of longitudes, and it
+gives 12 leagues, and 2 miles, and 62 parts, to alter one degree of longitude
+in that Parallel: Then set one foot of your Compasses in 12 leagues 2 miles,
+and 62 parts, and open the other to the beginning of the line, and with that
+distance measure the line L M, being 60 leagues, and you shall find that it is
+contained there in four times and two thirds, so the longitude is 4 degrees 40
+minutes.
+
+CHAP. XXI.
+Of the Ebbing and Flowing of the Sea, and of the Tides, and how to find them
+in all places.
+A general Table for the Tides in all places.
+The Moons age. Hours and minutes to be added. Hours and minutes to be added.
+The Moons age. Hours and minutes to be added: Hours and minutes to be added:
+Days. Degrees: Minutes: Days. Degrees: Minutes: 1 0 48 16 0 48 2 1 36 17 1 36
+3 2 24 18 2 24 4 3 21 19 3 12 5 4 0 20 4 0 6 4 48 21 4 48 7 5 36 22 5 36 8 6 24
+23 6 24 9 7 12 24 7 12 10 8 0 25 8 0 11 8 48 26 8 48 12 9 36 27 9 36 13 10 24
+28 10 24 14 11 12 29 11 12 15 0 0 30 0 0
+
+The use of the Table of the Tides.
+FIrst it is to be understood, that by the swift motion of the first Mover, the
+Moon and all the rest of the Stars and Planets, are turned about the World in
+four and twenty hours, upon which swift motion of the Moon, the daily motions
+of the Sea, do depend, which motion of the Sea falls not out always at one
+hour, the reason thereof is, because of the swift motion of the Moon in regard
+she goes almost thirteen degrees in four and twenty hours, and the Sun moves
+scarce one degree, which gives every day twelve degrees, that the Moon comes
+slower to any point in the Heaven than the Sun: which twelve degrees makes
+forty eight minutes of time for the difference of every full Sea, according
+unto the middle motion of the Moon, which difference is here set down in this
+Table for every day of the Moons age. Therefore if you would know the full Sea
+at any place in the World, first you must know at what hour it is full Sea at
+the new or full Moon; which hours and minutes keep in mind, then seek the age
+of the Moon as is before taught, and with the number of her age enter this
+Table, under the Title of the Moons age, and having found her age in the Table,
+against it you shall find the hours and minutes which are to be added unto the
+time that the Moon makes full Sea in any place, and the whole number of hours
+and minutes is the time that the Moon makes full Sea in that place upon the
+day desired. As for example, I desire to know the full Sea at London Bridge
+upon the 13 of July 1624. the age of the Moon being found as before, is eight
+days, then in the Table I find eight days, and against it 6 hours, and 24
+minutes, which being added unto 3 hours, the full Sea upon the change day gives
+9 a clock 24 minutes for the time at the full Sea upon the 13 day of July 1624.
+
+THE SEA-MANS GLASS.
+The Second Book.
+Wherein is declared the Definition of the Sphere, a Description of the six
+great Circles, and also of the four lesser Circles, last of all, certain
+Questions Astronomicall, performed by the said Scale.
+CHAP. I.
+Of a Sphere, and the Circles thereof.
+The figure of the plain Scale.
+
+
+
+A Sphere according to the Description of Theodosius, is a certain solid Sup^
+ficies, in whose middle is a Point, from which all lines drawn unto the
+Circumference are equal; which Poi^^ is called the Center of the Sphere, by
+which C^^^er a right Line being drawn, and excending himself on either side
+unto that part of the Circumference whereupon the Sphere is turned, is called
+Axis Spherae, or the Axle-tree of the World.
+
+A Sphere accidentally is divided into two parts, that is to say, in Sphaeram
+rectam and Sphaeram obliquam.
+
+Sphaera recta, or a right Sphere, is only unto those that dwell under the
+Equinoctial, Quibus neuter Polorum magis altero elevatur: that is, to whom
+neither of the Poles of the World are seen, but lie hid in the Horizon.
+
+Sphaera obliqua, or an oblique Sphere, is unto those that inhabit on either
+side of the Equinoctial, unto whom one of the Poles is ever seen, and the other
+hid under the Horizon.
+
+The Circles whereupon the Sphere is composed are divided into two sorts: that
+is to say, in Circulos majores and minores.
+
+Circuli majores, or the greater Circles, are those that divide the Sphere into
+two equal parts: and they are in number six, viz. the Equinoctial, the middle
+of the Zodiac, or the Ecliptique line, the two Colures, the Meridian, and the
+Horizon.
+
+Minores vero Circuli, or the lesser Circles, are such as divide the Sphere
+into two parts, unequally, and they are four in number; as the Tropic of
+Cancer, the Tropic of Capricorn, the Circle Artike and the Circle Antartike.
+
+CHAP. II.
+Of the six greater Circles.
+I. THE Equinoctial is a Circle that crosses the Poles of the World at right
+Angles, and divides the Sphere into two equal parts, and is called the
+Equinoctial, because when the Sun comes unto it, (which is twice in the year,
+viz. In principio Arietis, and Librae, that is, in March and September) the
+days and nights are equal thoroughout the whole World, whereupon it is called
+Equator diei and noctis, the equal proportioner of the day and night
+artificial: and in the figure is described by the line CAE.
+
+II. The Meridian is a great Circle passing through the Poles of the World, and
+the Poles of the Horizon, or Zenith point over our heads; and is so called,
+because that in any time of the year, or in any place of the World, when the
+Sun (by the motion of the Heavens) comes unto that Circle, it is noon, or
+twelve of the Clock. And it is to be understood, that all Towns and places that
+lie East and West one of another, have every one a several Meridian: but all
+places that lie North and South one of another, have one and the same meridian.
+This Circle is declared in the figure following by the Circle BCDE.
+
+III. The Horizon is a Circle dividing the superior Hemisphear from the
+inferior, whereupon it is called Horizon, that is to say, the bonds of sight,
+or the farthest distance that the eye can see, and therefore it is also called
+Circulus hemisphaeri. The Horizons are divided into 2 sorts, viz Rectus and
+obliquus, a Right and an oblique, or a declining Horizon: whereof those have a
+right Horizon which have the Equinoctial for their Zenith, and the Poles of the
+World in their Horizon: because the Horizon (hiding both the Poles of the
+World) is a Circle supposed to be drawn by the Poles of the World, dividing
+the Equinoctial at right Angles, as in the figure following you may plainly
+see. First imagining the Circle XVYVV to be the earth, and those that inhabit
+at the Point V have the line B D for their Horizon, cutting the Equinoctial
+CAE at right Angles in A, and therefore is called Horizon rectus and Sphaera
+recta, a right Horizon, and a right Sphere. Those have an oblique Sphere, or an
+oblique Horizon, to whom one of the Poles are visuall, or elevated above the
+Horizon, and have the other hid under the Horizon, and in regard such a Horizon
+does cross the Equinoctial at oblique Angles, it is called Horizon obliquus,
+or a declining Horizon, as for example, Those that inhabit at the point S have
+T for their Zenith, and KAL for their Horizon, dividing the Equinoctial CAE at
+oblique Angles, making the Angle contained betwixt the Horizon AK and the
+Equinoctial AC, an Angle of thirty eight degrees, and twenty eight minutes,
+and the Angle contained betwixt the Horizon AL and the Pole AD, an Angle of 51.
+degrees 32 minutes, which is the elevation of the Pole for those that inhabit
+at S, as those at London, these and all other have an oblique Sphere, except
+they inhabit just under the Equinoctial Circle, unto whom only does a right
+Sphere belong.
+
+IV. The two Colures, Colurus Solstitiorum, or the Summer Colure, is a Circle
+passing by the Poles of the World, and by the Poles of the Ecliptic, and by
+the head of Cancer and Capricorn, whereupon, the first scruple of Cancer, where
+the Colure crosses the Ecliptic Line, is called Punctus solstitiae
+aestivalis, or the point of the Summer Solstice: to which place when the Sun
+comes, he can approach no nearer unto our Zenith, but returns unto the
+Equator again. Arcus vero Coluri, The Ark of the Colure contained betwixt the
+Summer Solstice and the Equator, is called the greatest declination of the Sun,
+which Ptolomy found to be 23 degrees, 31 minutes: but by the observation of
+Copernicus it was found to vary, for ^e found the declination sometimes to be
+23 degrees 52 minutes, and in the process of time to be but 23 degrees 28
+minutes. And in these our days (by the observation of Ticho de Brahe, and that
+late famous Mathematician, Mr. Edward Right) it is found distant from the
+Equinoctial 23 degrees, 31 minutes, 30 seconds.
+
+V. The other Colure passes by the Poles of the World, and by the first point
+of Aries and Libra, whereupon it is called Colurus distinguens Equinoxia. These
+two Colures do cross each other at right Angles in the Poles of the world,
+whereupon these, verses were made. Haec duo Solstitia faciunt Cancer
+Capricornus,
+Sed noctes aequant Aries and Libra diebus.
+
+
+VI. The Zodiac is another of the greater Circles, dividing the Equinoctial
+into two equal parts, by the head of Aries and Libra, the one half of it does
+decline unto the North, and the other into the South, the greatest of which
+declinations is 23 degrees, 31 minutes, and 30 seconds. Note also, this Circle
+is divided into twelve equal parts, which parts are attributed unto the twelve
+Signs, Aries, Taurus, Gemini, Cancer Leo, Virgo, Libra, Scorpio, Sagitarius,
+Capricornus, Aquarius, and Pisces. And every one of these Signs are divided
+into 30 equal parts, which are called degrees, so the whole Zodiac contains
+one hundred and sixty degrees. Likewise every degree is divided into sixty
+equal parts, which parts are called minutes, and are in number 21600 minutes,
+and as 21600 minutes is the whole Circumference of the Heavens, so is 21600
+miles the whole circuit of the Earth.
+
+CHAP. III.
+Of the four lesser Circles.
+THe Sun having ascended unto his highest Solstitial Point does describe a
+Circle, which is the nearest that he can approach unto the North Pole,
+whereupon it is called Circulus Solstitii aestivalis, the Circle of the Summer
+Solstice, or the Tropic of Cancer, and is noted in the figure before, by the
+line H Y I.
+
+The Sun also approaching unto the first scruple of Capricornus, or the Winter
+Solstice, describes another Circle, which is the utmost bounds that the Sun
+can depart from the Equinoctial Line toward the Antartike Pole, whereupon it
+is called Circulus solstitii hyemalis, sive Tropicus hyemalis, vel Capricorni:
+the Circle of the Winter Solstice, the VVinter Tropic, or the Tropic of
+Capricorn, and is described in the figure by the line GXF.
+
+So much as the Ecliptic declineth from the Equinoctial, so much does the
+Poles of the Ecliptic decline from the Poles of the World, whereupon the Pole
+of the Ecliptic, which is by the North Pole of the World, describes a
+certain Circle as it passes about the Pole of the World, being just so far
+from the Pole as the Tropic of Cancer is from the Equator, and it is the third
+of the lesser Circles, and is called Circulus Arcticus, or the Circle of the
+North Pole, and is described in the Diagram, in the second Chapter by the line
+PO.
+
+The fourth and last of the lesser Circles is described in like manner, by the
+other Pole of the Ecliptic, about the South Pole of the world, and therefore
+called Circulus Antarcticus, the Antarctick Circle, or the Circle of the
+Antarctick or South Pole, and is demonstrated in the former figure, by the line
+NM.
+
+CHAP. IV.
+Definitions of some peculiar terms fit to be known by such as intend to
+practice the Art of Navigation or Astronomy.
+THe Zenith is an imaginary point in the Heavens over our heads, making right
+Angles with the Horizon, as the Equinoctial makes with the Pole.
+
+The Nadir is a prick in the heavens under our feet, making right Angles with
+the Horizon under the earth, as the Zenith does above, and therefore is
+opposite unto the Zenith.
+
+The declination of the Sun is the Ark of a Circle contained betwixt the place
+of the Sun in the Ecliptic, and the Equinoctial, making right Angles with the
+Equinoctial. But the declination of a Star is the Ark of a Circle let fall
+from the Center of a Star, perpendicularly unto the Equinoctial.
+
+The Latitude is the Ark of a Circle contained betwixt the Center of any Star,
+and the Ecliptic Line, making right Angles with the Ecliptic, and counted
+either Northward, or Southward, according to the situation of the Star,
+whether it be nearer unto the North or South Pole of the Ecliptic.
+
+The Latitude of a Town or Country, is the height of the Pole above the
+Horizon, or the distance betwixt the Zenith and the Equinoctial.
+
+The Longitude of a Star is that part of the Ecliptic which is contained
+betwixt the Stars place in the Ecliptic, and the beginning of Aries, counting
+them from Aries according to the succession or order of the signs.
+
+The Longitude of a Town or Country are the number of degrees, which are
+contained in the Equinoctial, betwixt the Meridian that passes over the Isles
+of Azores, (from whence the beginning of longitude is accounted) East wards,
+and the Meridian that passes over the Town or Country desired.
+
+The Altitude of the Sun or Star is the Arch of a Circle, contained betwixt the
+Center of the Sun, or any Star, and the Horizon.
+
+The Amplitude is that part of the Horizon which is betwixt the true East or
+West points, and the point of the Compass that the Sun or any Star does rise
+or set upon.
+
+Azimuth's are Circles, which meet together in the Zenith, and cross the
+Horizon at right Angles, and serve to find the point of the Compass, which the
+Sun is upon at any hour of the day, or the Azimuth of the Sun or Star, is a
+part of the Horizon contained betwixt the true East or West point, and that
+Azimuth which passes by the Center of the same Star to the Horizon.
+
+The right ascension of a Star is that part of the Equinoctial that rises or
+sets with the Star, in a right Sphere: or in an oblique Sphere, it is that
+portion of the Equinoctial, contained betwixt the beginning of Aries, and that
+place of the Equinoctial, which passes by the Meridian with the Center of the
+Star.
+
+The oblique ascension is a part of the Equinoctial, contained betwixt the
+beginning of Aries, and that part of the Equinoctial that rises with the
+Center of a Star, in an oblique Sphere.
+
+The difference ascensionall, is the difference betwixt the right and oblique
+ascension: or it is the number of degrees contained betwixt that place of the
+Equinoctial that rises with the Center of a Star, and that place of the
+Equinoctial that comes unto the Meridian, with the Center of the same Star.
+
+Almicanterahs are Circles drawn parallel unto the Horizon, one over another,
+until you come unto the Zenith: these are Circles that do measure the
+elevation of the Pole, or height of the Sun, Moon, or Stars above the Horizon,
+which is called the Almicanter of the Sun, Moon, or Star: the Ark of the Sun or
+Stars Almicanter, is a portion of an Azimuth contained betwixt that Almicanter
+which passes through the Center of the Star, and the Horizon.
+
+QUESTIONS ASTRONOMICAL, performed by the plain Scale.
+CHAP. V.
+The true place of the Sun being given, to find his declination. The Sun being
+in the head of Taurus, his declination is desired.
+BY the seventh Demonstration, draw the line AD, then upon the Center A raise
+the Perpendicular AB, then opening your Compasses to the Radius of your Scale,
+place one foot in the Center A, and with the other draw the Quadrant BCD, then
+opening your Compasses unto the greatest declination of the Sun, place it upon
+the Quadrant, from D unto K, then from the point K draw the line KH, parallel
+to DA, cutting the line AB in H, then with the distance AH draw the small
+Quadrant GEH, and in regard the Sun is in the head of Taurus, which is 30
+degrees from the beginning of Aries, let AD be the Equator, and D the beginning
+of Aries, DC 30 degrees, or longitude of the Sun, then from the point C draw
+the line CA, cutting the Quadrant GEH in E, then from E draw the line EI
+parallel to AD, cutting the Quadrant BCD in I, so shall the Arch ID be the
+declination of the Sun desired, which in this demonstration is found to be
+eleven degrees, and thirty one minutes.
+
+CHAP. VI.
+The declination of the Sun, and quarter of the Ecliptic that he possesses,
+being given, it is desired to find his true place.
+The Declination is 10 degrees. 31 min. the first quarter that he possesses, is
+betwixt the head of Aries and Cancer.
+FIrst, by the seventh Demonstration, draw the Quadrant ABCD, as is taught in
+the former Chapter, then set the greatest declination of the Sun upon the Chord
+from D unto K, which is 23 degrees. and 31 min. then from K draw the line KH
+parallel unto the Equator DA, cutting the line BA in the point H. So shall HA
+be the sign of the Suns greatest declination, then with the distance AH draw
+the Quadrant GEH, then from D upon the Quadrant DBC set the declination of the
+Sun, which is 11 degrees 31 minutes from D unto I, then draw the line IE
+parallel unto AD, cutting the Quadrant GEH in E. Then from the Center A by the
+point E, draw the line AEC, cutting the Quadrant BCD in C. So shall the Ark CD
+be the distance of the sun from the head of Aries, which is here found to be
+just 30 degrees, which is in the beginning of Taurus.
+
+CHAP. VII.
+By the elevation of the Pole, and declination of the sun, to find the
+amplitude of the sun, or his distance of rising, or setting from the true East
+or West point.
+The elevation of the Pole is 51 degrees. 32 min. the declination of the sun is 14
+degrees. 52 min. North.
+BY the eight Demonstration, first draw the line BD, then upon the Center A
+draw the Circle BCDE, then from A raise the Perpendicular CAE, then is your
+Circle divided into four equal parts: then suppose the elevation of the Pole
+to be 51 degrees, 32 minutes, which must be placed upon the Circle, from D unto
+F, then from the point F, by the Center A, draw the line FAG, representing the
+Pole of the World, F being the North Pole, and G the South Pole, then substract
+51 degrees. 32 min. from 90 degrees. and the remainder is the height of the
+Equinoctial, which is 38 degrees. 28 min. which must be placed upon the Circle
+from the Horizon B, unto the point I, then from I, by the Center A, draw the
+line IAH, representing the Equinoctial Circle. Then from I unto M set the
+declination of the Sun, being here supposed 14 degrees. 52 minutes North, then from
+the point M draw the line, or Parallel of declination MTN, parallel unto the
+Equator I A H, cutting the Horizon BD in T, then from T raise the perpendicular
+TV, cutting the Circle BCDE in V, so shall the distance CV be the true
+amplitude of the sun desired, which here is found to be 24 degrees, 21 minutes
+North.
+
+CHAP. VIII.
+By the Amplitude of the Sun, to find the variation of the Compass.
+HAving found the Amplitude of the Sun by the last Chapter, first observe with
+a Compass, or rather with a Semicircle, upon what degree and minute the Sun
+rises or sets, beginning to reckon from the East or West, and ending at the
+North or South at 90 degrees: and when you have diligently observed the
+Magneticall rising or setting, by the Semicircle, or by some other like fitting
+Instrument: and also the true Amplitude found, as is declared in the last
+Chapter, the difference of these two Amplitudes, is the variation of the
+Compass: But when the Sun rises upon the same Degree of the Compass, as is
+found by the Scale, the variation is nothing, but the Needle points directly
+unto the Poles of the World, which by M. Mulinux was affirmed to be at the
+Westernmost part of S. Michaels, one of the Islands of the Azores, from whence
+he will have the Longitude reckoned. Secondly, when the Sun is in the
+Equinoctial Circle, where he hat^ no Amplitude, look what distance the Compass
+makes the Sun to rise from the East or West of the Compass, the same distance
+is the Compasses variation, from the North or South. Thirdly, if the Sun rise
+more to the South of the Compass, or sets more to the North of the
+Compass, than is showed by the Scale, the difference betwixt the Amplitude
+given by the Scale, and the Amplitude given by the Needle, is the variation of
+the Compass from the North Westward. Fourthly, if the Compass shows the Sun
+to rise more Northward, or set more Southward, than is showed by the Scale, the
+difference is the variation of the Compass, from the North Eastward. Fifthly,
+if the Scale show the Amplitude of the Sun rising Southerly, and the Compass
+show it to be Northerly, add both the Amplitudes together, and they show you
+the variation Westernly.
+
+CHAP. IX.
+The place of the sun being given, to find his declination, by a whole Circle.
+The suns place is the tenth degree of Taurus.
+ACcording unto the eighth Demonstration, first draw the Circle BCDE, then draw
+the Horizon BAD, and then the Equinoctial IAH, as is before taught: and then
+the Tropic of Cancer KL, twenty three degrees and a half from the Equinoctial:
+then draw the Tropic of Capricorn PO, of like distance from the Equinoctial,
+and after from K to O draw the Ecliptic line KAO. And when you have thus laid
+down the Sphere, suppose the Sun to be in the tenth degree of Taurus, at which
+time his declination is desired. And in regard the Sun is more near unto the
+Tropical point Cancer, than unto Capricorn; first find how many degrees he is
+from the Tropic of Cancer, and you shall find him to be 50 degrees; therefore
+take with your Compasses 50 degrees from the Chord, and apply it from the
+Tropical point Cancer at K, unto V, upon one side, and unto P on the other
+side: then draw the Line UP, cutting the Ecliptic KO in the point R, then from
+R draw the Line MRN parallel unto the Equinoctial IAH, and cutting the Quadrant
+BC in the point M. So shall the arc MI be the declination of the Sun desired,
+which being applied unto your Scale, gives you 14 degrees. and 52 minutes.
+
+CHAP. X.
+The elevation of the Pole, and declination of the sun given, to find his
+height in the vertical Circle.
+The Pole is elevated 51 degrees 32 minutes, the declination of the sun is 14
+degrees 52 minutes North, his height in the Vertical Circle is found as
+follows.
+FIrst, according unto the former Chapter, draw the Circle BCDE, then the
+Horizon BAD, and after the vertical line CAE, then the Axis of the World FG,
+and likewise the Equator IAH, this being done, place the declination of the Sun
+14 degrees 52 minutes, upon the Circle from I unto M, and also from H unto N,
+then draw the line MN, cutting the line CAE in S, then from S draw the line
+SVV, parallel unto the Horizon BAD, cutting the Meridian Circle BCDE in VV: so
+shall the distance DVV be the height of the Sun in the vertical Circle, for the
+time demanded, which by this proposition is found to be 19 degrees and 8
+minutes.
+
+CHAP. XI.
+The elevation of the Pole, and the Amplitude of the sun, being given, to find
+the declination.
+The elevation of the Pole is 51 degrees 32 minutes, the suns amplitude is 24
+degrees 21 minutes, the declination is found as follows.
+
+
+FIrst, as in the eight demonstration, upon the Center A, draw the Circle BCDE,
+then draw the Line BAD, representing the Horizon: dividing the circle into two
+equal parts then draw the Line CAE, perpendicular to BAD, representing the
+East and West points of the Compass, then placing the elevation of the Pole
+51 degrees and 32 minutes, from D unto F, from F, by the center A* draw the
+Line FAG, which let be the Pole or Axletree of the world, then from B unto I,
+and from D unto H, set the complement of the Poles elevation: which shall
+represent the Equinoctial, in regard it makes right Angles with the Pole of
+the world, in the center A. Then from C unto V place the amplitude of the Sun,
+which is 24 degrees and 21 minutes: then from V let fall the perpendicular VT,
+cutting the Horizon BAD in the point T, then from the point T, draw the Line
+MTN parallel unto the Equinoctial IAH, and cutting the Circle BCDE in the
+points, M and N, so shall the distance, M, or HN, be the declination of the
+Sun, which was desired: which being applied unto your Scale, gives you fourteen
+degrees and fifty two minutes.
+
+CHAP. XII.
+The elevation of the Pole, the declination of the Sun, and hour of the day
+being given* to find the Almicanter.
+The elevation of the Pole is thirty degrees, the declination of the Sun is
+twenty degrees North, the hour is nine in the morning, at which time the
+Almicanter is found, as follows.
+BY the ninth demonstration, first upon the Center A, draw the Circle BCDE,
+then draw the line BD for the Horizon, then place your Poles elevation, which
+is thirty degrees, upon the Circle from D unto R, then from R by the center A,
+draw the Line RAS, representing the Axis of the World, then from B unto F place
+the complement of the Poles elevation, which is ^0 degrees, and from the point
+F, by the Center A, draw the line FAH, representing the Equinoctial line, and
+then set the declination of the Sun from F unto L* and from L draw the Line LPO
+parallel unto the Equator FAH, cutting the Axis of the World in the point P,
+then set one foot of your Compasses in the point P, and extend the other either
+unto L or unto O, and with the same distance of your Compasses, upon the Center
+P, draw the circle LNOQ, which is called the hour circle: so shall L be the
+point of twelve a clock at noon, N the place of six a clock after noon, O the
+place of twelve a clock or midnight, and Q the place of six a clock in the
+morning: Every one of the four quarters must be divided into six equal parts,
+or hours, making the whole Circle to contain twenty four parts, representing
+the twenty four hours of the day and night, then in regard the hour of the day
+was nine of the clock, which is three hours before noon, take three of those
+twenty four hours, and place them upon the circle LNOQ, from the Meridian point
+L unto K, the nine a clock point in the morning, and unto M the point of three
+a clock after noon, then draw the line MK, cutting the parallel of the Sun LO
+in the point I, then from I draw the line IG parallel unto the Horizon BAD,
+which shall cut the Meridian Circle BCDE in the point G, so shall the distance
+of G and B be the Almicanter the Sun, which was desired, which in this
+demonstration is found to be forty eight degrees and eighteen minutes.
+
+CHAP. XIII
+The elevation of the Pole, the Almicanter, and declination of the Sun, being
+given, to find the hour of the day.
+The elevation of the Pole is thirty degrees, the declination of the Sun, is
+twenty degrees, the Almicanter of the Sun, is forty eight degrees, and
+eighteen minutes, the hour of the day is found as follows.
+FIrst, as in the ninth demonstration, upon the Center A, draw the Circle BCDE,
+then draw the Diameter BD, representing the Horizon, then from D unto R, set 30
+degrees, the elevation of the Pole, then from R unto the point A, draw the line
+RAS, representing the Pole of the World, then draw the line FAH, crossing the
+Pole in A, at right Angles, cutting the Meridian circle in F, then from F, set
+twenty degrees, the declination of ^he Sun unto L, and then from the point L,
+draw the line LPO, representing the parallel of the Sun, and cutting the Pole
+of the World in P, then placing one foot of your Compasses in P, extend the
+other unto L, with which distance of your Compasses, draw the hour Circle LNOQ,
+then from the Horizon at B, place the Suns Almicanter: (which is forty eight
+degrees, and eighteen minutes*) upon the Quadrant BGL, from B unto G, then from
+the point G, draw the line G^ parallel unto the Horizon BAD, cutting the Line
+LO, in I, then from the point I, draw the line KIM, parallel to the Pole of
+the World QAN, cutting the Circle LNO, in M, then let LN, be divided into six
+hours, whereof LM, are there: whereupon I conclude, that is is three hours
+from noon, that is, at nine a clock in the morning, or three in the after noon.
+
+CHAP. XIV.
+The Latitude of the place, the Declination of the Sun, and the Altitude of the
+Sun being given, to find the Hour of the day: By a n^w way differing from that
+in the former Chapter.
+degrees. min. degrees. m The Suns Altitude is 48 18 The Lat^ude of the place is 30 00
+its Comple. 60 00 The Suns declination is 20 00 N. 70 00 Sum 130 00 difference
+10 00
+
+The Complement of any arch less then 90 degrees, is so much as the arch wants
+of 90 degrees, as the Complement of 20 degrees is 70 degrees, etc.
+FIrst, find the sum and difference of the Complement of the Suns declination,
+and the Complement of the Latitude, as above is done, where the sum is 130 degrees.
+and the difference 10 degrees. Then your Compasses being opened to the Radius of
+your line of Chords: describe the Semicircle ABC, and divide it into two
+Quadrants by the perpendic^lar BD, then out of your line of Chords; take 48
+degrees. 18 min. the Suns Altitude, and set it from B to E, and draw E F parallel
+to B D: Then from your line of Chords take 130 degrees. the sum, and set it from A
+to G, (or its Complement to 180 degrees. which is 50 degrees. from C to G) and draw the
+line GH also parallel to BD. Again, out of your line of Chords, take 10 degrees.
+(which is the difference) and set that distance from A to K, and draw K L
+parallel to OF or BD.
+
+This done, take with your Compasses the distance from F to H, and seting one
+foot in A, with the other describe the Arch MP, likewise take the distance from
+F to L, and seting one foot in C, with the other describe the arch NQ. Lastly
+draw the straight line PQ* which only touching the two former arkes will cut
+the line AC in O, Upon the point O, therefore, erect the perpendicular OR,
+cutting the Semicircle in R, so will CR being measured upon your line of
+Chords, give you the degrees of the Sun from the South part of the Meridian,
+which here you will find to be 45 degrees, which make 3 hours, allowing 15
+degrees for an hour, for 15 degrees make one hour, and one degree makes 4
+minutes of an hour, so that it is either 9 of the clock in the morning, or 3 in
+the afternoon.
+
+CHAP. XV.
+The Almicanter, or height of the Sun being given, to find the length of the
+right shadow.
+The Almicanter is 45 degrees.
+ACcording unto the tenth Diagram, draw the line AF, and upon the center A,
+raise the perpendicular AC, then upon the center A, draw the Quadrant CDF, then
+suppose the height of your Gnomon, or substance yelding shadow be the Line, AB,
+which is to be divided into 12 equal parts, which Gnomon, I have here made
+just 12 degrees of the equal Leagues of the Scale, then from B, to the top of
+the Gnomon draw the Line BE, parallel unto AF, then set the Almicanter which is
+forty five degrees from F, unto D, and from the point D, draw the Line DA,
+cutting the Line BE in the point G, so shall BG, be the length of the right
+shadow desired, which here is found to be fourteen degrees and eighteen
+minutes, which is but just the length of your Gnomon, and 2/12 and of a twelfe
+over: Note that the right shadow, is the shadow of any post, staff, or
+steeple, that stands at right Angles with the Horizon, the one end thereof
+respecting the Zenith of the place, and the other the Naedir.
+
+CHAP. XVI.
+The Almicanter, or height of the Sun being given, to find the length of the
+contrary shadow.
+The Almicanter given is 70 degrees.
+BY the verse or contrary shadow, is understood the length of any shadow, that
+is made by a staff or Gnomon, standing against any perpendicular wall, in such
+a manner that it may l^e parallel unto the Horizon, the length of the contrary
+shadow, does increase as the Sun rises in height, whereas contrariwise the
+right shadow does increase in length, as the Sun does increase in height: the
+way to find the verse shadow is as follows. First, draw your Quadrant as is
+taught in the last Chapter, wherein let AB, be the length of the Gnomon,
+likewise from B, draw the line BE, parallel unto AF, as before, then set your
+Almicanter from C upon the Quadrant which is given to be seventie degrees and
+it will extend from C unto H, then from the point H draw the line HA, cutting
+the line BE, in the point K, so shall KB, be the length of the contrary shadow,
+which here is found to be thirty four degrees and eight minutes, or twice so
+long as your Gnomon, and ^0/^2 about part of a twelfth more.
+
+CHAP. XVII.
+The latitude of the place, the Almicanter, and declination of the Sun being
+given, to find the Azimuth.
+The latitude of the place is fifty one degrees, thirty minutes, the
+declination of the Sun twenty degrees North, the Almicanter thirty eight
+degrees thirty minutes, the true Azimuth of the Sun is desired.
+
+
+FIrst as in the eleventh Demonstration upon the Center A, draw the Circle
+BCDE, then draw the Diameter BAD* and from D unto F, set the Elevation of the
+Pole, which is one and fifty degrees, and thirty minutes, whose complement is
+eight and thirty degrees and thirty minutes, which must be placed from B unto
+H, then from H, draw the line HAL, representing the Equinoctial line, and from
+F, draw the line FAG, representing the Pole of the World, then from H unto P,
+and from I unto Q, set the declination of the Sun, which is twenty degrees,
+and by those two points draw the line PQ, for the Parallel of the Suns
+declination; then upon the Circle from B unto H* set the Suns Almicanter,
+thirty eight degrees, and thirty minutes, then from H, draw the line HR*
+parallel unto the Horizon cutting the Suns parallel POQ in O, then draw the
+Line TVAE Perpendicular unto the line BAD, in the Center A, and cutting the
+line HVR, in V, then seting one foot of your Compasses in the point V, extend
+the other unto R, and with the same distance draw the Semicircle HLR, then draw
+the Concentricke Circle upon the Radius of the Scale MTN, and where the Line
+POQ, and the line MON do meet in the point V, raise the Perpendicular OL,
+cutting the Semicircle HLR in L, then lay the Scale from the Center A to the
+point L, and draw the line LK, cutting the Semicircle MTN, in K, so shall M K,
+be the true distance of the Sun from the East, or West point Southward, or the
+Suns true Azimuth, which is here found to be seventie two degrees, and forty
+minutes from the South part of the Meridian.
+
+CHAP. XVIII.
+The Latitde of the place, the Declination of the Sun, and the Altitude of the
+Sun being given to find the Azimuth: By a new way differing from that in the
+former Chapter.
+degrees. min. S. degrees. m. The Suns Declination is 20 00 The Latitude of the place
+is 51 30 its Comple. 38 30 The Suns Altitude is 12 00 78 00 Sum 116 difference
+39 30
+
+HAving found the sum and the difference of the complement of the Suns
+Altitude, and the complement of the Latitude as above is expressed where you
+find the Sum of them to be 116 degrees. 30 min. and their difference 39 degrees. 30
+min.
+
+These things being premised, with your Compasses being opened to 60 degrees. of
+your line of Chords, describe the Semicircle ADC, and upon the Center B, erect
+the perpendicular BD, then First, out of your line of Chords take 20 degrees. the
+Suns declination, and set that distance from D to E, (if the Sun have South
+declination (as in this Example it has) or from D to O, if the Sun have North
+declination) and draw the line E F parallel to DB.
+
+Secondly, take 116 degrees. 30 min. the sum out of your line of Chords, and set it
+from C to G, and draw the line GK parallel D to B,
+
+Thirdly take 39 degrees. 30 min. the difference, out of your line of Chords, and
+set it from C to H, and draw the line HL parallel also to BD.
+
+Fourthly Take in your compasses the distance from F to K, and setting one foot
+in A, with the other describe the arch S.
+
+Fifthly, Take the distance from F, to L, and setting one foot in C, with the
+other describe the arch R.
+
+Sixthly, Lay a rular, that it may only touch these two arches, S, and R, and
+by it draw a line as SR, cutting the line AC in N.
+
+Lastly, upon the point N, erect the perpendicular NM, then the distance AM,
+measured upon your Line of Chords, is the Azimuth from the South part of the
+Meridian, which in this example will be found to be 34 degrees. MC the Azimuth from
+the North 146 degrees. And MD, the Azimuth from the East or West, 56 degrees.
+
+CHAP. XIX,
+The place of the Sun being given, to find the right ascension, Suppose the Sun
+be in the twentieth degree of Taurus, his right ascension is found as follows.
+FIrst, as in the 12 demostrastion, draw the line BAF, for the Pole of the
+World, the ^ upon the Center A draw the Circle BCDE, then from the Center A,
+raise the Perpendicular CAE, for the Equator, then place your greatest
+declination from C unto Q, and from E unto P, then daw the line QAP, which does
+represent the Eclipticke line, then in regard the Sun is in the twentieth
+degree of Taurus, which is forty degrees, from the head of Cancer, which forty
+degrees, place from Q unto L, and unto K, then draw the line KL, cuting the
+Eclipticke in I, then from the point I draw the line HI, parallel unto CAE,
+cuting the Pole of the World in O then set one foot of your Compasses in O, and
+extend the other unto G, with which distance draw the Semicircle HDG, then
+opening your Compasses unto the Radius of the Scale, and upon the Center O,
+likewise draw the Circle HNFG, then draw the line IM, parallel unto AOD,
+cutting the Semicircle HMDG, in M, then lay your Scale from the Center O, unto
+the point M, and draw the Line NM, cutting the Concentricke Circle in N, so
+shall the distance NF, be the right ascension, which is here found tobe two and
+forty degrees, seven and twentieminutes.
+
+CHAP. XX.
+The elevation of the Pole, and declination of the Sun given, to find the
+difference of the ascensions.
+The Poles elevation is 51 degrees, 32 minutes, the declination of the Sun is
+21. degrees.
+FIrst, as in the 13th. demonstration, draw the Line BAK, representing the
+Horizon, then upon the Center A, draw the Circle BCDEF, Then from K unto D, set
+the elevation of the Pole which is 51 degrees, and thirty two minutes: then
+from the point D, by the Center A, draw the Line DAF, representing the Pole of
+the World, then from B unto C, set the Complement of the Poles elevation which
+is thirty eight degrees, and 28 minutes: then from C by the center A, draw the
+line CAE, representing the Equinoctial Line; then from C unto G* and likewise
+from E unto H, for the declination of the Sun, which is 21 degrees, then from
+G unto H, draw the parallel of the Suns declination, cutting the Pole of the
+world in L, and he Horizon in I, then set one foot of your Compasses in the
+point L, and extend the other unto G, then with that distance of your Compasses
+draw the Semicircle GMNH, then opening your Compasses unto the Radius of your
+Scale, upon the same Center draw the Concentricke Circle, GXOH, then from I,
+where the declination of the Sun does cut the Horizon, draw the Line IN,
+parallel unto the Pole of the World AM, cutting the Circle GMH in N, then lay
+your Ruler from the point I unto the point N, and so draw the line NO, cutting
+the Concentricke Circle GXOH, in O, so shall the distance of O and X, be the
+difference of the ascentions, which is here found to be eight and twenty
+degrees, and four and fifty minutes.
+
+CHAP. XXI.
+The right ascension of the Sun or of a Star being given, together with the
+difference of their ascension, to find the oblique ascension or descention.
+The Sun is in the 4th. degree of Sagitarius, his right ascension is 242
+degrees, or 16 hours 8 minutes, the difference of ascension is 1 hour 53 min.
+or 28 degrees. 28 min. the oblique ascension or desce^tion is required.
+THe right ascension of any point of the Heavens being known, the difference of
+the ascension is either to be added thereunto, or else to be subtracted from
+it, according as the Star is situate in the Northern or Southern Signs: As
+for example, if the Sun be in any of these six Signs, Aries, Taurus,
+Gemini, Cancer, Leo, or Virgo, then the difference of the ascentions is to be
+subtracted from the right ascension, and the remainder is the oblique
+ascension. Suppose therefore the Sun to be in the fourth degree of Gemini,
+where the right ascension is found to be four hours, and 8 minutes, or 62
+degrees, and the difference of ascension where the Pole is elevated 51 degrees,
+is found to be one hour 53 minutes, otherwise 28 degrees 50 minutes, which
+being taken from the right ascension, leaves two hours and 16 minutes, or 33
+degrees and 42 minutes, which is the oblique ascension of the Sun in the
+fourth degree of Gemini. But if the Sun be upon the South side of the
+Equinoctial, either in Libra, Scorpio, Sagitarius Capricornus, Aquarius, or
+Pisces, then the difference of the ascentions is to be added unto the right
+ascension, and the Product will be the oblique ascension. Suppose the fourth
+degree of Sagitarius is given, for which Sign and degree the oblique ascension
+of the Sun is desired, his right ascension being then found to be 242 degrees,
+or 16 hours 8. min. the difference of the ascensions is one hour, 53 minutes,
+or 28 degrees, 18 minutes: which being added unto the right ascension, makes 18
+hours, and one minute; or in degrees 270 degrees, and 18. minutes: which is the
+oblique ascension of the Sun, when he is in the fourth degree of Sagitarius.
+And if you would find the oblique descention, you must add the difference of
+the ascentions unto the right ascension, when the Sun is in these six Signs.
+Aries, Taurus, Gemini, Cancer, Leo, Virgo: and contrariwise, when the Su^n is
+in the other six Signs, you mnst substract the difference from the right
+ascension, and you shall have the oblike descention of the Sun or any Star,
+whose right ascension and difference of ascentions is known. But it is to be
+understood, that this manner of operation, does serve no longer than you are
+upon the North side of the Equinoctial. For if the South Pole be elevated, the
+work is contrary: for so long as the Sun is in any of the Northern Signs,
+the difference of the ascentions is to be added unto the right ascension, to
+find the oblique ascension. And contrariwise, subtracted to find the oblique
+descention. Likewise if the Sun or Star be in the South^rn Signs, then is
+the difference of ascentions, subtracted from the right ascension, to find
+the oblique ascension, and added, to find the oblique descention.
+
+The end of the Second Book.
+THE SEA-MANS GLASS: The Third Book.
+Showing how by the Plain-Scale, to delineate Houre-lines upon all kind of
+Upright Plains, either Direct or Declining, in any Latitude. The figure of the
+plain Scale.
+
+
+CHAP. I
+How to draw hour lines upon an Horizontal Plain, in any Latitude.
+With the Radius of your line of Chords, upon E as a Center, describe the
+Circle ABCD, and cross it with he diameters AB, and CD. This done, out of the
+line of Chords take the complement of the Latitude of your place (which we here
+suppose to be London, whose latitude is 51 degrees. 30 m. and its complement 38.
+degrees. 30 m.) which set from B to G, from G to N, and from D to M; then lay a
+ruler from A to G, and it will cut the line CD in H, and from A to N it will
+cut C D in O, and from A to M it will cut the same line in F.
+
+This done, upon O (as a center) place one foot of your compasses, and extend
+the other foot to F, and with this distance describe an arch of a circle, which
+(if the rest of your work be true) will fall just in the points A and B, and
+so constitute the arch AFB, representing the Equinoctial Circle, and so we
+shall hereafter call it.
+
+Having drawn the Equinoctial AFB, divide the Semicircle ADB, into 12 equal
+parts in the points ***, etc. Then laying a ruler to the Center E, and every
+one of these marks *** etc. it will divide the Equinoctial circle into 12
+unequal parts in the points ^^^^ etc.
+
+Again, Lay a ruler to H, and every of these unequal parts ^^^^, etc. it will
+cut the semicircle ADB in the points 7, 8, 9, 10, 11, 12, 1, 2, 3, 4, 5 and 6.
+
+Lastly, If you lay a ruler on the center E, and from thence draw right lines
+to the several points 7, 8, 9, 10, etc. they shall be 12 of the true
+houre-lines belonging to an horizontall dial for the latitude of 51 degrees,
+30 minutes.
+
+But for the hours before 6 in the morning, and after 6 at night, do thus;
+draw the hour lives of 4 and 5 in the evening, quite through the center E, and
+they shall be the hours of 4 and 5 in the morning; also, 7 and 8 in the morning
+drawn through the center, shall give the hours of 7 and 8 at night, as in the
+figure.
+
+Now, for the Style or Cock of your dial, you must take out of your line of
+Chords, the degrees of your Latitude, viz. 51 degrees, 30 minutes, and set it
+from D to S, and draw the line D S, so shall the triangle DES be the just
+pattern for the Cock of your dial; which being made of brass, or the like,
+and set exactly upright upon the hour line of 12, your dial is wholly
+finished,
+
+CHAP: II.
+Concerning direct South Dials.
+A Direct South dial is no other then an horizontall dial, the making
+whereof is before described, the difference consisting only in the numbering of
+the hours, and in the placing of it, the one being to be fixed on a post or
+the like, and the other to be fixed to a Wall which exactly beholds the South,
+I say here is no other difference: for degrees degrees An Horizontall Dial for
+the Latitude of 10 Will be a direct South Dial in the Latitude of 80 20 70 30
+60 40 50 50 40 60 30 70 20 80 10
+
+And the like in any other Latitude, as 15, 16, 33, etc.
+
+CHAP. III.
+Of driect North dialls.
+A Direct North dial, is the same with a direct South dial; for, i^ you take
+a South dial and turn it upside down, causing the Sc^le or cock to point
+upwards, as the Cock of the South does down wards; and leaving out the hours
+near the Meridian, in these Northern Latitudes; as the hours of 9, 10, 11, and
+12 at night, and 1, 2 and 3 in the morning, all which time the Sun is under
+the Horizon. I say a South dial so disposed, and fixed against a direct North
+Wall, shall give you the true hour of the day.
+
+CHAP. IV.
+How to draw the hour lines on a direct East or West plain.
+A Direct East or West plain, is such a plain as direct (...) lies open to the
+East or West points of the heavens; as the North and South plains do to the
+North and South points. To make such a Dial, Upon the plain CBDM, (in some
+convenient place thereof toward the lower part) assume the point B, then with
+the radius of your line of Chords, upon B as a center, describe the obscure
+arch AF, then fromyour Chord, take the Complement of the Latitude of your
+place, 38 degrees. 30 minutes, and set it from A to F, then from B, through F,
+draw the line BE, representing the Equinoctial Circle, which in these plains,
+(as also in a Polar Dial) becomes a straight line. In this line EB, assume two
+points, one toward one end, and the other toward the other end of the same
+line, as the points G and N, one for the hour of VI, as N: the other for the
+hour of XI, as G: through these two points N and G, draw two right lines quite
+through your plain, perpendicular to the Equinoctial line BE, as in the
+figure, which two lines shall represent Eleven and Six ^ clock
+
+This done, upon the point G, with the radius of your Chord, descirbe an occult
+arch of a Circle H I, and set thereon 15 degrees fr om H to I, then from G,
+through I, draw the line G K, cutting N Min K, On K, as a center, with the
+radius of your Chord, describe the quadrant K S T, which divide into 6 equal
+parts in the points ^^^^, through which points and K, draw the lines, K^, K^,
+etc. cutting the Equinoctial EB in **** etc. Through these points ***, etc.
+draw right lines quiet through your plain perpendicular to the equinoctial,
+which will be parallel to your lines of VI, and XI, and will be the true hours
+of VII, VIII, IX, and X, then the like distances of VII and VIII, set above VI,
+on the other side, and drawn parallel thereto, shall be the true hours of IIII.
+and V. and thus have you all the hours of an East dial truly drawn, which is
+from Four in the morning, till Eleven at noon, and is the same with a West
+dial only naming the hours contrary: for, in the East dial 4, 5, 6, 7, 8, 9,
+10, 11, in the morning, are in the West dial 8, 7, 6, 5, 4, 3, 2, 1, h in the
+evening.
+
+The Style of either of these dials, is a t in plate of brass, made directly
+of the breadth of the distance between the hours of VI, and IX, and must be
+placed directly perpendicular upon the line of VI, and so is your dial
+finished.
+
+CHAP. V.
+Of upright declining Plains.
+BEfore we come to draw the hour lines upon a declining plain, two things are
+first to be discovered, viz.
+
+First. The height of the pole above the plain, which is the height of the Cock
+or Style.
+
+Secondly, The deflexion, or distance of the substile from the Meridian or line
+of Twelve a Clock.
+
+1. To find the height of the Pole above a declining Plain.
+With the tadius of your line of Chords, upon A, as a center, describe the
+Quadrant AB C, then your Latitude being 51 degrees. 30 min. take it out of your
+line of Chords, and set it from B to F, and draw the line ED parallel to AB,
+cutting the line AC in D, then with the distance DE, on the center A, describe
+the Quadrant GHR. Then supposing your plain to decline 30 degrees. set 30 degrees. from
+B to F, in the Quadrant BEC, and draw the line FA cutting the Quadrant GHR in
+H, through which point H, draw the line SHN parallel to CA, and cutting the
+Quadrant BE C in N, so shall the arch CN be the height of the Pole above the
+plain, and in this example contains 32 degrees. 37 min.
+
+2. To find the Deflexion, or the distance of the Substile from the Meridian.
+Out of this figure, take the distance HS, and set it in the line DE, from D to
+K; through which point K, draw the line AKL, cutting the Quad ant BC in L; so
+shall the arch CL be the distance of the Substile from the Meridian: and in
+thls Example will be found to be 21 degrees 42 minutes.
+
+CHAP. VI.
+How to draw the Houre-lines upon an upright Plain declining from the Meridian
+toward the East or West.
+WE will here take for Example a South erect plain, declining Eastward 30 degrees.
+
+Having (by the Fifth Chapter of this Book) found the Defl^xion of such a plain
+to be 21 degrees. 42 min. And the height of ^he ^^ile (by the same Chapter) to be
+32 degrees. 37 min. we may proceed to draw the Dial in manner following.
+
+With the radius of your line of Chords, on the Center C, describe the Circle
+XNSW; and in it, draw SN through the Center C, for the Meridian, or line of 12.
+Then the deflexion being found to be 21 degrees. 42 min. set that from N to E, and
+draw the line ^C through the center to G* This line represents the Substilar
+line of your Dial, upon which line the Style or Co^k must stand* Also, out
+from your line of Chords take 32 degrees. 37 min. the height of the S^ile, and set
+that distance from E to H, and draw the line CH for the Style of your Dial; so
+shall the Triangle EACH, be the true pattern for the Cock of your Dial.
+
+The Substilar line EG being (...) ^^aw the line XW through the center C, and
+perpendicular to EG. This done, take the distance EH, (which is equal to the
+Styles height) and set that distance from A to B, and from W to D. Likewise,
+take the distance from W to B, and set it from B to I. These three points I, B
+and D, being found in the circumference of the Circle XNSW, lay a ruler from X
+to I and it will cut the substilar line EC being extended in the point G, which
+is the center upon which the equinoctial Circle must be described. Again, a
+ruler laid from X to B, will cut the substilar line in F, and a ruler laid from
+X to D, will cut the substilar in O. Now, if you set one foot of your Compasses
+in G, and extend the other to X or W, you may describe the Equinoctial circle
+XOW, which (if you have not erred in your former work) will pass exactly
+through the point O in the substilar line before found. In the next place, if
+you lay a Ruler from F to N, it will cut the Equinoctial circle in P, and a
+ruler laid from C to P, will cut the Dial circle in V.
+
+These things being performed, the next thing is to draw the hour lines, which
+will be easily effected if you (...) the former directions.
+
+First, from the point V last found, begin to divide your hour circle into 24
+equal parts (or only one half of it into 12 parts) which you may do by taking
+15 degrees. out of your line of Chords and set that distance on both sides of V at
+the marks etc. so many times as the plain is capable of hours.
+
+
+
+This done, If you lay a ruler on the center C, and every of these points ****
+etc. you shall divide the equinoctial Circle into 12 unequal parts in the
+points ^^^^ etc. Now a ruler laid from F to every of these unequal points
+^^^^, etc. will divide the hour circle into 12 other unequal parts marked
+with 4. 5. 6. 7. 8.* 9. 10. 11. 12. 1. on the one side of V, and with 2. 3* ^n
+the other side of V.
+
+Lastly, a ruler laid from C to the several points 4. 5. 6. 7. 8. 9. 10. 11.
+12. 1. 2. 3. and lines drawn by the side thereof they shall be the true hour
+lines belonging to such a declining plain of 30 degrees. in the Latitude of 51 degrees.
+30 min. But if you desire more hours then 12, the equinoctial may be divided
+into more unequal parts, being continued beyond X and W, and if you will,
+quite round the whole Circle, but that is needless without you would make 4
+Dialls in the making of one as you may easily do. For,
+
+The hours that are on the West side of the Meridian of a South East dial,
+being drawn through the Center, will make a North West dial of the same
+declination. And the hours on the east side of the Meridian of a South West
+dial; being drawn through the center, will produce a North East dial of the
+same declination. And Again, the real hour lines of a South East dial being
+drawn on the other side of the paper, and the hours named by their Complements
+to 12, that is, 10 for 2, 9 for 3, 8 for 4, etc. will make a South West dial
+of the same declination.
+
+CHAP. VII.
+How to place any upright dial truly.
+ALL upright dialls, in what oblique latitude soever have the Meridian
+perpendicular to the horizon, wherefore to set your dial exact, hang a line
+with a plummet at the end thereof, and with a nail fixed in the line of 12
+toward the top thereof, to hang the plummet upon, apply the dial to the place
+where it is to be fixed, so that the line and plummet may hang just down upon
+the line of 12, neither inclining on one side or the other, the dial thus
+fixed if the declination were truly taken, and the dial rightly made, by the
+former directions, shall at all times (the Sun shining upon it) give you the
+true hour of the day.
+
+CHAP. VIII.
+How to insert the halve and Quarters of hours in all dialls.
+THe halves and quarters of hours are drawn in all plains by the same rules,
+and the like reason, that the hours are inserted. Therefore take notice that if
+you would insert the half hours into any dial, you must divide your
+Equinoctial Circle into 24 equal parts instead of 12, and if you would insert
+the quarters, then you must divide it into 48 parts, and then proceed in all
+respect, as you did for the whole hours.
+
+CHAP. IX.
+How to find the declinatioon of any upright Wall.
+THe declination of a plain is an arch of the horizon comprehended between the
+pole of the plains horizontall line, and the meridian of the place.
+
+To find this declination, two observations must be made, the Sun shining, and
+both at one instant of time (as near as may be.) The first is the horizontall
+distance of the Sun from the pole of the plain. The second is the Suns Altitude.
+
+First, to find the horizontall distance. Apply the side of a Quadrant to your
+plain, holding it (as near as may be) horizontall, that is to say, level, Then
+holding up a third and plummet, which must hang at full liberty, so that the
+shadow of the third may pass directly through the center of the Quadrant, then
+diligently note ^ through what degree of the Quadrant the shadow passed, and
+count those degrees from the side of your Quadrant which is perpendi^cular to
+the plain, for those degrees are the Horizontall distance.
+
+Secondly, At the same instant, take the Suns a^^itude, these two being
+heedfully taken, will help you to the plains declination by th rules following.
+
+By the 17 or 18 Chapters of the Second Book find the Suns Azimuth. Then
+observe whether the Sun be between the pole of the plains horizontall line and
+the North or South points, or not.
+
+If the Sun be between them, add the Azimuth and horizontall distance
+together, and the sum of them is the declination of the plain.
+
+If the Sun be not between them, substract the lesser of them from the greater,
+and the difference shall be the declination of the plain. These rules show you
+the quantity of your plains declination. But,
+
+CHAP. X.
+Showing how to know whether your plain declin from the Meridian toward either
+the East or West.
+YOu must take notice in your observation, that if the Meridian point fall
+between the Azimuth and the pole of the plains horizontall line, then does the
+plain decline to the Coast contrary to that wherein the Sun is, that is to say,
+if the Sun be to the Eastward of the Meridian, the plain declines to the
+Westward, But if the Meridian point be not between the forementioned distance
+and the pole of the plain, then does the plain decline to the same Coast in
+which the Sun was at the time of observation.
+
+CHAP. XI.
+Concerning Polar Dials.
+A Polar dial is made in all respects as an East or West Dial is made, only
+the line of 6 a clock in the East or West Dial, is 12 a clock in the Polar
+Dial, the hour of 7 is 1, of 8 is 2, of 9 is ^, of 10 is 4, and of 11 is 5.
+Also the hour of 5 in the East or West Dial, is 11 in the Polar, of 4 is 10,
+of 3 is 9, of 2 8, of ^ is 7, etc. The Cock of this Dial is a plate of Iron or
+Brass made of the breadth between 12 and 3 a cloock, and set perpendicular
+upon the line of 12, as in the East or West Dial it is upon the line of 6. In
+these Dialls the Equinoctial line is to lie parallel to the Horizon, and not
+to be elevated according to the complement of the Latitude of the place, as in
+the East or West Dial it is.
+
+CHAP. XII.
+Concerning Equinoctial Dialls.
+AN Equinoctial Dial is of all other Dialls, the most easy to make, for if
+you describe a Circle, and divide it into 24 equal parts, and draw lines from
+the center through eve^^ one of those equal parts, the lines so drawn shall be
+the true hour lines.
+
+For the Style of these Dialls, it is no other but a straight Wyre of any
+length set perpendicular in the Center of the Circle, whose shadow shall give
+the true hour of the Day.
+
+CHAP. XIII.
+Of such Plains as decline very far from the East or West toward the Meridian
+as 75, 80, or 85, degrees* above which plains the Pole has small Elevation.
+SUch plains as decline above 60 degrees the hour lines will come very close
+together, so that if they be* not extended very far from the center, there will
+be no sensible distance between hour and hour*
+
+To remedy this inconvenience, there are several ways, I will instance only
+in one which is familiar and easy, and that is this.
+
+When (...) have (...) your dial on a large sheet of paper, fix it on some
+large Table or smooth Floor of a Room, if the Dial you are to make be very
+large, as 5, 6, or 7* foot square, then by the side of a long Rular laid to the
+Center and every hour line, as also to the Style and Substile, draw lines to
+the full extent of the Table or Flour, and you shall find them to be of a
+competent largnesse. Then according to the bigness of your plain, cut off the
+hours. Style and Substile, leaving the center quite ou^, and yout work is
+finis^ed.
+
+CHAP: XIIII
+Concerning Declining Reclining and Inclining Dials.
+WE should now show the manner of drawing hour lines upon declining reclining
+and inclining plains, of which there are several varieties, and many cautions,
+which in this place and at this time, would be too many to ennumerate: but if
+this which has been already delivered concerning Upright decliners shall be
+kindly accepted, it shall animate me to do the like for all other plains
+whatsoever.
+
+FINIS.
+ADVERTISEMENT.
+NOte, that this Scale and all other Instruments for the Mathematics, are made
+by Walter Hayes, at the Cross dagers in Moore, Fields next door to the Popes
+head Tavern, London.
+
+
