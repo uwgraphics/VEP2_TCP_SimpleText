@@ -1,0 +1,189 @@
+A SUPPLEMENT TO A Late TREATISE, CALLED An Essay for the Discovery of some New
+Geometrical Problems, Concerning Angular Sections, resolving what was there
+Problematically proposed; and with some Rectification made in the former Essay,
+showing an easy method truly Geometrical, without any Conick Section, or
+Cubick Aequation, to sect any Angle or Arch of a Circle into 3.5.7. or any
+other Uneven Number of equal parts.
+By G.K.
+WHereas it was supposed in the former Proposal, that a straight Line could be
+drawn through the extreme Points of three or more Concentrick Arches at both
+ends (the Arches beginning or ending upon a straight Line ^oming from the
+Center of those Concentrick Arches) having equal Cords, though not equal
+Arches. Upon further consideration, it is found, that however seemingly such a
+Line may appear to be straight in many cases, as when the Radius is short, or
+the Angle very acute, yet in no case is such a Line mathematically straight,
+but is a regular Curve, and can be as regularly drawn, and by as true
+Geometrical Art, as any Parabola, or other Conick Section can, and with greater
+facility and readiness, and which any Tiro who understands nothing of Conick
+Sections, and Cubick Equations may do. The way of drawing the said Curve is
+this: Let a short cross-Rule be set at right Angles with another longer Rule,
+and let the length of the cross Rule be at pleasure 2 or 3 Inches, or more, as
+6 or 7, as ye have a mind to make the length of the Cord of each part of the
+Section of your Angle, which as in the following Figure let be 3 Inches, and
+let the just half of the cross-Rule be on the left side of the long Rule, and
+let a small Brass or Steel-Pin be fixed on the right end of the said cross
+Rule, that as the Rule is moved, may make an Impression on the Paper, as the
+point of the Compass does in drawing a Circle. The length of the longer Rule is
+to be as occasion requires, as double or triple the length of the other.
+
+Having thus prepared your two Rules, the one cutting the other at right
+Angles, and the cross-Rule fixed to it, (though it may be made also moveable on
+it) suppose the Angle given to be trisected is BAC, measured by the arch BMC.
+in order to draw the curve Line with one draught of the Hand, set the left end
+of the cross-Rule, on the point B, and from B let it run or slide along the
+line BA, and as it runs along the said Line, let the left side of the long Rule
+still run through the Center, or vertical point A, which is most easily done;
+and let it run or slide along from B toward A, until the other end of the
+cross-Rule reach at least to the line AC, or further as one pleases, and the
+Brass Pin on the other end of the cross Rule shall describe the regular curve
+FIG Having thus drawn the curve Line, at the distance of one half of the cross
+Rule draw the straight Line DE parallel to AC. and where the Curve Line cuts the
+straight line DE as at I, a Line drawn from the center A to I, shall by true
+Geometry, trisect the given angle BAC.
+
+The Demonstration.
+Seeing it is the property of these two Rules crossing each other at right
+Angles, where ever the two ends of the cross Rule terminates, to make an
+Isosceles triangle, making always two right angle triangles, whose Bases are
+equal, and the Perpendicular common to both, therefore by the 4. 1. el. Eucl.
+the Hypotenusals are equal. Therefore with Radius AI describing the arch HLIS,
+draw the Cord HI. and from I let fall a perpendicular on the line AC. as IK,
+making HI=LI=IK, therefore the arches of those equal Sines are equal, as
+HL=LI=IS. q.e.d. The same or any other Angle obtruse or acute may be trisected
+into 3 equal parts, without the curve Line, or any part of it, by finding the
+point I, which can be found without the curve line by letting the cross Rule
+slide or run along the line AB, (while the left side of the long Rule still
+runs through the center A) either upwards or downwards, until the right side
+of the cross Rule touch the straight line DE which shall be at I. And thus
+without any need of noticing or regarding the Curve Line, the Point 1 is found,
+where the two straight lines HI and DE meet together: And as thus any Angle may
+be trisected without drawing any Curve Line, so it may easily and truly be done
+without either Scale or Compass, other than what the two cross Rules are, as
+any Artist may easily perceive.
+
+
+
+If any object against this Method, as Mechanical, and not Mathematical and
+truly Geometrical, because performed by an Instrument, I shall refer them to
+two great Geometricians for its Vindication, to wit, Des Carts in his second
+Book of Geometry, and Franciscus a Schoten in his Commentary on him, argum.
+lib. 2. both which do prove that what is performed by Instruments Geometrically
+made, is Geometrical, otherwise the plainest Geometry must be rejected, because
+its Figures are drawn by Rule and Compass, both which are Instruments, and not
+only Parabolas, and other Conick Sections which are Curves, but diverse other
+Curves, yea, all such that can be drawn by Art, with the help of Instruments,
+such as they have devised, they contend to be truly Geometrical; and both of
+them in their Geometrical Treatises, use diverse Instruments for describing
+Curves Geometrically much more difficult to be made, and with more difficulty
+to be used, than what is here proposed of two simple Rules, cutting one another
+at right Angles. And seeing it has no dependence on Solids, or Algebra
+Equations, and may be done without any Curve Line, as is above showed, and
+whose demonstration wholly depends on a few easy Propositions of the first
+Book of Euclid, I see not why it may not be called Plain Geometry: And as the
+word Mechanical is used to signify a thing not Mathematically exact, but
+coming near to it by Approximation, in this sense it is not Mechanical, but
+Mathematical, and purely Geometrical, being grounded on as good demonstration,
+as any Propositions in Euclid, and being but a Corrolary from some of them.
+
+The next thing to be shown is the Quinquisection, where to make one Figure
+serve to both, I make the Cross Rule only one Inch and one 4th part from the
+middle line AM, setting off on both sides one half of the length of the cross
+Rule, draw the parallel Lines ad and be, then let the cross Rule side along the
+line AB, as in the Trisection, while the left side of the long Rule slides
+through the center A, the other end of the cross Rule shall describe a Curve, a
+part of which shall be g h, that may be continued at pleasure. Again, setting
+the right end of the cross Rule one the Point d, let it slide or move along the
+Line da, (while the left side of the long Rule runs through the center A,)
+the left end of the cross Rule shall describe a part of another Curve, meeting
+at h the other Curve. And having found the point h with radius A h describe the
+Arch v h z x y N which shall give v h=one fifth of the whole Arch, as is
+evident from the foregoing demonstration.
+
+The Quinquisection also may be made without any Curve, if two long Rules be
+jointed together like a Sector, and each have a moveable cross Rule to move on
+them at right Angles, with the long Rules. For let the center of the two long
+Rules be fixed on the center A, and let the 2 cross Rules be moved together
+from B and d, until (the left end of the one still touching the right end of
+the other) the right end of the Cross nearest to the Line a d touch upon some
+Point of it as at W, the Point at W shall give the Quinquisection as above.
+
+And thus a true Geometrical Line of Cords may be made by any Tiro, without any
+Conick Section, or Algebra Equation, and without any Table of Natural Sines or
+Arithmetical Operation; for whereas Euclid (11.4.) has taught how to find the
+Cord of 36 degr. and also it is found by Quinquisecting the half Circle, as is
+above showed, it remains only to trisect the Arch of 120 degr. which gives the
+Cord of 40, and 36 taken from 40, leaves 4 degr. which bisected gives 2, and
+that bisected gives 1, which is the one 360th part of the Circle, and one 90th
+of the Quadrant; and this is more methodical than to teach a beginner to make
+his Line of Cords, for projecting of Angles, by sending him to Conick Sections,
+and Algebra Equations or the Table of Natural Sines, which he is not capable at
+his entry, nor after he has made some good progress to understand (it being to
+teach ignotum per ignotius an unknown thing by a more unknown) quite contrary
+to all good method of true Science, such as Geometry is. The method of the
+Quinquisection here delivered, sufficiently shows without example, any other
+Section desired.
+
+The Corrolaries mentioned in the former Treatise, with the Rectification here
+made, are all valid, some of the chief of them I shall here mention.
+
+
+
+1. One great Use is to teach a beginner how to make a true Line of Cords, as
+is above showed, and how to divide a Circle into any parts required.
+
+2. Another great use Descartes shows in his third Book of Geometry, for the
+resolving any such Equation in Algebra as z 3=+ p zq, where the Root z is an
+unknown quantity, and can be found by the Trisection of an Angle.
+
+3. A third great use is to give some New Promblems in Practical Geometry, one
+whereof I shall here show. Let a straight Line A F be given, (see the second
+Figure) and it is required on the point A to erect an Isosceles ABC, whose side
+BC produced, shall terminate on a limited point D, under the given straight
+line AF.
+
+The construction is thus, draw a straight Line from D to A, as D A, next make
+the right Angle FAE. Divide the angle EAD into three equal parts, and with
+radius AD describe the Semicircle GFE. From C to B set off GB=ED. Then draw the
+line AB, and from B draw the line BCD, which shall form the Isosceles triangle
+ABC, whose side BC being produced, shall terminate on D. q.e.f. the use of this
+is obvious in Architecture.
+
+4. A fourth great use is to give us some New Problems in Geography and
+Navigation.
+
+Example.
+
+There are four places A. B C. D so situated. A is distant from D 100 Leagues,
+and bears South-Easterly from it 70 degr. B is distant from A 100 Leagues
+South-Westerly. C is distant from B 100 Leagues North-Westerly C and A are in
+the same Latitude and so that these three places B. C. D lie in a straight Line
+one from another.
+
+Q. What is the distance betwixt these two places, B and D, and the Course on
+the Rhumb Line betwixt A and B, and the distance betwixt A and C.
+
+The Resolution. Divide the angle EAD into three equal parts, and make CAB=one
+third part of EAD, and draw the line BAD. Thus the four places A. B. C. D shall
+be duly situated, and an Isosceles Triangle shall be formed ABD, whose side
+AB=AD=100 Leagues, and the angle BAD=86 degr. 40. consequently by plain
+Trigonometry, the angle of the course GAB being found, which is 23 degr. 30
+min. the angle ABD, its double is 46 degr. 40=ADB, by the Rule of Opposits.
+
+As the Sine of 46 d. 40 to AD 100 Leagues, so the Sine of 86. 40 Log.
+9.861757 2.000000 9.999265 11.999265 9.861757 to BD 137. ^. fere 2.137508
+
+
+From which substracting BC 100 Leagues, there remains CD 37. ^. as was
+required.
+
+A Fifth great use of the Trisection, and other Sections is, having the Ratio
+of any 2 Angles given in any plain. Triangle, to find the quantity of them, if
+the quantity of the 3d Angle be given, without any regard to their sides. What
+other uses these Angular Sections may have, is left to the search of
+Industrious Artists.
+
+London, Printed for the Author, and are to be had at the Three Pigeons over
+against the Exchange, and at his House in Pudding-lane, at the Sign of the
+Golden Ball, where he Teaches the Mathematical Arts.
+
+

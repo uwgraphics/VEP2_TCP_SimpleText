@@ -1,0 +1,280 @@
+NOTES Showing how to get the Angle OF PARALLAX OF A COMET, Or other
+PHENOMENON At Two Observations, To be taken in any One Station, or Place of
+the Earth, and thereby the distance from the Earth.
+
+By. R. HOLLAND.
+
+OXFORD, Printed by L. LICHFIELD, Printer to the University. for RICHARD DAVIS,
+1668.
+
+TO THE READER.
+IN this I mean to be as brief as conveniently I may, intending only the
+practical part, therefore I set not down the Diagrams of Demonstration, which
+may be found in Authors, but refer to the places where they may be seen by
+such as think good to look upon them, only in the 13, and 14 Notes I have set
+forth such Figures for Demonstration as are elsewhere wanting. Moreover I advise
+the Reader to be prepared before hand with Trigonometrie, called also the
+Doctrine of Triangles, for without it nothing can be calculated, which is
+requisite in this desired Art.
+
+Of the Parallax
+Definitions.
+I. PArallax, that which I intend ^o speak of, and to find, is only the Angle
+a, c, b, contained between Two Lines, the one a, c, drawn from the Center of
+the Earth, the Other b, c. from the Superficies thereof, to the Center of a
+Comet or other Phenomenon, as in the Figure following.
+
+But in an other sense, it is taken for an Arch of the Eight Sphereh,
+comprehended between the Lines a, c, and b, c, continued forth, and is called
+the Diversity of Aspects, such is the Arch d, e, in the Figure.
+
+Note that the Parallax makes the Phenomenon appear lower then indeed it is,
+and the higher that a Phenomenon is from the Horizon, the lesser is the
+Parallax thereof, and contra.
+
+calculation
+
+Azimuth.
+II. I need not here define the Azimuth to any, who knows the use of the
+Globe, yet I will Note how it is accounted in this case. Azimuth is an Arch of
+the Horizon contained between the North or South points of the Horizon, where
+the Meridian cutteth it, and a Vertical Circle, which falls on the Horizon
+from the Zenith through the Center of any Starr.
+
+Altitude.
+III. The Altitude is the Arch of a Vertical Circle, accounted in the Sphere on
+the Phenomenon, contained between the Visible Horizon, and the apparen^ place
+of the Starr, such is the Arch, b, e, in the Figure before; But the Parallax or
+Difference of Aspect, is the Arch e, d, in the Eighth Sphere, and measures the
+Angle d, c, e, and the Vertical thereof, a, c, b.
+
+IV. The Distance from the Zenith is the Complement of the Altitude before
+mentioned, and is the Arch c, g.
+
+V. In the next place it will be convenient to make an Instrument, wherewith to
+observe, that may take the Altitude and the Azimuth both together, wherein
+every man is left to his own Devise; yet I will pass my opinion thus; First let
+a round Stone polished (be it White Marble or the like) be settled Horizontally,
+this may be 2 Foot Diameter, and on the Center depiction of instrument for
+calculations draw a Circle, and draw thereon also a Meridian Line, and cross it
+in the Center at right Angles with a Line of East and West, commonly called a
+Prime Vertical, divide each Quadrant thereof into 90 equal parts, and figure
+them from each end of the Meridian line, with 10, 20, 30, etc. to 90; And let
+it have a round Pin or Cylinder of Iron fixed Perpendicular in the Center; Also
+let a bearer for the Quadrant be made of convenient hight, with a hole in the
+lover end, to slip upon the Pin or Cylinder fastened in the Center of the
+Stone, and let the bearer also have a cross foot to stand upon the Stone to
+keep it Perpendicular thereto, one bar of the cross foot is to be continued
+out to the divided limb of the Stone, in form of a Diopter, running through the
+Center of the Stone, to show the Azimuth. Upon the bearer fasten a Quadrant in
+the Center of Gravity of the Quadrant, and this Quadrant may be about 2 foot
+Semidiameter (but the larger the better) with a broad limb to be divided into
+Sexagenarie or centesimal minutes with Diagonal lines, the Quadrant may have 2
+Pin in the Center, a, whereon to hang a Thread and a Plummet, the Thread may be a
+small Steel Cittern string, and it will bear a round Plummet or Bullet of about
+two pound weight.
+
+To find the Altitude of the Pole by Observation.
+VI. Because in this case the Altitude of the Pole is necessary to be known to
+the nearest, and that I suppose it cannot be found near enough by help of the
+Sun's Meridian Altitude, and Tables of his Declination, therefore I thought
+meet to show how it may be done to the nearest at the place where the
+Instrument is to be placed, thus; Take two Meridian Altitudes ( viz. the
+highest and the lowest) of some one of the Northern Stars, which sets not,
+neither rises to the Zenith (such may be some in the Tail of the Great Bear,
+or one of the Stars in Cassiopea, for these may be observed in December, near
+six in the Morning; and six at Night) Subtract the lowest Altitude from the
+highest, and take half the difference, and add it to the lowest Altitude to
+give the height of the Pole.
+
+But in taking the Altitude of any fixed Starr that is less then 20 gs. high,
+take the Refraction from the Altitude observed, to leave the true height, for
+the Refraction makes the Starr to seem higher then indeed it is, as in Ticho
+Brahe's Table of the Refraction of fixed Stars here following.
+
+Alt. Refr. Alt. Refr. 0 30. 00 1 21. 30 11 5. 00 2 15. 30 12 4. 30 3 12. 30 13
+4. 00 4 11. 00 14 3. 30 5 10. 00 15 3. 00 6 9. 00 16 2. 30 7 8. 15 17 2. 00 8
+6. 45 18 1. 15 9 6. 00 19 0. 30 10 5. 30 20 0. 00
+
+Proportion between the Two Arches of Parallax.
+VII. Seeing that in taking Parallax there is always two observations to be
+made, and the sum or differrence of the Two Parallaxes is expected thereby,
+it is therefore necessary, whether I have their sum or difference, to know
+what is the Proportion between them, that thereby they may be found severally;
+Concerning this, read Dr. John Dee's Third Theorem of his Parallaticus Nucleus
+which is.
+
+In whatsoever two diverse Parallaxes of the same Starr, or the like Phenomenon
+(so that in the mean time it be conceived to be carried only with the Diurnal
+motion of the whole) there will be the same reason, or proportion of the right
+sine of the greater Parallax, to the right sine of the lesser, that is,
+distance from the Vertex, to the right sine of the lesser apparent distance,
+from the Vertex.
+
+This is as plainly demonstrated by the Author, as it is spoken.
+
+To Separate the Arches of Parallax, when the sum of them is given.
+VIII. If the sum of Two Arches of Parallax be given in one Arch, then they
+may be separated, by help of the Sixth Proposition of Clavius's Triangula
+Rectilinea, thus; Take the natural sines of the two distances of the Starr from
+the Zenith (for they are in the same Proportion with the sines of the Two
+Parallaxes, as in the last Note) Add these two sines together, and take half
+their sum; Also take the fine of the lesser distance from the Zenith, from
+the said half sum to have their difference, and then the proportion is,
+
+As the said half sum of the sines of the distance from the Zenith, Is to the
+Tangent of the half sum of Parallax So is the difference aforesaid To the
+Tangent of another Arch.
+
+Which Arch being added to the half sum of the Parallaxes, gives the greater
+Parallax, and being subtracted from the half sum of the Parallaxes, leaves
+the lesser Parallax.
+
+But if the Difference of Two Parallaxes be given.
+IX. Then seeing the sines of the Distances from the Zenith of the Start, is
+the terms of Proportion between the two unknown Parallaxes thereof, as by he
+7th. Note, thereforee take the natural sines of the said distances, and
+subtract the lesser sine from the greater, and take half the difference for the
+First in the Rule of Three; also add the same half difference to the lesser
+sine of distance from the Zenith, for the Third in the Rule of Three, and then
+the Proportion is,
+
+As the half difference of the Two sines from the Zenith, To the Tangent of the
+half difference of the Parallaxes, So is the Aggregate of the half differrence
+of the sines aforesaid, and the lesser sine of distance from the Zenith, To the
+Tangent of an other Arch.
+
+To which Arch add half the difference of Parallaxes, it gives the greater
+Arch of Parallax; But the half difference of Parallax subtracted from the same
+Arch leaves the lesser Arch of Parallax. See Clavius's 7th. Prop. of his
+Triangula Rectilinea.
+
+Situation of a Comet.
+X. Concerning the Situation of a Comet, it may be so near the Pole, that it
+shall not set at the North, nor rise so high as the Zenith; In this case to get
+the sum of the Parallaxes, subtract the lesser Meridional distance from the
+Pole (which is always that which is at his greatest Altitude) from the
+greatest Meridional distance from the Pole (to be found at his lesser Altitude)
+and the remain is the sum of the Parallaxes. See the Demonstration hereof,
+in the Tenth Problem of Mr. Thomas Diggs his Ala, sen Scala Mathematica.
+
+Now having the sum of the Parallaxes, they may be separated and known by the
+8th. Note before.
+
+XI. But if the Phenomenon rise to the Zenith, then the Complement of the
+Latitude taken from the Meridional distance of the same, from or below the
+Pole, is the Parallax. But if the Phenomenon do not set at the North, and yet
+comes up beyond the Zenith toward the South, then the difference of the
+several Meridional distances from the Pole, is the difference of Parallaxes.
+Corollarie the Second of the same Tenth Problem of Mr. Tho. Diggs, his Ala,
+etc. And then the several Parallaxes may be found by the 9th. Note before going.
+
+XII. Moreover, seeing a Starr that sets not at the North, nor rises to the
+Zenith, Two Meridian Altitudes thereof (the higher and the lower) cannot be
+observed in one night except the right Ascension thereof, and the right
+Ascension of the sun do differ near about 90 Degrees, therefore it
+calculation will be necessary to take two Altitudes thereof, viz. the highest
+and lowest, in one and the same Azimuth Circle, as in the Figure above, wherein
+a, b, t, is the Merid. r, c, t, the Horizon, a, the Zenith b, the Pole of the
+World, a, c, the Azim. given, in which h, g, do show the apparent places of the
+Starr, now the two parallels i, o, of true motion, and k, n, being drawn, draw
+also from the Pole b, a great Circle b, d, r, to cut the Azimuth a, c, at right
+Angles in d, and there is a right Angled-Triangle a, b, d, to be resolved,
+wherein the Angle of Azimuth b, a, d, is given, and the Angle a, d, b, right,
+together with the side a, b, the complement of Latitude, to find the side a, d;
+the Proportion is,
+
+As the Cosine of the Angle d, a, b, To Radius, So the Tangent of Latitude,
+Count. of a, b, To the Tangent of the side a, d.
+
+And for as much as, Mr. Thomas Diggs, in the Eleaventh Problem of his Ala,
+etc. shows that the Arches e, h, and s, f, are equal, and that the Arch h, d,
+is equal to the Arch d, s, Therefore the practice is this, Take a, h, the
+distance from the Zenith at the highest Observation, from a, d, the side of the
+Triangle found, then h, d, = to d, s, added to c, g, the lowest Altitude, and
+the sum subtracted from d, c, the Complement of the side a, d, leaves s, g,
+the sum or Aggregate of the Two Parallaxes. And these may be separated by the
+Eighth Note.
+
+If the Comet does Rise and Set.
+XIII. Hitherto of a Comet that Sets not, but such as do Rise and Set, come
+not to the North part of the Meridian, but only to the South; In this case,
+Take the Meridian Altitude thereof, and add the distance of it from the
+Zenith, to the Complement of Latitude to give the apparent distance thereof
+from the Pole; Also take the Altitude thereof when it is in the prime Vertical,
+or East and West Circle, (if it move between the Equinoctial and the Zenith)
+and then if it have the same distance from the Pole that it had at the
+Meridian, it has no Parallax, as in the Figure following, wherein let the
+Circle ae, S, q, N, represent the Horizon, S, N, the Meridian, ae, q, the prime
+Vertical, ae, k, q, the Equinostiall, a, c, e, the Circle or Parallel of
+apparent motion, it being at the Meridian, b, d, f, the Circle or parallel of
+true motion, z, the Zenith, P, the Pole of the world, c, d, the Arch of
+Parallax at the Meridian, r, o, the Arch of calculation Parallax at the prime
+Vertical; And to find the distance P, o, from the Pole, the Comet being at the
+prime Vertical, resolve the right Angled Spherical Triangle z, P, o, wherein
+these three parts are given, First z, o, the distance from the Zenith, Secondly
+the right Angle at z, Thirdly the Arch z, P, the Complement of Latitude, to
+find the Arch P, o, if this be equal to P, c, (for lesser it cannot be) then
+there is no Parallax, but if it be greater, then there is a Parallax; which to
+find, Resolve the right Angled Spherical Triangle P, z, i, wherein these Three
+parts are given, First the right Angle at z. Secondly the side z, P, Complement
+of Latitude, Thirdly the Arch P, i, = to P, c. the distance from the Pole at
+the Meridian, to find the side z, i, which if it be less then the observed Arch
+z, o, the distance from the Zenith, in the prime Vertical, then the difference
+is also the difference of Parallaxes. To Resolve this Triangle, the Proport. is,
+
+As Radius, To the sine of Latitude, being Complement of z, P, So Cosine of P,
+i, To Cosine of z, i.
+
+Thus having found the difference of Parallax i, o, the Parallaxes d, c, and r,
+o, may be severally found as in the Ninth Note.
+
+If the Comet be under, or below the Equinoctial.
+XIV. But if the Comet be on the South side of the Equinoctial, then as in the
+Figure following, Draw the Circle representing the Horizon, S, N, the Meridian,
+a, q, the prime Vertical, a, k, q, the Equinoctial, a, c, e, the calculation
+parallel of apparent motion (being at the Moridian) b, d, f, the parallel of
+true motion, z, the Zenith, P, the Pole of the world, c, d, the Arch of
+Parallax (...) the Meridian, r, o, the Arch of ^^^^llax to be taken on some
+Azimuth; And then Resolve the Oblique Spheri^al Triangle z, P, i; in doing of
+which, ^ontinue forth the sides z, i, and P, i, to ^emi-circles, and the
+Perpendicular P, (...) falls without the Triangle given, therefore resolve,
+the Triangle z, g, P, ^e^ein first to get the side z, h, of the Triangle z, P,
+h, The Proportion is,
+
+As Radius, To the Cosine of the Angle P, z, h, the (...) ^^u^h, So the Tangent
+of the hypotenusal z, P, the Tangent of the side z, h,
+
+Which being had, get also the side g, (...) the Triangle g, h, P, the Propor.
+is,
+
+As the Cosine of z, P, To the Cosine of g, P, So the Cosine of z, h, To the
+Cosine of g, h.
+
+Which Two Arches g, h, and h, z, be^^g added together, and taken from a
+^^micircle, leaves the Arch z, i, which (...) be lesser then the Arch z, o,
+then is (...), the difference of Parallaxes, and then (...) the 9th. each may
+be found.
+
+XV. This being understood, the ^^gle of Parallax may be found, at any one
+place of the Earth, and in any situation of the Comet; And the desired
+distances from the Earth may be calculated, as in ^^e Triangle a, b, c, in the
+first Figure; wherein add 90 gs to the Angle of Altitude above the Horizon, to
+give the Angle a, b, c, at the Eye, to this add the Angle of Parallax a, c, b,
+and subtract the aggregtae from 180 gs, it leaves the Angle b, a, c, at the
+Center of the Earth. And then the proportionis always.
+
+For the distance from the Eye, As the sine of the Angle of Parallax a, c, b,
+To one Semidiameter a, b, So is the sine of the Angle at the Co^^r b, a, c, To
+the distance b, c, in Semidiamiters of the Earth.
+
+For the distance from the Center of the Earth.
+As the sine of the Angle of Parallax a, c, (...) To one Semidiameter a, b, So
+is the sine of the Angle a, b, c, To the distance a, c, in Semidiameters of the
+Earth.
+
+These Semidiameters of distance, man be turned into Miles if you multipl^ them
+by 34364/11.
+
+FINIS.
+

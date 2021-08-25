@@ -1,0 +1,1355 @@
+Posthuma Fosteri: THE DESCRIPTION OF A RULER, Upon which is inscribed diverse
+SCALES: AND The Uses thereof:
+
+Invented and written by Mr. SAMVEL FOSTER, Late Professor of ASTRONOMY in
+GRESHAM-COLLEDG.
+
+By which the most usual Propositions in Astronomy, Navigation, and Dialling,
+are facily performed. Also, a further use of the said Scales in delineating of
+far declining Dials; and of those that Decline and Recline three several ways.
+
+With the delineating of all Horizontall Dials, between 30 and 60 gr. of
+Latitude, without drawing any lines but the Hours themselves.
+
+LONDON: Printed by ROBERT and WILLIAM LEYBOURN, for NICHOLAS BOURN, at the
+South entrance into the Royal Exchange, 1654.
+
+TO THE READER.
+COURTEOUS READER,
+WE here present to thy view, this short TREATISE, (written by that learned
+Professor of ASTRONOMY in Gresham College, Mr. SAMUEL FOSTER deceased)
+containing in it the Description and Use of certain Lines to be put upon a
+straight Ruler, in the ready solution of many necessary Questions, as well
+Geometrical, as belonging to Astronomy, Navigation, and Dialling.
+
+We should not thus hastily have thrust this into the World without its
+fellows, had we not been assuredly informed that some people, greedy rather of
+unjust gain to themselves, then with honesty to sit still, had prepared one for
+the Press, from a spurious and imperfect Copy, both to the abuse of thee, and
+discredit of the industrious Author: who had he thought such things as these
+worthy him or the Press, could have daily crammed thee with them, to his own
+loss of time, and thy satiety. However, such as it now is, we assure thee was
+his own, and doubt not, but thou will find it pleasant in the use, profitable
+to thee, and portable in it self.
+
+We thought fit farther to advertise thee, that there are abroad in particular
+hands, imperfect Copies of some other Treatises of the same Author: Namely, An
+easy Geometrical way of Dialling. Another most easy way to project
+houre-lines upon all kind of Superficies, without respect had to their
+standing, either in respect of Declination or Inclination. A Quadrant fitted
+with lines for the solution of most Questions of the Sphere: with some other
+things of the like nature. We fear least sinister ends of some mean Artists, or
+ignorant Mechanics, (for those of ingenuity in whose hands they may be, we no
+way distrust) may engage them to father these things as their own, or at least
+under the Authors name put out lame and imperfect Copies of otherwise good
+things: To prevent which we give thee this timely notice, assuring thee, that
+these, together with diverse other pieces never yet seen, except by very few,
+and if we deceive not our selves, of much greater weight, are making ready for
+the Press by the Authors approbation, and from his own Copy in our command,
+with his other papers, of which thou shall be made partaker within few months.
+In the mean time, we desire thee not to lose thy time in reading, or money in
+buying any the forementioned Treatises put out by any other, either under their
+own, or our Authors name, except such as shall be attested by me, who am one of
+those entrusted for that purpose, and who shall be ever studious of thy good.
+
+Grayes Inn, July 26, 1652. Edm. Wingate.
+
+The description of the Scales on the Ruler.
+THere are 9 Scales upon the Ruler.
+1. Of Inches or equal parts. 2. Of Horizontall spaces: with 3. A Scale of 60
+Chords fitted to the same Radius, proper to that Horizontall Scale. 4. A Scale
+of Sines, to a Radius of two Inches. 5. A Scale of Secants: and 6. Of Tangents,
+both of the same Radius with the Sines.
+All these are upon one side. On the other side is,
+7. A little Scale of 60 Chords, of the same length with the common Radius of
+Sines, Secants, Tangents, and common in use to them all. 8. A large Scale of
+Versed-Sines of the whole length of the Ruler, with a Zodiac annexed to it. 9.
+A Scale of unequal parts divided into 90, noted with, of two Inches Radius as
+is the line of Sines.
+THE Uses of the SCALES on the RULER.
+CHAP. I.
+Of the Scale of equal parts.
+THe Scale of Inches is a Scale of equal parts, and will perform (by
+protraction upon paper) such conclusions as are usually wrought in Lines and
+Numbers, as in Master Gunters 10. Prop. 2. Chap. Sector, may be seen, and in
+others that have written in the same kind.
+
+An Example in Numbers like his 10th. Prop.
+
+As 15 to 5, So 7 to what?
+
+Here, because the second term is less than the first, upon the line AB, I
+set AC the first term 15, and AD the second term 5, both taken out of the
+Scale of equal parts. Thence also the third number 7 being taken, with it
+(upon the center C) I describe the arc OF, and from A, draw the line AE, which
+may only touch that same arc. Then from D, I take DG, the least distance from
+the line AE, and the same measured in the same Scale of equal parts, gives 2,
+the fourth term required.
+
+But if your second term shall be greater than the first, then the form of
+working must be changed; as in this Example.
+
+As 5 to 15, So 20 to what?
+
+Upon the line AB, I set the second term 15, which here suppose to be AD: then
+with the first term 5, upon the center D, I describe the arc GH, and draw AG
+that may just touch it. Again, having taken 20 the third term, out of the same
+Scale, I set one foot of that extent upon the line AB, removing it till it fall
+into such a place, as that the other foot being turned about will justly touch
+the line AG before drawn, and where (upon such conditions) it rests, I make
+the point C. Then measuring AC upon your Scale, you shall find it to reach 60
+parts, which is the fourth number required.
+
+The form of work (though not so Geometrical) is here given because it is more
+expedite than the other by drawing parallel lines. But in some practices, the
+other may be used.
+
+I have been the more large upon this, because the solutions of proportions
+which follow must be referred hither, the form of their operations being the
+same with this. In them therefore shall only be intimated what must be done in
+general, the particular way of working being here explicated.
+
+CHAP. II.
+Of the Scales of Chords.
+THe Scales of Chords are to protract and measure angles. The manner how they
+must be used is well enough known.
+
+Only note here, that you may make the line of Sines, the line of Versed Sines,
+or the Zodiac, (beginning at the middle of these two last mentioned) to serve
+for Chords of several extents, if you count each half degree for a whole
+degree, and so double all the numbers, accounting 10 to be 20; and 30 to be 60,
+45 to be 90, etc. By this you are fitted with several Scales of Chords which
+are of different lengths, and may be used, each of them, as occasion shall
+require. And (by the way) the Versed Scale being taken for Chords, it will be
+of the same Radius or length with the Sines, Tangents and Secants and so will
+protract Angles to a Circle of their Radius, which is useful in Projections,
+and many other things: and so the little Scale of 60 Chords might be spared.
+
+CHAP. III.
+The joint use of equal parts and Chords.
+BY these two together, may be resolved all Cases in Plain Triangles without
+proportional work, if the three quantities given be protracted by help of
+these two Scales. For their principal uses are to measure lines and angles.
+
+Here must be remembered. First, that if the three angles alone be given, then
+will the proportions only of the sides be found, but not the sides themselves.
+Secondly, that if two angles be known, then is the third also known; because it
+is the residue of the sum of the other two to 180 gr.
+
+One case which is of frequent use may here be given for an example. In
+mensurations of distances of places (as Towns or Forts) there are usually two
+stations taken as A and B, whose distance AB suppose known, 300 feet, and the
+two angles adjacent, at A 105 gr. at B 60 gr. known also by observation. To
+find the other sides, draw AB, and upon it set 300 being taken from the Scale
+of equal parts.
+
+Then with a line of Chords protract the angles at A and B according to their
+known quantities, so shall the two legs of the same angles meet at C: And if
+the length AC be taken and measured upon your Scale of equal parts, the same
+will show about 1004, intimating that C is from A 1004 feet. So again BC being
+measured in the same Scale will give 1120; showing that from B to C are about
+1120 feet.
+
+In this manner may perpendicular altitudes (as of Towers or such like) be
+measured, though no access can be had to them; and that much better than by
+the Geometrical Square. For it is not here requisite that the ground whereon
+the mensuration is made, should be level, as if you work by the Square it is
+most commonly required; neither are you tied to right angled Triangles here, as
+there you are. As for example,
+
+
+
+If one station be at A, and the other at B, you may, by the precedent work get
+the distance AD. Then (standing at A) observe the altitude of C, the complement
+of that altitude gives the angle ACD. And again from A, if you observe the
+altitude of D, the difference of these two altitudes observed, gives the angle
+CAD. Or if D had appeared lower then your station, then the sum of your two
+observed altitudes had made the angle CAD. However, you have now the three
+angles and side AD; you may therefore, by help of them, find the length of CD.
+
+In such manner may all cases in plain Trigonometry be resolved.
+
+CHAP. IV.
+Of the Scales of Sines, Secants, and Tangents.
+THese being jointly used with a Scale of equal parts, will resolve all things
+in plain Triangles, by working such proportions as are usually given for that
+purpose. The manner of the work may be gathered by the former delineation in
+the 1 Chapt. For if AC and AD had been taken out of the Scale of Sines, or
+Tangents, or Secants; and CE, DG, out of the Scale of equal parts; then had the
+work been resolved in Sines and equal parts, or Tangents and equal parts,
+etc. And so this kind of work will produce the quantity required; although
+there be no delineation of the particular parts of the Triangle, as was before
+done by protraction.
+
+By these same three Scales of Sines, Tangents, and Secants, may be wrought all
+things pertaining to Sphericall Triangles. That is to say.
+
+1. Proportions in Sines alone. 2. Proportions in Tangents alone. 3.
+Proportions in Secants alone. 4. Proportions in Sines and Tangents together. By
+natural Sines and Tangents. By and Versed-Sines.
+5. Proportions in Sines and Secants together. 6. Proportions in Tangents and
+Secants together.
+An Example in Sines alone
+What Declination shall the Sun have in the 10 gr. of Aries?
+Upon the line AB (see Chap. 1.) set the Radius or Sine of 90 AC: and make AD
+equal to the Sine of 10 gr. (which is the Suns distance from the next
+Equinoctial point.) Then with the Sine of 23 (taken out of the same Scale of
+Sines) upon the center C, describe the arc OF; to which, from A, draw the
+Tangent line AE. Lastly, from D, to this line AE, take the least distance, the
+same measured in the line of Sines, gives about 4 gr. for the declination
+required.
+
+The proportion that is here wrought stands thus. As the Radius, to the Sine of
+23;
+So the Sine of 10, to the Sine of 4 gr.
+
+
+The like manner of work is to be used in Sines and Tangents (or any of the
+other two) joined together; if it be remembered that the greater terms be kept
+upon the line AB; as was before prescribed in the first Chapter.
+
+CHAP. V. OF NAVIGATION.
+Some things in this kind will be performed very conveniently by these lines:
+As,
+SECT. 1.
+To make a Sea-chart after Mercators projection.
+A Sea-chart may be made either general or particular; I call that a general
+Sea-chart, whose line AE, in the following figure, represents the Equinoctial,
+as the line AE there does the parallel of 50 gr. and so contains all the
+parallels successively from the Equinoctial toward either Pole: but they can
+never be extended very near the Pole because the distances of the parallels
+increase so much, as the Secants do. But notwithstanding this, it may be
+termed general, because that a more general Chart cannot be contrived in
+plano, except a true Projection of the Sphere it self. And I call that a
+particular Chart which is made properly for one particular Navigation, as if a
+man were to sail between the Latitude of 50 and 55 gr. and his difference of
+Longitude were not to exceed 6 gr. then a Chart made (as the figure following
+is) for such a Voyage, may be called particular.
+
+Now the making of such a Chart, is Master Gunters first proposition page 104
+of the Sector, and this the line of Secants will sufficiently perform.
+
+For it were required to project such a Chart: Having drawn the line AB, and
+having crossed it at right angles with another line AE, representing the
+parallel of 50 gr. you must then take the Secant of 51 from your Scale, and set
+it from 50 to 51 on both sides the Chart, and draw the parallel 51 51.
+
+Again, take the Secant of 52 from your Scale, and set it upon your Chart from
+51 to 52, and so draw the parallel 52 52. And so you are to draw the rest of
+the parallels.
+
+Then for the Meridians, or divisions of the line BC, they are all equal to
+the Radius.
+
+If therefore you take the Radius, and run it above and below, you shall make
+the spaces or distances of the Meridians such as in the bottom of the Chart
+are figured with 1, 2, 3, 4, 5, 6.
+
+These degrees thus set on the Chart, may be sub-divided into equal parts,
+which in the graduations above and below ought so to be. But in the graduations
+upon the sides of the Chart, they ought as they go higher, still to grow
+greater. Yet the difference is so small that it cannot produce any considerable
+error, though the sub-divisions be all equal. Divide them therefore either
+into 60 minutes, or English miles, or into 20 leagues, or into 100 parts of
+degrees, as shall best be liked of.
+
+It a little more curiosity should be stood upon for the graduations of the
+Meridian, instead of the Secants of 51, 52, 53, etc. you may take 50, 51, 52,
+etc. always half a degree less than is the Latitude that should be put in.
+
+Now if each of those divisions at the bottom of the Chart, as A 1, etc. be
+made equal to the common Radius of the Sines, Secants, and Tangents, and if a
+Chart be made to that extent upon a skin of smooth Velame; well pasted on a
+board; you may work upon it many conclusions very exactly.
+
+The Uses of the Sea-Chart
+Are set down in 12 Propositions by Master Gunter, beginning page 121. In each
+of which Propositions is showed how to resolve the Question upon the Chart it
+self, which will be direction enough how the work must be performed, without
+any more words here used.
+
+The working of these propositions also may be applied to the Scales of Sines
+and Tangents, on the Ruler, and wrought by protraction, according to the rules
+given in the first Chapter, if the proportions, as he lays them down in the
+forecited pages, be so applied.
+
+If a Scale of Rumbs be thought more expedient for these operations then is a
+Scale of Chords, it may be put into some spare place of the Ruler.
+
+His two Propositions, page 114. 116, may be done upon the Chart as is there
+showed, but his second Proposition, which is,
+
+SECT. 2.
+To find how many Leagues do answer to one degree of Longitude, in every
+several Latitude.
+THis (I say) may be done upon the Scales of Sines and equal parts: And for
+this purpose, the two last inches of the same Scale of equal parts, being
+equal in length to the Radius or Sine of 90, are divided into 20 at one end,
+and into 60 at the other end.
+
+Take therefore upon the line of Sines, the complement of the parallels
+distance from the Equator, (or the complement of the given Latitude) and
+measuring it upon the Scale of 20 parts, it will show you what number of
+Leagues make one degree of Longitude in that parallel of Latitude. And being
+measured upon the Scale of 60 parts, it gives so many of our miles, or so many
+minutes of the Equinoctial, or any other great circle, as are answerable to
+one degree of Longitude in that Latitude.
+
+Example,
+Let it be required to find how many Leagues do answer to one degree of
+Longitude, in the Latitude of 18 gr. 12'.
+
+Take out of the line of Sines, the complement of the given Latitude, namely.
+71 gr. 48'. Then applying this distance to the Scale of 20 equal parts, you
+shall find it to reach 19, and so many Leagues do answer to one degree of
+Longitude, in the Latitude of 18 gr. 12'.
+
+And the same distance being measured upon the Scale of 60 equal parts, will
+give you 57 parts, and so many minutes of the Equator are answerable to one
+degree of Longitude, in that parallel of Latitude.
+
+So likewise, in the Latitude of 25 gr. 15', if you take the complement thereof
+64 gr. 45', out of the Scale of Sines, and apply it to the former line of 20,
+you shall find it to reach 18 parts, and so many Leagues do answer to one
+degree of Longitude, in the Latitude of 25 gr. 15'.
+
+In the Appendix to Master Norwoods Doctrine of Triangles, there is by him laid
+down 15 Questions of sailing by the plain Sea-chart, and others by Mercators
+Chart, all which the line of Chords and equal parts will sufficiently perform,
+if the work of the third Chapter of this Book be rightly understood.
+
+SECT. 3.
+How to set any place upon your Chart, according to its Longitude and Latitude.
+IF the two places lie under one parallel, and so differ only in Longitude,
+then the course leading from one to the other is East or West: As A and E being
+two places under the parallel of 50 gr. and differing 5 gr. in Longitude.
+
+But if the two places differ only in Latitude, and lie under one Meridian, as
+A and B, then the course is North or South.
+
+But if the places differ both in Longitude and Latitude as AC, then the course
+is upon some other point so much distant from the Meridian, as is the quantity
+of the angle BAC.
+
+CHAP. VI.
+Of Projections of the Sphere.
+FOr this purpose chiefly, is the lesser line of Chords added, being made to
+the same Radius that belongs to the Sines, Secants, and Tangents. For when any
+Projection is to be made, the fundamental Circle must be of that common
+Radius, and then the angles to be inserted upon it may be taken out of this
+line of Chords which is fitted to it. See the second Book of the Sector, Chap.
+3. For these Tangents and Secants will perform the same things in those
+Stereographicke projections that there are done; and in all other irregular
+projections likewise.
+
+By this kind of work may any Sphericall conclusions be performed by
+protraction in plano. Also true Schemes of the Sphere may be drawn, suitable to
+any question, which will not a little direct in Sphericall calculations.
+
+As suppose it were required to project the Sphere suitable to this Question.
+
+Having the Latitude of the place, the declination of the Sun, and the Altitude
+of the Sun, to find either the Azimuth or the hour of the day. First, With
+the Radius of the line of Chords, upon the center C describe the fundamental
+Circle ZHNO representing the Meridian, and draw the diameter HO for the
+Horizon, and ZCN at right angles thereto, ZN being the Zenith and Nadir points.
+Then by your line of Chords set the Latitude of your place (which let be 51 gr.
+32') from Z to E, and from N to Q, drawing the line ECQ for the Equinoctial,
+and at right angles thereto, the line MP for the axis of the World, P
+representing the North, and M the South Pole
+
+Secondly, Supposing the Sun to have 20 gr. of North Declination, take 10 gr.
+(the Semitangent of the Declination) out of the line of Tangents, and set it
+from C to G. Likewise, take 20 gr. (the Declination) from your line of Chords,
+and set that distance upon the Meridian from E unto D, and from Q unto K: then
+describe the arc of a Circle which shall pass directly through the points
+DGK, the center whereof will always fall in the line CP if it were extended,
+and this arc DGK shall be the line of the Suns course when his Declination is
+20 gr. from the Equinoctial Northward.
+
+Thirdly, Supposing the Altitude of the Sun to be 50 gr. take 25 gr. (the
+Semitangent of the Altitude) out of the line of Tangents, and set that distance
+from C to F. Also take 50 gr. (the Altitude) from your line of Chords, and set
+them upon the Meridian from H unto A, and from O unto B, drawing the arc AFB,
+the center whereof will fall in the line CZ being extended, and this arc shall
+represent the Almicanter of 50 gr. And where this parallel of Altitude crosses
+the parallel of Declination, which is at S, that is the place of the Sun at the
+time of the Question: Therefore, if you draw the arc of a circle which shall
+pass through the points MSP, it shall represent the hour of the day; and
+another arc through ZSN shall represent the Azimuth of the Sun at the same
+time. And the distance CT being measured on the Tangent line will fall upon 20
+gr. 4', the double whereof is 40 gr. 8', which is the Azimuth of the Sun from
+the East or West, and the complement thereof to 90 gr. is the Suns Azimuth from
+the South.
+
+1. The centers of the parallels of declination, and of the parallels of
+altitude, may readily be fouud by the Scale it self; as in this projection,
+having found the point F upon the Line ZC, extend the line ZC without the
+circle, and because the Suns altitude is 50 gr. take therefore out of your
+Scale the Secant of 40 gr. (the complement of the Altitude) and set that
+distance from C to I, so shall the point I be the center of the parallel of
+Altitude.
+
+Or take the Tangent of 40 gr. out of your Scale and place it from F to I,
+either of which will fall in the point I, the center of the parallel of 50 gr.
+
+In the same manner may the center of the parallel of Declination be found, by
+taking out of your Scale the Secant complement of the Declination, and setting
+it from C, upon the line CP, (being extended) and where that distance ends,
+that is the center of the parallel.
+
+Or the Tangent complement of the Declination being set from G on the line GP
+shall give the center also.
+
+2. For the finding of the centers of the Hours and Azimuths, the Scales of
+Secants and Tangents will much help you; So the Azimuth from the South being 49
+gr. 52', if you take the Tangent thereof out of the Scale of Tangents, and set
+it upon the Horizon from C to L: the point L shall be the center of the circle
+NTZ.
+
+Or the Secant of 49 gr. 52' being set from T, that also shall give you the
+center Las before.
+
+The center of the Houre-circle is found in the same manner, for the hour from
+the Meridian being 31 gr. 28', if you take the Tangent thereof our of your
+Scale, it shall reach from C to R, the point R being the center of the
+Houre-circle MVSP.
+
+Or the Secant of 31 gr. 28', being set from V, shall give the point R for the
+center of the same hour. And in this manner may any Hour or Azimuth
+whatsoever be drawn.
+
+Many other propositions in Astronomy, may be wrought upon this projection,
+and indeed any of the 28 cales of Sphericall Trigonometry, may by this kind of
+projection be easily illustrated and resolved, which will clearly inform the
+fancy in the resolving of Sphericall Triangles. An Example or two for practice
+shall be,
+
+1. To find the Suns Amplitude.
+In this projection, the Amplitude from the East or West is represented by the
+line CX, take therefore the distance CX in your compasses, and apply it to the
+line of Tangents, (counting every degree of the Tangents to be two degrees) and
+where it rests, that shall be the Amplitude from the East or West, which will
+be found to be 33 gr. 22x.
+
+Or if you lay a Ruler upon Z and X, it will cut the Circle in Y, and the
+distance NY being measured on the line of Chords, shall give the Amplitude also.
+
+2. To find the distance of the Sun from the Zenith.
+The distance of the Sun from the Zenith is the arc Z S, therefore to find
+the quantity thereof, you must first find the pole of the circle NS Z, which
+is done after this manner.
+
+Lay a Ruler from Z to T, and it will cut the circle in a, then take in your
+compasses a quadrant of the outward circle, and set it from a to b, then lay a
+ruler from Z to b, and it shall cut the Horizon in e, which point e is the pole
+of the circle ZTN.
+
+Now to measure the arc Z S, you must lay a ruler upon e and S; which will cut
+the outward circle in the point A, so shall A Z, being measured upon the line
+of Chords, give you the quantity of degrees contained in the arc Z S, which
+will be 40, equal to the complement of the Suns Altitude.
+
+This latter proposition was inserted rather to show how the arc of any great
+Circle of the Sphere (the sides of all Sphericall Triangles being such) may be
+measured, then for any need there was to find the distance of the Sun from the
+Zenith, for that mighe have been more easily effected, it being only the
+complement of the Suns Altitude; but according to this operation, may the side
+of any Sphericall Triangle whatsoever be measured.
+
+The line of Sines also will project the Analemma, as Master Gunter shows, if
+this proposition be added.
+
+How to divide any line given, into such parts as the Scale of Sines is
+divided. Which proposition may be done by that which is set down in the 1
+Chapt. For if AD mn C were parts or divisions made equal to those upon the
+Scale of Sines, and CE were a line in the same manner to be divided: After you
+have prepared your work as is there prescribed, you need only to take the least
+distances between the points C nm D and the line AE, and insert the same into
+your given line, so shall the divisions thereof be proportional to the line of
+Sines.
+
+CHAP. VII.
+Of the line of Versed-Sines.
+THe general use of this Scale is principally to resolve these two Sphericall
+Cases. First, By having three sides of a Sphericall Triangle, to find an
+angle. Secondly, By having two sides and the angle comprehended, to find the
+third side. According to which two general cases you shall find particular
+examples; namely, the first and third Sections of this Chapter suitable to the
+first Case: and the 5 Section answerable to the second.
+
+SECT. 1.
+To find the Suns Azimuth.
+FIrst, Find the sum and difference of the complement of your Latitude, and
+complement of the Suns altitude. Then having made AB equal to the length of
+the whole Scale, count upon the same Scale the sum and difference before
+found. After this, take with your Compasses the distance from the Suns place to
+the sum, and setting one foot of that extent upon B, with the other describe
+the arc CD. So again, take the distance upon the Scale from the Suns place to
+the difference, and with that extent upon the center A, describe the arc OF:
+Which done, draw the straight line DE, so as it may justly touch those two
+arks, cutting the line AB in G: so shall BG (being measured upon the Scale,
+from the beginning of it) show the Azimuth from the South. And AG measured upon
+the same Scale will give the Azimuth from the North.
+
+SECT. 2.
+To find the Amplitude of the Suns Rising or Setting.
+IF you suppose the Sun to be in the Horizon, or 00 gr. high, and so the
+complement of the Altitude to be 90, and if (upon these suppositions) you work
+as in the last Section is showed, then shall BG give the graduall distance of
+the Suns rising or setting from the South; AG from the North, and from the
+midst of the line to G, is the Amplitude from East or West.
+
+SECT. 3.
+To find the hour of the Day.
+MAke AB equal to the whole Scale, as before: and count from the beginning of
+the Scale to the Suns place what number of degrees there are; the same number
+shows the graduall distance of the Sun from the North Pole. Of this distance
+and the complement of your Latitude, find the sum and difference, and count
+them both upon the Scale, as was done before. Then again, count thereon also
+the complement of the Suns altitude: Upon which point, setting one foot of your
+Compasses, extend the other to the forenamed sum; and with that extent upon
+the center B describe the arc CD. Again, setting one foot of your Compasses
+upon the complement of the Suns altitude, extend the other to the forenamed
+difference, and with that extent upon the center A, describe the ark OF.
+Lastly, draw the straight line DE, which only touching the two former arks, may
+cut the line AB in G: so shall AG (measured on the Scale, from the beginning of
+it) give the degrees of the Suns distance from the South. These may be turned
+into hours, counting 15 gr. for one hour, and 1 gr. for 4 minutes of an hour.
+
+SECT. 4.
+To find the Semidiurnall and Seminocturnall arks.
+IF you suppose the Suns altitude to be 00 gr. and so the complement of it to
+be 90, and then work as is directed in the 3. Sect. of this Chap. then shall AG
+give the Semidiurnall arc, and BG the Seminocturnall arc: Each of these
+turned into Hours and minutes, and doubled, will give the length of the Day
+and Night.
+
+SECT. 5.
+The Suns place being assigned in any point of the Ecliptic, to find his
+Altitude at all hours.
+BY this, may Tables of the Suns Altitude be made to all hours, the Sun being
+in any Sign of the Zodiac, whereby many particular Instruments for finding
+the hour of the day, may be made, as Rings, Quadrants, Cylinders* and such
+like.
+
+Draw the line AB, and upon it, with CA or C B, equal to half your Scale,
+describe a Semicircle. Then count upon your Scale the Suns distance from the
+North Pole, as was done in the 3. Sect. of this Chapt. and in the same manner
+also find the sum and difference of this distance and the complememt of your
+Latitude. Then take the distance of the said sum and difference in your
+Compasses, and set it upon the Semicircle from A to D, and draw BD. Now because
+AB is equal to your whole Scale, you may divide the same into hours, by
+transferring each 15' gr. from your Scale to the line. This done, take the
+least distance from the point 1 to the line BD, and set one foot of this
+distance upon the forenamed difference counted upon the Scale, and let the
+other foot stand further onwards upon the Scale, and where it falls, it shows
+how many degrees that hour of 1 is distant from the Zenith. Or if you count
+the degrees from the middle of the Scale, it shows the Altitude of the Sun in
+that Hour. Thus do for the points of 2, 3, 4, etc. and you shall in the same
+manner find their Altitude: And if you go on to the end, you shall (most
+commonly) find your Compasses at last to reach beyond the middle of the Scale.
+
+[This always, and then only, happens, when the sum (found at first) is
+greater than 90 gr.] Look then how much it is beyond, for so many degrees is
+the Sun below the Horizon at that hour of the night: Or (which is all one) so
+many degrees is the Sun elevated above the Horizon in that Sign or point of
+the Eclipticke which is so much on the other part of the Equinoctial. That is,
+If the Suns place given were the beginning of Taurus or Virgo, and your
+Compasses (suppose at the 9th. hour) go beyond the 90th gr. of the Scale, you
+shall there see how low the Sun is under the Horizon at 9 a clock at night, or
+at 3 in the morning. And the same also shows how high the Sun is at 9 in the
+morning, or at 3 afternoon, if his place were in the entrance of Scorpio or
+Pisces, which two Signs are so much beyond the Equinoctial on the other part,
+as Taurus and Virgo are on this side.
+
+SECT. 6.
+All Proportions in Sines alone, where the Radius stands first, may be wrought
+upon this Scale, without any protraction at all.
+THe manner of the work will best appear by an Example. Let the proportion set
+down before in Sines alone be here repeated. The terms stand thus: As the
+Radius, to the Sine of 23;
+So the Sine of 10, to the Sine of what?
+Take the sum and difference of the second and third arks, the sum is 33 the
+difference is 13: count these both upon the Scale, and there take their
+distance: apply the same to the middle of the Scale; so as that the same number
+of degrees may be above 90, that is below; so shall the degrees either above or
+below, be about 4; and this is the Sine required for a fourth proportional to
+the former.
+
+CHAP. VIII.
+How to work proportions in Sines and Tangents, by the lines of Versed-Sines
+and.
+DEscribe a Circle, as ABD, of the same Radius with the line. The Versed Scale
+is in length four times the same Radius.
+
+Let the Sines (given or required) be measured out of, and let them be set upon
+the Radius from A, to AC or AE.
+
+Let the Tangents (given or required) be measured out of the Versed Scale, from
+90 to 00, or to 180, which are 90 Chords belonging to 90 equal parts of the
+Semicircle ABDP, and the same Tangents must ever be set upon the Circle from A,
+as AB, AD:
+
+Then draw a right line through the first and third of the given terms, as from
+B and C to O; and another right line from O to D or to E.
+
+So the fourth term required shall be either the Sine AE, or the Tangent AD,
+each to be measured in its proper Scale.
+
+If the Radius be ingredient in the proportion, then this of Sines and Tangents
+may be wrought by the draught of one line: see this third Scheme. The Sine is
+to be taken or set on the Radius from A, as AF, the Tangents are to be set and
+taken upon the Circle (in this case always) the lesser of them from A, the
+greater from P; as AG and PH. So that whatsoever is given or required will here
+be found.
+
+The further use of this line is shown afterward in the making of declining
+reclining Dials.
+
+CHAP. IX.
+To find the declination of a Plain.
+TO effect this, there are required two observations: the first is of the
+Horizontall distance of the Sun from the pole of the plain, the second is of
+the Suns Altitude, thereby to get the Azimuth. And these two observations must
+be made at one instant of time, as near as may be, that the parts of the work
+may agree together the better.
+
+1 For the horizontall distance of the Sun from the pole of the plain: Apply
+one edge of a Quadrant to the plain, so that the other may be perpendicular to
+it, and the limb may be toward the Sun, and hold the whole Quadrant
+horizontall as near as you can conjecture: Then holding a thread and plummet at
+full liberty, so that the shadow of the thread may pass through the center and
+limb of the Quadrant, observe then the degrees cut off by the shadow of the
+thread, and number them from that side of the Quadrant that stands square to
+the plain, for those degrees are the distance required.
+
+2 At the same instant observe the Altitude of the Sun, these two will help you
+to the plains declination by the rules following.
+
+First, By having the Altitude, you may find the Azimuth by the 1. Sect. of
+the 8. Chap. then by comparing the Azimuth and distance together, you may find
+the plains declination in this manner.
+
+When you make your observation of the Suns horizontall distance, mark whether
+the shadow of the thread fall between the South and that side of the Quadrant
+which is perpendicular to the plain. For,
+
+1. If the shadow fall between them, then the distance and Azimuth added
+together, do make the declination of the plain, and in this case, the
+declination is upon the same coast whereon the Suns Azimuth is.
+
+2. If the shadow fall not between them, then the difference of the distance
+and Azimuth is the declination of the plain, and if the Azimuth be the greater
+of the two, then the plain declineth to the same Coast whereon the Azimuth is:
+Otherwise, if the distance be the greater then the plain declineth to the
+contrary Coast to that whereon the Suns Azimuth is.
+
+Note here further, that the Declination so found is always accounted from the
+South, and that all Declinations are numbered from either South or North toward
+either East or West, and must not exceed 90 gr.
+
+1. If therefore the number of declination exceed 90, you must take the residue
+of that number to 180 gr. and the same shall be the declination of the plain
+from the North.
+
+2. If the number of declination do exceed 180 gr. then the excess above 180
+gives the plains declination from the North, toward that Coast which is
+contrary to the Coast whereon the Sun is.
+
+And here note, that wheresoever in this Chapter the use of a Quadrant is
+required, the Scale of Chords will effect the same; if upon a piece of plain
+board you describe a Quadrant, whose sides may be parallel to the edges of the
+board, upon which you may set off the Horizontall distance and Altitude, which
+will perform the work thereof when a Quadrant is not at hand.
+
+CHAP. X. OF DIALS.
+To draw upright declining Dials, by the lines of Sines and Tangents.
+THe declination of the plain being found by the last Chap. Upon your plain
+describe a rectangled parallelogram, in which let the sides AB and CD be
+perpendicular to the Horizon, and each of them equal to the Tangent of your
+Latitude: and let AC and BD be equal each of them to the co-tangent of your
+Latitude, and let BD be prolonged if need be.
+
+Then taking that side of the parallelogram (for the hour of 12) which looks
+toward that coast unto which the plain declineth, as here namely, the side AB;
+and on that line having assumed the superior angle A in
+South-declining-plains, or the inferior in North-decliners, for the center of
+your Dial: Let BE and CG be made equal to the Sine of the plains declination,
+so AE being drawn, shall be the substilar, and AG shall be the hour of 6. Then
+from E, raise OF perpendicular to AE, and make A 12 and OF equal to the
+cosine of the declination: and if you draw AF, the same shall represent the
+Axis, and the angle FAE shows how much the same is to be elevated above the
+substylar. Again, make AH equal to the cosine of your Latitude, and draw H6
+parallel to AB; which will cut AG in the point noted with 6. To this A6, let A6
+also beyond the center be made equal, and then draw the lines 12 6 and 12 6,
+which lines must have the hour points set upon them; and to perform that
+work do thus.
+
+Draw upon paper, or some other plain, the line LM, upon which set LR and RM,
+each of them equal to your Tangent of 45 gr. Then make RN equal to the
+Tangent of 30, and TO equal to the Tangent of 15, so shall you have points to
+find all the hours, and if you desire halves and quarters, you must also put
+their Tangents into the same line RM. Being thus prepared, if you would divide
+the lesser line 12 6 into its requisite parts, take the same line in your
+Compasses, and with it, upon L as a center describe the arc PQ, and from M
+draw MP, which may only touch the same arc. Then from N take the least
+distance to the line MP, and the same will reach from 12 to 11, and from 6 to
+7; so the least distance from O to the line MP, will give from 12 to 10, and
+from 6 to 8. And the least distance from R will reach from 12 or 6 to 9.
+
+In the same manner you must divide the larger line 12 6. Take it out of your
+Dial, and with it describe the arc ST from the same center L, and draw MS
+touching only the same arc. Then the least distances from N, O, R, to the line
+MS, will give the points or distances 12 1; 6 5; and 12 2; 6 4; and 12 3; or 6
+3. These upon the South-decliner; the like may be done upon the North-decliner.
+Lastly, from the center A, through these points you must draw the Houre-lines.
+
+An upright plain declining from the South toward the East, 30 gr.
+
+
+
+An upright plain declining from the North toward the East, 30 gr.
+
+
+
+In both these Plains.
+a rectangle parallelog.
+AB=tang. Lat. BD=co-tang. lat.
+BE=CG=sine declination. A12=OF=cosine declina. AH=cosine lat. A6=A6.
+RL=RM=tang. 45. RN=tang. 30. TO=tang. 15.
+CHAP. XI.
+Of the Horizontall and full South Dials.
+THese are done more easily, for having made ZX for the line of 12, and WV
+perpendicular thereto for the two sixes, in them both make ZX equal to the
+Radius, and in the Horizontall let ZV and ZW be equal (each of them) to the
+Sine of your Latitude: in the South plain let ZV and ZW be (each of them)
+equal to the cosine of your Latitude. Then draw the lines XV and XW, and
+divide them as was now showed in the declining plains; so may you from the
+center Z, and these points, draw all the hours, as you see in these figures.
+
+The Styles are to stand over the line of 12: that in the Horizontall must be
+elevated so much as your Latitude comes to; the other according to the
+complement of your Latitude.
+
+The upright North plain is the same with the South, only turned upside down,
+and the course of the figures altered.
+
+The East and West upright plains may be made by the Tangent line, in such
+manner as others have prescribed.
+
+CHAP. XII.
+Of the Scale of Horizontall Spaces.
+FOr the Horizontall plains in special, there is a peculiar Scale by which the
+hours may suddenly be described, to any Latitude between 30 and 60 degrees.
+
+The manner of which work is easy. For you have the numbers from 30 to 60 five
+times repeated, serving for the five hours in so many Latitudes. Suppose then
+a Horizontall Dial were to be described for the Latitude of 51 gr. First, by
+the Radius (which is from the beginning of the line to R) describe a Circle,
+and draw the line of 12 from the center. Then take from the beginning of the
+line to VI, and set it in the Circle both ways from 12, these two are the
+points of the two sixes. Again out of the same Scale take the length from the
+beginning to 51 in the remotest numbers, and set that upon the Circle on both
+sides 12, these are the points of 5 and 7. So from the beginning of the Scale
+to 51 in the next remotest numbers, being set as the other were, will give the
+points of 4 and 8. The third 51 will give the points of 3 and 9. And the fourth
+gives 2 and ^0. The last gives 1 and 11.
+
+The Chord line that is fitted to this Horizontall Scale, is of good use in
+other delineations: But the further use of these two jointly, must be referred
+to another place.
+
+CHAP. XIII.
+How to draw upright declining Dials when the Latitude of the place is very
+little or very great.
+IN the work of the 10 Chap. it may fall out that either the Tangent or
+co-tangent of the Latitude may be too great, such as the Scale will not afford.
+This will frequently fall out in the new Latitude of re-in-cliners: to remedy
+that inconvenience, I have added these helps.
+
+Where the Latitude is but small
+
+
+A rectangle parallelo.
+1. AB=CD=tang. of Latit. 2. BD=AC=Radius.
+3. BE=CG=Sine declination. 4. A12=OF=cosine of declination. 5. AH=consine of
+Latitude. 6. H mAB. 7. Draw EG, it will cut CD in K. AK is the line of six: it
+cuts H m at 6, make A6=A6, on both sides, and draw 12 6; 12 6; and divide them
+as the other are in the 10 Chap.
+Or you may draw BC the Diagonall, and EK thereto, and so omit CG.
+
+Or you may make the DEK=to your Latitude, and so omit the two former.
+
+Or thus.
+After the 1, 2, 3, 4, 5, you may omit the 6. Then 7thly. Draw EG it will cut
+CD in K, and AK is the line of six.
+
+Then lay a Ruler from 12 to H, cutting DC in L.
+
+Make 12M=CL, and AN=AK.
+
+So shall KM, MN, be to the two former lines 6 12; 6 12; and may supply their
+Offices somewhat better, because they are larger.
+
+Where the Latitude is great.
+a rectangle parallelogr.
+1. AB=CD=Radius, 2. BD=AC=co-tang. lat.
+3. BR=CG=Sine declination. GR a right line cutting DB in E. AE Substilar. AG
+hour of 6. 4. GP=RT=A12=cosine of declination. TP a right line, cutting BD in
+O. AEF a right angle. 5. OF=EO. AF the Style. 6. AH=cosine Latitude. HmAB,
+cuts AG in 6. A6=A6, on both sides. Draw 6 12; 6 12, etc. Or after the 1, 2, 3,
+4, 5. 6. Draw 12 H, it cuts DC in L. Make 12 M=LC: and AN=AG. Then GM, MN shall
+be to 6 12; 6 12: and may therefore supply their uses.
+CHAP. XIIII.
+Concerning Reclining and Inclining Plains, how to draw hours upon them.
+THey may be referred to a new Latitude, in which they shall stand as upright
+plains: and then the delineation will be the same with those in the 10 Chap.
+
+The Meridian line is not here to be taken for the line of 12 at midday (for
+it often represents the midnight) but for that part which helps to describe
+the Dial.
+
+1. The first thing to be done upon these plains, is (by some level) to draw
+the Horizontall, and then the Vertical line perpendicular thereto.
+
+2. Next is the placing of the Meridian upon the plain, in a true position. In
+direct plains that re / in-cline, and in upright decliners, the Meridian is the
+same with the plains Vertical line. In East and West re / in-cliners, it is
+the same with the horizontall line. In the rest, it ascends or descends
+from the horizontall line, and must be placed according to the rules hereafter
+given.
+
+3. For which purpose, In the Circle FZFN (made of the same Radius with that of
+Sines and Tangents, etc. upon the Ruler) set FP, ZAE, FP, NAE, each equal to
+your Poles altitude. Then count the Reclination or Inclination from Z
+downwards, toward P if it be North, toward AE if it be South; and there set
+B. Then proceed by one of these two ways. I.
+
+
+
+ZB iein-clination. BGZO OC cosine of declination. RCFO. ORD Radius. DSBO.
+Out of this Structure will follow.
+DAE new Latitude less than 90. OR cosine of new Declination. DS Sine of
+Meridians ascension or descension.
+II.
+
+
+
+ZB rein-clination. BGZO. OA Sine of declination. HAIFO. IO Radius. AMIO.
+Out of this Structure will follow.
+OK is the sine of ZD or ND in the former figure, where the new Latitude DAE
+will be found. HO Sine of new declination. AM cosine of Meridians ascension or
+descension.
+How all re / in-clining plains (being counted as upright in their new
+Latitude) are to be taken; whether as North or South decliners.
+
+As also, How the Meridian line is to be placed, whether ascending above, or
+descending below the horizontall line: and from which end of that line, whether
+that which looks the same way with the declination of the plain, or that which
+looks the contrary way.
+
+In North re / in-cliners. If D fall below P, the Recliners are North plains,
+and the Meridian ascends above the horizontall line, from that end of it which
+looks to the same Coast of declination. Incliners are South plains, and the
+Meridian descends below that end of the horizontall line, which looks to the
+contrary Coast of declination. If D fall above P, the Recliners are South
+plains, and the Meridian goes below: contrary, Incliners are North plains, and
+the Meridian goes above the end looking the same way with declination. In South
+re / in-cliners If D fall above AE, the Recliners are North plains, and the
+Meridian goes above the horizontall line, from the same end with the Coast of
+declination. Incliners are South plains, and the Meridian goes below the
+horizontall line, from that end which is contrary to the Coast of declination.
+If D fall below AE, the Recliners are North plains, and the Meridian goes below
+the horizontall line: contrary, Incliners are South plains, and the Meridian
+goes above the horizontall line, from that end which looks to the Coast of
+declination. If D fall into P, both re / in-cliners, are called Polar plains,
+and the Meridian, in both, ascends from the Same end in Recliners. contrary end
+in Incliners.
+
+If D fall into E, the Recliners are North plains, and the Meridian ascends
+from the same; descends from the contrary end to that which looks upon the
+Coast of declination. Incliners are South plains, and the Meridian ascends from
+the contrary; descends from the same end that looks upon the Coast of
+declination.
+
+East and West Recliners are North plains, declining from North, So much as the
+complement of their re / in-clination comes to. This is their new declination,
+and their new Latitude is the complement of the Latitude of your place.
+Incliners are South plains, declining from South,
+
+4. For that which follows, take notice of these four things. First, That from
+D to the nearest AE (measured by the line of Chords) gives the new Latitude, in
+which the re / in-clining plain, is an upright declining plain. Secondly, That
+OR (measured upon the line of Sines) gives the complement of the plains new
+declination in that new Latitude: this New declination is to the same Coast
+with the Old, but always less in quantity than it. Thirdly, That DS (measured
+upon the Sines) gives the quantity of the Meridians ascension or descension.
+This gives the quantity, the former rules gave the Coast. Fourthly, That in the
+description of the Dial, you must only make use of the new Latitude, and new
+Declination: having nothing to do with the other.
+
+5. Having the former things known, you must (by the Tangent and co-tangent of
+the new Latitude) describe your Rectangled Parallelogram (as in the 10 Chap.)
+and according as the plain was discovered to be a decliner from the North or
+South, you must make choice of your center, place the substylar, style, and six
+a clock line, by help of the Sine and cosine of the new declination, and new
+Latitude, and then prick down and draw the hours, all in the same form that
+was before showed in the 10 Chap. for upright decliners.
+
+This for the Dials description.
+6. Lastly, for placing your Dial. First, Consider which way, and how much,
+your Meridian ascended or descended from the horizontall line. Then go to your
+plain, and there draw the same Meridian line answerably, setting off so many
+degrees by your Scale of Chords. When this is done, take your paper
+description, and lay the Meridian of it, either upon, or else parallel to, the
+Meridian drawn upon the plain, and take care to place it the right way; namely
+so, as that the imaginary style of your paper (or a real pattern of the style
+cut fit and set upon the paper Dial) may point into the North or South Pole,
+according as the plain is esteemed to be a North or South plain. After this is
+performed, you may transfer each hour from the paper to the plain, and so
+finish all the work.
+
+CHAP. XV.
+Concerning full East and West re-inclining plains.
+HEre in this sort of plain, you are only to take notice, that the new Latitude
+(wherein they stand as erect plains) is ever the complement of your own
+Latitude. And the new declination (in that Latitude) is the complement of their
+re / in-clination. By knowing these, you may describe the dial according to
+the 10 Chap. The Meridian line (in all these) lies in (or parallel to) the
+horizontall line. All which things will appear also out of the former figures,
+if according to them you should make a draught, and suppose your plain to
+decline 90 degrees, as all these East and West plains do. All other things will
+follow of themselves, agreeable to other plains.
+
+CHAP. XVI.
+Concerning re-in-cliners, that are direct, or have no declination.
+IF the line CB be placed (as is prescribed in the former figure) and drawn
+quite through, it will represent your plain that is re / in-clining toward the
+North, and without any declination. So also BL, if it be drawn quite through,
+will represent such plains as re / in-cline toward the South, and have no
+declination.
+
+For which lines so drawn (or imagined only) you may gather (according to the
+former rules) which of the Poles (A or X) is elevated, and how much it is
+elevated (which is showed by the arc CA or LX.) You may also see which end of
+the Meridian is to be taken for the substilar line, over which (in these direct
+plains) the style is ever to be erected, and must stand.
+
+Then for drawing the hours, you have no more to do, but to describe an
+Horizontall Dial to that elevation, which is due to the plain. The manner
+whereof is showed before in the 11 Chap.
+
+CHAP. XVII.
+How to deal with those plains, where the Pole is but of small elevation.
+SUch plains whose styles lie low, cannot have the houre-lines distinctly
+severed, unless the center of the Dial be cast out of the plain. In such
+cases therefore the Dial is to be made without a center, in this manner.
+
+1. Place AB the Meridian, A^ the substilar, AF the style, by the rules before
+given in the 10 and 13 Chapt. omitting what is done for the line of six, being
+here of no consequence.
+
+2. Find the plains difference of Longitude by the 18 Chap. following.
+
+3. Assume any two points in the substilar AE, as at R and S, and through them
+draw two infinite right lines, at right angles to AE.
+
+4. To the style AF, draw the parallel GH, at any convenient distance, such as
+you shall think fit, for your new style to stand from your plain.
+
+5. Take the least distance from R to GH, and set it upon the substilar from R
+to K. So from S to GH, set from S to L.
+
+6. Upon the two centers K and L, describe two Circles: And in them both, make
+the two angles RKM, SLM, equal to the plains difference of Longitude; and set
+it on that side the substilar RS, upon which the Meridian AB stands.
+
+7. The rest of the work will be easy to finish, if you begin (in each circle)
+from the points at M, to divide them into 24 equal hours; and from the
+centers to those equal divisions, draw out lines to cut their respective
+contingent lines in 12, 11, 10, etc. And from each correspondent hour, you
+must draw the lines 12 12, 11 11, 10 10, etc.
+
+An Upright Plain declining from South toward East 80 gr.
+
+
+
+Difference of Longitude 82d 08'
+South Pole elevated 6 12
+CHAP. XVIII.
+Having the Latitude of the place, and the plains declination, to find the
+plains difference of Longitude.
+IT must be understood, that the plain is supposed (in this work) to be always
+erect; and that therefore for re / in-clining plains, the Latitude and
+declination here mentioned is meant of the new Latitude and new declination.
+
+Two ways to do it.
+Make ABC a right angle.
+
+I.
+
+
+
+AB Sine of new Latitude.
+
+BC Tangent of new declination.
+
+BAC is the difference of the plains Longitude from your Meridian.
+
+Make DEF a right angle.
+
+II.
+
+
+
+DE Radius.
+
+EG Sine of new Latitude.
+
+OF Co-tangent of plains new declination.
+
+Draw GH parallel to DF.
+
+HDE is the complement of the difference of Longitude.
+
+Or DHE is the difference it felfe.
+
+If this work be done for upright plains in your own Latitude, which will be
+needful in far decliners, then instead of the new Latitude and new Declination
+here mentioned, you are to use your own Latitude, and the upright plains
+Declination. The new Latitude and Declination are for re-in-clining plains.
+
+CHAP. XIX.
+Of Polar Plains, on which the Pole is not elevated at all.
+THose are called Polar plains, upon which neither of the two Poles is elevated
+at all, but the plain lies parallel to the Axis, such are the upright East and
+West: and in every declination from the South some one recliner: in every
+declination from the North some one Incliner.
+
+The new declination of all Polar plains is their difference of Longitude, in
+these you must work by the 10 and 14 Chap. to place AB the Meridian, AE the
+substilar; and for the style AF, it has no elevation from the substilar, but
+is the same with it. So that the work will be much like that in the 17 Chap.
+
+Make GH for the style, parallel to the substyle AE, at some convenient
+distance. Then assigning any point in the line AE, as S, through it draw an
+infinite right line perpendicular to AE. And take the least distance from S to
+GH, make SL equal thereto. Upon L describe a circle, and make SLM equal to
+the difference of Longitude, on the same Coast from SL unto which the plain
+declineth, or to the same Coast upon which the first line of 12 namely AB
+stands. Then having found the hour points upon the line which passes
+through S, namely, 6, 7, 8, 9, 10, etc. draw lines through them, all parallel
+to the^ substilar AESL.
+
+CHAP. XX.
+Another way to prick down the hourepoints, by the Tangent line on the Scale.
+LEt the first four Sections of the 17 Chap. be performed according to the
+directions there given. After them, you must gather the angles at the Pole, by
+help of the plains difference of Longitude in this manner. Let the former
+example serve. The difference of that plains Longitude will be 82 gr. 08'. Out
+of this, take the greatest number of some just hour; viz. 75 gr. The remainder
+is 7 gr. 8'. Having then set down the substile 00 00, as in the Margin, write
+this 7 gr. 8'. next under it, to which add 15 gr. continually, and you shall
+produce all the following numbers as you there see them. And note, that in this
+work 82 gr. 8'. the difference of Longitude will ever stand against the hour
+of 12, if you work right. Then take the first number 7 gr. 8'. out of 15 gr.
+the remainder is 7 gr. 52'; set this above the substyle, and to this number
+add continually 15 gr. (or one hour) the numbers will be produced such as you
+here see.
+
+gr. ' 3 52 52 4 37 52 5 22 52 6 7 52 Substyle 00 00 7 7 08 8 22 08 9 37 08 10
+52 08 11 67 08 12 82 08
+
+When this is done, draw a right line, therein assuming the point S or R. Then
+upon your Scale of Tangents, count the numbers 7 08, 22 08, etc. in the Table,
+and take them off from the same Scale, setting them severally from S to a, b,
+c, d, e. So again, upon the same Scale of Tangents count the other numbers, 7
+52, 22 52, 37 52, etc. and take them off thence severally, and place them from
+Sat f, g, h, i.
+
+After this, take 45 gr. out of your Tangent Scale, and place it upon this line
+from S to K both ways. Then (as in the 19 Chap.) take the least distance from
+the point S (in your Dial) to GH the fiduciall edge of your style, and setting
+one foot of that extent upon K, with the other describe the arc MP, and from S
+draw the lines SP only touching the said arks. Being thus fitted, you must from
+a, b, c, d, e, take the least distances to the line LP, and set them
+(respectively) upon the contingent line of your Dial, from S to 7, 8, 9, 10,
+11, And again, the least distances from f, g, h, i, to the line PS, will give
+the poins 6, 5, 4, 3, upon the same contingent line of your Dial. Thus is one
+of the contingent lines divided into his requisite hours. The like work must
+be done with the other. For you must take the least distance from the point R
+(in your Dial) to GH the fiduciall edge of your style, and setting one foot of
+that extent upon K, with the other describe the arc TV, and draw the
+touch-line SV. Then from a, b, c, d, e, take the least distance to SV, and set
+them on your Dial from R to 7, 8, 9, 10, 11. So from f, g, h, i, take the
+least distances, and set them from R to 6, 5, 4, 3, by which means you have the
+other contingent line divided into its requisite hours. The rest of the work
+for finishing the Dial will be the same with that in the 17 Chap.
+
+But because the tangents upon the Scale go but to 63 gr. 26', it must
+therefore here be showed how those that exceed that quantity may be supplied.
+Namely thus, Double the number of degrees and minutes, and from the sum take 90
+gr. so shall the Tangent and Secant of the remaining arc (both of them put
+together) give the Tangent required. As if in the former example, it were
+required to find the Tangent of 67 gr. 8' noted upon the line by the length S
+e, we must do thus. The double of 67 gr. 8' is 134 gr. 16', from which taking
+90 gr. the remainder will be 44 gr. 16'. Accordingly we must first take the
+Secant of 44 gr. 16', and set it from S to y; then take the Tangent of the same
+44 gr. 16'. and set it also forward from y to e, so shall you have S e the
+whole Tangent of 67 gr. 8'. as is required. Thus do for any other which shall
+go beyond the Scale.
+
+CHAP. XXI.
+A second way for re-in-cliners.
+TAke notice of these terms. 1. Vertical distance, is the distance of the
+plains pole from the Vertex or Zenith of the place.
+
+2. Polar distance, is the distance of the plains pole from the North pole.
+
+Preparatory works. 1. Draw the horizontall line upon the plain, The ways how
+to effect these are showed other-where, and are here taken as known.
+and cross it at right angles with a Vertical line.
+
+2. Get the plains re / in-clination, and consequently the distance of the
+plains Pole from the Zenith of the place: which is here called the Vertical
+distance.
+
+3. Get the plains declination, and always account how much it is from the
+North. For that is here called the angle of Declination.
+
+SECT. 1.
+By the Scale of Versed Sines, how to find the elevation of the Pole above the
+plain: and which Pole it is, whether North or South, that is elevated.
+First, find the sum and difference of
+The complement of your Latitude, The plains Vertical distance.
+
+
+Then take half the length of your Versed Scale; and with that Radius (upon
+the center C) describe the Semicircle ADB. Afterward, upon the same Scale,
+count the former sum and difference, and take the length betwixt them, and
+set it from A to D, and draw BD. Also count (upon the same Scale) the angle of
+the plains declination, and set that length from B to E, and take the least
+distance from E to BD. This least distance being rightly applied to the Scale,
+namely, from the forenamed difference forward upon the Scale, will give the
+distance of the plains Pole from the North Pole, which is to be made use of
+hereafter, and is called, The Polar distance.
+
+And observe likewise, that
+
+If the point of your Compasses (applied to the Scale) do fall just upon 90,
+then is your plain a Meridionall or Polar plain, and has no pole elevated
+above it.
+
+If it fall short of 90 then is the North Pole elevated; and the elevation is
+so much as the point falls short of 90.
+
+If it fall beyond 90, so much as it falls beyond, so much is the South Pole
+elevated.
+
+SECT. 2.
+To find the plains difference of Longitude from the South part of your
+Meridian, and which way the said difference of Longitude is to be taken.
+First, find the sum and difference of
+The complement of your Latitude, The forementioned polar distance.
+Then make AB equal to your whole line of Versed Sines. And upon your Scale
+count your difference now found, and the forementioned vertical distance,
+taking the distance of these two as they are numbered upon the Scale. With
+which length upon A, describe the arch CD. Take also upon the Scale, from the
+vertical distance to the forementioned sum, and with that length upon B,
+describe the arc OF. Then draw the line FC, so as to touch both these arks,
+cutting the line AB in G: so shall AG (being measured upon the Scale) give the
+plains difference of Longitude from the South, which is here required.
+
+This difference of Longitude is to be taken to the same Coast in the heavens
+unto which the plain declineth, and may afterward, in the description of the
+Dial, be easily accounted either from the South or North part of the Meridian,
+viz. so as that the said difference may be always lesso than 90 gr.
+
+SECT. 3.
+To find how much the Substilar (or plains proper Meridian) must lie from the
+Vertical line of the plain, and which way.
+Frist, Find the sum and difference of
+The Polar distance, The Vertical distance.
+
+
+Then make AB equal to your whole Versed Scale. And on the same Scale, take
+the extent from the complement of your Latitude to the difference now before
+found, with which length, upon A as the center, describe the arc CD. Also upon
+the Scale, take from the complement of your Latitude to the sum here before
+found, and with that length, upon the center B, describe the arc OF. then draw
+the line FC, justly touching both these arks, and cutting the line AB in G, so
+shall AG (being applied to the Scale) give the quantity of the angle here
+required. According to this angle the substylar line must always stand off
+from the vertical line of the plain.
+
+Which way must the Substilar lie from the Vertical line.
+
+If the plain has the North Pole elevated upon it, then must the substilar
+always lie from the upper end of the Vertical line toward the North Pole, so
+much as the angle was (in the last Section) found to be.
+
+If the South Pole be elevated, then the substilar lies always from the lower
+end of the vertical line toward the same South Pole, according to the
+forenamed angle.
+
+If the plain be Meridionall (upon which neither of the Poles is elevated) then
+the substilar must do either, or both; these two: according to the angle
+before found.
+
+According to these Rules you may place the substilar line upon the plain in
+its true position requisite.
+
+SECT. 4.
+To draw the houre-lines upon the plain.
+FIrst, consider by the first of these Sections, whether it is the North or
+South pole that is elevated upon your plain. If it be the North pole, then must
+the center of your Dial stand downward, and the style must point upward to the
+said North pole. But if the South pole be elevated, then the center of the
+Dial is to be set upward, and the style coming from thence must point
+downwards into the South Pole.
+
+This being remembered, you may upon paper draw the right line ACB, and upon C
+as the center, with the extent of the line taken from your Scale, describe a
+circle. If then the North pole South pole
+be elevated, let the center of your Dial be below at B, above at A,
+and the poles elevation (taken from the Scale) must be set betwixt A and C, B
+and C, namely, at the mark. Then (counting half your Versed Scale as a line of
+90 Chords, beginning at 90, and ending at 00, or 180) from that end of the
+diameter A or B which is the center of your Dial, set off your difference of
+Longitude (taken out of the Versed Scale as it was now taken for Chords) that
+way to which the plain declineth, set it off at M, this point M is the point of
+12. Then from M, divide your circle into 12 equal parts, at a, b, c, d, e, f,
+g, h, i, k, l, and from each of those points through the point make touches of
+right lines, cutting again the same circle on the opposite part into 12
+unequal parts.
+
+
+
+Lastly, From the center of the Dial A or B, and through the said unequal
+parts, draw right lines. These last lines shall give you 12 of your hours
+required: And if you draw each of them quite through the center, you shall have
+the whole number of 24, of which, you may take such as are suitable and
+necessary for your plain.
+
+When your paper Dial is thus finished, you may transfer it to your plain, by
+laying the substilar upon (or parallel to) the substilar before placed upon the
+plain, and so insert all the hours from the paper to the plain.
+
+After all this, you may make the style to the angle of the Poles elevation,
+and fit it in according to its requisite place and position.
+
+Note, that because some of the hour points found in the Circle will happen so
+near to the center of the Dial that you cannot well draw the houre-lines
+true; you may therefore help your self by that direction which I have given in
+my Geometrical way.
+
+[ This Geometrical way shall shortly be published by the Authors own copy,
+with his own Demonstrations of the whole work.]
+
+For drawing hours upon plains that have small elevations, and upon Polar
+plains, use the former directions.
+
+CHAP. XXII.
+A third way for all re-in-clining Dials.
+SECT. 1.
+To find a re-in-clining plains difference of Longitude from the South part of
+your Meridian: and how much the plains Meridian or (substyle) must lie from the
+Vertical line of the plain.
+I. II. III. Complement of your Latit. 38 30 K 38 30 K 38 30 K Plains vertical
+distance. 100 00 Z 60 00 Z 30 00 Z Their Sum. 138 30 98 30 68 30 Their
+Difference. 61 30 21 30 8 30 Their half Sum. 69. 15 R compl. 20 45 V 49. 15
+R comp. 40. 45 V 34. 15 R compl. 55. 45 V Their half difference. 30. 45 S.
+compl. 59. 15 X 10. 45 S compl. 79. 15 X 4. 15 S compl. 85. 45. X Plains
+declinat. from Sou. 50. 00 Y 140 00 Y 160 00 Y
+
+Describe a Circle with your common (or lesser) Scale of Chords.
+
+And out of the same Scale make A Y = plains declination from South.
+
+Out of the line make A R = R, and A S = S, and draw Y R M and M S B and make A
+D = A B.
+
+Out of the same line make A V = V, and A X = X, and draw Y V N, and N X C.
+
+Then if K be less than Z
+C A D is the differ. of Longitude required. and C B is the angle between the
+substile and the vertical line.
+But if K be greater than Z
+C A D is the forementioned angle. and C B is the difference of Longitude.
+These two arks C D and C B, must be measured from 90 in the line of Versed
+Sines, and look what number of degrees they there cut, the same must be
+accounted for their quantities.
+
+SECT. 2.
+To find the elevation of the Pole above the plain: and which of the Poles it
+is, whether North or South, that is elevated.
+MEasure A B upon the Versed Sines (from 90) as before: the complement of that
+is E B. Measure also E C upon the same Scale, in the same manner. Count these
+quantities E B and E C (so found) upon the line, and set them from E, to F and
+G, and make Er = R (taking E r out of the Scale of Versed Sines from 90) Draw r
+F O, and O G P. Measure E P upon your Scale of Chords, it will there give you
+the polar distance.
+
+If E P fall to be 90, it is a Meridionall plain, and has no Pole elevated.
+If it be less than 90, the complement of it is the elevation of the North
+Pole.
+If it be greater than 90. the excess is the elevation of the South Pole.
+
+Note, that the three figures following have relation to the three Columns of
+the foregoing Table; and to these rules last delivered.
+
+Figure I.
+In this first Figure
+C A D 62 49 C B 34 13 E P 122 00
+
+
+Figure II.
+In this second Figure
+C A D 110 29 C B 42 19 E P 36 28
+
+
+Figure III.
+In this third Figure
+C A D 118 26 C B 44 56 E P 14 00
+
+
+
+
+SECT. 3.
+Which way must the Substilar lie from the Vertical line?
+THe Rules are the same with those before in the second way of Dialling, where
+the same Question is propounded. You may therefore have recourse to them. Or
+thus.
+
+Upon all plains whereon the North pole South pole is elevated; the substilar
+must lie from the upper end lower end of the Vertical line toward the full
+North. South.
+For drawing the hours, and finishing the Dial, you must do as is prescribed
+in the 4th. Sect. of the former second way. For, having placed the Substilar,
+and knowing the plains difference of Longitude, you are to use the same course
+here that was there given.
+
+It will be easy to do these things in plains that are upright, and have no
+re-in-clination.
+
+Note in all these three ways of Dialling.
+All directions here given suppose you to be in the Northern Hemisphere of the
+world. If therefore you should be in the Southern Hemisphere, you may easily
+make these precepts serve there too, by only altering the name of North,
+Northen, etc. and South Southern, etc. one into the other.
+
+FINIS.
+This Scheme has relation to the 16th. Chapter, page 54.
+
+
+Errata.
+Page 32, in the Diagram, for H P G, read H F G.
+Page 51, for, If D fall into E, read, If D fall into Ae.
+Page 54, line 16, for For, read From.
+In the Dial Page 57, at the other end of the line
+M, place the letter K upon the Substilar.
+Page 62, line 19, for L P, read S P.
+In the Diagram page 76, the letter R is wanting, at the intersection of the
+line Y M, with the line A E.
+

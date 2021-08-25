@@ -1,0 +1,299 @@
+To the Right Honorable and others, the Learned Members of the Royal Society,
+for the Advancement of the Sciences.
+Presents to your Consideration, your most humble servant Thomas Hobbes, a
+Confutation of a Theoreme which has a long time passed for Truth; to the great
+hinderance of Geometry, and also of Natural Philosophy, which thereon depends.
+
+The Theoreme.
+The four sides of a Square being divided into any number of equal parts, for
+example into 10; and straight lines drawn through the opposite points, which
+will divide the Square into 100 lesser Squares; The received Opinion, and which
+Dr. Wallis commonly uses, is, that the root of those 100, namely 10, is the
+side of the whole Square.
+
+The Confutation.
+The Root 10 is a number of those Squares, whereof the whole contains 100,
+whereof one Square is an Unity; therefore the Root 10, is 10 Squares:
+Therefore the Root of 100 Squares is 10 Squares, and not the side of any
+Square; because the side of a Square is not a Superficies, but a Line. For as
+the root of 100 Unities is 10 Unities, or of 100 Soldiers 10 Soldiers: so the
+root of 100 Squares is 10 of those Squares. Therefore the Theoreme is false;
+and more false, when the root is augmented by multiplying it by other greater
+numbers.
+
+Hence it follows, that no Proposition can either be demonstrated or confuted
+from this false Theoreme. Upon which, and upon the Numeration of Infinites, is
+grounded all the Geometry which Dr. Wallis has hitherto published.
+
+And your said servant humbly prays to have your Judgment hereupon: And that
+if you find it to be false, you would be pleased to correct the same; and not
+to suffer so necessary a Science as Geometry to be stifled, to save the Credit
+of a Professor.
+Three PAPERS Presented to the ROYAL SOCIETY Against Dr. WALLIS. Together with
+CONSIDERATIONS ON Dr. Wallis his ANSWER to them.
+
+By THO. HOBBES of Malmsbury.
+
+LONDON: Printed for the Author; and are to be had at the Green Dragon without
+Temple Bar. 1671.
+
+To the Right Honorable and others, the Learned Members of the Royal Society,
+for the Advancement of the Sciences.
+YOur most humble servant Thomas Hobbes presents, That the quantity of a Line
+calculated by extraction of Roots, is not to be truly found. And further
+presents to you the Invention of a Straight Line equal to the Arc of a Circle.
+
+A Square Root is a number which multiplied into it self produces a number.
+And the number so produced is called a Square number. Definition.
+For example: Because 10 multiplied into 10 makes 100; the Root is 10, and the
+Square number 100.
+
+Consequent.
+In the natural row of Numbers, as 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13,
+14, 15, 16, etc. every one is the Square of some number in the same row. But
+Square numbers (beginning at 1) intermit first two numbers, then four, then
+six, etc. So that none of the intermitted numbers is a Square number, nor has
+any Square root.
+
+PROP. I.
+A Square root (speaking of quantity) is not a Line, such as Euclide defines,
+without Latitude, but a Rectangle.
+
+Suppose A B C D be the Square, and AB, BC, CD, DA be the sides; and every side
+divided into 10 equal parts, and Lines drawn through the opposite points of
+division; there will then be made 100 lesser Squares, which taken all together
+are equal to the Square ABCD. Therefore the whole Square is 100, whereof one
+Square is an Unit; therefore 10 Units, which is the Root, is ten of the lesser
+Squares, and consequently has Latitude; and therefore it cannot be the side of
+a Square, which according to Euclide is a Line without Latitude.
+
+Consequent.
+It follows hence, that whosoever takes for a Principle, That a Side of a
+Square is a mere Line without Latitude, and That the Root of a Square is such a
+Line, (as Dr. Wallis continually does) demonstrates nothing.
+
+But if a Line be divided into what number of equal parts soever, so the Line
+have breadth allowed it, (as all Lines must, if they be drawn) and the length be
+to the breadth as Number to an Unite, the Side and the Root will be all of one
+length.
+
+PROP. II.
+Any Number given is produced by the greatest Root multiplied into it self, and
+into the remaining Fraction. Let the Number given be two hundred Squares, the
+greatest Root is 14 4/14 Squares. I say, that 200 is equal to the product of 14
+into it self, together with 14 multiplied into 4/14. For 14 multiplied into it
+self, makes 196. And 14 into 4/14 makes 56/14, which is equal to 4. And 4 added
+to 196 makes 200; as was to be proved.
+
+Or take any other Number 8, the greatest Root is 2; which multiplied into it
+self is 4, and the Remainder 4/2 multiplied into 2 is 4; and both together 8.
+
+PROP. III.
+But the same Square calculated Geometrically by the like parts, consists (by
+Eucl. 2.4.) of the same numeral great Square 196, and of the two Rectangles
+under the greatest side 14, and the Remainder of the side, or (which is all
+one) of one Rectangle under the greatest side, and double the Remainder of the
+side; and further of the Square of the less Segment; which all together make
+200, and moreover 1/49 of those 200 Squares, as by the operation it self
+appears thus.
+
+The side of the greater Segment is 14. 14.
+Which multiplied into it self, makes 200.
+
+The product of 14 the greatest segment, into the two Fractions 4/14, that is,
+into 4/14 (or into twice 2/14) is 56/14 (that is 4) and that 4 added to 196
+makes 200.
+
+Lastly, the product of 2/14 into 2/142 or 1/7 into 1/7, is 1/49.
+
+And so the same Square calculated by Roots, is less by 1/49 of one of those
+two hundred Squares, then by the true and Geometrical Calculation; as was to be
+demonstrated.
+
+Consequent.
+It is hence manifest, That whosoever calculates the length of an Arc or other
+Line by the extraction of Roots, must necessarily make it shorter then the
+truth, unless the Square have a true Root.
+
+The Radius of a Circle is a Mean Proportional between the Arc of a Quadrant
+and two fifths of the same.
+DEscribe a Square ABCD, and in it a Quadrant DCA. In the side DC take DT two
+fifths of DC; and between DC and DT a Mean Proportional DR; and describe the
+Quadrantal Arcs RS, TV.
+
+I say, the Arc RS is equal to the straight line DC.
+
+For seeing the proportion of DC to DT is duplicate of the proportion of DC to
+DR, it will be also duplicate of the proportion of the Arc CA to the Arc RS;
+and likewise duplicate of the proportion of the Arc RS to the Arc TV.
+
+Suppose some other Arc less or greater then the Arc RS to be equal to DC, as
+for example rs: Then the proportion of the Arc rs to the straight line DT will
+be duplicate of the proportion of RS to TV, or DR to DT. Which is absurd;
+because Dr is by construction greater or less then DR.
+
+Therefore the Arc RS is equal to the side DC. Which was to be demonstrated.
+
+Corol.
+Hence it follows that DR is equal to two fifths of the Arc CA. For RS, TV, DT
+being continually proportional; and the Arc TV being described by DT, the Arc
+RS will be described by a straight line equal to TV. But RS is described by the
+straight line DR. Therefore DR is equal to TV, that is, to two fifths of CA.
+
+
+
+And your said servant most humbly prays you to consider (if the
+demonstration be true and evident) whether the way of objecting against it by
+Square Roots, used by Dr. Wallis; and whether all his Geometry, as being, built
+upon it, and upon his supposition of an Infinite Number, be not false.
+
+Considerations upon the Answer of Dr. Wallis to the Three Papers of Mr. Hobbes.
+DR. Wallis says, All that is affirmed, is but, If we SVPPOSE That, This will
+follow.
+
+But it seems to me, that if the Supposition be impossible, then that which
+follows will either be false, or at least undemonstrated.
+
+First, this Proposition being founded upon his Arithmetica Infinitorum, If
+there he affirm an absolute Infiniteness, he must here also be understood to
+affirm the same. But in his 39th Proposition he says thus: Seeing that the
+number of terms increasing, the excess above sub-quadruple is perpetually
+diminished, so as at last it becomes less than any proportion that can be
+assigned; If it proceed in infinitum it must utterly vanish. And therefore if
+there be propounded an Infinite row of quantities in triplicate proportion of
+quantities Arithmetically proportional (that is, according to the row of
+Cubical numbers) beginning from a point or 0; that row shall be to a row of as
+many, equal to the greatest, as 1 to 4.
+
+It is therefore manifest that he affirms, That in an Infinite row of
+quantities the last is given; and he knows well enough that this is but a shift.
+
+Secondly, he says, That usually in Euclide and all after him, by Infinite is
+meant but, more than any assignable Finite, or the greatest possible.
+
+I am content it be so interpreted. But then from thence he must demonstrate
+those his conclusions, which he has not yet done. And when he shall have done
+it, not only the Conclusions, but also the Demonstration will be the same with
+mine in Cap. 14. Art. 2, 3, etc. of my Book De Corpore. And so he steals what
+he once condemned. A fine quality.
+
+Thirdly, he says (by Euclides 10th Proposition, but he tells not of what
+Book) That a Line may be bisected, and the halves of it may again be bisected,
+and so onwards infinitely; and that upon such supposed Section Infinitely
+continued, the parts must be supposed Infinitely many.
+
+I deny that; for Euclide, if he says a Line may be divisible into parts
+perpetually divisible, he means, That all the divisions, and all the parts
+arising from those divisions, are perpetually Finite in number.
+
+Fourthly, he says, That there may be supposed a row of quantities infinitely
+many, and continually increasing, whereof the last is given.
+
+It Is true, a man may say (if that be supposing) that white is black; but if
+Supposing be Thinking, he cannot suppose an Infinite row of quantities whereof
+the last is given. And if he say it, he can demonstrate nothing from it.
+
+Fifthly, He says (for one absurdity begets another) That a Superficies or
+Solid may be supposed so constituted, as to be Infinitely long, but Finitely
+great (the breadth continually decreasing in greater proportion than the length
+increases) and so as to have no center of gravity. Such is Toricellio 's
+Solidum Hyperbolicum acutum, and others innumerable discovered by Dr. Wallis,
+Monsieur Fermat, and others. But to determine this, requires more of Geometry
+and Logic (whatsoever it do of the Latin Tongue) than Mr. Hobbes is master of.
+
+I do not remember this of Toricellio, and I doubt Dr Wallis does him wrong,
+and Monsieur Fermat too. For to understand this for sense, it is not required
+that a man should be a Geometrician or a Logician, but that he should be mad.
+
+In the next place he puts to me a Question as absurd as his Answers are to
+mine. Let him ask himself (says he) if he be still of opinion, That there is
+no Argument in Natural Philosophy to prove that the World had a beginning:
+First, whether in case it had no beginning, there must not have passed an
+Infinite number of years before Mr. Hobbes was born. Secondly, whether at this
+time there have not passed more, that is, more than that Infinite number.
+Thirdly, whether, in that Infinite (or more than Infinite) number of years,
+there have not been a greater number of days and hours, and of which hitherto
+the last is given. Fourthly, whether, if this be an Absurdity, we have not then
+(contrary to what Mr. Hobbes would persuade us) an Argument in Nature to prove
+the World had a beginning.
+
+To this I answer, not willingly, but in service to the Truth, that by the same
+Argument he might as well prove that God had a beginning. Thus: in case he had
+not, there must have passed an Infinite length of time before Mr. Hobbes was
+born; but there has passed at this day more than that Infinite length (by
+eighty four years). And this day, which is the last, is given. If this be an
+Absurdity, have we not then an Argument in Nature to prove that God had a
+beginning? Thus it is when men entangle themselves in a Dispute of that which
+they cannot comprehend. But perhaps he looks for a Solution of his Argument to
+prove that there is somewhat greater than Infinite; which I shall do so far, as
+to show it is not concluding. If from this day backwards to Eternity be more
+than Infinite, and from Mr. Hobbes his birth backwards to the same Eternity be
+Infinite, then take away from this day backwards to the time of Adam, which is
+more than from this day to Mr. Hobbes his birth, then that which remains
+backwards must be less than Infinite. All this arguing of Infinites is but the
+ambition of School-boyes.
+
+To the latter part of the first Paper.
+There is no doubt, if we give what Proportion we will of the Radius to the
+Arc, but that the Arc upon that Arc will have the same Proportion. But that is
+nothing to my Demonstration. He knows it, and wrongs the Royal Society in
+presuming they cannot find the Impertinence of it.
+
+My proof is this; That if the Arc on TV, and the Arc RS, and the straight Line
+CD, be not equal, then the Arc on TV, the Arc on RS, and the Arc on CA, cannot
+be proportional. Which is manifest by supposing in DC a less than the said DC;
+but equal to RS, and another straight Line, less than RS, equal to the Arc on
+TV; and any body may examine it by himself.
+
+I have been asked by some that think themselves Logicians, Why I proceeded
+upon 2/5 rather than any other part of the Radius. The reason I had for it was,
+That long ago some Arabians had determined, That a straight Line whose square
+is equal to 10 squares of half the Radius, is equal to a quarter of the
+Perimiter; but their demonstrations are lost. From that Equality it follows,
+that the third proportional to the Quadrant and Radius, must be a mean
+proportional between the Radius and 2/5 of the same. But my answer to the
+Logicians was, That though I took any part of the Radius to proceed on, and
+lighted on the Truth by chance, the Truth it self would appear by the Absurdity
+arising from the denial of it. And this is it that Aristotle meant, where he
+distinguishes between a Direct demonstration, and a demonstration leading to
+an absurdity. Hence it appears, that Dr. Wallis his objections to my Rosetum
+are invalid, as built upon Roots.
+
+To the second Paper.
+First, he says, That it concerns him no more than other men. Which is true. I
+meant it against the whole Herd of them who apply their Algebra to Geometry.
+
+Secondly, He says, That a bare Number cannot be the Side of a Square figure.
+
+I would know what he means by a Bare Number. Ten Lines may be the side of a
+Square figure. Is there any Number so bare, as by it we are not to conceive or
+consider any thing numbered? Or by ten Nothings understands he Bare 10? He
+struggles in vain, his Conscience puzzles him.
+
+Thirdly, He says, Ten Squares is the Root of 100 Square-squares. To which I
+answer, first, That there is no such Figure as a Square-square. Secondly, That
+it follows hence that a Root is a Superficies, for such is 10 Squares.
+
+Lastly, He says, That neither the Number 10, nor 10 Soldiers is the Root of
+100 Soldiers; because 100 Soldiers is not the Product of 10 Soldiers into 10
+Soldiers.
+
+That last I grant, because nothing but Numbers can be multiplied into one
+another. A Soldier cannot be multiplied by a Soldier. But no more can a
+Square-figure by a Square-figure, though a Square-number may. Again, If a
+Captain will place his hundred Men in a square Form, must not he take the Root
+of 100 to make a Rank or File? And are not those 10 Men?
+
+To the third Paper.
+He objects nothing here, but that, The Side of a Square is not a Superficies
+but a Line, and that a Square Root (speaking of quantity) is not a Line but a
+Rectangle, is a contradiction. The Reader is to judge of that.
+
+To his Scoffings I say no more, but that they may be retorted in the same
+words, and are therefore childish.
+
+And now I submit the whole to the Royal Society, with confidence that they
+will never engage themselves in the maintenance of these Unintelligible
+Doctrines of Dr. Wallis, that tend to the suppression of the Sciences which
+they endeavor to advance.
+

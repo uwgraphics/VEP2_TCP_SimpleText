@@ -1,0 +1,787 @@
+THE GEOMETRICAL SQUARE: WITH THE USE THEREOF IN PLAIN and SPHERICAL
+TRIGONOMETRIE. Chiefly intended for the more easy finding of the HOUR and
+AZIMUTH. BY SAMUEL FOSTER, Sometimes Professor of Astronomy, in GRESHAM
+Colleage, LONDON.
+
+LONDON, Printed by R. and W. LEYBOURN. M. DC. LIX.
+
+A DESCRIPTION OF THE SQUARE.
+THE whole superficies is divided into four lesser Squares, by the Diameters FG
+and HI.
+
+Each of the 4 Semidiameters OF, EH, EG, EI, are divided as the lines of Sines
+upon the Sector, the Semidiameters being the whole Sine, And through the parts
+of each Semidiameter are drawn right lines perpendicular thereunto, quite over
+the face of the whole Square every 10th, 5th, etc. are to be distinguished from
+the rest, for the more easy and speedy account.
+
+Upon the limb are inserted several Scales, for several uses. The edges of
+these Scales bordering close upon the sides of the inner Square, that it may be
+discerned which lines and parts of the Scales do butt one upon the other.
+
+On the sides AB, AC, are inscribed Scales of equal parts, the whole being
+divided into 10, and subdivided as quantity will give leave. The parts are
+numbered by 1. 2. 3. 4. 5. 6. 7. 8. 9. 10, and may stand, either for 1. 2. 3,
+etc. or for 10. 20. 30, etc. or for 100. 200. 300, etc. as occasion requires.
+
+To the lines BY and CG, are annexed Scales of right sines whose beginning is
+at B and C, and the end at I and G, numbered by 10. 20, etc. to 90.
+
+The other parts ID, GD, have Scales of Tangents from 0 gr. to 45 gr. numbered
+either from G to D, and so to I. Or from I to D, and so to G, or rather both
+ways, by 10, 20, 30, etc. till 90, and these divisions have respect to the
+Center E.
+
+Lastly, a Scale of larger Tangents, lying behind these last named, Parallel to
+the sides BD, CD, beginning 0 gr. from B and C, and so proceeding to 45 gr. in
+D and ending in 90 gr. at C and B, accounted both ways. These have respect to
+their Center A.
+
+(...)
+
+
+There is further added a thread and plummet, which is to be used in every
+practice, and must be in length equal to the lines AF, and FG. And if the
+thread be found inconvenient in practice, because it will take up the use of
+both hands, there may instead of it, be used a little Bow, the thread of it
+being at the least equal to AD, which will perform the office of the other
+thread by the help of one hand only, or a straight ruler may serve, if it be
+thought convenient for that purpose.
+
+If the Square be applied to the observation of Angles, it may be fitted
+thereto one of these two ways, Either by placing two sights upon the side of
+the Square, one upon the Center A, the other upon the line AB, which issues
+out of the Center A. And a running sight contrived upon the utter edge of the
+Instrument to move from B to C by D forward, and so from C to B by D, backward
+again; Or else if this be thought inconvenient, or not feasible because of the
+sights turning over at the Angle D, then this moveable sight may go only upon
+one of the sides BD or CD. And for that purpose the sight at A, is to stand
+precisely upon the Center, and both the sides AB, AG must have sights there
+fixed, as precisely, upon their lines that come from A.
+
+Of the use of the Square in General for the Solution of Spherical Triangles.
+In any Spherical Triangle whatsoever.
+By having the Legs and Base, to find the Vertical Angle.
+THe Angle given or sought is the Vertical Angle, The sides comprehending it
+are the legs. The side subtending it is the Base.
+
+From the top of the Square, count the sum of the legs upon one side, the
+difference of them on the other side, To this sum and difference apply the
+thread, Then from the same top of the Square count the base also, And mark
+where it cuts the thread, for the line passing through the intersection, and
+standing Square to the top, (if it be numbered from that side of the Square
+whereon the difference of the legs was counted) gives the Vertical Angle
+required.
+
+This is the general manner of work for this Proposition, which may be
+illustrated by these particulars.
+FIRST,
+Having the Latitude of the place, the Declination and Altitude of the Sun, to
+find the Hour of the day.
+BY the declination of the Sun, may be had his distance from the elevated Pole,
+By subtracting it from 90 gr. when the Declination is of the same denomination
+with the said Pole; Or by adding the Declination to 90 gr. when the Declination
+and elevated Pole are of several denominations.
+
+In this case, we have the three sides of a Spherical Triangle given, and an
+Angle sought.
+
+The two legs are The complement of the Latitude, and The Suns distance from
+the Pole. The base is, The complement of the Suns Altitude: The Angle is the
+Hour required, which must be accounted from the Coast of a contrary name, to
+the elevated Pole.
+
+According then to the former general prescript, and this particular
+declaration, For the hour take the sum and difference of the complement of the
+Latitude, and of the Suns distance from the Pole, and from the top of the
+Square, upon one side, count the difference, the sum on the other, to these
+terms apply the thread; Then from the top of the Square also, count the
+complement of the Suns Altitude, and where it cuts the thread, the line that
+crosses it Square in the same point (being reckoned from that side whereon the
+difference of the legs was counted) gives the hour from the Meridian or noon.
+
+To make it plain by an Example.
+
+In a North Latitude of 52 gr. 30 min. the Sun declining 20 gr. to the North,
+the Altitude of the Sun being by observation 43 gr. I would know the Hour of
+the day. The legs of this Triangle are the complements of the latitude and
+declination, that is 37 gr. 30 min. and 70 gr. 0 min. The sum of them is 107
+gr. 30 min. their difference is 32 gr. 30 min. Then from the top of the Square
+at D upon the side DG, I reckon this difference 32 gr. 30 min. downward to k.
+And on the other side of the Square from the top at B, I also count the sum of
+the legs 107 gr. 30 min. downward to l. To k and l. I apply the thread. Which
+done from the top of the Square, again, I count the base 47 gr. the complement
+of 43 gr. the altitude observed, downward also to 0, and the line that there
+meets me, I follow till it cut the thread, which is at n, and the line that
+there arises Square to it is n r. I say now that nr, if it be counted from the
+side DC whereon the difference of the legs was counted, shall give 44gr. 8 min.
+which turned into hours and minutes of an hour, (allowing 15 gr. to an hour;
+and 15 min. of a degree to one minute of an hour) will make two hours and 56
+min. from the Meridian or South, And such is the Hour for that Latitude,
+Altitude, and Declination.
+
+So also, If in the same Latitude and distance of the Sun from the Pole, but in
+the altitude of 10 gr. I would know The boure of the day. Here because the
+legs, that is, the complement of the latitude and the distance from the Pole,
+are the same, therefore the same position of the thread remains still, I
+therefore only reckon the base (as before) which here is 80 gr. from D to p,
+then I follow the line p, till it cuts the thread at m, and the line there
+arising is m s, which counted from DC, whereon the difference of the legs was
+reckoned, shall give 99 gr. 50 min. that is 6 hours 39 min. of an hour from the
+Meridian or South.
+
+Another Example.
+In the same latitude of 52 gr. 30 min. let the declination of the Sun be 20
+gr. to the South, where his distance from the elevated Pole is 110 gr. and let
+the altitude of the Sun be by observation 10 gr. I require the Hour. The legs
+are 37 gr. 30 min. the complement of the latitude, And 110 gr. the Suns
+distance from the Pole. The sum of them is 147 gr. 30 min. The difference 72
+gr. 30 min. which I count upon the sides of the Square down to u and t; and the
+base which is 80 gr. the complement of 10 gr. I count also from D to p, then I
+follow the line p, till it cut the thread at x, and the line there arising is x
+y, which counted from DC, whereon the difference of the legs was reckoned,
+shall give 38 grad. 56 min. that is, two hours and almost 36 min. of an hour
+from the Meridian or South.
+
+Note, That the thread in this situation, shows on the diameter of the Square
+(which in this case represents the Horizon) the Semidiurnal and Seminocturnai
+Arks, for where the thread crosses the middle line, the line there arising,
+(counted from that side of the Square, whereon the difference was numbered)
+shows the Semidiurnal ark, and counted from the other side, shows the
+Seminocturnal ark.
+
+Observe also, If you would known the Crepusculum or Twilight, the thread is to
+be placed as before, according to the sum and difference of the legs, and if
+you allow 18 gr. for the Crepusculin line (as they usually do) the base will
+always be 108 gr. which in the two first Examples will not touch the thread at
+all, and therefore in that latitude and parallel of the Sun, the twilight
+continues all night. But in the last Example you shall find the Crepusculin
+line to cut the thread, 6 hours and 15 min. from the Meridian, which shows
+that the twilight begins at 5 a clock in the morning, and ends at 6 in the
+evening, and the rest of the time is dark night which is 11 hours.
+
+If the sum of the the legs be more then 180 gr. that is, if it would reach
+beyond the bottom of the Square, you must when you have reckoned to the bottom,
+count upward back again till you have ended the whole sum.
+
+SECONDLY,
+Having the Latitude of the place, the Declination and Altitude of the Sun, To
+find the Azimuth of the Sun.
+HEre also the 3 sides are given, the same with the former, and an Angle
+sought. The two legs are the Complements of the latitude, and Suns altitude,
+The base is the Suns distance from the Pole which is elevated above the
+Horizon. The angle sought is the Suns Azimuth, from that part of the Meridian,
+which is of the same denomination with the elevated Pole.
+
+So then according to the former general prescript, and this particular
+declaration, for the Azimuth, do thus.
+
+Take the sum and difference of the Complements of the latitude and Suns
+altitude, and count from the top of the Square, the one upon one side, the
+other on the other side, and to these terms apply the thread; Then from the top
+of the Square also, count the Suns distance from the Pole, and where it does
+cross the thread, the line that there arises Square to the former, being
+reckoned from that side of the Square whereon the difference of the legs was
+counted, gives the Azimuth from that part of the Meridian which is of the same
+denomination with the elevated Pole, and counted from the other side, gives the
+Azimuth from the other coast.
+
+To Illustrate it by an Example.
+In a North latitude of 52 gr. 30 min. let the altitude of the Sun be 22 gr.
+and the declination 10 gr. Northerly, By these given I would know the Suns
+Azimuth, the two legs of the Triangle are the complements of the latitude and
+Suns altitude, that is 37 gr. 30 min. and 68 gr. the sum of them is 105 gr. 30
+min. the difference is 30 gr. 30 min. The sum of them I count on the side BA,
+from the top at B down to k, The difference I count on the other side from D
+down to h, and to these points k and h, I apply the thread k h, And lastly,
+because the declination is 10 gr. Northward in a North latitude, therefore his
+distance from the elevated Pole is 80 gr. which I count from the top D, down to
+l, and follow the line at l, till it meet with the thread at n, where I find
+the line m n, to cross it also, which numbered from the side DC, whereon the
+difference of the legs was numbered, gives 102 gr 38 m. the Azimuth from the
+North: And so also if it be accounted from the side BA, it gives the Azimuth
+from the South 77 gr. 22 min. the residue of the former, or the complement of
+it to 180 gr.
+
+Another Example, In the same latitude and the same altitude, and therefore
+also the same situation, of the thread, let the declination be Northerly 23 gr.
+therefore the distance from the Pole will be 66 gr. which I count from D to f,
+and following the line f till it meet with the thread at i, I find the line g
+i, to cross there also, which being counted from the side DC, whereon the
+difference of the legs was counted, shows 79 gr. 38 min. the Azimuth from the
+North, Or counted from the other side, gives the residue of the former, 100 gr.
+22 min. The Azimuth from the South.
+
+A third Example. In the same latitude and altitude, and therefore also in the
+same situation of the thread, let the declination of the Sun be 10 gr. to the
+South, then shall his distance from the elevated North Pole be 100 gr. and
+because this 100 gr. is the base, I therefore count it from the top D, down to
+o, and following the line o, I find it to cut the thread at r, and the line r p
+there crossing, shows me from DC, (the side whereon the difference of the legs
+was counted) 146 gr. 32 min. for the Azimuth from the North, or if the same
+line be numbered from the side BA, it shows 33 gr. 28 min. the residue of the
+former, for the Azimuth from the South.
+
+These Examples may suffice for this kind, and according to these patterns,
+all others are to be framed.
+
+In any Spherical Triangle whatsoever.
+By having the legs and Vertical Angle, to find the Base.
+From the top of the Square, count the sum of the legs upon one side, the
+difference of them on the other side. To this sum and difference apply the
+thread: Then from that side of the Square whereon the difference of the legs
+was numbered, count the Vertical Angle given, and where it cuts the thread, mark
+the line that passes there-through parallel to the top of the Square, for that
+line, counted from the top, gives the base required.
+
+This is general for all works of this kind, which may be illustrated in
+particular: thus,
+
+Having the latitude of the place, the declination of the Sun, and the hour of
+the day, to find the altitude of the Sun, for that latitude, declination, and
+hour.
+
+HEre have we the two legs of the Triangle, with the intercepted Vertical
+Angle, given, and the base sought. The legs are the complement of the latitude,
+and the Suns distance, from the Pole; The angle intercepted is the hour whose
+altitude we seek. And the base is the complement of the altitude sought for.
+
+Wherefore by the former general prescipt, and this particular explication, we
+may attain to the thing required thus, as in the former practice, so here;
+Apply the thread to the sum and difference of the complement of the latitude,
+and of the Suns distance from the Pole, Then reckon the hour given from the
+Meridian, from the side whereon the difference of the legs was counted, and
+where it crosses the thread observe the line that passes there-through
+parallel to the top of the Square, for that line reckoned from the top, shows
+the base, that is, The complement of the altitude, or reckoned from the middle
+line of the Square, it gives the altitude it self of the Sun, for that parallel
+and Hour; And so the thread (which now represents the Suns parallel:) lying
+still, you may count the altitudes for all the rest of the hours for that
+parallel.
+
+For Example.
+In a North latitude of 52 gr. 30 min. let the Sun decline 20 gr. to the North,
+so that his distance from the elevated North Pole will be 70 gr. which is one
+of the legs given, and the complement of the latitude, 37 gr. 30 min. is the
+other, The sum of them is 107 gr. 30 min. The difference is 32 gr. 30 min. This
+difference is the complement of the Suns Meridian altitude; and I count it from
+D the top of the Square, to k: (in the first figure) thereto applying one end
+of the thread And on the other side from B, I count the sum, 107 gr. 30 min.
+down to l, thereto applying the other end of the thread. The thread thus laid,
+resembles the Suns parallel, for that declination, Now from the side D k,
+whereon the difference was numbered, I count the Vertical Angle, As first 15 gr.
+for the first hour from the Meridian, either 11 in the morning, or one in the
+afternoon, and where it cuts the thread, I observe the other line there
+crossing also, which counted from the top, gives for the base, 34 gr. 32 min.
+the complement of the altitude required.
+
+Or rather. Count it from the middle line, which in this case represents the
+Horizon, and then you shall have 55 gr. 28 m. the altitude it self, for that
+hour and parallel, So the second hour from the Meridian (10 or 2) gives for the
+altitude 50 gr. 4 min. The third hour (9 or 3) gives 42 gr. 31 m. The fourth
+hour from the Meridian (8 or 4) gives 33 gr. 53 min. The fifth (7 or 5) gives
+24 gr. 48 min. The sixth (6 in the morning and evening) gives 15 gr. 45 m. The
+seventh (5 in the morning, or 7 in the evening) gives 7 gr. 6 m. And so
+farrethe Sun is above the Horizon in that parallel, and then begins to go down.
+
+And observe further, That the thread thus placed taken in that part below the
+Horizon, gives the altitudes for the hours in the declination which is equal to
+this, but to a contrary coast; so that the thread in this situation, gives the
+altitudes for the declination of 20 grad. toward the South, for that part of
+the thread that is under the Horizon or middle line, is the Semi-nocturnal ark
+for the parallel lying 20 gr. from the Equinoctial Northward, and is therefore
+equal to the Semi-diurnal ark that belongs to the parallel which lies 20 gr.
+from the Equinoctial Southward, and is of like situation below the Horizon that
+the other is above, wherefore the depressions belonging to the hours in this,
+are the same with the altitudes of the same hours in the other. To go on then
+where we left, The next hour counted from the Meridian of the Winter parallel
+is the fourth, that is, either 8 in the morning, or 4 in the afternoon, and his
+depression is 0 gr. 50 min. The next hour the third from the Meridian (either 9
+or 3) is depressed 7 gr. 39 m. The second hour, (10 or 2) is 12 gr. 57 m. The
+first hour (11 or 1,) is depressed in this North parallel 16 gr. 20 min. that
+is, it is elevated so much in the like South parallel. Thus of each two
+opposite parallels of declination may the altitudes be had at one and the same
+situation of the thread. But if the other way seem plainer, do as before. Let
+the Sun in the same latitude decline 20 gr. to the South, his distance from the
+North elevated Pole, is then 110 gr. the sum of the complement of the latitude
+37 gr. 30 min. and this distance is 147 gr. 30 min. The difference is 72 gr. 30
+m. This difference I count from D to t, (in the first figure,) The sum I also
+account as before, from B to u, And to t u, I placed the thread, Now from the
+side D t, I count the hours as I did before, and find the altitude of 11 and 1,
+16 gr. 20 min. of 10 and 2, 12 gr. 57 min. of 9 and 3, 7 gr. 39 min. of 8 and
+4, 0 gr. 50 min. All the same that the former depressions were; And if now you
+take the depressions of the hours upon the thread in this situation, you shall
+find them all the same that the altitudes in the former parallel of 20 gr.
+North declination were; So that ever, one side of the thread will afford the
+altitudes for the hours in any two opposite parallels.
+
+The Meridian altitude is the complement of the difference of the legs, And in
+the opposite parallel it is the excess of the sum of the legs above 90 gr. And
+as you have done for the Altitudes of the whole hours, so may you do for their
+halves and quarters. Thus much for this also.
+
+In any Spherical Triangle, whatsoever.
+If the Proportions be in right Sines alone, they are resolved in this manner.
+Count the first sine given (upon one of the sides of the lesser Square EIDG,)
+from the Center E, and upon the line there arising count the second sine,
+whereto apply the thread, Then upon the same side with the first, count the
+third, and observe the line there arising, for from it does the thread cut off
+the fourth sine required.
+
+This general may be illustrated in particular thus.
+Having the greatest Declination of the Sun, and his distance from the next
+Equinoctial point* to find the Declination of the Sun for that distance.
+THis particular belongs to the solution of a Rect-angled Spherical Triangle,
+yet the manner of the work in this is the same with the work belonging to the
+solution of the Obliquangled ones. The proportion stands thus; As the radius,
+is to the sine of the greatest declination; So the sine of the Suns distance
+from the next Equinoctial point, to the sine of the declination of that point.
+
+For an Example.
+Let the distance from the Equinoctial be 30 gr. The greatest declination 23
+gr. 30 min. I would know the declination for that distance of 30 gr. The
+Proportion is, As the radius, is to the sine of 23 gr. 30 min. So the sine of
+30 degrees, to what sine? Count EG for the radius, and upon GD the line there
+arising, reckon 23 degrees. and 30 min. up to a, and thereto apply the thread, Then
+again upon EG, count e b, the sine of 30 gr. and follow the line there arising
+which is b c, till it cut the thread at c, and the line c d, there crossing
+also (being counted from EG) gives for the declination required, 11 gr. 30 min.
+So that the sine of 11 gr. 30 min. is the fourth Proportional Sine to the
+former three.
+
+By the Hour of the Day given, with the Suns distance from the elevated Pole,
+and the complement of his altitude above the Horizon, to find his Azimuth.
+The Azimuth thus gotten is counted in North latitudes from the North, in South
+latitudes from the South. Let the hour be 3 from the meridian. The Suns
+distance from the Pole 66 gr. 30 min. The complement of the altitude, 44 gr. 20
+m. By these things known, I would find the Azimuth. The proportion whereby it
+is wrought is this. As the Sine of the hour, is to the Sine of the complement
+of the altitude; So is the sine of the distance, to the sine of the Azimuth.
+Wherefore upon the side of the Square EG, I count the sine of 45 gr. to h, and
+upon the line there arising, I count the sine of 44 gr. 20 min. up to i, and
+thereto apply the thread. Then upon the same side with the first I reckon the
+sine of the Suns distance 66 gr. 30 min. from E to k, and following the line
+there arising till it meet with the thread at n, I find the line nl, to cross
+there also, which counted from EG, gives the sine of 65 gr. for the fourth
+proportional, so that 65 gr. shows the residue of the Angle required, that is
+to say, In our North latitude it shows me the Azimuth from the South; because
+the Angle of the Azimuth from the North is an obtuse Angle, namely 115 gr. and
+the same sine serves both to it and to 65 gr. his residue.
+
+And here also is to be noted, That when any Proportion in right sines alone is
+offered, and the radius is the first leader in the Proportion, that then I say,
+it may be resolved by the former kind of work, by the sum and difference,
+counting the complement of the arks of the two Sines given, for the legs of the
+Triangle, and the ark of the radius or 90 gr. for the Vertical Angle, and the
+base found out to be the complement of the ark required. As in the first
+Example,
+
+The two middle arks were 30 gr. and 23 gr. 30 min. their complements are 60
+gr. and 66 g. 30 min. The sum of these is 126 gr. 30 min. there difference 6
+gr. 30 min. to this sum and difference, I apply the thread, as in the former
+Examples, and then count the Vertical Angle 90 gr. which falls in the middle
+line and where the thread cuts it, there is the quantity of the Declination, 11
+gr. 30 min. as before: And these degrees are counted from the Center of the
+Square at E.
+
+And thus may all others of this nature, having the radius in the first place,
+be absolved. And not only these of sines alone, but with sines intermingled
+with Tangents also, If it so fall out that these Tangents be less then the
+radius, And if instead of their proper arks be taken the complements of the
+arks of sines equal unto those Tangents.
+
+And thus much for Exemplifying in this kind also. Those that follow are
+appropriate to rectangled Spherical Triangles only.
+
+In any Rectangled Spherical Triangle whatsoever.
+If the Proportion stand between right sines (whereof the Radius is always one)
+and Tangents, they are to be resolved in this manner.
+
+Upon one of the sides of the lesser square EIGD. Count the first term, and
+upon the line there arising count the second, whereto apply the thread. Then
+upon the same side whereon the first was reckoned, count the third, and follow
+it till it cross the thread, for the quantity of it comprehended between the
+third term and the thread, gives the fourth proportional term required, always
+remembering that every term be taken on his proper Scale.
+
+Here because the proportions are diverse, we shall need more explication then
+in all the rest. Yet the variety herein, may be reduced to three ways
+according as one of these three, either the Radius; Sine, or Tangent, does lead
+in the Proportion, the three ways are these: 1 As the radius, is to a tangent,
+So is a sine to a Tangent. 2 As a sine, is to a tangent, So the Radius is to
+another tangent. 3 As a tangent, is to the radius, So another tangent, is to a
+sine.
+
+
+But this variety is not all, for each of these three ways is subject to
+variation, and that upon this occasion. -- Upon the square we have no tangent
+greater then the radius, or tangent of 45 degrees. Wherefore the proportion
+must be so contrived, as that no tangent greater then of 45 gr. be ingredient
+into it. To that purpose serves this general direction, namely, -- If the
+tangent which is co-partner, in the proportion with the sine, be greater then
+of 45 gr. (always provided that the two tangents do never stand immediately
+together, which if they do, may be brought into frame by transposition or
+alteration of the middle term.) Then, In the two first ways the radius and
+sine must change places; and for the two tangents must be taken the tangents of
+their complements; In the third way, the co-tangents of the third and first
+terms must remove into the first and third places.
+
+To show this more particularly in the 3 former ways.
+
+In the first,
+If the tangent required in the fourth place prove greater then of 45 gr.
+(which how to discover is showed hereafter) then by the former direction this
+alteration must be made.
+
+As the sine in the third. place, is to the co-tangent in the sesecond,
+
+So is the radius in the first place, to the co-tangent of the fourth.
+
+In the Second,
+If the tangent in the second place, be greater then of 45 gr. then by the
+former direction this proportion must be thus changed.
+
+As the radius in the third place, is to the co-tangent of the second.
+
+So is the sine in the first place, to the co-tangent of the fourth.
+
+In the third
+If the tangent in the third place, be greater then of 45 gr. then according to
+the former prescript this proportion must thus be varied.
+
+As the co-tangent of the third place, is to the radius in the second;
+
+So the co-tangent of the first place, is to the sine required in the fourth
+place.
+
+Because in the first proportion it is unknown whether the tangent required in
+the fourth place be greater or lesser then of 45 gr. and yet is necessary it
+should be known before it can be found out, you shall therefore in practice
+discover it thus.
+
+If the line whereon it is to be accounted does not meet with the thread
+rightly situated upon the Square, then is it greater then of 45 gr. and then
+the proportion must be altered as before, but if it do meet with the thread,
+then is it less then of 45 gr. as it should be.
+
+Observ^ that the tangents are actually in the limb only, yet may be
+understood to be all over the plain, for some line or other standing even
+against them in the plain will supply them as well as if they were actually
+there drawn.
+
+And note that if such a Proportion as this do at any time happen, namely, As a
+sine is to a tangent, So another sine, is to another tangent. And that these
+tangents, be discovered to be one of them greater then of 45 gr. the other
+less, That then the radius is to be brought into the Proportion, by saying, As
+the first sine, is to the first, So is the radius to another Tangent; Then
+leaving out the first sine and tangent, and using for them the radius and this
+later tangent, say, As the radius is to the last found tangent, So is the sine
+in the third place to the tangent in the fourth; Which Proportion suites with
+those going before. But if both the tangents be either greater or less^r then
+of 45 gr. then may the solution be made without the help of the radius.
+
+According to the former Rules generally delivered are these following Examples
+framed, and will fully illustrate every Case.
+
+For the first of the three several ways there are three cases, For either
+both the tangents are less then 45 gr. or both greater, or no less, the other
+greater.
+
+1 As the radius is to the tangent of 40 gr. So the sine of 50 gr. to the
+tangent of what?
+
+Upon the Square EIDG, I count EG for the radius, and upon the end of it in the
+Scales of tangents I reckon G a, 40 gr. thereto applying thread. Then upon EG,
+I count the sine of 50 gr. from E to b, and follow the line there arising till
+it cut the thread E a, at c, So that b c is the fourth term required, which
+because it is a tangent, must be numbered in the Scale of tangents, and
+therefore by help of the line c e, I transfer it thither, and find that the
+line lies even against 32 gr. 44 min. in the Scale of Tangents, and this is the
+ark of the fourth proportional term required.
+
+2 As the radius is to the Tangent of 60 gr. So the sine of 50 gr. to the
+Tangents of what?
+
+Upon the Square I count (as before) from G up to D and so forward to n, 60 gr.
+among the Tangents, and thereto apply the thread. Then I count the third term.
+E b the sine of 50 gr. and I follow the line there arising to the top of the
+Square, and yet it meets notwith the thread, but beyond the Square I see that
+it would concur with it at r, which shows that the fourth Tangent required,
+is greater then the Tangent of 45 gr. and therefore standing as it does, cannot
+be expressed upon the Scale of Tangents, wherefore I alter the Proportion, by
+transposing the first and third terms into one another places, and for the
+Tangents themselves I take their complement thus.
+
+As the sine of 50, is to the Co-tangent of 60, So is the Radius, to a fourth
+Tangent, which will be the complement of that which should be produced by the
+former Proportion. By this alteration it comes to pass that the sine leads in
+the Proportion, and so this Example now falls under the Examples of the second
+General way, and therefore shall be resolved there.
+
+3 As the radius is to the Tangent of 50 gr. so the sine of 50 gr. to the
+Tangent of what?
+
+Upon the Square I take EG for the radius, and at the end of it I reckon up to
+D, which is 45 gr. and so forward on the other side to g, that is to 50 gr.
+Then upon EG, I count e b the sine of 50 gr. and follow the line there arising
+till it cut the thread at i, so that b i is the fourth term, and because it is
+a Tangent, therefore by help of the line passing through i, that is, by the
+line i m, I transfer it to the Scale of Tangents, and find that lies even
+against 42 gr. 24 min. which is the fourth ark required.
+
+For the second of the three general ways, there are two
+
+1 As the sine of 50 gr. is to the Tangent of 30 gr. So the radius is to the
+Tangent of what?
+
+First, upon the side EG, I count the sine of 50 gr. and to the line there
+arising, I transfer Gt the Tangent of 30 gr. by help of the line t s, and to
+s, I apply the thread, which thread cuts the limb in u, so that G u I find to
+be the Tangent of 37 gr. and this is the fourth term required in this
+Proportion; But in the second Example going before, whereof this is also the
+solution, this 37 gr. is the complement of the fourth ark there required, so
+that the fourth ark there, should be 53 gr. which because it is greater then 45
+gr. is therefore absolved this way, and not the other.
+
+2 As the sine of 50 gr. is to the tangent of 50 gr. So the radius is to the
+Tangent of what?
+
+Here because the Tangent of 50 (being Co-partner in the Proportion with the
+sine) is greater then the Tangent of 45 gr. and so cannot be expressed upon the
+square, therefore the Proportion must be altered by changing the places of the
+first and third terms, and by taking the complement of the second and fourth,
+after this manner.
+
+As the radius is to the Tangent of 40 gr. So the sine of 50 gr. to the Tangent
+of 32 gr. 44 min. the complement whereof 57 gr. 16 min. answers to the question
+in the former Proportion, and this last Proportion falls under the first general
+way where the radius leads, and was resolved before in the first practice upon
+the Square, As EG, to G a, So E b, to b c, or G e the Tangent of 32 gr. 44 min.
+
+In the third of the three general ways, there are two cases, according as the
+Tangent of the third place, which is Co-partner in the proportion with the
+sine, is lesser or greater then the Tangent of 45 degrees.
+
+1 As the tangent of 40 gr. is to the Radius, so the Tangent of 32 gr. 44 min.
+to what sine?
+
+Upon the side GD, I count G a, the Tangent of 40 gr. and thereto apply the
+thread, then upon the same side GD, I reckon also the Tangent of 32 gr. 44 min.
+from G to e, and follow the line meeting at e, till it cut the thread at c, and
+the line there crossing also is c b, which counted from e, the Center of the
+Square, gives the sine of 50 gr. which is the fourth term required.
+
+2 As the Tangent of 60 gr. is to the radius, So the Tangent of 53 gr. to what
+sine?
+
+Here because the Tangent of 53 gr. being Co-partner in Proportion with the
+sine, is greater then of 45 gr. therefore the first and third terms must change
+places, and their complements are also to be taken, thus, As the co-tangent of
+53 gr. or Tangent of 37 gr. is to the Radius, So is the co-tangent of 60 gr. or
+Tangent of 30 gr. to the fourth sine required.
+
+Upon GD the side of the Square, I count G u the Tangent of 37 gr. thereto
+applying the thread. Then on the same side of the Square, I also count G t, the
+Tanegnt of 30 gr. and follow the line at t, till it cut the thread at s, and
+the line s b, there crossing being counted from e, the Center of the Square,
+gives me the Sine of 50 gr. the fourth term required.
+
+These Examples are sufficient to give light to the rest, For no Proportion can
+fall out in these kinds, whereunto these Proportions and their Examples are not
+suitable.
+
+And so much of Spherical Triangles.
+Of the use of the Square, in Right-lined Triangles.
+IF the Proportions be between Tangents and equal parts, then are we to use the
+equal parts on the sides AB, AG, as also the larger Tangents upon the two other
+sides of the Square, and then the work will be the same, for form, that was
+before in Tangents and sines, for the lines on the superficies will carry the
+parts of either of these Scales to and fro, as they did before the parts of the
+Scales of the lesser Tangents.
+
+If the Proportions be between sines and equal parts, then are we to make use
+of the sines inscribed upon the Scales BY, CG, together with the former equal
+parts, the lines upon the superficies still acting their former parts of
+carrying from the one to the other.
+
+Examples in these kinds, And first of sines, and equal parts, or Numbers.
+SUppose at the two stations DC, I had observed the angles BCA, 30 gr. BDA, 50
+gr. and CD the difference of Stations 40 feet, and by these observations, I
+require to know the altitude AB.
+
+First, I must find the length of the lines CB, or DB, in this Example of CB,
+after this manner, because BCA is 30 gr. and BD A 50 grad. therefore their
+difference CBD is 20 gr. Now then, As the sine of CB D 20 gr.
+
+Is to CD 40 feet, So is the sine of BDC or BDA, 50 gr.
+
+To the length of CB required.
+
+To resolve this upon the Square, from C, I count the line of 20 gr. to a, and
+observe the line there meeting me, then upon the side AC, I count A d 40 equal
+parts or feet, and thirdly, I reckon C c the third term, which is the sine of
+50 gr. and follow the line there meeting me, till it cross the thread (which
+was to be applied to b, the intersection of the lines a b, coming from the
+first term, and d b rising from the second) at e, and there I find another line
+concurring, namely, e h, which I follow down to h, and there it shows in the
+equal parts A h 89 feet, and 58 centesmes or hundredth parts of a foot, And
+this is the length of CB, now to get BA, by a second work, I say,
+
+As CB the radius, to BA the sine of BCA 30 gr.
+
+So BC 89 58/100 feet, to BA the altitude in feet.
+
+
+
+To perform this Proportion, Upon the Square I take AH, equal to BY the radius,
+and upon HE, I count H o, equal to C r the sine of 30 gr. thereto applying the
+thread; Then from A to h, I count the length of CB, that is 89, 58, and so
+follow the line there arising, up to the thread to s, where I find the line s
+u, limiting out A u, 44, 79, that is 44 feet, and 79 centesmes of a foot, and
+such is the altitude of AB required.
+
+Thus by having the three Angles of a plain Triangle, and one side you may find
+the two other sides; And by having two sides and an Angle opposite to one of
+them, you may find the other two Angles and third side, in any Right-lined
+Triangles whatsoever.
+
+Examples of equal parts, and Tangents.
+This kind of work may sufficiently be explained in the solution of this
+Problem.
+
+By having an Angle and the two sides comprehending it, to find the other
+Angles.
+First, if the Angle comprehended be a Right-angle the work is easy.
+ANd here we are to use the Scales of equal parts, with the larger Tangents
+only. Suppose then in the Rect-angle Triangle ABC, By having the two sides
+including the right angle AB 30, BC 20 parts, I would find the angles at A and
+C, because this Proportion holds
+
+As AB 30, to BC 20
+
+So AB the radius to BC,
+
+The Tangent of BAC.
+
+Therefore upon the Square I count A w 30 equal parts, and follow w f, till it
+stand even with 20 equal parts counted on the side AB, and laying the thread at
+f, I find it to cut in the limb of the greater Tangent C y, which is 33 gr. 41
+min. And such is the quantity of the angle CAB. And the complement of it 56 gr.
+19 min. is the quantity of the angle ACB.
+
+Further more it is to be noted, That if by having the right angle with the two
+including sides, you would find the sub tending side AC. In this case one of
+the acute angles must first be sought, and then by the Proportions of sines and
+equal parts, the side AC may be had.
+
+So also, If by having the distance AB 30 foot, and the angle CAB 33 gr. 41
+min. I would know the Height BC, Upon the Square I lay the thread from C to y
+the Tangent of 33 gr. 41 min. then upon the equal parts I count A w 30, and
+follow the line rising at w, till it meet with the thread at f, and at f, I
+find the line f q crossing also, which followed to q, shows in the limb 20
+equal parts for the altitude BC.
+
+By these mixed Proportions of equal parts with sines and Tangents, may all
+mensurations be performed, as also all conclusions upon the Common Sea-chart,
+with Mr. Gunters corrections of it, to make it sufficient for Sea-mens use.
+
+Secondly, in any plain Triangle whatsoever.
+The former Problem may be resolved in general by this Proportion, As the sum
+of the two sides, is to their difference, So is the Tangent of half the sum of
+their opposite Angles, to the Tangent of the half difference of those Angles.
+AS here, the two given parts, are AB 40 parts, and BC 20, the sum of them is
+60, the difference is 20, the angle at B 120 gr. and therefore the sum of the
+two other 60 gr. the half sum of 30 gr. Now,
+
+As 60 the sum of the sides, is to 20 their difference,
+
+So is the Tangent of 30 gr. the half sum of the angles at A and C, to the
+Tangent of their half difference.
+
+The best way for the solution of Proportions in this kind is first (as was
+before admonished in the joint use of Sines and Tangents) to seek out a Tangent
+whereon the Radius is in Proportion as the sum of the legs is to the difference
+of them, which Tangent is ever less then the Tangent of 45 gr. or radius,
+because the difference of the legs is always less then the sum of them. And
+when the radius is brought in, the Proportion may be absolved upon the lesser
+Square, which is fitted for the Proportions of Sines and Tangents, in the same
+manner as was showed in the like Examples before. And the Proportion will then
+stand thus.
+
+As the radius, is to this new found Tangent, So is the Tangent of half the sum
+of the angles, to the Tangent of half their difference.
+
+To make it plain by the former instance, As 60 parts, are to 20; So is the
+radius, to what Tangent?
+
+Upon the Scale of equal parts, I account A k 60 and on the line there arising
+I account k x 20, thereto applying the thread, and then I see it cut off in the
+greater Tangents C 18 gr, 26 min. which is the Tangent sought. And now that the
+radius is brought in, the next Proportion will be thus,
+
+As the radius, is to the Tangent of 18 gr. 26 min.
+
+So is the Tangent of 30 gr. half the sum of the angles, to what Tangent?
+
+Upon the lesser Square, I take EG for the radius, and count G z the tangent of
+18 gr. 26 min. thereto applying the thread, then upon ID, I count I x the
+Tangent of 30 gr. and follow the line thence passing to the thread at s, where
+the line s ph shows, in the limb the Tangent G ph, which is the Tangent of 10
+gr. 54 min. the half difference of the angles required, which added to 30 gr.
+the half sum, makes the greater angle 40 gr. 54 min. And taken from the same 30
+gr. leaves 19 gr. 6 min. for the lesser angle.
+
+By having the three sides of a plain Triangle, to find the Angles.
+THe first work here will be to let fall a perpendicular, and to know where it
+will fall, and so reducing the Triangle to two Rectangles, you may resolve them
+as Rectangles, either by sines and equal parts, or Tangents and equal parts.
+
+The manner of dividing a Triangle, into two Rectangles, as also to find the
+place where the perpendicular falls, is showed by Mr. Gunter in the first Book
+of his Cross-staff, and the Proportion for the solution of it, is a proportion
+of equal parts or numbers only, the manner of which is hereafter showed in the
+next use of the Square in numbers or equal parts alone.
+
+Thus far of the use in Right-lined Triangles.
+Of the use of the Square in Proportions of equal parts or Numbers only.
+THe equal parts with the lines on the superficies to carry them along, will
+perform them very sufficiently and expeditely, If any number be too great take
+1/10 or 1/10 part of it, and count the rest as a fraction either decimal or
+centesimal. And as in the former works, so here, the first and third terms,
+must be counted upon one side of the Instrument, the second and fourth upon the
+lines arising out of the terms of the former, so the thread applied to the
+second, will limit out the fourth.
+
+The manner of the work is always a like, and may sufficiently be declared in
+this one Example, I would know that number whereto 60 bears the same
+Proportion, that 40 does to 50: The Proportion stand thus As 40, is to 50: So
+60, to what?
+
+Upon AC the Scale of equal parts, I count AD 40, and upon the line arising out
+of d, (by help of the Scale of equal parts upon the other side AB) I count 50
+up to l, and thereto apply the thread, Then upon AC, I count the third term, 60
+to K, and follow the line there arising, till it meet with the thread at p, and
+there the line p m, meeting also, shows in the Scale AB at m, 75 parts, which
+is the fourth proportional number required. And thus in all others.
+
+Of the use of the Square in the observation of angles.
+WHen the observation is made and the sight placed, then the thread from A,
+applied to the running sight, will express the angle in the larger Tangent,
+And for observing any altitude or depth, the thread alone, without the help of
+the running sight, will express the Angle, if the observation be made as
+usually it is by other Instruments. -- The Square at the greatest cannot
+observe an Angle that is greater then 90. If therefore such an Angle come to be
+observed, you must observe the residue of it, which is his complement to 180
+degrees.
+
+Hitherto we have had a general view of the use of the Square in all Triangles
+and ordinary Proportions in Numbers. Now remains the bringing of it down to
+particulars in every kind; which would be an infinite labor, and un-necessary
+to those that are any thing experienced, in the use of Instruments, especially
+seeing we have here a taste of every of them, and the particular Proportions are
+every where extant. Hereafter I may add something more on the other side, for
+the present I here make stay, and content my self with that which has already
+been delivered.
+
+FINIS.
+

@@ -1,0 +1,608 @@
+THE GEOMETRY OF Landskips and Paintings Made Familiar and Easy: Useful to
+Limners in Drawing, and Gentlemen in Choosing PICTVRES;
+
+And Beneficial to Architects and Carvers in Proportioning the Graces and
+Statues of their Buildings to the due Distance of Sight, and to Country
+Gentlemen in the more convenient Framing of their Platforms for Seats, and
+Prospects.
+
+In a LETTER to a FRIEND.
+
+He that denies Demonstrations, reflects on his own Power of reasoning, and not
+on the Truths he encounters.
+
+Demonstrations prove themselves, the Work therefore about Demonstrations is
+not to prove but illustrate them.
+
+Quo minime reris gurgite pisces erit. LONDON: Printed for Richard Baldwin, in
+the Old Bailey, 1690.
+
+SIR,
+I Have here sent you, as in a Letter, the whole body of the Geometry of
+Landskips and Paintings; and such as it is, I freely tender it to your perusal:
+this I must say for it, That it is not, as is too usual in Mathematical
+Treatises, obscured with the Formalities of Pedantry, and rather a Knot of
+Useless Problems, than a Solid Instruction, for I have made it my particular
+purpose, to make it pertinent, hearty, and brief; I have aimed at the Marrow of
+my Subject, and not at little trifling Ornaments: I shall say no more, but if
+you can bear with the Roughness of the Style, incident to Demonstration, I do
+not doubt but I shall give you all the Satisfaction my Subject requires; and so
+I dismiss you.
+
+THE GEOMETRY OF Landskips and Paintings Made Familiar and Easy.
+CAP. I. Of the Geometry of Painting and Landskips in general.
+THE Geometry of Painting is rather Optic or Perspective, than real; for if a
+Man were to be seen at that distance, as to appear as little as in a common
+Landscape, 'twere impossible with common sight to discern any part of him
+distinctly, much less any feature about him: So likewise of the Leaves of
+Trees, and Ornaments of Buildings; for at such a diminishing distance they
+would all appear obscure and confused, and not distinct and complete, indeed,
+just as if they were going to leave the verge of sight, unless reduced back
+again by Perspective.
+
+A Landscape is therefore rather a neat contraction or Epitome of things visible
+than a real view of them, and upon that account in such Pictures we admit the
+nicest lines and features; thus though a Man represented in a Landscape be six
+Foot high (in common intendment) yet there though he contain but the length of
+six Inches, and little better than half an Inches breadth in his Face, his
+delineaments are as proportionate and distinct, as if the sight were at six
+Foot proportion; but yet even in such a Landscape, if a Man were to be
+represented at any distance, there lies a skill too to imitate the Natural
+darkness and obscureness of distance, as before was required to show the
+distinct Figure of the Man represented near. The same may be said of the
+Pictures of Houses and Trees, etc.
+
+CAP. II. Of the Sky.
+BUT that you may the better enter into the apprehension of the Nature of
+Landskips, you must note, that as every Landscape contains just two
+demy-semy-circles, or one half Circle complete, to wit, one Spherical and
+Concave of the Sky, and the other in Plano of the Earth; so all Landskips are
+to be ruled by the measures of the Circle, to wit, by Tangents, in laying down
+the surface of the Earth in Plano, and by Sines, in decyphering the Sky
+over-head.
+
+Now, as Landskips are thus ruled in all parts by the Circle, so is every part
+about a Landscape even demonstrable; hence it is that by a Landscape you may set
+off the Altitude of the Sun, the four Quarters of the World, the Sun's greatest
+Declination, and the Latitude of the place; so as by a Dial too you may set off
+the hour of the day, and except it be about the time of the Solstices, almost
+the day of the Month when the Picture was made: But as these are Niceties too
+speculative for ordinary Pictures, so I shall leave them to be traced by those
+that think it more worth their time and leisure; for my part, I think if the
+Sky be rude drawn as Clouds often make it appear, it is as well if not
+pleasanter to the Eye, than a clear Prospect; nay, and if a clear Prospect be
+drawn, if the Limner commit not gross Absurdities, as in a Landscape of Snow, to
+give the Sun too great Altitude, or in the Landscape of a particular place, to
+set off the Points of the Compass falsely. If, I say, he commit not such faults
+as these, it is no matter almost where he sets the Sun, for in some Sign or
+other the Sun visits all Quarters; indeed he must beware of setting him too
+near the Zenith, without he intends to draw a Prospect of some place under the
+Lines: But of this enough.
+
+CAP. III. Of the Earth praecognita.
+THE next part of a Landscape is the setting off the Earth in Plano; but before
+I enter on that, I shall lay down, for the common Readers Instruction, these
+few Praecognita.
+
+1. All Measures about the World and other round Bodies are performed by the
+Circle; and as all circular Bodies, whether greater or less, have the same
+Nature of the Circle; so altering the proportions of several Circles, the
+common Circular Relations or Measures follow the several Cirles in their
+several proportions; thus for instance. Every Circle is divided into 360 equal
+parts, called Degrees; so that whether by reason of the quantity of the Circle
+each of those parts be an Inch or a Mile, it is all one in relation to the
+Circular Measure, for if each part be a Mile, then the whole is 360 Miles
+round; and if each part be an Inch, the whole will be 360 Inches round, the
+quarter of each 90, and the Semi-diameter, or the distance from the Center to
+the Circumference as long as 60 Degrees of it; that is, as two thirds of the
+90, or Quadrant, etc. So that from hence it is, that by a Quadrant (that is a
+quarter of a Circle) though it be little in compass, we take the proportion
+even of the Heavens, a Body, though Circular, yet almost infinitely larger. As
+for Example.
+
+diagram
+
+Explanation. Just as the little Quadrant at (a) measures the great Quadrant at
+(b) so the Heavens are measured by a Quadrant below upon the Earth; and as the
+Compasses divide the little Quadrant (a) at (d) (h) into equal parts, so the
+Eye by the Quadrant (a) divides the Quadrant (b) or any great Circular Body
+into (c) (e) that is, the same equal and proportional parts with it, and so
+were the same to be divided even into a thousand parts, or were it a whole
+Circle, or half, or a Quadrant, you see 'twould be all one, the greater Circle
+must needs be commanded and divided justly by the less.
+
+So further the less Circle commands the greater in all other proportions
+likewise; thus as the distance (a) (h) is equal to the Semidiameter (a) (f) of
+the lesser Circle, so the distance (e) (b) in the greater Circle is equal to
+his Semidiameter (b) (f) but of this enough.
+
+2. Besides this, you must know that all Circles at 45 Degrees, that is, at
+half of 90, or the Quadrant naturally set off a square Angle answering to their
+Semidiameter, so that by the Quadrant we cannot only measure the Circle, but a
+Square; nay, by the other Degrees we are able to set off any Triangle or other
+Figure whatsoever. For Example.
+
+diagram
+
+Explanation. You see that the Line of 45 Degrees (c) (d) as well sets off the
+points of Squaring in the greater Circle (b) as in the lesser (a) and so it
+would do in any Circle of any Magnitude whatever. As for setting of Triangles
+by the Circle, it does not relate to my present purpose, and therefore I shall
+pass it by without more writing.
+
+3. Lastly, You must know, That where one straight Line cuts another, be it at
+any Angle whatever, it will make equal Angles on both sides, thus: The Angles
+(a) (b) are equal, so the Angles (c) (d) are equal, and not only so, but the
+cross-line at (a) runs an equal length from over against the point (e) to cut
+(i) as it does afterward to come over against the point (f) The like may be
+said of the Cross-line (c) so that if you know how much a cross-line verges
+from a straight in a yard by the Rules of ordinary Proportions, you may know
+how much it will verge even at 10000 Miles end.
+
+diagram
+
+CAP. IV. Of a Landscape on a Plain.
+THESE Praecognita being thus laid down and explained, I shall now be able with
+the greater ease and freedom to discover to my Reader the due proportions of
+Distances and Magnitudes in such Landskips, and to that purpose I shall first
+describe one of the Proportion I before hinted at in the first Chapter, to wit,
+where an Inch represents a Foot, that is, where a Man of six Foot shall be
+represented by six Inches; so where a Tree two Foot broad, shall be decypher'd
+by two Inches, and of forty Foot high by 40 Inches.
+
+The Plain where the Sight is lost to all distinction.
+
+diagram
+
+The Explanation of this Figure. SECT. I.
+By this Figure I suppose a Man's Foot to be placed at (b) and his Eye at (a)
+just six Foot distance, which is the Quadrant or part of a Circle a Man makes
+upon his standing in Prospect upon the Earth. Now in such case six Foot
+distance from him makes up half the Quadrant, to wit, 45 degrees, as I before
+showed in my Praecognita, and so 12 Foot takes up half the Line: (c) (d) in its
+Section according to the third Rule of Angles in my Praecognita, and so 18 Foot
+but a third part, etc. and so on to 576 and 1152, after which there can be no
+distinction, but the sight is lost in the level of the Plain: indeed if there
+happen to be a Man walking, or a Hill at a greater distance upon the Plain, the
+sight is again renewed according to the Altitude of what appears upon the
+Plain, and shall be discernable by the Rule of Optics, till it come to be a
+Minute in the Circle of Sight, as shall be explained anon.
+
+Object. But you will say 1152 Foot, which is less than a quarter of a Mile, is
+but a little way to discern upon a Plain: It Is true, and yet further we cannot
+see any thing distinctly on it, except, as I have said, something appear that
+may be raised above the Plain: thus whilst I stand on the Shore I may see a
+Ship upon the Sea at some Leagues distance, but if I stand even with the Water,
+I cannot see a Plank float though never so broad, as I have said; a quarter of
+a Mile off indeed were there any Island a Mile broad in such a case and exactly
+level to the Water, a weak tangent might possibly touch mine eye at a distance
+with a dimmer ray, but more would be imperceptible.
+
+SECT. II. The Demonstration of the Figure.
+What I have said before in my Praecognita makes the Demonstration of this
+Figure plain; for the line (c) (d) being just six Foot distant from the line of
+standing (a) (b) as must be because (d) is the incident point of 45 Degrees
+upon the Plain, as I have shown before: In my Praecognita it will necessarily,
+I say, follow from hence, that the sight at 45 Degrees cannot but set off six
+Foot; so likewise if the sight at the line of line of standing (a) (b) upon its
+going six Foot distance from the said line cut, the line (c) (d) in the middle
+it is necessary by the third Rule in my Praecognita, that the line should go
+full as much again, or six Foot more from the line of standing (a) (b) before
+it can reach the Plain (b) (d), the same reason applied Demonstrates the rest.
+
+The Demonstration of the line of Tangents in Plano is evident, for if sight be
+by right lines, as it is, and the rays of sight at six Foot, and twelve, etc.
+before demonstrated, be true, as they cannot but be, then the line in Plano
+cannot but be true likewise, because it is no other than the proportion of
+sight intercepted in right Lines before it reaches the Points of Demonstration
+6 and 12, etc.
+
+To conclude, I have Deciphered your Tangents both by the parts of the Square
+and the degrees of the Circle, so that you may be able to understand how to use
+either upon occasion; in taking of a Prospect, as for your Line of Tangents in
+Plano, you may draw it bigger or less, to the proportion of whatsoever Picture
+you please, by a Square accordingly; but I think this matter is explained
+sufficiently.
+
+CAP. V. A Landscape on the Prospect Exalted, and not a Plain.
+BY what has been said it appears that if at any time you are to Idea and Draw
+out a large Prospect with variety of Sights, you must either suppose yourself
+looking on rising ground, and then you may see as far as any Object is capable
+of being seen by the Rules of Optics, as shall be shown hereafter, or else you
+must suppose yourself placed as on a Hill, and then the Altitude of the Hill
+will as it were become yours, and increase your sight accordingly; and so
+supposing yourself on an Hill but of forty Rods high, if a piece of flat Wood,
+or any other body of an agreeable size for sight, were in the Plain of the Sea,
+you might discern it near a League off in a clear day.
+
+Example: But because I will tell you how to take a Prospect from an Hill, I
+shall add you this other Figure:
+
+The Plain.
+
+diagram
+
+Explanation: As for the Demonstration of this Figure, it needs it not, because
+it depends wholly on the same grounds as the precedent, only there is this
+little difference, that at present you are measuring by a Circle and Square of
+a vastly larger size than what you were before; however, as I told you in my
+Praecognita, the same Ratio of Measure of this Circle continues with what did
+before, all the difference is that as before you reckoned the Measures of your
+standing by six Foot, your height only, so now imagining your self on an Hill
+(which you may show on the side of your Landscape if you please) you must add
+the Hill's height to it.
+
+Thus in the precedent Example you have the Eye at (c) upon a Hill of a quarter
+of a Mile, and with the little Quadrant (a) setting off the greater (b), now I
+have taken this Hill to be a quarter of a Mile high for Example, but you may
+either imagine it any other height at pleasure, or else if you are to take any
+real Prospect, find it by your Quadrant only by looking at any known Villages
+about you; but this you must remember, that in real measuring of Distance, you
+must allow a little for the descent of the Hill, because the point (b) at the
+bottom of the Hill is but imaginary, and in the bowels of the Earth, for it is
+not as in the first Figure where the Line of standing is wholly in your
+personal length, for here is the Hill added, and as much as the Line (c) (d) is
+longer than the Line of Plain (c) (b) so much is to be added to whatever
+Descent is set off for the Descent of the Hill, that is, about 25 Rod, in our
+present Case a little more then a of a of a Mile, nor is more to be added
+whether the Tangent or Distance set off be further or nearer, whether one Mile
+or twenty, because the Descent is but one, be the Distance what it will.
+
+As for the reason of setting off my Scale of Miles, why at 45 Degrees it
+should give of a Mile, it depends on this, by my Praecognita I showed you, that
+a Quadrant at 45 Degrees necessary sets off a Square, and consequently if the
+Line of standing (c) (b) be a quarter of a Mile, and the Line of Plain (d) (b)
+be as straight and a Square equal to it, it must needs contain a of a Mile's
+distance likewise, but indeed if the Descent of the Hill be not complete to the
+Plain at 45 Degrees, it is otherwise, and allowance is to be made accordingly,
+as may be gathered from the Rules of Tangents following:
+
+1. Wherever the Line of Tangents is intercepted before it comes to the real
+Plain (d) (b) it makes as it were a new Plain, pro hac vice. 2. You are to Idea
+the length of your Line of Standing no otherwise then as shall answer the
+Descent of your Tangent, but if your Tangent after finds liberty to descend
+with freedom to the real Plain, then you may take your full Line of Standing
+likewise, thus if the Hill at (f) intercept the Tangent (c) (d) you are to
+reckon your Line of Standing no longer then from (c) to (e), but because the
+Hill (f) does not intercept your sight at the Tangent (g), therefore for that
+Tangent you are to take the real Plain (d) (b).
+
+Further, as for the Line (g) the Tangent at a Mile's distance, it is reason is
+because it cuts in half the Parallel Perpendicular Line (d) which answers to
+the Line of Standing in the Square (c) (b), for this was demonstrated by the
+Lines of Secancy before, that if one Line cut another it will make an equal
+Verge on both sides, if it be straight; so that if the Secant (g) has gone but
+of a Mile from the Line of Standing, and yet has cut the Parallel in it is Plain
+in a ^/4 of a Mile more, that is in a Mile the Secant (g) will reach the Plain
+(b) (d).
+
+So I set off the Tangent (h) to be three Miles, the reason is the Secant (h)
+cuts the Parallel at the of a Mile's distance, but at a 1/12 part so that it
+will go 11 times further, or 12 quarters of Miles, or three whole Miles in all
+before it will reach the Plain as aforesaid (b) (d), and thus by the same
+reason you may set off all the rest, and many other proportions of Tangents, if
+you please, for the Parallel Line (d) which is incident of course to the Angle
+found at (d) by the 45 Degrees, as I have before showed, is as a continual and
+demonstrable Measure to all the Tangents that shall pass through it toward the
+Plain (b) (d), be they of any kind whatever.
+
+CAP. VI. Of the Circularity of Tangents.
+BEsides what has been already said, you ought to observe, that in every
+Landscape or Picture, there ought to be a Center of Sight round with all your
+Tangents ought to fall as naturally as the Circumference to the Center; now
+this Center of Sight you may either make imaginary out of the Picture, and so
+at what distance you please, or else really in it, and that either in the midst
+of the Foot for a Building or in one Corner, where being to describe a Vale,
+you cast your Tangents to the other.
+
+For Example: You take your Compasses, and putting them to your Line of
+Tangents in Plano, you take the several distances and set them off one after
+another upon the Center you pitch upon, thus in the present Figure in a Plain,
+where Hills nor Buildings distract the Sight, the Eye at (6) seeing every way
+alike, sets off his Prospect like as in these Lines, thus suppose (5) to show a
+quarter of a Mile, (4) half a Mile, and so for the rest, or more or less lines
+of Tangents at your pleasure.
+
+diagram
+
+CAP. VII. Of the Proportions of Buildings, Hills and Vales.
+HAving already given you the general Rules of Prospects both on Plains and
+where the Sight is raised, I shall now proceed to show how Buildings, Hills,
+and Trees, ought to be set off, and of these first for Buildings, as for Trees
+the same Rules will serve for them as for Buildings, and therefore I shall not
+particularly trouble myself about them, but leave them as Corollaries to my
+Readers apprehension; I know right well as to express enough helps the
+Understanding, so to speak or write much and needless confuses and confounds it.
+
+SECT. I. Of Buildings.
+Were you to set off the height of any extraordinary Building in a Piece, and
+would you do it exactly, suppose it were Salisbury Steeple, which is 400 Foot
+high, or there about, your Method is first to decipher the place of its
+standing in your Piece, and how many Degrees, or Parts, or Length such a
+Building in Plano would take up at that distance, and by that you are to erect
+your Altitude; thus suppose you would draw it a Furlong from the Center of
+Sight, and it be a quarter of a Furlong high, as it is at least, and a Furlong
+by the Rules I have before shown you, take up eight Inches in your Landscape,
+you must draw the Steeple two Inches high, and that is the just proportion, or
+exact enough; for as I may say so you set off his height by the proportion it
+holds to the Circle of the Tangent where it stands, by the Rules of the Circle
+laid down in my Praecognita.
+
+So if you are to draw an Arch of Building of a considerable length, or some
+long Wall, if in such case you take the two Altitudes of its ends at their
+several lengths, then by drawing parallel Lines between their Tops and Basisses,
+you find the just proportion of their Diminution and Increase to your sight,
+even from one end to the other, be it never so long.
+
+So if you are to draw a Wall half a Mile long, and at half a Mile's distanee,
+you are then to imagine the Center of Sight, that is, where your Eye stands a
+Center, and so you are to reckon from thence to the Tangent of half a Mile 60
+Degrees, when you have done this, you may easily decipher any proportion of the
+length of such a Wall, for as if it were half a Mile and round, 'twould take up
+just 60 Degrees, that is, be as long in the Circumference as from the Center of
+Sight to the Tangent of Distance, so as it is straight if you set it off by the
+Line of Tangents in a Plano, agreeable to that distance you have your desire,
+and that must be done, because as I have before shown you, the Tangents fall in
+Circular Lines round the Center of Sight, so that if a straight Line be put it
+must needs cross several little Tangents.
+
+SECT. II. Of Statues and Pictures set as Distance.
+Further, if you are to draw a Picture, or frame a Statue, if you make it for a
+Plain, you ought as I may say, to take the proportion of the Life, but if it is
+to stand aloft or at some distance from the sight, then both in your Picture
+and Statue you ought to exceed the Life, and you ought to frame your
+proportions in both by a Line of Tangents of suitable size to the distance, the
+Statue or Picture is to be placed from the sight; and in this case your Line of
+Tangents will be of excellent advantage to you for proportions, will as it were
+naturally and of course follow them from the ordinary size to whatever you
+shall please to direct and be like a Scale as it were to weigh out other
+Measures from them.
+
+Thus suppose a Picture placed at six Foot distance on a Plain, take up five
+Degrees in the Circle of Sight, for so any body about six Inches broad will do
+then, I say if you would remove this Picture to stand 60 Foot high, but to new
+draw it and to make it large enough, to appear at that distance as distinct as
+before, at six Feet distance, you must make it of a proportion to take up five
+Degrees in the face as before, that is, you must make the face of five Foot
+over, and the rest of the body proportional, and then as all things of five
+Degrees are equally apprehended by the Sight, so that Statue at sixty Foot
+distance shall be as distinct featured to the sight, as that at six.
+
+But because such a Statue would be monstrously large, and of vast weight,
+therefore let us suppose that a face were set six Foot from us, and were carved
+or drawn within the compass of an Inch, or a little better, that is, near as
+big again as is mentioned in the first Chapter; I say, such a Face might be
+visible enough, and would take up but one Degree in the Circle of Sight;
+therefore a Statue that takes up one Degree in the Sight, may do pretty well
+too at 60 Foot distance from the Sight, now as one Foot is a Degree in 60 Foot,
+so if such a Statue were made a Foot over in the Face, it might do well enough,
+that is, as well at 60 Foot as the Statue of an Inch, and a little better will
+do at six Foot; now as I have thus shown the proportions in this case, so with
+a little labor this will lead you too any other whatever, so that what I have
+written in this matter, I think is sufficient, and I shall only make this
+Reflection on it, that I do not doubt but by this means by the help of Fire to
+hold Correspondence with a Friend in a Siege, nay, and the intermediate Enemy
+not having so much as a jealousy of the matter, shall have his sight quite
+taken off by a due Tangent of Scaffolding.
+
+SECT. III. Of Hills and Vales.
+I shall now proceed to the Tangents of Hills and Dales, and show how they are
+to be deciphered, and in this case there is but very little difference between
+the Tangents of Buildings and Hills, indeed a Building is best set off in a
+direct prospect, as being more full to the sight, but a Valley in an obligne
+one, because you may be able to take the more room, and make your Tangents the
+larger to express the greater and more lively variety in it, but if your Cloth
+be large enough you may make your Valley straight or how you please; as for the
+Plain height and depth of your Hill or Valley, the common use of the Line of
+Tangents will show you how to raise or depress it as you shall see occasion at
+any distance, or to any height whatever you may apply it in the same manner as
+you did to Buildings.
+
+To conclude, I know nothing further to acquaint you with, that may pertinently
+Instruct you further in this Matter, unless it be, that you always cast your
+Shadows at one and the same Angle, and that according to the Elevation of the
+Sun in your Landscape; for though this may not answer rightly to your Sun in the
+Landscape, as it is deciphered in Plano, yet to the truth, and the Sun in the
+Heaven Shades are at the same Angles, at any one Prospect whatever.
+
+CAP. VIII. Of the length of Prospect, and what things are out of Sight.
+BUt there is a proportion how far things may be seen as well as how big they
+will appear; thus sometimes they will be lost to the sight, and thus we cannot
+see the Edge of a Knife or the Point of a Needle, and yet in a Prospective they
+shall appear gross and scragged bodies; Now the Rule of this Proportion is, or
+at least very near it, whenever any body through its distance or smalness becomes
+so little as to take up but a Minute, or the 60th part of a Degree in the
+Circle of Sight, from that instant it is quite lost and disappears.
+
+Thus even the Sun, were he removed proportionably further in the Circle of
+Sight, so as to become as a Minute, he would be invisible, or very near so; and
+thus it is, that the lesser Stars which are as it were Minutes to the extended
+Sight in the Heaven, appear and are seen as it were with a force to our Eyes,
+and yet not but that there is some difference between Bodies luminous and
+obscure, for indeed a luminous Body as a Beacon ought to be reckoned by its
+extent of Rays, and not barely by its bulk.
+
+Thus it is very difficult without Glasses to see an Inch 3600 Inches, or an
+100 Yards off, where it becomes a Minute, but if a Candle were placed at that
+distance, which possibly should not possess so great an extent in mere Flame,
+yet as it both contracts the Sight to it, and spreads in rays, it may be seen
+near ten times as far; so were a body of any color of a Yard square set 3600
+Yards off, that is, so as to become a Minute, which is but little better than a
+Mile off, it is impossible well to see it with the sight without Prospectives,
+but if a flame of less extent were made in a dark night, it would be seen near
+ten times as far, by the Rules before delivered, whereas a Pan of Coals in the
+night, or a Fire in the day, wanting that power of diffusing rays and
+contracting the sight, are capable of been seen no further than a Body of that
+size, by the Rules of Perspective, as aforesaid.
+
+But to proceed from hence, it is, that is, from proportional Diminution, that
+if you stand at an agreeable distance you shall see the Sign when the Post that
+bears it is disappeared; so you shall see the Vane when the Stem of the
+Wethercock is disappeared, and yet a Post or Bar of Iron of an Inch square in
+such a case from its length shall receive double distance of sight from what it
+would have, that is, if an Inch square disappears as the sight being scattered
+at an 100 Yards, yet if an Inch square be a Yard long, it shall be seen near
+200 Yards; that is, to 30 Seconds, because the length in such a case recollects
+the sight, and continues it at least to another Diminution; but the sight in
+such case that shall see it while possesses only 15 Seconds, that is, when it
+is 400 Yards off, must be a kind of Wonder or Miracle, without it receive help
+by Glasses: But yet the Lead in Glass-windows seems to be visible
+ptoportionably much further in this case, for though it be but about a quarter
+or a third part of an Inch broad, it may be seen better than an 100 Yards; but
+indeed there is a Fallacy in this case, for it is not so much the Lead that we
+see in such case, but we see as it were little stops made to the luminous Waves
+of Light made through the various Reflections of the Glass; and this must needs
+be seen even as far as the Glass itself can be seen distinctly.
+
+By the same Rules were a Building like the Monument situate to the best
+advantage on a Hill, you might easily see it till it came to be a Minute in the
+Circle of Sight, and after that, with some difficulty, till it comes to be 30
+Seconds, by the Rules last past; that is, because it has length greater than
+its breadth; then thus, suppose, I say, the Monument were a Rod in the diameter
+or breadth at top, that is, five Yards and a Foot, as I conceive it may be
+there abouts; then I say the Monument will take up a Degree in the Quadrant of
+Sight at a Furlong and a half's distance, 30 Minutes at a qr. qr. of a Mile, 15
+Minutes at 3 qr. of a Mile, 7 at a Mile and a, 3 at 3 Mile, about 2 Minutes at
+6 Miles distance, and about one Minute at 11 Miles distance, after that at 22
+Miles it will become as 30 Seconds to the Sight, which is as great a distance
+as the Eye is ordinarily able to reach and discern it at.
+
+Nota, Thus Astronomers solve the Rationality of the appearrnce of Mars to the
+Earth.
+
+Thus too you may know how far even the Graces of such a Building may be seen;
+so how far the Features of a Man's Face, or a Statue; for instance, if an Eye
+take up an Inch, it may be just discerned at an 100 Yards distance, but that so
+faintly that were it not the proportion of the Body did direct us to it, we
+could not perceive; so were there a Ring of a Foot square round the Monument,
+it might be seen 1200 Yards, that is, 3600 Foot, or between a quarter and half
+a Mile, and after that, it will not be discernible at all; but I shall say no
+more of this nature, for I am afraid I have explained this matter so much
+already, that I shall be guilty of a Repetition as bad as Tautology.
+
+But as by what has been said, it appears that things may be lost to the sight
+by their remoteness from it, so on the other side, if an Object be of an
+agreeable quantity for sight, we may discern it, though at any distance
+whatever, for thus we see the Heaven and Stars, and yet this is only where the
+sight has a free Plain, as in the Heavens, for were there an Hill ten Miles
+high, and proportionably large, by the Rule of Sight it would be seen at least
+36000 Miles off, but in such case the very circularity of the Earth long before
+that space would cloud it from the sight; thus I believe the very Teneriffe is
+a little obscured, for were the Earth truly plain, and that Mountain not too
+picked to be lost to the sight for want of breadth, it would not only with ease
+be seen an 100 Miles, for at that distance 'twould fill a Degree in the
+Quadrant, but even 60 times as far, even till it come to a Minute, as I have
+before demonstrated; but as that Hill reaches at least the Region of the
+Clouds, so the least Cloud in all that prospect would obscure it.
+
+But to illustrate this the more by Example, suppose an Hill a Mile high,
+whereas the Teneriffe is reputed near two in the Perpendicular; but I say,
+suppose an Hill only one Mile high in the Perpendicular, and we were out at Sea
+from it in a clear day, I say such an Hill at 60 miles distance would at least
+take up one Degree in the Quadrant, by the proportions at first laid down in my
+Praecognita, and if so, it might be well seen near 60 times further; so if it
+were half a mile high, 'twould appear half a Degree, if a quarter 15 Minutes,
+if a Furlong high, about seven half Minutes; but as I have said, when it is
+come to a Minute or there-abouts, that is, not to be above the 4th part of a
+Furlong, or 20 Rod only in height, from that instant, as I have said, it
+becomes invisible, without, as I formerly acquainted you, it be of an agreeable
+length to attract the sight.
+
+But there is another reason that hinders long Prospects besides the
+Circularity of the Earth, to wit, the grossness of our Atmosphear, the impurity
+of the Air; thus in large Prospects, as at the Alps the Pike of Teneriffe and
+other Hills, if you see toward them at a great distance, suppose sixty Miles
+or better, if the Sun do not sit as it were purposly to illuminate you, and the
+Air be not extremely clear, you cannot see so much as the least appearance of
+them; indeed the Air between will as it were fill and satisfy the Eye with a
+Sky-blew; so that though the Atmosphear may in some measure advance the sight,
+in causing the Hill to increase and look larger some minutes than really it is,
+yet as with all it obstructs the sight to so great a degree, it is not to be
+expected, that any wonderful Prospect is capable of being achieved on this
+Level of the Earth.
+
+CAP. IX. Of your Landskips by Perspective and Glasses.
+HAving thus far proceeded on the Delineating of plain Prospects, I shall now
+speak a little to those that may be taken by Perspective, and then conclude.
+
+Know then there is no more difficulty to set off a Prospect by Perspective, be
+it of any kind whatever, then there is in setting it off by the Sight, for
+having looked with your Perspective on two or three Objects, and by your
+observation found it is measure of increase to your sight, you may as justly
+draw your Tangents to answer your Prospective, I mean in a remote Prospect, as
+you can to answer your sight in a near one; and afterward, if you reduce such
+a larger Line of Tangents by perspective to your lesser and more true one, you
+may make your Landscape to express the Figures of Prospect more perfect and
+lively than any Eye by any possibility can reach too.
+
+From whence you see that the difference between a Landscape taken by sight and
+Prospective, is only this, that a Perspective-glass makes the Circle of Sight
+appear larger than it is, which is impossible to be delineated in Plano, except
+in a Landscape only of part of a Prospect, for indeed as the Eye is the only
+true measure of Proportion, which gives every body its true place according to
+the Ratio of a Circle; so whatever exceeds that, is erroneous; and yet on the
+other side, the Perspective may help the Eye, as I have said, when reduced, for
+where the Eye can by no possibility particularise or distinguish nicely the
+parts of a Prospect, the Perspective reduced may clear it to your desires.
+
+I might add here too, that light that is cast through reflection may reach to
+a vast extent, as we see by the Moon; but that the light through refraction
+even of the Sun, extends but to fifteen Degrees, as we see plainly, it is dark
+an hour after Sun set in the Wintertime, by which means you may see how to
+order the light of Windows and Stair-cases; I might hereto likewise add to what
+Positions of Sight and Light a Picture best answers, as how to draw Pictures in
+Lines of Refractions which can only be seen by Glasses; as also how to cast
+Species against a Wall, Glasses or any solid body whereby you may imitate the
+appearance of Spirits in Glasses, or indeed of any Apparition in a Room, if you
+please: but what shall I say, these are the Curiosiora Mathematicae; and though
+they are not unworthy the conusance of a Philosopher, as he is sometimes led by
+the knowledge of things, useless to those that are of benefit, yet as to
+practice, they are rather of evil consequence and diversion than any real
+subserviency.
+
+CAP. X. CONCLUSION.
+SIR,
+I Am now drawn to my Conclusion, and as I conceive, this that I have delivered
+you is all the Geometry that is useful either for Landskips or Statues; this I
+can assure you, it is all I can readily think of, and this I can say from my own
+Conscience to you, I have left no doubt that I knew in my mind unsolv'd in it,
+so that I hope it is moderately perfect, or if it is not so, I wish it so; I
+have taken some pains in it, for I was not willing you should take a Picture
+drawn by my mind at the first setting, and yet I hope it is easy too, for
+whilst I have labored to be short, I have with all endeavored from being
+obscure.
+
+You see by what I have shown you, that there is not a Grace-line or Shade in a
+Picture, Landscape or Statue, that is not governed by a Demonstration; you see
+how the Limner and Carver do but Essay by guess at the more perfect Lines of
+Optics, and though it might be true what is generally urged, that to tie the
+Fancy too nicely to Rules, confounds and destroys it; yet it is as true, that to
+leave the Fancy boundless of proportion, is as barbarous and ignorant; and
+besides, would Men consider aright, these Proportions should be set off at the
+first draught, and then they rather help the Fancy that follows in the colors
+than mar it; nor will this be with difficulty, for with a print of Chalk, or a
+little Lettice of small Wiers, the first proportions may be set of without the
+least trouble.
+
+I might have amplified what I have written to a Volume, but I love shortness:
+I could have traced many other curious Points, as how to know the distance of
+an Hill by the sight, how to raise a Statue, that to the whole City of London
+shall show the exact Features of a Man at once; nay, not only so, but I am
+persuaded without Romancing, I could order such a Pile on Southwark-side, that
+should imitate the Features of any particular Person, and that not without some
+Life, and to be discerned distinctly very near at any of the Stairs on
+London-side; but these are Curiosities too remote from use or practice; and as
+I never loved to encourage Flea-chaines and Air-bottles, so I now beg leave to
+rest
+
+Yours, etc.
+
+FINIS.
+ERRATA.
+PAge 4 line 12 for Cirles read Circles; p. 13 l. 31 necessary r. necessarily;
+p. 15 l. 12 with r. which; p. 24 l. 8 about seven half Minutes r. seven Minutes
+and an half. Besides this, the Reader is desired to take notice of the false
+Stops, of which he may see an example p. 18 l. 12, which in some places
+disguise the sense, but with a little of his care may easily be amended.
+
+

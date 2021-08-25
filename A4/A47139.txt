@@ -1,0 +1,458 @@
+AN ESSAY For the Discovery of Some NEW Geometrical Problems, (Judged by some
+Learned Men, Impracticable) Concerning ANGULAR SECTIONS, Beginning with the
+GEOMETRICAL TRISECTION of any Right Lined Angle, by Plain Geometry of Right
+Lines and Arches of Circles,
+
+With RVLE and COMPASS only, without all Conick Sections, and Cubick Aequations.
+
+Whether the following Praxis, and apparent demonstration thereof does not only
+make it Practicable, but easy to the Understanding of a Tiro, who but
+understands a little in true Geometrical Learning.
+
+Which lays a Foundation of a Plain Method how to Sect any Angle into any
+other Number of Parts required, Even as 4. 6. 8. 10; or Uneven, as 5. 7. 9. 11.
+etc. As also to divide a Circle into any number Even, or Uneven of equal parts.
+
+All which have great Uses in the Improvement of the Mathematical Sciences,
+some of which are here specified.
+
+Proposed and Submitted to the Impartial Trial and Examination of the Right
+Reason of such Artists, to whose Hands it may come.
+
+By G. K.
+
+London, Printed 1697. And to be Sold by the Author, at his House in
+Pudding-Lane, at the Sign of he Golden-Ball, near the Monument; And by B.
+Aylmer at the Three Pigeons over against the Royal Exchange.
+
+Some New Geometrical Problems, etc.
+ALthough the Trisection of a right lined Angle and also its Section into any
+parts required, to a true Mathematical exactness, is denied to be practicable
+by plain Geometry (of right Lines and Arches of Circles, with Rule and Compass
+only, without all Conick Sections, and Algebra Equations) by some learned
+Artists; yet others as learned are not so positive, but acknowledge the
+Practice of it is not as yet discovered, among whom is the learned Is. Barrow,
+who has writ thus, in Corol. ad. 9. 1. elem. Eucl.
+
+Methodus vero regula and Circino angulos secandi in aequales quotcunque
+hactenus Geometras latuit. and in Schol. ad 16. 4. Elem. Coeterum divisio
+circumferentiae in parts datas etiamnum desideratur.
+
+The Praxis of the Trisection of any given Angle.
+Suppose the given Angle to be the Angle of 150 Degrees, made by the addition
+of 90 d. the Quadrant, and 60 d. the of the Circle, whose exact Mathematical
+quantity is known. And let that Angle be in the subsequent Figure, the Angle
+BAC. whose Cord is BC, and the Arch answering to that Cord BFC.
+
+1. Divide the Cord BC into 3 equal Parts, as BE=EE=EC by 10. 6. elem. Euclid.
+and draw the 2 Perpendiculars OF. OF.
+
+2. With the extent of of the Cord as EC measure on the Arch from C to G, and
+draw the Line or Cord GC=EC.
+
+3. With another Radius less than AC, viz. AK draw a second arch as KL, until
+it cut the perpendicular OF, and let the Radius AK be so long, that the extent
+of the Cord betwixt K and L be somewhat longer than EC, and with the same
+extent EC measure on this second arch KR=EC.
+
+4. From G to R draw a straight Line by post 1. 1. elem. and produce the same
+by post 2. until it cut the Perpendiculars at I and O.
+
+5. Draw the straight lines AI and AO, and extend them to H on both sides, so
+that the one line shall be AIH, and the other AOH, which two Lines shall sect
+the given angle BAC into three parts or angles, viz. BAH, HAH, HAC.
+
+The Question, or Problem to be resolved is, whether these three angles are not
+equal, and consequently that the angle BAC is trisected into equal angles.
+
+The apparent demonstration that is here proposed to prove it, follows.
+
+In order to the apparent following demonstration, by way of Preparation,
+
+1. Draw the line OI, which shall be parallel to EE by 28. 1. elem. and extend
+it on both sides, from I to N on the one side, and from O to N on the other,
+making IN=ON=EC=OI.
+
+2. With Radius IN, and ON, describe the arches on both sides NM until these
+arches cut the lines AC and AB, so shall the lines or cords drawn betwixt I and
+M and O and M, viz. IM and OM=EC.
+
+3. Make the angle IMP=angle MIN by 23. 1. elem. and OMP=MON, and extend the
+line MP, until it cut the line AI at P, and AO at P.
+
+4. Draw the line OP parallel to IM, until it cut MP, whence the perfect
+Rhombus OMPI shall be formed, having the opposite side; parallel and equal, for
+PM by construction is parallel with OI, and OP with IM and that the Line OP
+drawn parallel to IM can cut the Line PM no where but at P on the line AI is
+proved thus. Suppose it cut the line PM any where else, than on the line AI on
+either side, it should make PM either longer or shorter than its opposite side
+(for the arch drawn by the radius MI, and cutting the line AI at P proves
+MP=MI by def. 15. 1. elem.) as also OP should be longer or shorter than IM, (as
+the like arch conceived to be drawn by radius OI, and cutting AI at P, proves
+OI=OP by the same, def. 15. 1. elem.) but both these Consequences are absurd,
+making the opposite sides of a Paralellogram to be unequal, contrary to 34. 1.
+elem.
+
+Because the Figure OPMI is proved to be a perfect Rhombus, having all the
+sides equal, whereof the line PI is the diagonal, (it being proved that OP and
+PM terminate on AI) therefore the angle OIP (=OIA)=PIM=(AIM) by 8. and 4. 1.
+elem.
+
+Lastly, these two Triangles OAI and IAM shall be according to the 4th. prop.
+1. elem. and so shall OAI and OAM, for OI=IM as above proved, and AI is common
+to both, and the Angle OIA=AIM as is above proved, therefore by 4. 1. elem.
+AM=AO =AI, and consequently by 8. 1. the angles IAM=OAI=OAM, therefore the
+given angle BAC is Geometrically trisected by the Lines AO and AI extended to
+H. Q. E. D.
+
+Here Note, let the Radius be ever so much changed betwixt M and C, taking it
+at any extent from A, and let ever so many Concentrick Arches be drawn from the
+Center A betwixt IM and GC, their Cords terminating on the straight Lines MC on
+the one side, and IG on the other shall all be equal, one to another, and to
+the Cord GC=^BC. as the demonstration above given proves, for the reason that
+proves the Cords of any 3 Concentrick Arches, terminating on two straight
+Lines to be equal within the limits MI and GC, being a Trapezia, proves any
+other 3 to be equal within the same limits. But if we draw any Concentrick
+Arches without the Trapezia IGCM, as with a less Radius, than AM, or with a
+greater Radius, than AC, the Case is altered, and the equal Cords will not
+terminate on the straight Line IG, but diviate or depart therefrom, as both
+true Reason does prove, and even ocular inspection does show; for though the
+Eye is not able to judge of a straight Line, yet when a Line is visibly
+apparent to make an Angle with another Line, these two Lines cannot be a
+straight Line. I call the Figure IMCG a Trapezia, for it is not any
+Paralellogram, because the side IG, is not parallel to the side MC, but very
+unparalel, which makes the side IG to be longer than the side MC, but this does
+not hinder that all the Cords of the Concentrick Arches drawn betwixt IG and MC
+are equal, for let them be ever so many within the limits IM and GC, they are
+all equal, though their Arches are unequal being from a differing Radius. And
+though the demonstration above given may seem sufficient to prove it, yet for a
+further proof, let a Line be drawn, or conceived to be drawn (as in this Figure
+it is only conceived) from I Parallel to AC, toward FC and beyond it, all the
+extreme Points of the Cords of the Concentick Arches, above mentioned,
+terminating on the straight line IG, do gradually still more and more depart
+from that parallel toward the perpendicular IF within the aforesaid limits, IM
+and GC, on the first Arch, which I call the primitive Arch; but if we draw any
+Arch, without GC by a longer Radius than AC, or within IM by a shorter Radius
+than AM, the Cords of those concentrick Arches, if equal, shall deviate from
+the straight line IG, and come nearer to the Parallel above mentioned, but that
+within the Trapezia above said IMCG, the equal Cords of all these Arches shall
+terminate on the straight line IGI thus further prove. Draw, (or conceive as
+drawn in this Figure) a straight Line from C to H parallel to IM, and take a
+Cord of any of those Concentrick Arches = of the Cord BC=IM, I say it must
+terminate on the line IG, and neither go without it, nor within it, otherwise
+the same extent cutting the parallel Lines, viz. the one parallel to MC, the
+other to IM, shall make the opposite sides of a Paralellogram unequal contrary
+to 34. 1. elem. Eucl. as the due Cosideration of the Figure Will show, and the
+part equal to the whole.
+
+I have in the Example of Trisection used an obtuse Angle, because it is more
+commodious and easy to be done by Manual Operation in an obtuse Angle than in
+an Acute as Experience will show, though the demonstration is the same both in
+the Obtuse and Acute. Nor is it any just exception, that some acute Angles
+being small, can hardly be trisected by this Method; for when Angles are very
+acute, they can hardly be bisected. But the proper Remedy for both is, when the
+Angle is small, double or quadruple it, and then bisect or trisect it, as
+occasion requires.
+
+The Praxis of the Trisection has these following great Uses.
+
+By the Trisection of the Angle of 120 degrees we have the true Mathematical
+Cord of 40 degrees, and seeing it is demonstrated in 11. 4. elem. Euclid. to
+find the Cord of of the Circle,=72 degrees the =36 by substracting 36d. from
+40d. we have the true Cord of 4 degrees, that bisected gives the Cord of 2
+degrees and that again bisected gives the Cord of I degree. Also 40 degrees
+twice bisected gives 10 degrees, and that again bisected gives 5. and thus by
+the Trisection of 120 or 60 degrees, and certain other bisections a line of
+Cords truly Geometrical or Mathematical can be made by plain Geometry, without
+all conick Sections or Algebra Aequations, and tedious Extractions of Roots,
+and also without any Table of natural Sines, which never hitherto has been
+taught (so far as I ever heard or read) in a plain method, by plain Geometry,
+so as to be made intelligible to any Tiro or Young Artist; and yet such a
+method is altogether necessary for the perfection of Geometry and Mathematical
+Learning, that the way to trisect any Angle be known by plain Geometry, seeing
+many things in plain Geometry require a true line of Cords, and a true line of
+Cords cannot be found without the Trisection of certain Angles, or some other
+Section than Bisection; and to refer a Tiro, or Young Scholar, to the conick
+Sections, and tedious Algebra Aequations and Resolutions how to trisect an
+Angle, or understand how to make a true Geometrical Line of Cords is altogether
+immethodical, even as much or more as to referr him to some of the difficultest
+Problems in Euclid's Elements to understand the demonstration of one of the
+first Propositions in those Elements. Seeing therefore Geometry as it is one of
+the best natural Sciences for certainty and use, so for good Method; and the
+nature of good Method requires that in reaching we proceed to the more unknown
+from and by the more known, therefore to presuppose the knowledge of conick
+Sections to the knowledge of some necessary Problems in plain Geometry, is
+greatly incongruous and an immethodical Hysteron Proteron, which this new
+Praxis does Remedy.
+
+2. By this Praxis of Trisection a Foundation of Method is Iaid to sect any
+Angle given into any other equal parts whatsoever, even as 4. 6. 8. 10. or
+uneven as 5. 7. 9. 11. etc. and an universal Cannon is formed, as by trisection
+of the Cord of an Angle, that Angle is trisected, so by quinquisection of the
+Cord of an Angle it is quinquisected, and the like of all others.
+
+3. By the like method a Circle is divided into any number of equal parts even
+or uneven.
+
+4. And, by the like Method, the quantity of any Right-lined Angle can be found
+in degrees, and odd Minutes, without any line of Cords by a line of equal parts
+only, as the diagonal Scale of Inch, or half Inch or to a far greater exactness
+than by a line of Cords.
+
+5. By the same, a way is taught how to protract or project any Angle, whose
+degrees and odd Minutes are given.
+
+6. Having any one Angle given in any Triangle, and the Ratio of the 2 other
+Angles, without any side given, to find the other 2 Angles, and truly to
+protract them.
+
+7. From a point given on any line given to raise an Isosceles Triangle, one of
+whose sides being produced below that line given shall terminate on any Point,
+given below the same, the which has special use to solve some new Problems in
+Surveying, Geography, Architecture, Navigation.
+
+8. As this method of Praxis saves the pains of finding out Trisection of an
+Angle by a conick Section, and Algebra Aequations, by teaching the same more
+easily by plain Geometry, so it is probable it may prove of great use, both in
+conick Sections, Algebra Questions, and other abstruse Theorems to improve the
+Mathematical Sciences.
+
+9. How to find the natural Cord, Sine, Tangent, Secant of any Angle given in
+degrees and Minutes, in true Lines, more exactly, than by any common Line of
+Cords.
+
+Here follows another Demonstration of the same Praxis of the Trisection. In
+a Second Figure.
+BY the method of the foregoing Praxis, let the points I and O be found, and
+the lines AI and AO, which I say shall trisect the Angle NAK=BAC, Geometically
+into three equal parts.
+
+In order to the demonstration of which, extend the line AI to D on the arch
+BFC. and AO to X.
+
+Again, with the extent AI on the center I describe the circle ASHT. and with
+the same Radius describe the arch KLON.
+
+Again, draw IH parallel to AK, extending IH to the Circumference of the Circle
+ASHT.
+
+Again, draw AS parallel and equal to OI, which shall cut the circle at S,
+because OI=AS cuts the arch KION, having the same Radius.
+
+Again, from the point S on the circumference, draw the line SH parallel to AI,
+which shall necessarily cut the line IH on the circumference at the point H,
+because by construction IH is parallel to AK, and KH to AI, which makes the
+Parallogram AKHI, whose opposite sides are equal, but if SH, and IH did meet any
+where else than on the circumference, as either within, or without it, the
+opposite sides of the Parallogram should not be equal contrary to 34. 1. Eucl.
+elem.
+
+Again, draw the line SI, and extend the line OI from I to K until it cut SH at
+K, which shall form another Parallogram ASKI, which being divided by the
+Diagonal line SI, shall give two equal Isosceies Triangles AIS(=OAI) ISK.
+
+The Demonstration.
+In the Isoceles triangle ISH (whose sides IS=IH by 15. def. 1. elem.) the
+angle IHS=ISH by 5. 1. elem. and IHS=IAK by 8. 1. elem. therefore IAK=ISH. but
+ISH=AIS=OAI being alternate Angles betwixt Parallels by 29. 1. elem. and
+therefore lasty, OAI=IAK, and by the like method OAI is proved=OAN drawing the
+like parallel Lines on the other side of the Triangle OAI, and therefore the
+angle BAC is trisected by 3 equal angles NAO=OAI=IAK= BAX=XAD=DAC. Q. E. D.
+
+
+
+The Praxis of the Section of a Right Lined Angle into Six equal parts.
+BEcause of the affinity of the Figure of the Trisection with the Figure of the
+Sextisection, I shall begin with the Sextisection, and then proceed to the
+Quinquisection.
+
+In the 3d figure, let the given angle be BAC, as above, whose Cord is BC, and
+its arch BEFGC.
+
+1. Divide the Cord BC into 6 equal parts, which Divisions are marked with
+*****. and on the middle division draw the line ADI to the arch BEFGC.
+
+2. With the extent of one of the Divisions, on the given arch measure from C
+to F, and with the same extent from F to E, and from E to G, marking the points
+E. F. G. and with the same extent measure from B to E, from E to F, and from F
+to G marking the points EFG.
+
+3. With a less Radius than AC as AK draw a second Arch as KLHLK. which Radius
+must be so long that the extent of the 16th of the Cord thrice repeated, may
+fall short of reaching the line ADI.
+
+4. With the same extent on this 2d. arch, measure from AC, and from AB to K,
+and from K to L, and from L to H, by a threefold repitition of the same extent.
+
+5. From the point G on the first arch to the point H on the second arch, draw
+a straight line, and produce it until it cut the line ADI at the point I.
+
+6. With the Radius AI draw a 3d. concentrick Arch, betwixt the lines AB and
+AC, I say the extent of the 16th part of the cord BC= MC, being 6 times
+repeated shall cut the said 3d arch into six Equal parts to every one of which
+straight lines drawn from the Center A, and produced to the outmost arch, shall
+divide the given angle BAC into six equal parts orangles, marked with 1. 2. 3.
+4. 5. 6.
+
+In order to the demonstration of the Praxis of this Section of an angle into 6
+equal parts, on the point 5, making it a center with Radius 5A describe the
+circle AOPQRS.
+
+2. From the point 5 draw the line 5R parallel to AC.
+
+3. From R draw the line RT parallel to 5A
+
+4. Draw the line AT from A to T
+
+5. Draw the line T5, and draw 5V parallel to AT
+
+The Demonstration.
+In the triangle T5R being an Isosceles, the angle 5TR=5RT. by 5. 1. elem. and
+5RT=(5R6) 5A6 therefore 5T6=5A6. Again 5 T6=(5TV) A5T, and A5T=5A4 by 34.1. and
+therefore lastly 5 A4=5 AV. and as these 2 angles are proved equal by the like
+reasoning, all the other angles can be proved equal by changing the center of
+the Circle from 5 to 4, and from 4 to 3, and from 3 to 2, and from 2 to 1. This
+demonstration having such affinity with the former of Trisection, and which can
+as easily be demonstrated both ways, as that of Trisection, I shall not enlarge
+upon it, for he who understands and assents to the verity of the former, by the
+same evidence will assent to the later.
+
+The Praxis of the Quinquisection.
+1. ACcording to the former method, divide the cord of the given angle, BE into
+5=parts.
+
+2. On the middle part marked with CD, draw the lines CH and DH cutting the
+cord at right angles and parallel one to another.
+
+3. On the arch of the given angle BFG take the of the cord= CD and set it from
+E to F, and from F to G, also do the like from B to F, and from F to G.
+
+4. Draw a second arch, with a less radius as AK, so as the radius may be so
+long that the extent of the of the cord twice taken on that second arch may not
+reach to the perpendicular DH.
+
+5. With the same extent twice taken, as from K to * from * to * measure on the
+second arch to the second *.
+
+6. From G to * draw a straight line, until it cut the perpendicular line DH at
+H; lastly with the radius AH describe the third arch IHHI, and draw the lines
+AH AH which shall make the angle HAH=BAE.
+
+The Demonstration of this, or any other Section, being after the same method
+with the former, as also the Praxis, it were superfluous to enlarge upon it, or
+to add any new Problems, showing how to sect any angle into any other parts
+given, as 7. 8. 9. 10. 11. etc. for he who understands by the foregoing Method
+and Praxis to sect any angle into 3. 5. 6. as is above showed, will by the like
+Method and Praxis be able to sect any angle into 7. 8. 9. 10. etc. equal parts,
+and also to demonstrate the same.
+
+Wherefore in the next place I shall proceed to show how a Semicircle may be
+sected into any number of equal parts, even as 4. 6. 8. 10, etc. or uneven, as
+5. 7. 9. 11.
+
+
+
+The Praxis of a Section of a Semicircle into 9 equal parts.
+LEt the Semicircle given be BRSC, whose diameter is BC. and whose center is A.
+
+1. Divide the diameter BC into 9 equal parts.
+
+2. From the center A set off AO and AN, making NO=1/9 of the diameter: and
+draw the perpendiculars NR. OS.
+
+3. With the extent NO measure from C to I, from 1 to 2, from 2 to three, from
+3 to 4, marking the points 1. 2. 3. 4. and do the like from B to 1. 2. 3. 4.
+
+4. With less radius as AP describe the Semicircle PP, and from P to 1 with the
+same extent on that 2d. arch measure form P, P1= 1. 2=2. 3=3. 4. and do the
+like from P on the other side. This lesser Radius must be so long, that the
+extent=NO four times repeated do not reach the Perpendiculars.
+
+5. From 4 to 4 draw a straight line, and produce it until it cut OS at 4. and
+NR at 9.
+
+6. Draw the 3d arch QQ with radius A 4, and draw the straight lines 4 A 4,
+which shall make an angle=a 9th part of the semicircle. The demonstration
+whereof is apparent from these precedent.
+
+From the above delivered Praxis of the various Sections of angles, into any
+equal given parts, I shall draw these few plain Corolaries.
+
+1. Corol. Having in any right lined triangles, any one angle given, and the
+ratio of the other 2 angles to find these 2 angles, in degrees and minutes. e.
+g. let the given angle of a triangle be 110 degrees. and the ratio of the other two
+angles be as 3 to 2. Q. What are the other 2 angles. Ans. Take the complement
+of 110 to 180, which is 70, and sect it into 5 equal parts by the method above
+delivered, =14, this multiplied by 3 gives 42, and by 2 gives 28, wherefore the
+greater angle shall be 42, and the less 28. demonstrate 110+42+28 =180 and 3 2
+42 28.
+
+2. Cor. From a Point given on a Line given, to erect an Isosceles triangle,
+one of whose sides produced shall come to a point given. (See the figure) let
+the point given be A, the line given AF, the limited point given below the line
+AF let the point be point D. the Praxis.
+
+1. With radius AD describe the semicircle GFDE, so that GA shall cut AF at a
+right angle, and AE the like.
+
+2. Draw the line AD, and cut the angle EAD into 3=parts.
+
+3. Make the angle GAB= of EAD, and from B to D draw the line BD, cutting the
+line AF at C, the triangle ABC is an Isosceles, whose side BC is produced to D.
+The demonstration is evident from the trisection, and it has singular uses in
+Architecture, and affording new Problems in Geography and Navigation, which I
+shall not at present enlarge upon, but leave to the ingenious Student to devise.
+
+3. Corol. To measure any given angle in degrees and odd minutes, (if it have
+any) by a line of equal parts without a line of cords. Let the given angle be
+KAL (see the figure) with radius AL describe the quadrant LKL, and on that arch
+take the extent of the cord KL, and set it on the other side from L to a point
+on that arch.
+
+Again, take the cord of that middle arch betwixt the point and K, an all these
+3 cords join them together in a straight line, which make the cord of the
+quadrant (by a longer radius) as BC, which is easily done Geometrically.
+
+Then because in each Quadrant there are 5400 minutes, divide the line BC by the
+Diagonal Scale into 5400 equal parts, and by the same Diagonal Scale measure on
+the line BC the length of the cord of KL, and whatever number of parts it
+gives, that is the just quantity of that angle in minutes, which divided by 60
+gives the degrees, and if there be any Remainder, they are the odd minutes.
+
+4. Corol. To project any angle without a line of cords, by a Diagonal Line of
+equal parts, whose quantity is given in degrees and minutes. Let the given angle
+to be projected, contain 36 degrees. and 1 min. reduce the degrees into minutes,
+multiplying 36 by 60, the product is 2160, to which adding the odd minut, the
+sum is 2161.
+
+Praxis.
+Take off from the cord of the quadrant BC 2161 from C to D. on the point D
+erect the perpendicular ED, which extend to G, with the extent CD measure on
+the arch of the quadrant, from C to H.
+
+Again, draw another arch with a less radius as AM (so that the radius be so
+long that the extent of DC reach not to EDG) and with that extent measure from
+M to I on that 2d arch.
+
+4. From H to I draw a straight line, and produce it until it cut the
+perpendicular at K.
+
+5. Draw the line AK, which shall give the angle required KAL=FAC. the
+demonstration whereof is apparent from the foregoing Problems.
+
+If any discreet Persons desire further satisfaction or Information about these
+New Problems, if they please to call at my House, I shall be ready to endeavor
+to satisfy them; and whereas, to me the Method and Demonstration of these
+Matters, seem sufficiently evident, yet I have called the whole Praxis and
+Method here delivered, but an Essay, until it be found approved by able
+Artists, and have proposed it rather Problematically than Thetically, as is
+usual in such cases.
+
+G. Keith.
+
+ADVERTISEMENT.
+Geometry, Surveying, Navigation, Astronomy, Dyaling, and other Mathematical
+Arts are taught by G. Keith at his House in Pudding Lane, near the
+Monument-London.
+
+

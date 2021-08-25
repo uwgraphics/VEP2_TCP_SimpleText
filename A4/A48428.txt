@@ -1,0 +1,1693 @@
+THE Mariners Jewel; OR, A Pocket Companion FOR THE INGENIOUS.
+
+Being of more General Use for Officers, Seamen, Carpenters, Boatswains,
+Pursers and Stewards, then any thing yet Published.
+
+CONTAINING An Alphabetical Dictionary of all the Naval Terms; A General Pay
+Table; with a Table of Boatswain Stores for each Rank of Ship; the proportion
+of Prizes, with many other useful things both Decimal and Vulgarly demonstrated
+from a Manuscript of Sir John Narbrough's, and methodiz'd by James Lightbody,
+P. M.
+
+LONDON Printed for Robert Whitledge, and sold by Alexander Sims at the Bible
+in Beet-street in Ratcliff-High-Way, 1695.
+
+To the HONORABLE. Sir Cloudsley Shouel, Knt. Vice Admiral of the RED SQADRON
+Of the Royal Navy of England.
+Renowned SIR,
+MY chief aim in Publishing this small Piece, is for the benefit of Seamen, who
+is known to be the chief Bulwark of our Kingdoms, and upon whose undaunted
+Courage, Resolution and Conduct, our Liberties and Properties wholly depend;
+who vindicate our Rights with the expense of their dearest Blood. The
+undeserved Disappointments they have received, unknown to your Honor, for some
+Years past; and the many Losses they have sustained for want of good
+Instructions, has induced me to the greatest part of this work, which I hope
+will be of good use to them if duly applied.
+
+I don't mean there is any unjust thing put upon them by their Superior
+Officers, who has a paternal care over them, but that they have not consulted a
+due Information for their own Interest.
+
+This I can safely say, the informing of Seamen was my only aim in this small
+Piece, when I first set my Resolutions upon it; but having a Manuscript by me,
+writ by the famous Sir John Narbrough, I was advised by some Friends to put
+some material and useful things therein mentioned, in this, which I have done
+exactly from the Original.
+
+When I resolved to make this Piece public, the Epistle Dedicatory was mainly
+in the choice of a Patron, to testify my esteem of those extraordinary
+Qualifications in you, that have gained the Affections of even the best and
+worst of Seamen, for whose sakes I have dedicated it to you, who sit at the
+Helm of their Government, to guide and direct them in their true Course, not
+doubting but you will accept of the weak Labors of
+
+SIR, Your Honors most humble Servant, James Lightbody.
+
+The Contents.
+OF Decimal Arithmetic p. 3 To know the Burden, and how to Rig a Ship. p. 17
+A Table of the length of Masts and Yards of a Ship. p. 19 A Table of the Names
+and Sizes of each Rope belonging to a ship. p. 21 A Table of the Proportion of
+Boatswain Sea-stores for each Rank of ships. p. 32 To find the length and
+thickness of Masts and Yards by the Pen. p. 40 How to Rig any ship by
+Proportion p. 44 An Alphabetical Dictionary of all the Names of every thing
+belonging to a ship, with the use and explanation of the same, together with
+the Terms used at sea. p. 53 An exact List of the Royal Navy p. 89 Rules to be
+observed in the payment of the Navy. p. 75 A Table of Officers Pay by month in
+each Rank of ships. p. 76 A Table of Masters, Gunners, Carpenters, Boatswain,
+Purser and Chyrurgi^ns Pay, from one day to six months. p. 100 A Table of Pay
+from 3 l. a month to 19 s. from 1 day to 6 months. p. 108 An Abstract of the
+Act of Parliament for the Encouragement of Privateers, wherein is the
+Proportions belonging to the ships Crew for any Prize taken. p. 112 A Copy of
+the Act of Council, for the Encouragement of seamen, and the Proportions
+belonging to each Man in taking of a Prize, with the King's Approbation. p. 120
+The Proportions of Prizes according to the Custom of the Navy. p. 123 A Guide
+to Pursers and Stewards p. 124 A Table of Coins, and their value p. 133
+ERRATA.
+I beg of the Reader to excuse the Omissions of the Press, and help them with
+his Pen, as in
+
+page 19. line 20. for Inches read Foot.
+
+page 32. line 1. for proposition r. proportion.
+
+page 38. line 12. for Mop-Gallant r. Top-Gall.
+
+THE MARINERS Jewel; OR, A Pocket Companion for the Ingenious. The Introduction.
+EVery Artist knows, That the Art of Navigation consists chiefly in
+Arithmetic; and because Decimal Fractions is so much wanting, and so little
+used amongst Seamen, it will not be amiss to go through all the Rules thereof,
+and then show the use of each Rule in its proper place; so that the ingenious
+Artist may with a great deal of Facility go through that long and tedious Work,
+often occasioned by Vulgar Fractions: Not but that I leave every Man to his own
+fancy, to use that which he in his own Opinion thinks best.
+
+It Is true, Vulgar Fractions is unavoidable in some Cases, but in that which is
+chiefly designed here, Decimal Fractions may be used in every respect easier
+and more correct than Vulgar.
+
+CHAP. I. Of Decimal Arithmetic. Notation of Decimals.
+A Decimal is that by which is distinguished the Parts of a Unite: And is
+decreased from Unity to so many Tenth Parts of a Unite. For Unity is divided
+into ten parts, and every tenth part is called a Prime, every hundredth part is
+a Second, and every thousand part a third, etc. So as whole Numbers increase by
+Tens from the Unites place toward the left hand, so Decimals decrease by Tens
+from the Unites Place toward the right hand, as may appear by the following
+Example.
+
+1 1 2 3 4 5 6 Unity or an Integer. Primes, or tenth parts. Seconds, or hundr.
+parts. Thirds, or thous. parts. Fourths, or 10 thous. pts. Fifths, or 100
+thous. pts. Sixths, or 1000000 pts.
+
+For 10 Primes is one Unite, and 10 Seconds is one Prime, and 10 Thirds is one
+Second, and 10 Fourths is one Third, etc. So that every place toward the left,
+is ten times less than the preceding Figure: For preponing of Ciphers, lessen
+the following Figure in a tenfold manner; for (.2) is two Primes, or two Tenths
+of an Integer or Unite, but (.02) is but two Seconds, or two hundredth parts of
+an Unite. Ciphers after a Decimal neither augment nor diminish the value of the
+Decimal.
+
+A Decimal is always distinguished from a whole Number by a Prick or Period, as
+in the Numbers following.
+
+15.3 365.3.262.15 1625.32 273.2
+
+The Numerators are only set down, the Denominators being known by the number
+of places in the Numerator; for if the Numerator consist but of one place as.1,
+it is 1/10, if of two, as.22 it is 22/100, if of three, as.235 it is 235/1000,
+etc.
+
+I shall insist no more upon Notation of Decimals, the foregoing being
+sufficient, but shall proceed to Addition.
+
+Addition of Decimals.
+Addition is the adding of Sums together, and making one entire Sum of two or
+more; you must take particular care in placing whole Number under whole Number,
+and Decimal under Decimal, and Unites under Unites, and Tens under Tens.
+
+Suppose 325.7 were to be added to 463.72, I place them one under another in
+manner following.
+
+To 463.72 Add 325.7 Sum 789.42
+
+Observe always to prick off as many Decimals in the Total, as there is in any
+of the Sums to be added together.
+
+Example.
+
+To 365.23 Add 23.20 2.03 Sum 390.46
+
+An Example of Addition, as to Timber or Board Measure.
+Note, That all entire Quantities, as Feet, Yards, Else, Ounces, Pounds, and
+Hundred Weights, are divided into a hundred Parts, therefore the one fourth of
+any one of these is.25, the half is.50, and the three fourths is.75.
+
+There is three Boards of these following dimensions; what is the Sum of Feet
+and Parts?
+
+Feet. Parts. The first Board 246.25 The second 43.50 The third 16.26 The Sum
+306.01
+
+The Total Sum is 306 Foot, and one hundredth part of a Foot.
+
+Addition of Money.
+A pound Sterling is likewise divided into 100 parts. So.05 is the Decimal for
+one shilling, and.10 for two shillings, and.15 for three shillings, etc.
+
+Suppose I were to add 3 shillings and 4 pence to 2 shillings and 3 pence.
+
+The Decimal for 3 shill. is.15 The Decimal for 2 shill. is.10 The Decimal for
+4 pence is.0166667 The Decimal for 3 pence is.0125 Sum.2791667
+
+It is very hard for the Learner to know the value of this Total, being he is
+not come the length of Multiplication, which is the only Rule useful in this
+case. The general Rule is, every Prime or Unite in the Total Sum is 2 shillings
+value, and every 5 Seconds is one shilling, and the superplus of the Seconds
+above 5 is so many ten farthings, and the number of Digits in the thirds place
+is so many farthings: All the rest of the Decimals to the right being of no
+value. The.2 Primes in the Total is 4 shillings, and the 5 Seconds of the seven
+is one shilling, and the two remaining is 20 farthings; the 9 Thirds added
+thereto makes 29 farthings, which is 7 pence farthing: but by reason the number
+is above 25, the farthing must be cut off. The sum is 5 shill. and 7 pence.
+
+So much for Addition of Decimals.
+Subtraction of Decimals.
+Subtraction is the taking a small sum from or out of a greater, as if you
+would take 7 l. 5 s. 6 d.out of ten pounds 5 shillings and 6 pence, the
+remainder must be 3 pounds; or if from 265.2, you would take 153.1, etc.
+
+Example.
+
+From 105.25 Foot of Superficial Measure subtract 97.25.
+
+105.25 or from 1035.2 97.25 973.5 8.00 61.7
+
+From.876 From 725.2 Take.324 Take 322.6 Remains.552 Remains 402.6
+
+Multiplication of Decimals.
+In Multiplication of Decimals, the method is the same as in whole Numbers;
+only you are to prick off so many Decimals toward the right hand in the
+Product, as there is Decimals in both Multiplicator and Multiplicand: As
+suppose I were to multiply 26.75 by 35, there must be two Decimals pricked off
+in the Product, by reason there is two in the Multiplicand.
+
+Example 1.
+
+Of Mixed Numbers.
+Multiplicand 26.75 Multiplicator 35 13375 8025 Product 936.25
+
+Example 2.
+
+246.32 24.61 24632 147792 98528 49264 5061.9352
+
+Example 3.
+
+32.6.2 6.52
+
+Example 4.
+
+6.32753 32.64 2531012 3796518 1265506 1898259 206.5305792
+
+Here you see in the fourth Example, there is in the Multiplicator and
+Multiplicand 7 Decimals; therefore I prick off as many in the Product as there
+is in both.
+
+Note, That as whole Numbers multiplied by whole Numbers in^^^ase their value,
+so Decimals multiply (...) by Decimals decrease their value, by reason the
+Product is removed farther from Unity, than either of the Decimals given to be
+multiplied, as shall appear by the following Example.
+
+.03.75.32.2.04.4.006.0300.128
+
+It will sometimes fall out, that there are not so many Figures in the Product
+as there are Decimals in the Multiplicand and Multiplicator; in such cases you
+must place Ciphers before the Figures, till they be equal: As you shall see in
+the following Work.
+
+Examples.
+
+.004.42 6.5.22.002.07.0002.4 Prod.000008.0294.00130.088
+
+Devision of Decimals.
+We shall in the next place proceed to Division of Decimals, which is the most
+difficult of all the rest; all the difficulty being to find the true value of
+the Quotient.
+
+The general Rule is, when you have finished your Division, to prick off so
+many Figures to the right hand, as will make the Decimals in the Divisor equal
+in number to those in the Dividend, and the Figures to the left are whole
+Numbers.
+
+Example 1.
+
+Let 64.326 be divided by 32.4.
+
+32.4) 64.326 (.19 3192 2766 174
+
+You see in the foregoing work, that there is three Decimals in the Dividend,
+and one in the Divisor; therefore I make that 1 in the Divisor, and 2 in the
+Quotient equal to the 3 in the Dividend.
+
+Example 2.
+
+.325) 53.62321 (161.19 2012 623 2982 571 246
+
+Example 3.
+
+Let 28. be divided by 32.6
+
+In this Example the Divisor 32.6 is greater than 28. the Dividend; in this and
+all other such cases, you must place a competent number of Ciphers behind the
+Dividend; and if it be a whole Number, you are to divide, you must prick off
+the Ciphers from the whole Numbers and then proceed in your Division as you
+were to divide whole Numbers.
+
+32.6) 28.00000 (.8585 1920 2900 1920 290
+
+Example 4.
+
+To divide a Decimal Fraction by a Decimal Fraction.
+
+Let.900 be divided by.05
+
+.05).900 (18.0 40 00
+
+Let.9000 be divided by.0005
+
+.0005).9000 (1800 40 000
+
+Would not one think it very strange a Decimal Fraction divided by a Decimal
+Fraction, should bring forth a whole Number in the Quotient. But I shall make
+it very plain, that it must be so and no otherways, by a reasonable
+Demonstration.
+
+By the first Example, you see I divide.900 by.05, and the Quotient I find to
+be 18.0, that is, because there is three Decimals in the Dividend and one in
+the Divisor, I make up the number of those in the Dividend, by taking one
+Decimal from the Quotient, and adding to the 2 in the Divisor.
+
+Now the nature of the Question is thus: I desire to know how many times 5
+Seconds in 9 Primes? The Answer is 18. For there is 18 times 5 Seconds in 9
+Primes.
+
+If it fall out at any time, that there is not so many Figures in the Quotient,
+as will make these in the Divisor equal in Number to those in the Dividend;
+then you must prepone Ciphers before the Quotient to the left hand, as in the
+following Example.
+
+4).13779 (.03444
+
+I shall give you an Example as to the Use and Application of Division of
+Decimal Fractions, to the end that those who intend to use Decimals may the
+better understand what they are going about.
+
+Suppose I were to divide 10 shillings amongst 20 Men, the Decimal for 10
+shillings is.50; therefore I divide my Decimal.50 by the number of Men 20, and
+the Quotient will be.025, which is the Decimal equal to 6 pence; for if you
+multiply.025 by 12, and double the Product, it will be 6 pence.
+
+I could give several Examples of this kind, but the various Examples that will
+happen in the following work, will in its proper place, give a clearer
+Demonstration than can be here expected; so I shall refer the Learner to the
+practice in General, and proceed to my intended work.
+
+CHAP. II. To find the Burden, and how to Rigg a SHIP.
+BEfore we proceed to the Rigging of a Ship, it is proper we should know her
+Burden; they having a dependency upon each other. For you cannot know how to
+Rigg a Ship without you know the length and breadth of her, no more than you
+can know (...) Burden; but when she is once R^^^d (if according to Art or
+Proportion) you may know her Burden without taking the length and breadth:
+Therefore I say, we shall begin gradually first to know her Burden, and so go
+on.
+
+To find the Burden of any Ship.
+Take the length of the Koel, and the breadth of the Beam, from Plank to Plank,
+and multiply the one by the other, and the Product multiply by the depth of the
+Hold; and the last Product divide by 100, and the Quotient is the Burden of a
+Ship; or, to save the trouble of Division, cut off two Figures to the right
+hand of the last Product, and the remaining Figures to the left hand is equal
+to the Ships Burden.
+
+Example.
+
+The length of a Ships Keel is 68 Foot. The breadth of the Beam is 26 Foot. 408
+136 1768 The depth is -- 12 3536 1768 The Ships Burden is 212.16 Tun
+
+There is several Divisors, as 97. 98. 99. and some use 93. but I am sure that
+100 is the most honest and exact Divisor.
+
+The length of the Mainmast is twice and a half the breadth of the Beam.
+
+Multiply the length of the Mainmast by 8, and divide by 9 for the length of
+the Foremast or Boltspreat.
+
+The true length of the Foremast is 8/9 of the Mainmast.
+
+The Misson-mast is the length of the Foremast.
+
+The length of the Main-Yard is the breadth of the Beam, and the length of the
+Keel.
+
+The Fore-Yard is 8/9 the length of the Main-Yard.
+
+The Sprit-Sail-Yard is 8/9 the length of the Fore-Yard, the Craggick-Yard the
+length of the Main-Yard.
+
+A Table of the lengths and thickness of the Masts and Yards of a Ship, that is
+25 Yards in length of Keel, 9 Yards and 2 foot length of Beam, and 4 Yards and
+a Foot in depth of Hold.
+Inches. Inches. The Fore-top-masts length 37 thick 13 The Main-top-masts
+length 42 14 The Sprit-sail-yard 50 thick 16 The Mizon mast 52 17 The
+Mizon-yard 51 26 The Fore-Yard 62 20 The Bonsprit 66 22 The Main-Yard 74 24 The
+Foremast 75 25 The Mainmast 84 28 The Main-Topsail-Yard 11 Inches, and
+Cross-Jeck-Yard 36 7 The Fore-Topsail-Yard 31 9 The Mizon Topmast 27 8 The
+Main-Top-Gallant-mast 21 8 The Mizon-Top-sail Yard ^^ 6 The
+Fore-Top-Gallant-mast 19 6 The Main-top-gallant Yard 19 6 The Fore-top-gallant
+Yard 16 5 The Sprit-sail Top-sail Yard 14 4
+
+A Table of the Names, Sizes and Lengths of each Rope of Rigging belonging to
+the Mary and Bristol, w^^se length of Keel, breadth of Beam, depth in Hold, and
+Tunns is known.
+Bolt-Sprit, or Sprit Sail-Yard. Mary Bristol Inch. Fad. Inch. Fad. Sheats 3 60
+3 56 Horse 2 4 2 3 Cluelines 2 34 2 32 Slings for the Yard 5 4 4 4 Halliards 3
+18 3 18 Lifts 3 40 3 36 Standing Lifts 3 6 5 5 Lanyards 2 4 1 3 Penants for
+Braces 3 3 2 3 Falls to them 2 64 2 60 Wouldings 6 45 4 31 Garnets 2 52 2 50
+Buntlines 2 28 2 26
+
+SPRIT-SAIL TOPMAST.
+Inch. Fad. Inch. Fad. Shrouds 2 17 2 16 Lanyards 1 9 1 8 Penants of Braces 1 4
+1 3 Falls to them 1 35 1 32 Ties 2 2 2 2 Halliards 2 9 1 8 Cluelines 1 36 1 32
+Penants of the back Stays 3 3 3 3 Falls to them 2 9 2 9 Lifts 1 16 1 14 Parrel
+Rope 2 2 1 2
+
+FOREMAST.
+Penants of Tackl. 6 8 5 6 Runers of Tackl. 5 24 5 22 Falls of Tackles 3 60 3
+56 Shrouds 6 124 5 91 Lanyard 3 50 3 35 Stay 10 11 8 10 Collar 9 2 7 1 Lanyard
+4 8 3 7
+
+FOREMAST.
+Inch. Fad. Inch. Fad. Puttocks 3 46 2 40 Parrel Rope 3 14 3 10 Clugarnets 3 50
+2 48 Bowlines 3 50 3 40 Bridles 3 4 3 4 Penants of Braces 3 6 3 5 Falls to them
+2 50 2 40 Buntlines 2 78 2 70 Sheets 4 68 4 60 Tacks 6 30 5 28 Lifts 3 58 3 46
+Lichlines 2 40 2 38 Geeres 5 70 5 64 Leg of the Catarp. 2 18 1 16 Falls to them
+2 10 1 8 Stopers of the top-sail Sheats 5 2 4 2 Tie, 0 0 5 16 Halliards 0 0 3
+50
+
+FORE-TOP-MAST.
+Inch. Fad. Inch. Fad. Pen. of top-Rope 7 12 5 12 Falls for the same 4 40 3 38
+Shrouds 4 52 3 52 Lanyards 2 16 2 12 Stay 4 14 4 14 Lanyard 3 10 2 10 Lifts 2
+50 2 50 Puttocks 2 24 2 24 Tie 6 7 5 7 Runner 4 9 4 9 Hallyards 3 42 2 35
+Bowlines 2 60 2 50 Bridles 2 10 2 10 Clulines 3 70 2 65 Penant of Tackles 3 6 3
+5 Falls to them 2 30 2 30 Sheats 5 46 4 40 Parrel-Rope 3 6 3 6 Lichlines 2 14 1
+12 Braces 2 66 2 50 Pennant 2 5 2 5 Buntlines 2 34 1 30 Stand. Back-stays 4 64
+3 62 Lanyards 2 10 2 8
+
+Fore-Top-Gallant-Mast.
+Inch. Fad. Inch. Fad. Stay 1 18 1 15 Tie 2 3 2 2 Halliards 1 30 1 30 Lifts 1
+20 1 20 Braces 1 60 1 50 Clulines 1 60 1 50 Bowlines 1 60 1 50 Bridles 1 5 1 5
+Parrel Rope 1 2 1 2 Shrouds 2 15 Laniards 1 6
+
+MAINMAST.
+Penant of Tackle 7 8 6 6 Runners of tackle 5 26 5 24 Falls of Tackle 3 60 3 56
+Lifts 3 68 3 54 Shrouds 7 160 6 114 Lanyards 4 56 3 42 Stay 12 16 11 15
+
+MAINMAST.
+Inch. Fad. Inch. Fad. Collar 10 7 10 5 Lanyards 4 10 4 10 Penant of Garnet 5
+10 5 9 Guy 5 9 4 8 Fall of the Garnet 3 37 3 37 Tacks, taper, Laid 6 30 6 28
+Sheats 4 70 4 64 Clugarnets 3 56 2 54 Bowlines 3 40 3 40 Bridles 3 8 3 8
+Penants of Braces 3 6 3 6 Falls 2 60 2 54 Geares 6 80 4 44 Parrel Rope 4 15 4
+12 Lichlines 2 46 2 40 Buntlines 2 88 2 80 Puttocks 3 48 2 40 Legs of Catharp.
+2 20 2 10 Falls to them 1 19 1 16 Stop. of top Sheats 5 3 4 3 Tackles to set up
+Shrouds 3 20 2 18 Busing Tackles 2 10 2 10 Ties 0 0 6 18 Hallyards 0 0 4 56
+
+MAIN-TOP-MAST.
+Penant of Tackle 3 6 3 6 Falls to them 2 34 2 34 Shrouds 4 75 3 56 Lanyards 2
+30 2 16 Stand. Back-stays 4 72 4 66 Lanyards 2 12 2 8 Stay 5 20 4 18 Lanyards 3
+10 2 10 Lifts 2 64 2 60 Braces 2 68 2 52 Penant 2 5 2 5 Bowlines 3 60 3 42
+Bridles 3 10 2 10 Pen. of Top-rope 7 13 5 12 Falls to them 4 43 3 40 Clulines 3
+76 3 70 Tie 6 8 5 7 Runners 4 90 4 18 Hallyards 3 50 3 47 Lichlines 2 14 2 12
+Buntlines 2 38 2 32 Puttock 2 34 2 32 Parrel Rope 3 6 3 5 Sheats 6 50 5 50
+
+Main-Top-Gallant-Mast.
+Stay 2 20 1 18 Braces 1 64 1 58 Bowlines 1 64 1 60 Bridles 1 5 1 5 Parrel Rope
+1 2 1 2 Tie 2 3 2 3 Hallyards 1 34 1 34 Clulines 1 64 1 54 Lifts 1 22 1 22
+Shrouds 2 14 0 00 Lanyards 1 16 0 00
+
+MIZON-MAST.
+Inch. Fad. Inch. Fad. Shrouds 4 62 4 56 Lanyards 2 16 2 16 Stay 4 11 4 10
+Lanyards 2 3 2 3 Hallyards 3 35 3 35 Parrel Rope 3 3 3 3 Truss 2 18 2 17 Sheat
+3 20 3 18 Tack 3 3 3 3 Bowlines 2 16 2 10 Brayles 2 100 1 90
+
+CRAGICK.
+Lifts 2 35 2 32 Braces 2 36 1 28 Standing Lifts 2 6 2 6 Lanyards 1 4 1 4
+
+MIZON-TOP-MAST.
+Inch. Fad. Inch. Fad. Shrouds 2 28 2 18 Lanyards 1 9 1 9 Puttocks 2 12 1 8
+Braces 1 34 1 28 Bowlines 1 34 1 28 Bridles 1 5 1 5 Tie 3 4 2 3 Hallyards 2 18
+1 15 Lifts 1 24 1 20 Parrel Rope 1 2 1 2 Stay 2 8 2 7 Clulines 1 32 1 30
+Cat-rope 4 50 3 40 Penant of fishhook Rope. 6 7 5 7 Falls of the same 3 30 3 30
+Stop. at the Bow 6 28 4 18 Shank Panter 5 18 4 15 Stop. at the Bits 9 8 8 8
+Lanyards 3 12 3 12 Vial. 9 30 7 28 Pen. of wind. tack. 8 10 8 9 Falls of the
+same 5 45 5 45 By-Ropes 6 88 5 80 Stream-Ancker Buoy-Ropes 4 30 4 30 Boat rope
+and Slings 7 37 5 35 Guest rope to it 4 32 3 30 Pinnis Rope and Slings 6 36 0
+00 Guest rope to it 4 32 0 00 Two pair of Boat-slings. 5 10 5 10 2 pair of
+Hogsets 4 8 4 8 Ordinance Slings 7 6 7 6 For Robins and Ear. 1 260 1 200 And
+Clu Seisings for one complete Suit of Sails 1 204 1 300
+
+A Proposition of Boatswain SEA-STORE for each Rank of Ships.
+SEA-STORE. 1 Rank. 2 Rank. 3 Rank. 4 Rank. 5 Rank. 6 Rank. Lasing Line 6 Coile
+4 Coile 2 Coile 1 Coile 1 Coile 1 Coile Netting Rope 3 C. 2 C. 1 C. 1 C. 1 C. 0
+Port Ropes 2 C. 1 C. 1 C. 0 0 0 Junck of 15 Inches 60 Fad. 50 Fad. 40 Fad. 30
+Fad. 20 Fad. 12 Fad. Tard Line 40 ll. 24 ll. 18 ll. 12 ll. 6 ll. 6 ll. Tard
+Marline 56 ll. 46 ll. 28 ll. 18 ll. 12 ll. 8 ll. White Twine 28 ll. 20 ll. 16
+ll. 12 ll. 8 ll. 6 ll. Dipselines 3 3 3 2 2 2 White Lines 30 20 12 8 6 4 White
+Marline 28 18 12 8 6 4 Catt hook 3 3 3 3 3 3 Fish hook 3 2 2 2 2 2 Boat hooks 8
+6 6 4 3 3 Fidds of Iron 6 6 6 4 4 3 Fid Hammers 2 2 2 2 1 1 Marline Speaks 24
+18 12 8 6 6 Crows of Iron 2 2 2 1 1 1 Hatchits 8 6 4 3 2 2 Gromits and Staples
+12 duz. p. 8 duz. p. 6 duz. p. 4 duz. p. 3 duz. p. 2 duz. p. Sail Needles 8
+duz. 6 duz. 4 duz. 3 duz. 2 duz. 18 Bilb. with 7 Shack. 1 pair 1 pair 1 pair 1
+pair 1 pair 1 pair Tackle Hooks 8 6 6 4 3 2 Can hocks 2 pair 2 pair 2 pair 2
+pair 1 pair 1 pair Puttocks Plates 8 6 6 4 3 2 Hanging Locks 6 4 4 3 2 2 Nails
+for Hammacks, so many times 4 as Ham. Fire Grap-nails with Chains 4 3 2 2 2 1
+Watch-Bell of Brass 1 1 1 1 1 1 Longboat 1 1 1 1 1 1 Pinnys 1 1 1 1 1 1 Skiff
+1 1 1 0 0 0 Boat Oars 8 duz. 6 duz. 5 duz. 3 duz. 2 duz. 2 duz. Sounding Leads
+8 6 6 5 4 4 Dip-Sea Leads 3 3 3 3 2 2 Compasses 18 12 10 8 6 6 Running Glasses
+24 18 12 8 6 6 Steal-Shod-shovels 36 24 18 16 12 10 Scopes 12 8 6 4 3 3 Bouls 6
+6 4 2 2 2 Wooden Buckets 24 18 12 12 8 6 Leathern Buckets 36 24 18 12 8 6
+Ballas, Baskets 36 24 18 12 8 8 Tarr 3 Bar. 3 Bar. 2 Bar. 1 Bar. 1 Bar. half
+Bar. Ipswich Canvas 12 Bolts 8 Bolts 6 Bolts 4 Bolts 3 Bolts 2 Bolts Hammacks
+600 400 300 180 100 60 Waste cloth of Red Kersey 1 Suit 1 Suit 0 0 0 0 Waste
+cloth of Red Cotton 0 0 1 Suit 1 Suit 1 Suit 1 Suit Spare Locks 8 duz. 6 duz.
+4 duz. 3 duz. 2 duz. 1 duz. Dead men's Eyes 2 duz. 18 1 d. 1 d. 9 6 Can Boys
+Iron bound 4 3 3 3 2 2 Hand-speaks 3 duz. 30 2 d. 18 1 d. 1 d. Spars for
+Boathook-staves. 6 6 4 4 3 2 Flays of 20 breadth 4 0 0 0 0 0 Flays of 18 0 2 0
+0 0 0 Flays of 16 0 0 2 0 0 0 Flays of 14 0 0 0 1 1 0 Flays of 12 0 2 0 0 0 0
+Flays of 10 0 0 0 0 0 0 Flays of 8 0 0 0 0 0 0 Flays of 6 0 0 0 0 0 0 Standards
+2 0 0 0 0 0 Ensigns 20 bread. 4 0 0 0 0 0 Ensigns 18 0 3 0 0 0 0 Ensigns 16 0 0
+3 0 0 0 Ensigns 14 0 0 0 3 0 0 Ensigns 12 0 0 0 0 2 2 Sprit-sail Courses 1 1 1
+1 1 1 Sprits-sail Bunnits 1 1 1 1 1 1 Sprit-sail Top-sail 1 1 1 1 1 1
+Fore-Courses 2 2 2 2 2 2 Fore-Bunnits 1 1 1 1 1 1 Fore Top-sail 2 2 2 2 2 2
+Fore Top-gall. Sail 1 1 1 1 1 1 Main Courses 2 2 2 2 2 2 Main Bunnits 1 1 1 1 1
+1 Main Topsails 2 2 2 2 2 2 Main Mop-gallant 1 1 1 1 1 1 Mizon 1 1 1 1 1 1
+Mizon Bunnit 1 1 1 1 1 1 Mizon Top-sail 1 1 1 1 1 1
+
+To find the Lengths and Thickness of Masts and Yards by the Pen.
+We shall begin with the Mainmast of a Ship, whose length of Keel is 73. Foot,
+breadth of the Beam 28.5 Foot, the depth of the Hold 12. Foot.
+
+The only Rule to find the length of the Mainmast, is to add the breadth of
+the Beam and the depth of the Hold together, and divide the Product by 1.5, and
+the Quotient is the Yards in length; the Mainmast of the Ship must be,
+
+Example.
+
+The breadth of the Beam 28.5 The depth of the Hold 12.0
+
+1.5) 40.5 (27 105 000
+
+The length of the Mainmast sought is 27 Yards or 81 Foot.
+
+Those that are not very expert at Division, may make use of the following
+Multiplicator, which will perform the fame as the Division does, and will be a
+great deal easier for the Learner, if he do but observe to prick off the
+Decimals to the Right hand, as is directed in the foregoing Work.
+
+Example.
+
+The Sum of the breadth and depth is 40.5, the which I multiply by the proper
+Multiplicator.6666, and the Product is 26.99730 which is 26 yard, and 99
+hundredth parts of a yard, which wants not one second to make it 28 yards,
+equal to the former Work.
+
+To find the thickness of the foregoing Mast or any other mast of the Ship, you
+are to take the length of the Mast mentioned in the foregoing Table, and say by
+the Rule of Proportion,
+
+If 84 give 28 (as in the Table) what will 81 give.
+
+84 28 81 28 224 2268 (27 Foot. 588 000
+
+Here we find the thickness of the Mainmast of the propounded Ship to be 27
+foot; now to find the thickness or length of the other Masts of the same Ship.
+
+If for the Thickness of any of the Masts, you must it work by the foregoing
+Rule, taking out the length of the Mast you require from the foregoing Table;
+and as the length there requires so much, what will the length found require?
+
+You must find your lengths of the several Masts and Yards by the Rule before
+directed.
+
+Suppose I was to find the length of the Foremast, having the length of the
+Mainmast; I multiply the length of the Mainmast by 8, and divides the Product
+by 9, and the Quotient is the length of the Foremast required.
+
+As for Example, the length of my Mainmast is 81 Foot, the which I multiply by
+8, and divides by 9, and the Quotient is 72, the length of the Foremast sought.
+
+Now, if you would have the length of the Mizon-mast, being that it is the
+length of the Foremast; you must multiply the length of the Foremast by 3,
+and divide the Product by 4, and the Quotient is the length of the Mizon-mast;
+the Fore-Yard is in proportion to the Main-yard, as the Foremast is in
+proportion to the Mainmast.
+
+Thus we have inserted most material things as to a Ships Rigging: but because
+the way here inserted will be troublesome and tedious, unless to some Artists
+who take pleasure therein, we shall set down a plain and easy way, by which any
+Ship may be Rigged with a great deal of ease: And shall be as follows.
+
+Rigging for the Foremast.
+The length of the Mast is the length of the Shrouds.
+
+the length of Shrouds is the length of the Penants.
+
+The length of the Mast is the length of the Stay.
+
+Thrice the length of the Shrouds is the length of the Lifts.
+
+Three times the length of the Shrouds is the length of the Clugarnets.
+
+Twice the length of the Mast from the Deck to the Cross-trees, is the length
+of the Buntlines.
+
+Twice the length of the Main-yard is the length of the Leech-lines.
+
+Twice the length of the Main-yard for the Braces.
+
+Two and half the length of the Main-yard for the Fore-Sheets.
+
+Four times the length of the Mast is the length of the Jeers.
+
+Twice the length of the Main-yard is the length of the Buntlines; and the same
+length for the Top-sail Sheet.
+
+Rigging for the Mainmast.
+the length of the Shrouds is the length of the Penants.
+
+the length of the Mast is the length of the Shrouds.
+
+The length of the Mast is the length of the Stay.
+
+Four times the length of the Mast from the Deck to the cross Trees, is the
+length of the Jeers.
+
+Three times the length of the Main-yard, is the length of the Lifts.
+
+Twice and the length of the Main-yard is the length of the Braces.
+
+The length of the Main-yard is the length of the Bowlines.
+
+Twice the length of the Main-yard, is the length of the Clugarnet.
+
+Buntlines must be 4 times the length of the Mast for Falls and Legs.
+
+Twice the length of the Main-yard is the length of the Leechlines.
+
+The length of the main Yard is the length of the Tacks; Runners must be the
+same length.
+
+Twice the length of the main Yard is the length of the Sheets.
+
+Twice the length of the mast is the length of the Knaveline.
+
+Twice the length of the main Yard is the length of the Topsail Sheets.
+
+Rigging for the Mizon Mast.
+Four times the length of the mast from the Deck to the Cross Trees, is the
+length of the Hallyards.
+
+Twice the length of the mast from the Deck to the Cross Trees, is the length
+of the Braytles.
+
+The length of the Yard is the length of the Sheet.
+
+The Tack about 3 Fathoms.
+
+The length of the mast is the length of the Shrouds.
+
+Of the Shrouds is the length of the Penants.
+
+The length of the main Yard is the length of the Burten Fall.
+
+The length of the mast is the length of the Stay.
+
+The length of the Cross Jack Yard is the length of the Bowlines.
+
+Rigging for the Fore-Top Mast.
+One third, the length of the Shrouds is the length of the Penants.
+
+Once the length of the mast is the length of Shrouds.
+
+Once the length of the Fore Yard is the length of the Burtons.
+
+Twice and the length of the Fore Yard is the length of the Lifts.
+
+Thrice the length of the Yard is the length of the Cluline.
+
+Twice and the length of the Fore Yard is the length of the Braces.
+
+Twice and the length of the Fore Yard is the length of the Bowlines.
+
+Twice the length of the Fore Topsail Yard is the length of the Leechline.
+
+Once the length of the Top mast is the length of the Tie.
+
+Once and the length of the Fore Yard is the length of the Runner.
+
+Thrice the length of the Fore Yard is the length of the Hallyards.
+
+Once and the length of the mast is the length of the Stay.
+
+Once and the length of the Fore Yard is the length of the back Stays.
+
+Twice the length of the Fore Yard is the length of the Buntlines.
+
+Rigging for the Main-Top-Mast.
+The length of the Shrouds is the length of the Pennants.
+
+Once the length of the mast is the length of the Shrouds.
+
+Once and the length of the mast is the length of the Stay.
+
+Twice and the length of the Yard is the length of the Braces.
+
+the length of the main Yard is the length of the Burtons.
+
+Twice and the length of the main Yard is the length of the Lifts.
+
+Twice the length of the main Yard is the length of the Buntlines.
+
+Thrice the length of the main Yard is the length of the Clulines.
+
+Once the length of the Top mast Shroud is the length of the Tie.
+
+Once the length of the main Yard is the length of the Runners.
+
+Three times the length of the main Yard is the length of the Halliards.
+
+Two times the length of the Topsail Yard, is the length of the Leechlines.
+
+Two times the length from the Deck to the Hounds, is the length of the
+Buntlines.
+
+One time the length of the main Shrouds, is the length of the Top rope.
+
+Twice the length of the Main mast, is the length of the Top Rope-Fall.
+
+One third of the Top-Sail Yard, is the length of the Penants for Braces.
+
+Once and the length of the Yard is the length of the Back-Stays.
+
+Rigging for the Mizon-Top-Mast.
+Of the Shrouds is the length of the Pennants.
+
+The length of the Mast from the Cross-Trees to the Heel, is the length of the
+Shrouds.
+
+Once and the length of the Mast is the length of the Stay.
+
+Three times the length of the Mast is the length of the Lifts.
+
+Once and the length of the Mizon-Yard, is the length of the Braces.
+
+Once and the length of the Cross Jack Yard, is the length of the Bowlines.
+
+Twice and the length of the Cross Jack Yard, is the length of the Cross Jack
+Braces.
+
+Twice and the length of the Cross Jack Yard is the length of the Sheets.
+
+Twice and the length of the Cross Jack Yard is the length of the Clulines.
+
+Once and the length of the Mizon Yard is the length of the Hallyards.
+
+Once the length of the Topmast, from the Cross Trees to the Heel, is the
+length of the Tie.
+
+Rigging for the Fore-Top-Gallant.
+Once the length of the Mast from the Cross Trees to the Feed-hole, is the
+length of the Shrouds.
+
+Once and the length of the Fore Yard is the length of the Stay.
+
+Three times the length of the Mast is the length of the Lifts.
+
+Twice and the length of the Fore-Yard is the length of the Braces.
+
+Twice and the length of the Fore Yard is the length of the Bowlines.
+
+Twice and the length of the Fore-Yard is the length of the Hallyards.
+
+Rigging for the Main-Top-Gallant-Mast.
+Once the length of the Mast from the Cross Trees to the Heel, is the length of
+the Shrouds.
+
+Once and the length of the Main Yard is the length of the Stay.
+
+Thrice the length of the Top-gallant Mast is the length of the Lifts.
+
+Twice the length of the main Yard is the length of the Braces.
+
+Twice the length of the main Yard is the length of the Bowlines.
+
+The length of the mast is the length of the Tie.
+
+Twice and the length of the main Yard is the length of the Hallyards.
+
+Twice the length of the main Yard is the length of the Top Rope.
+
+For the Sprit-Sail Topmast.
+The length of the Mast from the Heel to the Cross Trees, is the length of the
+Shrouds.
+
+Thrice the length of the Mast is the length of the Hallyards.
+
+Thrice the length of the Mast is the length of the Lifts.
+
+Twice the length of the Spritsail Yard is the length of the Clulines.
+
+Twice the length of the Spritsail Yard is the length of the Braces.
+
+Twice the length of the Topsail Yard is the length of the Cranlines.
+
+An Alphabetical DICTIONARY of all the Names of the Members or Parts of a Ship,
+with an Explanation of the same, and how they are disposed of; together with
+the Sea Terms used in any Ship.
+A.
+ANchors, There are several sorts; the greatest is the Sheet Anchor, never used
+but in extraordinary necessity; the smallest is the Kedge Anchor, which is used
+in calm Weather and a flow Stream; the Stream Anchor is somewhat bigger than
+the Kedge Anchor. Then there is the First, Second and Third Anchors, and are
+called Bow Anchors. The parts of an Anchor are called the Shank, the Flook, the
+Shoulder, the Beam, the Eye, the Ring, the Stock. The Anchor is a Peek, that
+is, the Anchor is right under the Hawse or Hole, through which the Cable runs
+out. The Anchor is a Cock-Bell, that is, hangs up and down by the Ships side.
+The Anchor is Foul, that is, the Cable is got about the Flook. Abaft, is the
+Stern part of the Ship. Aft, The Stern part also. The Mast hangs Aft, that is,
+toward the Stern. How cheer ye Fore and Aft? How fairs all the Ships Crew.
+Amain, signifies yield, and is used in a Fight. An Awning, An Old Sail or such
+like, supported with Oars like a Canopy over the Deck, to shade from the Sun.
+B.
+BIllage, is the breadth of the Floor, when she lies aground. Billage Water, is
+that which cannot come to the Pump. Bilged, is when a Ship strikes upon a Rock,
+or any thing that breaks her Planks. Buttocks, is the breadth of her After part
+by the Rudder. Beds, is a Platform to raise the Carriage of a Gun, so as she
+may be levelled out at the Port. Bluff, or Bluff-headed, is when a Ship has an
+upright Stern. Beams, is the Supporters of the Orlop or Deck. Butt-ends, is the
+Fore-end of the Planks where they join under-water. Bend or Wail, is the
+out-most Timbers on the Ships-sides. Bolts, are long pieces of Iron, sharp at
+one end for driving into the Planks upon several occasions, such as fixing the
+Tackle of your Ordnance to, or for driving out of Wood-nails, or bringing the
+Planks to the Ships side, and several other uses. Bow, the Bow is the broadest
+part of the Ship, before which compasses the Stern. Beak, the Beak-head is
+without the Ship before the Fore-Castle, supported by the Main Knee, a place
+for men to ease themselves. The Collar of the Main-Stay is fastened to it. Bits,
+are two great pieces of Timber, through which a cross piece goes; they are
+placed Abaft the Manger in the Ships Loof, to belay the Cable thereto when they
+ride at Anchor. Blocks or Pullies, are pieces of Wood with Wheels in them,
+through which all the running Ropes do run. Block and Block, is when they hale
+any Tackle that the two Blocks do meet. Fish-Block, is a Block by which they
+Hale up the Flook of the Anchor to the Ships Bow. Bulk-head, is any partition
+made up with sealing, such as the Bread-room. Bracketts, are little carved
+Knees to support the Gallerys. Bittacles, are little Wooden Pins for nailing
+the Compass-box withal. Barnacles, are little Fishes like Red Worms, which will
+eat through the Planks of a Ship if she be not sheathed. Breaming, is washing
+or burning off all the filth with Reads or Broom. Breast-Ropes, does keep the
+Yards close to the Masts. Brales, are small Ropes, which come down before the
+Sail, with which we Furle our Sails a Cross; they belong only to the two
+Courses and the Missen Bolt-Rope, is that Rope which is sewed about every Sail.
+Buntlines, is but a small Rope made fast to the midst of the Boltrope, to trice
+or draw up the Bunt of the Sail when you farthel it. Braces, are Ropes, two
+whereof belong to all Yards but the Missen, and are reeved to their ends, by
+which they square, or traverse the Yards. Bowling, is made fast to the Leech of
+the Sail, about the midst to make it stand the sharper or closer by a Wind.
+Sharp the main Bowling, is to hale it taut. Hale up the Bowling, is to pull it
+hard or forward on: Check the Bouling is to let it be more slack. Bouse, is to
+pull down the Sail or ease the Tacks in a stiff Gale, or take off the Bonnet.
+Bonnet or Drabler, is a short Sail to take off or put on to the fore-course, or
+the main-Course. Boling knott, is a knot so firmly fastened to the Creengles of
+the Sails, that they cannot slip or be untied. Bails, is a piece of Tar'd Canvas
+for a Tilt to the Boat. Bucket-Rope, is tied to the Bucket to draw Water.
+Boy-Rope, is that which is tied to the Anchor and Boy. Boat-rope, is that by
+which the Ship does tow her Boat. A Bight; is to hold by any part of a Coile. A
+Bitter, is the Turn of a Cable about the Bitts, and veer it out by little, and
+little. Bitters-end, is that part of a Cable does stay within Board. Bending,
+is to tie two Ropes or Cables together. Breast-fast, is a Rope by which you
+hale a Ships Head to a Wharf or the like. Buoys, are close hoop'd Barrels like
+Tankards, to show you the Anchor. Can Buoys, are much larger for showing of
+Danger. Ballast, is Gravel, Stones, or Lead, so disposed as the Ship may lie
+neither to one side or other, but even upon the Water. Bear up, is to make the
+Ship go large before the Wind, Bear off, is to thrust from you, Bear in, is to
+go nigh the Land or Harbor. Breeze, is a Wind which blows out of the Sea in
+Fair Weather. Boarding, is to enter a Ship. To Bale, is to lade Water out of
+the Hold. Trench the Ballast, is to separate it. The Ballast shoots, or runs to
+one side. The Piece of Ordnance does bear, or lies right with the Mark. Bear up
+round, that is, put her right before the Wind. Bellage, to make fast any
+running Rope. A Birth, a place to Moore a Ship in. A Bight, any part of a Rope
+between the ends. A Boom, a long Pole to spread out the Clew of the studding
+Sail. Board and board, is when two ships touch each other. To make a Board, is
+to turn to the Windward. To Break Bulk, is to open the Hold and take out Goods.
+C.
+Cradle, is a frame of Timber made along the sides of a Ship, for safety in
+Launching. A Crab is an Engine of Wood, of three Claws, placed on the Ground,
+for the Launching of ships, or heaving them into the Docks. Clamps, are long
+thick Planks, which lie under the ends of the Beams, and Timbers of the second
+Deck, or third Deck, or Orlop. Cambering, is when a Deck lies compassing.
+Chain-wail, is a broad Timber; a little above which the Chains and Shrouds are
+fastened, to spread the Shrouds the wider. Culver-tail'd, is to let one Timber
+into another. Carlings, are Timbers lying along the Ship from Beam to Beam,
+whereon the Ledges do rest, whereunto the Planks of the Decks are fastened.
+Carling knees, are Timber coming thwart the Ship, and bears up the Deck on both
+sides. Comings, are Timbers and Planks which bears the Deck so up, that the
+Water cannot enter the Hatches. Capstain, is in the nature of a Windis, to wind,
+or weigh up the Anchors, Sails, Top-masts, Ordnance, or the like, being a great
+piece of Wood standing upright on the Deck. Comb, is a little piece of Wood
+with two holes in it, to bring the the Fore-Tacks aboard. The Catt, is a short
+piece of Timber aloft, right over the Hause, in the end whereof is a Hook and
+two Shivers, for tricing up the Anchor to the top of the Fore-Castle.
+Cubbrige-heads, wherein are placed, some things to clear the Deck. The Counter,
+is a hollow Arching betwixt the lower part of the Gallery and the Transome. The
+Compass, is so well known to every Seaman that I need not describe it.
+Catt-holes, are over the Ports right with the Capstain, to heave the Ship a
+stern by a Cable or Hawser. Calking, is beating Okum into every Seam or betwixt
+Plank and Plank. Calking, Iron is made in the form of a Chissel. Careene, is to
+make a Ship so light as she may lie upon one side in calm water, so as you may
+see her Keel. Cap, is a piece of square Timber with a round hole in it to
+receive the Topmast or Flag-staff, to keep them steady or strong.
+Crosse-Trees, are at the head of the masts, the one set into the other,
+strongly boulted with the tressel-Trees to keep up the Topmast, which are
+fastened in them. Collar, is a great Rope which comes about the Head and
+Boulsprit, the other end to the head of the Mainmast. A Cock, is the Pin which
+goes through the Block and Center of the Wheel, or Pully. Chains, are strong
+Plates of Iron, fast boulted into the Ships side, by the Chain wail.
+Catharpings, are small Ropes run in little blocks from one side of the Ship to
+the other, near the upper Deck, to keep the shrowds right. Can-hooks are two
+hooks fastened to the one end of a Rope with a noose, and serve to take in or
+out Hogsheads or other goods. Creengles, are little Ropes spliced into the
+Boul^ Ropes of all sails of Main and Foremast, to which the bowling Bridles
+are made fast, Clew-garnet, is a Rope made fast to the Clew of the Sail, and
+from thence runs in a Block to the middle of the Yard, which serves to hale up
+the Clew of the sail, and the Clew-line is the same to the Top-sail,
+Top-gallant, and Sprit-sails. The Clews of a Sail in the lower corner next the
+Sheet and Tacks. Courses, are the fore, or Main sails. Caburn, is a small line
+to make a bend of two Cables, or to sease the Tackles. Caskets, are small Ropes
+made fast to the Gromits. Cat-rope, is to hale up the Cat. Chest-rope, is added
+to the Boat rope to keep her from shearing. Canting-coins, are little pieces of
+wood made with a sharp edge to lie betwixt the Casks. Standing-coins, are pipe
+staves to make the Canting-coins fast. To Chase, is to pursue a Ship. To Cond,
+or Cun, is to guide a Ship. The Course, is that point of the Compass, on which
+the Ship sails. Cut the Sail, that is to unfurl it, and let it fall down.
+D.
+DRive Bolts, is a long piece of Iron to drive out a Tree-na^l. Decks, are the
+Floors of a Ship. A Flush Deck, is when it lies upon a straight Line fore and
+aft from stem to stern. The Daile, is a Trough wherein the water that comes
+from the Pump is conveyed out of the Ship. The David, is a short piece of
+Timber, with a notch in it for a block to lie for haling up the Anchor. A
+Drabler, is a short sail, to take off or put to the Fore-sail or Main-sail.
+Drift-sail, is only used in a Storm, veered out right a head by sheets, to keep
+her head right upon the Sea. Dead Water, is the Eddy water at the stern of the
+Ship. Disembogue, is to go out of the Mouth of a Gulf. Dispart, is to find the
+difference of Diameters of Metles, betwixt the breach and Mouth of a Cannon.
+E.
+EArings, is that part of the Buntrope, which at all the four Corners of the
+Sail is left open as it were a Ring. Entring-rope, it is tied by the Ships side
+to hold by as you go up the entering Ladder. End for End, is when the Cable
+runs clear out of the Hawse. Ease the Helm, is to let her sail to the eewar
+d.
+F.
+FAshion-pieces, are two Timbers which rises from the stern-post, to which are
+fastened all the Planks that reach to the after part of the Ship.
+Fore-lock-bolts, has an Eye at the end, wherein a cotril of Iron is driven to
+hinder it from starting back. Furling Lines, are small Lines made fast to the
+Top-sail, Top-gallant and Mizon Yard Arms. Free the Boat, is to cast out the
+water. Flook, is that part of an Anchor that does stick into the Ground. Fake,
+is one circle of any Cable when Coil'd. Fore-Top-Sail, is the uppermost Sail
+belonging to the Foremast. Fenders, are pieces of old Hawsers or Blocks hung
+about the Ship to defend her from the Key. Fore Course, is the Fore sail. A
+Fathom is six Foot.
+To Farthel or Furl a Sail, is to wrap it up close together, and tie it with
+little strings fast to the Yard. To Fish a Mast or Yard, is to fasten a piece
+of Timber or Plank to it to strengthen it, which Plank is called a Fish. To
+lower or strike the Flag, is to put it down upon the Cap, which signifies to
+Yield. To heave out the Flag is to wrap it about the Staff.
+G.
+THE Garbord, is the first Plank next to the Keel on the outside. The
+Garbord-stroke, is the first seam next the Keel. Gun-wail, is the upmost wail,
+which goes about the Ships waste at the upmost Deck. Gudgions, is an Iron work
+whereby the Tiller is hung to the Rudder. Graving, is under water, and is a
+white mixture of Tallow, Soap and Brimstone, to preserve the ships Calking, and
+make her Glib, to pass the quicker through the water. A Guy, is a Rope brought
+from the Foremast to the winding Tackle, used for the haling in or out the
+Ordnance. Goaring, is a sloaping part of a sail. A Gang, is a select Company of
+Men appointed for the Boatswain to Man the Boat. Graples or Graplings, is a
+small Anchor with four Flooks which commonly serves for a Boats Anchor. Gert,
+is when the Cable is so taut, that upon the turning of a Tide the Ship cannot go
+over it. The Ships Gauge, is so many Foot as she draws or sinks in the Water.
+The weather Gauge, is when one Ship has the wind of another, or to weather of
+her. A Loom Gale, is a little wind. One Ship Gale, away from another; in fair
+weather when there is but little wind, that Ship that Sails fastest and has
+most wind, is said to gale away. To Greave a Ship, is to bring her to lie dry a
+ground, so that you may burn off her old Filth. The Ship Gripes, that is turns
+her head more to the wind then she should.
+H.
+A Ships Hull, is the whole body of the Ship without the Rigging. The Howld, is
+the Inner-part of the Hull. Hatches, are the entrances into the Howld. The
+Hawses, are the great round Holes where the Cables go out at, under the Beak
+head. A Horse, is a rope made fast to the Foremast Shroudes and the Sprit-sail
+sheets, to keep them clear of the Anchor Flooks. Head-lines, are the Ropes that
+makes all the sails fast to the Yard. Hold water, is to stay the Boat. Hale, is
+to pull. To over Hale, is when a rope is haled too stiff, to hale it the
+contrary way to slacken it. To Hale a Ship, is to call to her company to know
+whither they are bound, and to salute a Ship with Trumpets is Hailing. Hoa, is
+whither are you bound? Hae, is what do you say, or what would you say? Fresh
+the Hawse, is to veere, or let more Cable out at the Hawse, if so be that the
+Cable which lies therein is fretted, or chaffed. Clear the Hawse, is to untwist
+two Cables that are twisted by accident. Thwart the Hawse, is when a Ship lies
+cross the Hawse, or with her stern just before another Ships Hawse. The Ship
+Heels, that is when a Ship inclines more to one side then the other. To Hitch,
+is to catch hold. Rumige the Howld, is to remove any thing therein, or to clear
+the goods. Stow the Howld, is to take goods into the Howld. Hoise up the Yards,
+is to hale up the Yards. Hulling, is when a Ship at Sea takes in all her sails.
+I.
+JVnks, are pieces of wood hung about the Ships sides to keep them from
+bruising.
+K.
+THE Keel, is the lowest Timber in the Ship, being a great Tree hewn according
+to her burden, to which all other Timber of the Ship is fastened. The Keelson,
+is another long Timber, like the Keel, which lies in the inside, fixed with
+strong Iron Bolts to the Keel through the floor Timber. Knees, are crooked
+Timbers which are bolted to the Beams, in every part of the Ship. Knights, are
+two great pieces of wood carved with the Head of a Man upon them, wherein is
+four shivers a piece, three for the Hall-yards and one for the top Rope to run
+in. Knevells, are small pieces of wood nailed to the inside of the Ship, to
+belay the sheets and Racks unto. Knettles, are two Rope yarns twisted together,
+and a knot on each end whereunto to sease a block, a rope, or the like.
+Keel-rope, is of hair to scower the Limber-holes, which they pull from stern to
+stem to keep them clean.
+L.
+THE Limber-holes, are through the Floor, Timber or Rings, thwart the Keel, to
+bring the water to the Well for the Pump. Lockers, are seats in the Cabin,
+Quarter Deck, or round House, to put any thing in. Lannier, is that which makes
+the Mainmast-stay fast to a Collar. Leefanngs, is a rope reeved into the
+Creengles of the Courses, when we would hale in the bottom of a sail to ^ash on
+a Bonnet, or take in the sail. Leech-lines, are small ropes made fast to the
+Leech of the Topsails. The Leech of a sail, is the outward part of the skirt
+of a sail, from the earing to the Clew. The Lifts, are two ropes which belong
+to all yards, arms, to make them hang higher or lower, or top the yards, as
+they call it. Legs, are small Ropes put through the bolt-ropes of the Main or
+Fore-sail, near a foot long, spliced each end into the other in the Leech of
+the sail, with a little eye whereunto the Martnets are fastened. Latchets, are
+small lines sewed in the Bonnets and Drablers, to lash or make them fast to the
+Course. Loof-hook, is a Tackle with two hooks, one to hitch into a Chingle of
+the Main, or Fore-sail in the Bolt-rope in the Leech of the sail by the Clew,
+and the other to the strap spliced to the Chesters, to put down the sail to
+ease the Tacks in a swift Gale. The Ship Labors, that is Rowls and tumbles
+much. Land-fall, is a term used when we expect to see Land. Land-locked, is
+when the land lies round about us so that no point is open to the Sea. Land-to,
+a Ship is said to lie Land-to when she is at so great a distance that you can
+only discern the Land. To Lash, is to bind. Launch a Ship, is to put her forth
+of the Dock into the Water. Launch-hoe, is when a yard is hoisted high enough,
+and is meant hoist no more. Lay the Land, is to loose sight of it. The
+Lee-shore, is that shore against which the wind blows. Have a ca^e of the
+Lee-latch, that is, take heed the Ship go not too much to the Leeward. A Ship
+lies by the Lee, that it has all her sails, lying, flat against the masts and
+shrouds.
+M.
+MAnger, is a Circle of Plank they build either before the Mainmast or Abaft,
+to keep out the water, which sometimes comes in at the Hawses in a rough Sea. A
+Made mast, a Mast greater then of one Tree. Marting, is a small untwisted line
+Well tarr'd, to sease the ends of Ropes, so that they may not untwist. Marting
+Spike, is a small piece of Iron to splice Ropes withal, or to open the
+Bolt-rope when you sew the Sail. The Main-sail, is the Great Sail or Course
+belonging to the Mainmast. The Main-top-sail, is the Sail immediately above
+that. The Mizen-sail, is the great sail of the Mizen-mast. The Mizen Top-sail,
+is next above that. A Monk-seam, is a flat seam in the sail. Set the Mizon,
+that is, fit the Mizon-sail. Change the Mizon, that is, bring the Yard to the
+other side of the Mast. Speek the Mizon, is to bring the Yard right up and down
+by the Mast Spell the Mizon, that is, let go the Sheet and Peek it up. To moor
+a Ship, is to lay out her Anchors in such manner, as she may ride most
+conveniently and safe.
+N.
+No near, is to ease the Helm, and let the ship fall to the Leeward. Nealed to,
+that is, deep Water close aboard the shore. Neap Tides, are Tides when the Moon
+is in the second or last Quarter, and are neither so high nor low as the spring
+Tides. A Ship is Beneaped, is when the Water is not high enough to bring a ship
+out of a Dock, or make her float.
+O.
+Orlop, is a Deck. Okum, is Old Ropes torn in pieces, like Tow or Furds, the
+which is beat into every seam of the ship to make her tight. Over-rigg'd, is
+when the Ropes of a ship are not sizable to her Burden. Offing, is the open
+sea from the shore, or the midst of any great stream. It Overblows, is when we
+can bear no Top-sail. An Overgrown Sea, is a great Wave or Billow. The Ship
+stands for the Offing, that is, she stands to the Sea-ward. Over-set, is
+turning over.
+P.
+Ports, are square Holes in the sides of the Ship for the Ordnance to lie out
+at, offensive or defensive. A Pump, is a boared Tree with a Sucker belonging to
+it, to suck the Water out of the Well of the Ship. The Pump sucks, is when the
+Water being out, the Pump sucks nothing but Froth and Wind. A bare Pump, is a
+little piece of Latten or Reed, to pump the Beer or Water out of the Cask. The
+Prow, is the Deck abaft the Fore-Castle. Pintels, is Hooks or Bolts that goes
+into Iron Sockets, whereby the Rudder hangs. Parsling, is a List of Canvas,
+which being well smeared with hot Pitch, poured upon, is laid all along the
+seams of the Decks. Partners, are strong Timbers bolted to the Beams incircling
+the Masts to keep them steady. The Pillow, is that Timber whereon the
+Boultspreat rests. The Puttocks, go from the Shrouds of the Masts to the Top,
+Cap, or Bowl, which is a round Timber on the head of every Mast. Parrels, are
+round Balls of Wood which go round the mast, and are fixed to the Yards, which
+make them slip up and down easy. A Parbunckle, is two Ropes that have at each
+end a Noose or Lump, that being crossed, you may set any Vessel that has but
+one head upon them, bringing the Loops over the upper end, to fix the Tackle to
+them; and you may heave them out or in as you please. Puddings, are Ropes
+nailed round the Yards Arms close to the end, to save the Robins from galling
+upon the Yards, or to put about the Anchors Ring to save the Clinch of the
+Cable from Galling. Preventer Rope, is a little rope ceased cross over the
+Ties, that if one pair of them should break, the other should not run through
+the Rams head to endanger the Yard. Port Ropes, Are these which hale up the
+Gun-ports. Pay more Cable, is when you are going out with your Anchor, you
+would have them to throw over more Cable. To pay a Seam, is to lay hot Pitch
+and Tar over a Caulked Seam. To ride a Peek, is when the Yards are so, that
+they make the Figure of St. Andrews Cross. The Capstain purchases apace, that
+is, draws in much Cable in a short time.
+Q.
+A Ships Quarter, is from the Mainmast aftward. Quoynes, are slenting pieces of
+Timber or Wedges to heighten the breach of a Cannon. Quarter-Winds, are when
+the Wind comes in abaft the main Shrouds even with the Quarter. A Quoil, is a
+Rope or Cable laid up round, one fack over another.
+R.
+Rungs, are the Floor Timbers, or ground Timbers thwart the Keel. Rungheads, is
+the bending place at the end of the Rungs. Ribs, are Arching Timbers which lie
+in the inside of the Ship whereunto the Planks are boulted, which make the
+Hold and Hull. Rising Timbers, are the Hooks, or ground Timbers, or
+Foot-Hooks, placed on the Keel. The Run, is that part of the Ship under-water,
+which grows narrower by degrees from the Floor Timbers along the stern Post.
+The Rake, is so much of a Ships Hull as hangs over both ends of the Keel.
+Riders, are great binders, which go from the Beams under the Orlop to the Keel
+in great Ships, to strengthen all. Ring-bolts, are used for the Tackle of the
+Ordnance. To raise a Deck, is to put it higher. Ramshead, is a great Block with
+three Shivers, through which are passed the Hallyards, and in a hole at the end
+of it, is reeved the Ties, belonging to the Fore-end Main-Hallyard. The Roll,
+is that through which the Whipstaff goes, which is a piece of wood the
+Steers-man holds in his hand to steer withal. The Rudder, is a great piece of
+Timber like unto a Plank, made lesser or greater according to the Ships Burden
+hung at the stern of the Ship upon Hooks and Hinges, to guide the Ship.
+Rigging, is all the Ropes or Cordage belonging to the Masts and Yards of a
+Ship. Running-Ropes, are such Ropes as run through Blocks or Pullies. Ratlings,
+are the small Ropes which go cross the Shrouds, for steps to go up the Shrouds
+upon. Robbins, are little lines reeved into the Eyelot-holes of the Sail, to
+make fast the Sail to the Yard. Rope-Yarns, are the Yarns of any Rope
+untwisted. Rudder-Rope, is reeved through the stern Post, and goes through the
+head of the Rudder; the ends whereof are spliced together, to save the Rudder,
+if it should be unhinged, or struck off the Irons. Rousing, is to pull the
+Slackness of any Rope into the Ship. Rouse-Trees, are small Timbers to bear up
+the Goarings from the half Deck to the Fore-Castle. A Reach, is the Distance
+between any two Points of Land that lie opposite to one another. To Reeve, is
+to put a Rope through a Block. Vn-reeve, is to pull a Rope out of a Block.
+Ride, is when a Ship is held fast by an Anchor, so that she does not drive. To
+ride athwart, is to ride with the Ships-side to the Tide. To ride between Wind
+and Tide, is when the Wind and Tide are contrary, and are in strength equal. A
+Road, is any place near the Land, where Ships may ride at Anchor. To Ride
+Hawse-fall, is in a Rough Sea, when the Water breaks into the Hawses. Rouse in,
+that is, hale in the Cable or Hawser.
+S.
+The Stem, is a great piece of Timber compassing and fixed into the Keel,
+whereunto all the Butt ends of the Planks foreward are fixed. The Stern Post,
+is another great Timer, which is let into the Keel at the other end. Sweep or
+Mould, is the Timber which compasses at the ground Timber, on the foot Hooks.
+Skarfing, is one piece of Wood let into another. Sleepers, are Timbers which
+are boulted strongly to the Foot-Hooks on each side the Keelsom. Spurkits, are
+the spaces betwixt the Timbers along the ship sides in all parts but them in
+the Howl below the sleepers. A Scuttle Hatch, is a little square Hole we call
+the scuttle, where but one Man can go down into the ship. Skupper-Leathers, are
+pieces of Leather nailed upon the outsides of the Skupper-holes, to keep the
+sea out, and these Holes are round the Deck, to let the Pump Water out. The
+Stearage, is a Room before the Great Cabin, where he that steareth the Ship
+stands. The Stern, is the Hind part of the ship where the Rudder is. Stays, are
+great Ropes, for staying the Masts, the Main slay is made fast by a Lannier to
+a Collar which comes round the Head and Boltsprit. A Shiver, is a little Wheel
+fixed with an Iron Pin into a Block or Pulley. Shrowds, are great Ropes which
+go up either sides of all Masts, and go through Blocks with several Holes,
+called Dead Eyes. Standing-Ropes, are the shrouds and stays, because they are
+not removed, unless it be upon extraordinary occasion. The Snap-Block, is that
+Block which is used in hoisting the Goods in or out. A Sling, is to make fast
+any Cask, Yard or Gun in a pair of Slings, which are made of a Rope spliced at
+either end into it self, with one Eye at either end, so long as to be
+sufficient to receive the Cask. Sheats, are bent to the Clews of all Sails; in
+low Sails they hale aft the Clew of the Sail, but in Top Sails, they hale them
+home, or close to the Yards Arm. Sinnet, is a string made of Rope-Yarn, platted
+in three parts, which being beat flat, it is used to sarve Ropes or Mats.
+Sarve, is when a Rope is tied round with a piece of Mat, Sinnet or Canvas, to
+save it from fretting. Seasing, is to bind fast any rope together. A seasen, is
+the Rope by which the Boat does Ride by the Ships side. Spun-yarn, is Rope-Yarn
+made small at the end, and so spun to each other. Splicing, is to let one Ropes
+End into another, so as they may be as firm as the other part of the Rope.
+Sheep-shank, is a kind of a Knot, they cast upon the runner of Tacle when it is
+too long to take in the goods, so they can shorten a rope without cutting. A
+shallop, are small Boats belonging to Great Ships. A spell, is a relief of a
+new gang for the Boat to relieve the Rowers. Shearing, is when the Boat swings
+to and again. Splice a Cable, is to fasten two ends together to add to the
+length of it. Shank-panter, is a short Chain fastened under the foremast
+shrowds, to the Ships side, and at the other end a Rope to make fast the Anchor
+to the Bow. To stop, is when you come to an Anchor and veers out your Cable.
+Studding sails, are bolts of Canvas which are extended along the side of the
+Main-Sail, the which we boom out with a Boom or long Pole. Sprit-sail, are the
+Sails of the Boult-sprit. To stow, is to put the Goods in order into the Hold.
+The Ballast shoots, is to run to one side or shift. Strike, That is when the
+Goods are down into the Hold, so as the Tackle may be made loose, they say
+strike. To sease, Is to make fast.
+The ship seals, That is when on a sudden she lies down on one side, and
+tumbles from one side to the other. The ship sends, that is, her Head or Stern
+falls deep in the Trough or Hollow of the Sea. The ship is sewed, or the Water
+is gone from her. The ship stears, or goes not strieght forward. To sound, is
+to try with a Lead and Line the depth of Water. The ship has spent her Masts,
+that is, she has lost them all by fowl Weather. Their Masts are shot by the
+Board, that is, when they are lost in a Fight. The sail is split, or blown in
+pieces. The ship spooms, that is, goes right before the Wind without Sails.
+Spring Tides, are the Tides at New and Full Moon. The Bowsprit steeves, or
+stands too Upright.
+T.
+Trunions, or Tree-nails, is Wooden Pins about a foot long, which go through
+the Planks and Ribs of the Ship, to keep them strongly together. Transome, is a
+Timber lies thwart the Stern, and does lay out the breadth of the Ship at the
+Buttocks. The Tiller, is a strong piece of Wood made fast to the Rudder.
+Tauntmasted, is when a Ship is over masted, so that she labors too much a
+Hull. The Trestel-trees, are bolted into the Cross Trees at the Head of the
+Mast, to keep in the Top Mast which are fastened in them. Tawt the shrowds or
+stay, is when they are over slack to make them stiffer. The Ties, are the Ropes
+by which the Yards do hang. The Tackles, are ropes run in three parts with two
+blocks, one whereof has a Hook to heave any thing in or out of the Ship. Tacks,
+are great Ropes which bring forward the Clew of the Sail to make it stand fast
+by a Wind. Tarpawling, is a piece of Tarr'd Canvass, to cover the Hoops in the
+stern of a Boat in Wet Weather. Thoughts, are the Seats whereon the Rowers sit.
+Thowls, are small Pins put into the side of the Boat, to bear the Oars when
+they Row. Trim the Boat, is to keep her straight. Top-Gallant-sail, is the sail
+of the Mast next the ship stern. Trench the Ballast, that is to Divide it to
+find the Lake. Tack about, that is to bring the ships Head about to lie the
+other way. Talle off the sheets, that is, hale off the sheats of the main Sail.
+A Windward Tide, is when the Wind and Tide is contrary. A Tide-Gate, is when
+the Tide runs strong. To Tide it up, is to go with Tide against the Wind. To
+Tow, is to drag any thing after the Ship. To Traverse, is the Ships way.
+V.
+To Veer, is to let out more Rope. Vea, Vea, Vea, is a term when they pull all
+strongly together.
+W.
+Whoodings, are Planks fastened into the Ships stern. Whelps, are short pieces
+of Wood made fast to the Capstain, to keep the Cable from coming too high in
+turning about. The Winds, is a piece of Timber like a Role, which is forced
+about with Hand-spakes in small Ships, and performs the same as Capstain. The
+Wast, is that part of the Ship betwixt the Mainmast and the Fore-Castle. The
+Whip-staff, is that which the steers-man holds in his hand to steer by. Wind
+the Boat, is to bring her Head the other way. The Wast-Cloaths, is a long red
+Cloth edged on each side with Calico, that goes round about the Ship, when
+she is engaged in a Fight. The ship is Walt, that is wants Ballast. To Weather
+a ship, is to go to Windward of her. To Wind a ship, is to bring her Head
+about. How Winds the ship, is what point of the Compass does she lie with her
+Head. To Would, is to bind Ropes about a Mast.
+Y.
+The ship yaws, that is, goes in and out and does not stear steady. Yonkers,
+are the young Foremast Men. Beyare at the Helm, that is, be careful at the
+Helm.
+An Exact List of the Royal Navy of England, with the number of their Men and
+Guns.
+First RATES. Men. Guns. St. Andrew. 730 96 Brittannia 780 100 Royal Charles
+780 100 London 730 96 Royal Sovereign 815 100 Royal William 780 100 Victory 780
+100 Second RATES. Albemarle 660 90 Duke 660 90 Duchess 660 90 St. George 710
+96 Royal Katherine 540 82 St. Michael 660 90 Neptune 660 90 Ossery 660 90
+Sandwich 660 90 Vanguard 660 90 Third RATES. Berwick 460 70 Burford 460 70
+Boyne 490 80 Captain 460 70 Cambrige Rebuilt 420 70 Cornwall 490 80 Devonshire
+490 80 Defiance 400 64 Dunkirk 270 52 Dreadnaught 365 64 Edgar 445 72 Eagle 460
+70 Essex 460 70 Expedition 460 70 Elizabeth 460 70 Grafton 460 70 Hampton Court
+460 70 Kent 460 70 Lennox 460 70 Lion 270 52 Monk 270 52 Mary 280 54 Monmouth
+320 58 Mountague 355 62 Northumberland 460 70 Royal Oak 470 74 Plymouth 340 60
+Restoration 460 70 Resolution 345 60 Rupert 400 66 Russel 490 80 Sterling
+Castle 460 70 Swift-sure 420 70 Warspight 420 70 York 340 60 Humber 490 80
+Norfolk 490 80 Sussex 490 80 Fourth RATES. Advice 200 42 Assistance 230 48 St.
+Albans 280 50 Bonadventure 230 48 Bristol 230 42 Crown 250 48 Chatham 240 44
+Centurion 230 48 Chester 200 42 Dragon 185 40 Debtford 280 50 Dover 230 48
+Foresight 230 48 Greenwich 280 54 Hampshire 220 40 Kings-Fisher 220 40 New
+Castle 280 54 Norwich 200 42 Oxford 280 54 Reserve 200 42 Tiger 200 42 Tiger
+Prize 200 40 Woolwich 240 46 Rochester 230 48 Carlisle 355 60 Portland 240 48
+Winchester 355 60 Southampton 230 48 Falmouth 230 48 Dartmouth Rebuilt 230 48
+Weymouth 230 48 Medway 355 60 Fifth RATES. Assurance 180 42 Adventure 190 44
+Conception Prize 115 32 Charles Galley 180 32 Dolphin 115 26 Experiment 115 32
+Guernsey 110 28 Guardland 130 30 James Galley 160 32 Mary Galley 160 34 Mermaid
+115 32 Pembrook 115 32 Play Prize 130 30 Portsmouth 135 32 Richmond 125 28
+Sapphire 135 32 Sheerness 135 32 Sweepstakes 180 42 Soldadoes Prize 180 40
+Virgin Prize 135 32 Lyme 135 32 Sixth RATES. St. Albans Prize 90 18 Discovery
+35 6 Dispatch 35 8 Fanfan Godwin Prize 35 6 Gernoon Packet boat 40 14 Greyhound
+75 16 Henrys Prize 65 16 Lark 70 16 Julian Prize 65 16 St. Martins Prize 100 24
+Soldadoes 75 16 Sally Rose 80 22 Swift 80 20 Shark 30 Wild 45 12 Rupert Prize
+85 18 Pearl Prize 65 18 Swallow Prize 75 18 Mariana 85 18 Diligence Brigantine
+35 8 Spy Brigantine 35 8 Adventure Prize 10 FIRESHIPS. Charles 20 6 Cignett 25
+8 Etna 45 8 Eagle 45 12 Flame 45 8 Griffin 45 8 Hunter 45 8 Hawk 45 8 Lightning
+45 8 Owners Love. 40 10 St. Paul 45 10 Roe buck 45 8 Rose 45 10 Speedwell 45 8
+Strumbolo 45 8 Vulture 45 8 Vulcan 45 8 Vesuvius 45 8 St. Vincent 40 8 Machine
+50 12 Joseph 45 8 Crescent 45 8 Fortune 45 8 Bomb-Vessels. Salamander 35 10
+Phoenix 20 8 Fire Drake Granado Serpent Mortar Ketches. Albrough 40 10 Eaglet 50
+10 Hind 50 10 Providence Quaker 50 10 Roe 50 10 Yachts. Charlotte 30 8
+Cleaveland Fubbs 40 12 Henrietta 30 8 Isabella 45 10 Isle of Wight 6 4 Jemmy 5
+Kitchen Bomb 30 8 Katherine 30 8 Martine 30 8 Monmouth 40 8 Mary 30 8 Navy 35 8
+Portsmouth Sloop 60 16 Queenborough 4 Poezdyke 35 8
+
+Hoys.
+Delight Lighten Mary Gold Nonsuch Sophia Supply Transporter Unity
+Smacks.
+Royal Escape Little London Sheerness Flemish Longboat
+Hulks.
+Arms of Horn Arms of Roterdam French Ruby St. George Two Tow-boats Leopard
+Puntoon Plymouth Tow-Engine Magdalen Prize St. David
+Store-Ships.
+Men. Guns. Canterbury 35 8 Success Fifth Kathr. 30 6
+
+Rules to be observed in the Payment of the NAVY.
+Flagg-Officers. Double Pay in time of War. Captains. Double Pay in time of
+War. Lieutenents. Double Pay in time of War. Masters. Double Pay in time of
+War. Chyrurgeons. Double Pay in time of War.
+Flagg Officers. Shall receive single Pay in time of peace. Captains of 1, 2,
+3, 4, 5th. Rates and Fireships. Shall receive single Pay in time of peace.
+Lieutenants of 1, 2, and 3, Rates. That has served a Year or in one
+Engagement. Shall receive single Pay in time of peace. Masters of 1, 2, and 3d.
+Rates. That has served a Year or in one Engagement. Shall receive single Pay
+in time of peace.
+These Officers are to attend his Majesty's Service, and their Sallery will be
+paid Quarterly, otherwise they lose the Benefit thereof.
+
+An Exact Table of each Officers pay by Month in each Rank of Ship belonging to
+the Royal Navy of England, from a Captain to an Armourer.
+Officers. 1. Rate. 2. Rate. 3d. Rate. 4th Rate. 5th. Rate. 6th. Rate. Captain
+pr. Day. 1 10 0 1 4 0 1 0 0 0 15 0 0 12 0 0 10 0 Lieutenant pr. Day. 0 6 0 0 6
+0 0 5 0 0 5 0 Master pr. Month. 14 6 0 12 12 0 9 7 4 8 12 4 7 15 0 C. is mast.
+Boatswain. 4 0 0 3 10 0 3 0 0 2 10 0 2 5 0 2 0 0 Gunner. 4 0 0 3 10 0 3 0 0 2
+10 0 2 5 0 2 0 0 Carpenter. 4 0 0 3 10 0 3 0 0 2 10 0 2 5 0 2 0 0 Purser. 4 0 0
+3 10 0 3 0 0 2 10 0 2 5 0 2 0 0 Chyrurgion. 5 0 0 5 0 0 5 0 0 5 0 0 5 0 0 5 0 0
+Mast. Mate and Pilot. 3 6 0 3 0 0 2 16 2 2 7 10 2 2 0 2 2 0 Quartermaster. 1
+15 0 1 15 0 1 12 0 1 10 0 1 8 0 1 6 0 Quarter-mast. Mate. 1 10 0 1 10 0 1 8 0 1
+8 0 1 6 0 1 5 0 Boatswains Mate. 1 15 0 1 15 0 1 12 0 1 10 0 1 8 0 1 6 0 Yeomen
+of sheets. 1 12 0 1 10 0 1 8 0 1 8 0 Gunners mate. 1 15 0 1 15 0 1 12 0 1 10 0
+1 8 0 1 6 0 Quarter Gunner. 1 6 0 1 06 0 1 5 0 1 5 0 1 5 0 1 5 0 Carpenters
+mate. 2 0 0 2 0 0 1 16 0 1 14 0 1 12 0 1 10 0 Ordinary or Crew. 1 6 0 1 6 0 1 5
+0 1 5 0 1 5 0 1 5 0 Chyrurgions mate 1 10 0 1 10 0 1 10 0 1 10 0 ^ 10 0 1 10 0
+Steward. 1 5 0 1 5 0 1 5 0 1 3 4 ^ 0 8 1 0 0 Stewards mate. 1 0 8 1 0 8 1 0 8 1
+0 8 Midship-men. 2 5 0 2 0 0 1 17 6 1 13 9 1 10 0 1 10 0 Corporal. 1 15 0 1 12
+0 1 10 0 1 10 0 1 8 0 1 5 0 Coxswain. 1 12 0 1 10 0 1 8 0 1 8 0 1 6 0
+Trumpeter. 1 10 0 1 8 0 1 5 0 1 5 0 1 5 0 1 4 0 Cook. 1 5 0 1 5 0 1 5 0 1 5 0 1
+5 0 1 4 0 Armourer. 1 5 0 1 5 0 1 5 0 1 5 0
+
+An exact Pay Table for Masters, Gunners, Carpenters, Boatswains, Pursers and
+Chyrurgions, from one day to six, and for all Rates of Ships belonging to the
+Royal Navy. Note, That the Chyrurgion has alike Pay in all ships.
+First Rate. 1. day. 2. days. 3. days. 4. days. 0 10 0 1 0 0 1 10 0 2 0 0 0 2
+10 0 5 8 0 8 6 0 11 4 0 3 6 0 7 2 0 10 8 0 14 4 Second Rate. 0 9 0 0 18 0 1 7 0
+1 16 0 0 2 6 0 5 0 0 7 6 0 10 0
+
+Yeoman of Powder. Of Each Rate has 1 l. 4. s. per month. Cooks mate. Of Each
+Rate has 1 l. 4. s. per month. Cockswains mate. Of Each Rate has 1 l. 4. s.
+per month. Swaber. Of Each Rate has 1 l. 4. s. per month. Cooper. Of Each Rate
+has 1 l. 4. s. per month. Able Seamen. Of Each Rate has 1 l. 4. s per month.
+Ordinary Seamen. of each rate has 0 19 s. 0 pr. month Shifter. of each rate
+has 0 19 s. 0 pr. month Barber. of each rate has 0 19 s. 0 pr. month
+First Rate. 5 days. 6 days. 2 10 0 3 0 0 Master. Gunner. Carpenter. Boatswain.
+Purser. Chyrurgion.
+0 14 2 0 17 0 0 17 10 1 1 6 A Second Rate. 2 5 0 2 14 0 Master. Gunner.
+Carpenter. Boatswain. Purser.
+0 12 6 0 15 0 Third Rate. 1 day. 2 days. 3 days. 4 days. 0 6 8 0 13 4 1 0 0 1
+6 8 0 2 0 0 4 3 0 6 4 0 8 6 Fourth Rate. 0 6 0 0 12 2 0 18 4 1 4 6 0 1 9 0 3 6
+0 5 4 0 7 1 Fifth Rate. 0 5 8 0 11 4 0 4 0 1 2 10 0 1 8 0 3 2 0 4 9 0 6 9 Sixth
+Rate. 0 5 6 0 11 0 0 16 6 1 2 0 1 5 0 2 10 0 4 3 0 5 8
+
+Third Rate. 5 days. 6 days. 1 13 4 2 0 0 Master. Gunner. Carpenter. Boatswain.
+Purser.
+0 10 8 0 12 9 Fourth Rate. 1 10 8 1 16 10 Master. Gunner. Carpenter.
+Boatswain. Purser.
+0 8 11 0 10 8 Fifth Rate. 1 8 6 1 14 2 Master. Gunner. Carpenter. Boatswain.
+Purser.
+0 8 0 0 9 7 Sixth Rate. 0 7 8 1 13 4 Master. Gunner. Carpenter. Boatswain.
+Purser.
+0 7 1 0 8 6
+
+First Rate. 1 week. 2 weeks. 3 weeks. 1 Month. 3 10 0 7 0 0 10 10 0 14 0 0 1 0
+0 2 0 0 3 0 0 4 0 0 1 5 0 2 10 0 3 15 0 5 0 0 Second Rate. 3 3 0 6 6 0 9 9 0 12
+12 0 0 17 6 1 15 0 2 12 6 3 10 0 Third Rate. 2 6 10 4 13 8 7 0 6 9 7 4 0 15 0 1
+10 0 2 5 0 3 0 0 Fourth Rate. 2 3 1 4 6 2 6 9 3 8 12 4 0 12 6 1 5 0 1 17 6 2 10
+0
+
+(...) Goods taken are perishable, in which Case the said Judge shall take Bail
+for such Goods in order to the Sail thereof, as he might have done before the
+making this Act, yet so as to be subject to such manner of Sail and
+Distribution as is particularly provided by this Act.
+
+And be it further Enacted, That as soon as conveniently may be, after the said
+Goods, Merchandises, or other things, shall be adjudged Prize, and Landed, as
+aforesaid, the same shall be by the Commissioners for Prizes, or their Officers
+or Agents, in the presence of such Persons as shall be entrusted by the
+Commissioners of the Customs, and by the Owners, Officers, and Mariners of such
+Ship of War, publicly and openly Sold by Inch of Candle to the best Advantage
+(public Notice being first given by the space of Fourteen Days at the Market
+Cross, or other most public place of the said Port, as also upon the Exchange
+in the Port of London, of the Quantity or Quality of the Goods, Merchandises
+and Things to be Sold, and of the Time and Place of Sale.
+
+And be it further Enacted, That out of the Proceed of such Sail, the Subsidy
+of Tonnage and Poundage, and all other duties and Impositions payable to Their
+Majesty's for such Goods, Merchandises and Things, shall be deducted and
+Answered to Their Majesty's, and the Neat Proceed of the said Sale, after such
+Deductions in Cafe where such Prize was taken by any Private Man of War, shall
+be divided into five Parts, of which four Parts shall be answered and paid to
+the Persons interested in the Privateer or Privateers which took the said
+Prize, and the other fifth Part shall be answered and paid to Their Majesty's,
+Their Heirs and Successors; And in case any such Prize was taken by any Private
+Man of War, the Ship or Vessel so Surprised or Taken as Prize, and all the
+Arms, Ammunition, Tackle, Cables, Anchors, Sails, and Furniture thereof, shall
+be Had, Taken, and enjoyed by the Persons Interested in the Private Man of War
+which took the same; And in case such Prize was taken by any of Their Majesty's
+Ships of War, the said Near Proceed thereof, after such Sale, as aforesaid, and
+after the Duties and Impositions payable to Their Majesty's Deducted, as
+aforesaid, shall be divided into three equal Parts, One Third Part whereof
+shall be answered and paid to the Commander or Captain, Mariners and Seamen
+surprising and taking the same, to be disturbed according to the usual Custom
+of the Sea for Sharing of Prizes, or such Declarations or Orders as have been,
+or shall be made by Their Majesty's in that behalf.
+
+Provided, that one third Part thereof shall be distributed amongst the Ships
+Crew, one third Part to be paid to the Treasurer of Their Majesty's Navy, for
+relief of Sick and Wounded Mariners and Seamen, and the Widows, Children, and
+Impotent Parents of Presons slain in their Majesty's service at Sea, and the
+other third Part to the use of their Majesty's, their Heirs and Successors; And
+in case such Prize was taken by any Merchant Ship or Ships employed in their
+Majesty's service, the Neat Proceed thereof after such Sale, as aforesaid, and
+after the Duties, Impositions, and Customs to their Majesty's deducted, as
+aforesaid, shall be divided into three equal Parts, one third part to be
+answered and paid to the Captain Officers, Mariners and Seamen surprising and
+taking the same, one third Part to the use of their Majesty's, their Heirs and
+Successors, and the other third Part shall be paid to the Treasurer of their
+Majesty's Navy for the time being, to be disposed of for the purposes aforesaid.
+
+Provided always, and be it enacted, that if any Captains, or other Officers,
+Mariners or Seamen, who shall take such Prize or Prizes, as aforesaid, shall
+Imbezel, Purloine, Conceal, or Convey away, or put on shore, or cause or
+procure to be Imbezled, Purloined, Concealed or Conveyed away, or put on Shore
+any part or parcel of such Goods or Marchandizes in any place whatsoever, other
+then their Majesty's Warehouses of the said Ports, as aforesaid, such Person so
+offending shall forfeit and loose the whole share, benefit and Advantage which
+otherwise he might or ought to have had in the Prize, whereof the Goods and
+Merchandises so Imbezelled, Concealed or Conveyed away, or put on shore, were
+part or parcel, upon proof, thereof made, by one or more Witnesses upon Oath,
+before the Commissioners of the Customs in the Port of London (if such Goods
+and Merchandises shall be so Imbezelled or put on shore in the said Port, or in
+any place within the view or knowledge of any of the Officers of their
+Majesty's Customs belonging to the Port of London) and before the Chief
+Magistrate of the place, in the presence of the Chief Officer of the Port, in
+any other Port where such Prize Goods shall be Imported, which Oath the said
+Commissioners of Customs in the Port of London, and the Chief Majestrate
+respectively, are hereby Required and Empowered to Administer, and to Hear and
+Determine the said matter without delay. And one Moiety of the said Wares and
+Merchandises shall be to the use of the Informer, and shall be delivered to him
+by Warrant of the said Commissioners of the Customs in the Port of London or of
+the Chief Magistrate of the place, Signed and Sealed in the presence of the
+Chief Officer of the Customs in such Port respectively, and the other Moiety
+shall be to the use of their Majesty's, Their Heirs and Successors.
+
+And it is hereby further Enacted, That any Person, Seamen or other, concerned
+in any Prize, shall and may at any seasonable time be permitted to see and
+pursue the Accounts of any Prize, that he or they may be satisfied whether the
+shares have been rightly Distributed, and the Commissioners for Prizes, and
+their Officers, are hereby Required to show or cause to be shown unto such
+Person or Persons such Accounts for their perusal, and to take no more Fee or
+Reward for the same, then One Shilling for one Account at one time.
+
+And for the better Encouragment of Officers, Seamen and Mariners, to unno the
+Enemy, and to attempt, and take or destroy Ships of War, and of force belonging
+to the Enemy: Be it further enacted, That in case any of their Majesty's Ships
+of War, or any private Man of War, shall take in Fight as Prize, or shall sink,
+fire, or by any other means destroy any Ship of War, or any private Man of War
+belonging to t e French King or his Subjects, or in the service of the French
+King, they shall receive and have as a reward for such service, for each piece
+of Ordnance, whether Iron or Brass, in any such ship of War, or private Man of
+War so ta^en or destroyed, Ten pounds, to be paid by the Commissioners for
+Prizes, out of their Majesty's share of Prizes.
+
+At the Count at White Hall the 15th. of December 1692.
+UPon reading this day at the Board a Report from the Right Honorable the
+Commissioners for executing the Office of Lord High Admiral of England, setting
+forth, That for the encouragement of the Commanders, Officers and Seamen,
+serving in their Majesty's Ships, his Majesty will be graciously pleased of his
+Royal Bounty, to grant unto them for their own use and benefit all Privateers
+of the Enemy which shall be taken by them, together with their Tackle, Apparel,
+Furniture and Lading, the same to be by them disposed of for their best
+advantage, and the Proceed thereof distributed to the Commanders, Officers, and
+Seamen on board their Majesty's Ships, which shall take the said Privateers,
+according to the Proportions following, viz.
+
+To the Captain -- Parts. To the Lieutenant and Mast. Part. Boatswain part to
+be equally divided. Gunner part to be equally divided. Purser part to be
+equally divided. Carpenter part to be equally divided. Mast. Mates part to be
+equally divided. Chirurg. and Chaplain part to be equally divided. Midshipmen.
+Part to be Equally Divided. Carpenters Mates. Part to be Equally Divided.
+Boatswains Mates. Part to be Equally Divided. Gunners mates. Part to be Equally
+Divided. Corporal. Part to be Equally Divided. Yeomen of the Sheets. Part to be
+Equally Divided. Coxwain. Part to be Equally Divided. Quarter masters. Part to
+be Equally Divided. Ditto, mates. Part to be Equally Divided. Surgeons
+mates. Part to be Equally Divided. Yeomen of the Powder-Room. Part to be
+Equally Divided. Trumpeter. 2/8 Parts to be Equally Divided. Quarter Gunner.
+2/8 Parts to be Equally Divided. Carpenters Crew. 2/8 Parts to be Equally
+Divided. Steward. 2/8 Parts to be Equally Divided. Cook. 2/8 Parts to be
+Equally Divided. Armorer. 2/8 Parts to be Equally Divided. Stewards mates. 2/8
+Parts to be Equally Divided. Cooks mates 2/8 Parts to be Equally Divided.
+Gunsmith. 2/8 Parts to be Equally Divided. Cooper. 2/8 Parts to be Equally
+Divided. Swabber. 2/8 Parts to be Equally Divided. Ordinary Trumpeters. 2/8
+Parts to be Equally Divided. Barber. 2/8 Parts to be Equally Divided. Able
+Seamen. 2/8 Parts to be Equally Divided. Ordinary Seamen. 2/8 Parts to be
+Equally Divided.
+And that the Widow or nearest Relation (if no Widow left) of any person slain
+in taking any such Privateers, shall be allowed the like share, as the Person
+slain ought to have had according to the quality in which he served. Dated at
+the Admiralty Office the 15th Day of December, 1692.
+
+His Majesty in Council was graciously pleased to Approve of the said Report,
+and to Order as it is hereby Ordered, That the said Commissioners of the
+Admiralty, do give all necessary Directions and Orders therein Accordingly.
+
+The Third part of any Prize belonging to the Ships Company, subdivided into
+shares, according to the Custom of the Navy, thus, The Captain. 10 shares The
+Lieutenant and Master. 8 sh. each. The Mates. 6 shares each. Chyrurgion. 6
+shares each. Gunner. 6 shares each. Boatswain. 6 shares each. Carpenter. 6
+shares each. Trumpeter. 5 shares each. Quarter Masters. 5 shares each. Cooper.
+5 shares each. Chyrurgeons mate. 5 shares each. Gunners mate. 5 shares each.
+Carpenters mate. 5 shares each. Corporal. 4 shares each. Quarter Gunner. 4
+shares each. Steward. 4 shares each. Cook. 4 shares each. Coxswain. 4 shares
+each.
+
+
+The Foremast or Mid-mast men according to their deserts, some 3, and some 2
+and a half, and the Boys a single sh^^^* The Captain has power to take a whole
+or half share from one, and give to another, as he finds they deserve.
+
+A Guide to Pursers and Stewards Belonging to the NAVY, Wherein is set down The
+King's Allowance of Victuals for every day in the Week, with directions how to
+make up his Accounts, and what methods to use; so that he may discharge his
+Duty to the King, as well as to the Seamen.
+To cast up a Proportion of Sea Victuals for 40 Men 112 Days.
+40 Men. 112 Days. 80 40 40) 4480 1/7) 4480 640 3) 1920 240 2 480 pounds of
+bread and gallons of beer; which divide by 7, gives the number of 4 pound
+pieces, of beef, and 2 ll. pieces of pork, and quarts of Peese, which
+multiplied by 3, and divided by 8, gives 240 sized Fish (or Gallons of
+Oat-meal) and pounds of butter, which multiplied by 2, gives pounds of Cheese.
+
+Account of what Victuals one man is allowed for every day in one Week.
+Sun. Mun. Tues Wed Thu. Fry. Sat. Tot Bisquet Pounds 1 1 1 1 1 1 1 7 Beer
+Gallons 1 1 1 1 1 1 1 7 Beef Pounds 2 2 4 Pork Pounds 1 1 2 Pease Pints. 2 Fish
+Sized. Butter Ounces. 2 2 2 6 Cheese ounces. 4 4 4 12
+
+Note, That for Fish they give Oatmeal.
+
+Multiply the Number of Men by the number of days you are to Victual, and that
+gives the number of pounds of Bread or Biscuit. Then for Beer, divide by 60 the
+number of Gallons in a Hogshead, and that divide by 4, gives the number of
+Tuns: As for Example, 112 Days. 40 Men. 60) 4480 (74 Hogsh. and 40 Gallons,
+which divide by 4, gives) 74 (18 Tuns, and 2 Hogsheads, and 40 Gallons.
+
+Then for your 4480 pounds of Bread, divide by 7 Four Pound pieces of Beef, and
+2 Pound pieces of Pork, and Quarts of Pease (1/7) 4480 (640
+
+Then for your 640 Quarts of Pease, divide by makes Gallons, and your Gallons
+divided by 8, makes Bushels.
+
+Then for your 640 Quarts of Pease, multiply by 3, and divide by 8, and it
+gives you the sized Fish, or in lieu thereof as many Gallons of Oat-meal.
+
+Then for 240 Sized Fish, there is also as many Pounds of Butter.
+
+Then for 240 pounds of Butter, twice so many pounds of Cheese.
+
+Upon the passing your Account, you will be allowed a Tun of Cask per month for
+Water, and 3 Biscuit Baggs for a 4th. Rate; for Iron Hoops small Allowance.
+
+Have a care to deduct your part as well of Beer, Pease and Oatmeal by measure,
+as of Butter, Cheese and Bread by weight, to make good your waste, for none
+dare dispute it without detriment.
+
+If you have any Provisions to spare, or your Eights in England, the Victualler
+pays, viz.
+
+For Bread 1 d. per pound. Beer 28 shill. per Tun. Beef 8 d. per Piece. Pork 5
+d. per Piece. Pease 2 shill. 6 d. per Bush. Oatmeal 4 shill. per Bushel. Butter
+3 d. d. per pound. Cheese 1 d. s. per pound.
+
+But what they do to the Southward I don't know.
+
+If your Men have any Provisions to spare that is due, besure not to refuse the
+buying of it, at such Rates as Money is to be got by it; as Bread at 5 s. 6 d.
+per Cent. 112 ll. to the 100; but have a care to reduce it to 16 Ounces to the
+pound. Beef and Pork at 4 d. per piece, which will turn to account. If you
+spend Oatmeal, besure not to buy your Men out of it, for that will be loss to
+you; but if you are to pay first Money, you will receive 9 d. per Month, which
+you may buy for 6 d. if you let them have Money beforehand.
+
+After you have Victualled and Indented, you must set it down in your Book for
+that purpose, and keep your Debtors part together, that you may give a due
+charge to the Surveyor of Victualling, when you come to pass your Account.
+
+Provisions you will receive sometimes, which must always be charged to your
+Debtors part, as also Provisions borrowed from other Ships.
+
+Victualling other Ships Men must be kept an account of, with their true names
+and time of beginning and ending, and by what order Victuall'd; so that you may
+discount it with the Purser of that Ship, either by Victuals back, or by
+Receipts, or Money paid you for it.
+
+At all times be careful, and stave no more Casks then necessity requires; for
+the King pays 5 shill. per Tun for Cooperage, besides what you do your self;
+for you will rarely find the number of Staves in any Cask, which you must
+deliver to Tunnage, namely 28 But-Staves to a Butt, 26 to a Punchion, 24 to a
+Hogshead, and 22 to a Barrel. And note, that two Pieces of single heading makes
+a Stave, as well Cantle pieces as Middle pieces.
+
+Men will urge you to scuttle Beef, Pork, Pease, Oatmeal, if you will be ruled by
+them, but you are sure to pay for all your scuttled 4 d. per Butt, 3 d. per
+Punchion, 3 d. per Hogshead, and 2 d. per Barrel Staves per piece, which avoid
+as often as you can.
+
+Keep your Cheque book going, and let not a Muster be made without your self or
+Steward, to prevent your Victualling of Men in your own wrong, when pricked by
+the Clerk of the Cheque; for do not fancy that these stand for a Cipher, for
+they will out you of all your Provisions.
+
+You are allowed 6 d. a Man per month necessary Money, with which you are to buy
+Wood, Candles and Turnery-ware.
+
+Your Lading Charges is 2 shill. per mensem. Your Adds Money -- 3 shill. 4 d.
+per Month. You are Allowed 4 d. per Tun of drawage of the whole Provisions of
+Beer, all which the Victualler will pay you when you Indent.
+
+You are allowed 8 d. per Man a month Extra-necessary Money, which you are to
+receive when you Indent.
+
+If you indent for a proportion of Men under 60, then you are allowed 9 d. a
+man a month, but no Adds-mony.
+
+Your under Gauge is according to what your Cask holds, viz.
+
+A Butt 108 Gallons. Punchion 72 Hogsh. 54 Barrel 36
+
+According to the Gauge, and what is less than there is under Gauge, and what
+is wanting of your Gauge, the Victualler will allow for it after the rate of 30
+shill. per Tun, and sometimes 28 shill.
+
+Take the Account of the under Gauge as follows, Admit I was to take in 40
+Butts or more, set down the number gradually 1, 2, 3, 4, etc. and so to 40, and
+set the mark on the Head against the Number, then add up all together, and
+divide the Total by 216, and the Quotient is Tuns.
+
+If you take in Cheshire Cheese for Suffolk, you must allow 3 ll. of Suffolk
+for 2 pound of Cheshire.
+
+If you take in Flower and Currents for Beef, and for Pork and Pease; you must
+have 3 pounds of Flower and half a pound of Currents for a piece of Beef, and
+piece of Pork and Pease.
+
+All this you deliver by weight or measure; you must keep back the 8th. part
+for Waste; you must take care that the weight be made after the rate of 14
+Ounces to the pound, and that measure is 7 Pints to the Gallon.
+
+If at any time you deliver to any other Ship, any proportion of Cask Bags or
+Iron Hoops, take a Receipt for the same, specifying the particulars in words at
+length, and deliver none without an order from your Commander, and take a
+Receipt for the same.
+
+If you go into any Harbor in the time of your Voyage, and enter into petty
+Warrant, you are to specify in your Sea-Book the ending of Sea Victuals, and
+the beginning of Petty Warrant; and the ending of the same, and beginning of
+Sea Victuals.
+
+In Petty Warrant you are allowed 12 d. a man per month necessary Money, but
+not Adds Money, Lading Charges and Drawage.
+
+When you receive any Warrants from the Clerk of the Cheque for Victualling, be
+sure (before you give it the Victualler) take a Copy of them, that you may know
+by casting up your Warrants, what they amount to.
+
+You must be sure to return your Cask and Biscuit Baggs, for they will make you
+pay 20 shill. per Tun for Cask, and 12 d. for each Bagg.
+
+When you cast your Petty Warrant up, you are not to cast after the manner you
+cast your Sea-Victuals; but you must take a particular Account how many Fish
+Days and how many Flesh Days there are in that Warrant; so many pieces of Pork,
+Quarts of Pease; Flesh-Days a piece of Pork, a piece of Beef, one 8th. part of
+Sized Fish, 2 ounces of Butter, and a quarter of a pound of Cheese, Bread, and
+Beer as above.
+
+In Petty Warrant, you have 2 pound Loaves, and each man to have the half of it
+a day; when you make up your Petty Warrant account, make your self Debtor and
+Creditor, as follows, that is, Debtor on the left hand to all Provisions
+received, with Cask, Iron-Hoops and Bags, and on the right Hand Creditor, by
+what your Petty Warrant amounts to, and by Cask, Iron-hoops, and Biscuit Baggs
+returned.
+
+A Table of Coins, with their common value, in English Money at 5 s 2 d. per
+ounce Sterling. The Coins of Germany, Italy, Spain, etc.
+ll. s. d. The Florin of Francfort. 0 4 11 The Hamburg Dollar. 0 3 2 The
+Lunenourg Dollar. 0 4 2 The Polish Guilder of 60 Creuzners. 0 4 2 The Riga
+Dollar. 0 4 8 The 60 Creutzners piece of Basil 0 4 2 The Brisgan Dollar. 0 4 2
+The Teaston of Bern, Friburg and Lucern. 0 1 4 The Teaston of Mantua, Ferata,
+Savoy, etc. 0 1 4 The Teaston of Portugal, Lorain, Geneva 0 1 6 The Spanish and
+Navarre Teston. 0 1 8 The Spanish Ryal. 0 0 7 The Italian Ryal. 0 0 7 The piece
+of Eight Ryals of Spain. 0 4 8 The pieces of Eight made at Mexico. 0 4 8 The
+Milzee of Portugal. 0 6 0 The Chequeen of Venice. 0 9 6 The Spanish Ducat. 0 4
+6 The Ducat of Valentia. 0 4 6 The Portugueze Cruzate 0 4 0 The Venetian Ducat,
+0 4 6 The Ducat of Rome. 0 5 6 The Ducat of Messina. 0 4 9 The Ducat of
+Palermo. 0 4 10 The Ducat of Napels. 0 4 8 The Crown of Gold of Genoua. 0 5 5
+The Crown of Gold at Millan. 0 5 5 The Crown at Florence 0 5 1 The Piece of
+Eght at Leghorn 0 4 10 The Ducatoon of Lucca. 0 4 6
+
+French Money.
+The Crown containing 60 Solz. 0 4 6 The Livre, or Florin containing 20 Sols. 0
+1 6 The Pistol or Lew. d'Or cont. 12 Livres 0 17 6 The Lewis d'Or. value 7
+Livres 10 Sols. 0 11 0 The Crown of G. val. 5 Livres 14 Sols 0 8 6
+
+The Flanders and Nether-Lands money.
+The pound Flemish contains 20 Schellings 38 or 40 whereof formerly went to a
+pound sterling. The Schelling contains 6 Stuyvers, and 20 Stuyvers one Guilder,
+which is in value. 0:1:10 The Pattackon is two Guilders 0 3 8 The Duckatoon is
+3 Guilders 0 5 9 The Schelling is 6 Stuyvers. 0 0 6
+
+Coins of Holland and the other Provinces of the States.
+The Ducatoon 3 Guilders 3 Styvers 0 5 9 The piece of 3 Guilders 0 5 6 The Rix
+Dollar Contains 50 Stuyvers 0 4 7 The Dollar contains 30 Stuyvers. 0 2 9 The
+Guilder contains twenty Stuyver 0 1 10 The Schelling is 6 Stuyvers. 0 0 6
+
+Coins of Scotland.
+Two Pennies is the 6th part of a penny English. A Plack is the one third of a
+penny. A Baabee is the half of a penny. An Atchison or 8 pennies is half a
+penny. A forty penny piece is 3 pence, and half a penny. Half a Mark is 7
+pence, A Mark or a fourteen shilling piece, is 0 1 2 A Four Pound piece is 0 6
+8 A 3 pound piece is 0 5 0 A 2 pound piece is 0 3 4 A Pound is 0 1 8 A ten
+Shilling piece is 0 0 10 A 5 shilling piece is, 0 0 5
+
+FINIS.
+Advertisement.
+ALL sorts of second hand Books bought and sold, both Mathematical,
+Geometrical, Arithmetical, Astrological, Philosophical, Chemical, Chyrurgical,
+Physical, and Divine, with Bibles and Common Prayers.
+
+Likewise Pens, Ink, Paper, Sealing Wax, Wafers, and Mathematical Instruments,
+by Alexander Sims, at the Bible near Well-Close Square.
+
+

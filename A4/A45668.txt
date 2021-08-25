@@ -1,0 +1,1264 @@
+Idea Longitudinis: Being, a brief DEFINITION Of the best known AXIOMS For
+finding the Longitude. OR, A more Rational Discovery thereof, than has been
+heretofore Published.
+
+By Edward Harrison, Lt.
+
+LONDON, Printed for the Author, and sold by Mr. Sellers, at the Hermitage; R.
+Mount, at the Postern, on Tower Hill; and P. Lea, at the Atlas and Hercules in
+Cheap Side, at the Corner of Friday-street, 1696.
+
+To the Right Honorable, the Commissioners for Executing the Office of Lord
+High Admiral of England, etc
+My Lords,
+IT is a saying in the Navy, He that knows not how to obey Command, is not
+worthy to bear Command; and another saying I have often heard in the Navy. It
+is hard for an Officer to know when he goes too fast or too slow, that is,
+whether he is too severe in the Execution of his Duty, or too dull or slow; in
+which Cases, it is sometimes difficult to please our Superiors, because of
+their different Humors: As it is the Duty of a Subject to be True and Loyal to
+his Prince, so it is the Duty of Servants, to be Faithful, Humble, and
+Submissive to their Masters. I thought it my Duty, my Lords, Humbly to present
+you with this small Treatise, not only as a Servant, but that whereas some part
+of it may happen to fall under your Construction, more particularly the Chapter
+concerning Magnetic Variation, which I Humbly Commend to your Joint Care and
+Consideration, for the Improvement and Encouragement of Navigation, and
+Amendment of Faults in the Navy, if I may presume to say there is any Faults
+there; an Elegant Style cannot Reasonably be expected from Sea breeding: I am
+not willing to seem tedious, if in my Discourse in this Book, you find some
+small Faults; I hope your Wisdom will be pleased to Pardon, and Excuse them.
+
+I am, my Lords, Your most Humble, and Obedient Servant, EDWARD HARRISON.
+
+PREFACE To the Reader.
+AFter Columbus returned from his Discovery of the Land now called America, he
+happened into Company with some Spaniards, who had the Vanity to tell him, that
+he had done nothing, but what they could do as well as he; Yes, Gentlemen, said
+he, now I have shown you the way; he called for a Hens Egg, and desired them to
+make it stand on one end, (without leaning,) on a smooth and flat Table, they
+all tried, but none of them could make it so to stand; he tried after them, and
+made it stand, etc. so could they also, when he had showed them the way: I
+doubt not but in a short time, there will be many Pretenders to the Longitude,
+and to understand it better then I; be pleased to remember that I showed the
+way (or can if I please.) Mistake me not; think not that I am designed in this
+small Treatise, to Teach the whole Art of Longitude; Art Mathematick is very
+Copious, part of which is Art Longitude, Ingenious and Compendious, requiring
+much larger Volumes then this is; I say, I can (if I will,) God willing, show
+you the true Principles, the right Radix, and Basis, whereon this Fabric may
+be built; one Man might carry a Stone, to St. Pauls-Church in London, and lay
+it on the Foundation, give Directions for Building the same, but he alone could
+never have perfected, (as now it almost is,) that Stately and Glorious Edifice;
+I may begin my work to Day, but what Encouragement I may meet with in carrying
+it on, I know not; or if it may please God that I may live to see this Art
+brought to such Perfection, as to be fit for Seamens Practice; some Years ago,
+I presented a few Lines concerning this Art, to a Nobleman, or Person of
+Quality, which Lines he little understood, and less regarded; which one of my
+Friends understanding, well compared to casting Pearl before (...) I have been
+informed of one who pretended to find the Longitude, and requiring a Gratuity,
+was sent to Mr. -- to have his Approbation; I think they might as well a sent
+him to a been Robbed; I Discoursed this Art with some Fellows of the R. S. whom
+I found too much aiming at their peculiar Advantage; therefore I resolved to
+appear on the Public Stage, in Print, Nevertheless, the Description is a
+little Veiled, though it is what I thought convenient to Publish; As for my
+Style, I understand not how to Express my Sentences, in Topical Syllogisms, or
+Sophistical Rhetoric; if you meet with a plain Method, downright Reasoning,
+and matter of Purpose, it is what I aim at; I know my Method differs much from
+other Writers, I write the Truth to the best of my Knowledge, and value not
+Carpels; and in spite of Envy, I presume to declare, That I believe there are
+but few Mariners in England, that understand how to keep an Account of a Ships
+way on the Sea, as well as I have done, or may do; and if I know more than
+others, it is by Divine Authority, by Industry and Experience, by an Inborn
+Idea, and Instinct in Nature; it was ordained for me by God Almighty, from my
+Mother's Womb. My Knowledge in the Mathematics is but little, therefore I dare
+not compare my self to the Learned Dr. Wallis, and many others, who have writ
+large Vollumes of Geometry, Algebra, and Cubick Aequations. Brother Tar, there
+have been in England, many Pretenders to the Longitude, and some have writ
+concerning it: If thou have this small Treatise by thee, thou may find more
+in it fit for thy purpose and Perusal, then in any former Book of this Nature;
+there have been many Persons, when they have attained some Knowledge in
+Cosmography, and Accidentally thinking on some of the ways contained in this
+Book, believe they have found the Longitude, and trouble their Brains to little
+purpose. Therefore, this Book is very convenient to ease their Brains, from
+such Burdens; because it contains all the most noted ways, and Fundamental
+Principles, whereby the most Learned of this Age, have endeavored to find the
+Longitude; and whereas you may think that this Book does not wholly inform you
+of any Practical Method, for finding the Longitude; yet it is hoped that the
+said Science will become Practicable, in few Years, (and already is to the
+Ingenious, but not to the Ignorant.) Till then I advise you, duly to consider
+the Fifth Chapter in this Book, concerning Magnetic Variation, which if you
+understand well, you have gained a Science, that for Seamen's Practice, is
+little Inferior to the Longitude: How the World may esteem of this Book, I
+cannot tell, but I hope it will be as a Safeguard, or means to save many a
+Ship, from being Wreckt Ashore, and save many a Seamans Life. Some Blockheads
+are apt to say, the Longitude cannot be found; no, no, it cannot Accidentally,
+as a Sow does a T -- d in the Streets, but by Care, Diligence, and Industry, it
+may be found, without which, it cannot be understood. Though we have been at
+the Dutch for Hydrographical and Geographical Draughts; let us not go the to
+French to learn their Use. But why do I reflect, I expect no Thanks for my
+Pains, but to be reflected on again, as Harrison's Whimsies, or the like; I
+pray forsooth, how many such Whimsical Inventions can my Countrymen boast of,
+that they have not borrowd? I have often heard them boast of Drake and Candish
+Sailing the World about, but not a word of the Portugueses that showed the way.
+If any Envious Person pretend I have borrowed most of my Book, may he be
+obliged to Quote the Authors, where I have not; I advise some Mathematick
+Bookseller, for his and the Public Good, to Re-print Mr. Street's Astr. Car.
+with its Appendix and Calendar, and to Add a New and more Easy Theory of the
+Moons motion, by Mr. Halley or Mr. Newton; Tables of Jupiters Satellites, and a
+Catalogue of fixed Stars, and their true places, by Mr. Flamstead, if they are
+to be had; if not, to borrow from Mr. Cassini, and Hevelius. Some of the
+ordinary Mathematicians may hate to be outdone by a Tarpolin, if they have
+ought to say against him, its because his Practice and Experience may prove him
+to be a more Competent Artist in Navigation then themselves: If I have
+Committed some Blunders, the Name of Tar, and the Novelty of the Subject, may
+Excuse me to the Judicious.
+
+Your Friend and Servant, Edward Harrison.
+
+THE CONTENTS.
+Chap. I. COncerning a first Meridian. page 1. Chap. II. A Definition of
+Longitude. Chap. III. A Definition of Time, and Aequation of Natural Days.
+Chap. IV. Of Automata's or Horological Self-movers. Chap. V. Of or Concerning
+Longitude by Magnetic Variation. Chap. VI. Longitude by the Moons motion, by
+her Conjunctions or Eclipses, and Apulses to fixed Stars, of her Illumination
+by the Sun. Chap. VII. Longitude by Jupiter's Satellites. Chap. VIII.
+Conclusion.
+(...) Idea Longitudinis: BEING A brief Definition of the best known Axioms,
+for finding the LONGITUDE, etc.
+CHAP. I. Concerning a First Meridian.
+Diverse were the Opinions of the Ancients, about the middle and Center of this
+World; before Christianity, the European Heathens esteemed those places as the
+Center of this World, where their Gods were chiefly Worshipped; as at Delphos,
+for Apollo's Oracle, at Ephesus, for Diana's Temple, etc. The Primitive
+Christians, believed Jerusalem to be the middle of the World; Ptolomy who lived
+Anno Christi 138. begun his Longitude at the most Western parts, (as he
+thought) at the Fortunate Islands, now called the Canaries. Lactantius was of
+Opinion, that the Earth was a Plain, and not a round Body, and would not
+believe there was any such thing as Antipodes, which is now received and
+embraced for a certain approved Truth. Since the Earth's Globular Form has
+been discovered, there have been many disagreeing Opinions about a first
+Meridian; Geographers beginning at St. Michaels at Gratioso, at Pico; Some
+begin at the Lizard of England, others at London, some at Paris: A Spanish
+Merchant willing to prefer an Island to this Honor, writes, (viz.) Nullum
+inveni inter Auctores, quos legebam concordiam; aliis Hesperides Insulae pro
+primario meridiano placebant; quibusdam Corni Insula, pluribus fortunatae
+Insulae, non nullis Palma Insula, aliis alia atque alia loca, etc. And a little
+further proposes an Island he calls Abroxos, it lies toward the Coast of
+Brasile; ought he not, think you, to have been complained of to the Pope, for
+not knowing his Duty to St. Peter's Church in Rome. The Reason why many begin
+their first Meridian from the Isles Azores, is because it is said thereabouts,
+the Compass has no Variation, (concerning which, I shall say more when I come
+to write of Longitude by Magnetic Variation.) Methinks they take up too much
+breadth for a first Meridian, for suppose I were to draw a large Draught of the
+Azores, or of the City of London, where must I place my first Meridian? a
+Meridian-Line, in a Sea-Chart, or Map, is no bigger then other Lines, save only
+so as to distinguish it from the rest; besides, Astronomers and Astrologers,
+pretend to observe and Calculate, to Seconds of Time, and Motion; therefore our
+first Meridian ought to be supposed to be a small narrow Line, or Circle. I
+could Bafle and Impose on the World as our Predecessors have, false Arguments
+for other places, from whence they might account their first Meridian. God
+forbid I should be so wicked, Honor and Glory, and beginning of Good, belongs
+to God; a first Meridian may be represented, and if the Heads of our Church and
+State, think it good, let there be made a Figure, representing a first
+Meridian, and Erected over St. Paul's Church in London, with this Inscription,
+Glory be to God, good Will toward Men, this presents our first Meridian, etc.
+this may be an Ornament to our Church; may it be Sacrilege for any of the King
+of England's Subjects, to account any other Meridian a first Merid. save that
+which passes right over St. Pauls-Church in London, cutting the Equinoctial at
+right Angles, and passing through both its Poles. I hope this Advice may put a
+Period to Cavilling about a first Meridian; indeed I may except against wicked
+Captious, Atheistical Humors; for there was never any thing by the Wit of Man
+so well devised, or so sure established, which in continuance of time has not
+been corrupted. It is always Midday or Noon, in some part of the World. Every
+Meridian is divided into four Parts, or four times Ninety Degrees, and
+subdivided etc. They be Innumerable, but you may reduce them to what number you
+please, as to 21600, or half so many, or more, or less, as is most convenient
+for your purpose; they are all equidistant at the Equinoctial, and in every
+lesser Circle, Parallel to the Equinoctial, but Incline nearer together until
+they intersect one another in the Poles: I allow but one first Meridian,
+beginning at St. Pauls-Church in London, or if occasion require, you may begin
+at any other part of the same Meridian.
+
+CHAP II. A Definition of Longitude.
+CIrcles of Longitude on the Earth, have their beginning at any part of our
+first Meridian, pass round the Earth, and terminate where they begun, may be
+imagined to be infinite in number, but may be reduced to what number you think
+most convenient for your purpose: There is but one great Circle, the
+Equinoctial; all Circles parallel to it, are lesser and lesser Circles, as they
+decline toward the Poles; each divided into 360, and subdivided, etc. and may
+be accounted either Easterly, or Westerly, as the Practitioner pleases; it is
+our design to measure the Arches of these Circles, by Astronomical
+Observations, or otherwise, thereby to know our difference of Longitude from
+our first Meridian, when we are either to the Eastward or Westward of the same.
+
+Longitude in the Heavens is accounted on one great Circle, the Ecliptic, (you
+may if you please, also Account it on lesser Circles, parallel to the
+Ecliptic, but that is needless and not usual,) which has its beginning at the
+first point of Aries, or where the Sun will be this Year 1696, March the 9th
+Day, 3h. 21 20 P. M. it cuts the Equinoctial in two opposite points, in the
+beginning of and its greatest Obliquity from the Equinoctial, (in these our
+Days,) is 23 29, it ends where it begins. The Theory of the Planets, and
+Stellary Motions, are accounted on the Arches of this great Circle, because in
+their Revolution they respect the Ecliptic Poles, as their Center, (and the
+Sun also) and not the Equinoctial Poles, (except the Earth only, in her Diurnal
+Motion.)
+
+Sydereal Longitude is accouted from the first Star of Aries, on the Ecliptic
+also; it begins where the Ecliptic is cut by a great Circle, that passes
+through the 1 of and the Ecliptic Poles; the difr. Long. between the 1 point
+of, and the 1 of is this Year the 9th Day of March, 28 52 9 which difr. is the
+praecession of the Aequinox.
+
+CHAP. III. A Definition of Time and Equation of Natural Days.
+Atque in se sua per Vestigia, Volvitur annus.
+
+Virg.
+OLD Style, or Julian Year, is our English Account, contains 365d. 6 h. of
+Astronomical years, there are diverse kinds, but I shall only mention two, the
+Solar, or mean Tropical Year, is 365d 5h 49 1 the Sidereal Year is 365d 6h 8 30
+the natural Day in most parts of Europe, is divided into 24h the Suns (or
+Earth) mean motion in the Ecliptic in 24h is 59 8 the longest natural Day is
+361 1 15 the shortest is 360 57 10 the difr. in one Day is but little, but in a
+Months time is considerable; each difference adjusted is called Aequation of
+natural Days; the shortest natural Day, will be this Year the 18th Day of June,
+when the Sun is in 7 of Cancer, or thereabouts, for then the and are in their
+Apogaeon (or Auge, Apoge, Aphelion, Absis, have all one Signification in
+Astronomy,) the 17th Day of December, they will be in their Perigaeon, or
+Perihelion, or nearest distance; this Inequality of Natural Days, seems to me,
+to be the cause why our Summer half Year is (now in our times,) almost Eight
+Days longer, than our Winter half Year; as also it is the cause of the
+Impossibility of any Clock, or Watch. (though they move very regularly,) always
+to show the true time of the Day; Mr. Parker in his Almanac, teaches us when
+to Add or Substract the Time aequated to or from the mean time, to accord with
+the Apparent Time: In most Books of Astronomy, there are Tables for our
+purpose, Vide Astr. Ang. lib. 3. p. 84 and 85. Canones Aequationum Dierum
+Naturalium; and Canones Equationis dierum Naturalium, duabus praecedentibus
+Composit. and nostro huic Seculo citra errorem sensibilom subservien. And Ph.
+trans. N. 214. pa. 248. Tabulas aequationis Dierum, cum Solis loco adeund. etc.
+All which Tables you must well understand, before you can attain to Practical
+Longitude, (except Magnetic Variation,) it may seem necessary here, that I
+show how to find the time of the Day or Night by Observation; there are many
+ways Published in several Mathematick Books, but I shall reduce them to one,
+(for I think Mr. Molineux's Sciotericum Telescopium, will do us little or no
+service) right way, and commend you to Colson's Callender, see his Astronomical
+Problems, Prob. 9 and 10. instead of Hours and Minutes, work by Degrees and
+Minutes; and whereas I said that 360 59 8 was equal to 24 Hours; you may work
+only by 360 for when you observe in the Night, it is supposed you take the
+Sun's right Ascension exactly true, at that very Time and Place of your
+Observation, allowing for the Suns Diurnal difference of R. A. also allowing
+for your difference of Longitude, from our first Meridian, else all your
+trouble may prove good for nothing. As yet I have never seen any Universal
+Ring-Dial, or other Sun-Dial, that showed the true Time of the Day, (except
+about Noon) our Dialists thinking the Suns Refraction not worth their notice,
+but those that pretend to find the Longitude, must duly consider Refractions
+and Parallaxes.
+
+It seems not proper in this Chapter, but I think it convenient to add
+something concerning Instruments; common Practice, and Experience teaches,
+that a Forestaff is a useful Instrument, both for backward and forward
+Observations; I have also had Experience of it my self. and for forward
+Observations, I like it not (and for backward Davis's Quadrant is better;) for
+in its use, there happen several Errors, hard to Correct; as the Excentricitie
+of the Eye, and end of the Staff; a true Horrizon cannot be found by it in the
+Night, but only guessed at; besides the height of the Eye above the Water, and
+the great difficulty of seeing two Objects at once, that is the Sun or Star,
+and the Horizon; for if the Star be high, whilst you are a looking for it at
+one end of the Vane, you loose the Horrizon, at the other end of the Vane, or a
+looking for one, you lose the sight of the other; therefore to avoid such
+Errors, for taking Altitudes in the Night, I commend you to a Quadrant, with a
+Pendulum from its Center; see the Figure of it in Moxon's Tutor to Astr. Prob.
+13. p. 48. This Instrument may seem very troublesome at first, for want of Use
+and Custom; use a weight of at least two or three Pound, with a small Wire, or
+Catts-Gut; for taking small Heights, or Distances, you may use an Almicanter
+Staff, for ordinary Uses; but if your Observation requires greater exactness,
+Vide Tichonis Brahe, Astronomiae Instauratae Mechanica, or John Heuelii
+Machinae Caelestis pars prior, etc. instead of Instruments that resolve
+Mathematical Questions, as Sectors upon Quadrants, Analemmas, etc. Stick close
+to the Doctrine of plain and Spherical Triangles, and to Logarithmical Tables;
+but on better Consideration, the Quadrant in Moxons Tutor to Astr. aforesaid,
+is not very fitting for Sea Uses, without some Alterations, therefore I have
+contrived a Quadrant something like the former, with weights that Commands it,
+so that it will always continue in the same position you direct it to; It may
+be contrived to hang like a pair of Scales or Balance, having an Axis in its
+Center, of Gravity, on which it is equally poised (without the weight) to turn
+round, having a Swifle and Ring to hang or hook to any convenient place in the
+Ship, or those that please may have a Stand purposely for it; there must be a
+small Line, or slippery Cord or Cords fastened somewhat slack, from Corner to
+Corner, on the Circumference of the Quadrant, on which Cords hang the weights
+of 20 or 30 Pound, or more or less, as you find most convenient for the
+Substance or Radius of the Quadrant; from the said weights, or rather from that
+part that slides on the Cords, may come two Indexes, one to point to the
+Altitude on one side of the Quadrant, and the other, to the Comp. Altitude, if
+the Quadrant be reversed on the other side; and those that please may also have
+either Pendulum or Indexes, from the Center of the Quadrant, to point either to
+the Degrees of Altitude, or Comp. Altitude: It is easily managed in blowing
+Weather at Sea, or Ashore, and the Price not above 20 Shilling, I hope, for a
+Common one; I am a little Proud of the Invention, however I forbear to Applaud
+it too much, and to Print the Figure of it, till I have made further Experience
+of it.
+
+CHAP. IV. Of Automata's, or Horological Self-Movers.
+MR. Blundeville. from Gemma Frisius, writes of a ready way (as he calls it,
+(to find out the Longitude of any place, by some true Horology, or Watch; to
+that purpose, Mr. Rook writes, viz: Ad momenta temporis accuratissime notanda
+(quod in hujusmodi Observationibus est palmarium) perutile erit Oscillatorium,
+ab Ingeniosissimo and candidissimo Hugenio feliciter excogitatum. There have
+been some Experiments made at Sea for finding the Longitude by Pendulum
+Watches, as you may read in the Ph. trans. N. 1. pa. 13. I know several Seamen
+will buy this Book, that are not able to furnish themselves with a Set of Ph.
+Transactions, therefore it may be convenient to Insert the following Narrative.
+
+A Narrative concerning the Success of Pendulum Watches at Sea, for the
+Longitudes.
+The Relation lately made by Major Holmes, concerning the Success of Pendulum
+Watches at Sea, (two whereof were Committed to his Care and Observation in his
+last Voyage to Guiney, by some of our Eminent Virtuosi, and grand Promoters of
+Navigation,) is as follows. The said Major having left that Coast, and being
+come to the Isle of St. Thomas, under the Line, accompanied with four Vessels,
+having there adjusted his Watches, put to Sea, sailed Westward, seven or eight
+Hundred Leagues, without changing his Course; after which, finding the Wind
+favorable, he Steered toward the Coast of Africa, North North East, but
+having Sailed upon that Line, a matter of two or three Hundred Leagues, the
+Masters of the other Ships, under his Conduct, apprehending that they should
+want Water, before they could reach that Coast, did propose to him, to steer
+their Course to Barbados, to supply themselves with Water there. Whereupon the
+said Major, having called the Master and Pilots together, and caused them to
+produce their Journals and Calculations, it was found that those Pilots did
+differ in their Reckonings, from that of the Major; one of them Eighty Leagues,
+another about an Hundred, and the third more; but the Major Judging by his
+Pendulum Watches, that they were only some thirty Leagues distant from the Isle
+of Fuego, which is one of the Isles of Cape Verd, and that they might reach it
+next Day, and having a great Confidence in the said Watches, resolved to Steer
+their Course thither, and having given Order so to do, they got the very next
+Day about Noon a sight of the Isle of Fuego, finding themselves to Sail
+directly upon it, and so arrived at it that Afternoon, as he had said. These
+Watches having been first invented by the Excellent Monsieur Christian Hugens
+of Zuilchem, and fitted to go to Sea, by the Right Honorable, the Earl of
+Kincardin, both Fellows of the Royal Society, are now brought by a New
+Addition, to a wonderful Perfection; the said Monsieur Hugens, having been
+informed of the success of the Experiment, made by Major Holmes, wrote to a
+Friend at Paris, a Letter to this effect.
+
+Major Holmes at his return, has made a Relation concerning the usefulness of
+Pendulums, which surpasses my Expectation; I did not imagine that the Watches
+of this first Structure, would succeed so well, and I had reserved my main
+Hopes for the New ones: but seeing those have already served so successfully,
+and that the other are yet more Just and Exact, I have the more Reason to
+believe, that the Invention of Longitudes, will come to its Perfection. In the
+mean time, I shall tell you, that the States did receive my Proposition, when I
+desired of them a Patent for these New Watches, and the recompense set apart
+for the Invention, in case of Success; and that without any difficulty, they
+have granted my Request, commanding me to bring one of these Watches into their
+Assembly, to explicate unto them, the Invention, and Application thereof to the
+Longitudes, which I have done to their Contentment. I have this Week Published,
+that these Watches shall be exposed to Sale, together, with an Information,
+necessary to use them at Sea; and thus I have broken the Ice. The same
+Objection that has been made in your Parts, against the Exactness of these
+Pendulums, has also been made here, to Wit, that though they should agree
+together, they might fail both of them, by Reason that the Air at one time
+might be thicker, then at another. But I have answered, that this difference,
+if there be any, will not at all be perceived in the Penduls, seeing that the
+continual Observations made in Winter, from Day to Day, until Summer, have
+showed me, that they have always agreed with the Sun, (I doubt the Truth.) As
+to the Printing the Figure of my New Watch, I shall defer that yet a while; but
+it shall in time appear, with all the Demonstrations thereof, together with a
+Treatise of Pendulums, written by me some Days since, which is of a very subtle
+Speculation.
+
+I have read of a Glass Globe, that a King of Persia had, in which he could see
+all the Celestial Motions; of the same kind with our Clocks and Watches,
+though perhaps more Elaborate and Subtle, was that Sphere Invented by
+Archimides, which did represent the Heavenly Motions, the Diurnal and Anual
+Course of the Sun, the Changes and Aspects of the Moon. etc. This is frequently
+Celebrated in the writings of the Ancients.
+
+Jupiter in parvo cum cerneret aethera Vitro,
+Risit, and ad Superos talia dict a dedit;
+Huccine mortalis progressa potentia curae*
+Jam meus in fragili luditur orb labor.
+Jurapoli, rerumque fidem, legesque Deorum,
+Ecce Syracusius transtulit art Senex.
+Inclusus Vaaiis famulatur Spiritus astris,
+Et Vivum certts motibus urget opus.
+Percurrit proprium mentitus Signifer annum;
+Et simulata novo Cynthia mense redit.
+Jamque suum Volvens audax instria mundum,
+Gaudet and humana sidera mente regit.
+Quid falso insontem tonitru Salmonea miror?
+Aemula naturae parva reperta manus.
+I have heard from Dutch Seamen several Stories of a wonderful Sphere or Clock
+at Strasburgh in Germany, which as they say, has or had a regular and
+perpetual Motion, and showed the Celestial Motions, etc. Mr. Newton in his
+Idea of Geography and Navigation, page 90 and 91. writes concerning
+Automata's, or unerring Clocks, and says, that the nearer you advance within
+the Artick or Antartick Circles toward either of the Poles, the Motion is so
+much slower then at London; but in his Preface to the Reader* says, This
+Paragraph, ought thus to be Corrected, that the further you advance toward
+either Pole, their Motion is swisaer, and the further they are carried toward
+the Equator, their Motion is retarded, etc. The cause wherefore these
+Instruments may move swifter nigh the Poles, then near the Equinoctial, cannot
+proceed from the Oval Form of the Earth, as some think; the cause of their
+swifter Motion nigher the Poles, in my Opinion is cold Weather, and Frosts; I
+believe that in England, in Frosty Weather, our Clocks move swifter then in
+Summer, for in Frosty Weather, Springs may contract a little, and grow stiffer,
+consequently have more force to make a swifter Motion; and in Hot Weather they
+may extend, and be a little more pliable, therefore the Motion may not prove
+altogether so swift as in Frosts: There are other Causes also, that may hinder
+the regularity of their Motions; see Ph. tr. N. 47. p. 951. and 976. Some may
+desire to know my Reasons for Springs, contracting in Frosty Weather, take a
+piece of Cold Iron or Steel, one or two Foot long, about or of an Inch Square,
+heat it red hot, keep heating and well Hammering it hot an Hour or two, when
+you have done, measure its length exactly before it be Cold, lay it aside in
+the Air, where the Frost may ting it a Winters Night, and if you measure it in
+the Morning, you will find it considerably shorter. Experience teaches, that
+there are few Watches that have a regular Motion; for it seems impossible, that
+the Springs in all their parts, should be so exactly Hammered, as to draw
+always equally, and by what I can learn from Watch-makers, a ballsnce Watch
+that requires winding up every 24 Hours, keeps time more exact, than one
+that goes a Week, before it need winding up. About Seven Years ago, my
+curiosity carried me to Gresham College, when the Assembly was seated, the
+President told me, they had caused several Experiments to be made with these
+Instruments, and thought fitting not to commend them for Common Practice at
+Sea, for fear that the Errors that might happen in their use, should prove
+greater then the Errors in the common Practice of Navigation; but now let us
+handle our Subject a little more closely, and suppose that three or four of the
+said Watches being good work, well made, and carried to Sea in one Ship under
+the Command of Ingenious Men, may prove very useful toward the keeping a true
+Account of a Ships way on the Sea, not for finding the Longitude from our first
+Meridian, but to help to find your difference of Longitude every 24 Hours, or
+every two or three Days, as often as you observe the Latitude; provided they be
+not too much tampered with, keeping the Indexes always moving, but never move
+them with your Fingers, except extraordinary occasion require it; desire not
+that they should always show you the true time of the Day, (you may if you
+please, keep one for that purpose besides,) but learn by continuance of time,
+to find the Motion of each Watch in a Year, or in a Month, or Day, and Hour,
+and having the true Theory of each Watches Motion, with their equalities and
+inequalities, you may by Calculation, find at what time of the Day or Night the
+Indexes of each Watch, (for I suppose, they may not all move just alike,) will
+point to such or such an Hour, Degree, or Minute, in any Meridian; keep them
+from being hurt by any Violent Motion, as falls, or knocking near them; keep
+them from Winds, from too moist Airs, and stinking Fumes; such as are when Salt
+Water Casks are emptied on Deck, or in a Ships Well, where Men have been
+Stifled; keep them very clean from Salt Water, or any Rust or Filth; let there
+be a place in the Ship, properly appointed for them, to hang in Equilibrio. I
+find in the Ph. trans. N. 47. p. 937. Instructions concerning the use of
+Pendulum Watches, for finding the Longitude at Sea, together with a Method of a
+Journal for such Watches, etc. Brother Tar, if these Automata's could speak,
+(as the Welsh Man thought,) they would tell thee, they hate Novices; and if
+thou art so, they may not bite thee, but they may happen to break thy Head, or
+do the some other Mischief; or in a more plain meaning, I dare not approve of
+their use for the difference of Longitudes, except only in an East or West
+Course, or in Case of some unknown Currents, use thy discretion. The Watches
+that are now esteemed most useful, have a Pendulum Spring to regulate the
+Motion of the balance; those that desire to know more of these Automata's and
+Mechanical Motions, may read Bishop Wilkin's his Mathematical Magic.
+Water-Glasses, 24 Hour Sand-Glasses, and such like Self-movers, are of no use
+in this Science, though I have mentioned them for Vulgar Satisfaction only; but
+of what use Mercurii or Quicksilver may prove in keeping time true by the
+regularity of its Motion in Glasses, I cannot yet inform you.
+
+CHAP. V. Of or concerning Longitude, by Magnetic Variation.
+THE Variation of the Compass (by which I mean the deflection of the Needle,
+from the true Meridian,) is of that great concernment in the Art of Navigation,
+that the neglect thereof does little less then render useless, one of the
+noblest Inventions Mankind ever attained to; I desire the Ingenious Seamen,
+that the Knowledge of Magnetic Variation, may be always in his great Esteem;
+for without it, Navigation cannot be perfect. It is my Opinion, that many Ships
+have been put by their designed Ports, and more Ships lost for want of knowing
+the Variation, then has been lost for want of the Longitude; how many Ships in
+Sailing from the South-f^re-land, to the Maese, has been put to the Northward
+of the Maese, for want of minding the Variation? for the like cause, some Ships
+have missed the Island Barbados, and met with other dismal Accidents. Mr.
+Edward Wright, an able Mathematician in his time, in the latter end of his
+Correction of Errors in Navigation, did write concerning the Haven finding Art,
+by the Variation of the Mariners Compass, but alas he knew nothing of the
+Variation of the Variation, or as I call it, of the Increase and Decrease of
+the Variation in the same place; therefore that part of his Book proved very
+Erroneous, by supposing that the Variation at any place, never Altered, now we
+know better.
+
+There are many of Opinion at this present time, that the Longitude may be
+found by the Variation of the Magnetical Horizontal Needle; I doubt the
+possibility thereof, from our first Meridian, for many parts of the World will
+afford us no Practicable proportions for the difference of Variation between
+them, according to their distance in Longitude; nor can the quantity of the
+Earths Atraction, be easily determined in all places, besides the quantity of
+each Polar Atraction, for there are four, at least two, of them lie in the
+bowels of the Earth, and not in the Air, as Mr. Pond says; it is probable that
+these Magnetic Poles have a Motion from North to South, but whether they move
+altogether with one Motion, or with several; whether equally, or unequally;
+whether Circular or Libratory; if Circular, about what Center? If Libratory,
+after what manner, are Secrets as yet unknown to Mankind; That which I call the
+more proper North Magnetic Pole, Predominates at London; and the Period of its
+motion, as some say, is about 370 Years; and others write, that the Period of
+the Motion of the American Pole, is about 700 Years; some think the Magnetical
+Inclinatory Needle, always points directly to one of these Poles, which I dare
+affirm to be an untruth, and can prove it by Practice, Experience, and
+Infallible Demonstrations. The mean Motion of the Variation here at London, is
+about eight Minutes, or somewhat more in one Year; it is my Opinion, that most
+places in the World, have not altogether so swift an Alteration of the
+Variation, as at London; but in many other places it is a little slower,
+especially near the Equinoctial; for the nearer one of these Poles is to any
+place, there increase or decrease of the Variation may be swiftest. As the Sun
+in the Tropicks, differs his declination but slowly, so the Horrizontal Needle,
+is in its slowest Motion, when it has the greatest Variation East or West, at
+London; and whereas some places have above 22 or 30 Degrees Variation
+North-Westerly, I doubt those places will not have above 22 Degrees. Variation,
+North-Easterly, in one Revolution of the said Poles. That all Magnetical
+Needles well touched, have the same direction exactly, as Mr. Sellers has
+proved by many Experiments, see Ph. tr. N. 26. p. 478. but if badly touched,
+they may vary sometimes one or two Degrees from the true Magnetical Meridian,
+as often happens at Sea, as our Mariners say, that the Compass in the upper or
+lower beetackle, sometimes varies near half a point from each other; I have
+often taken notice of their expressions, and tried to find the cause; and when
+I found no Iron near them, (or the like Obstructions,) that might draw me off
+the Compasses, I have found that one, and sometimes both, had a a weak touch,
+or Old and Rusty, and good for nothing, except to throw overboard, etc. Five
+Hundred such Compasses, I believe, at this present writing, may be found
+belonging to the Navy, etc. A true Knowledge of the Variation is very requisite
+in keeping a Sea reckoning; it troubles me to think what Ignorant Persons are
+Masters of Ships; it is scarce two Years since, in my company, some Masters of
+Ships, complained of a wrong Course steered by their Comodores, who in the
+Night by a fair Wind, were carried too near the Borlings, even so near, that
+some of them were obliged, (as I was informed) to go between the Borlings and
+the Main. This Error happened for want of good understanding Masters in the
+Comodores Ships, they knew not the Variation, else forgot to allow for it; for
+though the true Course from the Lizard to Cape Finister be S. S. W. the Course
+to be Steered by Mariners Compass, at present, is S. S. W. W. and S. W. by S.
+It is scarce one Year ago, (to this present writing,) since a Master of a --
+Rate Ship told his Captain, that he observed 14 or 15 Degrees. Variation about 6
+Leagues off of Malhago by the Stars, (there is about 6 Degrees.) If I may compare a
+Man to a block, that same Man knew little more how to find the Variation by the
+North Star, or any other Star, than a Buggilug or Bracket on that Ships
+Quarter; I doubt whether or no, he ever saw an Azimuth Compass. When you would
+observe the North Star, to find the Variation in the Night, consider its
+distance East or West from the Pole; a Nocturnal may be of good use in this
+Case. England does not know how many losses has happened for want of a better
+Knowledge in the Variation of the Compass through only a Pilot of a Ship:
+suppoie between the Bunt-Head and the K. K. or Gunfleet, if he understands not
+the Variation, he may in my Opinion, as well deserve a Rope, as a Branch. But
+the Extra.-Pilots will blame me for mentioning Variation or Course in Pilot
+Water, where the Strength and Course of Tides and depths of Water, is of much
+more Consequence. My Lord's Commissioners of the Admiralty, etc. You have been
+pleased to give us a Form to keep our Journals at Sea; there is in my Opinion
+two Columns wanting in that Form, that Column for Longitude. If you please, my
+Lords, let it be accounted from our first Meridian; may there be added one
+Column called Meridian Distance by plain Chart, and accounted from the last
+Land seen; and another for the Variation of the Compass. I have belonged this
+War to Six several Rates in the Navy, and never saw an Azimuth Compass Aboard
+any of them; my Judgment tells me, that every Ship of War, requires at least
+three such like Instruments, to observe the Variation, though they ride only at
+an Anchor, at the Nore, or in the Downs; the Commissioners of the Navy have
+taken Care to provide such Instruments, and I believe the Masters of Men of
+War, may have them for asking for, (for the Boatswains Indent for them.) I
+believe they are ashamed, (or ought to be;) for some of them knows not what to
+do with them; the Instruments if well used, may be a means to help to save a
+Ship, and Ships Companies lives; they are good to be used for the Instruction
+of Ships Company and Youth, there is Education in the Navy, (little enough,)
+that is good: Navigation seems to decay, or decline; I wish it be not a Crime,
+for some Gentlemen in the Navy, to understand it. Now I will say something to
+my Honorable Company Masters; little do they know, how many Ships have been
+lost for want of a better Knowledge of the Variation; I believe I could name
+some, (and several in great danger by report,) but dare not fear of the Law:
+Captain William Wildey understood the Variation very well in my Opinion, I
+believe it was almost as good to him as the Longitude between St. Hellena, and
+any part of the East Indies. When I was in East India, I understood what
+Variation there was in most Adjacent Parts so well, that I have offered in
+Discourse in Company, to go in a Ship that set Sail from any part of the Coast
+of India, bound any way, two three or four Hundred Leagues, I would keep no
+Account of her way for a Week or ten Days time, and any fair Day when I could
+have Reasonable Observations, I would a told them the place where the Ship was,
+as well as they that kept the most exact Reckoning, (almost as well, if you
+please) provided they had not seen the Land since I saw it; and this I must
+have done by the Lattitude and Variation observed, October the 30th, 1688. in
+the Offing at Cape Bona Esperance, the Cape bearing from us about North,
+distant 6 or 7 Leagues; the mean Variation by three Azimuth Compasses, and Nine
+Observations, was 10 N. Westerly; the same Year, November the 16th, Variation
+at St. Hellena, 1 4 N. Westerly, the difference is 8 56 the the Meridian
+distance, by plain Chart, is 20, difference of Longitude is 21 54, in Sailing
+directly between the two aforesaid places we raised or laid (Sea Terms,) the
+Variation somewhat gradually, therefore having the difference of Longitude, and
+the difference of the Variation given between the two said places, it may be
+supposed that the difference of Longitude between the places, may be found by
+Observation of the Variation; I answer yes, it may be nearly guessed at, and I
+know how to make proportions for finding the difference of Longitude by the
+Variation, not only between the two aforesaid places, but in many other places.
+But it is a Method I do not approve of, and advise the Industrious Seamen not
+to use it, (except in Cases of great Necessity,) but rather to learn by former
+Journals, or from some Experienced Artist, what Variation is at such places
+where you are bound to, and all along your Voyage as near as you can,
+notwithstanding the Variation of the Variation: I believe the difference of the
+Variation between any two places in East India, may be always near the same;
+and not only there, but in most other parts of the World (near the Isles Azores
+excepted,) that are not above 20 or 30 Degrees distant asunder; this I
+recommend as a Secret, worthy Observation. But there are several places that
+will not allow of any proportions like the former; as the Downs, the Chanel of
+England, and several Degrees Westerly, from Vshant; there is but little
+difference in the Variation: The Variation also alters apace in Sailing N. or
+S. under the same Meridian, not always gradually, but in some places faster
+then in others. It is found by Experience and Practice, that the Morning
+Variations are the greatest, as I have found sometimes near 30 Minutes; and my
+Opinion is, that this difference happens not from the Oval Form, or Eliptical
+Motion of the Earth, but that the Suns Refraction is considerably greatest in a
+Morning; if the Suns greatest Refraction be but 34 as our Astronomers affirm;
+how came it to pass, that some Englishmen and Hollanders, that Wintered in
+Green-land, and Nova Zembla, saw the Sun five Days sooner then was expected,
+according to the Latitude of the place; but to prevent the former difference or
+Error, substract the Suns Refraction from the observed Altitude, allowing the
+Refraction, when the Sun is in the Horizon, to be a few Minutes more in a
+Morning; then in the Evening; I cannot at present Certify you how many Minutes
+the difference is, because I have lost my former Amplitudal Observations. It is
+a Fault in our East India Commanders, that they have not used to Substract the
+Suns Refraction, etc. (they commonly take the Suns Declination from the
+preceding Noon, which is also a great Fault.) Vide Astr. Ang. page 94. Tabula
+Refractionum Triplex. But near the Poles it is probable, the Suns Refraction is
+greater, then near the Equinoctial: If the Variation of the Compass were better
+known, and Tables of the Variation, for all the most noted parts in the World,
+as Headlands, Capes, Islands, etc. The Tables Calculated to a certain Year,
+because of the Increase and Decrease of the Variation, and the difference of
+the Variation, between those places; then the Knowledge thereof: would be
+almost as good as the Longitude known, (some few places excepted,) and if there
+be 10 or 20 Years difference, in laying or setting down the Variation in some
+places, it matters not, provided the Year be set down, when the Variation was
+so much at such places, and whether Increasing or Decreasing, as for Example;
+suppose in the Year 1708, one should happen to be 10 or 12 Leagues South, off
+of C. B. Esperance, and find the Variation 12 28 as I told you before, the
+difference of the Variation between the said Cape and St. Hellena, is 8 56 by
+which Rule, when you are at the said Cape, you may know what the Variation is
+at St. Hellena, viz. 3 32 both N. Westerly, increasing; the like Examples may
+be considered of most other places in the World, that are not above 20 or 30
+distant asunder, (except about the Azores.) I present you with another Method,
+viz. When we have such or such Variation at London, thereby to know what
+Variation there is in any other part of the World; for if at this present
+writing, I know exactly what Variation there was in all parts of the World, I
+believe it would be no hard matter then by knowing the Variation at London, to
+find what Variation there was in other parts, in future Ages. This Method I
+recommend to the Consideration of the Ingenious, as also to see, if they can
+find the Lattitude and Longitude of each Magnetic Pole; but some People with
+think, I have writ nothing to the purpose, if I do not tell them wherefore
+there is little or no Variation about the Azores; the quantity of the Earths
+Attraction, is but little in some places, two Degrees or three, may be the
+most, and in most places at Sea, the more solid parts of the Earth, have no
+Attractive quality, for then the Needle is without the Command of the more
+Magnetic Vigor of the Earth, as for Example, in the Year 1688, about 8 or 10
+Leagues at Sea, in the Offing at C. B. Esperance, when we had about Ten Degrees.
+Variation. I was told by Experienced Artists, that there was not above 7 or 8
+Degrees. at most Variation Ashore, or in the Harbor at the Cape, which is a very
+quick Alteration, for any where thereabouts, above Ten Leagues off at Sea, in
+Sailing on any point of the Compass, 10 Leagues, you will not alter your
+Variation above 12 or 14 Minutes at most: The like Experiment has been proved
+on the Coast of India, and in the Meriterranean. Therefore it is evident, that
+Promontories, Capes, and Head-lands, draw the Compass a little, and that only
+when you are near them, within 10 or 12 Leagues; besides the Earths quality of
+hindering it from pointing to its Poles; there are four Poles (at least) which
+have a Sympathetical Virtue, with the Magnetical Needle, to which it naturally
+inclines; two of them that are furthest within the Earths Orb, I call its more
+proper Poles, and the other two in the Cortex of the Earth, the Magnetical
+Poles; these four Poles draw the Needle, some one way, and some another, so
+that they hold it amongst them, each requires a share; but that Pole
+Predominates most, to which it is nearest: The Isles of Azores I account lies
+almost between the two proper Poles, which two Poles always (for ought I know,)
+bear N. and S. from those Islands, for there it is without the Attraction of
+the Magnetic Poles; but I believe there is some Variation at the Azores, and
+will be more in time. If the Magnetic Needle were very high up in the Air, it
+would have no respect to the Earth, or to any Poles but its own, or Center;
+this is my Opinion. The cause of the quick Alteration, and great Variation, at
+New Foundland, and some other places; I would also tell you my Opinion, but I
+am afraid of seeming tedious, with Tautologies.
+
+In using Azimut Compasses, take care the Chart Librate well in the Box, and
+that the point of the Brass Needle, on which the Chart Librates, be as exact as
+may be, in its proper place or Center of the Box; trust not to one Observation,
+when you can have the Medium of 5 or 6 or more, nor to one Amplitude, when you
+may have the mean of 3 or 4 Azimuths; mind to substract the Suns Refraction,
+etc. Suffer no great Guns, or other Iron, too near your Compasses; those are
+best that have the quickest Motion, you may try the points of the Needle, by
+seeing what Iron they will take up, but be very careful, and use it not often,
+for you may spoil the Needle. With a Needle and round Loadstone, may be
+perfom'd many Natural and pleasant Conclusions; but to think, that such a
+Terrula, (as they call it,) has or represents the like Magnetic Force or
+Power, in all Species as the Earth, is a weak and ridiculous Opinion; whereas
+it may be thought in these parts of Europe, there is no occasion for carrying
+Azimuth Compasses to Sea, because it may be supposed most Masters, knows what
+Variation there is in most Adjacent places; it is a mistake, for the Major
+part, nay of them, I believe, knows little or nothing concerning it, as I could
+prove by manifest Examples; If I were to declare what I know, and sometimes
+been an Eye witness to; but Truth ought not to be spoke at all times; besides,
+I am not willing to disoblidge some Persons, that might think I reflect too
+much on them; those Masters that have understood something of the Variation,
+often forget it, for want of Azimuth Compasses, or for not being obliged to
+give an Account thereof: I have known some Masters of Ships, that knew, (by
+hear say from others,) that in such places, there was about half a Point West
+Variation: I have asked them how they accounted it from what point of the
+Compass, (pretending my self Ignorant,) they have answered, I might Account it
+from N. or S. E. or W. or from any point, it was always Westerly; neither do
+they know how to estimate the Variation in their Reckonings; but it may be
+objected, how can the Masters be so Ignorant, that go and come well from Port
+to Port; I answer Thickie, West-Country-Man, lock zure, Life and Soul Man, can
+carry a Ship to New Foundland zure, and near a word a Book zure; this is by
+long Experience and Custom, not by Art; I have seen the Blind lead the Blind a
+Begging; I knew two Blind Men in Cochin, that would go very readily to any
+House in that Town, and I have sent one of them an Errand two Miles into the
+Country, but they were both born Blind; therefore by long Experience and
+Custom, they naturally know most Adjacent places. As to Masters or Pilots,
+their carrying Ships in and out of Harbors, and for the Coasting part, (when
+they can see the Land,) I have nothing to say against them: And if a mischance
+happens, you will rarely find any of them without a lying Excuse to salve their
+Ignorance. But it may be said, the Masters make Observations, and keep a
+Reckoning, yes, so they do, and a very bad one oftentimes. I will acquaint you
+how they do, that knows not how to allow for the Variation, as they ought; it
+is likely they can tell, whether they have Sailed between the South and the
+East, or S. and W. or N. and E. or N. or W. having wrought their Days Work by
+Log and difference. Lattitude and Departure, they find what did. the Ship has
+run by Log. so having that did. and diff. Lattitude by Observation, they can
+find, (as they think,) the Departure, without allowing for Variation; and this
+kind of Reckoning, is the cause of so many great Mistakes, in their Easting and
+Westing; for the Log. is but a false supposition, to find the distance run, as
+has been Experienced in one Fleet, where some have had 70 Miles on the board,
+some 80, and others about 90, the same 24 Hours, and all the while, not above a
+League asunder. Now I will acquaint you with the best known Common Method, for
+keeping an Account of a Ships way on the Sea. Be as curious as possibly you
+can, in observing the Suns Meridian Altitude, or for want thereof, some known
+Stars to find the Lattitude by; if you observe with Davis's Quadrant, see your
+Vanes very carefully and exactly placed, especially the Shade Vane; when the
+Horizon is very clear, observe somewhat close, when hazy a little more open;
+these cautions I give, that you may observe every Day alike, and thereby the
+better to Judge of your true difference of Latitude by Observation, then work
+your Days work, and find what Course the Ship has made, as near as possibly
+you can find it, by allowing for Lee-way Variation, etc. (or lying by, or any
+other Impediments, as Tides or Currents, or a great Sea,) and having the true
+diff. Latitude by Observation, and the Course given, you may easily find the
+distance run, and departure by the common Method, and difference of Longitude
+by Mercator, etc. It is my Opinion, that the use of the Log. is good to help to
+find the Ships Course, though there are some able Artists that use no Log. but
+now to our purpose again, as for Mr. Bond's Longitude found, (as he called it)
+he limits his Hypothesis to the City of London, affirming himself (as he had a
+great deal of Reason,) that the same Calculus is not sufficient for other
+places, whereby it appears, that his Rule is far short, of the so much desired
+general one. The following digression may please some Capacities: Famianus
+Strada, in the Vein of Lucretius, writes, viz.
+
+Magnesi genus est lapidis mirabile, cui si
+Corpora ferri plura Stylosve admoveris, inde
+Non modo vim motumque trahent, quo semper ad Ursam,
+Quae lucet vicina Polo severtere tentent.
+Verum etiam, etc.
+Outinam haec ratio scribendi prodeat usu;
+Cautior and citior properaret Epistola, nullas
+Latronum verita Insidias, fluviosque morantes,
+Ipse suis princeps manibus sibi conficeret rem,
+Nos soboles Scribarum emersi ex aequare nigro
+Cousecraremus Calamum Magnetis ad Oras.
+But this Invention is altogether Imaginary, having no foundation on any real
+Experiment. The Royal Society in London, have a great Lodestone found in
+Devonshire, that will move a Needle, at 9 Foot distance: Some Persons may
+happen to Read this Chapter, that understand not Navigation, and think that
+most Ships are lost for want of understanding the Longitude, or the Variation;
+I say, I believe such Accidents may have happened, but very rarely; for most
+Ships have been lost by many other Accidents, as Storms, or the like; Example,
+our great Loss by Storms lately in the Streights of Giblaterra, and the late
+Hurricane at Barbados, in which Ships I believe, were some as able Seamen, and
+Experienced Artists in Navigation, as the World did afford. The finding the
+Lattitude by the Inclination of the Inclinatory Needle, is at present thrown
+out of Doors, as of little or no account, as well it may, if we will be such
+Novices, as to confine the Inclinatory Needle in a narrow Cycloid, as commonly
+it is, by which means, it becomes useless at Sea, and not manageable; therefore
+it ought to be contrived, to hang in Equilibiro, so that it may have a free
+Circular Motion, any way on its Center of Gravity, and then it will much easier
+show the Inclination, and Variation also, if need require it; and if the Theory
+of its Inclination were known, (all the World over) we might also find the
+Latitude by it.
+
+The following words were forgot at the end of the 4th Chapter, viz. Our
+Countryman Mr. Watson, who made an Ingenious Clock (for our late Queen) which
+shows the Celestial Motions; and Monsieur Didiers Celestial Globe, showing
+the apparent Motions from East to West, and from West to East, of the Sun,
+Moon, and fixed Stars, see Ph. Tr, N. 136. p. 895. I think a Globe may be
+projected, and made like the later, that may show Latitude, Longitude, Sun or
+Stars, Horary distance from the Meridian, and Variation, etc. But it would be
+too costly for ordinary Uses, and nothing hinder its Truth or equal Motion,
+more then the different Temperatures of Air and Weather, though we may
+attribute something to the goodness of the Springs and Oils.
+
+CHAP. VI. Longitude by the Moon's Motion, by her Conjunctions or Eclipses, and
+Apulses to fixed Stars; of her Illumination by the Sun.
+THE Question is yet unresolved, which time ought to be called the true
+Conjunction or Opposition, whether when the Sun and Moon are in one Line
+perpendicular to the Ecliptic, or perpendicular to the Orb of the Moon, or
+when they are equally distant from the Nodes. Mr. Shakerley's Tabulae
+Britannicae, precept, 15. page 67.
+
+Let us Correct this Learned Mistake, and agree with most Astronomers, that it
+is always New Moon, when the Sun and Moon have both one Longitude, from the
+first point of Aries. The mean motion of the Moon, in one Natural Day is 13 10
+35 her mean motion from the Sun in one Day, is 12 11 27 but in her motions, she
+has many inequalities, for which purpose, Tables of her motions may be
+required; I refer you to Astronomia Carolina, Astronomia, Harmonicae,
+Astronomica Instaurata, Tabulae Britannicae, Astronomia Anglicana, Cursus
+Mathematicus, Rudolphus's Tables, not forgetting Mr. Newton's, and Sir Jonas
+Moors Tables; yet amongst them all, the Theory of the Moon's motion, remains In
+perfect, and not easy to Calculate; many able Mathematicians have writ
+concerning finding the Longitude, by the Moons motion: Mr. Norwood writ
+something, but it was never Published; I have been informed, his Method was by
+the Moons motion; concerning which, he writ a large Tract of her motion, and
+contrived an Instrument for taking her distance from fixed Stars. Mr. Streets
+way is unknown to me, but we suppose his way by the Moons motion also, by his
+contriving an Instrument, for taking Angles by Reflection; I have seen the
+Instrument, but he could not bring it to perfection, which I gather from those
+who have had some Cognizance thereof; see his Appendix to Astr. Car. I have
+seen a Pamphlet writ by John Herne, wherein his Method for finding the Moons
+Southing, is very Erroneous, as also, almost all the rest of it; you may
+believe the like of Theakers Book, and Wooden Tools; these I mention, that
+Seamen be not deluded by such Foolish Tools and Pamphlets. There is a late
+Author says, viz. find the true Moment of time, in which the Moon comes to the
+Meridian, and thereby the Longitude of any place may be found after this
+manner, etc. in answer thereto, Sir, I assure you, the Longitude is not to be
+found after your manner, nor by any of your Methods, till better Taught. I
+presume I know better then your self, what belongs to Meridian Altitudes,
+especially at Sea; and if you please to learn from me, that when the Sun has
+South Declination, 20 or 23; and in North Lattitude, 50 or 60 it is too
+difficult a matter to find Noon or Midday, by any usual Sea Instrument, within
+two or three Minutes of time; our observers commonly begin to observe a little
+before the Bell strikes Seven, and in the aforesaid Latitudes, it is common to
+observe till a quarter of an Hour past 12 a Clock, before they can perceive the
+Sun falling (as they call it,) but when the Sun is within twelve Degrees of
+your Zenith, then be very quick to attend, or else you may lose your
+Observation; the like of the Moon, or any Star; any other time of the Day is
+more easy and true to be found at Sea, then Noon. An Old Experienced Navigator
+pretended to know, how to South the Moon by the North Star, on the Meridian; I
+asked him how often he has seen the Moon and North Star on his Meridian, both
+at one time, as also how we must do in South Latitude, to North the Moon; and
+if it were possible to find the time of Moons Southing or Northing, it is to no
+purpose, to expect the Longitude thereby, considering we can have but one
+Observation in 24 Hours, besides the Error of accounting her motion in our
+first Meridian; there is no Calculation as yet so exact in any Almanac or
+Ephemeris, that tells us the true time of the Moons Southing, in any Meridian
+without Error. Mr. Newton writes, that from the Error of one Minute of an Hour
+in the Moons motion from the Sun arises an Error of 7 12 in the Longitude of
+the place propounded, and in the motion of the same Moon, from any fixed Star,
+rises an Error of 6 48 and moreover (he says,) it is evident, that if the
+Errors of both places be not of the same Denomination, and lesser then one
+Minute of time; the Error of Longitude cannot be less then then 13 etc. The
+Moons mean motion being but 13 10 35 is little in proportion to 360 therefore
+the two Objections are very considerable; however, as I am a Favourer of the
+Longitude, by the Moons motion, I will undertake to solve one Objection, and
+propose how the other may be solved; then as to the first, I answer, that I
+know how to find the true time (when we can have Reasonable Observations) of
+the Day or Night, to one or two seconds of time; and if I Err 4 or 5 seconds,
+it matters not, others may observe as true as I, if they be careful; in the
+Practick part of Navigation, it very often happens, that one Error Corrects
+another, as for Example: Suppose we Err 4 or 5 Minutes in the Lattitude, 2 or 3
+Minutes in the Suns R. A. (or Dec. in the Day time,) 3 or 4 Min. in the Stars
+R. A. and about as many in its Altitude; it is ten to one odds, but these
+Errors, (if not much greater,) will so help to Correct one another, that you
+will come very near the true time of the Day or Night; and what Blockhead will
+trust to one Observation, when he can have the mean of 6 or 8 Observations; I
+account him an Ignorant Observer, that Errs above 10 or 12 seconds of Time, Day
+or Night; trust not to Mr. Seller's, Colson's, Norwood's, Newton's Tables of
+the Suns R. A. for for they are of no use in this case. In observing the time
+of the Night, be very careful to find the Suns R. A. true, for want of good
+Tables of the Suns place, and R. Asc. Tables of the Suns place and Declination
+may serve, with a little more trouble, for Example, Anno 1696, March the 19th,
+at 3h A.M. 30 to the Westward of our first Meridian; I desire to know the Suns
+R. Asc. The Tables of the Suns place and Dec. in most Books of Navigation,
+wants Correction; Mr. Parkers Ephemeris, for this Year, gives the Suns place at
+Noon, in our first Meridian, 9 44 Dec. 3 51 N. but 30 to the Westward, the
+place at Noon, will in 9 49 and the Dec. 3 53 N. if you consider the Diurnal
+difference of the place and Dec. you will find his place at the time proposed,
+to be in 9 27 Dec. 3 44 N. then having the present Dec. say, as Rad. to Tang.
+Comp. 23 29 greatest Declination, so is the Tang. 3 44 the present Dec. to the
+Sine 8 38 the R. A. from at the time and place proposed; but there is a readier
+way, having found the place, Vide, Astr. Car. Tabula Ascensionum Rectarum, and
+against the place, is the R. Ascension, etc. This Example I thought fit to add
+for Seamens Instructions.
+
+In answer to the second Objection, that the Theory of the Moons motion is
+false; it is not long ago since Mr. Thomas Street lived amongst us, who said
+(as I have been informed,) that he was capable to perfect the Theory of the
+Moons motion, so that her place might be as truly found by Calculation, as any
+of the rest of the Planets, if he had Encouragement; 'twas ten thousand pities
+he had not, but such is our English Ingratitude. There are now living in
+England, two Men, that I believe are capable to perfect the Theory of the Moons
+motion, which if either of them will be pleased to undertake, as also to
+furnish us with large Maps of the fixed Stars, such as Dr. Sprat is pleased to
+mention, Hist. R. S. p. 190. I may be capable to Practice and Instruct others
+in the Practick part of Longitude at Sea; or the Ingenious may put it to
+Practice, without my further Assistance: Tables of the Moons place, right
+Ascension, and Declination, would be pleasing Easy, and more Intelligible to
+our Seamen, if they be truly Calculated for Noon or Midnight, in our first
+Meridian: But I think I can find as great Objections, as either of the former;
+it is very difficult to contrive an Instrument (useful at Sea,) for taking the
+Moons true distance, from fixed Stars, for if you Err but one Minute of motion
+in the distance, it will produce an Error of about 28 in Longitude; and if the
+Stars place which you take your distances from, happen to be one or two Minutes
+false, the Error will be so much the greater; also Idleness is the root of
+Ignorance, and many other Evils: Our Mathematick Schoolmasters, that Teach
+Navigation, most of their Scholars when they come to Sea, are half to begin
+again; a Seaman has much Night-work, as well as Day-work, it is convenient to
+go to School at Nights, to learn to know the Stars, how to find the time of the
+Night by Observation, and how to find the Moons place by Observation, I mean to
+Practice it, for Examples are best Precepts; many able Mathematicians have writ
+concerning finding the Longitude by the Moons Eclipses, concerning which, you
+may find many Examples in Ph. trans. of the Royal Society, as also in a new
+System of the Mathematics, by Sir Jonas More, in the Doctrine of the Sphere,
+to which I refer you. It is more difficult to find the Longitude by an Eclipse
+of the Sun, then of the Moon; because that of the Moon happens at one and the
+same time, all over the World, but an Eclipse of the Sun appears various in the
+various parts of the Earth; the duration of a Solar Eclipse, appears longer in
+some places of the Earth, then in others, therefore the end of a Solar Eclipse,
+happens not at the same Moment of time, all over the World. The Superior
+Planets suffer no Eclipses, when the Earth comes between them and the Sun;
+because the Conical Shadow of the Earth cannot reach them.
+
+Anno 1688, October the 14th 12 40 Mer. did. West. (plain Chart) from the
+Mauritius, I observed the Sun Eclipsed, at the end of the Eclipse the alt 27 35
+Dec. 12 3 S. Lat. 31 6 S. will give the Hour of the Day, 10h 33 48 A. M. In our
+first Meridian, the end of the Eclipse, happened by some Calculations, at 7h 15
+A. M. the difference is 3h 18 48 converted into Degrees and Minutes, gives 49
+41 Longitude East, from our first Meridian. The Penumbra of the Moons Disk,
+signifies little or nothing; Astronomers make more ado about it then needs.
+Brother Tar, have a care of peeping on an Eclipse of the Sun through a
+Telescope, for endangering the Eyesight, as I knew one Captain Norgrave did: I
+will tell thee the best way I know for observing Eclipses of Sun or Moon, take
+a Looking-Glass, set it before thee, so that thou may see the Sun or Moon by
+Reflection on the Glass, then with a Perspective, or two or three Foot
+Telescope, look on the Looking-glass for the Sun, etc. or you may have smoaked
+or red Glasses, to save the Eyesight. That the Longitude may be found by the
+Moons Eclipsing any of the rest of the Planets, or any known fixed Stars, is as
+certain, as by Eclipses of the Sun or Moon: If Mr. Halley was capable to
+observe the transit of the Sun and Mercury, as appears by these words, viz.
+Schema Solis ad ingressum Mercurii St. Hellena, Anno 1677, October. 28th, 9h 26
+40 P. M. surely with ordinary Telescopes, we may be capable to observe, when a
+Star begins to Culminate and limerge in (or near) the Moons Disk. Of or
+concerning Longitude by the Moons Approach and Apulses to fixed Stars, this
+some think will be the most Practicable way for Seamen, (yet mentioned) when
+the Theory of the Moons motion is better known. Mr. F. has ingeniously written
+to this purpose, in his Doctrine of the Sphere, Annexed to Sir Jonas Moors
+System Mathematics, to which I advise you. It is said, that the Moon moves
+swifter at New and Full, then at Quarters. To find the Moons place by
+Observation, the most Ingenious Mathematical way is, by taking her distance
+from two known fixed Stars; see Mr. Seller's Practical Navigation. The Doctrine
+of the Sphere, problem 20. but few Seamen understand the Affection and Solution
+of Spherical Triangles, that way is tedious and troublesome; I know Seamen care
+not to take so much pains, besides the trouble of finding the Moons Parallax;
+and contriving Instruments for taking her exact distances from fixed Stars; the
+Moons place may be found Geometrically, by Scale and Compasses; or on large
+Maps of the fixed Stars; first, knowing her distance from any two known Stars
+in that Map; but an easier way is, if we could contrive an Instrument to take
+her difference of Longitude from any fixed Star, at one distance, which I think
+not impossible, especially when she is near the Meridian, or Nonagesima, and
+then is the best time of Observing. Illuminatio Lunae per Solemn. see Mr.
+Sellers, his Atlas Coelestis, in the Figure taken from P. Gassendi, Institutio
+Astronomia, lib. 2 cap. 26. etc. The Moon being a round Body, and receiving its
+Light from the Sun, it follows, that always one half of it, yea, somewhat more,
+must be enlightened by him; for seeing that the Sun exceeds the Moon in
+bigness, and that the bigger Spheres always enlightens above half the less, it
+does follow, that above one half of the body of the Moon must always be
+Illuminated. And seeing that the Moon alters her position, and in running about
+the Earth, does variously Face the Sun; it must needs be, that according to its
+various Access to, or Recess of the Sun, less or more of the Illuminated half,
+will appear to us; which Variations of her appearances, are commonly called her
+Phases. The Moon is never less Enlightened, then when she is at the Full, or in
+opposition with the Sun; because when she is Full only, that part toward us is
+Enlightened; whereas when New or in Conjunction with the Sun, she is wholly
+Illuminated, that part which is then toward us, being Enlightened by the Earth,
+and the other part that is turned from us by the Sun. For the Moon does not
+only borrow her Light from the Sun, but receives some weak Illustration from
+the Earth; because the Earth being an Opake Body, must of necessity reflect
+part of her received Light; and forasmuch as the Earth is bigger then the Moon,
+consequently more Light must be derived from the Earth to the Moon, then from
+the Moon to the Earth. This is confirmed by Experience, because this Secondary
+Light, as Galilaeus calls it, after the first Quarter, quite vanishes, by
+reason of the Moons being too far distant, and without the bounds, to which the
+reflected beams of the Earth reach. Le Grands body of Philosophy, see Fig. 30.
+part. 5. Chap. 20.
+
+Now if the difference of the Moons Phases, or the quantity of her Illumination
+by the Sun, be mensurable by Instrument, then this Method may happen to prove
+good for finding the Longitude. In the Ph. tr. N. 29. p 451. is a Description
+of an Instrument for dividing a Foot into many Thousand parts, and thereby
+measuring the Diameters of the Planets, to great exactness, etc. Also see Ph.
+tr. N. 21. p. 373. concerning a way for taking the Diameters of the Planets,
+and for knowing the Parallax of the Moon, etc. The consideration hereof I
+humbly recommend to the Ingenious, more especially to the Royal Society of
+London.
+
+I had almost forgot; I desire you to take Notice, that one good Map of the
+fixed Stars, may serve for ever, without Alteration (save that it may decay in
+time, which bad usage, or a little Alteration, of the Suns Declination, which
+is scarce worth our notice in one Hundred Years,) provided that either the
+Equinoctial, or the Ecliptic Line, (in those Maps) be made to slide upon it,
+and then it is only sliding them a little every Year, according to the
+Praecession of the Aequinox; the like ought to be considered in Celestial
+Globes and Planispheres; also one good Table of the fixed Stars places, may
+serve for ever, by adding only the Praecession of the Aequinox.
+
+CHAP. VII. Longitude by Jupiter's Satellites.
+GAlilaeus, in the Year 1610, the 7th of January, at the first Hour of the
+Night, discovered 4 less Planets about Jupiter, which like so many little Moons
+are whirled round him. Those of them which are nearest to Jupiter, move more
+swiftly, than those which are more remote. The Revolutions of those Secondary
+Planets are thus Calculated; the innermost Satellite, revolves to the Sun in 1d
+18h 28 36 so precisely, that in 100 Years, the difference is not sensible; The
+Periods of the Revolutions of the other Three Satellites to Jupiters Shade, are
+as follows.
+
+d h Period Secundi. 3 13 17 54 3 Period Tertii. 7 3 59 39 22 Period Quaerti.
+16 18 5 6 50
+
+The Attendants of Jupiter, whenever they enter the Verge of his Shadow, do
+suffer an Eclipse after the same manner, as the Moon does, when she dips in the
+shadow of the Earth, and are totally deprived of Light, as being Opake Bodies,
+which borrow their Light from the Sun. The 3 first of these in every
+Revolution, produce 4 Eclipses; the first, when the Satelles enters into the
+Rim of Jupiter; the second, when the shadow of the Satelles, does darken the
+Rim of the said Planet; the third, when the upper part of Jupiter, at his
+Elongation from us, does hide the Satellites; and the 4th, when the Satelles
+dips in the shadow of Jupiter, so as that the first Satelles, within the space
+of 7 Days, does effect 16 Eclipses; the second 8, the third, 4; so that all of
+them together, produce 28 Eclipses; the fourth, after that he has reached the
+Nodes, does make 4 Eclipses in 17 Days; but when near his bounds, he never
+suffers a defect of his Light, because his Latitude is so large, that he never
+touches the Rim of Jupiter, or reaches his shadow. These Eclipses are of great
+use, in order to the determining of the Longitudes of places. Le Grand's
+Philosophy. But the Eclipses for our purpose, is only the Immersion or Emersion
+of the Satellites, in the Verge of Jupiters Shade. Many there are who prefer
+this Phenomenon before others; because the Satellites of Jupiter have no
+sensible Parallax; and in every position of Jupiter above the Horizon, (in the
+Night, when Weather permits,) are conveniently to be observed, with a Telescope
+of 12 or 15 Foot long, a fine danceing Instrument indeed at Sea, especially in
+a Gale of Wind, (then not manageable,) to look through a Tube of 15 or 18 Foot
+long, which has only two Glasses in it; and I have been troubled at Sea, to
+find an Object with a Perspective of 1 Foot and a half long, which has only
+two Glasses in it; therefore at Sea, for the better finding an Object, we
+commonly use Telescopes with 3 or 4 Glasses in them, of three or four Foot
+long, (the Telescopes) through which I have often looked for Jupiter, but never
+could see his Satellites through one of that length; and what must we do for
+the Longitude, when Jupiter rises and sets Cosmically or Acronically, as in
+September, this Year: but we will suppose the best, that the Weather should be
+so fair, and Sea smooth, that we may possibly get Observations two or three
+times in a Month, indeed it would be a very great help and satisfaction to us,
+if the Observations proved good. Mr. Colson, an able Mathematick Teacher, told
+me, he had near one Hundred Observation by him, made at Sea, with a Telescope
+of 6 Foot long, which he contrived with a convenient apparatus, for manageing
+it. I have one 5 Foot long, in which I have seen the Satellites; keep your
+Glasses very clean, especially the Object Glass, from Mists or Dews. I desire
+to know what we shall do for Tables of Jupiters Satellites, for Years to come,
+(always for four Years at least,) Mr. Parker in his Ephemeris, has inserted a
+Catalogue of the Eclipses of Jupiters Satellites visible, under the Meridian of
+the Observatory, (I suppose he means the King's Observatory in Greenwich-Park,)
+or near it in the Year 1696. But what must they do for such Tables every Year,
+that are in the West and East Indies; a late Author in his Book Printed Anno
+1695, has inserted two Years Tables for the time past, viz. 1693 and 1694.
+borrowed perhaps out of some old Ephemeris; it is well he said something of the
+time past, its likely he knew little or nothing of what was to come; yet some
+of our able Astronomers revile and reflect on our Seamens Ignorance, because
+the Seamen, (as they say,) cannot find the Longitude, Indeed I think our Seamen
+have most cause to rail at our Mathematicians, that have done nothing, (as I
+know of,) to any purpose, for the Encouragement or Improvement of Navigation,
+for almost 20 Years past, (except a Tide Table,) as I shall prove by Sellers's
+Practical Navigation, the most useful Book for Seamen yet extant, and the
+Impression worse now, then it was almost 20 Year ago; compare the Tables of the
+Suns place and Declination, in the 7th Edition of the Practical Navigation,
+with Tables of the Suns place and Declination in Parkers Ephemeris, for this
+Year, and you will find considerable difference; and that the Impression was
+better 18 or 20 Years ago, I prove by Page 330, viz. A Table of the Variation
+of the Suns Declination, to be applied for Years to come, etc. If the Tables
+were the same, as in Anno 1680, or thereabouts, we might by the said Table of
+Variation, have Corrected the Tables of the Suns Declination, but there is
+imposed on us, new dates of Years, etc. The aforesaid Book wants Correction
+very much; there is wanting in it a larger Table of difference of Latitude and
+departure, such a one as is in Colson's Calendar; the Tables of the Suns right
+Ascension, ought to be more large, and Calculated to Degrees and Minutes, to a
+certain Year, etc. Pardon this Digression, now to our purpose again; since we
+are unfurnished with fitting Tables of all the said Satellites, I recommend you
+to the best I know of, viz. See Ph. Trans. N. 214 p. 237. to 256. Monsieur
+Cassini, his New and Exact Tables for the Eclipses of the first Satellite of
+Jupiter, reduced to the Julian Style and Meridian of London, etc. But in
+Calculating the Eclipses of the Satellite by the said Tables, there sometimes
+happens an Error of 3 or 4 Minutes of time, I believe I know how to Correct
+that Error, (though it has baffled the Ingenious,) and would a done it here,
+if it had no required Figures or Cuts for Demonstration. Saturn has also five
+Satellites attending him, but are not accounted so worthy our notice for the
+Longitude, as the former, therefore I pass them in Silence.
+
+The Sun, Jupiter, and all the rest, (except the Moon,) of the Planets, have a
+Circumrotation in their own proper Vortex, as Telescopial Observations
+testify, by several spots that appear in their Phases. Perchance it may be
+said, why have not I furnished this Book with regular Tables of the Moons
+motion, and of Jupiters Satellites: It would be a very unreasonable demand to
+require them from a Man that has wanted both Books and Instruments, (till now)
+also conveniences and opportunities, having only a small Cabin, sometimes not
+high enough to stand upright in, nor my length to lie down in; insomuch, that I
+have been obliged to borrow both Books and Instruments, for the common Practice
+of Navigation, besides the Circumstances of my Imploys, and many other
+Inconveniences, that might and did attend such Studies and Observations. I
+will conclude this Chapter with the following words, which I take, to be the
+Ingenious Mr. Flamstead's, viz.
+
+As by Lunar Eclipses, so also by the Eclipses of Jupiters Satellites, the
+difference of the observed Moments of the Occultation or Emersion of a
+Satellite from his shadow, noted carefully in two distant places, will be the
+difference of Meridians, betwixt these two places in time; but I cannot hope
+that this Method shall prove of much use to the Ingenious Seamen, because the
+Observations require long Telescopes, which in a Ship will hardly be
+manageable; nor can we expect to find the difference of Meridians, by one only
+Observation of a Satellite Eclipse, as we have hopes we may by a Lunar, by
+reason that as yet, the inequality of their motions, and the time required for
+the transmission of Light from the Planet to our Earth are unknown; nay, their
+mean motions are scarce so exactly stated, but that we may Justly suspect them
+Erroneous; omitting these therefore, the best Method for the discovery of the
+Longitude, will be in my Opinion, (I am dubious, he is now of another Opinion,)
+by the Moons Apulses to, or observed distances from fixed Stars, upon which
+Accoun I would recommend the Improvement and Correction of her Theory, with the
+Doctrine and Construction of Apulses, to the Study of the Ingenious Astronomer
+and Seamen. Humanum est Errare, I had almost forgot, Mr. Newton has contrived
+an Instrument for his own use, to see Jupiters Satellites by reflection, on
+well polished Mettle; the Instrument is about 15 Inches long, as some say,
+other 9 or 10 Inches, and call it a reflecting Telescope; I am informed it is
+of little or no use. I have not seen any of them, therefore can give you no
+better Description. I also add, To tell some Masters of -- of Jupiters
+Satellites, is like telling a Story to a Bear; they know better how to manage a
+Cann of Phlip. The setting and well-manageing a Telescope, is of great
+Consequence.
+
+CHAP. VIII. Conclusion.
+OMnia probate, quod bonum est tenete. That which I have written in this Book,
+I designed for the public good of Mankind; in which I hope I have not offended
+God. If any Arts or Sciences, Commerce or Trade, be Good and Just in their
+kind, then what I have writ concerning Longitude, is Good and Just in its kind,
+that is, if it be not Abused: Though there was an Officer in the Navy, (as I
+was informed,) who Cursed and Damned the Man that should discover the
+Longitude; thou Old, Inveterate, Rusty, Musty, Filthy, Cankered, Carnal Devil,
+for Cursing down upon thy Marrow-bones, (if thou have any,) and ask God
+Almighty forgiveness for thy Sins, know that it it is not in thy Power to Damn
+any Man but thy self: God who suffered the Earth to be Inhabited by Angels, for
+an infinite number of Ages, before he Created Adam, and then expelling them
+hence for their Wickedness, and turning them to Devils, gave this Globe for a
+dwelling place to Men; grant that the enormous Crimes of Mortals, may not
+provoke him to Exterminate our Humane Race, and restore the Devils to their
+Ancient Habitations, Tur. Spy. Vol. 3. Page 359.
+
+But as for that one Man, (I doubt there is more such,) aforesaid, I believe He
+did not speak it then out of Ill Will to me, but to some other Person, or
+rather rashly or unawares; I believe his meaning at that time was, that this
+ungrateful World did not deserve so great a Blessing, or so worthy a Science. I
+am thinking what my Country will be pleased to say of me, if they call me
+Astrologer, I give very little Credit to Judicial Astrology, nor do I profess
+any such deceitful lying Arts; if Maggoty, its an Expression for Fools, and
+their bolt is soon shot; if Star-Gazer, I answer, a Star-Gazer is better then a
+Booby; some may Envy me, some Laugh and Scoff at me, (a common Method to solve
+their own Ignorance,) others Mock and Ridicule me; so our Predecessors did at
+Columbus, when he came hither to offer them the discovery of the World, and
+ought not they to have been Recorded for F -- s, as (some say,) the Pope was,
+that Anathematized the Bishop of Scrasburg, for writing of Antipodes. But now I
+think on it, I have a reserve which they are not like to know yet a while. As I
+have heard say, the Venetians have offered Rewards; the States of Holland (as I
+was informed,) some Years ago, took this Science so much into their
+Consideration, that they offered Ten Thousand Pounds, to any Man that was
+capable to discover it; Thomas Axe, an Englishman, left a Legacy of One
+Thousand Pound, (never to be paid I think,) to any Person that should discover
+the Longitude, within the space of Ten Years after his Decease, if his Wife and
+Child died Childless in that time; besides, it is to be approved of by the four
+Professors of Geometry and Astronomy, in Oxford and Cambridge, for the time
+being, and at least twenty Experienced Masters of Ships, that shall have made
+several Experiments thereof in long Voyages. Affidavits are to be made before
+the Twelve Judges of England, etc. He dyed in the year 1691, and I think took
+care enough, that the said one Thousand Pound should be Irrecoverable; indeed,
+I have little better Opinion of either the Venetian or Dutch Gratuities; States
+may be mistaken in their Policies; God Almighty never ordained that this
+Science should be well known to the World, by fraudulent means, but if their
+designs be real, (as you may suppose,) where is the Encouragement? I know not
+how to recover my Cost and Charges, though I have laid (and shall the rest by
+and by,) most of the ground work at my Charge; where is the Money to raise and
+perfect the Work? There is -- Pounds wanting, present Pay, toward the Charge
+of making two wonderful Instruments, for the first making of the Instrument,
+will be very Chargeable; one of them may prove far more chargeable then the
+other, and yet when it becomes common, it may be sold at a low Price, I Judge
+under fifty Shillings; yet before the Instrument can be brought to such
+Perfection, as to show two or three Examples, may cost several Hundreds of
+Pounds, and for ought I know, take up most part of a Year, to accomplish them,
+it is an Instrument that must be truly Cut and Polished, a small matter of a
+false sweep or stroke may quite spoil it, and make it good for little or
+nothing; therefore one Hundred of them may happen to be spoiled before we can
+get the right Art of making them; neither of them will suddenly be fit for
+Seamens Practice, because the Natural motions that one of them is to show, are
+at this present writing, I believe, unknown to the World; therefore reasonable
+time is required to Calculate the Theories of those motions. I will give you a
+brief Description of one of the Instruments, it is one or two, I know not well
+which to call it, it is round, its Diameter about 8 or 10 Inches, may be a good
+size, it is not altogether flat nor Unequal, nor Concave, nor Globular, it
+contains several Circles exactly swept even, to a Hairs breadth, the Areas of
+each Circle, must have their just proportions, but have no visible point for a
+Center, nor are the Circles Cut and raked in its Surface, but ought to appear
+above it; it has no straight Lines, save only in its Frame of -- which must be
+divided into 360 Degrees. and subdivided, etc. it is Scioptrick, Dioptrick,
+Catoptrick, P -- S. -- K. and P. -- H -- K. and whereas most Secrets seem most
+wonderful before they are discovered; this Instrument will seem most wonderful,
+when the best Description is given of it, and when put to common use; to give a
+true and perfect Description of its secret properties, like the Loadstone, may
+puzzle the Oxonian Sophist, or Parisian Sorbonist; but this I give for one
+Aphorism, Natura nil agit frustra; I hope it may answer our designs in the
+Longitude, nisi Argentum agit frustra; but all is in the Power of God; it is an
+Emblem of Trinity, Trinity in Unity, and Unity in Trinity. Indeed I have but
+little more Knowledge of it, then is in the Idea of my Brain, for the
+Experimental part is most wanting, but the World may believe, that I can
+produce sound Principles and Evinceing Arguments for my Opinion, else I should
+not have made it so public; delays are dangerous, Ars longa, Vita brevis; but
+if it please God, I should be glad to live to see this Art come to such
+Perfection, as to be fit for Seamens Practice, during the natural Course of my
+Life. Reader, believe if you please, that he that writ this, could a writ more,
+and more to the purpose, if he would; I think it enough for five or six Weeks
+Time and Study, and abundance too much, if for a Gratuity, I may suck my Paw,
+or only my labor for my Pains; future Ages may be more Competent Judges, but
+my Mind will be easier when this Book is Published, because therein I have done
+my Duty, and eased the burden of my Brain. If in this Treatise have seemed to
+reflect on any Person, it is my Dialect, I desire their Excuse; I Envy no Men:
+Envy and Ingratitude, is most natural to some, whose Duty it is to understand
+these things and their Capacities, cannot reach them. If any Person is minded,
+or can, or will undertake to Correct or Amend what I have writ, I wish them
+good success; I desire them to own what they borrow, and not to reflect without
+just cause; it is difficult to write such a Book as this is, (I think it is the
+first of this nature,) without Faults; it is likely I my self may find some in
+a Years time, that if I were to write over again, I could amend; I dare affirm,
+that this Book contains some estimable Expressions and Methods, fit for Seamens
+Knowledge and Practice, and such as have not been formerly Published; there are
+some Persons in England, whose Duty it is (being paid for it,) to improve
+Navigation and Astronomy, and from whom much is expected, and little or nothing
+of purpose appears.
+
+It is my Opinion, that the appearances of Comets may be found by Calculations,
+if any Person capable, think it worthy his trouble. Concerning this Book, the
+common Vogue will be, viz. but will it do, is it the Longitude, I say? Yes, it
+is the Longitude begun, and will do with Industry and Encouragement, else not;
+for it is contrary to Seamens Vulgar sayings, that when the Longitude is found,
+then there will be abundance of Artists, Navigation will be so easy: No, no,
+Navigation will not be so easy at present, but much more certain and true. The
+Learned Bacon said, the Longitude was worth a Kingdom to a Wise Man; but before
+I conclude, to return to my Instrument, the Description I have given thereof,
+avails little, without my further assistance; till then, the Reader if he
+pleases may compare -- to Foxes staring on Bunches of ripe Gripes, and cannot
+get at them; then they are too sour for them: for so my Dream intimates, when
+I was among a Crowd of Foxes, awed at my Presence, and after I had looked on
+them, they vanished, and left me other Objects. The most Ingenious of Humane
+Inventions, is far less facile then the ordinary performances of Truth and
+Nature. I love my King, the Church of England, and my Country, and I thank my
+God, I know my self capable and worthy to serve them, though too much debased
+for want of Friends in Court. If this meet with its deserved Encouragement, the
+rest may follow in good time; but I must make haste and conclude, my attendance
+and dependence being required in our Navy Royal, which Duty, I dare not
+neglect, for fear of being Excommunicated, or which is as bad, Excluded from
+Preferment. Quamvis been merenti.
+
+Nil tam difficile est quod non Solertia Vincat.
+Te Deum Laudamus.
+FINIS.
+ERRATA.
+PAge 2. l. 9. r. plane. p. 17. l. 8. r. Zulichem. p. 20. l. 6. r. cert is. l.
+9. r. Industria. l. 19. r. an Idea. p. 28. l. 3. r. Bond. p. 29 l. 5. r. the
+increase. p. 30. l. 3. for me, r. one. l. 17. for by, r. with. p. 31. l. 22. r.
+though. l. 23. r. suppose. p. 36. l. 12. add when Northerly. p. 37. l. 10. r.
+preceding. p. 59. l. 27. for P. M. r. A. M. add Schema Solis ad Exitum
+Mercurii, St. Hellene, Anno 1677. October. 28. 2 h. 4 P. M. p. 55. l. 10. r* will
+be. p. 63. l. 27. r. with. p. 70 l. 2. r. Sun and Stars.
+
+

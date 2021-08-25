@@ -1,0 +1,696 @@
+A BRIEF ENGLISH TRACT OF LOGIC.
+
+Printed Anno Domini 1677.
+
+A Tract of Logic.
+LOGIC has it is name from (...), because it is an Art which teaches to Reason
+and Discourse.
+
+There is a twofold Logic, One Natural, which is nothing but natural reason,
+or of which every man (that is not an Idiot) does in some measure partake: The
+other Artificial, which is the perfection of the Natural, nam Ars perficit
+naturam: this belongs only to Scholars.
+
+According to a Threefold Act of the Understanding, Logic is divided into
+Three parts.
+
+The First treats of Simple or Single words, in order to the understanding and
+best apprehension of Simple things.
+
+The Second treats of Propositions, Affirmative, and Negative, wherein one
+thing is either denied or affirmed of another: these are called Voces
+complexae, and the knowledge of them does direct the mind in judging what is
+true, what is false; what things may be joined together in an Affirmative
+Proposition, what things ought to be separated in a Negative.
+
+The Third part of Logic treats of several Forms of Argumentation, as of a
+Syllogism, E^^hyment, Induction, Example, Sorites, Dilemma, Violentum;
+instructing us how to Discourse and Argue, and directing the mind rightly to
+judge betwixt a true and falls Consequence, when the Conclusion does rightly
+follow from the Premises, when it does not. For the better understanding
+Propositions and Syllogisms, see the little Tract of a Syllogism, and Breerwoods
+Elem. Log. etc.
+
+The First part of Logic, (as has been said,) treats of Simple words, which
+are words of the First Notion, as Homo, Animal, Brutum, Equus; or of the Second
+Notion, commonly called words of Art, known only to Scholars. Of these two
+sorts of words, the First part of Logic Treats; 1, Of certain words of Art,
+called Predicables; 2, Of Common words of the first Notion, called Predicaments.
+
+The Predicables show the manner how in a Proposition a Predicate is affirmed
+of the Subject; whether Essentially or Accidentally; whether Necessarily or
+Contingently.
+
+There are Five Predicables, viz. 1, Genus, which we call the Common kind; 2,
+Species, which we call the Special kind; 3, Differentia, which we call the
+Difference; 4, Proprium, which we call Propriety; 5, Accident, which we English
+an Accident. Now every Predicate in every Proposition is one of these Five. As
+for Example, Petrus est animal; Animal is the Genus, or the Common kind of
+Peter: for if you ask what kind of creature Peter is, I answer he is an Animal
+or Sensitive Creature. Petrus est homo; homo is the Species or the special kind
+of Peter: Petrus est rationalis; rationalis is the Differrence by which Peter
+is distingushed from a Beast which is unreasonable: Petrus est risibilis;
+risibilis is the Propriety of Peter, for it is only Proper to a Man to laugh:
+Petrus est albus; albus is the Accident, for it is Accidental to Peter to be
+White, for he may be any other Color.
+
+That these Five Predicables may the better be understood, I will set down
+their several Definitions.
+
+Genus, or the common kind, is that which is Predicated of many things, which
+do differ in special kinds: as for example, Animal is a Genus which is
+Predicated of a Man or a Beast, for both are Animals, and both differ in kind.
+
+Species or the Special kind is that which is Predicated of things of the same
+kind, Differing only in Number, or Singular Nature; as Homo which is Predicated
+of each particular Man.
+
+Differentia or Difference is that Predicable, by which one thing does differ
+from another Essentially, as Rationale, which makes a Man differ from a Beast.
+
+Proprium or the Propriety is a Predicable which belongs to all things of the
+one or the same kind, and only to them and always; as Risibilitas which
+belongs to all Men, and only to Men and always to them, for albeit no Man
+laughs always actually, yet every Man has always the power to laugh.
+
+Accidens, or an Accident is that which may be Absent, or Present without the
+Destruction of the Subject, wherein it is: as Cold or Heat is an Accident in
+respect of the Water, wherein it may be, or not be, without destruction of the
+Water.
+
+Of Accidents there be two sorts: some Separable, as Cold in respect of the
+Water: others Inseparable, as Heat in respect of Fire; Blackness in respect of
+a Crow, which cannot be really Separated from Her, but only in conceit: for we
+may conceive a Crow to be without Blackness, without taking any thing from Her
+Nature or Essence.
+
+Having showed how many things may be Predicated in a Proposition, it is
+requisite in the next place I discourse of the Nature of things themselves.
+
+All things in the World are generally reduced to two Heads, Namely Substances,
+and Accidents: for whatsoever is in the World is a Substance or an Accident.
+
+Magnus Aristotle's trutinando cacumina rerum,
+In duo divisit quicquid in orb fuit.
+A Substance is a thing which can subsist of it self: as an Angel is a
+Substance: so also is a Man a Substance, a Horse, a Dog, briefly whatsoever
+things you see, are Substances: yea many things you cannot see, are Substances;
+as God, Angels, the Air, the Wind, are all Substances. If it be said, I see
+Colors, as Whiteness in a Wall, Redness in a Cloud, which are not Substances
+but Accidents; I answer, When I say all things seen are Substances, I mean not
+Colors or Figures of things, but the things under those Colors: as the
+Whiteness of a Wall is not a Substance, but the Wall under that Whiteness.
+
+In the Second place, an Accident is a thing which cannot subsist of it self,
+but is always upheld by some Substance wherein it resides: as for example;
+Length, Breadth, Thickness, any Color whatsoever; Vice, Virtue, Action,
+Passion and diverse other things are all Accidents, residing in Substances: as
+Virtue or Vice in a Man, Color in a Wall, Length or Breadth in a Table.
+
+Because this division may seem too general, therefore Logicians use to divide
+things into Ten Heads, and to place them in Ten Rows or Ranks, which they call
+the Ten Predicaments; wherefore the ^ is Substance, the 2 Quantity, 3 Quality,
+4 Relation, 5 Action, 6 Passion, 7 Place, 8 Time, 9 Situation, 10 Habit, which
+are all intimated in these Verses.
+
+Arbor Sex Servos Fervore Refrigerat, Ustos
+Rure Cras Stabo nec Tunicatus ero.
+A Tree Six Servants Burnt with Heat Refresht,
+To Morrow I Will Stand in the Country all Undrest.
+In the 1 Rank which is called the Predicament of Substance, are placed all
+Substances in the world. Now there are several kinds of Substances, some
+Incorporeal, as Spirits: some Corporeal, which are either Simple, as the
+Heavens, the Sun the Moon, and Stars; as also the Four Elements, as the Fire,
+Air, Earth, Water; or Compounded and made up of these Four Elements. And these
+are either Inanimate, and without Life, as Stones, Coals, Silver, Gold, etc. or
+Animate, as having Life, which are also of two sorts, some having Life and no
+Sense, as Grass, Plants, etc. others having Life and Sense: which again are of
+two sorts; some having Life, Sense, and Reason as all Men; others having Life
+only and Sense, as Birds, Beasts, Worms, Serpents, and Fishes.
+
+All these sorts of Creatures are Substances. The Second Predicament is
+Quantity. In this Rank are placed all Quantities, whether they be Multitudes,
+as Numbers; or Magnitudes, as Length, Breadth, Thickness, Now Logicians call
+Length, Linea, Breadth, Superficies, or Outside, Thickness, Corpus.
+
+Of Length, or Lines there be Two sorts; some Straight, others Crooked. A
+Straight Line is that which lies directly betwixt Two Points.
+
+Of Crooked Lines there be many sorts: but the chiefest is a Circle or Round
+Line drawn Round about a little Point in the middle, which we call the Center.
+
+The Third Predicament is of Quality. In this Predicament are placed all
+Qualities, whereof there are Four kinds; 1, Habit; 2, Natural Abilities; 3,
+Sensible Qualities; 4, Figures or Forms.
+
+1, An Habit is a Quality gotten by Industry and Labor: as the Habit of
+Discourseing Well, the Habit of Writing Well, of Harping, Dancing, or the Habit
+of Justice, Fortitude, Temperance, etc. All Virtues, or Vices of the Mind are
+Habits. 2, Natural Power or Ability is a Quality Naturally Implanted in us, not
+purchased by our Pains or Labor; as the power to Walk, Speak, See, or Laugh.
+3, Sensible Qualities is whatsoever we See, as all Colors: whatsoever we Hear,
+as all Sounds: whatsoever we Taste as all Sapours: whatsoever we Touch, as Heat,
+Cold, Roughness, Smoothness, Softness, Hardness. 4, Figure or Form is the
+outward Fashion of things; as the Figure of a Man in his Body or Face, the
+Figure of a Table which is Square or Quadrangulate, the Figure of a Ring which
+is Round, the Figure of a Bowl or Globe which is also Round, and of this Figure
+is the World which is also Round, wherein the Earth is placed as a Center
+Encircled by the Heavens, and in Comparison of them it is not bigger then yonder
+Center in respect of that Circle.
+
+
+Of Relation.
+In this Predicament or Rank, are put all Relations whatsoever: as the Relation
+betwixt Father and Son, Master and Servant, Tutor and Scholar.
+
+A Relation is a mutual respect betwixt things which we call Relative and
+Correllative: as Similitude or Likeness, is a Relation betwixt Two things that
+are like.
+
+Every Relative has his Correllative: as every Father has a Son or Daughter,
+every Master a Servant.
+
+No Relative is before his Correllative: as the Father, as he is a Father is
+not before or Elder then his Eldest Son or Daughter: for before he had that
+Child he was not a Father.
+
+Of Action.
+In this Predicament or Rank are all Actions; as Judging, Playing, Leaping,
+Running, etc.
+
+Passion.
+Here we place all Passion or Suffering, as to be Beaten, Pulled, or Burnt, etc.
+
+Of Place.
+As the Place of Men is the Earth, the Place of Fishes is the Water, the Place
+of Birds the Air.
+
+Of Time.
+As to Morrow, to Day, Yester^day, etc*
+
+Of Situation.
+Wherein are all Postures, as Sitting, Standing, Lying, and Kneeling.
+
+Of Habit.
+As to be Apparrelled with Gown, Cloak, Breeches, etc.
+
+CAP. II.
+HAving ended the Predicaments, which are Ranks of things; in the next place,
+we will speak of Causes, Opposition and Motion, which we will make our Post
+Predicaments, or things belonging to the Predicaments.
+
+There is but one thing without Cause, and that is God. For he being the Cause
+of things, was not made or caused by any thing.
+
+A Cause is that of which, or by which, or for which a thing is made.
+
+There are Four Causes of things, the Material, the Formal, the Efficient, and
+Final, which are in Latin thus Named, Materia, Forma, Efficiens, Finis. The
+Matter is the Cause out of which a thing is made; as the Matter of an House is
+Timber and Stone: the Form is the very Fashioning and Joining together of the
+Matter: the Efficient is the Carpenter: the Final cause is Habitation; for an
+House is made to dwell in.
+
+Thus the Material Cause or Matter of a Man is his Body, which is made of the
+Four Elements, Earth, Water, Air, Fire: the Form is his Soul: the Prime
+Efficient Cause of a Man is God, though the Second Cause be his Parents: the
+End or Final Cause is Gods Glory; for God made Man for his own Glory.
+
+CAP. III.
+OF things in the World, some do agree the one with the other: some do
+dis-agree, and are opposite one to the other, as Heat and Cold, Black and
+White, which are contrary; Light and Darkness, Seeing and Blindness. Blindness
+is the Absence or Privation of Seeing. Now there is a double Privation of
+Seeing, the one in part, which is Privation only of the Act of Seeing; as when
+you Sleep, you do not absolutely See: the other is whole or total, viz, a
+Privation of Act, Power, and Possibility. Such a Privation of sight is in a
+Blind Man, who neither actually Sees neither can he See.
+
+If it be demanded whether or no a Stone be Blind; I answer, It neither Sees
+nor yet is Blind, for albeit there is an Absence of fight in a Stone, yet there
+is no Privation; because that Privation is an Absence of a thing which ought to
+be in: but Sight ought not to be in a Stone, therefore it wants it not.
+
+CAP. IV.
+MOtion or Mutation which are in Latin called Motus, is nothing but a change
+of things one thing from another. Now things may suffer a change either in
+Nature or Substance, or else in Accident or Quantity, Quality or Place.
+
+Hence Logicians make mention of Six kinds of Motions or change, Generation,
+Corruption, Augmentation, Diminution, Alteration, Local Motion.
+
+Generation, is a Motion or change from not being to being: as when that which
+was not a Man is now made a Man.
+
+Corruption, is a change from being to not being: as when a Man dies he changes
+his being and becomes Dust and Earth.
+
+Augmentation, is a change from a lesser to a greater Quantity; as when a Man
+grows bigger and bigger.
+
+Diminution, is a change from greater to lesser Qauntity; as when a Man goes
+lesser and lesser.
+
+Alteration, is a change from one Quality to another; as when Water is changed
+from hot to cold.
+
+Local Motion, is a change from one Place to another; as when a Man goes from
+his Chamber to the Hall, from Oxford to Londan. In every one of those Motions
+there are Two bounds: the First where the Motion begins, which we call terminus
+a quo; the other where the Motion ends, which we call terminus ad quem: as if
+you go from Oxford to London, the Terminus a quo is Oxford, the Terminus ad
+quem is London.
+
+An Example of fall Syllogisms.
+1. HE that says Socrates is a living
+Creature, says true:
+He that says Socrates is an Ass, says
+He is a living Creatute: Ergo
+He that says Socrates is an Ass, says true.
+2. Every reasonable Creature is a living Creature:
+only Man is a reasonable Creature: Ergo
+only Man is a living Creature.
+3. Whatsoever you bought, you Eat:
+But you bought Raw Meat: Ergo you Eat Raw Meat.
+4. Whatsoever is in the College, is in the World:
+But there is but 60 Men in the College: Ergo
+there is but 60 Men in the World.
+5. What you have not lost that you have,
+But you have not lost a Thousand
+Pounds, Ergo you have a Thousand Pounds.
+6. Either your Wit is within you or without you,
+If it is within you then are you without Wit,
+If it is without you then you have no Wit in you.
+7. No Money is better than Gold,
+I have no Money, Ergo
+I have that which is better than Gold.
+CAP. I.
+A Tract of a Syllogism.
+A Syllogism is a form of Argumentation, wherein certain Premises or
+Propositions being set down and granted, it is necessary another Proposition; (
+i.e.) the conclusion should follow, see Breerwoods Elem. Leg. p. 25.
+
+Of Syllogisms some be Categorical, and absolute as thus, Omne Animal est
+Corpus,
+Omnis Homo est Animal, Ergo
+Omnis Homo est Corpus.
+
+
+Others are Hypothetical or Conditional as thus, Si Homo est Animal, est Corpus
+at Homo est Animal, Ergo
+Homo est Corpus.
+
+
+These are more imperfect than the other, and therefore may be reduced unto
+them as thus, Omne Animal est Corpus,
+Homo est Animal, Ergo
+Homo est Corpus.
+
+
+In every Categorical Syllogism, there are Thee plain Categorical Propositions,
+the First whereof we call the Major, the Second the Minor, the Third the
+Conclusion. Breerwood ut supra.
+
+Nov an Indicative speech is Congruous, perfect, signifying truth or falsehood,
+without ambiguity. Breerwood Log.. 1.
+
+Of Propositions some be plain and Categorical as thus, Homo est Animal.
+
+Some Hypothetical made by way of Supposition as thus.
+
+Si Homo sit Animal, tum est Corpus. Which Proposition consists of two
+Categorical ones, the former whereof is called the Antecedent, the other the
+Consequent; both which in the former instance are joined together by the
+Conjunction or Copula (tum) Breerwood. 22.
+
+A Categorical Positive Proposition is that which consists of a Subject,
+Predicat and Copula as thus, Homo est Animal, where Homo is the Subject, est
+the Copula, Animal the Predicat, See Breerwood. 5. Note that not every Verb may
+be a Copula to a Proposition, but only a Verb Substantive, as for example Plato
+legit librum, the Verb ( legit) is not a Copula, but the Verb est understood,
+for thus it should be, Plato est legens librum, whence note that the Copula may
+be put two ways in a Proposition, either implicity as thus, ( Plato legit
+librum) or expressly as thus, ( Plato est legens librum) See Breerwood.
+
+There be two parts of a Proposition, Noun and Verb, the Subject is a Noun, the
+Predicat is a Verb.
+
+A Noun is a word signifying ad placitum without time, finite, right or of the
+Nomininative case.
+
+It Is said to signify ad placitum, or by Institution, because no true word
+signifies naturally; it signifies without time ( i.e.) it signifies no
+Difference of time, past, present, or to come; wherein it is distinguished from
+a Verb, whose proper nature is to denote some Difference of time; it is said to
+be finite because it signifies some thing certainly, as the word Homo, wherein
+it is distinguished from infinite, or indefinite words, as ( non Homo) which
+signifies any thing before a Man.
+
+Lastly all Nouns in Logic, are Voces Rectae ( i.e.) of the Nominative case,
+as Homo, Animal, whence it follows that hominis, hominem, etc. are not Nouns
+with the Logicians, See Breerwood ^. 3. 4.
+
+CAP. II.
+THe Subject, Predicat, Copula, are the parts, or matter of which a Proposition
+is made; now the parts may be joined together, either Necessarily, Impossibly,
+or Contingently: Necessarily, as thus; Homo est Animal, for it is necessary for
+a Man to be a living Creature; Impossibly as thus, Home est Asinus, for it is
+impossible a Man should be an Ass: Contingently as thus, ( Home est doctus) for
+it is Contingent for a Man to be learned; See Breerwood. 4.
+
+CAP. III.
+HAving spoken of the Substance of a Proposition, let us descend to it is
+Accidents, which are commonly Five, Quantity, Quality, Opposition,
+Aequipollencly, Conversion.
+
+First, The Quantity of a Proposition is Fourfold, Universal, Particular,
+Indefinite and Singular.
+
+An Universal is that whose Subject is a common word, amplifyed by an Universal
+Sign, such Universal Sings are Omnis quilibet, nullus, Un^^^quodque, etc. as
+thus, Omnis Homo est Animal. A particular Proposition is that, whose Subject is
+a common word restrained by a particular Sign, such as are quidam, aliquis,
+etc. as thus, Aliquis Homo est Animal.
+
+An Indefinite Proposition, is a Proposition without an express Sign of
+Quantity, but it is Implicitly, Universal or Particular.
+
+If the Predicate be necessarily affirmed of the Subject, then it is Universal,
+as thus, Homo est Animal, is as much as Omnis Homo est Animal; if the Predicate
+be but Contingent in respect of the Subject, then it is Particular, as thus.
+Homo est Doctus (i.e.) Aliquis Homo est Doctus.
+
+A singular Proposition, Differs little from a Particular one, as thus Socrates
+est Doctus; His Homo Currit, Breer.. 8.
+
+Secondly, The Quality of a Proposition is either Real or Vocal, the former is
+twofold, truth or falsity, as this is a true Proposition, Homo est Animal,
+this false, Homo est Brutum, See Breerwood. 10.
+
+The Vocal Quality called Qualitas Vocalis is either Negation or Affirmation,
+thence some Propositions are Negative as thus; Homo non est equus, or nullus
+Homo est equus, See. 11.
+
+From the Substance, Quantity, and Quality, of a Proposition a threefold
+Question, according to this Verse may arise.
+
+Quae, Ca. vel Hyp. qualis? ne vel aff.
+Un, quanta par, in, sin.
+That is if one demand, quae est Propositio? of what kind is the Proposition?
+you must answer it is either Categorical or Hypothetical, if one demands, Quanta
+est? you must reply, it is either, Universal, Particular, Indefinite or
+Singular; if one asks qualis est? you must answer it is either Negative or
+Affirmative, See Breerwood. 12.
+
+Thirdly, The Opposition of Propositions is Different in Quantity, or Quality,
+or both: There be Four kinds of Opposite Propositions, Contraries,
+Subcontraries, Contradictories, Subalterne, or Subordinate; Contrary
+Propositions are Two, Universal ones Differing only in Quality, as thus.
+
+Omnis Homo est Animal,
+Nullus Homo est Animal.
+Subcontrary Propositions, are Two Particular ones, Differing in Quality, only
+as (...).
+
+Quidam Homo est Doctus,
+Quidam Homo non est Doctus.
+Contradictory Proposition, are Two Differing both in Quantity, and Quality,
+one being Universal, the other Particular, one Affirmative, the other Negative,
+as thus.
+
+Omnis Homo Currit.
+Aliquis Homo non Currit.
+
+
+Subaltern Propositions are such which Differ only in Quality, one being
+Universal, the other Particular as thus.
+
+Omnis Homo est Animal,
+Aliquis Homo est Animal, See Breerwood. 13.
+4. Aequipollencie is the reconcileing of Two opposite Propositions, by
+placeing the word ( non) before or after the Sign, of one of those opposite
+Propositions, according to this verse.
+
+Prae contradic. post contrar. prae postque Subaltern. ( i) in Contradictory
+Propositions, ( non) must be placed before as thus;
+
+Omnis Homo Currit,
+Aliquis Homo non Currit.
+Put ( non) before omnis and these Two Propositions are reconciled, for non
+omnis homo currit is as much as aliquis homo non currit.
+
+In Contrary Propositions ( non) must be placed after the Sign; In Subaltern
+before and after, Breerwood. 77.
+
+5. Conversion is an apt Change of the Subject into the place of the Predicate,
+and e contra as thus.
+
+Nullus Homo est Equus: Ergo
+Nullus Equus est Homo.
+There be Three kinds of Conversion; First, Simple, Secondly per Accidens:
+Thirdly pur contra positionem.
+
+Simple Conversion is a mere change, of the Subject into the place of the
+Predicate, without changing either Quality, or Quantity, only an Universal
+Negative, and Particular Affirmative, may this way be converted.
+
+Conversion Per Accidens, is a change of the Subject into the place of the
+Predicate, and contra, keeping the same Quality, but changing of Quantity; only
+a Universal Negatives and Universal Affirmatives, may this way be converted
+
+Conversion by contra positionem, is a changing of finite terms into infinite,
+this belongs only to Universal Affirmatives, and particular Negatives, this
+Distick contains all.
+
+E. I. Simplicitey convertiter. E. A. per Acci.
+A. O. Per contra, sic fit conversio tota.
+By ( A) I ogicians understand an Universal Affirmative, by ( E) an Universal
+Negative, by ( I) a particular Affirmative, by ( O) a particular Negative,
+whence these Verses.
+
+Asserit. A. negat E. sed Universaliter Ambo
+Asserit. I. negat O. sed particulariter Ambo.
+Bre^.. 20.
+
+CAP. IV.
+THus much of the Material part of Argumentation, (viz.) of Propositions, let
+us return again to Argumentation it self.
+
+Argumentation is the joining together of two or more Propositions, by a
+Conjunction Illative, that one may follow from the other thus.
+
+Homo est Animal: Ergo
+Homo est Sensibilis.
+Wherein observe three parts; the Antecedent Homo est Animal, the Consequent
+Homo est sensibilis, the note of Illation. Ergo.
+
+There be four forms of Argumentation, a Syllogism, an Fnthymem, an Induction,
+an Example.
+
+In an Enthymen there be but two Propositions, as thus, Homo est Animal, Ergo
+Homo est Corpus; In a Syllogism three, and in every one of them a Subject and a
+Predicate, which we call Terms, which are put twice in every Syllogism; so that
+Albeit there be in every Syllogism, three Propositions and in every Proposition
+two Terms, yet is there but three Terms in every true Syllogism, which we call
+the Major, the Minor, and Medius; the Major Terms is put in the Major
+Proposition, and Conclusion, the Minor. in the Minor and Conclusion, the Middle
+Term in the Major and Minor, never in the Conclusion.
+
+According to the three Different ways, wherein the middle Term may be placed
+in a Syllogism, there is a threefold Figure.
+
+In the first Figure, the middle Term is the Subject in the Major, and
+Predicate in the Minor; In the second it is Predicate in both Major and Minor;
+In the third it is Subject in them both, whence this verse.
+
+Sub. prae. prima. bis prae. secunda, tertia bis sub. That the Quantity and
+Quality of Propositions in a Syllogism, may the better be observed, the
+Logicians use certain words, which they call Moods, or Forms: some set down 19.
+as Breerwood. 15. some 14. as Smith, The names of the Moods, belonging to the
+first Figure are, Barbara, Caelarent, Darii, ferio; to the second bolong
+Caesare, Camestres, Festino, Baroco; to the third Darapti, Felapton, Disamis,
+Datisi, Bocardo, Ferison, as in those following verses.
+
+Barbara, Caela^ent, (primae) Darii ferioque
+Caesare, Camestres, Festino, Baroco secundae
+T^tia grandae so^ans edit Darapti Felapton.
+Adjungens Disamis Datisi, Bocardo Ferison.
+In every one of those Moods, there are three Vowels, the first whereof stands
+for the Major Proposition, the second for the Minor, the third for the
+Conclusion, as in Ferio, (E) denotes the Major to be an Universal Negative, (
+I) the Minor to be particular Affirmative, ( O) the Conclusion to be a
+particular Negative.
+
+No^ because Syllogisms made in the second or third Figure, are not so perfect
+as those in the first, therefore they may be denied unless we can reduce them
+unto the first Figure.
+
+The manner of Reduction, is that Syllogisms of the second and third Figure,
+are to be reduced to those Moods of the first Figure, that begin with the same
+letter, as Bocardo to Barbara, Festino to Ferio, Caesar to Caelarent,
+furthurmore for the manner of Reduction; we must note that in these Moods there
+be four Consonants, C. M. P. S. which express the manner of converting, or
+transposing the Propositions, according to these Veses.
+
+S. vult simpliciter verti, P. vero per Acci.
+M. vult transponi, C. per impossible duti.
+That is S. denotes the Proposition designed by the preceding vowel, to be
+converted simply, as in Caesare, S. shows how the Major must be turned simply;
+P. shows the Proposition designed by the Precedent vowel, to be converted per
+Accidens; as in Darapti the Minor.
+
+M. notes a Transposition of the preceding Proposition, as in Camestres, the
+Major must be put in the place of the Minor.
+
+C. in Bocardo notes the Contradiction of the Conclusion to be made the Major,
+and its Contradiction the Conclusion, the Minor remaining.
+
+There are four general rules to be observed in every Figure, 1. Both Major,
+and Minor, must not be particular, for, Syllogizari non est ex particulari.
+
+2. Both Major and Minor must not be Negative, for, Neve Negativis recte
+concludere si vis.
+
+3. If either Major or Minor be particular, the Conclusion must be particular.
+Si qua praeit partis sequitur Conclusio partis.
+
+4. If either be Negative, the Conclusion must be Negative.
+
+Si qua negata fuit Conclusio sitque negata,
+Conclusio semper sequitur deter^orem partem
+Lexgeneralis erit medium concludere nesit.
+Maxims.
+NO like is the same.
+Nullum simile est idem.
+Eevery like is unlike.
+Omne simile est dissimile.
+Contraries are healed by their Contraries.
+Contraria Contrariis sanantur.
+Opposites placed by one another are more apparent.
+Opposita juxta se positae magis eluce scunt.
+That which makes a thing thus is more so it self.
+Quicquid efficit tale est magis tale.
+Put the cause the effect will follow.
+Posita causa ponitur effectus.
+Take away the cause you, take away the effect.
+Sublata causa tollitur effectus.
+Those things you see you do not believe.
+Eorum quae vides non est fides.
+He that is naught to himself is good to none.
+Qui est sibi malus est nemini bonus.
+Benefice requires duty and office.
+Beneficium petit officium.
+When Reason and Passion strive the match is unequal.
+Inter Rationem and Passionem certamen est inaequale.
+The Dog bites not in England.
+Canis non mo^det in Anglia.
+Every thing desires that is good.
+Omnia appetunt bonum.
+From Act to possibility is good consequence.
+Ab Actu ad potentiam est bona consequentia.
+The same thing as it is the same, always makes the same.
+Idem qua idem semper facit idem.
+Whatsoever is received, is received according to the manner of the receiver.
+Quicquid recipitur, recipitur ad modum recipientis.
+Equality makes not War.
+A^qualitas non facit Bellum.
+The being of an Accident is, in being (or being in.)
+Esse Accidentis est, inesse.
+From the privation to the habit is no return.
+A privatione ad habitum nullus est regressus.
+Abstinence of meat brings health to the Feverish.
+Abstinentia a Cibo affert sanitatem Febricitanti.
+Art is natures Ape.
+Ars est naturae simia.
+Nature made nothing in vain.
+Natura nil frustra facit.
+Nature does not abound in superfluities, nor want in necessaries.
+Natura non abundat in superfluis nec deficis in necessariis.
+Every Agent works for some end.
+Omne Agens agit propter aliquem (...).
+The end specificates the Action.
+Finis specificat Actionem.
+The Accuser ought to be better then the accused.
+Accusans debet esse melior accusato.
+Husbandmen desire gain rather then honor.
+Agricolae cupiunt lucrum potius quam honorem.
+Love descends, therefore the Father loves the Son, more then the Son loves the
+Father.
+Amor discendit, ergo Pater amat Filium, magis quam Filius Patrem.
+A Friend is another I.
+Amicus alter ego.
+Amongst Friends all things are common.
+Inter Amicos omnia sunt communia.
+A Coveteous man is worse then a prodigal.
+Avarus est pejor prodigo.
+Those that are softer in touch, are better in Wit.
+Tactu^ molliores sunt Ingenio meliores.
+An Element is not an Aliment.
+Elementum non est Alimentum.
+A fault in the First Concoction is not amended in the Second.
+Vitium Primae Concoctionis non corrigitur in Secunda.
+The Stomach is the shop of Disseases.
+Stomachus est officina morborum.
+The chiefest good does bound the Appetite.
+Summum bonum terminat appetitum.
+Experience without Art, is better then Art without experience.
+Experientia fine Art, est melior Art fine experientia.
+Of nothing is made nothing.
+Ex nihilo nihil fit.
+The Error of the Artificer, is not the Error of the Art.
+Error Artificis, non est Error Art.
+A good thing the more common it is, the better it is.
+Bonum quo communius eo ^eelius.
+Benefactors love more then they are beloved.
+Benefactores plus amant quam amantur.
+He gives twice that gives quickly.
+Bis d^t qui cito dat.
+Cont^aries cannot be together in the same Subject.
+Contraria non possunt esse simul in eodem Subjacto.
+The Heart Lives first and Dies last.
+Cor est primum Vivens and Ultimum moriens.
+There are Three principal parts in a Man's Body, the Heart, the Brain and Liver.
+Tres sunt parts principales in humano Corpore, Cor, Corebrum and Iecur.
+As is the cause so is the effect.
+Qualis causa talis effectus.
+The Generation of one, is the Corruption of another.
+Generatio unius Corruption alterius.
+The Corruption of the best is the worst.
+Corruption optimi est pessima.
+Against one that denies principles, we must not dispute.
+Contra negantem principia, non est disputandum.
+The Law regards future things, Custom things past.
+Lex respicit futura, Consuetudo praetcrita.
+That is evil whose use is evil.
+Illud est malum cujus usus est malus.
+Custom is another nature.
+Consuetudo est altera natura.
+You ought to keep company with those that may make you better, not with those
+you may make better.
+Ta^^bus conversari debes qui te meliorem reddant, n^n iis quos tu reddas
+meliores.
+He that is blind from his Nativity, will prove wiser then he that is deaf and
+dumb.
+Qui est coecus a Nativitate, sapientior erit quam surdus and mutus.
+He that is born Deaf must necessarily be Dumb.
+Qui natus est Coecus necesse est ut sit Mutus.
+It Is more safe to make Rich men, then Poor men Magistrates.
+Tutius est facere Divites, quam Pauperes Magistratus.
+Nature admits no Vacuity.
+Natura non admittit Vacuum.
+Two Bodies cannot bein the same Place.
+Duo Corpora non possunt esse in eodem loco.
+He that is some body in every thing, is no body in all things.
+Qui est aliquis in si^gulis, est nullus in omnibus.
+He that doubts nothing knows nothing.
+Qui nil dubitat nil cognoscit.
+Half is more then all.
+Dimidium est plus toto.
+The use of a thing is not to be taken away for the abuse.
+Usus rei non est tollendus propter abusus.
+An unbred Gentleman is a well born Clown.
+
+The World is one great Fool, and every Man contributes something to make it so.
+
+FINIS.
+

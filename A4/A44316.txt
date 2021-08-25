@@ -1,0 +1,941 @@
+CONAMEN ad motum Telluris probandum ex observationibus Astronomi Celeberrimi
+ROBERTI HOOK Regiae Societatis, apud Londinenses, Socii.
+
+Qvod e Sermon Anglicano in Latinum transtulit GVILHELMUS NICOLSON, Collegii
+Reginalis, apud OXONIENSES, Arc. Bacc.
+
+Senec. Not. Qv. lib 1. cap. 30. Ne miremur tam tarde crui, qvae tam alte
+jacent.
+
+ANNO MDCLXXIX.
+
+VIRO Sum Reverendo, Magnifico, Amplissimo atqve Excellentissimo DOMINO JOH:
+ADAMO SCHERZERO, in Alma Lipsiensi Academia SSae. Theologiae Doctori and
+Professori Publico Primario, ejusdemque Facultatis Seniori, Ingenui Praesulatus
+Misnensis Canonico, Consistorii Electoralis ac Ducalis Assessori, Majoris
+Principum Collegii Collegiato, Alumnorum Electoralium Ephoro, Nationis
+Polonicae Seniori, Academiae Decemvito, etc. Sua tamen Pietate and Eruditione
+Stupenda magis adhuc illustri.
+
+DN. PATRONO ET PRAECEPTORI suo (...) Exiguum hoc observantiae and gratitudinis
+non simulatae (...) qvam humillime D. D. D. C. Q.
+
+
+
+
+
+
+
+
+
+
+
+PRAEFATIO.
+PRaelectorem Physico-Mechanicum, ad Historiam Naturae and Artis promovendam, a
+Domino Ioh: Cutler A.D. 1665 publico ornari stipendio, jam, ante aliqvot annos
+in praefatione ad Micrographiam, retuli. Huic ego muneri incumbens, varias
+qvasdam, Artificiales tum and Naturales, observationes in unum constrinxi
+manipulu^; illa^que saepius (uti par erat) societati Regiae, in publicis
+illorum conventibus in Collegio Greshamensi and Aula Arundeliana, tam
+colloqviis, qvam praelectionibus, notas feci.
+
+Jam vero, ad finem muneris hujusce mei ulterius excolendum, proposui (amicorum
+qvorundam precibus motus, neqve enim aliundemihi necessitas incumbit) plures
+istiusmodi discursus typis mandare publicis: incompleti licet illi sint, and
+Conamina qvaedam miscellanea de subjectis a se^ invicem alienis plane, nec
+cohaerentibus, habita. In cujus prosecutione operam dabo sedulus, ut ab omni
+methodo me cohibeam, qvae vel Apologias mihi suggerat, vel praefationes, vel
+inanes qvasda^ repetitiones eorum, qvae vel jam cognita sunt, vel me ad
+subjecti alicujus tractationem invitent, qvod proposito meo a latere solummodo
+est, nee se ultro tractandum offert. Quoniam vero haec Conamina in posterum
+forte ad methodum aliqvam comptiorem revocari possint, statui omnia eadem forma
+imprimere; ut ita in unum qvasi corpus compingantur, and (proutse offert
+occasio) sub titulis Numeri and Paginae citentur. Atqve hanc normam adscopum
+dicti muneris asseqvendum maxim idoneam arbitror; Sicut enim haud unum e
+multis millibus assignari potest subjectum, cujus Historia, exacta prorsus and
+omnibus suis numeris absoluta, totam humanae vitae seriem, and plura
+observationum millia, non reqvirat: ita etiam nemo hoc sibi arrogare est ausus,
+se velle hoc vel illud Naturae (...) absolvere; qvum inventio, maxima ex part,
+casus solummodo sit fortuitus, humanum extra dominium situs, Ejusque spiritus,
+ut venrus, ubi and qvando lubet, vixque unde veniat, aut qvo tendat, novimus.
+Consultius igitur factum puto, illas providentiae influentias amplecti, nosqve
+in cujuslibet rei, qvae se nobis offert, disqvisitione diligentes praestare and
+industrios: hoc enim brevi nobis compertum erit, observationes hunc in modum
+factas, ill^s multis superare parasangis qvae dedito opere, and a nobis de
+particulari aliqvo subjecto sollicitis, inveniuntur. Nemo adeo est infoelix,
+qvinaliqvoties fortunatiores qvosdam and utiles (de hoc autillo, qvocum sibi
+res est) conceptus formet, qvi, si aliis' communocarentur, nova qvo tidie
+inveniendi ansam praeberent. Unde magnopere optandum est, utaliietiam. Autores
+in operum suorum editione hac methodo uterentur; neqve ulterius ejusdem dicti
+repetitionibus, ridiculisqve, nescio qvibus, Apologijs (qvae necessario a
+laxiori methodo and voluminibus nimio spissis proveniunt) nauseosos
+excruciarent Lectores: qvin potius in Artis and Naturae horreum purum
+immitterent semen, ab omni palea and faece (qvae illud occultant tantum and
+corrumpunt) purgatum.
+
+Nec opus est, ut in conceptibus hujusmodi limandis and ad prelum adornandis,
+multum temporis insumatur; qvum horum relationes eo meliores sint futurae, qvo
+ad captum faciliores. Cumqve res acta nucleus ille sit, qvi summopere
+(praesertim hoc in casu) a Lectoribus expetitur, gratior illa est futura, sia
+crasso omni and duronuga rum cortice liberata proponetur. Deinde, and methodum
+hanc eo ta^scribenti qvam Legentjucundiore^ fore arbitror, qvod utriqve novus
+continuo ad nova fercula succurrat appetitus, qvi si ad unum aliqvod
+coarctetur, flaccescit plane and aciem amittit. Sunt and aliae adhuc, non
+levioris momentirationes, qvae hanc normam svadent; inter qvas non minima est
+illa, qvod s.c. observationes huncin modu^; primis illarum Autoribus sarta
+tectae conservantur; qvod certe vix alio qvovis medio efficies: sunt enim
+homunciones qvidam male feriati, qvi in hoc toti sunt, utaliorum perscrutentur
+inventa, qvae complicibus suis accepto exponant pretio; hi autem haud indigne
+factum putant, ut, qvae suo sic redempta sunt nummo, pro suis passim venditent.
+Farina hujus aliqvinon ita pridem prodierunt; and plures qvo idie expectentur,
+nisi hac tandem ratione huic succurratur malo.
+
+Qvum conceptus nudis vocibus haud satis exprimi qveant (qvod in tractatu
+Mathematico aut Mechanico non rarum) Schemata and descriptiones subjungo
+delineatas, qvae in rei propositae captum aditu ducunt faciliori. Pro virili
+operam navo ut omnis prorsus jam antehac excusorum omittatur Crambe, and ut
+nova omnia prodeant, and mea; istiusmodi enim mihi, apud alios versanti,
+Autores, maxim arirident.
+
+Primas hic vices habet praelectio A.D. 1670. in Collegio Greshamensi a me
+habita, qvo tempore and illam prelo destinabam: sed aliud monuerunt amici; ut
+observationem se reiteratam potius expectarem, qvam, ex unius solummodo anni
+experimentis firmatam, in lu em emitterem. Post qva^; autem sana minus corporis
+mei temperies ulteriorem hactenus experimentorum progressum cohibuisset, and
+annorum qvorundam observationes ex moris sic jamdudum nexis periissent: mallem
+ut discursus hic (imperfectus licet) jam prodeat, qvam ut novum expectaret
+ornatum; fore sperans ut alii, exiguis hisce primordiis moti, altius
+observationem hanc nostram promoveant, and completam reddant. Qvod unice in
+votis habeo.
+
+Primus hic discursus observationem qvandam Naturalem pro Subjecto habet;
+hocqve nomine ad Naturae caput referri potest: qvamvis and nonnihil etiam de
+emendatione Artis contineat. Secundus, qvi and jam prelum expectat, ad inventa
+potius Artificialia erit referendus: licet and hic itidem observationes non
+paucas habebit Naturales. Hoc enim mihi est in animo, ut in futuris
+disqvisitionibus Naturalia, Artificalibus intertexta, vicibus succedant
+alternatis: haec enim si separatim sumas, rudiora tantummodo habes stamina,
+qvae nec ad corpus philosophiae vestiendum, nec ad ornandum, valent.
+
+CONAMEN ad motum Terrae ex observationibus probandum.
+UTrum moveatur Terra, a^fixa maneat and immobilis, problema est, qvod (ex qvo
+illud e mortuis revocavit Capernicus) a modernis passim Astronomis and
+philosophis ventilatum: inter qvos ramen nemo hactenus exstitit, qvi (sive in
+hujus sive illius sententiae confirmationem) qvidqvam irrefragabilis edidit and
+certae demonstrationis. Doctiores qvidem, and sagaciori pollentes judicio
+gravioribus qvibusdam rationibusadducti, hypothesi Copernicanae firmum
+praebuere assensum: reliqvi autem uno ore (sive exignorantia seu praejudicio)
+opinionem hanc, monstrosam qvasi, rejecerunt. Iis sane, qvi Astronomiae
+fundamenta primaqve ejus principia ignorant, qvoridiana inter vu'gus
+conversatio sententia hanc absurdam adeo reprasentat, ut citius illis solemn non
+lucere, qvam non moveri, persuaseris; atqve eadem opera movebis ipse Terram,
+qva illam moveri apud hos probaveris Qvod ad hujus modi viros spectat: ut
+argumentorum seqventium, qvae ex variis parallaxeos observationibus deducuntur,
+vim intelligant, nullus plane exspecto, multo minus illorum fidem and assensum
+spero. Istis hoc solummodo dicendum habeo: Non meum est in praesentiarum
+institutum. Lectores meosin primis Astronomiae fundamentis erudire, cum sat
+magna Introductionum copia ubique inveniatur; sed doctioribus experimentum
+crucis proponere, qvo lis tandem inter hypotheses, Tychonicam and
+Copernicanaem, dirimatur. Novam continuo hactenus disputandi materiam praebuit
+summa argumentorum probabilitas, qvae utrinqve est allata: ab iis nempe. qvi,
+vel a natura vel institutione, in hanc vel illam sententiam sunt addicti. Apud
+illos enim, qvi cum rudioribus tantum and illiteratis vitam agunt, nec primis
+Astronomiae and Geometriae principiis sunt imbuti; qvi nondum de vastissima
+mundi universi mole, minutissimoque e contra Telluris globo, conceptus rite
+efformare norunt; qvi cogitationes suas omnes intra arctissimos glebae paternae
+limits incarceratas habent; qvi vix sibimet ipsis inculcare possunt, figuram
+Terrae sphaericam esse, sed potius (cum antiqvorum nonnullis) circulum quendam
+planum esse somniant, undiquaque aethere (in quo Sol, Luna, stellaeque nil
+aliud, qvam foramina qvaedam sunt, per qvae superioris coeli splendour
+demittitur) cinctum; qvi semet in centro hujus circuli constitutos credunt;
+aetheremque ambiente extremis montium apicibus nixum putant; qvi solemn
+magnitudine sua cribrum adaeqvare, Lunam caseu^ Hollandicum, utrumque ad unius
+circiter milliaris distantiam positum, volunt; Qvi mirantur Solemn, Lunam,
+stellasque grandinis ad instar, in terras non decidere; citiusque martyrium
+subeunt, qvam antipodes agnoscant, necessum fore autumantes, ut in subjectam
+isti abyssum praecipites volvantur: (qvomodo enim, sine summa capitis
+vertigine, in verso sic Naturae ordine incedant?) Apud illos inqvam, qvi his,
+sexcentisque id genus riduculis non minus, qvam absurdis, laborant
+praejudicijs, non sperandum est, ut corporum motuumqve coelestium uniformitas
+and harmonia, ad motum Terrae circa solemn probandum, qvidqvam conferant: At
+hypothesis illa, qvae phenomenon per Terram qviescentem motosqve coelos docet
+solvere, in tantum apud omnes prima front invaluit, ut huic nemo illorum non
+facile assentiat.
+
+Qvam vis autem hic objici possit, non hos solummodo, de qvibus jam factus est
+sermo, sed and alios etiam non infimi subsellii Geometras, Astornomos and
+Philosophos huic hypothesi calculum dedisse: Attamen and hic idem occurrit
+dicendum. Horum enim pleriqve, a primis statim incunabilis, principiis nimio
+crassis, and ab illis vulgi parum alienis, imbuti, fundamenta haec, cum lacte
+qvasi materno imbibita, tam tenaciter mentibus inscripta servant, ut postea non
+sine summo dolor and anxietate ista eradicari patiantur. Alij, in majorem
+somniorum puerilium confirmationem, systema Ptolomaicum addidicere vel
+Tychonicum; nimiumqve Praeceptorum suorum antoritati tribuentes, firmam
+omnibus, qvae ab illis tradita sunt, fidem (paene dixeram venerationem)
+addiderunt: unde, argumentis in contrarium a^latis aurem vel non omnino
+praebent, vel illum solummodo in sinem, ut in allatorum confutationem responsa
+parent.
+
+Contra, qvidam ex innata qvadam praeceptoribus suis obloqvendi cupidine; alij
+ex institutionis primae praejudiciis; nonnulli deniqve gravioribus de causis
+(puta ex perspecta mundi proportione and harmonia) argumenta omnia Copernicana,
+qvibus Terram moveri, solemn vero and sydera fixa esse and immota, contenditur,
+pro certa demonstratione habent and amplectuntur.
+
+Aliqvid, fateor, utrinque rationi non prorsus dissonu^ invenitur; atqvi est
+and praejudicii non nihil, etia ubi maxima apparet probabilitas. Videamus enim
+qvibus nos medijs harmonicam istiusmodi mundi constitutionem, qvalem nobis
+efformare solemus, demonstrare possimus? An^on possibile, imo and probabile,
+aliter multo seres habere, qvam nos opinamur? Qvid impedit qvo minus sol,
+secundum Tychonis hypothesin, moveatur, dum planetae circa illum rotentur, and
+Terra qviescens magnetismo suo circa se solemn volvat, interim and eodem modo
+circa solemn, qvo circa and satellites, dum ipsi circa solemn, moveantur;
+praesertim cum non sine summa ar^e and molestia, multisqve pro veris positis,
+qvae difficulter admodum probationem admittunt, corpus ullum in tota hac mundi
+compage Tellure hac nostra nobilius fore demonstretur? Annon Tychonis
+hypothesis sum ratione consentanea videtur, cum neqve ipse, ex
+observationibus accuratissimis per immensae molis instrumenta factis, nec
+Ricciolus* qvise multo Tychone accuratiorem jactitat) ullam omnino inter
+stellas fixas orbis Telluris parallaxin invenere sensibilem; atqve multo adhuc
+magis probabilis, si observationes istae, qvibus innituntur illoru^
+assertiones, ad paucula usque minuta secunda sint habitae? Qvid si igitur in
+hypothesi illa, cui nos dev ovemus, chimaeram nescio qvam, perfectionisque and
+harmoniae ideam nobis fingamus? Annon fieri potest, ut multo tamen perfectior
+sit and harmonica magis coelestium corporum constitutio, qvae nos latet, ab
+ista licet, qvam nos vane opinamur, toto, qvod ajunt, coelo diversa? Argumenta
+haec, and similia innumera utrinqve urgeri possunt probabilia; sed
+controversiae neutiqvam imponetur finis, donec, ex observatione aliqva
+infallibili, certo determinatum fuerit qvaesitum Utrum necne aeliqva sit orbis
+Telluris parallaxis^ Hoc Tycho and Ricciolus plenis negant buccis: Ego autem
+asseverare ausus sum, neminem unqvam litem hanc certo posse determinare ex tota
+illa observationum supellectile (sive a Tychone, sive a Ricciolo, sive deniqve
+a qvo vis alio, qvantum novi, scriptore) hactenus edita. Hucusqve etenim
+observatores, ad unum omnes, fixum certumqve objecti locum nudo determinarunt
+oculo: cum autem nullus omnino angulus minuto primo minor hunc in modum percipi
+qveat, and, ut lis haec discernatur, exactiori multo observatione sit opus,
+manifesto seqvitur, hoc experimentum crucis neqvaqvam in horum potestare situm;
+non obstante, qvod in contrarium Tycho and Ricciolus deblaterant, ut exinde,
+everso systemate Copernicano, suum stabiliant. In illorum igitur determinatione
+non penitu est acqviescendum: qvandoqvidem, si strictiore oculo in illorum
+observationes, instrumenta, modosqve observandi, inqviramus, inveniemus horum
+observata ab iis, qvae prae se ferunt, multum diversa. Qvaestio ideo, post
+omnia illa argumenta utrinqve alata, adhuc indeterminata manet, Utrum Terra
+circa solemn, an hic circa illam, moveatur; omnesqve hinc inde dictae
+probationes, ad extremum, probabiles tantum sunt, nec necessariam aliqvam and
+positivam inferunt conclusionem. Nec certe possibile est, ut controversiae huic
+finem ul^is omnino mediis (hoc unico, qvod jam aggredior, excepto) humana
+imponat industria; indubitata autem seqventis observationis certitudo
+argumentum parit in hypotheseos Copernicanae defensionem certissimum; cujus
+sane inopia me hactenus detinnit, qvo minus hypothesi huic firmiter assentirem:
+qvamvis enim illa, ad unguem sere, phenomenon videatur omnia solvere,
+constitutionemqve corporum coelestium (qvod adillorum magnitudines, motiones
+and distantias spectat) harmonicam admodum praebere; at haec tamen object o
+multum semper apud qvamplurimos obtinuit, qvod se: ab iis, qvi ex professo
+qvaestionem, hanc tractant, affirmetur passim, nullam unqvam parallaxin
+sensibilem ex optimis de motu annuo Telluris observationibus suisse collectam;
+huic licet motui orbem assignent accuratiores Astronomi, cujus diameter ^ aut
+12^0 Terrae diametros complet: alii huic 3 v l 4 co^^^^^^ae diametros
+assignant: alij 7 vel 8000: alii 14 aut 15000: credoqve ego plures adhuc posse
+assignari:) Terrae autem diameter 7 aut 8000 Milliarium habet Anglicorum; totus
+igitur orbis annui diameter, si secundum maximam ejus rationem ab Astronomis
+assignatam computemus, milliaria, habet 120000000 Anglica. [i. e. 30000000
+Germanica.] lis jam, qvi arctiores intra limits mundum compingunt, non potest,
+fateor, perqvam monstrosum non videri, adeo immensum orbem Telluris annuum
+nullam plane inter stellas fixas parallaxin sortiri sensibilem: frustra igitur
+objectioni huic responsum molimur. Haud enim expectandum est, ut coarctati
+plurimorum conceptus justam adeo ultra mensuram extendantur, ut mundi tam,
+immense magni^deam capiant: qvalem tamen illos sibi efformare necesse est, si
+nulla hic inveniatur parallaxis.
+
+Industrius ille lesnita, Ricciolus maximos exantlavit labores in 77
+argumentis, contra hypothesin Copernicanam, adornandis: in qvibus omnibus tam
+acris est and vehemens, ut ipse (vir licet alias perqvam eruditus, and
+Astronomus laudabilis) fidem videatur propriis ad hibere argumentis. Atqvi,
+apud plerosqve 76 illorum supernumeraria essent et minoris loci; si ex
+observatione tali, qvalem jam propono, nullam hac ratione parallaxin sensibilem
+deprehendi posse probasset: credo enim unicum hoc inventum hisee omnibus,
+novisqve adhuc 77 argumentis (si tamen totin hypothesin hanc de novo ex
+cogitari possint) responsum ire. Attamen, fateor, si in hac parallaxeos
+disqvisitione voti minus compos suissem, mihi infinita paene universi extensio
+non ^am absurda, omnemqve superans fidem existimata fuisset, qvam a plerisque
+somniatur Quum enim apud omnes in confesso sit, assignatam stellarum fixarum
+distantiam mere hypothericam esse nullisqve certis rationibus and fundamentis
+sed nudae tantum conjecturae innixam; cumqve nullum hactenus alicujus ponderis
+argumentum, sive ex observata aliqua parallaxi, sive aliunde, petitum, in
+dictae distantiae probationem, etiam a sagacissimis hac ex part
+observatoribus, assignatum sit; non video qvidni distantia illa ultra
+proportionem assignatam extendatur. DEUS enim ille qvi mundum hunc, cui nos sic
+limits suos and terminos constituimus, creavit, eadem opera, qva molem hanc
+posuit, etiam millies millenis vie bus majorem creasse potuit, itatamen ut
+omnia interim corporum coelestium phenomenon (unico hoc parallaxeos excepto)
+eadem prorsus, qvae jam cernuntur, maneant. Mihi eqvidem, varias siderum
+magnitudines, numerumqve eorum, prout melioribus aut longioribus qvaeruntur
+telescopiis, qvotidie crescentem, consideranti mundi moles gradibus innumeris
+videtur major, qvam qvae a Scriptore qvolibet assignatur. Et, si certos illorum
+diametros determinare and mensurare possimus, perfecteqve cognoscere, qvanta
+apparentis illorum magnitudinis pars molisuae, qvanta and splendori, sit
+attribuenda, nullus dubito qvinaliter a nobis illoru^ distribuerentur
+magnitudines, quam solent hodie apud Ptolomaeum, Tychonem, Keplerum, Bayerum,
+Clavium, Greenberge^um, Paffi^m, Hevelium, aliosqve distribui.
+
+Si etenim ponamus, stellas omnes fixas tot soles esse, qvorum qvilibet
+expansionem activitatisqve sphaeram soliditati suae and activitati
+proportionatam habeat; omnemqve rursus stella^ qvo major illa est and incidior,
+expansionem tanto majorem occuppare; ab illarum splendore and diametris sic
+perspectis, foelicius de distantiis suis sententiam feremus, illarumqve, dubio
+procul, qvamplurimis alias assignabimus magnitudines qvam qvae vulgo
+recipiuntur. Praesertim cum ex qvotidiana constet experientia, illarum
+plurimas, qvae prosteliis antehac simplicibus sunt habitae stellarum hodie
+congeries qvasdam deprehendi, ex nimia licet vicinitate apparente nudo non
+distingu^ntur oculo; tales sunt qvae Nebulosae vocantur, qvae in gladio item
+Orionis apparent, illa itidem qvae in Arietis capite cernitur, una cum allis
+innumeris, qvae cotidie a Tellescopiis sunt detecta. Fortastis etiam
+inveniemus, viginti illas stellarum magnitudines, qvae jam (...) tub^^^ pedum
+discernuntur, mundi visibilis semediametri extensionem, illa qvae hodie a
+Copernicanis inter solemn and stellas fixas assignatur, (...) vicibus majorem
+reddere; et, ex conseqventi, totam mundi compagem 64000 vicibus auctam. Jam
+vero si Tubus priori illo, 15 pedum, duplo aut triplo praestantior duplum nobis
+aut triplum daret magnitudinum numerum; annon novum nobis exinde suppeditetur
+argumentum, priorem illum diametrum duplo ant triplo majorem assignandi,
+molemqve totam octo vel vigintisepte^ vicibus augendi? (praesertim si
+apparentes stellarum diametri cum illarum distantijs reciprocari
+deprehendantur; de qvo qvaedum observavi dudum, qvae, qvanta possum cum
+expeditione, (...)) sed, ut ad propositum redeamus: Athletica haec
+A^tic^pernicanorum objectio (qvae plerisqve tam strenua videbantur, ut
+frustraneus esset omnis respondendi conatus) licet, in qvam, me a firmo
+hypothesis Copernisanae assensu aliqvantisper cohibuit: nunqvam tamen exinde
+Copernicanos ad absurdum aliqvod aut impossible redactos vidi: semperqve fieri
+posse credebam, ut celebriores Astronomi, qvi, ex observationibus
+accuratissimis, pronunti^^unt Nullam omnino istiusmodi parallaxin inveneri,
+fallerentur; unde, operae pretium putabam quaesivisse Primo, Annon methodi ab
+ijs usurpatae gravissimis sint erroribus obnoxiae? secundo, Utrum necne novi
+adhuc inveniri possunt modi, ab omnibus priorum vitiis liberati, et in tantum
+illis praestantiores, ut (non solummodo aliorum defectus resarcirent and
+errores corigerent, sed and ipsi) ab ulteriori omni adversariorum objectione
+securi, certi sint and accurati?
+
+Primo igitur, rem totam abi ijs, qvi orbis Telluris annui nullam dari
+parallaxin asseruissent, transactam ad examen revocavi: statimqve didici
+(assertionibus horum non obstantibus) ab ijs certo nunqvam determinariposse,
+Utrum necne aliqva daretur orbis hujus parallaxis: praesertim si (qvod
+supponunt Keplerus et Ricciolus; qvorum prior huic 24 sec: alter ciciter 10
+sec: attribuit) unico minuto primo illa sit minor. Qvamvis enim Tycho (vir in
+assertionibus suis, in dubitatae plerumqve veracitatis) possibile fore affirmet
+qvod, grandioris open instrumenti, commodo in loco posici and perspicillis (a se
+primo inventis, hodie autem in astronomicis passim oservationibus usurpatis)
+adornati, accuratae fiant ad 10 sec. observationes; licet etiam Ricciolus et
+(comes ejus Sagacissimus) Grimaldus suo more, sive nudo oculo, ad 5 observare
+se posse jactitarint; Keplerus tamen, and perquam vere, impossible fore aiebat
+ut qvis, ex certa aliqva observatione hac methodo instituta angulum habeat 12
+sec: minorem: atqve ipse ex propria didici experienria difficillimum fore ut
+qvis, perspicillorum open communium, observationes ad unicum minutum primum
+accuratas habeat. Pro rato igitur habui, omnia illorum conamina frustranea
+fuisse, and ad propositum finem acqvirendum in utilia; qvodqve ipsi non
+peccassent minus, qvam imposuissent aliis. Errores autem hos ex pluribus oriri
+malis animadverti, qvibus observatores illos methodi suae observandi
+reddidissent obnoxios. Primo etenim ex materiae, ex qva constant instrumenta,
+contractione and dilatatione errorem, in altitudinis 50 graduum observatione,
+plusqvam unius minuti causari posse arbitror: si enim instrumenta ex ligno sint
+fabricata, patet illa ex tempestate humida dilatari, a sicca autem contrahi, in
+utraqve, plus qvam qvod ad unius minuti variationem reqviratur, mutari; sin ex
+metallo conflentur, (nisi malo huic in illorum fabricatione succurratur in
+aestate tumescentem habebis Qvadrantem in hyeme, ultra unius minuti
+variationem, contractum. Deinde, ex propria mole and innato pondere contorta,
+inflexa and insigniter mutata invenies istiusmodi instrumenta. Tertio, methodo
+divisionis ordinariae non levia accidunt mala: atqve arduum est admodum (licet
+non penitus impossible) omnes per Qvadrantem graduum in minuta sua^
+subdivisiones rectas habere and accuratas. Dabo tamen, illos ( Tychonem
+praecipue and Ricciolum, qvi nulla horum ignorasse videntur) malis hisce
+omnibus sua praevenisse cura: At malum adhuc restat pessimum, cui nullo plane
+modo videntur attendisse, a qvo proprii fluxerunt errores Lectorumqve
+falsissimarum observationum pro veris captationes; existimabant enim se posse
+nudo oculi aspectu minutissimas tamdiu objecti parts discernere qvousqve
+Qvadrans (licet maximus) subdivisiones admitteret; cum tamen vix possibile sit
+ut oculus qvisqvam inermis angulum unico minuto primo minorem discernat: Ubi
+autem duo objecta non unum ultra minutum a se invicem distant, si lucida sint,
+in unum coalescunt; qvamvis, fateor, si obscura sint, and lux iis interponatur,
+distantia inter illa visibilis erit, licet minuto secundo vere minor: nec tamen
+prima mihi ruit assertio; etiamsi enim objectum lucidum (candelam puta aut
+stellam) e longinqvo positum nudo possis oculo discernere, and si corpus ejus
+angulum minuti unius tertij revera non subtendat; hoc tamen a radiatione (i.e.
+reflexione cum refractione unita) in aere and oculo causatur: hinc enim
+objectum illud realem ejus magnitudinem plusqvam centum vicibus reduplicatam
+habet. Haec ita se habere, diligens qvisqve observator facile inveniet.
+
+Erant illi, procul dubio, de observationibus accurratis perqvam solliciti;
+hinc enim instrumenta sibi tam immensae formarunt molis, in qvibus
+subdivisiones tanta cum diligentia incidi curarunt, ut exinde observationes ad
+minuta qvaedam secunda certas sibi promitterent; nullusqve dubito, qvin ultimam
+etiam navarint operam, ut visus propositum attingeret objectum: Qvandoqvidem
+vero impossible prorsus sit, ut oculus inermis unicum ultra minutum primum
+qvemvis discernat angulum; in magnis hisce instrumentis ordinandis, and in
+argumentis ex hujus modo observationibus deducendis, operam plane omnem
+(saltem, qvod ad hunc finem spectat) et oleum perdiderunt.
+
+His perpensis, asserere non dubitabam, qvod, etsi in juveniliori forte mundi
+aetate visu long acutiore polierent homines, nobis tamen, in senilioribus
+ejus, et ultimis qvasi annis vitam degentibus conspicillis sit opus: statui
+igitur oculis meis ex long satis and probo telescopio, perspicillorum vice
+communium, opem far, unde levi negotio objecti alicujus parts ad minuta
+quaedam secunda distinguerem; nec dubito qvin modus hic ad ulteriorem long
+perfectionem, ad minuta forsan qvaedam tertia decernenda, promoveri possit.
+Sustulit haec inventio praegrande illud malum, qvo, pristinae laborarunt
+observationes: at una adhuc sese obtulit difficultas, Qvomodo se: instrumentum
+ad finem hunc asseqvendum sat magnum (qvod, ad minuti secundi variationem nec
+contrahi, nec contorqveri, nec dilatari posse certo norim) mihi pararem. Ea
+enim materiae cujuslibet est natura, ex qva destinatae a me magnitudinis
+instrumenta conflari possunt, ut tantum non impossible sit, instrumentum
+aliqvod mobile fabricari posse, qvod variationem minutorum qvorundam secundorum
+non admittet. Restabatideo proxime inqvirendum, Ubi machina haec Archimedaea,
+qvacum Terram movere destinabam, pedem figeret De dubio autem hoc solvendo
+frustraneum fore novi, ab Autore aliqvo aut Astronomo opem petere; qvum nemini
+unqvam eorum tale qvidqvam in mentem venisset: imo, cum ipse inventum hoc
+societati Regiae proponebam primo, pro novo qvodam figmento, and sano minius,
+est habitu^; donec tandem, audita explicatione mea, modisque, qvibus ad praxin
+revocari possit, serio perpensis, orarunt omnes, ut ad inventi novi
+experimentu^ procederem. Modosideo varios, qvibus hoc peragi possit, illis
+proponebam methodumque qvae in ijs omnibus observanda erat qvidque in singulis
+com^odi erat aut incommodi, assignabam; fine^ etenim accuratius consideranti,
+media sat multa oceurrebant. Primo enim proponebam mihi turtem aliqvam
+grandiorem aut murum stabili nixun fundamento, vel etiam rupem aliqvam seu
+collem, cui ita tubos assigerem ut inde stellae alicujus insignioris, a polo
+Ecliptico non^ multum remotae, altitudinem addiscerem exactam; ideoqve ad duo
+diversa anni tempora, ad solstitia puta aestivale and brumale: sicqve diligens
+attenderem, an inter altitudinem primo and secundo observatam differentiam
+forte aliqvam invenire possem. At ut hujus voti compos fierem (ut taceam qvam
+difficile fuisset angulum altitudinis ad minuta qvaedam secunda hac ratione
+commensurasse; qvod in qvalibet observatione de novo repeti debuerat propter
+materiae contractionem, dilatationem, etc.) defuit mihi locus in vicinia
+opportunus. Deinde, etsi locus ex animo ad manum fuisset, modum hunc malo
+cuidam obnoxium vidi, qvod totum experimentum plane nullum redderet; a qvo
+tamen subterfugium aliqvod non inveni: illud autem aeris, sive Atmospharae erat
+refractio, qvae optimas hactenus parallaxeon observationes vanas reddidit and
+incertas. Licet jam refractio haec in summae poli Ecliptici altitudinis
+observatione haud tanta esset futura ut accuratae observationi insigne aliqvod
+impedimentum inferret; suffecisset tamen ad objectionis saltem speciem,
+ansamqve Anticopernisanis argumenta omnia ex inde petita eludendi porrexisset;
+praesertim si eonstitutionem atmosphaerae diversam in mensibus Iunii and
+Decembris perpendamus, qvae forte istam refractionis variationem causaret qvae
+observationem istiusmodi ad finem hunc asseqvendum inutilem redderet. Add,
+qvod non minimi suisset negotii, tubos exact adeo in meridianum erectos
+habuisse, ut stellae cujusvis polum prope Eclipticum altitudinem ad minutum
+usqve secundum distinct percipiamus.
+
+Eadem etiam obstacula occurrere videbam, si de maxima poli Ecliptici
+altitudine in Iunio and Decembri, vel de minima in Decembri and Iunio,
+observationes habitae fuerint. Praeterenim omnia in commoda, qvibus
+instrumenta, qvaecumqve demum illa sint, obnoxia cernuntur; magna aeris
+refractio (qvae si cum incertitudine aliqva conjuncta fuerit, ad evertendam
+omnem prorsus observandi rationem sufficit) in prioribus hand leves causabit
+errores, in posterioribus vero intolerabiles.
+
+Postqvam igitur modos omnes, omniaqve instrumenta, qvae cuicunqve observationi
+Astronomicae hactenus inlerviissent, ad examen strictum revocassem, eorumqve
+imperfectiones et incommoda (magnamqve, e contra, qvae ad observationem hanc
+necessario reqviritur, certitudinem) serio mecum reputassem: ad novam aliqvam
+observandi methodum invemendam me statim accinxi, qvae a dictis omnibus
+incommodis liberata esset, and qvantum fieri possit, contra futuras omnes
+adversanorum objectiones munita. Proposui igitur motui stellae alicujus
+notabilioris a Collegii Gres^amensis zenith non procu^ remotae, sedulo
+attendere, ut forte illam dicto zenith propius aliqvoties accedere observarem:
+si enim Terra in orb aliqvo circa solemn moveatur, orbisqve ille sensibilem
+inter stellas fixas parallaxin habeat, necesse est, ut accessio istiusmodi
+eveniat sensibilis, illarum praecipue stellarum, qvae polo Eclyptico sunt
+propiores. Hoc autem itase habere, cuiqvam manifestum fuerit, qvi ad fig.^.
+oculum converterit, sit enim S sol in centro orbis planetarii positus; A B C D
+autem orbis stellarum fixarum primae magnitudinis, cujus centrum
+demonstrationis gratia, solemn supponamus; orbis (in charta obliqve depictus) in
+qvo Terram circa solemn rotari fingimus. si^ Terra in Capicorno, and eadem in
+Cancro. Deuteronomy nobis 12.12.12.12. axem Telluris imaginariam qvae sibi semper
+parallelismum observat. sintqve A B C D planum qvoddam imagnarium transiens per
+stellam in D, in coluro solstitiali, duoqve Terrae centra in and. sitqve C
+Collegij Greshamensisj zenith tempore meridiano, cum Terra est in Cancro; A
+autem e usdem Collegij zenith ad mediam noctem, in dicto orb A B C D, qvando
+Terra est in Capricorno: manifestum igitur est, qvod (qvandoqvidem poli
+Telluris, Poli Ecliptici, duoqve Terrae zenith (ad meridiem sc: qvando in
+Cancro, and ad mediam noctem, dum in Capricorno, vergitur) in uno eodemqve
+plano sunt: qvumqve axis Terrae suum semperobservat parallelismum, and angu^ia
+perpendicularibus Collegii Greshamensis and Terrae axibus provenientes, iidem
+semper siar) perpendiculares dicti Collegii sibi in vicem paralleli fuerint,
+and ex conseqventi, duo in dicto orb puncta A and C, tantum inter se
+distantia, qvantum lineae parallelae A and C, denotabunt; undeseqvitur, punctum
+Aremotius fore a stella in D, punctum vero Chuic proximius, qvando in Meridiano
+prope Londini zenith fucrit posita. Exqvibus demum colligitur, qvod si dicta
+stella in loci supra nominati Meridiano observetur, differentia talis, si qva
+detur, ex instrumentis riteparatis, andd iligenti observatorum cura deprehen
+dipossit differentia autem inter angulos A D and C D dabit angulum orbis
+Telluris parallacticum D ad stellam primae magnitudinis in D. Eadem
+demonstratio, mutatis interim mutandis, valebit, si stella haec non in dicto
+meridiano aut plano, sed in alio qvovis, collocetur, (prout qvilibet ex natura
+rei debite perpensa facile colligat) si observatio, dum stella a Zenith ad
+meridiem and mediam noctem pertransitur, habita fuerit. Qvo autem observatoris
+Zenith propius ad punctum poli Ecliptici accedit, eo melior futura est
+observatio: qvum angulus parallaxeos tanto magis erit sensibilis. Locus igitur
+ad observationem hanc perficiendam maxim idoneus sub circulis polaribus, puta
+in Islandia, reperietur; ubi loci Zenith, ad dicta tempora, jam necessario poli
+Ecliptici latus septentrionale, mox Australe, attinget: imo, Zenith Martij and
+Septembris per ipsissimum poli punctum tranfire necessum erit. Qvoniam vero sic
+accidit, ut nulla stella alicujus momenti propius ad dictum planum, and in illo
+Collegij Greshamensos Zenith, accedat, qvam stella lucida in capite Draconis;
+hanc pro seqventis observationis objecto eligebam, cum invenissem Zenith dicti
+Collegij intra paucula minuta prima huic proximare. Hujus enim stellae
+declinatio ^fferente Ricciolo, habet 51 Gr. 36 M. 7 S. dictu^ vero planum cum
+stella and mun di polo angulum efficit haud majorem 2 Gr. 52 M. 36 S. Cujus
+recta ascensio, ad mentem Riccioli, habet 267 Gr. 7 M. 24 S.
+
+Ut autem hoc clarius demonstretur, supponamus (in Fig. 3.) partem coeli
+septentrionalem stereographice in planum projectum, cui axis est
+perpendicularis. Sit qve P Polus, E Polus Eclipticus, L stella lucida in capite
+Draconis a c c c circulus imaginarius a Zenith Collegii Greshamensis inter
+stellas fixas mense Iunio descriptus, b d d d circulus ab eode Zenith mense
+Decembri, e f f f circulus ab eodem Zenith in Martio, and g h h h in Septembri.
+Patet qvod verae horu^ Zenith distantiae in illa Meridiani part qvae polo
+Ecliptico est proxima, scil: in capite Draconis, ita se ad veras dictorum
+Zenith distantias in part a dicto polo maxim remota, nempe prope
+constellationem Aurigae in conseqventia, habebunt, ut Sinus 75 Gr. ad Sinum 14
+Gr. 54 M. and variatio illorum Zenith, seu Angulus parallaxeos Collegii
+Greshamensis ad angulum parallaxeos in Islandia, velloci cujus vis alterius sub
+polo Ecliptico aut circulo Arctico siti, ut sinus 75 Gr. ad sinum 90 Gr. seu
+Radii. Hoc sole clarius apparebit, si (in Fig. 2.) ponamus A B magni orbis
+diametrum: A C and B D Islandiae, vel alterisu cujusvis loci sub circulo
+polari, perpendiculares: G A, H B Collegii Greshamensis in Dracone
+perpendiculares: and L A, M B ejusdem Collegij ad Colurum solstitialem, prope
+Aurigam, perpendiculares: variae hic distantiae C D, G H, I K, L M, habeant se
+ut signa 90 Gr. 75 Gr. 66 Gr. 30 M. 1 4 Gr. 54 M. videlicet ut lineae A B A O.
+P B. Q B.
+
+Potuissem transitus Zenith nostri distantiam ab alia qvavis stella, aeqve ac
+ab hac Draconis, observasse, ita tamen ut eadem mansissent phoenomena, curans
+semper, ut una observatio, qvum stella ad mediam noctem in nostro Zenith sit,
+habita fuisset; altera vero, qvum eadem stella in dicto Zenith ad meridiem
+appareret. Hinc statui, proximo transitum Zenith nostri per Benenaim, seu
+stellam ultimam ca^dae Ursae majoris, observare; haec enim stella est secundae
+magnitudinis, tantumqve fere declinationis habet qvantum Collegium Greshamense
+Latitudinis. Cui observationi dies erunt maxim accommodi 4tus Aprilis, qvando
+Zenith nostrum stellam illam ad mediam noctem pertransit, and7 MUS Octobris,
+qvum eandem ad meridiem pertransit. Hujus autem tota ratio liqvido cuiqvam erit
+perspecta, qvi debite explanationem perpenderit praecedentem.
+
+Stellam hanc eo lubentior observo, qvod non solummodo talem habeat situm, qvi
+parallaxin ejus tantam fere dabit, qvanta in Islandia, vel sub circulo Arctico,
+poli Ecliptici observatur; sed and (stella cum fit secundae magnitudinis, and
+proinde qvalibet 4tae magnitadinis dimidio forte propior) angulus parallaxeos
+duplo propemodum major est futurus, stellaqve ipsa interdiu multo adhuc magis
+visibilis. Hoc intellectu erit facilius, si (in Fig. 1.) orbium A B C D (in qvo
+stellas secundae magnitudinis fixas supponamus) (...) (in qvo qvartae
+magnitudinis) a b c d (in qvo tertiae) and A B C D (in qvo primae varias
+perpendamus distantias; si etenim eo stellae a sole sunt remotiores, qvo nobis
+minores apparent, differentia parallactica etiam tanto nobis erit minor, qvanto
+minores sunt, qvas observamus, stellae.
+
+Qvidigitur ad hanc observandi methodum me moverit, facile cuiqvam constabit,
+qvi perpenderit, qvod Primo, hac ratione aeris five Atmosphaerae, refractionem,
+egregium illud malum, qvod observatores hactenus omnes, tam antiqvos qvam
+modernos, vexavit, illorumqve observationes ad parallaxin dignoscendam inutiles
+reddidit, tollo plane and effugio. Qvantum autem hoc erat malum, ex uno illo
+colligere est, qvod refractio haec eundem nunqvam statum servet; sed jam major,
+mox minor, observetur. Deinde, non aeqvalem aliqvam proportionem habet: notavi
+enim saepius majorem long supra Horizontem, qvam in illo, refractionem;
+saepius etiam and contrarium; hancqve differentiam immensam adeo deprehendi, ut
+ex unico hoc malo hypotheticae omnes Tabularum calculationes, ad propositum hoc
+nostrum spectantes, ruant and nullius factae sint loci. Differentia haec
+incertis and subitaneis Atmosphaerae mutationibus ortum debet: mutationes autem
+illae a calore and frigore, a densiori aut tenuiori vaporum materia, a
+gravitate vel levitate aeris, ab ejusdem vorticibus variis and voraginibus in
+gyrum actis, a vento, aliisqque id genus, causantur; qvae omnia qvum modo,
+gradu and tempore nobis prorsus ignotis in aerem agant, necesse est ut exinde
+refractio admodum sit perplexa and ad certam aliqvam Theoriam vix, aut ne vix
+qvidem, reducibilis. Sin autem ignoremus, qvaenam dati anguli pars refractioni
+sit referenda, eo usqve incerta erit observatio qvo possibilis refractionis
+incertitudo se extendit. Liceat enim mihi refractionem qvamlibet supponere,
+proportionatumqve ejus decrementum, secundum variam radiorum supra Horizontem
+elevationem, asignare: nulloqve statim negotio omnia mundi, Solis, Lunae and
+stellarum solvam phenomenon; ita ut stellas interim non unicum ultra Terrae
+diametrum a nobis remot^^ ponam. In hac autem observatione nostra nulla omnino
+invenitur refractio: and, ex conseqventi, sive aerem densiorem habeamus sive
+tenuiorem, sive gravem sive levem, calidum vel frigidum, Aestatem vel Hyemem,
+diem vel noctem, radius semper direct tendit, nec a recto tramite refractionem
+ullo modo aut deflexionem admittit. Secundo, hac etiam methodo omnia illa mala,
+qvae instrumentorum grandiorum fabricam, positionem aut usum attendunt,
+eluduntur: Non enim mihi qvadrante aliqvo, sextante, Octante, aut alia qvavis
+circuli part, unico saltem gradu majori, opus est; neqve necessum habeo, ut de
+divisionibus variis aut subdivisionibus sim solicitus, nec etiam de
+instrumentorum materia sive illa ferrum sit, aes, cuprum an lignum; neqve
+inqvirendum habeo an parts ejus constrictioni, dilatationi, aliisque, qvae
+instrumenta hactenus omnia reddidere incerta, sint obaoxiae. Licet autem multum
+curae and sumptus impenderit nobilis Tycho in instrumentis suis grandioribus
+fabricandis, ponendis and usurpandis; illa tamen a dictis omnibus malis non
+adeo munita video, qvin aliqvid semper erroris admitterent. Qvamvis etiam
+majores adhuc labores and sumptus profudisse videatur Hevelius, in stupendo suo
+instrumentorum Astronomicorum apparatu adornando; at neqve haec ab enumeratis
+omnibus errorum causts secura satis existimo, praesertim in anguli ad minuta
+qvaedam secunda mensuratione. Qvod si instrumenta Tychonis and Hevolii (qvi,
+ultra caeteros omnes, exqvisitissimas procul dubio and magnificentissimas
+instrumentorum Astronomicorum collectiones possiderunt) erroribus hisce fuerint
+subjecta; qvid de inani aliorum farragine statuemus? Constat ideo, qvam necesse
+sit, ut scientia physica and philosophica cum Mechanica and Experimentali
+copuletur; qvam mutilum sit and imperfectum A^tis studium cum Naturae non
+connexum; qvibus deniqve rationibus motus Dominus Ioh: Cutler, praelectionis
+hujus fundator and Patronus, utriusqve studii connubium instituit.
+
+Qvaerendum proximo erat instrumentum, opecujus observationem hanc perficerem;
+qvoda dicta omni objectione, aliisqve alicujus ponderis, securum foret. Ut hoc
+autem mihi ex animo fuccederet, proposui Telescopium, qvod parare possem
+maximum, erectum ita collocare, ut sursum recta mihi intuenti stellae per, vel
+prope, Zenith transeuntes occurrerent videndae; cui telescopio si
+perpendiculares commodumqve instrumentum dividens adjungerem, dubitabam nullus,
+qvin exinde certo dignoscerem (non solummodo qvo tempore dicta stella
+meridianum transiret, sed and) qvantum transitus istiusmodi ab exacto and
+centraii Collegio Greshamensis Zenith, sive septentrionem sive meridiem versus,
+distaret. Qvae omnia, qva methodo a me sunt transacta, ordine referam: hocqve
+eo distinctius, qvo omnes, qvibus eadem observare est animus, ad haec
+aggredienda paratiores sint and magis instructi.
+
+Primo igitur (postqvam observassem, qvantum incommodi cameris, per qvas
+transiret, crearet tubus, praesertim si longius a muris distaret, neqve enim
+aliter observationi esset accommodus; perpendisiem etiam, tubum non necessario
+talem reqviri intermedium, si modo ceila daretur aliqva, qvae ad vitrum
+speculare fixum dirigeret oculum, and alia, qvae vitrum objectivum, sive
+attollatur sive deprimatur, stabile servaret: nihil enim impedimenti ab
+intermedia luce causatur, sed haec potius ad mensuratorem melius percipiendum
+plurimum conducit) foramen, unius pedis, qvadratum in summitate tecti mei
+aperui, cui (vide Fig. 4.) Tubum a a, december circiter vel 12. pedum,
+perpendiculariter erectum ita adaptaricurabam, ut hic, per laqveare segmentatum
+descendens, in subjectam cameram apertus foret: huic, in summo tecti vertice,
+operculum q, qvod illum a pluviis defenderet, sic adaptatum habui, ut hoc, open
+filitenuioris n o p, qvod pertubum adlocum ubi observabam descendebat pro
+libitu aperire possem aut occludere. Intratubum hunc perpendicularem a a
+qvadratum habui alium minorem b b, qvi (ut occasio postulabat) sursum posset
+aut deorsum moveri, and, open subscudis, ad extensionem qvamvis reqvisicam
+reduci and stabilis teneri: intra hunc autem, in cella qvadam idonea C,
+Telescopii (36 pedum, neqve enim longius ad manum erat, nisi qvoddam 60 pedum,
+qvod arctiori observandi loco loco accom^odari no potuit) vitrum objectivum,
+hunc in modum erat fixum: vitrum scripsum in cellam aeneam, exact sibi exomni
+part congruam, est infixum; sed interstitia omnia liqvefacto qvodam complevi
+caemenro: cella vero haec pessulum tenuem habuit sub centro vitri transfixum,
+in qvo foramina duo exigua ad aeqvalem a medio vitri distantiam, terebrata
+sunt, qvibus perpendicularium dd summitates sunt infixae; in cella autem hac
+aenea tubo minori insigenda multum curae est adhibitum, ut dictus ille
+pessulus, qvam fieri posset exact, Septentrionem and meridiem designaret;
+licet hoc ad observationem hanc rite perficiendam non penitus erat necessarium.
+Lineae perpendiculares d d ultram 6 pedes sunt extensae, qvibus globuli duo
+plumbei, tantae molis, qvanta a filo tenuiori serico supportari posset, sunt
+appensi: hisce parts instrumenti inferiores sunt probatae, prout mox oftendam.
+sed primo Lectori non est ignorandum, qvod perpendiculariter sub dicto tubo
+foramen qvadratum r r unius pedis. in inferioris camerae pavimento incidi
+curari; qvod ita cum valvis est instructum, ut pro arbitrio aperiri possit aut
+occludi: hac ratione pu^cum habui 40 plus minus pedum; a summo sc. apice a ad
+infimum usqve pavimentum S S. In dicto illo pavimento tubum, in qvo vitrum erat
+Speculare, fixu^ habui, reliquumqve apparatum ad observationem hanc reqvisitum.
+Deinde mensam, seu sellam, i h h i parabam, cui in summitate foramen h h, 9
+circiter pollices latum, est incisum; foraminis hujus medium, qvam possem
+exact and perpendiculariter, sub medio vitri Objectivi collocabam: qvo facto
+subicudibus i i mensam firmiter pavimento coadunabam sub mensa capsulam feci
+ductilem g g, in qva cella erat cum vitro specularif; ita ut, per vitrumhoc
+hinc illinc ductum, qvamlibet dicti foraminis partem facile discernerem, licet
+mensa interea stabilis maneret and immota. Hocqve necessario reqvirebatur;
+stellae enim non paucae, qvae istius in Dracone praecursores erant, ejusqve
+adventum mihi praedixerunt, a parallelo per zenith nostrum transeunte haud
+parum erant remotae: hoc etiam medio stellam ipsam, a zenith nostro, orientem
+versus ultra dimidium gradus distantem observabam, ejusqve motui, cum vitri and
+glomi mensurantis motione, attendebam; eodemqve tempore (open horologii a
+pendulo moti) minuta numerabam secunda. Hinc igitur ad omnia notanda qvae ad
+observationem perficiendam necessario erant reqvisita, probe eram instructus;
+qvod si capsulam illam ductilem omisissem, repentinus nimio stellae accessus
+motusqve celerior operam forte omnem frustraneam redidissent and inutilem.
+Mensurator circulus erat tenuis aeneus in (Fig. 7. delineatus) cujus apertura a
+b novem circiter pollices erat lata; huic transfixi erant crines duo tenuissimi
+a b and c d qvi monstrabant punctum zenith in e, per qvod transitura erat
+stella: erant and duo alii crines, f g and i h isti, qvi ab orient in
+occidentem sub nostro zenith tendebat, paralleli, meridianumqve, seu lineam a
+meridie in Septentrionem tensam, in punctis perpendicularibus, k and l,
+secantes. Instrumentum hoc a latere a ad n erat productum; ubi n e lon
+gitudinem e m qvindecim vicibus continebat, ita ut cum e m longitudinem e m
+qvindecim vicibus continebat, ita ut cum e m 1, n e 25 pollices habebat: ad n,
+in linea n e. transfixum erat radius o p, pedes habens 3; qvi utrinqve, a
+puncto u, in pollices and parts divisus est omnis autem pollex in parts 30
+aeqvales est subdivisus: hinc discernere possem, licet non exact, minuta
+secunda in linea c d; cum enim unicum gradus minutum primum ad Tellescopium 30
+pedum octavam fere unius pollicis partem habeat, pars autem haec, open lineae
+diagonalis, in radio o p ad duos usqve pollices extendatur, haud arduum erat
+partem aliqvam lineae c d, minutum subrendenrem, in parts 60, and conseqventer
+etiam in minuta secunda subdividere. Qvamvis vero sexagesima, octavae unius
+policis partis, portio nudo vix discerni poss toculo; at sacile hoc fieri
+potest, si per vitru^ speculare objecta in Mensuratore, plus qvam 16 vicibus
+aucta, aspicias. Sed, ut p^rgam. In Mensuratore tenuem qvandam lamellarn habui
+m t, cui, in puncto m, fixum erat diagonale filum, qvo subtiliores fierent in
+minuta secunda subdivisiones: alterum diagonale filum in puncto u fixum, iis
+serviebat observationibus, in qvibus tanta non reqvirebatur subtilitas; hoc
+enim per qvatuor solum modo minuta secunda dividebat. Puncta qvibus fila haec
+diagonalia erant infixa, exact super lineam a b posita erant; and distantiae e
+m and e n pollices 1 and 5 continebant.
+
+Ut diagonalia haec in punctis m and n fixa fint (qvod praecipuum est
+reqvisitum nonnihil subtilitatis reqviritur; ut sc. tenuis qvaeda^ sit rimula
+qvae, exact supra lineam a b, crinem ita teneat immobilem, ut motus sui
+centrum praecise in dicta linea servet, non autem jam in illa, mox extra illam,
+habeat; qvod vix fieri potest, si linea diagonalis in foramine circumrotetur.
+
+Open hujus mensuratoris exactam percepistellaru^ a nostro zenith distantiam:
+potest etiam and in commensurandis planetarum diametris usurpari; in
+inqvirendis veris illorum distantiis a stella qvavis appropinqvante fixa; in
+satellitum etiam Iovis and Saturni a discis suis distantiis, ut and macularum
+Lunarium magnitudine and diametro, commensurandis; in distantiis deniqve
+stellarum ad se invicem appropinqvantiu^ observandis, aliisque mensurationibus
+innumeris in qvibus telescopiisaut microscopiis utimur; si intra utriusque
+vitri focum collocetur. possem and hicultra 30 Mensuratorum genera enumerare,
+qvorum singuli unicum pollicem (si opus fuerit) in 100, 1000 aut etiam 10000
+parts possint dividere; inter quos qvidam cuneorum, alii circinorum
+proportionalium, alii rotarum, alii trochlearum open etc. fabricari possunt: sed
+hi omnes, ad hunc locum non spectantes, in occasionem reservantur commodior m.
+Unum tamen eorum omittere non possum, utpote qvo non semel in hac observatione
+sum usus: isqve tam fabricatu est facilis tam qve accuratus, qvam ille modo
+dictus; licet (ob circumstantias qvasdam accidentales) loco ubi observabam non
+ita accommodatus. Hunc autem sic strues: Radium sumas duos, tres, aut qvatuor
+(prout operis praesentis ratio postulaverit) pedes longum, qvalem per a b (in
+Fig. 8.) notatum vides; hunc in 100, 1000 aut 10000 parts, qvam fieri potest
+accurate, dividas. Cui, ad utrumqve extremum, parts duas transversas, g h and
+e f, affigas; qvibus f^^a duo subrilissima (bombycum puta e glomis, crines
+tenuissimos aut similia; sic inseras, ut in puncto n se mutuo secantes, in
+punctis o and p pollicis latitudinem (aut aliam qvamvis mensuram certam) ab
+invicem distent. Radius hic inter duo thecae latera q and r fiat ductilis: huic
+vero thecae affigendus est alter crinis subtilis s r. Theca deniqvetelescopio
+firmiter est affigenda, ita ut linea r t certam semper ad vitrum oculare
+positionem servet. His ita constitutis; inter observandum, dum radium a b hinc
+illinc ducis, mensuram qvamvis petitam in linea S t assignas; si enim distantia
+e p unum det policem, distantia x y 494/1000 pollicis parts dabit: sin vero o
+p subtensionem habeat 10 minutorum, x y subtendet 4 94/100 Haec tam manifesta
+sunt and captufacilia. ut nu^lus metuam qvin radius hic (prout a triobolari
+qvoqvam artifice fabricari possit ita and) Lectori cuilibet, cum qvoad fabricam
+tum qvoad usum, fine ulteriori explicatione, facile innotescat. Revert^r igitur
+ad mensuratoris primi descriptionem.
+
+Restabat, ut mensuratorem illum ita fixum haberem ut fila exact Meridiem,
+septentrionem, Orientem and Occidentem respicerent, and se mutuo sub centro
+vitri secarent. Totumcerte experimentum nihil hoc difficilius habuit,
+plurisvelaboris. Ut hoc efficerem capsulam sub mensa ductilem, qvae vitrum
+continebat, and mensuratorem, subduxi, and per mensae aperturam lineas
+perpendiculares demisi; ut autem globuli pendentes citius a vibratione
+cessarent, illos in vas aqva impletum, largum fatis and profundum, ita ut nec
+latus nec fundum attingerent, immitti curabam.
+
+Ex eo inventum hoc globulos in aqvam mittendi, tacere nolui, qvod, ^illud si
+omittas, vix dici possit qvantum temporis in exspectanda perpendicularitate
+fixa insumatur; qvamqve facile, ex insensibili qvovis aeris motu, nova fiat
+vibratio, lineaeqve a minimo interveniente inpedimento, e statu perpendiculari
+deflectantur: Unde, ut obiter dicam, male metuo, ne instrumenta hactenus
+usurpata non seves admiserint errores ex minus accurata dispositione
+perpendiculorum, qvae plerumqve ita posita erant, ut instrumentorum latera
+pulsarent. Hac tamen methodo lineas statim habui perpendiculares, and in
+perpendicularitate sua fixas adeo, ut nec a levi aeris motione, nec a propria
+vibratione novum admitterent deflexum; dumque sic stabiles erant, ansas fixi
+binas aeneas (qvales in Fig. 7. literis zz, zz signatas vides) qvarum utraque
+ad extremitatem parvum habebat foramen and ad latus rimulam qvae lineam
+admitteret perpendicularem: (Ansam hujusmodi exactius in Fig. 6. descriptam
+habes.) Postqvam vero per hanc rimulam lineam perpendicularem intromisissem,
+operam dedi maxim sedulam, ut ansa ita esset fixa, ut exact per centrum
+foraminis y dicta transiret linea. Qvod cum fecissem, ansas zz, zz stabilivi
+and lineas abstuli: deinde Mensuratorem ll (in Fig. 4.) mensae imposui,
+diligensqve curavi ut sectiones k and l (in Fig. 7) exact sub foraminum y y
+centris essent positae. Hoc facto, Mensuratorem firmiter mensae coadunavi and
+ad observationem me accinxi. Applicans igitur capsulam g g, qvae cellam f (in
+Fig. 4.) portabat, in grabatum k ita supinus procubui ut sursum recta intueri
+possem, manuqve sinistra cellam cum vitro ita movebam, ut stellam qvamvis, sub
+mensae foramine transeuntem, offenderem; dextera interim filum diagonale r m
+(in Fig. 7.) movens, exactam stellae per meridianum c d transeuntis a Zenith e
+distantiam, sive septentrionem sive meridiem versus, designare possem.
+Coadjutor interea meus, ad signu^ datum, in horologio (per pendulum moto) ad
+minuti secundi parts transitus notabat tempus, observabatqve qvam divisionem
+filum diagonale m ^ in radio o p designabat.
+
+Operosa haec omnia toties ad explorandam instrumentorum certitudinem, repetere
+sum coactus, qvoties reiteratae a me sunt observationes. Unde saepius turrem*
+aliqvem firmum, rupem aut puteum profundiorem mihi in vicinia optare soleo; ut
+sic omnia simul and semel fixa haberem, nec repetita toties instrumentorum
+probatione gravarer. Qvi enim loco istiusmodi commodo* est instructus, and
+mensuratorem sibi extenuissimis bombycum glomis confectum parat, faciliori,
+procul dubio, negotio variationem distantiae stellarum fixarum a zenith suo
+sensibilem inveniet; idqve intra spatium multo minus qvam sex mensium. Variatio
+autem haec facilius adhuc dignoscetur, si telescopium hoc nostro, 36 pedum
+qvadruplo longius, 144 s^^ pedum, adhibeatur; siqve, vice turris, fons aliqvis
+profundus and desiccatus usurpetur: qvalem in aedibus Nobilis cujusdam in
+Comitatu Surreiae me vidisse memini, qvi, per cretam effossus, 360 fere pedes
+altus, attamen ad ultimum ferme fundum aridus, erat Fons enim istiusmodi haud
+ita facile depressionem aut deflexionem, prout turres aedesqve altiores,
+admittit; nec a vento motus aliqvos aut qvassationes patitur, qvas tamen
+turres, muri and domus firmissimae sentiunt; nec deniqve lineae hic
+deflectuntur perpendiculares, cui malo in structura editiori vix medelam
+invenies. Accommoda talis occasio aliis solummodo est optanda, mihi non
+speranda: qvamvis non dubito, qvin observatio, experimentum hoc facientibus,
+laborem abunde compensaverit.
+
+Via sic strata, paratisqve instrumentis ad observationem reqvisitis, transitum
+stellae in capite Draconis observare incepi, semperqve cum in inchoatione tum
+in fine cujuslibet observationis factae, Mensuratorem per lineas
+perpendiculares probabam: ut hinc certus forem instrumentum esse accuratum.
+Notavi enim aliqvoties, intra spatium unius. duorum aut trium dierum ab
+observatione habita, variationem ad unum usqve minutum primum in perpendiculis
+factam. Mutationem vero hanc distortioni praecipue tubi in summitate tecti,
+adscribendam sensi; hunc enim dies calidus ad meridiem, aer vero humidus a
+venti plaga, sensim deflectebat: credo tamen and aliqvid variationis a tota
+tecti fabrica evenisse nec nihil forte pavimentorum alterationi erat
+tribuendum. Atqvi variationem hanc nunqvam adeo repentinam percepi, qvin
+probationes, ante and post observationem aliqvam factae, inter se semper
+convenirent.
+
+Prima observatio habita est 6 to Iulii 1669. Qvo die observabam stellam
+lucidam Draconis meridianum transire ad 2. Min: 12. sec:: a mensuratoris
+zenith, versus Septentrionem
+
+Secunda habita est 9no Iulii ejusdem anni. Qvo die stellam hanc eundem locum
+transeuntem, aut ab eo non sensibiliter diversum, observabam.
+
+Tertia, 6 to Aug: seqventis. Qvo die distantiam inveni 2 min: 6. sec:
+
+Ultima, 21 mo Octobris. Qvo die distantiam notabam 1. Min: 48 vol 50. sec: ad
+septentrionem.
+
+Coeli and corporis mei intemperies ulteriorem observationis progressum tunc
+temporis impediebat, qvod saepius dolere soleo: in summis etenim votis habeo
+observationes adhuc alias majori cum certudine aggredi; notavi enim ex eo
+tempore, and correxi, errores in instrumentis hisce non paucos.
+
+Utrum necne hoc, qvod in mensuratore designatur, verum sit Collegii
+Greshamensis zenith, non necessario hic inqvirendum venit; (Licet and in hoc
+etiam inqvisivissem; ni ex infortunio qvodam vitrum mihi fractum fuisset
+objectivum) qvum certum sit, hoc ad verum zenith eandem semper positionem
+servasse; qvandoqvidem vitium objectivum and lineae perdendiculares, per totum
+tempus dictum, e cella non movebantur. Unde etiam seqvitur, qvod etiamsi vitrum
+illud objectivum unum forte latus altero crassius habuit (qvi error in
+hujusmodi vitris vulgaris admodum est and tantum non universalis) and, ex
+conseqventi, radium in latus illud crassius defle xit, eoqve etiam mensuratoris
+perpendiculum a vero perpendiculo abduxit; attamen, qvum in hoc statu se semper
+habuerit, si a falso hoc perpendiculo steliae transitus variarit, certe and a
+vero variasset. Modus qvo verum invenire perpendiculum destinavi, jam seqvitur:
+(qvi etiam vitris telescopiorum probandis inservire potest; prout in tractatu
+aliqvo seqvente ostendam.) Postqvam in vitro Septentrionem per literam N
+notavero, Orientem per E, Meridiem per S, and Occidentem per W; [ i.e. North,
+East, South, West.) circa primum Iunii observare incipio, veramque stellae
+alicujus insignioris fixae (puta hanc Draconis) a zenith (qvod inveneram prius,
+cum litera N Septentrionem respexit) distantiam mensurare. inseqvente nocte,
+mutato vitri latere, and litera S ad septentrionem versa, ejusdem stellae
+transitum observo. Tertia nocte eandem obsertionem repeto, literamqve E ad
+septentrionem verto. Qvarta deniqve nocte rursus repeto, litera W Septentrionem
+respiciente. Jam ex harum interse observationum collatione, qvanta sit vitri
+objectivi refractio falsa, and in qva ejus partesita sit, facile invenies; and
+conseqventer, zenith apparens vero conformare disces. Sed haec obiter.
+
+Constat igitur ex observationibus 6 ti and 9 ni Iulii and 21 Octobris,
+parallaxin Orbis Telluris esse sensibilem ad stellam fixam in capite Draconis;
+and, proinde, hypothesin Copernicanam, adversus Ptolomaicam and Tychonicam
+confirmari.
+
+Priusqvam Discursus hic claudatur, qvaedam, qvae in observatione 21 Octobris
+notatu ad modum digna occurrebant, in memoriam hic sunt revocanda. sunt autem
+illa qvae seqvuntur: Primo, circa 17 min: post horam tertiam ejusdem diei^
+(qvamvis sol adhuc non parum supra Horizontem micaret, radiosqve in cameram ubi
+observabam funderet; licet etiam nihil umbraculi haberem, qvod vel in camera
+superiori vel inferiori, radios diverteret) stellam lucldam in capite Draconis
+tam clare and distinct per Zenith transeuntem vidi, ac si sol jumdudum
+occidisset: fateor tamen illam magnitudinis luminisqve coruscantis, qvo noctu
+adornari solet, plurimum perdidisse; ejusque comites evanuerant. Idem and in
+dierum aliorum observationibus antea notabam; (sole semper in utramqve cameram
+radios immittente^) in qvibus stellas credo fixas primo interdiu visas fuisse,
+dum sol Eclipsin nullam, neqve aliam qvamvis lucis privationem, est passus.
+Qvamvis enim ex anili traditione acceptum habemus, e font profundiori aut
+puteo stellas interdiu nudo oculo discerni posse; hoc tamen pro fabula, nullo
+rationis fundamento nixa reputare non dubito: Situs enim ifte, in putei fundo,
+nihil impedit qvo minus lux atmosphaerae oculum ad, and prope, axem visionis
+afficiat, and si visum a radiis lateralibus multum liberet; nisi etenim
+radiorum stellae falsorum tanta fit radiatio, ut omnem aeris lucem superet,
+certe radii very, a corpore provenientes, tam exigui sunt, ut nullo modo nudum
+poffiut oculum afficere. Nam ( Secundo) stellam hanc interdiu, dum sol
+splendebat, observans, corpus ejus, per telescopium 36 pedum, tam exiguum
+deprehendi; ut diamentrum haberet pauculorum solummodo minutorum tertiorum;
+radii enim omnes spurii, qvae noctu stellae hujus barbam conficiunt, erasi
+sunt, corpusqve, ornatu suo denudatum, tenue igitur mansit punctum albescens.
+
+Exiguae corporis hujus dimensiones sic perspectae objectionem omnino tollunt,
+qvae magno cum vigore and triumpho ab Anticopernicanis urgetur; inter qvos
+primas habent Ricciolus and Tacqvet, qvi apparentes stellarum diametros tantae
+magnitudinis statuunt ut stellae cujusvis corpus orbis magni molem saepius
+contineant: (qva qvidem ratione stellae solis magnitudinem multo superarent)
+hinc sperantes fore ut hypothesis Copernicana, tanqvam minus probabilis, a
+cunctis rejiciatur. Qvi tamen hac methodo nostra stellarum fixarum diametros ad
+examen strictius revocaverint, exiguos adeo illos sentie^t, ut secundum
+parallaxes and distantias collectas) ab illo solis non multu^ discrepent; qvin
+qvosda^ hoc majores, alios vero minores invenie^t; diameter enim circuli
+interstellas fixas parallactici tantum stellae diametru^ superare videtur,
+qvantu^ diameter orbis annui Telluris solis diametrum excedit. Neqve
+incredibile est a telescopiis longioribus and melioribus magnitudinem stellarum
+fixarum apparentem multo adhuc magis diminui; dum sic oculus a coruscantibus
+and falsis liberetur radiis, qvi corpora haec majora repraesentant. Nobis
+sufficit dixisse nos, open telescopii hujus nostri, stellae dictae diametrum
+minuto secundo minorem deprehendisse; parallaxis autem (uti opinamur) 27 vel 30
+sec. continet. Haud igitur difficile fore arbitror stellas qvas dam notasse,
+qvarum diametri part parallaxeos hujus ducentesima minores erunt; qvalis
+forte, ex observatione magis accurata, stellae dictae diameter invenietur.
+Novimus autem orbis Telluris diametrum non ultra 200 vices diametrum solis, in
+centro dicti orbis fixi, continere: ideoque si differentia parallactica
+visibilem stellae diametrum 200 vicibus superet, stella haec eandem cum sole
+magnitudinem est sortita.
+
+Inventum hoc stellas fixas interdiu, sole splendente, discernendi (prout hoc
+in genere primum aestimo, ita etiam) ad Astronomiam perficiendam usus fore
+plurimi non dubito. Primo enim, ad rectum solis locum in Ecliptica, qvovis anni
+tempore, inveniendum inserviet: qvandoqvide^ enim stellam qvamvis, primae,
+secundae, aut tertiae magnitudinis, qvavis diei hora (si modo supra Horizontem
+fuerit, nec nimis prope ad solis corpus accedat) hac methodo facile invenies,
+qvum qve (modo qvem brevi in lucem dabo,) angulus ad qvemvis in coelis
+semicirculum ab unico observatore, ad unum usqve minutum secundum, exact
+notari possit; Astronomis futuris haud multi fore puto negotii, locum solis
+inter stellas fixas apparentem, ad minutum plus minus secundum rectificare;
+sicque observationes suas 100 vicibus accuratas magis reddere, qvam qvae
+hactenus ab optimae notae Astronomis sunt habitae. Neque (Secundo) minor hujus
+erit usus in notando appulsu qvovis insignori Lunae,,,, aut ad stellam qvamvis
+notabiliorem sixam, qvi interdiu eveniet; unde very planetarum horum loci and
+parallaxes discerni possunt. Deniqve aeris refractiones diurnae hac etiam
+methodo ex certa experientia erunt detectae. Horologiorum qvorundam
+descriptiones, qvae in his and similibus observationibus Astronomicis plurimi
+usus (adda^ and necessitatis) sunt futurae, hic loci non incommode subjungi
+possent: has autem insubseqvente aliqvo Conamine expectes; in qvo varios tradam
+modos de Horologiis meliorandis and ad varios usus (puta ad Astronomiam
+emendandam; ad Tabulas stellarum fixarum ad minuta qvaedam secunda completas
+reddendas; ad Longitudines investigandas; ad Navigationem and Geographiam
+corigendas; ad proprietates and effectus motuum correspondentiae secretae and
+celeri inservientium, detegendos; and ad alia qvam piurima Naturae mysteria
+perscrutanda) accommodandis, a me saepius, nonsine auspicato successu,
+probatos. sufficient hic. in transitu, notasse, me, in non una observatione
+praecedente, motus qvosdam in Tellure novos detexisse, ab aliis forte nondum
+somniatos; qvos in seqventibus pleniusdescribam, postqvam ex repetitis
+experimentis primordia haec rudiora ad maturitatem pervenerint. Ubi etiam novum
+mundi systema propona^, in multis ab omnibus hactenus notis discrepans, and per
+omnia receptis motus mechanici regulis respondens. Hoc autem systema nostrum
+tribus innititur suppositis: Primo, qvod omnia corpora coelestia vim qvandam in
+centris suis magneticam habeant, qvar. on solummodo parts proprias sibi
+attrahunt and unitas servant qvod in Terra fieri observamus) sed reliqva etiam
+omnia corpora attrahunt coelestia, qvae intra activitatis suae sphaeras sita
+sunt; and, ex conseqventi, qvod non tantum sol and Luna in terrae corpus and
+motum influant, and e contra, sed and, etiam,, and vi sua magnetica in Terrae
+motu^ influant, haecque rursus in motus illorum. Secundo, qvod omnia prorsus
+corpora, qvae semel recto and simplici motu moventur, in recta sic linea moveri
+pergant, usque qvo ab alia aliqva vi effectiva in motum deflectantur, circulum,
+Ellipsin, vel aliam qvamvis lineam curvam, describentem.
+
+Tertio, qvod tanto potentius vis haec magnetica operetur, qvanto propius
+centro suo admovetur objectum. Qvomodo autem varii positionis gradus, respectu
+hujusmodi centroru^, annumerandi sint, nondum ex certo aliqvo experimento
+determinatum habeo. Inventio autem haec, si debite attendatur, occasionem
+praebebit Astronomo, motus omnes Coelestes ad certam aliqva^ regulam revocandi:
+qvod sine illa vix unqva^ fieri posse existimo. Qvi recte natural penduli and
+motus circularium caller, facile totum capiet systematis hujus fundamentum;
+sentietque qvomodo in dubio qvovis auxilium a Natura sit petendum. Hoc in
+praesentiarum digito solummodo illis monstro, qvibus vacat inventum illud
+ulterius proseqvi, qvique in observando and calculando diligentes sunt and
+industrii. Hujusmodi mihi coadjutores anxie desidero; ab hoc enim me avocant
+alia innumera qvae prae manibus habeo, qvaeqve lubens ad umbilicum perducerem.
+Hoc interim inventum illud aggredienti spondere ausus sum, illum omnes mundi
+motus majores hoc posse principio solvere: imo sentiet, qvod hoc, recte
+intellectum, ultimam dabit Astronomiae perfectionem.
+
+

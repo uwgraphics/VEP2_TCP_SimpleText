@@ -1,0 +1,1593 @@
+STIGAI (...) OR MARKS Of the Absurd Geometry Rural Language Scottish
+Church-Politicks And Barbarismes
+OF JOHN WALLIS Professor of Geometry and Doctor of Divinity. By THOMAS HOBBES
+of MALMESBURY.
+
+LONDON, Printed for Andrew Crocke, at the Green Dragon in Paul's Churchyard,
+1657.
+
+To the Right honorable Henry Lord Pierrepont Vicount Newarke, Earl of
+Kingston, and Marquis of Dorchester.
+My most Noble Lord,
+I Did not intend to trouble your Lordship twice with this Contention between
+me and Doctor Wallis. But your Lordship sees how I am constrained to it; which
+(whatsoever reply the Doctor makes) I shall be constrained to no more. That
+which I have now said of his Geometry, Manners, Divinity, and G^ammar all
+together is not much, though enough. As for that which I here have written
+concerning his Geometry, which you will look for first, is so clear, that not
+only your Lordship and such as have proceeded far in that Sicence, but also any
+man else that does but know how to add and substract Proportions (which is
+taught at the twentieth third Proposition of ^the sixth of Euclide) may see the
+Doctor is in the wrong. That which I say of his ill Language and Politics is
+yet shorter. The rest (which concerns Grammar) is almost all another man's,
+but so full of Learning of that kind, as no man that takes delight in knowing
+the proprieties of the Greek and Latin Tongues, will think his time ill
+bestowed in the reading it. I give the Doctor no more ill words; but am
+returned from his manners to my own. Your Lordship may perhaps say my
+Complement in my Tittle page is somewhat course; And it is true. But, my Lord,
+it is since the writing of the Title page, that I am returned from the Doctors
+manners to my own; which are such as I hope you will not be ashamed to own me,
+my Lord, for one of
+
+Your Lordships most humble and obedient Servants Thomas Hobbes.
+
+TO DOCTOR WALLIS In answer to his SCHOOL DISCIPLINE.
+SIR,
+WHen ^nprovok'd you addressed unto me in your Elenchus your ha^sh complement
+with great security, wantonly to show your wit, I confess you made me angry,
+and willing to put you into a better way of considering your own forces, and to
+move you a little as you had ^moved me; which I perceive my Lessons to you have
+in some measure done; But here you shall see how easily I can bear your
+reproaches, now they proceed from anger, and how calmly I can argue with you
+about your Geometry, and other parts of Learning.
+
+I shall in the first part confer with you about your Arit^metica Infinitorum,
+and afterward compare our manner of Elocution; then your Politics; and last
+of all your Grammar and Critics. Your spirall line is condemned by him whose
+Authority you use to prove me a Plagiary, (that is, a man that st^aleth other
+men's inventions, and arrogates them to himself) whether it be Roberval or not
+that w^it that paper, I am not certain. But I think I shall be shortly, but
+whosoever it be, his authority will serve no less to show that your Doctrine
+of the sp^rall line from the fi^th to the eighteenth proposition of your
+Arithmetica Infinitorum, is all false; and that the principal fault therein (if
+all faults be not principal in Geometry, when they proceed from ignorance of
+the Science) is the same that I objected to you in my Lessons. And for the
+Author of that paper, when I am certain who it is, it will be then time enough
+to vindicate my self concerning that name of Plagiary; And whereas he
+challenges the invention of your Method delivered in your Arithmetica
+Infinitorum to have been his before it was yours, I shall (I think) by and by
+say that which shall make him a shamed to own it; and those that writ those
+Encomiastick Epistles to you ashamed of the Honor they meant to you: I pass
+therefore to the ninteenth proposition, which in L^tine is this. Your Geometry.
+Si proponatur series Quantitatum in duplicata ratione Arithmetice.
+proportionalium (sive juxta seriem numerorum Quadraticorum) continu^
+crescentium, a puncto vel o inchoa^arum, (puta ut 0. 1. 4. 9. 16. etc.)
+propositum sit, inquirere quam habeat illa rat^onem ad seriem totid^m maximae
+aequalium.
+
+Fiat Investigatio per modum inductioni^ ut (in prop. 1.)
+
+Eritque ^ ^ ^ and sic dein^eps.
+
+
+Ratio proveniens est ubique major quam subtripla seu *; Excessus autem
+perpetuo decresci^ prout* numerus terminorum augetur (puta 1/6 1/12 1/18 1/30
+etc.) aucto nimirum fractionis denominatore sive consequente rationis in
+singulis locis numero senario (ut pa^et) ut ^it rationis provenientis excessus
+supra subtriplam, Ea quam habet unitas ad sextuplum numeri terminorum posto;
+adeoque.
+
+
+
+That is, if there be propounded a row of quantities in duplicate proportion of
+the quantities Arithmetically proportional (or proceeding in the order of the
+square numbers) continually increasing; and beginning at a point or 0; let it
+be propounded to find what proportion the row has; to as many quantities
+equal to the greatest;
+
+Let it be sought by induction (as in the first proposition)
+
+The proportion arising is every where greater then subtriple, or, And the
+excess perpetually decreaseth as the number of terms is augmented, as here,
+1/6 1/12 1/18 1/24 1/30 etc. the denominator of the fraction being in every
+place augmented by the number six (as is manifest) so that the excess of the
+rising proportion above subtriple is the same which unity has to six times the
+number of terms after 0; and so.
+
+Sir, In these your Characters I understand by the cross + that the quantities
+on each side of it are to be added together and make one Aggregate; and I
+understand by the two parallel lines = that the quantities between which they
+are placed are one to another equal; This is your meaning, or you should have
+told us what you meant else: I understand also, that in the first row 0 + 1 is
+equal to 1, and 1 + 1 equal to 2; And that in the second row 0 + 1 + 4 is equal
+to 5; and 4 + 4 + 4 equal to 12; But (which you are too apt to grant) I
+understand your Symboles no further; but must confer with your self about the
+rest.
+
+And first I ask you (because fractions are commonly written in that manner)
+whether in the uppermost row (which is ^) 0/1 be a fraction, 1/1 be a fraction,
+be a fraction, that is to say, a part of an unite, and if you will (for the
+ciphers sake) whether 0/1, be an infinitely little part of 1; and whether 1/1,
+or 1 divided by 1 signify an unity; if that be your meaning, then the fractio^
+0/1 added to the fraction 1/1 is equal to the fraction: But the fraction 0/1 is
+equal to 0; therefore the fraction 0/1 + 1/1 is equal to the fraction 1/1; and
+1/1 equal to which you will* confess to be an absurd conclusion, and cannot
+own that meaning.
+
+I ask you therefore again if by 0/1 you mean the proportion of 0 to 1; and
+consequently by 1/1 the proportion of 1 to 1, and by the proportion of 1 to 2:
+if so, then it will follow, that if the proportions of 0 to 1 and of 1 to 1 ^e
+compounded by addition, the proportion arising will be the proportion of 1 to
+2. But the proportion of 0 to 1 is infinitely little, that is, none. Therefore
+the proportion arising by composition will be that of 1, to 1, and equal
+(because of the symbol =) to the proportion of 1 to 2 and so 1 = 2: This also
+is so absurd that I dare say that you will not own it.
+
+There may be another meaning yet: perhaps you mean that the uppermost
+quantity 0 + 1 is equal to the uppermost q^antity 1; and the lowermost
+quantity 1 + 1 equal to the lowermost quantity 2: Which is true: but how then
+in this equation = + is the uppermost quantity 1 equal to the uppermost
+quantity 1 + 1; or the lower most quantity (...) equal to the lowermost
+quantity 3 + 6? Therefore neither can this be your meaning; unless you make
+your symbols more significant, you must not blame me for want of understanding
+them.
+
+Let us now try what better success we s^all have where the places are three,
+as here ^: If your Symbols be fractions, the compound of them by addition is
+5/4; For 0, and 4/4 make 5/4; and consequently (because of the Symbol =) 5/4
+equal to 5/12 which is not to be allowed, and therefore that was not your
+meaning. If you meant that the proportions of 0 to 4 and of 1 to 4 and of 4 to
+4 compounded is equal to the proportion of 5. to 12. you will fall again into
+no less an inconvenience. For the proportion arising out of that Composition
+will be the proportion of 1. to 4. For the proportion of 0. to 4. is infinitely
+little. Then to compound the other two, set them in this order 1. 4. 4. and you
+have a proportion compounded of 1. to 4. and of 4. to 4. namely, the proportion
+of the first to the last, which is of 1. to 4. which must be equal (by this
+your meaning) to the proportion of 5. to 12. and consequently as 5. to 12. so
+is 1. to 4. which you must not own. Lastly, if you mean that the uppermost
+quantities to the uppermost, and the lowermost to the lowermost in the first
+Equation are equal, it is granted, but then again in the second Equation it is
+false. It concerns your fame in the Mathematics to look about how to justify
+these Equations which are the premises to your conclusion following, namely,
+that the proportion arising is every where greater then subtriple, or a third;
+and that the excess (that is, the excess above subtriple) perpetually
+decreaseth as the number of terms is augmented, as here 1/6 1/12 1/18 1/24 1/30
+etc. which I will show you plainly is false.
+
+But first I wonder why you were so angry with me for saying you made
+proportion to consist in the Quotient, as to tell me it was abominably false,
+and to justify it, cite your own words Penes Quotientem, do not you say here,
+the proportion is every where greater then subtriple, or? And is not the
+quotient of 1. divided by 3? You cannot say in this place that Penes is
+understood; for if it were expressed you would ^ot be able to proceed.
+
+But I return to your conclusion, that the ex^ess of the proportion of the
+increasing quantities above the third part of so many t^mes the greatest,
+decreaseth as 1/6 1/12 1/18 1/24 1/30 etc. For by this account in this row ^
+where the quantity above exceeds the third part of the quantities below by '
+you make equal to ' which you do not mean. It may be said your meaning is that
+the proportion of (...). to the subtriple of 2. which is exceeds what? I
+cannot imagine what, nor proceed further where the ter^s be but two. Let us
+therefore take the second row, that is, ^ The sum above is 5. the sum below
+is 12. the third part whereof is 4. if you mean, that the proportion of 5. to
+4. exceeds the proportion of 4* to 12. (which is subtriple) by 1/12' you are
+out again. For 5. exceeds 4. by unity, which is 12/12 I do not think you will
+own such an equation as ^. Therefore I believe you mean (and your next
+proposition assures me of it) that the proportion of 5. to 4. exceeds subtriple
+proportion by the proportion of 1. to 12. if you do so, you are yet deceived.
+
+For if the proportion of 5. to 4. exceeds subtriple proportion by the
+proportion of 1. to 12. then subtriple proportion, that is, of 4. to 12. added
+to the proportion of 1. to 12. must make the proportion of 5. to 4. But if you
+look on these quantities 4. 12. 144. you will ^ee and must not dissemble that
+the proportion of 4. to 12. is subtriple, and the proportion of 12. to 144. is
+the same with that of 1* to 12. Therefore by your assertion it must be as 5. to
+4. so 4. to 144. which you must not own.
+
+And yet this is manifestly your meaning as apppeareth in th^se words; u^ (...)
+rationis pr^venien^is excessus supra subtriplam ^a quam ^abet unitas ad
+sextuplum numeri terminorum post 0, adeoque, which cannot be rendered in
+English, nor need to be. For you express your self in the 20th. pr^position
+very clearly; I noted it only that you may be more merciful hereafter to the
+stumblings of a hasty Pen. For excessus ea quam does not well, nor is to be
+well excused by subauditur ratio. Your 20th. proposition is this*
+
+Siprop^natur serie^ quantitatum in duplicata ratione Arithmetice
+proportionalium (sive jux^a seriem Numerorum Quadraticorum) continue
+crescentium, a puncto vel O in choatarum, ratio quam habet illa ad seriem
+to^idem maximae aequalium subtriplam superabit; eritque excessus ea ratio qua^
+habet unitas ad sex^uplum n^meri terminorum post 0, sive quam habet radix
+Quadraticae termini primi post 0 ad sextuplum radicis Quadraticae termini
+maximi.
+
+That is, if there be propounded a row of quantities in duplicate proportion of
+Arithmetically-proportionals (or according to the row of square numbers)
+continually increasing, and beginnin gwith a point or 0. The proportion of that
+row to a row of so many equals to the greatest, shall be greater then subtriple
+proportion, and the excess s^all be that proportion which unity h^th to the
+sextuple of the number of terms after 0, or the same which the square roo^ of
+the first number after 0, has to the sextuple of the square root of the
+greatest.
+
+For proof whereof you have no more here, then pa^e^ ex praeceden^^bus; and no
+more before but adeoque. You do not we^l to pass over such curious
+propositions so slightly; none of the Ancients did so; nor, that I remember,
+any man before your self. The proposition is false, as you shall presently see.
+
+Take for example any one of your rows; as ^. By this proportion of yours 1 + 4
+which makes 5 is to 12 in more then subtriple proportion; by the proportion of
+1 to the sextuple of 2 which is 12. Put in order these three quantities 5. 4.
+12. And you must see that the proportion of 5 to 12 is greater then the
+proportion of 4 to 12, that is, subtriple proportion, by the proprtion of 5 to
+4. But by your account the proportion of 5 to 4 is greater then that of 4 to 12
+by the proportion of 1 to 12. Therefore as 5 to 4 so is 1 to 1^. which is a
+very strange Parodox.
+
+After this you bring in this Consectary.
+
+Cum autem cresente numero terminorum excessus ille supra rationem sub^riplam
+conninuo minuatur, ut tandem quovis assignabili minor eva^^t (un p^tet) si in
+in^ini^um producatur prorsus evaniturus est. Adeoque.
+
+That is, seeing as the number of terms increases, that excess above
+subtriple proportion continually decre^seth, so as at length it be^omes less
+then any assignable (as is manifes^) if it be produced infinitely, it shall
+utterly vanish, and so. And so what?
+
+Sir, This consequence of yours is false. For two quantities being given, and
+the excess of the greater above the less, that excess may continually be
+decreased, and ye^ never quite vanish. Suppose any two unequal quantities
+differing by more then an unite, as 3 and 6, the excess 3, let three be
+diminished, first by an unite, and the ezcesse will be 2 and the quantities
+will be 3 and 5. 5 is greater then 4; the excess 1. Again, let 1 be diminished
+and made. ^he excess and the quantities 3 and 4. 4 is yet greater then 4.
+Again diminish the excess to, the quantities will be 3 and 4 yet still 4 is
+greater then 4. In the same manner you may proceed to, 1/16, 1/32, etc.
+Infinitely; and yet you shall never come within an unite (though your unite
+stand for 100 mile) of the lesser quantity propounded 3, if that 3 stand for
+300 Mile. The exce^ses above subtriple proportion do not d^creas^ in ^he manner
+you say it does, but in the manner which I shall now show you.
+
+In this first row ^ a third of the quantities below is. set in order these
+three3 quantities 1. 2/9.. The first is 1 equal to the sum above, the last is
+equal to the subtriple of the sum below. The middlemost is 2/9 subtriple to the
+last quantity. The excess of the proportion of 1 to above the subtriple
+proportion of2/9 to is the proportion of 1 to 2/9, that is, of 9 to 2, that is
+of 18 to 4.
+
+Secondly in the second row which is ^ a third of the sum below is 4 the sum
+above is 5. Set in order these quantities 15. 4. 12. There the proportion of 15
+to 12 is the proportion of 5 to 4. The proportion of 4 to 12 is subtriple; the
+excess is the proportion of 15 to 4, which is less then the proportion of 18
+to 4. as it ought to be; b^t not less by the proportion of to 1/12, as you
+would have it.
+
+Thirdly, in the third row, which is ^. A third of the sum below is 12, the su^
+above is 14. Set in order these quantities 4 (...). 4. 12. There the proportion
+of 42 to 12. is the same, with that of 14 to 4. And the p^oportion of 4 to 12
+subtriple, less then the former excess of 15 to 4. And so it goes on
+deceasing all the way in this manner, 18 to 4. 15 to 4. 14 to 4 etc. which
+differs very much from your 1 to 6. 1 to 12. 1 to 18 etc. and the cause of your
+mistake is this; you call the twelfth part of twelve 1/12, and the eighteenth
+part of thirty ^ix, you call 1/18, and so of the rest. But what need all those
+equations in Symbols, to show that the proportion decreases; is there any man
+can doubt, but that the propartion of 1 to 2 is greater then that of 5 to 12,
+or that of 5 to 12 greater then that of 14 to 36, and so continually forwards;
+or could you have fallen into this error, unless you had taken, as you have
+done in very many places of your Elenchus, the Fra*ctions and 1/12, etc. which
+are the quotients of 1 divided by 6 and 12. for the very proportions of 1 to 6,
+and 1 to 12. But notwithstanding the excess of the proportions of the
+increasing quanti^ies, to subtriple proportion decrease still, as the number of
+terms increases, and that what proportions soever I shall assign, the
+decrement will in time (in time I say without proceeding in in^initum) produce
+a less, yet it does not follow that the row of the increasing qu^ntities shall
+ever be equal to the third part of the row of so many equals to the last or
+greatest. For it is not, I hope, a Paradox to you, that in two rows of
+quantities the proportion of the excesses may decrease, and yet the excesses
+them selves increase, and do perpetually.
+
+For in the second and third rows, which are ^ and ^ 5 exceeds the third part
+of 12, by a quarter of the square of fo^r, and 14 exceedes the third part of 36
+by 2 quarters of the square of 4, and proceeding on, the sum of the increasing
+quantities where the terms are 5 (which sum is 30) exceeds the third part of
+those below (those below are 80 and their third part 26 by 3 quarters and a
+quarter of the square of 4. and when the terms are 6 the quantities above will
+exceed the third part of them below by 5 quarte^s of the square of four. Would
+you have ^en believe, that the forther you go, the excess of the increasing
+quantities above the third p^r^ of those below shall be so much the less? And
+yet the proportions of those above, to the the thirds of those below, shall
+decrease eternally; and therefore your (...) proposit^on is ^alse, namely this.
+
+Siproponatur series Infinita quantitatum in duplic^t^ ratione Arithmetice
+proportionalium (sive juxta seriem numerorum quadraticorum) continue
+crescentium (...) puncto ^ive O inchoata^um; eri^ illa ad seriem to^idem
+maximae aequalium, ut 1 ad 3.
+
+That i^, if an infinite row of quantities be propounded in duplicate
+proportion of Arithmetically proportio^alls (or according to the row of
+quadratick numbers) continually increasing and beginning from a point or 0;
+that row shall be to the row of as many equals to the greatest, as 1 to 3.
+This is false, ut patet ex praecedentibus, and consequently all that yo^ say in
+proof ^f the proportion of your Parabola to a parallelogram, or of the spiral
+(he true spiral) to a circle is in vain.
+
+But your spiral puts me in mind of what you h^ve underwritten to the diagramme
+of your prop 5. The spirall in both f^gures was to be continued whole to the
+middle, but by the carelessnesse of the Graver it is in one figure manca, in
+the other intercis^.
+
+T^uly Sir, you will hardly make your Reader believe that a Graver could ^ommit
+those faults without the help of your own Copy, nor that it had been in your
+copy, if you had known how to describe a spiral line then as now. This I had
+not said, though truth, but that you are pleased to say, though not truth, that
+I attributed to the Printer some f^ults of mine;
+
+I come now to the thirty ninth proposition which is this
+
+Si proponatur series quantitatum in triplicata ratione Arithmetice
+proportionalium (sive juxta seriem numerorum cubicorum) continue cresentium a
+puncto sive O inc^oata^um, (puta ut O. 1. 8. 27. etc.) propositum sit inquirere
+quam habeat series illa rationem ad seriem totidem maximae ^qualium.
+
+Fiat investigatio per modum Inductionis (ut in prop. 1 and prop 19.)
+
+Eritque ^ ^ ^ Et sic d^inceps
+
+
+Ratio proveniens est ubique major quam subquadrupla, sive. Excessus autem
+perp^^uo decrescit, p^o ut numerus terminor^m augetur, puta.. 1/12. 1/16 etc.
+Aucto nimirum fractionis denominator^ ^ive cansequente rationis in ^ingulis
+locis numero quaternatio (ut patet) ut sit rati^nis provenie^ ^xcess^ supra
+subquadruplam e^ quam habet unitas ad Quadruplum numeri terminorum post 0.
+Adeoque.
+
+That is, if a row of quantities be propounded in triplicate proportion of
+Arithmetically proportionalls (or according the row of cubiqu^e numbers)
+continually increasing, and beginning from a point or o (as 0. 1. 8. 27. 64.
+etc.) let it be propounded to enquire what proportion that row has to a row of
+as many equals to the greatest^
+
+Be it sought by way of induction, (as in prop. 1. 19).
+
+The proportion arising is every where greater then subquadruple, or, and the
+excess perpetually decreaseth as the number of terms increases as,, 1/12,
+1/16, 1/20, etc. The denominator of the fraction, or consequent of the
+proportion being in every place augmented by the number 4 (as is manifest) so
+that the excess of the arising proportion above subquadruple is the same with
+that which an unite has to the quadruple of the number of the terms after 0.
+And so. Here are just the same faults which are in prop. 19.
+
+For if 0/1 be a fraction, and 1/1 be a fraction and be another fraction, then
+this equation ^ is false. For this fraction 0/1 is equal, to 0* and therefore
+we have 1/1 =, that is the whole equal to half. But perhaps you do not mean
+them fractions, but proportions; and consequently that the proportion of 0 to
+1, and of 1 to 1 compounded by addition (I say by addition; not that I, but
+that you think there is a composition of proportions by multiplication, which I
+shall show you anon is f^lse) must be equal to the proportion of 1 to 2. which
+cannot be, For the proportion of 0 to 1 is infinitely little, that is, none at
+all; and consequently the proportion of 1 to 1 is equal to the proportion of 1
+to 2* which is again absurd, There is no doubt, but the whole number of 0 + 1
+is equal to 1, and the whole number 1 + 1 equal to 2. But reckoning them as you
+do, not for whole numbers, but for fractions, or proportions, the equations are
+false.
+
+Again your second equation 2/4 = + though meant of fractions, that is of
+quotients it be true, and serve nothing to your purpose, yet if it be meant of
+proportions, it is false. For the proportion of 1 to 4 and of 1 to 4 being
+compounded are equal to the proportion of 1 to 16, and so you make the
+proportion of 2 to 4 equal to the proportion of 1 to 16, where as it is but
+subquaduplicate, as you call it, or the quarter of it as I call it. And in the
+same manner you may demonstrate to yourself, the same fault in all the other
+rows of how many terms soever they consist, Therefore you may give for lost
+this 39. prop. as well as all the other 38 that went before. As for the
+conclusion of it, which is, that the excess of the arising proportion etc.
+They are the words of your 40* proposition, where you* e^presse your self
+better, and make your error more easy to be detected.
+
+The proposition is this.
+
+Si proponatur series quantitatum in triplicata ratione Arithmetice
+proportionalium (sive juxta seriem numerorum cubicorum) continue crescentium a
+puncto velo inchoa^arum, ratio quam habet illa ad seriem totidem maximae
+aqualium subquadruplam superabit; eritque excessus ea ratio quam habet unitas
+ad quadruplum numeri terminorum post 0; sive quam habet radix cubica termini
+primi post 0 ad quadruplum radicis cubicae te^mini maximi. Pat^^ ex
+praecedente.
+
+Quum autem crescente numero terminorum excessus ille supra rationem
+subquadruplam i^a continuo minuatur, ut tandem qu^libet assignabili minor
+evadat, (u^ pa^et) si in Infinitum procedatur, prorsus evaniturus est. Ade^que.
+
+Paret ex prop. praecedent.
+
+That is; If a row of quantlties be propounded in triplicate proportion of
+Arithmetically proportionalls (or according to the row of cubick numbers)
+continually increasing; and beginning at a point or 0; The proportion which
+that row ^ath to a row of as many equals to the greatest is greater then
+subquadruple proportion; and the excess is that proportion which one unite
+has to the Quadruple of the number of terms after 0. Or which the cubick root
+of the first term after 0 has to the quadruple of the root of the greatest
+term.
+
+It is manifest by the precedent propositions.
+
+And seeing, the number of terms increasing, that excess above quadruple
+proportion does so continually decrease, as that at length it becomes less
+then any proportion that can be assigned (as is manifest) if the proceeding be
+infinite, it shall quite vanish; And so.
+
+This conclusion was annexed to the end of your 39 proposition; as there
+prooved. What cause you had to make a new proposition of it, without other
+proof then pate^ ex praecedente, I cannot imagine. But howsoever the
+proposition is false.
+
+For example, set forth any of your rows, as this of four terms. ^
+
+The row above is 36* the fourth part of the row below is 27. The quadruple of
+the number of terms after 0 is 12* then by your account, the proportion of 36
+to 108 is greater then subquadruple proportion by the proportion of 1 to 12.
+For trial whereof set in order these three quantities 36. 27. 108. The
+proportion of 36 (the uppermost row) to 108 (the lowermost row) is compounded
+by addition of the proportion^ 36 to 27, and 27 to 108. And the proportion of
+36 to 108 exceeds the proportion of 27 to 108 by the proportion of 36 to 27.
+But the proportion of 27 to 108 is subquadruple proportion. Therefore the
+proportion of 36 to 108 exceeds subquadruple proportion, by the proportion of
+36 to 27. And by your account by the proportion of 1 to 12; and consequently as
+36 to 27 so is 1 to 12. Did you think such demonstrations as these, should
+always pass?
+
+Then for your inference from the decrease of the proportions of the excess to
+the vanishing of the excess it self, I have already showed it to be false; and
+by consequence that your next Proposition, namely, the 40 is also false.
+
+The proposition is this.
+
+Si pr^ponatur series infinita quantitatum in triplicata ratione Arithmetice
+proportionalium (sive juxta seriem numerorum cubicorum) continue crescentium a
+puncto sive 0 inchoatarum, erit illa ad seriem totidem maximae aequalium, ut 1
+ad 4. pa^et ex praecedente.
+
+That is, If there be propounded an infinite row of quantities in triplicate
+proportion of Arithmetically proportionalls (or according to the row of cubick
+numbers) continually increasing, and beginning at a point or 0; it shall be to
+the row of as many equals to the greatest as 1 to 4. Manifest out of the
+precedent proposition.
+
+Even as manifest as that 36. 27. 1. 12. Are proportionalls: seeing therefore
+your Doctrine of the spiral lines and spaces is given by your self for lost,
+and a vain attempt, your first 41 propositions are undemonstrated, and the
+grounds of your demonstrations all false. The cause whereof is partly your
+taking quotient for proportion, and a point for 0, as you do in the 1. 16 and
+40. propositions and in other places where you say beginning at a point or 0;
+though now you deny you ever said either. There be very manay places in your
+Elenchus, where you say both; and have no excuse for it, but that in one of the
+places, you say the proportion is p^nes quotientem, which is to the same or no
+sense.
+
+Your 42 proportion is grounded on the 40; and therefore though true, and
+demonstrated by others, is not demonstrated by you.
+
+Your 43 is this.
+
+Pari methodo invenietur ratio seriei infinitae quantitatum Arithmetice
+proportionalium in ratione quadruplicata, quintuplicata, sextuplicata, etc
+Arithmetice proportionalium a puncto seu 0 in choatarum, ad seriem totidem
+maximae aequalium. Nempe in quadruplicata ^^it, ut 1 ad 5; in quintuplicata ut
+1 ad 6; in sextuplicata ut 1 ad 7.
+
+Et sic d^inceps.
+
+That is, By the same method will be found the proportion of an infinite row of
+Arithmetically proportionalls in proportion quadruplicate, quintuplicate,
+sextuplicate etc. of Arithmetically proportionalls beginning at a point or 0,
+to the row of as many equals to the greatest; Namely, in quadruplicate, it
+shall be as 1 to 5, in quintuplicate as 1 to 6; in sextuplicat^ as 1 to 7; and
+so forth.
+
+But by the same method that I have demonstrated that the 19. 20. 21. 39. 40.
+41. Propositions are false, any man else that will examine the 43 may find it
+false also. And because all the rest of the propositions of your Arithmetica
+infinitorum depend on these, they may safely conclude that there is nothing
+demonstrated in all that Book, though it consist of 194 propositions. The
+proportions of your Parabolo^ides to their Parallellogrammes are true, but the
+demonstrations false, and infer the contrary. Nor were they ever demonstrated
+(at least the demonstrations are not extant) but by me; nor can they be
+demonstrated, but upon the same grounds concerning the nature of proportion,
+which I have clearly laid, and you not understood. For if you had, you could
+never have fallen into so gross an error as is this your Book of Arithmetica
+Infinitorum, or that of the Angle of Contact. You may see by this that your
+symbolick Method is not only, not at all inventive of new Theormes, but also
+dangerous in expressing the old. If the best Masters of Symbolicks think for
+all this you are in the right, let them declare it. I know how far the Analysis
+by the powers of the lines extends, as well as the best of your half-learn't
+Epistlers, that approve so easily of such An^logismes as those. 5. 4. 1 12, and
+36. 27* 1. 12* etc.
+
+It is well for you that they who have the disposing of the professors places
+take not upon them to be Judges of Geometry, For if they did, seeing you
+confess you have read these Doctrines in your School^ you had been in danger
+of being put out of your place.
+
+When the Author of ^he paper wherein I am called Plagiary, and wherein the
+honor is taken from you of being the first inventor of these fine Theoremes,
+shall read this that I have here written, he will look to get no credit by it;
+especially if it be Roberval, which me thinks it should not be. For he
+understands what proportion is, better then to make 5 to 4 the same with 1 to
+12. Or to make again, the proportion of 36 to 27 the same with that of 1 to 12;
+and innumerable disproportionalites that may be inferred from the grounds you
+go on. But if it be Robeval indeed, that snatches this invention from you, when
+he shall see this burning coal hanging at it, he will let it fall again, for
+fear of spoiling his reputation.
+
+But what shall I answer to the Authority of the three great Mathemiticians
+that sent you those Encomiastick letters. For the first, whom you say I use to
+praise, I shall take better ^eed hereafter of praising any man for his Learning
+whilst he is young, further then that he is in a good way. But it seems he was
+in too ready a way of thinking very well of himself, as you do of your self.
+For the muddinesse of my brain, I must confess it. But ^r, Ought not you to
+confess the same of yours? No, men of your tenets use not to do so. He
+wonders, (say you) you thought it worth the while to ^o^^l your fingers about
+such a piece. It Is well; Every man abounds in his own sense. If you and I were
+to be compared by the complements that are given us in p^ivate letters, both
+you and your Complementors would be out of Countenance; which ^omplements,
+besides that which has been printed and published in the Commendations of my
+writings, if it were put together would make a greater volume then either of
+your Libels. And truly Sir, I had never answered your Elenchus as proceeding
+from Dr. Walli^* if I had not considered you also as the Minister to execute
+the malice of that sort of people that are offended with my L^viathan.
+
+As for the judgment of that Public Professor that makes himself a witness
+of the goodness of your Geometry, a man may easily see by the letter it self
+that he is a dun^. And for the English person of quality whom I know not, I can
+say no more yet, then I can say of all three, that he is so ill a Geometrician,
+as not to detect those gross Paralogismes as in^er that 5 to 4 and 1 to 12 are
+the same proportion. He came into the cry of those whom your title had deceived.
+
+And now I shall let you see that the composition of proportion by
+multiplication as it is in the 5 d^f. of the 6 Element, is but another way of
+adding proportions one to another. Let the proportions be of 2 to 3, and of 4
+to 5. Multiply 2 into 4 and 3 into 5 the proportion arising is of 8 to 15. Put
+in order these three quantities 8. 12. 15. The proportion therefore of 8 to 15
+compounded of the proportions of 8 to 12 (that is, of 2 to 3) and of 12 to 15.
+that is, of 4 to 5 by addition. Again, let the proportion be of 2 to 3 and and
+4 to 5 multiply 2 into 5 and 3 into 4 the proportion arising is of 10 to 12.
+Put in order these 3 numbers 10* 8. 12. The proportion 10 to 12 is compounded
+of the proportions of 10 to 8 that is of 5 to 4, and of 8 to 12, that is of 2
+to 3 by addition* I wonder you know not this.
+
+I find not any more clamor against me for saying the proportion of 1 to 2 is
+double to that of 1 to 4.
+
+Your Book you speak of concerning proportion against Maybonius is like to be
+very useful when neither of you both do understand what proportion is.
+
+You take e^ceptions at that I say, that Eucilde has but one word for double
+and duplicate; which nevertheless was said very truly, and that word is
+sometimes (...) and sometimes (...)* And you think you come of handsomely with
+asking me whether (...) and (...) be one word.
+
+Nor are you now of the mind you were, that a point is not quantity
+unconsidered; but that in an infinite series it may be safely neglected. What
+is neglected but unconsidered?
+
+Nor do you any more stand to it, that the quotient is the proportion. And yet
+were these the main grounds of your Elenchus.
+
+But you will say perhaps I do not answer to the defense you have now made in
+this your School Discipline, It Is true. But it is not because you answer never a
+word to my former objection against these prop. 19* 39. But because you do so
+shift and wriggle and throw out ink, that I cannot perceive which way you go;
+nor need I, especially in your vindication of your Arithmetica Infinitorum.
+Only I must take notice that in the end of it, you have these words, well,
+Arithmetica Infinitorum is come off clear. You see the contrary. For sprawling
+is no defense.
+
+It is enough to me, that I have clearly demonstrated both, before sufficienly,
+and now again abundantly, that your Book of Arithmetica In^^ni^orum is all
+naught from the beginning to the end, and that thereby I have effected that
+your Authority shall never hereafter be taken for a prejudice. And therefore
+they that have a desire to know the truth in the questions between us, will
+henceforth, if they be wise, examine my Geometry by attentive reading me in my
+own writings, and then examine, whether this writing of yours consute or
+enervate mine.
+
+There is in my 5 lesson a proposition, with a diagramme to it to make good, (I
+dare say,) at least against you, my 20. Chapter concerning the dimension of a
+Circle. If that demonstration be not shown to be false, your objections to that
+Chapter (though by me rejected) come to nothing. I wonder why you pass it over
+in silence. But you are not, you say, bound to answer it. True, nor yet to
+defend what your have written against me.
+
+Before I give over the examination of your Geometry, I must tell you that your
+words (page (...) of this your School Discipline) again the first Corollary
+are untrue.
+
+Your words are these, you aff^n that the proportion of the parabola A B I to
+the parabola A F K is triplicate to the proportion of the time A B to A F, as
+it is in the English. This is not so. Let the Reader turn to the place and
+judge. And going on you say, or of the imp^ B I to F K, as it is in the Latin.
+Nay, as it is in the English, and the other in the Latin. It Is but your
+mistake; but a mistake is not easily excused in a false accusation.
+
+Your exception to my saying, That the differences of two quantities is their
+proportion (when they differ, as the no difference, when they be equal) might
+have been put in amongst other marks of your not sufficiently understanding the
+Latin tongue. Differ and Differentia differ no more then vivere and vita,
+which is nothing at all, but as the other words require that go with them,
+which other words you do not much use to consider. But differ and the
+quantity by which they differ, are quite of another kind. Di^ferre ((...))
+differing, exceeding, is not quantity, but relation. But the quantity by which
+they differ is always a certain and determined quantity, yet the word
+differrentia serves for both, and is to be understood by the coherence with
+that which went before. But I had said before, and expressly to prevent cavil,
+that relation is nothing but a comparison, and that proportion is nothing but
+relation of quantities and so defined them, and therefore* I did there use the
+word differentia for differing, and not for the quantity which was le^t by
+substraction. For a quantity is not a differing. This I thought the intelligent
+Reader would of himself understand without putting me, instead of differentia
+to use (as ^ome do, and I shall never do) the mongrell word (...) differ. And
+whereas in one only place for differ ternario I have writ ternarius, If you
+had understood what was clearly expressed before, you^ might have been sure, it
+was not my meaning, and therefore the excepting against it, was either want of
+understanding, or want of Candou^; choose which you will.
+
+You do not yet clear your Doctrine of Condensation and Rarefa^lion. But I
+beleev^ you will be degrees become satisfied that they who say the same
+Numerical Body may ^e sometimes greater, sometimes less, speak absurdly, and
+that Condensation and Rarefaction here, and definitive and ci^cumscriptive and
+some other of your distinctions elsewhere are but ^nares, such as
+School-Divines have invented -- (...),
+(...)
+to entangle shallow wits.
+
+And that that distinction which you bring here, that it is of the same
+quantity, while it is in the same place, but it may be of a different quantity,
+when it goes out of its place, (as if the place added to, or took any quantity
+from the body placed) is nothing but mee^ words. It Is true that the Body which
+swells changes place; but it is not by becoming it self a greater body, but by
+admixtion of Air or other body; as when water rises up in boiling, it takes
+in some parts of Air. But seeing the first place of the body is to the body
+equal, and the second place equal to the same body, the places must also be
+equal to one another, and consequently the dimensions of the body remain equal
+in both places.
+
+Sir, When I said that such Doctrine was taught in the Universities, I did not
+speak against the Universities, but against such as you. I have done with your
+Geometry, which is one (...).
+
+As for your El^quence let the Reader judge, whether your^ or mine be the more
+muddy, though I in plain s^olding should have out done you, yet I have this
+excuse which you have not, that I did but answer your challenge at that weapon
+which you thou^ht fit to choose. The Catalogue of the hard language which you
+put in at the 3. and 4. pages of your School-discipline, I acknowledge to be
+mine, and would have been content you had put in all. The titles you say I give
+you of Fools, Beasts, and Asses I do not give you, but drive back upon you;
+which is no more then not to own them; ^or the rest of the Catalogue I like it
+so well as you could not have pleased me better, then by setting those passages
+together to make them more conspicuous, that's all the de^ence I will make to
+your accusations of that kind.
+
+And now I would have you to consider whether you will make the like de^ence
+against the ^aults that I shall ^inde in the Language of your School-Discipline.
+
+I observe first the facetiousnesse of your Title page. Due Correction for Mr.
+H^^bs, or School Discipline, for not saying his lessons right, what a quibble
+is this upon the word Lesson; Besides, you know it has taken wind; for you
+vented it amongst your ac quaintance at Oxford then when my Lessons were but
+upon the Press. Do you think if you had pretermitted that piece of wit, the
+opinion of your judgment would have been ^re the less. But you were ^ot
+content with this but must make this Metaphor from the rod, to take up a
+considerable part of your book; in which there is scarce any thing that your
+self can think wittily said besides it. Consider also these words of yours; It
+is to be hoped that in time you may come to learn the Language, for you be come
+to great A already. And presently after, were I great A before I would be
+willing to be so used, I should wish my self little a, a hundred times. Sir,
+you are a Doctor of Divinity, and a professor of Geometry, but do not deceive
+your self; this does not pass for wit in these parts; no nor generally at
+Oxford. I have acquaintance there that will blush at the reading it.
+
+Again, in another place you have these words, Then you catechize ut, what is
+your name. Are you Geometricians? who gave you that name etc. Besides in other
+places such abundance of the like insipid conc^ipts as would make men think, if
+they were no otherwis^ acquainted with the Universitv but by reading your
+Books, that the dearth there of salt were very great. If you have any passage
+more like to salt then these are (excepting now and anon) you may do well to
+show it your acquaintance, lest they despise you; For (since the detection of
+your Geometry) you have nothing left you else to defend you from contempt. But
+I pass over this kind of eloquence; and come to somewhat yet more rural.
+
+Page 27. line 1. You say I have given Euclide his Lurry. And again page 129.
+l. 11. And And now he is lest to learn his Lurry. I understand not the word
+Lurry. I never read it before, nor heard it, as I remember, but once, and that
+was when a Clown threatening another Clown said he would give him such a Lurry
+come poope etc. Such words as these do not become a learned mouth, much less
+are fit to be Registered in the public writings of a Doctor of Divinity. In
+another place you have these words, just the same to a Cows thumb, a pretty
+Adage.
+
+Page 2. But pree-thee tell me. And again page 95. pree-thee tell me, why do
+thou ask me such a question, and the like in many other places. You cannot but
+know how casy it is and was for me; to have spoken to you in the same language.
+Why did I not? Because I thought that amongst men that were civilly bred it
+would have redounded to my shame, as you have cause to fear that this will
+redound to yours. But what moved you to speak in that manner? were you angry?
+If I thought that the cause, I could pardon it the sooner, but it must be very
+great anger that can put a man that pro^esseth to teach good manners, so much
+out of his wits as to ^all into such a language as this of yours; It was
+perhaps an imagination that you were talking to your inferior, which I will
+not gran^ you, nor will the Heralds I believe trouble themselves to decide the
+question. But howsoever I do not find that civil men use to speak so to their
+inferious. If you grant my learning but to be equal to yours (which you may
+certainly do without very much disparageing of your self abroad in the world)
+you may think it less insolence in me to speak so to you in respect of my age,
+then for you to speak so to me In respect of your young Doctor-ship. You will
+find that for all your Doctor-ship, your elders, if otherwise of as go^d
+repute as yo^, will be respected before you. But I am not sure that this
+language of yours proceeded from that cause; I am rather inclined to think you
+have not been enough in good company, and that there is still somewhat le^t in
+your manners for which the honest youths ^of Hedington and Nincsey may compare
+with you ^or good Language as great a Doctor as you ar^.
+
+For my verses of the Peak, though they be as ill in my opinion as I bel^eve
+they are in yours, and made long since, yet are they not so obscene, as that
+they ought to be blamed by Dr. Wallis. I pray you Sir, whereas you have these
+words in your Schoole-Discipline page 96. unless you will say that one and the
+same motion may be now, and anon too; what was the reason you put these words
+now and anon too in a different Character, that makes them to be the more taken
+notice of; Do you think that the story of the Minister that uttered his
+affection (if it be not a sl^nder) not unlawfully but unseasonably, is not
+known to others as well as to you? what needed you then (when there was nothing
+that I had said could give the occasion) to use those words; there is nothing
+in my verses that do olerehircum, so much a^ this of yours, I know what good
+you can receive by ruminating on such Ideas, or cherishing of such thoughts.
+But I go on to other words of (...) by you reproached, you may as well se^k the
+Focu^ of the Parabola of Dives and Lazarus, which you say is mocking of the
+Scripture. To which I answer only, that I intended not to mock the Scripture,
+but you; and that which was not meant for mocking was none. And thus you have a
+second (...).
+
+Grammar and Critickes.
+I come now to the comparison of our Grammar and Critics. You object first
+against the signification I give of (...), and say thus, what should come into
+your cap (that if you markit in a man that wears a square cap, to one that
+wears a Hatt is very witty) To make you think that (...) signifies a mark or
+brand with a hot iron, I perceive where the business lies. It Was (...) run in
+your mind when you talked of (...); and because the words are somewhat alike
+you jumble them both together. Sir, I told you once before, you presume too
+much upon your first cogitations. Aristophanes, in R^nis. Act. 5. Scen. 5.
+(...) etc. The old Commentator upon the word (...) says thus (...). That is,
+(...) for (...) for he (Adimantus) was not a Citizen. I hope the Commentator
+does not here mock Aristophanes for jumbling (...) and (...) together for want
+of understanding Greek. No, (...) and (...) signify the same, save that for
+branding I seldom read (...) but (...). For (...) does no more signify a brand
+with a hot iron then (...) a point made also with a hot iron. They have both
+one common theme (...), which does not signify pungo, nor interpungo nor inuro
+(for all you Lexicon) but notam inprimere, or pungendo notare, without any
+restriction to burning or punching. It is therefore no less proper to say that
+(...) is a mark with a hot iron, then to say the same of (...). The difference
+is only this, that when they marked a slave, or a rascal as you are not
+ignorant is usually done here at the Assizes in the hand or shoulder with a hot
+iron they called that (...), not for the burning but for the mark. And as it
+would have been called (...) that was imprinted on a slave, though made by
+st^yning or incision, so it is (...) though done with a hot iron* And therefore
+there was no jumbling of those two words together as for want of reading Greek
+Authors, and by trusting too much to your Dictionaries (which you say are
+proofs good enough for such a business) you were made to imagine. The use I
+have made thereof was to show that a point (both by the word (...) in Euclide,
+and by the word (...) in some others) was not nothing, but a visible mark; the
+ignorance where of has thrown you into so many Paralogismes in Geometry.
+
+But do you think you can defend your Adducis Malleum as well as I have now
+defended my (...)? You have brought, I confess, above a hundred places of
+Authors where there is the word Duco, or some of its compounds; but none of
+them will justify Adducis Malleum and (excepting two of those places) you your
+self seem to condemn them all, comparing yours, with none of the rest but with
+these two only; both out of Plautus, by you, not well understood. The first is
+in Casina Act. 5. Scen. 2. ubi intro hanc Novam Nuptam deduxi, via recta,
+Clavem abduxi. Which you presently presuming of your first thoughts (a peculiar
+fault to men of your principles) assure your self is right. But if you look on
+the place as Scaliger reads it cited by the commentator, you will find it
+should be obduxi, and that Clavis is there used for the bolt of the lock.
+Besides he bolted it within. Whither then could he carry away the key? The
+place is to be rendered thus, when I had brought in this new bride I presently
+locked the door, and is this as bad every whit as Adducis Malleum. The second
+place is it Amphytryo Act. 1. Scen. 1. Eam (Cirneam) ut a matre ^uerat natum
+plenum vini Eduxi me^i. Which you interpret I brought out a flag^n of Wine.
+Unlearnedly. They are the words of Mercury transformed into Sofia. And to try
+whether Mercury were So^ia or not, So^ia asked him where he was and what he did
+during the Battle; to which Mercury answered, (who knew where Sofia then was
+and what he did) I was in the Cellar where I filled a Cirnea, and brought it up
+full of Wine, pure as it came from its mother. By the mother of the Wine
+meaning the Vine, and alluding to the Education of Children, for Ebibi said
+Eduxi, and with an Emphasis in meri, because Cirnea (from (...), Misceo) was a
+vessel wherein they put water to temper to their Wine. Intimating that th^ugh
+the vessel were Cirnea, yet the Wine was meru^. This is the true sense of the
+place; but you will have Eduxi to be I brought out, though he came not out
+himself. You see Sir, that neither this is so ^ad as Addu^^s Malleum.
+
+But suppose out of some one place in some one blind Author you ^ad pa^ralled
+your Addu^is M^ll^um, do you think it must therefore presently be held for good
+Latin, why more then learn his lurry must be therefore thought good English a
+thousand years hence, because it will be read in Dr. Wallis long*liv'd works.
+But how do you construe this passage of the Greek Testament (...). You
+construeit thus: she shall be saved notwithstanding Child bearing, if (the
+w^men) remain in the faith. Is childbearing any obstacle to the salvation of
+women? You might as well have translated the first verse of Romans 5. in this
+manner, Being then justified by fait^, ^e have pea^e with God notwithstanding
+our Lord Jesus Christ. I let pass your not ^^nding in (...)* as good a
+Gra^arian as you are, a Nominative case to (...). If you had remembered the
+place. 1. Pet. Chap. 3. verse 20. (...), that is, They were saved in the
+wa^^rs, you would have thought your construstion justified then very well; but
+you h^d been deceived, for (...) does not there signify causam, nor ablationem
+impedimenti but tran^m; not cause or removing an impediment but passage. Being
+come thu^ ^^r I found a friend that has eased me of this dispute; for he
+showed me a letter written to himself from a learned man, that has out of very
+good Authors collected enough to decide all the Grammatical questions between
+you and me both Greek and Latin. He would not let me know his name, nor any
+thing of him but only this, that he had better ornaments then to be willing to
+go clad abroad in the habit of a Grammarian. But he gave me leave to make use
+of so much of the letter as I thought fit in this dispute. Which I have done
+and have added it to the end of this writing. But before I come to that, you
+must not take it ill (though I have done with your School Discipline) if I
+ex^mine a little some other of your printed writings as you have examined mine;
+for neither you in Geometry nor such as you in Church politics can not expect
+to publish any unholesome doctrine without some Antidotes from me, as long as I
+can hold a pen. But why did you answer nothing to my sixth Lesson? because (you
+say) it concerned your Colle^gue only; No Sir, It concerned you also, and
+chiefly. For I have not heard that your Colleague holdteh those dangerous
+principies which I take notice of in you. In my sixth Lesson page 62. upon the
+occasion of these words, not his but yours. Perhaps you t^ke the whol^ History
+of the fall of Adam for a fable, which is no wonder, seeing you say the rules
+of honoring and worshipping of God are to be taken form the laws. In answer to
+which I said thus. You that take so hainously, tha^ I would have the rule of
+Gods worship in a Christian Commonwealth to be taken from the Laws, tell me
+from whom you would have them taken. From your self? Why so, more then from
+me? From the Bishops? Right, if the Supreme power of the Commonwealth will
+have it so; if not, why from them rather then from me? From a Consistory of
+Pres^yt^rs* themselves or joined with Lay Elders, whom they may sway as they
+please? Good, If the supreme Governor of the Commonwealth will have it so. If
+not, why from them rather then from me, or from any man else? They are wiser
+and learneder then I* It may be so; but it ha^ not yet appeared. Howsoever, let
+that be granted. Is ^h^re any man so very a fool a^ to subje^^ himself to the
+rules of other men in those things which do so nearly concern himself, for the
+title they assume of being wise and learne^, unless they also have the sword
+which must portect them. But it seems you understand the sword as comprehended.
+If so, Do not you then r^ceive the rules of Gods worship from the Civil Power?
+Yes doubtless; and you would expect, if your Consistory had that sword, that
+no man should dare to ex^rcise or teach any rules concerning Gods worship which
+were not by you allowed.
+
+This will be thought strong arguing, if you do not answer it. But the truth
+is, you could say nothing against it without too plainly discove^ing your
+disaffection to the Government. And yet you have discovered it pretty well in
+your second Thesis maintained in the Act at Oxford 1654, and since by your self
+published. This Thesis I shall speak briefly to.
+
+Scotch-Church Politics.
+You define Ministers of the Gospel to be those to whom the preaching of the
+Gospel by their o^fice is enjoined by Christ. Pray you, first, what do you mean
+by saying preaching ex Offici^ is enjoined by Christ. Are they Preachers ^x
+Officio, and afterward enjoined to Preach? Ex Officio adds nothing to the
+definition; but a man may ^asily see your purpose to disjoyn your self from the
+State by inserting i^.
+
+Secondly, I desire to know in what manner you will be able out of this
+d^^inition to prove your self a Minister? Did Christ himself immediately enjoin
+you to preach, or give you orders? No. Who then, some Bishop, or Minister or
+Ministers? Yes; by what Authority? Are you sure they had Authority immediately
+from Christ? no. How then ar^ you sure but that they might have none? At least,
+some of them through whom your Authority is derived might have none. And
+therefore if you run b^ck for your Authority toward the Apostles times but a
+matter of sixscore years, you will ^inde your Authority derived from the Pope;
+which words have a ^ound very unlike to the voice of the Laws of England. And
+yet the Pope will not own you. There Is no man doubts but that you hold that your
+Office comes to you by successive impo^ition o^ hands from the time of the
+Apostles. Which opinion in those gentle terms passes well enough; But to say
+you derive your Authority from thence, not through the Authority of the
+Sovereign power civil, is too rude to be endured in a state that would live in
+peace. In a word you can never prove you are a Minister, but by the Supreme
+Autho^ity of the Commonwealth. Why then do you not put some such clause into
+your definition? As thus, Ministers of the Gospel are those to whom the
+preaching of the Gospel is enjoined by the Sovereign power in the name of
+Christ. What harm is there in this definition, saving only it crosses the
+ambition of many men that hold your p^inciples? Then you d^^ine the power of a
+Minister thus; The power of a Minister is that which belongs to a Minister of
+the Gospel in virtue of the Office he holds; in as much as he holds a public
+Station, and is distinguished from private Christians. Such as is the power of
+preaching the Gospel; administering the Sacrament; the use of Eccles^astical
+censure^; and Ord^ining of Ministers etc.
+
+Again; how will you prove out of this definition that you or any man ^lse has
+the power of a Minister, i^ it be not given him, by him that is the Sovereign
+o^ the Commonwealth* For seeing (as I have now proved) it is from him that you
+must d^rive your Ministry, you can have no other power then that which is
+limited in your Orders, ^or ^ha^ neithe^ longer then he thinks fit. For if he
+give it you for the instruction of his subjects in their duty, he may take it
+from you again whenever he shall see you instruct them wi^h undutiful and
+seditious principles. And if the Sogeraign power give me command (though
+without the ceremony of imposition of hands) to teach the Doctrine of my
+Leviathan in the Pulpit, why am not I if my Doctrine and life be as good as
+yours, a Minister as well as you, and as public a person as you are? For
+public person primarily is none but the civil Sovereign, and so seconda^ily
+all that are employed in the execution of any part of the public Charge. For
+all are his Ministers, and therefore also Christ's Ministers because he is ^o;
+and other Ministers are but his Vicars, and ought not to do or say any thing to
+his people contrary to the intention of the Sovereign in giving them their
+Commission,
+
+Again, if you have in your Commission a power to Ex^ommunicate, how can you
+think that your Soveraig^ who gave you that Commission intended it for a
+commission to Excommunicate himself, that is, (as long as he stands
+Excommunicate; to deprive him of his Kingdom) If all Subjects were of your
+mind, as I hope* they will never be, they will have a very unquiet life. And
+yet this has (as I have often heard) been practiced in Scotland, when Ministers
+holding your principles had power enough (though no right) to do it.
+
+And for Administration of the Sacraments, if by the Supreme power of the
+Commonwealth it were committed to such of the Laity as know how it ought to be
+done as well as you, they would ips^ facto be Ministers as good as you.
+Likewise the right of Ordination of Ministers depends not now on the Imposition
+of hands of a Minister or Presbytery, but on the authority of the Christian
+Sovereign Christ's immedi^t Vicar and supreme Governor of all Persons and Judge
+of all causes both spiritual and temporal in his own Dominions, which I believe
+you will not deny.
+
+This being evident, what Acts are those of yours which you call Authoritative,
+and receive not from the Authority of the civil power? A Constable does the
+acts of a Constable authoritatively in that sense. Therefor you can no
+otherwise claim your power then a Constable claims his, who does not
+exercise his Office in the Con^^ablery of another. But you ^orget that the
+Scribes and the Pharisees ^it no more in Moses Chair.
+
+You would have every Minister to be a Minister of the Universal Church, and
+that it be lawful for you to preach your Doctrine at Rome; if you would be
+pleased to try, you would find the Contrary. You bring no argument for it that
+looks like reas^n. Examples prove nothing, where persons, times, and other
+circumstances differ; as they differ very much now when Kings are Christians,
+from what they were then when Kings per^ecuted Christians. It is ea^ie to
+perceive what you aim at.
+
+You woul fain have Market Day Lectures set up by authority (not by the
+authority of the Civil power but by the authority of example of the Apostles in
+the Emission of Preachers to (...) I^fidels) not knowing that any Christian may
+lawfully preach to the Infidels. that is to say, proclaim unto them that Jesus
+is the Mesiah without need of being other ways made a Minister; as the Deacons
+did in the Apostles time; nor that many teachers unless they can agree better,
+do any thing else but prepare men for faction, nay, rather you know it well
+enough; but it conduces to your end upon the Market-dayes to dispose at once
+both Town and Country, under a false pretense of obedience to God, to a
+Neglecting of the Commandments of the Civil Sovereign, and make the Subject to
+be wholly ruled by your selves; wherein you have already found your selves
+deceived. You know how to trouble and sometimes und^e a ^lack Government, and
+had need to be warily looked to, but are not fit to hold the rei^es. And how
+should you, being men of so little judgment as not to see the Necessity of
+unity in the Governor, and of Absolute obedience in the Governed, as is
+manifest out of the place of your Elenchus above recited. The Doctrine of the
+duty of private men in a Commonwealth is much more difficult, not only then
+the knowledge of your symbols, but also then the knowledge of G^ometry it self*
+How then do you think, when you err so grossly in a few Equations, and in the
+use of most common words, you should be fit to Govern so great Nations as
+England, Ireland, and Scotland, or so much as to teach them. For it is not
+reading but judgment that enables one man to teach another.
+
+I have one thing more to add, and that is the disaffection I am charged with
+all to the Universities. Concerning the Universities of Oxford and Cambridge, I
+ever held them for the greatest and Noblest means of advancing learning of all
+kinds, where they should be therein employed, as being ^urnished with large
+endowments, and other helps of Study, and frequent* with abundance of young
+Gentlemen of good families ^^d good breeding from their child hood. On the
+other side, in case the same means and the same wits should be employed in the
+advancing of the Doctrines that tend to the weakening of the public, and
+strengthening of the power of any private ambitious party, they would also be
+very effectual for that; And consequently that if any Doctri^e tending ^o the
+diminishing of the civil power were taught there, not that the Universities
+were to blame, but only those men that in the Universities either in Lectures,
+Sermons, printed Books, or Thesis did teach such Doctrine to their hear^rs or
+readers. Now yo^ know very well that in the time of the Roman Religion, the
+power of the Pope in England was upheld principally by such teachers in the
+Universities. You k^ow also how much the Divines that held the ^ame princi^les
+in Church Government with you, have contributed to our late troubles. Can I
+therefore be justly taxed with disaffection to the Universities for wishing
+this to be reformed. And it has pleased God of late to reform it in a great
+measure, and indeed as I thought totally, when out comes this your Thesis
+boldly maintained to show the contrary; Nor can I yet call this your Doctrine
+the Doctrine of the Vniver^ity, b^t surely it will not be unr^asonable to think
+so, if by public act of the University it be not disavowed, which done, and
+that as often as there shall be need, there can be no longer doubt but that the
+Universities of England are not only the Noblest of all Christian
+Universities, ^ut also absolutely, and of the greatst benefit to this Common
+wealth that can be imagined, except that benefit of the head it self that
+uniteth and rules all. I have not here perticularized at length all the ill
+consequences that may be deduced fromthis Thesis of yours, because I may, when
+further provoked, have somewhat to say that is new.
+
+So much for the 3. (...).
+An extract of a Letter concerning the Grammatical part of the Controversy
+between Mr. HOBBES and Dr. WALLIS. Mr. Hobbes has these words
+LOngi^udinem percu^sam motu uniformi, cum impetu ubique ipsi B D ^quali. Dr.
+Wallis says cum were better out, unless you would have impe^us to be only a
+companion, not a cause. Mr. Hobbes answered it was the Abla^ive case of the
+manner. The truth is the Ablatives case of the manner, and cause both, may be
+used with the conjunction cum, as may be justified. Cicero in the 2. de Not.
+Deor. moliri aliquid cum labor operoso ac molesto; and in his Oration for
+C^cinn^. De se autem hoc praedicat, Antiocho Ebul^j se^vo imperasse ut in
+Caecina^ advenien^em cum serro invaderet. Let us see then what Dr. Wallis
+objects against Tully; where a Causality is imported; Though we may use with in
+English, yet not cum in Latin, to kill with a sword (importing this to have an
+instrumental or causal in^luence, and not only that it h^ngs by the man's side
+whilst some other weapon is made ^se of) is not in Latin, occidere cum
+gladio, but gladio occidere. This shows that the Dr. has not forgot his
+Grammar, for the subsequent examples as well as this rule are borrowed thence.
+But yet he might have known that great Personages have never confined
+themselves to this Pedantry, but have chosen to walk in a greater latitude.
+Most of the Elegancies and Idioms of every Language are exceptions to his
+Grammar. But since Mr. Hobbes says it is the Ablative case of the manner,
+there is no doubt it may be expressed with cum. The Doctor in the mean time
+knew no more then what Lilly had taught him; Alvarez would have taught him
+more. And Voss^us in his Book de constructione Cap. 47. expressly teaches,
+Ablativ^s causae, instrument^, vel modi, non a verbo regised a praepositione
+omiss^, a vel ab, de, e, vel ex, prae, aut cum, ac praepositiones eas quandoque
+exprimi nisi quod cum ablativis inst^umenti haud ^emere inve^ias; and
+afterward he sath non timere imitandum. If this be so, then did Mr. Hobbes
+speak Grammatically, and with Tully, but not usually. And might not one retort
+upon the Doctor, that Vossius is as great a Critic a^ ^ie.
+
+His next reflection is upon praetendi^ scire, this he says is an Angli^isme.
+If this be all his Accusation, upon this score, we shall lose ma^y expres^ions
+that are used by the best Authors, which I take to be good Lati^smes, though
+they be also Anglicismes, the latter being but an imitation of the former. The
+Do^tor therefore was too fierce to condemn upon so general an account, that
+which was not to have been censured for being an Anglicisme, unless also it
+had been no Latinisme. Mr. Hobbes replies, that the Printer had omitted se. He
+says, this mends the matter a little It is very likely, for then it is just
+such another Anglicisme as that of Quintilian; Cum loricatus in foro ambularet,
+praetendebat se id metu facere. The Doctor certanily was very negligent, or
+else he could not have missed this in Robert Stephen. Or h^ply he was resolved
+to condemn Quintilian for this and that other Anglicisme, Ignorantia p^^tendi
+non potest, as all those that have used praetendo, which are many and as good
+Authors as Doc^^r Wallis that makes his own Encomiasts (not an English man)
+amongst them to w^^te A^glicismes.
+
+Then ^e bl^mes Tractatus ^^jus partis t^rtiae, in q^a mo^us and magnitudo per
+se and abstract^ consideravimus, te^minum hic statuo. Here I ^^st con^esse the
+exception is colonrable, yet I can parallel it with the like objection made by
+Erasm^s aga^^st Tully, out of whom Erasmus q^otes this passage; D^ut us
+comm^tans Athents; quo^^am ven^ negabant solvendi facultatem, e^at ani^us ad ^e
+scr^bere: and excuses it hu^, that Tully might have had at first in his
+thoughts v^bam or statuebam, which he afterward relinquished for erat animus,
+and did not remember what he had antecedently w^itt^n, which did not vary from
+his succeeding, though^^, but words. And this excuse may pass wi^h any who
+knows that Mr. Hobbes values not the study of word^, but as it s^rves to
+express his thoughts, which were the same whether he wrot^; in qua metus and
+m^g^i^udo per se a^ abstracte considerati sunt, or consideravimus. And if the
+Dr* will make this so capital; he must prove it volunta^y, and show that it is
+greater then what is legible in the p^ny Letter of his Encomiast, whom he would
+have to be beyond except^^n.
+
+Now ^ollowes his r^diculous apol^gi^ for adducis malleum, ut occidas muscam*
+The cause why he did use that prov^rb (of his own phrasing) was this. Mr.
+Hobbes had taken a great deal of pains to demonstrate what Dr. Wallis thought
+he could have proved in shor^; upon this occasion he objects, ad ducis malleum
+ut occidas muscam, which I shall suppose he intended to English thus, you bring
+a beetle to kill a ^^y. Mr. Hobbes retor^ed that adduco was not used in that
+sense. The Dr. vindicates himself thu^; duco, dedu^^, reduco, perduco, produco,
+etc. signify s^range things, ergo, adduco may be used in that sense; which is
+(...) most ridic^lo^^ kind of arguing, where we are but to take up our
+Language from others, and not to coyue new phr^ses. It is not the Grammar that
+shall secure the Dr. nor weak Analogies, where Elegance comes in contest. To
+jus^i^ie his expression he must have showed it usu tritum, or alleged the
+Authori^y of some Author of great note for i^. I have not the leisure to exam^e
+his impertinent citations about those other compounds, nor yet of that simple
+verb duco; nay, to justify his saying he has not brought one parallel
+example. He talks indeed very high, that duco (^ith its compounds) i^ a word
+of a large signification, and amongst the rest to Bring, fetch, carry etc. i^
+so exceeding frequent ^n all Authors (Plautus, Terence, Tully Ca^ar, Tacitus,
+Pliny, Seneca, Virgil, Horace, Ovid, Claudian, etc that he must needs be either
+maliciously blind, or a very stranger to the Latin tongue that does not know
+it, or c^n have the face to to deny it. (...) ^ead what will ^e my doom for
+not allowing his Latin; yet (...) must profess I dare secure the Dr, for
+having read all Authors, notwithstanding his assertion, and I hope he will do
+the like for me. And for those which he has read, had he brought no better
+proofs then these, he had, I am sure, been whipped soundly in
+Westminster-School, for hi^ impudence as well as ig^or^nce, by the learned
+M^ster thereof a^ present. But I da^e f^^ther a^m, the Dr. has no^ read in this
+point any, *but only consulted with Robe^t S^ephen's Thesaurus Li^guae
+La^inae, whence he h^th borrowed his allegations in adduco; and for the other I
+had not so ^u^h Idle ^ime as to compare them. And lest the fact might be
+discovered he has sophi^^icated those Authors whence Stephen cites the
+expressions, and imposed upon them others. If it be not so, o^ that the Dr.
+could not write it right when the c^py was right before him, let him ^ell me
+where he did ever read in Plautus, adducta res in fastidium. I fin^e the whole
+sentence in Plinie's preface to Vespas^an (out of whom in the precedent
+Paragraph he cites it) about the ^iddle: alia vero ita multis prodita, ut in
+factidium sint adducta, which is the very example Stephanus uses, although he
+does p^emise his adducta res in fastidium. Let the Dr. tell where he ever did
+read (...) Horace Ova noctuae etc. ^aedium vini adducunt* Did he (or any else)
+with the interposition of an etc) make Trochaicks? I say, and Step^anus says
+so too, that it is in Pliny lib. 13. cap. 15. near the end; the whole sentence
+runs thus; Ebriosis Ova noctuae per ^^id^um data in vino, ^aedium ejus
+adducunt. I doubt not but these are the places he aimed at, although he
+disguised and min^*d the Quotatio^s; if they be not, I should b^ glad to
+augment my Stephanus with his Additions.
+
+These things pr^mis^d, I come to consider the Doctors proofs: Res eo adducta
+est: adducta vita in ex^remum: adducta res in fas^idium: rem ad muc^ones and ^s
+adducere: contracta res and adducta in a^gus^um: ^es ad concordiam adduci
+potest: in ordinem adducere: adducere febres, s^^im, taedium vini (all in
+Robert Stephen) betwixt which and adducere malleum, what a vast difference
+there is, I leave them to umpier ^iteretes and religiosas nacti sunt aures* who
+are the competent Judges of Elegancy, and only cast in the verdict of one or
+two, who are in any place (where the purity of the L^tin ^ongue flourishes) of
+great esteem* L^saeus in his Scop^ Linguae Latinae, ad purgandam Linguam a
+barbary, etc. (would any think that the Doctors elegant expression, frequent
+in all Authors, which none but the malicious or ignorant can deny, should
+suffer so contumelious an expurgation?) Losaeus (I say) has these words,
+Adferre plerique minus attentiutuntur pro adducere. Quod Plautus, in Pseudolo,
+insigni exem^lo notat. C. Attu^i hunc. P. Quid attulisti? T. Adduxi volui
+dic^re P* Quis istic est? C. Charinus. Satis igitur admonet discriminis inter
+ducere, reducere, adducere and abducere, quae de pers^na; et ^erre, adferre
+etc. quae de re dicuntur. Idem. Demetrium, quem ego novi, adduce; argentum non
+mo^or qu^ feras Cavendum igitur est ne vulgi more, (let the Dr. mark this* and
+know that this Author is authentic amongst the Ciceronians) adferre de persona
+dicamus, s ^^adducere; licet et hoc de certis quibus^am rebus non inepte
+dicatur. In this last clause he ^aith as ^uch as Mr. Hobbes says, and what the
+Dr. proves; but that ever the Dr. brought an example which might resemble
+adducis malleum, is denied; for I have mentioned alre^dy his allegations every
+one, of adduco. Another Author (a fit Antagonist for the elegant Dr.) is the
+^arrago ^ordidorum Verborum, ^oyned with the Epitome of L. Valla's elegancies.
+He says, Acce^se, adduc Petrum, latin dicitur pro eo quod pueri dicunt* adfer
+Petrum. And this may suffice to justify Mr. Hobbes's exception, who proceeded
+no further th^n this Author to tell the Doctor that adduco was used of Animals.
+But the Dr. replies, this signification is true, but so may the other be also*
+I s^y, if it never have been used so, it cannot be so, for we cannot coin new
+Latin words, no more then French or Spanish who are Forreign^rs. Mr. Hobbes
+was upon the negative, and not to disprove the contrary ^p^nion. If the Dr.
+would be believed, he must prove it by some example (which is all the proof of
+elegancy) and till he do so, not to beleev^ him, it is sufficient not to h^ve
+cause. But Dr Wallis, why not adduco for a ^ammer as well as a tree? I answer,
+yes, equally for either, and yet for neither; Did ever any body go about to
+mo^k his Reade^s thus solemnly? I do not find, (to my best remembrance) any
+example of it in S^ephen, and the Dr. is not wiser then his Book; if there be,
+it is strange the Dr. should omit the only pertinent example, and trouble us
+with such impertinences for three or four pages. In Stephen there are adducer^
+habenas and adducere lorum, but in a different sense. It is not impossible I
+may guess (...) the Doctors aim. In Tully de Not* D^or (as I remember) there
+is this passage; Quum autem ille respondisset, in agro ambu^anti ra^ulum
+adductum, ut remissu^ esset, in oculum suum recidisse, where it signifies
+nothing else but to be bent, bowed, pulled back, and in that sense, the hammer
+of a Clock* or, that of a Smith, when he fetches his strok^* may be said
+addu^i. And this I conceive the Doctor would have us in the close think to have
+been his me^ning; else wh^t does he drive at in these words? When you have done
+the best you can, you will not be able to find better words then addu^ere
+mall^um and reduce^* to signify the two contrary motions of the Hammer, the
+one when you strike with it, (excellently trivial!) The other when you take it
+back (better and better) What to do? to fetch another stroke. If any can
+believe that this was his meaning, I shall justify his Latin, but must leave
+it to him to prove it sense. If he intended no more, why did he go about to
+defend the other meaning, and never meddle with this? Which yet might have been
+proved by this one example of mine? May not therefore his own saying be justly
+retorted upon him in this case, Adducis malleum, us occidas muscam?
+
+Another exception is* Falsae sunt et mult^ istiusmodi (propositiones) I wish
+the Doctor could bring so good Parallels, and so many, out of any Author, for
+his Adducis malleum, as Tully affords in this case. Take one for all out of the
+beginning of his Paradoxes; Animadverti saepe Catonem, ^um in senatu sententiam
+diceret, Locos graves ex Philosophia tractare, abhorrentes ab hoc usu forensi
+et publico, sed dicendo consequi tamen, ut illa etiam populo pro^abilia
+viderentur. This is but a Solaecophanes, and h^th* many p^^sidents mo^e, as in
+the second ^ook of his Academical questions, etc.
+
+I cannot now stay upon each particular p^ssage; I do not see any necessity of
+tracing the Dr. in all hi^ figaries. Now he dis^llows tanquam diceremus, a^ if
+we should say. But why is that l^ss tolerable then tanquam feceris, as if you
+had done? It should be quasi (forsooth!) Or ac si, or tanquam si, which is
+Tulli's own word. (What is tanquam si become but one word?) tanquam si tua res
+agatur etc. Good Dr. leave out Tully and all Ciceronians, or you will for ever
+suffer for this, and your Adducis malleum. Is not this to put your self on
+their verdict, when you oppose Mr. Hobs with Tully? But the Dr. gives his
+reason. And though he has had the luck in his Adducis malleum, to follow the
+first part of that saying, Loquendum cum vulgo, yet now it is, sentiendum cum
+sapientibus. For tanquam without si signifies but, a^, not, as if. It is pity
+the Dr. could not argue in Symbols too, that so we might not understand him,
+but suppose all his Papers to carry evidence with them, because they are
+Mathematically scratched. How does he construe this, Plance, tu^es alto
+Drusorum sanguine, tanquam
+Feceris ipse aliquid, propter quod nobilis esses.
+So Coelius, one much esteemed by Cicero, who has inferted his Epistle^ into
+his works, says in his fifth Epistle (Tul. Epist. sam. lib. 8. Ep* 5) Omnia
+desiderantur ab eo tanquam nihil denegatum sit ei quo mi^us paratissimus esset
+qui publico negotio pr^positus est. But it was not possible the Dr. should know
+this, it not being in Stephen, where his examples for tanquam si are.
+
+But the Dr. having pitched upon this Criticisme, and penned it, some body, I
+believe, put him in mind of the absurdity th^reof* and yet the generous
+Professor (who writes running hand and never tra^scrib^d his papers, if I am
+not misinformed) presumed no body else could be more intelligent then he, who
+had perused Stephen. He would not retract any thing, but subjoyns, That he will
+allow it as passable, because other modern writers, and some of the Ancients,
+have so used it, as Mr. Hobs has done. I know not what Authors the Dr. meant,
+for, if I am not much mistaken, I do not find any in Stephen. His citation of
+Colum^lla is not right L. 5. cap. 5. (nor can I deduce any thing thence till I
+have read the passage) but if he take Juvenal and Coelius for modern Authors, I
+hope he will admit of Accius, N^vius, and Ca^me^ta for the only ancients. Let
+him think upon this *Criticisme, and never hope pardon for his Adducis malleum,
+which is not half so well justified, and yet none but mad men or fools reject
+it.
+
+But certainly the Dr. should not have made it his business to object
+Anglicisines, in whose Elench^s I doubt not but there may be found such phrases
+as may serve to convince him that he is an English man. However Scottified in
+his principles. If the Dr. doubt of it, or but desire a Catalogue, let him but
+signify his mind, and he shall be furnished with a Florilegium. But I am now
+come to the main controversy about Empusa. The Dr. says nothing in defense of
+his quibble, nor gives any reason why he jumbled Languages to make a silly
+clinch, which will not pass for wit either at Oxford, or at Cambridge; no nor
+at Westmi^ster.
+
+It seems he had derived Empusa from (...) and (...), and said it was a kind
+of Hobgoblin that hopped upon one leg; and hence it was that the boys play
+(Fox come out of thy hole) came to be called Empusa. I suppose he means Ludus
+Empusae. This derivation he would have to be good, and that we may know his
+reading (though he has soarce consulted any of the Authors) he says Mr.
+Hobbes did laugh at it, until somebody told him that it was in the Scholiast of
+Aristophanes (as good a Critic as Mr. Hobbes) Eust^thius, Erasmus, Coel^
+Rhodiginus, Step^anus, Scapula, and Calepine. But sure he does not think to
+seape so. To begin with the last, Calepine does indeed say, uno incedit pede,
+unde et non^^n. But he is a Modern, and I do not see why his Authority should
+outweigh mine, if his Authors Reasons do not. He refers to Erasmus and
+Rhodiginus. Erasmus in the adage. Proteo mutabilior, has these words of
+Empusa. Narrant autem uno videripedi (this is not to hopp) unde et nomen
+inditum putant, (...). He does not testify his approbation of the derivation
+at all, only lets you know what Etymologies some have given before him. And
+does any body think that Dr. Harmar was the first which began to show his wit
+(or folly) in e^ymologizing words? Coelius Rhodiginus does not own the
+derivation, only ^aith Nominis ratio est, ut placet Eustathio, quia uno
+incedit pede; (is this to hopp?) sed nec desunt qui alterum interpretentur
+habere ^neum pedem, and inde appella^ Empusath; quod in Batrachis Aristophanes
+expressit. And then he recites the interpretation that Aristophanes's Scholiast
+does give upon the text, of which by and by. If any credit be to be attributed
+to this allegation, his last thoughts are opposite to Dr. Wallis; and Empusa
+must be so called, not because she hopped upon one leg, but because she had
+but one, the other, being brass. But for the former derivation he refers to
+Eustathius.
+
+As to Eustathius, I do easily conjecture that the Reader does believe; that
+Rodiginus does mean Eustathius upon Homer, for that is the book of most repute
+and fame, his other piece being no way considerable for bulk or repute. But it
+is not that book nor yet his History of Ismenias, but his notes upon the 23
+verse of Dionysius (...). The Poet had said of the stone Jaspis, that it was,
+(...),
+
+
+Upon which Eustathius thus remarks; (...) (forte (...) Steph.) (...). This
+testimony does not prove any thing of hopping, and as to the derivation, I
+cannot but say that Eustathius had too much of the Grammarian in him, and this
+is not the first time, neither in this book, nor elsewhere, wherein he has
+trifled. It is observable out of the place that there were m^re Empusa's then
+one, as indeed the name is applied by several men to any kind of* frightful
+phantasme. And so it is used by several Authors, and for as much as phantasmes
+are various, according as the persons affrighted have been severally educated,
+etc every man did impose this name upon his own apprehensions. This gave men
+occasion to sain Empusa as such (for who will believe that she was not
+apprehended as having four legs, when she appeared in the form of a Cow, dog,
+etc.) but as apprehended by Bacchus and his man at that time. I do not find
+that she appeared in any shape, but such as made use of legs in going, whence
+I imagine that Empusae might be opposite to the (...), which appellation was
+anciently fixed upon the gods (propitious) upon a twofold account, first for
+that they were usually essigiated as having no feet (which is evident from
+ancient sculpture) and secondly, for that they are all said not to walk, but
+rather swim, if I may so express that non gradiuntur, sed fluunt, which is the
+assertion of all the commentators I have ever seen upon that verse of Virgil,
+Et vera incessu patuit dea --
+
+
+This whole discourse may be much illustrated from a Passage in Heliodorus,
+Aethiop. L. 3. Sect. 12, 13. Calastris told Cnemon that the gods Apollo and
+Diana did appear unto him, Cnemen replied, (...); upon this the old Priest
+andswered, that both gods and demons, when they appear to men, may be
+discovered by the curious observer, both in that they never shut their eyes,
+(...) (...)
+(...)
+(...). Farnaby upon the place in Virgil observes, that, Deorum incessus est
+continuus and aequalis, non dimotis pedibus, neque transpositis, (...).
+Cernelius Schrevelius in the new Leyden notes, says, Antiquissima quaeque
+Deorum simulachra, quod observarunt viri magni, erant (...), dijque ipsi non
+gradiuntur sed fluunt. Their statues were said to stand rather upon Columns
+then upon legs; for they seem to have been nothing but columns shaped out
+into this or that figure, the base whereof carrying little of the
+representation of a foot. These things being premised I suppose it easy for
+the intelligent Reader to find out the true Etymology of Empus^, quasi (...),
+or (...) from going on her feet, whereas the other gods and demons had a
+different gate. If any can dislike this deduction, and think her so named from
+(...), whereas she always went upon two legs (if her shape permitted it)
+though she might draw the one after her, as a man does a wooden leg; I say if
+any, notwithstanding what has been said, can join issue with the Doctor, my
+reply shall be, (...).
+
+Now as to the words of Aristophanes upon which the Scholiast descants, they
+are these. Speaking of an Apparition strangely shaped, sometimes like a Camel,
+sometimes like an ox, a beautiful woman, a dog etc. Bacchus replies, (...).
+The scholiast hereupon tells us that Empusa was (...) And this is all that is
+material in the Scholiast, except that he adds by and by, that (...) is all
+one with the leg of an Ass, And this very text and Scholiast is that to which
+all the Authors he names, and more, do refer.
+
+I come now to Stephen, who in his Index and in the word (...), gives the
+derivation of Empusa. (...), gradior, inced^, (not to hop) sic Suidas (...)
+dictam ait (...). In the Index thus; sunt qui dictam putent (...), quod uno
+incedat pede, quasi (...), alterum enim pedem aeneum habet. But neither
+Stephen, nor any else (except Suida^, whom the Hypercritical Dr. had not seen)
+no not the Scholiast of Aristophanes (a better Critic then Mr. Hobbes) does
+relate the etymology as their own. Nay, there is not one says, Empusa hopped
+on one leg, which is to be proved out of them. The great Etymological
+Dictionary deriveth it (...), to binder, let etc. its apparition being a token
+of ill luck. But as to the Doctors deduction, it says (...). It does only
+seem so. And it is strange that (...) should not alter only* its aspiration,
+but change its n into m, which I can hardly believe admittable in Greek, least
+there should be no difference betwixt its derivatives and those of (...). When
+I consider the several (...) which the Grecians had, some whereof did fly, some
+had no legs etc. I can think that the origin of this name may have been thus.
+Some amazed person saw a spectrum, and giving another notice of it, his
+companion might answer, it is (...), etc. but he meeting with a new phantasme,
+cries, (...) or (...), for which apprehension of his some body coined this
+expression of (...). It may also be possibly deduced from (...) might
+afterward be reduced to the single term of Empusa. Nor do I much doubt, but
+that those who are conversant in Languages, and know how that several
+expressions are often jumbled together to make up one word upon such like
+cases, will think this a probable origination. I believe then that Mr. Hobbes's
+friend did never tell him it was in Eustathius, or that Empusa was an hopping
+phantasme. It had two legs, and went upon both, as a man may upon a wooden
+leg. (...) is also a name for Lamia, and such was that which Menippus might
+have married, which I suppose did neither hop nor go upon one leg, for he
+might have discovered it. But Mr. Hobbes did not except against the derivation
+(although he might justly, derivations made afterward carrying more of fancy
+then of truth, and the Dr. is not excused for asserting what others barely
+relate, none approve) but asked him, where that is, in what Authors he read
+that boys play to be so called. To which question the Dr. (to show his reading
+and the good Authors he is conversant in) replies, In Junius's Nemenclator,
+Rider and Thomas's Dictionary, sufficient Authors in such a businesss, which me
+thinks no man should say that were near to so copious a Library. It is to be
+remembered that the trial now is in Westminster School, and amongst Ciceronians,
+neither whereof will allow those to be sufficient Authors of any Latin word.
+Alas they are but Vocabularies; and if they bring no Author for their
+allegation, all that may be allowed them is, that by way of allusion our modern
+play may be called Ludus Empusae. But that it is so called, we must expect till
+some Author do give it the name. These are so good Authors that I have not
+either of them in my Library. But I have taken the pains to consult, first
+Rider; I looked in him (who was only Author of the English Dictionary) and I
+could not find any such thing. It Is true in the Latin Dictionary which is
+joined with Rider, but made by Holyoke; (O that the Doctor would but mark!) in
+the Index of obsolete words, there is Ascoliasmus, Ludus Empusae, Fox to thy
+hole, for which word, not signification, he quoteth Junius. The same is in
+Yhomasius, who refers to Junius in like manner. But could the Dr. think the
+word obsolete when the play is still in fashion? Or does he think that this
+play is so ancient, as to have had a name so long ago, that it should now be
+grown obsolete? As for Junius's interpretation of Empusa, it is this, Empusa,
+spectrum quod se in^elicibus ingerit, uno pede ingrediens. Had the Dr. ever
+read him, he would have quoted him for his derivation of Empusa, I suppose. In
+Ascoliasmus he says, Ascoliasinus, Ludus Empusae fit ubi, altero pede in aere
+librato unico sub^^liunt pede. (...), Pollux. Almanice. Hinctelen. Belgi^e, Op
+(...) been springhen. Hinctepin^^en Flandris. But what is it in English he does
+not tell^, although he does so in other places often. What the Dr. can pick out
+of the Dutch I know not; but if that do not justify him, as I think it does
+not, he has wronged (...), and grossly imposed upon his Readers.
+
+But to illustrate this controversy further, I cannot be persuaded the Dr.
+ever looked into Junius, for if he had, I am confident, according to his wonted
+accuratnesse, he would have cited Polluxs's onomasticon into the bargin, for
+Junius refers to him, and I shall set down his words, that so the Reader may
+see what Ascoliasmus was, and all the Drs. Authors say Ludus Empusae and
+Ascoliasmus were one and the same thing. Jul. Pollux, Lib. 9. Cap. 7. (...).
+(old editions read it (...)) (...). So that Ascoliasmus, and consequently,
+Ludus Empusae, was a certain sport which consisted in hopping, whether it were
+by striving who could hoppe surthest, or whether only one did pursue the rest
+hopping, and they fled before him on both legs, which game he was to continue
+till he had caught one of his fellows, or whether it did consist in the boys
+striving who could hop longest. Or lastly, whether it did consist in hopping
+upon a certain bladder, which being blown up, and well oyled over, was placed
+upon the ground for them to hop upon, that so the unctuous bladder might slip
+from under them and give them a fall. And this is all that Pollux holds forth.
+Now of all these ways there is none that has any resemblance with our, Fox to
+thy hole; but the second: and yet in its description there is no mention of
+beating him with gloves, as they do now adays, and wherein the play consists
+as well as in hopping. It might notwithstanding be called Ludus Empusae, but
+not in any sort our Fox to thy hole, So that the Dr. and his Authors are out;
+imposing that upon Junius and Pollux, which they never said. And thus much may
+suffice as to this point. I shall only add out of Meu^'s Ludi Geaeci, that
+Ascolia were not Ludus Empus^ but Bacchisacra, and he quotes Aristophanes's
+Scholiasts in Plutus, (...). As also Hesychius; (...).
+
+But I could have told the Dr. where he might have read of Empusa as being the
+name of a certain sport or game, and that is, in Tu^nebus adve sar. Lib. 27.
+Cap. 33 There he speaks of several games mentioned by I^stinian in his C^de, at
+the latter end of the third book; one of which he takes to be named Empusa;
+addding with all, that the other are games, it is indisputable, only Empusa,
+in li^e and causa erit, quod nemo nobis ^a ite ass^ sit Ludum esse, eum constet
+spectrum queddam fuisse formas vary mutans. Sed quid vetat eo nomine Ludum
+fuisse? certe ad vestigia vittatae Scri^ quam proxin e accedit. Yet ^e only is
+satisfied in this conjecture, till somebody else shall produce a ^etter. And
+now what shall I say? was not Turnebus as good a Critic, and of as great
+Bead^? as Dr. Wall^s? who had read over Pollux, and yet is afraid that no body
+will believe (...) to have been a game, and all he alleges for it is, quid
+vetat? Truly all I shall say, and so conclude this business, is, that he had
+read over an infinity of ^ooks, yet had not had the happiness which the Dr.
+had, to consult with Junius's Nomenclator, Thom^us and Riders Dictionary,
+Authors sufficient in such a case.
+
+I now come to the Doctors last and greatest triumph, at which I cannot but
+stand (...) admiration, when I consider he has not got the victory. Had the
+Dr. been pleased to have conversed with some, of the fifth form in Westminster
+School (for he needed not to have troubled the learned Master) he might have
+been better informed then to have exposed himself thus.
+
+Mr. Hobbes had said that (...) signified a mark with a hot iron; upon which
+saying the Dr. is pleased to play the droll thus, Prithee tell me, good Tho*
+before we leave this point. (O the wit of a Divinity Dr.!) who it was told thee
+that (...) was a mark with an hot iron? for it is a notion I never heard til now
+(and do not believe it yet.) Never believe him again that told thee that lie,
+for as sure as can be, he did it to abuse thee, (...) signifies a distinctive
+point in writing made with a pen or quill, not a mark made with a hot iron,
+such as they brand rogues withal; and accordingly (...), distinguo,
+interstinguo, are often so used. It is also used of a Mathematical point, or
+somewhat else that is very small, (...), a moment, or the like. What should
+come in your cap, to make you think that (...) signifies a mark or brand with a
+hot iron? I perceive where the business lies; 'twas (...) ran in your mind
+when you talked of (...), and because the words are somewhat alike, you jumbled
+them both together, according to your usual care and a^curatenesse, as if they
+had been the same.
+
+When I read this, I cannot but be astonished at the Doctors confidence, and
+applaud him who said, (...). That the Dr. should never hear that (...)
+signifies a mark with a hot iron, is a manifest argument of his ignorance. But
+that he should advise Mr. H^bbes not to believe his own Readings or any man's
+else that should tell him it did signify any such thing, is a piece of
+notorious impudence. That (...) signifies a distinctive point in writing made
+with a pen or quill, (is a pen one thing and a quill another to write with?) no
+body denies. But it must be withal acknowledged it signifies many things else.
+I know the Dr. is a good Historian (else he should not presume to object the
+want of History to another) let him tell us how long ago it is, since men have
+made use of pens or quills in writing; for if that invention be of no long
+standing; this signification must also be such, and so it could not be that
+from any ^allusion thereunto the Mathe maticians used it for a point. Another
+thing I would fain know of this great Historian, how long ago (...) and (...)
+began to signify inter^ungo? for if the Mathematics were studied before the
+mystery of Printing was found out (as shall be proved when ever it shall please
+the Dr. out of his no reading to maintain the contrary) then the Mathematical
+use thereof should have been named before the Grammatical. And if this word be
+translatitions, and that Sciences were the effect of long contemplation, the
+names used wherein are borrowed* from talk, Mr. Hobbes did well to say that
+(...) precedaneously to that indivisible signification, which it afterward
+had, did signify a visible mark, made by a hot iron, or the like. And in this
+procedure, he did no more then any man would have done; who considers that all
+our knowledge proceeds from our senses; as also that words do, primarily,
+signify things obvious to sense, and only secondarily, such as men call
+incorporeal. This leads me to a further consideration of this word. Hesychius
+(of whom it is said that he is Legendus non ^anquam L^xicographus, sed tanquam
+justus Author.) Interprets (...), which is a point of a greater or lesser size,
+made with any thing. So (...) signifies to prick or mark with any thing in a^y
+manner, and has no impropriated signification in it self, but according to the
+writer that uses it. Thus in a Grammarian (...) signifies to distinguish by
+poin^ing often, sometimes, even in them, it is the same with (...), sometimes
+it signifies to set a ma^k, that something is wanting in that place, which
+marks were called (...). In matters of policy (...) signifies to disallow,
+because they used to put a (...) (not (...)) before his name who was either
+disapproved, or to be mulcted. In punishments it signifies to mark or brand,
+whereof I cannot at present remember any other ways then that of an hot iron,
+which is most us^al in Authors, because most practiced by the Ancients. But
+that the mark which the Turks and others do imprint without burning may be
+said (...), I do not doubt; no more then that H^rodian did to give that term to
+the ancient Britains, of whom he says, (...). Thus Horses that were branded
+with (...) and (...) ((...) and (...)) were said (...). Thus in its origin
+(...) does signifi^ a b^end or mark with an hot Iron, ^r the like, and that
+must be the proper signification of (...), which is proper to (...), none but
+such as Dr. Wallis ^an doubt. In its descendants it is no less evident, for
+from (...) comes Stigmosus, which signifies to be branded; Vitelliana cicatrice
+Stig^^sus not Stigmatosus. So Pliny in his Epistles, as Robert Stephen cites
+it. And (...) (the Derivative of (...), which signifies any mark, as well as a
+brand, even such as remain after stripes, being black and blew) was a Nickname
+imposed upon the Grammarian Nicanor, (...)* And though we had not any examples
+of (...) being used in this sense, yet from thence for any man to argue against
+it (but he who knows no more then Stephen tells him) is madness, unless he will
+deny that any word has lost its right signification, and is used only (by the
+Authors we have, although neither the Dr. nor I have read all them) in its
+analogical signification. I have always been of opinion, that (...) signified
+a single point, big or little, it matters not; and (...), a composure of many;
+as (...) signifies a line, and (...) a l^tter, made of several lines. For (...)
+signified the Owl, the S^mana, the letter K, yea whole words, lines, Epigrams
+engraven in men's faces; and (...), I doubt not, had signified a single point,
+had such been used, and so it became translatitiously used by Grammarians and
+Mathematicians. I could give grounds for this conjecture, and not be so
+impertinent as the Doctor in his Sermon (where he told men that (...) was not
+in Homer; that from (...) came Ebrius; that Sobrietas was not bad Latin, and
+that Sobrius was once (as I remember) in Tully. Is this to speak suitably to
+the oracles of God, or rather to lash out into idle words? Has the Dr. any
+ground to think these are not impertinences? Or are we, poor mortals,
+accountable for such idle words as fall from us in private discourses, whilst
+these Ambassadors of Heaven droll in the Pulpit without any danger of an after
+reckoning?
+
+But I proceed to a further survey of the Doctors intolerable ignorance. His
+charge in the end of the School* Masters Rant, is, that he should remember
+(...) and (...) are not all one. I complained before that he has not cited
+Robert Stephen aright, now I must tell him he has been negligent in the
+reading of Henry Stephen; for in him he might have found that (...) was
+sometimes all one with (...) though there be no example in him wherein (...) is
+^sed for (...). Has not Hes^od (as Stephen rightly cites it) in his S^u^um.
+
+(...) ubi Scholiastes; (...). So Johannes Di^conus upon the place, a man, who
+(if I may use the Drs. phrase) was as good a critic, as the Geometry
+Professor.
+
+Thus much for the Doctor. To the understanding Reader, I say, that (...) is
+^sed for burning with a hot iron; (...)* Macchab. 9. 11. where speaking of
+Antiochus's lamentable death, his body putrefying, and breeding worms, he is
+said (...); being pained as if he had been pricked, or burned with hot ir^ns.
+And that this is the meaning of that elegant writer, shall be made good against
+the Doct^r, when he shall please to defend the vulgar Interpretation*
+Pausanias, in Baeoticis, speaking of Epaminondas, who had taken a town
+belonging to the Sicyonians called Phaebia ((...)) wherein were many Baeotian
+fugitives, who ought by Law to have been put to death, says, he dismissed them
+under other names, giving them only a brand or mark (...). It is true (...) is
+here put adverbially, but that does not alter the case. Again Zonaras, in the
+third ^ome of his History, in the l^fe of the Emperor Th^ophilus, says, that
+when Theophanes and another Monk had reproved the said Emperor for demolishing
+images, he took and s^igmatised each of them with twelve lambicks in their
+faces. (...). A place so evident, that I know not what the Dr. can reply. This
+place is just parallel to what the same Author says in the li^e of Irene,
+(...). If the Dr. object that he is a modern Author, he will never be able to
+render him as inconsiderable as Adrianus Junius's Nomenclator, Th^mafius and
+Rider. If any will deny that he writes good Greek, Hieronymus W^lfius will tell
+them, his only fault is, (...), redundancy in words, and not the use of bad
+ones.
+
+Another example of (...) used in this sense, is in the Collections out of
+Diodorus Siculus lib. 34. as they are to be found at the end of his works, and
+as Photius has transcr^bed them into his Bibliotheca. He ^aith that the Romans
+did buy multitudes of servants and employ them in Sicily; (...). These are the
+words but of one Author, but ought to pass for the judgment of two, seeing
+Photius, by inserting them, has made them his own.
+
+Besides, it is the judgment of a great Master of the Greek tongue, that
+stigmata non tam puncta ipsa qudm punctis variatam super^^ciem Gr^ci
+vocaverun^: I need not I suppose, name him, so great a Critic as the Dr.
+cannot be ignorant of him.
+
+Nor were (...) commonly, but upon extraordinary occasions, imprinted with an
+hot iron. The letters were first made by incision, then the blood pressed, and
+the place filled up with ink, the composition whereof is to be seen in Ae^ius.
+And thus they did use to matriculate Soldiers also in the hand. Thus did the
+Grecian Emperor in the precedent example of Zonaras. And if the Dr. would
+more, let him repair to Vin^tas's Comment upon the fifteenth Epigram of
+Ausonius.
+
+And now I conceive enough has has been said to vindicate Mr. Hobbes, and to
+show the insufferable ignorance of the puny professor, and unlearned Critic.
+If any more shall be though^ necessary, I shall take the pains to collect more
+examples and Authorities, though I confess I had rather spend time otherwise
+then in matter of so little moment. As for some other pssages in his book, I am
+no competent judge of Symbolick Stenography. The Dr. (Sir Reverence) might have
+used a cleanlier expression then that of a s^itten piece, when he censures Mr.
+Hobbes's Book.
+
+Hitherto the letter. By which you may see what came in to my (not square) cap
+to call (...) a mark with a hot iron, and that, they who told me that, did no
+more tell me a lie then they told you a lie that said the same of (...); and if
+(...) be not right as I use it now, ^hen call these notes not (...), but (...)
+I will not contend with you for a tris^e. For howsoever you call them you are
+like to be known by them. Sir, the* calling of a Divine has justly taken from
+you some time that might have been employed in Geometry. The study of Algebra
+has taken from you another part, for Algebra and Geometry are not all one; and
+you have cast away much time in practicing and trusting to Symbolical writ
+ings, and for the Authors of Geometry you have read, you have not examined
+their demonstrations to the bottom. Therefore you perhaps may be, but are not
+yet (...) Geometrician, much less a good Divine. I would you had but so much
+Ethics, as to be civil. But you are a notable Critic So fare you well, and
+consider what honor you do either to the University where you are received for
+professor, or to the University from whence you came thither, by your Geometry;
+and what honor you do to Emanuel College by your Divinity; and what honor
+you do to the degree of Dr. with the manner of your Language. And take the
+counsel which you publish out of your Encomiast his letter; think me no more
+worthy of your pains, you see how I have ^ouled your fingers.
+
+FINIS.
+

@@ -1,0 +1,3161 @@
+GNOMONIQUES, OR The Art of Drawing SUN-DIALS On all sorts of PLANES By
+Different Methods.
+
+With the Geometrical Demonstrations of all the Operations.
+
+By Mr. DE LA HIRE of the Royal Academy of Sciences.
+
+Rendered into English and Illustrated by an Example in Numbers.
+
+By JOHN LEEK Professor of the Mathematics.
+
+LONDON, Printed for Rich. Northcott adjoining to St. Peter's Alley in Cornhill,
+and at the Mariner and Anchor upon Fish-street-hill near London Bridge. 1685.
+
+THE PREFACE.
+I Have always considered the Description of Sun-Dials as one of the most
+ingenious and useful Inventions derived from the Study of the Mathematics.
+Also there is nothing* that draws more Admiration from all Men, than to see
+Strait-lines drawn on a Plane at Unequal Distances, to measure exactly the
+equal Divisions of the time of the Continuance of a Day: and although the Sun
+appears in different places of Heaven according to the different Seasons of the
+Year, yet the same Strait-lines do still determine the same hour at all these
+different Seasons.
+
+But these Hour Lines have nothing in them that deserves to be considered, if
+we compare them to those which trace forth the way which the Sun makes in his
+Distances from the Equinoctial Line, which questionless have given place to the
+more profound Meditations of the Sections of a Cone; which at this day is the
+most considerable part of our Speculative Geometry.
+
+I might easily demonstrate that we are beholding to Sun-Dials for the
+discovery of those admirable Curve Lines whereof we find very great use in all
+parts of the Mathematics; for we cannot consider the Shadow of the end of any
+body pointed on a Plane, without perceiving at the same time the Curvature
+which the way of the Sun traces forth; which is most like to that of the
+Section of an upright Cone which has a Circle parallel to the Equinoctial for
+its Base, on which we may suppose the Sun moves then when he makes that Shadow.
+
+But although the Properties of these Curve Lines serves as a Foundation for the
+most part of the Descriptions of Dials, yet in this Work I do not intend to
+explain any thing thereof in particular, for that would be to depart too much
+from my Subject.
+
+Seeing also that diverse other knowing Geometers have largely treated thereof,
+it seems to me that it will be very useless to re-search into the time of the
+most ancient Antiquity, and who was the Inventer of this Art: We may only
+believe very likely that it was perfected by little and little, and that the
+first Men seeing the necessity which they had to divide the continuance of a
+day into diverse parts, judged that it could not be better done than by the same
+Sun which limits the continuance thereof.
+
+We may also be very easily persuaded that the Meridian Line has been the
+first which they have drawn, as well because that it divides the apparent day,
+which is the time during which we may see the Sun, into two equal parts, and
+that the Shadow of a Strait-line raised perpendicularly upon an Horizontal
+Plane, was always extended along this Meridian Line when the top of it meets
+with it, although it be in different places; so that it serves us to know the
+greatest height of the Sun above the Horizon every day, the which changes
+during the time of half a Year, it seemed to them one of the most considerable
+Phenomena's of the Sun.
+
+The most part of the Ancients divided the space of time (which is from the
+rising to the going down of the Sun) into twelve equal parts, which they called
+Hours, and they began their Account from Sun rising; and although the Hours
+changed their length during the half year to those which did not Inhabit under
+the Equinoctial Line, where the apparent days are always equal to one another,
+therefore they have always Midday at the Sixth Hour: but these sorts of Hours
+have no Circles of the Sphere that represent them.
+
+The Babylonians began the day at the Sun Rising, and divided the Duration into
+24 equal Hours: The Italians began it at Sun Setting, and made also their Hours
+equal: These two manners of beginning the day have the Horizon for their term;
+the first did always know how long time they had from the Sun Rising above the
+Horizon, and the others did always know that which remains to the Sun Setting.
+
+The Astronomers and the greatest part of the Nations of Europe begin their Day
+when the Sun comes to the Meridian, these last when the Sun comes to the
+Meridian under the Horizon; and the first when the Sun comes to the Meridian
+above the Horizon; this manner of beginning the day has great advantages beyond
+other.
+
+I undertake in this Work only the Description of the Astronomick Hours, which
+have for their Term the Meridian, and of the Italians and Babylonians that
+begin from the Horizon. In the Construction of these sorts of Dials there are
+two principal Operations which we may consider each in particular, which has
+obliged me to divide this Treatise into Two Parts.
+
+In the First Part, after I have explained as brief as I can, that which is
+necessary to be known for the right understanding of the Construction of Sun
+Dials, in which I give the definition with that of all its parts: I propose
+following diverse Manners and Practices, to draw their principal Line, with the
+Points which are necessary for the description of the Hour Lines, to the intent
+that we may serve our selves with those which are most fit in the different
+Rencontres of the Planes proposed.
+
+Each of these Practices have advantages in particular Cases; I observe by
+which we may serve our selves very near following the Exposition of the Plane
+proposed, to the intent that those that have not sufficient knowledge of the
+different Rencontres of Planes with the Circles of the Sphere, may not give
+themselves the trouble to follow a Method from which they cannot draw a great
+advantage.
+
+In all these Practices which I propose, I make no use of the Magnetical
+Needle, for there happens great change to the Variation of the Magnetical
+Needle; besides we are not assured that there is no Iron hid, or some Stone or
+Brick which is of the Nature of Iron, which may turn aside the Needle from its
+true Direction toward the place whither it would go if it were free.
+
+Also I approve not that Method which many do practice to find the Declination
+of a Plane, that is to say, the Angle which the Meridian Line makes on a
+Horizontal Plane with the Horizontal Line, which is the meeting of the Plane of
+the Dial with that Plane: they draw on a Plane set Parallel to the Horizon (the
+which we call a Level Plane) a Meridian Line following one of the Practices,
+which may be seen hereafter; and when the Sun marks Midday on that Horizontal
+Plane, they mark a Point of Shadow on the proposed Plane; but you must observe
+that the Errors that one commits in all the Operations, as well in the placing
+of the Plane level, as in the determination of the Meridian, are multiplied and
+increased in transporting them to another Plane.
+
+For the same Reasons we ought also to reject all sorts of Instruments, unless
+they be very plain and very large: Therefore I have thought good to use only
+the Ruler and Compass, the Plomb Line and the Level, and to draw the Lines and
+Circles only upon the given Plane.
+
+Although we may determine the length of the Lines, and also the most part of the
+Angles by Calculation of Spherical and Strait-lin'd Triangles, which serves for
+the drawing of Dials, Yet I have thought good that I ought not to propose any
+(of those ways) in this small Treatise, because that the most part of those
+Calculations are much longer than the Practice, and they are founded but upon
+the same Angles, and the same Lines which I have used in the Practice; so that
+those that can use Calculation, shall find no great difficulty to apply them to
+Numbers and Sines, where I only propose Lines and Angles.
+
+After I have taught to Draw the Principal Line of Dials, I proceed to the
+Second Part, wherein I show to draw the Astronomical Hour Lines, and then to
+describe the Parallels of the Signs.
+
+I propound no particular Construction on the Horizontal and Vertical Planes,
+which only gives particular Rules for each Case, the which in the ordinary way
+happens very seldom: Therefore the Methods that I teach are for all sorts of
+Planes indifferently considered. I know well that there are diverse Cases where
+we might find Abridgments, but these Abridgments consists only in certain Lines
+and Points which come to be united in the general Practices which I give: Also
+it is to be observed that the Portions of Curve Lines that I describe, are
+always Conick Sections, that is to say, either Ellipses, Hyperboles, or
+Paraboles, and sometimes Circles, when the Plane is perpendicular to the Axis
+of the Cone, the which is always an upright Cone.
+
+The most part of the Practice that I teach being founded on the Declination of
+the Sun, I give you a Table thereof Calculated for the days of Four Years
+following one another, to the end to comprehend the Bissextile or Leap Year; I
+there also add the Differences of the Declinations for every day, with a Table
+of Latitudes of the Principal Cities of the World.
+
+THE CONTENTS.
+The Preface. CHap. I. Fig. 1. Of the Circles of the Sphere necessary to be
+known for the drawing of Sun Dials. Chap. II. Of the definition of Sun Dials,
+and the principal parts which serves for their Construction. Chap. III. Fig. 2.
+To mark the Points of Shadow. Chap. IV. To draw the Horizontal Line. Chap. V.
+Fig. 4. To Draw the Substylar Line, Two Points of Shadow being given in a
+certain Condition. To place the Center and draw the Equinoctial Line, the
+Declination of the Sun and one Tract of the Shadow being given.
+Chap. VI. Fig. 5. To place the Substylar Line, the Equinoctial Line, and the
+Center of the Dial, and to determine the Position of the Axis. Two Points of
+Shadow, what you will being given, with the Declination of the Sun at the time
+of Observation of the Points of Shadow.
+Chap. VII. Fig. 6. To place the Substylar Line, the Center of the Dial and
+Equinoctial Line, one only Point of Shadow being given, with the Declination of
+the Sun and the Altitude of the Pole above the Horizon. Chap. VIII. Fig. 7, 8.
+To find the Center of the Dial, the Substylar Line and the Equinoctial Line,
+one only Point of Shadow being given, and the shortest Shadow. Chap. IX. Fig.
+9. To find the Center of the Dial, and to draw the Substyle and Equinoctial.
+Two Points of Shadow being given, with the Declination of the Sun at the time
+when you marked the Points of Shadow.
+Chap. X. Fig. 10, 11. To find the Center of the Dial, and to draw the
+Substylar and Equinoctial Lines. Two Points of Shadow, what you please being
+given, with the Declination of the Sun at the time of taking the Points of
+Shadow. Chap. XI. Fig. 12. To find the Center of the Dial, and draw the
+Equinoctial Line, the Substylar being drawn, and one Point of Shadow being
+given, with the Declination of the Sun. And to draw the Equinoctial Line, the
+Center of the Dial being placed. And to find the Center of the Dial, the
+Equinoctial being drawn.
+Chap. XII. Fig. 13. To draw the Equinoctial and Substylar Lines, and to find
+the Center of the Dial. Two Points of Shadow, what you please being given, with
+the Declination of the Sun.
+Chap. XIII. Fig. 14. To find the Points of the Hours of Six and of Midday
+upon the Equinoctial, and to draw the Meridian Line. The Equinoctial and
+Horizontal Lines being placed.
+Chap. XIV. Fig. 15. To draw the Meridian, and to find the Point of the Line of
+Six Hours on the Horizontal Line. One only Point of Shadow being given, the
+height of the Pole and the Declination of the Sun.
+Chap. XV. Fig. 16. To draw the Meridian Line, Two Points of Shadow being
+given, in a certain condition. Chap. XVI. Fig. 17. To place the Center of the
+Dial, or to determine the Inclination of the Axis with the Meridian, to draw
+the Substyler and Equinoctial, the Meridian being posited, and the Altitude of
+the Pole being given. Chap. XVII. Fig. 18. Remarks and Practices for many
+Ahridgements in the Operations of the foregoing Chapters.
+The Second Part.
+The Preface. Of the choice we ought to make of the Operations to draw the
+Substylar, Equinoctial and Meridian Lines; and to place the Center of the Dial,
+following the Expositions of the proposed Superficies. Chap. I. Fig. 21. To
+Mark the Points of the Astronomick or French Hours on the Equinoctial Line, and
+by those Points to draw the Hour Lines Chap. II. Fig. 22. To Mark upon the
+Horizonta^ Line the Points of the Astronomick and French Hours. And to draw the
+Hour Lines by those Points.
+Chap. III. Fig. 23. Six Intervals of Hours following one another being given,
+to araw all the other Hours. Chap. IV. Fig. 24. To draw the Arches of the Signs
+Chap. V. Fig. 25. The Equinoctial being given, t^ draw a Parallel to it by a
+Point given upon an^ Hour Line. Chap. VI. Fig. 26. To draw the Italian and
+Babilonian Hours upon an Horizontal Surface. Chap. VII. Fig. 28, 29. To draw
+the Italian and Babilonian Hours on a Surface, which is not Horizontal. Chap.
+VIII. Fig. 28. To continue the Description of the Italian and Babilonian Hours,
+when the Parallel or Equinoctial is not on the Surface. Chap. IX. Fig. 30, 31.
+Four Astronomick Hour Lines following one another being given, with the
+Equinoctial Line. To find the other Hours.
+Chap. X. Fig. 32. A Drawn Dial being given, to find the foot of the Style
+which did serve to draw the Dial, and to determine the length thereof. Chap.
+XI. Fig. 33, 34. To place the Axis. Chap. XII. To Draw Reflecting Dials. Chap.
+XIII. Of the Use of the Table of the Suns Declination, and of the Difference of
+Meridians of diverse considerable Towns in respect of Paris.
+GNOMONIQVES, OR The ART of DRAWING SUN-DIALS On all Sorts of PLANES.
+THE FIRST PART.
+CHAP. I.
+Of the Circles of the Sphere necessary to be known for the Drawing of
+SUN-DIALS.
+THE Sphere is an Instrument whereby we explain the Daily Motion of the
+Celestial Bodies, according as they appear to us to move always from East to
+West, and also the proper Motion of the Sun, which moves from West toward the
+East, and makes his Revolution through the Twelve Celestial Signs in the space of
+one year.
+
+This Instrument is composed of diverse Circles, of which we only describe those
+that belong to our present Subject: Those Circles whose Planes pass through the
+Center of the Earth, are called Great Circles of the Sphere, and all the other
+are Less.
+
+But before we speak of these Circles, we ought to consider the Axis of the
+Sphere, which we conceive to be as a strait line about which the Instrument is
+turned. The two Ends of the Axis are called Poles, the one North and the other
+South.
+
+The Earth is placed in the middle of this Instrument, and consequently the
+Axis passes through the Center thereof. We may understand from Astronomical
+Observations that the Globe of the Earth is so little, in respect to its
+distance from the Sun, so that we may consider it as a Point, if we compare it
+to that distance.
+
+The Equinoctial or Equator is a Great Circle, and one of the chiefest of the
+Sphere, the Plane whereof is at Right-angles to the Axis, it divides the Sphere
+into two equal parts, whereof one is called Septentrional, and the other
+Meridional.
+
+Fi^ 1. The Ecliptic is another Great Circle whose Plane makes an angle with
+the Plane of the Equinoctial of 23 degrees 30 minutes; the Sun moves under this
+Circle, going from the; West toward the East, and makes one entire Revolution
+in 365 days and near 6 hours. The Inclination of this Circle to the
+Equinoctial, causes the different Declinations of the Sun in regard to the
+Equinoctial; it is divided into Twelve equal parts, which are called Signs: And
+we begin from the Intersection thereof with the Equinoctial, proceeding toward
+the North. The Names of the Twelve Signs are Aries, Taurus, Gemini, Cancer,
+Leo, Virgo, Libra, Scorpio, Sagittarius, Capricornus, Aquarius, Pisces. Their
+Characters are,,,,,,,,,,.
+
+The Tropicks are two Circles parallel to the Equinoctial, which touches the
+Ecliptic in the point of its greatest distance from the Equinoctial; therefore
+these Circles are distant from the Equinoctial 23 degrees. 30 min. on one side
+toward the North, and on the other side toward the South.
+
+So that it is manifest, That when the Sun is in the common Intersection of the
+Ecliptic and Equator, the Motion of the Sphere about its Axis, which goes from
+East to West, and is called the Motion of the Primum Mobile, makes him appear
+to us in the Equinoctial; and also when he is in his greatest distance from the
+Equinoctial, the same Motion of the Primum Mobile makes him to appear to us to
+move in the Tropicks.
+
+The Zenith is an imaginary Point in the Sphere, marked by a strait Line coming
+from the Center of the Earth, and passing by some place of the Superficies
+thereof. This Line is called the Vertical Line of that place.
+
+The Horizon is a Great Circle, whose Plane cuts the Vertical Line at
+Right-angles. The Horizon of a Place distinguishes the visible part of Heaven
+of that Place, from that part of Heaven which is not there seen.
+
+The Meridian is a Great Circle which passes through the Poles and Zenith, the
+Plane whereof is at Right-angles with the Planes of the Equinoctial and
+Horizon. When the Sun comes to this Circle, he is in the middle of his apparent
+Course during a day, and is at his greatest height above the Horizon, because
+this Circle passes through the Zenith and Poles.
+
+If we suppose the Equinoctial to be divided into 24 equal parts, beginning
+from the Meridian, the 6th and 18th part shall fall on the Intersections of the
+Horizon and Equinoctial, because the Meridian and Horizon are at Right-angles
+to one another; and if we imagine other Circles like the Meridian, that is to
+say, that pass through the Poles of the World and Point of Division of the
+Equinoctial, those Circles which we call Meridians, shall be the Hour Circles,
+among which is the Meridian of the Place, whereof all the Planes intersect one
+another in the Axis. We may also conceive others, which divide each part into
+two or four, to mark the half-hours and quarter-hours; for if we suppose these
+Circles to be fixed, then when the Primum Mobile turns the Sun with his
+Ecliptic about the Axis, the time of his apparent Course shall be divided into
+hours, halves, and quarters, by these Meridians.
+
+Also we number the Declination of the Sun upon the like Meridians, which do
+all intersect the Equinoctial at Right Angles, which we make to pass through the
+Center of the Sun in the Ecliptic: We number this Declination from the
+Equinoctial toward the Poles: Therefore it is either South or North: The
+Angles of Declination are measured by Arches of Circles.
+
+Those Circles that pass by the Vertical Line are called Vertical Circles (or
+Azimuth) and their Planes are perpendicular to the Plane of the Horizon; they
+serve to measure the height of the Sun above the Horizon, which is numbered from
+the Horizon toward the Zenith.
+
+It is manifest from that which has been said before, that there are infinite
+Horizons and Meridians, and that there are only these two great Circles, which
+may change according to the different places on the Earth, for they are
+established by the Vertical Line.
+
+The Amplitude of Rising or Setting is counted on the Horizon, beginning from
+the Points where the Equinoctial cuts the Horizon, and is numbered toward the
+South or North.
+
+If we conceive that in the Revolution of one day the Horizon moves, as being
+fastened to the Axis, so as it cannot change its Inclination, then when it
+shall pass by the 24 equal Divisions of the Equinoctial, it shall represent the
+24 Circles of the Italian or Babylonian Hours.
+
+CHAP. II.
+Of the Definition of Sun-Dials, and of the principal parts which serves for
+their Construction.
+THe Distance from the Center of the Earth to the Superficies thereof not being
+considerable, in respect of the Distance of the Earth from the Sun, we may take
+any Point on the Superficies and consider it as its Center in relation to the
+Motion of the Sun.
+
+Therefore if we place a Style which is a Pointed Rod upon any Plain Surface,
+and then consider the Point of that Style as the Center of the Earth, the
+Intersections of that Surface with the Planes of the Hour Circles, of the
+Equinoctial or Equator, of the Horizon and of the other great Cricles, shall be
+strait Lines, which retain the Names of the Planes of the Circles from whence
+they were produced: All these Lines on that Plane Surface with the Style makes
+a Sun-Dial.
+
+The Shadow of the Point of the Style, which is one of the Points of the Axis
+shows the Hours.
+
+And if the Axis which passes by the Point of that Style meets with the Plane
+of the Dial in any Point, that Point is called the Center of the 1st Figure
+Dial; for it is evident that all the Hour Lines shall meet in that Point.
+
+It is also evident that the Shadow of the top of the Style gives the Hours,
+and shows when the Sun meets with any one of the Circles of the Sphere; for
+when the Sun comes to a great Circle, the Shadow of the Axis is extended in the
+Plane of that Circle, if that Circle passes by the Axis; and if it passes not
+by the Axis, the shadow of the Point of the Style shall be in the Plane of that
+Circle; for the Planes of great Circles pass by the Point of the Style.
+
+And if we conceive a Conical Superficies which has for its Base a less Circle
+of the Sphere, and for its Vertex the Point of the Style, that Conical
+Superficies shall meet the Surface of the Dial in a Curve Line; so as when the
+Center of the Sun shall touch that less Circle which is the Base of the Conical
+Superficies, the Shadow of the Point of the Style shall touch the Curve Line
+which is the meeting of that Curve Superficies with the Plane of the Dial: for
+the Point of the Style is on that Superficies whereof it is the Vertex.
+
+The Foot of the Style is that Point on the Plane of the Dial, which is the
+meeting of a strait Line drawn perpendicularly to that Plane, and which passes
+by the Point of the Style.
+
+If the Plane of the Dial be considered as the Plane of the Horizon of any
+place, the strait Line that passes by the Point of the Style and by its Foot,
+shall be the Vertical Line of that Place: and the Plane that passes by that
+Vertical and by the Axis, shall be the proper Meridian of that Place,
+considered as the Horizontal of a Place.
+
+The meeting of the Meridian and Surface of the Dial is called the Substylar
+Line, or the Meridian of the Plane or Surface of the Dial, which we ought to
+distinguish from the Meridian of the Place, which is the meeting of the
+Meridian proper to that Place and of the Surface of the Dial, at least if they
+be not coincident, which happens when the Dial does not decline from the East
+or West.
+
+We see by the position of these Lines that the Substylar Line is always at
+Right Angles with the Equinoctial Line.
+
+We ought to make the Dial so as the Foot of the Style be not encumbered, for
+that Point serves for many Operations; therefore the Style must be planted a
+little obliquely upon the Surface.
+
+I understand by the length or height of the Style the strait Line drawn from
+the Point to the foot thereof.
+
+The Arches of the Signs on the Surface of the Dial, are the Descriptions of
+the Parallels to the Equinoctial, which pass through the 12 equal Divisions of the
+Ecliptic Line, which show the beginning of the Signs.
+
+2d. Fig
+
+
+3d Fig
+
+
+CHAP. III.
+To Mark the Points of Shadow.
+Fig. 2. THe Practices which are taught in this Treatise, being founded on the
+Points of Shadow of the Point of the Style to be very small, it is very
+necessary to mark them very exactly; but it is very difficult because of the
+Penumbra: See here two ways by which it may be done.
+
+The first is to fit a small round Plate to the Point of the Style, which may
+be parallel to the Plane of the Dial, whereof the Center may be joined to the
+Point of the Style; then having drawn the Shadow of the said Plate on the Plane
+of the Dial, take the middle of that Shadow, which shall be the Shadow of the
+end of the Style at the same time when we observed the Shadow of the Plate.
+
+The Second way is to make a small round hole in a little piece of Past-board
+or thin Plate, or other like body, and having applied it to the end of the
+Style, so as the Center of the Hole may be joined to the Point of the Style,
+and that the small Plate may regard the Sun perpendicularly; the light of the
+Sun shining through the Hole shall mark a clear Circle or Oval D E in the Shadow
+of the Plate on the Plane of the Dial which we draw on the said Plane; and if
+it be an Oval, having drawn a strait Line DPE from the Poin^ P, which is the
+foot of the Style, whereof S i^ the Point, which may pass through the Center of
+that Oval and cut it in D and E, or draw D G and E F parallel to one another,
+and making any Angle with D E, D G being made equal to D S, and E F equal to E
+S, the Line G F shall cut D E in the Point A, which shall be the Shadow of the
+Point of the Style S, at that time when the Oval was drawn: But we may take the
+Center of the Oval for the Point A, without falling into any sensible Error, as
+we may see by this Operation.
+
+But if the Shadow be a Circle, the Center of that Circle shall be the Shadow
+of the Point of the Style.
+
+Here Note, That we ought to make the Hole as small as is possible, for so the
+Operation shall be more exact. It is sufficient that we may see distinctly the
+Figure of the Light in the Shadow of the small Plate.
+
+CHAP. IV.
+To Draw the Horizontal Line.
+A Style the Point whereof is S, being planted upon the Plane of the Dial, we
+apply a Rule A S, so as one of the Edges thereof A S may be level, touching the
+Point of the Style, and that the end of that Edge of the Ruler may touch the
+Plane of the Dial at the Point A, which shall be one of the Points of the
+Horizontal Line.
+
+By the Point A draw a level Line on the Plane of the Dial, which shall be the
+Horizontal Line.
+
+There are so many ways to set a Ruler level, that I will prescribe none in
+particular.
+
+CHAP. V.
+To find the Substylar Line, two Points of Shadow being given in a certain
+condition. To find the Center and draw the Equinoctial Line, the Declination of
+the Sun, and one Tract of Shadow being given.
+Fig. 4. LEt there be a Style, the Point whereof i^ S, and P the Foot, having
+marked the Point A, which let be the Shadow of the Point S, on the Plane of the
+Dial; on the Point P as a Center, and at the Distance P A, describe the Circle
+A B, and when the Shadow of the Point S comes again to the Circle A B on the
+same day, at the Point B we mark that Point. Then draw the Line A B, and divide
+it into two equal parts in D, the strait Line P D, shall be the Substylar Line,
+which ought to be at Right Angles to the Line A B. We may take diverse Points,
+as A, for to find diverse Points as B, and if the Operation be made exact, all
+the Points as D, ought to be in one and the same strait Line with the Point P.
+
+If the Suns Declination has changed considerably in the time which has passed
+between the two Observations of the Points of Shadow A and B; which may fall
+out when the Sun is near the Equinoctial Points, or when the Style P S is 4th.
+Fig
+very high; or lastly, when there has passed much time between the
+Observations, we shall not have the Substylar Line exactly.
+
+The Demonstration of the former Practice.
+Supposing the Declination of the Sun not to be changed between the two
+Observations of the Points of Shadow A and B; by construction the two Triangles
+A P S, B P S, are equal and alike; therefore the Angle P S A is equal to the
+Angle PSB; the Sun therefore was equally elevated above the Plane of the Dial,
+then when the two Points of Shadow were observed. Therefore the Sun was equally
+distant from the Meridian of that Plane at the times of the two Observations:
+Therefore the Line P D, which divides the Line or Arch A B into two equal
+parts, shall be the Meridian of the Plane.
+
+To find the Center of the Dial, and to draw the Equinoctial Line, knowing the
+place where the Shadow of the Point of the Style cuts the Substylar Line.
+If between the Points of Shadow A and B, we mark a Succession of Points of
+Shadow, so that we may have the Point L where the Shadow of the Point of the
+Style meets with the Substylar Line between the Observations, having erected P
+F perpendicular to the Substylar Line, and equal to the height of the Style P
+S, let the strait Line F L be drawn, and having made the Angle L F E equal to
+the Declination of the Sun at that time when the Point of Shadow L did me with
+the Substylar Line, so as the Point E, or the meeting of the strait Line F E
+with the Substylar Line, may be always toward the Unequal part of the Curvature
+of the Line A L B, that Point E shall be the Point where the Equinoctial Line E
+G cuts the Substylar Line; which Lines shall intersect one another at Right
+Angles.
+
+Then having drawn F C perpendicular to F E, the strait Line F C determines the
+position of the Axis with the Substylar Line; and if it meets with it in the
+Point C, that Point shall be the Center of the Dial, and the Line F C shall be
+the Angle of Inclination of the Axis with the Substylar Line, which serves to
+place the Axis, and to find the other necessary Points for the Constructton of
+the Dial.
+
+It is not necessary that the Point of Shadow L should be taken on the same day
+when we observed the other Points A and B, it is sufficient that we have the
+Declination of the Sun then when we make Observation of the Point L, and on
+which side the convexity of the Tract of the Shadow shall be on that day, to
+find the Point E.
+
+Demonstration.
+The Demonstration of this Operation is manifest, if we consider that we have
+made the Angle L F E, and that the Line F C ought to be extended in the Plane
+of the Meridian, which is perpendicular to the Plane of the Dial, and that the
+meeting of the Line D P C and the Point F, ought to be conjoined in the Point
+of the Style S.
+
+Another way of finding the Substylar Line by the Amplitude of the Suns Rising
+and Setting upon the Plane of the Dial.
+When the Sun begins to rise on the Plane of the Dial, mark the Shadow of a
+Small Thread extended from the Foot of the Style to its Point, and do also the
+same when the Sun sets on the Plane of the Dial, the Angle comprehended between
+these two Lines of Shadow, whose Vertex is at the Foot of the Style, being
+divided into two equal parts, shall give the Substylar Line.
+
+This is manifest, for that Angle is the Sum of the Ortive and Occasive
+Amplitudes of the same day, which we suppose to be equal.
+
+The Substylar Line being placed, we may find the Center of the Dial by the
+Practice of the 11th Chapter, using only one Point of Shadow, and knowing the
+Declination of the Sun at the Hour where the Point of Shadow has been marked;
+and if the Dial have no Center, we may have the Inclination of the Axis with
+the Substylar Line; which shall serve instead of the Center for the placing of
+Hours: Also by the same Practice we may have the position of the Equinoctial
+Line.
+
+CHAP. VI.
+To place the Substylar and Equinoctial Lines, and the Center of the Dial, and
+to determine the position of the Axis. Any Two Points of Shadow being given,
+with the Declination of the Sun at the time of Observation o^ the Points of
+Shadow.
+Fig. 5. A Style being placed on the Plane of the Dial, whereof the Point may
+be S and P the Foot, and any two Points of Shadow A and B taken at pleasure.
+
+Upon some certain Plane having made the Angle d s a equal to the Sum or
+Difference of a Right Angle, and that of the Declination of the Sun on that day
+on the which the Points of Shadow were marked, according as the Declination is
+North or South; for you would have a Point o^ the Substylar Line as Q which may
+answer to (...) Point of the Axis, which may be more North than the Point of
+the Style, you must make the Angle d s a equal to the Sum of a Right Angle and
+Angle of the Declination of the Sun, if the Declination be North, but equal to
+the Difference of a Right Angle and Angle of the Declination if it be South.
+
+5th Fig
+
+
+Take s d of any length, and make s a and s b equal to the Intervals S A, S B,
+from the Point of the Style to the Points of the Shadow; from the Point A as a
+Center at the distance a d, describe Two Arches of Circles at T and L, and from
+the Point B, at the distance of the Line b d, intersect the former Arches at
+the Points L and T, then draw the strait Lines L T and A B, which shall
+intersect one another at Right Angles in the Point O; and from the Point O as a
+Center, at the distance L O or O T, which are equal, describe the Semicircle L
+D T.
+
+Then draw the strait Line P G K parallel to A B, intersecting L T in the Point
+G, and make G K equal to P S the height of the Style: and from the Point P, as
+a Center, at the distance of the Line s d, describe the Arch I, cutting the
+strait Line L T in the Point I.
+
+And from the Point K as a Center, and at the distance G I, describe the Arch D
+R, cutting the Semicircle L T in the Point D: Then to the Line L T, let fall
+the perpendicular D Q and draw the strait Line Q P, which shall be the
+Substylar Line.
+
+If the Point Q falls too near to the Point P, we may take s d greater, and
+begin the work again to determine the Substylar Line more exactly.
+
+If the Declination of the Sun be considerably changed between the Observations
+of the Points of Shadow, be it that the Observations be made on the same day or
+on different days, the Angles P s a, d s b must be made according to the
+di^ferent Declinations at the times of Observation, a^^ the Angle d s a being
+made as has been taug^^ before for the time of the Observation of the Po^^^ of
+Shadow A, make s a equal to S A; also t^^ Angle d s b being made for the
+Observation of t^^ Point of Shadow B, make s b equal to S B.
+
+Then from the Points P and Q of the Subst^lar Line raise the Perpendiculars P
+N equal to t^^ height of the Style P S, and Q M equal to Q D then if the strait
+Line M N being drawn me with the Substylar Line in C, the Point C shall (...)
+the Center of the Dial, and the Line N E pe^pendicular to N M, meeting with the
+Substy^^ Line; the Line V E being drawn perpendicular (...) the Substylar Line
+passing through the Point E shall (...) the Equinoctial Line of the Dial.
+
+We may observe that the Point D ought t^ be on the side with the Semicircle T
+L G, whi^^ is cut by the Line P G K, and which answers (...) the Point M of the
+Axis, which is supposed (...) be more toward the North than the Point S; th^^
+Point D may indifferently meet with the Circle (...) either side of the strait
+Line T L.
+
+Also, We may observe that if the strait Li^^ L T passes by the Point P, that
+Line shall be the Substylar Line, and it shall always pass by the Point P, if
+the Points of Shadow A and B a^ Points of the Equinoctial Line.
+
+Demonstration.
+It is clear by this Construction that the Line s d presents the Axis, and s a
+and s b the Lines of the ^adow from the Point of the Style, which make with the
+Axis s d an Angle equal to the Sum or Difference of a Right Angle and Angle of
+the Declination of the Sun, according to that which has been prescribed in the
+Practice: Therefore if we conceive that the two Triangles a s d, b s d, each
+apart have their Points a and b in the Points of Shadow A and B, and their
+Points s joined together with the Point S of the Style, if the Points d of each
+of these Trianglec are also joined together, these two Triangles in this
+Position compose a Pyramid A B S d whereof the Line S d is the Axis of the Dial.
+
+But to find on the Plane of the Dial a Point which may answer perpendicularly
+to the Point d, as P answers to the Point S, we must consider in the Pyramide
+the Triangle A B D ^o move upon the Line A B, so as it is manifest that the
+Point d describes a Circle such as is T L D, on a Plane which is perpendicular
+to the Plane of the Dial; and the Intersection of those two Planes is the
+strait Line T L, which ought to cut the Line A B, which conjoyns the Points of
+Shadow A and B in the Point O, and O T, O L shall be equal: There remains
+nothing more but to mark the Point d or D upon the Circle L D T couched on the
+Plane of the Dial.
+
+The Plane of the Circle L D T being perpendicular to the Plane of the Dial, if
+we conceive tha^ the strait Line s d moves upon its extreme, s b^ing immovable,
+and put upon the Point of the Sty^ S, and that the other extrem thereof d, may
+(...) always in its moving upon the Plane of the Circ^^ L D T, it is evident
+that that extreme d shall describe a Circle R D upon that Plane which sha^^
+have for its Center the Point K, where the Line S (...) drawn from the Point of
+the Style S perpendicular^ to the Plane L D T, meets with the same Plane, th^^
+which Line S K shall be equal to P G: but the S^ midiameter of the Circle R D
+shall be equal to G^ if P I be made equal to s d; but the intersection (...)
+the Circle L D T with the Circle R D, which is the Point D, determines the
+position of the Point d of the Axis. So as D Q considered as perpendicular to
+the Plane of the Dial, coming from the Point d or D does there mark the Point
+Q, which is one of the Points of the Substylar Line, seeing that the Poin^ d is
+one of the Points of the Axis.
+
+It is also evident that the Plane N M C P being supposed to be perpendicular
+to the Plane of the Dia^^ the Line N M does there represent the Axis in i^^
+position, the Point C the Center of the Dial, a^^ consequently the Line V E
+shall be the Equi^noctial.
+
+Another Practice upon the same Positions and Constructions.
+The same Preparations being made as before, ^^e two small Rods of any firm
+Matter, as of Wood of a sufficient thickness, or of Iron: and ^ake them pointed
+at the ends, and equal in length (...) the strait Lines a d, b d; it is not
+material ^hether they be strait or crooked, if the Di^ances between their
+Points be equal to a d and (...) d.
+
+Put one of the Points of that Rod which is equal ^o a d on the Point of Shadow
+A, and one of the Points ^f the other Rod to the Point of Shadow B, and ^oyn
+them together by their other Points; but so as ^he Points that are joined
+together may approach ^r fall back from the Point of the Style without ^ltering
+the other Points of the Rods, which are ^et on the Points of Shadow A and B;
+then we ^ake with the Compasses or otherwise, the di^^ance between the Points a
+and d, and set that ^istance between the Point of the Style and the ^oints of
+the Rods that are joined together, so ^s that Point, it may be more toward the
+North ^han the Point of the Style: by this means the ^ommon Point of the Rods
+being fixed, shall be one ^f the Points of the Axis which ought to pass ^y the
+Point of the Style, therefore the situation ^f the Axis shall be determined.
+
+By this common Point of the Rods so fixed, which I call D, having drawn a Line
+perpendicular (...) the Plane of the Dial, which shall meet it in the Point Q,
+the Line P Q shall be the Substyl^ Line.
+
+The Point C on the Plane of the Dial whe^^ it is met by the Line D S, drawn by
+the Point (...) the Style S, and by the end of the Rod D, sh^^ be the Center of
+the Dial, and by the Pract^^^ of the 11th Chapter we may draw the Equinoc^^al
+Line: but if we have not the Center, we m^^ draw it by the Practice of the same
+Chapter.
+
+This Practice may serve to make you understa^^^ more easily the Demonstration
+of the Construct^^^ which is proposed in that Chapter.
+
+6st Fig
+
+
+CHAP. VII.
+To place the Substylar Line, the Center of the Dial and the Equinoctial Line.
+One only Point of Shadow being given, with the Declination of the Sun and
+height of the Pole above the Horizon.
+Fig. 6. HAving placed a Style upon the Plane of the Dial, whose Point may be
+S, and P the foot, and A one Point of Shadow, draw a Horizontal Line by the
+Practice of the 4th Chapter. And by the Point P draw the Lines B P H
+perpendicular to the Horizontal Line h H, and P Z parallel to H h and equal to
+the Height of the Style PS. Then from the Point H, where P H meets with the
+Horizontal Line, draw H Z and Z B perpendicular to Z H, which shall meet with H
+P at the Point B if the Horizontal Line passes not through the Point P: First let
+it meet at the Point B.
+
+Upon some Plane make the Angle d s a equal to the Sum or Difference of a Right
+Angle, and of the Declination of the Sun at the time when the Point of Shadow
+was observed, according to the Precepts which have been given in the 6th
+Chapter, and make the Angle d s b equal to the Sum of a Right Angle and the
+height of the Pols above the Horizon.
+
+Then taking the Point d at pleasure on the Line s d, make s b equal to Z B and
+s a equal to the length of the Shadow from the Point of the Style S to the
+Point of Shadow A, and draw the strait Lines a d, b d.
+
+And by the Points A and B draw the strait Lin^ A B, and from the Point B as a
+Center, at the distance b d describe the Arch f L either above obelow the Line
+A B; and likewise from the Point A as a Center, and at the distance a d,
+describe the Arch g d, cutting the Arch L f at the Point L, and from the Point
+L draw the stra^^ Line O L perpendicular to A B.
+
+From the Point O as a Center, at the distan^^ O L describe the Arch D L.
+
+And from the Point P draw the strait Lin P G K perpendicular to O L; and from
+the sam^ Point P, at the distance d s, describe the Arch I e^ther on the one or
+the other side of G, cutting the Line L O at the Point I.
+
+Then make G K equal to P S the height o^ the Style, and from the Point K, at
+the distanc^ G I describe the Arch R D, cutting the Arch D L in D, and from the
+Point D draw the strait Lin^ D Q perpendicular to L O, and the Line P Q which
+passes through the Points P and Q shall be the Substylar-Line.
+
+It the Point Q be too near to P, we may find another, by taking another Point
+d on the Line s d, as has been said in the Practice of the Precedent Chapter;
+also we must have a regard to the other Observations which have been made upon
+the same Practice, by that which is there founded on the same Principles.
+
+Consequently we place the Equinoctial Line and the Center of the Dial by the
+Practice of the 11th Chapter: but we have also here this advantage, that the
+Line which passes through the Point B and through the Center of the Dial, shall be
+the Meridian Line.
+
+In the second place, if the Horizontal Line passes through the Point P, or if the
+Point B be too far distant from the Point P, we must fasten another Style upon
+the Plane of the Dial, whereof the Point may pass by the Line of the Plummet
+hanged from the Point S of the Style, the Point of that second Style being
+called B, we perform the Operation as before to find the Lines d a, d b: but we
+may use the small Rods, as has been taught in the foregoing Chapter, otherwise
+the Operation would be too long.
+
+Demonstration.
+This Operation is so like to the precedent; that the Demonstration does not
+much differ from it; for here instead of a Second Point of Shadow we have the
+Point B, and the Point b s of the Triangle b s d being applied in B S, that
+Triangle moving upon B S and meeting the other Triangle a s d whereof the
+Points a s are applied in A S, and which moves upon A S, so as the Points d d
+of the two Triangles may be joined together; then the Axis which ought to pass
+by the Points S d, shall be stayed in that Position, as we have seen in the
+precedent Chapter: for in all the different Positions of the Triangle b s d
+moving upon B S, the Line S d which represents the Axis, remains always
+elevated above the Horizon, with an Angle equal to the Elevation of the Pole
+above the Horizon, and it shall not be stayed in that Position, but by the
+meeting of the other Triangle a s d, so as the two Points d d of the two
+Triangles may be joined together.
+
+The rest of this Operation being altogether like to the precedent, we shall
+not here again repeat the Demonstration.
+
+^th Fig
+
+
+CHAP. VIII.
+To find the Center of the Dial, and to situate the Substylar and Equinoctial
+Lines. One only Point of Shadow being given, and the shortest Shadow.
+Fig. 7. HAving placed a Style on the Plane of the Dial, whose Point let be S
+and Foot P, and marked a Point of Shadow A, and diverse other Shadows following
+one another, as G B, which may determine the length of the shortest Shadow,
+which is P B the Semidiameter of a Circle, that has for its Center the Foot of
+the Style P, which touches the Tract of the Points of Shadow G B in the Point
+B, and determines it exactly; which cannot be done by the meeting of the Two
+Curves, that is of the Circle N B and Tract of Shadow G B:
+
+Therefore upon some Plane p s equal to th^e height of the Style P S, draw c p
+b perpendicular to s p and make p b equal to P B, and s b shall be equal to S
+B; and prolong s b to a, and let s a be equal to the length of the Shadow S A.
+
+Then make the Angle a s c equal to the Sum or Difference of a Right Angle, and
+the Angle of the Declination of the Sun at the time when the Points of Shadow
+were observed, following that which has been noted in the Practice of the 6th
+Chapter, the Line s c meeting b p in c draw the strait Line a c.
+
+Then on the Dial from the Point P. at the Distance p c describe the Arch C F,
+and from the Point of Shadow A, at the Distance a c describe the Arch D C,
+intersecting the Arch C F in the Point C, the Point C shall be the Center of
+the Dial, and the strait Line C P shall be the Substylar, which shall cut the
+Tract of Shadow in the Point B, where the Circle N B ought to touch it.
+
+The Substylar Line being placed, we may draw the Equinoctial Line by the
+Practice of the 11th Chapter.
+
+Demonstration.
+This Practice is founded on the same Principles as the foregoing Operations,
+except that in this the Line s c is the length of the Axis from the Point of
+the Style S to the Plane of the Dial, for the Triangle c s b moving upon the
+Line s p applied to S P, rests in that Position as it ought to do to determine
+the Center C by the Triangle a s c, which moves upon a s applied to A S: but
+instead of these two Triangles it suffices that the Lines p c and a c 8th Fig
+moving on the Plane of the Dial about the Points p and a, may determine the
+Center C, as it is easy to conceive by the Construction.
+
+Note, That if in this Practice the Lines b p and s c be parallel or make a
+very acute Angle, the Axis shall not meet with the Plane of the Dial, or else
+shall meet with it at a great distance from the Point P. Then you must use the
+following Practice.
+
+Fig. 8. After you have made the same preparation as before, take s g on the
+Line s c of any length, and from the Point g draw a strait Line g m parallel to
+s p, which shall be also perpendicular to b p; from the Point g as a Center, at
+the distance g a, describe the Arch a e intersecting b p in the Point e.
+
+From the Point A as a Center, and at the distance e m describe the Arch M Q,
+and from the Point P as a Center, at the distance p m, describe the Arch M F
+intersecting the Arch Q M in the Point M, and M P B shall be the Substylar Line.
+
+Then draw the strait Line P Z perpendicular to the Substylar Line M P B and
+equal to P S the height of the Style, and also M G perpendicular to the same
+Substylar Line M P B, and equal to m g, the Line G Z shall determine the
+Position of the Axis in respect of the Substylar Line, and Z E being drawn
+perpendicular to Z G meeting the Substylar Line in E, the Equinoctial Line
+shall be VE perpendicular to the Substylar Line intersecting it in the Point E.
+
+Demonstratson.
+There is no difficulty in the Demenstration of this Practice after that which
+has been explained before, we must only conceive here the Triangle e m g to be
+perpendicular to the Plane of the Dial, that it is Right angled at the Point m,
+and that it is moved about the Point e which is put upon the Point A, so as the
+Line e m is always on the Plane of the Dial, and also that the Trapezium p s g
+m is movable about the Line p s which ought to be applied to the Style P S, so
+as the Triangle e m g and the Trapezium p s g m may meet in then common Line m
+g or M G, the Line M G shall be another Style answering to the first, the Point
+M shall be the Foot thereof, and G shall be the Point and the Line that passes
+by the Points of these two Styles S and G, shall be the Axis, and consequently
+the Line M P that passes by the Feet of these correspondent Styles shall be the
+Substylar Line.
+
+It is also manifest that the Line Z G determines the Inclination of the Axis
+in respect of the Substylar Line.
+
+We may take diverse Points of Shadow as A, to confirm this Operation, as we
+have done in the Practice of the 5th Chapter, the shortest Shadow P B remaining
+always the same.
+
+9th Fig
+
+
+It is to be observed, That if the Suns Declination has considerably changed
+berween the Observation of the Point of Shadow A, and the ^hortest Shadow P B,
+the Angle p s c must be made as we have taught before for the time of the
+shortest Shadow, and then draw s a which makes with c s the required Angle for
+the time of Observation of the Point of Shadow A: for it is not necessary that
+the Observations of the Point of Shadow A, and the Point of the shortest Shadow
+B, should be made on the same day.
+
+CHAP. IX.
+To find the Center of the Dial, and to draw the Substylar and Equinoctial
+Lines. Two Points of Shadow being given, with the Declination of the Sun at the
+times when the Points of Shadow were observed.
+Fig. 9. A Style being placed on the Plane of the Dial whereof the Point may be
+S and the Foot P, and two Points of Shadow A and B being observed.
+
+Make the Angle e s a equal to the Sum or Difference of a Right Angle and the
+Declination (...) the Sun at the hour when we observed the Poi^^ of Shadow A,
+following the Rules that we ha^^ given in the Practice of the 6th Chapter.
+
+Let several strait Lines be drawn, as A E, ^^ward the place where we suppose
+something ne^^ they ought to meet the Center of the Dial, a^ from the Center A
+at any distance describe the Arch of a Circle D R, intersecting A E in the
+Point D. And having made s a equal to S A from the Center Q at the distance a
+r, equal (...) A R describe the Arch d r.
+
+Then from the Point s as a Center, at the d^stance S D, describe the Arch d n,
+cutting the Ar^^ r d in d, and draw the strait Line a d e to me^^ with the Line
+s e in the Point e, and make A equal to a e, and having found several Points
+(...) E, draw the Curve Line E C by all those Point^ If we perform the same
+Operation by the Poi^^ of Shadow B, we shall find another Curv^^ Line F C,
+which intersecting the first Curve Li^^ in the Point C, determines the Center
+of the Dial.
+
+And C P shall be the Substylar Line.
+
+We may draw the Equinoctial by the Practi^^ of the 11th Chapter.
+
+The Demonstration of this Practice is so easy that it needs no Explication.
+
+For we may clearly see that the Intersection (...) of the two Curve Lines is
+the Intersection of th^^ 10.th Fig.
+sides of two Angles a s e and b s e, which are con^oyned by their common Line
+s e, and therefore the sides a s and b s on which these Angles move, are
+applied to A S and B S, and the common side of these Angles s e which is the
+Axis, being prolonged, meets with the Plane of ^he Dial in C, which shall be
+the Center thereof.
+
+CHAP. X.
+To find the Center of the Dial, and to draw the Substylar and Equinoctial
+Lines.
+Any Two Points of Shadow being given, with the Declination of the Sun at the
+time of Observation of the Points of Shadow.
+^ig. 10. LEt P S be a Style, whereof P may be the Foot and S the Point, and
+(...) and B two Points of Shadow. From the ^oint A, at the Distance A S,
+describe the Arch Q Z: Also from the Point B, at the Distance (...) S, describe
+the Arch R Z, intersecting the ^rch Q Z in the Point Z, and draw the strait
+Lines, Z B and Z A, and the Line Z P forth at length, then make Z H equal to Z
+B, and draw the ^^tait Line B H, which being divided into two equal parts in E,
+let Z E be drawn to meet with A F in the Point F.
+
+Then erect P N perpendicular to Z L, an^ equal to the height of the Style P S,
+and dra^ G O and O L at Right Angles, and O L shall mee^ with Z P L at the
+Point L; the Line L F shall b^ one Line which ought to pass by the Center of
+the Dial.
+
+If the Center of the Dial that is to be found, b^ more North than the Point of
+the Style; and (...) the Declination be more North, having made the Angle c s b
+equal to the Sum of a Right Angle and of the Declination of the Sun at the tim^
+when we have marked the Points of Shadow; bu^ if the Declination be South,
+having made the Ang^^^ c s b equal to the difference of those Two Angle
+
+And if the Center of the Dial required be mo^^ South than the Point of the
+Style, and the Decl^nation be North, having made the Angle c s b ^^qual to the
+Difference of a Right Angle and D^^clination of the Sun, but if the Declination
+be South having made that Angle equal to the Sum of the two Angles.
+
+Let s b be made equal to S B, and from the Point b having drawn b d
+perpendicular to (...) prolonged, if it be necessary: from the Point B, and at
+the Distance b d describe the Arch D cutting Z F in D, then making d e equal to
+D E draw the strait Line s e.
+
+From the Point P draw P I N perpendicular to L, and make I N equal to I S, and
+draw F N, ^en draw N C, making an Angle with F N equal the Angle e s c, the
+Line N C shall meet with ^e Line F L, at the Point C, the Center of the ^ial if
+it have a Center, and the same Line C N ^etermines the inclination of the Axis
+upon the ^ine C F on a Plane which is inclined to the ^lane of the Dial toward
+P, with an Angle equal (...) S I P.
+
+And C P shall be the Substylar Line, the Equinoctial Line may be found by the
+Practice of the 11th Chapter.
+
+But if the Dial have no Center, which is known by the Line N C being parallel
+to the Line F L; or if the Center be at a great Distance from the Point P: Then
+draw the Line T V X parallel to P N, and make V X equal to V T, and draw ^ X
+cutting V I in M, and draw P M meeting T V in Y, and make V y equal to V Y, and
+y P shall be the Substylar Line. The Equinoctial Line is drawn by the Practice
+of the 11th Chapter.
+
+To find the Center by three Points of Shadow.
+Having marked three Points of Shadow, we ^ay find the Line F L by two of those
+Points which shall pass through the Center, and by one of ^ose Points and the
+third, we may find also ano^^er Line which shall pass through the Center; and the
+Point where these two Lines do meet, shall be the Center of the Dial.
+
+This Practice may be performed without knowing the Declination of the Sun.
+
+The Center being found, and consequently the Substylar Line which passes through
+the Center an^ by the Point P, the Equinoctial Line is draw^ by the Practice of
+the 11th Chapter.
+
+Demonstration.
+Fig. 11. To demonstrate this Practice, w^ must suppose that the Triangle A S B
+in the 11th Figure to be the same with the Triang A Z B of the 10th Figure, so
+as the Point Z joined to the Point of the Style, and that the Line A B remains
+in its position.
+
+It is evident that all the Planes that are perpe^ dicular to the Plane of the
+Triangle S A B an^ which passes by the Point of the Style S, interse^^ one
+another in the Line S L, which is raised pe^pendicular to the Point S upon the
+Plane of the Triangle: Therefore the Plane L S F is perpendicular to the Plane
+S A B, and I say that the A^ is of the Dial, and consequently the Center, shall
+be in that Plane L S F.
+
+For the Line S F divides the Angle A S B i^ to two equal parts; and S B being
+equal to S ^ the two Triangles S B D, S H D, being equ^ each and like to the
+Triangle s b d of the 10^ Figure, and being joined together by their common
+side S D, that Line S D shall be the Ax^^ in its true position, and the Arch of
+a Circle B ^ ^^scribed from the Center D at the Distance D B, ^^all be the
+parallel of the Sun, for the Angle B D is equal to the Suns Declination.
+
+But in these two Equicrural Triangles H S B, (...) D B, because that the
+common Base B H is equally divided in the Point E, the Plane that passes by the
+Lines E S, E D, shall be perpendicular to the Planes of the two Triangles,
+therefore the Plane which is perpendicular to the Planes of the two Triangles,
+and that passes by their Vertical Points S D, shall carry the Axis: but the
+Plane that passes by the Point S, and by the Point E, and which shall be
+perpendicular to the Plane of the Triangle H S B, shall be also perpendicular
+to the Plane of the other Triangle.
+
+Therefore the Axis shall be in the Plane F L S that is perpendicular to the
+Plane of the Triangle A S B, and which passes by the strait Line S E F, and
+consequently the Axis meets ^ith the strait Line F L in some Point, or is
+parallel to it, and the Point C where the Axis meets with the Line F L shall be
+the Center of the Dial, which was to be demonstrated.
+
+Then to demonstrate the Practice which serves to find the Center of the Dial,
+we must consider that B H being the Chord of the Arch of the parallel of the
+Suns Declination contained between the two Lines of Shadow S A, S B, and the
+Line B D being equal to the Line b d, and d e being equal to D E, the Triangle
+s d e is the same with the Triangle S D E of the 11th Figure.
+
+Therefore the Angle c s e is that which the Axis ought to make with the Line F
+L on a Plane which passes by that Line F L, and by S the Point of the Style.
+
+Therefore in the 10th Figure the Triangle F C N having the Line I N equal to I
+S of the Triangle F S C, and being both of them perpendicular to the common
+Line I L, and by the same Point I, and the Angle F N C being equal to the Angle
+e s c, the Point c shall be the Center of the Dial, if the Line N C meet with
+the Line I L, which was that which was a^^ last to be demonstrated. We suppose
+that i^ this Practice the Difference of Declination between the Observations is
+not considerabl^ changed.
+
+As concerning the Practice which serves t^ find the Substylar Line, when the
+Point C is a^ a great Distance from the Point P, or when the Dial has no
+Center; it is evident by Construct^on that T V being to V Y as N I is to I P,
+the Lines N T and P y ought to meet one another in the same Point C, which
+shall be the Center or they shall be parallel to one another, and the the Dial
+shall have no Center.
+
+12.th Fig.
+
+
+CHAP. XI.
+To find the Center of the Dial, and to draw the Equinoctial Line.
+The Substylar Line being drawn, and one Point of Shadow being given, with the
+Declination of the Sun. AND To draw the Equinoctial Line the Center of the Dial
+being found. AND To find the Center of the Dial, the Equinoctial Line being
+drawn.
+^ig. 12. LEt a Style be placed on the Plane of the Dial, whose Foot let be P,
+and ^^int S, and Point of Shadow A, and Substy^ Line C P.
+
+Make the Angle d s a equal to the Sum or ^fference of a Right Angle, and of
+the Suns ^clination, as we have done in the Practice of ^e 6th Chapter, s a
+being made equal to S A, ^^ke any Point as d upon the Line s d, and draw ^^e
+strait Line a d.
+
+From the Point A draw the strait Line A R perpendicular to the Substylar Line
+C P, and from the same Point A as a Center, and at the Distance a d, describe
+the Arch N cutting the Substylar Line in N.
+
+From the Point R as a Center, and at the Distance R N, describe the Arch N D;
+erect the perpendicular P Z at Right Angles to the Substylar Line, and equal to
+P S the height of the Style, then from the Point Z as a Center at the Distance
+s d, describe the Arch G D cutting the Arch N D in D: The Line Z D determines
+the situation of the Axis in respect of the Substylar Line, and if it meets
+with the Substylar Line as at the Point C, that Point C shall be the Center of
+the Dial.
+
+Then from the Point Z draw the strait Line Z E perpendicular to Z D, meeting
+the Substylar Line in E, the Line V E perpendicular to the Substylar Line drawn
+through the Point E, shall be the Equinoctial Line.
+
+If the Center of the Dial were given, the Line C P shall be the Substylar
+Line, and P Z being perpendicular to the Substylar Line, and equal to the
+height of the Style, having drawn C Z and Z E perpendicular to C Z, meeting the
+Substylar Line in E, the Line V E being drawn perpendicular to the Substylar
+through the Point E, shall be the Equinoctial Line.
+
+If the Equinoctial Line were given, draw the strait Line P E by the Foot of
+the Style perpendicular to the Equinoctial Line V E, and P E shall be the
+Substylar Line; and having made P Z perpendicular to the Substylar Line P E
+drawn by P the Foot of the Style, and equal to the height of the Style, having
+drawn Z E and Z D perpendicular to Z E, the Line Z D determines the inclination
+or position of the Axis with the Substylar Line; and if Z D meets the Substylar
+Line as at C, that Point C shall be the Center of the Dial.
+
+The Demonstration of these Three Practices has nothing in it that deserves to
+be explained after the foregoing Demonstrations; for we may sufficiently know
+that the Triangle E Z C is the same with E S C which was upon the Plane, which
+was drawn by the Point of the Style, and by the Substylar Line.
+
+CHAP. XII.
+To draw the Equinoctial Line, and the Substylar Line, and to find the Center
+of the Dial.
+Any Two Points of Shadow being given with the Declination of the Sun.
+Fig. 13. LEt a Style be set on the Plane of the Dial, whose Foot may be P, and
+Point S, and let the Two Points of Shadow be A and B.
+
+Make the Angle as f equal to the Declination of the Sun at the time when we
+have marked the Point of Shadow A, and make s a equal to S A, and on the Point
+A as a Center describe the Arch M L at any Distance; and on the Point a
+describe the Arch l m equal to the Arch L M.
+
+Then by the Point A draw several strait Line^ as A L, A M, toward the place
+where the Equinoctial ought to pass, which may be known by the Declination
+being North or South, and knowing near the position of the Wall in regard of
+the Axis.
+
+13.th Fig.
+
+
+Then from the Point s as a Center, and to (...) Distance S M, describe the
+Arch m cutting ^e Circle l m in m; then having drawn a m ^eting s f in f, make
+A F equal to a f: Also make s l equal to S L, having drawn a l cutting s f in
+d, make A D equal to a d, and so of all the other Lines which we have drawn by
+the Point A, by which we find the Points as F D, and by all those Points as F D
+we draw a Curve Line F D.
+
+We do the same thing for the Point of Shadow B, about which we draw a Curve
+Line I G, and the strait Line D C, which touches the two Curves, shall be the
+Equinoctial.
+
+By the Practice of the afore-going Chapter we draw the Substyle, and find the
+Center of the Dial (if it has a Center) with the inclination of the Axis to the
+Substylar Line.
+
+Demonstration.
+The Demonstration of this Practice is not difficult to those who understand
+the Conique Sections; they will presently conceive that these Curve ^ines,
+which are traced about by the Points of ^badow, are the Sections of an upright
+Cone, whereof the Angle at the Vertex of the Triangle ^^awn by the Axis is
+double the Declination of the San.
+
+The Axis of the Cone is a strait Line drawn from the Point of the Style to the
+Point of Shadow.
+
+Then if we conceive that there is a Plane which touches these two Cones both
+together, and which passes by their Vertex, as is the Point of the Style; that
+Plane shall be the Equinoctial; for the Plane that passes by the Axis of the
+Cone, and by the Line, where the touching Plane meets the Cone, shall be
+perpendicular to the touching Plane, as may easily be seen; and the Angle
+contained between the Axis of the Come and the Tangent Line, being the
+Declination of the Sun by Construction, the touching Plane shall necessarily be
+the Plane of the Equinoctial.
+
+14. Fig.
+
+
+CHAP. XIII.
+(...) find the Points of the Hours of 6 and 12 on the Equinoctial Line, and to
+draw the Meridian Line.
+The Equinoctial and Horizontal Line being given. Or to draw the Meridian, the
+Center of the Dial being given.
+Fig. 14. LEt P S be the height of the Style, whereof P is the Foot and S the
+Point, and let N L be the Horizontal Line, and M N the Equinoctial Line; the
+Point N where the Equinoctial Line meets with the Horizontal Line, is the Point
+where the Line of the Hour (...) 6 intersects the Equinoctial Line.
+
+From the Center N, and at the Distance N S, equal to the height of the Style,
+describe the Arch K H, and taking any Point as O in the Equinoctial Line for a
+Center, at the Distance O (...) describe the Arch I H intersecting the Arch ^ H
+in H, then draw the strait Line N H, and H M perpendicular to N H; the Point M
+where H M meets the Equinoctial Line, is the Point where the Meridian Line
+ought to intersect the Equinoctial Line.
+
+Then having hanged up a Line with a Plummet F, so as the Line may pass by S
+the Poin of the Style, mark any Point as C, on the Plane of the Dial, so as you
+may see with o^ Eye the Points M and C both hid together b^ the Line of the
+Plummet, and this is that which we call bourning, and the Line MC shall b^ the
+Meridian Line.
+
+But if the Center of the Dial were given, an^ that it were the Point C, we
+must mark some Poin^ as Mon the Plane of the Dial, which we may se^ to pass by
+the Line of the Plummet with the Poin^ C, and the Line C M shall be the
+Meridian.
+
+We may also draw this Meridian Line in the Night with a Candle, in holding it
+at a d^stance from the Line of the Plummet, so as the Shadow thereof may pass
+by M or by the Poin^ C which of them is given: For the Shadow (...) that Line
+shall be the Meridian Line.
+
+Demonstration.
+The Horizontal Circle cuts the Equinoctial Circle into two equal parts and
+equally distant from t^^ meeting of the Meridian with those Circles; for t^^
+Equinoctial is perpendicular to the Axis, and t^^ Horizontal is perpendicular
+to the Vertical Lin^ and the Meridian passes by the Axis and by the Vertical
+Line; Therefore the Horizontal Line cu^^ the Equinoctial Line in the same Point
+where the Hour Circle of 6 meets with them, which i^ 90 degrees from the
+Meridian on the same Equinoctial 15.th Fig.
+Circle; therefore the Line and Plummet ^^ing a part of the Vertical, the Plane
+that passes (...) that Line, and by a Point of the Meridian or of the Axis,
+shall be the Plane of the Meridian, the Intersection whereof with the Plane of
+the Dial is the Meridian Line.
+
+CHAP. XIV.
+To draw the Meridian Line, and to find the Point of the Hour Line of six on
+the Horizontal Line.
+Only one Point of Shadow being given, with the height of the Pole, and the
+Declination of the Sun.
+Fig. 15. A Style being given, whereof let S be the Point, P the Foot, being
+placed on the Plane of the Dial, draw the Horizontal Line H h, and from the
+Point P draw P H perpendicular to H h, and draw P Z parallel to H h, and equal
+to P S the height of the Style, and make H E equal to H Z.
+
+Then having marked the Point of Shadow A, as far from Noon as it is possible,
+hang a Plummet T, so as the Line thereof may pass by S the ^oint of the Style,
+and bourn it (as we did in the foregoing Practice for the Meridian) mark the
+Point h on the Horizontal Line, by which you see the Line pass, then when it
+also passe^ by the Point of Shadow A, and then draw the strait Line h E.
+
+Then draw an Arch of a Circle z o f on the Center c at any Distance, and make
+z o equal (...) the height of the Pole above the Horizon, an^ draw the Lines o
+c, z c, to c the Center of the Circle.
+
+Let the Arch o m be made equal to the D^clination of the Sun at the time when
+the Poin^ of Shadow was made toward Z, if the Sun b^ in North Signs, and toward
+f if it be in South Signs, for those that have their Zenith in the North part
+of the Sphere; but on the contra^^ for those that have it in the South part;
+and draw^ a m parallel to o c.
+
+Draw c f perpendicular to c z from the Center c, and make the Angle d c f
+equal to the Angle h S A, and draw the Linde d e parallel to f c, meeting c z
+in e and a m in a.
+
+On the Point E as a Center, at the Distance de^ describe the Circle B D,
+meeting E h (prolonged i^ it be necessary) at the Point B make B M equa^ to d
+a, and from M raise D M perpendicular to E B, intersecting the Circle BD in D,
+then draw E D (prolonged if it be necessary) and the Point F where it
+intersects the Horizontal Line, shall be the Point of the Meridian upon the
+Horizon.
+
+And E G being drawn perpendicular to E D, gives the Point G where the Hour
+Line of six meets with the Horizontal Line.
+
+It must be observed that the Line M D which ^s drawn perpendicular to B E, may
+meet with the Circle B D on either side of the Point B; but you must take care
+that if the Point of Shadow A, ^s marked before Noon, to make use of the Point
+D, which is on the right hand of the Point B ^s in the Example, and if the
+Point A were marked after Noon, you must take the Point D where M D meets the
+Circle on the left hand of B ^o have the position of the Meridian Line; if D E
+meets not the Horizontal Line, but then when it (...) prolonged toward E, the
+Point F shall apper^^in to the Line of Midnight: All this ought to ^^e
+understood concerning those that have their Zenith on the North side of the
+Equinoctial, for (...) is contrary with those which have their Zenith ^n the
+Southern Hemisphere.
+
+If the Line E D meets not the Horizontal Line ^eing likewise prolonged toward
+E, then the Dial ^^all have no Line of Midday nor of Midnight, and the Plane
+of the Dial shall be either Oriental ^r Occidental.
+
+It is also to be observed that the Angle H E F made by the Line E D with the
+Horizontal Line E H, is the Angle of the Declination of the Plane.
+
+By the foregoing Practice the Meridian Line or the Line of Midnight may be
+drawn by the Point F.
+
+Demonstration.
+The Figure f m z c is a Projection of the Sphere on a Plane by Lines parallel
+to one another, which Projection is called the Analemma; the Circle f m (...)
+represents the Meridian, and the Point Z the Zenith^ o c the Equinoctial Line,
+a m the parallel of the Suns Declination at the time when the Point of Shadow A
+was marked, c f the Horizontal Line* d a e the parallel of the Suns Altitude at
+the sam^ time, and the Point a determines in the Sphere the place where then
+the Sun was.
+
+If a Verticle Circle z a g be conceived to p^^ through the Point ato the
+Horizon in g, it is ^^nifest that the Line f g in the Circle whose Radius (...)
+f c, shall be the Versed Sine of the Angle whi^ the Verticle Circle z a g makes
+with the Merid^^ Circle a d f, and that d a shall be the same Verse Sine in the
+Circle, whose Radius is d e.
+
+Therefore if we conceived the Plane h E F D (...) be the Plane of the
+Horizontal Circle, we may s^^ by Construction that the Line E F D is the
+Meri^^an on that Plane, and that the Point F is in (...) Plane of the Dial, the
+Point of the Meridian wh^^^ it meets with the Horizon, and that the Point (...)
+is the Point where the Hour of six cuts the Horizon seeing that F E G is a
+Right Angle; for B M (...) qual to d a is the Versed Sine of the Angle B E D
+which ought by consequence to be equal to the Ang^^ which is made by the
+Meridian with the Virtue Circle.
+
+16.th Fig.
+
+
+CHAP. XV.
+To draw the Meridian Line. Two Points of Shadow being given in a certain
+condition.
+Fig. 16. HAving fixed a Style on the Plane of the Dial, whereof let P be the
+Foot and S the Point, draw the Horizontal Line H h by the Fourth Chapter, and
+from the Point P draw P Z parallel to h H, and equal to P S the height of the
+Style, and having drawn the strait Line Z H, draw Z C perpendicular to it.
+
+Then the Point of Shadow A being marked 3 or 4 hours before Noon, to the
+intent that the Operation may be more exact, let A B be drawn perpendicular to
+Z C.
+
+Then make B E equal to B C, and C D equal to E A, and draw Z D.
+
+By the place where you judge something near that the Shadow of the Point S
+will arrive when the Sun shall be so far from Noon as it was when the Point of
+Shadow A was marked, draw many strait Lines as Q F perpendicular to H P, and by
+the Points F where they intersect H P, draw I F R perpendicular to Z C, and
+making F G equal to F R, from the Point G as a Center, and at the Distance R I
+describe an Arch Q, which shall cut F Q in the Point Q, and so we may find as
+many Points Q as we will; and by all these Points drawing a Curve Line Q Q, we
+mark the second Point of Shadow O, then when the Shadow of the Point of the
+Style S meets with the Curve Q Q.
+
+Then draw the Line A O, and on the Point A as a Center, and at the distance A
+S describe the Arch X Y, also from the Point O at the distance O S describe the
+Arch X N, cutting the Arch X Y in X, and draw X A, X O; then divide the Angle A
+X O into two equal parts by the Line X M, which shall meet with A O in M, the
+Point M shall be one of the Points of the Meridian Line, and by the Practice of
+the 13th Chapter we may draw the Meridian Line, which ought to pass by the
+Point M.
+
+We suppose in this Practice that the Suns Declination has not changed
+considerably between the two Observations of the Points of Shadow A and O.
+
+Demonstration.
+The Curve Line O Q Q which ought to pass by the Point V, as is easy to
+understand by the Description, shall also pass by the Point A, if we make the
+Description thereof on the other side of the Line P H; and it is the Section of
+a Right Cone, whereof the Vertex is the Point S, and D Z C the half of the
+Triangle which passes by the Axis, couched upon the Plane of the Dial, and
+whereof Z C represents the Axis, the Angle D Z C is the Complement of the
+height of the Sun above the Horizon at the time when the Point A was marked,
+and the Lines as I R are the Sections of (...) Planes parallel to the Base of
+the Cone with its ^^iangle by the Axis, and upon which the Secti^^ of the Cone
+is a Circle, and the Intersections (...) those Circles with the Plane of the
+Dial are the Points Q. which are in the Superficies of the Cone and
+consequently in the Conique Section A V Q Q whereof H V P is the Axis: But this
+Conique Section represents the parallel to the Horizon where the Sun was found
+at the time of the two Observations of the Shadow in A and O; Therefore the
+Line X M which divides the Angle A X O into two equal parts, is the
+Intersection of the Meridian with the Plane A O S, for that Line shall divide
+(...) Chord of that Angle; the Point M is there^^^ one of the Points of the
+Meridian Line on the ^^me of the Dial, in supposing the Declina^^^ of the Sun
+to be the same for the two Points of ^^adow A and O.
+
+CHAP. XVI.
+To find the C^nter of the Dial or determine the Inclination the Axis with the
+Meridian, to draw the Substylar and Equinoctial Lines.
+The Meridian being found, and the height of the Pole being given.
+Fig. 17. LEt the Point P be the Foot of the Style whereof S is the Point, and
+let M T be the Meridian. Draw the Honzontal Line H h intersecting the Meridian
+Lin^ in T; and from the Point T as a Center at the distance T S describe the
+Arch B A, and feom an^ Point of the Meridian as M, at the Distance M (...)
+describe the Arch D A intersecting the Arch B (...) in the Point A, and draw
+the strait Line A T, then make the Angle T A C equal to the heigh of the Pole
+above the Horizon which is he^^ given; if the Line A C meets with the Meridian,
+as at the Point C, then C shall be the Center of the Dial, and the same Line A
+C in the Position determines the Inclination of the Axi^ with the Meridian
+Line; And c P shall be the Substylar Line.
+
+17.th Fig.
+
+
+From the Point A draw A E perpendicular (...) A C, intersecting the Meridian
+Line in E, and the Line E V drawn through the Point E perpendicular to the
+Substylar Line C P, shall be the Equinoctial Line.
+
+But if the Dial have no Center, draw the Line R P G at pleasure through the Point
+P meeting with the Meridian in G, and with the Line A C in R, then draw another
+Line O N parallel to R G, meeting the same Lines at the Points N and O; and
+draw the strait Lines R N and G O intersecting one another in the Point (...),
+and make R p equal to G P, and draw p F to meet with the Line O N in Q; and P Q
+shall be the Substylar Line, and the Equinoctial Line is found as before.
+
+Demonstration.
+By the Construction it is manifest that the Line A T represents the
+Intersection of the Horizontal Plane on the Plane of the Meridian, therefore
+the ^ngle T A C being equal to the height of the ^^le above the Horizon, it is
+manifest that the ^^ne A C determines the Inclination of the Axis ^ith the
+Meridian M T; therefore consequently the Point C shall be the Center of the
+Dial if the Line A C meets with the Meridian Line: But the Line A E which is
+perpendicular to A C which represents the Axis, shall be the Intersection of
+the Plane of the Equator and Meridian; therefore the Point E shall be one of
+the Points of the Equinoctial Line on the Meridian Line; but the Equinoctial
+Line ought always to be perpendicular to the Substylar Line, wherefore E V
+shall be the Equinoctial Line.
+
+If we have not the Center of the Dial, we have drawn R P G and O Q N parallel
+to one another, and R N, G O, intersecting in F, and p F Q passing through the
+same Point F, then by reason of the like Triangles we have R G to O N as R p or
+G P to Q N; therefore P Q, M T, TO ought to meet in one and the same Point C,
+which shall be the Center of the Dial, or else they shall be all three parallel
+to one another, and then the Dial shall have no Center.
+
+18.th Fig.
+
+
+CHAP. XVII.
+Remarques and Practices for diverse Abridgments in the Operations of the
+foregoing Chapters.
+I.
+Fig. 18. HAving found the Substylar Line p e and the Equinoctial Line e u for
+the Style s p, if you would remove the Substylar and Equinoctial Lines to
+another place of the Plane of the Dial; the Line P E parallel to p e shall be
+another Substylar Line, and V E parallel to e u or perpendicular to P E passing
+through any Point of the Substylar Line P E, shall be the Equinoctial Line, and we
+determine by the following Method the Position of a Style for the two Lines P
+E, E V, whereof the height shall be given of any length, or we will determine
+the height of a Style whereof the Position shall be given upon the Substylar
+Line P E.
+
+First, Let the Line A R be given for the height of the Style, which ought to
+be set for the Substylar and Equinoctial Lines P E, E V.
+
+Make E P equal to e p, and set it the same way (that is the Point P must be
+set above the Point E if the Point p be above the Point e, and below it, if it
+be below it) and make E Z equal to p s, and E Z equal to R A given, and draw z
+P and Z R parallel to Z P, meeting E P in R; and the Point R shall be the Foot
+of the Style, the height whereof R A is given.
+
+Therefore if you fix a Style, whereof the Foot may be R, and the Distance
+between the Point thereof A and Foot R, may be the height equal to the Line Z
+E, the Proposition is satisfied.
+
+But if the Point R were given for the Foot of the Style, and the height were
+required: dra^ P Z as before, and by the Point R draw R Z parallel to P z, and
+E Z shall be the height of the Style whose Foot is the given Point R.
+
+II.
+The Substylar Line C E, the Equinoctial Line E V, and the Meridian Line C M,
+answerable to the Style S P being given, we may take what Point we will in the
+Substylar Line as K, to the Center of the Dial, without altering the Substylar
+Line or Equinoctial, and the Line K m drawn parallel to C M shall be the
+Meridian Line, but the height and position of the Style must be changed by the
+following Method.
+
+Make E z equal to P S, and draw M P and P Z, and draw m R and R Z parallels to
+M P and P Z, and the Point R shall be on the Substylar Line, which is the Foot
+of the Style, whereof the height is R Z perpendicular to the Point R on the
+Plane of the Dial.
+
+III.
+If the Substylar Line C E were given with the Meridian Line C M answering to
+the Style P S, we may take any Point as p to be the Foot of a Style, whereof
+the height is to be determined; or the Style being given of any height to
+determine the Position of the Foot p without changing either the Meridian or
+the Center of the Dial.
+
+If the Foot of the Style p be given, and we are to determine its height, by
+the Foot of the Style P, put for the finding of the Meridian and Substylar
+Line, let there be drawn P S perpendicular to the Substylar Line and equal to
+the height of the same Style, and let C S be drawn by the Center of the Dial;
+and from the given Point p let p s be drawn parallel to P S, till it meet C S
+in the Point s, and p s shall be the length of the height of the Style, which
+ought to be placed at the Point p, and the Meridian C M and the Center of the
+Dial C are not changed.
+
+But if p s were given for the height of the Style, it must be put upon P S
+prolonged if it be necessary in P z, and z s must be drawn parallel to C P to
+meet with the Line C S in m s, and s p being drawn parallel to S P, shall give
+the Point p on the Substylar Line for the Foot of the Style required, whereof
+the height is given.
+
+IV.
+Fig. 19. The Meridian C M being given, with the Equinoctial Line E M, we may
+find another Equinoctial as e m, without changing the Meridian, the which
+Equinoctial e m shall make the Angle e m C with the Meridian C M equal to the
+Angle E M C, but we must find another Style by the following Method.
+
+If the Center of the Dial be given at the Point C, by the Foot of the Style P
+which have served to find the Meridian and the Center C, having drawn P S
+perpendicular to the Substylar Line CP, and equal in length to the same Style,
+let e s be drawn parallel to E S, and from the Point s draw s p parallel to S
+P, meeting the Substylar Line in the Point p, which shall be the Foot of the
+Style required, whereof p s shall be the height.
+
+But if we have not the Center of the Dial, we must draw the Line S s by the
+Point S which determines the Inclination of the Axis with the 20th Fig.
+Substylar Line, by the Practice of the 16th Chap^^^, and we shall find as
+before the Point p for (...) Foot of the Style required, whereof the ^ight
+shall be p s.
+
+V.
+Fig. 20. If after you have drawn the Meridian Line C M and the Substylar Line
+B P, we can^^t have the Equinoctial, because the Style has ^een put too long,
+we may diminish it as much (...) we please, without changing either the Foot
+^^ereof or the Substylar Line; but we must find another Meridian and another
+Horizontal Line which may answer to that Style, and these Meridian and
+Horizontal Lines shall be parallel to the first Meridian and Horizontal Lines.
+
+Therefore draw the Line e m M by any Point (...) the Substylar Line as e,
+which may be perpendicular to it, that Line may be the Equinocti^^ Line; but
+the height of the Style must be ^^anged in drawing e s perpendicular to the
+Line (...) s which determines the inclination of the Axis ^ith the Substyle,
+and that Line e s meeting SP which is a perpendicular to the Substylar Line by
+^^e Foot of the Style, and which is his height, (...) that for the Equinoctial
+Line e m, P z shall be the height of the Style required; but there must ^e
+another Meridian found, whether the Center of the Dial be found or not found.
+
+Take on the Substyle the length e B equal to e draw B M, and also take e b on
+the Substyla Line equal to e z, and by the Point b draw b (...) parallel to B M
+meeting the Equinoctial Lin^ e m in the Point m, and let c m be drawn parallel
+to C M, the Line c m shall be the Meridian for the Style, whereof the Foot is
+in P, the heigh is P z, and the Equinoctial Line e m.
+
+And we may yet change if we will the Foo^ of the Style or its height,
+according as necessity requires by the former Observarions.
+
+But for the Horizontal Line D H which ha^ been found for the Style whose Foot
+was P and P S the height, the which meets the Substyle a^^ the Point H, if you
+would find another for the Style whose height is P z, without placing
+effectually that Style to make use of the Practic^ taught in the 4th Chapter;
+you have no more t^ do but to draw S H, and by the Point z the Lin^ Z h
+parallel to S H meeting the Substyle in h (...) and the Line d h parallel to D
+H, shall be the Horizontal Line required.
+
+VI.
+Lastly, a Dial being drawn on a Plane, we may transfer it in what other place
+we will on the same Plane, by drawing of parallel Lines to those that are
+drawn, so that we keep the same order and the same proportion between them in
+their meetings, but the Style ought to be put at the Poi^^ which answers to the
+Point of the first, which for its Foot.
+
+THE SECOND PART.
+THE PREFACE.
+Concerning the choice which we ought to make of the Practices to draw the
+Substylar, Equinoctial, and Meridian Lines; and to place the Center of the
+Dial, according to the Expositions of the Planes proposed.
+HAving taught in the first Part of this Treatise different Practices to find
+the principal Lines of Sun Dials, I think it will not be amiss to give some
+Instructions concerning the Use which we may make of these Practices, following
+the different Expositions of the Planes proposed on which the Sun Dials are to
+be drawn.
+
+Therefore it is necessary to know something near, the Position of the Plane in
+regard of North or South before we begin any thing; which may be done by a
+small Declinatory, which presently shows on what side the North, South, East or
+West is; which those that are used to observe the Sun, may know by seeing in
+what manner i^ shines upon the Plane according to the Hour and Season of the
+Year.
+
+Then we may well conceive after what manner the Axis shall meet with that
+Surface, an consequently we may judge of the Position (...) the Substylar Line,
+of the Equinoctial, and also of the whole Dial.
+
+But considering a Dial wholly made, it is not difficult to know among diverse
+manners which we may use, that may be most fit and most easy for the
+Construction of the Dial.
+
+Therefore we may presently see that it will be useless to find the Center of a
+Dial or the Meridian on a Plane which comes near either to the East or West,
+and that the Equinoctial Line being set on such a Plane, we need not find the
+Point of Midday, and that we must use the Point of the Sixth Hour to begin the
+Divisions of the Horary Intervals on that Line, or on the Horizontal Line.
+
+Also we may see that on these sorts of Planes we cannot use the Practices
+where we ought to have the Points of Shadows after Midday, which may be
+answerable to others taken in the Morning; for that which is of those which
+give the Position of the Meridian of the Plane, the Substylar Line, by the
+correspondent Points, we can never fitly make use of them on these sorts of
+Planes: For if the first Point has been marked a little too far from that
+Meridian, we can never have it is correspondent Point.
+
+Also we must not use the Practices of correspondent Points of Shadows, or the
+Tract of the Shadow, if the Circle that is described from the Foot of the Style
+as a Center, meets that Tract in Angles too acute; for we cannot determine
+exactly that meeting, and this inconvenience may happen to the Practices on all
+sorts of Planes in any Season of the Year.
+
+If the Dial be large, or if the Declination o^ the Sun has changed
+considerably between the Observations of the Points of Shadow, we have not
+exactly the Lines which we seek by those Practices where we suppose that it
+has not been changed between the Observations.
+
+In the Practices of this Second Part we suppose always that the Equinoctial
+Line or Horizontal Line is drawn, and that we have marked on that Line the
+Point where the Hour of 12 or 6 meets with it; at which Points we begin the
+Division of the Hours on those Lines; but to draw them we must have the Center
+of the Dial, or at least the Inclination of the Axis to the Substylar Line,
+which has been taught in the First Part.
+
+CHAP. I.
+To mark the Points of the Astronomique Hours on the Equinoctial Line and by
+those Points to draw the Hou^ Lines.
+Fig. 21. LEt S P be a Style, whereof S is the Point and P the Foot, E XII, i^
+the Equinoctial Line; on which the Point XII is the meeting of the Equinoctial
+with the Meridian, and the Point VI is the meeting thereof with the Hour of Six
+and with the Horizon; P E^ is the Substylar Line which meets with the
+Equinoctial in E.
+
+Make EA on the Substyle equal to E S, which is the Distance between the Point
+E of the Equinoctial and S the Point of the Style, and draw A XII or A VI, or
+both of them, if you have those two Poinss on the Equinoctial Line; the which
+two Lines A XII, A VI, ought to make a Right Angle at the Point A; then on the
+Point A as a Center, at any Distance describe an Arch of a Circle b c, which
+shall cut the Lines A XII and A VI at the Points b and c, and divide the Circle
+from 15 to 15 Degrees, beginning at 21.st Fig.
+the Point b, or at the Point C; then draw strait Lines from the Center A, and
+by the Points of the Division of the Circle, which must be prolonged, if it be
+necessary, to the Equinoctial Line, on which it shall give the Division of the
+Hours which are to be marked, according to the apparent motion of the Sun from
+East to West.
+
+Then by the Center of the Dial, and by the Points of the Hours which are
+marked upon the Equinoctial Line, draw strait Lines, which shall be the Hour
+Lines.
+
+But if we have not the Center of the Dial, and we have only the Inclination of
+the Axis Z z to the Substylar Line e E, you must take any Point, as e, on the
+Substylar Line, and by that Point e having drawn a strait Line e 12, parallel
+to the Equinoctial Line E XII; and drawing e z perpendicular to Z z, make e a
+equal to e z, and by the Point a draw the strait Lines a 11, a 12, a 1, etc.
+parallel to the Lines A XI, A XII, A I, etc. and by these Points, where these
+Lines meets with the Line e 12, and by those which are correspondent to them on
+the Equinoctial Line, draw the Hour Lines 11 XI, 12 XII, 1 I, 2 II, etc.
+
+Demonstration.
+The Plane S XII E is the Plane of the Equinoctial by the Constructions of the
+First Part, and the Triangle A XII E being the same with the Triangle s XII E,
+we ought to put upon the Plane of the Triangle A XII E the Hour Lines 15
+Degrees the one from the other about the Point A, in beginning from the Line A
+XII or A VI, which are the Intersections of the Plane of the Meridian, or of
+the Plane of the Hour Circle with the Plane of the Equinoctial; but all the
+Planes of the Hour Circles intersect one another in the Axis, and do also pass
+by the Center of the Dial which is the meeting of the Axis with the Plane of
+the Dial: Therefore the strait Lines drawn from the Center of the Dial to the
+Points of the Hours marked on the Equinoctial Line shall be the Hour Lines of
+the Dial, if the Dial has no Center; or if the Center be at a great distance
+from the Equinoctial Line, the Practice that is here taught for that Case gives
+the Point^ on the Line e 12, which is parallel to the Equinoctial Line; so as
+all the distances of the Hour Lines on that Line e 12, are in the same
+proportion with their Distances on the Equinoctial Line, and the each of these
+Distances on the Line e 12 have the same proportion to their correspondent
+Distance on the Equinoctial Line, as the Line e z has to the Line E Z;
+therefore it follows that if the Dial have no Center all the Hour Lines are
+parallel to one another and to the Axis. And if it have a Center, all the Lines
+shall meet in that Center: which is very manifest, because of the like
+Triangles which are made by the Lines E XII, e 12, which are parallel to one
+another.
+
+22.d Fig.
+
+
+CHAP. II.
+To mark the Points of the Astronomique Hours on the Horizontal Line.
+And to draw the Hour Line by those Points.
+Fig. 22. S Is the Point of a Style given, whereof P is the Foot, M H D is the
+Horizontal Line, P H is drawn by the Poine P (the Foot of the Style)
+perpendicular to the Horizontal Line; M is that Point where the Meridian Line
+intersects the Horizontal Line, upon the Line H P set H s equal to H S, and
+draw the strait Line s M a, and make the Angle M s A equal to the Angle of the
+elevation of the Pole above the Horizon, then from any Point as A, taken on the
+Line s A, raise a perpendicular from 12 to s A, till it meet with s M in 12,
+and draw the Line 9, 12, 4, perpendicular to s a, and make 12 a equal to 12 A;
+and from the Point a, as a Center, describe a Circle at any Distance, and
+divide it into equal parts from 15 Degrees to 15 Degrees, beginning the
+Division where the Line a 12 intersects the Circle; and draw Lines from the
+Point a, to the Divisions of the Circle, to meet with the Line 9.4 at the
+Points 9, 10, 11, 12, 1, 2, 3, 4, etc. And by the same Points and the Point s,
+draw strait Lines which shall meet the Horizontal Line in the Points of the
+Hours required, which must be marked according to the Diurnal Motion of the
+Sun, of which the Point M shall be Noon, and D the Point of the Hour of Six.
+
+If the Line s D drawn perpendicular to s M meet with the Horizontal Line at
+the Point D, that Point shall be the Hour of Six on the Horizontal Line, which
+is the same Point where the Equinoctial Line ought to meet with the Horizontal
+Line, as has been taught in the First Part.
+
+If we have not the Point of Midday on the Horizontal Line, and we have but D
+the Point of the Hour of Six, then draw s D and s M perpendicular to s D, the
+which s M meets the Horizontal Line, or not in M, for it is indifferent; then
+we do the same as we did before to find the Points of the Hours on the
+Horizontal Line. We may see by this Practice that it is not necessary that the
+Line s M a should meet with the Horizontal Line.
+
+The Hour Lines are to be drawn from C the Center of the Dial, and by the
+Points of the Hours which have been found on the Horizontal Line.
+
+If the Dial have no Center, it is better to follow the Method of the precedent
+Chapter than this, seeing that we have always an Equinoctial Line in that Case.
+
+Demonstration.
+The Plane s M D is the same with the Plane S M D by Construction, which is the
+Plane of the Horizon; therefore all this Operation must be considered as made
+on the Plane of the Horizon which passes by the Point of the Style S, whereof s
+M is the Meridian given, or the Substylar Line, or s D is the Line of the Hour
+of Six, the Point s is the Center of the Dial, the Line s A is the Inclination
+of the Axis to the Substylar Line s M; therefore it is that taking the Point A
+at pleasure for the Point of the Style, by the Practice of the 11th Chapter the
+Line 9, 4, shall be the Equinoctial answering to the Point of the Style, and by
+the Practice the former Chapter the Lines s 12, s 1, s 2, etc. shall be the
+Hour Lines on that Plane, which meets the Horizontal Line M H D, which is also
+on the same Plane by Construction with the Points of the Hours which they
+design; therefore the Lines which are drawn through those Points of the Hours on
+the Horizontal Line, and by C the Center of the Dial, shall be the Hour Lines
+of the proposed Plane.
+
+CHAP. III.
+Six Intervals of Hours following one another being given, to draw all the
+other Hours.
+Fig. 23. AS let the Six Intervals of Hours from C A to C F be given, draw E e
+parallel to c 5, cutting c A in the Point A, C B in the Point B, C D in the
+Point D, etc. And make A b equal to A B, A d equal to A D, etc. And from the
+Center C, and through the Points b d e, etc. draw the Lines of the Hours that
+follow the precedent Hours.
+
+If also you would have other Hours following the first or last found, you must
+repeat the Operation in drawing another Line as E e parallel to that which is
+the last of the Six Intervals of Hours.
+
+If the Dial has no Center, you must draw another Line as s t parallel to E e,
+on which find the Points of the Hours as you found them on the Line E e, and in
+joining the Horary Points of the two parallel Lines E e and s t, you shall have
+the Hour Lines required.
+
+23.d Fig.
+
+
+Demonstration.
+If we imagine a Plane to pass by the Line E A e, and which is parallel to the
+Plane of the Hour Circle of the Line C 5, it is manifest that the Plane of the
+Hour Circle which passes by the Line C A, shall be perpendicular to the Plane
+that passes by E A e, because that the Planes of the Hour Circles C A, C 5, are
+inclined to one another by a Right Angle, and by consequence the Axis meets not
+with the Plane drawn by E A e, and it shall ^e parallel to it, and all the
+Lines which are the meetings of the Planes of the Hour Circles with the Plane
+that passes by E A e, shall be all parallel to one another and to the Axis.
+
+But because the Plane that passes by C A is perpendicular to the Plane by E A
+e, the meetings of the Hour Lines upon that last Plane shall be equally distant
+by order from the meeting of the Plane drawn by C A; that is to say, that the
+first ^^n one side shall be as far distant as the first on the other side, and
+that the second hour on one side shall be as much as the second hour on the
+other side, and so following in order; therefore the Line E A e which is on
+that Plane, meets the parallel Hour Line at equal distance by order, both on
+the one and the other side of the Point A, which was to be demonstrated.
+
+We may conceive the Plane that passes by E A e, as the Plane of a Dial which
+has no Center, upon which all the Hour Lines are parallels to one another and
+to the Axis; and that the Hour Line which passes by the Point A is the Meridian
+or the Substylar Line of the Plane; then we may see manifestly that the Hour
+Lines that are on one and the other side of that which passes through A, are
+equally distant from it in order, and by consequence if we draw a strait Line
+any way upon that Plane, the meetings of the Hour Lines both on the one side
+and on the other of that which passes by A, shall be at an equal Distance from
+A.
+
+CHAP. IV.
+To draw the Parallels of the Twelve Signs.
+Fig. 24. FIrst draw the Line s c and s a at Right Angles to it at the Point s,
+make the Angles a s d, a s k, each 23 Degrees 30 Minutes, and the Angles a s f,
+a s i, each of 20 Degrees 11 Minutes, and the Angles a s g, a s k, each of 11
+Degrees 30 Minutes, the Line s a denotes the Equinoctial, which is the
+beginning of Aries and of Libra; the Line s k denotes the 24.th Fig.
+beginning of Taurus and Virgo, s i the beginning of Gemini and Leo, s k the
+beginning of Cancer, which is the Tropic of the same Sign; s g the beginning
+of Scorpio and Pisces, s f the beginning of Sagittarius and Aquarius, s d the
+beginning of Capricorn, which is the Tropic of the same Sign.
+
+If the Center of the Dial be toward the North in regard to the Point of the
+Style, make s c equal to S C of the Dial, which is the distance between the
+Point of the Style and the Center, but if the Center be toward the South, in
+respect of the Point of the Style, make s c upon c s prolonged on the other
+side of the Point s.
+
+Then to find the Points of the Parallels of the Signs upon the Hour Lines; as
+for Example, On the Line of Midday, you must take the distance S XII from the
+Point of the Style S to the Point XII, which is the Intersection of the Line of
+Midday with the Equinoctial, and set it from s to 12 upon the Line s a, and
+having drawn the Line 12 which cuts the Lines of the Signs in the Points d, f,
+g, h, i, k, then we transport ^he Intervals 12 h, 12 i, 12 k, 12 g, 12 f, ^2 d,
+in XII H, XII I, XII K, XII G, XII F, XII D, on the one and other side of the
+Equinoctial Line, as they are on the two sides of the Line s a.
+
+And after the same manner having found the other Points upon each Hour Line,
+and likewise on the halves and quarters, or other Lines coming from the Center,
+we draw by all the Points which belong to the same Sign, the Line of the
+Parallel of the Sign, and so for each of them in particular.
+
+But if we have not the Intersection of the Equinoctial Line upon the Hour
+Line, on which you would have the Points of the Signs, in that case you may
+have always the Center of the Dial; therefore it it is, that having taken any
+Point, as R on the Hour Line, and having made the Triangle c s r on the Base c
+s equal, and like to the Triangle C R S on the Base C S, and the Line c r being
+continued if it be necessary, shall meet with the Lines of the Signs in those
+Points, which being set on the Dial, in observing from the Point C which is the
+Center, the same Distances which they have from the Point c.
+
+But if we have not the Center of the Dial, we may always have the Equinoctial
+Line; therefore, having taken (as for Example) the third Hour, on which we
+would have the Points of the Parallels of the Signs, then having taken the
+Point R at pleasure, and having marked s 3 on the Line s a equal to S III,
+which is the distance between the Point of the Style S, and the Point where the
+Line of the third Hour proposed intersects the Equinoctial Line; on that Line s
+3 for the Base let the Triangle s 3 r be made equal and like to the Triangle S
+III R, which has S III for its Base; and draw r 3 prolonged, which shall
+intersect the Lines of the Signs in Points which are to be 25.th Fig.
+transfered to the Line of the Third Hour, as we have taught here before.
+
+The Construction of this Practice is so plain, that it needs no Demonstration,
+for it is easy to see that the Plane c s 12 is the same with the Plane of the
+Hour Circle C S XII, and so of the rest.
+
+A part of an Arch of a Sign being given, which is Parallel to the Equator, we
+may describe that Arch by the Practice of the following Chapter.
+
+CHAP. V.
+The Equinoctial Line being given, we may draw a Parallel to it by a Point
+given on an Hour Line.
+Fig. 25. THe Equinoctial Line A G is given, and the Hour Lines a A, P B, c C,
+d D, etc. which intersect the Equinoctial in the Points A B C D, etc. and the
+Point P on one of the Hour Lines is also given, by which it is required to draw
+a Parallel to the Equator.
+
+By the Point P, and by the Point A, on the Equinoctial, the Point of the Hour
+next to B, on which is the given Point P, draw A P meeting with the next Hour
+to P B at the Point c, then draw c E, so as the Points E and A may be equally
+distant from the Hour c C; the intersection d of the Line c E with the Hour
+Line D d, shall be one of the Points of the required Parallel; after the same
+manner we find another Point f, and so of the rest.
+
+But here it is to be observed, that if there be only whole Hours on the Dial,
+we shall not have the Points of the Parallel but for every other Hour; and if
+we have the Lines of the half Hours, we shall have the Points of the Parallel
+from Hour to Hour, and if we have the Lines of the Quarter of Hours, we shall
+have the Points of the Parallel from Half Hour to Half Hour, and so of the
+rest; for if A P meet the Line of the half Hour s b at the Point s, having
+drawn s D so as b D and b A may be equal, s D shall meet the Hour Line c C at
+the Point K, which is as far from s b as P B, the Point K shall be one of the
+Points of the Parallel.
+
+If instead of the Equinoctial Line we have one of its Parallels, that parallel
+being given, we do the same thing as if it were the Equinoctial Line.
+
+26.th Fig.
+
+
+Demonstration.
+The strait Lines on the Plane of the Dial represent great Circles of the
+Sphere, therefore it is that the two great Circles represented by C A and by C
+E, which are equally inclined to the Hour Circle c C, because that C A and C E
+are equal, meeting P B and D d, which are equally distant and equally inclined
+to C c, in the Points P and d, equally distant from the Equinoctial Line B D,
+therefore P and d shall be in one and the same parallel to the Equator, and so
+of the other Points.
+
+CHAP. VI.
+To draw the Italian and Babilonian Hours upon an Horizontal Plane.
+Fig. 26. THe Astronomique Hours being drawn on the Dial whose Center is C, and
+the Meridian C A and V A the Equinoctial Line, c E being divided into two equal
+parts in A, let the Points b, c, d, e, f, g, h, etc. of a Parallel to the
+Equator, be found on the Hour Lines by the Practice of the foregoing Chapter,
+which Parallel passes by the Point A.
+
+The Line A 12 parallel to the Equinoctia^ shall be the Line of the 12th
+Italian Hour.
+
+The strait Line b VII, which passes by the Point of the Seventh Hour in the
+Morning of the Equinoctial, and by the Point of the First Hou^ after Noon of
+the Parallel, shall be the Line (...) the 13th Italian Hour.
+
+The strait Line c VIII which passes by the Point of the Eighth Hour in the
+Morning on the Equinoctial Line, and by the Point of the second Hour after Noon
+of the Parallel shall be the 14th Italian Hour, the strait Line d IX, which
+passes by the Point of Nine in the Forenoon on the Equinoctial, and by the
+Point of Three in the Afternoon on the Parallel, shall be the 15th Italian
+Hour, and so of the rest; there being always Six Hours distance between the
+Hour of the Equinoctial and that of the Parallel.
+
+The Babylonian Hours are marked after the same manner, but only that which is
+done on one side of the Meridian for the Italian Hours, is made on the other
+side of the Meridian for the Babylonian Hours, and they are counted after
+another manner; as for Example, the strait Line that passes by the Point of
+Midday of the Equator, and by the Point of the Sixth Hour in the Morning of
+the Parallel, is the Sixth Babylonian Hour; that which passes by the first Hour
+Afternoon on the Equinoctial, and by the Point of the Seventh Hour in the
+Morning on the Parallel, shall be the Seventh Babylonian Hour, and
+
+27.th Fig.
+
+
+so following, so as A 12 parallel to the Equator shall be the 12th Babylonian
+Hour for the Horizontal Dial.
+
+Demonstration.
+Fig. 27. If we imagine a Parallel to the Equator, which passes through the
+Intersection of the Meridian and Equator, it is evident that the Horizontal
+Circle shall touch that parallel at the Point where the Meridian Circle cuts
+it; and if we conceive that the Horizontal Circle be fastened with the Parallel
+and the Meridian, then when the Meridian has advanced 15 Degrees on the
+Equator in going according to the Motion from the East to the West, the Plane
+of the Horizontal Circle in that Position, shall mark the first Italian Hour on
+the West part, and the first Babylonian Hour on the East part; and then when it
+has advanced 15 degrees more, the Plane of the Horizontal Circle shall mark
+the second Italian and Babylonian Hour, and so on; so as then when it is
+arrived to the 12th Hour, the Meridian Circle shall be found in its first
+Position, for it has made half a Revolution; but the Horizon that cuts the
+Plane of the Meridian at Right Angles, shall be found in a Position opposite to
+that which it had at first; that is to say, that if S H be the meeting of the
+Horizon with the Meridian, S C the Axis, C E the Plane of the Dial parallel to
+the Horizon; after that the Meridian has passed over 12 Hours of the Equator,
+or that S H has pussed over 12 Hours of the Parallel; the Line S H shall fall
+in 12 S A: So as the Angle 12 S C shall be equal to the Angle H S C, therefore
+C S A shall be an Equicrural Triangle; and so also the Triangle S A E shall be
+Equicrural, S E being the meeting of the Equator and Meridian; therefore S A is
+equal to A C and A E both together; therefore C A and A E are equal: But C E
+represents the Meridian of the Horizontal Dial, wherein C is the Center, E the
+Intersection of the Equinoctial, and A the Intersection of the 12th Italian or
+Babylonian, which must be perpendicular to the Meridian; for in that Position
+the Plane of the Meridian is returned to its place, and the Horizon which has
+not changed its Inclination which it has with the Meridian remains always at
+Right Angles to it. Therefore it shall intersect the Plane of the Dial in a
+Line perpendicular to the Meridian, the Plane of the Dial being parallel to the
+Horizon in that first Position, and that Line ought to pass through the Point A of
+the Meridian, which divides the Line C E into two equal parts.
+
+If we conceive a Cone which has for its Base the Parallel to the Equator H 12,
+and for its Vertex the Center of the Sphere, the Section of that Cone with the
+Plane of the Dial, shall be the representation of that Parallel, but the Plane
+of the Dial is parallel to one of the Planes, which touches the Cone; therefore
+the Section or the Representation of that Parallel shall be a Parabola.
+
+28.th Fig.
+
+
+And seeing that all the Planes of the Italian and Babylonian Hours are also
+the Planes which touch that Cone, the Lines of those Hours shall touch the
+Parabola which is in that Section.
+
+CHAP. VII.
+To draw the Italian and Babylonian Hours, on a Plane which is not Horizontal.
+Fig. 28. THe Astronomique Hours being described, and the Horizon R H which is
+one of the Hours required, being drawn on the Plane of the Dial with the
+Equinoctial Line, we draw a Parallel to the Equator d, b, R, e, f, g, which
+passes by R the Intersection of the Horizon, with any Hour Line, as in this
+Example, with the Hour Line of II, by the Practice of the 5th Chapter. And
+seeing that the Horizon, which is the Line of the 24th Italian Hour, intersects
+the Parallel in R, at the Point of the Second Hour after Noon, and the
+Equinoctial Line at the Point of the Sixth hour after noon the Line of the
+first Italian Hour shall pass by the Point e of the Parallel, which is the
+Third Hour after Noon, and by the Point of the Equinoctial; the Line of the
+Second Italian Hour shall pass by the Point f of the Parallel, which is the
+Fourth Hour, and by the Point of the Eigth Hour on the Equinoctial Line; and so
+of the rest we find all the Points by which the Italian Hours ought to pass, so
+as the Eighteenth Italian Hour passes always by the Point of Midday of the
+Equinoctial Line, and by a Point of the Hour of a Parallel, which shall be so
+far from the Point of Midday as the Point R of the same Parallel, which is the
+Intersection of it with the Equinoctial Line, is the Point of the Sixth Hour
+after Noon, which is in this Example at Four Hours distance, seeing the Point R
+is an Hour of the Afternoon.
+
+Fig. 29. But if the Point R, by which the Parallel to the Equator is
+described, were the Intersection of an Hour before Noon, we must consider that
+that Parallel ought to meet also the Horizon in a Point of an Hour, which is so
+far from Noon, as that is by which we have described it; for Example, If the
+Point R were the Intersection of Nine in the Morning with the Horizontal Line,
+the Parallel to the Equator described by the Point R, ought to meet the
+Horizontal Line in the Point H, which is upon an Hour Line, so far distant from
+Noon as is the Point R; that is to say, that the Point H shall be the meeting
+of the Third Hour after Noon with the Horizontal Line; and the Line of the 24th
+Italian Hour, which is an Occidental Portion of the Horizon, ought to be taken
+from the Point of the Third Hour of
+
+29.th Fig.
+
+
+the Parallel with the Point of the Sixth Hour afte Noon of the Equator, and in
+counting as we have done before, we shall find that the First Italian Hour
+shall pass by the Point of the Fourth Hour on the Parallel, and by the Point of
+the Seventh Hour after Noon on the Equinoctial; and that the Line of the Second
+Italian Hour shall pass by the Point of the Fifth Hour of the Parallel, and by
+the Point of the Eighth Hour of the Equinoctial, and so on; and we draw only
+those that are visible, for the others are of no use, and serve only to count
+and to place those which are of use.
+
+These Rules are for the Italian Hours, but for the Babylonian Hours, which
+have for the Twenty fourth Hour the Oriental Part of the Horizon, if the
+Parallel which is described by the Point R of the Horizon, were the meeting of
+the Horizon with the Line of the Ninth Hour before Noon, the First Babylonian
+Hour shall pass by the Point of the 10th Hour in the Morning of the Parallel,
+and by the Point of the 7th Hour in the Morning on the Equinoctial; the Line of
+the Second Babylonian Hour shall pass by the Point of Eleven before Noon on the
+Parallel, and by the Point of Eight on the Equinoctial, and so of the rest; and
+if the Point R of the Parallel were the Point of any Afternoon Hour, we must
+take its correspondent before Noon to begin to count the Babylonian Hours,
+which is the contrary of that which we have done for the Italian Hours.
+
+We must observe, that if we describe the Lines by the Intersections of the
+Astronomique Hour Lines with the Italian or Babylonian, in taking those Points
+of Intersection in order from the Equinoctial Line, those Lines shall be the
+Parallels to the Equator, which shall meet the Horizontal Line in the same
+Points where the Hour Lines meet.
+
+Demonstration.
+After that which has been demonstrated in the afore-going Chapter, concerning
+the generation of the Italian and Babylonian Hours, it suffices here to explain
+after what manner the Horizontal Line meets the Astronomique and Italian Hour
+Lines in one and the same Point.
+
+It is easy to see that when the Horizon, which we have supposed to be
+fastened to the Meridian without changing its Inclination that it has with it,
+is moved by the motion of the Meridian, that if the Meridian advances 15
+degrees on the Equator; also that Point of the Horizon, let it be what it will
+be, shall advance 15 degrees on the Parallel which that Point describes:
+Therefore if we describe a Parallel to the Equator by one Point of the Horizon,
+by which Point passes an Astronomique Hour Line, it is manifest that all the
+same Hour Lines shall divide that Parallel from 15 to 15 degrees; Therefore it
+is that all the Italian Hour Lines which ought to pass by the Points of the
+Hours of the Equinoctial, shall also pass by the Points of the Hours of the
+Parallel; and it is also manifest that we may draw Six Parallels to the Equator
+by the six Intersections of the Horizon with the six Hour Lines 12, 1, 2, 3, 4,
+5, and that the Italian Hours pass in order by the Points of the Hours of those
+Paralles; and it also follows that all the Lines of the Italian and Babylonian
+Hours shall touch the Parallel described by the Point of meeting of the Horizon
+and Meridian, and that all the Points of touching shall be the meeting of the
+Astronomique Hours with the Parallel, and that there will be always six Hours
+Interval between the touching Point upon the Parallel, and the Point of meeting
+of the same Hour upon the Equator; for the Plane of the Horizon touches that
+Parallel at the Point of Midday, the which Point describes the Parallel.
+
+CHAP. VIII.
+To continue the Description of the Italian and Babylonian Hours, when the
+Parallel or the Equator is wanting on the Plane of the Dial.
+Fig. 28. IF the Point h be the last that is found o^ the Parallel by means of
+the Equinoctial Line, following the Practice of the 5th Chapter of this Second
+Part, and that the Line h III be the last Italian Hour which we can mark by
+help of that Parallel, that Line h III shall meet with some Astronomical Hour
+in some Point as m, if by the Practice of the Fifth Chapter of this Part we
+find the Points l n o of the Parallel which passes by m, and if they be on the
+Hour before or after that, on which is the Point m; we continue to draw the
+Lines of the Italian or Babylonian Hours by the Points of the Hours of the
+Parallel m n o, and by the Points of the Hours of the Equator, in following the
+same order as before, and if the Equator be wanting in using the Practice
+taught at the end of the 5th Chapter, we shall find the Points of another
+Parallel by the Parallel that is
+
+30th Fig.
+
+
+given, and then we may join the Points of the Hours on the two Parallels in
+following the former Order.
+
+There is nothing in all this that deserves any long Explication, nor any other
+Demonstration, than that we have given in the Two foregoing Chapters.
+
+CHAP. IX.
+Four Astronomique Hours being given, following one another in order, with the
+Equinoctial Line.
+To find the other Hours.
+Fig. 30. LEt the four Hour Lines following one another be A a, B b, C c, D d,
+with the Equinoctial Line E F; from a Point a, taken at pleasure in one of the
+last Lines A a, having drawn a D which cuts B b in B, and C c in g; also by the
+same Point a, having drawn a C which cuts B b in h, let A h be drawn, which
+meets C c in c, and B g which meets D d in d: let c b, c d be drawn prolonged
+to the Equinoctial Line to the Points E, F, the Hour Lines E e, F f, drawn by
+the Points E F, shall be the Hour Lines required, whereof E e shall be distant
+from A a one Hour, and F f shall be two Hours from D d: Therefore B D being
+prolonged to f in the Line F f, and F d to l, in the Line B b, havin^ drawn C f
+which cuts D d in i, l i prolonge^ shall meet the Equinoctial in M, by which
+the Hour Line M m shall be between the two Hou^ Lines D d and F f, and these
+Seven Hour Line being found, we may have all the rest by the Practice of the
+Third Chapter.
+
+Fig. 31. There are many Cases where Three Hour Lines are sufficient with the
+Equinoctial and Horizon; for Example, If we have three Hour Lines a 2, b 3, and
+c 4, and the Equinoctial Line 24, and Horizontal Line a c, having drawn a 4,
+which cuts b 3 in d, and having drawn 2 d which cuts c 4 in f, draw 2 c, which
+cuts b 3 in e, and 4 e, which cuts a 2 in h; there ought a strait Line to pass
+by the three Points f b h, which shall meet the Equinoctial in the Point g,
+which is one Point of the Hour as far from the Hour b 3, as is the Hour Line of
+Six: Therefore if the Hour Line b e be the fourth Hour, a h shall be the third,
+and g i shall be the second; but in this Example, b e being the third Hour, g i
+shall be the 12th Hour.
+
+The first Hour between 12 and 2 is found by drawing g c, which cuts a 2 in k,
+and 4 k which cuts the Hour Line g i, which was drawn by the Point g to the
+Point i, and in drawing 2 (...)
+
+31th Fig.
+
+
+which cuts g h in n, the Hour Line by the Point (...) shall be the first Hour.
+
+Demonstration.
+By that which has been demonstrated in the 5th Chapter it is manifest that
+the Points a and c are in the same Parallel; also that the Points b and d are
+also in the same, therefore the great Circles that are represented by the Lines
+c b E, c d F, are equally inclined to the Equator, the one on one side, and the
+other on the other, but c b F has the same Inclination as a b D, because of the
+equal parts of their Parallels a c, b d; and there is a space of three Hours
+between c C and F, and between c C and E; therefore the Hour which passes by
+the Point E is the next to that which passes by the Point A, but there are two
+between the Points D and F.
+
+By the same Construction the Points l and f are in the same Parallel, but f i
+c and l i M represent great Circles equally inclined to the Equator, because of
+the Points l and f which are in the same Parallel, and equally distant from the
+Point i; therefore D C and D M represent equal parts of the Equator, which are
+each of them an Hours distance from one another.
+
+As concerning that which is of three Hour Lines, seeing that by Construction
+the Points a and f are in the same Parallel; and likewise h and c, the Lines f
+h and a c which is the Horizon, represent Circles equally inclined to the
+Equator; therefore there is as much distance between the Point of the Ho^^ of
+Six upon the Equinoctial and the Hour Line b^^ as there is between the same
+Hour Line b e an^ the Point g. We demonstrate as before that the Point n
+divides the interval between the Hour Line^ g i and a k.
+
+CHAP. X.
+A Dial being given which is already drawn, to find the foot of the Style which
+did serve to draw it, and to determine the height thereof.
+Fig. 32. THe Line A B is the Equinoctial Line, and the Distance A B on that
+Line is the Interval of any six Hours; having divided A B into two equal parts
+in the Point G, from the Point G as a Center, on the Diameter A B describe the
+Circle A, S, B, d, f, and mark the Points d and f which divide the Semicircle
+into three equal parts; A F, F D and D B are each the Interval of two Hours on
+the Equinoctial Line: the Lines d D, f F ought to meet the Circumference of the
+Circle at the Point S, and the Line S E P drawn perpendicular to the
+Equinoctial Line shall be the Substyle.
+
+32th Fig.
+
+
+If we have C the Center of the Dial, on the Diameter C E, having described the
+Semicircle C Z E, and having applied in it the Line E Z equal to E S: Z P
+being drawn perpendicular to the Substylar Line E P, and meeting it at the
+Point P, that Point shall be the Foot of the Style, whereof P Z shall be the
+height.
+
+But if we have not the Center of the Dial, having drawn a e parallel to the
+Equinoctial, and from the Point a having drawn a s parallel to A S which meets
+the Substylar Line in s, from the Point E as a Center, and Semi-diameter E S,
+describe the Arch z, and from the Point e as a Center and Semi-diameter e s
+describe the Arch x, and draw ^he strait Line x z which shall touch the two
+Arches x and z, and that Line x z shall determine the Inclination of the Axis
+to the Substylar Line, and having drawn E z perpendicular to x z from the Point
+E, and from the Point z the strait Line z P perpendicular to the Substylar Line
+E P, the Point P shall be the foot of the Style, whereof P Z shall be the
+height.
+
+Demonstration.
+If we suppose the Circle A S B d to be on the Plane of the Equinoctial, it is
+manifest that the Point of the Style ought to be one of the Points of the
+Circumference of the Semicircle A S B, because the six Intervals of Hours that
+are on the Equinoctial from A to B, for the Angle A S B, in what place soever
+the Point S is, ought to be a Right Angle: And also the Lines drawn from that
+Point S to the Points of the Hours of the Equinoctial Line, ought to comprehend
+equal Angles each of 15 degrees in the same Point S; therefore the Arches A f,
+f d, and d B being each of 60 degrees, shall subtend Angles of 30 degrees,
+which are each in value two Hours, and consequently the Lines f F and d D shall
+be Hour Lines on the Equinoctial; therefore they meet in the same Point S upon
+the Circumference of the Circle which determines the Point of the Style in
+respect of the Equinoctial, and the Line S E drawn perpendicular to the
+Equinoctial Line, does there give the Point E which is one of the Points of the
+Substylar Line; but the Substylar Line ought to be perpendicular to the
+Equinoctial Line; therefore the same strait Line S E P shall be the Substylar.
+
+The Axis ought to make a Right Angle with the Plane of the Equinoctial,
+therefore the Line E S which is equal to that which ought to meet the Axis on
+the Plane of the Equinoctial, ought to make a Right Angle with the Axis.
+
+Therefore if we have c the Center of the Dial, and if we describe the
+Semicircle C Z E, applying E Z equal to E S in that Semicircle, it is
+manifest that C Z E shall be a Right Angle, and that the Line C Z represents
+the Inclination of the Axis to the Substylar Line C E, and that the Point Z
+represents the Point of the Style which has served to draw the Dial: Therefore
+Z P which is drawn perpendicular to C E, shall be the height of the Style,
+whereof the Point P shall be the foot.
+
+But if we have not the Center of the Dial, it is manifest by Construction that
+the two Lines E S e s having one of their extremes in the Points E e, the other
+will be had in the Axis, if the Line that joins the two last extremes be
+perpendicular to those two Lines which ought to be parallel; but it is also
+evident that the Line x z vhich touches the two Arches of Circles which have
+for their Semi diameters E S, e s, shall be perpendicular to the two strait
+Lines E z, e x, which come from the Center to the touching Points; therefore
+the Line x z gives the Inclination of the Axis to the Substylar Line, and the
+Line z P drawn perpendicular to the Substyle, shall determine the height of the
+Style, whereof P shall be the foot.
+
+CHAP. XI.
+To place the Axis.
+IF we would have the Hours shown only by the shadow of the Point of the Style,
+we ought to make and to place the Style after such a manner as may serve
+without changing of it.
+
+We may give it diverse forms, but one of the best is, to make it waved to the
+end, that the Shadow thereof may not unite with the Hour Lines in any place,
+and that we may always know that it is but only the Shadow of the Point that
+serves to show the Hours.
+
+But if you would have a portion of the Axis to show the Hours, and that the
+Axis be represented by an Iron Rod, the Style we have placed ought to have the
+Point very small, that it may enter into a little hole made in the Rod, so as
+the Point of the Style may exactly answer to the middle of the thickness of the
+Rod; the Style may remain, if you would have it, to sup port the Axis; but if
+the Axis be not very long, and if it be strong enough to sustain it self alone
+being fastened at one end, we may take away the Style when the Axis is fixed on
+the Surface of the Dial. We may do the same, if we fasten to the end of the
+Style a Point of an Iron Wire, which there may be very small, and may take away
+but the half of the thickness of the Rod, so as the Dial being drawn to that
+Point, there is nothing to be done but to take it away to place the Axis,
+whereof the middle of the thickness ought to answer to that Point; therefore
+whether the Style remains to uphold the Axis, or whether we take it away when
+the Axis is fixed in its place, we must fasten it to the end of the Style to
+stay the end thereof, which ought to answer to the Center of the Dial if it
+have any.
+
+Fig. 33. We may make the Rod which serves for the Axis as it is marked in the
+Figure, so as the hole signified by A may be made to lodge the Point of the
+Style, and that it be let in as far as the middle of the thickness of the Rod,
+the Point B which answers also to the middle of the Rod, ought to be applied
+exactly to the Center of the Dial, this Rod being so stayed at the Point B and
+at the Point A, we must fasten the Foot C on the Plane of the Dial.
+
+But if you would not have a Foot to the Axis as G, and that you would only fix
+the Rod to the Center of the Dial, you must draw diverse Lines which may pass by
+the Center of the Dial, and stay the Rod on the Point of the Style A, and by
+any other place, so as the end may enter in a hole made in the Plane of the
+Dial at the place of the Center, may be divided by the middle of its thickness
+by each Line that passes by the Center.
+
+Fig. 34. Also we may make use of a thin Plate which must be cut according to
+the Inclination of the Axis with the Substylar Line; it must be set
+perpendicularly on the Plane of the Dial, in applying ^ne of its sides to the
+Substylar Line, and the other side passing by the Point of the Style shall
+serve for the Axis. If you would draw on the Plate a perpendicular Line to that
+side of it which is applied to the Substylar Line, and equal to the height of
+the Style, the which shall represent the Style, so as the end of that Line meet
+with the other side of the Plate, that Line when the Plate shall be set in its
+place, shall answer to the Style. See here diverse Figures of these sorts of
+Plates with their feet to fasten them on the Plane of the Dial.
+
+33th Fig:
+
+
+CHAP. XII.
+To Draw Dials by Reflection.
+TO make a Dial that may show the Hours by the Reflection of the Light of the
+Sun, you must make use of a small piece of polished Metal very even and flat;
+of a round form, and of abont an Eighth part of an Inch in Diameter; and having
+placed it, and fastened it in a place very stable and immovable, we mark the
+Points of Light on the Plane where we intend to draw the Dial, which serve
+instead of the Points of Shadow, the middle of the Mirror or Glass ought to be
+considered as the Point of a Style, whereof we find the foot in drawing from
+the middle of the Glass a Line perpendicular to the Plane of the Dial, the
+Point where this Line meets with the Plane of the Dial, shall be the Foot of
+the Style.
+
+We may find the Substylar Line, the Equinoctial Line, the Center of the Dial
+and Meridian by the practices, where we make no use of the Horizontal Line, nor
+of the height of the Pole.
+
+Having found the Equinoctial Line, and the Point where the Meridian Line
+intersects it, we draw the Hours, following the Methods of the Second Part of
+this Treatise.
+
+Here it is to observed that if the Inclination of the Glass be never so little
+changed, all the Dial will be considerably changed. Therefore these sorts of
+Dials do very hardly remain many years in a good condition; for there always
+happens some alterations to the Wall on which they are fixed.
+
+But if in place of the Glass we fill some small Vessel either of Glass or
+Potters Earth, of about an Inch in Diameter, with Water or Quick Silver, that
+Vessel being put upon a place marked on some Transum of a Window or the like,
+so as you may always set it in the same place again, if you would take it away,
+the Reflection of the Light from the Water or Quick Silver, shall give the
+Hours on the Dial of which we must draw the Lines, as has been taught in the
+First and Second Part of this Work, in observing only that the middle of the
+Superficies of the Water or Quick Silver, serves for the Point of the Style,
+and that the Operations which are made on the Horizon below for the Dials,
+which gives the Hour by the Shadow of a Point, ought to be made on the Horizon
+above, and that which is made above in those Dials, in these Dials to be made
+below.
+
+CHAP. XIII.
+Concerning the Table of the Suns Declination, and of those of the Difference
+of Meridians of diverse considerable places in respect of Paris.
+THe Tables of the Declination of the Sun which are at the end of this Work, is
+calculated for the Meridian of Paris, and for each day at Noon, on the side are
+the Differences between the Declination of one day and that of the next day
+following; they are made for Four Years following one another. The First Year
+begins in 1681, which is the First after the Bissextile or Leap Year, the
+Second is the following Year 1682, the Third is 1683, and the Fourth Year 1684,
+is Bissextile or Leap Year.
+
+Then afterward there follows a Table of the Differences of Meridians of the
+principal places of the Earth in respect of Paris; it is calculated ^n Hours
+and Minutes, and it serves to find the Declination of the Sun in all those
+places at any Hour proposed. There is also another Table which is joined to
+that, in which we may find the Latitude or Height of the Pole of the same
+places.
+
+We begin the Days in these Tables and in the following Calculations, from each
+Day at Noon, and continue it to the next following Day at Noon, and we count
+the Hours to 24, soas the Third Hour in the Morning of any day proposed, is the
+Fifteenth Hour after Noon of the preceding day.
+
+RULE I. To continue the Tables of the Suns Declination.
+IF you would have the Declination of the Sun for the Years following those
+that are calculated, you must add to the Declination increasing of each day,
+and substract from the Declination decreasing after Four Years fully past, one
+Minute for 32 Minutes of Difference, half a Minute for 16 Minutes of
+Difference, a quarter of a Minute for 8 Minutes of Difference, and so of the
+rest in proportion.
+
+Example.
+If you would know the Declination of the Sun for the 5th of January at Noon
+for the Year 1685, which is the First Year after the Bissextile or Leap Year,
+and is the Fourth that follows to the Year 1681, whereof we have the
+Calculation in the Table. I find that the Difference between the 5th and 6th of
+January 1681, is 12 Minutes, and the Declination is decreasing; therefore I see
+that there must be subtracted about of a Minute from the Declination of the
+5th of January 1681, the which is 20 Degrees 58 Minutes; and we shall have 20
+degrees 57 Minutes for the Declination of the Sun the 5th of January at Noon in
+the Year 1685; if there be Eight Years passed between the Year in which you
+would have the Suns Declination, and that which answers to it in this Table,
+that is to say, that which is equally distant from the Leap Year, you must
+double this Correction; if it be 12 Years, you must triple the Correction, and
+so forth.
+
+RULE II. To find the Declination of the Sun at all Hours of the Day.
+HAving found in the Table of differences of the Suns Declination, the
+difference of the Declination of the Sun between the given Day and the next
+following Day, take the part proportional of that Difference answerable to the
+given Hours, which we add to the Declination of the same Day if it increase,
+but substract it if it decrease.
+
+Example.
+As to know the Declination of the Sun on the 15th day of March at 4 a Clock in
+the Afternoon for the Year 1683, I find in the Table that the Difference
+between the 15th and 16th day is 23 minutes and (for there is sometimes 24
+minutes and sometimes 23 minutes) and the Declination of the Sun for the 15th
+of March at Noon in the Year proposed 1683, being 1 degree 59 minutes, to which
+here must be added the proportional part of the Difference for 4 Hours, which
+is the sixth part of 24 Hours; therefore you must take the sixth part of 23
+minutes and, which is about 4 minutes, which being added to the Declination
+found 1 degree 59 minutes, because the Declination increases, and we shall have
+2 degrees 3 minutes, the Declination increasing on that Day at the required
+Hour; but if the Declination were decreasing, we must substract the part
+proportional of the Declination found in the Table.
+
+This ought to be understood of the Declinations of the Sun for the Meridian of
+Paris, as we find them in this Table, but for other places on the Earth, they
+are to be reduced according to the following Rule.
+
+RULE III. To know the Declination of the Sun at a given Hour in any place that
+is set down in the Table.
+THe Table of Differences of Meridians of places which are here set down in
+respect of Paris, with the word add or substract shows how much later or sooner
+it is Noon at Paris than at that place; the chief use whereof is to know the
+Declination of the Sun at a given Hour in any place set down in the Table.
+
+Therefore if you would know the Declination of the Sun at a given Hour in any
+place that is in the Table, you must find the Difference of its Meridian in
+respect of Paris, and join it to the given Hour, if there be add after it, and
+if the Sum exceed 24 Hours, we take the overplus in the next following day to
+that as was given; but if there be found substract, we take that Difference of
+Meridians from the Hour proposed; but if the Hour be too little, add 24 Hours
+to it, and then substract, and the remainer shall be attributed to the
+foregoing Day.
+
+Having therefore found this Sum or Difference of Hours, we find the
+Declination of the Sun for that Hour at Paris by the Second Rule, and you shall
+have that which you require for the given place.
+
+Example.
+If we would know for Rome the Declination of the Sun for the 22th day of
+August 1682, at 4 a Clock in the Morning.
+
+First, Because the Hour proposed is in the Morning, I reduce it to 16 Hours
+after Noon on the 21th day of August, and having found in the Table of
+Differences of Meridians, that for Rome I must substract 47 minutes, therefore
+I take 47 minutes from 16 hours, and there remains 15 hours and 13 minutes
+after Midday on the 21th of August 1682; and by the Second Rule I find that
+the Declination for that day and that Hour is at Paris 8 degrees and 15
+minutes, which is that which was required for 4 a Clock in the Morning the 22th
+day of August 1682 at Rome.
+
+Another Example.
+If you would know for Peking in China the Declination of the Sun at 2 a Clock
+in the Morning on the 25th of July 1684.
+
+First, because the Hour proposed is before Noon, I reduce it to the foregoing
+day, which will be the 24th of July at 14 Hours after Noon, and I find in the
+Table of Differences of Meridians, that for Peking I must substract 7 hours 45
+minutes, the which being subtracted from 14 hours, there remains 6 hours 15
+minutes; therefore I search by the Second Rule the Declination of the Sun for
+Paris on the 24th of July, at 6 a Clock 15 minutes after Noon, in the Year
+1684, and I find 17 degrees, and about 13 minutes which is the Declination of
+the Sun for Peking on the day and hour proposed.
+
+Another Example.
+I would know at Quebec the Declination of the Sun on the 25th of March 1683,
+at 10 a Clock in the Morning, which being reduced, will be 22 Hours after Noon
+on the 24th of March, and I find in the Table that I must add for Quebec 4
+Hours 36 minutes, therefore we have the 24th of March at 26 Hours 36 minutes,
+or the 25th of March at 2 a Clock 36 minutes after Noon. For which time in the
+Year 1683, I find the Suns Declination to be 5 degrees and about 30 minutes,
+which is that for Quebec on the day and hour required.
+
+An ADVERTISEMENT concerning the Figures.
+HEre you must observe that the Dials drawn in these Figures, are not made
+expressly for any place; for it is impossible to make the Magnitude of the Lines
+which we must use equal to those that are here drawn: we ought only to follow
+the Precepts, and not to measure with the Compasses the length of the Lines, to
+see if they agree: For Example, although we say make the Line a s equal to A S,
+yet these two Lines are not equal in the Figure, because that sometimes one of
+the ends of the Line A S as S being the Point of the Style which is not in the
+Plane, the apparent Magnitude of that Line is not the true Magnitude, and it
+also happens oftentimes that the Lines of the Figure answers not among
+themselves according to the Discourse which was done to order the place of the
+Figures: it is sufficient to observe well after what Manner, of what Magnitude,
+and in what Angles we prescribe to draw the Lines without depending on the
+Figure which serves but to help the Imagination, and to guide you in the
+Operations, seeing that it is almost impossible to meet with two like Dials
+among a great number which we make on the Planes proposed, as it is found
+ordinarily.
+
+A TABLE Of the Suns Declination For the Year 1681, Which was the First after
+Bissextile or Leap-year.
+For the year 1681. Days January Diff. M D. M. South. 1 21 41 10 2 21 31 11 3
+21 20 11 4 21 9 11 5 20 58 11 6 20 46 12 7 20 34 12 8 20 22 12 9 20 9 13 10 19
+56 14 11 19 42 14 12 19 28 14 13 19 14 15 14 18 59 15 15 18 44 15 16 18 29 16
+17 18 13 16 18 17 57 16 19 17 41 17 20 17 24 17 21 17 7 17 22 16 50 18 23 16 32
+18 24 16 14 18 25 15 56 18 26 15 38 19 27 15 19 19 28 15 0 19 29 14 41 19 30 14
+22 20 31 14 2 Days Februar. Diff. M D. M. South. 1 13 42 20 2 13 22 20 3 13 2
+20 4 12 42 21 5 12 21 21 6 12 0 21 7 11 39 21 8 11 18 21 9 10 57 22 10 10 35 22
+11 10 13 22 12 9 51 22 13 9 29 22 14 9 7 22 15 8 45 23 16 8 22 23 17 7 59 23 18
+7 36 23 19 7 13 23 20 6 50 23 21 6 27 23 22 6 4 23 23 5 41 23 24 5 18 24 25 4
+54 23 26 4 31 23 27 4 8 24 28 3 44 24 Days March Diff. M. D. M. So. No. 1 3 20
+23 2 2 57 24 3 2 33 23 4 2 10 23 5 1 47 24 6 1 23 24 7 0 59 24 8 0 35 24 9 0 11
+23 10 0 No. 12 24 11 0 36 24 12 1 0 23 13 1 23 24 14 1 47 24 15 2 11 23 16 2 34
+23 17 2 57 24 18 3 21 23 19 3 44 23 20 4 7 24 21 4 31 23 22 4 54 23 23 5 17 23
+24 5 40 23 25 6 3 23 26 6 26 22 27 6 48 22 28 7 10 22 29 7 32 23 30 7 55 22 31
+8 17 Days. April Diff M D. M. North 1 8 39 22 2 9 1 22 3 9 23 21 4 9 44 21 5 10
+5 21 6 10 26 21 7 10 47 21 8 11 8 21 9 11 29 21 10 11 50 20 11 12 10 20 12 12
+30 20 13 12 50 20 14 13 10 19 15 13 29 19 16 13 48 19 17 14 7 19 18 14 26 19 19
+14 45 18 20 15 3 18 21 15 21 18 22 15 39 17 23 15 36 17 24 16 13 17 25 16 30 17
+26 16 47 17 27 17 4 16 28 17 20 16 29 17 36 16 30 17 52 15 Days May Diff. M. D
+M. North 1 18 7 15 2 18 22 14 3 18 36 15 4 18 51 14 5 19 5 14 6 19 19 13 7 19
+32 13 8 19 45 13 9 19 58 12 10 20 10 12 11 20 22 12 12 20 34 11 13 20 45 11 14
+20 56 11 15 21 7 10 16 21 17 10 17 21 27 10 18 21 37 9 19 21 46 9 20 21 55 9 21
+22 4 8 22 22 12 8 23 22 20 7 24 22 27 7 25 22 34 6 26 22 40 6 27 22 46 6 28 22
+52 5 29 22 57 5 30 23 2 5 31 23 7 Days June Diff. M. D. M. North 1 23 11 4 2 23
+15 3 3 23 18 3 4 23 21 2 5 23 23 2 6 23 25 2 7 23 27 1 8 23 28 1 9 23 29 0 10
+23 29 0 11 23 29 0 12 23 29 1 13 23 28 1 14 23 27 2 15 23 25 2 16 23 23 2 17 23
+21 3 18 23 18 3 19 23 15 4 20 23 11 4 21 23 7 5 22 23 2 5 23 22 57 5 24 22 52 6
+25 22 46 6 26 22 40 6 27 22 34 7 28 22 27 7 29 22 20 8 30 22 12 Days July Diff.
+M. D. M. North. 1 22 4 8 2 21 56 9 3 21 47 9 4 21 38 10 5 21 28 10 6 21 18 10 7
+21 8 11 8 20 57 11 9 20 46 11 10 20 35 12 11 20 23 12 12 20 11 12 13 19 59 13
+14 19 46 13 15 19 33 13 16 19 20 14 17 19 6 14 18 18 52 14 19 18 38 15 20 18 23
+15 21 18 8 15 22 17 53 15 23 17 38 16 24 17 22 16 25 17 6 16 26 16 50 17 27 16
+33 17 28 16 16 17 29 15 59 17 30 15 42 18 31 15 24 Days August Diff. M D. M.
+North. 1 15 6 18 2 14 48 18 3 14 29 18 4 14 11 19 5 13 52 19 6 13 33 19 7 13 14
+20 8 12 54 20 9 12 34 20 10 12 14 20 11 11 54 20 12 11 34 20 13 11 14 21 14 10
+53 21 15 10 32 21 16 10 11 21 17 9 50 21 18 9 29 21 19 9 8 22 20 8 46 22 21 8
+24 22 22 8 2 22 23 7 40 22 24 7 18 22 25 6 56 22 26 6 34 23 27 6 11 23 28 6 48
+23 29 5 25 23 30 5 2 23 31 4 39 Days September Diff. M. D. M. No. So. 1 4 16 23
+2 3 53 23 3 3 30 23 4 3 7 23 5 2 44 23 6 2 21 23 7 1 58 24 8 1 34 23 9 1 11 24
+10 0 47 23 11 0 24 24 12 0 South 0 23 13 0 23 24 14 0 47 23 15 1 10 24 16 1 34
+23 17 1 57 24 18 2 21 23 19 2 44 23 20 3 7 24 21 3 31 23 22 3 54 23 23 4 17 24
+24 4 41 23 25 5 4 23 26 5 27 23 27 5 50 23 28 6 13 23 29 6 36 23 30 6 59 23
+Days October Difi. M D. M. South 1 7 22 22 2 7 44 23 3 8 7 22 4 8 29 22 5 8 51
+22 6 9 13 22 7 9 35 22 8 9 57 22 9 10 19 22 10 10 41 21 11 11 2 21 12 11 23 21
+13 11 44 21 14 12 5 21 15 12 26 21 16 12 47 20 17 13 7 20 18 13 27 20 19 13 47
+20 20 14 7 19 21 14 26 19 22 14 45 19 23 15 4 19 24 15 23 19 25 15 42 18 26 16
+0 18 27 16 18 18 28 16 36 17 29 16 53 17 30 17 10 17 31 17 27 16 Days November
+Diff. M D. M. South 1 17 43 16 2 17 59 16 3 18 15 16 4 18 31 15 5 18 46 15 6 19
+1 15 7 19 16 14 8 19 30 14 9 19 44 13 10 19 57 13 11 20 10 13 12 20 23 12 13 20
+35 12 14 20 47 12 15 20 59 11 16 21 10 11 17 21 21 10 18 21 31 10 19 21 41 10
+20 21 51 9 21 22 0 9 22 22 9 8 23 22 17 8 24 22 25 7 25 22 32 7 26 22 39 7 27
+22 46 6 28 22 52 6 29 22 58 5 30 23 3 5 Days December Diff. M. M. D. South 1 23
+8 4 2 23 12 4 3 23 16 3 4 23 19 3 5 23 22 2 6 23 24 2 7 23 26 2 8 23 28 1 9 23
+29 0 10 23 29 0 11 23 29 0 12 23 29 1 13 23 28 1 14 23 27 2 15 23 25 2 16 23 23
+3 17 23 20 3 18 23 17 4 19 23 13 4 20 23 9 5 21 23 4 5 22 22 59 6 23 22 53 6 24
+22 47 6 25 22 41 7 26 22 34 7 27 22 27 8 28 22 19 8 29 22 11 9 30 22 2 9 31 21
+53 10
+
+A TABLE Of the Suns Declination For the Year 1682. Being the Second after
+Bissextile or Leap-Year.
+For the Year 1682. Days January Diff. M D. M. South 1 21 43 10 2 21 33 10 3 21
+23 11 4 21 12 11 5 21 1 12 6 20 49 12 7 20 37 12 8 20 25 13 9 20 12 13 10 19 59
+14 11 19 45 14 12 19 31 14 13 19 17 14 14 19 3 15 15 18 48 15 16 18 33 16 17 18
+17 16 18 18 1 16 19 17 45 17 20 17 28 17 21 17 11 17 22 16 54 17 23 16 37 18 24
+16 19 18 25 16 1 18 26 15 43 19 27 15 24 19 28 15 5 19 29 14 46 19 30 14 27 20
+31 14 7 Days February Diff. M D M. South 1 13 47 20 2 13 27 20 4 13 7 21 4 12
+46 20 5 12 26 21 6 12 5 21 7 11 44 21 8 11 23 22 9 11 1 21 10 10 40 22 11 10 18
+22 12 9 56 22 13 9 34 22 14 9 12 22 15 8 50 23 16 8 27 22 17 8 5 23 18 7 42 23
+19 7 19 23 20 6 56 23 21 6 33 23 22 6 10 23 23 5 47 23 24 5 24 24 25 5 0 23 26
+4 37 24 27 4 13 23 28 3 50 24 Days March Diff. M. D. M. So. No. 1 3 26 23 2 3 3
+24 3 2 39 24 4 2 15 23 5 1 52 24 6 1 28 24 7 1 4 23 8 0 41 24 9 0 17 24 10 0
+No. 7 23 11 0 30 24 12 0 54 24 13 1 18 23 14 1 41 24 15 2 5 23 16 2 28 24 17 2
+52 23 18 3 15 23 19 3 38 24 20 4 2 23 21 4 25 23 22 4 48 23 23 5 11 23 24 5 34
+23 25 5 57 23 26 6 20 22 27 6 42 23 28 7 5 22 29 7 27 22 30 7 49 22 31 8 11 22
+Days April Diff. M. D. M. North 1 8 33 22 2 8 55 22 3 9 17 22 4 9 39 21 5 10 0
+21 6 10 21 21 7 10 42 21 8 11 3 21 9 11 24 21 10 11 45 20 11 12 5 20 12 12 25
+20 13 12 45 20 14 13 5 19 15 13 24 19 16 13 43 19 17 14 2 19 18 14 21 19 19 14
+40 18 20 14 58 18 21 15 16 18 22 15 34 18 23 15 52 17 24 16 9 17 25 16 26 17 26
+16 43 17 27 17 0 16 28 17 16 16 29 17 32 16 30 17 48 15 Days May Diff. M. D. M.
+North. 1 18 3 15 2 18 18 15 3 18 33 14 4 18 47 14 5 19 1 14 6 19 15 14 7 19 29
+13 8 19 42 13 9 19 55 12 10 20 7 12 11 20 19 12 12 20 31 12 13 20 43 11 14 20
+54 11 15 21 5 10 16 21 15 10 17 21 25 10 18 21 35 9 19 21 44 9 20 21 53 9 21 21
+2 8 22 22 10 8 23 22 18 7 24 22 25 7 25 22 32 7 26 22 39 6 27 22 45 6 28 22 51
+5 29 22 56 5 30 23 1 5 31 23 6 Days June Diff. M. D. M. North 1 23 10 4 2 23 14
+3 3 23 17 3 4 23 20 3 5 23 23 2 6 23 25 2 7 23 27 1 8 23 28 1 9 23 29 0 10 23
+29 0 11 23 29 0 12 23 29 1 13 23 28 1 14 23 27 1 15 23 26 2 16 23 14 2 17 23 22
+3 18 23 19 3 19 23 16 4 20 23 12 4 21 23 8 4 22 23 4 5 23 22 59 5 24 22 54 6 25
+22 48 6 26 22 42 6 27 22 36 7 28 22 29 7 29 22 22 8 30 22 14 8 Days July Diff.
+M. D. M. North. 1 22 6 2 21 58 8 3 21 49 9 4 21 40 9 5 21 30 10 6 21 20 10 7 21
+10 10 8 21 0 10 9 20 49 11 10 20 38 11 11 20 26 12 12 20 14 12 13 20 2 12 14 19
+49 13 15 19 36 13 16 19 23 13 17 19 9 14 18 18 55 14 19 18 41 14 20 18 27 14 21
+18 12 15 22 17 57 15 23 17 41 16 24 17 25 16 25 17 9 16 26 16 53 16 27 16 37 16
+28 16 20 17 29 16 3 17 30 15 46 17 31 15 28 18 Days August Diff. M D. M. North.
+1 15 10 18 2 14 52 18 3 14 34 19 4 14 15 19 5 13 56 19 6 13 37 19 7 13 18 19 8
+12 59 20 9 12 39 20 10 12 19 20 11 11 59 20 12 11 39 20 13 11 19 21 14 10 58 21
+15 10 37 21 16 10 16 21 17 9 55 21 18 9 34 21 19 9 13 22 20 8 51 22 21 8 29 22
+22 8 7 22 23 7 45 22 24 7 23 22 25 7 1 23 26 6 38 22 27 6 16 22 28 5 54 23 29 5
+31 23 30 5 8 23 31 4 45 Days September Diff. M. D. M. No. So 1 4 22 23 2 3 59
+23 3 3 36 23 4 3 13 23 5 2 50 24 6 2 26 23 7 2 3 23 8 1 40 24 9 1 16 23 10 0 53
+23 11 0 30 24 12 0 South 6 23 13 0 17 24 14 0 41 23 15 1 4 24 16 1 28 24 17 1
+52 23 18 2 15 23 19 2 38 23 20 3 2 23 21 3 25 23 22 3 48 24 23 4 12 23 24 4 35
+23 25 4 58 24 26 5 22 23 27 5 45 23 28 6 8 23 29 6 31 22 30 6 53 23 Days
+October Diff. M. D. M. South 1 7 16 23 2 7 39 22 3 8 1 23 4 8 24 22 5 8 46 22 6
+9 8 22 7 9 30 22 8 9 52 22 9 10 14 22 10 10 36 21 11 10 57 21 12 11 18 21 13 11
+39 21 14 12 0 21 15 12 21 21 16 12 42 20 17 13 2 20 18 13 22 20 19 13 42 20 20
+14 2 20 21 14 22 19 22 14 41 19 23 15 0 19 24 15 19 18 25 15 37 18 26 15 55 18
+27 16 13 18 28 16 31 18 29 16 49 17 30 17 6 17 31 17 23 Days November Diff. M
+D. M. South 1 17 40 16 2 17 56 16 3 18 12 15 4 18 27 15 5 18 42 15 6 18 57 15 7
+19 12 14 8 19 26 14 9 19 40 14 10 19 54 13 11 20 7 13 12 20 20 12 13 20 32 12
+14 20 44 12 15 20 56 11 16 21 7 11 17 21 18 11 18 21 29 10 19 21 39 10 20 21 49
+9 21 21 58 9 22 22 7 8 23 22 15 8 24 22 23 8 25 22 31 7 26 22 38 7 27 22 45 6
+28 22 51 6 29 22 57 5 30 23 2 5 Days December Diff. M. M. D. South 1 23 7 4 2
+23 11 4 3 23 15 3 4 23 18 3 5 23 21 3 6 23 24 2 7 23 26 2 8 23 28 1 9 23 29 0
+10 23 29 0 11 23 29 0 12 23 29 1 13 23 28 1 14 23 27 2 15 23 25 2 16 23 23 3 17
+23 20 3 18 23 17 3 19 23 14 4 20 23 10 5 21 23 5 5 22 23 0 5 23 22 55 6 24 22
+49 7 25 22 42 7 26 22 35 7 27 22 28 8 28 22 20 8 29 22 12 8 30 22 4 9 31 21 55
+
+A TABLE Of the Suns Declination For the Year 1683. Being the Third after
+Bissextile or Leap-Year.
+For the Year 1683. Days January Diff. M D. M. South 1 21 46 10 2 21 36 10 3 21
+26 11 4 21 15 11 5 21 4 12 6 20 52 12 7 20 40 12 8 20 28 13 9 20 15 13 10 20 2
+13 11 19 49 14 12 19 35 14 13 19 21 15 14 19 6 15 15 18 51 15 16 18 36 15 17 18
+21 16 18 18 5 16 19 17 49 17 20 17 32 17 21 17 15 17 22 16 58 17 23 16 41 18 24
+16 23 18 25 16 5 18 26 15 47 18 27 15 29 19 28 15 10 19 29 14 51 19 30 14 32 20
+31 14 12 Days February Diff. M D. M. South 1 13 52 20 2 13 32 20 4 13 12 20 4
+12 52 21 5 12 31 21 6 12 10 21 7 11 49 21 8 11 28 21 9 11 7 22 10 10 45 22 11
+10 23 22 12 10 1 22 13 9 39 22 14 9 17 22 15 8 55 22 16 8 33 23 17 8 10 23 18 7
+47 23 19 7 24 23 20 7 1 23 21 6 38 23 22 6 15 23 23 5 52 23 24 5 29 23 25 5 6
+24 26 4 42 23 27 4 19 23 28 3 56 24 Days March Diff. M. D. M. So. No. 1 3 32 24
+2 3 8 23 3 2 45 23 4 2 21 24 5 1 57 24 6 1 34 23 7 1 10 24 8 0 46 23 9 0 23 24
+10 0 No. 1 24 11 0 25 24 12 0 49 23 13 1 12 24 14 1 36 23 15 1 59 24 16 2 23 23
+17 2 46 24 18 3 10 23 19 3 33 23 20 3 56 23 21 4 19 23 22 4 42 23 23 5 5 23 24
+5 28 23 25 5 51 23 26 6 14 22 27 6 37 23 28 6 59 23 29 7 22 22 30 7 44 22 31 8
+6 22 Days April Diff M. D. M. North 1 8 28 22 2 8 50 22 3 9 12 22 4 9 34 21 5 9
+55 21 6 10 16 21 7 10 37 21 8 10 58 21 9 11 19 21 10 11 40 20 11 12 0 20 12 12
+20 20 13 12 40 20 14 13 0 20 15 13 20 19 16 13 39 19 17 13 58 19 18 14 17 19 19
+14 36 18 20 14 54 18 21 15 12 18 22 15 30 18 23 15 48 17 24 16 5 17 25 16 22 17
+26 16 39 17 27 16 56 16 28 17 12 16 29 17 28 16 30 17 44 15 Days May Diff. M.
+D. M. North 1 17 59 15 2 18 14 15 3 18 29 14 4 18 44 14 5 18 58 14 6 19 12 14 7
+19 26 13 8 19 39 13 9 19 52 12 10 19 5 12 11 20 17 12 12 20 29 12 13 20 40 11
+14 20 51 11 15 20 2 10 16 21 13 10 17 21 23 10 18 21 33 9 19 21 42 9 20 21 51 9
+21 22 0 8 22 22 8 8 23 22 16 7 24 22 23 7 25 22 30 7 26 22 37 6 27 22 43 6 28
+22 49 6 29 22 55 5 30 23 0 5 31 23 5 4 Days. June Diff. M D. M. North 1 23 9 4
+2 23 13 3 3 23 16 3 4 23 19 3 5 23 22 2 6 23 24 2 7 23 26 1 8 23 27 1 9 23 28 1
+10 23 29 0 11 23 29 0 12 23 29 1 13 23 28 1 14 23 27 1 15 23 26 2 16 23 24 2 17
+23 22 3 18 23 19 3 19 23 16 3 20 23 13 4 21 23 9 4 22 23 5 5 23 23 0 5 24 22 55
+6 25 22 49 6 26 22 43 6 27 22 37 7 28 22 30 7 29 22 23 7 30 22 16 8 Days July
+Diff. M. D. M. North. 1 22 8 8 2 22 0 9 3 21 51 9 4 21 42 9 5 21 33 10 6 21 23
+10 7 21 13 11 8 21 2 11 9 21 51 11 10 20 40 11 11 20 29 12 12 20 17 12 13 20 5
+13 14 19 52 13 15 19 39 13 16 19 26 13 17 19 13 14 18 18 59 14 19 18 45 15 20
+18 30 15 21 18 15 15 22 18 0 15 23 17 45 16 24 17 29 16 25 17 13 16 26 16 57 16
+27 16 41 17 28 16 24 17 29 16 7 17 30 15 50 18 31 15 32 Days August Diff. M D.
+M North. 1 15 14 18 2 14 56 18 3 14 38 18 4 14 20 19 5 14 1 19 6 13 42 19 7 13
+23 19 8 13 4 20 9 12 44 20 10 12 24 20 11 12 4 20 12 11 44 20 13 11 24 21 14 11
+3 21 15 10 42 21 16 10 21 21 17 10 0 21 18 9 39 21 19 9 18 22 20 8 56 22 21 8
+34 22 22 8 12 22 23 7 50 22 24 7 28 22 25 7 6 22 26 6 44 22 27 6 22 23 28 5 59
+23 29 5 36 23 30 5 13 22 31 4 51 23 Days September Diff. M. D. M. No. So. 1 4
+28 23 2 4 5 23 3 3 42 23 4 3 19 24 5 2 55 23 6 2 32 23 7 2 9 24 8 1 45 23 9 1
+22 23 10 0 59 24 11 0 35 23 12 0 South 12 24 13 0 12 23 14 0 35 24 15 0 59 23
+16 1 22 24 17 1 46 23 18 2 9 24 19 2 33 23 20 2 56 23 21 3 19 24 22 3 43 23 23
+4 6 23 24 4 29 24 25 4 53 23 26 5 16 23 27 5 39 23 28 6 2 23 29 6 25 23 30 6 48
+23 Days October Diff. M. D. M. South 1 7 11 22 2 7 33 23 3 7 56 22 4 8 18 23 5
+8 41 22 6 9 3 22 7 9 25 22 8 9 47 22 9 10 9 21 10 10 30 22 11 10 52 21 12 11 13
+21 13 11 34 21 14 11 55 21 15 12 16 21 16 12 37 20 17 12 57 20 18 13 17 20 19
+13 37 20 20 13 57 20 21 14 7 19 22 14 36 19 23 14 55 19 24 15 14 19 25 15 33 18
+26 15 51 18 27 16 9 18 28 16 27 17 29 16 44 17 30 17 1 17 31 17 18 17 Days
+November Diff. M. D. M. South 1 17 35 16 2 17 51 16 3 18 7 16 4 18 23 16 5 18
+39 15 6 18 54 15 7 19 9 14 8 19 23 14 9 19 37 14 10 19 51 13 11 20 4 13 12 20
+17 13 13 20 30 12 14 20 42 12 15 20 54 11 16 21 5 11 17 21 16 11 18 21 27 10 19
+21 37 10 20 21 47 9 21 21 56 9 22 22 5 8 23 22 13 8 24 22 21 8 25 22 29 7 26 22
+36 7 27 22 43 6 28 22 49 6 29 22 55 6 30 23 1 5 Days December Diff M. M. D.
+South 1 23 6 4 2 23 10 4 3 23 14 4 4 23 18 3 5 23 21 2 6 23 23 2 7 23 25 2 8 23
+27 1 9 23 28 1 10 23 29 0 11 23 29 0 12 23 29 1 13 23 28 1 14 23 27 1 15 23 26
+2 16 23 24 3 17 23 21 3 18 23 18 3 19 23 15 4 20 23 11 5 21 23 6 5 22 23 1 5 23
+22 56 6 24 22 50 6 25 22 44 7 26 22 37 7 27 22 30 8 28 22 22 8 29 22 14 8 30 22
+6 9 31 21 57
+
+A TABLE Of the Suns Declination For the Year 1684. Being Bissextile or
+Leap-Year.
+For the Year 1684. Days January Diff. M. D. M. South 1 21 48 10 2 21 38 10 3
+21 28 11 4 21 17 11 5 21 6 11 6 20 55 12 7 20 43 12 8 20 31 13 9 20 18 13 10 20
+5 13 11 19 52 13 12 19 39 14 13 19 25 15 14 19 10 15 15 18 55 15 16 18 40 15 17
+18 25 16 18 18 9 16 19 17 53 16 20 17 37 17 21 17 20 17 22 17 3 17 23 16 46 18
+24 16 28 18 25 16 10 18 26 15 52 19 27 15 33 19 28 15 14 19 29 14 55 19 30 14
+36 19 31 14 17 Days February Diff. M D. M. South 1 13 57 20 2 13 37 20 4 13 17
+20 4 12 57 21 5 12 36 21 6 12 15 21 7 11 54 21 8 11 33 21 9 11 12 21 10 10 51
+22 11 10 29 22 12 10 7 22 13 9 45 22 14 9 23 22 15 9 1 23 16 8 38 22 17 8 16 23
+18 7 53 23 19 7 30 23 20 7 7 23 21 6 44 23 22 6 21 23 23 5 58 23 24 5 35 23 25
+5 12 23 26 4 49 24 27 4 25 23 28 4 2 24 3 38 23 Days March Diff. M. D. M. So.
+No. 1 3 15 24 2 2 51 24 3 2 27 23 4 2 4 24 5 1 40 24 6 1 16 24 7 0 52 23 8 0 29
+24 9 0 5 24 10 0 No. 19 23 11 0 42 24 12 1 6 23 13 1 29 24 14 1 53 24 15 2 17
+23 16 2 40 24 17 3 4 23 18 3 27 23 19 3 50 23 20 4 13 24 21 4 37 23 22 5 0 23
+23 5 23 23 24 5 45 22 25 6 8 23 26 6 31 22 27 6 53 23 28 7 16 22 29 7 38 22 30
+8 0 22 31 8 22 Days April Diff. M. D. M. North 1 8 44 22 2 9 6 22 3 9 28 21 4 9
+49 22 5 10 11 21 6 10 32 21 7 10 53 21 8 11 14 20 9 11 34 21 10 11 55 20 11 12
+15 20 12 12 35 20 13 12 55 20 14 13 15 19 15 13 34 19 16 13 53 19 17 14 12 19
+18 14 31 18 19 14 49 18 20 15 7 18 21 15 25 18 22 15 43 18 23 16 1 17 24 16 18
+17 25 16 35 17 26 16 52 17 27 17 8 16 28 17 24 16 29 17 40 16 30 17 55 15 15
+Days May Diff. M. D. M. North. 1 18 10 15 2 18 25 15 3 18 40 14 4 18 54 14 5 19
+8 14 6 19 22 13 7 19 35 13 8 19 48 13 9 20 1 12 10 20 13 12 11 20 25 12 12 20
+37 11 13 20 48 11 14 20 59 11 15 21 10 10 16 21 20 10 17 21 30 10 18 21 40 9 19
+21 49 9 20 21 58 8 21 22 6 8 22 22 14 7 23 22 21 7 24 22 28 7 25 22 35 7 26 22
+42 6 27 22 48 5 28 22 53 5 29 22 58 5 30 23 3 5 31 23 8 4 Days June Diff. M. D.
+M. North 1 23 12 4 2 23 16 3 3 23 19 3 4 23 21 3 5 23 24 2 6 23 26 1 7 23 27 1
+8 23 28 1 9 23 29 0 10 23 29 0 11 23 29 0 12 23 29 1 13 23 28 1 14 23 27 2 15
+23 25 2 16 23 23 3 17 23 20 3 18 23 17 3 19 23 14 4 20 23 10 4 21 23 6 5 22 23
+1 5 23 22 56 5 24 22 51 6 25 22 45 6 26 22 39 7 27 22 32 7 28 22 25 7 29 22 18
+8 30 22 10 8 Days July Diff. M. D. M. North 1 22 2 9 2 21 53 9 3 21 44 9 4 21
+35 9 5 21 26 10 6 21 16 11 7 21 5 11 8 20 54 11 9 20 43 11 10 20 32 12 11 20 20
+12 12 20 8 12 13 19 56 13 14 19 43 13 15 19 30 14 16 19 16 14 17 19 2 14 18 18
+48 14 19 18 34 15 20 18 19 15 21 18 4 15 22 17 49 16 23 17 33 16 24 17 17 16 25
+17 1 16 26 16 45 17 27 16 28 17 28 16 11 17 29 15 54 17 30 15 37 18 31 15 19
+Day August Diff. M. D. M. North 1 15 1 18 2 14 43 18 3 14 25 19 4 14 6 19 5 13
+47 19 6 13 28 19 7 13 9 20 8 12 49 20 9 12 29 20 10 12 9 20 11 11 49 20 12 11
+29 21 13 11 8 20 14 10 48 21 15 10 27 21 16 10 6 21 17 9 45 22 18 9 23 21 19 9
+2 22 20 8 40 22 21 8 18 22 22 7 56 22 23 7 34 22 24 7 12 22 25 6 50 23 26 6 27
+22 27 6 5 23 28 5 42 23 29 5 19 22 30 4 57 23 31 4 34 Days September Diff. M.
+D. M. No. So. 1 4 11 23 2 4 48 23 3 3 25 24 4 3 1 23 5 2 38 23 6 2 15 23 7 1 52
+24 8 1 28 23 9 1 5 24 10 0 41 23 11 0 18 24 12 0 South 6 23 13 0 29 24 14 0 53
+23 15 1 16 24 16 1 40 23 17 2 3 24 18 2 27 23 19 2 50 24 20 3 14 23 21 3 37 23
+22 4 0 24 23 4 24 23 24 4 47 23 25 5 10 23 26 5 33 23 27 5 56 23 28 6 19 23 29
+6 42 23 30 7 5 23 Days. October Diff. M. D. M. South 1 7 28 22 2 7 50 23 3 8 13
+22 4 8 35 22 5 8 57 22 6 9 19 22 7 9 41 22 8 10 3 22 9 10 25 21 10 10 46 22 11
+11 8 21 12 11 29 21 13 11 50 21 14 12 11 21 15 12 32 20 16 12 52 20 17 13 12 20
+18 13 32 20 19 13 52 20 20 14 12 19 21 14 31 19 22 14 50 19 23 15 9 19 24 15 28
+18 25 15 46 18 26 16 4 18 27 16 22 18 28 16 40 17 29 16 57 17 30 17 14 17 31 17
+31 Days November Diff. M D. M. South 1 17 47 16 2 18 3 16 3 18 19 16 4 18 35 15
+5 18 50 15 6 19 5 14 7 19 19 14 8 19 33 14 9 19 47 14 10 20 1 13 11 20 14 12 12
+20 26 13 13 20 39 12 14 20 51 11 15 21 2 11 16 21 13 11 17 21 24 10 18 21 34 10
+19 21 44 10 20 21 54 9 21 22 3 8 22 22 11 8 23 22 19 8 24 22 27 7 25 22 34 7 26
+22 41 7 27 22 48 6 28 22 54 5 29 22 59 5 30 23 4 Days December Diff M. M. D.
+South 1 23 9 4 2 23 13 4 3 23 17 3 4 23 20 3 5 23 23 2 6 23 25 2 7 23 27 1 8 23
+28 1 9 23 29 0 10 23 29 0 11 23 29 0 12 23 29 1 13 23 28 2 14 23 26 2 15 23 24
+2 16 23 22 3 17 23 19 3 18 23 16 4 19 23 12 4 20 23 8 5 21 23 3 5 22 22 57 5 23
+22 52 6 24 22 46 7 25 22 39 7 26 22 32 8 27 22 24 8 28 22 16 8 29 22 8 9 30 21
+59 9 31 21 50
+
+A TABLE Of the Differences of Meridians Of the most considerable Places In the
+whole World, In respect of PARIS, With the Height of the Pole or Latitude of
+the same places.
+The Differences of Meridians. Names of places. Differences of Meridians Height
+of the Pole or Latitude H. M. D. M. Abbeville 0 1 add 50 0 Nor. Agra 5 26
+subst. 26 0 Aiz Prove. 0 14 43 33 Aleppo 2 50 36 46 Alexandria Ae. 2 13 30 58
+Amiens 0 0 49 55 Amsterdam 0 14 52 21 Angers 0 11 add 47 32 Antwerp 0 15 subst.
+51 12 Arles 0 11 43 36 Arras 0 2 50 9 Archangello 2 49 65 30 Athens 1 35 7 40
+Avignon 0 11 43 52 Bayonne 0 15 add 43 30 Blois 0 3 47 46 Bordeaux 0 10 44 50
+Bourges 0 0 47 20 Boulogne It. 0 40 subst. 44 20 Breast 0 28 add 48 23 Brussels
+0 15 subst. 50 48 Names of Places Differences of Meridians Height of the Pole
+or Latitude H, M. D. M. Cadis 0 37 add 36 16 Caen 0 9 49 11 Callais 0 2 50 57
+Camboge 6 53 subst. 11 20 Cambray 0 3 50 5 Cap. of b. Es. 1 11 34 32 South
+Cap-Verd 1 34 add 14 27 North Chartres 0 4 48 30 Constantinop. 2 0 subst. 42 56
+Copenhagen 0 42 55 43 Cracovi 1 14 50 10 Dantzick 1 12 subst. 54 22 Dieppe 0 4
+add 49 56 Dijon 0 12 subst. 47 28 Dole 0 13 47 20 Doway 0 3 50 15 Dunkerk 0 0
+51 1 Ferare 0 41 subst. 44 54 Isle de Fer. 1 38 add 28 10 Fez 0 31 33 10 La
+Fleche 0 10 47 42 Names of Places. Differences of Meridians Height of the Pole
+or Latitude H. M. D. M. Florence 0 40 subst. 43 41 Franc^ort M. 0 27 50 4
+Fribourg 0 2^ 48 16 Gaunt 0 6 51 2 Geneva 0 17 46 20 Goa 4 58 15 30 Grenoble 0
+15 45 11 Hambourgh 0 34 53 43 Havre de Gr. 0 8 add 49 7 Jerusalem 2 36 subst.
+32 0 Hispaam 4 16 36 14 R^chelle 0 13 add 46 11 Leiden 0 12 subst. 52 12 Lima
+Per. 5 31 add 12 20 South Lisbon 0 50 ^8 40 North London 0 8 51 32 Loudun 0 8
+48 0 Lovain 0 13 subst. 50 50 Lucques 0 37 43 40 Luxembourg 0 20 49 38 Lions 0
+11 45 46 Names of Places. Differences of Meridians Height of the Pole or
+Latitude D. M. D. M. Macon 0 11 subst. 46 20 Madrid 0 25 add 40 10 Malta 0 53
+subst. 35 40 Malaca 6 45 2 20 S. Malo 0 18 add 48 39 Mantove 0 37 subst. 45 1
+Marseilles 0 14 43 15 Martinique 4 15 add 14 14 Meaux 0 2 subst. 48 56 Messina
+0 58 38 21 Metz 0 19 49 10 Messique 7 8 add 20 30 Millan 0 31 subst. 45 15
+Modene 0 38 44 39 Monaco 0 23 43 39 Montpellier 0 6 43 37 Munick 0 50 48 58
+Namur 0 13 subst. 50 26 Nancy 0 19 48 39 Nantes 0 16 46 13 Naples 0 56 41 5
+Narbonne 0 3 43 6 Nevers 0 2 47 19 Names of Places. Differences of Meridians
+Height of the Pole or Latitude H. M. D. M. Ostend 0 3 subst. 51 16 Orleans 0 2
+add 47 54 Ormus 4 0 subst. 27 35 Paris 0 0 48 51 Parma 0 36 subst. 44 45 Pavia
+0 31 44 58 Padoua 0 42 45 31 Pexing Chi. 7 45 40 0 Perigeux 0 9 add 45 34
+Perpignan 0 5 subst. 45 52 Pernanibouc. 2 57 add 7 40 South Perouge 0 44 subst.
+42 56 North Pisa 0 38 43 9 Plaisance 0 33 44 53 Poictiers 0 6 add 47 7
+Porto-belo. 5 41 9 55 Prague 0 58 subst. 50 40 Quebec 4 36 add 47 0 S. Quentin.
+0 6 subst. 49 46 Rennes 0 16 add 47 58 Rhemes 0 9 subst. 49 12 Riga 1 31 56 52
+Names of Places. Differences of Meridians Height of the Pole or Latitude H. M.
+D. M. Rome 0 47 subst. 41 54 Rouen 0 4 add 49 27 Saints 0 11 add 45 38 Savone
+0 28 subst. 44 18 Sienne 0 41 43 11 Siras 3 42 34 14 Smirna 2 56 38 22
+Strasbourgh 0 24 48 31 Stettin 0 54 53 34 Stockholm 1 7 59 30 Tangier 0 56 add
+35 25 Toulouse 0 2 43 29 Toleda 0 26 39 52 Tours 0 6 47 35 Tournay 0 5 subst.
+50 32 Tutin 0 25 44 9 Toulon 0 17 43 Valencienne 0 4 subst. 50 20 Verdun 0 38
+45 33 Vienna 1 2 48 22
+
+ADVERTISEMENT.
+I Have begun to travel for the Impression of an entire Work of the Conique
+Sections, where you shall find not only all the most excellent things has been
+discovered in this patt of the Mathematics, but also a great number of new
+Properties which I have discovered, and whereof I have published every one upon
+different occasions.
+
+The Method of the Principal Demonstration is particular to my self, and I have
+used it to abridge very much this whole Work; I have given an Essay of this New
+Method, which I caused to be Printed, concerning the Conique Sections in the
+Year 1675.
+
+See here in few words the order of these Books and what they contain.
+
+The First Book contains the Lemma's that are necessary for this Method.
+
+The Second contains the original of the Three Conique Sections, with the
+Properties of their Diameters, and all that which depends on a Line cut
+harmonically or into two equal parts, the original of the Asymptotes, and in
+the end diverse Problems depending on these Principles.
+
+The Third explains the relation of the Ordinate Lines to their Diameters, with
+the Rect-angles of the parts of the Diameters, Parameters, and that which
+concerns the Tangents.
+
+The Fourth makes that appear which is most considerable touching the
+Asymptotes.
+
+The Fifth Book is filled with near* 40 most curious Propositions upon the
+Conique Sections.
+
+In the Sixth Book is treated of equal and like Sections.
+
+The Seventh is continued all along on that which is called the least and
+greatest.
+
+The Eighth treats of the Foci of the Three Sections.
+
+In the Ninth Book is taught certain, most plain, and most useful Methods for
+the Description of these Sections.
+
+Then I show you in an Appendix after what manner we ought to resolve the
+Conique Sections that have for their Bases, Paraboles, Hyperboles and Elipses,
+and also all Cylinders of the same Species.
+
+Afterward I demonstrate that by the same Method, and without difficulty, we
+may demonstrate all the Properties of the Conique Sections of whatsoever
+compounded kind they are, I draw them from their Cones or Pyramids, which I
+distinguished by Cones of the first kind, of the second kind, of the third
+kind, etc. These sorts of Cones have for their Bases Circles of all these
+kinds, and then having explained after what manner we may render all the
+Lemma's of the first Book universal, I explain in the same manner that which is
+the Second Book, and in one part of the following the Sections of all Cones of
+any kind.
+
+The Demonstrations are the same as for the Sections of the first Cone, which
+is that which has the Circle of the first kind for its base: After that I see
+not any thing that we can desire more universal, nor more easy on this same
+Atiere.
+
+The Approbation.
+THis Treatise of the Gnomiques, or the Art of Drawing of Sun Dials, composed
+by Mr. De la Hire, has been read to the Assembly of the Academy Royal of
+Sciences, made the 9th of May 1682.
+
+J. B. Du Hamel Secretary of the Academy of Sciences.
+
+THe Approbation seen, permitted to be Imprinted, made the 23th of May 1682.
+
+DE LA REYNIE.
+
+THis Geometrical way of Mr. De la Hire for Drawing Sun- Dials on Fixed Planes
+is universal. The Instruments that are used to perform the Practice thereof are
+only a Plain Scale and a Pair of Compasses for finding the Substylar and
+Equinoctial Lines on the given Plane, with the situation of the Axis of the
+Style in respect of the said Plane, the Observations being made by the Sun from
+several Shadows of the Point of a Fixed Style set upon the said Plane. And by a
+Level and Plumb Line for finding the situation of the Meridian and Horizontal
+Lines of the Place on the Plane of the Dial; which Practice of Dialling he
+chiefly demonstrates from the Intersections of Planes, the Doctrine whereof is
+contained in the 11th Book of Euclid's Elements. And because he has given no
+particular Example of this general way of Dialling in this Treatise, I have
+thought good to add this Example following:
+
+A particular Example of this General Method of Dialling Illustrated by Numbers.
+
+There is a Style fixed on a Fixed Plane, whose perpendicular height is S P 1
+inch 64 parts, or 164 parts. Now, the Sun shining, if there be taken Two Points
+of Shadow of the top of the Style S on the said Plane, as A and B, on that day
+when the Suns Declination is 21 degrees. 40 min. South, and that P B the Distance
+of the Point B, from P the foot of the Style may be 55 parts, and the Distance
+of the Point A from P may be P A 366 parts, and that the Distance of the Point
+A from B may be B A 415 parts.
+
+Now from these things given, it is required to find the situation of the
+Substylar and Equinoctial Lines, and to find the Center of the Dial on the said
+Plane, and to determine the position of the Axis of the Dial by Calculation.
+
+[The Geometrical Operation of this is to be found in the Sixth Chapter, page
+16th of this Treatise, and in the 5th Figure.]
+
+First in the Right-angled Triangle S P B.
+There is given P S 164 parts, the perpendicular height of the Style, and P B
+55 parts the distance of the Point of Shadow B from P the foot of the Style;
+
+To find the Vertical Angle P S B, and the Hypotenuse S B, which is the length
+of the Ray of the Sun from the top of the Style S to the Point of Shadow B,
+
+The Proportion is as S P 164 parts, Is to P B 55 parts:
+
+So is the Radius, To the Tang. of the Angle PSB 18 d. 32 m.
+
+And as the Sine of the Angle PSB 18 d. 32 min.
+
+Is to PB 55 parts,
+
+So is the Sine of 90 degrees.
+
+To S B 173 parts.
+
+Secondly, In the Right-angled Triangle S P A,
+There is given the perpendicular P S 164 parts
+
+And the Base P A 366 parts,
+
+To find the Vertical Angle PSA and the Hypotenuse S A.
+
+The Proportion is, As S P 164 parts.
+
+Is to P A 366 parts.
+
+So is the Radius
+
+To the Tangent of the Angle PSA 65 d. 52 m.
+
+And as the Sine of the Angle P SA 65 d. 52 m.
+
+Is to P A 366 parts,
+
+So is the Sine of 90 degrees,
+
+To S A 401 parts.
+
+Thirdly in the Obliquangular Triangle s d b.
+There is given the two sides s b 173 parts and s.d 100 parts, taken at
+pleasure, and the contained Angle d s b 68 degrees. 20 min. the Complement of the
+Suns Declination.
+
+To find the other two Angles s d b and s b d, and the third side d b.
+
+From -- 180 degrees. 00 min.
+
+Take the given Angle d s b 68 20
+
+And there shall remain -- 111 degrees. 40 min.
+
+The half whereof is -- 55 degrees. 50 min.
+
+Then the greater side is s b 173 parts,
+
+And the less side is s d 100 parts.
+
+Then as the Sum of the sides 273 parts,
+
+Is to the difference of the sides 73 parts:
+
+So is the Tangent of 55 degrees. 50 min.
+
+To the Tangent of 21 degrees. 30 min.
+
+The Sum is s d b 77 degrees. 20 min.
+
+The Difference is s b d 34 degrees. 20 min.
+
+Then as the Sine of the Angle s b d 34 d. 20 m.
+
+Is to the Sine of the Angle d s b 68 d. 20 m.
+
+So is s d 100 parts,
+
+To d b 164 parts.
+
+Fourthly, In the Obliquangular Triangle s d a*
+There is given the two sides s a 401 parts, and s d 100 parts, and the
+contained Angle d s a,
+
+To find the other two Angles s d a and s a d, and the third side d a.
+
+Then the greater side is s a 401 parts,
+
+And the less side is s d 100
+
+Then as the Sum of the sides 501
+
+Is to the Difference of the sides 301
+
+So is the Tangent of 55 degrees. 50 min.
+
+To the Tangent of 41 31
+
+The Angle s d a -- 97 21
+
+The Angle s a d -- 14 19
+
+Then as the Sine of the Angle s a d 14 d. 19m.
+
+Is to the Sine of the Angle a s d 68 20
+
+So is s d 100 parts,
+
+To d a 376 parts.
+
+Fifthly, In the Obliquangular Triangle BAT.
+There is given the Base B A 415 parts, and the two sides A T 376 parts, and B
+T 164 parts,
+
+To find the Segments of the Base O A and O B, and the perpendicular O T.
+
+The greater side is A T 376 parts,
+
+The less side is B T 164 parts.
+
+The Sum of the sides -- 540 parts
+
+The Difference of the sides 212
+
+Therefore as the Base B A -- 415 parts,
+
+Is to the Sum of the sides -- 540
+
+So is the difference of the sides -- 212
+
+To the difference of the Seg. of the Base 276
+
+Therefore to B A -- 415 parts
+
+Add -- 276
+
+The Sum is 691
+
+The half Sum is A O -- 345.
+
+And from B A 415 parts,
+
+Substract -- 276
+
+The Difference is 139
+
+The half is B O -- 69.
+
+The side B T is 164 parts,
+
+And B O is -- 69
+
+The Sum is 233 parts, Log. 2.367356
+
+The Difference is 95 parts, Log. 1.977724
+
+Sum Log. 4.345080
+
+Half Sum Log. 2.172540
+
+Log. of O T 149 parts.
+
+Sixthly, In the Obliquangular Triangle BPA,
+There is given the Base B A 415 parts, and the two sides P A 366 parts and P B
+55 parts,
+
+To find B x and A x the Segments of the Base and the perpendicular P x.
+
+The greater side P A 366 parts,
+
+The less side P B -- 55
+
+Their Sum is -- 421
+
+Their Difference is 311
+
+Therefore as the Base B A 415 parts,
+
+Is to the Sum of the sides 421 parts:
+
+So is the difference of the sides 311
+
+To -- 315
+
+Therefore to B A -- 415 parts
+
+Add -- 315
+
+The Sum is -- 730
+
+The is the greater Segment A x. 365
+
+And from B A -- 415 parts
+
+Substract -- 315
+
+The Difference is -- 100
+
+The is the less Segment B x -- 50
+
+The less side B P 55
+
+The Segment B x 50
+
+The Sum is -- 105 Log. 2.021189
+
+The difference is 5 Log. 0.698970
+
+The Sum of the Log. -- 2.720159
+
+The Sum is the Log. of P x 23, 2.360079
+
+B O 69 parts
+
+B x 50
+
+O x 19
+
+Seventhly, In the Right-angled Triangle P G I,
+There is given the Hypotenuse PI 1000 parts, and the side P G 19 parts,
+
+To find the side G I.
+
+The greater side P I 100 parts
+
+The less side P G 19
+
+Their Sum -- 119 parts, Log. 2.075547
+
+Their difference 81 parts, Log. 1.903485
+
+The Sum of the Log. 3.984032
+
+The Sum is the Log. of GI 98 parts, 1.992016
+
+Eighthly, In the Right-angled Triangle K G O,
+There is given KG 164 parts and O G 23 parts, To find the Angle G K G, and the
+side O K.
+
+The Proportion is as G K 164 parts,
+
+Is to G O 23 parts:
+
+So is the Radius, To the Tangent of the Angle G K O 7 d. 59 m.
+
+And as the Sine of 7 degrees. 59 min.
+
+Is to G O 23 parts:
+
+So is the Radius,
+
+To O K 166 parts.
+
+Ninthly, In the Obliquangular Triangle OKD,
+There is given the Base O K 166 parts, and O D 149 parts, equal to the Radius
+of the Semicircle L D T and K D 98 parts,
+
+To find the Angle O K D.
+
+O D 149 parts
+
+K D 98 parts
+
+Their Sum 247
+
+Their Difference 51
+
+Then as the Base O K 166 parts
+
+Is to the Sum -- 247
+
+So is the difference -- 51
+
+To -- 76
+
+Therefore to O K 166 parts
+
+Add 76
+
+The Sum is 242
+
+The Sum is O y 121
+
+And from O K 166 parts
+
+Substract -- 76
+
+The difference is -- 90
+
+The difference is K 745
+
+Then as D K 98
+
+Is to K y 45
+
+So is the Sine of 90 degrees,
+
+To the Sine of the Angle K D y 27 d. 20 m.
+
+The Complement is the Angle DK y 62 d. 40m.
+
+Subtract the Angle G K O 7 d. 59 m.
+
+Remains the Angle D K z 54 d. 41. m.
+
+Tenthly, In the Right-angled ^^^^ngle D K z,
+There is given the Hypotenuie D K 98 parts and the Angle D K z 54 degrees 41
+minutes,
+
+To find the perpendicular D z and the Base K z:
+
+For as the Sine of D z K 90 degrees.
+
+Is to the Hypotenuse D K 98 parts
+
+So is the Sine of the Angle D K z 54 d. 41 m.
+
+To the perpendicular D z 57 parts.
+
+Eleventhly, In the Right-angled Triangle P G Q,
+There is given the Base P G 19 parts,
+
+And the perpendicular G Q 80 parts,
+
+To find the Hypotenuse P Q.
+
+The proportion is as G Q 80 parts,
+
+Is to P G 19 parts:
+
+So is the Radius,
+
+To the Tangent of the Angle P G Q 13 degrees. 20 min.
+
+And as the Sine of the Angle P Q G 13 d. 20 m.
+
+Is to P G 19 parts:
+
+So is the Sine of 90 degrees,
+
+To P Q 82 parts.
+
+Then from N P 164
+
+Take -- N r 57
+
+Remains -- r P 107
+
+Twelfthly, To find P C;
+There is given N r 57, and r M 82, and N P 164. The Proportion is,
+
+As N r 57
+
+Is to r M 82
+
+So is NP 164
+
+To P C -- 236
+
+Lastly, To find P E,
+
+The Proportion is,
+
+As P C 236
+
+Is to P N 164
+
+So is P N 164
+
+To P E 114
+
+Now if the Plane of the Dial be on an upright Wall, the Meridian Line may be
+found as in the 13th Chapter of the First Part, Figure 14th, and the Hours may
+be set on the Equinoctial Line by the First Chapter of the Second Part, Fig. 21.
+
+And Six Hours being given, the rest may be found by the Third Chapter of the
+Second Part.
+
+Or Four Hours and the Equinoctial Line being given, the rest may
+
+35 Figure
+
+
+be found by the Ninth Chapter of the Second Part.
+
+And then the Dial may be drawn as in the 35th Figure.
+
+FINIS.
+
