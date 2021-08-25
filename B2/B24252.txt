@@ -1,0 +1,298 @@
+AN EXPLANATION OF Mr GVNTER'S Quadrant, As it is enlarged with an ANALEMMA.
+
+BY RICHARD HOLLAND, Mathemat.
+
+This Book, with all Mathematical Instruments, are Made and Sold by JOHN
+PRVJEAN. Mathematick-Instrument-maker, near New College, in Oxon.
+
+OXFORD, Printed by LEON. LICHFIELD Printer to the University, Anno Dom. 1676.
+
+To Rectify the Quadrant.
+1. LAy the String to the day of the month, and put the Bead to the 12 a clock
+line.
+
+To find the Suns place in the Ecliptic.
+
+2. By the first, rectify and move about the String till the Bead come to the
+Ecliptic, and there it shows the Suns place, the time of the year being
+considered.
+
+To find the right Ascension of the Sun.
+
+3. By the first, rectify and move the String about till the Bead fall upon
+the Ecliptic, and then the string will show the right ascension in the Limb of
+the Quadrant, the time of the year being considered.
+
+For if the Sun be in the Spring Signs, then the right ascension is so much,
+as it is from the beginning of the Quadrant to the String: But if the Sun be in
+the Autumn Signs, then the right ascension is so much, as it is from the
+beginning of the Quadrant, and two Quadrants more.
+
+And if the Sun be in the Summer signs, then the right Ascension is so much as
+from the end of the Quadrant to the String, and one Quadrant more. But if the
+Sun be in the Winter signs, then the right Ascension is as much, as it is from
+the String to the end of the Quadrant, and three Quadrants more.
+
+To find the Amplitude of the Sun.
+
+4. Rectify and move the String till the Bead fall upon the Horizontal line,
+and there it shows the Amplitude.
+
+To find the Ascensional difference of the Sun.
+
+5. Rectify, and move about the String till the Bead fall upon the Horizontal
+line, and then the distance from the beginning of the Quadrant accounted in the
+Limb to the String is the Ascensional difference.
+
+Hence to get the time of Sun rising to a minute of an hour.
+
+6. Turn the Ascensional difference into time, accounting every 15 degrees
+thereof for one hour, and every odd degree for 4 minutes of an hour, (that is
+multiply the odd degrees by 4, to make them minutes) and if the Sun be in the
+spring, or summer signs, account the time found, before 6 in the morning; but
+in autumn or winter account it after 6 in the morning.
+
+To get the time of Sun rising (...), yet more groslly.
+
+7. Rectify, and move the string to that side of the Quadrant next the line of
+Declination, and there the Bead falls on the hour.
+
+To find the Declination of the Sun.
+
+8. Rectify, and move about the String to the line of Declination, and there
+the Bead falls on the degree of Declination, and if the Sun be in the spring
+or summer signs, the Declination is North, but if the Sun be in the autumn or
+winter signs, the Declination is South.
+
+To get the Latitude of the place where you are.
+
+9. First, get the Declination of the Sun by the 8. Proposition, and consider
+whether it be North or South, upon the day you will make observation, and then
+take the Meridian Altitude of the Sun, and if the Declination thereof be North,
+take it from the Meridian Altitude to leave the Complement of Latitude; but if
+the Declination be South, then add it to the Meridian Altitude, to make up the
+Complement of Latitude, which Complement being had, take it from 90 degrees,
+the remain is the Latitude desired.
+
+To (...) the hour of the day.
+
+10. Rectify, and hold the Quadrant so, that the Sun beams may pass through
+the Sight-holes of the Quadrant, and then the Bead falls on the hour.
+
+To get the Azimuth of the Sun.
+
+11. Rectify, and take the present Altitude of the Sun, then account the same
+Altitude from the end of the Quadrant, and there lay the String, so shall the
+Bead show the Azimuth among the Azimuth lines.
+
+To get the Suns Altitude at any hour of the day.
+
+12. Rectify, and carry the String about till the Bead fall upon the hour
+given, and the String shows the Altitude in the Limb, being reckoned from the
+beginning of the Quadrant.
+
+To find the Altitude of the Sun when he comes to the true East or West.
+
+13. Rectify, and lay the Bead on the East and West line, and so the String
+shows the Altitude in the Limb, being reckoned from the end of the Quadrant.
+
+To find the time when the Sun comes to true East or West.
+
+14. Rectify, and carry about the String till the Bead fall unpon the East and
+West Line, then so many degrees of the Limb as the String wants from the end
+of the Quadrant, let be accounted from the beginning of the Quadrant, and lay
+the String there, so the Bead falls upon the hour.
+
+To get the time of Daybreak, (if any be.)
+
+15. Rectify, and lay the String to 18 Degrees from the beginning of the Limb,
+and so the Bead shall fall upon the hour of Daybreak, in the hour lines of the
+contrary time of the year, and contrary time of the day.
+
+The use of the Stars scattered in the Quadrant.
+
+They are to find the hour of the Night, if any of them appear, when the
+Northern Stars of the Nocturnal happen to be obscured.
+
+Where Note, that each of these Stars have a Figure before it, which refers
+to one of the Denticles on the edge of the Nocturnal, where those Stars are to
+be used, and those Denticles are put on according to the right ascension of
+those Stars.
+
+The Use of the Scattered Stars follows.
+
+16. Rectify the Bead to the Star, that is, lay the String to the Star, and
+put the Bead to the Center of the Star, and then see the Star through the
+Sights, and observe where the Bead falls among the summer hour lines, and if
+the Star which you observe be toward the East, then you must reckon by the
+Morning hour, but if it be in the West, then take the hour of the Afternoon;
+now turn over the Quadrant, and turn about the Nocturnal till the Denticle of
+the same Star observed does ly upon the hour which you found on the Quadrant
+side, and then look for the day of the Month on the edge of the Nocturnal, and
+it stands at the hour of the night.
+
+17. Hereby also the hour of the Night may be found; for if any of the same
+Stars be at the Meridian, and turning the proper Denticle to 12. at Night, then
+the day of the month will stand at the hour of the night.
+
+Concerning the Rundle on the backside of the Quadrant.
+THis contains two things, viz. The Nocturnal, and the Analemma.
+
+To the Nocturnal pertains the Hour Circle on the backside of the Quadrant,
+and the Circle of Months on the Limb of the Rundle, and all the Constellations
+graven within the same; the Pin on which it turns about represents the Pole
+of the world.
+
+The use of it is to find the hour of the night in any place of the
+North-latitude, thus.
+
+18. Observe some Star of the Nocturnal at the Meridian in the Heavens, and
+turn the same of the Nocturnal to the line of 12. so shall the the day of the
+month of the Nocturnal stand at the Hour of Night.
+
+Of the Quadrat.
+19. TO get an Accessible Altitude, First measure a distance from the Base, and
+observe the Summitie through the Sights, and see on what part or division of
+the Quadrat the String falls; If on 100, then is the measured distance and
+Altitude of the thing above your eye, equal: If on 50, on the farther side of
+the Quadrat, or Vmbra recta; then is your distance double to the height; If on
+25, on the same side, then is your distance quadruple to the height; For the
+proportion is,
+
+As 100,
+To the parts cut by the String;
+So is the measured distance,
+To the height.
+But if the String fall on 50, on the nearer side of the Quadrat, or Vmbra
+versa, then is your distance but half the height: If on 25, on the same side,
+then is your distance but one quarter of the height above your eye; For the
+proportion is,
+
+As the parts cut by the String,
+To 100.
+So is the distance measured,
+To the height.
+20. Hence it follows, That if the ground will permit to take a station at
+will, then let 50 Foot, Yards, etc. be measured, and after observation of the
+Summitie, take half the number of the parts cut by the String on the farther
+side for the height desired. If 25 be measured then take one quarter of the
+parts cut, for the Altitude required. This is without any Arithmetical
+operation: The reason thereof is; seeing that it is as in the first.
+
+As 100,
+To the parts cut;
+So the distance,
+To the height.
+Therefore by Alternation of proportion
+
+As 100,
+To the distance;
+So the parts cut,
+To the height.
+But seeing that the distance is, or of 100, therefore also the height is, or
+of the parts cut.
+
+To get an Inaccessible Altitude.
+
+21. If the height be inaccessible (that is where you cannot measure to the
+Base) then must you take two Stations both in a right line, with the Base of
+the thing, and at each Station observe the Summitie, noting the parts cut both
+on the farther side of the Quadrat, and also measure the distance between the
+two Stations: Then must you divide 10000 by each number of parts cut at each
+Station.
+
+For the proportion is
+
+As the difference of the two Quotients,
+Is to the distance between the Stations:
+So is 100,
+To the Altitude required.
+And to get the distance, from the nearer Station to the Base of the thing, the
+proportion is
+
+As the difference between the Quotients,
+To the distance between the Stations;
+So the lesser Quotient,
+To the distance desired.
+Of the Analemma.
+THis contains all the lines in the Rundle, not before mentioned in the
+Nocturnal, viz. The Inner Circle being the Meridian of the Analemma, and it is
+divided into 360 degrees: And all the straight lines drawn therein: The
+Equinoctial is the middle of the Parallel lines, and passes through the Center
+of the Rundle, and the two outer lines of the Parallels, are the two Tropicks,
+the rest of the Parallels, are the intermediate lines of the Suns declination:
+The Crooked lines which are drawn over the lines of Declination, are the Hour
+lines, and at each end are figured with their proper figures: The Line which
+cutteth the lines of Declination at right Angles, is the Axis, and the ends
+thereof are the Poles of the Analemma: The moveable Index fastened upon the Pin
+in the Center, represents these Five Points, viz. The Center of the World:
+The points of East, and West, and of and.
+
+To Rectify the Analemma.
+
+Put the Horizon so far under the Pole thereof, as the Pole of the World is
+elevated in the place where you are.
+
+To find the Amplitude of the Sun.
+
+Rectify, and observe where the Parallel of the Suns Declination, meets with
+the Horizon, for there it shows the Amplitude.
+
+To find the time of Sun Riseing.
+
+Rectify and observe what Hour line meets with the Section of the Horizon,
+and the Parallel of the Suns Declination, and that is the hour.
+
+To find the Hour of the day.
+
+First observe the Altitude of the Sun with the Quadrant, then Rectify the
+Analemma, and with your Compasses take the Altitude, from the Center along in
+the Horizon, and run the Compasses so opened perpendicular on the Horizon, till
+the higher foot touch the Parallel of the Suns Declination, and there it
+meets with the hour.
+
+To get the time of Day break, if any be.
+
+Rectify, and take 18 degrees along in the Horizon, and put one foot of the
+Compasses to the upper edg of the Horizon, and turn the other downwards and so
+run them parallel till the lower foot touch the Parallel of the Suns
+Declination, and there it meets with the hour.
+
+To find the continuance of Twilight, or Crepusculum.
+
+Take the hour of Daybreak from the hour of Suns rising, and the difference is
+the time desired.
+
+To find the Ascensional difference in Time.
+
+Take the time of Sun rising from 6, if the Sun be in the North Declination,
+but if the Sun have South Declination, then take 6, from the time of the Suns
+rising; and in either case you have the ascensional difference remaining.
+
+Hence the length of the day and night may be found in any Latitude.
+
+Which may be thus done: If the Latitude and Suns Declination be North, then
+add the ascensional difference to 6, and the total is the Semidiurnal Arch, and
+taken from 6, leaves the Seminocturnal Arch. But if the Latitude be North, and
+the Suns Declinasion be South, then take the ascentional difference from 6, to
+leave the Semidiurnal Arch, but add it to 6, to make the Seminocturnal Arch.
+
+To get the Declination of the Sun.
+
+Rectify the Analemma, and find the Meridian Altitude of the Sun by your
+Quadrant, and take the same Altitude from the Horizon with the Compasses, and
+being so opened, carry them parallel on the Horizon to the Meridian Circle, and
+there the higher point meets with the parallel of the Suns Declination.
+
+To find the Latitude of the place where you are.
+
+First get the Suns Meridian Altitude and Declination, as in the last above,
+and with your Compasses take the same Altitude from the Center along the
+Horizon, and set one foot of the Compasses being so opened in that point of the
+Meridian, where the parallel of the Sun touches it on the South part, and
+bring the Horizon to touch the other foot of the Compasses (the Compasses being
+kept perpendicular to the Horizon) and then the North end of the Horizon shall
+show the Poles Altitude.
+
+FINIS.
+
