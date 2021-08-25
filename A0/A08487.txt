@@ -1,0 +1,1976 @@
+A NEW HANDLING OF THE PLANISPHERE, DIVIDED into three Sections.
+
+IN THE FIRST IS A PLAIN AND sensible explication of the circles of the
+Sphere, and such terms as appertain unto the doctrine de primo mobili; after
+a Method not heretofore used in any language.
+
+THE SECOND SHOWS HOW UPON any plain, being Paper, Pastboord, or a Latten
+plate, having one circle divided into degrees, and crossed with two Diameters
+at right angles, most Conclusions of the Astrolabe may for all Latitudes or
+Countries be readily and exactly performed only with Ruler and Compasses.
+
+IN THE THIRD, BEING A SVPPLEMENT ORganicall, is contained the making of
+certain easy instruments for the perfecter working the former Conclusions, as
+to know what degrees and minutes be in any circumference given, with other
+necessary matters about the Meridian line and the height of the Pole.
+
+Pleasant and profitable generally for all men, but especially such as would
+get handines in using the Ruler and Compass, and desire to reap the fruit of
+Astronomicall and Geographicall documents, without being at the charge of
+costly Instruments.
+
+Invented for the most part, and first published in English by THOMAS OLYVER.
+
+AT LONDON Imprinted by FELIX KYNGSTON, for Simon Waterson and Rafe Iacson.
+1601.
+
+TO THE RIGHT WORSHIPFVL SIR JOHN PETER KNIGHT, at Thornedon in Essex.
+KNowing well (right Worshipful) after the dispatch of much weighty business,
+which for the good of others you willingly undertake, and, by report of the
+shire, with very great discretion, and all vprightnes perform, that as it were
+for your recreation, you perused often books of Geographie: some while since I
+sent the manner how three or four problemes Geographicall might be wrought
+upon a plain with Ruler and Compass only. At my leisure afterward taking that
+subject in hand again, I followed it so far, that I devised after the like
+way to handle most conclusions of the Astrolabe, or problems Astronomicall
+concerning the Primum mobile. When I had almost brought my purpose to effect,
+it was my chance to light upon Clauius his Astrolabe, where I found as much
+promised, and performed even by Ptolomeis Analomma, the very model of Johannes
+de Roias his Planisphere, as learned Guidus Vbaldus has fully proved, and also
+the ground upon which I have framed much of my work. Notwithstanding,
+perceiving (as by comparison every one may see) that except the 5. and 28.
+taken out of Manrolycus, the 14. and 23. out of Commandine and Vbaldus, my
+constructions were very far differing from Clauius, amending those defects
+which Gemma notes in Roias his work, besides taking the matter to be
+commodious, and not unpleasant for travelers, and all such in general as
+delight in Astronomicall and Geographicall devises, I set light the
+reproachful name of an English Scribler, and took courage by publishing it to
+the view of the world, to hazard my self to every readers censuring. Upon this
+resolution I am bold to use your Worships name in the front of this book,
+testifying thereby the earnest and unfeigned affection which I bear, and long
+have borne both to you and yours: in regard whereof making no doubt, but that
+this little mite shall be gently accepted, with remembrance of my duty to your
+Worship I take my leave. S. Edmunds Bury in Suffolk, 6. Ian. 1600. after our
+English account.
+
+Your Worships in all duty most affectionate, THOMAS OLIVER.
+
+To the Reader.
+SEeing the matters here entreated of admit no eloquence, but must in plain
+attire be simply offered to the view, though I could (gentle Reader) I would
+not flourish with thee, in pleading for my self or this treatise: therefore
+referring all to thy friendly censure, I will spend this void paper in
+aduertisements for the better understanding, and easier performing of that
+which is delivered.
+
+The fittest matter, whereupon you may work these conclusions following, will
+be a plate of brass, and the Compass, Pritchet, Pointer or Steel, wherewith
+you must draw your lines, would be either of the same substance, or else Iron
+rather than Steel: for if you make not your strokes very deep, by rubbing
+the plate with a wet Pumice, you may easily take all out when you will, and
+thereby also tarrish or darken it in such sort, that you may presently at your
+ease, and very exactly draw, and work upon it again.
+
+When you begin to practice, it will help very much to work one conclusion by
+it self, and to note the lines, as you draw them, with the characters, that
+are named in the peculiar construction: but when you are something perfect,
+this shall not need.
+
+You may also, having a quadrant divided, make any paper serve the turn for
+these purposes. Opening your Compass to the distance of 60. degrees, at that
+distance discribe a circle, and subtending four times in it a line equal to
+that line, which subtendeth the quadrants circumference, if you join the
+opposite points, it shall be crossed with perpendicular Diameters, then
+transferring the circumferences given or found from the quadrant to the circle,
+or from the circle to the quadrant, you may find the quantity of any
+circumference as well, as though your circle were divided into degrees.
+
+Where you desire exactnes, you must rest neither on this way, nor on the
+instrument in the beginning of the second section, but use that quadrant which
+you are taught to make in the beginning of the third section, by it you may
+know the just content of any given circumference in degrees and minutes
+exactly, and let this be a general warning for all conclusions.
+
+I have barely set down the constructions without demonstrations, as the
+fittest for their capacities, whose good I specially aim at: yet is there
+nothing here propounded that has not demonstratiuely been examined: and for
+experimental trial the working by these conclusions may be compared with
+tables calculated for the same purpose, which, if handines and diligence be
+used, will agree.
+
+Since my writing of the second section, I have found how the conclusions
+therein omitted may be perfectly wrought without the help of any Elleipsis,
+and all contained within the compass of the limb: but at this time I thought
+not good to add them.
+
+Thus much (gentle Reader) I thought meet thou should be advertised of: and
+so desiring thee to pardon the escapes of my pen, if thou meetest with any, I
+commend thee and thy honest studies to our Lords holy direction.
+
+Thine THOMAS OLYVER.
+
+A new handling of the Planisphere.
+THE FIRST SECTION, WHEREin is contained a plain and sensible declaration of
+the circles of the Sphere, and the terms used in the doctrine de primo mobili,
+after another Method than is yet in any other language.
+THE circles of the Sphere have more than once already bin written of in
+English: notwithstanding I think it will not be accounted labor lost, though it
+were only for the better understanding of the conclusions following, here to
+handle them again as principles in the beginning of this treatise. Aristotle
+and Ptolomey for proof of some matters here propounded, have used many
+exquisite arguments, which I mean not to prosecute, but hoping from the
+testimony of sense in such manner to deduce the positions, that any mean
+capacity may have so reasonable a conceit of them, that with probability they
+may easily be admitted, I will refer their exact and more subtle
+demonstration, with the reproof of such as impugn them, to some others
+handling, or to some other place. Therefore requiring first the reader not to
+cast untimely doubts, nor hastily to judge of any part by it self, before he
+has considered, and in some manner understood the whole discourse, I will
+according to Hippocrates his counsel begin with the notablest and easiest
+things. Whosoever does but cast up his eyes unto heaven, presently perceives
+that it compasses him round about in manner of half a globe or an Hemisphere:
+and if he stand upon some high place, or be at Sea far from land, where
+nothing can be seen but water and the Sky, his eye, if he turn himself
+about, will represent unto him at the lowest bounds or limits, which he sees,
+the fashion of a circle, upon whose plain, as upon a base, this visible
+Hemisphere seems to be placed: therefore that Circle was first in Greek, and
+is now commonly in English called the Horizon, that is to say, bounding or
+limiting, vz. the compass of your sight. The largenes of this Circle, even as
+it falls under view, is of so great a compass, as you need not restrain
+the center thereof, according to the precise Mathematical definition, to one
+determinate, exquisite, indivisible, and very point, or prick, but without
+sensible error, as your eye will plainly testify, any one at pleasure may be
+taken in the place where you stand. From a center so taken, if there be, or be
+imagined, a plumbe line or line perpendicular to the plain of the Horizon
+extended unto the heaven, the place, which there it touches, is commonly
+called by an Arabian name the Zenith, being in truth the pole of the Horizon,
+and the line it self his Axis. By this Axis, and any lines crossing it, if
+plainnes be every way exte^ded reaching unto heaven, they mark out their
+circumferences, or semicircles, cutting one another in the Zenith: but in the
+Horizon their sections are right lines, cutting one another in his center.
+Those circles are named Azimutes, and are imagined by Astronomers to be cut by
+other circles parallel to the Horizon, which they term Alinicantars and
+circles of Altitude, because the portion of the Azimute, which is between the
+Horizon and the Parallel, shows how his above the Horizon that point of the
+Parallel is, by which the Azimute passes. Furthermore, in a clear night
+beholding the bright shining Stars, you shall evidently perceive how they
+change their places continually, some to rise and show themselves, other to go
+down under the Horizon, and to be hidden from your sight, only if you place
+your self so, that your right hand be toward their rising, and your left hand
+toward their going down, looking right forth, and somewhat upward, you shall
+behold certain Stars, which are all times of the night to be seen, and never
+depiction of constallations Charles Wayne.
+
+pole star.
+
+Little Bear
+
+go down; amongst some of which placed after this fashion, there is one
+commonly called the Pole star, which being the last in the tail of the
+constellation called ye little Bear, lies in manner directly as it were in a
+right line, with those two in the hindermost wheels of Charles his wayne. This
+Star seems little or nothing to remove out of his place, and indeed not
+far from it there is a point, or prick, which remains in one and the same
+place always immovable. The Azimute passing by the Horizons Axis, and a right
+line drawn from this immovable point, or the pole star, is properly called
+the Meridian circle; the common section of it and the Horizon, being a right
+line, is the Meridian line, or the line of North and South; the right line,
+which crosses this Meridian line at right angles in the center of the Horizon,
+is called the line of true East, and true West, or simply the line of East and
+West, which points the ends thereof extended directly fall upon. The Arimute
+standing upon this line, Ioannes de Roias, and others, specially such as write
+of Dyalling, as it were for dignity and pre-eminence, do call the Vertical
+circle: which name being common to all Azimutes, because they pass by the
+Zenith, in Latin called Vertex. or punctum eregione verticis: for a distinction
+Gemma Frosius has named it the Circle of the East. The other Azimutes have no
+proper names, but are measured or determined in the Horizons circumference.
+That, and so likewise all other Circles, Astronomers do imagine to be divided
+into 360. equal parts, which they name degrees, that is to say, every quarter
+or quadrant into 90. degrees: every degree they further divide into 60.
+minutes, every minute into 60. seconds, every second into 60. thirds, and so
+continue sometimes unto tenths, and may go further if they will. By these
+degrees, minutes, etc. which are between that point, where any Azimute cutteth
+the Horizon, and the Meridian line, or the line of East and West, the Azimute
+is determined, assigned, or said to be given. Upon the points where the
+Vertical circle cutteth the Horizon, which points are the true poles of the
+Meridian, and the precise East and West, if by often and diligent viewing you
+shall see two Stars, the one in the East, and the other at the same time
+right against it in the West, in winter time even in one night, you may behold
+that which is in the East first ascending, and then again descending at length
+to come into the West, and that which was in the West being till that time
+hidden from your sight, then to appear again rising in the East: all this
+while continually the like shape of an Hemisphere being still represented to
+your eye, without any change or alteration, whereby you may gather the heaven
+to be a perfect Globe, or Sphere, having that part under the Horizon equal
+and like to that which you see above it, and that the place where you stand is
+the very center thereof. A line drawn from the pole Star, or rather from the
+point immovable before mentioned, called the Articke, or North pole, a line (I
+say) drawn, or imagined to be drawn from that point to the place of your
+standing, is called the Aris of the world, and extended to the other side of
+the celestial Sphere, which is under us, falls there upon the South or
+Antarcticke pole, which in these our countries never appears. These things,
+being but a little heedily considered, be so manifest and apparent, that
+neither example nor figure is greatly requisite for the perfect understanding
+of them: yet in this beginning to remove all difficulty, and to make every
+thing as plain as may be, do thus much: In some plain ground, or rather upon
+a post, or stone, or some such like thing made exactly smooth, and lying very
+flat, without any manner of leaning or declining, which you must warily and
+diligently try by your leuel, and your plumbe line, take the center A, upon
+which describe a circle B C D E, representing the Horizon, whose circumference
+you may divide, or imagine only to be divided into degrees, and from A, the
+center thereof, erect a Steel or wier, standing plumbe upright, or
+perpendicular to the flat of the circle A B C D, by trial of your plumbe rule:
+then take a board made precise square, having the side somewhat longer than the
+semidiameter of the circle B C D E, and set one corner thereof in the center A,
+so that one of the sides containing it, may agree just with the Steel or wier,
+and the other with the circles plain: then looking along the upper edge, or
+through two sights set upon the edge, and continually lifting it up without
+swaruing, till the side that lay upon the flat of the circle agree with the
+Steel: the line of your sight, or the line drawn from the center (for in
+respect of the heavens mighty distance, the difference between them is not
+sensible) shall, howsoever the square be placed, describe sky chart an Azimute.
+And if staying the edge of the square at one height, the corner be continually
+kept in ye center without slipping, by turning it round about the Steel, you
+shall describe an Almicantar, parallel to the Horizon. In this manner, carrying
+the square about, and lifting it up and down, till you see the Pole star, or
+if you can aim at it, the often spoken of immovable point, staying it fast in
+that situation, either of the edges without sensible error may be taken for
+the Axis of the world, which extended falls on both the Poles, that which is
+seen being the Arctick Pole, and the Antarctick that which is under the
+Horizon. In lifting it up and down, you shall in the heaven point out the
+Meridian circle, and bringing it just to the flat of the circle B C D E, the
+edge will there show the right line B D, which is the Meridian line. The line C
+E, in A crossing the line B D, is the line of right East, and right West: the
+Azimute standing upon C E, is the Vertical circle, or the circle of the East:
+the Azimute standing upon G F, is sometime said to be of so many degrees, as
+are between B the North point of the Horizon, and G, where the Azimute
+standing upon G F cutteth the Horizon, vz. the circumference B G, denominateth
+the Azimute standing upon G F, and sometime that circumference G E, which
+contains the number of the degrees betweeene the same point, and the line of
+East and West E C, which be the very poles of the Meridian. Working by the
+Pole star, these things will somewhat vary from exactnes, which some help
+by awayting the time, when the star next the wheels of Charles wayne,
+commonly called the filler or hill horse, is directly over or under the Pole
+star, so that the square, being lifted up and down close by the Steel,
+passes by them both. But howsoever, this may suffice for some conceit of these
+terms, hereafter shall be taught other most precise ways, to discribe and
+take them most exactly. To return again therefore to our principal purpose,
+in beholding of the Stars, how they continually rising in the East side of
+the Horizon, ascend unto the Meridian, and so from thence descend unto the West
+side, you shall observe, that always they keep their distance from the Pole
+star, or the true pole unchanged: as if you mark the two hinder wheels of
+Charles waine, you shall find, howsoever they be situated in the heaven, that
+their distance from the Pole star is always one, and the same not nearer or
+further of at one time then an other, and therefore every star or point, by
+such motion in a Globe or Sphere, his superficies describes the circumference
+of a circle: so that the whole heavens must seem to turn upon the poles, and
+make a circular motion or revolution. This motion in diverse respects has
+diverse names, called sometime the Diurnall motion, sometime the motion of the
+first moveable heaven, sometime Notus captus. Again, every Star or peynt by
+this conversion describing a circle, if you take some star, or point, which
+lies between the poles just 90. degrees from either of them, that will
+describe a circle, passing by the points of East and West, which for some
+reasons hereafter to be expressed, is called the Equinoctial. The other
+points or stars describe circles parallel to the Equinoctial circle, which
+be called circles of declination, because, if from the poles of the world, by
+any point taken in any of the parallels, a greatest circle be drawn to the
+Equinoctial, that portion of it, which lies between the Equinoctial and the
+Parallel, is called the declination of the point so taken. Some of these
+Parallels toward the North, described by revolution of the points or stars,
+that never set, are whole above the Horizon, and one of them, which some name
+the Arctick circle, touches it only: about the Antarcticke pole there be some
+wholly under the Horizon, and one, which some call the Antarcticke circle, only
+touches it in the South point: other between these two touching Parallels,
+which arise and set or go down, cut the Horizon, whose portion lying between
+that point and the true East or West, is called the Amplitude or Latitude of
+the rising, or the setting of the point describing the Parallel. These things
+hitherto rehearsed, travelers may every where and in all countries observe:
+and besides, in their iournies Southward or Northward, they shall see sometimes
+more, and sometimes fewer stars never to go down: more in going Northward,
+fewer in going Southward, yet always without alteration keeping one and the
+same distance one from another. Mary the Pole star or the true pole,
+proportionablie to the length of the way traveled, alters his distance from
+the Horizon, and the Zenith appearing, the further you go Northward, the
+higher, and the further you go Southward, the lower, and so accordingly that
+portion of the Meridian, between the Equinoctial and the Zenith, which is sky
+chart called the Latitude of the country, being always equal to that which
+is between the Horizon and the Pole, called his height, or elevation, is of
+necessity greater or lesser: so that your situation is apparently changed in
+respect of the heaven, but yet still you keep the same distance from it, whereby
+you may easily infer the figure or shape of the Earth to be like and
+answerable to the celestial Sphere: and that how vast and huge soever it be in
+it self, yet in comparison of the large compass of the heaven, it is justly
+counted for no more but a small point, or prick: for it never hinders you
+from seeing the precise half of the celestial Sphere, which, were the bigness
+thereof any thing of account, it would of necessity do. For better
+understanding of these matters, imagine the circle B C D E, described on the
+center A, to represent the Meridian, and upon the line E C, a semicircle
+erected perpendicularly to represent the Horizon, whose Pole, or the Zenith,
+the point B is, and let H be the North pole. From H to A the place of your
+standing (being the center of the Horizon and the whole Sphere, and so
+consequently of all the greatest circles in the same Sphere described) from the
+pole H to the center A draw a right line, and extend it unto I: the line H I is
+the Axis of the world: the poles be H the North, and I the South, or
+Antarcticke pole. Let the point G, taken in the Meridian, be just 90. degrees
+from either pole, so that the circumferences G H, G I, be just quadrants: by
+the revolution of the Sphere upon the poles H I, which is the Diurnall motion,
+the line G A shall describe a circle passing by the center of the Sphere, and
+perpendicular to the Meridian: therefore it must pass by the poles thereof
+which be in the Horizon, the points of East and West, as the circle set plumbe
+upon the Diameter F G will do. Other points, as S, N, V, describes circles
+parallel to that standing upon G F, of which that which stands upon C S, does
+only touch the Horizon, and is wholly above it: the other beyond it to the
+pole-ward, as V, W, be wholly above it, and come not near. So likewise E, T, is
+always under the Horizon, and only touches it: the other beyond it toward I,
+are under it, and never come near it. Now if in going Northward the pole H
+grow higher, the Equinoctial must go further from the Zenith: for seeing B C
+and G H be equal, that is the just quarters of the same circle, if you take
+away the circumference B H common to them both, the residue G B, the distance
+of the Equinoctial from the Meridian, which is the Latitude of the country,
+whose Zenith is B, is equal to H C, the height of the pole above the Horizon,
+or the elevation of the pole, and as the pole rises higher, so is the circle S
+Cremoued from the Horizon further and further: whereby you see, that by that
+means more stars never set. The circumferences of the Meridian G N, G S, G
+V, are called the declinations of the points N, S, V, taken in the parallels N
+Z, S C, V W, and the portion of the Horizon between the point of true East,
+and the point, where the parallel standing upon N Z, cu^teth the Horizon, is
+the amplitude or latitude of rising of the point L, or any other taken in the
+parallel, standing upon the Diameter N Z. These things being well conceived,
+let us consider again, that as apparently as any star, the Sun making his
+revolution, arises on the East side of the Horizon, and mounting up unto the
+Meridian, at which time it is high noone, descends again unto the West side,
+which time of his continuance above the Horizon is called the artificial day,
+then being hid from our sight, the night begins, which continues till the
+Sun, passing by that part of the Meridian, which is under the Earth, when it
+is midnight with us, returns again unto the East side, making up the
+natural day, which is the space of time from the Sun rising to the Sun
+rising again, and may be indifferently reckoned from Sun set to Sun set,
+as the Jews do, or from midnight to midnight, which is our common account.
+The obscure light before the Suns rising, is called the dawning and break of
+the day: after his setting is called the twilight, Crepusculum in Latin is a
+common name to both times. Although in the Suns daily revolution we observe
+all this, yet is it not without much variety and change: his rising and
+setting is not always in one place of the Horizon, nor his height in the
+Meridian always the same at noone. In the midst of winter, about the 12. of
+our December, when the days be shortest, and the nights longest, it rises and
+sets most Southerly, and is lowest in the Meridian at noone: toward the
+Spring, as the days wax longer and longer, in rising and setting it
+continually grows from the South, and mounteth higher and higher in the
+Meridian, till about the 11. of our March, making the day and night equal, it
+rises and sets just East and West, coming at noone to the common section
+of the Equinoctial and the Meridian: then, as Summer comes on, the days
+increasing, it rises and sets more Northerly, mounting still higher and
+higher in the Meridian at noone, till in the midst of Summer, the days being
+at the longest, about the 12. of our June, it be at the highest in the Meridian
+at noone, and rises and sets furthest North: then, as the days shorten, it
+returns back again, growing continually lower at noone, and rising and
+setting less Northerly, till the days and nights become equal again, about
+the 13. of our September, when it rises and sets precisely East and West
+again, and at noone will be in the common section of the Equinoctial and the
+Meridian. From that point it grows lower and lower at noone, rising and
+setting more and more Southerly, as the nights increase, till about the 12. of
+our December the days being at the shortest, it becomes lowest again at
+noone, and in rising and setting most Southerly, as it was before. Of this
+returning from the highest in Summer, and the lowest in winter, the two
+Parallels, which it then describes by the Diurnall revolution, be called
+Tropickes, and the Equinoctial was so named, because in March and September
+the Sun coming to it, the day is made equal to the night. By these
+varieties it was easily gathered, that the Sun made a peculiar course beside
+his Diurnall revolution, in a greatest circle touching the two Tropicks, and
+declining from the Equinoctial, which it divides (as all greatest circles do
+one another) into two equal parts, or semicircles. This declining circle,
+because when the Sun and Moon either meet or be opposite in it, there
+happens an Eclipse, is called the Eclipticke, and sometime the Zodiac: but
+the Zodiac properly is a superficies like a fillet or a girdle, laid upon
+this circles circumference, comprehending on either side of it six, or (as
+some say) eight degrees. The poles of this circle, which decline from the poles
+of the world, as the circle it self declineth from the Equinoctial,
+describes by the Diurnall revolution two Parallels, which some, in stead of
+them before described, take for the Arctick and Antarcticke circles. That
+section of the Equinoctial and the Eclipticke, which the Sun comes to in
+the Spring time, is called the Vernall section: that which is opposite to it,
+by which the Sun passes in the end of Harvest, is the Autumnall section: the
+points which touch the Tropickes, be commonly called Solstitiall points. The
+greatest circle, passing by the Equinoctial sections and the poles of the
+world, is the Equinoctial Colure: that which passes by the poles of the world
+and the Solstitiall points, is called the Solstitiall, or Tropicall Colure, the
+portion thereof lying between the two Tropickes, is the distance of the
+Tropickes, whose half is the Suns greatest declination, otherwise called the
+Obliquitie of the Zodiac, which by observation made with large instruments,
+is in this our age found by great Artes-men to be 23. degrees and 30. minutes,
+whose report it shall be sufficient to accept of, and commit to memory,
+without taking or trying it by any small instrument: though some writers of the
+use of the Astrolabe have made that one of their special conclusions. The
+Equinoctial and the Eclipticke, are circles of chief account: the first being
+the rule and measure of the first motion, or the motion of Primum mobile,
+otherwise called the Diurnall revolution: and the other as it were the
+Standard, whereby all secondarie motions are examined: therefore the degrees of
+these circles have peculiar names, called in the Equinoctial Tempora, times,
+because they be the first measures of time, every 15. degrees ascending making
+an hour, and so the whole revolution of 360. which is performed every natural
+day, make 24. hours. Astronomers begin to account the parts or degrees, as
+well in the Equinoctial, as in the Eclipticke, from that point common to them
+both, which is called the Vernall section: and though in the Equinoctial there
+be no change of names, yet in the Eclipticke or Zodiac every thirty degrees
+is called a sign, and has a peculiar name. The first 30. immedtatly following
+the Vernall section, is called Aries: the next 30. Taurus, the third 30.
+Gemini, the fourth 30. (whose first point begin a new quadrant, and touches
+the Summer Tropicke) is termed Cancer: the fifth 30. Leo, the sixth Virgo. These
+six Signs make up the semicircle of the Zodiac, which leans or declineth
+from the Equinoctial toward the North pole. The first 30. after this
+semicircle, beginning at the Autumnall section, make the seventh sign, named
+Libra: the next or eight 30. is the sign Scorpio: the ninth 30. is
+Sagittarius: the tenth 30. (beginning a new quadrant with the first point,
+which touches the winter Tropicke) is Capricornus: the eleventh 30. is
+Aquarius, and the twelfth 30. is Pisces. There be characters used to express
+every Sign with, which are found in every Almanacke. The Sun passes in the
+Ecliptic from point to point, making his continual revolution in it, without
+swaruing to the one side or the other: other Stars for the most part decline
+from it, but yet have their places determined by Longitude and Latitude in
+respect thereof thus: By any point or Star, a greatest circle being drawn
+from the pole of the Ecliptic to his circumference, the section there made, or
+the portion of the Ecliptic between that section and the Vernall section, is
+the Longitude of the point, or Star, by which the greatest circle is drawn:
+his Latitude is that portion of the same greatest circle lying between the
+Star and the Eclipticke. The Sun being in any point of the Eclipticke, and
+the point it self, with all other Stars, wheresoever placed besides, are in
+like manner compared to the Equinoctial, and in respect thereof, not only
+their declination, which has been touched before, but also their right
+Ascension is considered. A greatest circle being drawn from the Poles of the
+world to the Equinoctial, by any point or Star, his right Ascension is that
+portion of the Equinoctial, taken between that point where the greatest circle
+cutteth, and the Vernall section. The declination is the portion of the
+greatest circle so drawn, which lies between the Equinoctial and the
+Star, which (as before was noted) is also determined by a Parallel to the
+Equinoctial, passing by the Star. The right Ascension is so called, because
+under the Equinoctial, that is, in a Situation where the Equinoctial passes
+by the Zenith, and the Horizon by the Poles of the world, the Horizon (by which
+once in 24. hours every point ascends) does the office of any greatest
+circle so drawn, as is appointed, and agrees with it most exactly. This
+Situation is called Sphaera recta, the right Sphere; and the Horizon in that
+Situation, Horizon rectus, the right Horizon: but when the Equinoctial
+declineth from the Zenith, and the Poles be one above, the other beneath the
+Horizon, that Situation is called the Oblique, or Declining Sphere; and the
+Horizon, the Oblique Horizon, which never agrees with the foresaid greatest
+circle, drawn by the Poles of the world: and therefore with the Star there
+is another point of the Equinoctial in the Horizon, between which and the
+Vernall section is contained that portion of the Equinoctial, that is called
+the Stars Oblique Ascension, and the portion of the Equinoctial between the
+ends of the right and Oblique Ascension, is called the Difference Ascensionall.
+But for helping the conceit of these things, I will use a linearie example,
+taking the former figure, where E C is the Meridian line, and the Diameter on
+which the Horizon stands, now in the midst of winter the Sun being lowest
+in the Meridian, in the point K, by the Diurnall revolution, describes a
+Parallel standing upon the Diameter K M, which cutteth the Horizon from the
+East toward the South: it continually grows higher and sky chart higher in
+the Meridian pan, and rises in the Horizon nearer and nearer the East, till
+about the 11. of March at noone it comes to G, the section of the
+Equinoctial and the Meridian, and then by the Diurnall revolution describes a
+circle just answering the Equinoctial, which passing by the points of East and
+West in the Horizon, stands upon the Diameter G F: from thence, a^ Summer
+comes on, it ascends in the Meridian, and rises more Northerly upon ye
+Horizon, til about the 12. of our June, being at the highest in N, it
+describes a Parallel standing upon the Diameter N Z, in which it rises upon
+the Horizon furthest from the East to the Northward: from thence it descends
+again by G, to K, and passes in the Horizon by the true East to the furthest
+Southward, then it ascends again till it come to N, continually returning
+from the highest to the lowest, and from the lowest to the highest: whereof the
+two Parallels standing upon the Diameters K M, L N, be called Tropickes. By
+these changes it was easily gathered, that the Sun (besides the Diurnall
+revolution) made another proper to it self in a circle standing upon the
+Diameter K L, drawn from Tropicke to Tropic by A the center of the Sphere: by
+reason whereof, this circle, called the Eclipticke, and the Equinoctial,
+divide the one the other into two semicircles. The Eclipticke is sometimes
+called the Zodiac, though properly the Zodiac be a superficies lying on
+either side of it, as you see the superficies O P Q R, parted by the line Z K.
+The common Diameter of the Equinoctial and the Ecliptic standing in A,
+perpendicular to the plain of the circle B C D E, the points K and L being the
+Solstitiall points, the circle B C D E is the Solstitiall Colure. The circle
+standing upon I H, and passing by the perpendicular Diameter, or the
+Equinoctial section, is the Equinoctial Colure: the circumference K N is the
+distance of the Tropicke, the one half thereof G K, or G N, is the obliquitie
+of the Zodiac, or the Suns greatest declination, for it grows less and
+less as it comes nearer the Equinoctial section: where it has no
+declination at al, it never declineth from the Eclipticke or circle standing
+upon K Z, but make his motion in it, his place is named of the point wherein it
+is. Other Stars or points without the Eclipticke (as for example, S) have
+their place determined by a greatest circle B C D E, drawn from X, the Pole of
+the Zodiac, by S ^o K, a point in the Ecliptic circumference, the portion of
+the Ecliptic between the Vernall section and K, or the point K is the
+Longitude of S, and the circumference S K, is his Latitude. In like manner, if
+by any star or point Y, and the Poles of the world H I, there be drawn a
+greatest circle B C D E, cutting the Equinoctial in G, the portion of the
+Equinoctial between the Vernall section and G, is the right Ascension of Y,
+and the circumference G Y is his declination. Now if G, the section of the
+Meridian and the Equinoctial, be the Zenith of any place, the Horizon must
+stand on I H, and pass by the Poles of the world, which situation is called
+the right Sphere, and the Horizon the right Horizon, wherein, by the Diurnall
+revolution twice in 24. hours, the circle B C D E must join close with it.
+But if G, the section of the Equinoctial and the Meridian, decline from B the
+Zenith, which situation is called the Oblique Sphere, and the Horizon then
+standing on E C, being an Oblique Horizon, by the Diurnall motion made upon the
+Poles H I, the circle B C D E can never agreene or match euenly with the
+Horizon: therefore of force some other point of the Equinoctial, and not G,
+must be in the Horizon with Y: the circumference of the Equinoctial between
+that point in the Horizon, and the Vernall section, is the Oblique Ascension of
+Y: but the portion that lies between that point and G, is the difference
+Ascensionall. That point of the Zodiac, where it is cut off the Meridian, is
+called Medium coeli, mid heaven; Culmen and cor coeli above the Horizon, and
+Imum coeli under the Horizon, the lesser angle, made by that section, is called
+the Meridian angle. The point of the Eclipticke, that is in the East side of
+the Horizon, is called the Ascendent, and the Horoscope, the section there make
+the angles, of which the lesser is called the Horizontall angle: the quantity
+thereof is equal to the Nonagesimus Gradus of the Eclipticke, which is
+peculiarly given to that point of it, which is just 90. degrees from the
+Ascendent. There be moreover other greatest circles to be considered, which are
+called circles of position, or circles of Station, six of them dividing the
+heaven in twelve portions, which are called houses or Stations, though many
+times those names be restrained only to such parts of the Zodiac, as be
+intercepted by those circles. Though the Horizon be always taken for one, and
+the beginning of the first house: yet are the rest by diverse diversely drawn.
+Some will have them all to have the Meridian line for their common Diameter,
+and yet agreeing in this make difference in placing them. Campanus and Gazulus
+divide the Vertical circle into twelve equal parts, and by every two opposite
+sections draw a circle of position. Regiomontanus divides the Equinoctial into
+twelve equal parts, and will have every circle of position pass by two of
+those opposite sections: both these ways keep the Horizon and the Meridian
+for circles of position. Other divide the Zodiac into twelve equal parts,
+beginning at the Ascendent, and two of those opposite sections draw from the
+poles of the Zodiac their circles of position: these keep the same Ascendent
+that the former do, but must differ many times in the tenth house, or the
+Cardo medij coeli, though Gemma writes that all agree about the foruer
+Cardines, that is the Horoscope, seventh house Culmen, and Imum coeli: for they
+cannot have always the Meridian and the Horizon for circles of position. Other
+draw these circles from the poles of the world, and that diversely: but the
+three former ways are in greatest estimation. A circle of position differs
+from an angle of position, which (after Prolomey) is an angle at the Zenith,
+subtended of that portion of the Horizon, which lies between the Meridian and
+the Azimute, passing by the Zenith of the other place, unto which the position
+belongs. Gemma Frisius makes it a right lined angle in the center of the
+Horizon, subtended of the same circumference: by it Topographicall descriptions
+are made, wherein sometimes the distance of two places is measured by a right
+line lying between them, but in a Sphericall superficies by the portion of a
+greatest circle, because that is the shortest that can be drawn in it. These
+things may be easily conceived without linearie explication, if the former
+matters be well understood: therefore as it were besides the principal
+purpose, setting down how by supputation you may readily guess somewhat near
+the Suns place, being a thing for many purposes to be had in a readiness, I will
+end this first section: the thing is taken out of Clauius, but fitted to our
+common, or the Julian year.
+
+Parergon primum. What month, and what day of it, the Sun enters every
+sign of the Zodiac.
+FIrst tell the months upon your fingers, seeking Innuarie on your thumb,
+February on your forefinger, and so the other in order, till you come to your
+month, which mark on which finger it falls: in like manner tell the Signs,
+beginning with Aquarius on your thumb, Pisces on your forefinger, and so the
+rest in order, till you come to the finger, on which your month fell: the
+Sign which falls on that finger, the Sun enters that month. Then
+learning these two verses by heart:
+
+Inclyta Laus Justice Impenditur, Haeresis Horret
+Garrula, Grex Gratus Faustos Gratatur Honores.
+In like manner set Inclyta on your thumb, and word by word in order, till you
+come to the finger, on which your month fell: then telling from A in the
+cross row, till you come to the first letter of your word, take that number
+and subtract it from 20. the residue is the day of the month, when the Sun
+enters the Sign. For example: I would know what Sign the Sun enters in
+October, and what day it enters, telling from January upon my fingers the
+meneths in order: at the second going over I find October on my little finger:
+then taking the Signs, and telling from Aquarius, at the second going over my
+fingers, Scorpio falls on my little finger, so I say that the Sun enters
+Scorpio in October: then taking the verses, and setting the words one by one in
+like manner on my fingers, I find in the second going over, Faustos on my
+little finger: now telling in the cross row the letters from A to F, I find
+six: this six I subtract from 20. so rest 14. which the day of October the
+Sun enters Scorpio.
+
+Parergon secundum. To know the Suns place in the Zodiac upon any day given.
+Find the Sign answering your month, and the word likewise, then to the day
+of the month put ten, and the number the first letter shows in the cross
+row: if this be less then 30. the number is the degree of the Sign next
+before that, which the Sun enters in your month; if more, cast away 30. and
+the residue is the degree of the Sign entered in your month. Example, I would
+know where the Sun is the 9. of October, I find in October he enters
+Scorpio, and the word for it to be Faustos, whose first letter F is the sixth in
+the cross row, I take ten and 6. vz. 16. which I put to, 9. there is made 25.
+therefore I say the Sun is in the 25. degree of the Sign before Scorpio, which
+is Libra. If I would know for the 18. day, putting 16. to 18. there would
+amount 34. from which abating 30. the 4. remaining shows me, that the Sun
+is in the 4. degree of the Sign belonging to October, which is Scorpio.
+
+Parergon tertium. The place of the Sun being given, to find the day of the
+month.
+TAke the day and month the Sun enters the Sign given, the number of the
+degrees given put to the day, wherein the Sun enters the Sign, that product
+being less than the days in your month, show the day: but being more, cast
+away the days of your month, the residue is the day of the month following.
+Example, I find the Sun in the 4. degree of Scorpio. I would know what day
+of the month it is; I find that the Sun enters Scorpio the 14. of October,
+I put 4. to 14. there amounts 18. so I say it is the 18. day of October.
+Again, let it be in the 25. of Libra, I find that the Sun enters Libra 13.
+Septembris: I put 13. to 25. there amounts 38. from which I take 30. the
+days of September, and there remains 8. the day of October. These are but
+gesses, as you may see much after the way commonly taught by the back of the
+Astrolabe. Let him that desires exactnes, seek the Suns place in some
+Ephemerides, or in the Regiment of the Sun, published by E. W. painfully
+calculated upon his own diligent and exact observations.
+
+The end of the first Section.
+THE SECOND SECTION OF THE NEW HANDLING THE PLANISPHERE; SHOWING HOW THE
+CONclusions of the Astrolabe may readily and exactly for any Country be
+performed only with Ruler and Compasses.
+ALthough for working the conclusions following any circle divided, or to
+transfer out of any divided quadrant, the given circumferences would be
+sufficient: yet for the easier dispatch, I would a plate of Latten to be
+provided, according to the figure which you see on the other side. There, upon
+one center A, be six circles described one within another, of which the two
+outtermost contains the narrowest space, which must be divided into 360.
+equal parts or degrees, as the common manner is. At every 30. degrees, in the
+space contained under the second and third circles, make diuisious, and
+beginning at E write Ari, or Aries: at the next, Tau, or Taurus, and so for the
+rest of the 12. Signs: this circle shall be called the Zodiac. The third
+space, contained under the third and fourth circle, must be divided sky chart
+at every 15. degrees: beginning at B you must set down 12. at the next
+division toward C set down 1. at the next 2. and at every division the numbers
+in order, till coming to D, you are to set down 12. again: and so in the
+other semicircle DEB, set 1. at the division next D, at the second 2. till
+coming to the next before B, you are to set down 11: this fourth circle shall
+be called the hour circle. The fourth space, contained under the fourth and
+fifth circle, must be divided at every 10. degrees: at the first division from E
+toward B set 10. at the second 20. and so increasing continually at every
+division by 10. till you come again to E, where you are to set down 360. this
+circle shall be named the Equinoctial. The space contained under this and the
+sixth, or innermost circle, must from E by D unto C, have divisions at every 20.
+degrees, and at every division a number set increasing by 10. til you come to
+90: in the quarters B C, B E, you must make divisions at every 10. degrees: at
+the first, from B toward E, set 10, and likewise at the next unto C toward B,
+at the next 20. and so in order, till coming to E and B, you are there to set
+90: this inner circle shall be called the limb. If you will set two sights on
+the outter edge, so that the line, drawn from lope to lope, be parallel to the
+line subtending the arch B C, and hang a plummet from B, you may by your plate
+begin.
+
+The first Conclusion. To take the height of the Sun, or any Star, above
+the Horizon.
+TVrning your plate toward the Sun, lift it up and down, till his beams
+shine through both the lopes of your sights, or (if it be a Star) till you
+see it through them: the thread shows in the semicircle E D C, how many
+degrees the Sun or Star is above the Horizon.
+
+The second Conclusion. To find the distance of the Suns or any Stars
+Azimute, from any determinate point in the Horizon.
+LEt your plate be fixed level with the Horizon, and direct E to any point:
+then a ruler being turned and lift up by a steel or wier, standing plumbe
+upright from the center A, till you see the star, by the edge of it, or
+rather through two sights set upon the edge, or if it be the Sun, till his
+beams pass through the lopes, then without stirring the end next your eye
+bring it close to the center, the edge shows in the Equinoctial the distance
+of the Azimute from the point respected by E. The Azimute is said simply
+without adition to be given, when his distance from the Meridians North end is
+given.
+
+The third Conclusion. From a point given in the circumference of a circle, at
+any side assigned, to apply or subtend a distance or a right line not greater
+than the Diameter.
+LEt the point given be C, from which upon the side toward D, I am to apply a
+line equal to A Q, draw the Diameter C A E: now if the line A Q be equal to
+the Diameter, I have done that which is required: but being less, I take the
+distance A Q with my Compass, and setting one foot in C, with the other I
+mark Q in the limb, and so under the circumference C Q, I have subtended a
+distance equal to A Q, which was required.
+
+The fourth Conclusion. From a point given in any circles circumference, to
+take at any side assigned, an arch equal to any arch given in the same, or any
+equal circle.
+FRom the point given C, draw the Diameter C A E: now if the arch given be a
+semicircle, the circumfere^ce C D E, taken at the side assigned D, is the arch
+desired: but if it be lesser, as F G, I take the distance F G, and setting one
+foot of the Compass in C, with the other toward D, I mark 3 in the limb,
+the circumference 3 C is that, which is desired: but if it be greater than a
+semicircle, as 6 G, I take in like manner with my Compass the distance 6 G,
+and setting one foot in C, on the other side toward B, not on that which was
+assigned toward D, I mark in the limb with the other foot L, the
+circumference C D L is that, which is required.
+
+The fifth Conclusion. The heights or Almicanters, together with the distance
+between the Azimutes of any two Stars given, or taken by observation, to find
+the distance one from another.
+Upon the center A describe a circle B C D E, and let the Diameters B D, C E,
+be perpendiculars one to another. This construction shall be always assumed
+herafter without further expressing: from E to H reckon the distance of the
+Azimutes, and draw the line A H: then taking the circumference E F, equal to
+the greatest altitude, and making E G equal to it, upon F and G laying a
+ruler, it will cut A E in N: again, taking H I equal to the other altitude,
+make H K equal to it, a ruler laid on I and K, will cut A H in P, take the
+distance N P, and setting one foot of the Compass in A, with the other in A B
+mark Q: again, taking the distance F N, and setting one foot in A, take the
+line A S: again make the line S T equal to the distance P I, opening your
+Compass to the distance T Q, setting one feote in C, with the other in the
+limb mark 4, the circumference C 4 is the distance sought. This construction
+is general, but in some cases may be abridged: for if the Altitudes were
+equal, it should suffice to apply the distance N P in the limb without any
+more ado: if both were in one Azimute between the Horizon and the Zenith, as
+E F being the greater, and F L the lesser, the distance should be L E: but if
+the Zenith were between the height, whereof E M were the one, laying a ruler
+on M and A, it would cut the limbs beyond A in 6. then toward B, taking the
+other height 6.1. the distance shall be E B. 1.
+
+The sixth Conclusion. In any Country unknown to find the Diameter of the
+Parallel of the Sun, or any unknown Star.
+THree times in one day, or for any Star in the night, take the height and
+distance of the Azimute from any certain point, whereby you may have the
+distance of every Azimute from other, by the former conclusion: take the
+distance of the points observed one from another, which let be C 6. 6 B and B
+K of three lines equal to the chords, of those circumferences, make a triangle
+C B A, and about it describe a circle A B C, whose Diameter A C is the
+Parallels Diameter.
+
+sky chart
+
+The seventh Conclusion. The Diameter of the Suns, or any Stars parallel
+being given, to find the declination.
+FRom C on either side apply a distance equal to A C, as C 1. C 2. upon 1 and
+2 a ruler laid, will cut A C in R: upon R, as a center at the distance A R,
+describe a semicircle A B C (a semicircle thus described, having one angle in
+the center A, and his Diameter the Semidiameter of the limb, as A C is, shall
+hereafter be called the Synicall arch of the limb). Now from C toward D apply
+at 12 a distance equal to A C, the Parallels Diameter given, upon C and 2.
+laying a ruler it will cut the Semicircle A B C in D, then laying a ruler on A
+and D, it will cut the limb in 5.5 C is the declination sought for. In the Sun
+you may know, by the time of the year, whether it be Northerly or Southerly,
+and to what quadrant it belongs, saving when he is near the Tropickes, or
+Equinoctial sections: for distinguishing thereof, make your observations two,
+or three, or four sundry days: then the Sun being about the Tropickes,
+comparing two observations, if the declination increase, the first observation
+was before it came to the Tropicke: but if it decrease, the second was after it
+came to the Tropicke, the Tropicke will show North and South, from Aries by
+Cancer to Libra North, from thence by Capricornus to Aries South. About the
+Equinoctial sections, if the declination increase, the Sun is past the
+section: if it decrease, it is not come to it, and so you may know certainly
+unto which quadrant the declination belongs. You may find whether the Star
+you observe, declineth North or South, thus: Observe two Stars, of which by
+marking the situation of Charies wayne, and the Pole star, you may determine
+the more Southerly, or the more Northerly: then if you find their declinations
+equal, the more Southerly has South declination, and the more Northerly,
+North declination: but if they be unequal, the more Southerly, being less, it
+declineth Southward: but if it have the greater declination, the more Northerly
+declineth North, which is to be understood of observations taken on this
+Northside of the Equinoctial: but you may make this doctrine general, thus:
+If that which is nearest the bidden pole be less, it declineth toward that
+pole: if greater, then that, which is nearer the apparent pole, declineth
+toward the apparent pole. This distiction shall not always be precisely
+observed hereafter.
+
+The eight Conclusion. The declination of the Sun, or any Star being given,
+together with the Azimute and any height, to find the Meridian height.
+LEt the circumferences E F, C G, be made either of them equal to the height
+given, and laying a ruler on F and G, it will cut A B in P: make the
+circumference E X equal to E F, and laying a ruler on P and X, it will cut A E
+in Y: upon Y, as a center, at the distance Y A, describe a semicircle R V A (a
+semicircle thus deseribed, having one angle in the center A, and the Diameter
+equal to the semidiameter of another circle, as R A equal to F P, which is
+the semidiameter of the circle, whose Diameter is the distance F G) this
+semicircle shall be called the Synicall arch of that line, or distance, as R V
+A is the Synical arch of the distance F G. Let the distance of the Azimute from
+the East, and that in this figure Southward, be the circumference E W: upon A
+and W, laying a ruler, it will cut the semicircle R V A in V, take the distance
+R V, and setting one foot of your Compass in P, with the other in the line P
+F, mark a point O. Now let K L be the Diameter of the Suns parallel, and
+divide K L so in O, as the greater segment O L may be to O G, the greater
+segment of F G, as F O, the lesser segment of F G, is to the lesser segment K O
+(how this may be done shall be taught hereafter:) then opening your Compass to
+the length of the segment lying toward the quadrant E F B, as namely to O K,
+set one foot in O, and with the other mark in the quadrant E F B the point K,
+the circumference E K is the Meridian height.
+
+A Lemma.
+Between F O and O G, by 13. P. 6. take a mean proportional H N, and to that
+mean proportional given, in K L find the two extremes, K O, O L, by the
+addition of Peletarius to 13. P. 6. but in the English Euclyde the figure is
+drawn wrong, and the demonstration distorted: you may help your self in the
+same author, where 17. p. 10. you have out of Campane the same matter truly
+propounded.
+
+The ninth Conclusion. In any Country unknown, two different heights with the
+Azimutes of the Sun, or any known Star being given, to find their Meridian
+height, and declination.
+LEt the two heights given be E F, and E H, make C G equal to E F, and C I
+equal to E H, draw the lines F G, and A I, cutting A B in the points P and N:
+let the semicircle R V A be the Synicall arch to F G, and S T A, the Synical
+arch to H I. Moreover, let E W be the distance of the Azimute, belonging to the
+height E F, from the East South, and E X, the distance of the Azimute,
+belonging to the height E H: likewise from the East South, a ruler laid on A
+and W, will cut the semicircle R V A in V: take the distance R V, and setting
+one foot in P, with the other in P F mark O: again, laying a ruler on X and
+A, it will cut the semicircle S T A in T: take the distance S T, and setting one
+foot in N, with the other in the line N H, mark a point M: upon M and O
+laying a ruler, draw the line K M O L, which is the Diameter for the parallel
+of declination, whereby you may know the declination, and E K is the Meridian
+height.
+
+sky chart
+
+The tenth Conclusion. The Meridian height and declination of the Sun, or any
+Star being given, to find the latitude.
+FIrst you must know whether the height be Northerly or Southerly, which
+Nonnius thinks the magnetical Index, or Compass will show readily, and
+exactly enough: Clauius determines of it, by marking on what hand the rising
+or East side of the Horizon is: but in the night it may be certainly known,
+by looking upon the stars about the North pole, then must you mark, whether
+after the height taken, the Star grow higher, or lower. Now let the Meridian
+height being Southward and highest, be E K, from K toward the pole, which the
+declination respects not, as if the declination be North, then South ward: if
+South, then Northward: and here supposing the declination Northward, from K
+toward E, if must be taken, as K Z, the circumference Z K B is the latitude,
+if the height bad been lowest, the declination should have been taken at the
+other end of the parallels Diameter, between B and C, for so it should have
+been above the Horizon wholly.
+
+The eleventh Conclusion. The declination of the Sun or any known Star
+being given, in a Country of known latitude, to find the Meridian height.
+IF the complement of the Stars declination, or the distance from the Pole be
+less then the latitude, there be two Meridian heightes, one highest, and the
+other lowest. Let the latitude given, be K Z, and let the declination be Z K,
+opening your Compass to the distance B C, keep one foot in B, and with the
+other toward K, mark in the lymbe the point E, the circumference E Z K, is
+the Meridian height.
+
+The twelfth Conclusion. The Meridian height of the Sun, or any Star being
+given, in a Country of known latitude, to find the Declination.
+LEt E K be the Meridian height, opening your Compass to the latitude given,
+set one foot in B, and with the other from the pole, mark in the lymbe the
+point Z: Z K is the declination sought for, taking denomination of that Pole,
+between which, and Z, it is placed.
+
+The thirteenth Conclusion. In a Country of known latitude, the declination,
+and height of the Sun or any known Star being given, to find the Azimute.
+LEt the height given be E H, make the circumference C I equal to E H, and
+draw the line H I, and let S T A be Synicall arch of the line H I, let the
+latitude given be B Z, upon Z and A laying a ruler, it will cut the lymbe on
+the other side in Q, make either of the circumferences Z K, Q L equal to the
+declination given, and laying a ruler on K and L, it will cut N H in M: with
+your compass take the distance N M, and setting one foot in S, in the
+semicircle S T A take with the other foot a point T, upon A and T laying a
+ruler, it will cut the lymbe in X: the circumference E X is the distance of the
+Azimute from East, or West: Southward, because M fell in the quadrant B Z E,
+whereas if it had fallen in the quadrant B I C, it should have been Northward,
+whether it be to be accounted from East or West, the rising in height, or
+decreasing will show.
+
+The fourteenth Conclusion. In a Country of known latitude, the Azimute and
+declination of the Sun, or any Star being given, to find the height.
+LEt K L be the Diameter of the parallel of declination, cutting A B axis of
+the Horizon in Q, and let B D, be equal to the Azimutes distance from the
+East, or West toward the South taken in the quadrant B E, if it were
+Northward, it were to be taken in the quadrant B C: between D and B take any
+point 1, and make the circumference D 3 equal to 1 B, laying a ruler upon 3
+and 1, draw the line 2 O, then making A P equal sky chart to 2 O, upon O and
+P, laying a ruler, draw the line P O F, a ruler laid on A and D, will cut O 2
+4: in P F take a line P 6, equal to the distance A 4, then laying a ruler upon
+Q and 6, it will cut the lymbe in H, the circumference E F H is the height
+desired. In some cases this construction will not be contained within the
+lymbe, but it is generally true.
+
+The fifteenth Conclusion. In a Country of known latitude the Azimute, and
+height of the Sun, or any Star being given, to find the declination.
+LEt B Z be the latitude given, and let the altitude be E H, make C I equal to
+E H, and draw the line H I, cutting A B, in N: let the distance of the Azimute
+from the East be E X; and let S T A be the Synicall arche of H I: now laying a
+ruler on A and X, it will cut S T A in T, take the distance S T, and setting
+one foot in N, with the other in N H, because the Azimute is Southward
+(otherwise in N I) take a point M, upon M and A laying a ruler it will cut the
+limb in 5, make Q 7 equal to Z 5, and draw the line A 7, make A 8 equal to A
+M, upon M and 8, laying a ruler, draw the line K M 8 L, the circumference Z K,
+or Q L, is the declination sought.
+
+The sixteenth Conclusion. The Suns declination being given, to find his
+place in the Zodiac.
+LEt E H be the Suns greatest declination, videl. as I said in the first
+section, to be received upon their credit, which by observation made with
+large instruments, affirm it in this our age to be 23. degrees, 30. minutes:
+draw the line A H, and let either of the circumferences, E F, C G, be equal to
+the declination given, upon F and G laying a ruler, it will cut A H in K: in E
+M A the Synicall arche of the lymbe, apply from E at M a distance equal to A
+K, upon M and A lay a ruler, which will cut the lymbe in O, a circumference
+taken in the quadrante, to which the declination belongs, from the next
+Equinoctial section, equal to E O, as E O in the quadrante D E, shows the
+place of the Sun, accounting from E, the beginning of Aries by B and C, to O.
+
+The seventeenth Conclusion. Another way to find the Suns place by his
+declination given.
+Upon I, and H, the Suns greatest declination reckoned from E, and C, lay a
+ruler, which will cut the line A B in P, upon A as a center, at the distance A
+P, describe a circle Q P R: now let either of the circumferences E F, C G be
+equal to the declination given, upon F and G lay a ruler, which will cut the
+circle Q A R in S, and likewise on the other side in W, but imagining the
+declination to appertain to the Quadrant E H B, take S, the point in it, and
+upon S and A laying a ruler, it will cut the lymbe in T, reckoning from E the
+beginning of Aries to T, you have the Suns place you sought for.
+
+The eighteenth Conclusion. The Suns place in the Zodiac being given, to
+find his declination.
+FRom E toward D take a circumference E O equal to the Suns distance from
+the Equinoctial section, that is nearest to his place, and let E M A be the
+Synicall arche of the limb, E H, C I equal to the Suns greatest
+declination, and draw the lines H A, A I, then laying a ruler on A, and O, it
+will cut E M A in M: make A K equal to the distance E M, and A V equal to A
+K, then laying a ruler on K and V, it will cut the limb in F, and G, either of
+the Circumferences E F, C G, are the declination sought for.
+
+The nineteenth Conclusion. Another way to find the Suns declination by his
+place given.
+Upon T the Suns place, and A lay a ruler, which will cut the circle Q P R in
+S: make the circumference R W, equal to Q S, and laying a ruler on S and W, it
+will cut the limb in F and G, either of the circumferences E F, or C G is the
+declination sought for.
+
+The twentieth Conclusion. The Suns declination being given, to find his
+right Ascension.
+LEt either of the circumferences E F, and CG, be equal to the Suns
+declination given, upon G, and F laying a ruler, it will cut A H in K, and B A
+in X, let Y L A be the Synicall arche of the distance F G, and from Y to L
+applite in the Semicircle Y L A, a distance equal to X K; upon L and A laying
+a ruler, it will cut the limb in N. In the quadrant, to which the declination
+belongs, from the next Equinoctial section, a circumference taken equal to
+E N, as E N in the quadrant E N D, shows the right ascension from E by B to N.
+
+The 21. Conclusion. The right ascension of any point in the Zodiake being
+given, to find the Meridian angle.
+LEt E O be equal to the distance of the right ascension from the nearest
+Equinoctial section, upon A and O a ruler laid will cut E M A the Synical arche
+of the limb in M, in the lines H A, A I take A K, and A V equal to the
+distance E M, upon K V, laying a ruler, it will cut A B in X: in Y L A the
+Synicall arch of the distance F G apply at Z, from A sky chart a distance
+equal to X V, a ruler laid on A and Z, cutteth the limb in 4, the
+circumference E 4 is the Meridian angle.
+
+The 22. Conclusion. The right ascension of the Sun being given, to find his
+place in the Zodiac.
+LEt E O be equal to the right ascensions distance from the nearest
+Equinoctial section, and make D 3 equal to D O* and draw the line O 3, let
+the Meridian angle taken by the former conclusion be E 4, and make D 5 equal
+to D 4 a ruler laid upon the points 4 and 5 will cut A D in 7, open your
+compass to the distance A 7, and keeping one foot in A, with the other toward
+3, in the line O 3, mark a point 6, a ruler laid on A and 6, cutteth the lymbe
+in 2, the circumference C 2 is equal to the distance of the Suns place from
+the Equinoctial section, in the quadrant, wherein the right ascension was.
+
+The 23. Conclusion. The Suns right ascension being given, to find his
+declination.
+FRom D and B toward E, take circumferences D O, B T equal to the distance
+of the right ascension from the nearest Equinoctial section, and laying a
+ruler on O and T, it will cut the lines AE, A H in the points B and Q: in A B
+take A D, equal to the distance B Q, and draw the line D C, in it take a line
+C 8, equal to C A, and then taking the distance A 8, set one foot of your
+compass in E, and with the other in the quadrant E B, mark a point F, the
+circumference E F, is the declination sought for.
+
+The 24. Conclusion. The declination of any star being given, with his
+latitude, which never alters, to find his longitude or place in the Zodiac.
+LEt L be the pole of the Zodiac, B the pole of the world, and make the
+circumferences L H, L I equal to the complement of the latitude given, that
+is, let them be equal to that portion of a quadrant, whereby it exceeds the
+latitude, draw the line H I. Again let either of the circumferences E F, C G
+be equal to the declination given, a ruler laid upon F and G, will cut H I in
+K: again a ruler laid on A and L, will cut it in M: with your compass take
+the distance M K, and in the semicircle 6 N A, which is the Synicall arch for
+the line H I, from 6 apply at N a distance equal to M K, a ruler laid upon ye
+points A N, will cut the limb in O: a distance equal to E O, applied in the
+quadrant C D, to which I suppose the declination belongs, from C the
+Equinoctial section, unto P, shows in the Zodiac from E by B to P the
+place of the star.
+
+The 25. Conclusion. The declination of any star being given, with his
+latitude, which never alters, to find the right Ascension thereof.
+AS before let L be the pole of the Zodiac, B, the pole of the world, L I, L
+H, the complements of the stars latitude, E F, CG, equal to the declination,
+draw the line H I, and lay a ruler on F and G, which will cut A B in Q, and H I
+in K; let the semicircle A R S be the Sinicall arch for the distance F G, and
+from S in the semicircle A R S, apply at R a distance equal to the distance Q
+K, a ruler laid on R and A, will cut the limb in T, the distance, C T, in the
+quadrant, to which the declination belongs, applied from the Equinoctial
+section, shows in the Equinoctial the right ascension sought for.
+
+The 26. Conclusion. The longitude and latitude of any star being given, to
+find the declination and right Ascension thereof.
+LEt the poles and latitude be as before, and let E O be equal to the distance
+of the stars place from the nearest Equinoctial section: a ruler laid on A and
+O, will cut the Circumference 6 N A, which is the synical arch to the line H I,
+in the point N; again a ruler laid on A and I, will cut H I in M, take the
+distance 6 N, and setting one foot in M, with the other toward I, if the
+place be nearer the pole B, or toward H, if nearer D, but here supposing it
+nearer B, in M I mark K, upon A and K laying a ruler, it will cut the limb in
+V, make the circumference B W equal to B V, and draw the line A W, and in it
+make A X equal to the distance A K, a ruler laid on X and K, will cut the
+lymbe in F and G, and the line A B in Q, either of the circumferences E F, C G
+is equal to the declination. Now in the semicircle S R A, which is the
+Sinicall arch for the distance F G, apply a distance equal to Q K from S to R:
+upon A, and R laying a ruler, it will cut the lymbe in T, the circumference C
+T, is the distance of the right ascension, from the Equinoctial section, taken
+in the quadrant, to which the longitude belongs.
+
+The 27. Conclusion. The declination and right ascension of any star being
+given, to find the longitude and latitude thereof.
+THis differs not in working from the former, only change the names, let L
+be the pole of the world, B the pole of the Zodiac, H I joins the
+complements of the declination given, E O is equal to the distance of the
+right ascension, from the nearest Equinoctial section, 6 N A the Synicall arch
+for H I, is cut in N by a ruler laid on O and A, make M K equal to 6 N, upon A
+and K a ruler laid cutteth the limb in V, ye circumferences B V, B W being
+equal, and the live A W drawn, A X must be made equal to A K, a ruler lying
+on X and K cutteth the limb in F and G, so either of the circumferences E F, C
+G be equal sky chart to the latitude sought for. In the Synicall arch of F G,
+which is A R S, a distance equal to M K applied from S to R, and then a ruler
+laid on A and R, cutteth the limb in T, so is C T the distance of the
+longitude, from the nearest Equinoctial section taken in the quadrant, to
+which the right ascension belongs.
+
+The 28. Conclusion. The longitudes and latitudes of any two stars, or any
+two places in the earth being given, to find the distance of the one from the
+other.
+IF they be both on one side of the Equinoctial, or of the Eclipticke what
+case soever fall out, you shall take their latitudes, as heights above the
+Horizon, and the difference of their longitudes, as the distance of their
+Azimutes; by which working, after the 5. Conclusion, you shall find their
+distance: but if one be on the one side of the Equinoctial, and the other on
+the other, or, of the Eclipticke, then if they differ not in longitude, from E
+toward B, take one latitude E L, and make L K equal to the other latitude,
+the circumference E K in the Equinoctial shows their distance. If they
+differ in longitude a whole semicircle, from E toward D take E M one latitude,
+and laying a ruler on M and A, it will cut the limb on the other side in 6,
+take 61, the other latitude, and from E to 1, in the Equinoctial, you shall
+find the distance: but let the difference of the longitudes be E H; and draw
+the line A H, let the circumference F E be equal to the greater latitude, H I
+to the less, then making E G equal to E F, and H K equal to H I, upon F and
+G a ruler laid, will cut A E in N, likewise laid on I K, it will cut H A in
+P. In the line A B take A Q equal to the distance N P, and in A C make A S
+equal to F N, and S W equal to I P, in the quadrant C D from C unto 3 apply
+a distance equal to Q W, the Circumference C 3, is the distance sought for.
+
+The 29. Conclusion. The Latitudes and distance of any two Stars, or any two
+places in the Earth being given, to find the difference of their Longitudes.
+LEt the places first be on the one side of the eclipticke, or the
+Equinoctial, and let the distance given be C 4, let the greater Latitude be E
+F, the lesser E L; make the Circumferences E G equal to OF, and E M equal to
+E L, then laying a ruler on F and G, it will cut A E in N, and laid upon L and
+M, it will cut it in O, make A S equal to N F, and S V equal to L O, then
+opening your compass to the distance C 4, set one foot in V, and with the
+other mark Q in the line A B, taking the distance A Q, set one foot in N, and
+with the other describe an arch at P, then opening your compass to the
+distance A O, and keeping one foot in A, with the other cross the arche at P,
+a ruler laid on A and P, cutteth the limb in H, the Circumference E H is the
+difference of their Longitudes; when the Circumferences meet in the line A,
+they differ not in Longitude, otherwise the construction is general in this
+case. But if one be on the one side, and the other on the other, then must you
+make S W equal to L O, and opening your compass to the distance given, which
+suppose were C 3, set one foot in W, and with the other, in the line A B,
+mark the point Q, and then on N, as a Center at the distance A Q, describe an
+arch at P, which being crossed with another arch, described upon the Center A,
+at the distance A O, a line drawn from A by P to H, shows E H, the
+difference of their Longitudes.
+
+The 30. Conclusion. The Longitudes and Latitudes of any two Stars, or any
+two places in the Earth being given, to find the angle of Position, or the
+bearing of the one from the other.
+BY the Longitudes and Latitudes you may find the distance, and first let both
+the Latitudes be on the one side of the Eclipticke, or the Equinoctial, and
+their distance less then a Quadrant, as B L, and E F the Latitude of the place
+from which the other bears; the complement of the other place whose position
+is sought C 4, make E G equal to E F, and E M equal to E L, which is the
+complement of the distance B L, that is given: laying a ruler on G and F, it
+will cut A E in N, in A C take a line A S equal to F N, then laying a ruler on
+L and M, it will cut A E in O, make S V equal to L O. Now take the distance C
+4, which is the complement of the Latitude belonging to the other place, and
+setting one foot in V, with the other mark in A B, a point Q. taking ye
+distance A Q. set one foot of your compass in N, and with the other make an
+arch at P, then upon A as a center, at the distance A O, describe an arch at P,
+crossing the former, a ruler laid on A and P, will cut the limb in H, and so
+E H is the angle of position sought for. But if the distance be greater then a
+Quadrant, as for example D L, then making E M equal to L E, the excess of the
+distance above a Quadrant, upon L and M lay a ruler, which will cut A E in O,
+then having taken in A C, a line A S equal to the distance F N, take also in S
+C a line S W equal to L O, and the other Latitude being D 3, take the distance
+C 3, subtended under the complement thereof, and setting one foot in W, with
+the other mark in the line A B a point Q, opening your compass to ye distance
+A Q, upon N as a center, describe an arch at P, which crossed with another arch
+described on ye center A, at ye distance A O, a ruler laid on A, and the
+crossing at P, cutteth from the limb the circumference E H, which is ye angle
+of position sought for.
+
+But now let one Latitude be on the one side, and the other on the other of the
+Eclipticke, or Equinoctial, and let the distance be less then a quadrant,
+the^ must you take the lines A S, and S V, as in the first case, but in steed
+of C 4, the complement of the other Latitude D 4, you must take E D 4,
+compounded of the Latitude D 4, and the Quadrant E D, and opening your compass
+to the distance E 4, set one foot in V, then take a point in A B, and so
+prosecute the construction as in the first case.
+
+But if the Latitudes being one on the one side, and the other on ye other of
+the eclipticke, or equinoctial, ye distance sky chart be greater then a
+Quadrant, then must you, as in the second case, make A S equal to F N, and S W
+equal to L O, and taking the distance E D 3, subtended under E D a Quadrant,
+and D 3, the Latitude given, and setting one foot of the compass in W, with
+the other take a point in the line A B, and so proceed forward as has been
+taught both in the first and second case.
+
+The 31. Conclusion. The Latitude of one Star, or one place in the Earth
+being given, with the distance, and angle of position, or bearing toward
+another, to find the Latitude of this other, and the difference of their
+Longitudes.
+LEt the angle of Position be equal to the Circumference H E, and let the
+Latitude given be E F, and the distance being less then a Quadrant, let his
+complement be H I, make the Circumference E G equal to E F, and H K equal to
+H I, a ruler laid on F, and G, will cut A E in N: again laying a ruler on I
+and K, it will cut A H in in P, in the line A B take A Q, equal to the
+distance N P, and in A C take a distance equal to Q V, which being less then
+a Quadrant, is the Latitude of the other Star or place, and on the same side
+of the Eclipticke, or Equinoctial that the former Latitude is: but if it had
+been greater, then a Quadrant as E D 4, then should D 4 the excess above a
+Quadrant, be the Latitude sought for, and on the other side of the Eclipticke,
+or Equinoctial: thus having the two Latitudes by them and the distance given,
+you may find the difference of their Longitudes.
+
+But if the distance be greater then a Quadrant, as 6 B H is, then must you
+take H I, the excess of it, above the Quadrant I B 6, and making H K equal to
+H I, and E G equal to F E, the Latitude given, lay a ruler on F G, which will
+cut the line A E in N, and on I K, which will cut A H in P, then make A Q
+equal to N P, and A S equal to F N, and S W equal to I P, then in the lymbe
+from C, apply at 3 a distance equal to W Q, the Circumference C 3, being
+less then a Quadrant, the Complement thereof D 3, is the Latitude sought for:
+but if it be greater then a Quadrant, as E D 3, then is D 3 the excess of it
+above a Quadrant, the Latitude sought, but on the side contrary to the
+Latitude given, as it was on the same side being less then a Quadrant.
+
+Adnotandum.
+PTolomey in the first book of his Geographie, Chap. 3. promises with his
+Meteoroscopium, by the Latitudes of two places given, and the angle of Position
+to find the difference of their Longitude, which as Nonnius has truly noted,
+cannot possibly by any instrument be performed, no nor by any tables, though
+Regiomontanus Tabul. prim. mob. Prop. 46. has undertaken it: this 31.
+Conclusion expresses a general truth, and Regiomontanus in his treatise de
+Meteorosc. quite digressing from Ptolomey, has in like manner expressed it.
+
+A Caution.
+IN these four last Conclusions, following the construction here set down,
+the circle will not be sufficient to contain the lines required, which you may
+help by the Synicall arch of the lymbe, applying your lines in the limb from
+the concourse thereof and the Synicall arch, it would be too tedious to
+exemplify all particulars, therefore for your better understanding I will
+only set down for.
+
+The 32. Conclusion. Another way to find the distance of two Stars, or
+places in the Earth, having their Latitudes, and the difference of their
+Longitudes given.
+LEt the Semicircle A B C be the Synicall arch of the lymbe, and from the
+concourse of it and the lymbe C, apply at 7 a distance equal to N P, a ruler
+laid on C sky chart and 7 will cut the Semicircle A B C in Z, take the
+distance C Z, and setting one foot in A, with the other in the line A B mark
+a point X, again making A S equal to F N, and S V equal to I P, apply from
+C to D a distance equal to V A, a ruler laid on C D will cut A B C in Y, make
+T V equal to C Y, and from C in the arch A B C apply at B a distance equal
+to T X, a ruler laid on C B will cut the limb in 4, the Circumference C 4 is
+the distance sought for: the other cases may be all handled after this fashion.
+
+The 33. Conclusion. The longitudes and latitudes of any three Stars, or any
+three places in the earth being given, to know whether they be in one
+greatest circle or no.
+TAke the distance between the first and the middlemost, which let be E L, and
+likewise between the middlemost and the third, which let be L I, and let the
+distance between the first and the third be E G, now if E G be equal to E I
+they be in one greatest circle, otherwise not.
+
+The 34. Conclusion. Any unknown star being seen, to find the right
+ascension and declination of it.
+Having thrice observed the Azimute, and Almicantar or height, you may by the
+seventh conclusion find the declination of it, then take the distance of it,
+from any known star, by the declinations taken as latitudes and their
+distance, you may find the difference of their right ascensions, as the
+difference of their longitudes, which added or subtracted accordingly from the
+known stars right Ascension, yields the right Ascension of the unknown
+Star. Gemma Frisius his chapter answering this conclusion, includes Cometes,
+but their Parallaxis being neglected, which he regards not, neither his
+working nor this conclusion, no less exact then his working, can duly
+perform that he propou^deth. In the Moon besides her Parallar, the swiftnes
+of her motion, will be also a let, although Ptolomeye Almag. lib. 7. c. 2.
+Regiomontanus in Epit. and Copernicus lib. 1. c. vlt. by their Astrolabe or
+Armillae which Pappus Comment in 5. Alm. calls Meteoroscopion, take the place
+of the Moon to find the longitude of the stars, and peradventure the method
+used of Copernicus lib. 2. c. 2. is fitter for that purpose.
+
+The 35. Conclusion. The latitude or amplitude of the Suns or any known
+Stars rising being given with their declination, to know the height of the
+Pole.
+ON the land it is casie to mark in what points of the Horizon the Sun or
+any star rises and sets, and it is a common practice at Sea, to set the
+Compass with the Sun, at his rising, and going down, the half of the
+circumfere^ce intercepted between those two points, is the amplitude of rising,
+reckoned from the Meridian. In the Sun about the Equinoctial sections some
+little error may happen, which although M. Digges in Scal. Mathem. thinks
+worth the correcting, may in handling these common instruments be nothing
+regarded. But to the conclusion: let E F, and C G, be either of them equal to
+the declination given, and draw the line F G, let the circumference E H, be
+equal to the amplitude of rising, counted from the East, a ruler laid on H,
+and A, will cut E I A the Synicall arche of the limb in I, with your Compass
+take the distance E I, and setting one foot in A, with the other toward G, or
+F, it skilleth not which, take a point K, a ruler laid on A and K, will cut
+the lymbe in L, the circumference B L, is the height of the pole.
+
+The 36. Conclusion. In a Country of known Latitude, the declination of the
+Sun or any Star being given, to know the amplitude or Latitude of rising.
+LEt the Circumferences E F, C G be equal to the declination given, and B L
+the height of the Pole, a ruler laid on A and L, will cut F G in K, in E I A
+the Synicall arch of the lymbe, apply from E to I a distance equal to A K,
+and laying a ruler on A and I, it will cut the lymbe in H, the circumference E
+H, is the distance of rising from the East Northward, if G F fall between the
+Equinoctial and the North Pole South ward, if between the Equinoctial and
+the Antarticke Pole.
+
+The 37. Conclusion. In a Country of known Latitude, the Amplitude or
+Latitude of the Suns or any Stars rising being given, to find the
+Declination.
+LEt B L be the height of the Pole, and draw the line A L, let the distance of
+the rising from the East, be E H, a ruler laid on A and H, will cut E I A, the
+Synicall arch of the lymbe in I, take the distance E I, and setting one foot
+in A, with the other in the line A L, mark K, then make B M equal to B L, and
+draw the line A M, in it take A N, equal to A K, a ruler laid on N and K,
+will cut the lymbe in F and G; either of the Circumferences E F, C G are the
+declination sought for.
+
+The 38. Conclusion. In a Country of known Latitude, the declination of the
+Sun or any Star being given, to find the Semidiurnall arch, or half the
+time it continues above the Horizon.
+LEt the height of the Pole be L B, either of the Circumferences E F, C G,
+equal to the declination given, sky chart drawing the line G F, on A and L lay
+a ruler, which will cut G F in K, take the distance O K, and from R in R P A
+the Synicall arch of G F, apply at P a distance equal to O K, a ruler laid on
+A and P, cutteth the lymbe in Q, if the line F G be between the Equinoctial
+and the apparent pole, the Semidiurnall arch shall be B E Q, but if it be
+between the Equinoctial and the hidden Pole, the Semidiurnall diurnall arch
+shall be Q D, you may easily see in the hour circle, what hours they
+contain.
+
+A Corollarie.
+THe point Q. if the line G F, be between the apparent Pole and the
+Equinoctial, shows the time of the rising: but if it be between the hidden
+Pole and the Equinoctial, it shows the setting: if from C toward D, you
+take in the lymbe a distance equal to E Q, that point will show the setting,
+when F G is between the apparent Pole and the Equinoctial, and the rising,
+when it is between the hidden Pole and the Equinoctial.
+
+The 39. Conclusion. The declination and Semidiurnall arch of the Sun, or any
+Star being given, to find the height of the Pole.
+LEt the Circumferences E F, C G, be equal to the declination given, and let B
+E Q, or D Q, be the Semidiurnall arch, a ruler laid on A and Q will cut R P A,
+the Synicall arch of the line G F in P, make O K equal to the distance R P,
+and laying a ruler on A and K, it will cut the lymbe in L, the Circumference B
+L is the height of the Pole.
+
+The 40. Conclusion. By two known Stars, whereof the one is in the Meridian,
+the other in the Horizon, to know the height of the Pole or Latitude.
+LEt the declination of that which is in the Horizon, be equal to either of
+the Circumferences E F, C G draw the line G F, cutting the Axis A B in O, and
+let R P A be the Synicall arch of the line GF, and let the right ascension of
+that, which is in the Meridian, be distant from the nearest Equinoctial
+section, so much, as Q is from E; now laying a ruler on A and Q, it will cut R
+P A the Synicall arch of the line F G in P, make O K, or ON, it skilleth not
+which, equal to R P, a ruler laid on K and A, will cut the lymbe in L, the
+Circumference B L is the height of the Pole.
+
+The 41. Conclusion. In a Country of known Latitude, the height and
+declination of the Sun being given, to know the hour of the day, or what it
+is a clock.
+LEt the Circumferences E F, C G be equal to the declination of the Sun, and
+B L and D T the height of the Pole, make either of the Circumferences L S, T H,
+equal to the height given, a ruler laid on S and H, will cut F G in V, in R P
+A the Synicall arch of F G, apply from R to W, a distance equal to O V, a
+ruler laid on A and W, will cut the lymbe in X. Before Noone the observation
+being taken, and if the Axis of the world fall between V and the Horizon, then
+in the quadrant C D, taking from C, a Circumference equal to EX, you shall have
+ye hour pointed forth, but if V fall between the Axis and the Horizon, then
+take in the Quadrant B C from C, a Circumference equal to E X, and the hour
+shall be poynted out. The observation being taken after Noone, you must use the
+Quadrants E D and E B in like manner.
+
+A Caution.
+BEcause when the Sun draws near the Meridian, you cannot perfectly
+discern, whether it be before Noone, or after Noone, you must help that
+matter thus. Take two Observations with some pretty distance between, and if
+the last be greater then the first, thou was the first before Noone, but if the
+last be lesser, then was the last after Noone.
+
+The 42. Conclusion. In a Country of known Latitude, the Azimute and
+declination of the Sun being given, to find the hour of the day.
+BY the Azimute and declination given, you may by the 14. Conclusion find* the
+height thereof, that being had by it and the declination you shall by the
+former conclusion find the hour.
+
+The 43. Conclusion. In a Country of known Latitude, the height and
+declination of any Star being given, to find the hour of the night.
+LEt the Circumferences E F, C G, be equal to the declination of the Star,
+draw the line F G, cutting B A in O; let either of the Circumferences L B, D T
+be the height of the Pole, and make the Circumferences L S, T H equal to the
+height given: on S and H laying a ruler, it will cut F G in V: in R W A apply
+from R to W, a distance equal to O V; and laying a ruler on W and A, you shall
+cut the lymbe in X, if the observation be taken before the Star come to the
+Meridian, which you shall know by the caution of the 41. Conclusion, then take
+a Circumference equal to EX on the one or the other side of C, according to
+the falling of the point V showed in the 41. Conclusion, and so shall you have
+the distance of the Star from the Meridian, or the hour of the Star, which
+imagine you find to be poynted out by T: from T toward the point E, take a
+Circumference sky chart TEG, equal to the Stars right ascension, and from G
+toward B take a Circumference G M equal to the Suns right ascension, a ruler
+laid on A and M in the hour circle poynteth forth the hour.
+
+The 44. Conclusion. In a Country of known Latitude, the Azimute and
+declination of any Star being given, to know the hour of the night.
+THe Azimute and declination being given, you may by the fourteenth Conclusion
+find the height, then by the height and declination by the former Conclusion
+you may find the hour.
+
+The 45. Conclusion. Any day of the year in a Country of known Latitude, to
+find the beginning, continuance, and end of the Crepusculum, that is, the
+dawning in the morning, and twy-light in the evening.
+LEt B L be the height of the Pole, and either of the Circumferences E F, C G,
+equal to the declination of the Suns place for the day given, draw the line
+F G, upon A and L laying a ruler, it will cut F G in K, and the lymbe on the
+other side in T: from L and T take under the Horzon, that is toward C and D,
+the Circumferences L Y, T Z of eyghteene degrees apeece, upon Z and Y laying a
+ruler, it will cut F G in 2: in R P A the Synicall arch of F G, apply from R
+to P a distance equal to O K, again from R to 4 apply in R P A a distance
+equal to O 2, now a ruler laid upon A and P, will cut the lymbe in Q, but laid
+on A and 4, will cut it in 6, the Circumference Q 6 in the hour circle will
+show the continuance of the Crepusculum. This added to the Suns rising, which
+you are taught to know by the 38. Conclusion, Cor. shows, when it begins
+in the morning, and added to the time of his setting, shows when it ends in
+the evening: I need not tell that it ends in the morning with the rising of
+the Sun, and begins in the evening with his going down.
+
+The 46. Conclusion. In a Country of known Latitude any day in the year at
+any hour assigned, to know the height of the Sun.
+LEt B L be the height of the Pole, and the Circumferences E F, C G equal to
+the Suns declination for the day given, and let E X be the hours distance
+from six, on X and A laying a ruler, it will cut R P A the Synicall arch of
+the line G F, in W: with your compass take the distance R W, and setting one
+foot in O, mark in the line F G a point toward G, if in the morning it be
+before six, or in the evening after six, but if it be after six in the
+morning, or before six in the evening, then toward F, as here it is supposed
+in the morning after six, and therefore let it be V, on A and V laying a
+ruler, it will cut the lymbe in 5, make the circumference T 7, equal to L 5,
+and draw the line 7 A; in it take a line A 3 equal to A V, and laying a ruler
+on V 3, it will cut the lymbe in S and H, either of the circumferences L S,
+or T H are the height desired.
+
+The 47. Conclusion. In a Country of known latitude, for any day of the year,
+to find in what Azimute the Sun is in.
+BY the former conclusion you learned how to find the height for the time
+assigned, in the 13 conclusion was taught by the height and declination given
+in a country of known latitude to find the Azimute, and so by these two
+conclusions you may perform that, which is here propounded.
+
+The 48. Conclusion. In a country of known Latitude any day of the year at
+any hour assigned, to know how far any determinate point is distant from the
+Meridian.
+LEt the hour assigned be M, and from M by B Eastward take a circumference M B
+G equal to the sky chart Suns right ascension for the time given, again
+from G by E take a circumference G E T equal to the right ascension of the
+point or star given, the circumference T D is the distance thereof from the
+Meridian, which you desired.
+
+The 49. Conclusion In a Country of known Latitude at any hour assigned any
+day of the year, to know the height of any known Star.
+TAke the distance of the point or star at the time given from the Meridian,
+and so consequently from the hour of six, which let be E X, and let E F, C G
+be equal to the stars declination, draw the line F G, cutting A B in O, then
+upon A and X laying a ruler, it will cut R W A, the Synicall arch of F G, in W,
+with your compass take the distance R W, and in the line F G from O toward G,
+if the distance from the Meridian be more then six hours, but if less then
+six hours, as here it is supposed, then toward F take V O, equal to R W,
+then laying a ruler on A and V, it will cut the lymbe in 5, make the
+circumference T 7 equal to L 5, and draw the line 7 A, therein take A 3 equal
+to the distance A V, and laying a ruler on V and B, it will cut the lymbe in
+the points F and G, either of the circumferences E F, C G is equal to the
+height you desire.
+
+The 50. Conclusion. In a Country of known Latitude at any hour assigned any
+day of the year, to know the Azimute of any known Star.
+BY the former conclusion you know how to find the height for the time
+assigned, and by the height and declination, the 13. conclusion will teach you
+to find the Azimute as you desire.
+
+The 51. Conclusion. In a Country of known Latitude, to find the difference
+Ascensional, or the difference of the right and oblique ascension of any point
+of the Eclipticke or any known Star.
+LEt E W be the height of the Pole, and let either of the Circumferences W I,
+and W H be equal to the complement of the declination given, draw the line HI,
+cutting the Horizon E C in Y, and the Axis of the world A W in 4, let 6 Z A be
+the Synicall arch for the line H I, and therein from 6 to Z, apply a distance
+equal to 4 Y, upon A and Z laying a ruler, it will cut the lymbe in 5, the
+circumference E 5 is the difference Ascensionall which you require.
+
+The 52. Conclusion. In a Country of known Latitude to find the oblique
+ascension of any point of the Eclipticke, or any known Star.
+LEt the right ascension of the point taken by the 20. Conclusion, be the
+Circumference E B G, accounted from E, the beginning of Aries, and the
+difference ascensionall of the point, whose line of declination is H I, let be
+E 5: now if H I be between the apparent Pole and the Equinoctial, take from G
+toward E a Circumference G 1, equal to E 5, and E B 1 shall be the oblique
+ascension: but if H I be between the Equinoctial and the hidden Pole, then
+from G toward C, take the Circumference G 3 equal to E 5, and then shall E G
+3 be the oblique ascension sought for.
+
+A Corollary.
+IF you add a semicircle to the oblique Ascension found, that is, if you lay a
+ruler on 1, or 3 and A, it will in the opposite quadrant E D, point out the
+oblique descension of the point, that is opposite to the point whose oblique
+Ascension you look.
+
+Another Corollary.
+YOu may also find the oblique descension of any point by this Conclusion, if
+you add, when here you are appointed to subtract, and subtract when you are
+appointed to add.
+
+The 53. Conclusion. The oblique Ascension of any point of the Eclipticke, or
+any known Star being given, to find the Latitude.
+LEt W be the Pole of the world, W I and W H the complements of the points
+declination, draw the line H I, cutting A W the Axis of the world in 4, and let
+the difference Ascensionall (which you may know by comparing of the right and
+oblique Ascensions) be E 5, a ruler laid on the Center A and 5, will cut 6 Z A
+the Synicall arche of the line H I in Z, in the line H 4, take Y 4 equal to
+the distance 6 Z; then laying a ruler upon A and Y, it will cut the lymbe in E,
+the Circumference E W is the height of the Pole, or the Latitude sought for.
+
+sky chart
+
+The 54. Conclusion. In a Country of known Latitude, any day assigned to know
+what point of the Eclipticke is in the Meridian in the morning.
+TAke the oblique ascension for that point of the Eclipticke, wherein the Sun
+is that day which is assigned, as for example the point V, then opening your
+Compass to the distance B C, set one foot in V, and with the other from the
+West toward the East, or according to the succession of the degrees or times
+of the Equinoctial mark in the lymbe T, that point is the point of the
+Equinoctial which is in the Meridian: now if by the 22. Conclusion you take
+the point answerable to that right ascension in the Eclipticke, it shall be the
+same that is in the Meridian.
+
+The 55. Conclusion. In a Country of known Latitude any day of the year, at
+any hour assigned, to find what point of the Eclipticke is in the Meridian.
+LEt the right ascension answering the degree of the Eclipticke, which serves
+the day given, be E B V, accounted from E the beginning of Aries, now take the
+hour distance of the Sun from the Meridian, which let be B W: if the Sun
+be not yet come to the Meridian, from V toward C, or from West toward East,
+according to the succession of the degrees of the Equinoctial, take a
+Circumference V 7 equal to B W, 7 shows the point of the Equinoctial, that
+is in the Meridian, the place of the Zodiac answerable to the right
+ascension, is also in the Meridian with it. But if the Sun be past the
+Meridian, you must take a Circumference equal to B W, contrary to the
+succession of the Equinoctials degrees, as from V the Circumference B V, and
+then the point of the Eclipticke, which answers the right Ascension B, shall
+be in the Meridian, and the same is to be understood of the opposite points.
+
+The 56. Conclusion. In a Country of known Latitude any day of the year, to
+know what time any point of the Eclipticke, or any known Star rises or
+sets.
+TAke the oblique Ascension of the point, which let be E B G, and the right
+Ascension answering the point, wherein the Sun is the day given, which let be
+E B T, from the hour of the Suns rising according to the succession of the
+hour circle, take a Circumference equal to G T, and it shall point out the
+hour, when the Star comes to the Horizon.
+
+The 57. Conclusion. In a Country of known Latitude to know with what point
+of the Eclipticke, any known Star comes to the Meridian.
+TAke the right ascension of the Star, and then the point of the Zodiac
+that is answerable thereunto, and that shall be the point wherewith the Star
+comes to the Meridian.
+
+The 58. Conclusion. The oblique ascension being given, to know the situation
+of the Equinoctial sections in respect of the Meridian.
+LEt the oblique ascension given be E B 1, with your compass take the distance
+B C, and setting one foot in 1, with the other mark a point L, which is the
+point of the Equinoctial in the Meridian: now for as much as E is beyond the
+Meridian, it is in the West quarter above the Horizon, if it had fallen
+between L and 1, it should have been in the East, the opposite section is
+always in the opposite Quadrant.
+
+sky chart
+
+The 59. Conclusion. In a Country of known Latitude to know the Horizontall
+angle, made by the Section of the Horizon and Eclipticke in any point given.
+TAke the oblique Ascension of the point given, and by it find the situation
+of the Equinoctial section. Now if the Section be on the East side of the
+Meridian, take the complements of the oblique ascension, and the point given as
+Latitudes; the Suns greatest declination is the difference of their
+Longitudes, and by the 30. Conclusion seek the Horizontall angle, as the
+bearing of the oblique ascension from the point of the Eclipticke, that is in
+the Horizon, and so have you the Horizontall angle, but if the Equinoctial
+Section be on the West side, you must take the complements to the opposite
+points of the Eclipticke, and oblique ascension, and with them work by the
+Conclusion as is aforesaid.
+
+To the Reader.
+THere remains for perfecting this Section almost 20. Conclusions more,
+whereof many depend upon this problem: viz. In a Country of known Latitude,
+any oblique Ascension being given, to find the point of the Eclipticke
+Coascending, which yet I have not found how to perform generally, otherwise
+then by taking such help of an Eleipsis, as is used in the foureteenth
+Conclusion: in which manner of working the construction will very often exceed
+the compass of the lymbe, for which and some other causes I omit it and the
+rest at this present. Notwithstanding if I perceive hereafter, that those
+matters be much desired, they shall be adjoined at the next impression: the
+mean while I must entreat the reader to take thus much in good part.
+
+The end of the second Section.
+THE THIRD SECTION OF THE NEW HANDLING OF THE PLANISPHERE; WHICH IS A
+SVPPLEMENT Organicall.
+CHAP. 1. To make a Quadrant, whereby you may readisie know what Degrees and
+Minutes are contained in any Circumference given.
+Upon the Center A, describe a quadrant A B C, whose lymbe you must divide, as
+the common manner is, into 90. equal parts or degrees, and every degree into
+halfes; in the lymbe take the quantity of 30. degrees, which let be C D, and
+draw the line A D. In either of the lines A D, or A C, take some reasonable
+distance from the lymbe, as A E, or A F; and upon the Center A at that
+distance, describe the Circumference F E, then enlarging your compass a
+little, describe another Circumference, as you see at F and E: again, opening
+your compass somewhat larger, describe another Circumference G H, then
+extending or contracting the distance of your compass, describe a
+Circumference near it, as you see at G H. In like manner describe two other
+Circumferences somewhat near together, and distant from sky chart G H, as you
+see at I K; and so make between E C, F D 30 such lists, as you see at F E, G H
+and I K. Then take an arch of 59 degrees, which you must divide into 60 equal
+parts, the sixty part of which division, will divide two degrees into two
+unequal parts: take ye two degrees next D, and from that point toward D, take
+a Circumference equal to the greater segment you made by dividing 59 degrees
+in 60 parts, and upon that point and the Center A laying a ruler, where it
+cutteth the list next the lymbe, as that beneath L M is, draw a line, dividing
+the list beneath L M, and from that division apply so many degrees in order,
+as the circumference will admit, till you come so near 1, as you can. Then
+take 58 degrees, and divide that circumference into 60 equal parts, the sixty
+part of this division, falling between two degrees deuideth them into two
+unequal parts, again taking 2 degrees next D, from that point toward D, take
+the greatest portion, and laying a ruler on that point and A, where it cutteth
+the second list from the limb, draw a line cutting that list, and from that
+division mark so many degrees in that list, as the residue of the
+circumference will receive, then divide 57 degrees for the third list, 56 for
+the fourth list, and so the degrees in order, till you come to thirty degrees,
+and the thirtieth list, although if the limb be divided into half degrees,
+the thirtieth list, and the division of thirty degrees is needles. Having thus
+divided 30 lystes, in the space without the quadrant to the side A C draw two
+parallel lines including two spaces, and extend one circumference of every
+fifth list to the uttermost parallel, in the space next the side of the
+quadrant A C, at the list next the limb, set one, or 1. at the next
+circumference extended from the fifth list set five, or 5 in the same space,
+under that which is extended from the tenth, set 10, and so increasing by 5 to
+thirty, then descending in the second space, at the fifth list, set 35, at the
+tenth 40, and so in order by 5 to 60: then may you thus use the quadrant.
+
+To find what degrees and minutes are contained in any circumference given.
+Upon the center A, describe in the quadrant A B C, an arch N P O, having A N,
+the semidiameter equal to the semidiameter of the circumference given, and
+take from it, so many degrees, that you have a remainder less then thirty,
+that is take from it so many times 30 degrees as you can, and if the remainder
+less then thirty, have a portion of a degree greater then half a degree,
+taking that remains with your compass, set one foot in Q, and take Q P
+equal to your remainder; then laying a ruler on A and P, mark the list by
+whose division the edge passes most exactlie, then in the utter space, on the
+outside of A C telling the numbers answering that list, you shall have the
+number of minutes above the just degrees. But if your remainder exceed just
+degrees by less then half a degree, then taking that portion with your
+compass, set one foot in N, and with the other mark P, making N P equal to
+the circumference given, then laying a ruler on A, and P, mark the list whose
+division is cut by the edge of the ruler, and then in the space next A C tell
+the number of that list from the lymbe, the number so found is the number of
+minutes, above the just degrees. If the semidiameter of the circumference given
+be greater, then the semidiameter of the quadrant, upon the center of the
+circumference given, describe another, having the semidiameter equal to the
+quadrants semidiameter, and laying a ruler on the center, and the point given,
+mark where it cut the circumference, having the semidiameter equal to the
+quadrants semidiameter, and instead of the circumference given, transfer that
+circumference into the limb of the quadrant, and then by it prosecute your
+construction, as is before appointed. Thus may you make one quadrant serve
+instead of many used by Clauius in his Gnomonia and Astrolabe, and supply with
+30. divisions those 60. which in his construction of the like quadrant out of
+Iacobus Curtius he appoints.
+
+CHAP. 2. To describe a triangle for enlarging or contracting of Scales, and
+assigning any parts, or proportion given in any rightline.
+DRaw o^ ^he out side of the quadrant, two lines pacallell to A B, and divide
+the outward space into what number of equal parts you will, which you may do
+at pleasure before you describe the limb of the quadrant, and in the space
+next A B at every fifth division write 5, 10, 15, and so forth, according to
+your number of deuisions, whereby you may readily tell from A, the parts
+contained in the divided space, then drawing the line D B you shall use it thus.
+
+To cut from a right line given any part appointed.
+LEt the parts be these, which are contained in A 2, and make A R equal to A
+2, draw the line R 2, now the line given is either greater, or less the^ A 2:
+first suppose it less, and let it be equal to R Y, make R W equal to R Y,
+draw the line W Y, now laying a ruler on R and 1, one of the parts contained in
+A 2, it will cut W Y in X, the line X Y is contained in the line W Y, so often,
+as the line A 1, is contained in the line A 2. But if the line given be greater
+then A 2, then make A S equal unto it, and A R equal to A 2 containing the
+parts assigned, draw the lines 2 R, and in 2 R take 2 V equal to A 1, one of
+the parts given, then laying a ruler on A, and V, it will cut S 3 in T, the
+line 3 T is so often contained in 3 S as 1 A is contained in A 2: and so in
+both cases you have cut off from the line given, the part which was required.
+
+A Corollary.
+IF any proportion given in a right line as the proportion that is between 1,
+2 and 2 A, you may in like manner find in any line given, for both W Y is to X
+Y and S T to T 3, as 2, 1, is to 1 A.
+
+sky chart
+
+Another Corollary.
+IN like manner you may enlarge, or contract any Scale at pleasure: first
+taking the half, third, fourth or what part else you will of it, by this
+problem, and then again divide that part so taken into the parts whereinto
+the Scale is divided, and by this Scale so contracted you may make a plat,
+whose sides correspondent to the sides of the first plat, shall be half or a
+third or a fourth part, or any number you first took, likewise by the second
+case you may enlarge them at your pleasure.
+
+You may also divide any line given into more parts then are in the side A B,
+which how to perform with some cautions for avoiding error in mechanical
+practice, I will reserve till another edition.
+
+CHAP. 3. Of the Meridian line, the variation of the Compass and the height of
+the Pole.
+A lemma About a Circle given to describe a Quadrant.
+LEt the Circle given be B C D E, whose center let be A, and let the Diameters
+B D, C E be perpendicular one to another, then extending one of them, namely B
+D, make A G equal to the distance B C, upon G as a Center at the distance G B,
+describe an arch F B H, and from G draw two touch lines G L F, and G M H: I say
+that G F H is a Quadrant, circumscribed about the circle B C D E, vz. the lines
+F G, G H, and the circumference F B H, do only touch it.
+
+If you make the semidiameter of the quadrant to another line, as D B the
+Diameter of any circle given, is to the distance B C, subtending a quadrant of
+the same circle, the excess of the Dameter above that line, is the
+semidiameter of the circle to be inscribed in that quadrant.
+
+The use and making of an instrument tractable as well at Sea, as at Land,
+wherein the shadow of the Sun shall at one instant point out his magneticall
+Azimute and height.
+Upon the center A, describe a circle B C D E, and by the former Lemma, about
+it describe a Quadrant G F H: and draw the lines A L, A M parallel to the
+sides F G, and G H, then divide the lymbe F B H into 90. degrees, beginning at
+F, this being done, cut out a circle somewhat less then the circle B C D E,
+but concentricke unto it. Then take an Isoscheles triangle G H O; having the
+angle at H aright angle, and either the sides including it equal to the
+semidiameter of the Quadrant, this triangle must be placed upon the line G H,
+in such manner, as the point G agree just with the center of the quadrant, and
+so that the plains of the quadrant and traingle be perpendicular one to the
+other: then must there in some place of the line F G be set a standerd or plate
+(it will be best between L and G) so that one of the edges standing just upon
+the line G F, be perpendicular unto it, and the whole plate it self parallel
+to the forenamed rectangle triangle. On this standard, or some where in the
+triangle on that side, which respects F, you must hang a plumbe line, and if
+you will set another plate upon F G, some where about F, making his section
+with the quadrant in the line G F, and also perpendicular unto the plain of
+the quadrant, you may by a plumbe line hanged upon this plate, or standard, and
+the other plumbe line hold the quadrant G F H, both at Sea and Land preciselie
+level with the Horizon. Besides this you must make a round box, having the
+circle in the bottom divided into 360 degrees, or every quadrant into 90, as
+you like best, which box must be fastened unto the quadrant in such manner, as
+the two Diameters crossing one another at right angles, have the one, one end
+directly answering the point L, and the other another end likewise precisely
+answering the point M; in the center of this bore, you must set a pin to
+bear a needle touched with a very good Loadstone, making the needle of such
+length, as it may freely play in the box; this bore must be covered with a
+glass to keep it from dust and other hurt, as in dials and compasses is used.
+The standards and the triangle may be so shouldered to the quadrant, that you
+may take them off, and put them on when you will; the manner how, I need not to
+stand upon, every workman can easily devise how, and also supply every
+particular circumstance in the making sky chart of this instrument required,
+which I very willingly refer to their handines and skill, only I must warn
+them very carefully to place the triangle precisely perpendicular to the
+quadrant, with the point of the acute angle agreeing with the center, and that
+the ends of the Diameters in the bottom of the box, do very exactly respect
+the points L and M in the sides of the quadrant, you shall use this instrument
+thus. Hold the quadrant by the plumbe lines level with the Horizon, and turn
+the triangle toward the Sun, till the shadow of the plate or Standard that
+is next G, do fall precisely upon the line G F, or (if you will place it so)
+upon some line parallel unto it, the shadow in the lymbe of the quadrant will
+cut off, accounting from F unto it, a circumference equal to the height of the
+Sun. At the same time if you mark the point M, and the circumference that is
+between it and the South end of the needle, that is the distance of the Sun
+from the South of the Magnet, or the Magneticall Azimute of the Sun reckoned
+from the South.
+
+By the instrument now described, at noone tide in any Country to find the
+Meridian line, the variation of the Compass, and (having the Suns
+declination given) the height of the Pole.
+ALthough it be a matter not very easy to find precisely when it is noone, or
+the Sun at the highest, yet may you guess when it comes somewhat near it, as
+it is commonly practiced by Seamen, which use at that time with their
+Astrolabe or cross staff, to make four or five sundry observations, and
+amongst them take the hiest for the Meridian height: in like manner when it
+draws to be about nooue, make sundry observations with this instrument,
+marking the height of the Sun, and his Magneticall Azimute, as was even now
+showed in the use of the instrument, the greatest height is the Meridian
+height, and the Diameter A M does precisely answer the Meridian line, the
+circumference intercepted between it and the south point of the needle, is the
+variation of the compass, whether East of West, is easily determined by the
+side of A M, on which the needle rests. Now the Meridian height being given,
+with the declination, you have been taught in the tenth Conclusion of the
+second Section, how to find the Latitude or height of the Pole. The common
+manner of finding it by adding or subtracting of the declination is more
+artificially handled by Nonnius lib. 2. cap. 9. de Reg. Nauig. then has to my
+knowledge been hitherto published in English, and therefore I think it not
+amiss to translate his words, which be thus:
+
+We must observe the sun, when he is highest above the Horizon, which is at
+noone, then if the shadows of bodies perpendicular to the Horizon be cast that
+away, that the Sun declineth, in the day of your observation, you must add
+the complement of his greatest height to the declination so have you the
+degrees and minutes of the latitude, North, if the Suns declination be North,
+South, if it be South.
+
+But if the shadows be cast to the contrary part, then you must compare the
+Suns declination with the complement of his height, which if you find
+equal, the Zenith is in the Equinoctial: but if they be unequal, subtract
+the less from the greater, and the remainder is the latitude, named of the
+declination, if the declination be greater, but if less, of the contrary part
+or side.
+
+When the sun has no declination, the complement of his greatest height is
+the latitude, and toward that part or pole, toward which the shadows are
+cast: you may know by the Mariners Compass whether the shadows be cast North
+or South. When the Sun is in the Zenith, the declination, if it have any, is
+the latitude: thus much Nonnius.
+
+By the same instrument two observations being taken; when the Sun has equal
+altitudes, to find the Meridian line, the variation of the compass, and (the
+Suns declination being given) the height of the Pole.
+THe Sun does not always shine at noone, and therefore at other times you
+may help your self thus. Make an observation with your instrument marking the
+height of the Sun, and the circumference intercepted by the point of the
+needle, and that diameter, which is perpendicular to that side of the quadrant,
+on which the triangle stands, and do this if you will four or five times
+before noone: in the after noone mark, when the Sun comes again to the same
+height, which it had any time, when you made your observations in the
+forenoone, and again how many degrees are between the Diameter that is
+perpendicular to the side of the Triangle, and the North point of the needle,
+then compare that found in the fore noone, with that you found in the
+afternoon: if they be both on the same side of the needle, subtract the less
+from the greater, and the half of the residue points forth the right North,
+to which if you add the excess of the greater magneticall Azimute above the
+less, you have the variation of the Compass, Eastward, if the first
+observation were lest, Westward, if the second. But if the one be on the one
+side, and the other on the other, then add both the circumferences together,
+and of them both take the half, that point determines the precise north: with
+this half compare the last observation, and if it be greater, the variation is
+Eastward, but Westward if it be less. Now the Meridian line being found, you
+know the Azimute, wherein the Sun was at the time of your observation, and
+you also took his height, which two being given with his declination, you may
+find the latitude, as was showed in the 8 and 10 conclusions of the second
+Section.
+
+By the same instrument three observations being taken, whereof two be, when
+the Sun has equal altitudes, to find the Meridian line, the variation of
+the Compass, the declination of the Sun, and the height of the Pole.
+YOur three observations being taken as is required, you have two of them when
+the Suns heights be equal, by which you are taught in the former problem
+how to find the Meridian line, and the variation of the Compass, the Meridian
+line being found, you may know the distance of both those Azimutes from it,
+which have different Altitudes, by which two Azimutes and their altitudes, the
+ninth and tenth Conclusions of the second Section will show you, how to find
+the declination of the Sun, and the Latitude.
+
+sky chart
+
+By the same instrument three observations being taken howsoever, to find the
+Meridian line, the variation of the Compass, the declination of the Sun, and
+the height of the Pole.
+Having taken by your instrument in three observations, the heights and
+distances of their Azimutes: from any quarter of the lymbe, whose Diameter you
+must account for the first Azimute, number the distance of the second, and from
+that point so taken, the distance of the third, and let those points of the
+Azimutes be E F G, draw the lines F A, G A; again, let E H be the height
+belonging to the Azimute E, and E K the height for the Azimute F, and E N the
+height for the Azimute G; now laying a ruler upon B and H, it will cut A E in
+I, again laying a ruler on B and K, it will cut A E in L, in A F make A M
+equal to A L, again laying a ruler on B and N, it will cut A E in O, in A G
+take A P equal to A O, now unto the three points I, M, P, find the center,
+which let be Q, on A and Q laying a ruler, it will cut the lymbe in R, that
+point R is the right North, or South, and so have you the distance of the
+Azimutes from it, that is E R is the distance of the first, F R of the second,
+G R of the third, the difference of these Azimutes, and the Magneticall Azimute
+belonging to every of them, is the variation of the Compass: by any two of
+these Azimutes, so their height be different, in the second Section you are
+taught to find the declination and height of the Pole, which two things in the
+problem required, Nonnius, from whom thus much is borrowed, Lib. 2. Nauig. c.
+16. prosecuteth after a far different manner, yet suitable to the construction
+here set down already: but for that his construction will seldom be contained
+within the compass of the lymbe, I thought good to omit it: this finding of
+the Meridian line, being very ingenious and commodious, though it sometime will
+incur the like inconvenience, I thought worthy to be known. Clauius has
+another way to perform the things required, but nothing easier then this of
+Nonnius. For both of them about the Equinoctial will produce the construction
+hugely without the compass of the lymbe, and in Nonnius his way, the Suns
+parallel will differ little from a right line, so that you must use a peculiar
+instrument for to describe it, and yet are you nothing the nearer for finding
+of the center. Therefore if at Sea the Azimutes and almicanters of the Stars
+might be taken, Nonnius his construction would be of far more use: for then
+working by such stars as be near the Poles, their Parallelles would easily be
+described. I have thought of an instrument for that purpose, as to use a
+quadrant with an index, and sights, insteade of the triangle, or to fit your
+box with the needle, at the lower end of the Mariners Astrolabe, for want of
+experience I dare not affirm much, but I think that Art, handinesse, and
+diligence might do some thing with such instruments, the better consideration
+whereof, I willingly refer to the Seamans experience.
+
+The Suns declination being given with the height of the pole, to find the
+Meridian line by one observation.
+PLacing your quadrant with the triangle upon any plain made level with the
+Horizon, turn it as is appointed for the finding of the height, and by the
+side, on which your standards are placed, draw a right line: by the height,
+which you then find, in a country of known Latitude the Suns declination
+being given, you are taught in the second section Conclusion 13, to find the
+Azimute, which being done, describe a circle upon a center taken in the former
+line, and from the line taking accordingly a circumference answering the
+Azimute, the line which joins that point, and the center, is the Meridian
+line. Clauius has two other ways to do this: one Gnomon. lib. 1. cap. 23. the
+other in his Astrolabe lib. 3. Can. 12. and a third I have found, but none to
+be preferred before that which is here propounded, notwithstanding if this
+book be printed again, those three also shall be adjoined.
+
+sky chart
+
+CHAP. 4. Of Mappes or Chartes and Nauticall directions.
+Any line being given, to find another line, unto which the line given shall
+have that proportion, that the Meridian has to any Parallel.
+Upon the center G describe a semicircle F H Y, and let H G be perpendicular to
+F Y. Let F B, Y Z be equal to the distance of the Parallel from the
+Equinoctial, and draw the lines B G, G Z: let G A be equal to the line given,
+and in G Z take G S, equal to G A, laying a ruler on A, and S, it will cut G H
+in M, draw the line A M. I say G A, or the line given has the same proportion
+to A M, that the Meridian has to the Parallel, whose distance from the
+Equinoctial is F B, which was required to be given. I thought good to set down
+this exact and ready way, because that, which Mercator describes in the
+proeme of his reformed tables for Ptolomey, is more troublesome, and less
+exact.
+
+To divide any line, or the side of your quadrant, or your ruler as that line
+is divided, which in Gerard Mercators General map, and his directorium does
+answer the Meridian.
+Divide the line you take for the ground of this work first into 10 equal
+parts, and then every one into five parts, imagining every one of the fifth
+parts to be divided into twenty: besides take every fifth part for a degree
+in longitude: then to find the degrees of latitude answerable unto it do
+thus: in G Y the semidiameter of the quadrant GH Y take G I equal to one
+degree of longitude, and by I, draw the line I P parallel to G H; then laying
+a ruler on G and every degree of the limb, accounting from Y mark where it
+cutteth I P, the line intercepted between those sections and G do answer the
+correspondent degree: as for example, I take a degree at Z, vz. the 45 degree,
+then I lay a ruler on G and Z, which cutteth I P in 2, the line G 2 in the
+Meridian answers the point Z, or is the 45 degree: Now having marked these
+sections for every degree in the quadrant, transfer them one after another
+into your ruler, or the side of your quadrant, that is at one end of your
+quadrant, take a line equal to that, which answers one degree, add to it,
+that which answers the second, to that put that, which answers the third,
+and so till you come to the end of that line, which not being able to receive
+all, draw another line, and prosecute the like construction in that, and so in
+the third, and forth till you have transferred all the lines answering your
+degrees. If in this transferring, your deuisions agree not just with the ends
+of your lines, you must take only the overplus of the last division in the
+beginning of the next line, and so proceed as is aforesaid. Now having your
+lines thus divided, and another divided to the same parts that the side of your
+quadrant is, being parallel to them, and all perpendicular to one right line,
+you may readily know what equal parts are contained between any two of your
+degrees taken howsoever, whereby you may perform all the uses of Mercators
+Directorium. Thus for example.
+
+The Longitudes and Latitudes of any two places being given, to find their
+direction, commonly called the Rumbe.
+TAke the equal parts contained, as well in the difference of the latitudes,
+as in the diffrence of their longitudes, and see whether both be less then the
+side of your quadrant, or no: first suppose they be less, and let the geater
+be X G, the lesser G M: draw the line X M, divide G X into two equal parts in
+V, then opening your Compass to the distance V G, and keeping one foot in V,
+with the other mark T, in M X; on T and G laying a ruler, it will cut the
+limb in 4. Now if the difference of the Latitudes be less then the difference
+of the longitudes, 4 Y is the distance of the rumbe from the Meridian, but if
+the difference of the longitudes be less, then is 4 P the distance of the
+rumbe from the Meridian. But now suppose that one or both the differences, be
+greater then the side of your quadrant, then by the rule of proportions, you
+must find a line, unto which the lesser is, as the greater is to the side of
+the quadrant, or make the side of the quadrant to another line, as the greater
+is to the lesser, namely let G Y be unto G Q, as the greater difference is to
+the less, and draw the line Q Y: divide G Y into two equal parts in W, then
+opening your Compass to the distance W G, and keeping one foot in W, in Y Q
+mark R, a ruler laid on G and R, will cut the limb in 3: now as before, if
+the difference sky chart of the longitudes be the greater, then is H 3 the
+distance of the rumbe from the Meridian, South, if the place respected be
+South, North, if it be North, and so likewise East, or West.
+
+CHAP. 5. Of the back of your plate.
+To inscribe in the back of your plate the fixed stars according to their
+Longitudes and Latitudes, or declinations and right ascensions, as you please.
+LEt the utter edge of the back side of your plate be divided into 360
+degrees, which you may use for the Zodiac, or the Equinoctial; the Zodiac,
+if you inscribe the Stars according to their Longitudes and Latitudes, or the
+Equinoctial, if you will place them according to their declinations and right
+asce^sions, which is the best, for those are oftnest in use, both are done
+after one manner thus. From the beginning of Aries reckon the right ascension,
+as from E by B unto T, and draw the line A T, then from B to V, reckon the
+declination B V, laying a ruler on V and A, it will cut the Synicall arch of
+the limb A S C, in S, in the line A T take A Q equal to the distance A S, and
+the point Q is the place of the star according to his right ascension and
+declination: this being done, set down by it the name, and S or N, to
+signify, whether it decline North, or South. This may be done so slightly,
+that you may rub it out when you will with a wet pumice, and yet deep enough
+to continue a great while for your use.
+
+To find the longitude and latitude, or the declination and right ascension of
+such stars as be placed on the back of the plate.
+Upon the center of the plate, and the point of the star lay a ruler, where it
+cutteth the limb, is the right ascension reckoned from the vernall Section, or
+the longitude, if they be placed for the Zodiac. As for example: sky chart
+Place this figure in stead of the figure in folio 35.
+lay a ruler on A and Q, it will cut the limb in T, the circumference E B T is
+the right ascension of Q. Now if in A S C the Synicall arch of the limb, you
+apply from A to S, a distance equal to A Q, and lay a ruler on A and S, it
+will cut the limb in V, the circumference B V is the declination of the star
+placed at Q, or the latitude, if they were placed according to the longitudes,
+and latitudes: by the letter S or N you shall know whether it be North, or
+south. And that you may be furnished for these two last problemes, I have set
+down on the other side a table out of Clauius, containing certain fixed
+stars, both with their longitudes and latitudes, and their declinations and
+right ascensions, calculated for this year 1600. And thus much at this time,
+for the Planisphere, which hereafter I mean to increase with more conclusions,
+and problemes, and could have now enlarged it with handling mensurations,
+Synicall calculations and dialling: but those things seemed somewhat far
+from my principal purpose, and therefore I will entreat the reader to accept
+thus much only as now is delivered, and so for this time I end.
+
+The end of the new handling of the Planisphere.
+A Table of fixed Stars out of Cla^^ius, calculated for the year 1600.
+complete.
+Bigness Names. Place in the Zodiac or Longitude Their Latitude The part The
+declination. The part. The righ^ Ascension 3 The Rams former horn. Aries 28 5
+7 20 N 17 39 N 23 20 Medusaes head. Taur 21 5 23 0 N 40 5 N 40 55 Bulls eye.
+Gem. 4 5 5 10 S 15 56 N 63 6 Orions right shoulder. Gem. 23 25 17 0 S 6 21 N 83
+41 The Goat. Gem. 16 25 22 30 N 45 9 N 72 6 The great dog. Can. 9 5 39 10 S
+15 ^4 S 97 19 Hydraes bright Star. Leo. 21 25 20 30 S 5 4 S 137 19 Lions
+heart. Leo. 23 50 0 10 N 13 44 N 146 19 Lions tail. Virg. 15 55 11 50 N 16 26 N
+171 49 The Virgins spike. Lib. 18 5 2 0 S 8 58 S 195 55 Arcturus. Lib. 18 25 31
+30 N 21 49 N 209 23 Scorpions heart. Scor. 4 5 4 0 S 24 57 S 241 16 Harp. Cap.
+8 45 62 0 N 38 40 N 275 15 Last in Aquarius water. Aqu: 28 25 23 0 S 33 24 S
+339 56 Swannes tail. Pisc. 0 35 60 0 N 44 8 N 307 22 Pegasus leg. Pisc. 23
+35 31 0 N 25 44 N 341 0
+
+Errata.
+Page 3. line vlt. Analemma. p. 6. l. 6. Maurolycus. p. 10. l. 9. Frisius. p.
+13. l. vlt. Motus raptus. p. 14. l. 33. Zenith, appearing. p. 16. l. 33. from
+the Zenith, which. p. 17. l. 2.5.7. for Z make L. p. 22. l. 1. blot out pan.
+and l. 11. N L. p. 23. l 13.25. for Z make L. ibid. l 20 Tropickes. p. 24. l.
+26. there mak^th angles. p. 25. l. 12. and by two of those. p. 26. l. 9.
+setting January. p. 32 l. 26.27. for Q make 7. p. 33. l. 10. for 3 and 3: make
+8 and 8. ibid. l. 13. for G make E. p. 34 l. 4.5. for T make V. l. 13 for F
+make E. l. 27. which let be C 1, 1 l, and l K. l.: 8: 29. for B make P. p. 26
+l. 2.7. for B make P. l. 5. for 12. make 2. l 8. for 2. and D make P. p. 38. l.
+18. and H l, cutting. p. 40. l. 23. for K make B. in the figure of the 39. page
+place 3. on the other side of D.
+
+

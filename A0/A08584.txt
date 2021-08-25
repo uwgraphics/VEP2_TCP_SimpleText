@@ -1,0 +1,1830 @@
+AN ADDITION UNTO THE USE OF THE INSTRVMENT CALLED THE CIRCLES OF PROPORTION,
+For the Working of Nauticall Questions.
+
+Together with certain necessary Considerations and Advertisements touching
+NAVIGATION.
+
+All which, as also the former Rules concerning this Instrument are to be
+wrought not only Instrumentally, but with the pen, by Arithmeticke, and the
+Canon of Triangles.
+
+Hereunto is also annexed the excellent Use of two Rulers for Calculation.
+
+And is to follow after the 111 Page of the first Part.
+
+LONDON, Printed by AUGUSTINE MATHEWES. 1633.
+
+OF NAVIGATION.
+CHAP. I. Certain general Advertisements concerning the use of this
+Instrument; together with the description of such Circles as are newly added
+thereto, serving for Navigation.
+WHen I penned the rules which have been The first part of this Chapter.
+formerly set out to show the use of this Instrument, I was careful to do it
+with as much plainness and perspicuity, as might be in a subject not as yet
+obvious to vulgar knowledge, so that any one but moderately exercised in
+Arithmeticke and Geometry, might (as I conceived) apprehend the works and
+practices taught therein. But being since certifyed that some few difficulties
+seem, or indeed rather are feared, to be in the manner of the delivery of
+those Rules: I thought it would not be impertinent, and alien from this
+present purpose, if in the very beginning I shall endeavor to explane such
+doubts, for the satisfaction of any that shall stick thereat.
+
+The scruples, which chiefly seem to cause their difficulty, are these two:
+First, that the parts or fractions are not set down with their Numerator and
+Denominator, as is usually done; but are contained with the whole Numbers, as
+it were in one sum, with a small rectangular line only between them to
+separate the parts from the Integers. And secondly, most of the examples are
+not wrought at large, but the summarie and final resolution thereof briefly
+intimated. The former of which two scruples arises from the ignorance of the
+true nature and manner of Decimall fractions: and the latter, from want of
+rightly considering the Rules, whereby the valor of the number emergent or
+found out by proportion, and other Arithmeticall operations, is estimated:
+which are those that are delivered in the second and fifth Chapters of the
+first part of that book.
+
+That we may the better conceive the nature of Decimall fractions, let us
+imagine a line either straight or circular, of any length, be it a foot, or a
+yard, or one degree, or many; or else an hour, or a day, or any other
+continuity. This being considered in it self entire and undivided is an Unite
+or one whole thing of that kind, as one foot, one degree, one hour, etc. Then
+imagine that Unite or whole to be divided to 10 equal parts, that whole shall
+be 10. Again imagine every one of those tenth parts to be subdivided into
+10: the whole shall be 100, and each first division shall be 10: and these
+second divisions shall be hundredth parts. Thirdly, imagine every one of those
+hundredth parts subdivided into 10: the whole shall be 1000, and each first
+division shall be 100: and each second division shall be 10: and these third
+divisions shall be thousanth parts. And so proceeding in this Decimall
+subdivision, you may in your imagination divide the Unite or whole into
+ten-thousanth parts, and hundred-thousanth parts, and millioneth parts, and so
+infinitely. And so that segment which in the first division was 10, 20, 30,
+etc. shall in the second division be 100, 200, 300, etc. and in the third
+division 1000, 2000, 3000, etc. As for example, 3/30 is 30/100 or 300/1000 or
+3000/10000: and 45/1000 is 450/1000 or 4500/10000: and 374/1000 is 3740/10000
+or 37400/100000: etc.
+
+Hence follows that you may increase the Numerator of any Decimall fraction
+by putting thereto as many ciphers or circles as you please without altering
+the quantity thereof, so that also you join so many ciphers to the Denominator.
+
+Now therefore a Decimall fraction is that which has for his Denominator the
+figure 1 with one or more circles after it, as 10, 100, 1000, etc. And seeing
+the use of the Denominator in a fraction is to show into how many such parts
+the whole or Unite is divided: if otherwise by any convenient sign the
+Denominator may easily and certainly be known by the Numerator only, it
+will be a needelesse labor still to set it down.
+
+The most fit and convenient sign to know the Denominator of a Decimall
+fraction is by a separating Line. For if the number mixed of integers and parts
+be written together in one rank, with a small rectangular line drawn next
+after the Unite place, cutting off the parts from the Integers: the number of
+figures or places in the parts so cut off shall show how many circles or
+ciphers are to be set after 1 in the Denominator. As for example, 37006 is all
+one with 37006/10 that is 3700 Units, and six tenth parts. Again 37006 is all
+one with 370 6/100, because after the separating line follow two figures 06.
+Likewise 37006 is all one with 37 6/1000, because three figures 006 follow the
+separating line. Also 37006 is all one with 3 7006/10000. And 037006 is all one
+with 37006/100000, that is no unite at all, but that fraction only. And 0037006
+is all one with 37006/1000000, because after the separating line are six
+places of figurss 037006. By all which diversities of placing the separating
+line it is apparent that the number of circles in the Denominator of any
+Decimall fraction must be equal to the number of places of figures following
+the separating line.
+
+Wherefore though there be no Unite, but that it be a pure fraction, yet it will
+be convenient to note the Unite place with a circle before the separating Line;
+that so the value of the fraction, through the number of places therein may
+more plainly appear.
+
+And besides that the setting of Decimall parts thus in one line with the
+Integers, has more concinnity and neatness with it, then either with a
+Denominator, or by noting (as some have done) with small figures the primes,
+seconds, thirds, and the rest. These fractions both mixed and pure are ready
+without any further reduction, for any Arithmeticall operation.
+
+For in Addition and Subduction, the numbers given, being fitted together by
+their separating lines, having the like places or degrees set under one
+another, each in their own file, may be added or subducted in the very same
+manner as if they were all whole numbers.
+
+And in Multiplication the numbers given being multiplied one by the other,
+according to the usual manner of whole numbers, the product found cut shall
+have so many places of parts, as are in both the numbers multiplied.
+
+And in Division the ordinary manner of whole numbers is to be used; only
+remembering that every figure of the Quotient shall be of that degree, whereof
+that figure of the Dividend is, under which the Unite place stands in the
+finding our of it, is.
+
+Thus have I with as much plainness and brevitie as possibly I could cleared
+the first scruple, by showing the true reason of Decimall fractions.
+
+The second conceived difficulty is for not setting down at large the
+operation of most of the Examples, but only of some few here and there.
+
+It is true that in every work I do not say (as some have done) bring that
+hither, or remove this thither: But having first taught the manner of working
+proportions upon the Instrument, and also delivered proper rules for particular
+questions, and wrought at the full sum of the hardest, I would not in every
+Example show the like punctuallnesse, that neither I might blunt the edge and
+industry of the ingenious Practicer with too much easiness, nor the Book
+grow to an enormous bulk and greatness.
+
+That therefore the studious Reader may not need such verbosity and taedious
+instructions, he is to be advised oftentimes (and that attentively) to peruse
+the first chapter of the first part, where the description and use of the
+several circles are declared: and also the second Chapter concerning the
+working of proportions, and of Multiplication and Division: and therein those
+four Considerations, or Rules for finding out the true value of the fourth or
+emergent number sought for: And thereto the fifth Chapter of the quadrating and
+Cubing of numbers. For in assigning a true quantity unto the Emergent number
+lies the greatest difficulty of this operation, especially if the work be
+in the fourth Circle.
+
+In Signs and Tangents it is not altogether so hard, because all the
+revolutions or circuits of both are actually set down in several Circles.
+
+The Signs have two Circles, which in this new additament for Navigation are
+these; The tenth Circle from about 35 minutes, unto 6 Degrees; and the First
+from 6 Degrees, to 90, the end of the Quadrant.
+
+The Tangents have four Circles: namely the Ninth from about 35 minutes to 6
+Degrees. The Second from 6 Degrees to 45. The Third from 45 Degrees to 84. And
+the Eighth from 84 Degrees till about 89 Degr. and 25 minutes.
+
+But the fourth Circle being actually but one, does potentially contain all
+Degrees and places both of Integers and Decimall parts. For the nine figures
+written in the spaces may signify unites, or tennes, or hundreds, etc. or else
+tenth parts, or hundredth parts, or thousanth parts, etc.
+
+If any number be to be constituted upon the fourth Circle of the Instrument,
+take evermore one of those nine figures in the spaces for the first significant
+figure of that number: and among the subdivisions thereof reckon the true point
+or place of the number proposed. As if 2 were proposed: seek the figure 2 in
+the spaces, and upon that line set one arm of the Index. Again if 375 be
+proposed: seek the first figure 3 in the spaces: and in the subdivisions from
+3 toward 4 account 75: and at the end thereof set one arm of the Index.
+Likewise if 0092 be proposed: because the two Circles are not significant,
+seek the figure 9 in the spaces: and in the greater divisions thereof from 9
+toward 1 account 2, and there set one arm of the Index.
+
+If any ratio be proposed to be taken on the Instrument: set the two arms of
+the Index upon the two terms of the ratio found out, as was even now taught.
+Then consider the distance or arch between those two terms, counting from the
+place of the Antecedent to the place of the consequent forward, or according to
+the order of the figures, if the antecedent term be less then the
+consequent: Or else backward, contrary to the order of the figures, if the
+antecedent be greater.
+
+This distance or arch between the places of the two terms in the Instrument
+(which is also the aperture of the arms of the Index) I may fitly call the
+Isntrumental difference: but it is not evermore the real or true difference:
+which also is most needful to be known. The rules whereof are these three.
+
+First, if either the numbers given be of the same degree: Or if they differ
+but one degree, and the line of the Radius fall between the places of the two
+terms in the Instrument: the Isntrumental difference shall also be the true
+and real.
+
+Secondly, if the numbers given be not of the same degree, and the line of the
+Radius fall not between the places of the two terms in the Instrument: look
+how many degrees the numbers differ one from the other, so many whole circuits
+of the fourth Circle shall be added to the Isntrumental difference to make
+the real or true difference.
+
+Thirdly, if the numbers given be not of the same degree, and the line of the
+Radius does fall between the places of the two terms in the Instrument: look
+how many degrees the numbers differ, so many whole circuits, wanting one, of
+the fourth Circle shall be added to the Isntrumental difference to make the
+real.
+
+As in example: If the ratio of 375 to 2 be proposed: the same being taken upon
+the Instrument; the true difference between them, over and above the arch or
+angle of aperture, shall be two whole circuits, by the second rule. And if the
+ratio of 375 to 0092 be proposed: the same being taken upon the Instrument; the
+true difference between them, over and above the arch or angle of aperture,
+shall, by the third rule be but three whole circuits, (although the terms
+differ four degrees) because the line of the Radius falls within that arch,
+reckoning it from the antecedent arm to the consequent backward.
+
+Again, the antecedent term of any ratio being given, together with the real
+or true difference (that is both the due aperture of the Index, and also the
+number of circuits) between the terms, and whether of the two be the
+greater: it is also needful to know how to estimate the consequent term. The
+rules whereof are these two.
+
+Fourthly, if the true difference be less then one circuit, and the line of
+the Radius fall not between the places of the two terms; the numbers are both
+of the same degree. But if the line of the Radius fall between them they differ
+one degree.
+
+Fifthly, if the true difference contain one or more circuits, and the line of
+the Radius fall not between the places of the two terms; the numbers differ
+so many degrees as there are whole circuits. But if the line of the Radius fall
+between them they differ one degree more then there are whole circuits.
+
+As in example: If the ratio of 375 to 2 be proposed: and also another
+antecedent 0092: unto which a proportional consequent is required to be
+sought. Because the true difference of 0092 unto his consequent in the
+Instrument is equal to the true difference of 375 to 2, that is two whole
+circuits more then the aperture: and the antecedent 0092 is greater then the
+consequent sought for: set the antecedent arm of the Index upon 0092, and the
+consequent arm reckoning backward, at the same aperture, will cut 49+. But of
+what vallue or degree this fourth number is, is yet uncertain. Now forasmuch
+as the real difference between the terms of the ratio proposed is two whole
+circles above the aperture, as was showed in the former example after the third
+rule; And in this present position of the Index the line of the Radius falls
+not between the arms: the difference of degrees shall also be two, by the
+fifth rule. Wherefore the first figure of 49+ shall be two whole degrees
+backward from the first significant figure of 0092 that is 000049+ (viz)
+somewhat better then 49 hundred thousand parts.
+
+Again, if the ratio of 375 to 0092 be proposed: and also another antecedent
+2, unto which a proportional consequent is required to be sought. Because the
+true difference of 2 unto his consequent in the Instrument, is equal to the
+true difference of 375 to 0092: and the antecedent 2 is greater then the
+consequent sought for. Set the antecedent arm of the Index upon 2, and the
+consequent arm reckoning backward at the same aperture will cut 494 as before.
+Now forasmuch as the real difference between the terms proposed is three
+whole circuits above the aperture of the Index, as was showed in the latter
+example after the third rule. And in this present position of the Index the
+line of the Radius falls between the arms the difference of degrees shall
+be one more then three, that is four by the fifth rule; wherefore the first
+figure of 494 shall be four whole degrees backward from 2, that is 000049+. I
+will conclude this part, with a summary recapitulation of all the former rules
+into these two branches.
+
+The terms of a ratio being proposed, to find the real or true difference
+between their places in the fourth circle of the Instrument. I. If either the
+numbers given be of the same degree: or else differ but one degree, the line of
+1 falling between them: they differ less then a circuit. II. If the numbers
+be not of the same degree: they differ so many whole ciruits as they do
+degrees. But yet if the line of 1 fall between them: they differ one circuit
+less.
+
+The antecedent term of a ratio being given, together with the real or true
+difference of the terms in the Instrument: to find out the consequent term.
+I. If thereall difference be less then one circuit, and the line of 1 fall not
+between the places of the two terms: the numbers are both of the same degree.
+But if the line of 1 fall between the places: they differ one degree. II. If
+the real difference contain one or more circuits: the numbers differ so many
+degrees as there are whole circuits. But if the line of 1 fall between the
+places: they differ one degree more.
+
+Thus have I with as much perspicuousnesse as I am able, explained the general
+rules of working by this Instrument, which have been delivered in the first,
+second, and fifth Chapters of the first part: and exemplifyed the documents
+with as hard examples as any I could bethink my self of. And now I suppose
+the solertious practizer will be able easily to find out a fourth
+proportional unto any three numbers given, and certainly to estimate the
+value thereof: so that now he will not be troubled for want of working the
+Questions at large.
+
+For the use of Navigation are added two circles, The second part of this
+Chapter.
+the sixth and the seventh: and a small alteration in the fifth. For the fifth
+circle is here divided also into 50 parts: and is conceived to have two
+circuits. The first circuit is unto 50: The second circuit from 50 unto 100.
+Wherefore the figures are doubly noted: on the nearer side of the long lines of
+tenth divisions are set 10, 20, 30, 40, 50, for the first circuit: And on the
+further side of those lines are set 60, 70, 80, 90, for the second circuit. And
+the ten subdivisions in every one of those 50 parts are the Decimall parts
+thereof.
+
+The sixth and seventh circles are divided into degrees: and every degree into
+ten parts, containing 6 minutes, or rather 10 hundredth parts a piece, The sixth
+circle has the degrees unto 445: and the seventh circle has from 445 unto 70.
+And these degrees serve for so many several Latitudes, or Elevations of the
+Pole.
+
+The manner of using these circles is double. First, Two Latitudes being given
+in the same Hemisphere, that is both Northern, or both Southern, to find the
+sum of all the Secants between them. Set one arm of the Index upon one
+Latitude and the other arm upon the other; then remove the arm that stood
+upon the lesser Latitude unto the line of the Radius: and the other arm with
+the same opening, shall in the fifth circle give the number of Secants between
+the two Latitudes proposed. As if the number of Secants between these two
+heights of the Pole 483 and 567 be desired. Set one arm of the Index upon 483
+and the other arm upon 567: then remove that arm that stoood upon 483 unto
+the line of the Radius: and the other arm with the same opening, shall in the
+fifth circle give 13853, the number of Secants between the two Latitudes
+proposed.
+
+Secondly, The sum of all the Secants between two Latitudes in the same
+Hemisphaere being given, together with one of the Latitudes, to find the other
+Latitude. Set one arm of the Index on the line of the Radius, and open the
+other arm unto the sum of Secants given (in the fifth circle): then remove
+the arm that stood on the line of the Radius to the Latitude given, if it be
+the lesser: or if the Latitude given be the greater, remove that arm that
+stood at the end of the sum of the Secants, unto that greater Latitude: and
+the other arm at the same opening shall give the other Latitude. As if there
+be given 13853 the sum of Secants from the Latitude of 483 to the Pole-ward:
+Set one of the arms of the Index on the line of the Radius, and the other arm
+at 13853 in the fifth circle. Then remove the arm that stood at the line of
+the Radius, unto the Latitude 483: and the other arm, at the same opening
+shall point to 567 the degrees of the other Latitude sought for. Again, if the
+same sum of Secants 13853, with the greater Latitude 567 degrees, be given:
+set one of the arms of the Index on the line of the Radius, and the other arm
+at 13853 in the fifth circle. Then remove the arm that stood at 13853, unto
+567 degrees: the greater Latitude, and the other arm, at the same opening shall
+cut 483 degrees: which is the lesser Latitude sought for.
+
+And if the two Latitudes be in the several Hemisphaeres, that is one
+Northern and the other Southern, the manner of working differs in effect
+but little from the former. As if the sum of the Secants between these two
+heights of the Pole, viz. 65 on the North side of the Aequinoctiall, and 134 on
+the South side be desired. Set one arm of the Index on the line of the
+Radius, and the other arm on either of the Latitudes given, suppose on 65.
+Then bring that arm on 65 unto the line of the Radius: and where the other
+arm, at that opening, chances to light, there hold it fast: and open the arm
+that stands on the line of the Radius, unto the other Latitude 134. Afterward
+bring the arm that stood on the former Latitude 65 unto the line of the
+Radius, and the other arm, at the same opening, shall in the fifth circle cut
+20037, the sum of Secants sought for.
+
+Lastly, the sum of all the Secants between two Latitudes, of which one is
+on the North side of the Aequinoctiall, and the other on the South side, being
+given; together with one of the Latitudes, to find the other Latitude: As if
+the sum of the Secants be 20037 and the Latitude degr: 65. Set one of the
+arms of the Index at the line of the radius: and open the other arm unto
+20037 in the fifth circle: and keeping the same aperture, bring the arm that
+stood on the line of the radius unto the latitude 65: and the other arm shall
+show 134, the other Latitude sought for.
+
+Or else peradventure you may more easily find out the sum of the Secants
+between any two Latitudes given, thus: Set the edge of the Index upon one of
+the Latitudes: and look what division it cutteth in the fifth circle: keep it
+in mind. Again, set the edge of the Index upon one of the Latitudes: and
+look what division it cutteth in the fifth circle: keep that in mind also.
+These two numbers kept in mind are the sums of the Secants for the two
+Latitudes given: And are to be subducted one out of the other, if the Latitudes
+are both in the same Hemisphere: or else to be added together, if the Latitudes
+are in diverse Hemisphaeres.
+
+Also in like manner, The sum of the Secants and one of the Latitudes being
+given, you may find out the other Latitude thus: Set the edge of the index upon
+the Latitude given; and look what division it cutteth in the fifth circle. To
+this number add the sum of the Secants, if the lesser of the two Latitudes
+be given: Or else out of it subduct the sum of the Secants, if the greater of
+the two Latitudes be given. But if the two Latitudes are in the contrary
+Hemisphaeres, the number found in the fifth circle is to be subducted out of
+the sum of the Secants. And so shall you have the other Latitude.
+
+CHAP. II. Of the Latitude, and Longitude of places in genetall: and of keeping
+the account of time at Sea.
+THe care and skill of the perfect Seaman is to guide the ship at sea unto any
+port that shall be desired: which cannot be done unless he be able to find out
+in in what place the ship is at any time.
+
+The place of the ship at sea is estimated and understood by comparing it with
+any known place: that is how much the same is situated from the place, where
+the Ship is, either toward the North or South, which is called the difference
+of Latitude: or else toward the East or West, which is called the difference of
+Longitude. For it being once known how far any place upon the Globe of the
+earth is wide of the Aequinoctiall unto either Pole: and also how far the
+Meridian of the same is distant from the Meridian of any known place: the true
+situation thereof is said to be had.
+
+The Latitude or distance of the place wherein the Ship is from the
+Aequinoctiall (which is all one with the height of the Pole there) is taken by
+observation of the Meridionall altitude, either of the Sun by day, or of any
+Star by night: as is not unknown to almost every common Mariner: Or also by
+the 47 proposition of the 12 Chapter of the first Part. And therefore being so
+vulgarly known, and taught of most that write of Navigation, I shall not need
+to spend time about it: Especially my intent here being to teach the use of my
+Instrument only, in tracing the Ships course.
+
+The Longitude of the place wherein the Ship is, that is the Easterly or
+Westerly distance of the Ship from the place whence the Voyage began, is the
+difficulty, and Masterpiece of Nauticall science: Which has set on work the
+wits and inventions of many men, proceeding therein on diverse grounds.
+
+For some have labored to find the reason thereof by the variation of the
+Magneticall needle, supposing certain Poles or points, unto which the ends of
+the needle does in all places exactly respect. But besides that the Meridian is
+difficultly to be had with sufficient preciseness, especially at Sea, where
+the chiefest use of Longitude is: the conceit is only imaginary, without the
+warrant of any natural principle.
+
+Some considering the swifnesse of the motion of the Moon, which is every day
+above 13 degrees, have supposed that either by the true place of the Moon, to
+be observed by exact Instruments; or else by the moment of the Moons coming
+into the Meridian, the Longitude might be obtained. But neither the true
+motion of the Moon is so exactly known, nor observation can at Sea be so
+precisely made, that any certain truth in so subtle a business may be argued
+thereby.
+
+Some have thought to observe the Longitude with automata or artificial
+motions of long continuance: but not without great error and hallucination.
+
+Some by Sand-glasses, or Waterglasses: but both oblioxious to the diverse
+alterations and temperatures of the air and climate wherein they are,
+especially that of sand. The other by water is more probable: wherein I should,
+in my judgment, prefer some chymicall spirit or liquor: because it is not so
+subject to the impression of the air. And that there should be three glasses
+used, one to run, and two to receive successively: That which runs to be
+open above, to pour in the liquor, and to let in the air, that the issue of
+the water be not hindered for want of air to supply the vacuitie: The receivers
+to be cylindricall, with marks set on the outside distinguishing hours and
+parts: and that there be two of them, that when the liquor is come to the just
+height, another may instantly be substituted, without loss of any liquor or
+time. This manner of observing the time is, in my opinion, the most likely of
+any that I know in use to conduce to the attaining of the difference of
+Longitudes of places. For by this means the true time in the place where the
+account began being known; and the time by observation of the Sun or some
+Star in the place, whither the Ship is come, being found; the difference of
+those times resolved into degrees of the Aequinoctiall will show the difference
+of Longitude between the place of beginning the account, and the place where
+the Ship is, Eastward, if the excess be of the time in the former place: or
+Westward, if the excess be of the time in the present place of the Ship.
+
+And in this manner of keeping the reckoning of Longitude it will be expedient
+to make as frequent observations as the serenity of the sky will permit: that
+thereby your account may the rather be freed from such subreptious errors,
+which else will be very incident.
+
+This or any such way of keeping the time, which shall by experience be found
+most certain (until it shall please God to open a more natural and proper
+way for the discovery of Longitude) I would advise were carefully, and with a
+kind as it were of religious diligence practiced in all, specially long
+voyages: and that in computing and tracing the course of the Ship by the
+Compass and log-line, it also together with the Latitude observed be
+discreetly called into consultation.
+
+CHAP. III. Of the Mariners Compass, and Rumbes or points thereof: and of
+finding the circuit of the earth in miles.
+THere be four things therefore whereof a Seaman should be most careful and
+circumspect, that he may happily with prosperous success and a good conscience
+perform his intended voyage: First the angle of inclination with the Meridian,
+on which the Ship makes her course: which angle is directed by the Compass:
+and is commonly called the Rumbe or point of the Compass. For the ordinary
+Mariners (by a rude and gross division of the Horizon into 32 parts) observe
+32 points, whereof four are cardinal; other four half points; eight are
+quarter points; and sixteen are by points. Others more curiously divide each
+point into four parts making in all 128, which they denominate by a quarter,
+an half, and three quarters of a point. A point contains degr: 11, that is
+degr: 11, min: 15, or degr: 1125: and a quarter of a point therefore is degr: 2
+13/16, that is degr: 2, min: 4875, or degr: 28125. By the continual addition
+of which number this table of Rumbes ensuing is composed.
+
+THE TABLE OF RVMBES.
+Rumbs. Rumbs. Grad. Gr. min. Rumbs. Rumbs. NORTH. The Meridian Line. SOVTH.
+28125 2 4875 5625 5 375 84375 8 2625 NbE NbW 1125 11 15 SbW SbE 1 140625 14 375
+16875 16 525 196875 19 4125 NNE NNW 225 22 30 SSW SSE 2 253125 25 1875 28125 28
+75 309375 30 5625 NEbN NWbN 3375 33 45 SWbS SEbS 3 365625 36 3375 39375 39 225
+421875 42 1125 NE NW 45 45 00 SW SE 4 478125 47 4875 50625 50 375 534375 53
+2625 NEbE NWbW 5625 56 15 SWbW SEbE 5 590625 59 375 61875 61 525 646875 64 4125
+ENE WNW 675 67 30 WSW ESE 6 703125 70 1875 73125 73 75 759375 75 5625 EbN WbN
+7875 78 45 WbS EbS 7 815625 81 3375 84375 84 225 871875 87 1125 East West 90 90
+00 West East 8
+
+The second is the measure of the Ships way on the Rumbe or point, which is
+ordinarily reckoned in miles; supposing a mile on earth to answer to a minute
+of a degree; and that 60 miles on a great circle give the difference of one
+whole degree. But I rather reckon the way of the Ship in hundredth parts of a
+degree, and have framed my rules of Navigation thereto: because this has a
+more easy and convenient calculation then that by sexagesme parts: and as I
+believe (for so I would have it) will hereafter grow into public use. This
+measure or quantity of the Ships way is found by the Logg-line and
+minute-glasse.
+
+The other two are, The observation of Latitude as often as it may be for the
+weather: and the keeping of time: Of both which I spoke sufficient for my
+purpose in the former chapter. The two former, that is the Rumbe and way of the
+Ship, more properly fall within my present consideration. For these are the
+continual companions and faithful guides of the Seaman, which must direct
+him still in shaping his course: unto these therefore he must apply his
+study, and acquaint himself most familiarly with them.
+
+And first for his compass he must be careful or rather scrupulous that it be
+exactly made, and not bungled up, as those usually are, which are made for
+sale: but that they be framed by some skillfull and conscionable Artificer. The
+manifold cautions which are fit to be had therein, are very gravely advertised
+by that reverend Divine and learned Mathematician Master William Barlow in his
+Navigators supply near the beginning.
+
+And as he is in the making of his compass to show his care, so specially in
+the using thereof he must exercise all industry and diligence, that the course
+be steered aright, and kept to the just point or Rumbe: and not to commit his
+own and all his companies safety, and the good success of the voyage to the
+negligence of a loose and idle Steeresman: whereby it cannot be but that the
+account of the Ship shall be much confounded, and made uncertain.
+
+Again for measuring of the quantity of the ships way, It must first be known
+how many English feet of 12 inches to the foot, answer to one degree of (...)
+great circle upon the earth. For if this be enormously mistaken, it cannot be
+that the computation of the Ships course shall agree with the observations: but
+must needs make a maine difference, to the amazement of the Seaman, and the
+casting of the whole Ship and company into unforeseene dangers.
+
+Now an English mile by statute is the length of 8 furlongs: and every furlong
+is 40 perches: and a perch is feet 16: so that by this reckoning a mile
+contains 5280 feet in length: though it be usually taken, or rather mistaken,
+that 60 of such miles make a degree (which would be very strange, that our
+English mile drawn from Barley corns should so happily fall out to answer to
+one minute) yet the truth is that above 66 of our miles answer to a degree, as
+by the observations of the most diligent enquirers is found out: so that in
+voyding of every ten degrees above one degree is lost: which is a maine
+enormity. But of this inquiry it will not be amiss from our purpose if we
+shall a little discourse.
+
+Diverse ways by diverse Artists have been practiced for finding out the true
+compass of the earth: And I know not whether any have given full satisfaction
+therein: but either the grounds they have wrought on have been uncertain; or
+the distances of the places of observation too short; or the diligence of the
+practiser to be suspected. That way which is by the height of an hill, and a
+tangent line from thence to the superficies of the sea, is rather a fantasy,
+then a thing of actual performance. For neither the perpendicular h^ight of
+the hill above the level of the water can with any certainty be obtained: nor
+such a tangent line by reason of the refraction of the vapors continually
+rising out of the sea can be estimated.
+
+But it would for the performance hereof be an excellent work, if the height
+of the Pole at two towns of this Land, distant Northward one from the other
+some scores, or rather hundreds of miles, being with Instruments of sufficient
+magnitude by some learned Artists exactly observed: there were also employed
+certain skillful Surveyors (such as are indeed lovers of art and truth) to
+take the true distances and positions from place to place between the said
+towns. Which survey I could wish were made with good plain tables, and with
+the same scale, which should not be less then a foot by standard for 10 miles
+and that these measures of a foot according to a standard were all made in
+brass by the same Workman: and their chains exactly fitted thereto: and that
+the measure be taken not along the Highways, but by side stations where
+Steeples and other places eminent and of note may be seen. If the two towns
+of the observations were London and Edenborough, it would be preciseness
+sufficient: nay if they were but London and Cambridge, it would yield a greater
+certainty then any that I know has yet been used. This I say were an
+excellent work, and worthy the heroical magnificence of some great man: and
+yet not of any very chargeable performance: but it would bring a marveilous
+light and furtherance to Navigation and unto all Astronomy.
+
+In the mean time till it shall please God to stir up some truly noble
+spirit for the effecting thereof, I will make bold to propose away, which any
+ingenious student, whose sight both of his eyes and understanding is quick and
+perspicacious, may himself privately with much facility practice: the reason
+whereof consists upon these three principles.
+
+The I. is, that if with a levelling Instrument set up in any place parallel to
+the Horizon a man take a true level unto another place: the visuall line by
+which he levelled, shall be a tangent to such an arch of a great circle on the
+earth, as is contained between the station and the mark: Because that the
+visuall line, together with the two lines imagined, out of the center of the
+earth, do include a right angled Triangle* having the right angle at the
+level.
+
+The II. is, that if the same Instrument he set just even with the former mark,
+and you level backward to the former station, this last visuall line shall
+overshoot the former place of the Instrument: and shall enclose a new and
+greater right-angled triangle, having the right angle at the second station.
+
+The III. is, that the former of the two visuall lines shall cut this latter
+and greater right-angled triangle into two right angled triangles like to it
+self and one like to the other: by the 8 prop: of the 6 book of Euclide. As in
+the scheme, the center of the earth is C, the first place or station of the
+levelling instrument is A, and the visuall line thence is A B to the mark B,
+which is also the place of the instrument in the second station, from whence
+the visuall line backward is B D, overreaching the first place A. Here are 3
+like right-angled triangles, namely the greatest C B D, cut into two other C A
+B, and BAD, with the line AB. Wherefore A B. AD:: AC. AB: that is; as the
+distance diagram illustrating the use of a leveling instrument for measuring
+distances between the two Stations (for by reason of the vast greatness of the
+earth, and the exceeding small distance between the two stations in comparison
+thereof, the visuall line AB shall be the same with the ground line AE) is to
+the over-shooting of the second line of level: so is the Radius to the tangent
+of the arch A E, intercepted between the two stations. The quantity of which
+arch being sought out in the Canon of tangents, either in sexagesime or
+Decimall parts of a degree, say again, As the same arch in sexagesime or
+Decimall parts of a degree is unto a degree in the like parts; so is the
+distance between the two stations in feet, to the number of feet answering to
+a degree upon the earth. As for example, suppose the distance between the two
+stations to be 528 feet, which is the tenth part of a mile: and that the second
+line of level over-shooteth the former 138/10000 of a foot: or 00138, which
+you shall find will be near about the matter. Say,
+
+528. 00138:: 100000,00. 2,61: the tangent of the arch Min, 009+
+
+Say again, 009+ the number of feet answering to a degree upon the earth.
+
+Thus have I set down the rule, and illustrated it with an example. But in the
+practice (by reason of the weakness of our sight, not able to discern a
+thing distinctly at any great distance, we are constrained to take but short
+stations, whereby the over-shooting of the second line of level above the
+first is but very small) there is required great preciseness. For the
+performance whereof it will not be amiss to set down some directions, both
+concerning the Instrument, place, and time.
+
+The levelling Instrument to be used in this work, I would not have to be
+either with a channel for water; nor with sights. For the water, besides that
+it does continually exhale vapors, has a certain tenacity, whereby to avoid
+any dryness near to it, it will rather collect it self, and stand in a
+heap, then mix with its enemy: and contrariwise very gladly diffuseth it
+self in pursuit of any moisture. And as for Sights, if the sight-hole be very
+small, it hinders our seeing: if any whit large, it admits too many
+visiverayes; which dilating themselves cannot fix on the true and individual
+point of the object. But I would have it only with a ledge, one inch thick,
+and three inches broad: and so broad also I would have a black stroke to be in
+a square white board, for the mark to level at, that having set the ledge of
+the Instrument by the plumbe-line parallel to the Horizon in one station, you
+standing aloof off, and guiding your eye along the two edges of the ledge, and
+your companion at the other station raising up or letting down the
+marke-board, as you shall direct him, you may see the upper line of the black
+stroke level with the upper edge, and the lower line level with the lower
+edge.
+
+The place for the trial of this experiment, I would have to be a plain
+field, wherein you are to have for your use ready measured out by the foot,
+directly East and West, such a distance, as you can discern distinctly
+thereat: which to a good and perfect sight may be 1000 feet, or to an
+indifferent sight 528 feet, which is the tenth part of a mile. And at both ends
+of that distance (which are to be your stations) the ground to be handsomely
+plained and beaten, for the more exact setting up of your Instruments thereon.
+
+The time for making your observation I would have about Midsummer, in a
+seasonable, constant, dry, and calm weather: when, having set up your
+levelling Instrument in the Eastern station, you may take your first level
+about eleven a clock in the forenoone. Which being done, you may remove your
+Instrument to the Western station, and about one a clock in the afternoon
+(when the Sun is gone so far past the Meridian) take your back level.
+
+These are the most necessary and accurate cautions that I can devise: and all
+little enough for so curious and subtle an inquiry. I have also here set down
+the forms of the levelling Instrument and of the mark.
+
+leveling instrument and mark
+
+CHAP. IIII. The manner how to measure the Ships way; or how many degrees, and
+parts of a degree, either centesimes, or sexagesimes, the Ship moves in one
+hour; or in any space of time assigned. And also of certain necessary
+reductions.
+We shall therefore come near the matter if we take miles 66, that is 349800
+feet to answer to a degree upon the earth.
+
+Now because the measure of the Ships motion or way is observed by the
+watch-glasse and Log-line: let us for brevity sake call the number of seconds
+(whereof there are 3600 in an hour) which the Watch-glasse runs, by the
+letter G: and the number of feet vered in the Logg-line while the glass is
+running, by the letter F. Which grounds being thus laid, we may find out a
+rule to know how many hundredth parts of a degree the Ship sayleth in one hour;
+after this manner.
+
+Say G. F:: 3600. 3600F / G: so many feet gone in an hour
+
+Say again 349800. 100:: 3600F / G. 360000F / 349800G: Or by reduction into
+parts having the Denominator one Unite 1092F / G: which are so many centesimes
+of a degree gone in an hour.
+
+Hence arises this general rule for Centesimes. As the number of seconds in
+the Watch-glasse, is to the number of feet vered in the Log-line:
+
+So is 1029, to the number of hundredth parts of a degree, which the Ship
+runs in one whole hour.
+
+
+
+But to know how many minutes of a degree the Ship sayleth in one hour: Say
+again 349800. 60:: 3600F / G. 216000F / 349100G: Or by reduction into parts
+having the Denominator one Unite 06175F / G: which are so many sexagesimes of a
+degree gone in an hour.
+
+Hence also arises this general rule for sexagesimes. As the number of
+seconds in the watch-glasse, is to the number of feet vered in the Log-line:
+
+So is 06175, to the number of minutes of a degree sailed in one hour.
+
+
+
+These two numbers 1029 and 06175 (or whether of them you mean to follow)
+being of most frequent, and indeed continual use, it were fit to note in the
+fourth circle of your Instrument with some apparent mark: that you may not be
+still searching them out, when you have occasion to use either of them.
+
+And after this very manner you may find a general rule for any other number
+of feet contained in a degree upon earth, both for the Decimall parts of a
+degree, and also for the Sexagesimes wherein only the third terms in every of
+the second proportions will be changed.
+
+Because the true finding out of the way, which the Ship makes in an hour,
+estimated in the parts of a degree, is the maine ground and principle, by which
+the place of her being both for longitude and latitude is argued and computed:
+I will set down the practice thereof at large in two Examples: the first for
+centesimes of a degree: and the second for sexagesimes:
+
+Example I. Suppose the Watch-glasse to contain 40 sec: and that in the
+running out thereof the Ship has gone 175 feet by the Log-line. The rule is,
+As 40* to 175: so is 1092, to the number of hundredth parts of a degree sought.
+Set therefore the antecedent arm of the Index on 40 in the fourth circle,
+taking the figured divisions 1, 2, 3, etc. for so many tens: and open the other
+arm unto 175, taking the same divisions for so many hundreds: the distance
+between the arms will be above half that circle. Then remove the antecedent
+arm unto the third term 1092, taking the same divisions for so many unites:
+and the consequent arm shall point at 450, which shall be 4 centesimes and a
+half, or 45 thousanth parts of a degree, (viz) degr: 0045, in the same circuit
+of that circle: because the distance from 40 to 175 out reaches not the line
+of I. Wherefore the Ship at that swiftness shall go in an hour degr: 0045.
+Which in sexagesimes will be found to be Min: 27.
+
+Example II. Suppose the same watch-glasse of 40 sec: and that in the running
+out thereof the Ship has gone 512 feet. The rule is, As 40 is to 512: so is
+06175, to the number of sexagesimes or minutes of a degree sought. Set
+therefore the antecedent arm at 40, and the other at 512: the distance
+between them exceeds one whole circuit. Then remove the antecedent arm to
+the third term 06175: and the consequent arm shall point out 7902: which
+because the distance exceeded one circuit shall be Min: 7902. Which in
+centesimes would have been degr: 01317.
+
+The proportion of the Ships sailing for one hour being thus given either in
+centesimes or sexagesimes of a degree: multiply the same by the whole time of
+the continuance at the same swiftness reckoned in hours and Decimall parts of
+hours: and the product shall give the whole way the Ship has made, either in
+degrees or minutes accordingly. As for Example; If the Ship sailing after degr:
+0045 in an hour, continue so for Ho. 29, Min: 37, that is Ho: 29617: Multiply
+29617 by 0045, and the product shall be degr: 1333, the whole way that the
+Ship has made. Or if the Ship for so long continuance has sailed after Min:
+27 in an hour: Multiply 29617 by 27 and you shall have Min: 79966, which being
+divided by 60, will give degr: 1333, as before.
+
+Now follow certain reductions, which are of frequent use. I. To convert
+degrees or hours into Minutes, is to multiply them by 60. And to convert them
+into seconds, is to multiy them by 3600. And contrariwise.
+
+II. To reduce minutes into degrees or hours, is to divide the minutes by 60.
+And to reduce seconds into degrees or hours, is to divide them by 3600.
+
+III. To convert minutes of degrees or hours into centesimes or hundredth
+parts: Say, As 60, is to 100: so is the number of minutes, to the number of
+hundredth parts. And,
+
+IIII. To reduce centesimes of degrees or hours into minutes: Say, As 100, is
+to 60: so is the number of centesimes or hundredth parts, to the number of
+minutes.
+
+CHAP. V. The division of sailing into circular and spirall. Two fundamental
+theorems. Of sailing, by one of the four Cardinal Rumbes: and certain
+Questions belonging thereto.
+THe motion of the Ship upon a Rumbe is either circular, or winding with a kind
+of spirall line. If the ship sail upon one of the four cardinal points* it
+describes a circle: which is either a great circle or lesser, according as the
+circle of the heavens is, under which it moves. For if the Ship saileth
+directly North or South under some Meridian, or directly East or West under the
+Aequinoctiall, it describes by the motion thereof an arch of a great circle.
+But if it sail directly East or West wide of the Aequinoctiall on either side,
+it describes a lesser circle, according as the parallel in the heavens is,
+under which it moves.
+
+All great circles are equal one to another, and have equal degrees: but the
+parallels are greater or lesser one then another; and consequently have greater
+or lesser degrees, as every one is nearer or farther distant from the
+Aequinoctiall. And because in computing the motion of the ship we shall have
+continual occasion to speak of degrees both of the greater and lesser
+circles, let this be advertised, that as often as I shall mention Just Degrees, I
+understand the measure of so many degrees of a great circle; else speaking of
+lesser degrees, I call them proper degrees of such a parallel.
+
+These two proportions following are the fundamental Theoremes for the
+computation of the motion of the ship: and are therefore faithfully to be
+imprinted in our memory. The second is but the converse of the first: and are
+so familiar, that they shall need no demonstration.
+
+Theor. I.
+As the Radius, is to the sine of the complement of the parallel:
+
+So is an arch of the Aequinoctiall in Just Degrees, to the number of Just
+Degrees contained in a like arch of the same parallel.
+
+Theor. II.
+As the sine of the complement of the parallel, is to the Radius: Or
+
+As the Radius, is to the secant of the parallel:
+
+So is the number of Just Degrees contained in an arch of the same parallel, to
+a like arch of the Aequinoctiall.
+
+If a Ship sail under a Meridian, that is upon the North or South Rumbe, it
+varyeth not the longitude at all: but only changes the Latitude: and that
+just so much as the number of degrees it has run in that whole time
+amounts unto, which number is to be added to the latitude of the place, where
+the account began, if you have sailed from the Aequinoctiall-ward toward
+either Pole: Or else to be subducted out of the latitude of that place, if you
+have sailed toward the Aequinoctiall.
+
+Again if the Ship sail under the Aequinoctiall upon the very line it self
+Eastward or Westward: it varieth not the Latitude at all: but only changes the
+Longitude: and that just so much as the number of degrees it has run in that
+whole time amounts unto. Which number is to be added to, or subducted from
+the longitude of the place wherein you began your account, according as you
+have sailed East or West.
+
+And thirdly if the Ship sail directly East or West under any parallel circle,
+that is upon the East or West Rumbe, be it in the Northern or Southern
+Hemisphaere, it there also changes not the Latitude at all, but only the
+Longitude: yet not according to the number of Just Degrees it has gone, as
+under the Aequinoctiall: but more then so many, according as the proportion is
+between that parallel and the Aequinoctiall. For the lesser every parallel is,
+the greater must needs be the difference of the Longitude in sailing so many
+Just Degrees under it.
+
+Quest: I. By the way of a Ship upon a parallel being given in Just Degrees, to
+find how many degrees the Longitude is varyed.
+This is done at one operation by Theor: I. As the sine of the complement of
+the parallel, is to the Radius:
+
+So is the way of the ship upon that parallel in just degrees, to the degrees
+of the difference of longitude.
+
+
+
+An Example. A ship making her course upon the parallel distant from the
+Aequinoctiall degr: 51, min: 32, by the estimation of the way has sailed 94 in
+Just degrees: how many proper degrees of that parallel has she gone?
+
+The complement of 51, 32 is 38, 28, the sine whereof is 62206. Say therefore. ^
+
+The difference of longitude sought is degr: 15111+: Which arch so found is to
+be added to, or subducted from the longitude of the place where you began
+your account, according as you have sailed either East or West.
+
+Quest: II. How many English miles change one degree of longitude in going
+Eastward or Westward at the elevation of the Pole degr: 51, min: 32.
+It was supposed in the beginning of Chapt: IIII, that miles 66 do answer to
+one degree of a great circle upon the earth.
+
+The complement of 51, 32 is 38, 28. Say therefore by Theor: I. ^
+
+Wherefore miles 41211 make a degree on the parallel 51, 32.
+
+Keep this number 41211 in mind for the resolving of the two questions
+following.
+
+Quest: III. There are two places having the same latitude of degr: 51, min:
+32: and the difference of their longitudes is degr: 15111+: How many miles are
+they distant by the parallel?
+First find out the number of miles answering to one degree in the parallel 51,
+32, by Quest: II. which you shall find 41211. Then multiply the same by the
+degrees of the difference of longitude 15111+: thus, 1. 41211:: 15111+. 62274.
+Their distance is miles 62274.
+
+Quest: IIII. There are two places having the same latitude of degr: 51, min:
+32: and they are distant by the parallel miles 622740: how many degrees are
+they distant in longitude?
+First find out the number of miles answering to one degree in the parallel 51,
+32, by Quest: II. Which you shall find 41211. Then by the same number found
+divide the sum of the miles given, that is 62274: thus, 41211. 1:: 62274.
+15111+. The distance of longitude is degrees 15111+.
+
+CHAP. VI. Of the oblique Rumbes between the Meridian, and that of East and
+West; what they are, and how composed: of finding out certain fundamental
+Theoremes for oblique sailing.
+THat circular sailing upon any one of those four cardinal points, whether it
+be a great circle, or a parallel, has (as we have seen) no great difficulty
+in understanding or computing: so that you be sure of the true measure of the
+ships way: because that therein either only the latitude, or only the longitude
+is altered.
+
+But there is greater difficulty in oblique sailing when the Ship runs upon
+some Rumbe between any of the four cardinal points, making an oblique angle
+with the Meridian: because therein the ship continually changes both latitude
+and longitude, And the difficulty is so much the greater by how much the voyage
+is more distant from the Aequinoctial toward either Pole: and upon a Rumb more
+remote from the Meridian. For near the Aequinoctiall, where the Meridians are
+almost parallel; and in those Rumbes which are near the Meridian, where the
+longi^ude is but little altered; there is no such lubricity and propensenesse
+to err.
+
+In this kind of oblique sailing, the ship is so directed by the Compass, and
+guided by the helm, that the line of the ships length is every where kept
+firmly in one and the same angle with the Meridian, according to the distance
+of that Rumbe from the North and South line. And because the Compass is as it
+were a moveable Horizon: and the lines of direction thereupon are the
+intersections of Azumiths or verticle circles with the same Horizontall plain,
+dividing it into so many parts, which are called Rumbes: it comes to pass
+that in such oblique sailing toward the apparent pole, the place whereunto the
+Compass leads is evermore between the parallel through the place wherein
+you are, and the Pole. Wherefore the line of the Ships oblique course is a
+helix or spirall line, approaching nearer and nearer to the Pole, but never
+falling into it. As in the Scheme, suppose the center of the circle P to be the
+Pole of the world; and all the concentric circles to be parallels described at
+equal distance one from the other; and the straight lines schematic depiction
+of navigational method for oblique sailing out of the Pole, PAC, PEB, PID, POF,
+etc. intersecting those parallels in the points C, B, D, F, etc. to be
+Meridians: so that all the segments of the Meridians CA, BE, DI, etc. be
+equal: and all the segments of the parallels KC, BA, DE, etc. be of equal
+length, though not of equal degrees; every one of those arches containing
+four or more degrees, according as every circle is greater or less then
+another. Suppose also that the ship keeping a just North-East course describes
+the crooked line CBDF, which therefore must needs be the North-East Rumbe: and
+in the continuation of it does approach unto the Pole nearer and nearer: but
+can never fall into the Pole: because it still keeps the same distance upon
+the Compass between the Meridian, and the parallel in which it is, and makes
+with the Meridian an angle of 45 degrees.
+
+These Helices or spirall lines (which are the oblique Rumbes) ought to consist
+of most minute and insensible, yea indivisible parts: for if they be any whit
+great, the account of the Ships motion will be confounded, and carried down
+from the true place whither the Ship is gone, toward the Aequinoctiall:
+neither can you return by the Rumbe you came. For imagine in the former Scheme
+two Meridians PAC, and PBK, and that AB and CK be like segments of two
+parallels, so that ABCK shall be a kind of sphaericall right-angled
+quadrangle: draw therein diagoniall-wise the arch of a great circle CBL, in
+which the ship is supposed to have gone from C to B: first the outward angle
+PBL being (as may easily be demonstrated) greater then the inward angle A C B,
+shows that you are fallen from your Rumbe into another point; and had need
+to bear up the Ship again into the Rumbe BD, making with the Meridian an
+angle P B D equal to that other A C B. Again, the diagoniall arch CB cutteth
+the quadrangle into two triangles unequal one to the other: for though in both
+the sides AC and BK (which we will call the catheti) be equal, and the
+hypotenusa CB be the same: yet the bases AB and CK, and likewise their angles,
+are unequal: yea though the distance of the parallels AC and BK be but one
+scruple of a degree. But yet the less you take the distance of the parallels,
+that inequality will also be the less. So that if by any artifice it may be
+brought about that the arch AC be not one minute of a degree, which on the face
+of the earth answers to above an English mile, but the hundred-thousanth, or
+if need be the millioneth part of a minute, scarce exceeding one fifteenth
+part of an inch (which thing by the help of God the giver of all light I have
+discovered, and am able to perform in tables unto the Radius 10000000, yet
+nothing at all differing either in their form or manner of working from those
+that are now commonly in use) all that inequality will be taken away, and those
+most small triangles will indeed, and unto all use, become plain rectangled
+triangles: and the spirall line of the ships course be recalled to a precise
+exactness. By what artifice this is done, together with other secrets of that
+nature, I may peradventure hereafter be induced to declare; if so be I shall
+first see the practisers of this most noble and useful science (which is as it
+were the band and tie of most disjunct countries, and the consociation of
+nations farthest remote) willingly to relinquish their inveterate errors, and
+to use thankfully and conscionably, without envy and selfe-conceited
+stubbornenesse, such light and helps as the due and mature study of true art
+shall afford.
+
+In the mean time we will here make use of the ordinary canon of the Meridian
+divided according to Mercator: which I have therefore set upon the sixth and
+seventh Circles of this Instrument, unto 70 degrees: as has been before
+showed in the second part of the first Chapter.
+
+And first out of the inspection of the Rumb in the last diagram compacted of
+the hypotenusae of an infinite number of those minute rightangled triangles, I
+will in certain Theoremes demonstrate the ground of oblique sailing: And then in
+the next Chapter apply the same foundations to the answering of the several
+questions in Navigation.
+
+And because those triangles are all supposed to be equal (or rather the same
+triangle so often multiplied) let them be also noted with the same letters A B
+C, as the lowest of them is: the catheti C A being all on the Meridians: and
+the bases B A being all on the several parallels: and the hypotenusae C B are
+the motion of the ship upon the Rumbe.
+
+The Theoremes are set down in these proportions.
+
+Theor: I.
+As the Radius, is to the sine of the complement of the Rumbe: So is the way of
+the Ship in degrees upon that Rumb, between any two places on the earth, to
+the difference of latitude between those two places.
+
+For R. s co:: BC. CA:: many BC. so many CA. And so conversely.
+
+Theor: II.
+As the Radius, is to the sine of the Rumbe from the Meridian: So is the way of
+the ship in degrees upon that rumb, etc. to the sum of the bases of all the
+triangles intercepted between the parallels of those two places.
+
+For R. sC:: BC. BA:: many BC. so many BA.
+
+Theor: III.
+As the Radius, is to the tangent of the Rumbe from the Meridian: So is the
+difference of latitude between any two places, to the sum of the bases of all
+the triangles intercepted, etc.
+
+For R. tC:: CA. BA:: many CA. so many BA.
+
+Theor: IIII
+As the Radius, is to the sum of the secants of all the parallels between
+any two places upon the earth: So is the base of one of those triangles, to the
+difference of longitude between those two places.
+
+For by Theoreme II, Chap: 5. R. sec: parall:: base AB. diff: of long: in base
+BA:: many sec: parall. diff: of long: in so many bases BA. Again because by
+the last Theoreme R. sum: sec. parall:: BA. diff: long: in BA. and by Theor:
+III. R. tC:: CA. BA. and because that CA is but 1, be it sexagesime or
+centesime, etc. therefore by composition of those two proportions arises,
+
+Theor: V.
+As the quadrat of the Radius, is to the sum of the secants of all the
+parallels between any two places upon the earth:
+
+Or, As the Radius, is to the sum of the secants of all the parallels
+between any two places, divided by the Radius:
+
+So is the tangent of the Rumb from the Meridian, to the difference of
+longitude between those two places.
+
+CHAP. VII. Of the several questions which are incident unto oblique sailing.
+IT is needful to be advertised: First, that in working the questions
+following upon the Instrument, the degrees of the ships way (found out by
+Chapt: IIII.) and of the differences both of latitude and longitude, and also
+the sum of the secants of parallels, are all to be taken on the fourth
+circle, after the manner of absolute numbers: for which cause they are still to
+be set down in degrees and Decimall parts of degrees. But the Sines and
+Tangents are to be accounted in their own circles. That hereafter we may not
+need evermore to be telling unto what circle every number or term does
+belong,
+
+And secondly, that if you please to work these questions with your pen: you
+may do it by the tables for the division of the Meridian line according to
+Mercator: Which tables are nothing else but a perpetual addition of secants.
+And are to be found both in Master Wrights Errors of Navigation, and in
+Willibrordus Snellius his Tiphys Batavus, for every minute: and in Master
+Gunters Book for every tenth part of a degree. Which last for more readiness
+sake I do herein make use of.
+
+But in using the tables of Master Wright or Snellius, you must reckon the
+latitudes in degrees and minutes; with Decimalls of Minutes, and not in
+Decimalls of Degrees.
+
+In the examples I have set down the numbers so, that you may work them
+either by the Instrument, or with the pen. The manner of working the Decimall
+parts with the pen you shall find in my Clavis Mathematica, Chapt. 1, 2, 3,
+4, 6. But by the Instrument, in the first Chapter of this present tractate at
+large: which I could wish were dilligently studied and practiced.
+
+And now I come to the Questions.
+
+QVEST. I. By the Rumbe and way of the Ship given, to find the difference of
+latitude between two places.
+This is done at one operation by Theor: I. in the former Chapter. As the
+Radius, is to the sine of the complement of the Rumbe:
+
+So is the way of the ship in degrees upon that rumb, between any two places
+on the earth, to the difference of latitude between those two places.
+
+
+
+An Example. A Ship beginning her course in the latitude of degr: 507, that is
+50, 42, has sailed on the NWbN Rumbe degr: 936: into what latitude is she come?
+
+Here the angle of inclination which the NWbN Rumbe makes with the Meridian is
+(by Chap: III.) 33, 45: the complement of which is 56, 15: and the sine thereof
+83147. Say therefore, ^. the difference of latitude which being added to the
+Latitude 507 given (because the greater latitude is sought) gives degrees
+58482. that is, 58, 29.
+
+But if the lesser latitude had been sought: the said difference should have
+been subducted out of the latitude given. And if the difference of latitude
+found (the Ship sailing toward the Aequinoctiall) chance to exceed the latitude
+given, subduct the latitude given out of the said difference found: and the
+remains shall be the second latitude, but in the contrary Hemisphaere. For if
+the two latitudes be in the contrary hemisphaeres, the sum of both is the
+difference between them.
+
+QVEST. II. By the way of the Ship and the difference of latitude between two
+places given, to find the Rumbe leading from one place to the other.
+This is done also at one operation by the said Theoreme I. As the way of the
+Ship in degrees upon the Rumbe sought between any two places, is to the
+difference of latitude beween those two places:
+
+So is the Radius, to the sine of the complement of the Rumbe sought.
+
+
+
+An Example. A Ship beginning her course at the latitude of degrees 507, that
+is 50, 42, has sailed up to the latitude of degrees 58482, that is 58, 29: in
+which space it has gone degrees 936 upon one Rumb* What Rumb was it that she
+followed?
+
+Here the difference of latitude is degrees 7782. say, ^ the complement of
+which arch found is 33, 45: which is the angle of inclination of the Ships
+course to the Meridian: and is (by Chapt: III.) the NWbN Rumbe.
+
+QVEST. III. By the Rumbe, and difference of latitude between two places, to
+find the quantity of the Ships way in degrees.
+This is done at one operation by the converse of the said Theor: I, As the
+sine of the complement of the Rumbe, is to the Radius:
+
+So is the difference of latitude between any two places to the measure of the
+Ships way in degrees.
+
+
+
+An Example. A Ship beginning her course at the latitude of degr: 58482, has
+sailed upon the SEbS Rumbe unto the height of degr: 507: how many degrees has
+she gone upon the Rumbe?
+
+Here the difference between the two latitudes given is degr: 7782. And the
+angle of inclination of the SEbS Rumbe is 33, 45, by Chapt: III: the complement
+of which is 56, 15: and the sine thereof 83147. Say therefore. s 56, 15. Rad::
+7782. 936: which is the measure of the Ships way in degrees.
+
+QVEST. IIII. By the Rumbe, and difference of latitude, to find the difference
+of longitude.
+This is done at one operation by Theor: V, in the former Chapter. As the
+Radius, is to the tangent of the Rumbe:
+
+So is the sum of the secants of the parallels between any two places,
+divided by the Radius: as they are set down in the tables, to the difference
+of longitude between the Medians of those two places.
+
+
+
+An Example. A Ship beginning her course at the latitude of degr: 382, sayleth
+upon the WbN Rumb, unto the latitude of degr: 505: how many degrees of
+longitude has it varyed in that course?
+
+Here the angle of inclination of the WbN Rumbe with the Meridian is 78, 45:
+the tangent whereof is 502734. And the sum of the secants for 505 is 58691:
+and the sum of the secants for 382 is 41392: the difference of which is
+17299, the sum of the secants of the parallels between those two latitudes:
+which else by the Instrument is found out by the second part of the first
+Chapter. Say therefore, ^ Which is the difference of longitude between the
+Meridians of the two places.
+
+But because this question is of excellent and very frequent use, it will not
+be amiss to set down at large the manner of working this Example upon the
+Instrument. Thus,
+
+Set one of the arms of the Index upon 382 in the sixth circle, and open the
+other arm unto 505 in the seventh circle, according as has been taught in
+the second part of the first Chapter. Then move the arm of the Index, which
+stood on 382 to the line of the 1: and the other arm at the same opening shall
+in the fifth circle cut 17299, the sum of the secants.
+
+Again set one of the arms of the Index upon the line of the Radius, and open
+the other arm unto the tangent of 78, 45. Then move the antecedent arm of the
+Index, which stood at the line of the Radius, unto 17299 in the fourth circle:
+and the consequent arm shall in the same fourth circle cut 87927, which are
+the degrees of the difference of longitude sought for.
+
+QVEST V. By the latitude and longitude of any two places given, to find what
+Rumbe leads from the one place to the other.
+This is done at one operation by the same Theor: V. As the sum of the
+secants of the parallels between those two places, is to the difference of
+longitude between them:
+
+So is the Radius, to the tangent of the Rumbe sought.
+
+
+
+An Example. There are two places, the one having the latitude of degr: 505:
+and the other the latitude of 382. And the difference of longitude between
+their Meridians is degr: 87927. By what Rumbe shall a Ship sail from one place
+to the other?
+
+Here the sum of the secants of the parallels between the two latitudes
+given is 17299, as was found out in the example of Quest. IIII. Say therefore,
+^ Which is the angle of the inclination of the Rumb leading between those two
+places, with the meridian: and is therefore (by the third Chapter) the WbN or
+EbS Rumb: if the latitudes be on the North side of the Aequinoctiall.
+
+QVEST. VI. By the Rumbe, and difference of longigitude between two places,
+whereof one is given, to find the difference of their latitudes.
+This is done at one operation by the converse of Th. V. As the tangent of the
+Rumbe, is to the Radius:
+
+So is the difference of longitude between the Meridians of those two places,
+to the sum of the secants of the parallels between those two places.
+
+
+
+An Example. A Ship beginning her course at the latitude of degr: 382, sayleth
+upon the WbN Rumbe until it has changed the longitude degr: 87927: Into what
+latitude shall she then be come?
+
+Here the angle of inclination of the WbN Rumbe with the Meridian is 78, 45.
+Say therefore, t78, 45. Rad:: 87927. 17299: Which is the sum of the secants
+of the parallels between the latitude degr: 382 given, and the latitude of the
+place wherein the Ship is. Wherefore if unto the sum of the parallels for
+degr: 382 found out by the second part of Chap: I. namely 41392, you add the
+fourth term found 17299: the sum 58691 shall be the sum of the parallels
+for the latitude sought: which by the said second part of Chap: I. you shall
+find to be degrees 505.
+
+QVEST. VII. By the Rumbe, and measure of the way of the Ship in degrees, to
+find the difference of longitude between two places, whereof one is given.
+This is done by two operations.
+
+The first is, By the Rumbe, and way of the Ship given, to find the difference
+of latitude: which is Quest. I.
+
+The second is, By the Rumbe, and difference of latitude given, to find the
+difference of longitude, which is Quest. IIII.
+
+An Example. A Ship beginning her course in the latitude of degr: 504 has
+sailed upon the WNW rumb degrees: 137: how much has she changed the longitude?
+
+Here the angle of inclination of the WNW Rumbe with the Meridian is 67, 30:
+the compl: of which is 22, 30 the fine whereof is 38268. Say first by Quest. I.
+^ Which is the difference of latitude between the beginning and place where
+the Ship is. Now because the Ship sailing toward the Pole increases the
+latitude: Add degr: 524 to degrees. 504 the latitude given: and the sum degrees: 5564
+shall be the latitude of the place whither he Ship is come.
+
+Seek the sum of the secants of the parallels for both those places, by the
+second part of Chap: I, which will be found to be 58534, and 67259: the
+difference of which two numbers is 8725, the sum of the secants between
+those parallels. Also the tangent of the Rumbe, (viz) of 67, 30; is 241421.
+
+Say therefore again by Quest. IIII. ^ Which arch of degr: 21064 is the
+difference of longitude sought for.
+
+QVEST. VIII. By the difference of latitude, and measure of the way of the Ship
+in degrees: to find the difference of longitude between two places, whereof
+one is given.
+This also done by two operations.
+
+The first is, By the difference of latitude, and the way, to find the Rumbe:
+which is Quest: II.
+
+The second is, By the Rumbe, and difference of latitude, to find the
+difference of longitude: which is Quest IIII.
+
+An Example. A Ship beginning her course in the latitude of degr: 5564, has
+sailed degr: 137 upon one and the same Rumbe, even unto the latitude of degr:
+504: how many degrees of longitude has she changed?
+
+Here the difference between the two latitudes given degr: 524
+
+Say first by Quest. II, ^ the complement of which arch (viz) 67, 30, is the
+angle of the Rumbe: And the tangent thereof is 241421. Seek also the sum of
+the secants of the parallels for both those places, by the second part of Chap.
+I: which will be found to be 58534, and by 67259: the difference of which two
+numbers is 8725, the sum of the, secants between the parallels.
+
+Say therefore again by Quest. IIII, ^ Which arch of degr: 21064 is the
+difference of longitude sought for.
+
+QVEST. IX. By the differences of latitude and longitude between two places
+given, to find the measure of the way of the Ship in degrees.
+This is also done by two operations.
+
+The first is, By the difference of latitude and longitude to find the Rumbe
+leading between those two places: which is Quest. V.
+
+The second is, By the Rumb, and difference of latitude, to find the measure of
+the Ships way in degrees: which ss Quest: III.
+
+An Example. A Ship beginning her course in the latitude of degrees 504,
+sayleth still following one and the same Rumbe until she comes to the
+latitude of degr: 5564: in which time she has changed the longitude degr:
+21064: How many degrees has the Ship gone upon that Rumbe?
+
+Here the sum of the secants of the parallels for both the places proposed,
+by the second part of Chap. I, will be found to be 58534, and 67259: the
+difference of which two numbers is 8725, the sum of the secants of the
+parallels between those two latitudes.
+
+Say first by Quest. V, ^ Which is the angle of inclination of the Rumbe, with
+the meridian: the complement of which is degrees: 22, min: 30: the sine whereof is
+38268. And the difference between the two latitudes degr: 5564, and degr: 504,
+is degr: 524.
+
+Say therefore again by Quest. III, ^ Which is the measure of the Ships way in
+degrees.
+
+QVEST. X. By the Rumbe, and difference of longitude between two places,
+whereof one is given, to find the quantity of the way in degrees between
+those places.
+This is also done by two operations:
+
+The first is, By the Rumbe, and difference of longitude, to find out the
+difference of latitude: which is Quest. VI.
+
+The second is, By the Rumbe, and difference of latitude, to find out the
+measure of the way of the Ship in degrees: which is Quest. III.
+
+An Example. A Ship beginning her course in the latitude of degr: 5564, sayleth
+upon the ESE Rumbe so long till it has changed the longitude degr: 21064: How
+many degrees has the Ship gone upon that Rumbe?
+
+Here the angle of the ESE Rumbe with the Meridian is degr: 67, min: 30; the
+tangent whereof is 241421.
+
+Say first by Quest. VI. t67, 30. Rad:: 21064. 8725: Which is the sum of the
+secants of the parallels between the latitude of degr: 5564, and the other
+latitude sought.
+
+Now the sum of the secants of the parallels for the latitude of degr; 5564
+is 67259, by the second part of Chap. I. Out of which number if you subduct
+8725 last found (because the course is toward the Aequinoctiall) the remains
+shall be 58534, the sum of the secants of the parallels for the other
+latitude of degr: 504, by the same second part of Chapt. I. So that the
+difference of the latitudes is degr: 524. And the fine of 22. 30, the
+complement of the ESE Rumbe is 38268.
+
+Say therefore again by Quest. III. ^ Which is the quantity of the Ships way in
+degrees.
+
+QVEST. XI. By the way of the Ship and the difference of longitude between the
+Meridians of any two places, whereof one is given, to find out the Rumbe
+leading from one place to the other. and
+QVEST. XII. By the way of the Ship, and the difference of longitude between
+the Meridians of any two places, whereof one is given, to find out the
+difference of their latitudes: by which the other place may be had.
+These two Questions, as they are of little or no use in Navigation; so also
+they have no direct and immediate solution. But are performed after the manner
+of the rule of false position, by supposing reasonably either a Rumbe, or
+another latitude: and then according to Quest. VII, and Quest. VIII, to find
+the difference of longitudes: which if it chance to fall out to be the same
+that is given in the Question; you have your desire. If not: suppose the second
+time. And lastly by comparing of both errors argue the truth.
+
+These two Questions are not so material, that I should spend more time in
+setting down Examples thereof. I will leave that work to the studious
+practiser.
+
+QVEST. XIII. If it be required to know the distance upon the Rumb between any
+two places, the measure of the way being known in degrees. You may multiply
+that measure of the way in degrees by miles 6625, which is the number of miles
+contained in one Just degree upon the earth, as was before assumed in Chapt.
+IIII.
+And thus have I showed the use of the Instrument in the solution of all
+nauticall Questions: which thing I specially in this small tractate aimed at.
+Which if it shall give any light and satisfaction to such as are studious in
+that most noble and useful art, I have my desire: which indeed only is, that
+the society of mankind may be benefited, and God glorified, by every poor
+ability he has been pleased to bestow upon me. I was also in part minded to
+have annexed hereunto certain problemes, how by reasonable conjecture the
+course of the Ship may be most probably rectifyed, when the reckoning thereof
+by the Compass and way estimated, shall be found to disagree from the
+celestial observations: Wherein I should have occasion to speak of the
+currents or hidden motions of the Seas, how they are to be observed, and how to
+be considered of in computing the motion of the Ship: And also of the deflexion
+(or as I may call it, the bias) of the Ship bending and wheeling it self about
+continually to the one side; how, and what allowance may most reasonably be
+made for it. But because these do not properly belong to the Instrument, and
+are to me only in speculation (which by reason of my want of experience in
+Nauticall affairs, I cannot so well direct and ordain for practice at sea) I
+will for this present praetermit, contenting my self with what has been
+already delivered.
+
+And if the Masters of Ships and Pilots will take the pains in the journalls
+of their voyages dilligently and faithfully to set down in several columns,
+not only the Rumbe they go on, and the measure of the Ships way in degrees,
+and the observations of latitude, and variation of their compass; but also
+their conjectures and reasons of the correction they make of the aberrations
+they shall find, and the quality or condition of their Ship, and the
+diversities and seasons of the winds, and the secret motions or agitations of
+the Seas, when they begin, and how long they continue, how far they extend,
+and with what inequallity; and what else they shall observe at Sea worthy
+consideration, and will be pleased freely to communicate the same with Artists,
+such as are indeed skillful in the Mathematics, and lovers and inquirers of
+the truth: I doubt not but that there shall in convenient time be brought to
+light many necessary praecepts, which may tend to the perfecting of navigation,
+and the help and saftie of such, whose vocations do enforce them to commit
+their lives and estates in the vast and wide Ocean to the providence of God: to
+whom be all praise, honor, and glory: And this is
+
+The End.
+I have at the request of Master Elias Allen, given way that Master Gunters
+Table of the division of the Meridian line after Mercator, should be here
+inserted, for the use of such as will take the pains to enter into a unmerary
+calculation of the former Problemes. The other Tables of natural Sines and
+Tangents are every where to be had.
+
+A Table for the division
+M Gr Par M Gr Par M G Par M Gr Part M Gr Part 0 0 0 3 3 001 6 6 011 9 9 037 12
+12 088 100 3 101 0 111 9 138 12 190 200 3 201 6 212 9 239 12 293 300 3 301 6
+312 9 341 12 395 400 3 402 6 413 9 442 12 497 501 3 502 6 514 9 543 12 600 600
+3 602 6 614 9 645 12 702 700 3 702 6 715 9 746 12 805 800 3 803 6 816 9 848 12
+907 900 3 903 6 916 9 949 13 010 1 1 000 4 4 003 7 7 017 10 10 051 13 13 112 1
+100 4 103 7 118 10 152 13 215 1 200 4 204 7 219 10 254 13 318 1 300 4 304 7 319
+10 355 13 421 1 400 4 404 7 420 10 457 13 523 1 500 4 504 7 521 10 559 13 626 1
+600 4 605 7 622 10 661 13 729 1 700 4 705 7 723 10 762 13 832 1 800 4 805 7 824
+10 864 13 935 1 900 4 906 7 925 10 966 14 038 2 2 000 5 5 006 8 8 026 11 11 068
+14 14 141 2 100 5 106 8 127 11 170 14 244 2 200 5 207 8 228 11 272 14 347 2 300
+5 307 8 329 11 374 14 450 2 400 5 408 8 430 11 476 14 553 2 500 5 508 8 531 11
+578 14 656 2 601 5 609 8 632 11 680 14 760 2 701 5 709 8 733 11 782 14 863 2
+801 5 810 8 834 11 884 14 967 2 901 5 910 8 936 11 986 15 070 3 3 001 6 6 011 9
+9 037 12 12 088 15 15 174 M Gr Par M Gr Par M Gr Par M Gr Part M Gr Part 15 15
+174 18 18 303 21 21 486 24 24 734 27 28 058 15 277 18 408 21 593 24 844 28 171
+15 381 18 513 21 701 24 953 28 283 15 485 18 619 21 808 25 063 28 396 15 588 18
+724 21 915 25 173 28 508 15 692 18 830 21 023 25 282 28 621 15 796 18 939 22
+130 25 392 28 734 15 900 19 041 22 238 25 502 28 847 16 004 19 146 22 345 25
+613 28 959 16 107 19 251 22 453 25 723 29 072 16 16 211 19 19 356 22 22 561 25
+25 833 28 29 186 16 316 19 463 22 669 25 943 29 299 16 420 19 569 22 777 26 054
+29 413 16 524 19 675 22 885 26 164 29 526 16 628 19 781 22 993 26 275 29 640 16
+732 19 887 23 101 26 386 29 753 16 836 19 993 23 210 26 497 29 867 16 941 20
+100 23 318 26 608 29 981 17 045 20 206 23 427 26 719 30 095 17 150 20 312 23
+535 26 83^ 30 300 17 17 255 20 20 419 23 23 643 26 26 941 29 30 324 17 359 20
+525 23 752 27 052 30 438 17 464 20 632 23 861 27 164 30 553 17 568 20 738 23
+970 27 275 30 667 17 673 20 845 24 079 27 387 30 782 17 778 20 952 24 188 27
+499 30 897 17 883 21 059 24 297 27 610 31 012 17 988 21 165 24 406 27 722 31
+127 18 093 21 272 24 515 27 834 31 242 18 198 21 379 24 624 27 946 31 357 18 18
+303 21 21 486 24 24 734 27 28 058 30 31 473 M Gr Part M Gr Part M Gr Part M Gr
+Part M Gr Part 30 31 473 33 34 992 36 38 633 39 42 415 42 46 362 31 588 35 111
+38 757 42 544 46 496 31 704 35 231 38 880 42 673 46 631 31 820 35 350 39 004 42
+802 46 766 31 936 35 470 39 129 42 931 46 902 32 052 35 590 39 253 43 061 47
+0^7 32 168 35 710 39 377 43 191 47 173 32 284 35 830 39 502 43 320 47 309 32
+400 35 950 39 627 43 451 47 445 32 517 36 071 39 752 43 581 47 581 31 32 633 34
+36 191 37 39 877 40 43 711 43 47 718 32 750 36 312 40 002 43 842 47 855 32 867
+36 433 40 128 43 973 47 992 32 984 36 554 40 253 44 104 48 129 33 101 36 675 40
+379 44 235 48 267 33 218 36 796 40 505 44 366 48 404 33 336 36 917 40 631 44
+498 48 542 33 453 37 039 40 757 44 630 48 681 33 571 37 161 40 884 44 762 48
+819 33 688 37 283 41 011 44 894 48 958 32 33 806 35 37 405 38 41 137 41 45 026
+44 49 097 33 924 37 527 41 264 45 159 49 236 34 042 37 649 41 392 45 292 49 375
+34 161 37 771 41 519 45 425 49 515 34 279 37 894 41 646 45 558 49 655 34 397 38
+017 41 774 45 691 49 795 34 516 38 140 41 902 45 825 49 935 34 635 38 263 42
+030 45 959 50 076 34 754 38 386 42 158 46 093 50 217 34 873 38 509 42 287 46
+227 50 358 33 34 992 36 38 633 39 42 415 42 46 362 45 50 499 M Gr Part M Gr
+Part M Gr Part M Gr Part M Gr Part 45 50 499 48 54 860 51 59 481 54 64 412 57
+69 711 50 641 55 010 59 640 64 582 69 895 50 783 55 160 59 800 64 753 70 080 50
+925 55 3^0 59 960 64 924 70 263 51 068 55 460 60 120 65 096 70 449 51 210 55
+611 60 280 65 268 70 635 51 353 55 762 60 441 65 440 70 811 51 496 55 913 60
+602 65 613 71 008 51 639 56 065 60 763 65 786 71 195 51 783 56 217 60 925 65
+960 71 383 46 51 927 49 56 369 52 61 088 55 66 134 58 71 572 52 071 56 522 61
+250 66 308 71 761 52 215 56 675 61 413 66 483 71 9^0 52 360 56 828 61 577 66
+659 22 140 52 505 56 981 61 740 66 835 72 331 52 650 57 135 61 904 67 011 72
+522 52 795 57 289 62 069 67 188 72 714 52 941 57 444 62 234 67 365 72 906 53
+087 57 598 62 399 67 543 73 099 53 233 57 754 62 564 67 721 73 292 47 53 380 50
+57 909 53 62 730 56 67 900 59 73 486 53 526 58 065 62 897 68 079 73 680 53 673
+58 221 63 063 68 258 73 875 53 821 58 377 63 231 68 438 74 071 53 968 58 ^34 63
+398 68 618 74 267 54 116 58 691 63 566 68 799 74 464 54 264 58 848 63 734 68
+981 74 661 54 413 59 006 63 903 69 163 74 859 54 562 59 164 64 072 69 345 75
+057 54 7^1 59 322 64 242 69 528 75 256 48 54 860 51 59 481 54 64 412 57 69 711
+60 75 456 M Gr Part M Gr Part M Gr Part M Gr. Part M Gr. Part 60 75 456 63 81
+749 66 88 725 69 96 575 72 105 579 75 656 81 970 88 971 96 854 105 904 75 857
+82 191 89 219 97 135 106 230 76 059 82 413 89 467 97 418 106 558 76 261 82 635
+89 716 97 701 106 888 76 464 82 860 89 967 97 986 107 220 76 667 83 084 90 218
+98 272 107 553 76 871 83 310 90 470 98 560 107 888 77 076 83 536 90 723 98 849
+108 226 77 281 83 763 90 978 99 139 108 565 61 77 487 64 83 990 67 91 232 70 99
+431 73 108 906 77 694 84 219 91 489 99 724 109 249 77 901 84 448 91 746 100 018
+109 594 78 109 84 678 92 005 100 314 109 941 78 317 84 909 92 264 100 612 110
+290 78 526 85 141 92 525 100 910 110 641 78 736 85 374 92 787 101 211 110 994
+78 947 85 607 93 050 101 513 111 349 79 158 85 842 93 314 101 816 111 707 79
+370 86 077 93 579 102 121 112 066 62 79 583 65 86 313 68 93 846 71 102 427 74
+112 428 79 796 86 550 94 113 102 735 112 792 80 010 86 788 94 382 103 044 113
+158 80 225 87 027 94 652 103 356 113 526 80 441 87 267 94 923 103 668 113 897
+80 657 87 508 95 195 103 983 114 270 80 874 87 749 95 468 104 229 114 645 81
+091 87 992 95 743 104 616 115 023 81 310 88 235 96 019 104 936 115 403 81 529
+88 480 96 296 105 257 115 786 63 81 749 66 88 725 69 96 575 72 105 579 75 116
+171 M Gr. Part M Gr. Part M Gr. Part M Gr. Part M Gr. Part 75 116 171 78 129
+075 81 145 650 84 168 947 87 208 705 116 559 129 558 146 292 169 912 210 649
+116 949 130 045 146 942 170 893 212 668 117 342 130 536 147 600 171 891 214 745
+117 737 131 031 148 265 172 907 216 909 118 135 131 530 148 937 173 941 219 158
+118 536 132 034 149 618 174 994 221 498 118 639 132 542 150 307 176 067 223 938
+119 345 133 055 151 003 177 160 226 486 119 755 133 572 151 709 178 275 229 153
+76 120 166 79 134 094 82 152 423 85 179 411 88 231 950 120 581 134 620 153 147
+180 569 234 891 121 000 135 151 153 878 181 752 237 991 121 420 135 687 154 620
+182 960 241 268 121 843 136 228 155 372 184 194 244 744 122 270 136 775 156 132
+185 454 248 445 122 700 137 326 156 903 186 743 252 402 123 133 137 883 157 685
+188 062 256 652 123 570 138 445 158 478 189 411 261 243 124 009 139 012 159 281
+190 793 266 235 77 124 452 80 139 585 83 160 096 86 192 210 89 271 705 124 898
+140 164 160 922 193 661 277 753 125 348 140 748 161 761 195 151 284 517 125 801
+141 339 162 612 196 680 292 191 126 258 141 936 163 475 198 251 301 058 126 718
+142 538 164 352 199 867 311 563 127 182 143 147 165 242 201 529 324 455 127 649
+143 763 166 146 203 240 341 166 128 121 144 385 167 065 205 005 365 039 128 596
+145 014 167 999 206 825 408 011 78 129 075 81 145 650 84 168 947 87 208 705 90
+Infinite.
+
+The Declaration of the two RVLERS for Calculation.
+THe Rulers are so framed and composed, that they may not only be applied to
+the Calculation of Triangles, and the resolution of Arithmetical Quaestions:
+but that they may also very fitly serve for a Crosse-staffe to take the height
+of the Sun, or any Star above the Horizon, and also their distances. In
+which regard I call the longer of the two Rulers the Staff, and the Shorter
+the Transversarie. And are in length one to the other almost as 3 to 2.
+
+The Rulers are just four square, with right angles: and equal in bigness:
+they are thus divided.
+
+The Transversarie at the upper end noted with the letters S, T, N, E, on the
+several sides, has a pinnicide or sight: at the lower edge of which sight is
+the line of the Radius, or Unite line, where the divisions begin.
+
+On the left edge of one of the sides are set the Degrees from 0 to 33 degrees.
+And on the right edge of the same side is set the line of Sines from 90 to 1
+degree.
+
+In the next side are set two lines of Tangents, that on the right edge goes
+upward from 1 to 45 degrees: and that on the left edge goes downward from 45
+to 89 degrees.
+
+In the third side, on the right edge is set the line of Numbers, having these
+figures in descent, 1, 9, 8, 7, 6, 5, 4, 3, 2, 1, 9, 8, 7, etc.
+
+In the fourth side on the right edge is set the line of Aequall parts: And on
+the left edge are diverse chords for the dividing of Circles.
+
+The Staff at the further end of it has a socket with a pinnicide or sight:
+at which begins the 30 degree, and so goes on to 90 degrees at the end of
+the Staff next your eye: which degrees from 30 to 90 are set on the right edge
+of one of the sides of the Staff.
+
+Then applying your Transversarie to the Staff with the lower end set to 90,
+mark on the four sides of the Staff the line of the Radius or Unite: at
+which on every left edge must begin the single line of Sines, Tangents, and
+Numbers, the very same which were in the Transversarie (that of the Sines being
+on that side where the degrees are) only the line of Tangents, and numbers are
+continued beyond the line of the Radius, to the further end of the Staff.
+
+And on the fourth side of the Staff in the middle are double divisions: that
+on the right hand is a line of Aequall parts to 100, reaching the whole length
+of the Staff: And on the left hand contiguous to the former, is the line of
+Latitudes or Elevations of the Pole unto 70 degrees marked with the leter L.
+
+The degrees both of the Staff, and Transversarie, and also of the Sines and
+Tangents may be divided into 6 parts which contain 10 minutes apiece: or
+rather into 10 parts containing 6 minutes apiece: for so they may serve also
+for Decimals.
+
+Thus have you on the two Rulers the very same lines which are in the Circles
+of Proportion: and whatsoever can be done by those Circles, may also as well be
+performed by the two Rulers: and the Rules which have bin here formerly set
+down for that Instrument, may also be practiced upon these: so that you be
+careful to observe in both the different propriety in working. It will not
+therefore be needful, to make any new and long discourse, concerning these
+Rulers, but only to show the manner, how they are to be used, for the
+calculation of any proportion given.
+
+In working a Proportion by the Rulers, hold the Transversary in your left
+hand, with the end at which the line of the Radius or Unite line is, from you
+ward: turning that side of the Ruler upward, on which the line of the kind of
+the first term is, whether it be Number, Sine, or Tangent: and therein seek
+both the first term, and the other which is homogene to it. Then take the
+Staff in your right hand with that side upward, in which the line of the kind
+of the fourth term sought for is: and seek in it the term homogene to the
+fourth. Apply this to the first term in the Transversarie: and the other
+homogene term shall in the Staff show the fourth term.
+
+As if you would multiply 355 by 48: Say 1. 355:: 48. 17040. For if in the line
+of Numbers on the Staff you reckon 355, and apply the same to 1 in the line of
+Numbers on the Transversarie; then shall 48 on the Transversarie show 17040 on
+the Staff.
+
+Again if you would divide 17040 by 48: Say 48. 1:: 17040. 355 For if in the
+line of Numbers on the Transversarie you reckon 48, and to the same apply 1 in
+the line of Numbers on the Staff: then shall 17040 on the Transversarie show
+355 on the Staff.
+
+The true value of the fourth term found, may be had by the 5 and 6 sect: 2
+chap: 1 part.
+
+Some Examples of working Proportions we will borrow out of 3 chap: 1 part
+
+Example I. If 54 elnes of Holland be sold for 96 shillings: for how many
+shillings shall 9 elnes be sold? the work shall be thus 54el. 96sh:: 9el.
+16sh. for if in the line of Numbers on the transversarie you seek the first
+term 54 elnes, and in that line on the Staff you seek 96 shillings: and
+apply one to the other: then shall 9 elnes sought out on the Transversarie
+point out 16 shillings on the Staff.
+
+Example IIII. There is a Tower whose height I would measure.
+
+I take two stations in the same right line from the Tower: and at either
+station having observed the height by the sights of the Staff, I find the
+nearer station 28 degrees: 7 min: almost: and the further station 21 degr: 58
+minutes almost: and between both the Stations the distance was 76 feet.
+
+The rule of measuring heights by two stations is contained in these Theoremes.
+THEOR. As the difference of the Tangents of the arches cut in either Station,
+is to the distance between the stations: so is the Tangent of the lesser arch,
+to the nearer distance from the Tower. Again
+
+THEOR. As the Radius is to the Tangent of the greater arch; so is the nearer
+distance found, to the height.
+
+
+
+And therefore because according to 6 sect: 1 chap: 1 part, by application of
+the line of Numbers to the line of Tangents (that is by applying the Unite line
+of the Staff, to the Tangent in the Transversarie, if the arch be less then
+45 degr: but if the arch exceed 45 degr: by applying the said Unite line, unto
+the arch it self, or the complement thereof, which in the Transversarie is all
+one) the Tangent of 28, 7 is 5343, and the tangent of 21, 58 is 4033: whose
+difference is 1310: the Proportions will in the lines of Numbers be thus First,
+1310. 76:: 4033. 234 wherefore 234 feet is the nearest distance Second, Radius.
+tang: 28, 7:: 234. 125 wherefore 125 feet is the height sought for.
+
+Or else you may resolve it at one operation thus, THEOR. As the difference of
+the tangents of the complements of the arches cut in either station, is to the
+Radius;
+
+So is the distance between the stations, to the altitude.
+
+
+
+Because accordingly as was before showed, the tangent of the complement of 28,
+7 is 18715: and the tangent of the complement of 21, 58 is 24792: whose
+difference is 6077. the proportions will in the line of Numbers be thus 6077.
+10000:: 76. 125.
+
+And these Rules may be also applied to find out the distances of objects.
+
+Example V. To find the declination of the Sun the ninth day of May.
+
+Because upon the ninth day of May the place of the Sun is in 29: which is 59
+degrees distant from the next Aequinoctiall point. Say in the line of Sines
+Radius. sine 59:: sine 23, 30. sine 19, 59. And so much is the declination
+sought for.
+
+If the distance of the Sun from the next Aequinoctial point exceed not
+degrees 2, 30. Break that arch into minutes, or decimal parts of a degree: and
+by the lines of Sines and numbers say As the Radius is to the Sine of 23, 30;
+
+So is the distance (of the Sun from the next Aequinoctial point) in minutes,
+or Decimals, to the declination in minutes, or Decimals.
+
+
+
+As if the declination of the Sun being in 27, 45 be required: the distance
+of it from the next Aequinoctial point is 2, 15 that is minutes 135, say
+therefore Rad. sine 23, 30:: 135. 537. which is the declination of the Sun in
+that place.
+
+Example VI. To find the right ascension of the Sun upon the ninth of May.
+
+Because upon the ninth of May the Sun is 59 degr: distant from the next
+Aequinoctiall point: say in the line of Sines on the Transversarie, and the
+line of tangents on the Staff Rad. sin: compl: 23, 30:: tan: 59. tan: 56, 46.
+which is the Suns right ascension upon the same day.
+
+Or else (because the Radius is the mean proportional between the tangent of
+an arch and its complement) the same proportion might have been thus set
+down. t: com: 59. Rad:: sin: com: 23, 30. t: 56, 46, In which manner of
+proposure happening only when there is in the proportion the Radius and two
+tangents, because the two homogenes of the one kind are both extreme terms,
+and the two homogenes of the other kind are both middle terms: the tangent is
+to be turned into the tangent of the complement: and must change places with
+the Radius. As by comparing the two former proportions does plainly appear.
+
+Because that the greatest difficulty of working by these Rulers falls out
+in the tangents, when the arches are in the second mediety of the Quadrant, it
+will be convenient to set down some cases wherein the work differs from
+the ordinary manner.
+
+Case I. If the four proportionals being all tangents, the arches of two of
+the terms given exceed 45 degrees: and the arch of the third be less then 45
+degr: as in this Example ^: here the tangent of 31 on the Transversarie being
+applied to the tangent of 56 on the Staff, the tangent of 79 on the Staff
+will outreach the Radius or end of the Transversarie. Wherefore to find out the
+fourth proportional, mark what point of the Staff, the line of the Radius on
+the Transversarie does touch, and to it (turning the Transversarie) set the
+other end of the line of the Radius, and so shall the tangent 79 in the Staff
+give you tangent 64, 24 in the Transversarie.
+
+Case II. If the four proportionals being all tangents, the arches of the
+three terms given exceed 45 degrees. as in this Example ^. turn the
+Transversarie, and set the tangent of 56 therein to tangent 79 on the Staff:
+and because the Radius or end of the Transversarie reaches not to the tangent
+64, 24 on the Staff: to find out the fourth proportinal, mark what point of
+the Staff the line of the Radius of the Transversarie does touch, and to it
+(turning the Transversarie) set the other end of the line of the Radius, and so
+the tangent 64, 24 in the Staff, will give you tangent 31 in the Transversarie.
+
+These two Cases, being nothing else but a supplying of the shortness of the
+Transversarie, may serve as a rule, and direction for all other works of the
+same kind.
+
+Concerning the manner of working by Quadrats and Cubes upon the line of
+Numbers. And of duplicated and triplicated proportions.
+
+The difference of a Quadrat from a Quadrat is double the difference between
+their sides.
+
+And the difference of a Cube from a Cube is triple the difference between
+their sides.
+
+Example II, chap: 6, part I. How many acres of Wood-land measured with a Perch
+of 18 feet, are there in 73 acres of Champane-land measured with a Perch of 165
+feet?
+
+The measures given, 18, 165 being reduced into the least terms, are as 12 to
+11, and the proportion is reciprocal. Say therefore, Q: 12, Q: 11:: 73. 6134
+Which is thus wrought: In the line of Numbers apply 11 on the Staff, to 12 on
+the Transversarie, then shall 73 on the Transversarie give 67 -- on the Staff:
+which 67 -- being reckoned on the Transversarie (the Rulers standing as they
+did) shall on the Staff give 6134 the number of acres in Wood-land measure.
+
+Example III, chap 6, part 1. If pounds 043 of gunpowder suffice to charge a
+Gunne whereof the concave Diameter is yaches 15: how many pounds of powder will
+suffice to charge a Gunne whose concave Diameter is inches 7?
+
+The capacities are one to the other as the Cubes of the Diameters. And the
+proportion is direct. Say therefore C: 15. C: 7:: 043. 437 Which is thus
+wrought: In the lines of Numbers apply 7 on the Staff, unto 15 on the
+Transversarie, then shall 043 on the Transversarie give 201 -- on the Staff:
+which 201 -- being reckoned on the Transversarie (the Rulers standing as they
+did) shall on the Staff give 9333: and again the same 9333 being reckoned on
+the Transversarie shall on the Staff give 437 the quantity of pounds of powder
+suffising.
+
+Example in 46 page of Navigation. A ship beginning her course at the Latitude
+of degrees: 382, saileth upon the WbN Rumbe, unto the Latitude of degrees: 505: how
+many degrees of Longitude has it varied in that course?
+
+Here the angle of Inclination of the WbN Rumbe with the Meridian is 78, 45,
+the tangent whereof is 502734. And by the double divisions on the fourth side
+of the Staff, the Sum of the Secants for the Latitude of 505 is 58691: and
+the sum of the Secants for the Latitude of 382 is 41392: the difference of
+which is 17299; the sum of the Secants of the parallels between those two
+Latitudes. Say therefore. Rad. tang: 78, 45:: 17299. 86068 which is the
+difference of Longitude between the Meridians of the two places.
+
+But because this question is of excellent and very frequent use, it will not
+be amiss to set down at large the manner of working this Example upon the
+Rulers.
+
+Look the two Latitudes 505, and 382 given, in the line of Latitudes or
+eleuations of the Pole on the fourth side of the Staff: and either mark what
+number each of them shows in the line of Aequall parts there, which you shall
+find to be 58691, and 41392, the difference of which is 17299, as was before
+said: or else more easily, set one foot of your Compasses on one of the
+Latitudes given, and open the other foot to the other Latitude given: then
+keeping that aperture, set one of the feet in the beginning of that line of
+Aequall parts, and the other foot shall upon the same line show the difference
+of Secants between the said two Latitudes given, that is 17299.
+
+Then in working the Proportion; because the angle of inclination of the Rumbe
+78, 45 is more then 45 degrees: turn that edge of the Transversarie on which the
+tangents of arches above 45 are, toward the Staff in your right hand: and to
+the line of the Radius apply 17299 sought out on the line of Numbers on the
+Staff: and so shall tang: 78, 45 on the Transversarie: show 8697 -- on the
+Staff.
+
+The Use of the Crosse-Staffe.
+FOr the more ready use of the Crosse-staffe, you are to remember that the
+degrees serving for the Crosse-staffe are placed both on the Staff and
+Transversarie, on the same side on which the line of Sines is. And that in
+framing thereof the Transversarie is to be set in the Socket so that it may
+stand on the right hand of the Staff.
+
+The degrees on the Transversarie are only the first 30. and serve to show an
+angle not exceeding 30 degrees.
+
+Yet it would not be unusefull if both the Transversary and Staff were made
+somewhat longer that the Transversarie might contain 5 degrees: after 30; and the
+Staff 5 degrees before 30.
+
+To find an angle less then 30 degrees* between any two objects.
+Place the Socket at 30 degrees: on the Staff; and skrew it fast there: then
+setting the end of the Staff to your eye, draw the Transversarie up and down
+through the Socket, till you may see with your eye the two objects upon the two
+sights of your Crosse-staffe: and so shall the degrees cut on the Transversarie
+show you the angle of their distance, if it be not above 30 degrees.
+
+To find an angle greater then 30 degrees, between any two objects.
+Place the Socket at 30 degrees of the Transversarie, and skrew it fast there:
+then setting the end of the Staff to your eye, draw the Socket up and down
+along the Staff till you may see with your eye the two objects upon the two
+sights of your Crosse-staffe: and so shall the degrees cut on the Staff, show
+the angle of their distance, if it be above 30 degrees.
+
+And thus much, together with that which has been before taught in Example
+IIII: will be sufficient for the Use of the Crossestaffe: especially seeing so
+many men have already written upon this Argument.
+
+Soli Deo gloria.
+FINIS.
+The Translator to the Reader.
+Gentle Reader, by reason of my absence, whilst this Book was in the Press,
+it is no mervaile though some faults have escaped, which you will be pleased to
+amend thus.
+
+Page 3, lin. 1, the third circle p. 8, lin. ult. so 240/320 is 075. page 14,
+lin. 14, 2* 0413927 page 15, lin. 1, the first term of a progression p. 16,
+lin. 24, 10833+; page 17, lin. 17, the antecedent arm lin. 28, 4 chap. page
+18, lin, 19, term given from page 19, lin. 11, in the fifth circle page 20,
+lin. 19, lie hid. As in this lin. 20, D. rat. multa -- 1 in R:: a. Z. lin. 28,
+and Rat. multa in R in a -- R in a, lin. ult. and Rat. multa in R -- R, in a,
+page 21, lin. 1, and Rat multa in a -- a, in R,
+
+And also in the Aequations page 21, 24, 26, which have a magnitude aequall to
+a fraction: the same magnitude together with the note of aequality, ought to be
+set right against the line that is between the Numerator and Denominator of
+the fraction, as in these, Rat. multa -- 1 in R in a / D = Z. And ZD / a = Rat.
+multa in R -- R. And so of the rest.
+
+page 24, lin. 25, Rat. multa -- 1 in R in a / Rat. multa in D
+
+page 25, lin. 20, arm at 71382: lin. 23, (for it is Rat. multa -- 1 in R in
+a) page 26, lin. 16. Ratiocination* page 29, lin. 29, number of figures page 35,
+lin. 5, 61 49/144 page 36, lin. 11, 437. 1748. lin. 14,:: 1748. 326+ page 37,
+lin. 11, 31416, page 39, lin. 15, 3392928 page 41, lin. 19, or as 1 is to
+10472: page 44, lin. 8, is a roof lin. 26, thereof page 45, lin. 10, feet
+529175. page 46, lin 3, more sides then four page 53, lin, 10, Cylindrical
+vessel. page 53, lin. 18, if false, why lin. 20, error? page 57, lin. 14,
+common opinion is, that at London a Cylindrical lin. 28, 165 page 74, lin. 28,
+the Sum, page 78, lin. 6, third houses lin. 28, Add 90 degrees page 79, lin.
+22, and the 90th degree page 82, lin. 5, 26 page 94, lin. 21, a circle, or 90
+degrees. page 95, lin. 34, angle D be obtuse, page 96, lin. 4, sign + lin. 21,
+q: Z + X: page 100, lin. 3, and then the side DC In the VIII diagramme of
+right-lined Triangles the leter A is wanting at the perpendiculer. And in the
+VI the angle B ought to have been marked with a little line. page 113, lin. 7,
+the delineation page 127, lin. 1, the sun goes not under page 131, lin. 19,
+in the paper page 132, lin. 10, 10 the tangent of the arch. page 134, lin. ult.
+North or South direct inclining: page 135, lin. 1, North or South direct
+reclining. lin. 8, either face of the Plain looks: p. 143, lin. 3, In North
+reclining and South inclining page 144, lin. 19, instrument through the Pole of
+the Aequinoctial, is one of these three. page 15^, lin. 30, North dyal declining
+Eastward 35 degrees
+
+In the Additament of Navigation.
+page 2, lin. 11, for valor read value page 6, lin. 9, and 12, for signs
+read sines page 29, lin. 20, 21, 24, for 45 read 48 lin. 20, for an half
+read eight thousanth parts and lin. 25, for min: 27 read min: 288 page 46,
+lin. 20 page 47, lin 9, and 28, page 48, lin. 17 and 21, for 87927: read 86968
+page 47, lin. ult. for 205734, read 502734. page 28, lin. 8, 216000F / 349800G:
+
+and keeping the same aperture, bring this latter arm unto the Latit: 65: and
+where the former arm shall light, there hold it fast, drawing in the latter
+arm to the line of the Radius. Lastly with this new opening bring the other
+arm to the line of the radius: and so shall you find 134, the other Latitude
+sought for.
+
+
+
+

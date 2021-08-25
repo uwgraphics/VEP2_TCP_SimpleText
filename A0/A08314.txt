@@ -1,0 +1,104 @@
+A Table showing the distances between all the Cities and Shire Towns of
+ENGLAND, that are comprehended in the same.
+London. Bathe. Bristowe. Bedford. Barwicke. Canterbury. Chichester. Chester.
+Couentree. Cambridge. Colchester. Carlisle. Darby. Durham. Exceter. Elye.
+Gloucester. Hereford. Huntingdon. Ipswiche. Kendall. Launceston. Leicester.
+Lichefield. Lincoln. Lancaster. Northampton Nottingham. Newcastle. Norwiche.
+Oxford. Peterborow. Rochester. Salisburie. Stafford. Taunton. Winchester.
+Wells. Warwick. Shrewsburie. Worcester. Hartford. Landaffe. St.. David's. St.
+Asaph. Bangor. York. 150 150 150 103 110 182 175 85 105 140 80 58 206 100 125
+120 93 140 62 240 76 76 48 58 100 58 63 137 126 190 83 165 170 92 90 107 123
+155 187 93 110 Bangor. 175 125 116 143 165 200 174 43 102 160 183 103 94 140
+210 160 90 85 145 195 100 188 110 86 124 92 130 105 150 190 134 137 200 150 77
+140 160 133 105 58 93 165 104 100 23 St. Asaph. 160 114 107 125 172 200 170 20
+82 138 172 140 70 120 160 138 93 74 125 174 89 190 89 64 100 74 109 83 128 165
+117 117 183 140 54 145 147 125 87 40 75 147 100 102 St. David's. 195 108 100 173
+274 238 278 110 137 190 220 210 244 212 150 195 113 95 180 230 180 80 154 128
+184 168 160 156 225 235 147 178 217 138 123 88 155 108 135 100 108 185 75
+Landaffe. 125 37 26 107 250 166 105 95 80 126 155 194 100 194 55 134 44 35 117
+165 160 70 98 84 135 146 95 110 208 173 75 120 144 64 84 35 80 35 76 70 54 117
+Hartford. 20 86 95 23 235 59 40 127 63 23 40 200 82 174 145 35 75 96 30 150 170
+175 60 84 80 160 39 77 187 70 40 45 40 77 95 124 63 102 62 110 80 Worcester. 92
+46 45 65 210 135 96 63 27 82 114 158 50 148 100 85 20 20 18 123 120 125 45 33
+83 110 48 57 160 125 45 70 115 65 38 77 74 58 25 38 Shrewsburie. 123 78 68 87
+188 162 137 30 48 110 144 128 47 128 140 110 38 40 94 145 93 164 60 35 86 80 77
+60 140 147 83 88 173 100 25 110 112 96 50 Warwick. 77 64 65 43 167 120 95 74 8
+72 98 160 35 142 145 65 34 44 50 100 142 110 25 25 65 112 28 40 150 100 36 47
+100 75 36 97 75 77 Wells. 100 16 16 95 265 145 75 125 88 117 142 218 112 217 45
+127 50 54 114 143 170 77 103 94 140 170 92 118 230 170 64 116 125 30 100 22 50
+Winchester. 55 45 56 70 278 100 27 140 82 83 100 230 110 213 100 97 74 80 85
+113 194 120 93 100 130 185 73 112 235 136 42 97 97 22 104 70 Taunton. 120 34 34
+120 290 165 94 143 100 138 164 237 130 230 24 147 64 66 132 172 200 190 53 123
+115 166 190 134 237 124 85 135 142 53 112 Stafford. 107 83 82 73 170 144 125 35
+33 88 123 120 26 110 125 88 57 48 73 125 87 160 37 13 60 75 58 37 125 120 70 67
+130 102 Salisburie. 70 28 38 78 270 113 42 128 78 94 112 220 105 210 72 100 50
+67 90 125 188 102 94 93 130 175 76 112 224 143 45 100 90 Rochester. 23 110 118
+72 273 20 60 160 141 60 35 248 140 215 160 75 103 127 70 47 210 190 100 117 145
+194 72 116 220 78 70 78 Peterborow. 60 97 100 25 190 107 100 97 44 26 58 162 47
+130 158 20 78 86 15 60 130 190 30 55 38 120 15 38 143 56 56 Oxford. 46 46 52 34
+228 94 57 100 40 94 78 185 67 173 106 62 37 55 45 87 155 136 50 60 85 140 29 79
+180 100 Norwiche. 80 150 150 70 240 125 125 150 97 50 45 208 100 170 208 40 125
+195 57 32 180 237 85 110 90 174 80 100 190 Newcastle. 200 200 200 167 48 232
+230 112 140 165 200 47 118 14 270 155 180 170 152 200 57 290 180 128 103 66 155
+114 Nottingham. 93 97 98 53 160 138 122 64 34 63 96 124 15 100 164 60 72 75 50
+92 92 188 20 28 26 83 44 Northampton. 52 74 78 16 200 94 80 80 26 35 68 168 46
+143 130 39 50 67 25 75 134 160 25 46 56 123 Lancaster. 177 150 150 136 104 220
+200 53 100 144 180 46 75 57 208 138 125 115 130 180 14 232 98 83 90 Lincoln.
+100 124 120 62 160 132 135 82 53 63 94 122 36 90 180 55 95 100 50 90 95 212 37
+53 Lichefielde. 97 77 76 58 168 137 114 45 20 74 186 123 18 114 130 74 50 46 60
+110 93 155 26 Leicester. 78 84 85 38 173 112 100 68 20 50 80 137 20 118 138 47
+57 63 34 85 103 170 Launceston. 178 85 82 167 324 207 134 182 150 184 200 270
+173 267 35 190 108 110 178 222 238 Kendall. 184 160 160 142 87 215 200 62 110
+150 187 30 84 53 218 142 137 125 136 185 Ipswiche. 55 130 140 57 240 100 100
+150 95 40 17 210 100 180 188 38 118 135 50 Huntingdon. 50 90 94 16 204 97 84
+100 45 12 47 197 53 140 150 15 70 85 Hereford. 103 40 36 80 210 146 100 64 47
+97 130 158 66 154 88 100 20 Gloucester. 85 30 28 63 217 125 78 77 40 82 110 173
+65 162 84 88 Elye. 56 104 110 27 208 90 93 115 60 12 38 173 67 140 164 Exceter.
+143 60 60 135 310 177 108 155 125 150 177 143 150 250 Durham. 190 188 188 150
+60 228 217 100 127 150 185 46 100 Darby. 96 90 88 58 158 180 123 50 28 70 100
+120 Carlisle. 217 196 192 175 60 250 237 95 140 178 222 Calchester. 44 126 130
+50 250 90 90 150 92 35 Cambridge. 40 95 100 20 112 67 80 118 60 Couentree. 76
+68 68 40 185 117 94 64 Chester. 144 100 97 100 150 177 150 Chichester. 47 68 77
+74 280 77 Canterbury. 43 130 137 87 284 Barwicke. 259 245 240 208 Bedford. 40
+80 83 Bristow. 99 10 Bathe. 88
+
+IT is to be understood, that by reason of the Seuerne, that diuides Wales
+from Cornwall, Somerset, etc. that the distances between the Towns of either
+side, cannot be precisely set down, for that there is great difference,
+between the land travail, and passages by water, as men take according to
+their liking.
+
+I have not done this altogether by mine own observation, though I have
+travailed most part of the Kingdom* And therefore have taken the benefit of
+the Mappes of the same. And there may some errors arise, as ways lie curuing
+or direct, passable or not, and as Trauailers are disposed to coast the
+Countries to make choice of their ways. Such as it is, I willingly recommend
+it to all that please to make use of it, as a labor intricate, and never
+before invented.
+
+The use of this Table.
+WHo so ever shall be disposed to make use of this Table, as desirous to know
+the distance between any two Cities or Towns contained in the same, let him
+seek the places desired in the upper and side Catalogues of Towns, and direct
+his eye from either place, between the lines, both from above and from the
+side, and where the lines meet in square, he shall find the number of miles:
+For example, if he would know how far Lincoln is from Exceter, find
+Lincoln in the side, and carry your eye directly from thence between the
+lines until you come under Exceter, and where they meet in square he shall
+find 180. which is the distance of miles.
+
+If you find any Town on the side which will not meet in square from the
+desired Town above, then look for the Town which you find in the side,
+above: For Example, if you desire to know the distance between Gloucester and
+Oxford, if you look Gloucester in the side you cannot bring Oxford in a square
+with Gloucester, but if you look Gloucester in the side, and Oxford above, you
+shall find the square and the distance 37. miles, and so of any other.
+
+Entreating him friendly to censure any error in the calculation or impression,
+which cannot be but easily found, coming under the view of men all parts of
+the Kingdom, who are better acquainted with distances near their own abode,
+then any one man generally be. But howsoever he shall find the conceit useful
+and necessary, if he be occasioned to travel much.
+
+Invented and performed by JOHN NORDEN.
+

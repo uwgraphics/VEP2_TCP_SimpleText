@@ -1,0 +1,916 @@
+A MATHEMATICAL APENDIX, CONTAINING MANY PROPOSITIONS AND CONclusions
+mathematical: with necessary observations both for Mariners at Sea, and for
+Cherographers and Surueyors of Land;
+
+TOGETHER WITH AN EASY perspectiue mechanical way, to Delineat Sun dyalls
+upon any Wall or Plane given, be it direct, inclyning, declyning, or reclyning,
+from the Horizon, or Meridian, in any Region or Place of known Latitude.
+
+With other things pleasant and profitable for the weal public, not
+heretofore extant in our vulgar: Partly colllected out of Foreigne modern
+writers, and partly invented and practiced by the Author.
+
+Written by R. N. Gent.
+
+LONDON, Printed by R. B. for Roger Iackson, and are to be sold at his shop
+in Fleet-strtet, (...) ^^^duit, 1604.
+
+TO THE RIGHT HONORABLE MY SINGVLER GOOD LORD AND MAster, Sir EDWARD SEYMOVR
+Knight, Baron Beauchamp, Earl of Hertford, and his Majesty's Liuetenant within
+the Counties of Somerset, and Wiltess, and the City and County of Bristoll.
+RIght honorable, since amongst the rudest Creatures (even the brute beasts
+deuoide of Reason) Ingratitude, that foul Monster, is not once to be found:
+how hateful then the very remembrance thereof ought to be unto humane
+Creatures; but especially to those that profess Christianity (in whom it
+has pleased the sovereign Creator of all things, to make his chief
+Storehouse of all Reason in these Terrestiall parts) so much as to purpose,
+much more in action to prove ungrateful to any; but chiefly to those from
+whom especial favors have proceeded: who is it that will not absolutely
+censure? Wherefore (my honorable good Lord) because I would not seem more then
+brute, although J acknowledge my ability cannot extend unto the moytie of my
+desire: yet like the poor man, who (wanting better wherewith to express his
+loyal affection) presented the mighty Prince Alexander the great, with a cup
+of cool water: so offer I this small (and therefore unworthy) present, unto
+your honorable acceptance: my bounden duty ever challenging greater, does
+nevertheless encourage me to begin with this little. Humbly praying your
+Lordship to shroud these my first fruits under the wings of your honorable
+patronage, against the envious storms of Zoilus, and his Crittick associates;
+who are always more ready to carpe and find fault with others, then any way
+able to do the like themselves. Herein promising to my self that the more
+learned in the Mathematics, (who I confess had been much fitter to have
+handled this subject then my self) and those that desire the benefit of
+knowledge in the common wealth (for which, I protest, I chiefly undertook
+this work, in regard that scant any thing herein contained; is yet extant in
+our vulgar tongue) will if not embrace, yet at the least not utterly reject and
+contemn this my travail. The acceptance of the more learned and better sort I
+assume to my self, having ever noted such to favor the desire of good studies:
+And of those that love the common good I much presume, judging them by my
+self; having ever borne especial affection to such, as have showed their
+willing endeauours to profit the public weal with their best means. And so
+praying almighty God to bless your Lordship and my good Lady your honorable
+Countess, with long life, and all happy increase of honor and prosperity in
+this world, and in the world to come eternal felicity, I rest always
+
+Your honors most humble and faithful servant, ROBERT NORTON.
+
+THe Longitude (gentle Reader) for which this present Treatise was chiefly
+composed) is defined to be the shortest distance that can possibly be taken
+upon the Globe of the Earth between two Meridians propounded, beginning to
+reckon the same (from west to East) at the Meridian of the Island Coruo, which
+our latest writers for diverse good reasons account for the first Meridian: To
+find the longitude, is by some means to search how many degrees the Meridian
+of the place, where you make observation, is distant from some one Meridian
+given. The knowledge whereof being so necessary as that the Geographers and
+Nauigators cannot with exactness perform what (in their Arts) necessity
+requires, without the same: Therefore have many worthy men taken great pains,
+and with all ingeniousnes labored to supply that defect, with the most exquisite
+means they could devise for the readiest finding thereof; who have set down
+many Propositions to that effect, and both learnedly and ingeniously left unto
+posterity such tokens of their love to the public good, as may justly
+challenge to merit infinite memory and commendation. As Ptolome, by the time
+of an Eclipse in two several places being known, to find the longitude.
+Appian, the true places of the Moon and a fixed Star being given, to find
+the Longitude. Others by the Angle, that a fixed Star makes at the moment of
+time she enters into the first minute of Cancer or Capricornus, and the
+difference of time wherein such an angle appears, to find the Longitude. Some
+with portable watches, the true hour of sundry places being given, to find
+the Longitude. The time being given, and the way of the Ship, to find the
+Longitude. The point of the Compass and the way of the ship given, to find the
+longitude. The Latitude, and the way the ship makes, to find the Longitude,
+etc. All which are found to be subjected unto inauoydable errors, or else
+clogged with such difficulties, or want of expedient execution; as that they
+cannot absolutely be concluded for perfect apt means to find the Longitude
+at Sea: the want of which, is the greatest imperfection in the Art of
+Nauigatio^. Take here in good part (friendly Reader) these few propositions,
+not heretofore written in this our vulgar, co^taining partly collections which
+from sundry Authors in other Languages I have sought out, and augmented or
+abreuiated for thy better use; and partly practiced observations, which (time
+and opportunity permitting) my self have experienced both on Sea and Land.
+Requesting, that with the friendly eye of Judgment, thou would consider
+them well, before thou divulge any unadvised censure against them: Not doubting
+but every one that shall deign a due perusing hereof may find some thing worthy
+his bestowed labor. And so, graying excuse if I seem to omit any necessary
+point in the premises (which I might soon do, in regard I much striued to
+avoid prolixity) do heartily wish thee thy lawful desire, and my self
+present to expound any thing that seems herin difficil; referring my labor to
+your courteous favors ^end.
+
+ROBERT NORTON.
+
+A Table containing the conten's of the Propositions of this Book.
+Proposition. 1.
+
+How to find the Longitudes of places, by the daily declination of the Sun.
+
+2 How to find the Longitude by Arches of great Circles, which pass by the
+Centres of the fixed Stars, and Planets that yield no sensible paralax or
+difference of Aspect.
+
+A Corollarie upon the same, showing to perform the same more exquisitely, by
+comparing the Planets one with an other.
+
+Another Corollary upon the same Consequence, to find the Longitude, by
+comparing the Sun and Moon being nigh Conjunction, and their Paralaxis
+abstracted.
+
+3 A Comet, or the Moon appearing, how to find the paralax or difference of
+aspect thereof, two several ways; and thereby how far it is from the Center
+or Circumference of the Earth.
+
+4 The Paralax and distance from the Earth given, to find what Angle it will
+make in the Center of the Earth with any other Star that has no Paralax.
+
+5 To find the Longitude by a Comet, or the Moon, appearing; and the
+difference of time from one Meridian to another, by comparing it with a fixed
+Star.
+
+A Corollarie upon the same, showing more evident accomplishment thereof, by
+comparing it with the true moving of one of the Planets.
+
+6 A Star m Heaven propounded, to find the Longitude without the difference
+of Time.
+
+7 How to find the Longitude and Latitude of any place at once, without the
+difference of time, by observation of the Celestial Luminaries.
+
+8 How to find the Longitude at all times from moment to moment, Mechanically:
+And withal to describe all the places of note in a Region or Country, on a Map
+or platte, according to their several distances and situations exactlie. With
+the use of the Protractor.
+
+A Corollary upon the same, applying it to the Survey and platting of Land.
+
+Another Corollary upon the same Consequence, expressing a Mechanical means
+to find the Longitude at Sea at all times, and to keep a perfect Trauerse, for
+a whole voyage.
+
+An Annotaion, showing an artificial devise how the Master or Pylot, at Sea,
+may much more exactly make observation of the Celestial Luminaries with any
+Instrument, then the ordinary manner can possibly admit, by reason of the
+heauing and setting of the Ship.
+
+The making of the Cosmodelite, an excellent Instrument for many Mathematical
+conclusions: As for the Longitude of places, to take any Altitude, Latitude, or
+distance in sight, for Survey and platting of Land, to make Sun dialls, etc.
+invented by the Author.
+
+How by the Cosmodelite to delineate a Sun dial on any plane given, with great
+facility, and without arithmeticall calculation.
+
+Master Robert Smith his invention to delineat a Sun dial otherwise.
+
+The making of an artificial engine, whereby with any strength given (be it
+never so little) to eleuate and lift up any ponderous weight assigned.
+
+Brief Expositions of the Geometrical and Aftronomicall terms mentioned in
+this Treatise.
+
+Finis Tabulae.
+The first Proposition. How to find the Longitudes of places, by the daily
+Declination of the Sun.
+THe Sun continually declyning from the Equator, according to the several
+points of the Ecliptic wherein he properly moves, sometimes toward the
+South (being in the Meridionall signs), and sometimes toward the North Pole
+(being in the Septentrionall:) making his greatest declination on either side
+to be 23. degrees and 28. or thereabouts, does, from the noone of one day unto
+the noone of the next day, so sensibly vary his declination on any one
+Meridian, as that you may easily find how much he declyneth from Meridian to
+Meridian, on all the Meridians that may be imagined upon the face of the whole
+earth. As for example, if from the noone of this day until the same moment to
+morrow, he shall be found to vary one minute of a degree in his declination
+upon one same Meridian: imagining then 60. several Meridians on the Earth,
+equally distant one from another; it is most certain that he will make from
+one of those Meridians unto the next 1/60 part of a minute (which is a second
+difference of declination: and so consequently more or less, as the same shall
+happen to be beyond or short of the said Meridian. Wherefore if you divide 360.
+the degrees of the Equator, by 60. the number of the supposed Meridians, you
+shall find the Quotient to produce 6. degrees, the difference of the Longitude
+which one of them shall be from the next. This may be observed from day to day
+at all times of the year, be it that the Sun have greater or less
+declination then the said minute, under the assigned Meridian: which collected
+into a Table will be a ready means for to find the Longitude of any unknown
+Meridian. The practice to find the Longitude (the Table being made) is thus:
+Having exactly observed the declination of the Sun (by some perfect
+Mathematical Instrument) for the hour of Noone, then enter the said Table,
+seeking there the declination set down for that day: which being found, the
+difference of the declination will show you under what Meridian you observe and
+are, with the difference of Longitude: which difference being added or
+subducted (as reason will direct) to or from the former given Meridian, will
+yield the sought unknown Longitude.
+
+Note that the Table may be enlarged, not only to thirds and fowerths, but
+unto tenths: which will be much better for the more exact expressing of his
+slow declination. And thus you may find the Longitude by the daily
+declination of the Sun.
+
+The second Proposition. How to find the Longitudes by Arches of great Circles,
+which pass by the Centres of the fixed Stars, and such of the Planets as
+yield no sensible paralax or difference of aspect.
+FOrasmuch as great Circles, which pass by the Centres of all the Stars, do
+express in their Arches the several distances of all the Planets and fixed
+Stars, (considered by two and two): And for that the Planets in their proper
+mouings do ouergoe the Stars of the Firmament; It must necessarily follow, that
+their said distances do continually vary, (either more or less) and the Angles
+also subtending them. Wherefore, if by Astronomicall Tables you obtain the
+true place of one of the Planets (having no Paralax) and compare the same with
+one of the fixed Stars given, be it Septe^trionall or Meridional; seeking for
+every day, hour, and minute, what Angles the same Planet shall make with the
+said fixed Star, and of such Angles to make a Table; it will be an Artificial
+preparatiue to the finding of the Longitudes of places with facility. For all
+the Inhabitants of the Earth (according to Ptolomy) being in the Center of the
+world in respect of the fixed Stars and higher Planets, it is certain that
+all such Stars and Planets will appear to them all to vary their angles
+continually; but chiefly when the Planet shall be direct: and that those
+Planets, which move most swiftly, do yield more evidently such variation
+then the slower. and. The Table being prepared: when you desire to find an
+unknown Longitude, Observe exactly by Instrument, what Angle the same Planet
+makes with the said Star, for which the said Table was made: which had,
+seek then in your said Table for the Angle calculated for that moment of time,
+in which you make your observation: and the difference of the Angles will give
+you the difference of the Longitude (if any be) between the place of
+observation sought, and the place given, for which the table was made.
+
+Corollary. I.
+Then it follows, that by the same means, and with more evident variation of
+Angles, we may find the Longitudes, by comparing the said Planets one with
+another to find their Angles, especially one being direct, and the other
+Retrograde: and so to make like Tables of their proper moouings.
+
+Corollarie. II.
+Likewise if you take the continual true moouings of the Sun and Moon,
+during the space of three, or four days, before and after their conjunction,
+and so find their true angles: and observe the Angle (by instrument) exactly,
+which they for one same moment, do make in the eye of the obseruour, you shall
+find the observed Angle greater then the Angle calculated, by their paralaxis:
+which being also known and subducted, the difference of the remaining angle
+(from the Angle calculated), is the difference of the Longitudes, from one
+Meridian to the other.
+
+The third Proposition. A Comet, or the Moon appearing, to find the Paralax or
+difference of aspect thereof, and thereby the distance of the same above the
+Center or Circumference of the Earth.
+Wh^^ Par^^^^ is.
+THe Paralax or difference of Aspect (according to the Astronomers) is an angle,
+made of the concurrence of the visual line, directly respecting a Celestial
+luminary; and of the line of the true moving; which proceeds from the Center
+of the Earth, passing by the Center of the same Luminarie, unto the Firmament;
+The semidiametre of the Earth, being the sole efficient cause of such Angles.
+Neither do such angles happen to every of the celestial Luminaries, save only
+to such as are nearest unto the Earth, as the and; and amongst them also, those
+which are nearest, have most sensible paralax, or difference of Aspect: as the
+figure following does plainly demonstrate.
+
+diagram
+
+wherein A represents the Center of the Earth, A B the Semidiametre, A F the
+vertical line, D the farthest or more remote Luminarie, yielding smallest
+paralax, A E the line of his true place in the firmament, K the nearest
+Luminary, yielding greatest Paralax, A I the line of the true place thereof, B
+G the visuall line, the Obseruor being in B. Whereby it appears, that the
+Angle E D G, or his vertical B D A, being the Paralax of the more remote
+Luminary, is less then the angle I K G, or his vertical B K A, the Paralax of
+the nearer Luminary: both which Paralaxes, are caused by the se^sible quantity
+of the Semidiametre of the Earth, being compared with their Orbs.
+
+How to find the quantity of the Paralax.
+
+To find the quantity of the Paralax of the Moon, or Comet, for any hour or
+Meridian given, during the appearance thereof above the Horizon: you shall with
+the Cosmodelite (the Circle thereof being inclyned according to the inclination
+of the Equator) take two several Observations (having some space of time
+between): at each of which, seeing the said Comet or Moon through the sights
+of the Index, you must carefully note the degrees intersered therewith, in the
+Limb of the said Circle. Then comparing the quantity of the arch contained
+between the two points (at the several observations) intersected in the said
+Limb, with the arch answering to the space of time between the two
+observations (being reduced into degrees and minutes of the Equinoctial) and
+the lesser arch subtracted from the greater, the remaynder is the Paralax or
+difference of aspect sought. Although some perhaps will say here, that the
+Planets, by reason of their excentricities and proper mouings, do unequally
+move, in respect of the Primum Mobile: which although I confess, yet I say,
+that in the space of time, spent in the said Observation, the same is so
+insensibly small, as that it were absurd to make any scruple thereof.
+
+Another way to find the Paralax.
+
+First seek, out of the Astronomicall Tables or otherwise, the true place, in
+the Zodiac, of the Luminary you will observe, for the time and Meridian
+assigned; then examine the true place of some known fixed star, or one of the
+Superior Planets, (appearing at that time above the Horizon given): thereby
+obtaining the Angle, subtending the Arch of the Distance from one of those
+Luminaryes to the other: Then take the visuall distance (by some exact
+Mathematical Instrument) between the said two Luminaries: which had, and
+compared with the former so calculated, the difference is the Paralax of the
+said lower Planet or Luminary, for that instant. The like may be performed by
+the Sun, at his rising or setting, being near the Horizon, and having some
+Planet or notable fixed Star nigh unto him. And here you may note, that the
+Paralax is always greater, near the Horizon, then being more elevated: As
+also that the superior Planets and scant yield any sensible Paralax, by reason
+of the small quantity of the Earths semidiametre, in respect of their Orbs.
+
+To find the distance of any Comet or Planet above the Earth.
+
+The distance of any Comet or Planet above the Earth, is found by the Doctrine
+of Tryangles; viz, two angles and one side being given, to find the other
+angle, and the other two sides. Herein the two angles given are these; The one,
+the Paralax found: the other, the Altitude above the Horizon taken by
+Instrument, being added to 90: The side given, is the Semidiametre of the
+Earth. For the better explanation hereof, behold the figure following: diagram
+Wherein, the Paralax or angle EDG, contains 8. degrees. The angle DBH is the
+altitude found, containing 31. degrees: which being added to 90, make 121.
+degrees, the second angle: Now these two angles added together, make 129: which
+soloducted from 180 (the degrees of two right angles, always equal to the
+three angles of any Tryangle) the remaynder is 51, the degrees of the third
+angle sought, represented here by the angle BAD.
+
+Then to find the two unknown sides (by any two of those angles, and one of
+the sides known) because every one is not capable of the Rules given by the
+learned Astronomers, who have written hereof, I will here set down an easy
+means (as it were Mechanical) to be understood and practiced with facility,
+as follows: Having any Circle exactly diagram divided into 360. degrees, or
+even parts, thereby to find, readily, the angle subtending every Arche: or
+contrariwise, to find any arch subtending any angle given; First draw an
+infinite line, which may represent the side given, as the line AB; and set your
+Compasses (opened to the Semidiametre of the Circle) upon A the upper end of
+the same line, and draw an arch (with the other foot) of such greatness, as
+may cross the said line, as the arch FC does at F; then open your Compasses,
+unto so many degrees of the lymbe of your said Circle, as one of your given
+angles conteyneth: as, according to the former example, to 121. degrees, and
+set one foot of your Compass so opened, in the intersected point F, and
+extend the said quantity in the said arch, which will fall at C. Then draw a
+strait line from the Center of the arch A, to the said point C: and that line
+will represent a second side of the Tryangle desired. Then again, for the
+third side, you are to work in all things as before: as, first to open your
+Compasses unto your divided Circles Semidiametre, and set one foot upon one of
+the sides already described, and draw an arch that may intersect the said side
+toward the already described angle: as, upon the side AC, on C, set the
+Compasses, and draw the arch GD, which intersecteth the side AC at the point A:
+and then opening the Compasses, to so many degrees of the divided Circle, as
+the other angle given conteyneth, viz. 8. degrees, carrying the same to the
+point A of the line AC, and express the same in the arch AD. which will fall
+in E. Then draw a strait line from C, the Center of the last described arch,
+unto the said point E: which being continued, will cut the line AB in the point
+K; and both give you the third Angle AKC containing 51 degrees, and also at
+once represent unto you, all the angles and sides proportionallie of the
+Tryangle, made by the Center of the Earth, the Celestial Luminary, and the
+Center of the Eye of the Obseruatour; each respecting other, with strayte lines.
+
+Then to find how far the said Luminarie is distant from the Earth (having
+described the proportional Tryangle aforesaid) and having the measure of one
+of the sides thereof given, viz, the Semidiametre of the Earth AK, which
+according to most writers is 3436 4\11 miles, which measure I find to be 6.
+times and a half, contained in the side KC, and therefore conclude the same to
+be distant from the Center of the Earth, 21477 2/11 miles; and from the surface
+of the Earth, 18041 1/11 miles. Thus much is sufficient, for the finding of the
+Paralax, and distance of any Celestial body (having Paralax) from the Center
+or superficies of the Earth.
+
+The fourth Proposition. The Paralax, and distance of any Star from the Earth,
+given, to find the true angle it will make in the Center of the Earth, with any
+Star that yields no Paralax.
+Having taken the Paralax, and so consequently (as in the precedent) the
+distance thereof from the Center or the Earth, and observed the visuall angle
+by Instrument, which such a star shall make, with any known star, that yields
+no Paralax; you shall describe, on a clean Paper, or Slate, an Angle equal to
+the visuall angle so found: then draw a small Circle, representing the Globe of
+the Earth: and describe one Arch, concentrick with the same Circle, and so many
+Semidiametres without the same, as the said Star or luminarie (yielding
+Paralax) is distant from the Earth; and one other Arch as much further distant
+again without that, or more or less, as you please: which last described Arch
+shall represent unto you, part of the Firmament or Heaven of fixed stars.
+Then draw a strait line from the Center, unto the said outmost arch: and let
+the place, where the same line intersecteth the middle Arch, be the place of
+the star, yielding Paralax: then express the distance between the two
+stars, with an angle in such a part of the circumference of the small circle,
+as the said angle, being parted in two with an obscure line, the same line may
+fall in the point of the angle, and make a square angle with the Semidiametre
+of the small Circle: Then the visuall lines, and the lines of the true places
+of the said stars, being extended to the utmost arch; and a strait line
+drawn from the intersecting point (which the line of the true place of the
+Star that yields Paralax, makes) in the utmost arch, unto the point of the
+visuall Angle in the Circumference of the small Circle, it is certain, that
+that line, and the visuall line, which respects the fixed star (or star
+yielding no Paralax) will (by this means) frame an angle in the Circumference
+of the small Circle (representing the Earth) equal to the angle, which the
+said two stars made, at the instant of observation, in the Center of the Earth.
+
+The fifth Proposition. To find the Longitude of any place, by a Comet, or the
+Moon, appearing, and the difference of time from one Meridian to another.
+FIrst the Obseruators, who may see the Moon or Comet, at one instant, above
+their several Horizons, must subduct the difference of Aspect, or Paralax, by
+the doctrine precedent, and so find the true place thereof, in the Firmament.
+Then observing, from Moment to Moment, what change of Angles it shall make,
+with a fixed Star given, in the Center of the Earth, as in the preceding
+Proposition is taught: let them confer the computation of time, in which they
+found them to agree by equal angles, with the observations of one another: so
+will the difference of time, being reduced into degrees and minutes, express
+the difference of the Longitudes of their several Meridians. The reason hereof
+is the roundnesse of the Earth, causing the different rising and setting of the
+Sun, unto the Inhabitants of the East, from those of the West. If then you
+make an exact Table of the true angles, which the Moon or Comet will from time
+to time make with a fixed Star given, under one certain Meridian known; and
+observe the same angle, under another Meridian: It cannot but happen at a time
+of the night, differing from the former, by hours, minutes, or both: which,
+being as is aforesaid reduced, will yield your desired effect. Thus much, for
+the finding of the Longitude, by the difference of time of the happening angles.
+
+Corollarie.
+Then it follows, that if you collect the proper moouings of all the other
+Planets (out of Astronomicall Tables) and compare their true moouings, with the
+true moving of the Moon or Comet appearing, you shall find more speedy
+change of angles, the^ by comparing them with fixed stars; by reason of the
+swifter motions of the Planets, then of the fixed Stars.
+
+The sixth Proposition. A Star in heaven propounded, to find the Longitudes of
+places, without the difference of time.
+FOr performance of this proposition, the representation of Meridionall planes
+only is necessarily required: wherefore, for your better understanding hereof,
+it will be here requisite to acquaint you, with some of the delineations and
+uses of the Cosmodelite (an Instrument, in this Book, hereafter described):
+which (by reason of the several bendings of the Ears and Semicircle thereof)
+is very apt for the true representation as of any other Circle or Plane, that
+is, or can be imagined in the Heavens, so also of the Meridians and Meridional
+Planes. For, having declyned the Instrument by the Ears thereof, until the
+line of 6. be parallel to the Axis of the world, the extremes thereof
+directly respecting the Poles of the world; and then causing the great Circle
+to move circularly, upon the Center of the Semicircle; you shall perceive the
+same Circle and the Plane thereof (in that motion) to represent so many
+Meridians, and Meridionall Planes, as can be imagined in the world. Therefore,
+if you first abstract the Paralax of the Moon or Star; and then extract, out
+of Astronomicall Tables (being calculated for a Meridian given) what angle the
+same will make, with some of the other Planets or fixed Stars, with which the
+said Star or Moon shall culminate, or at once come to the assigned Meridian;
+And shall also carefully observe, till you find (by the great Circle and Index
+of the Cosmodelite) that they agree in angle, with the angle calculated for
+them: Then shall the number of the degrees (contained between the Fiduciall
+line, which intersecteth the Semicircle, and the end next to the same
+Semicircle) show the true number of degrees (and thereby, the distance) between
+the Meridian for which the Calculation of the Table was made, and the Meridian
+of observation: which number of degrees is the true difference of their
+Longitudes, etc. So, having the Longitude of the one, that of the other can not
+be unknown. Thus may the Longitude be found, by the Moon or a Comet, and some
+other Star, given, without the difference of time.
+
+The Seventh Proposition. How to find the Longitude and Latitude, at once, by
+the Celestial bodies, without observing the difference of time.
+FOrasmuch as many Obseruors, both on Land and Sea, may, at one instant time,
+see certain of the Planets in one same Constitution and position to respect one
+an other, being compared one to one, or one of them with a fixed Star: If
+therefore every one of them do observe the said stars (by the great Circles
+of several Cosmodelites inclyned according to the inclynation of the several
+planes, which they will at one time be seen to make, to the eyes of the
+several obseruators, on their several Horizons, it is certain, that each of
+them shall find the Inclination of the great Circle of his Cosmodelite
+(representing the plane of the two Stars) to differ from the inclination of
+all the rest, whether they be situate under diverse Paralelles, or diverse
+Meridians. And then every of them applying, on a Globe, the particular angle,
+which his inclination made with the vertical line of his Horizon, it will be
+presently found what Longitude and Latitude their several places have; and
+consequently, the proportional distances from one place of observation, to
+another.
+
+The Eighth Proposition. How to find the Longitude Mechanically, and to
+describe all the notable places in a Region or Country, on a Map or Plat,
+according to their true situations and distances one from another.
+TO perform this Proposition, there must be first provided a kind of
+Horse-litter (like to the figure following) having one wheel, of such
+greatness, as (the horses trauayling, with the same) it may lightly trample
+on the face of the Earth, and easily turn about, always answering, in his
+motion, the swiftness or slownesse of the horses pasing. This wheel must also
+move or turn about other wheels, so framed, as that with an Index, it may
+(after the ordinary manner of common watches) express when the said great
+wheel (so trampling) shall have justly measured a certain number of pases,
+pearches, or furlongs, and their parts; in such sort, as that the Obseruator
+(in the Hoslitter) may readily find at any time by the same, how many pases,
+pearches, or furlongs, the said Horselitter shall have passed over. There must
+be also a perfect Marine Compass, or else a large magneticall Needle and Fly,
+hanged in the same manner, with circles of brass which I hold better and more
+exact, by reason it is not so ponderous, upon the point of the Pin; and
+therefore must of necessity be more quick and ready to show the true respective
+point. All which, being fitly placed in the said Litter, and he being seated
+therein; when the horses begin to make way, let him note in his Maryne Compass
+justly, upon what point of the Compass or parts, they make their direct
+coutse: Or if he shall use the Needle and Fly before mentioned, then let him
+observe what point, or degree, the South point of the Needle shall cut (in the
+Lymbe of the said Fly), until he come to the next turning or angle; which
+must be diligently set down in a paper or Table, at every angle, together
+with the number of Pases, Pearches, or Furlongs found (from one angle to the
+next) by the said Index: always distinguishing each angle, with the measured
+Quantity between that and the last before, with several characters or
+Alphabeticall notes; to avoid the mistaking of them, one for another. Thus
+much carefully performed, and the notes of the several direct courses from
+Angle to angle, with the measured quantity between each angle exactly set down;
+there is no more to be don abroad, but he may then, in his chair at home,
+draw with a protractor (divided in all points answerable to the divisions of the
+Marine Compass, or to the Fly under the Needle) by the notes aforenamed, the
+whole way, with every angle or turning, and all things and places of note, as
+Rivers, houses, gates, paths, styles, trees, and such like, by or through which
+the said Litter passed.
+
+diagram
+
+diagram
+
+The practice and use of the Protractor follows.
+Having the notes of the true distance from Angle to Angle, and how they bear
+and are situate one from another, draw on the Parchement or paper, whereon the
+Plat shall be drawn, certain obscure strait lyned Paralelles over the whole
+face thereof; each, two inches or thereabouts, distant one from an other. Then
+begin at such a place, as that the Parchement or Paper may each way be able to
+receive the whole description (which reason will show), and place the
+Protractor (by means of the divisions engraued on the ends of the long square
+thereof) upon, or parallel to, one of the descrybed obscure pararelles: then
+seek in the Lymbe for the point of the Compass, or degree, by which the
+second Angle is noted to bear or be situate from the first: there make a prick,
+and draw an infinite obsceure line, from the Center of the Protractor, through
+the said prick; Then open a pair of Compasses, to the proportion of a Scale
+(answerable to the distance noted, from the first Angle to the second) and set
+one foot in the point, where the Center of the Protractor was, and with the
+other foot (the Compasses unaltered) note a prick in the said obscure line;
+which will there represent the true place, distance and situation, of the
+second angle from the first. Then, placing the Center of the Protractor upon
+the last described prick, do in all things as before, both for the point of the
+Compass or degree, and for the distance also, and consequently the like for
+all the other angles, until they be all described in the same, according to
+their true distance, situations, ways, and turnings, and by which the
+Horselitter passed, and for which the said notes were so taken. Note, that if
+there should be between any two of the angles some small crookedness or
+bending, the form thereof may be well represented on rue paper of notes, the
+same being present to the Obseruators eye. Likewise if there be any House,
+Gate, style, tree, or any other thing fit to be noted; the Obseruator, making
+remembrances in his said notes, may easily with his Protractor make description
+of them, answerable to their situations and distances. Then, having the true
+Longitude and Latitude of any one place described in the said Plot or Map,
+it cannot be but the Longitudes and Latitudes of all other places therein will
+offer them selves, by reason of their known situations and distances. Thus
+have you the means to find the Longitudes mechanicallie: and how to make a
+Map or Chart of any Region, Country, Shiere, and all the places of note
+within them, very exactlie.
+
+The form of the Horselitter.
+
+
+
+It will be also necessary to place a scale of the same proportional even
+^arts, were they miles, Furlongs or pases, by which you made your said Plot or
+Map, in the most convenient spare place: and if you will also, a Fly containing
+the points of the Compass duly situate will not be impertinent.
+
+A Corollary.
+Then it follows by the same reason, using only a Chayne-lyne of 2.3. or 4.
+perch length, in the stead of the Horselitter, to measure the distances
+between the several angles, and an Instrumente with sights (as the
+Cosmodelite herein mentioned, or such (...) a perfect: Magneticall needle, to
+expresie (upon a Fly placed underneath the same) the degrees or points of the
+Compass intersected when the said sights shall be directed unto or respect
+the several angles, euerally; with which and the quantity of pearches,
+contained between the several angles distinctly noted, and the same then
+protracted in all points according to the formen instructions, you may truly
+describe any field, Manor, Park, forest wood, or Fortification, in a Chart,
+Map or Plat, very exactly.
+
+Corollarie. II.
+Likewise to find the Longitude of any place at Sea, mechanically; there may be
+an engine made and joined to the side of the Ship, having a wheel finned (like
+the wheel of a water mil) and hanged in a Cha^nel (made of boards) with Circles
+like the marine Compass, to the end it may always hang level in the said
+Channel, and so move by means of the water passing through the same; it being
+both at the entry and issue narrow, and wide in the midst to withstand the
+billows and waves, which would otherwise hinder the proportional turning of
+the said wheel: which may also with an Index in the manner of that of the
+Horselitter, express how much the Ship shall have made way, from the time of
+setting forth, alteration of the course, or from watch to watch: which together
+with true notes of the several courses by what point of the C^opasse the Ship
+has performed her way, and in all things (in this practice) imitating the
+fore-taught operations for the Hoslitter, the true description of the course
+and quantity of Leagues, with the angles and turnings, that such a Ship shall
+make, fr^o time to time in a whole voyage, shall by these means be truly set
+forth and kept, in the manner of a Trauerse. And at any time applying the same
+on the Sea Chard or plat, the Longitude and Latitude of any place in the same
+will be presently found, together with the true place where the same Ship for
+that time is, or was at any time in the whole voyage; and how far distant
+from any Haven, Island, Sands, Rocks, or dangers described in the said Map or
+Seacard.
+
+Annotatio. How the Master or Pylot at Sea may, with any Instrument, much more
+exactly observe the Celestial luminaries, then the ordinary manner can admit.
+I Cannot here omit, though in digressing manner, to set down a means written
+by an excellent French Author, (from whom I confess I gathered many flowers
+to decorate this small posie,) whereby the Seame^ may, notwithstanding the
+heauing and setting of the Ship, with much more exactness observe, with their
+Instrument, the Sun, Stars and any Celestial Luminary, then their ordinary
+and usual manner can permit, For by mine own practice I continually found it
+almost impossible (in a calm excepted) to make any exact observation, by
+reason of the violent shaking of the body, caused by the continual agitation
+of the Ship. First then in some convenient place in the Ship, there must be
+two small p^^^es of Timber, of 4. feet a piece in length, set upright 4. or 5.
+feet distant one from another, to support, at the upper ends of them, two
+great Iron circles hanged like the brass circles of the marine Compass:
+within which Circles there may be a seat and Table so placed, as that the
+Obseruor (being entered therein) may hang steady and leauel, although the Ship
+it self do heave and set, and shall be able thereby more perfectly to observe
+any Celestial Luminary with exactness. And the whole frame may be so made,
+that it may be taken asunder, and set up and down at pleasure, to avoid
+inco^brance.
+
+The making of the Cosmodelite, an excellent Instrument for many Mathematical
+practices in Astronomy, Geometry, and Cosmography, viz, for the finding of the
+Longitude of any place; To take any Altitude Latitude or distance within the
+Angle of sight; To make a Map or Plat of any Country, Manor, field,
+fortification or Town; To delineate Sun dialls upon all planes given, with
+great facility, invented by the Author.
+WHether you will have your instrument of Brass or fine grained Wood, you
+must frame a Circle of five or six Inches Diametre at the least, within the
+Lymbe of which, you may describe and engraue certain Circles one within
+another, (for several uses): one of which Circles shall be divided into 360.
+equal parts or degr^^s, which shall serve for astronomicall and (...)
+^eometricall observations; another of the said circles shall be divided into
+24. equal parts, (and each of them again into subdiuisions, as halves and
+quarters) which shall both serve of it self for an Equinoctial Dial, being
+inclyned to the inclination of the Equator; and also most readily to delineate
+all Sun Dialls, Murall and Horizontall, as in the Proposition preceding is
+fully taught. Then shall you make an Index of the length of the whole Circles
+Diametre, whose fiduciall line may serve for each several inscribed Circle,
+and crect a sight near unto each end thereof. Then also make a Semicircle
+about three inches Diametre, leaving some part more then a Semicircle above the
+Diametre thereof, both for the better joining the same under the Circle, which
+must be done directly under one o^ the Diametres, and for the better scope to
+eleua^^ or embase the same; The lymbe of which Se^^circle you shall divide into
+180. equal parts or degrees, viz, each Quadrant into 90. There must be also a
+piece of the same substance so framed, as that the Semicircle may, as between
+two Cheeks or supporters, move up and down to any inclination, upon a pin
+which must pass through the Center of the Semicircle and heads of the said
+Cheeks or supporters, and must have at the smaller end a Nut and screw to lock
+the same at pleasure; and the said Cheeks must have a fiduciall edge, to note
+in the Lymbe of the Semicircle the elevation and inclination of the great
+C^^^e, when occasion shall require. Furthermore the lower end of the Cheeks
+must be joined to the staff (which must support the whole) as the two feet
+of a pair of Compasses, or rather as the legs of the Sector or Circumferental
+Scale are joined together, with three round planes to make one joint head: the
+two outmost of those planes we will call Ears, and do differ only from the head
+of a Sector in a pin which is to pass through the Center carrying a double
+Index at one end thereof, and the other end must be fitted to a screw nut, to
+lock the same fast when you please: also the middle part of the same pin must
+be square; yet round toward each end, fitted to the three holes in the Ce^tre
+of the three round planes, the hole of the middle plane being square to the
+end, when the Instrument is inclyned; that then this ^quare hole may, by reason
+of the squarenesse of the ^iddle of the Pin, carry the said double Index with
+it proportionally Circular upon that ear whereon it mooues: whose Lymbe, being
+likewise divided into degrees, will express there the true quantity of such
+inclination. And it is also very necessary to place, on the Center of the great
+Circle and Index thereof (after the usual manner) a box with a perfect
+Magneticall needle therein, and a fly fixed in the bottom, exactly divided into
+degrees and Rombes, having the variation of the compass for the place of
+observation always noted therein. Thus is the Cosmodelite fitly prepared ^o
+perform your expectation in any Mathematical observation. The figures of each
+part, before mentioned, follow here demonstrated.
+
+diagram
+
+The great Circle is A, the Index thereof C, and the sights for the same Index
+K K: the Semicircle is B, which is to be joined directly under the Diametre L
+M. The piece with two Cheeks is E, the upper pin and screw thereof, I: the
+lower end of the same piece, being the middle plane with a square hole at the
+Center, D; the other two planes joined to the Staff F: the pin for the same
+and the screwes thereof are G and H: the box with a Magnetical needle P, to be
+placed on the Center and Index. All which joined together is represented by the
+figure at N.
+
+Here could I further add two other necessary parts unto the said
+Instrument: one whereof, for ^^e making of a Cherographicall description, on a
+^^^p or Plat, of all the angles in sight, at one sole sta^^^^. The other, by two
+several stations, (without ^^ng the respecting lines by degrees, points of
+(...) Compass, or parts of either; and without the (...) of Protractor, or any
+arithmeticall notations) ^^eally to describe on the said Instrument all the
+notable places, which at these two stations were to be seen: according to
+their true distances and situations, each from other. All which and many other,
+if I shall find these acceptable, I will hereafter either generally publish, or
+particularly explane to any true well willer of these practice. Also I might
+here apply the use of this Instrument to measure all visuall distances within
+the Angle of sight, and how to carry a Rolling trench under Ground directly
+unto any place appointed to be undermined with infinite other necessary
+conclusions: But because the most of them have been already taught how to be
+performed by other instruments (not so general as this) I therefore presume,
+the ingenious practiser will with so much ease apply them hereunto as it might
+seem superfluous for me here to iterate the same.
+
+How by the help of the Cosmodelite to delineate a Sun Dial, on any Plane
+given, with great facility and without the use of Arithmetic.
+PLace the Cosmodelite so upon his foot, as that it may be near unto the
+Plane or wall whereon you desire to draw your Sun Dial, being se^ so directly
+upright, by the help of a Plummet (...) otherwise, that the planes of the
+Ears thereof be (...) perpendicular to the Horizon: that done, lock fa^^ the
+said Ears with the screw and nut. Then by the Magneticall needle or
+otherwise, place the line of 12 (in the Instruments great Circle) directly in
+the Meridian line of that place: and (by the Semicircle and degrees thereof)
+embase the North part of the same great Circle, so many degrees as the North
+part of the Aequinoctiall is embased under the Horizon, and so shall the plane
+of the great Circle be found to be in the true plane of the Equator of the
+world, which it here represents. Thus all parts of the Cosmodelite being
+fast locked, it is readily prepared to delineate a Sun Dial on any plane,
+against which it is placed as above said. To practice this Proposition you
+shall first (the Cosmodelite placed according to the former directions) fasten
+in the Center of the great Circle, a thread of 5. or six foot in length, and
+erect the same perpendicular to the plane of the same great Circle; extending
+it so far, as it may intersect the given Plane, and therein note a point or
+prick; which prick shall be both a Ce^tre to the hour lines, and also the
+point from which the Style or Ostens^r for the same Dial must proceed: and
+the same line, so erected, does also well demonstrate unto you the very
+fiduciall edge of the Ostensor or style: These things performed, you have now
+no more to do for the setting ^^rth of the hour pricks in the said Plane, but
+to (...) the said three^ strait, upon each of the hour ^es engraued on the
+Instrument, and to extend ^^e same forth so far, at each time, as it may touch
+and make so many seu^rall pricks as there will fall hour lines (in that manner)
+on the said Plane: as for such hours whereon the thread being applied, and
+infinitely extended, will not yet any where intersect the said Plane, it is
+certain that those hours cannot be found on that Plane, by the shadow of the
+Sun. All the pricks being so set down, on the Plane, that will fall thereon;
+you must then draw a strait line from the first described prick, to each of
+the other pricks, and those shall be the hour lines, for the same Dial,
+truly described. Then an Ostensor or Style having his fiducial edge and being
+placed according to the former instruction, and the figures for each hour set
+down at the end of each of them, to distinguish them one from another: you
+shall so have descrybed an exact Sun Dyall, Perspectiuelie. Note that if, in
+the erecting of the thread perpendicular to the plane of the great Circle, it
+happen to be parallel to the plane (on which you have described your Sun
+dyall as aforesaid) and so will no where intersect the same plane; Then must
+the Ostensor or Style be also parallel, and of such distance from the plane
+given as the perpendicular erected thread extended is. Thus may you by the
+help of the Cosmodelite delineate a Sun Dial, Direct, Inclyning, Declyning,
+or Reclyning, on any Plane, or H^rizon given.
+
+Master Robert Smyth his intention to delineate a Sun Dialll on any Plane in
+any one Parallel given, with a Instrument of slight charge.
+FIrst draw a Quadrant, and divide the Arch thereof into 90. equal parts or
+degrees, and extend a strait line from the Center or square angle of the same,
+unto the degree in the arch answering the Latitude of the parallel given;
+prolonlonging the same line, beyond the Arch or lymbe, some 6. or 8. inches, or
+more or less at pleasure. Also extend the Base line of the Quadrant as far
+as you think fit (for the bigness of your instrument) and at the end of the
+same line erect a perpendicular which may intersect the first extended line. So
+shall the said perpendicular, the Base, and the line drawn by the degree of
+Latitude, describe unto you a rectangled Tryangle. Then draw a Circle (whose
+Dyametre may be about half the length of the Base line of the Tryangle
+aforesaid) and divide the Circumference of the said circle into 24. equal
+parts: in the Center of which Circle you shall fix a thread of 4. or 5. feet
+in length: The said Tryangle and Circle being then cut out of some thin board
+of fine grained wood, and the circle let on, upon the side of the Tryangle
+which subtendeth the square angle, so far as that the center of the circle
+may touch or exactlie join to the said line, and the plane of the circle stand
+square to the said ^yne, and the divisions being distinguished Arithmetically
+from 12. to 12. as appears in the figure following: The said Instrument is
+ready to perform the promised effect in manner following.
+
+diagram
+
+The use and practice of the said Instrument.
+
+Place and fasten your Tryangle upon or near unto the Plane on which you
+purpose to draw the Sundiall, in such manner as that the side E F may be
+perpendicular unto the Horizon, and the line E A directly in the Meridian line
+of the place: so shall the line A F be found to represent the Axis of the
+world; and the circles circumference to be exactly in the Plane of the
+Aequinoctiall. Then have you no more to do, but apply the thread on so many of
+the 24. divisions severally, as, being infinitely extended, it note in the
+plane given, so many touch points as there can be hours found by the Suns
+shadow upon the said plane: And drawing strait lines from the point in the
+plane, (which the line A F of the Tryangle respects) unto each of the said
+touch points, such lines shall be the true hour lines to express the exact
+hour of the day, by the shadow of an Ostensor or Style; which must be placed
+to carry the true form of the said line A F of the same Tryangle upon the said
+plane given: Applying also the Arithmeticall characters, corresponde^t to those
+of the circle, upon the hour lines severally, you shall so have delineated a
+perfect Sundiall upon the Plane given.
+
+The making of an artificial Engine, whereby with a small strength given, you
+may lift up any ponderous weight assigned
+WHen Hieron (King of Sicilia) had builded a a Ship of such admirable
+greatness (to present unto Ptolome, King of Egypt) as that all the inahbitants
+of Syracusia, were not able by any means they could practice, to launch it
+into the water: Archimedes, that excellent Mathematician, caused this engine to
+be framed; whereby the King himself, did with one hand lift up the said
+mighty vessel from the Earth, and set it into the Sea: which although many,
+as well Historiographers, as others, have in their works mentioned; yet none
+have hitherto set down the perfect framing thereof, save only the learned
+Besson; who ha^^ thus left it unto posterity. The Tripaston (for so (...)
+names it) may be composed, of as many wheel and screwes (to turn those
+wheels) as you wi^^ but of four of each at the least. The first screw must
+have a handle to turn about like the handle of a handmyll or grynding stone;
+and so fitted, as being turned round, it may also turn the first wheel, by
+means of the oblique swellings of the same screw, falling between the Teeth
+or Cogs of the said first wheel: which Teeth must be so many in number as may
+be proportional to the strength you would multiply by the same. The Axletree
+of the first wheel must have upon the same a second screw, which may in like
+manner, and proportion, turn a second wheel, and that second a third; which
+third a fowerth, and so infinitely at pleasure. Now if the first screw (by the
+handle) be turned about 20. times, to the turning of the first wheel once: I
+affirm that the said first wheel will lift up as much poyse or burden, as
+the strength of 20. men will extend unto, having a cord fastened to the same,
+and to the Axletree of the said first wheel, and a man to turn about the
+first screw by the handle thereof. The second wheel having the like proportion
+in motion to the first as the first has to the handle, I conclude that the
+second wheel will in like sort raise up 20 times 20 men's strength, which is
+400 men's strength. The third wheel 20 times 400 men's strength, which is 8000.
+The fowerth 20 times 8000 which is 160000 men's strength, and so forth
+infinitely; A thing which to many will seem incredible: but who so will duly
+put the same in practice shall find it fully able to perform the promised
+effect: whereby it appears that it was not without reason, that Archimedes
+affirmed that he could move the whole Globe of the Earth out of her place, if
+he had any firm place in the Air, that could support his said Engine; and
+thereupon made this Problem, Datum pondus datis veribus mouere. But here may
+some make question, if the slowenesse of this Engine cannot by some Artificial
+means be hastened: to which I answer it may, by taking away one or two of the
+last wheels screwes and Axis, and in their places so use common Pullies,
+whereof Vitruuius writes in his tenth book and third Chapter: which Pappus in
+his Annotations upon the Mechanics of Archimedes affirms to have also
+infinite force, with great celerity. Thus much may suffice for the framing of
+this Engine, whose benefit may be extended to infinite necessary uses: Only I
+will here demonstrate in the figure following the form of the said Screwes and
+wheels.
+
+diagram diagram
+
+Brief Expositions of the Geometrical and Astronomicall terms mentioned in
+this Treatise.
+A line is a length without breadth or deepnesse. Line
+A Superficies or Surface has only length and breadth without deepenesse.
+Surface
+A plane is equally flat, contained within lines, Plane
+and does not bulk out or shrink in at any place: and is said to be
+represented, when a like figure has an absolute like situation and
+constitution. An Angle is the concourse of two or more several lines in one
+same point: Angle
+And is given when the degrees of the subtending arch thereof is known. A
+right or square angle, Right angle
+is when two lines fall square one upon another, making all the angles framed
+thereby equal. A Sharp or acute angle, Sharp angle
+is any angle that is less then a square angle. A Blunt or Obtuse angle, Blunt
+angle
+is any angle that is greater then a right or square angle. A Triangle is a
+Figure of three Corners or angles: Triangle
+And is given, when the quantity of all the Angles and sides are known. A
+Circle is a round Figure, Circle
+made by the turning of a line upon a point fixed. The Circumference of a
+Circle is the outmost edge or lymbe of the Circle, Circumference
+being in all places equidistant from the aforesaid fixed point. Any part of a
+Circumfere^ce is an Arch; An arch is given, Arch
+when the degrees contained therein are known. The Center is a point in the
+midst of a Circle, Center
+Globe, or Sphere. The dyametre of a Circle is the longest strait line that
+can be drawn within a Circle, Diametre
+and it passes through the Center from side to side: Semidiametre
+The half thereof is the Semidiametre. A great Circle is that which divides
+the world into two equal parts. Great
+Circle
+The edge or Lymbe thereof containing 360. equal parts or degrees. Degree
+A Degree is therefore 1/360 part of a Circle. The Equator or Aequinoctiall is
+a great Circle, Equinoctial.
+girding the world in the midst between the two Poles. The Zodiac is a great
+Circle broad and slopewise situate, Zodiac
+bearing the 12 Signs. In the midst of which Circle is a line called the
+Ecliptic, Ecliptic
+from which the Sun never swarueth. The Meridian is a great Circle passing
+through the Zenith and Poles of the world, Meridian
+being always permanent, though the Sphere be moved. The Horizon is a great
+Circle, Horizon
+dividing the world (according to sense) into 2 equal parts; viz, the Superior
+seen, or Diurnall Hemisphere; and the inferior unseen, or Nocturnall
+Hemisphere. Azimuthes, Azimuthes
+or Circles vertical, are great Circles, and pass through the Zenith
+intersecting the Horizon with right angles. Almicanterathes or Circles of
+altitude, Almicantares.
+are Circles parallel to the Horizon: and are greatest, being nearest the
+Horizon; and least, being nearest the Zenith. The Axis, or axletree of the
+world, Axletree
+is a line supposed to pass through the Center of the Earth: the extremes or
+ends of which line are the Poles of the world: viz, the North end the Pole
+artick, and the South end the aniartick. There is North Latitude, and South
+Latitude of places: Latitude of places.
+For all places between the Equinoctial and the North pole have North Latitude;
+and between the Equinoctial and the South Pole have South Latitude. The
+Longitude of the Earth is as the Circuit of the Equator in the Heavens.
+Longitude of places.
+And is divided into 360 even parts or degrees. Any two places, being less
+then 180 degrees distant, have one same Longitude, if they be under one same
+Meridian; Otherwise they have different Longitude. Any two places having like
+Latitude (being both North, or both South Latitude) are in one same Parallel.
+The vertical point or Zenith is a point in Heaven directly over our heads,
+Zenith.
+and is the Center or Pole of the Horizon. The Oposite point is the Nadire
+(...) Nadir.
+The Paralax, or difference of Asp^^^ (...) a Comet Planet or other Luminary,
+Paralax.
+is the angle (...) intersection of the Line of the true Place (...) place
+thereof reckoned in the Firmament.
+FINIS.
+Faults escaped, in the original Copy, it self.
+Page 10. in the line of the figure A C write G at the upper end of the arch D,
+and at the star * write Q. And page 11. line 10, for, as the arch E C does at
+E, read as the arch B C does at B; and in l. 15 for point E read point B; and
+l. 26 for side A C on C, read A Q on Q: And 1. 27, for side A C at the point
+A, read side A Q at the point D. And page 12. l. 1 for the point A of the line
+A C, read the point G of the line A Q, And l. 2 for arch A D which will fall
+in E, read arch G D which will fall in D; l. 3 for from C read from Q. l. 4.
+for point E read point D, l. 6 for angle A K C read A K Q.
+
+

@@ -1,0 +1,216 @@
+A MOST PLAIN and easy way for the finding of the Suns Amplitude and
+Azimuth, and thereby the Variation of the Compass, by Logarithme.
+
+Written by W.B.
+
+Also another plain way for the Azimuth, by the Table of Sines in five
+several Cases. By I.T.
+
+Of the Variation of the Compass.
+THe Variation of the Compass, is the difference between the true Meridian of
+the world, and the Meridian of the Loadstone, which is pointed out by the
+Compass or Needle; and is for the most part variable, as you sail to
+different places; But fixed and permanent being the same, always in one and the
+same place; (although there may be difference in the touch of the Stone, and in
+the observations of different men)
+
+Now for the finding of this Difference or Variation, the usual and most
+easiest way; is by taking the Suns Amplitude at rising or setting, and
+compared with the true; But this way serves chiefly in all places not far
+distant from the Equinoctial, whose Latitude is not great; For if you were to
+sail far to the South or North, near or beyond the Artict or Antartict
+Circles, it were of no force at all;
+
+The other way commonly used, is by taking the height or Almicanter of the
+Sun, and at the same time the Azimuth also, which is in use from each Pole to
+30. or 40. degrees of Latitude, and at any place where the Sun does not
+usually rise and set clear, for in diverse places you shall not see it rise or
+set, yet seldom but it may be seen either forenoone or afternoon: Now the
+working of both these ways are found diversely; either by Instrument or
+Arethmeticks: But I will here only show the work by Logarithme, which is the
+most easiest of all Arethmaticall work and first of the Amplitude.
+
+To find the Amplitude.
+THe Amplitude or breadth of the Suns rising or setting from the true East or
+West point; is found by Sines thus, As the sine of the Complement of the
+Latitude, is to the sine of the Declination, so is the Radius to the sine of
+the Amplitude;
+
+But in Logarithme, you are only to look the Logar: of the Complement of the
+Latitude, and the Logar: of the Declination; and substract one from the other,
+the remainer is the Logarithme of the Amplitude,
+
+Example.
+Data
+Complement, Latitude -- 40.degrees.30. North Declination -- 20. -- 40. North
+
+I demand the Amplitude?
+
+Comp: Lat: 40.d.30. Loga: -- 4316323 Declinat: 20. 40. Loga: 10414836 6098513
+the Logar: of the Amplitude 32. degrees. 55. and somewhat more.
+
+To find the Azimuth.
+IT is to be considered that in the Doctrine of Triangles, it is required in
+the solution of any question there are three things to be given in any
+Triangle, before the question can be answered, which in this for finding the
+true Azimuth of the Sun; you are to know or imagine your Latitude, the
+Complement thereof is one side of a Triangle (which is the distance between
+the Pole and the Zenith) the Complement of the Suns Declination is another
+side of the same Triangle (which is the distance between the Sun and the
+Pole) then is the Complement of the Almicanter the other side (which is the
+distance between the Sun and the Zenith.)
+
+Here have you an oblique Sphaericall Triangle whose three sides are known,
+and it is desired to know the angle at the Zenith: whose quantity being found
+is the Suns true distance from the North, (if the north Pole be eleuate) or
+the distance from the South, (if the south Pole be eleuate,) and in this
+question there are two cases.
+
+The first Case.
+THe first is, when you are on the same side of the Equinoctial the Sun is
+on: then are the Triangle sides all less then Quadrants, and may be resolved
+by Logarithme, 2. Book, 6. Chapter, and 8. section: As thus,
+
+Add half the base, and half the difference of the containing sides
+together; and to the Logarithme thereof, add the Loga: of the difference of
+them, out of which sum, substract the sum of the Loga: of the two sides,
+and the half of the remainer is the Loga: of an Arch, which being doubled, is
+the quantity of the angle of the Zenith, or vertical angle.
+
+Example.
+Data
+Latitude North* 51.degrees.30. Declination North 20.00. Almicanter 48. 30.
+
+I demand the Azimuth?
+
+Let P.Z. be the Complement of the Latitude 38.d.30. P.S. being the base, by
+the Comp. of the Declinat. 70.00. S.Z. by the Complement of the Almicanter
+41.30. And let the Angle P.Z.S. be sought for
+
+The form of the Work.
+
+
+P. Z. 38.d.30. Loga. 4739880 S. Z. 41.30. Loga. 4115535 8855415 added.
+
+The difference 3. d. 0. -- --
+
+Difference 1. d. 30.
+
+the base, P.Z. 35. 00.
+
+The 2. former added 36.d.30. Log. 5194916 The same substract. 33.30. Loga.
+5943212 11138128 8855415 2282713
+
+The former 1141357 the Logarit: of the arch 63. degrees. 8. 30. which doubled is
+126. degrees. 17. the Suns true distance from the North: which compared with the
+magneticall; the difference is the Variation.
+
+The second Case.
+THe other Case is, when you are on the one side of the Equinoctial, and the
+Sun on the other; then is the base P. S. more then a Quadrant, and is to be
+resolved by Logar: 2. Book, 6. Chapter, 10. section: Thus,
+
+Add the differentiall of the sum of ye legs; to the differentiall of the
+difference of the legs: and from the Product substract the differentiall of the
+true base, and the remainer shall be the differentiall of the alterne base:
+which alterne base added to the true base is the greater case, M. S. also the
+same subtracted from the same. true base is the lesser case P. M:
+distinguishing two right angled Triangles; which do make known both their
+own parts, and all the parts of the Triangle proposed.
+
+Data Latitude 51. degrees. 30. North I demand the Azimuth? Declination 10. 00.
+South Almicanter 15. 00. --
+
+P. Z. 38. degrees. 30. S. Z. 75. 00.
+
+The sum 113. d. 30. The one half 56. 45. The difference 36. 30.
+differentiall 4221605- The half 18. 15. differentiall 11094182+ The base P.S.
+100. d. 00. 8672577+ Base 50. 00. differentiall 1754259- 8626836 the
+differentiall of 22. d. 53. the alterne base.
+
+Again,
+The true base 50. degrees. 00. The alterne base 22. 53. Added 72. degrees. 53. the
+greater case M.S. Subtracted 27. degrees. 7. the lesser case M.P.
+
+For the Triangle P, M, Z.
+P.M. 27. d. 7. Loga: 7862605 P.Z. 38. 30. Loga: 4739880 3122725 the Logar: of
+the angle P, Z, M. 47. degrees. 2. 30.
+
+For the Triangle M, Z, S.
+M, S. 72. d. 53. Loga: 453035 Z, S. 75. 00. Loga: 346683 106352. the Logar: of
+the angle, M, Z, S, 81. degrees. 40.
+
+Which two Angles so found and added together, makes 128. degrees. 42.. the Suns
+true distance from the North point, from which if you substract 90. the
+remainer leaves 38. d. 42. 30 the distance from the East or West demanded.
+
+1. For the Suns Azimuth having no Declination.
+Add the Complement of the Latitude, to the complement of the Almicanter,
+which if the total be more then a quadrant, substract 90. and set down the
+sine of the remainer for the first number: Again, add the complement of the
+Latitude and the Almicanter, and add the sine thereof to the former: from the
+one half of that total substract your first number or sine, and set down the
+remainer: Then,
+
+As the of the 2. first numbers added is in proportion to ye whole fine, so is
+the said remainer to the sine of the Suns true Azimuth.
+
+Example.
+Latit. 51. d. 30. the Comple. 38.d.30. Almicant. 20. d. Complem. 70.0. Added
+makes 108 d. 30. 90. subtracted, leaves 18. degrees. 30. whose sine 3173. is the
+first number. Again, complement of the Latitude 38. d. 30. Almic. 20. d. added
+makes 58. 30. whose sine 8526. is the second number, those 2. numbers added
+makes 11699. the thereof 5849. from which substract 3173. the first number rests
+2676. for the remain: then say,
+
+As 5849. the of the 2. first numbers is to 10000. the whole sine, so is 2676.
+the remain to the Azimuth desired.
+
+Facit, 4575. whose arch 27. d. 14. is the Azimuth from the East Southward.
+
+2. When the Sun has North Declination, the 2. Complements being equal to a
+quadrant.
+Add the complement of the Latit. with the Almicanter only, and from the sine
+thereof, substract the sine of the Declination, and setting down the remainer,
+
+As the aforesaid, is to the whole sine, so is the remainer aforesaid to the
+sine of the Azimuth desired.
+
+3. When the Sun has North Declination, the 2. Complements less then a
+quadrant.
+Add the complement of the Latit. and the complement of the Almican. setting
+down the sine of the complement thereof, then add the Almicanter and the
+complement of the Latitude, and from the sine thereof substract the former,
+setting down. of the remain for the first found number: again substract the
+sine of the first Complement from the sine of the Declination and the remain
+thereof, again substract from your first found number, and set the remain
+thereof down for your second number: and then,
+
+As the first found is to the whole sine, so is the second to the Azimuth
+desired.
+
+4. When the Sun has North Declination, and the 2. Complemements more then a
+quadrant.
+Add the complement of the Latitude and complement of the Almicanter, which
+being more then 90. substract 90. and set down the sine of the remainer, then
+add the Almicant. and complement of the Latit. and set down the sine thereof,
+add both the sines together and take the thereof for the first found number,
+then to the sine of the first 2. complements add the sine of the Declination,
+and from that total substract the first found, and set down the remainer for
+the second found: and then,
+
+As the first found is to the whole sine, so is the second found to the sine of
+the Azimuth desired.
+
+5. When the Sun has South Declination, and the 2. Complements more then a
+quadrant.
+Add the 2. Complements, substract 90. set down the sine of the remainer,
+add also the Almicanter and complement of Latitude, add both their sines and
+set down of the total for the first found, then substract the sine of the
+Declination from the sine of the remain of the first 2. Complements, and that
+remain again from the first found, which last remain set down and say,
+
+As the first found is to the whole sine, so is the second found to the sine of
+the Azimuth desired.
+
+

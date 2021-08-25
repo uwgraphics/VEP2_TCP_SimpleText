@@ -1,0 +1,890 @@
+THE ART OF DIALLING; BY A NEW, EASY, AND MOST SPEEDY WAY.
+
+SHOWING, HOW TO DESCRIBE THE Houre-lines upon all sorts of Plains, Howsoever,
+or in what Latitude soever Situated: As also, To find the Suns Azimuth,
+whereby the sight of any Plain is examined.
+
+Performed by a Quadrant, fitted with lines necessary to the purpose.
+
+Invented and Published by SAMVEL FOSTER, Professor of Astronomy in Grosham
+College.
+
+LONDON, Printed by John Dawson for Francis Eglesfield, and are to be sold at
+the sign of the Marigold in Paul's Churchyard. 1638.
+
+To the Reader.
+READER,
+HEre is presented to thy view a short and plain Treatise; it was written for
+mine own use, it may become thine if thou like it; The subject indeed is old;
+but the manner of the Work is all new. If any be delighted with recreation of
+this nature, and yet have not much time to spend, they are here fitted, the
+instrument will dispatch presently. If they fear to lose themselves in a
+wilderness of lines, or to outrunne the limits of a Plain, by infinite
+excursions (two inconveniences unto which the common ways are subject) they
+are here acquitted of both, having nothing to draw but the Dial it self,
+contracted within a limited equicrurall triangle. If want of skill in the
+Mathematics should deter any from this subject, let them know that here is
+little or none at all required, but what the most ignorant may attain. If
+others shall think the Canons more exact; so do I, but not so easy to be
+understood, not so ready for use, not so speedy in performance, nor so well
+fitting all sorts of men: and withal an instrument in part must be used, this
+will do all, and is accurate enough. If it must needs be disliked, let a
+better be showed and I will dislike it too; It is new, plain, brief, exact,
+of quick dispatch. Accept it, and use it, till I present thee with some other
+thing, which will be shortly.
+
+Imprimatur.
+
+December. 1. 1637. SA. BAKER.
+
+
+
+
+
+THE DESCRIPTION OF THE QVADRANT, and the manner how the lines are inscribed
+and divided.
+CHAP. I.
+1. The description of the fore-side.
+THe limb is divided into 90 degrees, and subdivided into as many parts as
+quantity will give leave. The manner of division, and distinction of the
+subdivided parts is such as is usual in all other Quadrants.
+
+To describe the other Work in the superficies; Take from the upper edge of
+the limb about 3 degrees, and set off that space from the center R to A.
+
+Then divide AE into seven parts, whereof let EB contain two. Or in greater
+instruments, if AE be 1000. let EB contain 285. Make SC equal to EB, and
+draw the line BC. From C, draw CD parallel, and of equal length to AB. Upon
+AB and CD, and BE also (as far as it is capable) insert the 90 sines, from B
+toward A and E, and from C toward D, but let them be numbered from A unto B to
+90, and so to E 113 degrees 30 minutes, from D to C unto 90 degrees.
+
+Again: Draw ES cutting CD at F; so shall BCFEB contain a parallelogram,
+whose opposite sides, being parallel, are divided alike, and in this manner. BE
+and CF as whole sines, do contain the 90 sines, or as many of them as can
+distinctly be put in: and from the divisions are drawn parallel lines, having
+every tenth, or fifth, distinguished from the rest. These serve for the 12
+Signs and their degrees, and therefore you see upon every 30th degree, the
+characters of the 12 Signs inserted, in such manner as the figure shows. And
+these lines may be called, The Parallels of the Suns place.
+
+In like manner, The lines BC, OF, being first bisected at X and Z, shall make
+4 lines of equal length. These 4 lines XB, XC, ZE, and ZF, are each of them
+divided as a scale of Sines, beginning at X and Z, and from each others like
+parts are parallel lines protracted, having every tenth and fifth distinguished
+from the rest. They are numbered; upon BC, from B to X 90, to C 180; upon FE,
+from F to Z 90, to E 180. These lines are called, The lines of the Suns
+Azimuth.
+
+This done; Upon the center R describe the two quadrants VT, and BC, let their
+distance VC be one sixth part of Rc, or more if you will.
+
+Divide them each into 6 equal parts, at e, o, y, n, s; and a, i, u, m, r,
+drawing slope-lines from each others parts, as Va, ei, on, ym, nr, sb: and
+these lines so drawn are to be accounted as Hours. Then dividing each space
+into two equal parts, draw other slope-lines standing for half hours, which
+may be distinguished from the other, as they are in the figure.
+
+Then from the points V and T draw the right line VT.
+
+Lastly, Having a decimall scale equal to TR, you must divide the same TR into
+such parts as this Table here following allows, the numbers beginning at T,
+and rising upto 90 at R.
+
+Upon your instrument (for memory and directions sake) near to the line AB,
+write, The sum of the latitude and Suns altitude in Summer; The difference
+in Winter.
+
+Over VT, write, The line of Hours.
+
+Near to CD write, The sum of the latitude and Suns altitude in Winter;
+The difference in Summer.
+
+By TR, write, The line of latitudes for the delineation of Dialls.
+
+A Table to divide the line of Latitudes.
+90 10000 62 9360 46 8259 30 6325 14 3325 85 9982 61 9311 45 8165 29 6169 13
+3104 80 9924 60 9258 44 8068 28 6010 12 2879 78 9888 59 9203 43 7968 27 5846 11
+2650 76 9849 58 9147 42 7865 26 5678 10 2419 75 9825 57 9088 41 7738 25 5505 9
+2186 74 9801 56 9026 40 7647 24 5328 8 1949 72 9745 55 8962 39 7532 23 5146 7
+1711 70 9685 54 8895 38 7414 22 4961 6 1470 69 9651 53 8825 37 7292 21 4772 5
+1228 68 9615 52 8753 36 7166 20 4577 4 984 67 9378 51 8678 35 7036 19 4378 3
+739 66 9519 50 86^^ 34 6902 18 4176 2 493 65 9496 49 8519 33 6764 17 3969 1 247
+64 9454 48 8436 32 6622 16 3758 0 ^ 63 9408 47 8348 31 6475 15 3543 S^
+
+2. The description of the backe-side.
+Upon the backe-side is a circle only described, of as large extent as the
+Quadrant will give leave, noted with ABCD, divided into two equal parts by the
+Diameter AC.
+
+The semicircle ABC is divided into 90 equal parts or degrees, every fifth and
+tenth being distinguished from the rest by the longer line; They are numbered by
+10, 20, 30, etc. unto 90. The same parts are also projected upon the diameter
+AC, by a ruler applied to them from the point D. These are numbered also from A
+to C by 10, 20, etc. unto 90.
+
+The other semicircle ADC, is first divided into two Quadrants at D. And then
+upon these two quadrants are inscribed 90 such parts as this Table ensuing does
+allow. The inscription is made by help of a Quadrant of a circle equal to AD
+or CD, being divided into 45 equal degrees, out of which you may take such
+parts as the Table gives, and so prick them down, as the figure shows.
+Every fifth and tenth of these parts is distinguished from the rest by a longer
+line; they are numbered from A and C, by 10, 20, etc. unto 90 ending in D.
+
+A Table to divide the upper and nether Quadrants of the Circle.
+1 1.00 14 13.36 27 24.25 40 32.44 53 38.37 66 42.25 2 2.00 15 14.31 28 25.09
+41 33.16 54 38.59 67 42.38 3 3.00 16 15.25 29 25.52 42 33.47 55 39.19 68 42.50
+4 3.59 17 16 18 30 26.34 43 34.18 56 39.40 69 43.02 5 4.59 18 17.10 31 27.15 44
+34.47 57 39.59 70 43.13 6 5.58 19 18.02 32 27.55 45 35.16 58 40.18 72 43.34 7
+6.57 20 18.53 33 28.35 46 35.44 59 40.36 74 43.52 8 7.55 21 19.43 34 29.13 47
+36.11 60 4054 75 44.00 9 8.53 22 20.32 35 29.50 48 36.37 61 41.10 76 44.08 10
+9.51 23 21.21 36 30.27 49 37.03 62 41.27 78 44.22 11 10.48 24 22.08 37 31.02 50
+37.27 63 41.43 80 44.34 12 11.45 25 22.55 38 31.37 51 37.51 64 41.57 85 44.53
+13 12.41 26 22 40 39 32.1^ 52 38.15 65 42.11 90 45.00
+
+Thus have you both sides decribed. Besides all this, there are two sights
+added, with a thread and plummet like as in other instruments. The thread has
+a moovable bead upon it for special use. The same thread passes through the
+center R. quite behind the Quadrant, and is hung upon a pin at the bottom of
+the Quadrant, noted with W. The reason of the threeds length will be seen when
+we come to the uses of the instrument.
+
+CHAP. II.
+The use of the Quadrant in general.
+FIrst upon the fore-side. The limb serves especially for observation of all
+necessary angles.
+
+The lines AE, CD, with the Parallelogram BCEF, are to find out the Suns
+Azimuth in any latitude whatsoever.
+
+The slope-lines within the arkes VT, cb, by help of the thread and bead, do
+serve artificially to divide the line of Hours TV, into its requisite parts;
+which together with TR the line of latitudes, do serve to protract all plain
+Dialls howsoever situated.
+
+Secondly upon the backside. Note that ABC is called the Semicircle: AC is
+called the Diameter: AD the Upper quadrant: CD the Nether quadrant.
+
+The uses of these are to find out the necessary arkes and angles, either for
+preparation to the Dialls description, or serving after for the Dialls
+situation upon the Plain.
+
+In all these uses the thread bearing part, and therefore having asufficient
+extent of length, that being loosed it may with facility reach over either side
+of the Quadrant.
+
+CHAP. III.
+To find the Azimuth of the Sun in any Latitude whatsoever.
+BEfore you can make any draught of your Dial, you must know the situation of
+your plain, both for declination and inclination. The best way to come to the
+plains declination is by help of the Suns Azimuth.
+
+By having the Latitude of the place; The place of the Sun in the Eclipticke,
+and the altitude of the Sun above the Horizon, you may find out the Azimuth
+thereof in this manner.
+
+Add the Suns altitude, and your latitude together, and substract the lesser
+of them from the greater; So shall you have the sum of them, and the
+Difference of them. With this sum and difference, come to your Quadrant, and
+according to the time of the year (as the lines will direct you) Count the
+said Sum and Difference respectively, and applying the thread unto them, find
+out the Suns place in the Parallels serving thereto, and where the thread
+cuts this Parallel, observe the Azimuth there intersecting, for that is the
+Azimuth from the South, if you number it from the line whereon the sum was
+numbered.
+
+Example 1. In the North latitude of 52 gr. 30 min. in the Summertime the
+Sun entering into 8, and the altitude being observed 30 gr: 45 min. I add the
+latitude 52 gr. 30 min. and the Suns altitude 30 gr. 45 min So I find the
+sum of them 83 gr. 15 min. and substracting the lesser of them from the
+greater, I find the difference of them 21 gr. 45 min. The sum I number in the
+line AE, and the difference in DC (because it is in Summer) and to the terms I
+apply the thread, and where it crosses the parallel of the beginning of 8,
+there I meet with 66 gr. 43 min. which is the Azimuth from the South, being
+reckoned from the line AE whereon the Sum was counted.
+
+Example 2. The latitude and Suns place being the same if the altitude had
+been 9 gr. 15 min. The sum of the latitude and altitude would be 61 gr. 45
+min. The difference 43 gr. 15 min. and so the thread applied to these terms
+would have showed 96 gr. 52 min. for the Azimuth from the South.
+
+A third Example. In the same Latitude of 52 gr. 30 min. in the Wintertime,
+the Sun entering the tenth degree of, and the altitude being 9 gr. 30 min. I
+would know the Azimuth of the Sun from the South. I add the Altitude 9 gr. 30
+min. to the Latitude 52 gr. 30 min. and so find the sum of them 62 gr. 0 min.
+And substracting the Altitude out of the Latitude, I find the Difference of
+them 43 gr. 0 min. The sum (because it is in Winter) I count upon the line DC
+in the Quadrant, and the Difference upon AE. So the thread applied to these
+terms cutteth the tenth of, at 49 gr. 50 min. which is the Azimuth numbered
+from DC the South.
+
+The Amplitude.
+Note here by the way, That the thread applied to the Latitude of your place
+numbered upon both lines AE, DC, will show you, for any place of the Sun, the
+due Amplitude of his Rising or Setting, or the Azimuth whereon he rises or
+sets, if you number the same from the middle line noted with XZ which here
+represents the East and West Azimuths.
+
+CHAP. IIII.
+To find out the Declination of a Plain.
+THe declination of a Plain is numbered from the South or North points toward
+either East or West. And it is the arc of the Horizon comprehended between
+the South-North, and a line infinitely extended upon the Horizon perpendicular
+to the horizontall line of the Plain; which line may be called the Axis, and
+the extremity of it, the Pole of the Plains horizontall line.
+
+To find out this declination you must make two observations by the Sun: The
+first is of the Distance or angle made between the Axis of the horizontall
+line of the Plain, and the Azimuth wherein the Sun is at the time of
+observation. The second is of the Suns Altitude. Both these observations should
+be made at one instant, which may be done by two observers, but if they be
+made by one, the less distance of time between them, will make the work to
+agree together the better.
+
+1. For the Distance. Upon your Plain draw a line parallel to the horizon, to
+this line apply the side of your Quadrant, holding it parallel to the horizon.
+Then holding up a thread and plummer, which must hang at full liberty, so as
+the shadow of the thread may pass through the center of the Quadrant, observe
+the Angle made upon the Quadrant by the shadow of the thread, and that side
+that lies perpendicular to the horizontall line, for that angle is the
+Distance required.
+
+2. At the same instant as near as may be, take the Suns Altitude; These two
+being heedfully done, will help you to the plains Declination by these rules
+following.
+
+When you have taken the Altitude, you may find the Suns Azimuth by the
+former Chapter. Then observe, whether the Sun be between the Pole of the
+horizontall line and the South North
+point or not.
+
+If the Sun be between them, add the Azimuth and Distance together, and the
+sum of them is the Declination of the plain.
+
+If the Sun be not between them, subduct the lesser of them from the
+greater, and the difference shall be the Declination of the plain.
+
+By your observation you may know to what coast a Plain declineth.
+
+For if the South North
+point be in the midst between the Suns Azimuth and the pole of the Plains
+horizontall line, then does the Plain decline to the coast contrary to that
+wherein the is: If otherwise, the declination is upon the same coast with the
+Sun.
+
+CHAP. V.
+To find the Inclination of a Plain.
+THe Inclination of a Plain is the angle that it makes with the Horizon. When
+you have described your horizontall line upon a Plain, as in this figure OF,
+cross it with a perpendicular GH, for the Vertical line.
+
+And because the inclinations of the Upper and Under faces of the Plain, are
+both of one quantity in themselves, if therefore you apply the side of the
+Quadrant noted with AB unto the vertical line of the under face, or to the
+under side of a Ruler applied to the vertical line of the upper face, as is
+here showed in this figure; Then shall the degrees of the Quadrant give you CAD
+the angle of inclination required.
+
+CHAP. VI.
+Of upright declining Plains.
+THose Plains are upright, which point up directly into the Zenith or
+vertical point of the Horizon, and may be tried by a perpendicular or
+plumb-line. In these, as in the rest that follow, before the Hours can be
+drawn, two things must be found; 1. The Rectifying arc; 2. The Elevation of
+the Pole above the Plain.
+
+1. To find the Rectifying arc.
+Extend the thread from your Latitude counted in the upper Quadrant of the
+circle on the backeside, to the complement of the Plains declination numbered
+in the Semicircle; so shall the thread show you on the Diameter the Arc
+required.
+
+2. To find the Elevation of the Pole above the Plain.
+Extend the thread from the Rectifying arc numbered in he upper quadrant, to
+your Latitudes complement taken in the Semicircle; so shall the thread show
+upon the Diameter, the Elevation of the Pole above the Plain.
+
+According to these rules, in the latitude of 52 gr. 30 min. supposing an
+upright Plain to decline 55. gr. 30 min. I find the Rectifying arc to be 28
+gr. 36 min. And the elevation of the Pole above the Plain to be 20 gr. 10
+minutes.
+
+CHAP. VII.
+In East and West incliners.
+THose plains are called East and West incliners, whose horizontall line lies
+full North and South, and their inclination is directly toward either East or
+West.
+
+1. To find the Rectifying Arc.
+Extend the thread from your Latitudes complement taken in the upper quadrant
+of the Circle on the backside, to the complement of the Plains inclination
+counted in the semicircle; so shall the thread show upon the Diameter the Arc
+required.
+
+2. To find the Elevation of the Pole above the Plain.
+Extend the thread from the Rectifying-arke counted in the upper quadrant, to
+your latitude taken in the Semicircle; so the thread upon the Diameter gives
+the elevation of the Pole above the Plain.
+
+Thus in the latitude of 52 gr. 30 min. If a Plain incline Eastward 40 gr. to
+the horizon, the Rectifying-arke will be 35 gr. 58 min. And the elevation of
+the Pole 37 gr. 26 min. above the plain.
+
+CHAP. VIII.
+In North and South incliners.
+SUch Plains are called North and South incliners, whose horizontall line
+lies full East and West, and their inclination is directly upon either North
+or South.
+
+1. For the Rectifying-Arke.
+There is no use of it in these plains, because they all lie directly under
+the Meridian of the place.
+
+2. To find the Elevation of the Pole above the Plain.
+If the inclination be toward the South, add the inclination to your latitude;
+for the sum is the Elevation of the pole above the Plain. If the sum
+exceed 90 degrees, take it out of 180, and the supplement gives you the Poles
+elevation.
+
+If the inclination be Northward, compare the inclination with your latitude,
+and subduct the lesser out of the greater: the Difference is the elevation of
+the Pole above the Plain, If there be no difference, it is a Direct polar
+Plain.
+
+CHAP. IX.
+In declining Incliners.
+THose Plains are called Declining incliners, whose horizontall line declineth
+from the East or West, toward either North or South, and their inclination
+also deflecteth from the coasts of North and South toward either East or West.
+
+The best way to find the Rectifying-arke, and the poles elevation for these
+Plains, will be
+
+First, to refer them to a New latitude, wherein they may lie as East or West
+incliners. For which purpose you are first to find out an Arc, which in
+respect of its use may fitly be called, The Prosthaphaereticall arc, it is
+found by this rule:
+
+Extend the thread from the complement of the Plains declination counted in
+the upper quadrant, to the inclination numbered in the Semicircle; so the thread
+shall give you upon the Diameter the Prosthaphaereticall-arke required.
+
+This Prosthaphaereticall-arke is to be used as the Inclination was in the
+precedent Chapter. For,
+
+If the Plain do incline toward the South, it must be added to your
+Latitude: and so the sum (if less then 90 degrees) gives you the New
+Latitude: but if the sum be greater than 90, then the residue, or supplement
+of it to 180 degrees will be the New Latitude required.
+
+If the Plain incline toward the North, compare this Prosthaphaereticall-arke
+with your Latitude, and subduct the lesser of them out of the greater; So the
+Difference shall give you the New Latitude. If there be no difference, it is a
+declining Polar plain.
+
+Secondly, it will be required to know what Inclination these Plains shall
+have in this their New latitude; and that is done by this rule:
+
+Extend the thread from the Prosthaphaereticall-arke taken in the upper
+quadrant to the Plains declination counted in the Semicircle: so the thread
+shows on the Diameter, the New-inclination in their New latitude.
+
+Being thus prepared, you may now proceed as in East and West incliners you did
+before.
+
+1. To find the Rectifying-Arke.
+Extend the thread from the New latitudes complement taken in the upper
+quadrant, to the New-inclinations complement numbered in the Semicircle; so the
+thread upon the Diameter shows the Arc required.
+
+2. To find the Elevation of the Pole above the Plain.
+Extend the thread from the Rectifying-arke in the Vpper-quadrant to the New
+latitude in the Semicircle; so the thread upon the Diameter gives the Elevation
+of the pole above the plain.
+
+According to these rules, supposing a Plain to incline toward the North 30
+degrees, and to decline from the South toward the West 60 degrees in the
+latitude of 52 gr. 30 min. First I find the Prosthaphi-arke 60 gr. 6 min. and
+because the Plain inclines toward the North; I compare this arc with the
+Latitude of the place, and taking it out of the Latitude there remains 36 gr.
+24 min. for the New Latitude. Then I find the New inclination to be 25 gr. 40
+min. and so the Rectifying-arke 59 gr. 8 min. and the Elevation of the Pole
+above the Plain to be 32 gr. 20 minutes.
+
+CHAP. X.
+To draw the Houre-lines upon the Horizontall, the full North or South plains,
+whether standing upright or inclining.
+IN the four last Chapters we have seen the uses of the Circle on the
+backe-side of the Quadrant: in this and the next Chapter we shall show the use
+of TR the line of latitudes, and of TV the line of Hours; which two lines with
+the help of the limb VCTB, and of the thread and Bead, will serve to prick
+down any Dial, by the Precepts hereafter delivered. And first we begin with
+those Plains which have no declination, whose Poles lie directly under the
+Meridian of the place; of which sort are the Horizontall, the Erect South and
+North plains, with all Incliners looking directly North or South.
+
+Having then by the former Precepts found the Elevation of the pole above your
+Plain, you may begin your draught in this manner.
+
+First, Draw the line RAT of sufficient length, and out of the line of
+Latitudes in your Quadrant, take off the Elevation of the pole above the
+plain, and prick it down from the point A, unto R and T both ways.
+
+2. Take the line of Hours TV also out of the Quadrant, and with that extent
+of your Compasses upon R and T as upon two centers, draw the arkes BV and CV,
+crossing each other in V; and draw the lines RV and TV: then coming to your
+Quadrant again;
+
+3. Apply the thread to every hour point in the limb VT or CB, as first to s,
+or r, so shall it cut the Line of hours TV in 1; Then take off with your
+Compasses T1, and prick it down here from V to 1, and from T to 7. Again,
+Apply your thread to the next hour in the limb at n or m, it will cut the
+Line of hours TV in 2 take off T2, and prick it down here from V to 2, and
+from T to 8. So again, the thread applied to the third noure at y, or u, cuts
+the line TV, in 3; take off T3, and prick it down here from V to 3, and from
+T to 9. In like manner, the thread applied to the fourth hour at o, or i, will
+cut the line TV in 4 take off T4, and prick it down here from V to 4, and
+from T to 10. So also the thread laid upon the fifth hour at e, or a, cutteth
+TV in 5; take off T5, and prick it down here from V to 5, and from T to 11.
+Thus are all the Hours pricked down.
+
+
+
+An horizontull Dial to 52 gr: 30 m: lat:
+
+
+
+Lastly then, laying your Ruler to the center A, through each of these points,
+you shall draw the houre-lines A7, A8, A9, A10, A11, AV which is 12, A1, A2,
+A3, A4, A5, RAT is the line of the two sixes. So having 12 hours, which is
+half the Dial, drawn, you may extend the necessary lines, as many as you
+will, beyond this center, as 5A5, 4A4, 7A7, 8A8, etc.
+
+In the same manner may the half hours be pricked down and drawn, by
+applying the thread to the half hours in the limb, etc.
+
+And note also that in these Plains before mentioned; As the extent from V to
+1, is the same with that from T to 7, so likewise is it the same with V11, R5;
+And as V2 is the same with T8, so likewise is it the same with V10, R4: So
+likewise V9 and T9 are all one, and both equal to R3 and V3. So that the three
+first hours taken from the Quadrant, that is to say, T1, T2, T3, will give all
+the hours for these Dialls. T1, gives V1, V11, R5, T7. T2, gives V2, V10, R4,
+T8. T3, gives V3 or R3, V9 or T9. But in other Plains it is not so, for which
+cause I have rather set down this way before at length, as a direction for
+what comes after, for that is general.
+
+Here note again, that if you desire to make your draught greater, you may in
+your description either double or triple every length which you take in your
+Compasses. And so I proceed to all declining Plains.
+
+CHAP. XI.
+To draw the Hours upon all sorts of declining Plains, whether erect or
+inclining.
+BY the former precepts you must first get the Rectifying-arke, with the
+Elevation of the pole above the Plain. After they are had, you may prick
+down the Hour points in this manner following, little differing from the
+former.
+
+
+
+A Plain* inclininge Eastward 40 gr:
+
+The horizointall line, parallel to the line of 12.
+
+
+
+1. Asbefore; Upon the line RAT, set off the Elevation of the pole above the
+plain, being taken out of the line of latitudes in the Quadrant, from A both
+ways, to R and T.
+
+2. Take the line of Hours TV out of the Quadrant, and with that extent upon R
+and T as upon two centers, describe the two arkes BV and CV crossing at V, and
+draw the lines RV, TV, and AV. Thus far we go along with the last Chapter.
+
+3. If we take the example in the seventh chapter, that plain is the upper
+face of an East incliner, whose Elevation is 37 gr. 26 min. and so much does
+this line TA reach unto in the line of Latitudes: the Rectifying arc is 35 gr.
+58 min. This arc I number below in the limb of the Quadrant ES, and thereto
+applying the thread I observe in the upper limb Vcb T which of the Hours and
+where it cutteth, I find it to cut the slope line o u in the point P; to this
+point P I set the Bead, which by this means is rectified and fitted to the
+description of the Dial.
+
+Here you see the use of the Bead, and the reason why this arc counted upon
+the limb is called the Rectifying arc: and here be careful that you stretch
+not the thread.
+
+4. The thread and Bead being thus placed and rectified, you shall see the
+thread to cut the line TV at a upon the Quadrant; take T a in your Compasses,
+and prick it down here from V to 12, and from R to 6.
+
+Here by the way observe, that because this plain is an Eeast-incliner, the
+face of it looks toward the West, and then if you imagine the true situation
+of this Dial upon the plain whereon it must stand, you will easily conceive
+that the line of 12 is to stand on the right hand from the line AV. and so the
+line of 6 on the left hand, whereas if this plain had faced toward the East,
+the line of 12 must have stood on the left hand, and 6 on the right hand. Your
+own conceit, together with the precepts of the chapter following, must help
+in this, and in other things concerning the right scituating of the lineaments
+of your Dial.
+
+To proceed then,
+
+In the same manner must you apply the Bead to every hour line, as in the next
+place I remove it to the line y m in the Quadrant, and then I see it to cut the
+line TV in b; I take 1 b in my Compasses, and with it do prick down from V
+to 1, and from R to 7. Again, the Bead being applied to the lines nr, sb, the
+thread will cut the line TV upon the Quadrant in c and d; I take the points TC,
+Td, in my Compasses, and prick them down from V to 2 and 3, and from R to 8
+and 9. Then again, the Bead applied to the lines ei, Va, the thread will cut
+the line TV in the points e and o; I take then Te and Tf, and prick them down
+from U ^o 11 and 10, and from R to 5 and 4.
+
+5. Lastly, lay your rule to A, and draw A10, A11, A12, A1, A2, A3, A4, A5, A6,
+A7, A8, A9. Thus have you twelve hours, and if you extend these beyond the
+Center, you shall have the whole 24 hours, of which number you may take those
+that shall be fit for the Plain in this situation.
+
+The half hours may thus be pricked on and drawn also, by applying the Bead
+to the half hours pricked down in Vcb T the upper limb of the Quadrant, for
+so the thread will give you the half hour points upon the line TV, which may
+be taken off, and set down upon the Dial as the hours themselves were.
+
+CHAP. XII.
+How to place the Dial in a right Situation upon the Plain.
+AFter the houre-lines are drawn by the last Chapter, they are to be placed in
+a right situation upon their Plain. Which to do, upon some Plains is more
+difficult than the Description of the Dial it self. To give some directions
+herein, I have added this Chapter, where you have 9* Questions with their
+Answers, giving light sufficient to what is here intended and required: but
+first be admonished of three things.
+
+1. That the inclination mentioned Chap. 8. is the very same in Use with the
+Prosthaphaereticall arc mentioned Chapter 9. And therefore when I mention the
+Prosthaphaereticall arc, because it is of most frequent use, you must remember
+I mean both the Prosthaph: arc, Chap. 9, and the Inclination, Chap. 8.
+
+2. That these rules, though given primarily for places of North-latitude,
+lying within the Temperate, Torrid, and Frigid Zones, yet are also as true, and
+may be applied to all places of South-latitude, if we exchange the names of
+North and South, for South and North.
+
+Here by the way note, that the North part of the Torrid Zone extends from 0
+degrees of latitude to 23 gr. 30 min. the Temperate Zone reaches from 23 gr.
+30 min. to 66 gr. 30 min. the Frigid Zone extends from 66 gr. 30 min. to 90
+gr. of latitude. And so I come to the 9 Questions.
+
+1. What Pole is elevated above the Plain.
+Upon all Upright plains declining from the North: Upon the upper faces of all
+East or West incliners: Upon the upper faces of all North-incliners, whose
+Prosthaph: arc is less than the latitude of the place: On the under faces of
+all North-incliners, whose Prosthaph: arc is greater then the Latitude of the
+place; and on the upper faces of all South-incliners, The North pole is
+elevated. And therefore contrarily,
+
+Upon all upright Plains declining from the South: On the under faces of all
+East and West, and South incliners: On the under faces of all North-incliners,
+whose Prosthaphaereticall arc is less than the Latitude of the place: On the
+upper faces of all North-incliners, whose Prosthaph: arc is greater than the
+Latitude of the place, The South pole is elevated.
+
+2. What part of the Meridian ascends or descends from the Horizontall line
+of the Plain?
+In all Upright plains the Meridian lies in the Vertical line, and if they
+decline from the South it descends, if from the North it ascends.
+
+Upon both faces of East and West Incliners the Meridian lies in the
+Horizontall line.
+
+In all North-incliners, the North part of the Meridian ascends, the South
+part descends: in all South incliners the South part of the Meridian
+ascends, the North part descends: upon both upper and under faces. And if
+these North and South incliners be direct, then the Meridian lies in the
+Vertical line, and so makes a right angle with the Horizontall line: but if
+they decline, then the Meridian on the one side makes an acute angle with the
+horizontall line.
+
+3. To which part of the Meridian is the style with the substyle to be
+referred, as making with it an acute angle?
+The style is the cock of the Dial; the substyle is the line whereon it
+stands, signed out in the former descriptions by the letters AV.
+
+In all Plains whereon the North pole is elevated, it is referred to the North
+part of the Meridian, and makes an acute angle therewith.
+
+In all Plains whereon the South pole is elevated, it is referred to the South
+part of the Meridian, and is to make an acute Angle therewith.
+
+Except here only those South-incliners, whose Prosthaph: arc is more than the
+complement of your Latitude: for on these plains the substyle stands on that
+part of the Meridian, whose denomination is contrary to the Pole elevated above
+the Plain. For on the upper faces the North pole is elevated, but the substyle
+stands toward the South end of the Meridian: and on the under (...) the South
+pole is elevated, but the substyle lies toward the North end of the Meridian.
+
+Note here, that in South-incliners whose Prosthaphaereticall arc is equal to
+the complement of your Latitude, the substyle lies square to the Meridian upon
+the line of 6 a clock; which line in such plains always lies perpendicular
+to the Meridian line. Amongst these falls the Equinoctial plain.
+
+4. On which side of the Meridian lies the substyle?
+In all direct plains it lies in the Meridian. In all Decliners it goes from
+the Meridian toward that coast which is contrary to the coast of the plains
+declination.
+
+And so do all hours also go upon the Plain to that coast which is contrary
+to the coast whereon they are; As all the morning or Eastern hours go to the
+Western coast of the Plain, and all the Evening or Western hours go to the
+Eastern coast of the Plain. Which being observed will be a great help to
+place them aright.
+
+5. What plains have the line of 12 upon them, and which not?
+All upright Plains, in all latitudes whatsoever, declining from the South
+have the line of 12; and decliners from the North in the temperate Zone have it
+not, but in the other Zones they also have it.
+
+The upper faces of East and West incliners in all Latitudes have it, the
+underfaces have it not.
+
+The upper faces of all North incliners whatsoever have it; their under faces
+in the Temperate Zone want it, in the Frigid Zone have it, and in the Torrid
+Zone likewise if the Prosthaph: arc be greater than the Suns least North
+Meridian altitude, but if it be less they want it also.
+
+For South incliners, consider the Suns greatest and least Meridian altitude
+upon the South coast. For if the Prosthaphaereticall arc be such as falls
+between them, that is, if it be greater than the least, or less than the
+greatest, then have bothsides the line of 12 upon them; but if it be less than
+the least, then does the Underface want it universally, and the upper face
+alone has it* if greater than the greatest, then does the Upper face want it,
+and the under face alone has it: Except in the Frigid Zone where the upper
+face has it also, by reason of the Suns not setting there for a time.
+
+6. Whether the North or South part of the Meridian serves for the line of 12?
+In those Plains that have the line of 12, where the North pole is elevated,
+there the North part of the Meridian serves for 12. and where the South pole
+is elevated, there the South part of the Meridian serves for the line of 12 or
+midday.
+
+Except, in all Latitudes, the under faces of those South incliners, whose
+Prosthaphaereticall arc falls between the Suns greatest and least
+Meridian altitudes, for in them the South pole is elevated, but the North part
+of the Meridian serves for the line of 12.
+
+Except in special those Upright Plains in the Torrid-zone which look toward
+the North, and the Under faces of North-incliners also, whose
+Prosthaphaereticall arc is greater than the least North-meridian-altitude; for
+these have the South or lower part of the Meridian serving for 12, though the
+North pole be elevated.
+
+7. Which way the style points, and how it is to be placed?
+In Plains where the North pole is elevated, it points up toward it; and
+where the South pole is elevated, it points down toward it.
+
+The style lies perpendicularly over the substyle, noted in the former figures
+with AV, and is to be elevated above it to such an angle as the Elevation of
+the pole above the Plain shall be found to be by the 6, 7, 8, and 9 Chapters.
+
+8. When is it that that part of the Meridian next the substyle, and the line
+of twelve do go contrary ways?
+In all Latitudes, Upon the upper faces of South-incliners, whose
+Prosthaphaereticall arc is greater than the complement of the Latitude, but
+less than the Suns greatest South Meridian altitude: And on the Under faces
+of those South-incliners also, whose Prosthaph: is less than the complement of
+the Latitude, but greater than the Suns least South meridian altitude: In the
+Torrid-Zone alone you must add hither also, North upright Plains, and those
+North-incliners on the Underface, whose Prosthaphaereticall-arke is greater
+than the least North-meridian altitude of the Sun; for these have the line of
+midday standing on that coast which is contrary to the coast of that part of
+the Meridian next the substyle, and none else. The line of 12. I call herethe
+line of midday because in the Frigid-zone, where the Sun sets not in many
+days together, there are two twelves, the one answering to our midday, and the
+other to our midnight: and so all Upper faces of South-incliners, whose
+Prosthaphaereticall arc falls between the least and greatest South meridian
+altitudes, have there two 12 a clockelines upon them.
+
+9. How much the Meridian line ascends or descends from the Horizontall
+line?
+The quantity of the Angle is to be found upon the circle on the backside of
+your Quadrant, in this manner;
+
+Extend the thread from the complement of the Plains inclination taken in the
+lower Quadrant, to the complement of the Plains declination counted in the
+Semicircle, and the thread will show you upon the Diameter, the degrees and
+minutes of the Meridians Ascension or Descension.
+
+In the example of the 9. Chapt. taking the Upper face of that Plain, I find
+the Meridian to ascend above the Horizontall line 33 gr. 41 minutes.
+
+These directions are sufficient for the bestowing of every line into its
+proper place and coast. As may be seen in the Example of the ninth Chapter.
+For,
+First, upon the upper face of that North incliner, because his Prosthaph: arc
+16 gr. 6 min. is less than 52 gr. 30 min. the Latitude of the place, therefore
+the North pole is elevated above it: by the Answer to the first Quest.
+
+2. Because it is a North-incliner, therefore the North part of the Meridian
+ascends above the Horizontall line, by the answer to the second Question.
+
+3. Because the North pole is elevated, therefore the Style with the substyle
+makes an acute angle with the North end of the Meridian, by the Answer to the
+third Question.
+
+4. Because this Plain declineth toward the West, therefore the substyle lies
+on the East Side of the Meridian, and so do the hours of the afternoon: by
+the Answer to the fourth Question.
+
+5. This Plain, being the Upper face of the North-incliner, will have the line
+of 12 to be drawn upon it, by the Answer to the fifth Question.
+
+6. Because the North Pole is elevated, therefore the North part of the
+Meridian serves for the line of 12: by the Answer to the sixth Question.
+
+7. Because the North pole is elevated, therefore the style points upward
+toward the North pole; by the Answer to the seventh Question.
+
+8. That part of the Meridian next the Substyle, and the line of 12 are both
+one, and so therefore go both one way: by the Answer to the eight Question.
+
+9. By the second the Meridian line ascends, and the quantity of the ascent
+is 33 gr. 41 min. above the Horizontall line: by the Answer of the ninth
+Question.
+
+Thus you see every doubt cleared in this example: the like may be done in all
+others.
+
+CHAP. XIII.
+The making and placing of Polar Plains.
+POlar Plains are those North incliners, whether direct or declining, that lie
+in the Pole, and so have no Elevation of the Pole above them, as the direct
+North Place this Diagram between folio 32. and 33.
+
+The horizontall line of the Plain.
+
+and South polar, the East and West upright Plains, and infinite others
+declining betwixt both. You may know them by the 8 and 9 Chapters, as is there
+intimated.
+
+These Plains may have Dialls described upon them by this Quadrant, but the
+better way is the common way, to protract them by an equinoctial circle, for
+otherwise the style will be always of one distance from the Plain, be the Dial
+greater or lesser.
+
+The Polar plains that decline, before they can be described, must have their
+New-inclination known, and then their delineation will be easy, the manner of
+it may be seen in this Example.
+
+Suppose the upper face of a North-inclining Plain, lying in the Latitude of
+52 gr. 30 min. to decline from the South toward the East 68 gr. and to incline
+toward the North 73 gr. 57 min. you shall find by the ninth Chapter, the
+Prosthaph: arc to be 52 gr. 30 min. the same with the Latitude of the place,
+and therefore you may conclude this plain to be Polar. By the same Chapter you
+shall find the New inclination to be 63 degrees.
+
+When you have these you may draw your Semicircle AB4, and divide it into 12
+equal parts for the hours: so signing the new-inclination 63 degrees from A
+to B, draw CB: and supposing the altitude of your style to be CD, through D
+draw the perpendicular D 12; and where the lines drawn from C through the
+divisions of the semicircle do cut the line D 12, there raise perpendiculars
+for the hours, and so finish it up as the manner is. The style lies directly
+over and parallel to the substyle CB, and the distance of it from the plain is
+CD, and in this Example the substyle CB stands from the line of 12 Westward,
+because the plain declineth Eastward, according to the rules in the former
+Chapter, and so do the morning hours also.
+
+For the placing of the Dial in a true site upon the Plain, you shall find by
+the answer to the 9 Quest. in the former Chapter, that the Meridian ascends
+55 gr. 38 min. for other necessaries, the precepts of the former Chapter will
+direct you. Only observe, that in Upright East and West plain, the line of 6
+is always the substyle, and it ascends above the North end of the
+Horizontall line, as much as the Latitude of the place comes to.
+
+FINIS.
+AN APPENDIX Showing a ready way to find out the Latitude of any place by the
+Sun.
+BEcause in the third Chapter, and quite through this Treatise, the Latitude of
+the place is supposed to be known, when as every one perhaps cannot tell
+which way to find it out; I thought good therefore to add this Appendix as a
+ready help to show how it may be attained sufficiently for our purpose. Know
+then that for the finding out of the Latitude of a place by the Sun, these
+things are required.
+
+1. To find the Meridian line.
+The readiest way to find the Meridian line is by the North-starre. This star
+is within 2 degr. 37 min. of the North Pole. The North Pole lies very near
+between Allioth, or the root of the great Bears tail, and this star; You
+may therefore imagine where the Pole is, if you conceive a right line drawn
+from the Pole-starre to Allioth, and by your imagination suppose parts of the
+distance of the next star of the little Bears tail from the Pole-starre
+toward Allioth, for there is the very Pole-point. Now then if you set up two
+poles aslope, and from the tops of them hang two cords with weights at the ends
+of them, and turn them till you standing on the South Side of them may see
+them both together with the Pole-point, as it were all in one line, then be
+sure these two cords do hang in the Meridian line, or very near it, yea so
+near it, that though you should err 3 degrees herein (wherein you need not to
+err one degree) yet will not the Meridian altitude in these Climates
+(especially more Northward) fail you above 3 minutes, which is near enough to
+our purpose. I have here given you the chief stars of the great and little
+Bears, that by them you may come to know the stars used in this observation,
+and so find the very Pole-point it self.
+
+2. To find the Suns Meridian altitude.
+Observe diligently about noone when the shadow of the South cord shall fall
+upon the North cord, for then is the Sun in the Meridian. At that instant
+observe the Suns altitude stedily and carefully, for that is the Meridian and
+greatest altitude of the Sun for that day.
+
+3. To find the Suns declination.
+For this purpose the limb has the characters of the 12 Signs fixed to each
+30 degree, and a scale of declinations under the limb noted with MN. The Scale
+is divided by this table; for look what degr. and min. of the Eclipt. do
+answer to the degr. of declination in the table, the same are to be numbered in
+the limb, and by a ruler applied to them, the degrees of declination are
+drawn upon the Scale.
+
+A Table to make the Scale for the declination of every part of the Eclipticke.
+Degr. of decl. Degrees. of the ecl. Degr. of decl Degrees. of the ecl. Degr. declin.
+Degr. eclipt. Degr. declin. Degr. Eclipt Degr. declin. Degr. Eclipt. Degr.
+declin. Degr. Eclipt. 0.0 0.00 4.0 10.04 8.0 20.26 12.0 31.26 16.0 43.44 2.0
+59.04 0.15 0.38 4.15 10.43 8.15 21.06 12.15 31.09 16.15 44.34 20.15 60.14 0.30
+1.15 4.30 11.21 8.30 21.46 12.30 32.52 16.30 45.25 20.30 61.26 0.45 1.53 4.45
+11.59 8.45 22.26 12.45 33.36 16.45 46.17 20.45 62.41 1.0 2.31 5.0 12.37 9.0
+23.06 13.0 34.21 17.0 47.09 20.0 46.00 1.15 3.08 5.15 13.16 9.15 23.46 13.15
+35.05 17.15 48.03 21.15 65.22 1.30 3.46 5.30 13.54 9.30 24.27 13.30 35.50 17.30
+48.57 21.30 66.48 1.45 4.24 5.45 14.33 9.45 25.08 13.45 36.35 17.45 49.52 21.45
+68.^^ 2.0 5.01 6.0 15.12 10.0 25.49 14.0 37.21 18.0 50.48 22.0 69.58 2.15 5.39
+6.15 15.51 10.15 26.30 14.15 38.07 18.15 51.45 22.15 71.44 2.30 6.16 6.30 16.30
+10.30 27.12 14.30 38.54 18.30 52.43 22.30 73.41 2.45 6.55 6.45 17.08 10.45
+27.53 14.45 39.41 18.45 53.43 22.45 75.53 3.0 7.33 7.0 17.48 11.0 28.36 15.0
+40.28 19.0 54.44 23.0 78.30 3.15 8.10 7.15 18.27 11.15 29.17 15.15 41.16 19.15
+55.47 23.15 81.52 3.30 8.48 7.30 19.6 11.30 30.00 15.30 42.05 19.30 56.50 23.30
+90.00 3.45 9.26 7.45 19.46 11.45 30.43 15.45 42.54 19.45 57.56 Finis.
+
+Before you can find the Declination, you must know the Suns place, and for
+such as know not the use of the Astronomicall tables, an Almanacke will serve,
+where for every day at noone, you shall find the Suns place in signs,
+degrees and minutes. The degr. and min. must be numbered in their Signs upon
+the limb, and the thread applied thereto will show the declination answerable.
+As for example. September 21. 1637 in the Almanac for this year, the Sun is
+found to be in 8 gr. 23 min. of. In the Quadrants limb I look for the Sign
+and number there, 8 gr. 23 min. whereto apply the thread, I find it to cut in
+the scale of Declinations 3 gr. 20 min.
+
+4. By the Meridian Altitude, and declination of the Sun had; how to find the
+Latitude of the place, or the Elevation of the Pole above the Horizon.
+Compare the Suns Meridian altitude and declination together, and if the
+Sun be in a North Sign as, then substract the declination out of the
+Meridian altitude, so shall the difference give you the height of the
+Equinoctial. But if the Sun be in the South Signs, as, then add the
+declination to the Meridian altitude, so shall the sum give you the height of
+the Equinoctial, which being taken out of the Quadrant or 90 degrees, leaves
+the Latitude of your place, or the Elevation of the Pole above your Horizen.
+
+For Example. Upon the 21 of September 1637. I observed the Suns altitude in
+the Meridian to be 34 gr. 10 min. Upon which day I find the Suns place to be
+(as before) 8 gr. 23 min. of, and the declination 3 gr. 20 min. And because the
+Sun is in a South sign, I add this declination and Meridian altitude
+together; the sum 37 gr. 30 min. is the altitude of the Equator, and this
+taken out of 90 degrees leaves 52 gr. 30 min. for the Latitude of Coventrie.
+
+

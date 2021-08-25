@@ -1,0 +1,68 @@
+The use of this Table following.
+IF upon a scale or ruler you divide one inch into 10 equal parts or primes,
+and again by diagonal and parallel lines if you subdiuide each of them into 10
+equal parts or seconds, as my Trigonal Scales are divided with your compasses
+you may take of more exact running measure for boorde and timber then by any
+other means whatsoever, and so place the same, or this Table if you will upon
+any rule.
+
+Also by means of the column of square roots, you may readily find a square
+equal to any paralelipepidon or piece of timber which is thicker then it is
+broad. As for example, suppose a piece of Timber to be 10 inches thick, and
+29 inches broad: if I multiply those sides one by another, they will produce
+290, then seekeing in that column I find 289 the nearest number (...) 290 to
+stand against 17: therefore I say 17 inches fere will make a square equal to
+such an unlike squared piece: then looking in the column of Timber measure
+against 17, you shall find that 5 inches 9 primes or 9/10, and 8 seconds, or
+8/100 of an inch in length of that piece will make a foot of Timber. By the
+like means you may find how much in length of any breadth of boorde must be in
+one foot.
+
+Likewise for boorde measure, suppose for example that a boode appointed to be
+measured is 15 inches broad, if I desire to know how much in length thereof
+will make a foot. I seek in the columns that stand under the title of unites
+and parts for 15, and also over against the same in the column under the title
+of board measure, where I find 9 inches 1 prime or tenth of an inch, and 4
+seconds or hundreths of an inch will make a foot at that breadth: the like may
+be practiced for any other breadth of board whatsoever.
+
+A TABLE OF BOORDE AND Timber measure, more perfect then ever has been made;
+showing also the Square root between 4 and 31 from quarter to quarter,
+Calculated by R. N.
+Boarde measure. Units and parts Square roots. Timber measure. 36 0 0 4 16 108
+0 0 33 7 8 1 18 98 7 4 32 0 0 2 20 85 3 8 30 1 0 3 22 76 5 8 28 0 8 5 25 69 1 2
+27 4 2 1 27 62 3 3 26 1 1 2 30 57 1 7 24 9 9 3 33 52 2 6 24 0 0 6 36 48 6 0 23
+0 4 1 39 44 2 4 22 1 4 2 42 40 8 9 21 3 3 3 45 37 7 1 20 5 7 7 49 35 2 6 19 8 6
+1 52 32 8 7 19 2 0 2 56 30 7 2 18 8 9 3 60 28 7 7 18 0 0 8 64 27 0 0 17 4 6 1
+68 25 3 0 16 9 4 2 72 23 9 1 16 4 6 3 76 22 5 7 16 0 0 9 81 21 3 3 15 5 6 1 85
+20 1 8 15 1 5 2 90 18 9 7 14 7 9 3 95 18 1 8 14 4 0 10 100 17 2 8 14 0 4 1 105
+17 4 6 13 7 1 2 110 15 2 2 13 3 9 3 115 14 9 5 13 0 9 11 121 14 2 9 12 8 0 1
+126 13 6 3 12 5 2 2 132 13 0 0 12 2 7 3 138 12 5 2 12 0 0 12 144 12 0 0 11 7 5
+1 150 11 5 1 11 5 2 2 156 11 0 5 11 2 9 3 162 10 6 3 11 0 7 13 169 10 2 2 10 8
+7 1 175 9 8 3 10 6 7 2 182 9 5 8 10 4 7 3 189 9 1 4 10 2 8 14 196 8 8 1 10 1 1
+1 203 8 5 0 9 9 3 2 210 8 2 0 9 7 6 3 217 7 9 4 9 6 0 15 225 7 6 9 9 4 5 1 232
+7 4 3 9 2 9 2 240 7 2 6 9 1 4 3 248 6 9 7 9 0 0 1^ 256 6 7 5 8 8 6 1 264 6 5 4
+8 7 3 2 272 6 3 5 8 6 0 3 280 6 1 6 8 5 8 17 289 5 9 8 8 3 4 1 297 5 8 1 8 2 2
+2 306 5 6 4 8 1 1 3 315 5 4 5 8 0 0 18 324 5 3 3 7 8 9 1 331 5 2 2 7 7 8 2 342
+5 0 4 7 6 8 3 351 4 9 2 7 5 8 19 361 4 7 8 7 4 8 1 370 4 6 6 7 3 9 2 380 4 5 4
+7 2 9 3 390 4 4 0 7 2 0 20 400 4 3 2 7 1 1 1 410 4 2 1 7 0 2 2 420 4 1 1 6 9 3
+3 430 4 0 1 6 8 6 21 441 3 9 2 6 7 7 1 451 3 8 2 6 6 9 2 462 3 7 3 6 6 1 3 473
+3 6 7 6 5 4 22 484 3 5 7 6 4 7 1 495 3 4 9 6 4 0 2 506 3 4 1 6 3 3 3 517 3 3 3
+6 2 6 23 529 3 2 7 6 1 9 1 540 3 1 9 6 1 2 2 552 3 1 1 6 0 6 3 564 3 0 6 6 0 0
+24 576 3 0 0 5 9 4 1 588 2 9 8 5 8 3 2 600 2 8 7 5 8 9 3 612 2 8 2 5 7 6 25 625
+2 7 6 5 7 0 1 637 2 7 1 5 6 5 2 650 2 6 5 5 5 8 3 662 2 6 0 5 5 4 26 676 2 5 4
+5 4 8 1 689 2 5 0 5 4 3 2 702 2 4 7 5 3 8 3 715 2 4 1 5 3 3 27 729 2 3 7 5 2 8
+1 742 2 3 2 5 2 3 2 756 2 2 ^ 5 1 8 3 707 2 2 4 5 1 4 28 784 2 2 0 5 0 9 1 798
+2 1 6 5 0 5 2 812 2 1 2 5 0 0 3 826 2 0 9 4 9 6 29 841 2 0 5 4 9 2 1 856 2 0 2
+4 8 8 2 871 1 9 8 4 8 8 3 88^ 1 9 5 4 8 0 30 900 1 ^ ^ 4 7 6 1 915 1 9 2 4 7 2
+2 9^0 1 8 8 4 6 8 3 945 1 8 3 4 6 4 31 961 1 7 9 4 6 1 1 974 1 7 6 4 5 7 2 987
+1 7 4 4 5 3 3 1000 1 7 ^ 4 5 0 32 1024 1 6 9 4 4 6 1 1040 1 6 6 4 4 3 2 1056 1
+6 3 4 4 0 3 1072 1 6 2 4 3 6 33 1089 1 5 9 4 3 3 1 1104 1 5 6 4 3 0 2 1120 1 5
+4 4 2 7 3 1136 1 5 2 4 2 3 34 1156 1 4 9 4 2 0 1 1174 1 4 7 4 1 7 2 1190 1 4 5
+4 1 4 3 1210 1 4 3 4 1 1 35 1225 1 4 1 4 0 8 1 1237 1 4 0 4 0 5 2 1247 1 3 7 4
+0 3 3 1280 1 3 5 4 0 0 36 1296 1 3 3 3 9 7 1 1313 1 3 1 3 9 4 2 1331 1 2 9 3 9
+1 3 1350 1 2 7 3 8 9 37 1369 1 2 6 3 8 7 1 1388 1 2 4 3 8 4 2 1416 1 2 2 3 8 2
+3 1425 1 2 0
+
+FINIS Tabulae.
+
