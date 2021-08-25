@@ -1,0 +1,390 @@
+CALCULATIONS ON AMERICAN POPULATION, WITH A TABLE for estimating the annual
+Increase of INHABITANTS in the British Colonies: The Manner of its Construction
+Explained AND Its Use Illustrated.
+
+BY EDWARD WIGGLESWORTH, M. A. HOLLIS Professor of Divinity at Cambridge.
+
+Look now toward Heaven, and tell the STARS, if thou be able to number them. So
+shall thy Posterity be.
+
+BENEDICTION ON ABRAHAM. Let there be NO STRIFE, I pray thee, BETWEEN US; for
+we are BRETHREN. Is not the WHOLE COUNTRY before thee?
+
+ABRAHAM to his Kinsman LOT. BOSTON: Printed and Sold by JOHN BOIL in
+Marlboro'-Street. MDCCLXXV.
+
+TO THE HONORABLE THOMAS CUSHING, Esquire, SPEAKER of the late HOUSE of
+REPRESENTATIVES Of the Province of the MASSACHUSETTS BAY: AND One of their
+DELEGATES at the CONTINENTAL CONGRESS, The following Calculations on American
+POPULATION, Published under his Patronage, Are humbly inscribed, By his obliged
+Friend And obedient Servant,
+
+The AUTHOR.
+
+THE following Calculations were the Employment of some leisure Hours, and
+designed as a Recreation after Studies of a more serious Nature. They were at
+first undertaken for private Gratification. They are now made public, at the
+Recommendation of some Friends, to whom they were communicated in Manuscript.
+
+Cambridge, Jan. 25, 1775.
+CALCULATIONS ON AMERICAN POPULATION.
+FROM a comparison of the most authentic estimates of the inhabitants in the
+several British colonies in America, taken at different times, it appears that
+the British Americans have doubled their numbers, in every period of
+twenty-five years from their first plantation. A rapidity of population not to
+be parallaled in the annals of Europe! It has never been equalled since the
+patriarchal ages. This rapid population of the Americans arises, partly from
+the great accession of foreigners, but principally from the natural increase of
+the inhabitants. The reasons, why the Americans are more prolific than the
+Europeans, are, that they are less luxurious in their manner of living, and the
+means of supporting a family can be more easily obtained. For the last reason
+the Americans are induced to marry earlier in life, and consequently their
+families of children are more numerous. And their temperance in diet renders
+them more healthy. The ease of procuring subsistence for a family is occasioned
+by the boundless tracts of uncultivated forests, bordering on their
+plantations. For every new-married couple can, at small expense, purchase a
+freehold; which by their industry, will afford them and their children a
+comfortable support.
+
+TILL the wilderness back of the old plantations shall be filled with
+inhabitants, and brought under as good cultivation as the settlements on the
+seacoast, it may be presumed that the future population of these colonies will
+be as rapid as the past. By an estimate made, at the late CONTINENTAL CONGRESS,
+of the number of persons in eleven of the colonies, it appears that there are
+3,026678 souls, inhabiting those colonies. Allowing that there are 526678
+slaves, which allowance is probably larger than ought to be made, there are
+2,500000 British Americans, which may be reckoned as a CAPTIAL STOCK, on which
+a calculation may be made of their future population. Should nothing intervene
+to retard their increase, the Americans will be more numerous than their
+brethren in Britain, in half a century from the present time: And in less than
+seventy years, their numbers will exceed those of the inhabitants of
+Great Britain and Ireland, taken collectively. -- Happy had it been for
+America, if its present contest with the parent state had been postponed to the
+middle of the next century! And more happy still had it always slept in
+silence! Britain and America might always have been subservient to each others
+prosperity and happiness; and have formed one of the most populous, potent,
+wealthy and happy kingdoms that ever existed.
+
+UPON the same principles that Mr. WARD has constructed a table to compute the
+compound interest on any sum of money for the component parts of a year, a
+table may be formed to compute the number of inhabitants in any American colony
+for any given year. -- Let 1 represent the present number of inhabitants, and a
+the number at the beginning of the next year. Then it will be as 1: a:: a: a2::
+a2: a3:: a3: a4 to a25. That is, As the present number of inhabitants is to the
+number of the second year, so is that number to the number of the third year,
+and so on in the same proportion to the twenty-fifth year.
+
+THEN the last of the terms will be a25. = 2.
+
+To find the value of a, ^
+
+The Operation. ^
+
+For a second process let r= 1,0281. Then, ^
+
+The Operation. ^
+
+BY this operation we find the value of a true to the 9th figure, and only too
+much by 2 in the 10th. -- And by involving the value of a to its 25th power, we
+have the amount of unity to the 25th year; the index of the power, denoting the
+particular year. If therefore the number, corresponding to any particular power
+of a, be multiplied into the present number of inhabitants, either of any one
+of the British American colonies, or of the whole continent, the product will
+be the amount of inhabitants of that colony, or of the continent, for the year
+denoted by the index of the power of a.
+
+THE ratio of annual increase may be found, and a table constructed for
+estimating the annual amount of the Americans, by a process less operose and
+equally exact. The process is this: Take the logarithm of 2 = a25 from any
+table that will afford a sufficient number of figures for the proposed
+calculation; divide it by 25 the index of a, and the quotient will be the
+logarithm of a. This last logarithm being multiplied by 2, 3, 4, 5, etc. to 24
+will give the logarithms of the intermediate powers of a; the several
+multiplicators being the indices of their respective powers. Find the natural
+number corresponding to each of these logarithms, and it will be the amount of
+unity from the 1st to the 25th year inclusively.
+
+THE following table was constructed, by ascertaining the ratio of the annual
+increase of the British Americans, according to the method, of solving adfected
+equations. But in this method, where the quantities are surd, there will always
+be a defect, or excess, in the roots found. The error will increase at every
+involution, and be proportionate to its power. In the process the value of a
+was taken true to seven figures, but was too little by about 4/10 in the eight.
+When this number was involved to its 25th power, it discovered itself, in the
+last operation, to be, 000019 less than just; and consequently that there was a
+proportionable defect in each involution. The excess or defect arising from the
+involution of a root greater or less than just, may be corrected by the
+following proportion. As the value found of a25: to its excess or defect:: the
+value found of any other power: to the excess or defect of that power. And the
+several defects being added to, or the several excesses being subtracted from,
+the numbers first found, will be the value of the several powers of a, so near
+the truth as to answer all the purposes of a calculation of this kind. -- But
+the small error noticed above was corrected by taking the logarithm of 2 from
+Mr. Briggs's table, and ascertaining the value of the several powers of a, in
+the method already notice. By his table the annual amount of unity may be taken
+true to nine places of decimals, which is a greater degree of exactness than
+the proposed plan required. For this reason eight decimals only were taken into
+the calculation. And therefore by multiplying the inhabitants by the numbers in
+the table, we have their amount for each year, without any error, where they
+are less than 10,000 000: A degree of exactness, sufficient for any calculation
+of this kind.
+
+AT the CONTINENTAL CONGRESS held at Philadelphia the last autumn, an estimate
+was made, as has been noticed already, of the number of souls in the provinces
+specified. -- The publisher has not informed his readers whether it includes
+slaves, (for to the disgrace of America SLAVERY Professor MILLAR in his curious
+observations on the distinction of ranks in society; having spoken of "the
+slavery established in our colonies," and hinted at some improvements which
+would render that state less intolerable, concludes with the following remark.
+Nothing can appear more astonishing than the little attention that has hitherto
+been paid to any improvements of this nature, after the good effects of them
+have been so FULLY ILLUSTRATED in the case of the villains in Europe. At the
+same time it affords a curious spectacle to observe, that the same people who
+talk in so high a strain of political liberty, and who consider the privilege
+of imposing their own taxes as one of the unalienable rights of mankind, should
+make no scruple of reducing a great proportion of the inhabitants into
+circumstances by which they are not only deprived of property, but almost EVERY
+RIGHT whatever. Fortune perhaps never produced a situation more calculated to
+ridicule a grave, and even a liberal hypothesis, or to show how little the
+conduct of mankind is at bottom directed by any philosophical principle. -- Is
+it not right, O ye Americans! that with what measure ye meet, it should be
+measured to you again? Happy would it be for America, if the conduct of every
+advocate for its political rights, was a just commentary on his principles.
+still prevails here) as well as freemen. It is to be regreted that the
+publisher has not been more particular in his account of the estimate. For if
+the numbers in it are expressive of freemen only, we have a foundation on which
+we may with safety build a calculation. But if slaves are included in the
+number of souls in the several provinces, they must first be deducted, before
+we can proceed to make a computation of their future population with accuracy.
+For the Negro-slaves are so far from increasing by propagation, that it
+requires a large annual importation from Africa to keep the stock good.
+
+New Hampshire 150,000 Massachusetts 400,000 Rhode Island 59,678 Connecticut
+192,000 New York 250,000 New Jersey 130,000 Pennsylvania including the Lower
+Counties 350,000 Maryland 320,000 Virginia 650,000 North Carolina 300,000
+South Carolina 225,000 Total 3,026,678
+THE TABLE.
+Years. Amounts of UNITY. 1 1,02811382. 2 1,05701804. 3 1,08673486. 4
+1,11728713. 5 1,14^69835 6 1,18099266. 7 1,21419488. 8 1,24833054. 9
+1,28342^^9. 10 1,31950791. 11 1,356^0432. 12 1,39474366. 13 1,43395521. 14
+1,47426921. 15 1,51571656. 16 1,55832916. 17 1,60213975. 18 1,64718203. 19
+1,69349062. 20 1,74110112. 21 1,79005014. 22 1,84037530. 23 1,89211529. 24
+1,94530989. 25 2,00000000.
+
+BY this table the number of inhabitants for any future year, the increase of
+any particular year, and the increase of any series of years, may readily be
+found.
+
+IT will be best to illustrate each of these cases by a rule and example.
+
+RULE I.
+DEDUCT the present year 1775, from the year whose inhabitants are required,
+and if the difference is less than 25, then the present number of inhabitants
+must be multiplied by the figures corresponding to the number equal to such
+difference. The product will be the number required, and its decimal parts.
+Reject the eight right hand figures, and the remaining left hand figures will
+be the number of inhabitants for the year required.
+
+EXAMPLE I.
+WHAT will be the number of inhabitants in the Massachusetts Bay A. D. 1793?
+
+DEDUCT 1775 from 1793. The difference is 18, which being less than 25, the
+present number of inhabitants must be multiplied by the figures in the table
+corresponding to 18. -- The inhabitants are 400000, which multiplied by
+1,64718203, the product will be 658872, 81200000. Cut off 8 figures on the
+righthand; and the remaining figures on the left 658872 will be the number of
+inhabitants in the year 1793.
+
+BUT if the difference between the present year, and that whose inhabitants are
+required be greater than 25, the following process must be observed.
+
+RULE II.
+DIVIDE the difference by 25, then double the present number of inhabitants as
+many times as there are units in the quotient. Multiply the product of the
+number so doubled by the figures in the table correspondent to the remainder.
+Reject from the product the eight right hand figures, and the figures on the
+left will be the number sought.
+
+EXAMPLE II.
+WHAT will be the number of British Americans, A. 1890, allowing them to be no
+more than 1500000 at present? From 1890, substract 1775, the difference is 115,
+which being more than 25 must be divided by it. The quotient of 115 divided by
+25 is 4, and the remainder 15. Double 1500000 four times, which will give
+24,000000. This sum being multiplied by the figures in the table, answering to
+15, being 1,51571656, will give 36377197,44000 000. Reject the 8 figures on the
+right hand, and the others will be the number of British Americans, A. D. 1890.
+viz. 36,377197 persons.
+
+THE increase of inhabitants in any given year may be determined in the
+following method.
+
+RULE III.
+FIND the number of inhabitants at the beginning of the year by the 1st or 2d
+rule. Multiply the number so found by the decimals in the first line of figures
+in the table. Reject 8 figures on the right hand, and those that are left will
+give the answer.
+
+EXAMPLE III.
+WHAT will be the increase of the British Americans, A. D. 1890?
+
+BY the last example their number at the beginning of that year is found to be
+36,377197. Multiply this number by 0,02811382, the decimals in the first line
+of figures in the table, and the product will be, 1022701,96856254. Reject the
+decimals on the right hand, and the integers will be the answer to the
+question, viz. 1,022701 is the addition that will be made to the British
+Americans in the year 1890; supposing them to be no more than one million and
+an half at present.
+
+THE increase of inhabitants for any series of years may be ascertained in the
+manner following.
+
+RULE IV.
+FIND the number of inhabitants for the first and last years in the series,
+deduct the less from the greater number, and the remainder will be the number
+sought.
+
+EXAMPLE IV.
+HOW many will the inhabitants of the Massachusetts colony increase by the year
+1793? Their number in 1793 will be 658872. Their present number is 400000.
+258872
+will be the increase at that time.
+
+BY the same table may likewise be determined, in a process something different
+from the preceding, both the number of inhabitants in any year past; and also
+what proportion of the present inhabitants are descended from original
+planters, where the number of them can be ascertained, and what from persons
+who left Europe after the first implantation of the particular colony, whose
+inhabitants are the subject of disquisition.
+
+THE number of inhabitants for any year past may be determined in one of the
+following methods.
+
+RULE V.
+TAKE the difference between the present year, and that whose inhabitants are
+required, and if it be less than 25, deduct from (...) 25. And one half the
+present inhabitants of the colony must be multiplied by the numbers in the
+table corresponding to the remainder. The integers in the product will give the
+number of inhabitants for the year required.
+
+EXAMPLE V.
+WHAT was the number of inhabitants, A. D. 1758, in the Massachusetts?
+
+THE difference of years is 17, this deducted from 25, leaves 8. One half of
+the present inhabitants is 200,000. This number multiplied by 1,24833054, the
+figures in the table corresponding to 8, the remainder, will give
+249666,10800000. Rejecting the decimals, the answer is, the Massachusetts
+inhahitants were A. D. 1758, 249666 persons.
+
+BUT if the difference of years be greater than 25, the number of inhabitants
+must be determined by
+
+RULE VI.
+DIVIDE the difference of years by 25, and substract the remainder from 25.
+Take one half of the present inhabitants and divide them successively by 2, as
+many times as there are units in the quotient. The inhabitants thus depressed,
+being multiplied by the figures in the table, answering to the difference
+between the remainder and 25, will be the answer required, after the decimals
+are rejected.
+
+EXAMPLE VI.
+WHAT was the number of Americans, 1710?
+
+THE difference of years is 65. This number divided by 25 gives 2 for the
+quotient, and 15 for the remainder. One half of the present number of Americans
+is, 1,250000. This number depressed, by being twice divided by 2, will give
+312,500, which multiplied by the figures in the table answering to 10, (which
+is the difference between 25 and 15, the remainder,) 1,31950791 will make
+412346,22187500. Reject the decimals, which will give the answer. The number of
+Americans A. D. 1710, was 412346.
+
+SHOULD the proportion be sought, which the posterity of the first settlers of
+any colony bear to the whole inhabitants of it at present, it may be
+ascertained in the following method, supposing them to double by natural
+increase in twenty-five years.
+
+RULE VII.
+DEDUCT the year of the settlement of the colony from the present year. Divide
+the difference of years by 2. Then multiply the original settlers by 2, as many
+times as there are units in the quotient. The number thus increased, multiply
+by the figures in the table, answering to the remainder. The product, when the
+decimals are rejected, will give the present number of the posterity of the
+original settlers. And the proportion which they bear to the whole, will be as
+that number is to the number of the whole.
+
+EXAMPLE VII.
+WHAT proportion do the posterity of the original planters of the
+Massachusetts, bear to its present inhabitants?
+
+COULD the number of original settlers be ascertained, the question might be
+determined with precision. The rule however may be illustrated by taking any
+number at pleasure, instead of the true number of original settlers. -- Let us
+then suppose the first settlers amounted to 5000.
+
+MASSACHUSETTS was planted A. D. 1630. GOV. WINTHROP arrived at Salem June 12,
+1630. The settlement at Plymouth was begun December 20, 16^^.
+The difference between that and the present year is 145. This number divided
+by 25, gives 5 for the quotient, and 20 for the remainder. 5000 redoubled 5
+times makes 160000. This number multiplied by 1,74110112, the figures in the
+table corresponding to 20, the remainder, will give 278576,17920000. The
+descendants, then, from the original settlers are, on the supposition made,
+278576; and they are in proportion to the whole inhabitants, as 278576 is to
+400000.
+
+BY doubling the present number of Americans nine times, the number of them
+will be found for every twenty fifth year to the end of the twentieth century.
+And each of these duplications, being multiplied by the several lines of
+figures in the table, will give the amount of the Americans in the intermediate
+years. -- Their present number being estimated at two millions and an half,
+their duplications will be as follows, A. 1800 -- 5 Millions. 1825 -- 10 Do.
+1850 -- 20 Do. 1875 -- 40 Do. 1900 -- 80 Do. A. 1925 -- 160 Millions. 1950 --
+320 Do. 1975 -- 640 Do. 2000 -- 1280 Do.
+
+
+A CAREFUL attention to the preceding rules and examples, will be sufficient,
+without any more illustrations, to lead to the knowledge of the various purposes
+to which the table may be applied.
+
+WHEN we look back to the state of the colonies at the middle of the last
+century, and compare it with the present, we are surprised to find that our
+ancestors, amidst all the difficulties they had to encounter, have been able in
+so short a period to put a face entirely new on all the country extended from
+Nova Scotia to Georgia, by changing the forest into a fruitful field; that they
+have opened such an extensive commerce, as is carried on from America; and that
+by their cultivation of the liberal arts, they have left a posterity of two
+millions and a half, FIVE millions, according to the estimate of -- Dr. Price
+and our best modern calculators, is nearest to the true number of the people of
+England. The males between sixteen and fifty-six in five millions are 1,250
+000, or a fourth part of the whole. -- In North-Britain the number of souls is
+about 1,500,000. The males between sixteen and fifty-six are 300,000. Political
+disquisitions Vol. I. page 36, 46. -- If the Doctor's proportion is just, the
+number of males in America between sixteen and fifty-six is 625,000. -- The
+increase of Americans the present year, is 70,284. One fourth part of them are
+males between sixteen and fifty-six. There are then 17,571, effective men added
+to the Americans the present year. Lord Barrington moved in the House of
+Commons, that 17,542 effective men be employed for the land service this year.
+enjoying all the necessaries, and most of the elegancies of life. A rapidity
+of population and improvement, that fills the mind with admiration! But to
+anticipate their population and improvements, at the close of the twentieth
+century, overwhelms the mind with astonishment! At that time, should their
+future population be as rapid as their past, the Americans would amount to ONE
+THOUSAND TWO-HUNDRED AND EIGHTY MILLIONS! The continent extending back to the
+south sea, affording them new plantations; and the diversity of climates and
+soils, inviting the introduction of all the various productions of the other
+quarters of the world.
+
+SHOULD a system of policy be adopted to conciliate the affections of the
+Americans, what an amazing source of commerce will be opened to Great Britain?
+To what limits will the demand for British manufactures be extended, while the
+Americans are busily employed in subduing the wilderness? And should Britain
+continue to encourage the cultivation of those materials of commerce, for which
+she has been dependent on foreign nations, to what a state of independence may
+she arise?
+
+THAT the present unhappy contest between Britain and America, may be amicably
+terminated; that the extent of parliamentary authority may be ascertained; and
+that the rights of America may be fixed on an immovable foundation, are the
+earnest desires of every true friend of Britain and America. Should this ever
+be the case, such an union of interest and affection would succeed, as would
+render them the envy of Europe and the glory of the WORLD.
+
+
