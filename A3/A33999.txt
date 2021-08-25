@@ -1,0 +1,3023 @@
+Geometrical DYALLING or, Dyalling by a line of CHORDS only by JOHN COLLINS
+Accomptant Philomath
+
+London Printed for Francis Cossinet in Tower Street and for H: Sutton behind
+Exchang
+
+General Scheme
+
+
+Projection of ye Sphere Anno 1659
+
+
+In a Circle
+
+
+In a Parralellogram
+
+
+Chords fitted to ye Schemes in ye Book
+ruler
+
+Chords in time fitted to the Book
+ruler
+
+
+
+Geometrical Dyalling: OR, DYALLING Performed by a Line of CHORDS only, Or by
+the PLAIN SCALE. Wherein is contained two several Methods of Inscribing the
+Hour Lines in all Plains, with the Substile, Style and Meridian, in their
+proper Coasts and Quantities; Being a full Explication and Demonstration of
+diverse difficulties in the Works of Learned Mr. Samuel Foster deceased, late
+Professor of Astronomy in Gresham College,; Also a Collection of diverse things
+from the Works of Clavius and others.
+
+Whereto is added four new Methods of Calculation, for finding the Requisites
+in all Leaning Plains, with full directions suited to each Method for placing
+them in their proper Coasts, without the help of any Dclinations.
+
+Also how by Projecting the Sphere, to measure off all the Arks found by
+Calculation, and to determine what hours are proper to all kind of Plains,
+omitting superfluity.
+
+Lastly, the making of Dyals from three Shadows of a Gnomon placed in a Wall at
+random, with a Method of Calculation suited thereto, and diverse ways from three
+Shadows, to find a Meridian-line.
+
+Written by John Collins of London Accomptant, Philomath.
+
+London, Printed by Thomas Johnson for Francis Cossinet, and are to be sold at
+his Shop at the Anchor and Mariner in Tower-street, at the end of Mincinglane,
+with other Mathematical Books; Also to be sold by Henry Sutton Mathematical
+Instrument-Maker, living in Threed-needle Street behind the Exchange. 1659.
+
+To the Reader.
+BEing in conference with my loving friend Mr. Thomas Rice, one of the Gunners
+of the Tower, much exercised in making of Dyals in many eminent places of the
+City, he was pleased to communicate unto me the knowledge of a General Scheme,
+for Inscribing the Requisites in all Oblique Leaning Plains, which he added,
+was the useful Invention of the Learned Master Samuel Foster, Professor of
+Astronomy in Gresham College London, deceased, from whom he received
+Instructions concerning the same, in the year 1640. And the said Mr. Rice not
+having his Papers about him, did dictate to me from his Memory the Construction
+and Practice of the said Scheme, which I afterward Methodized just as it is
+delivered in page 25 and 26. At the same time also I received directions for
+Inscribing the Substile and Style in upright Decliners, and East or West
+Reclining, or Inclining Plains, but they were of another man's Invention, and
+did not seem to be derived from the former general Scheme, and therefore I have
+not used them in this Treatise, but derived the performance thereof from the
+said general Scheme: Moreover, Mr. Rice added, that in regard of the death of
+the Author, and since of his Executor, who had the care and inspection of his
+Papers, I should do well to Study out the Demonstration of the former Scheme,
+and make it public, the rather, because it has been neglected. The manner of
+Inscribing the hour lines being already published in a Treatise of the Authors,
+Entitled, Posthumi Posteri; this desire of his, which was also furthered by
+Mr. Sutton and others, I am confident is fully effected in the following
+Treatise, and much more then was in his Request, and here let me add, that I
+have had no other light from the Endeavors of the Learned Author, then what was
+as above communicated unto me, all which might be expressed in half a page of
+paper, or little more, to which I have made this large Access and Collection,
+nam facile est inventis adore; not that I would hereby any thing endeavor to
+eclipse the Authors Work, the excellency of whose Inventions in this and other
+kinds, will speak forth his Renown to all posterity. And though in probability
+I have not performed so much, nor so well, as was obvious to the knowledge of
+the Learned Author, yet I am confident when the Reader understands what is
+written, he would be as loath to be without the knowledge thereof, as my self;
+and I am induced to believe, that the Author left nothing written about many
+particulars in this Treatise; throughout which, we suppose the Reader,
+furnished with the common Rudiments of Geometry, that he can raise
+Perpendiculars, draw Parallels, describe a Parralellogram, bring three points
+into a Circle, understands Definitions and Terms of Art, knows what a Line of
+Chords is, can prick off an Arch thereby; all which, with Delineations for all
+the usual Cases of Triangles, both from Projection and Proportions, the Reader
+will meet with in my Treatise, called, The Mariners Plain Scale new plained,
+now in the Press. Vale and fruere.
+
+I remain thy friend, and a Well-willer to the Public Advancement of
+Knowledge, JOHN COLLINS.
+
+The Contents:
+DYals distinguished Page 1, 2 To take the Suns Altitude without Instrument p.
+3 To find the Reclination of a Plain p. 4 Also the Declination thereof p. 5 A
+general proportion and Scheam for finding the Suns Azimuth or true Coast p. 6
+To draw a Horizontal Dyal p. 7 Also a South Dyal p. 8 A new way to divide a
+Tangent live into five hours and their quarters p. 10, 11 A direct South Polar
+Dyal p. 12 To prick off the Requisites of upright Decliners p. 13 To prick off
+an Arch or Angle by Sines or Tangents p. 14 The Scheam for placing the
+Requisites of upright Decliners demonstrated p. 15, 16 To inscribe the
+hour lines in an upright Decliner p. 17 The Demonstration thereof p. 18 to 21
+An East Dyal p. 22 Requisites placed in East or West leaning Plains p. 23 The
+Demonstration thereof p. 25 The Construction of the general Scheam for placing
+the Requisites in Declining Re-In clining Plains p. 25 to 27 The first Method
+of Calculation for Oblique Plains p. 28 to 30 And directions for the true
+placing the Requisites suited thereto p. 30, 31 The general Scheam demonstrated
+p. 32 to 34 The hour lines inscribed in an Oblique Plain ibid. The general
+Scheam fitted for Latitudes under forty five degrees p. 35 To draw the
+hour lines in a Declining Polar Plain p. 36 Also how to delineate the
+hour lines in Plains having small height of Style p. 37, 38 Another way to
+perform the same p. 39 to 41 A second Method of Calculation for Oblique Plains
+p. 42 Proportions for upright Decliners p. 43 A third Method of Calculation for
+Oblique Plains p. 44 Directions for placing the Requisites suited thereto p. 46
+A fourth Method of Calculation for Oblique Plains p. 47 Through any two points
+assigned within a Circle to draw an Arch of a Circle that shall divide the
+primitive Circle into two Semicircles. p. 49 To measure the Arks of upright
+Decliners by Projection p. 50 Also the Arks of leaning East or West Plains
+thereby p. 51 To project the Sphere for Oblique Plains -- To measure off all
+the Arks that can be found by Calculation With the Demonstration of all the
+former Proportions -- from p. 52 to 59
+To determine what Hours are proper to all Plains p. 60 to 61 Another Method of
+inscribing the Hour Lines in all Plains by a Parallelogram p. 62 To draw the
+Tangent Scheme suited thereto p. 63. The Hour Lines so inscribed in a
+Horizontal and South Dyal p. 63, 64 As also in an upright Decliner p. 65 With
+another Tangent Scheme suited thereto for pricking them down without the use of
+Compasses p. 66, 67 A general Method without proportional work, for fitting the
+Parallelogram into Oblique Plains that have the Requisites first placed p. 69,
+70 By help of three shadows to find a Meridian-line p. 70, 71 Another Scheme
+suited to that purpose p. 73 A Method of Calculation for finding the Azimuth,
+Latitude, Amplitude, etc. by three shadows p. 75 From three shadows to inscribe
+the Requisites and Hour Lines in any Plain p. 77 Which is to be performed by
+Calculation also p. 97
+Characters used in this Book.
++ Plus, for more, or Addition. - Minus less, or Substraction. = Equal. q For
+square. Square. The Rectangle or Product of two terms. for Proportion.
+
+If the Brass Prints in this Book be thought troublesome to bind up, they may
+be placed at the end thereof, for the Pages to which they relate, are graved
+upon them.
+
+A Quadrant of a Circle being divided into 90d, all that is required in this
+Treatise, is to prick off any number of the said degrees with their
+Sub-divisions, which may be easily done any where from a Quadrant drawn and
+divided into nine equal Parts, and one of those parts into ten sub-divisions,
+called degrees, but for readiness the equal divisions of a whole. Quadrant are
+transferred into a right line (as in the Frontispiece) called a Line of Chords,
+serving more expeditly to prick off any number of degrees or minutes in the
+Arch of a Circle.
+
+An Advertisement.
+The Reader may possibly desire to be furnished with such Scales to any Radius,
+these and all manner of other Mathematical Instruments either for Sea or Land,
+are exactly made in Brass or Wood, by Heury Sutton in Threed-needle-street,
+behind the Exchange, or by William Sutton in Upper Shadwell, a little beyond
+the Church, Mathematical Instrument-Makers.
+
+A direct South Dial Reclining 60d Lat 51d 32
+An erect direct North Dial Lat 51d 32
+A South Dial Declin 40d East Reclining 60d Lat 51d 32
+A North Dial Declin 40d West Reclining 75d Latitude 52d 32
+
+
+THE DISTINCTION OF DYALS.
+THough much of the subject of Dyalling has been wrote already, by diverse in
+diverse Languages, notwithstanding the Reader will meet with that in this
+following Treatise, which will abundantly satisfy his expectation, as to the
+particulars in the Preface, not yet divulged in any Treatise of this nature.
+
+In this Treatise, that we might not be too large, diverse definitions are
+passed over, supposing that the Reader understands what a Dyal is, what hour
+Lines are, that that part of the Style that shows the hour, ought to be in the
+Axis of the World, that the hour Lines being projected on any Regular Flat,
+will become straight Lines.
+
+Dyals are by Clavius in the second Chapter of his Gnomonicks distinguished
+into Seventeen Kinds.
+1. The Horizontal, being parallel to the Horizon. 2. South and North direct,
+by some called a Vertical Dyal, because parallel to the prime Vertical or
+Circle of East and West. 3. 4. South direct, Reclining or North Inclining less
+more then the Pole.
+
+
+5. 6. South direct, Inclining or North Reclining less more then the Equinoctial
+
+
+7. South direct Reclining, or North Inclining to the Pole, called a direct
+Polar Plain, because Parallel thereto 8. South direct Inclining, or North
+Reclining to the Equator, called an Equinoctial Plain, because parallel
+thereto. 9. South and North, Declining East or West. 10. East and West direct.
+11. East and West direct, Reclining or Inclining. 12. A South North Plain
+declining East or West Reclining Inclining to the Pole, called a Polar Decliner.
+
+
+
+13. A South North Plain Declining East or West Inclining Reclining to the
+Equinoctial, called an Equinoctial Decliner.
+
+
+
+14. 15. A South North Plain Declining East or West Reclining Inclining Whereof
+are two sorts, the one passing above, the other beneath the Pole
+
+
+
+16. 17. A. South North Plain Declining East or West Inclining Reclining
+whereof are 2. sorts, the one passing above the Equinoctial, the other beneath
+it.
+
+
+
+
+Of each of these we shall say something, but before we proceed, it will be
+necessary in the first place to show how to find the Situation of any Plain.
+
+1. To find whether a Plain be Level or Horizontal.
+The performance hereof is already showed by Mr. Stirrup, in his Complete
+Dyallist, Page 58. where he has a Scheme to this purpose, I shall only
+mention it: Get a smooth Board, let it have one right edge, and near to that
+edge, let a hole be cut in it for a Plummet to play in; draw a Line cross the
+Board Perpendicular, to the straight edge thereof passing through the former
+hole; if then setting the Board on its smooth edge, and holding it
+Perpendicularly, so that the Plummet may play in the hole, if which way soever
+the Board be turned, the thread will fall (being held upright with the Plummet
+at the end of it, playing in the former hole) directly on the Perpendicular
+Line drawn cross the Board, the said Line no ways Reclining from it, the Plain
+is Horizontal, otherwise not.
+
+3. To take the Altitude of the Sun without Instrument.
+
+
+Upon any Smooth Board, draw two Lines at right Angles, as AB and AC, and upon
+A as a Center with 60d of a Line of Chords describe the Arch BC, and into the
+Center thereof, at A drive in a Pin or Steel Needle, upon which hang a thread
+and Plummet, then when you would observe an Altitude, hold the Board so to the
+Sun, that the shadow of the Pin or Needle may fall on the Line AC, and where
+the thread intersects the Arch BC, set a mark, suppose at E then measure the
+Ark BE on your Line of Chords, and it shows the Altitude sought, for want of a
+Line of Chords, you may first divide the Arch BC into 9 parts, and the first of
+those Divisions into 10 smaller parts.
+
+3. To draw a Horizontal and Vertical Line upon a Plain.
+The readyest and most certainest way to do this, especially if the Plain lean
+downwards from the Zenith, will be by help of a thread and Plummet held
+steadily, to make two pricks at a competent distance in the shadow of the
+thread on the Plain, projected by the eye, and a Line drawn through those, or
+parallel to those two points, shall be the Plains perpendicular or Vertical
+Line, and a Line drawn perpendicular to the said Line, shall be the Plains
+Horizontal Line.
+
+To find the Reclination of a Plain.
+The Reclination of a Plain, is the Angle comprehended between the Plains
+perpendicular, and the Axis of the Horizon, and the same Definition may serve
+for the Inclination, only the upper face of a Plain, leaning from the Zenith,
+is said to recline, and the under face to incline. In this sense Mr. Oughtred
+in his Circles of Proportion, Mr. Wells in his Dyalling, Mr. Newton in his
+Institution, and Mr. Foster in his late writings, understand it, and so it is
+to be taken throughout this Treatise; but here it will not be amiss to intimate
+that Mr. Gunter, Mr. Wingate, and Mr. Foster in a Treatise of a Quadrant,
+published in Anno 1638. account the Inclination from the Horizon; the
+complement of the Angle here defined, and accordingly have suited their
+Proportions thereto, in which sense, the Reclining side is said to be the upper
+face of an Incliner; but for the future it will be inconvenient to take it any
+more in that Acception.
+
+Now to find the Reclination of a Plain, apply the straight edge of the Board
+we used for trying of Horizontal Plains, to the Plains perpendicular, holding
+the thread and plummet so in the grooved hole, that it may intersect the line,
+parallel to the straight edge of the Board, and make two pricks upon the Board
+where the thread passes, and it will make an Angle with the said Line, equal
+to the Plains Reclination, to be measured with Chords, according as was
+directed for taking of Altitudes; and if need require, a Line may be drawn
+parallel to that drawn on the Board, which represented the thread, which will
+make the same Angle with the Plains perpendicular, the former Line did.
+
+The Inclination will be easily got, by applying the straight edge of the
+Board, to the Plains perpendicular, and holding the thread and plummet so at
+liberty, as that it may cross the Line parallel to the Boards straight edge,
+and it will make an Angle therewith, equal to the Plains Inclination.
+
+Of Declining Plains.
+A Plain has its Denominations from the Situation of its Poles: by the Poles
+of a Plain, is meant a Line imagined to pass through the Plain at right Angles
+thereto, the Extremities of which Line on both sides the Plain, are called its
+Poles. If a Plain look full South, without swerving, either to the East or
+West; it is said to be a direct South Plain, if it swerve toward East or West,
+it is said to decline thereto; if it stand upright without leaning, it is said
+to be erect Now a South Plain that declines Eastward, the opposite face
+thereto, is said to be a North Plain declining as much Westward, by which means
+the Declination of a Plain will never exceed 90d, and to which sense the
+following directions toroughout this Treatise are suited. Now we may define the
+Declination of a Plain to be the Arch of the Horizon, contained between the
+true Points of East or West, and the Plain, equal whereto is the Arch of the
+Horizon between the true North or South, and that Vertical Circle or Azimuth
+that passes through the Plains Poles.
+
+To find the Declination of a Plain.
+Upon a Board, having one straight smooth edge, draw a Line parallel thereto,
+and thereon describe a Semicircle, with the Radius of the Chords, which
+distinguish into two Quadrants by a perpendicular from the Center; then holding
+the Board parallel to the Horizon, and applying the straight edge to the Wall,
+hold up a thread and Plummet, so that the shadow thereof may pass through the
+Center, and in the shadow, make a mark near the Limb, from which a Line drawn
+into the Center shall represent the shadow of the thread. In this Scheam, let C
+represent the shadow of the thread passing through the Center; at the same
+instant, take the Suns Altitude, and by the following directions, find the
+Suns true Azimuth. Admit the Sun be 75d to the Eastwards of the South, prick it
+from to S, then the distance between P and S shows the quantity of the Plains
+Declination, and the Coast is also shown, for if P fall to the Eastwards of S,
+the Declination is Eastwards, if to the Westwards of it, it is Westward; in
+this Example it is 30d Eastwards.
+
+We may suppose that the Reader knows which way from the Line of shadow to
+set of the Suns true Coast, that he may easily do by observing the Coast of his
+rising or setting, or whether his Altitude increase or decrease, and needs no
+directions.
+
+A General Proportion for finding the Azimuth.
+As the Cosine of the Altitude, Is to the Secant of the Latitude,
+
+Or as the Cosine of the Latitude: Is to the Secant of the Altitude;
+
+So is the difference of the Versed Sines of the Suns distance from the
+elevated Pole, and of the Ark of difference between the Latitude and Altitude.
+
+To the Versed Sine of the Azimuth from the North in this Hemisphere.
+
+Declination 23d 31, North.
+
+Latitude 51d 32
+
+Altitude 41d: 34
+
+Azimuth 105d from the North
+
+
+
+Upon C as a Center, describe the Semicircle EBM, and draw ECM the Diameter,
+and CB from the Center perpendicular thereto, from B set off the Declination to
+D, the Latitude to L, the Altitude to A; and draw the Line CA continued. The
+nearest distance from D to BC when the Declination is North, place from C
+toward M when South toward E, and thereto set K, assuming the Diameter EM to
+represent the Secant of the Latitude, the Radius of the said Secant shall be
+the Cosine of the Latitude doubled; wherefore the nearest distance from L to CM
+doubled, shall be the Radius to the said Secant, which prick on the Line of
+Altitude from C to Z, then the nearest distance from Z to CM shall be the
+Cosine of the Altitude to that Radius, which extent prick from E to F, and draw
+the Lines OF and FM; then for the third term of the proportion, take the
+distance between A and L, and prick it from M to G, from which point take the
+nearest distance to BC, and place it from C to X, so is the distance KX, the
+difference of the Versed Sines sought, which prick from F to Q, and draw QR
+parallel to FM, so is RM the Versed Sine of the Suns Azimuth from the North
+sought, and CR the Sine of it to the Southwards of the East or West, and BP the
+measure thereof in the Limb, found by drawing a LIne from R parallel to GB; in
+this Example the Suns true Goast is 15d to the Southwards of the East or West.
+Note also, that the Point R may be found without drawing the Lines OF, QR by
+entering the extent KX, so that one foot resting on the Diameter, the other
+turned about, may but just touch FM.
+
+To make a Horizontal Dyal.
+A Plain is then said to be Horizontal, when it is parallel to the Horizontal
+Circle of the Sphere proper to the place of Habitation; these are such kind of
+Dyals as stand commonly upon posts in a Garden.
+
+By the former Directions, a true Meridian Line may be found, let it here be
+represented by the Line FM.
+
+A Horizontal Dyal for the Latitude of London, 51 degrees, 32 minutes.
+Cross the same with a perpendicular, to wit, the Line of Six, and draw an
+Oblong or square figure as here is done, wherein to write the hours, from M to
+C set off such a Radius as you intend to draw a Circle withal, which for
+convenience may be as big as the Plain will admit, and therewith upon C as a
+Center describe a Circle, and set off the Radius of the said Circle from F to
+d, from M to k, and draw the right Line Fd, then prick the Poles height or
+Latitude of the place from f to L, and from L to S, and through the point S
+draw the Line MS, and it shall represent the Cock or Styles height from the
+point L, take the nearest distance to FM, and prick that extent from F to N on
+the Line Fd, then a Ruler laid from N to k, where it intersects the Meridian is
+the Regulating point, or point, then from M divide the Circle into twelve equal
+parts for the whole hours, setting the Letters of the Alphabet thereto, and lay
+a ruler from the Regulating point to each of those Divisions, and it will
+intersect the Circle on the opposite side, from which Intersections, Lines
+drawn into the Center at M, shall be the hours Lines required, to be produced
+beyond the Center, as many as are needful, which shall be the hours before or
+after 6 in the Summer half year, the halfs and quarters are after the same
+manner to be inscribed, by dividing each equal division of the Circle into
+halfs and quarters.
+
+This Circular Dyalling, was in effect, published and invented by Mr. Foster in
+his book of a Quadrant, in Anno 1638. for the demonstration of this Work will
+demonstrate the truth of those Circular performances, which he Operates on the
+back of that Quadrant, but is more expressly hinted in his Posthuma, the
+demonstration whereof shall follow.
+
+Those that have plain Tables with a Frame, may have Tangent Lines put on the
+sides of their Frame; and then if a Center be found upon the paper under the
+Frame by the Intersection of a Ruler laid over those Tangents, the requisite
+Divisions of a Circle to any Radius that can be described upon the paper, will
+be most readily given without dividing any Circle or setting of Marks or
+Letters thereto, the Frame keeping fast that paper, on which the Draught of the
+Dyal is made, which may also be supplied from a Circle divided on Pastboard cut
+out, which is to be Laced upon a Board over the paper whereon the Draught is to
+be made.
+
+An upright full South Dyal.
+This is no other then a Horizontal Dyal, in that Latitude which is equal to
+the complement of the Latitude of the place, you are in, only the hours must
+not be continued beyond the Center, and the Delineation requires no other
+directions then the former.
+
+On a direct North Dyal, in this Latitude, there will not be above two hours
+above, and two hours beneath each end of the Horizontal Line to be expressed,
+and the Style will have the same Elevation and point upward.
+
+Horizontall Dial
+An Upright South Dial
+
+
+
+
+In all upright North and South Plains, the Meridian or hour line of 12 is
+perpendicular to the Plains Horizontal line, if the Plain be direct the height
+of the Style above the substile, is equal to the complement of the Latitude.
+
+If the Plain be South Reclining, or North Inclining, the height of the Style
+above the substile, is equal to the Ark of difference between the complement of
+the Latitude and the Ark of Re-Inclination, and if this latter Ark be greater
+then the former, the contrary Pole is elevated.
+
+If the Plain be South Inclining, or North Reclining, the height of the Style
+above the substile, is equal to the sum of the Colatitude, and of the
+Re-Inclination, and when this latter Ark is greater then the Latitude, the
+Styles height will be greater then a Quadrant.
+
+Such Horizontal or direct South Dyals, both upright and leaning, whereon the
+style has but small Elevation, are to be drawn with a double Tangent Line
+without a Center, wherein the following directions for direct Polar plains, and
+those for other Oblique plains, whereon the style has but small elevation,
+will fully direct you.
+
+All Plains that cut the Axis of the World, have a Center; but if they be
+parallel thereto, the style has no Elevation.
+
+Such direct South Reclining, or North Inclining Plains, whose Arch of
+Reclination is equal to the complement of the Latitude, are parallel to the
+Axis, and are called Polar plains; in these the Hour Lines will be Tangent
+Lines of any assumed Radius, and the parallel height of the style above the
+plain, must be made equal to the Radius of the Tangent, by which the hours were
+set off.
+
+
+
+First draw the Tangent line CG, and perpendicular thereto ACB, upon C as a
+Center, with any Radius describe the Quadrant of a Circle HB, and prick off the
+Radius from C to A, from H to E, from B to D, from D to F, from F twice to G.
+
+A Ruler laid from A to E Finds the point 1 on the Tangent CG for the hour
+line of one, and laid from A to D finds the point 2 for the hour line of two,
+the hour line of three is at the point H, of four at the point F, of five at
+the point G; thus are the whole hours easily inserted.
+
+Now to insert the halfs and quarters.
+Divide the Arches BE, ED, DH into halfs, and a Ruler laid from A to those
+divisions will find points upon CH, where all the half hours under 45d are to
+be graduated; and if a Ruler be laid from B to those respective divisions of
+the Quadrant BH, it will find points on the Tangent CG, where the whole hours
+and halfs are to be graduated above 45d, after the same manner are the quarters
+to be inserted; But in regard the halfs and quarters above 45d will by this
+direction be found with much uncertainty, I have added the help following.
+
+First, Divide the halfs and quarters under 45d as now directed, then for those
+above make use of this Table.
+
+In a direct South Polar Dyal. The distances of these hour lines. Are equal to
+the distances of these hour lines.
+3 and 3 3 and 4 2 and 3 4: and 4 4 and 4 4 and 4 and 1 1 and 2 1 and doubled
+and 1 3 and 3 doubled: otherwise, 1 and 2 2 and 3
+This I do not assert to be absolutely true, but so near the truth, that there
+will not arive above one thousandth part of the Radius difference in the
+greatest Dyal that is made, and will be more certain then any Sector, though of
+a Vast Radius, or then they can with convenience be pricked down the common way,
+by a Contingent Line, the meaning of the Table will be illustrated by one or
+two examples.
+
+The distance between the hour lines of two and a quarter, and three and three
+quarters will be equal to twice the distance between the hour lines of twelve,
+and one and a half.
+
+Also the distance between four and a quarter, and four and a half, is equal to
+twice the distance between three and a half, and three and three quarters; or
+it is equal to the distance between one and three quarters, and two and three
+quarters, but the former is nearer the truth.
+
+It will be inconvenient in such plains, as also in direct East or West Dyals,
+to express any hour line from the substile beyond 75d or 5 hours.
+
+To these I may add some other observations which were communicated by Doctor
+Richard Stern, to Mr. Sutton, which may be of use to try the truth of these
+kind of Plains.
+
+1. The distance between the hours of 3 and 4, is equal to the distance between
+the hours of 1 and 3.
+
+2. The distance between the hours of 2 and 4, is double to the distance
+between the hours of 12 and 2.
+
+3. The distance between the hours of 11 and 4, is doubt to the distance
+between 12 and 3, or to that between 9 and 12, and so equal to the distance
+between 9 and 3, also equal to the distance between 4 and 5.
+
+4. The distance between the hours of 11 and 5, is double to the distance
+between the hours of 11 and 4, as also to the distance between the hours of 4
+and 5, and between 9 and 3; and quadruple to the distance between 12 and 9, or
+between 12 and 3.
+
+These are absolutely true, as may be found by comparing the differences of the
+respective Tangents from the natural Tables.
+
+To draw a Polar direct South Dyal.
+Having drawn the Plains perpendicular in the middle of the Plain, let that be
+the hour line of 12, then assuming the style to be of any convenient parallel
+height, that will suit the plain, making that Radius, divide a Tangent line
+into hours and quarters by the former directions, and prick them down on the
+Plain, upon a line drawn perpendicular to the Meridian or hour line of 12 on
+each side thereof, and through the points so pricked off, draw lines parallel to
+the Meridian line, and they shall be the hour lines required, as in the Example.
+
+
+
+To describe an Equinoctial Dyal.
+Such direct North Recliners, or South Incliners, whose Re-Inclination is equal
+to the Latitude, are parallel to the Equinoctial Circle, and are therefore
+called Equinoctial Dyals, there is no difficulty in describing of these: Divide
+a circle into 24 equal parts for the whole hours, and afterward into halfs and
+quarters, and place the Meridian line in the Plains perpendicular, assuming as
+many of the former hours as the Sun can shine upon for either face, and then
+placing a round Wyre in the Center for the Style, perpendicular to the Plain,
+and the Dyal is finished. A South plain Declining 30d East Latitude 51-32
+page 13
+
+page 17
+
+
+
+A South Dial Declin 30d East Latitude 51-32
+
+
+To prick off the Substile and Styles height on upright Decliners in their true
+Coast and quantity.
+On such Plains draw a Horizontal Line, and cross the same with a perpendicular
+or Vertical, at the intersection set V at the upper end of the Vertical Line
+set S, at the lower end N, at the East end of the Horizontal Line set E, at the
+West end W, prick off the Declination of the Plain in its proper Coast from S
+or N to D, and draw DV through the Center, the same way count off the Latitude
+to L, and from it draw a Line into the Center; in the same quarter make a
+Geometrical square of any proportion at pleasure, so that two sides thereof may
+be parallel to the Horizontal and Vertical Line, at the intersection of one of
+the sides thereof, with the Vertical set A, and of the other side, with the
+Horizontal Line, set B, and where the Latitude Line intersects the side of the
+square, set F.
+
+To prick off the Substilar.
+For Latitudes above 45d take BF, and prick it on the Line of Declination
+beyond the Center from V to O, and from the point O, draw the Line OC parallel
+to the Vertical Line, and produced beyond O, if need require, and thereon from
+C to I prick the side of the Square, and a line drawn into the Center, shall be
+the Substilar line; but for Latitudes under 45d prick the side of the square
+from V to O, and draw OC as before, and make CI equal to AF, and a line from I
+drawn into the Center, shall be the Substilar line.
+
+Styles Height.
+From the Point I erect the extent OC perpendicularly to the substilar OI, at
+the extremity thereof set K, from whence draw a line into the Center, and the
+Angle IVK will show how much the style is to be elevated above the substilar
+line.
+
+In order to the Demonstration hereof, let it be observed that an Angle may be
+pricked off by Sines or Tangents in stead of Chords.
+
+To prick off an Angle by Sines or Tangents.
+
+
+As in the Scheme annexed, let BC be Radius, and let there be an arch pricked
+off with Chords, as BE; I say, if the Tangent of the said Ark BA be taken out
+of a line of Tangents to the same Radius, and be erected perpendicular to the
+end of the Radius, as BA, a line drawn from A into the center, shall include
+the same Angle as was pricked off by Chords, as is evident from the definition
+of a Tangent.
+
+In like manner an Angle may be pricked off by Sines, the nearest distance from
+E to BC is the Sine of the Arch BE, so in like manner the nearest distance from
+B to EC, is the Sine of the same Arch; wherefore if with the Sine of an Arch
+from the end of the Radius be described another Ark, as F, and from the Center
+or other extremity of the Radius, a line drawn just touching the same, the
+Angle included between the said line, and the Radius shall be an Ark equal to
+the Ark belonging to the said Sine; and what is here done by a line of natural
+Sines or Tangents, by help of a Decimal line of equal parts, equal to the
+Radius' may be done by help of the natural Tables without them.
+
+Any Proportion relating to the sixteen cases of Sphoerical Triangles, amongst
+which the Radius is always ingredient, may be so varyed, that the Radius may be
+in the third place, and a Tangent or a Sine in the fourth place, and then if
+the Ark belonging to the fourth Proportional be known, an Angle equal thereto
+may be pricked off by Tangents or Sines according to the nature of the fourth
+term, as beforth; if it be unknown, notwithstanding an Angle equal thereto may
+be pricked off with Sines or Tangents according to the nature of the fourth
+term, from the two first terms of the Proportion, because they are in such
+Proportion, the first to the second, as the Radius or third term is to the
+fourth; upon this Basis follows the demonstration of this Scheme.
+
+The Demonstration of the former Scheme for upright Decliners.
+1. That the Substilar Line is true pricked off.
+Assuming VB equal to VA to be Radius, then BF becomes the Cotangent of the
+Latitude, whereto VO is made equal, which becoming Radius, OC is the Cosine of
+the Declination, and VC the Sine. Now one of the Proportions for finding the
+Substile distance from the Meridian is this following: As the Sine of the
+Plains Declination, Is to the Tangent of the Latitude:
+
+So is the Radius to the Tangent of the Substiles distance from the Horizontal
+Line.
+
+
+
+From whence it follows, that if the Sine of the Declination be pricked on the
+Horizontal Line from the Center, as VC, and the Tangent of the Latitude,
+erected perpendicularly thereto, as CI equal to VA, it shall give a point from
+whence a Line drawn into the center, shall be the Substilar Line.
+
+Now I am to prove that VA is the Tangent of the Latitude, thus it is made
+good: In a Tangent Line of 45d, if the Tangent of any part or ark of it be
+assumed to be Radius (as here FB the Cotangent of the Latitude equal to VO,
+which before was made Radius) then does the said whole Tangent line (which in
+this case is any side of the Square) become the Tangent of that arks
+complement: thus, VA becomes the Tangent of the Latitude, because the Radius is
+a mean Proportional between the Tangent of an Ark, and the Tangent of that Arks
+complement; For, As the Cotangent of the Latitude BF, Is to the Radius BG,
+
+So is the Radius BF, to the Tangent of the Latitude BG, there being the like
+Proportion between the two latter, as the two former terms.
+
+
+
+2. That the Styles Height is true pricked off.
+To perform this, the Cosine of the Declination OC, to that lesser Radius, was
+erected perpendicularly from the point I, in the Substilar (...), and IK made
+equal thereto. Now one of the Proportions for calculating the Styles height is:
+As the Secant of the Latitude, Is to the Cosine of the Declination:
+
+So is the Radius, To the Sine of the Styles Height.
+
+
+
+Consequently the Styles height may be pricked off from the two first terms of
+the Proportion, if it can be proved that VK is the Secant of the Latitude; here
+let it be remembered that UP is the Tangent of the Latitude, IP the Sine of the
+Declination, and IK the Cosine.
+
+By construction the Angles VPI and VIK are right Angles, therefore the square
+of VI is equal to the two squares of UP, and IP by 47 Prop. 1 Euclid; again the
+square of VK is equal to the two squares of IK and IV, wherefore the square of
+VK is equal to the sum of the three squares of IK, IP and UP; but the squares
+of PI a Sine, and IK its Cosine are equal to the square of the Radius.
+
+But the square of the Radius, and the square of UP, the Tangent of the
+Latitude, is equal to the square of VK, therefore VK is the Secant of the
+Latitude, because the square of the Radius, more the square of the Tangent of
+any Ark, is equal to the square of the Secant of the said Ark.
+
+3. That VK is equal to VF.
+Let VF be an assumed Radius, so will FB be the Cosine of the Latitude. Again
+observe that in any line of Sines if the Sine of any Ark be made Radius, the
+whole line becomes the Secant of that Arks complement, so here VK being the
+Secant of the Latitude is equal to VF the Radius, for let VT be made equal to
+VF, I say it holds as VO the Cosine of the Latitude, is to the Radius VT, so is
+VO the Radius to VT the Secant of the Latitude, which is therefore equal to VK.
+
+Whence the trouble of raising a perpendicular in this Scheme, because the side
+of the square passes through the complement of the Latitude, is shunned the
+point K falling in the outward circumference.
+
+Lastly, from all this it unavoidably follows that VI is the Cosine, and IK the
+Sine of the Styles height to the Radius VF, which was to be proved.
+
+An upright South Dyal, Declining 30 degrees Eastwards, Latitude 51 degrees, 32
+minutes. To draw the hour Lines of the former upright Decliner.
+First draw the Plains perpendicular CO, which for upright Plains is the
+Meridian line, and with the Radius VF of the former Scheme, draw an occult Ark
+upon C as a center, and therein set off NV equal to TN of the former Scheme,
+and draw the line IVC for the substile, and with the Radius VC describe a
+circle thereon.
+
+1. The first work will be to find the Regulating Point in the Substile,
+called the Point Sol.
+Prick the Radius of the said Circle from I to P, and from C to Q, and draw the
+Line IP, and therein make IK equal to IK in the former Scheme, then a ruler
+said from K to Q, where it intersects the Substilar is the Regulating Point.
+
+2. To find a Point from whence the Circle is to be divided into 12 equal
+parts.
+Lay a Ruler from O to the point, and it intersects the Circle on the Opposite
+side, at it set M.
+
+3. To divide the Circle.
+From the point M before found, lay a ruler through the Center V, and it will
+find a Point on the other side the circle, at it set f, the points Mf divide
+the Circle into halfs, and each half is to be divided into six parts, the
+Radius VM will easily divide each half into three parts, and then it will be
+easy to divide each of those parts into halfs, and so the whole Circle will be
+divided into 12 equal parts, and if it be desired to inscribe the half hours
+and quarters, then must each of those parts be divided into halfs and quarters.
+
+Having thus divided the Circle into 12 parts, distinguish them with the
+Letters of the Alphabet.
+
+4. To draw the hour lines, and to number them.
+Lay a Ruler to each of those Letter divisions, and upon the Regulating Point
+in the Substile, and it will find points on the Opposite side of the Circle
+from which if lines be drawn into the Center at C' they shall be the hour lines
+required.
+
+5. An inconvenience shunned.
+When the points through which the hour lines are to be drawn, fall near the
+Center, the hour lines cannot be drawn from the said points with certainty.
+
+In this case let any hour line near the said point be produced, if need
+require, and upon C as a Center with the Radius CV describe the Ark of a Circle
+from the produced hour-line, take half the distance between the point, where
+the produced hour line, cuts the Circle, and the point through which the hour
+line proposed is to be drawn, and prick that extent off in the Arch swept,
+setting one foot where the Arch swept cuts the hour line already drawn, from
+whence half the distance was measured, and the other foot will find a Point in
+the said Arch, through which the hour line desired is to pass: Thus we
+inscribed the hour line of three in the former Dyal.
+
+When the North Pole is elevated, the Center of the Dyal must be below, but
+when the South Pole is elevated, as in this example, it must be above, and the
+Point must be always found in the other part of the Diameter most remote from
+the Center.
+
+6. The Styles height may be transferred from the former Scheme into this, by
+pricking the Arch TK twice in this Circle, and it finds a point, from whence a
+line drawn into the Center, shall represent the Style.
+
+That the hour lines are true Delineated.
+The Point Sol found in the Substile, divides the Diameter of the Circle drawn
+on the said Substile in such Proportion, as the Radius is to the Sineof the
+Styles height, by reason of the equiangled Triangles, whose Bases bear such
+proportion as their perpendiculars.
+
+The next work performed by dividing the Circle into 12 equal parts, and
+finding points on the opposite side, by laying a ruler over those equal parts
+through the point Sol, carries on this Proportion.
+
+As the Radius is to the Tangent of the hour from the substile, So is the Sine
+of the Styles height
+
+To the Tangent of the hour line, from the Substile, being the proportion used
+in all Dyals, whereby to set off the hours.
+
+In the third figure following, let BA represent the Substile, and let the
+Regulating Point be at M, so that BM bears such Proportion to MA, as the Radius
+does to the Sine of the Styles height, let the perpendicular BHE represent a
+line of Tangents, whose Radius is equal to BC, and the perpendicular AD,
+another line of Tangents to the same Radius both infinitely produced, and let
+BE represent the Tangent of some particular Arch or hour to be drawn, from E
+through the point M draw a right line to D, and the Proportion lies evident in
+right lines.
+
+As the Radius BM: Is to the Tangent of the hour line from the Subtle BE So is
+the Sine of the Styles height MA
+
+To the tangent of the hour line from the substile AD.
+
+If from every degree of a Tangent line, lines be drawn into the Center of the
+Circle proper to that Tangent, they shall divide that Quadrant to which they
+belong into 90 equal parts, this follows from the definition of Tangents, but
+if the lines be drawn from every degree of the said tangent to the extremity
+of the diamer, they shall divide a Semicircle into 90 equal parts by 20 Prop.
+3. Euclid. because an Angle in the Circumference, is but half so much as it is
+in the Center.
+
+Thus the Semicircle BGA is supposed to be divided into 90 equal parts from the
+Tangent BE, by lines drawn to A, as is the line EGA, so is the other Semicircle
+from the other Tangent AD, by lines drawn to B, as is BFD; Now if it can be
+demonstrated that the points GMF are in a right line, it follows that the same
+Proportions may be carried on from the equal divisions of these Semicircles, as
+were done in the right Tangent lines BE and AD, this Proposition being very
+well Geometrically demonstrated by my loving friend Mr. Thomas Harvy; his
+Demonstration thereof shall hereafter follow.
+
+Having found the distance of the hour line, from the subsistle AB, if B be
+made the Center of the Dyal, the right line BF drawn into the Center, shall
+represent the hour line proposed, making the same Angle with the Substile, as
+was found by the proportion; note that no hour can be further distant on one
+side or other of the Substile then 90d, and the said Ark of distance will be
+found in one of the Semicircles, and if the Center were not placed in the
+Circumference, the Angle found would be extended beyond its due quantity, in
+all upright Decliners or leaning Plains: The first Proportion carried on, is
+this; As the Sine of the Styles height:
+
+Is to the tangent of the distance between the Meridian and substile:
+
+So is the Radius: to the tangent of the inclination of Meridians:
+
+
+
+Whereby is found the point from whence the Circle is to begin to be divided
+into 12 parts for the whole hours with their halfs and quarters, and those
+equal divisions give the Angles between the Meridian of the plain, and the
+respective hours, called by some the Angles at the Pole, and then the work is
+the same as before: Now to the Proposition.
+
+Construction.
+The right lines AD, BE are parallel, and touch the Circle in the extremes of
+the Diameter AB, DE is drawn at pleasure, cutting the Tangents in D and E, and
+the Diameter in M, BD and AE cutteth the Circumference in F and G, it is
+required to be proved that the Points F, M, and G, are in a right line.
+
+Draw the lines MF, MG, first if AD be = BE then AM is = MB, for the Triangles
+ADM and BEM are equiangeld, therefore M is the Center. Again AD being = BE and
+the Angle DAB = EBA and AB common to both Triangles DAB, EBA therefore the
+Angles DBA, EAB are equal, and the double of them FMA, GMB the Angles at the
+Center, are also equal, wherefore FM and MG is one and the same right line
+which was to be proved.
+
+Secondly, if AD be not equal to BE, as in the second, third, and fourth
+Scheams let BE be greater, and make BH = AD and BY = AM, and draw the right
+line AH cutting the Circumference in K; draw likewise IK, IH, GK, and extend GK
+infinitely both ways, which shall be either parallel to AB (as in the second
+figure) or cut it in the point P one side or the other, as in the third and
+fourth figures, in each from the points A and B, and the Center C at right
+Angles to GK, draw the lines AO, BN, CL lastly draw BG, from which Construction
+it willfollow, That 1. HI is parallel to ED for HB is = AD and BY = AM and the
+Angles HBI and DAM are equal, therefore the angle AMD = BME is = BIH wherefore
+HI is parallel to ED.
+2. IK is parallel to MF for HB is = AD and the Angle HBA = DAB, and AB common
+to both the Triangles HBA and DAB, therefore the Angles HAB and DBA are equal,
+wherefore AK = BF, but AK being = BF and IA = MB, and the Angle KAI = MBF,
+therefore KI is parallel to MF.
+
+
+
+
+
+3. The Triangles AHE and AGK, are equiangled, so also are the Triangles AHB
+and AGO, because the Angle AKG = ABG is = AEB and EAH common to both the
+Triangles AHE and AGK, therefore they are equiangled; again the Angles AHB and
+and AGO being equal, the right Angled Triangles ABH and AOG are also equiangled.
+
+4. NL is equal to LO, because BC is equal to CA and NK is = GO, because KL is
+= LG; now in the equiangled Triangles ABH, AOG as BH: HA OG: GA and in the
+Triangles AHE, AGK as HA: HE GA to GK, therefore (ex equo) it will be as BH: HE
+OG: GK, but as BH: HE BY: IM for IH is parallel to EM, therefore as BY: IM OG:
+GK but NK is = OG, therefore BY: IM NK: KG, but IC is half of IM and KL half of
+KG, therefore BY: IC NK: KL, therefore by Composition of Proportion, as BC: IC
+NL: KL, alternately, as BC: NL IC: KL.
+
+In the second figure BC is = NL, therefore IC is = KL, wherefore (because IC
+is also parallel to KL) IK is parallel to CL, by like reason GM is also
+parallel to CL, but in the third and fourth figures the sides PC, PL of the
+Triangle PCL are cut Proportionally by the parallel BN, and as before, as BC:
+NL IC: KL, and as PC: PL BC: NL, therefore PC: PL IC: KL, wherefore IK is
+parallel to CL.
+
+Again as before, BC: NL IC: KL, But CM is = IC and IG is = KL, therefore as
+BC: NL CM: LG, but as has been said, as BC: NL PC: PL, therefore as PC: PL CM:
+LG, wherefore because the sides PM: PG, of the Triangle PMG are cut
+proportionally in C and L, CL and MG are parallel one to another.
+
+Now in all the three figures it has been proved that IK and MG are either of
+them parallel to CL, therefore they are parallel one to another, wherefore the
+Angle GMI is equal to the Angle KIB which before was proved to be equal to AMF,
+therefore the Angles GMI and AMF are equal one to another, wherefore FM and MG
+is one and the same right line which was to be proved.
+
+To draw an East or West Dyal.
+Let the hour line of six, which is also the Substilar line, make an Angle
+equal to the Latitude of the place, with the Plains Horizontal line, above that
+end of it that points to the Coast of the elevated Pole, then draw a line
+perpendicular to the Substilar line, which some call a Contingent line, and
+with such a Radius as you determine the Style shall have parallel height above
+the Substile: divide a Tangent line of hours and quarters according to the
+direction for direct Polar Recliners, then through those divisions draw lines
+parallel to the Substile and they shall be the hour lines required; thus the
+hours of 5 and 7, are each of them Tangents of 15d from six, and so for the
+rest, let them be numbered on each side of six (being the Substile) for an East
+dyal with the morning hours, for a West dyal with the afternoon hours, the one
+being the complement of the other to 12 hours, and therefore we have but one
+example, namely an East dyal for the Latitude of London.
+
+How to fill this or any other Plain, with any determined number of hours,
+shall afterward be handled. A West Dial Reclining 50d Latitude 51-32
+An East Dial Inclining 40d Latitude 50d
+
+
+
+
+To prick off the requisites of an East or West Reclining or Inclining Dyal in
+their true Situation and quantity.
+In these Plains, first draw the Plains perpendicular, and cross it with a
+Horizontal line, which is also the Meridian line; in any one of the quarters,
+make a Geometrical square, as before directed for upright decliners, and from
+the Plains Vertical in the said quarter, count off the Latitude to L, and from
+the Horizontal line in the said quarter count off the Reclination or
+Inclination to R, and from L and R, draw lines into the Center, and where the
+Latitude line intersects the side of the square, set F.
+
+1. To prick off the Substile.
+For Latitudes above 45d place BF from V the Center in the Horizontal line for
+Recliners Northwards, for Incliners Southwards, and thereto set O, and through
+the said point, draw a line parallel to the Vertical, and place the nearest
+distance from A to RV on the former parallel, from O for Recliners upwards to
+I, but for Incliners downwards, and a line thence drawn into the Center, shall
+be the Substile.
+
+2. The Styles height.
+Place the nearest distance from B to RV on a perdendicular raised from the
+point I in the Substile, and it finds the Point K, whence a line drawn into
+the Center, shall represent the Style. In the other Hemisphere the words
+Northwards and Southwards, must be mutually changed.
+
+For Latitudes under 45
+The side of the square must be placed from V to O and AF must be placed on the
+line of Reclination or Inclination from V to C, the nearest distance from C to
+VA placed on the perpendicular, passing through O for Recliners upwards, but
+for Incliners downwards, finds the Point I, through which the Substile is to
+pass, and the nearest distance from C to VB raised perpendicularly on the point
+I in the Substile, finds the point K for the Style, as before.
+
+Demonstration. 1. For the Substile.
+In these Plains VB or VA being Radius FB is the Contangent of the Latitude and
+the nearest distance from A to RV, is the Cosine of Reclination or Inclination
+to the same Radius, and the nearest distance from B to RV, the Sine thereof;
+this for Latitudes above 45, but for lesser Latitudes. AF the Tangent of the
+Latitude was made Radius, and thereupon the Radius or side of the square
+be-became the Cotangent of the Latitude, and the nearest distance from C to VA
+was the Cosine, and from C to VB the Sine of the Reclination or Inclination, so
+that the prescribed Construction in both cases erects the Cosine of the
+Re-Inclination on the Cotangent of the Latitude, which is made good from this
+proportion.
+
+As the Cotangent of the Latitude
+
+Is to the Cosine of the Re-Inclination from the Zenith
+
+So is the Radius: To the tangent of the Substilar from the Meridian.
+
+2. For the Style.
+A proportion that will serve to prick it off, is, As the Cosecant of the
+Latitude, is to the Sine of the Re-Inclination,
+
+So is the Radius: To the Sine of the Styles height.
+
+
+
+Admit the Styles height were calculated, and truly pricked off by Chords, I
+say if the Sine of the Latitude be made a Radius, as the side of the square is
+in Latitudes above 45d and as AF is in Latitudes under 45d the Radius to the
+said Sine will become the Cosecant of the Latitude; now we shall prove that VK
+is the Cosecant of the Latitude, the three squares IK, IO, and OV, are equal to
+the square of VK, as before asserted, two of these squares IK and IO are equal
+to the square of the Radius, the third square, viz. of VO is the square of the
+Cotangent of the Latitude, but the square of the Radius, more the square of the
+Cotangent of the Latitude is equal to the square of the Cosecant of the
+Latitude; I say then, if from K a perpendicular be let fall to VI, so as that
+it may be equal to the Cosine of the Re-Inclination shall prick off the Style
+true by the directions for pricking off an Angle by Sines, whereto the
+proportion for the Styles height is suited and would pass through the point I,
+by page 25 A West Dial Reclining 50d Latitude 51 32
+A South Plain Declining 40d East Inclining 15 degrees
+
+
+reason of the equality of the three squares to the square of VK, then by
+consequence the contrary follows, having the point I first given, the Point K
+may be found according to the prescribed Construction.
+
+A West Plain, Reclining 50 degrees, Latitude 51 degrees, 32 minutes. The Point
+Sol, Substile, Style, and hour lines, are all found after the same manner as in
+an upright Decliner, the Substile being set off from the Meridian line here,
+after the same manner as it was from the Meridian there.
+
+A South Plain Declining East 40 degrees, Inclining 20 degrees, Latitude, 51
+degrees, 32 minutes. To prick off the Requisites in all Declining, Reclining,
+and Incliing Plains in their true Coast and quantity.
+Now follows those Directions enlarged, which as I said in the Epistle, I
+received from Mr. Thomas Rice. UPon any Plain first draw a true Horizontal
+line, at the East end thereof set E, and at the West end W, cross the said line
+with a perpendicular, which may be called the Plains perpendicular, by some
+termed the Plains Vertical line, or line of Reclination, at the intersection of
+these two lines set V, and upon it as a Center describe a Circle (the Radius
+whereof may be equal to 60d of a line of Chords) at the upper end of the
+Vertical line set S, and at the lower end N.
+
+As the Declination is, set it off with Chords from S or N toward the true
+Coast, and at it set D, from whence draw a line through the Center; also set
+off the Latitude of the place the same way and in the same quarter, and at it
+set L, from which draw a line to the Center.
+
+From that end of the Horizontal line, toward which the declination was
+counted, set the Inclination (which as well as the Reclinais reckoned from the
+Zenith, the former being the Denomination of the under, the latter of the upper
+face) upwards toward S, and the Reclination downwards toward N, and at it set
+R, from whence draw a line through the Center to the other side, of the Circle.
+
+In the same quarter of Declination, draw HA parallel to the Horizontal line,
+and FG parallel to the Vertical line, in a Geometrical square, of like and of
+any convenient distance from the Center at pleasure, and where the Latitude
+line intersects the side of the square, let the letter F be placed.
+
+On the line of Declination beyond the Center, make VO equal to FG, and draw OB
+parallel to the Horizontal line, continued till it meet with the side of the
+square FG produced, at the point of concurrence, set B, and where it intersects
+the Plains perpendicular, set P, and draw OC parallel to the Vertical line
+cutting WE at C, and make HA equal to OC or BG, now by help of the three points
+A, B, C thus found, the requisites will be easily pricked off.
+
+1. The Substilar line.
+The nearest distance from A to RV, set on the line CO (produced if need be)
+from C to I the same way the distance was taken from A, that is, if downward or
+upward, the other must be so too, will show where VI the Substilar Line is to
+be drawn.
+
+2. The Styles height.
+The least distance from B to RV, set on a perpendicular raised upon the
+Substile from the point I will find the point K, from whence draw a Line into
+the center at V, and the Angle IVK will show how much the Style is elevated
+above the Substile, and if the work be true, VK and VF will be equal, whence it
+follows, that the trouble of raising the mentioned perpendicular may be shunned.
+
+3. The Meridian line.
+The least distance from C to RV, set upon the Line OPB, from P on that side,
+which is farthest from the Line RV, will find the Point M, from whence a Line
+drawn into the Center, shall be the meridian Line.
+
+And I add that on all North Recliners in the Northern Hemisphere, the
+meridian Line must be drawn through the center on the other side; and then the
+construction of the Scheam will place it below the Plains Horizontal Line,
+which is its proper Situation for the said upper face, and for the under face
+the Scheam places it true without caution.
+
+4. A Polar Plain how known.
+If the line RV fall just into B, the Plain is a Polar Plain, in such a Plain
+the Style has no height, but is parallel to the Axis, in this case the
+Inclination of Meridians must be known, directions for such Plains must
+afterward follow.
+
+But if the line RV fall between the Points B and P, then must the Substile
+Style and Meridian be all drawn through the Center, and stand beyond on the
+other side.
+
+Annotations on the former Scheam.
+1. That for Latitudes under 45d this construction of the Scheam, supposes the
+sides of the square produced, which will therefore be liable to large
+excursions or other inconveniences, wherefore for such Latitudes, I shall
+somewhat vary from the construction prescribed.
+
+2. In finding the Substilar line, in stead of erecting CI upon VC, you may
+prick the same on the Vertical line UN, and thereto erect VC, and get the point
+I possibly with more certainty by finding the intersection of two Arks where
+the said Point is to pass.
+
+3. In pricking off the Meridian line, the distance of C from the Center may be
+doubled or tripled, but so must likewise UP, and the nearest distance from C to
+RV erected on a line drawn parallel to WE, passing through the Point P so
+found, and in stead of drawing such a parallel, the Point M may be found by the
+intersection of two Arks.
+
+4. That this Scheam places the requisites of all Dyals in their true coast
+and quantity, yet notwithstanding if this Scheam be held before a
+Looking-Glass, the Effigies thereof in the Glass shows how the Scheam would
+happen and place the Requisites, namely, the Style, Substile and Meridian, for
+a Plain of the same Denomination, but declining to the contrary Coast.
+
+And if the face of the said Scheam be laid upon a Window, and the Substile,
+Style and Meridian be continued through the Center on the backside thereof, it
+shows you how these requisites are to be placed on the opposite side of the
+Plain, which being done, may be held before a Looking-Glass as before, and will
+be represented for the contrary Declination of that opposite face: the truth of
+all which will be confirmed from the Scheam it self.
+
+This Scheam for Declining, Reclining, or Inclining Plains, uses a new method
+of Calculation, derived from an Oblique Triangle in the Sphere, wherein there
+is two sides with the Angle comprehended, given to find both the other Angles,
+which is reduced by a perpendicular to two right Angled Triangles, from which
+the following proportions are derived.
+
+I shall therefore first deliver the said method, then demonstrate that the
+said proportions are carried on in the Scheam; and lastly, from the Sphere,
+show how those proportions do arise.
+
+1. To find a Polar Plains Reclination or Inclination.
+As the Radius, Is to the Cosine of the Plains Declination,
+
+So is the Cotangent of the Latitude, To the Tangent of the Reclination or
+Inclination sought.
+
+2. To find the distance of the Substile or Meridian line, from the plains
+perpendicular for a Polar plain.
+As the Radius, Is to the Sine of a Polar Plains Reclination,
+
+So is the Tangent of the Declination, To the Tangent of the Substilar line
+from the Plains perpendicular.
+
+3. The Inclination of Meridians.
+As the Radius, Is to the Sine of the Latitude,
+
+So is the Tangent of the Declination, To the Tangent of the Inclination of
+Meridians.
+
+Affections of a Polar Plain.
+The Substilar on the upper face, lies above that end of the Horizontal line,
+toward the Coast of Declination, and the Meridian lies parallel to the
+Substile beyond it, toward that end of the Horizontal line that is toward the
+Coast of Declination.
+
+For Declining, Reclining, or Inclining Plains.
+First find a Polar Plains Reclination for the same Declination.
+
+Then for South Recliners and North Incliners, get the difference, but for
+North Recliners and South Incliners, the sum of a Polar plains Reclination, and
+of the Re Inclination of the plain proposed, and then it holds.
+
+1. For the Substile.
+As the Cosine of the said Ark of difference or sum according as the Plain
+leans Northward or Southwards,
+
+Is to the Sine of the Polar Plains Reclination,
+
+So is the Tangent of the Declination,
+
+To the Tangent of the Substilar from the Plains perpendicular.
+
+2. For the Styles height.
+As the Radius, Is to the Cosine of the Substiles distance from the Plains
+perpendicular,
+
+So is the Tangent of the Sum or difference of Reclinations, as before limited,
+To the Tangent of the Styles height.
+
+3. Meridians distance from the plains perpendicular.
+As the Radius, Is to the Sine of the Re Inclination,
+
+So is the Tangent of the Declination,
+
+To the Tangent of the Meridian from the Plains perpendicular.
+
+4. Inclination of Meridians.
+As the Sine of the Styles height,
+
+Is to the tangent of the distance between the Meridian and Substile,
+
+So is the Radius, to the tangent of the Inclination of Meridians.
+
+For South Recliners or North Incliners, the difference between the substiles
+distance from the plains perpendicular, and the Meridians distance therefrom,
+is equal to the distance between the Meridian and Substile; the like for such
+North Recliners or South Incliners, as Recline or Incline more then an
+Equinoctial Plain, having the same declination, but if they lean above it, or
+have a lesser Reclination, the sum is the distance between the Meridian and the
+Substile.
+
+The three first Proportions, besides the finding of a Polar Reclination, are
+used in the Scheam for the placing of the Requisites, and the latter proportion
+in the Circular Scheam for drawing the hours.
+
+Another proportion for finding the Inclination of Meridians by Calculation,
+is: As the Cosine of the Latitude,
+
+Is to the sine of the substiles distance from the Plains perpendicular,
+
+So is the Cosine of the Re Inclination of the Plain,
+
+To the sine of the Inclination of Meridians.
+
+
+
+The Reclination of an Equinoctial Plain to any assigned Declination, is
+necessary for the determining of diverse affections: The Proportion to find it,
+is: As the Radius: Is to the Cosine of the Plains Declination:
+
+So is the Tangent of the Latitude,
+
+To the Tangent of the Reclination sought.
+
+
+
+The upper face of an Equinoctial Plain, is called a North Recliner, the
+Meridian descends from the end of the Horizontal line opposite to the Coast of
+Declination, the Substilar line is the hour-line of six, and makes right
+Angles with the Meridian line.
+
+Directions for the true Scituating of the Meridian and Substile suited to the
+former method of Calculation.
+1. For Plains leaning Northwards.
+If a South Plain recline more then a Polar Plain, having the same Declination,
+the Plain passes beneath the Pole of the World, the North Pole is elevated
+upon the upper face, the Substile and Meridian line lie above that end of the
+Plains Horizontal line, toward the Coast of Declination, the Substilar line
+being next the Plains perpendicular.
+
+For the under face being a North Incliner, the South Pole is elevated, the
+lines lie in the same position below the plains Horizontal line, and on the
+contrary side of the plains perpendicular.
+
+If a South Plains Reclination be less then the Polar Plains Reclination, the
+Plain passes above the Pole, and the North Pole is elevated on the under face,
+being the inclining side.
+
+The Substile and meridian lie above that end of the Plains Horizontal line
+that is opposite to the Coast of Declination, the meridian being nearest the
+Plains perpendicular, for the upper face being a South Recliner, the South Pole
+is elevated, and the lines lie in the same Position below the Plains horizontal
+line, but on the contrary side of the plains perpendicular descending below
+that end of the Horizontal line, opposite to the Coast of Declination.
+
+2. For Plains leaning Southwards generally on the upper face the North Pole is
+elevated on the under face the South Pole. To place the Substile.
+Such North Recliners whose Reclination is less then the complement of a Polar
+plains Reclination, the Substile is elevated above the end of the Horizontal
+line contrary to the Coast of Declination, and on the under face, being a South
+Incliner, the Substilar is depressed below the end of the Horizontal line,
+opposite to the Coast of Declination.
+
+But when the Reclination is more then the complement of the Reclination of a
+Polar plain, the Substile is to lie below the plains Horizontal Line, from that
+end opposite to the Coast of Declination.
+
+But for South Incliners, being the under face, the Substile is elevated above
+the end of the Horizontal line, opposite to the Coast of Declination.
+
+To place the Meridian.
+On all North Recliners the Meridian lies below the Horizontal Line from that
+end thereof, opposite to the Coast of Declination, because at noon the Sun
+being South, casts the shadow of the Style to the Northwards.
+
+On the under face, being a South Incliner, it must always be placed below the
+Horizontal Line, below that end of it toward the Coast of Declination.
+
+These Directions suppose the Declination to be denominated from the Situation
+of that face of the plain on which the Dyal is to be made, and the Horizontal
+line for all Dyals that have Centers, is supposed to pass through the same.
+
+Now to the Demonstration of the former Scheam.
+1. It Is asserted that if RV fall into the point B, the plain is a Polar plain,
+in which case the Style is parallel to the Axis of the world.
+
+Demonstration.
+Every Declining plain may have such a Reclination found thereto, as shall make
+the said plain become a Polar plain, and the proportion to find it, may be
+thus:
+
+As the Tangent of the Latitude, Is to the Cosine of the Declination,
+
+So is the Radius, To the Tangent of the Reclination sought.
+
+In the former Scheam. if we make FG the Cotangent of the Latitude Radius, the
+side of the square will be the Tangent of the Latitude, now VO equal to FG,
+being Radius, OC equal to GB, is the Cosine of the Declination; wherefore a
+Line drawn into the Center from B, shall include the Angle of a Polar plains
+Reclination agreeable to the two first terms of the proportion, and to the
+directions for pricking off an Angle by Tangents.
+
+2. That the substile is true pricked off.
+Upon V as a Center with the Radius VB, imagine or describe a Circle then is BG
+equal to UP, the Sine of a polar plains Reclination, which is equal to HA, and
+the Ark comprehended between A and B, will be a Quadrant.
+
+But in a Quadrant any line being drawn from the Limb passing through the
+Center, the nearest distance from the end of one of the Radij will be the Sine
+of the Ark thence counted, and the nearest distance from the other Radius
+thence counted, will be the Sine of the former Arks complement; so in this
+Scheam the nearest distance from B to RV, when a plain Reclines, is the Sine of
+the Ark of difference, but when it inclines of the sum of the Reclination of
+the Plain proposed, and of the Reclination of a Polar plain, and the nearest
+distance from A to RV, is the Cosine of the said Ark.
+
+Make VQ on the plains perpendicular equal to IC, which is equal to the nearest
+distance from A to RV, and from the point Q erect the perpendicular QT, whereto
+the line PO will be parallel, and consequently there will be a proportion
+wrought: Thus it lies,
+
+As VQ the Cosine of the sum of the Polar plains Reclination, and of the
+Reclination of the plain proposed,
+
+Is to PV equal to BG, the Sine of a Polar Plains Reclination.
+
+These two terms are of one Radius, namely VB,
+
+So is the tangent of the Declination QT, To the tangent of the substiles
+distance from the plains perpendicular PO,
+
+These two terms are to another Radius, namely QV, then if the Tangent of an
+Ark be erected on its own Radius, as here is QI equal to CV, and a line be
+drawn from the extremity into the Center, the Angle belonging to that Tangent
+shall be pricked off agreeable to the general direction.
+
+3. That the styles height is true pricked off.
+The Proportion altered to bring the Radius in the third place will be, As the
+Secant of the substiles distance from the Plains perpendicular, Is to the
+tangent of the sum or difference of Reclinations, as before limited,
+
+So is the Radius, To the tangent of the styles height.
+
+
+
+In the Scheam making VQ Radius, VI becomes the Secant of the substiles
+distance from the Plains perpendicular, and the nearstdiestance from B to RV,
+is the tangent of the difference or sum of the Reclinations, which when VB was
+Radius, was but the Sine thereof, the reason why it now becomes a tangent, is
+because the Consine of the said Ark VQ, is made Radius: But,
+
+As the Cosine of any Ark, Is to the Radius, So is the Sine of the said Ark, To
+the tangent of the said Ark.
+
+Therefore the nearest distance from B to RV equal to IK, being erected
+thereon, and a line from the extremity drawn into the Center, shall prick off
+the styles height suitable to the two first terms of the former proportion, and
+to the general direction for pricking off an Angle by Tangents.
+
+4. That the Meridian is true pricked off, the Proportion to effect it: Is,
+As the Cotangent of the Plains Declination,
+
+Is to the Sine of the Re Inclination,
+
+So is the Radius, To the tangent of the Meridian from the Plains perpendicular.
+
+If VC be made Radius, then is CO equal to UP the Tangent of the complement of
+the Plains Declination, and the nearest distance from C to RV, is the Sine of
+the Re Inclination to the same Radius, which is erected perpendicularly on UP
+suitable to the two first terms of the proportion and the General Direction.
+
+Lastly, that VK is equal to VF, these Symbols are used, q signifies square, +
+for more or Addition, = equal.
+
+VBq = VQq + IKq, the reason is because VB being Radius, VQ is the Cosine of an
+Ark to that Radius, and IK the Sine by construction.
+
+VBq = VGq + GBq, therefore these two squares are equal to the two before.
+
+If to the latter part of each of these Equations, we add QIq or rather its
+equal POq, the sum shall be equal to VKq.
+
+I say then VQq + IKq + POq = VKq, this will be granted from the former
+Demonstration for upright Decliners.
+
+Again,
+
+VGq + GBq + POq = VFq, therefore VF is equal to VK, this cannot be denied,
+because, VGq + FGq = VFq.
+
+And the two squares GBq, or rather VPq + POq are equal to GFq, which is equal
+to VOq by Construction.
+
+To draw the hour lines for the former South Plain, Declining Eastwards 40
+degrees, Inclining 15 degrees Latitude, 51 degrees, 32 minutes.
+First having assigned the Center of the Dyal, through the same draw the plains
+perpendicular, represented by the pricked line CN, and with the Radius of the
+former Scheam upon C as a Center, describe an Occult Ark, and therein set off
+NV equal to the substiles distance from the plains perpendicular, and through
+the point V draw the Substilar, and upon V as a Center, describe the Circle,
+and prick off the Meridians distance from the the Substile in the former
+Scheam, namely YX twice in this Circle from I to O, and draw CO for the
+Meridian, after the same manner set off the Style, then find the Regulating
+point Sol, divide the Circle, and draw the hour lines according to former
+Directions, and when hour lines are to lie both above and below the Center,
+they are to be drawn through.
+
+To fit the Dyalling Scheam, for Latitudes under 45 degrees. A South Plain
+Declining 50 degrees East, Inclining 20 degrees, Latitude 30 degrees.
+The former Construction would serve, if the sides of the square were produced
+far enough, but to shun any such excursion, make VO equal to the side of the
+square, and through the point F, draw a parallel to the Plains perpendicular,
+and where the parallel OP produced interesects it, is the point B, upon V as a
+Center, with the extent page 34 A South Dial Declin 40d East Inclin 15 Latit
+52-32
+A South plain Declin 50d East Inclining 20d Lat 30d
+
+
+A South plain Declin 30d East Reclining 34-31 Lat 51-32
+page 35
+
+A South plain Declin 30d East Reclining 25d Lat 51-32
+page 37
+
+
+
+VB, draw the Arch ZB, and prick off a Quadrant thereof from the point B, and
+it will find the point A, the point C is found no otherwise then before; and
+now having these three points, the whole work is to be finished according to
+those Directions, to which when the Style has a competent height, nothing need
+more be added, unless it be some examples.
+
+How to draw such Dyals whereon the Style has no elevation as Polar Plains, or
+but very small elevation, as in upright far Decliners, and many leaning Plains.
+These plains are known easily, for if the Re-Inclination pass through the
+point B, the plain is a Polar plain, and the Substile is to be found by the
+former Construction, which the Scheam makes the same with the Meridian:
+moreover, another Ark is to be found, called the Inclination of Meridians: The
+proportion to find it, is: As the Radius, Is to the Sine of the Latitude,
+
+So is the tangent of the Declination,
+
+To the tangent of the Inclination of Meridians.
+
+
+
+If CO be made Radius, CV will be the Tangent of the Declination, which enter
+on VL from V to K, and the nearest distance from K to SV shall be the Tangent
+of the Inclination of Meridians, which is to be pricked on its own Radius from P
+to M, and draw a line from the Center, passing through M to the Limb, whereto
+set F, so is the Arch NF the Inclination of Meridians sought, to wit, the Arch
+of time between the substile and Meridian.
+
+To draw the hour lines.
+First draw a perpendicular on the Plain UN, and upon V as a Center, describe
+the Arch of a Circle, and from the Dyalling Scheam prick off the substiles
+distance, and draw IV which shall represent the same, as also the Inclination
+of Meridians from I to f, then upon V as a Center, describe as great a Circle
+as the plain will admit, and find the point f, therein also, by laying a Ruler
+over V the Center, and f in the former Circle, and from the said point divide
+the Circle into twenty four equal parts for the whole hours (but we shall not
+need above half of them) then determine what shall be the parallel height of
+the Style above the Substile, and prick the same on the Substilar line, from V
+the Center to I, through which point draw a Contingent line at right Angles to
+the Substile, and laying a Ruler from the Center over each of the divisions of
+the Circle, through the points where it intersects the Contingent line, if
+lines be drawn parallel to the Substile, they shall be the hour lines required,
+the hour-line that belongs to the point f being the Meridian-line or hour-line
+of 12, after the same manner are the halfs and quarters to be inscribed, if the
+Contingent line be too high, the Center V may be placed lower, if it be
+required, to fit so many hours precise to the Plain; first draw it very large
+upon some Floor, and then it may be proportioned out for a lesser Plain at
+pleasure, as was mentioned for East or West Plains.
+
+A South Plain, Declining Eastwards, 30 degrees, Reclining 34 degrees, 31
+minutes.
+
+
+The Scheam places all things right for Equinoctial Reclining Plains, without
+any further caution.
+
+To draw the Hour Lines on such Plains, where the Style has but small
+elevation. A South Plain Declining 30 degrees Eastwards, Reclining 25 degrees,
+Latitude 51 degrees 32 minutes.
+In these Plains, because the hour lines will run close together, the Dyal must
+be drawn without a Center, by help of two Contingent lines, and first of all
+the Inclination of Meridians must be known, thereby is meant the Arch of time
+between the Substile and the Meridian line or hour line of 12, and that may be
+found several ways; here I shall follow the proportion in Sines before
+delivered.
+
+Making VI Radius prick the same on the Latitude line VL, and from the point
+found, take the nearest distance to the Horizontal line, place this extent from
+V to F, and draw CF; then take the nearest distance from R to the Plains
+Vertical SN, which place from V to Q, then draw QT parallel to FC, so is VT the
+Sine of the Inclination of Meridians, which may be easily measured in the Limb
+by the Arch SY, by drawing a line parallel to the Plains perpendicular from the
+point T, or by pricking the same on HA produced, and laying a Ruler thereto, or
+by drawing the touch of an Arch with VT upon S as a Center, then a Ruler laid
+from V touching the outward Extremity of that Arch, finds the point Y.
+
+Moreover, we need not make VI Radius, but prick the nearest distance from L to
+VE, from V upwards, then the nearest distance to the Plains perpendicular from
+the Intersection of the Substile, with the Limb must be placed from V toward
+W, and from the two points thus found a line drawn, and the rest of the work,
+as before.
+
+To draw the Hour Lines.
+First draw the Plains perpendicular CN, and draw an Occult Arch, wherein prick
+down NY and NK, and draw the Substile and Style as before, making the same
+Angles.
+
+Through any two points in the Substile, as at A and B, draw two right lines
+continued, making right Angles therewith.
+
+Draw a line parallel to the Style at any convenient distance, which is to
+represent the new Style, as here DE.
+
+Take the nearest distance from B to DE, and set it on the Substile from B to
+V, also the nearest distance from A to DE, and set it from V to C, through
+which point draw another line perpendicular to the Substile.
+
+Upon V as a Center, describe the Arch of a Circle of as large a Radius as the
+plain will admit, and from the substile on the same side thereof the Meridian
+happened in the former Scheam, set off the Inclination of Meridians, and it
+finds the point M, from whence divide the Circle into 24 equal parts, and draw
+lines from the Center V through those parts, cutting both the Contingent lines
+B and C, the respective divisions of the Contingent line C, must be transferred
+into the Contingent line A, and there be made of the like distance from the
+substile as in the said line C, then lines drawn through the Divisions of the
+two Contingent lines A and B, shall be the respective hour lines required.
+
+A South Plain Declining Eastwards 30 degrees, Reclining 25 degrees, Latitude
+51 degrees, 32 minutes.
+
+
+After the same manner must such East and West Recliners or Incliners, that
+have small elevation of the Style, and upright far decliners be pricked down,
+and in these plains the Meridian many times must be left out, the proportion to
+find the Inclination of Meridians for upright Decliners: Is, As the Radius, Is
+to the Sine of the Latitude,
+
+So is the Cotangent of the Plains Declination,
+
+To the Cotangent of the Inclination of Meridians.
+
+
+
+In the Dyalling Scheam, making CV Radius, CO is the Cotangent of the
+Declination, which enter on the Latitude line VL, and take the nearest distance
+to SV, which extent pricked upon CO, and it finds a Point, through which a line
+drawn from the Center to the Limb, shall show the inclination of Meridians to
+be measured from N.
+
+Otherwise:
+That we may not transfer large Divisions on the Contingent line from a small
+Circle, and that the Plain may be filled with any determined number of hours,
+such as by after Directions shall be found meet, draw any right line on a Board
+or Floor that shall represent the Plains perpendicular, as CN, and from the
+same set off the Substile and Styles height from the general Scheam as before,
+drawing a line parallel to the Style as DE, also a line perpendicular to the
+Substile, which I call the Floor Contingent, and that it may be large, let it
+be of a good distance from the Center; from the point of Intersection at Y,
+take the nearest distance to the parallel Style, which prick from Y to V, and
+upon V as a Center describe as large a Circle as may be with convenience, and
+from the Substile set off the Inclination of Meridians therein to M (which Ark
+refers to V as its Center) and from the said Point divide it into 24 equal
+hours (or fewer, no more then are required) and laying a Ruler over V, and
+those respective divisions graduate them on the large Contingent line, I say
+from this large Contingent line thus drawn and divided, we may proportion out
+the Divisions of two (or many) Contingent lines that are lesser, and thereby
+fill the Plain with any proper number of hours required.
+
+Then in Order to drawing the hour lines on the Plain.
+
+The first work will be to draw the larger contingent line on the plain, which
+may be drawn any where at pleasure: for performing whereof, note, that what
+Angle the Substile makes with the Plains perpendicular, the Contingent line is
+to make the same with the Horizontal line, and the complement thereof, with the
+Vertical line; also draw another Contingent line above this, parallel thereto
+at any convenient distance.
+
+In the bigger Contingent line assume any two points to limit the outward most
+hours that are intended to be drawn on the Plain, as admit on the former Plain,
+I would bring on hours from six in the morning, to two in the afternoon,
+between the space A and B of the greater Contingent, take the said extent AB,
+and upon the point B at 2 of the Floor Contingent, describe an Ark therewith,
+to wit, L, then from A Draw the line AL, just touching the outward extremity
+of the said Ark.
+
+I say the nearest distance from D to AL, being pricked on the Plains greater
+Contingent from A to D, finds a point therein through which the Style is to
+pass.
+
+Also the nearest distance from Y to AL, finds the space AY on the Plains
+greater Contingent, and through the point Y a line drawn perpendicular to AB,
+shall be the Substilar line.
+
+The Style is to be drawn through the Point D, making an Angle with the Plains
+Contingent line equal to the complement of its height above the Substile in
+this example 80d 57, to wit, the Arch NY.
+
+The respective nearest distances to AL, from each hour-point, in the Floor
+Contingent, being pricked on the Plains greater Contingent from A toward B,
+finds Points therein, through which the hour lines are to pass.
+
+The next work will be to limit one of the extreme hours on the Plains lesser
+Contingent, and that must be done by proportion.
+
+As the Distance between the parallel style and substile on the Floor
+Contingent,
+
+Is to the distance between the style and substile on the Plains lesser
+Contingent,
+
+So is the distance between the substile and either of the extreme or outward
+hours on the Floor Contingent,
+
+To the distance between the substile, and the said outward hour on the Plains
+lesser Contingent.
+
+A South Dial Declining 30d East Reclining 25d Lat 51-32
+
+
+
+
+This proportion is to be carried on in the Draught on the Floor, place DIE from
+A to G on the Floor Contingent, and with the extent EG taken from the Plains
+lesser Contingent, upon G on the Floor Contingent, draw the Arch O, and from A
+draw a line touching the outward extremity of the said Arch, and let it be
+produced.
+
+The nearest distance from Y to AO, being pricked on the Plains lesser
+Contingent, reaches from G to C, the point limiting the outward hour of six.
+
+Then if the nearest distances to the line AO, be taken from all the respective
+hours on the Floor Contingent, and placed on the Plains lesser Contingent from
+C toward F, you will find all the hours points required, through which and
+the like points on the Plains greater Contingent, the hour lines are to be
+drawn.
+
+Here note, that the extent DIE on the Floor Contingent, may be doubled or
+tripled; if it be tripled it reaches to H, also the extent EG on the plains
+lesser Contingent, is to be increased after the same manner, and an Ark
+therewith described on H before found, as Q, and by this means the line AO will
+be drawn and produced with more certainty, then by the Ark O near the Center.
+
+And what is here done by help of the Styles distance from the Substile, may be
+done by help of the outward hour, if the distance of the said hour-line from
+the Substile be found Geometrically or by Calculation, for the said hour-line
+will make an Angle with the Plains Contingent lines, equal to the complement of
+the Ark of its distance from the Substile.
+
+This Plain is capable of more hours which cannot conveniently be brought on.
+
+After the same manner are upright far Decliners to be dealt withal, and all
+other Plains having small height of Style.
+
+But to limit the outward hours on Polar plains, and East or West Plains, the
+trouble will not be half so much.
+
+A South Plain Declining Eastwards 30 degrees, Reclining 25 degrees, Latitude
+51 degrees, 32 minutes. A second method of Calculation for Oblique Plains.
+By the former method the Meridians distance from the Plains perpendicular is
+to be found, and the Polar Reclination Calculated.
+
+Then for South Recliners, or North Incliners, get the difference, but for
+North Recliners or South Incliners the sum, of the Polar Plains Reclination,
+and of the Reclination of the Plain proposed, and it holds.
+
+As the Cosine of the Polar Plains Reclination,
+
+Is to the Sine of the former sum or difference,
+
+So is the sine of the Latitude, To the Sine of the styles height.
+
+Which Pole is elevated is elevated is easily determined, by comparing the
+Reclination of the proposed Plain with the Polar Reclination, and all other
+affections are to be determined, as in the first Method.
+
+Then for the Substile, and Inclination of Meridians.
+
+As the Cosine of the styles height,
+
+Is to the Sine of the Plains Declination,
+
+So is the Cosine of the Latitude,
+
+To the Sine of the substiles distance from the Plains perpendicular:
+
+And so is the Cosine of the Reclination,
+
+To the Sine of the Inclination of Meridians.
+
+This method arises from the aforementioned Oblique Triangle in the Sphere, in
+which by help of two sides, and the Angle comprehended, the third side is first
+found, and the other Requisites by the proportions for Opposite sides and
+Angles.
+
+Proportions for upright Decliners. 1. To find the Substiles distance from the
+Meridian.
+As the Radius, Is to the Sine of the Declination,
+
+So is the Cotangent of the Latitude,
+
+To the Tangent of the Substile from the Meridian.
+
+2. Angle of 12, and 6.
+As the Radius, Is to the Sine of the Plains Declination,
+
+So is the Tangent of the Latitude,
+
+To the Tangent of the Angle between the Horizontal line and six.
+
+3. Inclination of Meridians.
+As the Sine of the Latitude, Is to the Radius,
+
+So is the Tangent of the Declination,
+
+To the Tangent of the Inclination of Meridians:
+
+4. Styles height.
+As the Radius, Is to the Cosine of the Latitude,
+
+So is the Cosine of the Plains Declination,
+
+To the Sine of the styles height.
+
+These Arks are largely defined in my Treatise, The Sector on a Quadrant.
+
+For East and West Re-Incliners, The complement of the Latitude of the place,
+is such a new Latitude: in which they shall stand as upright Plains, and the
+complement of their Re-Inclination is their new Declination in that new
+Latitude, having thus made them upright Decliners, the former proportions will
+serve to Calculate all the Requisites.
+
+In all upright Plains, the Meridian lies in the plains perpendicular, and if
+they Decline from the South (in this Hemisphere) it is to descend or run
+downward; if from the North it ascends, and the Substile lies on that side
+thereof opposite to the Coast of Declination.
+
+In East or West Re-Incliners, it lies in the plains horizontal line, on the
+Inclining side the South Pole is elevated, but on the upper side the North
+Pole, and the Substile lies above or below that end of the Meridian line,
+which points to the Pole elevated above the Plain.
+
+On all plains whatsoever to Calculate the hour distances.
+
+As the Radius, Is to the Sine of the styles height above the substile,
+
+So is the tangent of the Angle at the Pole,
+
+To the tangent of the hour lines distance from the substilar line.
+
+By the Angle at the Pole, is meant the Ark of difference between the Ark
+called the Inclination of Meridians, and the distance of any hour from the
+Meridian for all hours on the same side of the Meridian the Substile falls, and
+the sum of these two Arks for all hours on the other side the Meridian.
+
+All hours on any Plain go to the contrary Coast of their Situation in the
+Sphere, thus all the morning or Eastern hours, go to the Western Coast of the
+plain, and all the evening or Western hours, go to the Eastern Coast of the
+Plain.
+
+A third Method of Calculation for leaning Plains, that is, for all sorts of
+Plains that do both Decline, and also Incline or Recline. They may be referred
+to a new Latitude, in which they shall stand as upright Plains, and then they
+will have a new Declination in that new Latitude; which two things being found,
+the former Proportions for upright Decliners will serve to Calculate all the
+Arks required.
+
+How this may be done on a Globe, is not difficult to apprehend, having set the
+Globe to your Latitude, let one of the Meridians of the Ecliptic or Longitude
+in the heavens, represent a Declining Reclining Plain, this Circle intersects
+the Meridian of the place in two Points, the one above, the other beneath the
+Horizon: Imagine the Globe to be so fixed, that it cannot move upon its Poles,
+then elevate or depress the Globe so in the Meridian that the point of
+Intersection above the Horizon may come under the Zenith, then will the Pole of
+the world be elevated above the Horizon to the new Latitude sought, and where
+the Meridian of Longitude that represents the Plain intersects the Horizon it
+shows the new Declination.
+
+Or it may be thus apprehended: The distance between the Pole of the world, and
+that point of Intersection that represents the Zenith of the new Latitude, is
+the complement of the said new Latitude, and the distance between that point,
+and the Equinoctial is the new Latitude it self; the new Declination is the
+complement of the Angle between the plain and the meridian of the place, an Ark
+usually found in Calculation under this denomination.
+
+To find these Arks by Calculation.
+As the Radius, Is to the Cosine of the Plains Declination,
+
+So is the Cotangent of the Re-Inclination from the Zenith,
+
+To the tangent of the Meridional Ark, namely the Ark of the Meridian between
+the Plain and the Horizon.
+
+And this is the first thing Master Gunter and others find; for South
+Recliners North Incliners the one being the upper, the other the under face,
+get the difference between this Ark and the Latitude of the place, the
+complement of the said residue, remainder, or difference, is the new Latitude
+sought; but for North Recliners or South Incliners, the difference between this
+fourth Arch and the complement of the old Latitude is the new Latitude.
+
+To find the new Declination:
+As the Radius, Is to the Cosine of the Re-Inclination,
+
+So is the sine of the old Declination, To the sine of the new.
+
+This method is hinted to us in Mr. Fosters Posthuma, also in his Book of
+Dyalling in Anno 1638, where he refers leaning plains to such a Latitude
+wherein they may become East or West Recliners, but that method is to be
+deserted, as multiplying more proportions then this, and does not afford that
+instrumental ease for pricking down the hours that this does.
+
+Affections determined.
+Such South Recliners, whose meridional Arch is less then the Latitude, pass
+beneath the Pole, and have the North Pole elevated above them, but if the
+meridional Ark be greater then the Latitude, they pass above the Pole, the
+North Pole is elevated on the under face, all other affections are before
+determined. If the meridional Arch be equal to the Latitude, the plain is a
+Polar plain; for plains leaning Southwards, if the meridional Arch be equal to
+the complement of the Latitude, the plain is an Equinoctial plain, if it be
+more, the plain has less Reclination then an Equinoctial plain, if it be less
+it has more, and all affections necessary for placing (and Calculating) the
+meridian line were before determined.
+
+This method of Calculation finds the Substiles distance from the meridian,
+not from the plains perpetdicular, wherefore it must be showed how to place it
+in Plains leaning Southwards, for plains leaning Northwards use the former
+directions.
+
+To place the Substile in North Recliners.
+In these plains the Meridian and Substilar are to meet at the Center, and not
+being drawn through, will make sometimes an Acute, sometimes an obtuse Angle.
+
+When the Plains Meridional Ark is greater then the Colatitude, they make an
+Obtuse Angle, in this Case, having first placed the Meridian line, above it
+prick off the complement of the distance of the Substile from Meridian to a
+Semicircle.
+
+But when the Meridional Ark is less then the Colatitude, prick off the said
+distance it self above the Meridian line.
+
+In South Incliners.
+When the Plains Meridional Ark is greater then the Colatitude, the Substile
+and Meridian make an Acute Angle, when it is equal to the Colatitude, they make
+a right Angle, when it is less then the Colatitude they make an Obtuse Angle,
+and must be pricked off by the complement of their distance to a Semicircle, the
+Substile always lying on that side of the Meridian, opposite to the Coast of
+Declination.
+
+A fourth Method of Calculation for leaning Plains. An Advertisement.
+In this method of Calculation for all Plains leaning Northward, both upper and
+under side their Declination is the Arch of the Horizon between the North and
+the Azimuth of the plains South Pole, so that their Declination is always
+greater then a Quadrant; But for all Plains leaning Southwards, both upper and
+under face, their Declination is the Arch of the Horizon between the North and
+the Plains North Pole, wherefore it is always less then a Quadrant; in this
+sense Declination is used in the following Proportions.
+
+As the Sine of half the sum of the complements, both of the Latitude and of
+the Reclination, Is to the Sine of half their difference,
+
+So is the Contagent of half the Declination,
+
+To the Tangent of a fourth Arch.
+
+Again,
+
+As the Cosine of half the sum of the former Complements,
+
+Is to the Cosine of half their difference,
+
+So is the Contangent of half the Declination,
+
+To the tangent of a seventh Arch.
+
+Get the sum and difference of the fourth and seventh Arch, then if the
+Colatitude be greater then the complement of the Reclination, the sum is the
+Substiles distance from the plains perpendicular, and the difference the
+Inclination of Meridians.
+
+But if it be less, the difference is the Substiles distance from the Plains
+perpendicular, and the sum the Inclinations of Meridians.
+
+To place the Substile.
+For Plains leaning Southwards, when the Angle of the Substile from the Plains
+perpendicul is less then a Quadrant, it will on the upperface lie above that
+end of the Horizontal line that is opposite to the Coast of Declination, and on
+the under face lie beneath it, but when it is greater, it will lie below the
+said end, on the upper face, and above it on the under face, but this will not
+be till the Reclination be more then the complement of the Reclination of a
+Polar plain that has the same Declination; for plains leaning Northwards the
+Directions of the first Method suffice.
+
+To place the Meridian.
+Either Calculate it, and place it according to the directions of the first and
+second Method, or else Calculate it by this Proportion.
+
+As the Radius, Is to the Sine of the Styles height,
+
+So is the tangent of the Inclination of Meridians (when it is Obtuse, take its
+complement to a Semicircle)
+
+To the tangent of the Meridian line from the substilar.
+
+For Plains leaning Northward, the first directions must serve, but for
+Southern Plains the second, because the distance of the Meridian is Calculated
+from the Substile supposed to be placed, and here the work is converse to that,
+for in that we supposed the Meridian placed, and not the Substile.
+
+For the Styles height.
+As the Sine of the fourth Arch, Is to the Sine of the seventh Arch,
+
+So is the tangent of half the difference of the complements both of the
+Latitude and Reclination,
+
+To the tangent of an Arch sought.
+
+How much the said Ark being doubled wants or exceeds 90d, is the Styles height.
+
+In South Recliners, if the said Ark being doubled, is less then 90d, its
+complement is the elevation of the North Pole, and the Plain falls below the
+Pole.
+
+But if the said Arch exceed 90d the Plain passes above the Pole, and the
+excess is the elevation of the North Pole on the under face of a South
+Recliner, called a North Incliner, and the affections were determined in the
+first method where the Declination has its Denomination from that Coast of the
+Meridian to which the Plain looks.
+
+These methods of Calculation may not precisely agree one with another, though
+all true, unless the parts Proportional be exactly Calculated from large Tables
+in every Operation, which to do as to the Examples in this Book, my leisure
+would not permit; This last method is derived also from the former Oblique
+Triangle, the Proportions here applied, being demonstrated in Trigonometria
+Brittanica by Mr. Newton.
+
+The Demonstration of the former Proportions
+In projecting the Sphere, it is frequently required to draw an Arch through
+any two different Points within a Circle, that shall divide the said Circle
+into two equal Semicircles
+
+Construction.
+1. Draw a line from one of the given points through the Center, for
+convenience through that point which is most remote.
+
+2. From the Center raise a Radius perpendicular to that line.
+
+3. And from the said point draw a line to the end of the Radius.
+
+4. From the end of the Radius raise a line perpendicular to the line last
+drawn, and where it intersects the former line drawn through the first point
+and Center, is a third point given, describe a Circle through these three
+Points, and the Proposition will be effected.
+
+Example.
+Let it be required to draw the Arch of a Circle through the two points E and F
+that shall divide the Circle BD into two equal parts.
+
+
+
+Operation.
+From E draw EG, through the Center A, make AD perpendicular thereto, join ED,
+and make DG, perpendicular to ED cutting EG in G, through E, F, and G, draw the
+Arch of a Circle which will divide the Circumference BDC into two equal parts
+in B and C, that is, if CA be drawn, it will pass through B, if not, let it
+pass above or below, as let it pass below and cut BFE in H.
+
+Demonstration.
+By construction EDG and DAG are right Angles; therefore AD = EAG by 13 Prop. 6
+Euclid. because EDG being a right Angle, AD is a mean Proportional between EA
+and AG, but EAG should be = CAH by 35. Prop. of 3 Euclid. therefore CAH = AD.
+
+But AD = AI that is = CAI, therefore CAH = CAI which is absurd, therefore CI
+cannot pass below B, the same absurdity will follow if it be thought to pass
+above it, therefore CA produced, will fall in the point B, wherefore BDC is a
+Semicircle, which was to be proved: And hereof I acknowledge I have seen a
+Demonstration by the Learned teacher of the Mathematics, Mr. John Leak, to
+this effect.
+
+To project the Sphere and measure off the Arks of an upright Decliner.
+Upon Z as a Center, describe the Arch of a Circle, and cross it with two
+Diameters at right Angles in the Center, whereto set NESW to represent the
+North, East, South and West.
+
+Prick off the Latitude from N to L, and lay a Ruler to it from E, and where it
+cuts NZ, set P to represent the pole.
+
+Prick off the Declination of the plain from E to A, and from S to D, and draw
+the Diameter AZB, which represents the plain, and DZC, which represents the
+Poles thereof.
+
+Through the three points CPD, draw the Arch of a Circle, and there will be
+framed aright Angled Triangle ZHP right Angled at H, in which there will be
+given the side ZP the complement of the Latitude, with the Angle PZH the
+complement of the Declination.
+
+Whereby may be found the Styles height represented by the side PH, the
+Substiles distance from the plains perpendicular represented by ZH, and the
+Angle between that Meridian which makes right Angles with the plain, and the
+Meridian of the place represented by the Angle ZPH, showing the Arch of Time
+between the Substile and meridian, called the Inclination of Meridians, from
+which Triangle are educed those proportions delivered for upright Decliners.
+
+To measure off these Arks. 1. The Substile.
+A Ruler laid from D to H, finds the point F in the Limb, and the Arch CF is
+the measure of the Substiles distance from the meridian, to wit, 21d 41.
+
+2. The Styles height.
+Set off a Quadrant from F to G, lay a Ruler from G to D and where it
+intersects BZ, set which is the Pole of the Circle CPD, lay a Ruler from to P,
+and it intersects the Limb at I, so is the Arch AI the measure of the Styles
+height, to wit, 32d 32
+
+3. Inclination of Meridian.
+Lay a Ruler from P to, and it intersects the Limb at T, and A South plain
+Declin 30d East Latitud 51d 32
+page 51 A West plain Reclining 50d Latitude 51d 32
+
+
+the Arch WITH is the measure of the Inclination of meridians, to wit, 36d 25.
+
+4. Angle of 12 and 6.
+In like manner we may draw a Circle passing through the points WPE, as the
+pricked Arch PE does, then in the Triangle ZPQ right Angled at P, we have the
+side ZP given, and the Angle PZQ to find the side ZQ, lay a Ruler from D to Q,
+and you will find a Point in the Limb, the distance whereof from C is the
+measure of the Arch sought, to wit, 57d 49, to be measured by projection as the
+Inclination of Meridians.
+
+Lastly the hour lines, these are represented by meridians drawn through the
+Poles of the World, as in the Triangle HPQ there will be given the Styles
+height PH, and the Angle HPQ, to wit, the Ark of difference between the
+Inclination of Meridians and the hour from noon, for all hours on that side of
+the meridian the Substile falls, but on the other side the sum of these two
+Arks, and this Angle is called the Angle at the Pole; the side required is HQ,
+the distance between the Substile and the hour line proposed, which must be any
+hour, though in this Scheam it represents the horary distance of six from the
+Substile.
+
+To project the Sphere for an East or West Reclining or Inclining Plain,
+Latitude 51 degrees, 32 minutes, a West Plain, Reclining 50 degrees.
+Having drawn the Fundamental Scheam, and therein set off the Latitude as
+before, count the Reclination from N to R, and by laying a Ruler, find the
+point A, through it and the North and South points draw the Arch of a Circle
+which shall represent the plain, find the pole thereof by setting off a
+Quadrant from R to G, then through the pole of that Circle, and the pole of the
+World P, draw the Arch PR, then in the Triangle NHP right angled at H, we have
+given the side NP the Latitude, and the Angle PNH the Reclination, to find PH
+the Styles height, and NH the Substiles distance from the Meridian, and the
+Angle NPH the Inclination of Meridians, which is also represented by the Angle
+BPS.
+
+1. To measure the styles height.
+Set off a Quadrant from B to C, and draw a Line through the Center, and where
+it intersects the plain at F, is the Pole of the plains Meridian, lay a Ruler
+from F to H, and it cuts the Limb at I.
+
+Also lay it thence to P, and it cuts the Limb at K, the Arch IK is the
+measure of the Styles height, to wit, 36d 50
+
+2. The Substile.
+A Ruler laid from to H, cuts the Limb at M, and the Arch NM is the measure of
+the Substiles distance from the Meridian, to wit, 38d 59.
+
+3. The Inclination of Meridians.
+Set off a Quadrant from K to O, and lay a Ruler from it to F, and it
+intersects the Meridian of the plain at Q, then a Ruler laid from P to Q,
+finds the point T in the Limb, and the Arch ST is the measure of the
+Inclination of Meridians, to wit, 53d 26.
+
+Otherwise with less trouble lay a Ruler from P to F, and it intersects the
+Limb at V, and the Arch EV is the measure of the Inclination of Meridians, as
+before.
+
+To project the Sphere to represent a Declining Reclining Plain. A South Plain
+Declining 40 degrees East, Reclining 60 degrees, Latitude 51 degrees, 32
+minutes.
+Having drawn the fundamental Circle, pricked off the Declination, and found the
+pole point as before, prick the Reclination from B to I, and laying a Ruler to
+it from A, find the point R, and through the three points BRA describe a
+Circle, representing the plain, also from K find the pole thereof, and through
+the two points P and draw the Arch of a Circle FG, representing the plains
+Meridian, at the intersection of the plain with the Meridian set Z, and draw
+the Arch of a polar plain through P to S, and there will be several Triangles
+Constituted, from which were derived the several Methods of Calculation.
+
+In the right Angled Triangle ANZ there is given NA the complement of the
+Declination, and the Angle NAZ the complement of the Reclination, whereby may
+be found ZN the plains meridional Ark, which taken from NP rests ZP the
+complement of the new Latitude; also the Angle NZA which is the complement of
+the new Declination, and hence were derived the Proportions for the third
+Method, likewise in the same Triangle may be found ZA the meridians distance
+from the Horizon.
+
+In the Oblique Angled Triangle CP, there is given the side CP, the complement
+of the Latitude, the side C, the complement of the Reclination with the Angle
+PC, the complement of the Declination from the South to a Semicircle, whereby
+may be found the Angle CP, the Inclination of Meridians, and the Angle CP
+whereof the measure is RH the distance, of the Substile from the Plains
+perpendicular, and the third side P, the complement whereof is PH the Styles
+height, and from hence was derived the third method of Calculation suited to
+Proportions for finding both the unknown Angles of an Oblique Spherical
+Triangle at two Operations, when there is given two sides with the Angle
+comprehended between them.
+
+The first method of Calculation is built upon the perpendicular Trigonometrie,
+for the perpendicular PS reduces the former Oblique Triangle, to two right
+Angled Triangles, to wit, the right Angled Triangle, PSC, and the right Angled
+Triangle PS, both right Angled at S.
+
+In the right Angled Triangle PSC, we have CP given the Colatitude, and the
+Angle PCS the Declination to find SC a Polar plains Reclination thereto.
+
+Again,
+
+In Oblique Spherical Triangles, reduced to two right Angled Triangles by the
+demission of a perpendicular, it is a common inference in every book of
+Trigonometry, when two sides with the Angle comprehended are given, to find
+one of the other Angles: That,
+
+As the Sine of the Side between the Angle sought and perpendicular,
+
+Is to the Tangent of the given Angle,
+
+So is the Sine of the Side between the Angle given, and perpendicular,
+
+To the Tangent of the Angle sought.
+
+And so in that Oblique Triangle, the difference between the Reclination of the
+plain proposed, and the Polar plain is RS, then because R is a Quadrant, S is
+the complement of the former Ark, therefore it holds: As s SO: t SCP s SC: t SP
+which is the very proportion delivered delivered in the said Method for finding
+the Substiles distance.
+
+Then in the right Angled Triangled PS, we have S, and the Angle SP to find
+the side P, whereby is got the Styles height; the Inclination of Meridians is
+found in the Oblique Spherical Triangle by the proportion of Opposite sides and
+Angles.
+
+Lastly, in the right Angled Triangle ZRC, there is given RC, and RCZ to find
+RZ the distance of the Meridian from the plains perpendicular.
+
+To measure the respective Arks abovesaid.
+1. The New Latitude.
+A Ruler laid from W to Z, and P will give you the Arch MO in the Limb, the
+complement of the new Latitude, to wit, 27d 40.
+
+2. The New Declination.
+The Ruler laid from the Plains Zenith at Z, to its Pole at, finds the point Q
+in the Limb, and the Arch SQ is the new Declination, to wit, 18d 56.
+
+3. The Substiles distance from the Plains perpendicular.
+A Ruler laid from to H, finds the point T in the Limb, and the Arch CT being
+26d 26 is the Substiles distance from the Plains perpendicular.
+
+4. The Meridians distance from the Plains perpendicular.
+A Ruler laid from to Z, finds the point V in the Limb, and the Arch DV being
+35d 56 is the Meridians distance from the Plains perpendicular.
+
+5. The Styles height.
+Set off a Quadrant from G to X, and draw XC, where it intersects the plain as
+at Y, is the Pole of the Arch FG, then laying a Ruler from Y to H and P, you
+shall find the Styles height in the Limb to be the Arch 2, 3, namely, 26d 6.
+
+A South plain Declin 40d East Reclining 60d Lat 51-32
+page 55 A South plain Declin 30d East Reclining 25d Lat 51 32
+
+
+
+
+6. The Inclination of Meridians.
+A Ruler laid from P to Y, intersects the Limb at, the Arch W is 20d 58, and
+so much is the Inclination of Meridians.
+
+The Polar Reclination CS is 31d 19.
+The Scheam determines all the affections of the plain.
+
+1. It shows that H the point of the Substilar lies on that side the plains
+perpendicular, that is toward the Coast of Declination.
+
+2. That Z the point for the place of the Meridian, lies toward the same Coast
+as before, but below the Substilar Line.
+
+3. The Arch PH shows you that the North Pole is elevated above the upper or
+Reclining face.
+
+After the same manner may all the Requisite Arks be measured, and affections
+determined for all plains whatsoever.
+
+A South Plain Declining 30 degrees Eastwards, Reclining 25 degrees, or a North
+Plain Declining 30 degrees Westwards, Inclining ^^ degrees.
+In this Scheam we have the same Oblique Triangle PC reduced to two right
+Angled Triangles PSC and PS, SC is the Inclination of a Polar plain, and RC the
+Inclination of the plain proposed, the difference is SR, and the complement of
+it, is the complement of S to a Semicircle, because S is greater then a
+Quadrant, and the proportions are wholly the same, though the Triangle have
+sides greater then a Quadrant.
+
+The North Pole is elevated on the Inclining face, the Meridian Z lies from the
+plains perpendicular toward that end of the Horizontal Line, opposite to the
+Coast of Declination, the same way and beneath it lies the Substilar.
+
+The complement of the new Latitude ZP is 10d 10
+
+The new Declination, viz. the complement of NZA is 26d 57
+
+The meridians distance from the Plains perpendicular RZ 13d 43
+
+The Substiles distance therefrom RH 18d 22
+
+The Styles height PH is -- 9d -- 3
+
+The Inclination of Meridians, to wit, the Angle CP 27d 18
+
+The Polar Reclination -- CS -- 34d 31
+
+A South Plain Declining 40 degrees East, Inclining 15 degrees, or rather a
+North Plain Declining 40 degrees West, Reclining 15 degrees.
+Here again the Oblique Triangle CP is reduced to two right Angled Triangles
+PSC and PS, and SR is the sum of the Polar Reclination SC, and the Re
+Inclination of the Plain proposed CR, and S is the complement hereof, because R
+is a Quadrant, find the Equinoctial point AE.
+
+The Polar Reclination CS 31d 19.
+The new Latitude ZAE is 32d 15.
+
+The new Declination being the complement of NZA is 38d 23
+
+The Meridians distance from the plains perpendicular ZR 12d 33
+
+The Substiles distance from the plains perpendicular RH 32d 16
+
+The Styles height PH is -- 41d 30
+
+The Inclination of Meridians PC rather the Acute Angle PN is 55d 58
+
+The Meridian Z lies from the plains perpendicular toward the Coast of
+Declination on the Reclining side, but must be drawn through the Center,
+because the Sun at noon casts his shadow Northwards, unless in the Torrid or
+Frozen Zone, and the Substile Hlyes on the other side the plains perpendicular.
+
+A North Plain Declining 40 degrees Eastwards, Reclining 75 degrees.
+In this plain likewise the Oblique Triangle CP is reduced to two right Angled
+Triangles PS and PSC by the perpendicular PS which is part of the Arch of a
+polar plain, here CR more CS is equal to the sum of the Plains Reclination
+proposed, and of the Polar plains Reclination, which is greater then a Quadrant
+for the Arch R is a Quadrant; now the Cosine of an Ark greater then a Quadrant
+is the Sine of that Arks excess above a Quadrant, wherefore the Sine of S is
+the Cosine of the sum of both the Reclinations, and the Case the same as before.
+
+The Arch RH is the measure of the Substiles distance from the A South plain
+Declin 40d East Inclining 15d Lat 51d 72
+page 56 A North plain Declin 40d East Reclin 75d lat 51d 32
+
+
+Plains perpendicular, which being greater then a Quadrant, shows that the
+Substile must lie below the end of the Horizontal Line opposite to the Coast of
+Declination, to wit, it must be depressed 32d 39 measured by the Arch KNIGHT, the
+complement of TA its distance from the plains perpendicular, the point T being
+found by laying a Ruler from to H, which may also be measured from F, and will
+fall above the Horizontal Line D, but then must be drawn through the Center.
+
+Prick off a Quadrant from G to X, and draw XC, it cuts the plain at Y, a Ruler
+laid from Y to H, and P finds the points 2, 3 in the Limb, and the Arch 2, 3
+being 61d 31, is the Styles height; orther complement thereof to a Semicircle
+might be found by measuring the Arch PF.
+
+A Ruler laid from to Z, finds the point V in the Limb for the Meridian Line,
+from which draw a Line through the Center on the other side, and it will be
+placed in its true Coast and quantity from the Plains perpendicular at A, to
+wit, 39d 2.
+
+The Inclination of Meridians, to wit, the Angle CP is 20d 30,
+
+The new Latitude ZAE 26d 38.
+
+The new Declination is 9d 35 to wit, the complement of KRB.
+
+The Polar Reclination CS is 31d 19.
+
+The truth of this Stereographick Projection is fully handled by Aguilonius in
+his Optics, and how to determine the affection of any Angle of an Oblique
+Spherical Triangle, I have fully showed in a Treatise, called the Sector on a
+Quadrant.
+
+For the Resolution of Spherical propositions, Delineations from proportions or
+the Analemma, will be more speedy and certain (though they may also be thus
+resolved) which I have handled at large in the Mariners Plain Scale new plained.
+
+To determine what hours are proper to all kind of Plains.
+To do this it will be necessary to project upon the Plain of the Horizon, the
+Summer and Winter Tropicks.
+
+Get the Sum and difference of the Colatitude, and of the Suns greatest
+Declination, so we shall obtain his greatest and least Meridian Altitudes.
+
+The depression of the Tropic of Cancer under the Horizon, is equal to the
+least Meridian Altitude, and the depression of the Tropic of Capricorn to the
+greatest. Example:
+
+38d 28 Colatitude 23d 31 61d 59 greatest 14d 57 least Meridian Altitude,
+having drawn the Primitive Circle, etc. as before.
+
+Prick 14d 15 from S to C, and 61d 59 from S toward W, a Ruler laid from the
+points found, will intersect the meridian ZS at the point L for the Winter
+Tropic, and K for the Summer Tropic, through which the Circles that represent
+them are to pass, to find the Semidiameters whereof, set off their depression
+from N toward E, thus 14d 57 the depression of the Summer Tropic terminates
+at O, a Ruler laid from E to, finds the point X in the meridian SZN produced,
+so is XK the Diameter of the Summer Tropic, which being divided into halfs,
+will find the Center thereof whereon to describe it.
+
+In like manner is the Diameter of the Winter Tropic to be found; or if the
+Amplitude be given (or found as elsewhere is showed) which at London is 39d 54,
+and set off both ways from G and E we shall have three points given through
+which to draw each Tropic, and the Centers falling in the Meridian Line will
+be found with half the trouble, as to find a Center to three Points.
+
+Also Project the Pole Point P as before, being thus prepared FKG will
+represent the Summer and HLI the Winter Tropic.
+
+Let it be required to know what hours are proper for a South plain Declining
+30d Eastwards, through the three points BPA describe the the Arch of a Circle
+BQP, then laying a Ruler from B to Q, find the point R in the Limb, and from
+it set off a Quadrant to M, then a Ruler laid from B to M finds the point the
+Pole of the hour Circle BQP, then laying a Ruler from P to, it finds the point
+T in the Limb, and the Arch ET being 65d 40 is the measure of the Angle BPS,
+which turned into Time is 4 ho. 23 prope, and shows that at no time of the
+year the Sun will shine longer on the South side of this plain, then 23 minutes
+past 4 in the afternoon.
+
+In like manner if the Arch of a Circle be drawn through the two points PV, we
+may find the time when the Sun will soonest in the morning begin to shine on
+the South side of this plain.
+
+The Angle QPZ may be found by Calculation in the right Anggled A South plain
+Declin 30d East lat 51d 32
+page 61 A South plain Declin 60d East Reclining 40d Lat 51-32
+
+
+triangle PQZ, in which besides the right Angle at Q, the side PZ and the Angle
+QZP, are given but to measure it off by Projection will be sufficient for the
+Dyallists use.
+
+So if there were a South plain Declining 60d Eastwards, Reclining 40 degrees
+here represented by BRA, if it were required to know what hours are proper for
+the upper, and what for the under face, then where the plain intersects the
+Tropicks as at I and K, draw two Meridians into the Pole at P, to wit, IP and
+KP, and first find the Angle IPZ, as was before showed, to wit, 53d 14 which
+in time is 3 hours 33 minuutes, showing that the Sun never shines longer on the
+upper face of the Plain, then 33 minutes past 3 in the afternoon, which is
+capable of receiving all hours from Sun rising to that period of time, and the
+Angle KPZ, to wit, 39d 50 in time 2 hours 39 minutes, shows that the Sun never
+begins to shine sooner on the under face then 39 minutes past 2 in the
+afternoon after, which all the hours to Sunset may be expressed.
+
+To find these Arks of time by Calculation, there must be given the Styles
+height above the Plain 15d 22, PH, and the complement of the Inclination of
+Meridians to a Semicircle, 136d 32, to wit, HPS, then in the right Angled
+Triangle PHI there is given PH the Styles height, PI the complement of the
+Declination, besides the right Angle at H, to find the Angle IPH 83d 18 which
+taken from the complement of the Inclination of Meridians HPS, there rests the
+Angle IPS the Arch of time sought, to wit, 53d 14.
+
+The ascensional difference may be found by drawing the Arch of a Circle
+through the three points TPF, and thereby the length of the longest day
+determined that no hours be expressed, on which the Sun can never shine.
+
+Another manner of Inscribing the hour lines in all Plains having Centers.
+The method here intended, is to do it in a parallelogram from the Meridian
+line, whence the hour lines may be pricked down by a Tangent of three hours,
+with their halfs and quarters from a Sector, without collecting Angles at the
+Pole, or by help of a Scheam which I call the Tangent Scheam, the foundation of
+this Dyalling supposes the Axis of the world to be inscribed in a
+Parallelipiped on continued about the Axis, the sides whereof are by the plains
+of the respective hour Circles in the Sphere divided into Tangent-lines, that
+is to say, each side is divided into a double tangent of 45d set together in
+the middle, and the said parallelipiped on being cut by any Plain, the end
+thereof supposed to be intersected, shall be either a right or Oblique Angled
+parallelogram, and then if from the opposite tangent hour points on the sides
+of the intersected parallelipipedon, lines be drawn on the Plain, they shall
+cross one another in a Center, and be the hour lines proper to the said plain,
+but of the Demonstration hereof, I shall say no more at present, the
+inquisitive Reader will find it in the Works of Clavius.
+
+To draw the Tangent Scheam.
+I have before in Page 10 showed how to divide a Tangent Line into hours and
+quarters, which in part must be here repeated; draw any right Line, as MABH,
+from any point therein as at B, raise a perpendicular, and upon B as a Center,
+describe the Quadrant CH, and prick the Radius from B to A, from C to G, from H
+to F, and laying a Ruler from A to F, and G, you will find the points D and E
+upon the perpendicular CB, I say the said perpendicular is divided into a
+Tangent line of three hours, and the halfs and quarters may be also divided
+thereon, by dividing the Arches CF, FG, and GH into halfs and quarters, then
+from those subdivisions, laying a Ruler to A, the halfs and quarters may be
+divided on, as were the whole hours.
+
+Being thus prepared, draw the Lines MB, LE, KD, and IC, all parallel one to
+another, passing through the points B, 1, 2, 3.
+
+In this Scheam they are perpendicular to BC, but that is not material,
+provided they pass through the same points, and are parallel one to another,
+yet notwithstanding the points A and H must be in a right Line perpendicular to
+CB. This Scheam thus prepared, I call the Tangent Scheam, because a Line ruled
+any way over it, shall be divided also into a Tangent of the like hours and
+quarters, whence it follows that one of these Scheams may serve to inscribe the
+hour lines into many Dyals, which I shall next handle.
+
+
+
+To inscribe the Hour lines in a Horizontal Dyal.
+Having drawn the Meridian line M, XII, and perpendicular thereto the hour-line
+of six, Let it be observed that the sides of the Horizontal Dyal in page 8. to
+wit VI, IX, and VI, III and IX, III, are a right Angled Parallelogram, the one
+side whereof being the Diameter of the Circle being Radius, the other side
+thereof must be made equal to the Sine of the Latitude, in that Scheam the
+nearest distance from L to MF was the Sine of the Latitude or Styles height,
+the Semidiameter of the inward Circle, being Radius, and that extent being
+doubled and pricked from M to VI on each side, as also from F twice to IX and
+III, by those extents the Parallelogram was bounded, the side III, F IX, being
+parallel to the Horizontal Line.
+
+Then take the extent MF from the Horizontal Dyal, and place it in the Tangent
+Scheam from M to O, and draw the Line MO, and the respective Divisions of the
+said Line being cut by the parallels of the Tangent Scheam are the same with
+the Divisions of the hour lines on the inward sides of the Horizontal Dyal VI,
+IX, and VI, III, and from the tangent Scheam they are to be transferred thither
+with Compasses.
+
+Also place F, IX or F, III from the Horizontal Dyal into the Tangent Scheam
+from M to N, and draw the line MN, which being cut by the parallels of the
+tangent Scheam, the Distances of those Divisions from M are to be pricked down
+in the Horizontal Dyal, the first from F to XI, and I the second from F to X
+and II, etc.
+
+To inscribe the hour lines in a direct erect South Dyal.
+The Diameter of the Circle in the South Dyal in page 8, is the same as in the
+Horizontal, and the nearest distance from L to FM was the Consine of the
+Latitude, and was pricked twice on the Horizontal Line from M to VI on each
+side, whereby that inward Parallelogram was limited.
+
+Wherefore the divisions of the Line MO in the Tangent Scheam, are the same
+with the hour distances in this Dyal on the sides VI, III, and VI, IX; then for
+the divisions of the hours on each side of XII, take the extent XII, IX or XII,
+III, and because it is less then the outward parallel distance of the sides of
+the Tangent Scheam, having therein made MI perpendicular to BM, place this
+extent from I to P, and draw the line MP, then prick the extent RL from the
+Tangent Scheam, from F to XI and I, and the extent QK, from F in the Dyal, to
+X, and II, and from the hour points so found, draw lines into the Center at M,
+and they shall be the hour lines required.
+
+To delineate an upright Decliner in an Oblique Parallelogram.
+An upright South Dyal Declining 30 degrees West, Latitude 51 degrees, 32
+minutes.
+First draw the Meridian or Plains perpendicular CN, and upon C as a Center,
+with the Radius of the Dyalling Scheam, describe
+
+A South plained Declin 40d East Reclining 60d Lat 51d 32
+page 64
+
+A North plain Declin 60 West Inclining 60d Lat 51-32
+place this any where
+
+
+
+
+
+page 65 A South plain Declin 30d West Latitude 51d 32
+A South Dial Declin 40d East Inclin 15d Lat 51d 32
+
+
+an Occult Ark, wherein prick off NT from the aforesaid Scheam, and draw TC for
+the Substile; also set off in the said Ark TK equal to TK of the
+beforementioned Scheam, and draw KC for the Style; perpendicular to the
+Meridian passing through the Center C, draw the Plains Horizontal Line, and
+therein from the Center prick down from C to F, the Cotangent of the Latitude,
+to wit, BF upon which the Sine of the Declination is to be erected to the same
+Radius, and the nearest distance from A to DV in that Scheam, is the Sine of
+the declination, which being pricked on the perpendicular FG, draw a Line from
+the point G into the Center, and it shall be the hour-line of six.
+
+In Latitudes under 45d the side of the square AV must be assumed to be the
+Cotangent of the Latitude, the Radius whereto will be AF the Tangent of the
+Latitude, to which Radius being pricked on the side of the square from the
+Center, the Sine of the declination must be taken out as before, and erected on
+the Cotangent of the Latitude, and this work must be performed on that side of
+the Center on which the Substile lies.
+
+To fit in the Parallelogram.
+Produce the Lines WE, VD, and VL, in the Dyalling Scheam far enough, then
+assuming any extent to be Radius, enter it on the lines VD and VL from the
+Center to Y and Z, the nearest distance from Y to VE is the Cofine of the
+Latitude to that Radius which enter on the Line of 6 or GC, so that one foot
+resting thereon, the other turned about may just touch CN, at the point found
+set H, and make CI on the other side equal to CHAPTER
+
+The nearest distance in the Dyalling Scheam from Z to VE, is the Cosine of the
+declination to the former Radius, which prick on the Meridian line from C to L.
+
+And draw a Line through L parallel to HI, and therein make LP, LQ each equal
+to CH, and draw HP and IQ, and there will be an oblique Parallelogram
+constituted, the sides whereof will be Tangent Lines.
+
+Nota, we might assume the point G in the hour-line of six, for the
+Parallelogram to pass through, and the nearest distance from D to VE in the
+dyalling Scheam, would be the Cosine of the declination to the same Radius to
+be pricked on the Meridian Line as before.
+
+To inscribe the hour lines.
+In the following Tangent Scheam made as the former, produce CB, and make BQ
+equal to BC, then take the extent PQ on the dyal, and upon Q as a Center
+describe the Ark Y therewith, and draw the Line YC just touching the
+extremity, then you may proportion out the hours in this manner.
+
+The nearest distance from D to YC in the Tangent Scheam, being pricked on the
+side of the Parallelogram from P and Q, will find the points 10 and 2, through
+which those hour lines are to pass, also the nearest distance from E to YC,
+being there pricked, finds the points 11 and 1 as before, otherwise take the
+extent PL from the Dyal, and in the Tangent Scheam upon C as a Center, describe
+the Ark N therewith, and draw BN just touching the outward extremity of that
+Ark, the nearest distance from E to BN, prick in the Dyal from L to 11 and 1,
+and the nearest distance from D to BN, place from L to 10 and 2, thus you have
+found points through which part of the hour lines are to be drawn into the
+Center at C; or having found the points P and Q on the plain, if it be desired
+to inscribe the hours without drawing the side of the Parallelogram PQ, which
+must also be performed without the help of Compasses, though they be at hand,
+then in the Tangent Scheam prick the extents E and D, from B to I and K, and
+through the respective points C, D, E, B, I, K, Q, draw lines all parallel one
+to another, making any Angle at pleasure with the said Line, I say then that
+any line ruled over those parallels, shall be divided into a line of double
+tangents, as is LM, which is made equal to PQ, the side of the Parallelogram in
+the former Dyal, if therefore you double the Paper in the line LM, and apply
+the points L, M to the points QP on the plain, you may by the edge of this
+Paper Tangent Scheam so doubled, prick down the hour points on the plain, and
+lines drawn through them into the Center, shall be the hour lines required, and
+making BO equal to the sides of the Parallelogram HP or IQ, and it shall
+contain the hour distances to be transferred into the said sides.
+
+If a line be drawn in the Dyal from H to L, and from L to I, the hour lines
+being drawn shall divide each of these lines into a double Tangent, and
+consequently the hour lines may also be pricked off on the said lines, after the
+method now prescribed.
+
+For upright far Decliners and such plains as have small height of Style,
+recourse must be had to former directions for drawing them with a double
+Contingent line, each at right Angles to the Substile. The foundation whereof
+is this, Any point being assumed in the Substilar line of a Dyal, the nearest
+distance from that Point to the Style, is the Sine of the Styles height, the
+Radius to which Sine is the distance of the assumed point in the Substilar line
+from the Center of the Dyal; Then in all Dyals the hour distances from the
+Substilar line are Tangents of the Angle of the Pole, the Sine of the Styles
+height being made the Radius thereto, having finished the delineation of the
+Dyal, the Style is to be placed directly over the Substilar line, without
+inclining to either side of the Plain, making an Angle therewith equal to its
+height above the same, for the Substilar line is elsewhere defined to be such a
+line over which the Style is to be placed in its nearest distance from the
+Plain, therefore if the Style incline on either side, it will be nearer to some
+other part of the Plain then the Substilar line, whence it comes to pass in
+places near the Equinoctial, if an upright Plain decline but very little, the
+Substile is immediately cast very remote from the Meridian.
+
+Another way to prick down the hour lines in Declining leaning Plains.
+Every such Plain in some Latitude or other will become an upright Decliner:
+First therefore by the former directions prick off the Substile, Style and
+Meridian, in their true Coast and quantity, and perpendicular to the Meridian,
+draw a line passing through the Center, and A South Dial Declin 40d East
+Inclin 15d Lat 51d 32
+
+
+A North Dial Declin 40d East Reclining 75d Lat 51d 32
+
+
+it shall represent the Horizontal line of the Plain in that new Latitude as
+here US; from any point in the Style as K, let fall a perpendicular to the
+Substile at I, and from the point I, in the Substile let fall a perpendicular
+to the Meridian at P.
+
+To find the new Declination.
+Prick IP on the substilar line from I to R, and draw RK, so shall the Angle
+IRK be the complement of the new declination, and the Angle IKR the new
+Declination it self.
+
+To find the new Latitude.
+Upon the Center V with the Radius VK, describe a Circle, I say then that UP is
+the Sine of the new Latitude to that Radius which may be measured in the Limb
+of the said Circle, by a line drawn parallel to US, which will intersect the
+Circle at F, so is the Arch SF the measure of the new Latitude.
+
+To prick off the Hour-line of Six.
+This must be pricked off below the Horizontal line, the same way that the
+substilar lies: The proportion, is,
+
+As the Cotangent of the Latitude, Is to the Sine of the Declination, So is the
+Radius, To the Tangent of the Angle between the Horizon and six.
+
+If RK be Radius, then is UP the Tangent of the new Latitude, but if we make UP
+Radius, then is RK the Cotangent of the new Latitude.
+
+Wherefore prick the extent RK on the Horizontal line from V to N, and thereon
+erect the Sine of the Declination to the same Radius perpendicularly, as is NA,
+and a line drawn into the Center shall be the hour-line of six; the
+proportioning out of the Sine of the Declination to the same Radius, will be
+easily done, enter the Radius UP from K to D, and the nearest distance from D
+to IK, shall be the Sine of the new declination to that Radius.
+
+To fit in the Parallelogram.
+This is to be done as in upright Decliners, for having drawn a line from the
+new Latitude at F into the Center, if any Radius be entered on the said line
+from V, the Center toward the Limb, the nearest distance from that point to
+UP the Meridian line, shall be the Cosine of the new Latitude to that Radius.
+
+Again if the same Radius be entered on RK produced if need be, the nearest
+distance to VR (produced when need requires) shall be the Cosine of the new
+Declination, and then the hour lines are to be drawn as for upright decliners,
+nothing will be doubted concerning the truth of what is here delivered, if the
+demonstration for inscribing the Requisites in upright decliners be well
+understood, it being granted that Oblique Plains in some Latitude or other will
+become upright decliners.
+
+There are two Examples for the Latitude of London suited to these directions,
+in both which the Letters are alike, the one for a South Plain declining 40d
+Eastwards, Inclining 15d, the other for a North Plain declining 40d East,
+Reclining 75d.
+
+To find a true Meridian Line.
+For the true placing of an Horizontal Dyal, as also for other good uses it
+will be requisite to draw a true Meridian Line, which proposition may be
+performed several ways, amongst others the Learned Mathematician Francis van
+Schooten in his late Miscellanies demonstrates one, performed by help of three
+shadows of an upright Style on a Horizontal Plain, published first without
+Demonstration in an Italian book of dyalling by Mutio Oddi.
+
+Let AB, AC, and AD represent 3 shadows made on a Horizontal plain in one day,
+by the shadow of the style or wyre AE, erected perpendicularly from the point
+A, of which shadows if two be found equal, a line let fall perpendicularly from
+the Point A, upon a line joining, the extremities of those two shadows, shall
+be a true Meridian line.
+
+But if all three be unequal, as let AC be the least, erect three lines from
+the point A, perpendicular to AP, AC, AD as is AF, AG, and AH equal to the
+Styles height AE, and draw lines from the extreamities of the three shadows to
+these three points as are FB, GC, and HD; then because AC is less then AB,
+therefore GC will be less then FB, by the like reason GC will be less then HD,
+wherefore from FB and HD cut off or Substract FI and HK equal to GC, and from
+the points I and K let fall the perpendiculars IL, KM, upon the Bases AB, AD,
+afterward draw a line joining the two points M, L, and from the said points
+let fall the perpendiculars LN equal to LI, and MO equal to MK.
+
+Then because the two shadows AB and AD are unequal, in like manner FB and HD
+will be unequal; but forasmuch as FI and HK, are equal by construction, it
+follows that LI, KM, or LN and MO will be unequal, and forasmuch as these
+latter lines are parallel a right line that connects the points O and N, being
+produced will meet with the right line that joins M, L produced, as let them
+meet in the point P, from whence draw a Line to C, and it shall be a true line
+of East and West, and any Line perpendicular thereto shall be a Meridian line,
+thus the perpendicular AQ let fall thereon, is a true Meridian Line passing
+through the point A, the place of the style or wyre.
+
+Whereto I add that if MO and LN retaining their due quantities be made
+parallel it matters not whether they are Perpendicular to ML or no, also for
+the more exact finding the Point P, the lines MO and LN, or any other line
+drawn parallel to them, may be multipyled or increased both of them the like
+number of times from the points M and L upwards, as also from the points O and
+N downwards, and Lines drawn through the points thus discovered, shall meet at P
+without producing either ML or ON. See 15 Prop. of 5 Euclid. and the fourth of
+the sixth Book.
+
+The greater part of van Schootens Demonstration is spent in proving that ML
+and ON produced will meet somewhere, this for the reasons delivered in the
+construction I shall assume as granted, then understand that the three
+Triangles ABF, ACG and ADH stand perpendicularly erect on the plain of the
+Horizon beneath them, upon the right Lines AB, AC and AD, whence it will come
+to pass that the three points F, G, and H meet in one point, as in E the top of
+the Style AE, and that the right lines FB, GC and HD are in the Conique Surface
+of the shadow which the Sun describes the same day by his motion, the top of
+which Cone being the point E.
+
+Wherefore if from those right Lines we substract or cut off the right Lines
+FI, GC and HK being each of them equal to one another, then will the points I,
+C and K, fall in the circumference of a Circle, the plain whereof is parallel
+to the plain of the Equator; and therefore if through the points K and I such a
+Position a right Line be imagined to pass, and be produced to the plain of the
+Horizon, it will meet with ML produced in the point P, where ON being produced,
+will also meet with it; so that the point P being in the Plain of the Circle,
+as also in the plain beneath it, as also the point C being in each Plain, a
+right line drawn through the Points P and C will be the Common Intersection of
+each plain, and the line PC will be parallel to the Plain of the Equator, and
+is therefore a true Line of East and West, which was to be proved.
+
+On all Plains though they Decline, and Recline, or Incline, after the same
+manner may be found the Line PC, which will represent the Contingent Line of
+any Dyal, and a perpendicular raised upon the Line CP shall be the Substilar
+Line, which in Oblique Plains is the Meridian of the Plain, but not of the
+place, unless they are both Coincident from this manner of finding a Meridian
+Line on a Horizontal plain, nothing else can be deduced without more Scheams:
+From the three shadows, may be had the three Altitudes, and the Meridian line
+being given, the Azimuths to those three shadows are likewise given, which is
+more then need be required in order to the finding of the Latitude of the
+place, and the Declination and Amplitude of the Sun, which because this Scheam
+does not perform of it self, I shall add another to that purpose.
+
+By three Altitudes of the Sun, and three shadows of an Index on an Horizontal
+Plain, to find a true Meridian Line, and consequently the Azimuths of those
+shadows, the Latitude of the place, the Suns Amplitude and Declination.
+
+It will be convenient to take two shadows, when the Sun is on one side of the
+Meridian, and the third when on the other side* and the performance will be
+most exact when the Sun is near the Summer Solstice
+
+Let the three shadows be CA, the Altitude whereto is AF 22d, 28 The second
+shadow CB, the Altitude whereto is BG 59d, 21 both these in the morning, The
+third shadow in the afternoon CD the -- Altitude whereto is -- DH 18d, 20
+
+Let the Angle ACB be 70d, and the Angle BCD 135d, by following Operations we
+shall find that the shadow CA, is 10d to Southwards of the West, that the
+shadow CB is 60d to Northwards of the West, that the shadow CD is 15d
+Southwards of the East.
+
+Having from the three shadows pricked off the three Altitudes to F, G, and H,
+from those points to the shadows belonging to them, let fall the perpendiculars
+FI, GK, HL, which shall be the Sines of those Altitudes, and the Bases IC, KC,
+and LC shall be the Cosines, from the point K in the greater Altitude, draw
+Lines to the points I and L in the lesser Altitudes and produce those lines.
+
+From the points K and I, the Sines of the two Altitudes, are to be erected
+perpendicularly, thus KM is made equal to KG, and IN is made equal to IF, then
+producing MN and KI, where they meet as at W, is one point, where the plain of
+the Suns parallel of Declination intersects the plain of the Horizon; in like
+manner on the Base KL, the Sines of two Altitudes KG, and LH, ought to stand
+perpendicularly from the points K and L in their common Base, but if they
+retain the same height, and are made parallel to one another, a line joining
+the points of the tops of those Sines produced, shall meet with the line
+joining the points of their Bases produced, in the same point as if they were
+perpendicular.
+
+Thus KP and LQ are drawn at pleasure through the points K, and L parallel one
+to another, and KG is the Sine of the greater Altitude, and LO is equal to the
+Sine of the lesser Altitude, and these two points being joined with the Line OG
+produced, meets with the Line KL produced, in the point E, another point where
+the plain of the Suns parallel intersects the plain of the Horizon.
+
+Or you may double KG, and find, the point P, as also double LO and find the
+point Q, a line drawn through P and Q, finds the point E, as before, but with
+more certainty.
+
+If you join EW it shall be a true Line of East and West, and a perpendicular
+let fall thereon from C the Center, shall be a true Meridian line to the
+perpendicular Style or wire, as is CS.
+
+The Arch SR is the Suns Amplitude from the North 50d 6 the shadow being
+contrary to the Sun, casts his parallel toward the South.
+
+Draw KNIGHT parallel to SC, and it shall be the perpendicular distance between the
+Sine of the Suns greatest Altitude, and the Intersection of his parallel with
+the Horizon.
+
+Upon K erect KV equal to the Sine of the Suns greatest Altitude of the three
+KG, and the Angle KTV shall be equal to the complement of the Latitude, for the
+Angle between the plain of any parallel of declination and the Plain of the
+Horizon, is always equal to the complement of the Latitude, and if upon T as a
+Center with the Radius CS, you describe the Ark KX, the said Ark shall measure
+the complement of the Latitude in this example 38d 28 which being given
+together with the Sine of the Amplitude CY, it will be easy to draw a Scheme
+of the Analemma, whereby to find the Suns declination, the time of rising, and
+setting, his height at six the Azimuth thereto, the Vertical Altitude and hour
+thereto, etc. and many other propositions depending on the Suns motion, as I
+have elsewhere showed.
+
+The whole ground hereof is, that a right line extended through the tops of the
+Sines of any two Altitudes of the Sun taken the same day before his declination
+very, shall meet with the Plain of the Horizon in such a point where the Plain
+of the Suns parallel intersects the Plain of the Horizon, and finding of two
+such points, a line drawn through them, must needs represent the intersection
+of those two Plain; in the former Scheme the Sines of the two Altitudes are KM
+and IN, a line drawn through the bottomes of those Sines, as KI extended shall
+be in the Horizontal Plain, and the Line MN extended through the tops of those
+Sines is in the plain of the Suns parallel, as also in the Horizontal plain;
+now whether these Lines stand erect or no is not material, provided they retain
+their Parallelisme and due length, and pass through the points of their Bases
+I, K, for the proportion of the perpendiculars to their Bases, will be the same
+notwithstanding they incline to the Horizon.
+
+To Calculate the Latitude, etc. from three shadows.
+A usual and one of the most troublesome propositions in Spherical
+Trigonometry, is from three shadows to find the Latitude of the place: thus
+Maetius propounds it, and with many operations both in plain and Spherical
+Triangles resolves it.
+
+The first operations are to find the Suns 3 Altitudes to those shadows, and
+that will be performed by this proportion,
+
+As the Length of the shadow, Is to the perpendicular height of the Gnomon,
+
+So is the Radius, To the Tangent of the Suns Altitude above a Horizontal
+Plain, which proportion on other Plains will find the Angle between the Sun
+and the Plain or Wall.
+
+Next Maetius gives the distances between the points of the three shadows, and
+then by having three Sides of a Plain Triangle, he finds an Angle, to wit, the
+differences of Azimuth between the respective shadows, which Angle may be
+measured off the Plain with Chords.
+
+But propounding it thus, Three Altitudes of the Sun above a Horizontal Plain,
+with the differences of Azimuth between the three shadows belonging to those
+Altitudes, being given, let it be required to find the Suns true Azimuth, the
+Latitude of the place, and the Suns Amplitude.
+
+And how this may be Calculated from the former Scheme, I shall now show.
+
+In the Triangle ICK of the former Scheme, the two sides IC and CK, represent
+two shadows, and the Angle ICK is the Angle or difference of Azimuth between
+them, and the said sides IC and CK, are the Cosines of the Altitude proper to
+those shadows; now by seven Operations in right lined Triangles, we may find
+the proper Azimuth or true Coast of any of those shadows.
+
+1. In the right lined Triangle ICK, having the two sides IC and CK, with the
+Angle between them ICK, at one operation may be found both the other Angles CIK
+and IKC.
+
+2. In the same Triangle by another operation, may be found the Side IK.
+
+Then to proceed, draw Nf parallel to IK, and fM will be the difference of the
+Sines of both the Altitudes belonging to those shadows, whereby may be found KW.
+
+3. The proportion lies,
+
+As fM the difference of the Sines of both those Altitudes,
+
+Is to fN equal to IK before found,
+
+So is KM the Sine of the greater Altitude, to KW sought.
+
+4. 5. 6. By three like Operations may be found in the other shadow Triangle,
+the Angles CKL, and KLC, with the Side KE.
+
+Having proceeded thus far to the Angle IKC, add the Angle CKL, the sum is
+equal to the Angle WKE.
+
+7. Then in the Triangle WKE, we have the two Sides thereof WK, and KE given,
+and the Angle comprehended by them, and at one Operation we may find both the
+other Angles EWK, and KEW, the complement of the Angle TWK, is the Angle WKT.
+The difference between the Angles WKT, and IKC, is the Angle CKZ, which shows
+the Suns Azimuth from the Meridian proper to that shadow, which may be
+otherways found, for the difference between EKT and TKC, also shows it.
+
+By two other Operations the Latitude may be found.
+
+1. As the Radius: Is to WK before found So is the Sine of TWK to KNIGHT:
+
+2. As VK the Sine of the greater Altititude, Is to KNIGHT before found,
+
+So is the Radius, To the Tangent of the Latitude.
+
+By another Operation may be found the Amplitude CY, having found the Angle
+ZKC, the Angle CKp is the complement thereof, then it holds:
+
+As the Radius, Is to CK the Cosine of the greater Altitude,
+
+So is the Sine of the Angle CKp to CP, the difference between which, and Yp
+equal to TK, is YC the Sine of the Amplitude sought.
+
+To make any Dyal from three Shadows.
+The Geometrical performance of the former Proposition, is insisted upon by
+Clavius in his Book of the Astrolable, but* he mentions no method of
+calculation as derivable from it: from this proposition Monsieur Vaulezard a
+French Mathematician educeth a general method for making of Dyals, from three
+shadows of a Gnomon stuck into a wall at random, whereof he does not so much
+as mention any demonstration; I shall endeavor to deliver the method thereof
+with as much perspicuity as I can.
+
+Every Plain in some place or other, is an horizontal Plain; admit an Oblique
+Plain in our Latitude, the Substilar line represents the meridian of that
+place, and any contingent line drawn at right Angles, thereto will represent a
+true line of East and West in reference to that horizon, and if the hours did
+commence at 12, from each side the substile, the Dyal here would show the true
+time of the day there.
+
+In every oblique Plain assuming any Point in the Style, and crossing the Style
+with a perpendicular to that Point, which shall meet with the Substile, the
+Point so found in the Substile, is the Equinoctial Point, in respect of the
+assumed Point in the Style; hence we may infer that if these two Points and
+the Substilar line were given the Center of the Dial might be easily found, now
+the former construction applied to an oblique Plain, assumed to be an
+Horizontal Plain, in respect of some unknown place, will find the Equinoctial
+Point and the substilar Line, the Style Point being assumed in the extremity of
+a Gnomon any ways placed or stuck in a wall at random.
+
+From the former Scheme it may be observed that the Sine of any of the three
+Altitudes being erected on the Perpendicular between the foot of that Sine and
+the Suns parallel* gave an Angle equal to the elevation of the Equinoctial
+above the Horizon, which is the thing sought in the following work, but the
+Sine of the greatest Altitude performs the proposition best.
+
+If a stick or pin be stuck into a wall for this purpose, and does not make
+right Angles therewith, a Perpendicular must be let fall from the extremity
+thereof into the wall, which is called the perpendicular Style, and the
+distances of the shadows; from the foot thereof must be measured thence, in
+respect of the tip of this perpendicular Style the Equinoctial Point must be
+found, wherefore it will be convenient to assume the said perpendicular Style
+to be the Sine of the greatest of the three Altitudes of the Sun above the
+Plain, which properly in respect of Us are Angles between the wall and the Sun.
+Up on this assumption it will follow, that the shortest shadow will be the
+Cosine of that Angle, and the distance between the tip of the Style, and the
+extremity of that shadow will be the Radius: now from the lengths of the three
+shadows, and the height of the perpendicular Style, it will be easy to find
+the Sines and the Cosines of the Angles between the wall and the Sun.
+
+In the following figure, let the Circle be supposed to be described upon a
+leaning Plain, on which let AB represent a Style stuck in at random, the
+extremity of the three shadows whereto are the points D, E, F, first find the
+perpendicular Style thereto CB. and from C draw lines to the three shadows:
+now to find the Sines and Cosines of the Angles between the wall and the Sun,
+assuming CB to be the Sine of the greatest Altitude, make CB in the second
+figure equal thereto, and perpendicular thereto raise the Line CF, wherein
+prick down the three shadows CE, CD, and CF, and upon B as a Center with the
+extent BE describe the Quadrant GA, drawing lines from the three shadows into
+B the Center, and the Arks GE, GI, GH, are the three Angles between the wall
+and the Sun, and the nearest fig. 1a
+fig. 2a
+fig. 3a
+fig. 4a
+
+
+distances from the points E, I, H, being taken to GB, are the Sines thereof,
+also the nearest distances from those Points to AB, are the Cosines thereof.
+
+Being thus prepared, draw three Lines elsewhere as in the third figure meeting
+in a Center, and making the like Angles as the shadows did, and let them be
+produced beyond that Center, and have the same Letters set to them: make CH CG
+in this Scheme, equal to the nearest distances from H I to CB, and make CL
+equal to EC, in the former Scheme.
+
+Draw the lines IG, IH produced; and make HP GO equal to nearest distances from
+I H to BG, and parallel to HP and GO, draw the lines IN, IM, each of them made
+equal to CB, then draw the Hipotenusals MO, NP, meeting with the Bases at K and
+L, draw the Line KL, and it shall represent the Plains Equinoctial or
+contingent Line.
+
+From I, let fall the perpendicular IQ produced, and it shall be the Substilar
+line on the Plain and the Point Q is the Equinoctial Point sought.
+
+To place the Substile.
+Then repair to the Plain whereon you would make the Dyal represented by the
+first Scheme, and place CQ therein, so that it may make the same Angle with the
+shadow CE, as it does with the Line IC in the third Scheme, and it shall be the
+Substilar Line, which is to be produced, also prick IQ from the third Scheme
+from C to Q on the Plain in the Substilar Line, and upon the point C,
+perpendicular to the Substile, raise the Line AC, and make it equal to CB,
+drawing the Line AQ, then will the Angle AQC be equal to the complement of the
+Styles height; for it is the Angle between the plain and the Equinoctial; just
+as before in the Horizontal plain, the Sine of the greatest Altitude was
+erected on a Line falling perpendicular from the foot of the said Sine, to the
+intersection of the plain of the Suns parallel with the plain of the Horizon,
+and thereby gave the Angle between the Suns parrallel and the Horizon, equal to
+the Complement of the Latitude.
+
+To find the Center of the Dyal and Styles height.
+If from the point A you raise the Line AV perpendicularly to AQ, where it cuts
+the Substilar Line, as at V, is the Center of the Dial, and he Line AV
+represents the Style.
+
+3. To draw the Meridian Line.
+If the Plain recline, a thread and plummet hanging at liberty from the Point
+B, and touching the Plain, will find a Point therein, suppose K a line drawn
+from K into the Center of the Dial, shall be the Meridian line of the place.
+
+A broad ruler with a sharp pin at the bottom of it, being in a right line,
+with a line traced through the length of that ruler, whereto the plummet is to
+hang, having a hole cut therein for the bullet to play in, will find this Point
+in a reclining plain.
+
+On an inclining Plain, if the thread and plummet hang upon the Style at
+liberty, to some part of the Style more remote from the Center, fasten another
+thread, which being extended thence to the Plain just touching the former
+thread and plummet hanging at liberty, will find many Points upon the Plain,
+from any of which, if a line be drawn into the Center it shall be the Meridian
+line required; See the fourth figure: or in either of these cases hold a thread
+and plummet so at liberty that it may just touch the Style, and bringing your
+sight so, as to cast the said thread upon the Center at the same by the
+interposition of the thread; the eye will project a true Meridianline on the
+Plain, for the thread represents the Axis of the Horizon, and the Plain of the
+Meridian, is in the said Axis.
+
+If the Center fall inconvenient upon the Plain, it will be necessary to draw
+the Plains perpendicular, passing through the foot of the perpendicular Style
+C, and measure the Angle of some of the Shadows from it, and accordingly so
+place it in the third figure or draught on the floor, on which find the Center,
+and afterward assign the Center on the Plain where it may happen convenient,
+and from the said draught, by help of the Plains perpendicular, set off the
+substile and Styles height; On plains on which probably the Style has but
+small height, the perpendicular Style in this work must be assumed the shorter.
+
+4. To draw the Hour Lines.
+These may be set off in a Paralellogram after the Substile, Stile' and
+Meridian are placed which I have handled before.
+
+Or they may be inscribed by the Circular work, if we assume the perpendicular
+Style AC, to be the Sine of the Styles height, the Radius thereto will be AV,
+prick the said Radius on the Substile from V the Center to, Z, and upon Z as a
+Center, describe the Circle as in the first figure, and find the regulating
+point by former directions, over which from O the point where the Meridian of
+the place cuts the said Circle, lay a ruler, and it finds M, on the opposite
+side, being the Point from whence the Circle is to be divided into 12. parts,
+for the hours with subdivisions for the halfes and quarters. Here note that
+the arch MV, is the inclination of Meridians, the whole Semicircle being
+divided but into 90d, and if that be first given (as hereafter) we may thereby
+find the Point O, whence the Meridian Line is to be drawn into the Center.
+
+5. A Method of Calculation suited hereto.
+This is altogether the same as for finding the Azimuth of the shadows on the
+Horizontal Plain and as easy, whereby in the third figure, the Angle of the
+Substile CIQ, must be set off from the shadow ICE, just as the Meridian Line
+CP, might be set off from the shadow CK on the Horizontal.
+
+And the complement of the Styles height AQV, in the first figure here, as the
+complement of the Latitude KTV, was found there.
+
+Lastly, for placing the Meridian Line of the place by calculation, the
+Substiles distance from the plains perpendicular, and the reclination of the
+Plain must be found, which may be got easily at any time without dependence on
+the Sun, and then in the often-mentioned oblique Triangle in the Sphere, we
+have two sides with the Angle comprehended given, to wit, the complement of the
+Styles height, the complement of the reclination, and the Substiles distance
+from the Plains perpendicular whereby may be found the inclination of
+Meridians: and consequently the Meridian line of the place, also the Latitude
+thereof, with the Plains declination, if they be required.
+
+To perform all this other wise Geometrically and instrumentally, (but not by
+calculation) there was an entire considerable quarto treatise, with many
+excellent Prints from brass-Plates thereto belonging, printed at Paris in
+France, in An. 1643. by Monsieur Desargues of Lions, which Treatise I have seen
+but not perused, a year after was published the small Treatise of Monsieur
+Vaulezard before mentioned.
+
+The inscribing of the Signs, Azimuths, parallels of the longest day, etc. are
+lately handled by Mr. Leybourn in his Appendix to Mr. Stirrups Dyalling, as
+also by Mr. Gibson in his Algebra, who thinks in many cases that they deform a
+plain, and are seldom understood by the vulgar, wherefore it will not be
+necessary to treat thereof.
+
+The directions throughout this Book are suited to the Northern Hemisphere and
+are the same in the Southern Hemisphere, if the words South for North, and
+North for South be mutually changed.
+
+Since the Printing of this Treatise, I have not had time to revise it with the
+Copy, and so cannot give thee a full account of what faults may have escaped,
+which I think are not many; these few following be pleased to correct.
+
+Errata.
+Page 17 line 3 upon M read upon C. p. 15 l. 34 for Substilar Sine r. Substilar
+Line. p. 25. l. 12 for 20d r. 15d. p. 36 l. 17 for 51. r. 31.
+
+FINIS.
+

@@ -1,0 +1,1641 @@
+THE COMPLETE Ship-Wright.
+
+Plainly and Demonstratively Teaching the Proportions used by Experienced
+Ship-Wrights, according to their Custom of Building; both Geometrically and
+Arithmetically performed.
+
+To which is added, Certain Propositions in Geometry, the use of a Diagonall
+SCALE, to draw a Draught, with the Making, Graduating, or Marking of a Bend of
+Moulds, and ordering of the same. The Extraction of the Square Root, with a
+Table of Squares.
+
+Also, a way of Rowing of Ships, by heaving at the Capstane, useful in any
+Ship becalmed; with other things useful in that ART.
+
+By EDMUND BUSHNELL Ship-Wright.
+
+LONDON, Printed by W. Leybourn for George Hurlock, and are to be sold at his
+Shop at Magnus Church corner in Thames Street, near London Bridge, 1664.
+
+TO THE READER.
+Friendly Reader,
+THe Matter contained in this Treatise, is written only for the good and
+profit of my Countrymen, who are still in that capacity that once I my self
+was; that is, ignorant of what they should know in their Trades, and desire
+Instruction; not that I presume to teach those long experienced Ship-Wrights,
+whose actions has declared their Abilities to the whole World, in their
+Building of so Gallant, and Serviceable a Fleet of Ships, as at present his
+Majesty, the King of England, is furnished withal, no King having the like,
+either for Offense, or Defense: yet their knowledge they desire to keep to
+themselves, or at least among so small a number as they can; for although some
+of them have many Servants, and by Indenture (I suppose) bound to Teach them
+all alike the same Art and Mystery that he himself uses; Yet it may be he may
+Teach some one, and the rest must be kept ignorant, so that those Ship Wrights,
+although bred by such knowing Men, yet they are able to teach their Servants
+nothing, more then to Hew, or Dub, to Fay a Piece when it is Molded to his
+place assigned, or the like: but if occasion require, that the greatest part of
+these Men, by being Carpenters of Ships, or the like, may be removed from
+England to Virginia, or New England, or the like Countries, where Timber is
+plenty for their use, yet through their ignorance, they durst not undertake
+such a Work: For their sakes I have written this Book, wherein the Reader shall
+find instructions sufficient for Moulding of any Ship, or Vessel whatever,
+with the Masting of them, drawing of Draughts, and all in a very plain and
+exact Method, which I am confident will be understood by the meanest
+capacities, if they can but read English, and have the benefit of a little
+Arithmetic as Adition, Substraction, Multiplication, Division: be diligent,
+and I shall be thereby encouraged, if need be, to help thee farther in the Art.
+
+Farewell, Thy Friend, Edmund Bushnell.
+
+THE CONTENTS.
+Chapter I. OF Geometrical Problemes Page 1 Chapter II Of your SCALE Page 4 Chapter III
+Concerning the drawing your Draught upon Paper Page 6 Chapter IV. Showing, how to
+sweep out the Bend of Moulds upon a Flat Page 9 Chapter V. The Description of the
+Rising Lines aftward on, and forward on; with the Narrowing Lines, and Lines of
+Breadth: As also the Narrowing of Lines at the top of the Timbers Page 12 Chapter
+VI. Showing the Making and graduating, or marking of the Bend of Molds Page 15
+Chapter VII. Arithmetically showing how to frame the body of a Ship by Segments of
+Circles: being a true way to examine the truth of a Bow Page 22 Chapter VIII. How
+to Extract the Square Rooot Page 31 Chapter IX. A Description of the Table of
+Squares Page 39 Chapter X. Showing, how to hang a rising line by several sweeps,
+to make it rounder aftward, then at the beginning of of the same Page 53 Chapter
+XI. Concerning Measuring of Ships Page 59 Chapter XII. Concerning the Masts of
+Ships Page 62 Chapter XIII. Concerning Rowing of Ships, when they are becalmed.
+Page 65
+Advertisement.
+IF any Gentleman, studious in the Mathematics, have, or shall have occasion
+for Instruments thereunto belonging, they may be furnished with all sorts,
+useful both for Sea or Land, either in Brass, or Wood, by Walter Hayes, at the
+Cross-Daggers in Moore-Fields, next door to the Pope's Head Tavern; where they
+may have all sorts of Maps, Globes, and Mathematical Paper, Carpenters Rules,
+Post and Pocket-Dyalls for any Latitude, Steel Letters, Figures, Signs,
+Planets, or Aspects, at reasonable Rates.
+
+ERRATA.
+PAge 7, Line 9, Read Halses 8 16 come not fowl 8 21 faied 11 2 at f or G 12 23
+before 13 2 before 13 19 aftward 14 15 L o 14 28 ^/^ 15 25 dele off 16 7 Sirmarks
+18 ^ none, that 18 11 at the top 19 2 stick 20 29 you h^w to 22 5 make a 23 3
+and 5 3/5 54 16 12 foot 57 1 two last numbers.
+
+Books Printed and Sold by George Hurlock, at Magnus Church-Corner in
+Thames Street, near London Bridge.
+SEamans Calendar, or Ephimerides of the Sun, Moon, and certain of the most
+notable fixed Stars, etc.
+
+Norwoods Doctrine of Triangles, with Logarithmes, lately printed, exactly
+corrected, and much enlarged by the Author himself. Norwoods Epitomy, applied
+to plain and Mercators sailing Norwoods Sea man's Practice, containing a
+Fundamental Problem in Navigation, experimentally verified. Safeguard of
+Saylors, or Great Rutter, by To. Norman. Sea man's secrets. A Table of Gauging
+all manner of Vessels, by Jo. Goodwin. Pathway to perfect sailing, by Richard
+Poltar* Pitiscus his Doctrine of Triangles, with Canons. Navigator by Cap.
+Charles Saltonstal, newly printed, with additions, showing the Deceipts of the
+plain Charts used in our time, and a way to prove the projection of any Plain
+Chart. Dary's description and use of a Universal Quadrant. Seamans Dictionary,
+or the Exposition and Demonstration of all the parts and things belonging to a
+ship* together with an Explanation of all the Terms and Phrases used in the
+practique part of Navigation, by Sir Henry Manwarring.
+
+Exact Tables of Natural and Artificial Sincs, Tangents, Secants and
+Logarithms, and an Institution Mathematical, containing their constructions
+and use in the solution of all Triangles Plain and Spherical, and the
+application thereof in Astronomy, Dialling, and Navigation.
+
+Seamans Glass, now newly published, with the addition of many propositions in
+Navigation, Astronomy, and Dialling, not before printed.
+
+The Complete Canoneer, showing the principles and grounds of the Art of
+Gunnery, as also several Fireworks for Sea and Land.
+
+The Advancement of the Art of Navigation, or Sea-mans Canon of Triangles,
+showing by a new Canon of Sines, Tangents, and Secants, how to resolve all
+Cases of right lined Triangles, only by looking into the Tables, without any
+Calculation. Particularly applied to all the three kinds of Sailing, viz. by
+the Plain Chart, Mercators Chart, by a Great Circle; and to the Art of
+Surveying.
+
+Trigonometria Brittannica, or the Doctrine of Triangles, in folio, exhibiting
+the Logarithms of all numbers, from one to a hundred thousand, and the Sines
+and Tangents to the hundred part of a Degree, with Mr. Gellibrands Doctrine of
+Triangles, faithfully translated from the Latin Copy.
+
+The Sector on a Quadrant, containing the Description and use of three general
+Quadrants, accommodated for the ready finding the Hour and Azimuth universally
+in the equal Limb.
+
+The Complete Modellist, showing how to raise the Model of any Ship or Vessel,
+either in proportion, or out of proportion* and to find the length and bigo^ss
+of every Rope, in all Vessels exactly, with the weight of their Anchors and
+Cables.
+
+There is a new Book* called the Pilots Sea-Mirror, which is a Compendium of
+the largest Wagoner, or the lightning Sea-Collumbe; Containing all Distances or
+thwart Courses of the Eastern, Northern, and Western Navigations, with a
+general Tide Table, for every day, and the Change and Full of the Moon exactly
+for eight years, also Courses and Distances throughout the Straights. Printed
+for George Hurlock, at Magnus Church Corner, by London Bridge.
+
+The Saints Anchor-hold in all storms and Tempests, Published for the support
+and comfort of Gods people in all times of Trial, by John Davenport Pastor of
+the Church in New Haven in New-Ingland.
+
+There will shortly be made public a Book, Entitled, The Mariners Compass
+Rectifled, containing, First, a Table showing the hour of the day, the Sun
+being upon any point of the Compass. Secondly, Tables of the Suns rising and
+setting. Thirdly, Tables showing the points of the Compass, that the Sun and
+Stars rise and set with. Fourthly, Tables of Amplitudes; all which Tables are
+Calculated from the Equinoctial, to 60 degrees of Latitude, with Tables of
+Latitudes and Longitudes, after a new order, with the description and use of
+all those Instruments that are in use in the Art of Navigation, either for
+Operation or Observation.
+
+THE COMPLETE Ship-wright.
+CHAP. 1. Of Geometrical Problemes.
+BEfore we proceed to draw the Draught of any Ship or Vessel, it will be
+necessary to be acquainted with some terms in Geometry: as to know what a Point
+and a Line means, which every Book treating of Geometry plainly teaches, and
+therefore we shall pass that by, supposing that none will endeavor to study
+the Art of a Ship-wright, that is ignorant of these things; and therefore
+leaving these Definitions, I will proceed to some Geometrical Problemes
+necessary to this Art.
+
+PROB. 1. How to draw a Parallel Line.
+PArallel lines are such lines as are equidistant one from another in all
+parts, and are thus drawn. Draw a line of what length you please, (according to
+your occasion) as the line A B, then open the compasses to what distance you
+pleas, or as your occasions require, and set one foot of the compasses* toward
+one end of the given line, as at A, with the other foot make a piece of an arch
+of a circle, over or under the given line, as the arch C, keeping the compasses
+then at the same distance, make such another arch toward the other end of the
+line, setting one foot in B, and with the other describe the arch D, then
+laying a Ruler to the outside of these two arches, so that it may exactly touch
+them, draw the line C D, which will be parallel to the given line A B, or
+equidistant, for so signifies the word Parallel, to be of equal distance.
+
+
+
+PROBL. 2. How to erect a Perpendicular, from a point in a right line given.
+LEt there be a point given in the line A B, as the point C, whereon to raise a
+perpendicular.
+
+Set one foot of the compasses in the given point C, and open them to what
+distance you please, as to the point E, make a little mark at E, and keeping
+the compasses at the same distance, turn them about, and make a mark at the
+point F, in the line A B: Then remove the compasses to one of those marks at E
+or F, and seting one foot fast therein, as at the point F, open the other foot
+wider, and therewith draw a small arch over the point C, as the arch D, then
+keeping the compasses at the same distance, remove them to E, and seting one
+foot in E, with the other foot draw another little arch, so as to cross the
+former arch in the point D, through the crossing of these two arches A D, draw
+a line to the given point C, as the line D C, which shall be perpendicular to
+the line A B.
+
+Diverse other ways there are to raise a perpendicular, which I shall leave to
+the farther practice of such as desire diversity of ways, and proceed to the
+raising of a Perpendicular on the end of a line.
+
+
+
+PROBL. 3. To raise a Perpendicular on the end of a line.
+DRaw a line at pleasure, or according to your work, as the line A B: On the
+end thereof as at B, set one foot of the Compasses, and open them to what
+wideness you please, as to C, and keeping fast one foot at B, pitch one foot
+by adventure in C, then keeping one foot of the compasses in C, and at the same
+distance, remove the foot that was in B, to the point D in the line A B: then
+(keeping the compasses still at the same distance) lay a ruler to the points D
+and
+
+C, and with your compasses set off the distance from C to E: Lastly, draw the
+line E B, which will be perpendicular or square to the end of the given line A
+B.
+
+There are other ways to effect this, which I shall leave to farther practice
+of the learner, this being the properest for our purpose.
+
+PROB. 4. From a Point given, to let fall a Perpendicular upon a Line given.
+FRom the point C, let it be required to let fall a perpendicular upon the line
+A B, proceed thus: Fix one foot of the compasses in the point C, and open them
+to a greater distance then just to the line A B, and make with the same extent
+the two marks E and F, in the given line A B, then divide the distance between
+the two points E and F into two equal parts in the point D, then lay a Ruler
+to the given point C, and to the point D, and draw the line C D, which will be
+perpendicular to the given line A B.
+
+
+
+CHAP. II. Of your SCALE.
+BEing perfect in the raising and letting fall of perpendiculars, and in the
+drawing of Parallel lines, you may proceed to draught: but first I will unfold
+unto you the use of a Diagonall Scale of Inches and Feet, whose use is to
+represent a foot measure, or a Rule so small, that a Ship of 100 foot by the
+Keel, may be demonstrated on a common sheet of paper, really and truly to be so
+many foot long, and so many foot broad, of such a depth, and of such a height
+between the Decks. And therein, the first thing to be considered is, the length
+of the platform, and of the Vessel you intend to demonstrate, to the end you
+may make your Scale as large as you can, because the larger the Scale is, the
+larger will the draught be, and so the measure of the demonstration will be the
+larger, and more easy to unfold. The Scale adjoining consists (as you see)
+of 12 feet in all, 11 thereof are marked with figures downwards, beginning at
+1, 2, 3, 4 and so to 11: the first at the top is sub-divided into inches by
+diagonal lines, as the distance between the first line of the Scale and the
+first diagonal line is one inch, the second is 2, and the third 3 inches, and
+so to Six. The way to demonstrate the Scale, you see, is very easy: Draw Seven
+lines parallel to each other, and of what length you please, to retain what
+number of Feet you please, then beginning at the top, set off with the
+compasses the length of your Feet both allow and aloft, then draw lines thwart
+the parallel lines, to every foot of the Scale, and set numbers to them,
+beginning at the second foot 1, and to the third 2, to the fourth 3, and so
+forward, leaving the first Foot to be divided into Inches by the Diagonall
+lines, as you see in the foregoing Scale.
+
+CHAP. III. Concerning the drawing your Draught upon Paper.
+HAving fitted your Scale ready, draw a line to represent the Keele of the
+Ship, as you see in the draught following of 60 foot long by the Keele, and 20
+foot broad: the straight line that represents the Keele is marked with A B.
+Then draw a line underneath of equal length to signify the bottom of the
+Keele. Then next you may proceed to the Stern-post, as the line A C will
+signify the foreside or the inside thereof, racking the one quarter of his
+length aft, and for the length of the Stern-post it must be directed to the
+built of the Ship, as whether she be to be a deep Ship or a shallow Ship, so
+that the draught of the water ought to be respected first, and then the lying
+of the Ports for the convenience of Ordnance, for that the upper transome of
+the Buttock, commonly is just under the Gun-Room ports, to the upper edge of
+the said transome we understand the length of the Stern-post, although if the
+Stern-post were continued to the height of the Tiller, and another Transome
+fard there for the Tiller to run on, it would steady the quarters of the Vessel
+very much, and do good service.
+
+The Stern-post being drawn, we may proceed to draw the Stem, which in the
+following Draught is not so much racked as was the old proportion of England,
+which was the whole breadth of the Ship, for then it should be 20 foot, but it
+is no more then 15 foot, just of the breadth, for too much rack with the Stem
+does a great deal of damage to any Ship, if we consider that in this small
+Vessel, had we given 5 foot more Rack, all the weight of the Ships Head, and
+Boltspreet, Foremast, Manger, Halsps, Brest-hooks aloft, had been so much
+farther forward, where there would have been want of Body to lift it, so that
+it must of necessity be detriment to the Vessel when she saileth against a head
+sea, and a great strain to her. Now it will be very good to spend as much of
+this rack as we can under the water, for it will help the Ship to keep a good
+Wind, by giving her something more Body in the water.
+
+Next draw the Water-line, in the following draught signified by the pricked
+line; it is drawn to 9 foot height before, and to 10 foot height abaft from the
+upper edge of the Keele, and higher abaft then before, for the most Ships sail
+by the Stern, and also for that the Guns should lie something higher abaft
+then before from the water.
+
+Then proceed to hanging of the Waals, and here you see the lower Waalle drawn
+from the head of the Sterne-post, to signify that it should lie against the
+end of the Transome, that the Transome Knees might be bolted to the Waals
+without board to one foot and an half under the Waterline, a little before the
+middle of the Water line, and at 9 foot high on the Stem, and the next Waale
+parallel to the lower Waale, one foot and an half asunder, so that the upper
+Waale will lie just at the waters edge, in the mid-ships, the upper edge of the
+Gun-deck will lie one foot aboye the water line abaft, and half a foot above
+water on the Stem; so then letting the lower sell of the Ports be two foot from
+the Gun-decks* the lower edge of the Ports will be three foot from the water
+abaft, and two foot and an half before, in the middle of the Gun-deck 2 foot 9
+inches, sufficient for so small a Vessel, a greater Vessel would require to
+have the Guns something farther from the water, then if another Waale be
+required, first set off the Ports in their places, that the Waale may ly above
+the Ports, or else he would be cut with the ports in pieces, the upper Deck
+with height respecting the bigness of the Ship, having respect to not over
+building small Ships, to damage their bearing of Sail.
+
+Then for the Head, the length of the Knee would be two thirds of the breadth,
+so then the Knee of the Head in this Draught will be 12 foot 8 inches long, and
+for his place, as low as conveniently he can, provided that the Rails of the
+Head, fall not fowl of the ha^shols, because that in placing of the Knee low,
+gives room to round the Head, and steeve it to content: The place of the Knee
+will be at, or very near, the upper Waal, the upper edge of the Knee against
+the upper edge of the uper harping, which will be very well for the lower
+Cheeks of the head to be faced against, for by that means they will be clear of
+any Seame to avoid Leakings, and will very well bolt the end of the harping, if
+a Brest-hook be fastened also within board against them, will very well fasten
+all together.
+
+Then for the steeving of him, and rounding the Knee, a regard must be had to
+the lying of the Boltspreet, leaving room enough for the Lion and Scrowl under
+the Boltsprit. Then* for the rounding of the Rails, round them most at the
+after ends.
+
+For the heights between Decks and Steeridge, Cabine, Fore-Castle, those
+heights are commonly mentioned in contract by the Master or Owners building.
+
+Place this Draught at Page 8
+cross-section of a ship's hull
+
+CHAP. IV. Showing, how to sweep out the Bend of Moulds upon a Flat.
+FIrst, draw a line, as the line AB, then in the middle thereof, as at the
+point C, raise a perpendicular, as is the line CM, perpendicular to the line
+AB; then set off the half breadth, on either side, at the Points AB, and draw
+the two lines IA, and KB, parallels to CD, signifying the breadth of the
+Vessel 20 foot; then draw the two lines OF, and HG, signifying the breadth of
+the Floare thwart Ships, 8 Foot, more then one third part of the breadth, which
+was formerly an old Proportion; so that according to that it should have been
+but 6 Foot 8 Inches.
+
+Herein any may do as they please, give more or less; my judgment is, rather
+more then less: for, that it makes a Vessel to carry more in Burden, and I
+conceive it may, if it be well ended forward, it will not damage the Sailing: I
+also think, it does stiffen a Vessel on this account. Our English Vessels
+have been used to have their breadth lying at the height of the Half Breadth,
+then observing 1/3 breadth for the length of the Floare Thwart Ships, it makes
+the Vessels Body to be very near a Circle, as is a Cask, which causes such
+Vessels to be easy to slew in the Water; yet I would not exceed neither, or
+run into extremes herein, but if I were to make a Vessel stiff, I would that
+the Half Breadth be more then the draught of Water, which causes that the
+Body be stronger in the Water, and will not Slew so easily. Now to sweep out
+the Sides under Water, I draw the Diagonall lines DA, and DB; then I divide the
+Diagonall lines into 9 parts, and set off 2 of them from the Corners A and B,
+to the points e, then I set off the Dead Rising, which is 4 Inches, one Inch to
+a Foot, for half the breadth represented in the Figure above, by the little
+line parallel to FG: from which Dead Rising, take with the Compasses the
+Distance that will draw a piece of an Arch from ^ to ^, and so as one foot of
+the Compasses stand in the line OF, and exactly touch the points at the
+Dead-Rising, at f or g, and touch also the points e, over which point falls at,
+in OF, or in HG, wherewith I describe the Arch e F, or e G, which is by the
+Scale in the Draught 4 Foot 8 Inches: then for the other part of the Side
+upwards, seek for a Point in the breadth line IK, at which, if one foot of the
+Compasses be set, and the other foot opened to the Extreme Breadth, will also
+draw, or signify an Arch to meet with the other Lower Arch, on the Diagonall
+line at e, which is at the points and; thus the point, between D and K, near
+H, Sweepeth the contrary Side I e, and so the point, between DI, near E,
+Sweepeth the contrary side at K, extend the same Sweep also above the Breadth
+line above Water 3 or 4 Foot, the length of this Sweep is 12 Foot 9 Inches:
+then set off the Tumbling Home, at the Height of the two first Haanses, at the
+Maine Mast and Foarcastle, 2 foot of a side; then draw a line from the said 2
+Foot of Narrowing, at the points o v, till it break off on the back of the
+Sweep, on either side. This kind of Demonstration I conceive most suitable to
+our following discourse of Arithmeticall Work, I could have cited other ways,
+but I Judge this way sufficient.
+
+CHAP. V. The Description of the Rising Lines aftward on, and forward on; with
+the Narrowing Lines, and Lines of Breadth: As also the Narrowing Lines at the
+top of the Timbers.
+DRaw a Hanging line on the Draught, from the Keele, from the middle of the
+Keele to the height of the Water line, on the Post which will be the Rising
+line, as the line DE; this line DE is supposed to be sweept, or drawn by a
+Semidiameter of a Circle, extended on a Perpendicular raised at the point E,
+for if it be shorter then such a Semidiameter of the true Circle, it will make
+a fuller line then it should be, and so must not be so long, or else it will
+make a breach at the beginning of the line; this, if the Center be supposed to
+be Abaft such a Perpendicular, that should draw a Rising line Abaft, I say,
+that it will shorten the Rising line, and make it fuller then it should be; or
+then if it be farther forward, it will be straighter then a Circle, and also be
+a breach at the beginning of the Rising line; therefore it should be a Circle,
+I say, whose Semidiameter will be on the Perpendicular line, at the beginning
+of any such Rising line, on the Heel, either Afoare, or Abaft, and the like
+ought to be for all other crooked lines, as the narrowing lines Abaft, or
+Afoare, or at the Narrowing of the Floare, or other Circular lines, as Hanging
+of Waals, and the like; the way whereof I shall describe, to find the lengths
+of all such Sweeps by Arithmetic; as also the true Rising, Narrowing of any
+Timber, according to exact pieces of Circles, very useful for the setting of
+Bows, to try whether they hang to a true Sweep or no: I shall demonstrate it,
+I say, in the following discourse, and in this place end what I intend to say.
+For Demonstration then, At of the Keele forward I draw a Rising line forward to
+the height of the Water line, forward on the Stemm, as you see the line op; and
+the little line, between these two lines, parallel to the inside of the Keele,
+marked Eo, is the dead rising 4 inches high, as in the bend of Moulds it is
+parallel to FG, the height of the breadth from the Mid-Ship forward is the
+lower Edge of the upper Waale; but afterward on it is the pricked line, between
+the Water line and the lower Waale, on the Post, which runs forward to the
+edge of the Waale, and has Figures set to it, to signify the places of the
+Timbers marked 1, 2, 3, 4, 5, to 15; as you see answers to the Figures on the
+Keele: and the Letters set to forward on, signify the places of the Timbers
+forward, marked ABCD to L, in the middle of the Vessel: the places marked with
+a Cipher signify the Flats, which have only Dead rising, although they ought
+to have, some of them, something more Dead rising then each other; and those
+that have least, to be placed in the middle of the rest, that so there be no
+Clings in the Buldge, but that it have also a little Hanging in it, it will
+seem the fairer: Then I draw a straight line, parallel to the bottom of the
+Keele, as is the line FG, parallel to the line AB, the Keele, and distant 10
+foot by the Scale, which is the half breadth of the Vessel; for this line
+signifies a line stretched from the middle of the Sterne-Post to the middle of
+the Stem, called by Ship-wrightes, a Ram-line: Parallel to this Middle line I
+draw another line straight, marked nm, and is 4 foot asunder from the Middle
+line, to signify the half length of the Floare thwartships, as in the Bend of
+Moulds OF is distant from DC 4 Foot: then I draw a Crooked line Abaft, within
+this line nm, to signify the narrowing of the Floare, to bring, or form the
+Vessels way Abast, as you see the line ik; Abaft and Afoare it is represented
+by the line lo: then here in this Draught I draw a Sweep, or a piece of a
+Circle, from the point G, the mark of the Timber G, on the Keele, to the half
+breadth of the Stemm, to the point G on the Stemm, signifying the Sweep of the
+Harping, and is Sweept by the breadth of the Vessel 20 Foot; the piece of the
+Pricked Circle Abaft at the Starne, which is drawn by a Center on the line FG,
+is the length of the Transom thwart the Starne, as is the Arch FS, the length
+whereof is 8 Foot, which doubled is 16 Foot, for the whole length: which is of
+the breadth 20 Foot, the length of the Sweep that sweepeth it is the length of
+the Starnpost to the bottom of the Keele 14 Foot, then the Crooked line, from
+the end of the Transom, or from the point S, and touches the Keele at the
+point p: this Arch Sp, is the narrowing line Abaft at the breadth, and the
+Crooked pricked line within the Keele, marked with TR, is a Rising line, to
+order a hollow Moulde by the Timbers, are placed at 2 Foot Timber and Room, as
+you may see by the Scale, the line drawn from the Poope to the Foar-Castle,
+marked by the letters VW, is a line signifying the breadth of the Vessel, at
+the top of the side, from the top of the Poope to the Fore-Castle, the top of
+the Poop is in breadth 10 Foot, half the breadth at the beam; the use of this
+line is in ordering of the Moulds, to stedy the Head of the Top-Timber Mould,
+to find his breadth aloft.
+
+CHAP. VI. Showing the Making and graduating, or marking of the Bend of Molds.
+Repair to some House that has some Room or other broad enough to
+demonstrate the breadth of the Vessel, and height enough for the top of the
+Poope in the length of the Room; or else if you cannot find such a Room
+convenient, lay boards together, or planks, that may be large enough for your
+business, as in the following Scheame you see; First, a long square made for
+the breadth of the Vessel, as in the following Figure IABK: then make the
+Moulds by their Sweepes, and make Sirmarks to them for the laying of them
+together in their true places, off first the Mould, for the Floare being made,
+you may make a Sirmarke by the line OF, on the head of the Floare Mould, and
+another on the foot of the Navill Timber Mould, at the same place, to signify,
+that those two marks put together, they are in their true places, and will
+compare so when any Timbers are Molded by them: those Sirmarks must also be
+marked off on the Timbers, and so in putting the Timbers up in the frame, a
+regard being had to compare Sirmarks with Hirmarks, each Timber will find his
+own place, and come to his own breadth, and give the Vessel that form
+assigned her by your Draught, if it be wrought by it, and so for all the other
+Moulds.
+
+In making your Moulds, that they may be smaller and smaller upwards, and not
+all of a bigness, you may measure the depth of the Side in the Mid Ships
+Circular, as it goes from the Keele to the top of the Side, as here the Side,
+as it Roundeth, is 26 foot, and in depth at the Rounheads, or at the end of the
+Floare, is one Foot, as m m; and at the other end, at the head of the Timber is
+but half a Foot, as at n n, so then drawing two lines, as the lines n m,
+represents the diminishing of the Moulds in thickness upwards, as those two
+lines represents; as if you would find the thickness of the Timbers at the
+breadth, take your 2 Foot Rule, and measure the length from the end of the
+Floare at the point F to I, at the breadth in the crooked body, and it is 11
+Foot 9 Inches, signified at the Sirmarks there, those two lines show the
+thickness to be 9 Inches; and so thick ought the Moulds to be at the breadth of
+the Vessel.
+
+By this Proportion the Moulds being made and Sirmarked to the body of the
+Vessel, and that they must be marked, or ordered, to find the decrease of her
+bulks body in the Midships, and to come to her way Abast, that the Water may
+pass to her Rudder to make her Stere, repair to the Draught, and first set off
+her Risings thus; Example, We will begin at Timber 3 Abast, and his Rising is 7
+inches: therefore draw a line parallel to the Base, or Ground line F G, as the
+line 3 3; 7* Inches, from it then take the narrowing of the Floare with the
+Compasses off 3 also, and it is here 4 Inches, showed by the little Spot, or
+Cross, in the Rising line 3 3, then seeking for the Narrowing at the breadth
+for Timber 3, there is none that shows that she keeps the same breadth at 3
+still, 20 Foot, but seek for the height of the breadth, and it will lie higher
+at 3, then in the Midships, by 6 Inches, signified by the little mark in the
+line A I, a little above I, at the point 3; then for the breadth at top of the
+Side, find that at the point 3, in the line V W, drawn to that end, and you
+will find that it is narrower there by 2 Foot 7 Inches, then at the breadth,
+or Tumbleth Home, so much at the height, 24 Foot signified by an Occult dark
+line, drawn from the top of the Poope to the Foarcastle, to order* the height
+of the Head of the Toptimber Mould, answering to the Narrowing of the same, at
+the line V W; and this point for 3 falls at the little Cross Mark 3, in the
+upper part of the figure: For the next Example we will set off on our Platform
+the rising narrowings of Timber 6, and 6 risth from the Keele 1 foot 7 inches,
+as you see the parallel* line 6 6 for breadth, the same still at the breadth,
+but the height of the breadth is higher by one foot, then at the Midship,
+signified by the mark at 6, in the line; at the breadth, the Tumbling home, 1
+foot* 7 inches and a half, at the height of 25 foot 4 inchos, at the point 6,
+and so proceed of all the rest, beginning at one till you come aft* to the
+fashion Pieces; when you have set off all the heights of Risings, narrowings of
+the Floare, narrowings of the Breadth, height of the Breadth, at the Breadth of
+the Vessel, and also of the Head of the Toptimber: Then at each point of the
+Floare, still in a Nail, or a Gimblet, or some such thing, as suppose we begin
+here at 3, stick one in the Midship line at 3, another in the little Cross, at
+the narrowing of the Floare at 3; another at the height of the Breadth at 3;
+another at the little cross, at the head of the Toptimber for 3; then if you
+have a lower Futtocke Mould, and an upper futtocke Mould, otherwise a navell
+Timber Mould, and a futtocke Mould, nail them together with small Nails, and
+lay the Sirmarks of the floare Mould, and futtock Mould to the Gimblet that
+sticks at the shortning of the floare; for by this means the floare Mould
+and futtock Mould is hauled downward: then make a mark at the cross, in the
+Midship line C D, setting to the mark of 3 for Timber 3, which will be the
+shortning of the Floare; then be sure the Navell Timber Moulds touch the
+Gimblet at the breadth, and at the narrowing of the floare, keeping the lower
+Sirmark thereto; and make a mark on the Futtocke Mould, at the upper Gimblet,
+for the rising allow lifts up the Moulds higher; and if there be any Crossing
+at the foot of the Navell Timber, and Head of the Floare Mould, mark it, and
+set to the mark 3 to it, that you may know to lay them together again, and
+keeping the Futtocke Mould fast, lay to the Toptimber Moulde the breadth
+Sirmarke of the Toptimber Moulde, to the Gimblet at the breadth, so have you no
+more Sirmarkes on the Toptimber Moulde but one, and guide the head of him till
+a line stretched from the Cross, at the head of the Toptimber, till it
+compares with the right part of the Toptimber Mould, then regard the Crossing
+of the foot of the Toptimber Mould, and the back of the futtocke, and mark it,
+setting to the proper Mark 3 to it, that laying those marks together again,
+they may find their own places again, so having finished for this Room 3,
+take up the Moulds, and remove the Gimblets to the next, as to 6, here in our
+Example, and stick the Gimblets at all the marks of 6, then lay down the
+Mouldes again, laying down the floare Moulde to the Sirmarke of 6, on the
+narrowing of 6, and to the Gimblet, sticking on the Midship line of D C, and
+right on the same line, at the crossing, make a mark on the floare Mould,
+which will be the narrowing of the floare; then lay down the futtocke Mould,
+the Sirmarke on the foot to the Gimblet, on the narrowing of the floare, and
+keeping the Mold to touch the Gimblets at both places, make a mark for the
+breadth Sirmarke at 6, on the futtoke Mould, and set to 6; then lay down the
+Toptimber Mould, the breadth Sirmarke thereof to the Gimblet, sticking at the
+height of the breadth, that the backside of the uper end may randge fair, by a
+right line from the cross at the uper end of the Toptimber at 6, by the back of
+the Toptimber Mould, a straight line may compare therewith* then keeping fast
+the Mouldes so till you have marked the crossing of the foot of the Toptimber
+Mould, by the back of the futtocke, mark it on the foot of the Toptimber
+Mould, and set to the mark of 6, so that when you are in any other place, as
+in the Woods a hewing of a Frame, where you to every place his Timber, you may
+be able to lay your Moulde together, and moulde it according to your Draught:
+We will lay down the taking of one bend of Timbers moreafte, where the breadth
+is narrowed, as at Timber 13, take his rising off, and measure it by the Scale,
+and it will be 6 foot 8 inches, which set off on your Plat-forme, and draw
+thereto a Parallel line, to the Ground line A B, as is the line 13 13, then
+take off the narrowing of the floare, as at 13, it is 2 foot 2 inches; set that
+off on the line 13, from the line E F, as at the little cross thereon, then
+take off the narrowing of the Breadth at 13, and it will be 8 inches; draw
+therewith a little parallel line, parallel to I O, as is the parallel line 13
+13, then seek the height of the breadth, as at 13, it will be from the uper
+edge of the Keele 12 foot 3 inches, and crosses the parallel line, at the lower
+end of it, just then for the tumbling of the Toptimber it will be 3 foot 3
+inches, and at the height of 27 foot 7 inches, at the little Cross 13: Now for
+the order of the hollow Mould, the little round piece of an Arch, in the Scegg
+of the Vessel, as it were, take off all the Risings, and mark them on the
+Rising Staff, on one edge, that they may be known from the other Risings; as
+here, for Timber 13, take off the hollow Rising, which will be at 1 foot 10
+inches, set it off on the rising Staff, at 1 foot 10 inches from one end, and
+the use of it will be in Moulding, set off the height of this hollow Rising on
+the middle line of the Timber, when the Mouldes are laid to pass, and strike a
+line from this Rising, on the middle line, until it breakoff on the back of
+the Moulds, then lay the hollow Mould to the lower part of the britch of the
+Timber, and at the half breadth of the Keele, and so bear in the other end
+till it just touch the streightline, made by the hollow Rising, and the back of
+the Moulds, and this mouldeth the lower part, or britch of the Timber, and
+brings in the hollow very fair; the same orders may be observed afoare, as
+abaft, on the other side of the Moulds, and marked with letters, to be known
+from them abaft: Then for the height of your Waals, you may mark a mark at
+every third or fourth Timbers, which you resolve to make frame Timbers; I say,
+you may make a mark at every third or fourth Timber, for the height of the
+upper edge, or lower edge of the Waale, and so bring on the Waale fair by those
+marks on the one side, and with a level find the height of the other side by
+the former.
+
+Now I have briefly touched the Demonstration of a Ship, by Projection, I shall
+now come to an Arithmeticall way, far surpassing any Demonstration for
+exactness.
+
+CHAP. VII. Arithmetically showing how to frame the body of a Ship by Segments
+of Circles: being a true way to examine the truth of a Bow.
+LEt A B represent the length of a Rising line 12 foot long, or 144 inches, the
+height whereof let be B C, 5 foot, or 60 inches, to find the side D E, or D A,
+the radius of the circle A C, whereto A D is the Semidiameter; multiply the
+side A B 144 inches in it self, and so comes 20736, which sum divide
+
+144 144 576 576 144 20736 by the side B C, the height of the rising 60 inches,
+and so comes 345, and 3^6/60, which is abreviated 3; unto this 345 ^/^ must be
+added again the height of the Rising, the side B e, 60, which make 405 3 of an
+inch, which is the whole Diameter of the Circle, the half whereof is 202 1/^
+inches, and something more, near ^/4, therefore we will avoid the fraction,
+and account it 203* inches, or 16 foot 11 inches, which is the length of the
+Sweep, or the side D E, and so in all other Sweeps given whatsoever; the Rule
+is general, and holds true in all things: as to find the Sweep at once, that
+will round any Beam, or other piece of Timber that is to be Sweept;
+remembering, that if it be a Beam, you are to find the Sweep you take but the
+half of his length.
+
+23(3 20736(345 6000 66
+
+Example, As if the Beam be 30 foot in length, and to round one foot, you must
+Work by 15, the half length of the Beam; and turn 15 foot into inches, by
+multiplying 15 by 12, so comes 180 inches: remember the length of the Rising
+line, if it be to find the Sweep, it must be multiplied by it self, or the
+half length of the Timber must be Multiplied in it self, as 180 by 180, so
+comes 32400, which must be divided by 12 the rounding, comes in the quotient
+2700, to which must be added the 12 again, the rounding of the piece, and so it
+is 2712 the whole Circle, the half of this 2712 is 1356 for the length of the
+Sweep, and so in all other matters where the Sweep is required: This I read in
+Mr. Gunters Book, where he calls it the half Chord, being given, and the
+Versed fine, to find the Diameter, and Semidiameter of the circle thereto
+belonging:
+
+Now this half Chord in our Work is the length of the Rising line, and the
+height of the Rising on the Post is that in our Work, which he represents by
+the name of the Versed sine, where remember to multiply the length of the
+Rising line by itself, if it be a Rising line, and divide by the height of the
+Rising, and to the division add again the height of the Rising, so have you
+always the whole Circle, divide it by 2, so have you the length of the Sweep.
+
+Example in the Draught foregoing.
+Where the length of the Rising line is from the point E, to the point i, 32
+foot; and half the height thereof is the line D i, 10 foot: turn both Sums
+into inches, as 32 foot multiplied by 12 produces, adding the foot 6 inches,
+390 inches length for the Rising line: then turn the height of the Rising into
+inches, as 10 foot multiplied by 12, produces 120 inches, from which 4 inches
+must be subtracted, because of the dead Rising is 4 inches, so then the height
+is 116 inches: Now multiply the length 390 inches by it self, 390 makes 152100.
+
+390 390 000 3510 1170 152100
+
+This Multiplication of the sum 152100, must be divided by 116 inches, the
+height of the Rising, and so comes in the quotient of the devision 1311
+inches; unto this 1311 inches, must be added the 116 inches, the height of the
+Rising 116/1427, and it makes 1427, which is the whole
+
+112 3323 46344 152100 (1311 116666 0111 11 Circle: divide it by 2, to find
+the half of it, so have you in the quotient 713 inches inch for the length of
+the Sweep, which divided by 12, to bring it into feet, makes 59 feet, 5 inches
+and a half, and so for all other Circular lines whatever, when the length is
+known, and the rounding of them also known; as for the hanging of Waals, the
+height of them known in the Midships from the Keele, subtracted from the
+height, at the Post, and that will be the hanging of them, which is the same
+with the height of the Rising line on the Post, in the Arithmeticall Work, and
+is the same with the Versed sine in Geometry; these I think Examples
+sufficient, to signify the Construction of this way of Working by Sweepes.
+
+1 1427 (713 222
+
+It follows now that I show the manner of finding the Risings of Timbers by
+Arithmetic also.
+
+To find the Rising of the line F E, in the Figure foregoing.
+The Sweep being first found to be as before 203 inches, as the side D E
+signifies, then there is known the side E G, 108 inches; now these two sides
+being given, we are to find the third side D G, so here is made a right Angled
+Triangle, two sides thereof are given to find a third, which to do, proceed
+thus; Multiply the two sides given by themselves, and substract the
+Multiplication of the shortest side, from the Multiplication made of the other
+sides, and extract the square Root of the remainder, so have you the third side
+sought for.
+
+Example in the following Triangle.
+
+
+Having the side D C, 12 foot, which is 144 inches* and the side A C, 10 foot,
+otherwise 120 inches; to find the side D A, multiply the sides given, in
+themselves, which is called squaring of them: as, multiply the side D C, 144
+inches, by 144 inches, so comes 20736. Then multiply the other side A C 120
+also by it self, so comes in the quotient 14400, which must be subtracted
+from the other Multiplication, as you see, so comes in the quotient 6336, from
+which the greatest square must be extracted, called extraction of the square
+root,
+
+144 144 576 576 144 20736 120 120 000 240 120 14400 20736 14400 6336 which is
+79 inches, and almost another by the Fraction, that is 6 foot, and very near 8
+inches.
+
+1 595 147 6^3^(79 14
+
+Note, These Demonstrations, this and the former, are laid down by the first
+Scale, made to show the Demonstration of a Scale in this Book, at the beginning.
+
+Another Example.
+So in the last Figure foregoing but one, the side D E, 203 inches, which
+squared, or multiplied in it self, is 41209.
+
+203 203 609 000 406 41209
+
+Then the other side G E, 108, multiplied in it self, which is squaring of it,
+is 12664, as you see.
+
+108 108 864 000 168 11664
+
+Which subtracted from the other multiplication, as 11664 subtracted from
+41209, rests 29545, the square Root extracted from it, or the side of the
+greatest square that can be taken from the substraction being found, is 171,
+and; which 171, subtracted from 203, the length of the Sweep for one side, is
+always the length of the Sweep, rests 31 inches, for the Rising of the line
+E F, and the like for any other Rising.
+
+41209 11664 29545
+
+(3 156(08 29549(^7.2. 34
+
+Another Example.
+As at the place K I, the Rising thereof is required, the side D I is as D E,
+203 inches.
+
+Note, The length of the Sweep being found, always is one of the sides, in
+the finding the Rising of any Timber, and is always one of the numbers, which
+when you have squared, note in a piece of Paper by it self, where you may
+always see what it is, so that in the finding of Risings, after the Sweep is
+found, all you have to do, is to know how many feet, or inches, the Timber you
+seek for is removed from the beginning, or foot of the Rising line, which is
+the second side, and in this third Example it is 11 foot, or 132 inches K I,
+from the foot of the line A, which squared, is 17424, which must be subtracted
+from the square made of Radius, which in the other example is 41209, and so
+rests 23775, from which extract the side of the Square therein contained, and
+it is 154 inches and, which subtracted from the length of the Sweep, leaves
+48 inches for the Rising, and inches, or 4 foot, and of an inch, and so much is
+the Rising of the said Timber.
+
+132 132 264 396 132 17424
+
+41209 17424 23775
+
+10 132(69 23785(154.2.0. 3
+
+One Example in the Draught, The length of that Sweep we found heretofore to
+be 713 inches, then we will seek to find the Rising for Timber 13, standing
+aft from the point E, or foot of the Rising line 324 inches, these are the
+given Sides; then proceed; square the Semidiameter of the Sweep 713, so it
+makes squared 508363; then square the distance of the Timber 13, which is 324,
+and it makes 104976; these subtracted from the former figures, rests
+403387, the square Root thereof is 635, nearest, which subtracted from the
+Radius 713, rests 77 inches and, that is 6 foot 5 inches, which with 4 inches
+Dead Rising, is 6 foot 9 inches; and so much is the Rising of Timber 13 from
+the Keele.
+
+I suppose these Examples are sufficient to illustrate the truth and plainness
+of this Arithmeticall Work, for the truth of it; it has this to say for it
+self, that it is the very exact truth it self: The great Objection may be, that
+many know not the way to Extract the Square Root, and therefore cannot attain
+to this Work, by reason of that let, or hinderance.
+
+To this I Answer, There are many Books that will instruct thee in it, that
+thou may buy, or borrow; but to answer thee better, I will briefly show thee
+the manner of Extracting the Square, not doubting but thou can perform
+Addition, Substraction, Multiplication, and Division already.
+
+CHAP. VIII. How to Extract the Square Root.
+KNow then that a square number has its sides equal every way, as are the
+sides of 4, represented by pricks; and you see that every way of all the 4
+sides it contains 2, and so 2 times 2, make 4, which is the squaring of a
+number, so you see 9 pricks is a square, or 9 is a square number, whose side is
+3, and 3 times 3 make 9, but 2 times 3 is not a square number, as you see:::,
+being but 2 one way, and the other way 3, that make but 6; so then all the
+numbers between 4 and 9, are not square numbers: by the like reason, a square,
+made of the Next square number 4 is 16, for 4 times 4 is 16, as by the Pricks
+you may see it represented here, every of the 4 sides containing 4, make a
+squared number of 16, and all the numbers that are between 9 and 16, as 2 times
+4, or 3 times 4, are not squares, but have a fraction annexed to them; so also
+any number between 16 and 25, are not squares, as 4 times 5, or 2 times 5, or 3
+times 5, these are not square numbers, but 5 times 5 is a squared number, and
+makes 25, where note, that to square a number, and to extract the square root,
+is two different things; for when we say, to square a number, is to multiply it
+in it self, or by it itself; or
+
+
+
+when we say, or speak of a number squared, it is a number multiplied in it
+self, but to extract the square Root, is to find the side of the square in a
+number given, or the extracted square Root is the square Root found in any
+given number.
+
+Thus you may conceive of the Squares of 6, for 6 times 6 make 36; 7 times 7
+make 49; 8 times 8 make 64; 9 times 9 make 81; 10 times 10 make 100: there is
+all the squares made of the 9 Figures, expressed by this little Table annexed,
+as against each Figure is the square made of them, as 2 times 2 is 4, so is 4
+against 2, as you see.
+
+1 1 2 4 3 9 4 16 5 25 6 36 7 49 8 64 9 81 10 100
+
+Now to extract the square Root from greater numbers, as from 144 proceed thus,
+write down the sum given, as follows, and make a quotient on the right
+hand, as you see, then set pricks under every other figure beginning at the
+right hand, and set pricks toward the left hand, under every other figure, so
+in this number 144, consisting of 3 figures, there is 2 pricks, and so many
+figures must the quotient consist of; then begin at the left hand of the sum,
+and say, or enquire for the greatest square in the figure, or figures, over the
+first prick, at the left hand, which here is but 1, therefore you can take but
+1, for 1 is always the Square, or Cube of 1, therefore write 1 in the
+quotient, and substract that 1 from the 1 over the left hand prick,
+
+144 (..
+
+0 144 (1.. and Cancel it, nothing remainining, write a Cipher over it, as you
+see, so have you one figure of the quotient, then double your figure found in
+the quotient, as 2 times 1 is 2; write that 2 under the figure between the next
+pricks, which is the Divisor for the second figure, then say, how many times 2
+can I have in 4, over the Divisor, I say 2, therefore I write 2 in the
+quotient, saying, 2 times 2 is 4, which substract from the 4 over head, Cancel
+the Divisor, and the 4 over head, and write a Cipher over it, then square the
+last figure found in the quotient, saying, 2 times 2 is 4, which substract from
+the 4 over the prick, and so rests 0, therefore cancel the 4, and write
+Ciphers over head, signifying, that the number given to find the root of, is
+a just square number, the root or side is 12, the proof hereof is by
+Multiplication of the quotient in it self, as 12 by 12 make 144, which, if it
+be the same with the sum given to be Extracted, it is rightly done* if it do
+not agree, it is not true.
+
+000 144 (12.2.
+
+Example of another Sum.
+Let 625 be given to find the Square Root of it, write down the sum, make a
+quotient, and set pricks under every other figure; then enquire for the
+greatest square in the figure, over the prick, at the left hand; I say, 2 is
+the greatest square can be taken: for 3 times 3 is 9, and here the figure is
+but 6; so I write 2 in the quotient, and square it, saying, 2 times 2 is 4,
+taken from 6, so rests 2; I cancel the 6, and write 2
+
+2 625 (2.. over it, as you see, then double the figure in the quotient,
+saying, 2 times 2 is 4; this 4 is the second Divisor, I write it between the
+two next pricks, and say, how many times 4, can I have in 22, and I find 5
+times; for 5 times 4 is 20, taken from 22, the figures over 4, so rests 2;
+therefore I write 5 in the quotient, and saying, 5 times 4 make 20* therefore I
+cancel the 4 Divisor, and the 22, and write 2 overhead, then square the last
+figure found, 5 by 5 make 25, taken from 25 over head* rests nothing, so the
+number given is a square number.
+
+2 625 (2.4.
+
+22 625 (25.4.
+
+22 625 (25.4.
+
+A Sum of 5476, given to find the nearest Square Root in it, write down the
+Sum, and make a quotient and prick underneath, as before showed; say, What is
+the greatest Square in the figures over the left hand prick? and I find it to
+be 7, for 7 times 7 make 49, but 8 times 8 make 64, 10 too much, therefore I
+write 7 in the quotient, and take 7 times 7, that is 49 from 54, so rests 5,
+which I write over the prick, and Cancel the 5 and the 4; then I double the
+figure in the quotient, which makes 14, for the Divisor, I write the first
+figure of the Divisor, if there be more then 1 under the figure, between the
+two next pricks, and all the other figures, in their places, toward the left
+hand; then inquire how many times can 1 be taken from 5, overhead, and I find
+it may be taken 4 times; I write therefore 4*
+
+5 5476 (7..
+
+1 51 5476 (74.. 14 in the quotient, and say, 4 times 1 is 4, from 5; so
+rests 1: I Cancel the 1 and the 5, and write 1 over the 5, then I say, 4
+times 4 make 16, from 17 rests 1: I Cancel the 4 Divisor, and write 1 over
+7, and Cancel the other 1 and the 7; then I square the last figure found, for
+so it must be at every prick, 4 times 4 make 16, which I substract from the 16
+over the last prick, and so I see nothing remains, that shows the sum
+given, to be a just square sum.
+
+10 510 5476 (74.. 14
+
+Example of another Sum.
+As if 528563 be given to find the greatest side of the Square therein, I
+write down the Sum, as follows, and make the quotient, and set the pricks
+under every other figure, as you see; and seeing there is 3 pricks, it tells,
+that there must be 3 figures in the quotient, then beginning at the figures
+over the left hand prick, I take the greatest square in 52, and I find it 7,
+for 7 times 7 make 49; therefore I write down 7 in the quotient, and Substract
+49 from 52, so rests 3, therefore Cancel the 52, and write 3 over the 2, as
+you see; then double the quotient 7, it makes 14, for a new Divisor, which
+write down, the first figure thereof, under the figure between the two next
+pricks, namely 4 under 8, and the other figure of the Divisor one place farther
+to the left hand, under the 3, as you see; then take the Divisor 1 as many
+times as you can, from the figure
+
+3 528563 (7...
+
+3 528563 (7... 14 3 over head, so as that after the Division be made, there
+may be the square of the last figure of the quotient, taken from the figures
+over the next prick, as I can take 1 but 2 times from 2, therefore I write 2 in
+the quotient, and Cancel the Divisor 1, saying, 2 times 1 is 2, from 3; so
+rests 1: I Cancel the figure 3 also, and write 1 overhead, as you see: then
+2 times 4 is 8, from 8 over head rests nothing; therefore I Cancel the
+second figure of the Divisor, 4 and 8, and write a Cipher over 8, as you see;
+then the next place being a prick, I must square the last figure found, saying,
+2 times 2 make 4, from 5; the figure over the prick rests 1, as you see;
+therefore I Cancel the 5, and write 1 over it, as you see, and here is a
+fraction of 101.
+
+1 30 528563 (72 14
+
+1 301 528563 (72 14
+
+Then for a new Divisor, Double the quotient 72, and it makes 144, which is a
+new Divisor, the first figure thereof write under the figure between the next
+pricks, as the first 4 under 6, in the sum; and the other figures toward the
+left hand, in the order as you see: then, how many times 1 in 10 over head, and
+I see I cannot take 8 times, for that there will not be left to take out the
+other figures from, nor for the square of the last figure, which if it were 8,
+would be 64 from the figure over the prick, therefore I take but 7, for by a
+light examination I see that will do, therefore I write down 7 in the
+quotient, and proceed to the
+
+1 301 528563 (727 14 4 14 Division, thus, 7 times 1 is 7, from 10 over head
+remains 3, which I write down, and Cancel the 10, as you see; then 7 times 4
+is 28, from 31 over head, so remains 3, which I also write down, and Cancel
+the 31; then again, 7 times 4, the other figure of the Divisor, is also 28,
+which taken from 36 over head, rests 8, which I write down over 6, and so
+Cancel the 36, and then the Sum stands as you see.
+
+13 301 528563 (727 14 4 14
+
+133 301 528563 (727 14 4 14
+
+133 3018 528563 (727 14 4 14
+
+133(3 530^8 (4 528563 (727 14 4 14
+
+Then lastly, square the last figure of the quotient, 7 times 7 make 49, taken
+from 83, the figures over the prick, rests 34, as a fraction, and the Sum is
+finished: But in regard here is a fraction, by that it tells you, that the Sum
+given was no square number; and the greatest square therein is 727, the proof
+is by Multiplication adding in the fraction thus, 727 Multiplied by 727, make
+528529, then adding in the fraction of 34, makes it 528563, the just Sum
+given.
+
+But some may Object, and say, That this is a very tedious way of Work, and
+will take up a great deal of time; It is true, it is more labor then
+demonstration, but the truth of it might very well plead for patience to Work
+it, but it is not necessary you perform all the parts by it, that is, in every
+particular: as the exact hanging of the Waal at every Timber, but it may
+suffice at every third or fourth Timber, to find the hanging of the Waals,
+only the Risings allow, afoare and abaft, I would work to every Timber there.
+
+But to make it more brief, here follows a Table that the numbers are
+therein contrived to the same purpose, to avoid the tedious Extraction of the
+Root, and only use Addition and Substraction, only being but a very little
+difference between the finding the Risings by this Table, and by the Draught,
+for in this kind of Arithmeticall Work, it mattereth not, whether or no there
+be any Draught drawn at all, or no, if the builder only note in his Book the
+length by the Keele, and the breadth at the Beam, the Rack of the Stem, Rack
+of the Post, depth of the Water, to Sail in depth of the Hold, height of the
+Waals abaft, afoare, at the Midships, and all the remarkable things to be
+noted, he may be able to Build a Vessel, and never draw a Draught at all, and
+yet affirm his Work to be absolutely true, according to Art, and a great deal
+more exact then by Draught: I shall in few words show you the use of the Table,
+and so conclude.
+
+CHAP. IX. A Description of the Table of Squares.
+TO save the Practitioner a labor of Extracting of Roots, for here they are
+ready done to thy hand of purpose, and all the use of Arithmetic required is
+only Substraction, as Example in the Figure of the Sweep foregoing, being
+found to be 203 inches, as you saw it found before, which is, I say, always
+one side of the Triangle, made of the side DI, then knowing the length of ^I,
+132 inches, which is the distance of the point, of which the Rising is sought
+at; seek in the Tables, under the Title of inches, at the head of the Tables,
+for 132, you will find it in the second Page, and the twelfth line; and right
+against it, in the same line, under the next Title of Squares, you have 17424,
+the square made of 132, which Substract from the Square made of 203, which is
+41209, which is found in the second Page of the Tables, and the third line: Now
+the other number 17424, Subtracted from 41209, so rests 23775; seek the
+number nearest to it in the Table, under the Title of Squares, which you will
+find in the second Page, 34 line, you find not just the same number, for in
+stead of 23775, you find 23716 too little by 59, and the Root answering
+thereto, is in the same line, under the Title of inches, toward the left hand,
+which is 154; now if you take the next square lower to the left hand 35 line,
+it is 24025, 250 too much, so you may see it is nearer to the 34th line,
+because there it was too little but by 59, so that you may see it will be of an
+inch less then the number of inches, belonging to the 35th line, and about of
+an inch more then the numbers in the 34th line; so that you see it is answered,
+the third side D 0 is 154, and of an inch, which Subtracted from the whole
+Sweep 203, leaves 48 inches for the Rising, so you have no need of extraction
+of the Roots by these Tables, it is already done to your hand; the Column
+that is between the inches and the squares, and written feet inches in the
+head, is to show you, how may feet, and inches of the foot any number of inches
+is; as here, the number 203 inches sought, and found in the Tables, in the
+second page, and third line, just against it, in the same line, between that
+and the squares, is 16 -- 11, showing that it is 16 feet and 11 inches; or if
+the square were given, as 41209, found at the second page, and third line, next
+toward the left hand, you have 16 foot, 11 inches; and if you seek for it in
+inches, in the third Column toward the left hand, and the same line, you have
+203 inches: Thus is it very ready to reduce inches into foot measure, or feet
+into inches.
+
+Another Example.
+In the same figure, to find the Rising at the point F, the sweep being 203
+inches, as before is said, is always one side, throughout the whole Work of
+the same Rising line is 41209, as is found in the second page, the third line;
+the other fide from the point A to F, is 9 foot, or 108 inches, whose square is
+11664, found in the first page, and the 28th line; now substract the square
+made of the side A F, 11664, from the square of the side D E, so remains 29545
+
+41209 11664 29545
+
+Seek in the Table of squares for that number, and I find in the second page,
+and 12 line, and the sixth Column, 29584, the nearest number to it, yet it is
+a little too much near the of an inch; and toward the left hand in the same
+line, the next Column under the title feet inch, you find 14; 4 signifying
+that to be 14 foot, 4 inches: and in one Column more to the left hand, and the
+same line, you see under the Title of inches 172 over the head you tituled
+inches, which must be subracted from 203 inch, so remains 3 inches for the
+Rising of F E, which is 2 foot, 7 inches, as in the first page of the Table,
+and the 31 line.
+
+203 172 031
+
+These few Examples I think may be sufficient to show the use of the following
+Tables of squares, the benefit where of may be very great, for such as shall
+make use of the same: If any desire the finding of the Fractions of these
+squares, when he finds not his just figures in the squares, let him do thus,
+substract the Figures under his number, from the Figures above his number,
+which shall be the denominator, then these Figures given, subtracted, from
+which the next squares less, shall be the denominator to that Fraction.
+
+As for Example, In the foregoing figures, after substraction, should have been
+29553; the nearest agreeing in the Tables, is 29584, the next lesser square
+number in the Table is 29241, which is more a great deal too little, then the
+other is too great; then substract the lesser square number 29241, from 29584,
+and so rests 343, which must be the denominator, then again substract the
+true number given, 29553, the next lesser square number in the Table is 29241,
+which must be subtracted, I say, from the true number given, 29553, and so
+rests after substraction 312, which is the Numerator to the Fraction, and
+must be thus written, ^ so then the number belonging to 29584, is 171 inches,
+and 312/343 parts of an inch, which being abreviated, is something more then of
+one inch, and not full of one inch.
+
+29584 29241 343
+
+Thus he that pleases may find the rising of any Timber, or narrowing of any
+place by these Tables and the help of Substraction, exactly to any Circle
+whatsoever, but it may suffice, that a Man, going to his Tables, may see which
+square his figures have greatest affinity with, and may estimate the difference
+near enough, without seeking for the fraction, which will be easily known by
+much practice herein.
+
+HEre follows a Table of Square Roots, ready Extracted, from one Inch to 1300
+Inches, which is to 108 foot* and 4 Inches, and it is thus contraved, That from
+one Inch, to 840 Inches, all the Inches are reduced into Feet and Inches* for
+the ease and help of Workmen, who always take their Measures by Feet and Inches;
+but from thence to the end of the table you have the Inches only, and the
+Squares thereof against them as the Titles over every Page do make appear.
+
+A Table of Square Roots.
+Inch Feet Inches Squares 1 1 1 2 2 4 3 3 9 4 4 16 5 5 25 6 6 36 7 7 49 8 8 64
+9 9 81 10 10 100 11 11 121 12 1 00 144 13 1 1 169 14 1 2 196 15 1 3 225 16 1 4
+256 17 1 5 289 18 1 6 324 19 1 7 361 20 1 8 400 21 1 9 441 22 1 10 484 23 1 11
+529 24 2 00 576 25 2 01 625 26 2 2 676 27 2 3 729 28 2 4 784 29 2 5 841 30 2 6
+900 31 2 7 961 32 2 8 1024 33 2 9 1089 34 2 10 1156 35 2 11 1225 36 3 00 1296
+37 3 1 1369 38 3 2 1444 39 3 3 1521 40 3 4 1600 41 3 5 16^1 42 3 6 1764 43 3 7
+1849 44 3 8 1936 45 3 9 2025 46 3 10 2116 47 3 11 2209 48 4 00 2304 49 4 1 2401
+50 4 2 2500 51 4 3 2601 52 4 4 2704 53 4 5 2809 54 4 6 2916 55 4 7 3025 56 4 8
+3136 57 4 9 3249 58 4 10 3364 59 4 11 3481 60 5 00 3600 61 5 1 3721 62 5 2 3844
+63 5 3 3964 64 5 4 4096 65 5 5 4225 66 5 6 4356 67 5 7 4489 68 5 8 4624 69 5 9
+4761 70 5 10 4900 71 5 11 5041 72 6 00 5184 73 6 1 5329 74 6 2 5476 75 6 3 5625
+76 6 4 5776 77 6 5 5929 78 6 6 6084 79 6 7 6241 80 6 8 6400 81 6 9 6561 82 6 10
+6724 83 6 11 6889 84 7 00 7056 85 7 1 7225 86 7 2 7396 87 7 3 7569 88 7 4 7744
+89 7 5 7921 90 7 6 8^00 91 7 7 8^81 92 7 8 8464 93 7 9 8649 94 7 10 8836 95 7
+11 9025 96 8 0 9226 97 8 1 9409 98 8 2 9604 99 8 3 9801 100 8 4 10000 101 8 5
+10201 102 8 6 10404 103 8 7 10609 104 8 8 10816 105 8 9 11025 106 8 10 11236
+107 8 11 11449 108 9 0 11664 109 9 1 11881 110 9 2 12100 111 9 3 12321 112 9 4
+12544 113 9 5 12769 114 9 6 12996 115 9 7 13225 116 9 8 13456 117 9 9 13689 118
+9 10 13924 219 9 11 14162 120 10 0 14400 121 10 1 14641 122 10 2 14884 123 10 3
+15229 124 10 4 15376 125 10 5 15625 126 10 6 15876 127 10 7 16029 128 10 8
+16384 129 10 9 16641 130 10 10 16900 131 10 11 17161 132 11 00 17424 133 11 1
+17689 134 11 2 17956 135 11 3 18225 136 11 4 18496 137 11 5 18769 138 11 6
+19044 139 11 7 19321 140 11 8 19600 141 11 9 19881 142 11 10 20164 143 11 11
+20449 144 12 00 20736 145 12 01 21025 146 12 2 22416 147 12 3 21609 148 12 4
+21904 149 12 5 22201 150 12 6 22500 151 12 7 22801 152 12 8 23104 153 12 9
+23409 154 12 10 23716 155 12 11 24025 156 13 00 24336 157 13 1 24649 158 13 2
+24964 159 13 3 25381 160 13 4 25600 161 13 5 25921 162 13 6 26244 163 13 7
+26569 164 13 8 26956 165 13 9 27225 166 13 10 27556 167 13 11 27889 168 14 00
+28224 169 14 1 28561 170 14 2 28900 171 14 3 29241 172 14 4 29584 173 14 5
+29929 174 14 6 30276 175 14 7 30625 176 14 8 31076 177 14 9 31329 178 14 10
+31684 179 14 11 32041 180 15 00 32400 181 15 1 32761 182 15 2 33124 183 15 3
+33489 184 15 4 33856 185 15 5 34025 186 15 6 34596 187 15 7 34969 188 15 8
+35344 189 15 9 35721 190 15 10 36100 191 15 11 36481 192 16 00 36864 193 16 1
+37249 194 16 2 37636 195 16 3 38025 196 16 4 38416 197 16 5 38809 198 16 6
+39204 199 16 7 39601 200 16 8 40000 201 16 9 40401 202 16 10 40844 203 16 11
+41209 204 17 00 41616 205 17 1 42025 206 17 2 42436 207 17 3 42849 208 17 4
+43264 209 17 5 43681 210 17 6 44100 211 17 7 44521 212 17 8 44944 213 17 9
+45369 214 17 10 45796 215 17 11 46224 216 18 0 46656 217 18 1 47089 218 18 2
+47524 219 18 3 47961 220 18 4 48400 221 18 5 48841 222 18 6 49284 223 18 7
+49729 224 18 8 50176 225 18 9 50625 226 18 10 51076 227 18 11 51529 228 19 0
+51984 229 19 1 52441 230 19 2 52900 231 19 3 53361 232 19 4 53824 233 19 5
+54289 234 19 6 54656 235 19 7 55225 236 19 8 55696 237 19 9 56069 238 19 10
+56644 239 19 11 57121 240 20 0 57600 241 20 1 58081 242 20 2 58564 243 20 3
+59049 244 20 4 59536 245 20 5 60025 246 20 6 60516 247 20 7 61009 248 20 8
+61504 249 20 9 62001 250 20 10 62500 251 20 11 63001 252 21 0 63504 253 21 1
+64009 254 21 2 64516 255 21 3 65025 256 21 4 65536 257 21 5 66049 258 21 6
+66564 259 21 7 67081 260 21 8 67600 261 21 9 68121 262 21 10 68644 263 21 11
+69169 264 22 0 69596 265 22 1 70425 266 22 2 70756 267 22 3 71289 268 22 4
+71824 269 22 5 72361 270 22 6 72900 271 22 7 73441 272 22 8 73984 273 22 9
+74529 274 32 10 75076 275 22 11 75575 276 23 0 76176 277 23 1 76729 278 23 2
+77284 279 23 3 77841 280 23 4 78400 281 23 5 78961 282 23 6 79524 283 23 7
+80089 284 23 8 80656 285 23 9 81225 286 23 10 81796 287 23 11 82369 288 24 0
+82944 289 24 1 83521 290 24 2 84100 291 24 3 84681 292 24 4 85264 293 24 5
+85849 294 24 6 86436 295 24 7 87025 296 24 8 87616 297 24 9 88209 298 24 10
+88804 299 24 11 89401 200 25 0 90000 301 25 1 90601 302 25 2 91204 303 25 3
+91809 304 25 4 92416 305 25 5 93025 306 25 6 93636 307 25 7 94241 308 25 8
+94864 309 25 9 95481 310 25 10 96100 311 25 11 96721 312 26 0 97344 313 26 1
+97969 314 26 2 98596 315 26 3 99225 316 26 4 99856 317 26 5 100489 318 26 6
+101124 319 26 7 101761 320 26 8 102400 321 26 9 103041 322 26 10 103684 323 26
+11 104329 324 27 0 104976 325 27 1 105625 326 27 2 106276 327 27 3 106929 328
+27 4 107584 329 27 5 108241 330 27 6 108900 331 27 7 109561 332 27 8 110224 333
+27 9 110889 334 27 10 111556 335 27 11 112225 336 28 0 112896 337 28 1 113569
+338 28 2 114244 339 28 3 114921 340 28 4 115600 341 28 5 116281 342 28 6 116964
+343 28 7 117349 344 28 8 118336 345 28 9 119025 346 28 10 119716 347 28 11
+120409 348 29 0 121104 349 29 1 121801 350 29 2 122505 351 29 3 123206 352 29 4
+123909 353 29 5 124604 354 29 6 125311 355 29 7 126025 356 29 8 126736 357 29 9
+127449 358 29 10 128164 359 29 11 128881 360 30 0 129600 361 30 1 130321 362 30
+2 131044 363 30 3 131779 364 30 4 132496 365 30 5 133225 366 30 6 133956 367 30
+7 134689 368 30 8 135424 369 30 9 136161 370 30 10 136900 371 30 11 137640 372
+31 0 138384 373 31 1 139129 374 31 2 139876 375 31 3 140625 376 41 4 141676 377
+31 5 142129 378 31 6 142984 379 31 7 143641 380 31 8 144400 381 31 9 145161 382
+31 10 145924 383 31 11 146689 384 32 0 147456 385 32 1 148225 386 32 2 149006
+387 32 3 149769 388 32 4 150544 389 32 5 151321 390 32 6 152210 391 32 7 152831
+392 32 8 153664 393 32 9 15444^ 394 32 10 155236 395 32 11 156025 396 33 0
+156816 397 33 1 157609 398 33 2 158104 399 33 3 159201 400 33 4 160000 401 33 5
+160801 402 33 6 161604 403 33 7 162409 404 33 8 163216 405 33 9 164025 406 33
+10 164836 407 33 11 165649 408 34 0 166464 409 34 1 167281 410 34 2 168100 411
+34 3 168921 412 34 4 169744 413 34 5 170569 414 34 6 171396 415 34 7 172225 416
+34 8 173056 417 34 9 173889 418 34 10 1747^4 419 34 11 175561 420 35 0 176400
+421 35 1 177241 422 35 2 178084 423 35 3 178959 424 35 4 17977^ 425 35 5 180625
+426 35 6 181476 427 35 7 182329 428 35 8 183184 429 35 9 184041 430 35 10
+184900 431 35 11 185761 432 36 0 186624 433 36 1 187789 434 36 2 188^56 435 36
+3 1898^5 436 36 4 190096 437 36 5 190960 438 36 6 191044 439 36 7 192721 440 36
+8 193600 441 36 9 194481 442 36 10 195364 443 36 11 196249 444 37 0 197136 445
+37 1 198025 446 37 2 198916 447 37 3 199809 448 37 4 200704 449 37 5 201601 450
+37 6 202509 451 37 7 203401 452 37 8 204304 453 37 9 205^90 454 37 10 206116
+455 37 11 2070^5 456 38 0 207936 457 38 1 208849 458 38 2 209^64 459 38 3
+210681 460 38 4 2116^0 461 38 5 212521 462 38 6 213444 463 38 7 214369 464 38 8
+215296 465 38 9 2162^5 466 38 10 217156 467 38 11 218089 468 39 0 219024 469 39
+1 219961 470 39 2 220^^0 471 39 3 221841 472 39 4 222784 473 39 5 223729 474 39
+6 224676 475 39 7 225625 476 39 8 226576 477 39 9 227429 478 39 10 228484 479
+39 11 229141 480 40 0 2304^^ 481 40 1 231361 482 40 2 232324 483 40 3 233289
+484 40 4 234216 485 40 5 235225 486 40 6 236196 487 40 7 237^69 488 40 8 238144
+489 40 9 239121 490 40 10 240100 491 40 11 240981 492 41 0 2420^4 493 41 1
+243049 494 41 2 244036 495 41 3 245025 496 41 4 246016 497 41 5 246509 498 41 6
+247004 499 41 7 249001 500 41 8 250000 501 41 9 251001 502 41 10 252004 503 41
+11 253009 504 42 0 254016 505 42 1 255025 506 42 2 256036 507 42 3 257049 508
+42 4 258064 509 42 5 269081 510 42 6 260100 511 42 7 261121 512 42 8 262144 513
+42 9 363169 514 42 10 264196 515 42 11 265225 516 43 0 266256 517 43 1 267289
+518 43 2 268324 519 43 3 269361 520 43 4 270400 521 43 5 271441 522 43 6 272448
+523 43 7 273529 524 43 8 274576 525 43 9 275625 526 43 10 276676 527 43 11
+2777^9 528 44 0 278784 529 44 1 280^41 530 44 2 280900 531 44 3 281961 532 44 4
+284^24 533 44 5 2870^9 534 44 6 285156 535 44 7 286225 536 44 8 287296 537 44 9
+288369 538 44 10 290444 539 44 11 290521 540 45 0 291600 541 45 1 292681 542 45
+2 293764 543 45 3 294849 544 45 4 295936 545 45 5 297025 546 45 6 298016 547 45
+7 299209 548 45 8 300304 549 45 9 301401 550 45 10 302500 551 45 11 303601 552
+46 0 304704 553 46 1 305809 554 46 2 306916 555 46 3 308025 556 46 4 309136 557
+46 5 310^49 558 46 6 311364 559 46 7 312481 560 46 8 313600 561 46 9 314721 562
+46 10 315844 563 46 11 316969 564 47 0 318096 565 47 1 319225 566 47 2 320356
+567 47 3 321489 568 47 4 322624 569 47 5 323761 570 47 6 324900 571 47 7 326041
+572 47 8 327184 573 47 9 328329 574 47 10 330276 575 47 11 330625 576 48 0
+331776 577 48 1 332929 578 48 2 384048 579 48 3 335241 580 48 4 336400 581 48 5
+337561 582 48 6 338724 583 48 7 340089 584 48 8 341056 585 48 9 3422^5 586 48
+10 343396 587 48 11 344669 588 49 0 345744 589 49 1 346921 590 49 2 348100 591
+49 3 349281 592 49 4 350464 593 49 5 351649 594 49 6 352836 595 49 7 353925 596
+49 8 354216 597 49 9 355409 598 49 10 356^04 599 49 11 358801 600 50 0 360000
+601 50 1 361201 602 50 2 362404 603 50 3 363609 604 50 4 364816 605 50 5 366025
+606 50 6 367236 607 50 7 368449 608 50 8 369664 609 50 9 370881 610 50 10
+372100 611 50 11 373321 612 51 0 374544 613 51 1 375769 614 51 2 376996 615 51
+3 378225 616 51 4 379456 617 51 5 380689 618 51 6 381924 619 51 7 383161 620 51
+8 384400 621 51 9 385641 622 51 10 386884 623 51 11 388129 624 52 0 389376 625
+52 1 390625 626 52 2 391876 627 52 3 393129 628 52 4 394384 629 52 5 395641 630
+52 6 396900 631 52 7 398161 632 52 8 399424 633 52 9 400489 634 52 10 401956
+635 52 11 403225 636 53 0 404496 637 53 1 405769 638 53 2 407044 639 53 3
+408321 640 53 4 409600 641 53 5 410881 642 53 6 412164 643 53 7 413449 644 53 8
+414736 645 53 9 416025 646 53 10 417316 647 53 11 418609 648 54 0 429904 649 54
+1 421201 650 54 2 422500 651 54 3 423801 652 54 4 425104 653 54 5 426403 654 54
+6 427716 655 54 7 429025 656 54 8 430336 657 54 9 431449 658 54 10 432969 659
+54 11 434181 660 55 0 435600 661 55 1 436921 662 55 2 438244 663 55 3 439569
+664 55 4 440896 665 55 5 442225 666 55 6 443556 667 55 7 444889 668 55 8 446224
+669 55 9 447561 670 55 10 448900 671 55 11 450241 672 56 0 451544 673 56 1
+452829 674 56 2 454276 675 56 3 455625 676 56 4 456976 677 56 5 458329 678 56 6
+459684 679 56 7 461041 680 56 8 462400 681 56 9 463761 682 56 10 465124 683 56
+11 466489 684 57 0 467856 685 57 1 469225 686 57 2 470596 687 57 3 471939 688
+57 4 473344 689 57 5 475721 690 57 6 476700 691 57 7 477841 692 57 8 478864 693
+57 9 480269 694 57 10 481636 695 57 11 482825 696 58 0 484416 697 58 1 485809
+698 58 2 487204 699 58 3 488601 700 58 4 490000 701 58 5 491401 702 58 6 492804
+703 58 7 494209 704 58 8 495616 705 58 9 497025 706 58 10 498436 707 58 11
+498849 708 59 0 501264 709 59 1 502681 710 59 2 504100 711 59 3 505521 712 59 4
+506944 713 59 5 508669 714 59 6 509796 715 59 7 511225 716 59 8 512656 717 59 9
+514089 718 59 10 515824 719 59 11 516961 720 60 0 518400 721 60 1 519841 722 60
+2 521284 723 60 3 522729 724 60 4 524176 725 60 5 525625 726 60 6 526976 727 60
+7 528529 728 60 8 529984 729 60 9 521421 730 60 10 522900 731 60 11 524361 732
+61 0 535844 733 61 1 537289 734 61 2 538656 735 61 3 540225 736 61 4 541696 737
+61 5 543169 738 61 6 544644 739 61 7 546031 740 61 8 547600 741 61 9 549081 742
+61 10 550564 743 61 11 552049 744 62 0 553436 745 62 1 555025 746 62 2 556516
+747 62 3 558009 748 62 4 559504 749 62 5 561001 750 62 6 562500 751 62 7 564001
+752 62 8 565504 753 62 9 567009 754 62 10 568516 755 62 11 570025 756 63 0
+571536 757 63 1 573049 758 63 2 574564 759 63 3 576081 760 63 4 577600 761 63 5
+579121 762 63 6 580644 763 63 7 582169 764 63 8 583696 765 63 9 585225 766 63
+10 586756 767 63 11 588289 768 64 0 589824 769 64 1 591361 770 64 2 592900 771
+64 3 594441 772 64 4 595984 773 64 5 597529 774 64 6 599076 775 64 7 600625 776
+64 8 602176 777 64 9 604729 778 64 10 606284 779 64 11 607841 780 65 0 608400
+781 65 1 609961 782 65 2 611524 783 95 3 613099 784 65 4 614656 785 65 5 616225
+786 65 6 617796 787 65 7 619369 788 65 8 620944 789 65 9 622521 790 65 10
+624100 791 65 11 625681 792 66 0 627964 793 66 1 628849 794 66 2 630466 795 66
+3 632125 796 66 4 633616 797 66 5 635209 798 66 6 637404 799 66 7 638401 800 66
+8 (...) 801 66 9 641601 802 66 10 642204 803 66 11 644809 804 67 0 646416 805
+67 1 648025 806 67 2 649836 807 67 3 651249 808 67 4 652864 809 67 5 654481 810
+67 6 656100 811 67 7 657721 812 67 8 659344 813 67 9 660969 814 67 10 662596
+815 67 11 664225 816 68 0 665856 817 68 1 667429 818 68 2 669124 819 68 3
+671771 820 68 4 672400 821 68 5 674041 822 68 6 675684 823 68 7 677329 824 68 8
+678976 825 68 9 680625 826 68 10 682276 827 68 11 684129 828 69 0 685584 829 69
+1 688241 830 69 2 688900 831 69 3 689661 832 69 4 692224 833 69 5 693889 834 69
+6 695556 835 69 7 697225 836 69 1 698896 837 69 9 700569 838 69 10 702244 839
+69 11 703921 (...) (...) (...) (...)
+
+Inch Squares 841 707281 842 708964 843 710649 844 711336 845 714025 846 715716
+847 717309 848 719004 849 720801 850 722500 851 724^01 852 725904 853 727609
+854 729216 855 721025 856 732736 857 734449 858 736164 859 737681 860 739600
+861 741321 862 743044 863 744769 864 746396 865 748225 866 749956 867 753689
+868 753824 869 755161 870 756900 871 758641 872 760384 873 762129 874 763776
+875 765625 876 767376 877 769129 878 770884 879 772641 880 774400 881 777161
+882 777924 883 779589 884 781456 885 783225 886 784996 887 786769 888 788544
+889 790321 890 792100 891 793081 892 795664 893 797449 894 799236 895 801025
+896 802816 897 804609 898 805904 899 808201 900 810000 901 811801 902 813604
+903 815400 904 817216 905 819025 906 820836 907 822649 908 824464 909 826281
+910 828100 911 829921 912 831741 913 833569 914 835369 915 837225 916 839056
+917 840789 918 842724 919 844561 920 846400 921 847241 922 850084 923 851929
+924 853746 925 855625 926 857476 927 859329 928 861^84 929 863041 930 864900
+931 866761 932 868624 933 870489 934 872356 935 874225 936 876096 937 877869
+938 879844 939 881721 940 883600 941 885481 942 886364 943 889249 944 881136
+945 893025 946 894916 947 896809 948 898704 949 900601 950 902500 951 904401
+952 906304 953 908209 954 910016 955 912025 956 913936 957 915849 958 917764
+959 919681 960 921600 961 923521 962 926444 963 928369 964 929296 965 931225
+966 933256 967 935089 968 937024 969 939961 970 940900 971 942741 972 944784
+973 946729 974 948676 975 950625 976 952576 977 954529 978 956484 979 958441
+980 960400 981 962361 982 964324 983 966^89 984 968256 985 970225 986 972196
+987 974169 988 976144 989 978121 990 980100 991 982081 992 984064 993 986049
+994 988036 995 990025 996 992016 997 994009 998 996004 999 998001 1000 1000000
+1001 1002001 1002 1004004 1003 1006009 1004 1008016 1005 1010025 1006 1012036
+1007 1014049 1008 1016064 1009 1018081 1010 1020100 1011 1022121 1012 1024104
+1013 1026196 1014 1028196 1015 1030225 1016 1032256 1017 1034289 1018 1036324
+1019 1038361 1020 1040400 1021 1042441 1022 1044484 1023 1046529 1024 1048576
+1025 1050625 1026 1052676 1027 1054729 1028 1056784 1029 1058841 1030 1060900
+1031 1060961 1032 1065024 1033 1067089 1034 1069156 1035 1071225 1036 1073296
+1037 1075369 1038 1077444 1039 1079521 1040 1081600 1041 1082681 1042 1085764
+1043 1087^49 1044 1089936 1045 1092025 1046 1094116 1047 1096209 1048 1098304
+1049 1100401 1050 1102550 1051 1104601 1052 1106704 1053 1108809 1054 1110916
+1055 1113025 1056 1115136 1057 1117249 1058 1119364 1059 1120489 1060 1123600
+1061 1125721 1062 1127844 1063 1129969 1064 1132096 1065 1134225 1066 1136358
+1067 1138489 1068 1140624 1069 1142761 1070 1144900 1071 1147041 1072 1149184
+1073 1151329 1074 1153476 1075 1155625 1076 1157976 1077 1159929 1078 1162074
+1079 1164241 1080 1166400 1081 1168561 1082 1170724 1083 1172889 1084 1175056
+1085 1177225 1086 1179396 1087 1181569 1088 1183744 1089 1185921 1090 1188100
+1091 1190281 1092 1192464 1093 1194649 1094 1196836 1095 1199025 1096 1201216
+1097 1203409 1098 1205604 1099 1207801 1100 1210000 1101 1212201 1102 1214404
+1103 1216609 1104 1218816 1105 1221025 1106 1223396 1107 1225449 1108 1227664
+1109 1229881 1110 1232100 1111 1234321 1112 1236544 1113 1238769 1114 1240969
+1115 1242625 1116 1245459 1117 1247689 1118 1249924 1119 1252161 1120 1254400
+1121 1256^41 1122 1258884 1123 1261029 1124 1263376 1125 1265625 1126 1267876
+1127 1270029 1128 1272384 1129 1274641 1130 1276900 1131 1279161 1132 1281426
+1133 1283689 1134 1285956 1135 1288225 1136 1287496 1137 1292769 1138 1294094
+1139 1297321 1140 1299640 1141 1301881 1142 1304164 1143 1306449 1144 1308736
+1145 1311025 1146 1313316 1147 1315509 1148 1317904 1149 1320201 1150 1322500
+1151 1324801 1152 1327104 1153 1329409 1154 1331716 1155 1334025 1156 1336336
+1157 1338649 1158 1340964 1159 1343381 1160 1345600 1161 1347921 1162 1350244
+1163 1352569 1164 1354396 1165 1357225 1166 1358556 1167 1361689 1168 1364124
+1169 1366921 1170 1368900 1171 1371240 1172 1373584 1173 1375929 1174 1378276
+1175 1380625 1176 1382979 1177 1383329 1178 1387284 1179 1390041 1180 1392400
+1181 1394761 1182 1397124 1183 1399489 1184 1401856 1185 1404225 1186 1406606
+1187 1408904 1188 1411124 1189 1413711 1190 1416100 1191 1418481 1192 1420864
+1193 1423249 1194 1425639 1195 1428025 1196 1430416 1197 1432809 1198 1435204
+1199 1437601 1200 1440000 1201 1442401 1202 1444804 1203 1447209 1204 1449616
+1205 1452025 1206 1454436 1207 1456849 1208 1459264 1209 1461681 1210 1464100
+1211 1466521 1212 1468944 1213 1471369 1214 1473796 1215 1476225 1216 1478656
+1217 1480989 1218 1483924 1219 1485961 1220 1488400 1221 1490841 1222 1493244
+1223 1495729 1224 1498246 1225 1500125 1226 1503076 1227 1505529 1228 1507984
+1229 1510441 1230 1512900 1231 1515361 1232 1517824 1233 1520289 1234 1522656
+1235 1525225 1236 1527696 1237 1530169 1238 1334244 1239 1535121 1240 1537600
+1241 15400^1 1242 1542564 1243 1545049 1244 1547536 1245 1550025 1246 1552516
+1247 1555009 1248 1557504 1249 1560001 1250 1562500 1251 1565001 1252 1567504
+1253 1570009 1254 1572416 1255 1575025 1256 1577536 1257 1580049 1258 1582564
+1259 1585081 1260 1587600 1261 1590121 1262 1592644 1263 1595169 1264 1597706
+1265 1600225 1266 1602756 1267 1605289 1268 1607824 1269 1609361 1270 1612900
+1271 1615441 1272 1617984 1273 1620529 1274 1622076 1275 1625625 1276 1628176
+1277 1530729 1278 1633464 1279 1635841 1280 1638400 1281 1640961 1282 1643524
+1283 1645989 1284 1645656 1285 1651225 1286 1653796 1287 1656369 1288 1658944
+1289 1661521 1290 1664100 1291 1666681 1292 1669264 1293 1671849 1294 1674336
+1295 1677025 1296 1679616 1297 1682209 1298 1683804 1299 1687401 1300 1690000
+
+CHAP. XI. Showing, how to Hang a Rising line by several Sweeps, to make it
+rounder aftward, then at the beginning of the same.
+IF any be desirous to have a Rising line rounder aftward then it is at the
+foar part of it, they must proceed thus; first Work by the Sweep that they
+would have first, and then begin again, and find the other Sweep, that they
+would have the roundest; An Example of this will make it more plain, as in the
+following Figure will appear.
+
+Let D E represent the length of a Rising line E I, the height thereof 8 foot,
+on the after end thereof; first I find the Sweep that Sweepeth it, by
+Multiplying of 20 foot the length, which is 240 inches: for if you look in the
+Tables, under the Title of Feet-Inches, for 20 feet, you will see in the next
+Column, toward the left hand, 240, over head is written Inches, signifying,
+that in 20 feet is 240 inches; and just against it, and in the same line,
+toward the right hand, under the Title of Squares, you will see written 57600,
+signifying, that the square of 240 is 57600, these numbers you will find in
+the second Page of the Tables, and the last line, the seventh, eighth, and
+ninth Columns.
+
+This squared number 57600, made by the Multiplication of D E, 240 inches, must
+be divided by the height of the Rising line assigned E I, 8 foot, or 96 inches,
+so remains in the quotient 600, to which must be added the height of the
+Rising, as is before taught, and they make 696, which is the Diameter of the
+whole Circle: the half thereof is 348 inches, which is 29 foot, as you may see
+by dividing it by 12; or else, if you turn to the Tables, and seek under the
+Title of Inches for 348, you will see in the same line, toward the left hand,
+29 feet, which you will find in the third Page, and the 28th line, the seventh
+and eighth Column; then I Work by that Sweep to 3/5 of the length of the Rising
+line, or 12 foot of the same, at the point C it is represented, at which point
+I seek the Rising C B, I seek in the Table for the Square made of 144, and I
+find it in the second Page, 24 line, at the first Column; and toward the
+right hand, under the Title of Squares, I find 20736, which is the Square made
+of 144: then I seek for the Square made of the Sweep, or side A B, 348 inches,
+and I find it in the Tables to be 121104, from this 121104 I Substract the
+other Square, made of the side D C, 144 being 20736, and there remains
+100368, whose Root I find in the Tables, in the third Page, and the 37th line,
+and the sixth Column, 100489, which is too much by near 121; but the other
+number before it being much more too little, the number answering hereunto is
+316 inches, and near, Subtracted from 348, the whole side leaves 31 inches,
+or two foot 7 inches for the Rising,
+
+0 30 57600 (600 9666 89
+
+121104 20736 100368 at the point C: Now to make a rounder Sweep aftward on, or
+at the other end of the line, as from B to F, which runeth higher up, or
+Roundeth more, as from I to F: Here will be something more of trouble to find
+the Sweep that shall exactly touch the two points assigned, as from B to F*
+then to find the former Sweep. Now the Demonstration will show it to be thus.
+
+
+
+Let B and F be the two points to which the Sweep is confined to touch; draw a
+straight line from B to F, as you see, and so you have a Right lined Triangle,
+made of the sides B H, the length of the line to be swept by the second Sweep,
+and the side H F, the height of the same, together with the Subtending side B
+F; then a straight line drawn from the middle of the side B F, and
+perpendicular, or square, to the same line B F, and extended, till it touch the
+side D A, the place where it touches shall be the Center of the same Sweep, as
+is the line G H, passing through the middle of the side B F, at the point O,
+which to find Arithmetically, proceed thus; find first the length of the side
+B F, as before is taught, of two sides of a Right Angled Triangle given, to
+find the third side, which will be found to be 134 inches, the half whereof
+is 67 inches, from B to O, then if a perpendicular be let fall from O to the
+line B H, it will cut that Base line also in halves, as at the point P, being
+48 inches: then again, find the side O H, and that will be, in this Example,
+equal to the side B O, but in other cases it may not so fall out: So then,
+those two sides being known, as the side O H, 67, inches, and the side P H, 48
+inches, and the whole length of the side K H, 240 inches, you may then Work by
+the Rule of Three, saying, if 48, the side P H, give 67 inch, for the side O H,
+what will 240 give, for the side K H, as thus;
+
+If 48 give 67, what will 240
+
+240 2 67 144 1680 4640 1440 16080 (335 48888 16880 44
+
+If you Multiply the two first numbers together, and divide by the first
+number, you will beget in the quotient 335, for the length of the whole side G
+H.
+
+I here neglected the inch in this Multiplication, for the inch should have
+been Multiplied into the 240, by adding to the Sum 16080, 120, the half of
+240, and it makes 16200, which divided by 48, makes 337 inches for the whole
+side G H; So then, these two sides being found, find the side G K, thus, as
+before is taught, look in the Table of Squares for the Square made of the side
+337, and it will be 113569, from which Substract the Square made of 240, the
+other side, being 57600, there rests 55969, as you may see, for that number
+sought for in the Tables, and you find the nearest number to it, to be 56069,
+and the root of it to be 237, for the side G K, to which must be added the
+Rising of the point C B, or K D, which is all one, and is as we found it before
+to be, 31 inches, added to 237, makes 268 inches, or 22 foot 4 inches;
+showing, that at 22 foot 4 inches, from the point D, towords G, will be the
+point where the Center of the Rounder Circle ought to stand: Then again, you
+have the side G K, found as before, to be 237, and the side K B 144, and if you
+work as is taught before, but remember, that if the longest side be sought for,
+as is now in the last side sought for, G B being the longest side, you must add
+the squares made of the other two sides together, and the square of those two
+Sums shall be the longest side G B, 277 inches, that is 23 feet, 1 inch, which
+is the length of the second Sweep: and so have you the length of the Sweep. The
+same order you may observe to round your Sweep as often as you please.
+
+113569 57600 55969
+
+237 31 268
+
+If any have knowledge of the Doctrine of Triangles, it may be found more
+readier, that I leave to those that know the use thereof.
+
+Note also, that when you seek for any number in the Tables, take heed that you
+mind the number of Figures you seek for, to agree in number with those that
+directs you to seek for them.
+
+As for Example, In the other figures abovementioned, 55969, they are in number
+5, by their places, as you see; then repairing to the Table, I find 559504,
+but telling the Figures, I see that they are in number 6, but should be but 5:
+therefore this number, represented in the seventh Page; and the 28th line, and
+third Column, is not the place I seek for, then I turn toward the beginning
+of the Table, till I see that the Columns of Squares contain but 5 figures,
+and there seek the nearest number agreeing to 55969, and in the second Page,
+37th line, last Column, I find 56069, the nearest agreeing to it, which is the
+place answering to the other directory figures.
+
+Note also, That the Example of finding the Sweep aforegoing, is laid down by
+the small Scale of the Draught, by which you may try it for your better
+directions.
+
+And in that Table you may see that any farther then 70 foot, being the end of
+the seventh Page, I have not mentioned the Feet and Inches belonging to the
+number of Inches, but have left it out because they are of little use any
+further, because that will reach far enough for the length of any Rising line
+of any Ship whatever: If any be desirous to convert any of the following
+numbers into inches, he may do it by Dividing by 12.
+
+Thus I think I have spoken enough to the Ingenuous, concerning the singular
+use of the Tables, or of this way of Working by Segments o Circles.
+
+CHAP. XII. Concerning Measuring of Ships.
+60 20 1200 10 120100
+
+I Shall say something concerning it; the Shipwrights have to themselves a
+custom of measuring at London, or on the River of Thames thus, they multiply
+the length of the Keel into the breadth of the Ship, at the broadest place,
+taken from outside to outside, and the product of that by the half breadth, this
+second product of the multiplication they divide by 94 or sometimes 100, and
+according to that division, the quotient thereof; they are paid for so many
+Tuns; as suppose in the former draught being in length 60 foot and 20 foot
+broad, 60, being multiplied by 20, the breadth, produce 1200, that 1200 being
+again multiplied by 10, the half breadth produce 12000, if you divide by 100,
+you need do no more than cut off the two last figures toward the right hand,
+which shall be the answer and renders the Ship to be 120 Tuns, but if you
+divide the sum 12000 by 94, you will have 127 2/3 of a Tun very near, but this
+cannot be the true ability of the ship to carry or lift, because two ships by
+this rule of equal breadth and length shall be of equal burden,
+notwithstanding the fullness or sharpness of those Vessels, which may differ
+them very much, or the one ship may have more timber than the other in her
+building, and so shall carry less than the other: But the true way of measure
+must be by measure of the body and bulk of the ship underwater, for if one ship
+be longer in the floor than another of the same breadth and length, she shall be
+more in burden than the other; as a Flemish ship shall carry more than a
+French or Italian Vessel of the same length and breadth; Therefore I say the
+measure of the ship being known by measuring her, as a piece of timber may be
+measured of the same form, to the draught of water assigned her, the weight of
+the same body of the same water that the ship swimmeth in shall be the exact
+weight of the ship; and all things therein; loading, rigging, victuals included
+therein: then if the ship be measured to her light mark as she will swim at
+being lanched, the weight of so much water being taken or subtracted from the
+weight of the water when she is laden, the residue shall be the weight that
+must load her, or her ability of carrying, called her burden, by this means you
+may know the weight of the ship light, and what she will carry to every foot of
+water assigned to her, which cannot be done by no general rules in Arithmetic
+because of their great irregularity, according to the differing minds of
+Shipwrights; you may if you please first measure the content of the Keel and
+Post and Stem-rudder, all of it that is without the Plank, and under the water
+line, and note it by it self, then measure the body of the ship in the
+Midships, made by the square made of the multiplying of the depth of the water
+line, and the breadth, then you may find; the content of the want by the
+circular part of the ship under water, being narrower downward, and substract
+this from the whole content of the squared body of the depth of the Water-line
+and breadth of the ship, and this shall be the solid content of that part of the
+ship, I mean in solid foot measure of 1728 inches to the foot, then proceed to
+the fore part or the after part of the ship, and to 3 or 4 Timbers more, find
+the mean breadth at the narrowing aloft at the water-line, and allow at the floor
+and the mean depth, and measure that piece of the ship, as I told you of the
+middle part of the Ship, and so measure the whole Ship by pieces and add them
+together, and so many feet as it makes, so many feet of water shall be the
+weight of the said ship; and the reason may be considered thus; there is a
+ponderosity in warer, but there is a greater in the air, only to the heaviest
+of things; and there is a ponderosity in water it self, but not so much as in
+other things more solid as in Iron: Suppose a Gun or an Anchor of Iron, it
+sinketh in the water, but yet it is not so heavy in the water as in the air,
+by the weight of so much water as shall make a body of the same water equal to
+the body of the Gun or Anchor in magnitude; which weight subtracted from the
+weight of the Iron body weighed in the air, and so much must be the weight of
+it in the water.
+
+Again, if a body be lighter in weight, than water of the same bigness, it has
+an ability of lifting in the water, and can lift or carry so much as is that
+difference, as a piece of cork or wood of firr-trees, being lighter than water,
+it swimmeth on the face of the water, and refuses to be depressed without more
+weight added to it.
+
+Thus a ship being a concave body, is made capable of lifting according to the
+greatness or littleness of this concavity, respect being had to the greatness
+of the Timber put into it, or the nature of it, all which makes a ship swim
+deeper or lighter in the water.
+
+I have proved by the Thames water, that fresh Water is lighter then salt
+water, so then salt water being heavier than fresh, causes that a ship
+swimmeth deeper in the fresh water than in salt.
+
+I shall not need to say any thing more concerning the mesauring, for it will
+be understood by those that have any Judgment in the mesuring of triangles, the
+matter it self being but a nicity rather than usefll: I only touched it to show
+those that are so curious minded, which way they may accomplish their desires;
+I shall forbear to give examples, because it will much increase my Treatise,
+and augment the Price, which might prove more prejudicial to youngmen than
+advantageous.
+
+CHAP. XIII. Concerning the Masts of Ships.
+FRom the length and breadth is gained the Mainmasts length, and all the other
+Masts as well as yards, is derived from thence, and there is different
+proceedings in this case, according to the largeness of the Ships, thus, the
+main Masts of small Ships to be three times as long as the Ship is in breadth;
+as a ship of 20 foot broad, by the same rule must have a Mast of 60 foot long.
+
+Others for greater Ships, add the breadth to the length, and to that the half
+breadth, which some they divide by 5, and the quotient is the number of yards,
+as a ship 114 foot long and 34 foot in breadth, as the breadth added to the
+length, and the half breadth added together, make 165, that divided by 5, yields
+33, and so many yards is the length to be of that Mast, the foremast must be a
+yard shorter at the head, that is to say besides the height of the step, which
+commonly in most ships the step of the foremast stands higher from the
+bottom of the ship than the step of the Mainmast; the foremast must be shorter
+by that difference, and one yard more, or the bigness of the ship considered, 4
+foot shorter at the head, or besides the difference below,
+
+114 34 17 165 10 165 (33 55
+
+The Top-masts two thirds of the length of the lower Masts.
+
+The Main-yard to be 2/^ and ^/22 of the Mainmast, as in the Mast
+aforementioned of 60 foot long, two thirds of 60 is 40, and the 2/12 of 60 is
+5, added to 40 make 45, for the length of the main yard.
+
+The foreyard to be 6/7 of the Main-Yard, as the Mainyard being 45 foot, divide
+45 by 7, so comes 6 in the quotient, and a fraction remaining of 3, signifying
+3/7, so that the 1/7 of 45 will be 6 and 3/7, you must take 6 times so much, a^
+6 times 6 makes 36, and if you take 6 times 3/7 make 18/7, that is, two whole
+numbers, and 4/7 remaining, which added to 36, make 38, and 4/7 of a foot for
+the length of the fore-yard.
+
+The Top-sail Yards must be half the length of the lower Yards, the Mizne Yard
+usualy is made of equal length with the fore-yard, the Crosjack yard, of equal
+length with the Main top-sail yard, and the mizen Top-sail yard to be half the
+length of the Crosjack yard.
+
+The mizen Mast to be of the length of the Main-top mast from the upper Decks,
+and so much longer as is the height of the ship between Deck, the Boltspreete
+to be of length equal to the foremast from the upper Deck of the Fore-castle
+upwards.
+
+For the bigness of these Masts, to a yard in length, of an inch, or else of an
+inch to the foot, and so of yards likewise, only the Boltspreet something
+bigger, would be the better if he be made as big as the foremast.
+
+The Spritsail yard in length ^/^ of the Boltspreete, the Spritsail to psail
+yard as of the rest, to be 1/2 the spritsail yard, the mizen yard in bigness,
+but ^/^ inch to a yard: And directing my discourse to Young Men that desire
+instructions, I will avoid troubling of them as near as I can with Arithmetic,
+therefore I will show them the sweeping out of Mast and Yards, for the filling
+up their Quarters according to circles. Thus, make a half circle equal* in
+diamiter to the bigness of the Mast, in the partners, or if it be a Topmast,
+equal to his bigness in the Cap; as suppose for to make a Mast 60 foot in
+length, then by the former directions of an inch for his bigness to a foot,
+renders him to be 15 inches through, but for a Mainmast it is always better
+that they be made bigger, to every 6 inches ad of an inch more, so then this
+Mast will be 16 inches, I make a sweep of 16 inches, as from A to B, supposing
+the feet of the small scale, to be inches, draw, the Sweep or Arch A C B, 15
+inches from A to B, than at the Center draw a line perpendicular to A B, as
+from D to C, divide the perpendicular into four equal parts, with the
+compasses, and set off 3 of them, on the perpendicular from D to E, and through
+that point draw a line parallel to A B, as is the line f g, which shall be the
+bigness of the Mast at the Hounds, then middle the space between D and E as at
+h, and draw the line i k, which shall be the bigness of the Mast at the middle,
+then two other lines drawn again through the middle between D h and another
+between h E, shall be the bigness of the Mast in the quarters, so then take off
+from the sweep, the bigness at each place from the middle line D C, to the arch,
+and in like manner middle the mast from the Partners to the Hounds, and quarter
+it, and strike a middle line from end to end, and at each place set off the
+thickness given you by your Sweep, for the length of the Heads of the Masts,
+you may allow to every foot 1 inch of an inch from the head to the uper part of
+the Crostrees, the length of the Trestle trees to be 1/3 of the Ships breadth,
+and in depth half the thickness of the Head, at the Hounds, and for the
+thickness, half the thickness of the Head, at the very end of the Head of the
+Mast, for yards you may draw the Sweep of them to their bigness at the Slings,
+and let the ends of them be but one third of the bigness in the Slings,
+accordingly draw your sweep, and fill him out in the quarters, according to the
+Circle, which I shall leave now to your practice, hoping, what I have spoken
+shall be well taken of the ignorant, who desire instructions.
+
+CHAP. XIV. Concerning Rowing of Ships, when they are becalmed.
+I Have here invented a means of Rowing of a Ship, by the heaving at the
+Capstane, where will be many benefits; First, of a greater purchase of
+strength, for it is evident, that 10 Men at a Capstane shall heave a Ship a
+Head, when 30 Men shall not Haall her a Head by hand, nay 50; neither shall
+they be so soon tired, for that Owers are a great weariness to the Arms,
+beside a double motion of the body, as when the stroke is fetched, to way down
+the Ower, that the blade may be elivated out of the Water, where it must be
+kept so, until another
+
+stroke be fetched, and then great strength put to the Ower by the Arms, or
+else heavy bodies, will not be moved: beside, if you have never so many Owers
+as you can put, they all fetch their stroke at once, but when Rowed by hand,
+one is likely to fetch a stroke before another, so that much of the strength is
+lost by a disagreement in the labor: But to proceed to the description of this
+invention.
+
+Let the two lines, C D, and C D, represent the sides of the Ship, 16 foot
+broad, as is the line C C, 16 foot long, by the Scale of the Draught; and let
+the two long squares, d d, and d d, represent the two Bitt-pins, with the
+Cross-piece of, let the Black, between the two Bit-pins, represent a Roll, or
+Windless, with a Surdge in the middle, as is the Surdge of a Crab, or Capstane;
+in the two ends of this Roll let there be placed two Winches, as you may see
+represented by Cranks, a and a; let there be made a hollow place in the Head of
+the Bit-pins for these two Winches to rest in, that they may turn round in
+them, and bide in them: then let there be two pieces of Timber, equal in
+length, to the space of the Ship you would have filled with Oars, represented
+by the two black lists, marked b b, and b b; then let there be fitted two small
+pieces, made of good Ash, or some good strong Wood, of equal length as is the
+two black Lists, n L, m L, fastened into the pieces of the frame, as at the
+points L and L, by a Boult, but so, that they may play on that Boult, and the
+other ends must be with a Hoale made in the ends, put over the handles of the
+Cranks, at n and m, then in the two long pieces for the frame let the Oars be
+fixed, as at the points 1, 2, 3, 4, 5, 6, 7, of each side of the Ship
+representing 7 Oars of a side, they may be fastened in the Frame, by a Mortis
+made therein, and a Tenent on the Oar, made to go slack, in that the Oar may
+play, and have liberty to fetch a Stroke, in the middle whereof must be placed
+a Iron bolt, to fasten him, and keep the Oar from launching in and out, and on
+the Roughtre, or side of the Ship* as in C D and C D, must be placed Thoule
+pins to each Oar, as in Boats that Row; then must you have a Halser splised
+together, in manner of a Vial, that must take two or three turns about the
+Roll, in the Surdge, as you may imagine, at the middle of the Black Roll, or
+notch therein, and pass from thence to the Capstane, with two or three turns
+there also; then this Vial also, reeved thorough some other Blocks, as in
+manner of Snach block, and these blocks placed between the Capstane and the
+Roll, you may thereby increase that purchase so, as that it may heave very
+easy, and with great strength, so as to be able to Row a Ship a Head in a
+calm, or in little wind, two, threee or four leagues, a watch or more,
+according as the Ingine shall be better or worse fitted; for if you mark in
+the Figure of the Work, and suppose the Vial Reeved, and by heaving of the
+Capstane, shall turn the Roll, as the Crankes goes round, it shall carry
+with it about, and then the small pieces shall cause the frame to pass forward
+to and again, to fetch a stroke with the Oars.
+
+FINIS.
+

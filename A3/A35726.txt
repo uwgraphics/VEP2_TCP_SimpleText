@@ -1,0 +1,735 @@
+A SUPPLEMENT TO THE TREATISE OF Watch and Clock-work, CALLED The Artificial
+Clock-Maker.
+
+Wherein is Contained, 1. The Anatomy of a Watch and Clock. 2. Monsieur Romer's
+Satellite-Instrument: with Observations concerning the Calculation of the
+Eclipses of Jupiter's Satellites, and to find the Longitude by them. 3. A nice
+way to correct Pendulum Watches. 4. Mr Flamsteed's Equation Tables. 5. To find
+a Meridian-Line for the Governing of Watches, and other Uses. 6. To make a
+Telescope to keep a Watch by the Fixed Stars.
+
+
+By W. D. M. A.
+
+LONDON, Printed for James Knapton, at the Crown in St Paul's Churchyard. 1700.
+
+TO THE READER,
+UPon a review of my Book, in order to another Edition, I have thought it
+necessary to add some things, and to make some small amendments in the body of
+the Book itself.
+
+And because I think it a piece of justice owing to the Buyers of the first
+Edition, that I should endeavor, as much as I can, to make their Edition as
+complete as this; therefore, instead of inserting what this Supplement contains
+into proper places of the Book, I have rather chosen to put it rhapsodically
+together; and taken care that it be printed so, as to be bought by itself at a
+small price.
+
+Also I think my self obliged, to be at the pains to collect the most material
+alterations, and amendments which I have made in my Book, and here to insert
+them in this Supplement; whereby the Reader may supply with his Pen (if he
+pleases) what is wanting in the first Edition.
+
+The Purchasers both of the first and of this Edition will (we hope) excuse
+both the Bookseller and me, for reducing this Edition into a lesser Volume,
+that it may be more portable for the Pocket, and (we hope) both Book and
+Supplement too, cheaper; at least, not dearer than the first Edition, for the
+benefit of poor workmen.
+
+Passages wanting in the first Edition.
+PAge 5. line 2. after pocketwatches, add [and others] l. 4. after wheels, add
+[whence it has its Name] l. penult. dele [somtimes.] P. 7. After l. 11. add
+[the Train is the Number of Beats which the Watch makes in an hour, or any
+other certain time.] P. 10. l. 24. after Wheel 40, add [which runs
+concentrical, or on the same arbor with the second Pinion 5.] P. 12. l. 3.
+after has, add [as has been said.] P. 15. l. 15. add in the Margin [see Sect.
+1.. 3.] L. 23. In the margin add [See Sect. 1*. 4] P. 19. l. 6. add in the
+Margin [See. 4.] P. 20. l. 20. for 2196. r. 20196. P. 25. l. 2. after Report
+add [fixed on the Great-wheel.] P. 28. l. 9. add in the Margin [Sect. 1.. 3.]
+P. 30. l. 22. in the Margin add [. 7] P. 34. l. 14. after Report add [and the
+Count-wheel.]. P. 35. l. 12. after Rules, add [To find how many strokes the
+Clock strikes in one turn of the Fusy, or Barrel. L. 19. after Rule 2. add [To
+find how many days the Clock will go.] L. 27. after Rule 3. add [To find the
+number of turns of the Fusy or Barrel.] P. 36. l. 21. after Rule 4. add [To fix
+the Pin. of Report on the Spindle of the Great-wheel.] P. 38. l. 8. after
+turns, add [of the Fusy.] L. 25. after Then, add [(if you make the Great-wheel
+the Pin-wheel.)] P. 53. l. 9. after Motions, add [in Watch work] P. 57. l. 17.
+amend thus [10) 59 (5, 9] P. 58. l. 26. r. [round by a] P 75. l. penult. after
+To the, add [square* of the.] P. 112. l. 20. add [or thus with 16 turns.]
+12)72 8)64 8)60 7)56 30
+
+Fig. 1.
+
+
+
+Fig. 1.
+
+Page 5.th in the Appendix.
+
+
+
+P. 122, to 3. add [if this Crown-wheel be too large you may use these numbers,
+viz. 12)48 6)48 6(45 6)48 Seconds-hand 15
+
+P. 126. l. 24 after Sextans, add [or any other Telescope.] P. 132. l. 15.
+after 2. add [by the directions in Chap. 2. Sect. 2.. 5.] L. 18. after If add
+[as in the Movements in chapter 10.]
+I.
+An Explication of the Figures.
+Fig. 1. Represents the parts of a Watch and Clock described in the Book, Chapter
+1.
+
+The Wheels, etc. on the right hand, is the Watch-part. They on the left, the
+Clock-part.
+
+A. A. A. A. The upper Plate of the Frame: which you may imagine to be
+transparent (as of glass) to admit of a Prospect of the Wheel-work underneath
+it.
+
+B. B. B. The lower Plate of the Frame.
+
+C. C. C. C. The Pillars.
+
+D. D. The Spring-Boxes of the Watch, and Clock-part.
+
+E. E. The Great-wheel of each part.
+
+F. F. The Fusy of each part, about which the Chain, or String is wrapped.
+
+g. g. g. g. g. g. g. The Ratchet of each part.
+
+a. a. a. The Hoop, or Rim of the Second wheel.
+
+b. b. The Cross thereof.
+
+c. The Pinion.
+
+H. The Contrate-wheel.
+
+I. The Crown*wheel.
+
+d. d. The upper and lower Pevet thereof.
+
+K. A piece of Brass, in which the Pevet-hole is, in which the Pevet d. plays.
+
+L. The Pin-wheel, with the Striking-Pins e. e. e. e. e.
+
+M. The Detent-wheel.
+
+N. The Warning wheel, or fourth wheel.
+
+O The Detent.
+
+P. The Lifting-piece.
+
+Q. Q. The Fan, and Flying-Pinion.
+
+R. The Bell.
+
+S. The Hammer.
+
+T. The Hammertail.
+
+V. V. The Chain, or String of the Watch, and Clock.
+
+x. The Verge or Spindle of the Balance, or Pendulum.
+
+y. y. y. The Rod of the Pendulum.
+
+z. The Fork.
+
+2. The Flatt.
+
+3. The Great-Ball.
+
+4. The Corrector or Regulator.
+
+5. 5. The Pallets.
+
+II.
+Fig. 2.
+Rerpresenteth the Satellite Instrument of Mons. Olaus Romer, described in the
+Book, page 109.
+
+A. B. the upper Plate of the Instrument.
+
+C. D. The lower Plate.
+
+K. L. An Axis, or Spindle, on which four wheels are fixed, and turn round with
+it, and with the Hand L. once in 7 days. E. F. G. H. are the Sockets, or hollow
+Arbors of 4 wheels running concentrically.
+
+The hollow Arbor H. carries round the First-Satellite p. and belongs to the
+Wheel, or Pinion 22, which is driven by the fixed Wheel 87.
+
+The hollow Arbor G. carries round the Second-Satellite S. and belongs to
+the Wheel 32 which is driven by the wheel 63. And the like of the Arbors F. and
+E.
+
+Within all these hollow Arbors is another fixed one included, on the top of
+which is a Ball (I) representing the Planet Jupiter: round which the Satellites
+move, represented by the little Balls p. s. t. q.
+
+This Satellite-Instrument may be added to a Watch, by causing the Great-wheel
+or Dial-wheel to drive round the Arbor K. L. once in 7 days. To do which there
+are sufficient directions given in the preceding Book.
+
+The use of the foregoing Instrument.
+This Satellite-Instrument may be of good use both at Sea and Land to assist in
+finding the longitude by Jupiter's Satellites: partly, by giving notice when an
+approaching Eclipse is, that we may be ready with a Telescope to observe it;
+and partly, when any Eclipse happens, to show which Satellite it is that is
+eclipsed, which is difficult to be seen in the Heavens: and partly, to supply
+the place of Tables, or Calculation of the Satellite-Eclipses, which it may do
+for a little while, but it must not long be trusted unto.
+
+It may seem foreign to my subject, to show how the Longitude may be found by
+Jupiter's Satellites: but because I would with all my power advance this way
+(which far transcends all others yet known, especially that of the Logline)
+therefore I hope the Reader will excuse this Digression.
+
+The way to find the Longitude, by an Eclipse of any of Jupiter's four
+Satellites is briefly this: knowing by Tables of the Satellite-Eclipses
+(suppose such as Mr Flamsteed published in the Philos. Transact. No 177, and
+afterward gave Parker leave to publish in his Almanacks, knowing I say) the
+time when an Eclipse happens in any one part of the World; observe by a
+Telescope, at what time the same Eclipse happens in any other part of the
+World, the difference of time gives the difference of Meridians. Thus a total
+Immersion Philos. Trans. Dec. 1685. No. 117.
+of the first Satellite was observed at Rome, at 10 h. 07 53 p. m. Which Mr
+Flamsteed notes at 9 h. 15 41. The difference is 52 12, or 13 degrees. 03 distant
+from the Meridian of the English Observatory, where Mr Flamsteed observed it.
+
+I once had thoughts of showing the way to calculate the Eclipses of Jupiter's
+Satellites, and to make Tables thereof, by the help of my very good Friend Mr
+Flamsteed's, and some other observations: but considering that it would be too
+great a digression, and especially that Monsieur Cass^ni has very ingeniously,
+and well done it for the First, I shall therefore refer the Reader to his
+Tables, reduced to the Meridian and Style of London, by that very judicious
+Mathematician Mr Halley; in Philos. Trans. No 214.
+
+The Reader, I hope will pardon me, if (before I leave this digression) I
+observe a few things which may be of use, not only in the Calculation of the
+Eclipses of the 3 outermost Satellites, but also may contract the labor of
+Calculation in the first.
+
+The first thing to be observed is Jupiter's place. For if he be on his
+Aphelion, he moves slowest, and consequently the Satellites make their returns
+to him somewhat sooner, than when he is on his Mean distance and Perihelion. By
+Mr Flamsteed*s first Tables the first Satellite makes 13 revolutions to
+Jupiter, when he is on his*
+
+days h* Aphelion in -- 23 00 10 30 Mean distance -- 23 00 11 48 Perihelion --
+23 00 13 08
+
+The Second Satellite makes 10 Revolutions when Jupiter is on his
+
+days h. Aphelion in -- 35 12 55 10 Mean-distance -- 35 12 59 00 Perehelion --
+35 13 03 15
+
+The Third Satellite makes 5 Revolutions when Jupiter is on his
+
+days h. Aphelion in -- 35 19 50 15 Mean-distance -- 35 19 58 00 Perihelion --
+35 20 06 42
+
+The Fourth, or furthermost Satellite makes 5 Revolutions to Jupiter in his
+
+days h. Aphelion in -- 82 17 42 55 Mean-distance -- 83 18 25 15 Perihelion --
+82 19 12 57
+
+From this account it is easy to compute in what time one Revolution of any
+Satellite is at any time performed: which is the next thing to be observed.
+Thus in Jupiter's Mean-distance the Revolution of the
+
+days h. First Satellite is -- 1 18 28 36 Second -- 3 13 17 54 Third -- 7 3 59
+36 Fourth -- 16 18 05 03
+
+The Reader may himself, from what has been said, compute the Periods of the
+Satellites in Jupiter's other places.
+
+From these things laid down, it is easy from an Eclipse known, to find the
+next that will follow. For if you add one, or more Revolutions, you have the
+Eclipses following. Thus for days h. July 12 14 18 00 1 Revol. 1 18 28 36 July
+14 8 46 36 4 Revol. 7 1 54 24 July 21 10 41 00
+
+
+example, July 12 this year 1700, according to Mr Flamsteed's computation, the
+first Satellite comes out of Jupiter's shadow at 14 h. 18 p. m. (according to
+Mr Cassini's at 14 h. 20 56 p m.) consequently the next Emersion is on Jul.
+14th past 8 of Clock in the evening* If you add 4 Revolutions, another Emersion
+is on Jul. 21 at 10 h. 41 nearly p. m. as here is exemplified in the Margin.
+
+The last thing I shall take notice of concerning the Satellite Eclipses is
+their Durations. This varies according as Jupiter is nearer unto, or remoter
+from the 10th degree of or (as Mr Flamsteed says.) About which points are the
+Nodes, or intersections of the plane of the Satellite Orbit and Jupiter's, or
+the Jovial Ecliptic. Mr Cassini makes it in 150 of or, and varies in the
+length of the Duration of the Eclipses. But according to Mr Flamsteed (the
+accuracy of whose observations is not to be distrusted) the greatest
+Semiduration of the
+
+h First Satellite is 1 9 28 Second -- 1 27 38 Third -- 1 48 55 Fourth -- 2 26
+19
+
+But as Jupiter removes from his Nodes, the Semidurations diminish. And when*
+he is got n 55 degrees from either of his Nodes, the Fourth Satellite passes
+clear of the shadow, and falls not into it again, until he comes within 55
+degrees of the opposite Node.
+
+When Jupiter is on the Limit, or 90 degrees from his Nodes, the Least
+Semiduration of the Eclipse of the
+
+h First Satellite is 1 6 49 Second -- 1 18 59 Third -- 1 17 33
+
+From this account of the Duration of the Satellite Eclipses, we may, having
+the Immersion into Jupiter's shadow, compute the Emersion of any Satellite out
+of his shadow: or contrariwise, which will be of use to see both the beginning
+and end of any Eclipse, when visible; I mean, when not hindered by Clouds, day
+light, or Jupiter's body. Or if by some of these means we are hindered from
+seeing the one, we may perhaps hereby see the other. Thus (for instance) this
+August 6. 1700. the first Satellite immerges at 6 h. 44 p. m. which cannot be
+seen, not only by reason of day light, but also because Jupiter's shadow lies
+a little to the left of his body; but if you add one whole obscuration (viz.
+twice 10h. 9 28 the emersion you will find visible at 9 h 3 according to Mr
+Flamsteed; at 9 h. 4 according to Monsieur Cassini's Tables. Another instance
+will make all yet more plain, Oct. 19. at 9 h. 50 p* m. the 3d Satellite will
+emerge; from which substracting one Obscuration (viz. twice 1 h. 48) you will
+find the immersion fall at 6 h* 13* p. m. Which may be seen, by reason that
+Jupiter* is at a good distance from his Opposition to the Sun, so that the
+shade lies so far on the left hand, as to admit of seeing the 3d and 4th
+Satellite between Jupiter's body and his shade.
+
+I might to these have added diverse other remarks, particularly concerning the
+Equation of Light, or the time in which Light passes from the Sun to Jupiter,
+which is at last settled by that sagacious Observer, so often before mentioned,
+Mr Flamsteed. But I must forbear, fearing that I have already wearied the
+Readers patience, and shall need* his pardon for detaining him so long on this
+subject, from so small an occasion, as only a Satellite Instrument of
+Watch-work. But I was willing from a small occasion, rather than not at all, to
+say something to excite the observations and enquiries of others concerning
+this matter, which may be of vast use in Navigation, making and correcting Maps
+of Countries, etc. Many of those, to whom this matter would be of greatest use,
+scarce ever heard of it* and others (except Monsieur Cassini) have been
+backward in favoring the World with their observations necessary to
+Calculation. It is indeed a novel subject, and full of difficulties, on which
+little has been written, and concerning which the first material observations,
+to be relied on, were Hodierna's and Mr Rook's. Those of the former were
+published, but not very accurate: those of the latter were more accurate, but
+not published, and neither of them are yet 50 years old. But neither Novelty
+nor Difficulty ought to discourage the curious and the diligent; to excite whom
+is partly the design of this digression.
+
+III.
+To correct the motion of Royal Pendulums.
+IN Chap. 5. of the preceding Book, I judged it to be a good expedient, to
+bring a Pendulum to vibrate nicely, to add a Bob underneath the Pendulum Ball.
+This I have since found to succeed so much according to expectation, that I
+think it frivolous to attempt by any of the usual ways to bring a large single
+Ball to vibrate to one single Beat, in any considerable quantity of Time. But
+when the Great Ball is brought pretty near its due length, the little
+Regulating Bob will nicely perform the rest.
+
+The Great Ball being of the usual weight and form, to swing Seconds, I would
+have the Corrector, or Regulating Bob, to be about 10 ounces Troy, to scrw up
+and down beneath the Ball; as is directed in Chap. 5 before.
+
+But after all endeavors of this kind, it must be expected, that the Movement
+will still be exposed to the influences of the weather, and the alterations
+caused by foulness.
+
+For the more easy and quick bringing of a Pendulum, that should swing Seconds
+to its true length, I have composed the following Table, which shows the
+alterations which will be made in 24 hours by screwing up, or letting down the
+great Ball. If therefore the Ball runs upon a Rule divided into inches, and
+tenths of an inch, it is easy to see how much, or how little the Ball needs to
+be altered.
+
+Pendul. length Variation of Vibrat. in ten Min. Sec. 38 0 22 33 Faster. 38 1
+20 38 38 2 18 43 38 3 16 48 38 4 14 55 38 5 13 2 38 6 11 9 38 7 9 16 38 8 7 25
+38 9 5 32 39 0 3 42 39 1 1 51 39 2 00 00 39 3 1 50 Slower. 39 4 3 40 39 5 5 29
+39 6 7 19 39 7 9 7 39 8 10 57 39 9 12 42 40 0 14 29
+
+This Table will need little explication. If your Ball should be at 39 inches 2
+tenths, it would swing Seconds. If you alter it to 39 inches, 1 tenth, it would
+go 1 51 faster: if to 39 inches 3 tenths, it would go 1 51 slower. And so of
+the rest of the Table.
+
+IV.
+Of the Equation of Natural Days.
+BY reason that the Sun's motion in his Orbit is not equal, and that although
+he moved equal arches of the Ecliptic in equal times, yet he would come to the
+Meridian with unequal arches of the Equator, by whose equal Revolutions the
+Equal Time is measured; hence (I say) it will happen, that although a Clock should
+go so exactly, as at the years end to agree with the Sun, yet it will vary from
+the times showed by the exactest Sun-Dials. The quantity of which Variations
+may be seen in the following Tables for every day in the year. For which Tables
+I am greatly obliged to that most accurate Astronomer Mr Flamsteed so often
+mentioned.
+
+These Tables need but little explication. If you would keep your Watch to the
+Middle or Equal motion of the Sun, it must go so many minutes and seconds
+faster or slower than the Sun-Dial, as the Tables show. But if you would keep
+your Watch to go by the Sun-Dial, you may conclude it goes well, if it loses
+or gains every day, so many Seconds as you will find in the Table. Thus (for
+example) Jan. 1. in Leap year, the Watch ought to be 8 min. 47 Sec. faster than
+Mr Flamsteed's Tables of Aequation of Natural-Days.
+The Bissextile, or Leap-year.
+Jan. Febr. Marc. April. May. June. July. Aug. Sept* Octo. Nov. Dec. M. S. M. S
+M S M S M S M S M S M S M S M S M S M S 1 8 47 14 49 10 00 0 41 *l* 4 10 0 59 *
+4 47 4 26 8 58 13 22 15 19 5 28 too 2 9 10 14 48 9 43 0 24 4 11 0 47 4 55 4 16
+4 19 13 36 15 10 4 59 3 9 32 14 46 9 26 0 8 4 12 0 34 5 2 4 5 4 39 13 49 15 01
+4 31 4 9 54 14 43 9 9 0 7 4 13 0 22 5 9 3 54 5 00 14 2 14 50 4 2 5 10 15 14 40
+8 51 0 22 4 12 0 10 5 15 3 43 5 20 14 14 14 38 3 33 6 10 36 14 36 8 33 0 37 4
+11 0 03 * 5 20 3 31 Watch 5 41 14 26 14 26 3 3 slow. 7 10 55 14 31 8 15 0 52 4
+10 0 16 5 25 3 18 6 1 14 37 14 13 2 33 8 11 14 14 26 7 57 1 6 4 8 0 29 5 30 3 5
+6 22 14 47 14 00 2 3 9 11 32 14 20 7 39 1 19 4 5 0 42 5 34 2 52 6 43 14 57 13
+45 1 33 10 11 49 14 13 7 20 1 31 4 2 0 55 5 37 2 38 7 3 15 6 13 30 1 4 11 12 5
+Watch 14 5 Watch 7 1 Watch 1 44 Watch 3 59 Watch 1 7 Watch 5 40 Watch 2 24 too
+7 24 Watch 15 15 Watch 13 13 Watch 0 34 *I* 12 12 22 13 57 6 43 1 57 3 54 1 20
+5 43 2 9 7 44 15 24 12 56 0 4 13 12 37 13 48 6 24 2 9 3 50 1 33 5 45 1 54 8 4
+15 30 12 38 0 26 14 12 51 13 39 6 05 2 19 3 45 1 46 5 45 1 38 8 24 15 36 12 19
+0 56 15 13 5 13 29 5 46 2 30 3 39 1 59 5 46 1 22 8 43 15 42 12 00 1 26 16 13 18
+too 13 18 too 5 27 too 2 41 too 3 33 too 2 11 too 5 46 too 1 5 fast. * * 9 3
+too 15 47 too 11 40 too 1 56 Watch. 17 13 30 13 7 5 9 2 51 3 26 2 23 5 45 0 48
+9 23 15 51 11 20 2 25 18 13 41 12 56 4 50 3 0 3 19 2 35 5 44 0 31 9 42 15 54 10
+59 2 34 19 13 51 12 44 4 31 3 8 3 11 2 47 5 42 0 13 10 2 15 57 10 37 3 23 20 14
+0 12 32 4 13 3 16 3 3 2 59 5 40 0 5 10 21 15 59 10 14 3 52 21 14 9 fast. 12 18
+fast. 3 54 fast. 3 24 slow. 2 54 slow. 3 10 fast. 5 37 fast. 0 22 too 10 3
+slow. 16 00 slow. 9 50 slow. 4 21 too 22 14 17 12 5 3 36 3 32 2 46 3 22 5 33 0
+40 10 5^ 16 01 9 26 4 40 23 14 24 11 51 3 17 3 39 2 37 3 33 5 29 0 59 11 15 16
+00 9 2 5 16 24 14 30 11 36 2 59 3 45 2 27 3 44 5 25 1 19 11 32 15 59 8 37 5 43
+25 14 35 11 21 2 40 3 50 2 17 3 54 5 19 1 39 11 4^ 15 57 8 11 6 11 26 14 39 11
+5 2 22 3 54 2 6 4 4 5 13 1 58 slow. 12 6 15 54 7 45 6 37 fast. 27 14 43 10 50 2
+5 3 58 1 56 4 13 5 07 2 17 12 22 15 50 7 19 7 3 28 14 46 10 34 1 47 4 2 1 45 4
+22 5 0 2 37 12 37 15 46 6 52 7 29 29 14 47 10 17 1 30 4 5 1 34 4 31 4 52 2 57
+12 5^ 15 40 6 24 7 54 30 14 49 1 13 4 8 1 22 4 39 4 44 3 18 13 8 15 34 5 57 8
+18 31 14 49 0 57 1 11 4 35 3 38 15 27 8 41
+
+The First after Leap-year.
+Jan. Febr. Marc. April. May June. July Aug. Sept. October. Nov. Dec. M. S M S M
+S M S M S M S M S M S M S M S M S M S 1 9 4 14 48 10 4 0 45 *I* 4 10 1 2 * 4 45
+4 2 Watch 3 53 13 18 15 21 5 35 too 2 9 26 14 46 9 47 0 28 4 1^ 0 50 4 53 4 18
+4 14 13 32 15 13 5 6 3 9 48 14 44 9 30 0 12 4 12 0 37 5 0 4 8 4 34 13 46 15 3 4
+38 4 10 10 14 41 9 13 0 ^ 4 13 0 25 5 7 3 57 4 55 13 59 14 53 4 9 5 10 31 14 37
+8 55 0 1^ 4 12 0 13 5 13 3 46 5 15 14 11 14 41 3 40 6 10 50 14 32 8 37 0 3^ 4
+11 0 0 * 5 18 3 34 too 5 36 14 23 13 29 3 10 slow. 7 11 9 14 27 8 19 0 4^ 4 10
+0 13 5 24 3 2^ 5 56 14 34 14 17 2 40 8 11 27 14 21 8 ^ 1 2 4 8 0 26 5 29 3 ^ 6
+17 14 44 14 3 2 10 9 11 45 14 15 7 43 1 1^ 4 6 0 39 5 33 2 5^ 6 38 14 54 13 49
+1 40 10 12 2 14 7 7 2^ 1 2^ 4 3 0 52 5 36 2 4^ 6 58 15 4 13 34 1 11 11 12 18
+Watch. 13 59 Watch 7 6 Watch 1 4^ Watch 4 0 Watch 1 4 Watch 5 39 Watch 2 27
+fast. 7 19 Watch 15 13 Watch 13 17 Watch 0 41 *I* 12 12 34 13 50 6 47 1 54 3 56
+1 17 5 42 ^ 13 7 39 15 22 13 0 0 11 13 12 47 13 41 6 28 2 6 3 51 1 30 5 44 1 58
+7 59 15 28 12 43 0 19 14 13 2 13 31 6 10 2 1^ 3 46 1 4^ 5 45 1 4^ 8 19 15 34 12
+24 0 49 15 13 15 13 21 5 51 2 2 3 40 1 56 5 46 1 26 8 38 15 40 12 5 1 19 16 13
+27 too 13 10 too 5 32 too 2 38 too 3 4 too 2 8 too 5 46 too 1 9 *I* 8 58 too 15
+45 too 11 45 too 1 49 Watch 17 13 38 12 59 5 14 2 4^ 3 8 2 20 5 45 0 52 9 18 15
+50 11 25 2 18 18 13 48 12 47 4 55 2 5^ 3 21 2 32 5 44 0 35 9 37 15 53 11 4 2 47
+19 13 58 12 35 4 36 3 ^ 3 13 2 44 5 42 0 17 9 57 15 56 10 42 3 16 20 14 7 12 22
+4 17 3 14 3 5 2 56 5 40 0 1 10 16 15 58 10 20 3 45 21 14 15 fast. 12 8 fast. 3
+58 fast. 3 22 slow 2 56 slow. 3 7 fast. 5 38 fast. 0 18 too 10 34 slow. 15 59
+slow. 9 56 slow. 4 14 too. 22 14 22 11 54 3 42 3 30 2 48 3 19 5 34 0 36 10 5^
+16 1 9 32 4 42 23 14 28 11 40 3 22 3 37 2 39 3 30 5 30 0 55 11 10 16 0 9 8 5 9
+24 14 3 11 24 3 3 3 4 2 28 3 41 5 26 1 14 11 28 15 59 8 43 5 36 25 14 3 11 2 45
+3 4 2 19 3 51 5 20 1 34 11 45 15 57 8 17 6 4 26 14 4 10 54 2 26 3 53 2 9 4 1 5
+14 1 53 slow. 12 2 15 55 7 51 6 30 fast. 27 14 4 10 38 2 3 57 1 59 4 11 5 8 2
+12 12 18 15 51 7 25 6 57 28 14 47 10 21 1 51 4 1 1 48 4 2^ 5 2 2 32 12 33 15 47
+6 59 7 33 29 14 48 1 34 4 4 1 37 4 29 4 54 2 52 12 49 15 41 6 31 7 48 30 14 49
+1 17 4 7 1 25 4 37 4 46 3 13 13 4 15 35 6 3 8 12 31 4 49 ^ 1 1 1 14 4 ^7 3 33
+1^ 2^ 8 35
+
+Place these Tables in the Appendix between Page 18 and 19.
+
+The Second after Leap-year.
+Jan. Feb. Marc April* May* June. July. Aug. Sept. October. Nov. Dec. M S M S M S
+M S M S M S M S M S M S M S M S M S 1 8 59 14 48 10 8 0 49 *l* 4 9 1 5 4 43 4
+30 3 48 13 14 15 23 5 42 too 2 9 21 14 47 9 5 0 32 4 11 0 53 4 51 4 20 4 9 13
+28 15 15 5 13 3 9 43 14 45 9 3^ 0 16 4 12 0 40 4 58 4 10 4 29 13 42 15 5 4 45 4
+10 5 14 42 9 17 0 1 4 13 0 28 5 5 4 0 4 50 11 56 14 55 4 16 5 10 ^6 14 38 8 ^^
+0 14 4 12 0 16 5 11 3 49 5 10 14 8 14 44 3 47 6 10 45 Watch 14 33 Watch 8 42
+Watch 0 29 Watch 4 11 Watch 0 3 *I* 5 17 Watch 3 37 Watch 5 31 Watch 14 20
+Watch 14 32 Watch 3 17 slow. 7 11 4 14 28 8 24 0 44 4 10 0 10 5 23 3 24 5 51 14
+31 14 20 2 47 8 11 23 14 23 8 0 58 4 8 0 23 5 28 3 11 6 12 14 41 14 6 2 17 9 11
+40 14 14 7 47 1 12 4 6 0 36 5 32 2 58 6 33 14 51 13 52 1 47 10 11 57 14 9 7 29
+1 26 4 4 0 49 5 35 2 44 6 53 15 1 13 38 1 18 11 12 14 too 14 1 too 7 10 too 1
+38 too 4 1 too 1 1 Watch 5 38 too 2 30 too 7 14 too 15 11 too 13 21 too 0 48
+*I* 12 12 30 13 52 6 52 1 51 3 57 1 14 5 41 2 16 7 34 15 20 13 4 0 18 13 12 44
+13 43 6 33 2 3 3 52 1 27 5 43 2 2 7 54 15 26 12 47 0 12 14 12 58 13 34 6 15 2
+14 3 47 1 40 5 45 1 46 8 14 15 32 12 28 0 42 15 13 12 13 24 5 56 2 24 3 41 1 53
+5 46 1 30 8 33 15 38 12 9 1 12 16 13 24 fast. 13 13 fast. 5 37 fast. 2 35 slow.
+3 35 slow 2 5 too 5 46 fast. 1 13 fast. 8 53 slow. 15 44 slow. 11 50 slow. 1 42
+Watch 17 13 35 13 2 5 18 2 46 3 29 2 17 5 45 0 56 9 13 15 49 11 30 2 11 18 13
+46 12 50 5 0 2 56 3 23 2 29 5 44 0 39 9 32 15 52 11 9 2 40 19 13 56 12 37 4 41
+3 4 3 15 2 41 5 42 0 21 9 52 15 55 10 47 3 9 20 14 5 12 25 4 22 3 12 3 7 2 53 5
+40 0 3 10 11 15 57 10 25 3 38 21 14 1^ 12 12 4 3 3 20 2 58 3 4 fast. 5 38 0 14
+too 10 30 15 59 10 2 4 7 too 22 14 20 11 57 3 44 3 28 2 50 3 16 5 35 0 31 10 48
+16 1 9 38 4 35 23 14 27 11 43 3 26 3 35 2 41 3 27 5 31 0 50 11 6 16 0 9 14 5 2
+24 14 32 11 28 3 8 3 42 2 31 3 38 5 27 1 9 11 24 15 59 8 49 5 29 25 14 37 11 13
+2 49 3 47 2 21 3 48 5 22 1 29 11 41 15 57 8 23 5 57 26 14 41 10 58 2 31 3 52 2
+11 3 59 5 16 1 49 slow. 11 58 15 55 7 57 6 23 fast. 27 14 44 10 42 2 13 3 56 2
+1 4 9 5 10 2 7 12 14 15 52 7 31 6 50 28 14 47 10 25 1 55 4 0 1 51 4 18 5 3 2 27
+12 29 15 48 7 5 7 16 29 14 48 1 38 4 3 1 40 4 27 4 56 2 47 12 45 15 43 6 38 7
+41 30 14 49 1 22 4 6 1 28 4 35 4 48 3 8 13 0 15 37 6 10 8 6 31 14 49 1 5 1 17 4
+39 3 28 15 31 8 29
+
+The Third after Leap-year.
+M Jan. Feb. Marc. April. May June. July. Aug. Sep. October. Nov. Dec. D M S M S
+M S M S M S M S M S M S M S M S M S M S 1 8 53 14 49 10 12 0 53 *l* 4 9 1 8 4
+41 4 32 3 43 13 11 15 25 5 49 too 2 9 15 14 47 9 54 0 36 4 10 0 56 4 49 4 23 4
+4 13 25 15 17 5 20 3 9 37 14 45 9 38 0 20 4 12 0 43 4 57 4 13 4 24 13 39 15 8 4
+52 4 9 59 14 42 9 21 0 4 4 13 0 31 5 4 4 2 4 45 13 53 14 58 4 23 5 10 20 14 39
+9 4 0 11 4 12 0 19 5 10 3 51 5 5 14 5 14 4^ 3 54 6 10 41 Watch 14 34 Watch 8 46
+Watch 0 26 Watch 4 12 Watch 0 6 *l* 5 13 Watch 3 40 Watch 5 26 Watch 14 17
+Watch 14 35 Watch 3 25 slow. 7 11 00 14 29 8 28 0 41 4 11 0 7 5 22 3 27 5 46 14
+28 14 23 2 55 8 11 18 14 24 8 10 0 55 4 9 0 20 5 27 3 14 6 7 14 39 14 10 2 25 9
+11 36 14 18 7 52 1 9 4 7 0 33 5 31 3 01 6 28 14 49 13 50 1 55 10 11 54 14 11 7
+34 1 22 4 4 0 46 5 35 2 48 6 48 14 59 13 41 1 25 11 12 10 too 14 3 too 7 15 too
+1 35 too 4 1 too 0 58 Watch 5 38 too 2 34 too 7 9 too 15 9 too 13 25 too 0 56
+*l* 12 11 26 13 54 6 56 1 48 3 58 1 11 5 41 2 20 7 29 15 18 13 8 0 26 13 12 41
+13 45 6 38 2 0 3 53 1 24 5 43 2 5 7 49 15 25 12 51 0 4 14 12 55 13 36 6 19 2 11
+3 48 1 7 5 45 1 50 8 9 15 31 12 33 0 34 15 13 9 13 26 6 0 2 22 3 43 1 30 5 46 1
+34 8 29 15 37 12 14 1 4 16 13 21 fast 13 15 fast 5 41 fast. 2 33 slow. 3 37
+slow. 2 2 too 5 46 fast. 1 17 fast. 8 48 slow. 15 43 slow 11 55 slow 1 34 Watch
+17 13 33 13 4 5 23 2 43 3 31 2 14 5 45 1 0 9 8 15 48 11 35 2 4 18 13 43 12 53 5
+4 2 52 3 24 2 26 5 44 0 43 9 28 15 52 11 14 2 33 19 13 53 12 41 4 45 3 1 3 17 2
+38 5 43 0 26 9 47 15 5^ 10 53 3 2 20 14 03 12 28 4 26 3 10 3 9 2 50 5 41 0 9 10
+7 15 57 10 31 3 31 21 14 11 12 15 4 7 3 18 3 0 3 2 fast 5 39 0 9 * too 10 25 15
+59 10 8 4 0 too 22 14 18 12 1 3 49 3 26 2 52 3 13 5 36 0 27 10 43 16 0 9 44 4
+28 23 14 25 11 47 3 31 3 33 2 43 3 25 5 32 0 46 11 1 16 1 9 20 4 56 24 14 31 11
+32 3 1^ 3 40 2 34 3 36 5 28 1 5 11 19 16 0 8 55 5 23 25 14 36 11 16 2 54 3 46 2
+2 3 5 23 1 24 11 37 15 58 8 30 5 50 26 14 40 11 1 2 31 3 51 2 14 3 57 5 17 1 44
+slow 11 54 15 56 8 4 6 17 fast. 27 14 43 10 46 2 17 3 55 2 4 4 7 5 11 2 3 12 10
+15 53 7 38 6 44 28 14 46 10 30 2 0 3 59 1 53 4 16 5 5 2 22 12 26 15 49 7 12 7
+10 29 14 47 1 42 4 3 1 42 4 25 4 58 2 42 12 4^ 15 44 6 45 7 36 30 14 48 1 25 4
+6 1 31 4 33 4 50 3 3 12 5^ 15 38 6 17 8 0 31 14 49 1 9 1 19 4 41 3 23 15 32 8
+24
+
+the Sun Dial: on Jan. 2. it ought to be 9 10, etc. If you would know on the
+same days, whether your Watch goes well, when kept to go by the Sundyal if set
+on Jan. 1. it has gained on Jan. 2. as much as 8 47 wants of 9-10. viz. 23
+you may conclude your Watch goes well. Otherwise you must screw up, or let down
+the Ball or Corrector, until it loses, or gains according to the Equation
+Tables.
+
+The Tables will serve for many years, being mede for Bissextile, and the 3
+years following. By an Almanac therefore, or any other way, knowing the Year,
+you may find what Table you are to use all that year.
+
+By reason of the Refractions, or some error in the Sun-Dial, it may be
+convenient to compare, or set your Watch at some certain hour of the day. Noon
+is a good time for it, if you have a nice Meridian-line, or any way to see when
+the Sun is exactly South, because the time of the Day is not at all then varied
+by the Refractions, in Dials that cast a shade.
+
+V.
+To find a Meridian-Line.
+It may happen that we may be at a Place, where there is no Sun Dial, or not
+one to be relied upon; or indeed where we have a good one, it may be of great
+use to us to have a Meridian-Line. For the finding of which there are diverse
+ways, but I shall show only two.
+
+The first is, draw one or more Circles on some plain, as on the bottom of a
+Southern Window. (Or you may make the center on the Southern edge of the
+Window, and draw only half circles.) Hang up a Thread and Plumbet exactly over,
+or in the center of the Circles. By a Bead or two sliding up and down the
+Thread, mark out exactly the points of the Circles, touched by the Shade of the
+Beads in some of the Morning Hours (the longer before Noon the better.) In the
+afternoon when the same shade of the Beads touches the circles, mark that
+point, or points also. A line drawn through the Center, and in the middle, between
+these two points in the Circle, is the Meridian-line, or near so.
+
+If you cannot hang up a Plumbet, a Pin set exactly upright will do the matter.
+
+Another, and better way, is by the Pole star, when it is exactly upon the
+Meridian. Or if but near so, the error will not be great.
+
+You may find the time when the Pole Star comes to the Meridian, by
+Substracting the Suns Right Ascension from right Ascension of the Pole Star,
+and turning the remainder into hours, minutes and seconds, allowing to every
+degree four minutes of time, whereby you will have the Apparent time, when the
+Pole Star comes on the Meridian above the Pole. I scarce need to observe, that
+the time when it comes under the Pole is 12 hours distant.
+
+You may shorten your labor by using Tables of the Sun's right ascension in
+Time, which you may find in Sir J. Moor's Mathem. Compendium.
+
+Note, If the Sun's R. Ascension exceeds the Pole-stars R. A. you must add 24
+hours to the Pole-star's R. A. and then substract. The right ascension of the
+Pole Star is determined by Mr Flamsteed 0h 33. *44 of time in the year 1690,
+and the increase of its R. Ascension 1. 16 of time in 10 years. Therefore this
+present Year 1700 its true R. Ascension is 0h 35. 00 of time.
+
+If the unlearned Reader should think this way difficult, he may see when the
+Pole Star comes near the Meridian, by hanging up a Line and Plumbet, and
+observing when the first Star in the Great-Bear's tail, next her Rump, comes
+under the Line on one side of the Pole, or when the Plumb-line intersects the
+Star in Cassiopeia's Knee on the other side of the Pole.
+
+When the Pole Star is found to be on the Meridian, if you hang up two strings
+with Plumbets, between the Pole Star and your eye, this will be a
+Meridian-line, to see when the Sun comes to the Meridian. Or you may do it with
+a Crevis between two boards, or plates of Metal, almost touching one another.
+Or (which is a better way) with a pair of Sights, such as Surveyors use (but
+much longer) with a Crevis in one Sight next the eye; and a large aperture in
+the other with a fine Ca^s* gut string down the middle. These should be
+counter-changed, so as to look either at the Pole Star by night; or the other
+way at the Sun by day.
+
+But much the best way which I have yet thought of, and which is exceedingly
+nice, is with the instrument, Fig. 3. which is thus made. At each end of a
+board, or rather small flat Iron-bar (A. B) fix two upright sights: one with a
+very small Hole (a. b.) to look through to the Sun; the other (c. d.) with a
+larger hole, to look at the Pole Star. Not far from the Sights, on the same
+bar, fix two arms (C. D, C. D) to bend off, so as to be out of the way of the
+Sights, when you look through them. On the top of these arms, place a small rod
+of Iron or Wood, to turn with a joint at D. which rod is to Page 22d. Appendix*
+Fig. 3.
+
+Fig. 2.
+
+bear the Plumb-lines (E. F.) and to turn backward and forward, so as to bring
+the Plumb-lines to the Sights at any time. Place this instrument on a Pedestal
+(G. H.) to turn round on it stiffly.
+
+Your instrument being thus prepar d, plant it in some convenient place, where
+you may see the Pole star, by night, and the Sun by day. When the Pole Star is
+on the Meridian, look through the Sight with the bigger Hole, and turn the whole
+instrument about until you see the opposite Plumb line intersect the Pole Star.
+Take care at the same time, that the Plumb-lines hang so as to intersect the
+Sights. Your instrument, thus placed, stands nicely in the Meridian, so as to
+see when either Sun, Moon, or Stars come on the Meridian.
+
+When you look by night, it is necessary that a Candle should shine on the
+Plumb-line, that you may see it.
+
+If you look at the Sun, you must guard your eye against the Sunbeams with a
+colored Glass, or one blackened with the smoke of a Candle.
+
+I had almost forgotten, to say that it matters not much what length the bottom
+piece, A. B. is of (but the longer the better) provided that the Plumb-lines
+are high enough to see the Pole Star, and the Sun in the Summer Solstice, or
+any time of the Year. If the bottom piece be 2 feet long* the Plumblines had
+need to be near 4 feet.
+
+This instrument is very serviceable to several purposes: particularly 1. To
+see the Southing of the Sun, or Moon: which you may do with great exactness.
+You may see nicely when the very edge of the Sun or Moon touches the Meridian,
+and whilst all their body is passing it.
+
+2. You may see what Stars are, at any time, on the Meridian, either Northward
+or Southward, and so find the hour of the night.
+
+3. You may with all exactness continue your Meridian-line for many Miles, if
+you please, by looking through either Sight, and seeing what objects the
+Plumb-lines intersect.
+
+4. If you would be still more nice, you may apply a Telescope to this Meridian
+Instrument, by placing, for the Eye-glass a Unequal glass, of a convenient Focus
+at a due distance between the Plumb-line and either Sight, so as through the Sight
+to see the Plumb-line through the Unequal glass (or Eye-glass.) And at a convenient
+distance from the Instrument place another Convex-glass for the Object-glass.
+
+5. If I am not much mistaken this Meridian-Instrument may as well (and being
+made Telescopulous) much better serve the design of trying whether the Meridian
+differs or not; which some have experimented with more trouble and expense
+than this instrument comes to.
+
+6. This Instrument is very easily brought to the Meridian. For whether it
+stands upright, aside, or any other way, still the Plumb-lines may be brought
+easily to their due place.
+
+7. This instrument is prepared with little cost or trouble; it may be carried
+from place to place; or imitated wherever there is occasion to correct either
+Sun Dial or Watch.
+
+A Table, showing the Time when the Pole Star is on the Meridian.
+M. January. February. March. April. August. September. October. November. December.
+D. Hour. Min. Hour. Min. Hour. Min. Hour. Min. Hour. Min. Hour. Min. Hour. Min.
+Hour. Min Hour. Min. 5 4 45 Morning. 2 40 Morning. 0 51 Morn. 10 55 Evening. 2
+54 Morning. 1 1 Morn. 11 8 Evening. 9 6 Evening. 6 57 Evening. 10 4 23 2 21 0
+33 10 37 2 34 0 42 10 49 8 46 6 35 15 4 3 2 2 0 15 10 18 2 17 0 24 10 30 8 25 6
+13 20 3 42 1 43 11 54 Even. 9 59 1 58 0 6 10 11 8 3 5 5^ 25 3 22 1 24 11 35 9
+40 1 40 11 47 Even 9 50 7 41 5 29 30 3 00 11 17 9 21 1 22 11 29 9 30 7 20 5 7
+
+This Table is intended for the unskilful Reader, to whom it may be of use for
+some years. But it will in time run out, by reason of the increase of the
+Pole-star's R. Ascension, Leap year, etc.
+
+The Hour and Minute when the Pole Star comes on the Meridian is shown every
+fifth day. But in May, June, and July it cannot be seen, when it is on the
+Meridian, by reason of Daylight.
+
+The Table will be sufficiently explained by an Example or two. Jan. 5. The
+Pole Star comes to the Meridian at 45 minutes after 4 of clock in the morning;
+at which time you may set your Meridian-Instrument. So you may do the same, on
+Mar. 20th at 54, after 11 of clock at night, at which time also the Pole Star
+is on the Meridian.
+
+VI.
+To make a Telescope for the Government of Watches.
+In chap. 11. I mentioned a Telescope for the governing a Watch by the Fixed
+Stars. And because it is the nicest way I have mentioned (by reason you may see
+a Star pass at one Beat of a Pendulum) therefore I shall here describe the way
+to make such a Telescope, as is needful for this purpose.
+
+Prepare your self with two Unequal glasses: the one (for the Object-glass) to
+have its Focus, or Cons about 6 feet, or according to the length you intend
+your Telescope: the other glass (for the eye* glass) about 2 or 3 inches. Lodge
+these Glasses in a Tube of thin boards, pastboard, or what you think fit.
+Between the Object and Eye-glass, at the focal distance of the Eye-glass (viz.
+about 3 inches) place two fine Hairs or Threads across, so as to be seen
+clearly when you look through the Eye-glass. Let there be an aperture near these
+cross hairs, that the light of a Candle may shine on them, in the night, when
+you look at a Star. It is convenient that the Eye-glass and Cross-Hairs or
+Threads, should be lodged in a short lesser Tube by themselves, so as to go
+into, and slide backward and forward, in the end of the larger Tube; whereby
+you may set the Eye-glass and Cross-Strings nearer unto, or farther off from
+the Object-Glass. Also there must be a conical Socket of Wood before the
+Eye-glass, such as is usual in all Telescopes, to look through: but its
+perforation must be very small, so as only to give you leave to see the Star
+through it.
+
+Your Telescope being thus prepared, you must plant it for observation, as is
+directed in the foregoing Book.
+
+BOOKS printed for James Knapton at the Crown in St Paul's Churchyard.
+A New Voyage round the World. Describing particularly the Isthmus of America,
+several Coasts and Islands in the West Indies, the Isles of Cape Verd, the
+Passage by Terra del Fuego, the South Sea Coasts of Chili, Peru, and Mexico;
+the Isle of Guam one of the Ladrones, Mindanao, and other Philippine and
+East India Islands near Cambodia, China, Formosa, Luconia, Celebes, etc. New
+Holland, Sumatra, Nicobar Isles; the Cape of Good Hope, and Santa Hellena.
+Their Soil, Rivers, Harbors, Plants, Fruits, Animals, and Inhabitants. Their
+Customs, Religion, Government, Trade, etc. By William Dampier. Vol. the first,
+illustrated with particular Maps and Draughts. The Fourth Edition, Corrected.
+
+Voyages and Descriptions. Vol. II. In Three Parts, viz. 1. A Supplement of the
+Voyage round the World, describing the Countries of Tonquin, Achin, Malacca,
+etc. their Product, Inhabitants, Manner, Trade, Policy, etc. 2. Two Voyages to
+Campeachy; with a Description of the Coast, Product, Inhabitants, Logwood
+Cutting, Trade, etc. of Jucatan, Campeachy, New Spain, etc. 3. A Discourse of
+Trade-winds, Breezes, Storms, Seasons of the Year, Tides and Currents of the
+Torrid Zone throughout the World; with an Account of Natal in Africa, its
+Product, Negro's, etc. By Captain William Dampier, Illustrated with particular
+Maps and Draughts. To which is added, A General INDEX to both Volumes. The
+second edition.
+
+A Short view of the Principal Duties of the Christian Religion. With plain
+Arguments to persuade to the sincere and speedy practice of them. To which is
+added, a Prayer suited to the whole, to be used Morning and Evening. By a
+Divine of the Church of England, for the Use of his Parishioners, Price 3 d. or
+20 s. per Hundred.
+
+The Godfathers Advice to his Son. Showing* the necessity of performing the
+Baptismal Vow, and the danger of neglecting it. With general instructions to
+young persons to lead a Religious life, and prepare them for their
+Confirmation, and worthy receiving the Blessed Sacrament. Very necessary for
+Parents, etc. to give their Children, or others committed to their care. By
+John Birket, Vicar of Milford and Hordle in Hampshire. The Second Edition, with
+a Preface. Price 3 d. or 20 s per Hundred.
+
+Mr. Wingate's Arithmetic: containing a plain and familiar Method for
+attaining the Knowledge and Practice a common Arithmetic. The tenth edition,
+very much enlarged. By John Kersey, late Teacher of the Mathematics. Octavo.
+
+FINIS.
+

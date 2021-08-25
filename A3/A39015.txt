@@ -1,0 +1,754 @@
+AN EXCELLENT INTRODUCTION TO ARCHITECTURE BEING A BOOK OF
+Geometrical-Practice: Which is the First Degree of all ARTS: Wherein is
+Contained Variety of Examples of that Admirable Science, Showing and Describing
+the Making of several Figures in that Nature, with ^^oper Names belonging (...)
+Member and Figure, and how to begin and end them after a plain and easy
+Manner, it being of great use to all Artists and Workmen concerned in Building;
+
+MORE ESPECIALLY, Surveyors, Architects, Engineers, Masons, Carpenters,
+Joyners, Bricklayers, Plaisterers, Painters, Carvers, Glasiers, etc. In General
+for all that are Concerned or Delight to Practice with the Rule and Compasses.
+
+LONDON, Printed for Robert Prick at the Balls in St. Paul's Churchyard, next
+Cheap Side; Where you may have that Excellent New Treatise of Architecture,
+designed by John Mauclere, according to Vitruvius; And also Maps, Copy-books,
+Books of Beasts, Birds, Flowers, Fruits; Likewise Italian, French and Dutch
+Prints. 1679
+
+To the READER.
+GEometry is a Greek word, which in its proper signification tells us of no
+other thing then Measuring of the Earth; Nevertheless, by this word we are to
+understand the Principal Part of the Mathematics, which is a Science that has
+for its Object Quantity continued.
+
+A continued Quantity is that whereof all the Parts are joined together, as are
+all sorts of Extensions, of Greatness, and of Dimensions.
+
+And these Dimensions consist principally either in Lines, Angles, Superficies,
+or Bodies, which are to be considered, not according to the Quality of the
+Matter, but according to the Extension of the Parts.
+
+Geometry is divided into the Theorick and the Practick. The Theorick is the
+Science which causes us to conceive and demonstrate the truth of Geometrical
+Propositions. And the Practick is the Art which guides the hand in its
+Operation.
+
+Geometry had its beginning amongst the Egyptians, which were compelled to
+invent it, for to remedy the disorder that happened ordinarily within their
+Grounds, by the overflowing of the River Nilus, which carried away all the
+Bounds, and defaced all the Limitmarks of their Inheritances: and so this
+Exercise, which for the time consisted only in Measuring the Lands, for to
+render to every one that which belonged to him, was called the Measuring of the
+Earth, or Geometry: But in process of time the Egyptians applied themselves to
+more subtle Enquiries, and by degrees from an Exercise altogether Mechanical,
+they brought forth this Excellent Science, which has deserved to hold one of
+the chiefest ranks amongst all others.
+
+Geometry is not only profitable, but we may say that it is altogether
+necessary. It is by this, that the Astrologians do make their Observations by
+it, they know the Extent of the Heavens, the Duration of Times, the Moving of
+the Stars, the observation of the Seasons of the Years and Ages.
+
+It is by this Means, that the Geographers do cause us to see, at one cast of
+an Eye, the Greatness of the whole Earth, the huge Extension of the Seas, the
+Divisions of Empires, Kingdoms and Provinces.
+
+It is from this the Architects do take their just Measures, in framing of
+public Buildings, as well as of particular Houses.
+
+It is by the help of this Engineers do bring to pass all their intended
+Projects, whereby they take the situation and platform of Fortifications, the
+Distance of Places, and that they can at length carry their Measure through
+Spaces accessible only to the sight.
+
+Persons of Quality, whose Birth engages them to the Wars, are obliged to
+apply themselves to this Science. It introduces them not only to
+Fortification, which teaches them to build Bulwarks to defend strong Places,
+but also to compose and set up Engines, which may overthrow them; and further
+also it brings them very much knowledge and skill in the Military Art, how to
+set an Army in Order for Battle, how to encamp and divide the Ground for the
+quartering; and further, it teaches them to make Maps of Countries; and to
+take the Platform of Towns, Forts and Castles; to Measure all kind of
+Dimensions, both accessible and unaccessible, to invent Projects; and lastly,
+it makes them so expert and commendable for their Wit and Inventions, as they
+can be for any strength or couragiousness in them.
+
+All those that make Profession of entering upon Designs, ought to know
+something of Geometry, seeing that they cannot otherwise attain the Art of
+Architecture, nor Perspective, which are two Parts absolutely depending on that
+skill.
+
+Geometry is established upon three sorts of Principles, viz Definitions,
+Axioms, and Petitions.
+
+1. The Definitions are brief Explications of the Names and Terms. 2. The
+Axioms are Sentences so true, and so manifest, that it is impossible to
+contradict them. 3. And the Petitions are clear and intelligible Demands,
+whereof the Execution and Practice requires not any Demonstrations.
+A Point.
+FIrst, you must understand that a Point is a Prick made with a Pen or Compass,
+which cannot be divided into parts, because it contains neither length nor
+breadth in it.
+
+A Line.
+A Line is a right consecutive Imagination in length, beginning at a Point, and
+has no breadth.
+
+A Parallel.
+WHen two lines are set or placed a little distance one from the other, those
+two Lines, according to the Latin phrase, are called Parallel, and by some
+Equidistances.
+
+Superficies.
+WHen these two Lines aforesaid are enclosed at each end with other Lines, it
+is then called a Superficies, and in like sort all spaces, in what manner
+soever they are closed, are called Superficies or Plains.
+
+Perpendicular.
+WHen there is a straight upright Line placed in the middle of a cross straight
+line, then it is called a Perpendicular, or Catheta line, and the end of the
+Crosses or straight line on both sides of the Perpendicular are called straight
+Corners.
+
+Acutus, Obtusus.
+WHen a leaning or straight Line is placed upon a straight line, without
+Compass or Equallity, as much as the same line bends, so much shall the
+corner of the straight line be narrower below, and the other so much broader as
+a right and even corner, the straight corner in Latin is called Acutus, which
+signifies sharp, and the wider Obtusus, which signifies dull.
+
+Pyramidal.
+A Corner or Point called Pyramidal, and also Acutus in Latin is when two even
+long straight lines meet or join together at the upper end, as the Figure
+declares.
+
+Triangle.
+When such a Figure, as aforesaid, is closed together at the foot with a long
+straight line; it is then called a Triangle, because it has three sharp
+corners.
+
+2. Triangle.
+WHen a Triangle with two even straight lines, is closed together with a longer
+line then these two are, it shall have such form as you may see in the Figure
+of the third Triangle.
+
+3. Triangle.
+A Triangle which is made of three unlike lines, will also have three unlike
+corners.
+
+Quadrangle.
+WHen two long and two direct downright lines are joined together at the four
+corners, it is called Quadrangle with even sides or corners, but when the four
+lines are all of unlike and contrary length, then it is a Quadrangle of uneven
+sides, as the Figure shows.
+
+YOu must note, that although all four cornered Figures may be called
+Quadrangles; nevertheless, for that the direct four cornered Figures are called
+Quadratus, for difference from them, I will name all Figures which are like
+unto a Table (that is, longer then broad) Quadrangles.
+
+WHen four even long straight lines are joined together at the corners, they
+are called Quadratus; which are four cornered: when you make the two corners
+thereof sharp; and the other two corners somewhat blunter, then it is called a
+Rombus.
+
+ALthough you may turn and make all the Figures aforesaid right four square:
+yet the Workman may find other Figures with diverse corners, the which (as I
+will hereafter show) he may make four square.
+
+WHen a man with his compass draws a bow, and after that he draws another
+bow right against it, that is called a Superficies of crooked lines, with two
+like corners: and then draws a straight line from the one corner to the
+other: and from one point or center where the Compass stood to the other,
+another straight line; thereby you shall find the right four parts thereof.
+
+BUt if a man draw a whole right line with his Compass, that is called a full
+Circle or round Superficities, and the point in the middle is called the Center,
+the utmost line is called Circumference: and if you draw a straight line
+through the Center, it is called a Diameter: because it divides the Circle in
+two even parts.
+
+WHen the half Circumference is cut through the Center of the Diameter, then it
+is called half a Circle: and if you make a straight line upright in the half
+Circle, then that line makes two even quarters of a Circle, and divides the
+Diameter also into two half Diameters.
+
+WHen a man draws four even long lines, and joyneth them together, they make
+a perfect cornered Quadratus: then if you draw a straight line from the one
+corner to the other, it is called Diagonus: because it divides the four
+corners into two even parts.
+
+
+
+NOw when a Workman has seen a form of some of the most necessary
+Superficies, he must proceed further, and learn to augment or diminish the
+same, and to turn them into other forms: but yet in such sort, that they may
+have even parts in them.
+
+AND first, if out of the length of the Diagonus aforesaid, by the adding of
+three other even long lines, he makes another four square: that four square
+shall be once as great again as the first, which is to be understood in this
+sort: That the four square of A. B. C. D by the Diagonus is divided into two
+Triangles, and the greater four square A. D. F. E. contains four such
+Triangles: but for that the two first four squares hang one within the other,
+therefore for the better showing thereof, they are here once again set down
+severally: whereby you may see that the Quadrate G. (as I said before)
+contains two Triangles, and the Quadrate H. contains four such Triangles,
+so that the proof thereof is clearly to be seen.
+
+IF within a four square you make a Circle which touches the four sides of the
+said four square, and without the said four square another Circle which
+touches the corners marked A. B. C. D. Then the outmost Circle must be once as
+great again as the innermost: and then if about the greatest Circle you make
+another four square as C. D. E. F. then the two four squares must in like sort
+be once as great again as the other. The proof whereof stands hereby marked
+with the Letters K. L. for clearer understanding of the same.
+
+BY this also the projecture or the foot of the Bases of the Tuscane Columns or
+Pillars, and also the breadth of the foundation of them underneath by Vitruvius
+declared, is set forth.
+
+THe Workman must yet proceed further, and learn to know how to change a
+Triangle into a Quadrangle, and also at last bring it to a right Quadrate, to
+the which I will set down diverse forms. First, take a Triangle with even
+corners, as A. B. C. and divide the Base, (which is the name of all lower
+lines) B. C. in two even parts, and there place the Letter E. Then from the
+point E. to A. draw a line, which will divide the Triangle into two even parts.
+Then if you take that part which is marked A. E. C. and join it to the other
+part, marked A. E. B. it will make a Quadrangle, as A. D. B. E, made of a
+Triangle.
+
+YOu may also change this Triangle in other manner, dividing the lines A. B.
+and A. C. each in two like parts as F. and G. Then draw a line through D. E. as
+long as the Base B. C. Then shut up the two Equidistances, corner wise: and
+then the Quadrangle B. C. D. E contains so much in it as the Triangle A. B.
+C. and the proof thereof is, that the two Triangles B. C. F. and G. E. C.
+contain so much in them, as the two other Triangles A. F. H. and A. I. G.
+
+A Triangle with even points, may be divided thrice into two equal parts,
+dividing each side in two parts, as in the Figure P. Q. R. it is seen through
+the three lines, which on either side make two great Triangles.
+
+THe same Triangle P. Q. R. may thus be changed into a Quadrangle: divide the
+side P. Q. and the side P. R. each in two equal parts, then draw a line C. T.
+as long as Q. and R, and then draw a line direct downward from T. R. to close
+it up: and then that Quadrangle contains as much space within it as the
+Triangle aforesaid, because that the Triangle which is cut off P. S. V. is of
+like greatness with the other Triangle marked V. R. T.
+
+ANd although there is a Triangle of unequal sides, yet a man may make it a
+Quadrangle, in such sort as I said before of the right Triangle: for although
+the two Triangles that are cut off, and those two that are added unto it, are
+not of one greatness, yet the Triangles A. F. L. and B. D. F are one as great
+as the other: and again, the triangles A. G. K. and G. C. E. are also of one
+greatness: so that those that are cut off, and those that are added thereunto,
+are of one quantity. By these alterations aforesaid a man may easily measure
+how many feet, else or roods foursquare, are contained in a three-corner'd
+Superficies.
+
+BUT it falls out, that a Triangle, (which is three cornered) superficie or
+plain, must be parted cross-wise in two equal parts: then out of one of the
+sides that you will cut through, you must make a right four square, as from the
+side A. B. and draw therein two Diagonus from corner to corner, which will show
+you the Center C. and draw one Circle through that three-corner'd part, which
+you will divide, and so you shall find the two points, where you shall draw
+your dividing line. He that desires any proof hereof, may take each piece, and
+alter it into a Quadrangle, and after into a Quadrate, as hereafter shall be
+showed, and he shall find it true.
+
+
+
+AN Architector must also undergo other Burdens, for that he must know how to
+divide a piece of ground, that no man may be hindered thereby. As for Example,
+if there were a piece of ground that lay three-corner'd wise, with unequal
+parts, having on the one side thereof a Well, but not in the middle: and this
+ground, or three-corner'd piece of Land is to be divided into two equal parts,
+in such sort, that each of them may have the use of the Well: it must be done
+in this manner. I make a Triangle marked A. B. C. and the Well is marked with
+G. Now divide the line B. C. with a dark line in the two equal parts as the
+Letter D. shows, and then drawing a line from D. to A. then the Triangle is
+divided into two equal parts: but both of them cannot yet come to the Well:
+then draw another line from the Well G. to A. and from the point D. you must
+set an Equidistancie against G. A. marked with E. and drawing from G. which is
+the Well: the black line to the letter E it will divide the ground in two even
+several parts, and each of them shall have the Well at the end of his Ground,
+for that part A. B. G. E. contains in it just as many feet or roods, as that
+part which is marked G. E. C.
+
+I Showed before, how a man should make a four square Superficies once as great
+again as it is, but it may fall out, that a man is to make it but half as great
+again, or more or less, as he thinks good, or as occasion serves, which the
+Architector is also to learn of necessity. Which to show, I set down a right
+four square thing marked A. B C, D, which I will have three quarters greater:
+the same three quarters I set by the side thereof, so that the same with the
+Quadrate together make a Quadrangle A. E. C. G. To bring this Quadrangle into a
+right Quadrate, you must lengthen the line A. E. yet a quarter longer, or from
+the side of the Quadrangle E. G, and place F. there: then upon the line A. F.
+make half a Circle: which line will show you the one side of the Quadrate which
+you seek for: which Quadrate being made, will contain as much in it as the
+Quadrangle already made And in this manner you may change all Quadrangles which
+are long four cornered pieces of work, into a just and true Quadrate.
+
+NOw to prove that which I said before, you must join the Quadrangle with the
+Quadrate together, in one square Superficie, as Q. R. S. T. and from the corner
+R. to the corner S. draw a Diagonus, and it is certain that that Diagonus will
+make two even parts. Now Euclides says, that when a man takes any even parts
+from even parts, the rest of the parts also remain alike: then take the
+Triangle K. L., and the Triangle M. N. which are both alike: the right four
+cornered superficie P. is of the same greatness, that the longer superficie O
+is.
+
+AGain, you may easily change a Quadrate into a Quadrangle, as long or as
+narrow as you desire to have it, doing thus; Make your Quadrate A. B. C. D and
+lengthen your Line A. B. and the Line B. C. Which done, then set the length of
+the Quadrangle, which you desire to have upon the line A. G. Then from the
+point G. draw a line alone by the corner of the Quadrate D. to the line C. F.
+and there you find the shortest line of the Quadrangle: and so to the contrary
+you shall by the least side of the Quadrangle find the longest also, as you
+may also prove by the aforesaid Figure: for when you take away the Triangles M.
+N. and O. P. which are both alike: then the two parts which are K. L. are also
+alike.
+
+AN Architector may by chance have a piece of work of diverse unequal sides come
+to his hands, which he is to put ino a Quadrangular or Quadrate form, to know
+what it contains, and specially when it belongs to more then one man,
+whether it be Land or any other thing. For although the Architector or Surveyor
+of Land could not skill of Arithmetic or Ciphering: yet this rule cannot fail
+him, nor any other man that desires to find out the deceit of a Tailor. Thus,
+I say then, let it be what form soever it will, I set down this hereafter
+following. First then, seek the greatest Quadrate or Quadrangle that you can
+take out of it: that done, seek yet another Quadrate or Quadrangle, as big as
+you can take out of it, out of the rest of the said work: and if you can after
+that make more Quadrates or Quadrangles out of it, I mean all with right
+corners, take them out also: but if you can find no more in it, then make
+Triangles also as big as ^^u can, of which Triangles (as you are taught before)
+you may make Quadrangles, and let every piece severally be marked with
+Characters, as in the Figure following may be seen.
+
+LEt by Example your many cornered Figures first be marked with the great
+Quadrangle with these Letters A. B. C. D. and then with a less Quadrangle, as
+E. F. G. H. the rest are all Triangles. Now set the greatest Quadrangle L. in a
+place by it self, and then the other marked with M. which set upon it, that the
+two corners or sides may be alike: which done, lengthen the line E. F. and the
+line E. G. and where they stay or touch under the great Quadrangle L. there set
+an I, from this I. a Diagonal line, being drawn through the corners B. H. the
+same line shall be drawn to the point: that, by the shutting of the Characters
+B. M. L. D. will show you another Quadrangle, of the like quantity that the
+Quadrangle M. is: so that the whole Quadrangle D. C. L. M. contains the two
+aforesaid Quadrangles. Touching the Triangles, when you have changed the same
+(according to your former instruction) into Quadrangles, as you may see by the
+Triangle N, so may you put that Quadrangle also in the greatest Quadrangles
+(for less trouble.) The great Quadrangle A. L. M. C. is once again placed above
+with the small Quadrangle O. P. Q. R. set upon it, and the Diagonal line is
+placed behind the greater (which is L. M. T. S both marked with N. so that the
+Quadrangle A. C. S. T. contains three Quadrangles L. M. N. and as many more
+as there are: you may in this sort bring them all in one Quadrangle: if there
+falls out any crooked lines, the skilful Architector or Workman may almost
+bring them into a square, and those Quadrangles, if need be, may also be
+reduced into perfect four squares, as aforesaid.
+
+WHen a man has a line or other things of unequal parts, and there is also
+another longer line, or some other thing, which a man would also divide into
+unequal parts, according to the proportion of the shorter line, then let the
+shortest line be A. B. and the greatest line A. C. now it is necessary that
+from the uppermost point A. you should make a corner, as A. B. and A. A. Then
+take your longer line, and set it with the end C. upon B. and let the other end
+rest at the hanging line A. A. then from every point of the uppermost line A.
+B. let a hanging line fall upon the line A. C. so that they may be equidistant
+with the line A. A. and where the said lines cut through each other, there is
+the right division proportioned according to the smaller. This rule shall not
+only serve the Architector for many things, as I will partly show: but will
+also serve many Artificers to reduce their small works into greater.
+
+
+
+FOr Example of the figure aforesaid, I suppose, Houses or Pieces of Land to be
+of diverse wideness, which should be narrower before then behind. Which Houses
+by Fire or War are so decayed, that in the forepart between C. D. there were
+but some signs of division to be seen of the houses, and behind the houses
+between A and B. no sign at all to be seen. Now as the misfortune was past, and
+that every man desired to have his part of his inheritance, then the
+Architector, as an Umpire, according to the rule aforesaid, should divide the
+longest line according to the proportion of the shortest, to give every man his
+own: as you may see by this Figure following.
+
+THE Architector must have a well-proportioned Cornice, which if he would make
+greater, keeping the same proportion, he may do it as he is formerly taught, as
+in this Figure following is showed by the short line marked A. B. and the
+longest line marked A. C.
+
+AN Architector or Workman must likewise learn to augment and make greater a
+hollowed Column, which he may also do by the two lines aforesaid, and although
+the Column should be a Dorica (yet it is to be understood of all kinds of
+Columns. This rule will also serve (not only for the three Figures set down)
+but also for as many, as if I should show them, it would contain a whole book
+of them alone, and therefore this shall suffice at this time for the Workman.
+
+THe further that any material thing stands from our sight, so much it
+seems to lessen, and diminish by means of the Air, which consumes our sight:
+therefore when a man will make or place one thing above another, against any
+place or wall, and would have the same thing to show above in the middle, and
+beneath, as great in one part as in the other, it is convenient for him to
+follow this rule, which is, for that our sight runs in circumference:
+therefore a man must first choose the place, from whence he will see the same:
+there placing a Center, and then draw a quarter of a Circle from your eye
+upwards. Which dividing in even parts, you shall, by the lines that go out of
+the Center through the Circle against the wall, find the unequal parts: the
+which although upwards against the wall, they shall seem greater: yet in your
+sight they will show all of one greatness. By this rule you may also measure
+heights, aiding your self with the numbers.
+
+MAny men are of opinion, that straight lines, in what manner soever they are
+closed, contain as many spaces one way as another, (that is to say) if a man
+had a cord of forty foot long, and should lay it diversely, in a round, long,
+three cornered, four square, or five-corner'd form: but the superficies are
+not of one self-same space, which may be seen by these four square Figures
+following; for the first line holds on either side ten, which is forty, and
+the space contains ten times ten, which is an hundred. The other line upon the
+two longest sides, contains fifteen spaces, and on the shortest sides five,
+making forty also: but five times fifteen make but seventy and five.
+
+IF the Quadrate stretches further out, so that the two longer sides were
+eighteen a piece, then the shortest sides must each have two to have forty
+upon the line, but the space should contain but six and thirty. And hereby you
+see what a perfect form may do against an imperfect. And this rule the Workman
+shall use, that be may not be deceived, when he will change one form into
+another.
+
+
+
+IF a man should make three Points, (which should not stand upon a right line)
+and desiring to have a circumference made, the Compass must pass along upon
+each of these Points. To do it from the point one to the point two, he must
+draw a line, and from the point two to the point three another: which two lines
+shall each of them be divided into two equal parts, and setting the squires
+half way in them, as you see it in the Figure, by that Cross it will show you
+the Center, wherein you must set one foot of the Compass, and with the other
+draw the Circle through all the said points.
+
+YOu may find the Center of three points another way, without your Compass,
+making a two-corner'd superficie from the one point to the other, through the
+which corners two straight lines being drawn long enough downwards where they
+cross one over the other, they will show you the Center of the three points.
+
+BUt for that a Workman holds this to be a superfluous speech, and a thing of
+no moment, it may be that a Workman may have a piece of a round work to do,
+which he is to perfect and make full round, by this rule he may find the
+Center, Circumference, and Diameter thereof, as the Figure shows.
+
+WE find in Antiquities, and also in modern works, many Pillars or Columns,
+which beneath in the joints at the-Bases are broken asunder, which is, because
+their Bases were not well made according to their corners: or else, because
+they are not rightly placed: so that they have more weights upon them on the
+one side then on the other, whereby the Cantons break, which the Workman, by
+knowledge of the lines, and help of Geometry, may prevent in this manner: that
+is, he must make the pillar round underneath, and his Base hollow inward: so
+that when you place the Pillar by the lead, it may presently settle it self
+without any hurt. To find this roundness, you must set the one point of the
+Compass upon the highest part of the pillar that is under the A. and the other
+point thereof upon B. and then draw or wind it about to C. and that shall be
+the roundness, making the hollowing of the Base, according to the same measure:
+you may do the like with the Capital, as you may see in the Pillar by it.
+
+IF a Workman will make a Bridge, Bow, or any other round Arched piece of
+work, which is wider then a half Circle, although Masons practice this with
+their lines, whereby they make such kind of works, which show well to men's
+sight, yet if the Workman will follow the right Theorick and reason thereof, he
+must observe the order heretofore showed. When he has the wideness of the
+height, then he must make half a Circle out of the middle: after that, upon the
+same Center, he must make another lesser Circle, which must be no greater then
+he will make the height of the Bow, or Arch: then he must divide the greatest
+Circle in equal parts, which must all be drawn with lines to the Center: then
+you must hang out other Perpendiculars upon your Lead: and where the lines that
+go to the Center cut through the lesser Circle, from thence you must draw the
+cross lines toward the Perpendicular, and where they close together, there the
+Bow or Arch which is made, shall be closed: as by the points or pricks here
+under is showed.
+
+BUt if you desire to make the Bow or Arch lower, then you must follow the
+rule aforesaid, and make the innermost Circle so much less, which is to be
+understood, that the more parts that you make of the greater Circle, so much
+the easier you shall draw the crooked lines which you would have: from this
+rule there are many others observed, as hereafter you shall see.
+
+CAlling the former rule to mind, I devised the manner how to form and
+fashion diverse kinds of vessels by the same, and I think it not amiss to set
+down some of them: This only is to be marked, that as wide as you will make the
+vessels within, so great you must make the inner most Circle. The rest, the
+skilful Workman may mark by the Figures, that is, how the lines are drawn to
+the Center, and the Parables, and out of the small Circle. The Perpendiculars
+hanging, the vessels are formed: the foot and the neck may be made as the
+Workman will.
+
+BUt if you will make the body of the vessel thicker, then you must make the
+half Circle so much the greater, and make the belly hanging down under it, to
+touch the great Circle, by the falling of the Perpendiculars upon the cross
+line, as by these Figures 3.4.5. it is showed: whereby a man by this means may
+make diverse vessels, differing from mine. The necks and covers of these vessels
+are within the small Circles: the other members and Ornaments are always to
+be made, according to the will of the ingenious workman.
+
+
+
+IT is an excellent thing for a man to study or practice to do any thing with
+the Compass, whereby in time men may find out that which they never imagined:
+as this night it happened unto me, for that seeking to find a nearer rule, to
+make the form of an Egg, then Albertus Durens has set down, I found this
+way to make an Antic vessel, placing the foot beneath at the foot of an Egg,
+and the neck with the handles above upon the thickest part of the Egg. But
+first you must frame the Egg in this manner: Make a straight cross of two
+lines, and divide your cross line in ten equal parts: that is, on each side
+five. Then, set the Compass upon the Center A, and with the other foot thereof,
+draw in two parts, that is, to C. making half a Circle upwards. That done, set
+one foot of the Compass upon the point marked B. and with the other draw in the
+uttermost point C. drawing a piece of a Circle downwards toward the
+Perpendicular, and doing the like on the other side, you must make a point
+below. Then take the half of the half Circle above that two parts, and place it
+at the undermost point of the Perpendicular upwards above O, where the Center
+to close the Egg, shall stand: the rest under shall be for the foot: the neck,
+without doubt, may be made two parts high, and the rest according to the
+Workmans pleasure, or according to the Figure here set down.
+
+YOu may also make another form of a Cup or vessel, after the rule aforesaid.
+But from the point A. (which does show the breadth of the foot, and the wideness
+of the mouth) you must make your Circle upwards from C. unto the two
+Perpendiculars, where the body shall be closed up. The neck standing above it
+shall be two parts high: but the rest of the Workmanship shall be made
+according to the will and device of the Workman.
+
+BY this means you may make other different kinds of Cups or vessels: but these
+that follow, you must make in this so^t: you must divide your cross line in
+twelve parts through the point A. making two Perpendiculars to show the foot
+and the neck: then setting one foot of the Compass upon B. and the other foot
+upon I. drawing a piece of a Circ^e downwards toward the Perpendicular: and
+the like being done on the other side to the Figure of 2. then place your
+Compass upon the point C. and touching the sides 3. and 4. then the bottom of
+the vessel will be closed up: then place the Compass upon the point between I.
+and A. and it will be the roundness of the vessel above: the other four parts
+serve for the neck of the vessel, with the rest of the work.
+
+A Man may make a vessel only by a Circular form, making therein a circular
+cross, and dividing every line into six parts: the half-circle shall be the
+belly of the vessel, and a sixth part upward for a Freese, that there may be
+more place to beautify it: another part shall be the ^eg^t of the neck, and
+another part the corner: and for the foot, although it be but half a part high,
+it may well go a sixth part without the round: and although I have set down but
+six manner of cups or vessel, yet according to the rule aforesaid, a man may
+make an infinite number of vessels, and a man may alter them by their
+Ornaments, whereof I say nothing that you may see the line the better.
+
+A Man may make Oval forms in diverse fashions, but I will only set down four.
+To make this first Figure, you must set two perfect Triangles one above the
+other, like a Rombus, and at the joining of them together, you must draw the
+lines through to 1. 2. 3. 4. and the corners A. B. C. D. shall be the four
+Centers, then set one foot of the Compass upon B. and the other upon I, and
+draw a line from thence to the Figure 2. After that, from the point A. and 3.
+to 4. you must also draw a line: which being done, set the one end of the
+Compass in the point C. and then draw a piece of a Circle from 1. to 3. and
+again, the Compass being in the Center D. draw a piece of a Circle from 2. to
+4. and then the form is made. You must also understand, that the nearer that
+the Figures come to their Centers, so much the longer they are: and to the
+contrary, the further that they are from their Centers, the rounder they are:
+yet they are no perfect Circles, because they have more then one Center.
+
+FOr the making of the second Oval you must first make three Circles, as you
+see here drawing, where the four straight lines stand: the four Centers shall
+be I. K. L. M. Then placing one point of the Compass in K. yon must draw a line
+with the other point from the Figure of 1. to 2. Again, without altering the
+Compass, you shall set the one foot of the Compass in I. and so draw a piece of
+a Circle from the figure 3. to the figure 4. and that makes the Compass of the
+Circle. This Figure is very like the form of an Egg.
+
+THE third form is made by two four cornered squares, drawing Diagonen lines
+in them, which shall show the two Centers G. H. and the other two corners E,
+and F. Then draw a piece of a Circle from F. to the figure 1. and so to 2. Do
+the like from E. to 3. and 4. which done from the points G. and H. make the two
+sides from 1. to 3. and from 2. to 4. and so shut up the Ovale.
+
+IF you will make this fourth Oval, draw a line at pleasure as A. B. then set
+one foot of the Compasses at C. and strike a Circle, then remove the Compasses,
+and set one foot at D and strike another Circle, then set one foot of the
+Compasses at E. and close up the line from G. to H. then set one foot at F, and
+close the line from ^ to K.
+
+And although our Author says, there are four forms of Ovals; yet this last
+figure is of the same form as the first, only this is easier to make.
+
+
+
+TOuching the Circles there are many Figures which are round, and yet some have
+5. 6. 7. 8, 9. and 10. corners, etc. But at this time, I will speak only of
+these three principally: because they are most common.
+
+THis Octogonus or eight points is drawn out of a right four cornered square,
+drawing the Diagonus which will show you the Center: then set one foot of your
+Compass upon the corners of the Quadrate, and leading the other foot through
+the Center, directing your Circle toward the side of the Quadrate, there your
+eight points shall stand to make it eight cornered, and although a man might
+only do it by the Circle, making a cross therein, and dividing each quarter in
+two, yet it will not be so well, and therefore this is a surer and more perfect
+way.
+
+THe Hexagonus, that is, the sixt-corner'd Circle, is easiest made in a Circle:
+for when the Circle is made, you may divide the Circumference in six parts
+equally, without stirring the Compass, and drawing the line from one Point to
+another, the six corners are made,
+
+BUt the Pentagonus that is five-corner'd, is not so easily to be made as the
+others are, because it is of an uneven number of corners, notwithstanding you
+may make it in this manner: when the Circle is made, then make a straight cross
+therein: then divide the one half of the cross line in two parts, as it is
+marked with the Figure 1. then place one foot of the Compasses at the Figure 1.
+and the other foot under the Figure 2. draw downward to the Figure 3. resting
+that foot, and reaching the other to the aforesaid place under 2. and you will
+have the length of every side of the Pentagonus. In this Figure also you shall
+find the Diagonus, that is, ten corners: for, from the Center to the Figure 3.
+that shall be one side thereof, you may also make a sixteen-corner'd Figure out
+of this wideness 3. 4 and place a particular line upon the point 1. And
+Albertus Durens says, that the same also will serve to make a seven-corner'd
+Figure.
+
+THis figure will serve such men as are to part a Circumference into unequal
+parts, how many soever they be: but not to bring the Reader into confusedness,
+with making of many forms, I will only set down this divided into nine
+corners, which shall serve for an example of all the rest, which is thus: Take
+the quarter of the Circle, and divide it into nine parts, and four of these
+parts will be the ninth part of the whole Circumference: you must also
+understand the same so, if you divide a Quadrate into eleven, twelve, or
+thirteen parts, etc. for that always four of these parts be the just wideness
+of your parts required.
+
+THere are many Quadrangle Proportions, but I will here set down but seven of
+the principallest of them which shall best serve for the use of the Workman.
+
+FIrst, this form is called a right four-corner'd Quadrate. THe second form
+or figure in Latin, is called Sexquiquarta, that is, which is made of a
+four-corner'd Quadrate, and an eighth part thereof joined unto it. THe third
+Figure in Latin is called a Sexquitertia, that is, made of a four-squar'd
+Quadrate, and a third part thereof joined unto it. THe fourth is called
+Diagonea of the line Diagonus: which line divides the four-squar'd Quadrate
+cross through the middle, which Diagonal line being touched from under to the
+end thereof upwards with the Compass and so drawn, will show you the length of
+the Diagonal Quadrangle: but from this proportion there can be no rule in
+number well set down. THE fifth Figure is called a Sexquialtera, that is, a
+four square, and half of one of the four squares added unto it. THe sixth is
+called Superbitienstertias, that is, a four square, and two third parts of one
+of the four squares added thereunto. THE seventh and last Figure is called
+Dupla, that is, double: for it is made of two four square forms joined
+together: and we find not in any Antiquities, any form that passes the two
+four squares, unless it be in Galleries, Entries and other to walk in: and some
+Gates, Doors and Windows have stood in their heights: but such as are wise will
+not pass such lengths in Chambers or Halls.
+MAny Accidents like unto this, may fall into the Workmans hand, which is, that
+a man should lay a sieling of a house in a place which is fifteen foot long,
+and as many foot broad, and the rafters should be but fourteen foot long, and
+no more wood to be had: then in such case, the binding thereof must be made in
+such sort as you see it here set down, that the rafters may serve, and this
+will also be strong enough.
+
+IT may also fall out, that a man should find a Table of ten foot long, and
+three foot broad: with this Table a man would make a door of seven foot high,
+and four foot wide. Now to do it a man would saw the Table long-wise in two
+parts, and setting them one under another, and so they would be but six foot
+high, and it should be seven: and again, if they would cut it three foot
+shorter, and so make it four foot broad, then the one side shall be too much
+pieced. Therefore he must do it in this sort: Take the Table of ten foot long
+and three foot broad, and mark it with A. B. C. D. then saw it Diagonal-wise,
+that is, from the corner C. to B. with two equal parts, then draw the one piece
+there of three foot backwards toward the corner B. then the line A. F. shall
+be four foot broad, and so shall the line E. D. also hold four foot broad: by
+this means you shall have your door A. E. F. D. seven foot long, and four foot
+broad, and you shall yet have the three-corner'd pieces marked E. B. G, and C.
+F. and C. left for some other use.
+
+
+
+IT happens many times that a Workman has an eye or round Window to make in a
+Church, as in ancient times they used to make them, and he doubted of the
+greatness thereof, which if he will make after the rules of Geometry, he must
+first measure the breadth of the place where he will set it, and therein he must
+make a half Circle: which half Circle being enclosed in a Quadrangle, then he
+shall find the Center by two Diagonal lines: then he must draw two lines more,
+which shall reach from the two lowermost corners above the Center, and touch
+the just half of the Circle above: and where the said lines cut through the
+Diagonal lines, there you must make two Perpendicular lines, which
+Perpendicular lines shall show the wideness of the desired window: the list
+about it may be made the sixth part of the Diameter, being round in breadth.
+
+IF a Workman will make a gate or door in a Temple or a Church, which is to be
+proportioned according to the Place, then he must take the wideness within the
+Church, or else the breadth of the wall without: if the Church be small, and
+have Pilasters or Pillars within it: then he may take the wideness between
+them, and set the same breadth in a four square, that is, as high as broad, in
+which four square the Diagonal lines, and the two other cross cutting lines
+will not only show you the wideness of the door, but also the places and points
+of the ornaments of the same door, as you see here in this Figure. And although
+it should fall out, that you have three doors to make in a Church, and to that
+end cut three holes, yet you may observe this proportion for the smallest of
+them. And although (gentle Reader) the cross cutting through or dividing is
+innumerable, yet for this time. lest I should be too tedious, I here end my
+Geometry.
+
+
+
+
+
+FINIS.
+A CATALOGUE of some Books and Prints, as are Printed for Robert Prick, and are
+to be sold at his Shop in White-cross-street, and likewise at the Golden Lion
+at the Corner of New-Cheapside near Bethlehem.
+A New Treatise of Architecture, according to Vitruvius, Wherein is discoursed
+of the five Orders of Columns, viz. The Tuscan, Dorick, Ionick, Corinthian, and
+Composite. Divided into seven Chapters. Which declare their different
+Proportions, Measures and proper Names, according to the Practice of the
+ancient Architects, both Greeks and Romans; as also of their Parts general and
+particular, necessary in the building of Temples, Churches, Palaces, Castles,
+Fortresses, and all other Buildings, with their Dependents: As Gates,
+Arches-Triumphant, Fountains, Sepulchers, Chimneys, Cross-bard Windows,
+Portals, Platforms, and other Ornaments: serving as well for the beautifying of
+Buildings in Cities, as for necessary Fortifications of them. Designed by
+Julian Mauclerc Lord of Ligneron Mauclerc, Brossandiere and Remanguis.
+Whereunto are added the several Measures and Proportions of the famous
+Architects, Schamozzi, Palladio and Vignola: with some rules of Perspective.
+The whole represented in fifty large Prints, enriched with the rarest Ornaments
+of Antiquity, and Capitals of extraordinary greatness, with their Architraves,
+Frieses and Cornishes proportionable.
+
+A New Book of Architecture, wherein is represented forty Gates and Arches
+Triumphant, Composed of different Inventions, according to the Five Orders of
+Columns, viz. The Tuscane. Do^ick, Ionick, Corinthian and Composite. By
+Alexander Francine Florentine, Engineer in Ordinary to the French King: With a
+Description of each Figure.
+
+The Art of Fair Building: Represented in several Vprights of Houses, with
+their Ground-plots, fitting for persons of several Qualities, Wherein is
+divided each Room and Office according to their most convenient occasion, with
+their Heights, Depths, Lengths, and Breadths, according to Proportion. With
+Rules and Directions for the placing of Doors, Windows, Chimneys, Beds, Stairs,
+and other conveniences: with their just measures for their best advantage,
+both of Commodiousnes, Health, Strength and Ornament. Also a Description of the
+Names and Proportions of the Members belonging to the framing of the
+Timberswork, with Directions and Examples for the placing of them. By Pierre le
+Muet, Architect in Ordinary to the French King, and Surveyor of his Designs and
+Fortifications in the Province of Picardy.
+
+A Book of Architecture, containing Cieling-pieces, Chimney-pieces, and several
+sorts useful for Carpenters, Joyners, Carvers, Painters, invented by J-Barber.
+
+GETHINGS Redivivus: or the Pens Masterpiece. Being the last Work of that
+Eminent and Accomplished Master in this Art. Containing Examples of all curious
+Hands written, and now in practice England, and the Neighboring Nations: With
+necessary Rules and Directions toward the attaining of Fair Writing. Also
+Directions for making the best Pens, and several sorts of very good Ink, as
+black, red, green, yellow and purple; and how to write with Gold and Silver,
+and to polish it to make it glister. Likewise how to Etch or Engrave a Coat of
+Arms, Figure or Posie, on Silver, Copper, Brass, Iron, or hardened steel. With
+an Appendix, Showing the exact manner of making all sorts of Bonds, Letters of
+Attorney, Releases.
+
+Scripture-Stories in large sheets, as Adam and Eve, Abraham offering up his
+son Isaac, Elisha fed by Ravens with the woman of Samaria, the Judgment of
+Solomon between the two Harlots, Susanna and the two Flders, Queen Esther, etc.
+and several others of the and. and New Testam.
+
+

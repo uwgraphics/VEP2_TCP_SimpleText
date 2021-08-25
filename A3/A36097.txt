@@ -1,0 +1,1035 @@
+A DISCOURSE OF LOCAL MOTION.
+
+Undertaking to Demonstrate The LAWS of MOTION, And withal to prove, That of
+the SEVEN RULES Delivered By M. Descartes on this SUBjECT, He has Mistaken
+SIX.
+
+BY A. M.
+
+Englished out of French.
+
+London, Printed by W. G. and are to be sold by Moses Pit at the White-Hart in
+Little-Britain, 1670.
+
+The PREFACE.
+I Pretend not to celebrate in this place the Mechanics, and to set forth the
+advantages, which the Knowledge of Motion affords us. It is sufficiently known,
+that all the Productions, which come either from the Industry of Men, or from
+the Causes of Nature, are made no otherwise but by Motion. So that it is not
+possible to penetrate into the Secrets of Nature, nor to succeed in the
+Invention and Practice of Arts, without the assistance of the Mechanics, that
+is, without the Knowledge of the Laws of Motion.
+
+Neither do I undertake here to go through this whole Subject. It is too vast
+to be comprised in so brief a Discourse as this is intended. I have confined my
+self to what may be called the Elements of this Knowledge; and I insist
+particularly on considering the Communication which is made of Motion in
+Percussions.
+
+It Is true, that this Subject has been handled by very Eminent Men; but I take
+it quite otherwise in hand, me thinks, than they have done. For, without making
+any particular Hypothesis, I make it my business to search in the very sources
+of Nature the Causes of all the Effects we find in Motions, and I undertake to
+give the Demonstrations of them, which, without supposing any Experiment at
+all, are only founded upon incontrolable Principles of pure Metaphysics.
+
+The Design will doubtless appear bold to those, who know the difficulty, there
+is in thus preventing Experiments, and in prescribing to Nature such Laws as
+she is afterward to observe.
+
+It may also come to pass, that the Difference, to be found between the Rules,
+which I endeavor to establish here, and those which M. Descartes has laid
+down in his Principles of Physics, will furnish matter to exercise the
+curiosity of those, who love the Philosophy of that Author, and engage them, to
+make search, wherein my Paralogisms may consist, in regard that the
+ratiocinations, which I employ, are so opposite to those, which many have taken
+hitherto for true Demonstrations. For I advow, that of the Seven Rules of
+Motion, which M. Descartes delivers, there is but One only, which agrees with
+mine: So that either this Philosopher has not hit aright in this point, or I
+my self am fallen into considerable Errors.
+
+Mean time I cannot be ignorant of what has been published through all France
+touching the Rules of percussion, which have been proposed by some famous
+Mathematicians of the Royal Academies of London and Paris. If there be honor
+in inventing any thing new in Sciences, I do not contest with these persons
+about that, which they pretend to, of having found the Secret of the Laws of
+Motion. I willingly and fully yield it to them, and I claim nothing therein.
+Yet this I can say, that it is now three years, that I gave abroad all what I
+deliver here in this Discourse; and that, if my Rules be compared with theirs,
+there may possibly be found conformity enough to make Men believe that I have
+lighted together with them upon the truth: But there will also be found
+difference enough to make Men judge, that I have not learned it from them.
+Besides, that they have done no more than merely to propose their Rules without
+proving them; whereas I undertake to demonstrate all those, I advance. And
+although M. Hugens has given us hopes of publishing shortly a Book, wherein he
+would prove all his Rules; yet not withstanding, without comparing my self to
+so excellent a person, I dare affirm, that his Method will be quite different
+from mine; forasmuch as he has already explained himself sufficiently, to give
+us to understand, that his Demonstrations are grounded upon particular
+Hypotheses.
+
+However, I have already declared my self about the little pretension, I have
+to the glory of passing for the Inventor of these things: I leave it altogether
+to those Gentlemen; and if they will allow me a share therein, I shall receive
+it as a favor, and take it kindly, that they will acknowledge I have hit upon
+their thoughts, or at least not considerably shot besides the Mark.
+
+A TABLE of the HEADS.
+I. A Body is in it self indifferent to Rest or Motion. page 1. II. If a Body
+be once at Rest, it will ever remain therein. page 2. III. And if it be once in
+Motion, it continues also to move always. page 3. IV. That Rest is not a mere
+Negation. page 4. V. That there is as much positive Action in Rest, as in
+Motion. page 5. VI. Objections. page 8. VII. A Finite Cause may have an Effect
+that lasts always. page 9. VIII. This Quality, which is called Impetuosity,
+lasts always. page 11. IX. The Bodies which we move, do cease to move, because
+they are impeded. page 13. X. A Demand for the safety of the following
+Demonstrations. page 14. XI. A Body receiving successively many Determinations,
+remains only affected with the last. page 16. XII. A free Body cannot be
+determined to move in a Curve Line, nor with unequal celerity. page 17. XIII.
+Every Body that moves about a Center, endeavors to recede from it. page 19.
+XIV. The Stars cannot move of themselves. page 20. XV. How a Body may be moved
+circularly. page 21. XVI. One Body moving against another Body gives it its
+whole Motion. page 23. XVII. In the meeting of two Bodies there is made a
+percussion, which is mutual, and equally received in both. page 24. XVIII. A
+moving Body, meeting with another Body that is quiescent, gives it all its
+Motion, and remains it self moveless. page 26. XIX. What is meant by absolute
+and respective velocity. page 28. XX. The Percussions are as the respective
+Velocities. page 29. XXI. Two Bodies meeting one another, turn back, making an
+exchange of their velocity. page 31. XXII. Two Bodies moving toward the same
+places, continue after their encounter by exchanging their velocities. page 33.
+XXIII. An hard Body coming to hit another Body that cannot be shaken, is
+reflected with its whole Motion. page 35. XXIV. The Angle of Reflection is
+equal to the Angle of Incidence. page 38. XXV. It may be imagined, that tbe
+oblique Motion is composed of two Motions. page 40. XXVI. A Remark upon the
+Argument of P. Riccioli. page 42. XXVII. A Remarque upon some Citadels. page
+45. XXVIII. A general Rule of all Percussions. page 46. XXIX. There is always
+equal quantity of respective Motion. p. 48. XXX. The midst of two Bodies is
+always uniformly moved in a direct Line. page 49. XXXI. All these Rules are
+true, whether the Bodies be equal, or not. page 50. XXXII. A Body moves in
+pleno as freely as in vacuo. page 52. XXXIII. Motions diminish little by little
+in the Air. page 54. XXXIV. The Percussions of equal Bodies are made in pleno
+as in vacuo. page 56. XXXV. When the Bodies are unequal, the percussions are
+made in pleno otherwise than in vacuo. page 57. XXXVI. The Percussions of
+unequal Bodies cannot be reduced to one General Rule. page 59. XXXVII. Of
+Refraction. page 61. XXXVIII. The Conclusion. page 62. An Appendix containing a
+Review of this Discourse, made by the Author himself. page 67.
+A DISCOURSE OF LOCAL MOTION.
+I. A Body is in it self indifferent to Rest or Motion.
+IF we should imagine, that in the World there were nothing corporeal but one or
+two Balls, and sever from the same whatever might cause any kind of secret
+Commerce, whereby the one might attract or repel the other: Or, if we should
+consider such Balls free from all kind of particular Determination; without
+Levity, without Gravity; in Vacuo, or at least in a Space altogether uniform,
+where nothing were that might carry them rather this than that way, or hinder
+them to move freely, if they should happen to be propelled toward a place:
+Then should we conceive these Balls to be absolutely indifferent to touch one
+another, or to be severed; to be here, or there; forasmuch as they would find
+nothing more in one place than in another, and consequently be equally
+indifferent for Rest or Motion.
+
+II. If a Body be once at Rest, it will ever remain therein.
+ANd so if we further conceive, that one of these Balls is at Rest, having been
+put in that state by some Cause, that has power to stir or stop Bodies; we at
+the same time conceive, it will eternally remain at Rest, if there be not some
+new Cause displacing it, by putting it into Motion; because this Ball, being of
+it self indifferent to Rest or Motion, and being once determined to Rest, it is
+impossible it should of it self quit that Rest, and fall to Motion: Wherefore
+it must needs continue forever in that Rest, if nothing happen to make it
+change that state.
+
+III. And if it be once in Motion, it continues also to move always.
+BY the same Reason we must conceive, that if one of these Balls be put in
+Motion, by some Cause or other, it will continue to move forever, if no new
+Cause come to stop it: Because this Ball being of it self indifferent to Motion
+and Rest, and being once determined to Motion, it is impossible it should
+determine it self to cease from that Motion, to take Rest: And so it must ever
+remain in this Motion, if nothing else come to stop it.
+
+IV. That Rest is not a mere Negation.
+I Find that we are generally inclined to consider Rest as a Cessation of
+Action, and to take Motion for a positive Action, which we experiment in our
+selves, when we move our selves, or will move another Body: Whereas we conceive
+a Body to be at Rest from the time that no Body touches it, or that there is no
+other Cause which actually imprints in it this Quality or this Action necessary
+to Motion. And so it seems, that although a Body, being once at Rest, remains
+therein forever, yet it should not follow, that if it be once in Motion, it
+should ever persist therein; since that for to be moved there is required a
+positive Action, but that Rest is nothing else but a Negation or a Ceasing from
+Action or Motion.
+
+V. That there is as much positive Action in Rest, as in Motion.
+BUt if the Weight of our Bodies, which we must bear; the rigidness of our
+Limbs, which we must bend; the agitation of the Spirits, which we must employ;
+and many other things make us feel some resistance, and oblige us to use some
+force to overcome these impediments: We cannot draw from thence any Sequel
+against our Hypothesis, in which we suppose, there is no impediment neither of
+Gravity, nor of particular Inclination, nor of any Body resisting from without.
+In this Case it is manifest, that there needs no more Action for Motion than for
+Rest; and that for the Rest of a Body it is not less requisite, it should be
+put at Rest, than it is necessary for its Motion, that it should be put into
+it. And indeed if we consider well the nature of Rest and Motion, we shall
+find, that Motion may as well be called a Cessation of Rest, as Rest a
+Cessation of Motion; or rather we shall find, that both are something positive,
+in regard that Motion is a state, by which a Body corresponds successively ^o
+many places; or, a passing Presence; or, a sequel of diverse Presences in diverse
+places: As Rest is a state, by which a Body always corresponds to one and the
+same place; or, one and the same Presence in one and the same place: So that
+Rest as well as Motion is a State, or a Presence; but differing in this, that
+Rest is a State of Consistency, and a Constant Presence, always kept to be the
+same; whereas Motion is a Changing State, and a Transitory Presence. Now in
+what manner soever, these constant or passing Presences be considered, if there
+be any Action, or any Power, or any kind of Cause in the Body, which is to
+produce this Consecution of diverse Presences in Motion, there is no less Action
+or Force necessary in Rest, to preserve the same Presence, in regard that to
+preserve a thing, is to produce it continually. It is therefore evident, that
+after the Presence has been produced by a Body in the first instant (I speak
+in the sense of those, who hold, that there is a true production of these
+Presences) it must needs be also produced a new in the instant following by the
+same Body, to make it remain Quiescent: But, methinks, there is in that as much
+Action and as much Power, as there is for the producing in the second instant a
+new Presence, instead of reproducing the first.
+
+Nec minor est virtus, quam quaerere, parta tueri.
+So that, whether there be to be produced every instant a new Presence for
+Motion, or reproduced the same Presence for Rest; it will always amount to the
+same, and a Body will have no less work to preserve to it self this same
+Presence, and to remain Quiescent, than to produce new Presences, and conserve
+it self in Motion. Whence it is to be concluded, that as a Body from the very
+time, it has been once determined to Rest, is sufficiently determined always
+to keep it self in the same Presence; so also from the very moment, it has
+been once determined to Motion, it is sufficiently determined always to produce
+new Presences, and so to move it self without ceasing.
+
+VI. Objections.
+I Shall not stay to answer all the cavilling Scruples that may be cast in upon
+this Subject, seeing they are easy enough to resolve: For instance, it is said,
+That a Finite Cause cannot produce an Infinite Effect, and that this Motion
+would be Infinite, since it would last forever. It Is further alleged, That
+whoever moves a Body, impresseth therein a certain Quality, called
+Impetuosity, and that as long as this Quality lasts, the Motion lasts also; but
+when that cease, the Motion cease likewise. And it is added, That this
+Quality cannot last always, being in its nature so imperfect, that it cannot
+last long. Besides, it is Objected, That Experience shows, that all Motions do
+cease little by little, as appears in a Wheel that has been violently
+agitated, in a Ball that has been rolled on a Billiard-Table, in a Ball
+suspended and vibrated, and in other innumerable Bodies; the Motions of which,
+do by little and little diminish, and at last are quite extinguished.
+
+VII. A Finite Cause may have an Effect that lasts always.
+I Say, it is very easy to Answer all these Objections, and many such others.
+If any one will maintain, that Motion is an Infinite Effect, because it lasts
+forever; he must also say, that Rest will be an Infinite Effect, if it thus
+last eternally; and, that consequently, a Finite Cause not being able to have
+an Infinite Effect, it must be said, that after a Man has put a Body at Rest,
+this Body cannot remain in that Rest forever, but that Rest must at last cease,
+and the Body begin to move: which is not consonant to reason. There is a great
+difference between an Infinite and an Ever-during Effect. And if it be true,
+that a Finite Cause cannot produce an Infinite Effect; it is as true, that a
+Cause, how bounded soever it be, may produce an Ever-subsisting Effect, if it
+be not destroyed by some new Cause. For if I make a square Figure upon Wax,
+this Figure will last always, if nothing survene to spoil it, or to destroy the
+Wax it self. So that it is not incongruous at all, to say, that if Rest or
+Motion be once produced in a Body, this Rest or Motion shall last without end,
+if nothing come to destroy it.
+
+VIII. This Quality, which is called Impetuosity, lasts always.
+AS to that Quality, which is pretended to be produced in the Body by him that
+strikes it; it is all one to me, whether it be believed to be so or not: But
+this I say, that if that Quality be necessary, it will last forever, after it
+has been once produced, and that it will never cease to be, till some new
+Cause destroy it. And herein the Sentiment of Vasquez 1. 2. d. 81. c. 2 and 3.
+is very remarkable, when he teaches generally of all Forms, substantial and
+accidental, and particularly of Motion and Impetuosity, That, if they can
+subsist one moment without needing the influence of their first Efficient
+Cause, they will last always, until they be destroyed by the production of a
+new contrary Form. If Men will still persist in this Opinion, and say, That
+this Quality is so weak in its own nature, that it destroys it self; I do
+maintain, that, after this Quality shall have been destroyed, the Motion
+notwithstanding must continue for the reasons already delivered, in regard that
+Motion cannot cease, unless Rest be produced a new: But there must always be a
+positive Cause to produce a new, what Effect soever it be; whereas there needs
+none such to make that subsist, which is already in being. And this is the true
+reason, why a square Figure, made in Wax, would last eternally, if God should
+keep all external Agents from destroying any thing in that Wax, because this
+square Body of Wax could not lose this Figure, unless another Figure were
+produced: And as a Figure cannot begin to be a new, unless there be some
+positive Cause to produce it, and we also suppose, that there is none such in
+this Case; it must needs follow, that this first Figure, which is already
+produced, keeps forever the possession of its existence, It Is the same thing
+with Motion: And although this pretended Impetuosity cease to be, yet the
+Motion, which is already produced, is not therefore to cease also, because
+there is no new Cause, producing Rest, and Motion cannot cease, but Rest must
+be produced instead thereof.
+
+IX. The Bodies which we move, do cease to move, because they are impeded.
+LAstly, when we see, that Bodies moved by us do in a little time cease to
+move, that proves nothing against us; it being certain, that those Bodies meet
+with impediments to their Motion: Whence we see, that the more or the less we
+remove of those impediments, the more or less do those Motions continue. Thus a
+Ball rolleth much longer over a very smooth Alley, than in a rugged way: A
+Wheel turns much better, if its Axle-tree be slender and well turned, than when
+it is big and irregular. A Stone is cast much farther in the Air, than in Water.
+But I shall endeavor in the Sequel of this Discourse to explain, how all these
+Impediments do by little and little make the Motion of Bodies to cease.
+
+X. A Demand for the safety of the following Demonstrations.
+ALl I have been just now deducing about the Nature and Perpetuity of Motion,
+is in a manner necessary for the understanding what I pretend to demonstrate in
+this Discourse. But as this Question can never be handled so clearly, but that
+it will always be obnoxious to the Cavils of Disputants; I foresee well enough,
+that after all my reasonings it will doubtless so fall out, that all will not
+be convinced of what I shall have undertaken to prove. And besides, not being
+willing to clash with any, nor to leave ground to believe, that I build my
+Discourse upon a doubtful Principle; I declare, that for the firmness of my
+Demonstrations I need not it should be thought, that Motion would in effect be
+perpetual; so it be but allowed me (which no Man can deny) that Motion, once
+begun, lasts at least for some time, and continues the more uniformly, the less
+impediments there are to stop or diminish it. Let this Continuance of Motion be
+explained by the production of an impressed Quality, or by a simple
+Determination, or by whatever you please, it is indifferent to me: I only
+demand, it may be allowed me to take this as a Postulatum of Geometry, That,
+after a Body is once moved, it continues to move for some time, and that this
+time is considerable, when there is nothing without, able to stop or lessen the
+Motion. By the means of which Demand, I hope, that all the following
+Demonstrations will be found of full force.
+
+XI. A Body receiving successively many Determinations, remains only affected
+with the last.
+A Body not only persevereth in Rest or Motion, according as it has once begun
+to be in either; but it persists also in the same kind of Motion, and with the
+same degree of Celerity in which it has been put.
+
+For Example:
+If it have begun to move in a straight Line Eastward with one degree of
+Celerity, it continues to move with the same degree without ever receding a jot
+from the same Line: Which is evident from the same reasons, I alleged to
+prove, the Motion to last always.
+
+But it is to be Noted, that, when a Body has successively received many
+different Determinations, it remains affected with the last of them, the
+precedent making no impression at all upon it.
+
+For Example:
+If a Ball be propelled with the hand, or otherwise from a to b, and that
+afterward the same Ball be carried from b to d, and there abandoned; I say,
+that Fig. 1.
+the Ball will continue to move toward e, in the same Line b d e, and with
+that celerity it moved from b to d; and that first determination, it had
+received from a to b, and which would have carried it to c, serves nothing
+now, no more than if it had never been, because it is destroyed by this second
+determination.
+
+XII. A free Body cannot be determined to move in a Curve Line, nor with
+unequal celerity.
+THence it follows, that a Body cannot be determined to move in a Curve Line,
+or with unequal velocity; but that every Body that is free, continues to move in
+a straight Line, and with an uniform velocity.
+
+For Example:
+Let a Body be moved in a Curve Line from a through b c d e unto f (as a Stone
+in a Sling) and let this Body be abandoned in f, to see what will become Fig. 2.
+of it. I say, that it will not continue to move in a Curve Line toward h, but
+that it will pass toward g in a straight Line, which will touch the Curve in
+the point f. For, however the Body were first moved from a to b, that is
+nothing to this last determination; and it would now move the same way, though
+it had only begun to move from the point b, or from c, or from d or e, or yet
+nearer; provided it had still in f the same degree of celerity: Because that
+these first Motions are so many different determinations, the latter of which
+destroy the former; and so the Body remains affected with the last of all: But
+this last did carry it toward g, that is to say, you are to take the
+inclination, which the Curve Line has at the point f, and this inclination is
+measured by the Tangent, as Geometers know: And so it is according to this
+Tangent that the Body has been determined last of all; and consequently it is
+according to this Line that it continues to move.
+
+XIII. Every Body that moves about a Center, endeavors to recede from it.
+THence it appears, that the Axiom is very true, which says, That every Body
+moving round indevours to recede from the Center of its Motion: As a Stone in a
+Sling, which makes the hand sensible of its endeavor to move in a straight
+Line, and consequently to go from the hand, which is the Center of its Motion.
+So also do the drops of water, or the grains of sand, which fly out into a
+straight Line as soon as they can get free from the Wheel of the Cutler; and
+the like.
+
+XIV. The Stars cannot move of themselves.
+IT appears also, that those are deceived, who supposing the Celestial Matter
+liquid and immovable, do believe, that the Sun and the other Stars may have
+received a first impetuosity, which lasts still, and makes them move
+circularly about the Center of the World. For it is manifest, that if an Angel,
+or some other Cause whatsoever, had thus moved a Star in a Circle about the
+Center of the World; as soon as that Angel, or that other Cause, should abandon
+that Star, it would cease at the same instant to move in a Circle, and fly out
+into a straight Line toward the extremities of the World.
+
+XV. How a Body may be move'd circularly.
+BUt if a Body fastened, as might be a Ball suspended by a Thread, or a Wheel
+fixed upon its Axis, or, if it be liquid and enclosed in a Vessel, as Water in
+a Basin; then this Ball, or this Wheel, being once agitated with sufficient
+violence, or this Liquor being also stirred; all these Bodies will continue to
+move in a Circle; the Ball about the Nail, by which it is suspended; the Wheel
+about its Axis, where it is fastened; and the Liquor about the Center of the
+Vessel, in which it is enclosed. So also if two Bodies being tied together, are
+equally agitated toward different places, it must needs happen, that these two
+opposite Bodies do move circularly about the point which is in the midst of
+them: And thus it is, that a Fusee, or a Whirligig, continue to move in a
+Circle; because the opposite parts being fastened and united among themselves,
+and besides moved by ones fingers two different ways, one, one way, and the
+other, another way; this Fusee must needs move about it self. And then, if
+these opposite parts are moved unequally, so that the one be carried a little
+faster one way; then this Body, besides its circular Motion about it self, will
+have another Motion, which will carry it altogether in some different Lines,
+according to the diversity and combination of these Determinations. And thus it
+is, that a Whirligig describes by its Axis upon a Table diverse figures
+enterlaced, whilst it moves with an incredible swiftness about its own Center.
+
+XVI. One Body moving against another Body gives it its whole Motion.
+NOw let us take a Body moving in a straight Line, and encountering another,
+and see, what will become of these two Bodies.
+
+First, In regard that Bodies are impenetrable, it is impossible the Body A
+should move, but that the Body B Fig. 3.
+hitting against it will move also; because that otherwise these two Bodies
+would penetrate one another: And as I elsewhere suppose, that the Body B is
+there altogether indifferent, either to remain quiescent, or to take that
+Motion that may be given it; as soon as the Body A shall come to hit against it,
+it will determine it also to a like Motion: And so, there being no impediment,
+this Body B will take full as much Motion as the Body A had, and pass toward
+the same place, in the same Line, with the same celerity; and all this for the
+same reason, to wit, because the Bodies being impenetrable, and the Body a
+tending to move toward b, and then the Body B meeting there with an absolute
+indifferency, and free from all impediment; it is evident, that the Body B must
+move toward b with the same celerity, that the Body a did move toward the
+same place. And thus it seems, that there is no more difficulty to understand,
+that naturally a Body can move another Body, than there is to conceive, that
+two Bodies are impenetrable, and that one Body in its Motion may meet another.
+
+XVII. In the meeting of two Bodies there is made a percussion, which is
+mutual, and equally received in both.
+NExt, It is to be considered, that in this encounter of two Bodies there is
+made a certain percussion, which is nothing else but a shock or hitting of two
+Bodies, which meeting do hinder one another by their impenetrability. But
+although very often there be but one Body moving and striking, whilst the other
+remains moveless and receives the stroke; yet notwithstanding, the percussion
+is always mutual and equally received by both Bodies: So that as much as the
+Body a strikes the Body B, so much is it struck it self. Which we may easily
+conceive, if we Fig. 3.
+suppose, that these two Bodies are altogether like in bulk, shape, and
+hardness, and if besides we imagine them to have feeling, and capable to resent
+pain when they are struck: For then it is manifest, that the Body a coming to
+hit against B, will it self feel as much pain as the Body B; as we see, that a
+hand striking another hand, does as much hurt to it self as it does to the
+other, if that be as tender. The same is also to be understood, if you suppose,
+that there are two Nails, altogether equal, half fixed, the one to the Body a,
+and the other to the Body B, and that in the Motion of the Body a against B the
+two heads of the Nails do meet; for then we conceive, that in this percussion
+these two Nails are struck deeper in; and that there is no reason to make us
+believe, the Nail B should be sunk deeper than a: On the contrary, since both
+the Nails are equal, and equally sharp, and the Bodies equally hard, without
+any other difference; the two Nails must needs equally be struck in, and the
+one as much fixed as the other. Thus we may make it a general Maxim; That when
+two Bodies are struck, the percussion is mutual and equal on both sides.
+
+XVIII. A moving Body, meeting with another Body that is quiescent, gives it
+all its Motion, and remains it self moveless.
+LEt us resume our Example. The Body A is moved with one degree of velocity
+toward a; and there it meets in a straight Line the Body B, and by the
+percussion communicates to it its Motion, which will carry the Body B with one
+degree of velocity toward b, according to what has been demonstrated in 16.
+Since therefore the percussion, which the Body B receives, is of one degree,
+that is, Fig. 3.
+capable to carry the Body B with one degree of celerity toward b; it must
+needs be, that the percussion, which the Body a receives at the same time, be
+also of one degree, that is, be able to carry the Body a with one degree of
+celerity toward the opposite parts, namely, toward A. (For these percussions
+strike and drive the two Bodies toward the opposite places, the one, toward b,
+the other, toward A.) And as the Body a had already one degree of impetuosity
+or swiftness to go toward b; and that now it receives such another to return
+toward A; this Body must needs remain moveless at the Point a, without going
+forwards or backwards, forasmuch as it is equally driven toward the opposite
+places. Thus in this percussion the Body a gives its motion and celerity to the
+Body B, and mean while remains it self moveless.
+
+XIX. What is meant by absolute and respective velocity.
+NOw let us suppose, that the two Bodies move toward one another in the same
+Line; the one, from b with one degree of celerity toward B; the other, from A
+with the same degree of celerity toward a, where they meet; and let us see,
+what will follow. The percussion will here not only be of one degree, but of
+two; and to understand this, we are to distinguish between the absol^te and
+resp^ctive velocity of a Body. I call that absolute velocity, which is
+considered in a Body compared with the Space wherein it moves; and res^^ctive,
+that which is considered in two Bodies compared together, by which velocity
+these two Bodies mutually approach to, or recede from, one another. As in our
+Example: If we consider the Body b, comparing it to Fig. 3.
+the Space, for Example, of one Foot, which it moves in one Minute; that shall
+be called one degree of absolute celerity; but if we compare it with the Body
+A, which is moved on its part toward a with the same degree of absolute
+celerity, passing also one foot through, in one minute; then the respective
+celerity of both will be of two degrees; because they mutually approach one
+another with this celerity, and make in one minute two feet, by which they were
+before distant from one another.
+
+XX. The Percussions are as the respective Velocities.
+NOw the force of the Percussion is to be measured, not by the absolute, but
+the respective Velocity; because the percussion proceeds only, as we have said,
+from the impenetrability of two Bodies, which mutually approaching one another
+do hinder their first Motion, and receive also new impressions. Whence it
+appears also, that the percussion will be so much the greater, by how much
+swifter that mutual approach shall be made. So that the Percussions are always
+as the respective Velocities, caeteris omnibus paribus. Thus two Bodies
+approaching, each with one degree of absolute celerity, and making each a foot
+on its part in one minute; it is manifest, that the percussion, which each Body
+will receive in a B, will be the same, that it would be, if one had remained
+moveless Fig. 3.
+in A, until the other were come forth from b to A with two degrees of absolute
+celerity, making in one minute both the two feet, that are from b unto A:
+Forasmuch as the respective celerities are still the same, whether we suppose,
+that whilst the one remains moveless in A, the other is moved with two degrees
+of absolute celerity, and makes both the feet in one minute; or, that both
+Bodies move, by approaching to one another, each with one only degree of
+velocity; so that in one minute they shall have made by their approach both the
+feet, that were betwixt them at the beginning of the minute.
+
+XXI. Two Bodies meeting one another, turn back, making an exchange of their
+velocity.
+IT being therefore certain, that the percussion, which is made in this
+encounter, is of two degrees; and that each of these Bodies receives in this
+shock an impression, that would carry them with two degrees of velocity toward
+the opposite places; that is to say, that the Body a receives a stroke, which
+would carry it toward A with two degrees of velocity; and that the Fig. 3.
+Body B receives likewise one, which would carry it with the same two degrees
+of velocity toward b: It must of necessity be, that the Body a turn only back
+with one degree of celerity toward A, because it is carried by two impressions
+unequal and altogether contrary; by one, of two degrees, toward A, which it
+receives in the percussion; by the other, of one degree, toward b, which it
+had before; and so there remains to it only one free degree of impression and
+celerity, which carries it toward A. And likewise B will be carried toward b
+with one degree also of celerity; so that both turn back in the same Line with
+the same swi^tness they came. If we suppose, that the one advances with more
+celerity than the other; for Example, that A moves with one degree and an half
+of celerity, running one foot and an half in one minute, and that b moves with
+half a degree of celerity, running half a foot only; then, the percussion being
+of two degrees as well as in the precedent case, since the respective celerity
+is the same, although the absolute ones are different, each Body must receive
+two degrees of impression and celerity to turn back; and by consequence, the
+Body B, which had half a degree only of celerity, will return toward A with
+one degree and an half; whereas a, which formerly had one degree and an half,
+will return toward b with half a degree only. And after this manner it may be
+proved, That two Bodies, moving toward one another in a straight Line, turn
+both backward, after their encounter, by making an exchange of their velocities.
+
+XXII. Two Bodies moving toward the same places, continue after their
+encounter by exchanging their velocities.
+IF the two Bodies move toward the same places in a straight Line, so that the
+slowest, moving first, be at last overtaken by that which moves faster after
+it; then both will continue to move in the same Line toward the same place,
+but they will exchange their velocities. Let the Body A be moved with two
+degrees of velocity toward b, making in one minute two feet as far as to a. At
+the same time let the Body Fig. 4.
+B be moved in the same Line with one degree of celerity, making only one foot
+as far as to b, and that there it be overtaken by the Body a. The force of the
+percussion being measured, as I have showed, by the respective celerity; this
+percussion must here be but of one degree, because the respective celerity is
+but of one degree, seeing that these two Bodies do not approach one another but
+with this degree of celerity, and that in one minute they make, the one in
+respect of the other, but one foot of space, which was betwixt both at the
+beginning. Now, since the Body b had, before, one degree of celerity, which
+carried it toward a, and that now in the percussion it receives another
+toward the same places; it must move with two degrees and make two feet as far
+as to b; whereas the Body a, which before had two degrees of velocity toward
+b, and receives now one, to turn back toward B, is constrained to go toward
+a with one degree of velocity.
+
+XXIII. An hard Body coming to hit another Body that cannot be shaken, is
+reflected with its whole Motion.
+IF the Body, which is struck, be altogether unshakeable, we must see, what
+force the percussion will have, and what will become of the percutient Body.
+Let us suppose, that the Body A do move with one degree of velocity toward a,
+and that there it meet the Fig. 5.
+Body b, indifferent to move, yet so as that betwixt both there be found a
+plate or a surface indifferent in it self to Rest or Motion, but yet
+impenetrable. In this case, the Body a, striking this plate, strikes also
+thereby the Body b, which is met with close behind it: And as I elsewhere
+suppose, that this plate makes no resistance at all, but only in being
+impenetrable; it is manifest (by what has been proved in 18.) that in this
+encounter the Body a remains moveless in a, and that as well the plate, as the
+Body b, does move toward B with one degree of velocity. But if we suppose,
+that when A comes to strike the plate in a, at the same time B also strikes it
+in b; this plate will remain moveless, in regard it is struck equally from both
+the opposite sides, and each Body will turn back with its degree of celerity,
+wherewith it came. For, as I have said, these two Bodies strike one another,
+notwithstanding this plate, as if there were nothing betwixt them: But if there
+were nothing betwixt them, they would reflect with their same degree of
+velocity, as has been proved 21. And so, although this plate be there, they
+will not the less be reflected. Now let us consider, that this same plate,
+being impenetrable, be moreover quite firm, so as to be unshakeable and
+inflexible; and let us move as before the two Bodies A and B so as they may
+strike it at the same time in a and b: I say, that after this shock each Body
+must reflect with the same degree of velocity; because if the plate had been
+indifferent, and not firm, they would have reflected, and this plate been
+moveless: But the same effect must follow, though we suppose, that this plate
+be of it self moveless, firm, and unshakeable, in regard that either way it
+remains without any kind of Action or Motion. If lastly we suppose, that the
+sole Body A moves toward a, and hits the plate fastened and beyond shaking,
+it must then also be said, that the Body a turns back toward A; because it
+would return, if at the same time the Body B had come to hit in b; therefore it
+reflecteth also, when the Body B does not come, because the plate being
+unshakeable, causes still the same effect in respect of the Body a, whether b
+strike it or not. And thus you see, how it is demonstrated, That an hard Body
+coming to hit another Body that is hard, inflexible, and unshakeable, is
+reflected with all its Motion. Which I think no Man has yet demonstrated.
+
+XXIV. The Angle of Reflection is equal to the Angle of Incidence.
+HItherto we have always supposed, that the percussions are made altogether
+direct: Let us now see, what will happen, when the Bodies strike one another
+obliquely. And to make this to be more clearly understood, I shall still employ
+Balls or flat Bodies; and it will afterward be very easy to understand what
+shall happen in Bodies that have Figures less regular. Let the Ball A be moved
+toward a, striking Fig. 6.
+obliquely the unshakeable Body B. Through the Point of contact let a straight
+Line be drawn e d, then a parallel A c a, the perpendiculars A e, a c, next c a
+or B d equal to c A, or to B c. I say, that the Ball will turn back by the Line
+a a, so as the Angle of Reflection a a d is always equal to the Angle of
+Incidence A a e. For proof, let us consider, that the Ball A receives at once
+two strokes or impressions; one, driving it toward e with Fig. 7.
+one degree of velocity, and the other toward c with two degrees; it must then
+move in the diagonal A a, and there hit the Body B. But the force of percussion
+will be but of one degree, because the percussion is only made, as I have often
+said, by the impenetrability of the two Bodies hindering their Motion. But the
+Motion which carries the Ball toward c a, is not at all hindered by the Body
+B. There is but the Motion, which carried the Body A toward e B, that is
+hindered by the Body B, and consequently all the force of this percussion is
+measured by this respective velocity, which makes the Body A approach toward
+the Line e B. In this case also, the percussion is the same, as if the Body A
+had only moved from c to a with this sole degree of celerity; and so in the
+percussion it must turn back with the same degree of swiftness, and be carried
+toward c a, as before it was carried toward e B, whilst the other Motion
+remains all entire toward a d. Whence it follows, that the Ball reflecteth in
+the Line a a.
+
+XXV. It may be imagined, that tbe oblique Motion is composed of two Motions.
+BEcause this is important, it will be worth while to explain it yet after
+another manner. Let us imagine the Body B moveless; and another Body A a, moving
+parallel betwixt the Lines A c, a d, and hitting the moveless Body: Fig. 8.
+Then (according to what has been already proved in 23.) this Body will be
+reflected wholly toward A a with its same velocity. Besides, let us imagine,
+that this Body is hollow Channel-wise, and that in this Channel there is a Ball
+rolling from A toward a, in such a manner that in the same time, wherein the
+whole Body moves from A a unto the moveless Body B, the Ball makes in its
+Channel the way A c. Thus, whilst the whole Body shall turn back after the
+percussion, the Ball shall continue to move in its Channel from c toward a
+with its same velocity. But the true way, which this Ball shall have made, will
+be A a a, so as the Angle of Reflection will be equal to the Angle of
+Incidence; in regard that as well the Lines A c, c a, as A e, d a, are equal.
+But it is manifest, that the same percussion, and consequently the same
+reflection would be made, if the Ball had hit immediately coming from A to a,
+than if it were the Channel A a that had hit, whilst the Ball had rolled in the
+Channel without any interruption. Whence we may conclude, that in all oblique
+Motion when one Body hits another obliquely, we may distinguish as 'twere two
+Motions; one, which we shall call perpendicular, which carries it to hit the
+Body, and which receives a change in the percussion; the other, lateral, by
+which the Body only slideth against the other without hitting it, and which by
+consequence remains entire after the percussion. Here the perpendicular Motion
+is that, which carries the Ball toward e d, whose velocity is measured by the
+perpendicular A e; and the lateral Motion is measured by the parallel A c,
+which continues after the percussion toward c a.
+
+XXVI. A Remark upon the Argument of P. Riccioli.
+I Cannot hold to make here two remarks on the occasion of the oblique
+percussion. One is, touching the Argument, which one of the greatest Men of our
+Age makes to decide the Question about the Motion of the Earth. He pretends,
+that if heavy Bodies did descend by a Curve Line, such as Galileo describes,
+the percussions of heavy Bodies would not be made, as we see they are. For,
+according as a Body falls from a greater height, it strikes the more forcibly,
+so as the percussion will be ten or twenty times stronger of a fall of a
+hundred or four hundred times the height: Mean time in the Hypothesis, which
+this Author, of whom I speak, opposes, the force of the percussion should be,
+thinks he, always the same, at least there would be no sensible difference,
+what difference soever there should be found in the heights of the descents;
+because the heavy Body would go in this Curve Line with an almost uniform
+velocity: And the force of the percussions being always proportionate to the
+velocity, he concludes, that the velocities being always equal in what hight
+soever it be, the percussions would be so too. But this Argument is not
+concluding, because, the celerity remaining always the same, the percussions
+may diminish if they be made obliquely: And if we conceive, that the Bullets a,
+b, c, hit the Wall in d, all with the same celerity, but some more obliquely
+than others, the percussion certainly of that Bullet which hits more directly
+will be the greatest; and the force of these oblique percussions is measured,
+as I have showed, by the perpendiculars c e, b f, a g. So that the Bullet c may
+hit so obliquely, that it shall only graze along the Fig. 9.
+Wall without having any considerable effect. Thus although the weights, which
+are supposed to fall in a Curve Line, should be moved in almost an uniform
+velocity, yet they would for all that hit more forcibly, falling from a greater
+height, because then the percussion would be more direct: And in effect if one
+shall go to make the calculation of it (which is very easy to do even upon
+that, which this Author has made in Astronomia Reformata) it will be found,
+that the obliquity of these Motions is always fully that, which is requisite to
+make that diversity, which we see in the percussions of falling Bodies.
+
+XXVII. A Remarque upon some Citadels.
+THe other Remarque is upon what I have seen in some of our Citadels, where
+those that have raised them have preferred the pleasingness to the Eye before
+the strength of the Walls, when instead of making them all even and plain, they
+have diversified them with many Ornaments of Stones advancing above others; and
+besides, have cut each Stone Diamond-wise, or at least have made a Brim therein
+by notching them round about; so as the joining Stones leave betwixt them an
+hollowness after the manner of rural Archirecture: I say, that however all this
+variety may please the Eye, it is disadvantageous for Defense. For, these
+sinkings and sallies of Stones give to the oblique Batteries of Guns the same
+advantage and the same force, which direct Batteries have: So that a Bullet,
+which coming side-ways would only graze along the Wall, if it were all flat and
+even, when it shall meet the sallies of those advancing stones, will have the
+same effect, and make as great a breach, as if it had hit direct
+perpendicularly; and even a greater, because it will be more easy, thus
+slopingly to carry away a stone, which giving hold-fast to a Bullet is not
+supported by the others, than it would be, if it had been struck directly
+against the thickness of the Wall. But let us return to our subject.
+
+XXVIII. A general Rule of all Percussions.
+AFter we have made this distinction of two Motions in the oblique Motion, it is
+easy to make a General Rule, explaining all the Effects of Percussions. You
+may here see the Proposition, Fig. 10, 11, 12, 13, 14, 15, 16.
+together with the Figures, which express all the possible Cases of oblique
+Percussions, and even of the direct ones, when the Bodies are not unshakeable.
+Let the Body A be moved toward a with the velocity of A a, and the Body B with
+the velocity of B b in the Line B b; or let one of the two be moveless, so as B
+b be but a point. Let the encounter be in a b. Join the Centers by the Line a
+b, continued both ways, if need be. Let there be drawn the perpendiculars A c,
+B d. We may here distinguish two Motions in each Ball; the one perpendicular,
+as if the Body A had moved from c unto a, and the Body B from d unto b: the
+other is the lateral, which carries the Body A toward c, and the Body B
+toward d, and this lateral remains entire after the percussion in both Bodies;
+whereas, the whole percussion being made by perpendicular Motions, these
+perpendicular Motions must be changed according to what has been demonstrated,
+that is, the Body b will take the perpendicular Motion and velocity c a, and
+the Body a will take the velocity and Motion d b. Let therefore be drawn the
+Line a e equal and parallel to A c, and the Line e a equal and parallel to d b;
+I say, that the Body a shall move, after the percussion, in the Line a a with
+the velocity a a. Likewise let there be drawn b f equal and parallel to B d,
+and the Line f b equal and parallel to c a; I say, that the Body b shall move,
+in the Line b b with the velocity b b; and this needs no new proof.
+
+XXIX. There is always equal quantity of respective Motion.
+IT is to be observed, that it is not true, that there is always as much
+absolute Motion after the percussion, as there was before. But it is easy to
+demonstrate, that the respective Motion is always the same; so that the Bodies
+recede one from another after the percussion, as fast as they approached before
+it. Thus taking two equal times before and after percussion, the distance A B
+is always the same to the distance a b. And after I shall have also explained
+the Motions made in pleno, I believe it would be easy to me to prove, that
+having a respect generally to all the Bodies that are in the whole World, there
+is at present as much respective Motion, neither more nor less, than there was
+in the beginning of the Creation of the Universe.
+
+XXX. The midst of two Bodies is always uniformly moved in a direct Line.
+IT is also to be observed, that the point of the middle between two Bodies is
+always moved uniformly in a direct Line, drawing without any interruption
+toward the same places. Thus taking two equal times, before and after
+percussion, and supposing that o is the point of the middle between the two
+Bodies at the time of the percussion; and O being also the middle of the two
+Bodies before the percussion, as o is after; O o o will be in a straight Line,
+and O o will be equal to o o: Which I stay not to demonstrate, though that may
+be done Geometrically.
+
+XXXI. All these Rules are true, whether the Bodies be equal, or not.
+IT will perhaps be wondered, that in all the preceding Rules I have not made
+any mention of the Equality or Inequality of the Bodies, that strike one
+another. And it seems at first, that, to verify what I have been saying, I
+must suppose the Bodies to be perfectly Equal: For, if the one be bigger than
+the other, all those Rules must vary; and experience shows, that a great Body
+striking a lesser that was before quiescent, the great Body cease not from
+continuing to move after the shock, though it moves more slowly, and quite
+contrarily, if it be the lesser Body that strikes, it reflecteth with a part
+of its velocity. But if I have here omitted to distinguish these Cases of
+Equality and Inequality of Bodies, I have done it with consideration: I have
+all along confounded the Velocity and the Motion, and I designed to give the
+Reader to understand, that all these Rules are true, whether the Bodies be
+Equal or not. And if notice be taken of the force of the reason, alleged by me
+in 16. it is always the same, although the Bodies be of different Magnitudes.
+For, the Body struck being altogether indifferent to remain at Rest or to take
+Motion, and the whole effect of the percussion proceeding from the
+impenetrability of Bodies; if we suppose the Body struck to be greater,
+provided that all the parts thereof be well united together, it must move with
+the same velocity, with which the Body striking moves, by the same reason, it
+does so when they are equal, that is, because they are impenetrable, and the
+Body percutient cannot move forwards, unless the Body percussed, which is
+before, take all its velocity: And as otherwise the Greater is as indifferent,
+as the Equal Body, for Rest and Motion, certainly the Greater will make no more
+resistance than the Equal, forasmuch as neither of them will make not the least
+of all. If Experience shows the contrary, it is because the Motion of Bodies,
+which we see, are not made in vacuo, as we have hitherto supposed, but they are
+moved in a space filled with some fluid Body, such as the Air or some other yet
+more subtle substance. Now therefore we are to consider the Motion which is
+made of solid Bodies in a fluid substance.
+
+XXXII. A Body moves in pleno as freely as in vacuo.
+IF this substance be perfectly fluid, that is, if all its parts, as well small
+as great, are flexible and liquid; if besides, this same substance be perfectly
+full, so as it cannot be condensed or rarifi'd, as a Sponge is compressed or
+dilated by reason of its pores; if lastly it be enclosed in some place, whence
+it cannot at all issue: Then an Hard Body, that shall have begun to move in the
+midst of this Liquor, will continue to do it as freely as in vacuo, and will
+go to the extremities of the Liquor, where meeting with a firm unshakeable
+Body, it is reflected with the same velocity, and so it will move forever. The
+reason of it is, that when an hard Body moves in a liquid substance, there is
+made a reflection of impetuosity, which communicates it self in a moment to
+all the parts of the Liquor, in such a manner that the Body moving drives all
+the parts of the Liquor, that are found before it, and so it should stop, if
+nothing else did survene (by 18.) But these parts of the Liquor being thrust,
+do thrust others, and so on to the extreme, where is made a reflection, by
+which the parts that are found after the hard Body, are thrust with the same
+force to follow this same Body: Because, all the Liquor being shut in, and not
+capable to be condensed, and there being no vacuity; it is not possible, that
+all the parts which go before the Body should move, but the parts which follow
+the same Body must move also with the same force. Thus as much as the Hard Body
+is retarded by the parts preceding, so much it is driven back by those which
+follow; and by consequence, if the Motion have once begun, it must continue as
+if it were in vacuo. Whence it appears, that those who will prove the necessity
+of a vacuum from Motion, do not reason well.
+
+XXXIII. Motions diminish little by little in the Air.
+BUt if the hard Bodies are in a spongious Liquor, capable of compression, or
+if this Liquor be not so well bounded in, but that the extrimeties will yield a
+little; then the Motion will not be perpetual, but diminish by degrees, and be
+at last quite extinct. For the hard Body will find more resistance by the
+anteriour parts of the Liquor, than it will receive of impulse by the
+posteriour; because the Liquor, which is before, being compressed, or the
+extremities yielding, the communication of the impression cannot be made
+perfectly; and so the posteriour parts of the Liquor will not be so much thrust
+as the anteriour, and consequently will not so much thrust the hard Body, as
+the anteriour ones retard it. And it is for this reason that all the Motions
+cease in the Air and Water, or in other Liquors, because it is certain, that the
+Air is spongious and easily compressed: And that the Liquors are not bounded
+but by the Air when they are abroad, or at least by the sides of some Vessel
+that can yield and bend a little. For we know by certain experience, that Glass
+Vessels will stretch, and even those of Iron and Brass will bend to the strokes
+made upon them.
+
+XXXIV. The Percussions of equal Bodies are made in pleno as in vacuo.
+THe percussions, that are made of Bodies thus moving in Liquors, differ in
+something from those that are made in vacuo. To understand the Cause thereof,
+we are to note, that, when an hard Body is moved in a Liquor, it also
+communicates its Motion to the same Liquor, in such a manner that it moves
+also in following the hard Body, so as to divide it self and to open before,
+and to follow and close it self after the Body. And if the Body by any accident
+should come to lose its Motion; yet the Liquor being thus determined to move,
+would give again to that Body its Motion, and carry it away with it self, in
+some such manner as Rivers carry away with them the floating Wood. If therefore
+a Body comes to hit another equal to it, the phoenomena will happen as in
+vacuo; because these two equal Bodies, being encompassed with the same quantity
+of Liquor, as much as the Liquor of the Body percussed hinders this same Body
+percussed from moving freely, so much an equal quantity of Liquor, which is
+about the Body percutient, drives also anew the percutient as well as the
+percussed: Thus their Motion after the percussion will be made as in vacuo,
+forasmuch as the resistance of the Liquor from the Body percussed, is precisely
+recompensed by the impulsion of the Liquor from the Body percutient.
+
+XXXV. When the Bodies are unequal, the percussions are made in pleno otherwise
+than in vacuo.
+BUt if the Body percutient be greater, it must needs receive not so great an
+effect from the percussion, as the other, because it is carried away with more
+violence by the Liquor which environs it: For we see, that a Beam carried away
+by the Stream of a River has much more effect, when it comes to hit against a
+Bridge or a Mill, than a stick would have being carried down by the same River;
+although the Beam should not move swifter than the Stick: And that, because the
+Beam coming to hit, is also carried by the great quantity of water surrounding
+it, whereas the Stick is but little so, by reason of the small space it takes
+up, and of the little water, by which it is carried away. Thus therefore if the
+little Body be at Rest, and the greater come to hit it; this greater by
+communicating its motion to the smaller will not so be stopped as to become
+moveless, as it would do in vacuo; but it will continue to move, and to follow,
+though more slowly. On the contrary if the great one be quiescent, the smaller,
+after it shall have hit the other, and communicated to it a part of its Motion,
+will be reflected losing a part of its velocity. And from all this it appears,
+that Aristotle is not so much to be blamed as some pretend, when, to explicate
+the causes of the continuation of the Motions we see, he has made use of the
+medium, that is, of the liquid substance wherein our Bodies are moved.
+
+XXXVI. The Percussions of unequal Bodies cannot be reduced to one General Rule.
+TO determine the excess, which there may be in the resistances or in the
+greatest impressions of these unequal Bodies, I esteem a thing not to be
+undertaken, at least if we consider the Bodies such as we have them among us;
+because that depends from the resistance made by the liquid Bodies, wherein the
+Hard Bodies, we see, are moved; from the facility, they have to be condensed or
+rarefied; and from many other things, that cannot be known to us, no more than
+an infinity of other impediments, the combinations whereof may infinitely
+diversifie all the effects of the percussions. Only I may say, that making a
+certain Hypothesis, which appears natural enough, it may be showed by the
+precedent Rules, that the percussions of Bodies unequal, shall be, after the
+manner delivered by Monsieur Hugens in the late Published March 18. 1669. in
+French; and inserted also in the Philosophical Transactions, Numb. 46. page
+927. Which Rules of Motion are conform to those of Dr. Christ. Wren, Printed in
+the Transactions, Numb. 43. page 867.
+Journal Des Scavans. But I shall not stay longer upon that; I may possibly
+meet with another opportunity to discourse more amply of it.
+
+XXXVII. Of Refraction.
+THere appears also from what I have been explaining, the reason of the
+Refractions, that are made when an hard Body passes out of one Liquor into
+another of different consistence. For if the Hard Body passes out of a more
+free Liquor into one that is less so, it will lose somewhat of its velocity in
+the passage, finding more resistance in the Liquor which is before, than it
+feels it self thrust by that which follows; and so the Refraction will be made
+by receding from the Perpendicular. On the contrary, if the Body passes out of
+a more impeding Liquor into another more free, the Refraction will be made by
+approaching to the Perpendicular, and the Body will increase its velocity in
+the passage, because it is thrust more by the Liquor which follows, than it is
+detained by that which is found before. And it is of this augmentation of
+velocity, which I think no body has as yet given the reason of. I shall not
+note the measures of these Refractions, because that has been done by others,
+and their Demonstrations may be very well accommodated to the things, here by
+me advanced. Nor do I speak in this place of the Refraction of Light, because I
+believe, that that is made quite otherwise, that is, by causes and means
+altogether different; as I could make out, if I should write other Discourses
+of Motion.
+
+XXXVIII. The Conclusion.
+THere would remain something to be said of the Motion of Heavy Bodies, as well
+of those that fall or are projected in the Air, as of those, which roll on
+inclined Plains, or which being suspended by a thread do vibrate to and fro.
+Somewhat also should be spoken of the Motion of Liquors, as well of their fall
+as their prosiliency, as also of their Undulations, and the like: But all those
+particulars deserve so many particular Discourses. And as I think, I have found
+something new concerning these things, I shall not scruple to publish my
+thoughts for examination, if I find, that this first Discourse has not been
+judged altogether unworthy to be read by persons, who take a delight in such
+matters.
+
+AN ADVERTISEMENT TO THE READER.
+THe Author of this Tract about Local Motion, having been informed by a Friend,
+that some persons who had read these papers, as they were coming from the
+Press, gave out, that he followed altogether the Doctrine of Monsieur Des
+Carts, and that, al^^ough in some places he seemed (...) oppose him without
+naming him, yet he did establish all the Sentiments of that Philosopher
+concerning this Subject: He has thought himself obliged to undeceive those,
+who should believe those persons upon their word, by the following Notes, which
+he thought fit to annex at the end of this Tract, before it should appear in
+public.
+
+NOTES UPON THE DISCOURSE OF LOCAL MOTION.
+WHen the Author of this Discourse insisted to prove, that Motion is never
+destroyed but by a contrary determination, survening a new; he did sufficiently
+declare himself concerning the little addiction he had to this Sentiment. But
+as those, who have treated of this matter in Italy, England, Holland and
+France, agree almost all in that particular; he did not think, he was to recede
+from so common a Doctrine. Galilaeo, Gassendi, Hobbes, Regius, Magnan, Digby,
+Kircher, Fabri, and many others, do all maintain in some manner this Perpetuity
+of Motion; and they only differ in the way of proving it. Of all the proofs,
+alleged hitherto on its behalf, the weakest doubtless is that of Monsieur
+Descartes. This Author pretends, that if Motion or Rest, once begun, should
+cease, God would be subject to change: Which is a ratiocination that makes
+those smile, who have any tincture of Theology; there being none that knows
+not, that all these changes in the Creatures are made without any change in
+God. Apud Deum non est transmutatio, says St Augustine; and ideo apud eum
+Cursus temporis, diei noctisque alternatione nequaquam variatur. And it is
+manifest, that the Cessation of Motion is no more repugnant to the Immutability
+of God, than the Creation of the World, or the actions of our Wills, or the
+vicissitude of Days and Nights. If this reason of Monsieur Descartes were not
+so easy to answer, it would be a dangerous one; because it would prove, that
+God should have made from Eternity all the Motion, which is now found in the
+World.
+
+As many in the choice of Opinions have a regard to the Sentiment of the
+Ancients, and of the Scholastic Doctors, it may be added here, that besides
+what Vasquez has said; who insists to prove at large this Perpetuity of
+Motion, affirming, that Motion, once begun, never cease, unless there survene
+some new Cause, producing some positive form contrary to this Motion: Besides
+that, I say, three of those great Disputations of Lions, held at several times,
+affirm the same thing. Moreover, Aristotle is of the same mind. See, what he
+says in his third Book of Meteors, Chap. 2. If a Body, that were without
+gravity or levity, be moved, it must needs be moved by some adventitious force,
+and being once so moved, it will move in infinitum: (...). And in the fourth
+Book of his Physics, Text. 69. speaking of a Body, that had moved in vacuo,
+where it is supposed that there is no kind of impediment, he has these words:
+No Man can say, why a Body, that were thus moved in vacuo, should stop any
+where. For, why should it rather stop here than there? And therefore it will
+not stir at all* or, if it begin to stir, it must move in infinitum, if
+something st^onger does not stop it. (...).
+
+Monsieur Descartes makes very ill use of the Principle that has been
+explained in 13. That a Body which is moved about a Center, endeavors to recede
+from it. It can be made out, that he has mistaken in attempting thereby to
+explicate the Gravity of Bodies. Neither do we mean to allow to this Principle
+all that Latitude, which Monsieur Descartes has given it. And we approve much
+of that restriction, that has been put by an Intelligent person, viz. That
+that is true in Artificial Motions, and that it cannot be so in the Natural.
+
+What has been proved in 16. and the following, shows, that Monsieur
+Descartes has been deceived in Six Rules of the These Rules may be found in
+the second part of Descartes 's Principles of Philosophy. Sect. 46, 47, 48,
+49, 50, 51, 52, in my Edition, which is printed at Amsterdam, A. 1656.
+Seven, which he has delivered about Motion.
+
+In 26. It is not at all pretended, to favor the Opinion of the Motion of the
+Earth. The Author of this Discourse is fully persuaded, that, although there
+were not the Holy Scriptures, the Hypothesis, which makes the Earth moveless,
+is preferable to all others. He would only show, that that Argument of P.
+Ricciolo was not cogent. There are others that are better; especially that,
+which has been prevalent on very good occasions, taken from the ^onique motion
+of the Lodestone.
+
+The 29. is against Monsieur Descartes, who has not distinguished the Motion
+which is here called absolute from that, which is called respective. And when
+he says, that there is always an equal quantity of Motion before or after the
+percussion, he means it of this absolute Motion; or it is very apparent, that
+he has therein mistaken. For (in the figure 14.) before the percussion, the
+Motion of the two Balls A and B is A a and B b, and all the Motion after the
+percussion, reduced together in the sole Ball b, is only b b, the other Ball
+remaining moveless in a.
+
+When in 21. mention is made of a substance more subtle than the Air, the
+Reader is not to imagine, that it is the subtle Matter of M. Descartes. All
+Men acknowledge, that there are subtiler Bodies, than the Air which we inspire.
+And as Aristotle in his Constitution of the Universe has placed the Sphere of
+the Air above the Water, so has he put the Fire above the Air, and the Ether
+above the Fire; which are all different substances, which the more subtle they
+are, the higher they are raised.
+
+It is pretended in 37. that M. Descartes has not proved the Refractions of
+Bodies, and much less that of Light.
+
+FINIS.
+These Books are to be Sold by Moses Pit at the White-Hart in Little-Britain.
+Folio.
+CAssandra, the famed Romance, 1667. Brigg's Logarithms. Francisci Suarez
+Metaphysica.
+Quarto.
+Dr John Pells Introduction to Algebra, Translated out of High-Duch into
+English by Thomas Branker, M. A. Also a Table of odd Numbers less than 100000,
+showing those that are Incomposits, and resolving the rest into their Factors
+or Coefficients, 1668. Nich. Mercatoris Logarithmo-Technia, sive Methodus
+construendi Logarithmos, 1668. Jacobi Gregorii Exercitationes Geometricae,
+1668. Dr. Joh. Wallis Opera Mechanica, pars prima and secunda, 1670. Banister's
+Works of Chyrurgery. Hugh Broughton's Consent of Scripture. Snellii Typhis
+Batavus, Lugd. Bat. 1624. Observat Hussiacae.
+Petrus Paaw, de ossibus Amstelreod. 1633. A Letter from a Gentleman of the
+Lord Howard's Retinue to his Friend in London. Dated at Fez, Nov. 1669. Wherein
+he gives a full Relation of the most remarkable passages in their Voyage
+thither, and of the present State of the Countries under the power of
+Taffaletta, Emperor of Morocco; with a brief account of the Merchandising
+Commodities of Africa, as also the Manners and Customs of the People there. Lex
+^alionis, sive Vindiciae Pharmacopoeorum: Or, A short Reply to Dr. Merret's
+Book, and others, written against the Apothecaries; wherein may be discovered
+the Frauds and Abuses committed by Doctors professing and practicing Pharmacy.
+Octavo.
+Biblia Hebraea, Josephi Athias, 1661. Gualteri Needham, Disquisitio Anatomica
+de Formato Foetu, 1667. Buxtorfius's Fpitomy of his Hebrew Grammar, translated
+in English by John Davis, 1658. Crow, Scriptores in Scripturam: Now in the
+Press. The Fortunate Fool, or the Life of the Dr. Cen^udo, 1670. The Adventures
+of Mr. T S. an English Merchant, taken Prisoner by the Turks of Argiers, and
+carried into the Inland Countries of Africa; with a Description of the Kingdom
+of Argiers, and of all the Towns and Places thereabouts; as also a Relation of
+the chief Commodities of the Country, and of the Actions and Manners of the
+People: Whereunto is annexed, an Observation of the Tide, and how to turn a
+Ship out of the Straights Mouth the wind being westerly, 1670. Contemplations
+on Mortality, 1669. A Discourse written to a learned Friar by M. Des
+Fourneillis, showing, that the Systeme of M. Des Carts, and particularly his
+Opinion concerning Brutes, does contain nothing dangerous; and that all he has
+written of both, seems to have been taken out of the First Chapter of Genesis:
+To which is annexed the Systeme general of the Cartesian Philosophy. Basilius
+Valentinus of Natural and Supernatural Things; also of the first Tincture, Root
+and Spirit of Metals and Minerals, how the same are Conceived, Generated,
+Brought forth, Changed and Augmented: To which is added Alex. van Suchten of
+the Secrets of Antimony, 1670. Pharmacopoeia Land. 24o. 1668.
+geometric figures
+
+

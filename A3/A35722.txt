@@ -1,0 +1,2522 @@
+THE ARTIFICIAL Clock-maker. A Treatise of Watch, and Clock-work: Wherein the
+Art of Calculating Numbers For most sorts of MOVEMENTS Is explained to the
+capacity of the Unlearned. ALSO THE History of Clock-work, Both Ancient and
+Modern. With other useful matters never before Published. By W. D. M. A.
+
+LONDON, Printed for James Knapton, at the Crown in St. Paul's Churchyard, 1696.
+
+The Preface.
+THe following Book was at first drawn up in a rude manner, only to please my
+self, and divert the vacant hours of a Solitary Country Life. But it is now
+published, purely in hopes of its doing some good in the World, among such,
+whose Genius and Leisure lead them to Mechanical Studies, or those whose
+business and livelihood it is.
+
+Many there are, whose fault, or calamity it is, to have time lying upon their
+hands; and for want of innocent, do betake themselves to hurtful pleasures.
+This is the too common misfortune of Persons of Quality. Among some of the
+courser sort of these, if this Book shall find some acceptance, it may be a
+means to compose their loose Spirits; and by an innocent guile, initiate them
+in other Studies, of greater use to themselves, their family, and country.
+However it may hinder their commission of many sins, which are the effects of
+idleness.
+
+If there be any one person, in whom these good effects are produced, I shall
+think my idle hours well bestowed, and bless God for it. However upon the
+account of the innocence of my end in publishing this Book, and that it was
+written only as the ha^^less (I may add also the virtuous) sport of leisure
+hours; I think my self excusable to God and the World, for the expense of so
+much time, in a subject different from my Profession.
+
+But besides, I think my self under some little obligations of Justice and
+Charity, to publish the ensuing papers for the sake of those, whose business
+the Mechanic part is. I take it to be a Charity to the Trade; because there
+are many (although excellent in the working part) who are utterly unskilled in the
+artificial part of it. And then, it is a debt I pay: because I owe somewhat of
+health, as well as diversion to the Study, and practice of these sort of
+Mechanics. And the best requital I can make for my trespass, is to publish
+what I have had better opportunities perhaps of Learning, than many Workmen
+have.
+
+And further yet, there is another reaand;son, which much prevailed with me to
+publish this Book, viz. Because no body, that I know of, has prevented me, by
+treating so plainly and intelligibly of this subject, as to be understood by a
+vulgar Workman. I have often wondered at it, that so useful and delightful a
+part of Mechanical Mathematics should lie in any obscurity, in an age wherein
+such vast improvements have been made therein, and when many Books are daily
+published upon every subject. I speak here of this Art remaining in obscurity;
+not as if nothing was ever written of it, and I the in venture of Automatical
+Computation.
+
+But although I cannot assume the glory of being the first Writer upon this
+subject, yet very few have as yet done it; of which I shall next give some
+account.
+
+Cardan, Kircher, and Scottus promised it; but I do not find they ever
+published any thing to the purpose of it. Our great Mr. Oughtred I take to be
+the first that ever wrote to any purpose about the Calculation of Automata: And
+I believe he was the first that brought that Art under Rules, in his little
+treatise called Automtaa. This Book was first surreptitiously published in
+English in a little Book, called Horolog. Dialogues, in the year 1675; and
+afterward far more completely in Latin, at the Theater in Oxon, among Mr.
+Oughtred s Opusc. Mathem. in the year 1677. This last edition it was my
+misfortune not to meet with, until it was too late, and therefore I have been
+forced to quote the first, and worst in my Book.
+
+What Mr. Oughtred had wrapped up in ^his Algebraick obscure Characters, was
+afterward put into plainer Language* by that excellent Mathematician Sir Jon.
+Moor, with some additions of his own; which you have in his Math. Compend. and
+since him, by Mr. Leyborne, in his Pleasure with Profit.
+
+I hope I shall not be judged to have transgressed the Rules of Modesty, in
+coming af^r three such famous men; neither should I venture that censure, but
+for two reasons. One is, I find by experience, that what they have written, is
+understood by very few Workmen. And therefore I have endeavored, with all
+industry, to make the matter as plain as I could for such. For which reason, I
+hope the more learned Reader will excuse my using many words, when fewer would
+have served his turn; and that I have condescended to low things, (and to him
+needless) as teaching the Golden-rule, etc. The other reason is, that what
+those three have written, relates only, or chiefly to the Watch-part. To which
+I have added several other things of my own: particularly the Calculation of
+the Clock-part, etc. I have been forced to reduce to Rules my self, and to name
+no more, the Historical part has not been so much as attempted before, that I
+know of.
+
+These Reasons will, I hope, excuse me with the most censorious Reader, not
+only for presuming to write after so accurate a*piece, as Mr. Oughtred s is,
+but also the Novelty of the subject, will I hope procure for me a candid
+interpretation of the faults and blunders, that I may have unwittingly
+committed.
+
+To the preceding account of what others have written (which shows what help I
+have had from printed Books) I shall subjoyn my acknowledgments, and thanks to
+the principal of my friends, who have given me their assistance in compiling
+this Book. But their names I shall not make more public than mine own, being
+unwilling to be discovered my self. In the Chap. of the Terms of Art, I owe
+much to the assistance of L. Br.... a judicious Workman in White-chappel, who
+drew me up a Scheme of the Clock-maker*s Language. In the History of the Modern
+Inventions, I have had (among some others) the assistance chiefly of the
+ingenious Dr. H.... and Mr. T....* The former being the Author of some, and
+well acquainted with others, of the Mechanical Inventions of that fertile Reign
+of King Charles the II. and the latter actually concerned in all, or most of
+the late inventions in Clock-work, by means of his famed skill in that, and
+other Mechanic operations.
+
+There are some other contrivances of this last age (besides those I have
+mentioned) which I have passed over in silence; because either they are only
+branches, or improvements of the inventions I have taken notice of, (such as
+several ways of repeating work, etc.) or else, they only collaterally relate to
+Watch-work (as the inventions of Cutting-Engines, Fusy-Engines, etc.) To treat
+of all these, would swell my Book far beyond its intended bounds; which I have
+already somewhat exceeded. I shall therefore commit this task to some better
+Pen, hoping that no person will take it amiss, that I have not mentioned what I
+have been beholding to him for the relation of.
+
+For the resons last mentioned, I have also left out of my Book, a Chapter of
+the Art of making, and using many sorts of Sodders, the way of coloring
+Metals, etc. useful in the practice of Clock-work. This I had prepared for the
+sake of Mercurial Gentlemen, but omitted printing it, and some other things,
+out of Charity to poor Apprentices and other Workmen, whose purses I am
+unwilling my volume should too much exceed.
+
+If I have at any time invaded the Workman's province, it was not because I
+pretend to teach him his Trade; but either for Gentlemen's sakes, or when the
+matter led me necessarily to it.
+
+I have nothing more to add, but that I would have this little Treatise looked
+upon only as an Essay, which I hope will prompt some abler pen to perform the
+task better, especially in the Historical part. For since Watch-work owes so
+much to our Age, and Country, it is pity that it should not be remembered:
+especially when we cannot but lament the great defect of History, about the
+beginning and improvements of this ingenious and useful Art.
+
+THE CONTENTS.
+CHap. I. Of the Terms of Art. The more general Terms. p. 2. Names belonging
+properly to the Watch-part. p. 8. Names of the Clock-part. p. 5.
+Chap. II. The Art of Calculation. Sect. 1. Preliminary Rules. To find the
+turns of a Wheel or Pinion, 8. The way of writing down the Numbers, 9. To find
+the turns of any, or all the Wheels in the Movement, 10. To find the Beats of
+the Balance in all the Watches going, or in one turn of any Wheel, 11. Two
+strokes to every tooth of the Crown*wheel, 14.
+Sect. 2. Calculation of the Watch-part. Several ways of performing one and the
+same motion, 15. A Rule to vary Numbers, 16. The way of working the Golden
+Rule, 17. A very useful Rule to vary inconvenient Numbers, 18. Rules of
+perpetual use in proportioning the parts of a Watch, 19. Examples of contriving
+a piece of ordinary Watch-work, 22. Examples thereof for Minutes, and Seconds,
+29.
+Sect. 3. Calculation of the Striking-part. General Observations and Rules
+relating to the Wheel-work of a Clock, p. 33. Rules of perpetual use in
+proportioning the parts of a Clock, 35. Examples of Calculating the Numbers of
+a small Clock, 38. Examples of Clocks of longer continuance, 39. An useful Rule
+to find the number of Strokes in one turn of the Fusy, 33. Examples of fixing
+the Pinion of Report, 34.
+Sect. 4. Of Quarters and Chimes. Notes concerning the Quarters, 45. Of making
+the Chime-barrel, 46. Of dividing it, and setting on the Chime-pins, 47. Chimes
+of Psalm. 100, and of a Song-tune, 50. Another way of setting Chimes on the
+Barrel, 52.
+Sect. 5. To calculate Numbers to represent the Celestial Motions. Contrivance
+of Movements only to show these Motions, 53. To add it to a Watch that shows
+the hour of the day, 55. A motion to show the day of the month, 56. To show the
+Age of the Moon, 57. To show the day of the Year, and Sun's place in the
+Ecliptic, his Rising or Setting, etc. 58. To show the Tides, ib. To represent
+the motion of the Planets, fixed Stars, etc. 60.
+
+Chap. III. To alter Clock-work, p. 62. Example of converting a 12 hour
+Ballance-clock into a Pendulum, 63. To make it go 30 hours, 65. To change the
+Clock-part, 67.
+Chap. IV. To size Wheels and Pinions. To do it Arithmetically, 69.
+Mechanically, 70.
+Chap. V. Of Pendulums. Irregularities of Pendular motions remedied, 71. Cause
+of the difference of the motion of the same Pendulum, 72. True length of a
+Pendulum that vibrateth Seconds, 73. To find the Center of Oscillation, 74. To
+calculate the Lengths, or Vibrations of Pendulums, 75. A Table of Lengths and
+Swings, 78. To correct the motion of a Pendulum, 79.
+Chap. VI. The Antiquity, and general History of Watch-work. The ancientest
+Time-engine, 82. The Grecian and Roman ways of measuring Time, 83. Some
+horological Instruments mentioned by ancient Authors, 84. Watch, or Clock-work,
+no new German Invention, 86. The Sphere of Archimedes, 87. Of Po^idonius, 89.
+The beginning of our present Clock-work, 91. Clocks that perform strange feats,
+92.
+Chap. VII. The Invention of Pendulum Watches. Mr. Hugens the Inventer, p. 93.
+Others claiming it, 94. Their beginning in England, 95. The contriver of their
+carrying a heavy Ball, etc. 96. Their use, ibid. The Circular Pendulum, 97.
+Chap. VIII. Of the Invention of Pocket Pendulum Watches. Inventer, p. 99.
+Several ways of them, ib. The time when invented, 103. Mr. Hugens's Watch, 104.
+Chap. IX. The Invention of Repeating Clocks. The Inventer, p. 106. When and by
+whom first used in Pocket Clocks, 107.
+Chap. XI. Numbers for various Movements. The way of Watch-makers writing down
+their Numbers, 109. Numbers of an 8 day Piece, 110. A Month Piece, 112. A Two
+Month Piece, 113. A Quarter of Year piece, 114. An Half Year Piece, ib. A Year
+Piece, 115. A lesser 30 hours Piece, ib. A small Week Piece, ib. A small Month
+Piece, 116. A small Year Piece, ib. An 8 day Piece Pend. 3 inches, 117. Numbers
+representing the Motion of the Planet Saturn, 118. Of Jupiter, ib. Monsieur
+Romer's Instrument for Jupiter's Satellites, 119. Numbers for Mars, Venus, and
+Mercury, 120. For the Dragons Head and Tail, 121. Numbers for Pocket Watches of
+8 days, ib. Of 30 hours, 122, 123. The way to amend the Numbers, 123.
+Chap. XI. Tables of Time. A Table for ready casting up the parts of Time, 124.
+A Table to set a Watch by the Fixed Stars, 125. A Table of the Variations of
+the Hour by the Sun's Refraction, 117. Observations concerning Refractions, and
+the Variations of the Hour, 128*
+
+The Artificial CLOCK-MAKER.
+CHAP. I. Of the Terms of Art, or Names by which the parts of an Automaton are
+called.
+IT is necessary that I should show the meaning of those Terms which
+Clock-makers use, that Gentlemen and others, unskilful in the Art, may know how
+to express themselves properly, in speaking; and also understand what I shall
+say in the following Book.
+
+I shall not trouble the Reader with a recital of every name that does occur,
+but only such as I shall have occasion to use in the following discourse, and
+some few others that offer themselves, upon a transient view of a piece of work.
+
+I begin with the more general Terms: as, the Frame; which is that which
+contains the Wheels, and the rest of the work. The Pillars, and Plates, are
+what it chiefly consists of.
+
+Next for the Spring, and its appurtenances. That which the Spring lies in, is
+the Spring-box; that which the Spring laps about, in the middle of the
+Spring-box, is the Spring-Arbor; to which the Spring is hooked at one end. At
+the top of the Spring-Arbor, is the Endless-Screw, and its Wheel.
+
+That which the Spring draws, and about which the Chain or String is wrapped,
+and which is commonly taper, is the Fusy. In larger work, going with weights,
+where it is cylindrical, it is called the Barrel. The small Teeth at the bottom
+of the Fusy, or Barrel, that stop it in winding up, is the Ratchet. That which
+stops it when wound up, and is for that end driven up by the String, is the
+Garde-caut, or Guard-Cock, as others; and Garde-du-Cord, and Gard-du-Gut, as
+others call it.
+
+The parts of a Wheel are, the Hoop, or Rim: the Teeth: the Cross: and the
+Collet, or piece of Brass, soddered on the Arbor, or Spindle, on which the
+Wheel is rivetted.
+
+A Pinion is that little Wheel, which plays in the teeth of the Wheel. Its
+teeth (which are commonly 4, 5, 6, 8, etc.) are called Leves, not Teeth.
+
+The ends of the Spindle, are called Pevetts: the holes in which they run,
+Pevet-holes.
+
+The guttered Wheel, with Iron spikes at the bottom, in which the line of
+ordinary House-Clocks does run, is called the Pully.
+
+I need not speak of the Dial-plate, the Hand, Screws, Wedges, Stops, etc.
+
+Thus much for general Names, which are common to all parts of a Movement.
+
+The parts of a Movement, which I shall consider, are the Watch, and Clock.
+
+The Watch-part of a Movement is that which serves to the measuring the hours.
+In which the first thing I shall consider is the Balance: whose parts are, the
+Rim, which is the circular part of it: the Verge, is its Spindle: to which
+belong the two Pallets, or Nuts, which play in the fangs of the Crown*Wheel: in
+Pocket-Watches, that strong Stud in which the lower Pevet of the Verge plays,
+and in the middle of which one Pevet of the Crown-Wheel runs, is called the
+Pottans: the wrought piece which covers the Balance, and in which the upper
+Pevet of the Balance plays, is the Cock. The small Spring in the new
+Pocket-Watches is the Regulator.
+
+The parts of a Pendulum are, the Verge* Pallets and Cocks, as before. The Ball
+in long Pendulums, the Bob in short ones, is the Weight at the bottom. The Rod,
+or Wire is plain. The terms peculiar to the Royal Swing, are the Pads, which
+are the Pallets in others, and are fixed on the Spindle. The Fork is also fixed
+on the Spindle, and about 6 inches below, catches hold on the Rod, at a flat
+piece of Brass, called the Flatt, in which the lower end of the Spring is
+fastened.
+
+The names of the Wheels next follow. The Crown-Wheel in Small pieces, and
+Swing-Wheel in Royal Pendulums, is that Wheel which drives the* Balance, or
+Pendulum.
+
+The Contrate-Wheel, is that Wheel in Pocket-Watches, which is next to the
+Crown-Wheel, whose Teeth and Hoop lie contrary to those of other Wheels.
+
+The Great-Wheel, or First-Wheel, is that which the Fusy, etc. immediately
+drives. Next it, are the Second-Wheel, Third-Wheel, etc.
+
+Next follows the Work between the Frame and Dial-Plate. And first, is the
+Pinion of Report; which is that Pinion which is commonly fixed on the Arbor of
+the Great-Wheel, and in old Watches used to have commonly but four Leaves;
+which drives the Dial-Wheel, and this carries about the Hand.
+
+The last Part which I shall speak of, is the Clock, which is that part which
+serves to strike the Hours: In which I shall
+
+First speak of the Great* or First-Wheel; which is that which the Weight or
+Spring first drives. In 16 or 30 hour Clocks, this is commonly the Pin-Wheel;
+in 8 Day pieces* the Second-Wheel is commonly the* (...) This Wheel with Pins
+is sometimes called the Striking-Wheel, or Pin-Wheel.
+
+Next to this Striking-Wheel, follows the Detent-Wheel, or Hoop-Wheel, having
+a Hoop almost round it, in which is a vacancy, at which the Cloc^ locks.
+
+The next is the Third, or Fourth*Wheel (according as it is distant from the
+First-Wheel) called also the Warning*Wheel.
+
+And lastly is the Flying-Pinion, with a Fly or Fan to gather Air, and so
+bridle the rapidity of the Clock's motion.
+
+Besides these, there are the Pinion o^ Report, of which before; which drives
+round the Locking-Wheel, called also the Count-Wheel, with 11 Notches in it
+commonly, unequally distant from one another, to make the Clock strike the
+hour^ of 1, 2, 3, etc.
+
+Thus much for the Wheels of the Clock part.
+
+Besides which there are the Rash, or Ratch; which is that sort of Wheel, of
+twelve large Fangs, that runs concentrical to the Dial-Wheel, and serves to
+lift up the Detents every hour, and make the Clock strike.
+
+The Detents are those Stops, which by being lifted up, or let ^all down, do
+lock and unlock the Clock in striking.
+
+The Hammers s^rike the Bell: The Hammer-tails are what the Strikingpins draw
+back the Hammers by.
+
+Latches are what li^t up, and unlock the Work.
+
+Catches are what hold by hooking, or catching hold of.
+
+The Lifting-pieces do lift up, and unlock the Detents, in the Clock part.
+
+CHAP. II. The Art of Calculation.
+SECT. I. General preliminary Rules and Directions for Calculation.
+1. FOR the more clear understanding this Chapter it must be observed, that
+those Automata (whose Calculation I chiefly intend) do by little Interstices,
+or Strokes, measure out longer portions of Time. Thus the strokes o^ the
+Balance of a Watch, do measure ou^ Minutes, Hours, Days, etc.
+
+Now to scatter those strokes among Wheels and Pinions, and to proportionat^
+them, ^so as to measure Time regularly is the design of Calculation. For the
+clearer discovery of which, it will be necessary to proceed leisurely, and
+gradually.
+
+Oughtred of Autom. sect. 4.
+2. And in the first place, you are to know, that any Wheel being divided by
+its Pinion, shows how many turns that Pinion has to one turn of that Wheel.
+Thus a Wheel of 60 teeth driving a Pinion of 6, will turn round the Pinion 10
+times in going round once.
+
+From the Fusy to the Balance the Wheels drive the Pinions; and consequently
+the Pinions run faster, or go more turns, than the Wheels they run in. But it
+is contrary from the Great-Wheel to the Dial Wheel. Thus in the last Example,
+The Wheel drives round the Pinion 10 times: but if the Pinion drove the Wheel,
+it must turn 10 times to drive the Wheel round once.
+
+3. Before I proceed further, I must show how to write down the Wheels and
+Pinions. Which may be done, either as Vulgar Fractions, or in the way of
+Division in Vulgar Arithmetic. E. C. A Wheel of 60 moving a Pinion of 5, may
+be set down thus, 60/3: or rather thus, 5) 60: where the first figure is the
+Pinion, the next without the hook, is the Wheel.
+
+The number of Turns, which the Pinion has in one turn of the Wheel, is set
+without a hook on the right hand: as 5) 60 (12, i. e. a Pinion 5 playing in a
+Wheel of 60, moves round 12 times, in one turn of the Wheel.
+
+4) 36 (9 5) 55 (11 5) 45 (9 5) 40 (8 17
+A whole Movement man be noted thus, 4/^^ 55/5 45/5 40/5 17 Notches in the
+Crown*Wheel. Or rather as you see here in the Margin: where the uppermost
+number, above the line, is the Pinion of Report 4, the Dial-wheel 36, and 9
+turns of the Pin. of Report. The second number (under the line) is 5 the
+Pinion, 55 is the Great-wheel, and 11 turns of the Pinion it drives. The third
+numbers, are the Second-wheel, etc. The fourth the Contrate-wheel, etc. An^ the
+single number 17 under all, is the Crown-wheel.
+
+4 By the 2. before, knowing the number of turns, which any Pinion has in one
+turn of the Wheel it works in* you may also find out how many turns a^ Wheel
+or Pinion has, at a greater distance; as the Contrate-wheel, Crown*wheel, or
+etc. For it is but multiplying By the Quotients I commonly mean the ^umber of
+Turns; which number is set on the right hand, without a hook, as is shown in
+the last Paragraph. Which I no^e ^ere now once for all.
+together the Quotients, and the number produced, is the number of Turns. An
+Example will make what I say plain: 5) 5^ (11 5) 45 (9 5) 40 (8
+let us choose these 3 numbers here set down; the first of which has 11 turns,
+the next 9* and the last 8. If you multiply 11 and 9 it produces 99, for 9
+times 11 is 99, that is, in one turn of the Whee^ 55, there are 99 turns of the
+second Pinion 5, or of the Wheel 40. If you multiply 99 by the last Quotient 8
+(that is, 8 times 99 is 792) it shows the number of turns, which the third and
+last Pinion 5 has. So that this third, and last Pinion turns 792 times in one
+turn of the first Wheel 55. 8) 80 (10 6) 54 (9 5) 40 (8 15
+Another Example will make it still more plain The Example is in the Margin. The
+turns are 10, 9 and 8. These multiplied as before run thus, viz. 10 times 9 is
+90, that is, the Pinion 6 (which is the Pin. of the third Wheel 40) turns 90
+times in one turn of the First*wheel 80. This last product 90 being multiplied
+by 8, produces 720* that is, the Pinion 5 (which is the Pin. of the Crown-wheel
+15) turns 720 times in one turn of the First-wheel, of 80 teeth.
+
+5. We may now proceed to that, which is the very groundwork of all; which is,
+not only to find out the turns, but the Beats also of the Balance in those
+turns of the Wheels. By the last Paragraph, having found out the number of
+turns, which the Crown-wheel has in one turn of the Wheel you seek for, you
+must then multiply those turns of the Crown-wheel by its number of Notches, and
+this will give you half the number of Beats, in that one turn of the Wheel.
+Half the number, I say, for the reasons in the following 6. For the Explication
+of what has been said, we will take the example in the last: the Crown-wheel
+there, has 720 turns in one turn of the first Wheel (...) This number
+multiplied by 15, the Notches in the Crown-wheel, produces 10800, which are
+half the number o^ strokes of the Balance, in one turn of the first wheel 80.
+The like may be done for any of the other Wheels; as the Wheel 54, or 40: but I
+shall not insist upon these, having said enough.
+
+I shall give but one Example more which will fully, and very plainly
+illustrate the whole matter. 4) 32 (8 5) 55 (11 5) 45 (9 5) 40 (8 17
+
+
+The example is in the margin, and it is of a 16 hour Watch, wherein the Pinion
+of Report is 4, the Dial-wheel 32, the Great-wheel i^ 55, the Pinion of the
+secon^-Wheel is 5, etc. the numbe^ of Notches in the Crown*wheel are 17: the
+quotients or number of turns in each, are 8, 11 9, 8. All which being
+multiplied as be*fore, make 6336: this number multiplied by 17, produces
+107712; which la^summ is half the number of Beats in on^ turn of the
+Dial-wheel. The half number of Beats in one turn of the Great-wheel, you will
+find to be 13464: For 8 times 17 is 136, which is the half number of Beats in
+one turn of the Contrate-wheel 40: and 9 times 136, is 1224, the half beats in
+one turn of the Second-wheel: and 11 times 1224, is 13464, the half beats in
+one turn of the Great-wheel 55. And 8 times this last, is 107712 before named.
+If you multiply this by the two Pallets, that is, double it, it is 215424,
+which is the number of Beats in one turn of the Dial-wheel, or 12 hours. If you
+would know how many beats this Watch has in an hour, it is but dividing the
+beats in 12 hours, into 12 parts, and it gives 17952, the Train of the Sir J.
+Moor* Mat. Com. p. 109.
+Watch, or beats in an hour. If you divide this into 60 parts, it gives 299 and
+a little more, for the beats in a minute. And so you may go on to seconds and
+thirds, if you please.
+
+Thus I have delivered my thoughts as plainly as I can, that I may be well
+understood; this being the very foundation of all the artificial part of
+Clock-work. And therefore let the young practiser exercise himself thoroughly in
+it, in more than one example.
+
+If I have offended the more learned, quick-sighted Reader, by using m^^y
+words; my desire to instruct the most ignorant Artist* must plead my excuse.
+
+Ibid. p. 116.
+6. The Balance or Swing has two strokes to every tooth of the Crown-wheel.
+For each of the two Pallets has its blow against each tooth of the
+Crown-wheel* Wherefore a Pendulum that swings Seconds, has its Crown-wheel but
+30.
+
+SECT. II. The way to Calculate, or contrive the Numbers of a piece of Watch
+work.
+HAving in the last Section led on the Reader to a general knowledge of
+Calculation; I may now venture him further into the more obscure, and useful
+parts of that Art: Which I shall explain with all possible plainness, tho less
+brevity, than I could wish.
+
+Oughtred Autom. Sect. 14.
+1. The same motion may be performed either with one Wheel and one or by many
+Wheels and many Pinions: provided that the number of turns of all those Wheels
+bear the same proportion to all those Pinions, which that one Wheel bears to
+its Pinion. Or (which is the same thing) that the number produced by
+multiplying all the Wheels together, be to the number produced ^y multiplying
+all the Pinions together; as that one Wheel is to that one Pinion. 28) 1440
+
+
+Thus suppose you had use for a Wheel of 1440 teeth, with a Pin. of 28 leaves,
+you may make it into 3 Wheels and Pinions, viz. 4 ^ 36, 7) 8, and 1) 5. For if
+you multiply the three Wheels together, viz. 36, 8 and 5; and the three Pinions
+together by themselves, viz 4, 7 and 1, you will find 1440 to arise for the
+Wheels, and 28 for the Pinions. Or if you try the example by the number of
+turns, it will be the same. For 28) 1440 (51 3/7. And the quotients and turns
+of the 3 Wheels and Pinions multiplied together, are 51 3/7 also, as in the
+last example.
+
+It matters not in what order the Wheels and Pinions are set, or which Pinion
+runs in which Wheel: Only for convenien^ sake, they commonly set the biggest
+numbers to drive the rest.
+
+2. Two Wheels and Pinions of diff^rent Ought. ib.
+numbers may perform the same m^tion. As, a Wheel of 36 drives a Pinio^ of 4,
+all one as a Wheel of 45 drives Pin. of 5; or as a Wheel of 90 drives Pin. of
+10. The turns of each are 9.
+
+3. If in breaking your Train into parcels (of which by and by) any of you^
+Quotients should not please you; or Id. ib.
+you would alter any other two number which are to be multiplied together, yo^
+may vary them by this Rule: Divid^ your two numbers by any two oth^ numbers
+which will measure them; the multiply the Quotients by the alternat^ divisors,
+the product of these two la^ numbers found, shall be equal to the product of
+the two numbers first give^ Thus if you would vary 36 times 8, d^vide these by
+any two numbers that wi^ evenly measure them, as 36 by 4, and by 1. The fourth
+part of 36 is 9, and divided by 1 gives 8. Multiply 9 by (...) the product is
+9; and 8 multiplied by (...) produces 32. So that for 36 times 8^ you shall
+have found 32 times 9. 9 8 36 X 8 4 1 32 X 9
+
+
+The operation is in the Margin, that you may see, and apprehend it the better.
+These numbers are equal, viz. 36 times 8 is equal to 32 times 9; both producing
+288. If you divide 36 by 6, and 8 by 2, and multiply as before is said, you
+will have for 36 times 8, 24 times 12, equal to 288 also.
+
+If this Rule seem to the unskilful Reader hard to be understood, let him not
+be discouraged, because he may do without it, although it may be of good use to
+him that would be a more complete Artist.
+
+4. Because in the following Paragraphs, I shall have frequent occasion to use
+the Rule of Three, or Rule of Proportion, it will be necessary to show the
+unskilful Reader, how to work this noble Rule.
+
+If you find 3 or 4 numbers thus set, with four spots after the second of them,
+it is the Rule of Proportion; as in this example, 2. 4:: 3. 6. i. e. As 2 is to
+4:: So is 3 to 6.
+
+The way to work this Rule, viz. by the 3 first number to find a fourth, is, To
+multiply the second number and the third together, and divide their product by
+the first. Thus 4 times 3 is 12, which 12 divided by 2, gives 6; which is the
+number sought for, and stands in the fourth place.
+
+You will find the great use of this Rule hereafter; only take care to bear it
+in mind all along.
+
+5. To proceed. If in seeking for your Pinion of Report, or by any other means,
+you happen to have a Wheel and Pinion fall out with cross numbers, too big to
+be cut in Wheels, and yet not to be altered by the former Rules, you may find
+out two numbers of the same, or a near proportion, by this following Rule, viz.
+As either of the two numbers given, is to Id. ib.
+the other:: So is 360 to a fourth: Divide that fourth number, as also 360 by 4.
+5. 6. 8. 9. 10. 12. 15. (each of which numbers does exactly measure 360) o^ by
+any one of those numbers that brings a quotient nearest to an integer (or
+whole number.) Thus if you had these two numbers, 147 the Wheel, and 170 the
+Pinion, which are too great to be cut in small Wheels, and yet cannot be reduced
+into le^s, because they have no other common measure, but unity: say therefore
+according to the last paragraph, As 170 is to 147; or as 147 is to 170:: So is
+360 to a fourth number sought. In numbers thus, 170 147:: 360. 311. or 147.
+170:: 360. 416. Divide the fourth number and 360 by one of the foregoing
+numbers; as 311 and 360 by 6, it gives 52 and 60. In numbers it is thus, 6) 311
+(52 360 (60 Divide by 8 it is thus, 8) 311 (39 360 (45 If you divide 360 and 416
+by 8, it will fall out exactly to be 45 and 52 8) 360 (45 416 (52 Wherefore for
+the two numbers 147 and 170, you may take 52 and 60; or 39 and 45; or 45 and
+52, o^ etc.
+
+6. I shall add but one Rule more, before I come to the practice of what has
+been laid down; which Rule will be of perpetual use, and consists of these five
+particulars.
+
+Oughtred Sect. 12. Sir J. Moor Ibid. p. 109.
+1. To find what number of turns the Fusy will have, thus, As the Beats of the
+Balance in one turn of the Great-Wheel or Fusy (suppose 26928) To the Beats of
+the Balance in one hour (suppose 20196):: So is the continuance of the Watches
+going in hours (suppose 16) To the number of the turns of the Fusy 12. In
+numbers 'twill stand thus, 26928. 20196:* 16. 12. By 4. you may remember tha^
+you are to multiply 20196 by 16, the product is 323136. Divide this by 26928,
+and there will arise 12 in the Quotient, which must be placed in the fourth
+place* and is the number of turns which the Fusy has.
+
+2. By the Beats and turns of the Fusy* to find how many hours the Watch will
+go, thus,
+
+As the Beats of the Balance in one hour, are to the Beats in one turn of the
+Fusy:: So is the number of the turns o^ the Fusy, to the continuance of the
+Watches going. In num^ers thus,
+
+2196. 26928:: 12* 16.
+
+3. To find the strokes of the Balance in one turn of the Fusy, say, As the
+number of turns of the Fusy, to the continuance of the Watch's going in hours::
+S^ are the Beats in one hour, to the Beats o^ one turn of the Fusy. In numbers
+it (...) thus,
+
+12. 16:: 20196* 26928.
+
+4. To find the Beats of the Balance in an hour, say thus, As the hours of the
+Watch's going, To the number of turns of the Fusy:: So are the Beats in one
+turn of the Fusy, To the Beats in an hour. In numbers thus,
+
+16. 12:: 26928. 20196.
+
+5. To find what Quotient is to be laid upon the Pinion of Report, say thus, As
+the beats in one turn of the Great-wheel, To the beats in an hour:: So are the
+hours of the Face of the Clock (viz. 12 or 24) To the Quotient of the
+Hour-Wheel divided by the Pinion of Report, i. e. the number of turns, which
+the Pinion of Report has in one turn of the Dial-Wheel. In numbers thus,
+
+26928. 20196:: 12. 9.
+
+Or rather (to avoid trouble) say thus, As the hours of the Watch's going, Are
+to the numbers of the turns of the Fusy:: So are the hours of the Face, To the
+Quotient of the Pinion of Report* In numbers thus, 16. 12:: 12. 9. If the hours
+of the Face be 24, the Quotient will be 18; thus, 16. 12:: 24. 18.
+
+7. Having given a full account of all things necessary to the understanding
+the Art of Calculation, I shall now reduc^ what has been said into practice,
+by showing how to proceed, in Calculating a piece of Watch-work.
+
+The first thing you are to do, is to pitch upon your Train, or beats of the
+Balance in an hour: as, whither a swi^^ Train, about 20000 beats (which is the
+usual Train of a common 30 hour Pocket*Watch) or a slower Train of about 16000
+(the Train of the new Pendulum Pocket*Watches;) or any other Train.
+
+Having thus pitched upon your Train, you must next resolve upon the number of
+turns you intend your Fusy shall have; and also upon the number of Hours, you
+would have your Piece to go: As suppose 12 turns; and to go 30 hours, or 192
+hours (which is 8 days) or etc.
+
+These things being all soon determined; you next proceed to find out the beats
+of the Balance, or Pendulum, in one turn of the Fusy, by the last 6. part 3.
+viz. As the turns of the Fusy, To the hours of the Watch's going:: So is the
+Train, To the number of beats in one turn of the Fusy. In numbers thus, 12.
+16:: 20000. 26666. Which last number are the beats in one turn of the Fusy, or
+Great-Wheel; and (by Sect. I. 5. of this Chap.) are equal to the Quotients of
+all the Wheels unto the balance, multiplied together. This number therefore is
+to be broken into a convenient parcel of Quotients: which you are to do after
+this manner. First, half your number of beats, viz. 26666, for the reasons in
+Sect. I. 6. of this Chap. the half whereof is 13333. Next you are to pitch upon
+the number of your Crown-wheel, as suppose 17. Divide 13333 by 17, the Quotient
+will be 784 (or to speak in the language of one that understands not
+Arithmetic, divide 13333 into 17 parts, and 784 will be one of them.) This 784
+is the number left for the Quotients (or turns) of the rest of the Wheels and
+Pinions: which being too big for one or two Quotients, may be best broken into
+three. Choose therefore 3 numbers, which when multiplied all together
+continually will come nearest 784. As suppose you take 10, 9, and 9. Now 10
+times 9 is 90; and 9 times 90 is 810, which is somewhat too much. You may
+therefore try again other numbers* as suppose 11, 9, and 8. These multiplied as
+the last, produce 792* which is as near as can be, and convenient Quotients.
+
+Thus you have contrived your Piece* from the Great-Wheel to the Balance* But
+the numbers not falling out exactly according as you at first proposed; you
+must correct your work thus. First to find out the true number of beats, in one
+turn of the Fusy, you must multiply 792* aforesaid, which is the true product
+of al^ the Quotients, by 17, the notches of the Crown-wheel; the product of
+this i^ 13464, which is half the number of true beats in one turn of the Fusy,
+by Sect. ^ 5. of this Chap. Then to find the tru^ number of beats in an hour,
+say by 6* part 4. of this Section, as the hours o^ the Watch's going, viz. 16,
+to the 1^ turns of the Fusy:: So is 13464 the ha^^ beats in one turn of the
+Fusy, to 1009^ the half beats in an hour: the numbe^ will stand thus 16. 12::
+13464. 1009^
+
+Then to know what Quotient is to b^ laid upon the Pinion of Report, say by
+(...) 6. part 5. of this Sect: As the hours (...) the Watch's going, viz. 16,
+to the tur^ of the Fusy, viz. 12:: So are the hou^^ of the Dial-plate, viz. 12,
+To the Quotient of the Pinion of Report. In numbers thus, 16. 12:: 12. 9.
+
+4) 36 (9 5) 55 (11 5) 45 (9 5) 40 (8 17
+
+
+Having thus found out all your Quotients, it is easy to determine what numbers
+your Wheels shall have: for choose what numbers your Pinions shall have, and
+multiply the Pinions by their Quotients, and that produces the numbers for
+your Wheels, as you see in the Margin. Thus 4 is the number of your Pinion of
+Report, and 9 its quotient; therefore 4 times 9, which makes 36, is the number
+for the Dial-wheel. So the next Pinion being 5, and its quotient 11, this
+multiplied produces 55 for the Great-wheel. And the like of the rest of the
+following numbers.
+
+Thus, as plain as words can express it, I have showed how to Calculate the
+numbers of a 16 hour Watch.
+
+Oughtred Sect. 21.
+8. This Watch may be made to go a longer time, by lessening the Train, and
+altering the Pinion of Report. Suppose you could conveniently slacken the Train
+to 16000, the half of which is 8000. 8.
+Then say (by 6 part 2. of this Sect.) As the halfed Train, or Beats in an
+hour, viz. 8000, To the halfed beats in one turn of the Fusy, viz. 13464:: So
+are the turns of the Fusy, viz. 12, To the hours of the Watch's going: in
+numbers thus, 8000. 13464:: 12. 20 So that this Watch will go 20 hours.
+
+Then for the Pinion of Report, say, by the same part 5, As 20 the Continuance;
+To 12 the turns of the Fusy:: So are 12 the hours of the Face, To 7 the
+quotient of the Pinion of Report. In numbers thus, 20. 12:: 12. 7.
+
+4) 28 (7 5) 55 (11 5) 45 (9 5) 40 (8 17
+
+
+The work is the same as before, as to the numbers; only the Dial-wheel is but
+28, because its quotient is altered to 7; as appears in the Margin, by the
+Scheme of the work.
+
+9. I shall give the Reader one example more, for the sake of showing him the
+use of some of the foregoing Rules, not yet taken notice of in the former
+operations. Suppose you Id. ib. 22.
+would give numbers to a Watch of about 10000 beats in an hour, to have 12 turns
+of the Fusy, to go 170 hours, and 17 notches in the Crown-wheel.
+
+This work is the same as in the last Example 7. In short therefore thus, As
+the turns 12: are To the Continuance 170:: So is the Train 10000, To 141666,
+which are the beats in one turn of the Fusy. The numbers will stand thus, 12.
+170:: 10000 14^666. Half this last is 70^33. Divide this half into 17 parts,
+and 4167 will be for the quotients. And because this number is too big for 3
+quotients, therefore choose 4: as suppose 10, 8, 8, and 6 (i. e. 6 and 3 fifths)
+These multiplied together as before, and with 17, makes 71808, which are half
+the true beats in one turn of the Fusy. By this you are to find out your true
+Train first* saying as in the former example, As 170 to 12:: So 71808, to 5069;
+which last is the half of the true Train of your Watch. Then for the Pinion of
+Report, say, as 170, to 12:: So 12, to 1/^4/74/^. Which Fraction ari^eth thus:
+If you multiply 12 by 12 it makes 144; and divide 144 by 170, you cannot; but
+setting the 144 (the dividend) over 170 (the Divisor) and there ari^eth this
+fraction ^/24/^4/^, which is a Wheel and Pinion; the lower is the Pinion of
+Report, and the upper is the Dial-wheel, according to Sect. I. 3. of this
+Chapter. Or (which perhaps will be more plain to the unlearned Reader) you may
+leave those two numbers, in their Divisional posture thus, 170) 144, which does
+express the Pinion and Wheel, in the way I have hitherto made use of. But to
+proceed. These numbers being too big to be cut in small 24) 20 20/24 6) 60 (10
+6) 48 (8 5) 40 (8 5) 33 (6 17
+
+
+Wheels, may be varied, as you see a like Example is 5. of this Section: viz.
+Say, as 144* is To 170:: So is 360, To 425. Or, as 170, to 144:: So is 360, To
+305. In number thus, 144. 170:: 360. 425. Or 170. 144:: 360. 305. Divide 360,
+and either of these two fourth and last numbers by 4, 5, 6, 8, etc. (as is
+directed in the Rule last cited.) If you divide by 8, you will have for your
+numbers 1/14/74/^ 4/^5/^ or 3/48/5. If you divide by 15 (which will not bring
+it so near an integer) you will have 2/24/8 or 2/^0/4: which last are the
+numbers set down in the Margin* where the numbers of the whole Movement are set
+down.
+
+10. Having said enough, I think, concerning the Calculation of ordinary
+Watches, to show the hour of the day: I shall next proceed to such as show
+minutes and seconds. The process whereof is thus: First, having resolved upon
+your beats in an hour, you are next to find how many beats there will be in a
+minute, by dividing your designed Train into 60 parts. And accordingly you are
+to find out such proper numbers for your Crown-wheel, and quotients, as that
+the Minute-wheel shall go round once in an hour, and the Second-wheel once in a
+minute.
+
+An Example will make all plain. Let us choose a Pendulum of 6 inches to go 8
+days, with 16 turns of the Fusy. By Horol. Disq.
+Mr Smith's Tables, a Pendulum of 6 inches vibrates 9368 in an hour. This
+divided by 60 gives 156 beats for a minute. Half these sums are 4684 and Sect.
+1. 6.
+78. Now the first work is to break this 78 into good proportions; which will
+fall into one quotient, and the Crown-wheel. First, for the Crown-wheel; let it
+have 15 notches. Divide 78 afore^ by this 15, the quotient will be 5. A^ so
+this first work is done: for a Crow^ wheel of 15, and a Wheel a^ Pinion, whose
+quotient is 5 (^ in the Margin) 8) 40 (5 15
+
+
+will go rou^ in a minute, to carry a Ha^ to show Seconds.
+
+Next for a Hand to go round in ^ hour, to show Minutes. Now becau^ there are
+60 minutes in an hour, it is b^ breaking 60 into two goo^ 8) 64 (8 8) 60 (7 8)
+40 (5 15
+
+
+quotients (which may be ^ and 6, or 8 and 7, or etc. and the work is done.
+
+Thus your number 4684, broken, as near as can be, into proper numbers.
+
+But because it does not fall out exact into the abovementioned numbers, yo^
+must Correct (as you were directed before) and find out the true number ^ beats
+in an hour, by multiplying 15 by 5, which makes 75; and this by 6^ makes 4500,
+which is the half of the tru^ Train. Then to find out the beats in on 6. Par.
+3. and 7.
+turn of thy Fusy, operate as before, vi^ As the number of turns, 16, To the
+co^tinuan^ 192:: So is 4500 to 54000, which are half the beats in one turn of
+^he Fusy. In numbers thus, 16. 192:: 4500. 54000. This 54000 must be di^ided by
+4500, which are the true ^umbers already pi^ched upon, or beats* ^n an hour.
+The quotient of this division ^s 12, which being not too big for one single
+quotient, needs not be divided into more. The work will stand, as you see in
+the Margin. ^) 108 (12 ^) 64 (8 ^) 60 (7 ^) 40 (5 15
+
+
+
+
+As to the Hour-hand, the Great-Wheel, which performs only one revolution in 12
+turns of the Minute-wheel, will show the hour. Or rather you may order it to be
+done by the Minute-wheel, ^s shall be showed hereafter.
+
+11. I shall add but one Example more, and so conclude this Section; and that
+is, To calculate the numbers of a ^iece whose Pendulum swings* Seconds, ^o show
+the hour, minutes, and seconds, and to go 8 days; which is the usual
+per^ormance of those Movements called Sir J. Moo^ Ibid. p. 116.
+^oyal Pendulums at this day. First, cast ^p the number of seconds in 12 hours
+(which are the beats in one turn of (...) Great-wheel) These are 12 times (...)
+minutes, and 60 times that, gives 432^ which are the seconds in 12 hours. H^ V.
+Sect. 1. * 6.
+this number (for the reasons before) 21600. The Swing-wheel must ne^ be 30, to
+swing 60 seconds in one of (...) revolutions. Divide 21600 by it, a^ 720 is the
+quotient, or number left to (...) broken into quotients. Of these quo^ents, the
+first must needs be 12 for (...) Great-wheel, which moves round on^ in 12
+hours. Divide 720 by 12, (...) quotient is 60; which may be conve^*ently broken
+into two quotients, as (...) and 6, or 5 and 12, or 8 and 7, whi^ last is most
+convenient. A^ if you take all the Pinions the work will stand as in (...)
+Margin. 8) 96 (12 8) 64 (8 8) 60 (7 30
+
+
+
+
+According to this compu^*tion, the Great-wheel will (...) about once in 12
+hours, show the hour, if you please: the Seco^ wheel once in an hour, to show
+the (...) nutes; and the Swing-wheel once in a (...) nute, to show the seconds.
+
+Thus I have endeavored with all possible plainness, to unravel this most
+mysterious, as well as useful part of Watchwork. In which, if I have offended
+the more learned Reader, by unartificial terms, or multitude of words, I desire
+the fault may be laid upon my earnest intent to condescend to the meanest
+capacity.
+
+SECT. III. To Calculate the Striking part of a Clock.
+1. Although this part consists of many Wheels and Pinions, yet respect needs to
+be had only to the Count-wheel, Striking-wheel, and Detent-wheel: which move
+round in this proportion; The Count-wheel moves round commonly ^nce in 12, or
+24 hours. The Detent-wheel moves round every stroke the Clock strikes,
+sometimes but once in two strokes. From whence it follows,
+
+1. That as many Pins as are in the Pin-wheel, so many turns has the
+Detent-wheel, in one turn of the Pin-wheel. Or (which is the same) the Pins of
+the Pin-wheel are the Quotient of that Wheel, divided by the Pinion of the
+Deten^-wheel. But if the Detent-wheel moves but once round in two strokes o^
+the Clock, then the said Quotient is bu^ half the number of Pins.
+
+2. As many turns of the Pin-wheel a^ are required to perform the strokes of 1^
+hours (which are 78) So many tur^^ must the Pinion of Report have, to turn
+round the Count-wheel once. Or thus* Divide 78 by the number of Striking pins,
+and the Quotient thereof shall b^ the Quotient of the Pinion of Report. Al^
+this is, in case the Pinion of Report b^ fixed to the arbor of the Pin-wheel,
+as i^ very commonly done.
+
+All this I take to be very plain: or (...) it be not, the example in the
+Margin will clear all difficulties. 8) 48 (6 6) 78 (13 pins 6) 60 (10 6) 48 (8
+
+
+Her^ the Locking-wheel is 48^ the Pinion of Report is 8^ the Pin-wheel is 78,
+the Striking-pins are 13. An^ so of the rest. I need onl^ to remark hero, that
+7^ being divided by the 13 pins, gives 6^ which is the Quotient of^* the
+Pinion^ of Report: as was before hinted.
+
+As for the Warning-wheel, and Flying-Pinion, it matters little what numbers
+they have, their use being only to bridle the rapidity of the motion of the
+other Wheels.
+
+Besides the last observation, there are other ways to find out the Pinion of
+Report, which will fall under the next.
+
+2. These following Rules will be of great use in this part of Calculation, viz.
+
+Rule 1. As the number of turns of the Great-wheel, or Fusy;
+
+.To the days of the Clock's continuauc^:
+
+::So is the number of strokes in 24 hours, viz. 156*
+
+.To the strokes in one turn of the Fusy, or Great-wheel.
+
+Rule 2. As the number of strokes in 24 hours, which are 156,
+
+.To the strokes in one turn of the Fusy, or Great-wheel,
+
+::So are the turns of the Fusy, or Great-wheel,
+
+.To the days of the Clock's continuance, or going.
+
+Rule 3. As the strokes in one turn of the Fu^y,
+
+.To the strokes of 24 hours, viz. 156.
+
+::So is the Clock's continuance,
+
+.To the number of turns of the Fusy, or Great-wheel.
+
+These two last Rules are of no great use (as the first is) but may serve to
+correct your work, if need be, when in breaking your Strokes into Quotients (of
+which presently) you cannot come near the true number, but a good many strokes
+are left remaining. In this case, by Rule 2. you may find whether the
+continuance of your Clock be to your mind* And by Rule 3, you may enlarge or
+diminish the number of turns for this purpose. The praxis hereof will follow by
+and by.
+
+The 2 following Rules are to find fit numbers for the Pinion of Report, and
+the Locking-wheel, besides what is said before 1. Inference 2.
+
+Rule 4. As the number of Strokes in the Clock's continuance, or in all it^
+turns of the Fusy,
+
+.To the turns of the Fusy,
+
+::So are the Strokes in 12 hours, which are 78,
+
+.To the Quotient of the Pinion of Report, fixed upon the arbor of the
+Great-wheel.
+
+But if you would fix it to any other Wheel, you may do it thus, as is before
+1. Infer 2^
+hinted, viz.
+
+Rule 5. First, find out the number of Strokes, in one turn of the Wheel you
+intend to fix your Pinion of Report upon (which I shall show you how to do in
+the following.) Divide 78 by this number, and the number arising in the
+Quotient, is the Quotient of the Pinion of Report.
+
+Or thus. Take the number of Strokes in^ ^e turn of the Wheel, for the number
+of the Pinion of Report, and 78 for the Count (or Locking) wheel, and vary them
+to lesser numbers, by Sect. 2. 5. of this Chapter.
+
+Rule 6. The foregoing Rules are of greatest use, in Clocks of a larger
+continuance; although, where they can be applied, they will indifferently serve
+all. But this Rule (which will serve larger Clocks too) I add chiefly for the
+use of lesser Pieces, whose continuance is accounted by hours.
+
+The Rule is to find the Strokes in the Clock's continuance, viz. As 12, is to
+78:: So are the hours of the Clocks continuance, To the number of Strokes in
+that time.
+
+This Rule (I said) may be made use of for the largest Clock; but then you must
+be at the trouble of reducing the Days into Hours Whereas the shortest way is
+to Multiply the strokes in one turn of the Great-wheel, by the number of Turns.
+Thus in an 8 day piece the Strokes in one turn are 78. These multiplied by 16,
+the turns, produce 1248; which are the Strokes in the Clock's continuance. If
+you work by the foregoing Ruled the hours of 8 days are 192. Then say, 12* 78::
+192. 1248.
+
+3. In this Paragraph, I shall show the use of the preceding Rules, and by
+examples make all plain that might seem obscure in them.
+
+I begin with small Pieces: of which but briefly. And first, having pitched
+upon the number of turns, and the continuance, you must find, by the last Rule,
+how many Strokes are in its continuance. Then divide these Strokes by the
+number of turns, and you have the number of Striking-pins. Or divide by the
+number of Pins, and you have the number of Turns.
+
+Thus a Clock of 30 hours, with 15 turns of the Great-wheel, has 195 strokes.
+For by the last Rule, 12. 78:: 30. 195. Divide 195 by 15, it gives 13 for the
+Striking-pins. Or if you choose 13 for your number of Pins, and divide 195 by
+it, it gives 15, for the number of ^urns, as you see in the Margin. 15) 195 (13
+13) 195 (15
+
+
+
+
+As for the Pinion of Report, and the rest of the Wheels, enough is said in the
+1.
+
+But suppose you would calculate the numbers of a Clock of much longer
+continuance, which will necessitate you to make your Pin-wheel further distant
+from the Great-wheel, you are to proceed thus: Having re^olved upon your turns,
+you must find out the number of strokes in one turn of the Great-wheel, or
+Fusy, by 2* Rule 1. Thus in an 8 day piece, of 16 turns, 16. 8:: 156. 78. So in
+a piece of 32 days, and 16 turns, 16* 32:: 156. 312. These strokes so found
+out, are the number which is to be broken into a convenient parcel of
+Quotients, thus;
+
+First resolve upon your number of Striking-pins: divide the last named number
+by it: The quotient arising hence, is to be one, or more quotients, for the
+Wheels and Pinions. As in the last examples* Divide 78 by 8 (the usual pins in
+an 8 day piece) and the quotient is 9^; which is a quotient little enough. So
+in the Month-piece: if you take your Pins 8* divide 312 by it, the quotient is
+39. Which being too big for one, must b^ broken into two quotients, 10) 65 (6^
+8) 48 (6 6) 48 (8 pins
+
+
+for Wheels and Pinions, or as near (...) can be: which may b^ 7 and 5, or 6
+and 6. The latter is exactly 39, and may there^o^ stand: as you see is done in
+the Margin.
+
+The quotients being thus determined and accordingly the Wheels and Pinio^^ as
+you see; the next work is to find (...) quotient for the Pinion of Report, to
+^^ry round the Count (or Locking) wh^^ once in 12 hours, or as you please. ^
+you fix your Pinion of Report on the Great-wheel arbor, you must operate (...)
+the Rule 4. of the last paragraph. As (...) the last example in the
+Month-piece: (...) Rule 6. before, the strokes in the conti^^ance are 4992.
+Then by Rule 4 say, 4992. 16:: 78. 499^/124^ or thus, 4992) 1248. The first of
+which two numbers is the Pinion, the next is the Wheel. Which being too large,
+may be varied to ^^/9 or V. Sect. 1*. 3.
+36) 9; or to ^4/6 or 24) 6, by Sect. 2 5. before.
+
+These numbers being not the usual numbers of a Month-piece, but only made use
+of by me, as better illustrating the foregoing Rules* I shall therefore, for
+the fuller explication of what has been said, briefly touch upon the
+calculation of the more usual numbers. They commonly increase the number of
+Striking-pins, and so make the Second-wheel the Striking-wheel* Suppose you
+take 24 Pins; Divide 312 by it, and the Quotient is 13. Which is little enough
+8) 104 (13 6) 72 (12. 24 pins
+
+
+for one Quotient; and may therefore stand as you see is done in the Margin:
+where the Quotient of the first Wheel is 13. In the second Wheel of 72 teeth,
+are the 24 pins, although its quotient is but 12, because the Hoop-wheel is
+double, and goes round but once in two strokes of the Pin-wheel.
+
+The Pinion of Report here, is the same with the last, if fixed upon the arbor
+of the Great*wheel. But if you fix it on the arbor of the Second, or Pin-wheel,
+its quotient then is found by 1. Infer. 2. or by 2. Rule 5. viz. Divide 78 by
+24, and the number arising in the quotient, is the quotient of the Pinion of
+12) 39 (3
+
+
+Report, which is 3. The Pinion of Report then being 12, the Count-wheel will
+be 39, as in the Margin.
+
+To perfect the Reader in this part of Calculation, I will finish this Section
+with the calculation of a Year-piece of Clockwork. The Process whereof is the
+same with the last, and therefore I may be more brief with this, except where I
+have not touched upon the foregoing Rules.
+
+We will choose a piece to go 395 days with 16 turns, and 26 Striking-pins. By
+2. Rule 1. there are 3851 strokes in one turn of the Great-wheel. For 16. 395::
+156. 3851. This last number divided by the 26 Pins, leaves 148 in the quotient,
+to be broken into two or more quotients, for Wheels and Pinions. These
+quotients may be 12 and 12; which multiplied, makes 144, which is 10) 120 (12
+8) 96 (12 78 (26 pins
+
+
+as near as can well be, to 148. The work thus far contrived, will stand as you
+see in the Margin.
+
+Before you go any further, you may correct your work, and see how near your
+numbers come to what you proposed at first, because they did not fall out
+exact. And first, for the true continuance of your Clock* If you multiply 12,
+12, and 26 (i. e. the Quotients un*o the Stri^ing-pins, and those Pins) you
+have the true number of Strokes, in one turn of the Great-wheel: Which, in this
+example, make 3744. For 12 times 12, is 144; and 26 times that, is 3744. (This
+Direction I would have noted, and remembered, as a Rule useful at any time to
+discover the nature of any piece of Clock-work.) Having thus the true number of
+Strokes desired, by 2. Rule 2. you may find the true Continuance to be only 384
+days. For 156. 3744:: 16. 384. If this Continuance does not please you, you may
+come nearer to your first proposed number, of 395 days, by a small increase of
+the number o^ Turns; according to 2. Rule 3. viz. by making your turns almost
+16. For 3744. 156:: 395. 16 almost.
+
+Lastiy, For the Pinion of Report, if you fix it upon the Great-wheel, it will
+require an excessive number: if you fix it upon the Pin-wheel (which is usual)
+then by 2. Rule 5, the quotient 13) 39 (3
+
+
+is 3; and the Pinion of Report being 13, the Count-wheel will be 39; as you
+see in the Margin.
+
+But for the better exercising the Reader, let us fix it upon the Spindle of
+the Second-wheel 96. Its quotient is 12; which multiplied by 26 (the pins)
+produces 312; which are the Strokes in one turn of that Second-wheel. Then by
+2* Rule 5, Divide 78 by 312, i. e. Set them as a Wheel and Pinion thus, 312)
+78, and vary them to lesser numbers (by Sect. ^ 5.) viz. 36* 9, or to 24) 6, or
+the like.
+
+I think it needless to say any thing o^ Pocket-clocks, whose calculation is
+the very same, with what goes before.
+
+That the unlearned Reader may not think any thing going before difficult, I
+need only to advise him, to look over the working of the Rule of Proportion, in
+Sect. 2. 4. For I think all will be plain, if that be well understood.
+
+SECT. 4. Of Quarters and Chimes.
+THe Reader will expect that I should say somewhat concerning Quarters and
+Chimes: but because there is little, but what is purely mechanical in it, I
+shall say the less, and leave the Reader to his own invention.
+
+1. The Quarters are generally a distinct part from the Clock-part, which
+strikes the Hour.
+
+The Striking-wheel may be the First, Second, or etc. Wheel, according to your
+Clock's continuance. Unto which Wheel you may fix the Pinion of Report.
+
+The Locking-wheel must be divided (as other Locking-wheels) into 4, 8, or more
+unequal parts, ^o as to strike the Quarter, and lock at the first Notch; the
+half-hour, and lock at the second Notch, etc. And in doing this, you may make
+it to chime the Quarters, or strike them upon two Bells, or more.
+
+It Is usual for the Pin-wheel* or the Locking-wheel, to unlock the Hour-part in
+these Clocks; which is easily done by some jogg or Latch, at the end of the
+last Quarter, to lift up the Detents of the Hour-part.
+
+If you would have your Clock strike the Hour, at the Half-hour, as well as
+whole Hour, you must make the Locking-wheel of the Hour-part double: i. e. it
+must have two Notches of a sort, to strike 1, 2, 3, 4, etc. twice apiece.
+
+2. As for Chimes, I need say nothing of the Lifting-pieces and Detents, to
+lock and unlock; nor of the Wheels to bridle the motion of the Barrel. Only you
+are to observe, that the Barrel must be as long in turning round, as you are in
+Singing the Tune it is to play. As for the Chime-Barrel, it may be made up of
+certain Bars, that run athwart it, with a convenient number of holes punched
+in them, to put in the Pins, that are to draw each Hammer. By this means, you
+may change the Tune, without changing the Barrel. This is the way of the Royal
+Exchange Clock in London, and of others. In this case, the Pins or Nuts, which
+draw the Hammers, must hang down from the Bar, some more, some less, and some
+stand upright in the Bar: the reason whereof is, to play the Time of the Tune
+rightly. For the distance of each of these Bars, may be a Semi-brief, or etc.
+of which hereafter.
+
+But the most usual way is, to have the Pins that draw the Hammers, fixed on
+the Barrel. For the placing of which Pins, you may make use of the Musical
+Notes, or proceed by the way of Changes on Bells, viz. 1, 2, 3, 4, etc. The
+first being far the better way, I shall speak of that chiefly, especially
+because the latter will fall in to be explained with it.
+
+And first, you are to observe what is the Compass of your Tune, or how many
+Notes or Bells there are from the highest to the lowest: and accordingly you
+must divide your Barrel from end to end. Thus in the examples following, each
+of those Tunes are 8 notes in compass; and accordingly the Barrel is divided
+into 8 parts. These Divisions are struck round the Barrel, opposite to which
+are the Hammer-tails.
+
+I speak here, as if there was only one Hammer to each Bell, that the Reader
+may more clearly apprehend what I am explaining. But when two Notes of the same
+sound come together in a Tune, there must be two Hammers to that Bell, to
+strike it. So that if in all the Tunes you intend to Chime, of 8 notes compass,
+there should happen to be such double Notes on every Bell, instead of 8, you
+must have 16 Hammers: and accordingly you must divide your Barrel, and strike
+16 strokes round it opposite to each Hammer-tail. Thus much for dividing your
+Barrel from end to end.
+
+In the next place, you are to divide i^ (round about) into as many divisions,
+as there are Musical Bars, Semibriefs, Minums, etc. in your Tune. Thus the
+100th Psalm-tune has 20 Semibriefs; the Song-tune following, has 24 Bars of
+triple time: and accordingly their Barrels are divided. Each division therefore
+of the 100th Psalm Barrel is a Semibrief, and of the Song-tune it is three
+crotchets* And therefore the intermediate Spaces serve for the shorter notes:
+as, one third of a division, is a Crotchet, in the Song-tune. One half a
+division, is a Minum; and one quarter a Crotchet, in the Psalm-tune. Thus the
+first note in the 100th Psalm, is a Semibrief, and accordingly on the Barrel,
+it is a whole division from 5 to 5. The second is a Minum, and therefore 6 is
+but half a division from 5; and so of the rest. And so also for the Song-tune,
+which is shorter time: The two first notes being Quavers, are distant from one
+another, and from the third pin, but half a third part of one of the divisions.
+But the two next pins (of the bell 3, 3) being Crotchets, are distant so many
+third parts of a division. And the next pin (of the bell 1) being a Minum, is
+distant from the following pin (4) two thirds of a division.
+
+From what has been said, you may conceive the surface of a Chime-barrel, to
+be represented in the Tables following, as stretched out at length: or (to
+speak plainer) that if you wrap either of these Tables round a Barrel, the
+Dotts in the Table, will show the places of the A Table of Chimes to the 100
+Psalm.
+^ The Musical Notes of Psalm 100.
+^ The Musical Notes of, Such Command over my Fate, etc A Song
+^ The Chimes of the Song, Such Command over my Fate, etc.
+^ To be inserted between page ^^ and ^^
+
+Pins, to be set on the Barrel.
+
+You may observe in the Tables, that from the end of each Table to the
+beginning, is the distance of two, or near two divisions: which is for a Pause,
+between the end of the Tune, and its beginning to Chime again.
+
+I need not say, that the Dotts running about the Tables, are the places of the
+Pins that play the Tune.
+
+If you would have your Chimes complete indeed, you ought to have a set of
+Bells, to the Gamut notes; so as that each Bell having the true sound of Sol,
+La, Mi, Fa, you may play any Tune, with its Flats and Sharps. Nay, you may by
+these means, play both the Bass and Treble, with one Barrel.
+
+If any thing going before appears gibberish, I cannot help it, unless I should
+here teach the skill of Music too.
+
+As to setting a Tune upon the Chimebarrel from the number of Bells, viz. 1, 2,
+3, 4, I shall here give you a specimen thereof.
+
+Such Command over my Fate, in numbers.
+
+775, 3, 3, 1. 4, 5, 6, 4. 4, 2.
+
+Note, In these numbers, a Comma [,] signifies the note before it, to be a
+Crotchet. A pricked Comma, or Semi-colon [;] denotes a pricked Crotchet. And a
+Period [.] is a Minum. Where no punctation is, those Notes are Quavers.
+
+I shall only add further, that by setting the Names of your Bells at the head
+of any Tune (as is done in the Tables before) you may easily transfer that
+Tune, to your Chime-barrel, without any great skill in Music. But observe,
+that each line in the Music, is three notes distant; i. e. there is a Note
+between each line, as well as upon it: as is manifest by inspecting the Tables.
+
+SECT. 5. To Calculate any of the Celestial Motions.
+The Motions I here chiefly intend, are the Day of the Month, the Moons age,
+the Day of the Year, the Tides, and (if you please) the slow motion of the Suns
+Apogaeum, of the Fixed Stars, the motion of the Planets, etc.
+
+1. For the effecting these Motions, you may make them to depend upon the Work
+already in the Movement; or else measure them by the beats of a Balance, or
+Pendulum.
+
+If the latter way, you must however contrive a Piece (as before in Watch-work)
+to go a certain time, with a certain number of turns.
+
+But then to Specificate, or determine the Motion intended, you must proceed
+one of these two ways: either,
+
+1. Find how many beats are in the Revolution. Divide these beats by the beats
+in one turn of the Wheel, or Pinion, which you intend shall drive the intended
+Revolution; and the Quotient shall be the number to perform the same. Which, if
+too big for one, may be broken into more Quotients. Thus, if you would
+represent the Synodical Revolution of the Moon, which is 29 days, 12 hours)
+with a Pendulum that swings Seconds, the Movement to go 8 days, with 16 turns
+of the Fusy, and the Great-wheel to drive the Revolution. Divide 2551500 (the
+Beats in 29 days 12 hours) by 43200 (the Beats in one turn of the Great-wheel)
+and you will have 59 in the Quotient: which being too big for one, may be put
+into two Quotients. Or
+
+2. You may proceed as is directed before, Chapter 2. Sect. 2. 7.
+in the Section of Calculating Watchwork, viz. Choose your Train, turns of the
+Fusy, Continuance, etc. And then instead of finding a Quotient for the Pinion
+of Report, find a number (which is all one as a Pin. of Report) to Specificate
+your Revolution, by this following Rule.
+
+Rule. As the Beats in one turn of the Great-wheel. To the Train:: So are the
+Hours of the Revolution, To the Quotient of the Revolution.
+
+Thus to perform the Revolution of Saturn (which is 29 years, 183 days) with a
+16 hour Watch, of 26928 Beats in one turn of the Fusy, and 20196, the Train:
+the quotient of the Revolution, will be 193824. For, As 26928, To 20196:: So
+258432 (the Hours in 29 y. and 183 d.) To 193824. Note here, That the
+Great-wheel Pinion is to drive the Revolution work.
+
+But if you would have the Revolution to be driven by the Dial-wheel, and the
+Work already in the Movement (which in great Revolutions, is for the most part,
+as nice as the last way, and in which I intend to treat of the particular
+Motions) in this case, I say, you must first know the Days of the Revolution.
+And because the Dial-wheel goes round twice in a day, therefore double the
+number of the days in the Revolution, and you have the number of turns of the
+Dial-wheel in that time. This number of turns is what you are to break into a
+convenient number of quotients, for the Wheels and Pinions* as shall be showed
+in the following examples.
+
+2. A Motion to show the Day of the Month.
+
+Oughtred. 26.
+The days in the largest Month are 31. These doubled are 62, which are the
+turns of the Dial-wheel, which may be broken into these two quotients 15 and 4;
+which multiplied together make 62. Therefore choosing your Wheels and Pinions,
+as has been directed in the former Sections, your work is done. The Wheels 4)
+62 (15 5) 20 (4
+
+
+and Pinions may be, as you see done in* the Margin. Or if a larger Pinion than
+one of 5 be necessary, by reason it is concentrick to a Wheel, you 4) 62 (15 10
+(40 (4
+
+
+may take 10 for the Pinion, and 40 for the Wheel, as in the Margin.
+
+The work will lie thus in the Movement, viz. Fix your Pinion 10, concentrical
+to the Dial-wheel (or to turn round with it upon the same Spindle.) This Pinion
+10 drives the Wheel 40: which Wheel has the Pinion 4 in its center, which
+carries about a Ring of 62 teeth, divided on the upper side into 31 days.
+
+Or, you may, without the trouble of many Wheels, effect this motion; vi^. By a
+Ring divided into 30 or 31 days, and as many Fangs or Teeth, like a Crown*
+wheel teeth, which are caught and pushed forward once in 24 hours, by a pin in
+a Wheel, that goes round in that time. This is the usual way in the Royal
+Pendulums, and many other Clocks; and therefore being common, I shall say no
+more of it.
+
+3. A Motion to show the age of the Id. ib.
+Moon.
+
+The Moon finisheth her course* so as to overtake the Sun, in 29 days, and a
+little above an half. This 29 days (not regarding the small excess) makes 59
+twelve hours, or turns of the Dial-wheel, which is to be broken into convenient
+quotients: which 10) 5, 9 (^9 4) 40 (10
+
+4) 59 (14 10) 40 (4
+
+
+may be 5, 9 and 10 as in the first example; or 14 and 4, as in the second
+example in the Margin. So that if you fix a Pinion of 10 concentrical with your
+Dial-wheel, to drive a Wheel of 40 (according to the last example) which Wheel
+40 drives a Pinion 4, which carries about a Ring, or Wheel of 59 teeth, divided
+on the upper side into 29 'twill show the Moons age.
+
+Id. ib.
+4. A Motion to show the day of the Year, the Sun's place in the Ecliptic,
+Sun's Rising or Setting, or any other annual motion of 365 days.
+
+The double of 365 is 730, the turns of the Dial-wheel in an year: which may be
+broken into 4) 73 (18 4) 40 (10 5) 20 (4
+
+4) 73 (18 4) 32 (8 4) 20 (5
+
+
+these quotients, viz. 18, and 10, and 4, according to the first example; or
+18, 8, and 5, according to the second. So that a Pinion of 5 is to lead a Wheel
+of 20; which again by a Pinion of 4, leads a Wheel of 40; which thirdly, by a
+Pinion of 4, carries about a Wheel, or Ring of 73, divided into the 12 months,
+and their days; or into the 12 signs, and their degrees; or into the Sun's
+Rising and Setting, etc. For the setting on of which last, you have a Table in
+Mr. Oughtred's Opuscula.
+
+Autom. 35. Id. ib.
+5. To show the Tides at any Port.
+
+This is done without any other trouble, than the Moon's Ring (before mentioned
+3.) to move round a fixed circle, divided into twice 12 hours, and numbered the
+contrary way to the age of the Moon.
+
+To set this to go right, you must find out at what Point of the Compass the
+Moon makes full Sea, at the place you would have your Watch serve to. Convert
+that point into hours, allowing for every point North or S. lost 45 of an hour.
+Thus at London Bridge it is vulgarly thought to be high Tide, the Moon at N. E.
+and S. W, which are 4 Points from the N. and S. Or you may do thus: by
+Tide-tables learn how many hours from the Moon's Southing, it is Highwater. Or
+thus; find at what hour it is Highwater, at the Full or Change of the M^on: as
+at London Bridge, the full Tide is commonly reckoned to be 3 hours from the
+Moon's Southing; or at 3 of clock at the Full and Change. The day of
+Conjunction, or New Mood, with a little stud to point, being set to the hour so
+found, will afterward point to the hour of full Tide.
+
+This is the usual way; but it being always in motion, as the Tides are not, a
+better way may be found out, viz. By causing a Wheel, or Ring to be moved
+forward, only twice a day, and to keep time (as near as can be) with Mr.
+Flamsteed's most correct Tables. But this I shall commit to the Readers
+contrivance, it being easy, and more of curiosity than use.
+
+6. To Calculate Numbers, to show the Motion of the Planets, the Slow Motion of
+the Fixed Stars, and of the Sun's Apogeum, etc.
+
+Having said enough before that may be applied here, and they being only
+curiosities, seldom put in practice, I shall not therefore trouble the Reader,
+or swell my Book with so many words, as would be required to treat of these
+Motions distinctly, and completely.
+
+Only thus much in general. Knowing the years of any of these Revolutions, you
+may break this number into quotients; if you will make the Revolution to depend
+upon the year's Motion; which is already in the Movement, and described 4.
+before. Or if you would have it depend upon the Dial-wheel, or upon the Beats
+of a Pendulu^, enough is said before to direct in mis matter.
+
+In all these Slow motions, you may somewhat ^^^^ten your labor, by endless
+Screws to serve for Pinions, which are but as a Pinion of one tooth.
+
+Mat. Com. p. 117.
+Sir Jonas Moor's account of his large ^phere going by Clock-work, will
+suffi^ently illustrate this paragraph. In this ^phere, is a Motion of 17100
+years, for ^he Sun's Apogeum, performed by six ^heels, thus, as Sir Jonas
+relates it; For the Great-wheel fixed is 96, a Spindle-wheel of 12 bars turns
+round it 8 times in 24 hours, that is, in 3 hours; after these, there are four
+Wheels, 20, 73, 24, and 75, wrought by endless Screws that are in value but
+one: therefore 3, 20, 73, 24, and 75 multiplied together continually, produces
+7884000 V. Sect. 1 4, 5.
+hours, which divided, by 24 gives 3285000 days, equal to 900 years. Now on the
+last wheel 75 is a pinion of 6, turning a great Wheel, that carries the
+Apogeum number 114: and 114 divided by 6, gives 19 the quotient: and 900 times
+19 is 17100 years.
+
+Thus I have, with all the perspicuity I ^ould, led my Reader through the whole
+^rt of Calculation, so much of it at least, ^at I hope he will be master of it
+all; not ^ly of those motions, which I have par^cularly treated about, but of
+any other ^t mentioned: Such as the Revolution of the Dragons Head and Tail,
+whereby the Eclipses of the Sun and Moon are found, the Revolution of the
+several Orbs, according to the Ptolemaick System, or of the celestial bodies
+themselves, according to better Systems, with many other such curious
+performances, which have made the Sphere of Archimedes of old famous: and since
+him, that of William of Zeland, De Subtle. l. 17.
+and another of Janellus Turrianus of Cremona, mentioned by Cardan: and of late,
+that elaborate piece of Mr. Watson, late of Coventry, now of London, in her
+late Majesty's Closet.
+
+CHAP. III. To alter Clock-work, or convert one Movement into another.
+THis Chapter I design for the use of such, as would convert old Balance
+Clocks into Pendulums, or would make any old work serve for the trial of new
+motions, or would apply it to any other such like use.
+
+1. To do this, you may draw a Scheme of your old work: and so you will see
+what Quotients you have, and what you will want. To do all which, there are
+sufficient instructions in the preceding Chapter. A few instances will make all
+plain.
+
+2. Let us choose for instance an old Balance clock to be turned into a
+Pendulum of 6 inches. The old work is, The Great-wheel 56, the Pinion 7; the
+next Wheel 54, the Pinion 6; the Crown-wheel 19, etc. The Scheme 4) 48 (12 7)
+56 (8 6) 54 (9 19
+
+
+of this work is in the Margin. The Quotients and Crown-wheel and 2 Pallets
+multiplied together continually, produce 2736, which are the Strokes of the
+Balance, in one turn of the Great-wheel, by Sect. l. 4, 5. of the last
+Chapter. And by the Quotient of the Dial-wheel (which is 12) it appears, that
+the Great-wheel goes round once in an hour. Or you may find the Beats in an
+hour, by 5. last cited. Having thus found the Beats in an hour, of the old
+work, you must next find the Beats in an hour, of a 6 inches Pendulum; which
+you may do by Horol. Dis. p. 54.
+Chap. 5. 4. following; or by Mr. Smith's Tables, according to whom the number
+is* 9368. Divide this by 2736, and you have the Quotient, which 2736) 9368 (3
+
+
+is to be added to the Scheme of the old work. This Quotient is 3 and near * as
+you see in the Margin.
+
+The work thus altered, will 4) 48 (12 7) 56 (8 6) 54 (9 6 (2^ (3 19
+
+
+stand as you see in the Margin, viz. a Pinion 6, and a Contrate-wheel 21, must
+be added.
+
+According to this way, the old work will stand as before, only the Crown-wheel
+must be inverted.
+
+3. But because the Crown-wheel is too big for the Contrate-wheel (which is
+unseemly) therefore it will be best, *to make both the Contrate, and
+Crown-wheels new; and increase the number of the Contrate-wheel, but diminish
+that of the Crown-wheel. To do which, pitch upon some convenient number for the
+Crown-wheel. Multiply all the Quotients, and this new Crown-wheel number, as
+before; and divide 9368 by it. As, Suppose you pitch upon 11 for the
+Crown-wheel: if you multiply 8, 9 and 11* the Product is 792; which multiplied
+by the 2 Pallets, makes 1584, which are the Beats in one turn of the
+Great-wheel, or V. Sect. 1* 6.
+in an hour. Divide 9368 by it, and you have near 6 for the Quotient 4) 48 (12
+7) 56 (8 6) 54 (9 6) 36 (6 11
+
+
+of your Contrate-wheel. The work thus ordered, will stand as in the Margin.
+
+If you would correct your work, to find the true number of Beats in an hour,
+etc. you must proceed, as is shown Sect. 2. 6, and latter end of 7. of the last
+Chapter.
+
+4. But suppose you have a mind to change the former old Watch, into a 30 hour
+piece, and to retain the old Ballance-wheel (which may be often done:) in this
+case, you must add a Contrate-wheel, and alter the Pinion of report. For the
+Contrate-wheel, choose such a Quotient, as will best suit with the rest of your
+work; and then multiply all your Quotients, Crown-wheel and ^ Pallets together,
+and so find the number of turns in the Great-wheel, as before. Then say by
+Sect. 2. 6. part 5. before, As the Beats in one turn of the Great-wheel, To the
+Beats in an hour:: So are the hours of the Dial, To the quotient of the Pinion
+of Report.
+
+Thus in the old work before; to the old quotients 8 and 9, you may add another
+of 8, for the Contrate-wheel. Those multiplied, as was now directed, make
+21888, for the Beats in one turn of the Great-wheel. And then for the quotient
+of the Pinion of Report, say in numbers thus, 21888. 9368:: 12. 5. 6) 30 (5 7)
+56 (8 6) 54 (9 6) 48 (8 19
+
+
+The quotient for the Pinion of Report is somewhat more than 5, which overplus
+may be neglected, as you see by the Scheme of the whole work in the Margin.
+
+If you desire to know what number of turns, the Fusy must have in this work;
+Say by the last quoted * part 1, in numbers thus, 21888. 9368:: 30. 13 almost.
+So that near 13 turns will do.
+
+If you would correct your work, to know the exact Beats, etc. you are referred
+to directions in the end of the last paragraph.
+
+5. I shall add but one thing more, to what has been said in this Chapter, and
+that is, to change the Striking part of this old Movement, into a 30 hour piece.
+
+A Scheme of the old 4) 39 ^ 7) 56 (8 pins 6) 54 (9 6) 48 (8
+
+
+work is in the Margin.
+
+And to alter it, the best way is, to double the number of Striking pins,
+making the 8, sixteen pins: and the Hoop of the Detent-wheel double, that the
+Pin-wheel may strike two strokes, in its going round once.
+
+The greatest inconvenience here, will be to bridle the rapidity of the
+Strokes; because a quotient of (2 only, added to the old work, will be
+sufficient for this purpose: which being an inconvenient number, 'twill be
+necessary to be content with the old numbers, or make more Wheels and Pinions
+new, than may be thought worth the while.
+
+If you would find what number of turns, the Fusy will require; you must find
+how many Strokes are in 30 hours, by Sect. 3. 2. R. 6. before. These are 195;
+which divided by the 16 Pins, gives somewhat more than 12 turns of the Fusy.
+
+Lastly, for the Pinion of Report, you must pursue the directions in the last
+quoted place, R. 5.
+
+The work thus altered, 5) 24 (7/18/6 7) 56 8. 16 pins 6) 54 (9 6) 48 (8
+
+
+will stand as in the Margin.
+
+CHAP. IV. To size the Wheels and Pinions, or proportion them to each other,
+both Arithmetically and Mechanically.
+1. FOr the exact and easy moving of the Wheels and Pinions together, it is
+necessary that they should fit each other, by having their teeth and leaves of
+the same wideness, or near of the same wideness. For many do make the Leaves of
+the Pinion narrower than the Teeth of its Wheel, by reason of their running
+deep in each other; which is as if the Diameters of the Wheel and Pinion were
+less. But this I leave to those, whose practice and observations are greater
+than mine in these matters.
+
+2. To make the Teeth of a Wheel and Pinion alike, the way Arithmetically is
+thus, First you must find the Circumference of your Wheel and Pinion; which you
+may best do by the Rule of Three (so often made use of before) the Rule is
+thus, as 7 is to 22:: so is the Diameter to the Circumference. Or more exactly
+thus, as 1, is to 3, 1416:: So Diam. to Circum.
+
+Suppose you have a Wheel of 2 inches diameter, and 60 Teeth, and would fit to
+it a Pinion of 6 Leaves. First 7 22:: 2. 6, 3. The circumference of the Wheel,
+is then 6 inches, and 3 tenths of an inch. Then say, as the Teeth of the Wheel,
+to the circumference Sir J. Moor Mat. Com. R. 5.
+of it:: So are the Leaves of the Pinion, to the circumference thereof. In
+numbers thus 60* 6, 3:: 6*, 63. The Pinion then is 63 hundredth parts of an
+inch round.
+
+Now to find the Diameter, it is but the reverse of the former Rule, viz. As 22.
+to 7:: So the Circumference to the Diameter. In numbers thus, for the foregoing
+Pinion, 22. 7::, 63* 2, The Diameter then of the Pinion must be two tenths of
+an inch, to fit the aforesaid Wheel of 2 inches diameter.
+
+sect 3. But because this way may be difficult to persons unacquainted with
+Decimal Arithmetic, which is very necessary here; therefore I shall set down a
+way to do it mechanically. Having drawn a Circle, divide it into as many parts,
+as you intend leaves in the Pinion you would size. From two of these points in
+the Circle, draw two lines to the Center: to which apply two of the Teeth of
+your Wheel, guiding them up and down until they touch at the same width on
+these Radii. Mark where this agreement is, and a small circle drawn there, will
+represent the circumference of the Pinion sought after.
+
+CHAP. V. Of Pendulums.
+sect 1. AMong all known Motions, none measures Time so regularly, as that of
+a Pendulum. But yet Watches governed hereby are not so persect, but that they
+are subject to the variations of weather, foulness, etc. And the shorter, and
+lesser the Pendulum is, so much the more subject such Watches are to these
+annoyances.
+
+There are two ways to obviate these inconveniences in some measure. One way
+is, to make the Pendulum long, the Bob heavy, and to vibrate but a little way
+from its settlement. Which is now the most usual way in England. The other is
+the contrivance of the ingenious Mr. Hu^ens, which is, to make the upper part
+of the rod, play between two cheek parts of ^ Cycloid. Sir Jonas Moor says,
+that after some time, and charge of Experiments, Id. ib. Rule 3.
+he believes this latter to be the better way. And Mr Hugens calls it admirable.
+
+If any desire to know how to make those Cycloidal Cheeks, fit to all
+Pendulums, I refer him to the aforesaid Mr. Zulichem's De Horol. Oscil. p. 10,
+11, 12.
+Book, because I cannot show how to do it, without the trouble of Figures; and
+this way is much ceased, since the Crown-wheel method (to which it is chiefly
+proper) is swallowed up by the Royal Pendulums.
+
+sect 2. Another thing to be remarked in Pendulums is, That the longer the
+Vibration is, the ^lower it is. For if two isochrone Pendulums do move, one the
+quadrant of a circle, the other not above 3 or 4 degrees, this latter shall
+move somewhat quicker than the former. Which is the true reason, why small
+Crown-wheel Pendulums go faster in cold weather, or when soul, than at other
+times. Yea, in the best Royal Pendulum, if you put a divided plate behind the
+Ball, and observe its swings, you may perceive the Vibrations to be sometimes
+shorter; and that then the Watch does gain too much* Somewhat also may perhaps
+be attributed to the rarity or density of the air; which I have not yet had an
+opportunity of observing, by comparing with a good Baroscope, the various
+vibrations of a good Royal Pendulum. But Mr. Boil says, that a Pendulum moves
+as long, and as Machina Pneumat. Exp. 26.
+fast in a thick medium, as a thin one; contrary to the opinion of some
+Naturalists, who think the contrary. His opinion is grounded upon the
+experiment of a Pendulum vibrating in his air-pump, the air sucked out, and in
+the open air; wherein was no alteration.
+
+sect 3. For the calculation of all Pendulums, it is necessary to fix upon some
+one, to be as a Standard to the rest. I pitch upon a Pend* to vibrate Seconds
+each stroke.
+
+Mr. Hugens lays down the length of a Pend. to swing Seconds to be 3 feet, 3
+inches, and 2 tenths of an inch (according to Sir J. Moor's reduction of it to
+English measure. Ibid.
+)
+
+Ibid.
+The Honorable Lord Bru^cker (says Sir Jonas) and Mr. Rook, found the length
+to be 39, 25 inches, which a little exceeds the other: and may be, was justened
+by Mr. Hugens's Rule for the Center of Oscillation. For Mounton's Pendulum,
+that* vibrate 132 times in a minute, it will be found likewise 8, 1 inches,
+agreeing to 39, 2 inches English. Therefore for certain 39, 2 inches may be
+called the Universal measure, and relied on, to be the near length of a Pend.
+that shall swing Seconds each vibration.
+
+But forasmuch as the different size of the Ball, will make some difference in
+the length of this Standard Pend., therefore to make this Pend. an Universal
+measure, to fit all Places and Ages, you must measure from the Point of
+Suspension, to the Center of Oscillation. Which Center is found by this Rule,
+As the length of the Fiugenius ^^^i supra, p. 141. Sir J. Moor ibid.
+String from the point of* Suspension to the center of a round Ball: is to the
+Semidiameter of a round Ball: is to the Semidiameter, to a fourth number. Add
+two fifths of that fourth number, to the former length, and you have the center
+of Oscillation; and thereby the true length of this Standard Pendulum.
+
+If it be desired to fit a Ball of a triangular, quadrangular, or any other
+form to this Pend, the center of Oscillation in any of these bodies, may be
+found in the last cited book of Mr Zulichem.
+
+If it be asked, What is the meaning of the Center of Oscillation? The most
+intelligible answer (although not perfectly true) is, That it is that point of the
+Ball, at which if you imagine it divided into two parts, by a circle, whose
+center is in the point of Suspension, the lower part of the Ball shall be of
+the same weight (or near so) with the upper.
+
+4. Having thus fixed a Standard, I shall next show how from thence to find the
+Vibrations, or Lengths of all other Pendulums. Which is done by this Rule,
+Hugen* Moor, ib^*
+The squares of the Vibrations, bear the same Proportion to each other, as
+their Length^ do. And so contrary wise. Wherefore to find the length of a Pend*
+say* As the Square of the Vibrations given: To the Square of 60 (the
+Standard):: So is the length of the Standard (viz. 39, 2) To the length of the
+Pend. sought.
+
+If by the length, you would find the Vibrations, it is the reverse of the last
+Rule, viz. As the length proposed: To the Standard (39, 2):: So is the Square
+of 60 (the vibrations of the Standard): To the Vibrations sought.
+
+Suppose for example, you would know what length a Pend. is, that vibrates 153
+strokes in a minute. The Square of 153 (i. e. 153 times 153) is 23409. Say,
+23409. 3600:: 39, 2. 6. A Pend. then that vibrates 153 in a minute, is about 6
+inches long.
+
+On the other hand, if you would know how many strokes a Pend. of 6 inches has
+in a minute; Say, 6. 39, 2:: 3600. 23520. The square root whereof is 153, and
+somewhat more.
+
+Note, Because 141120 is always the Product of the two middle terms multiplied
+together, therefore you need only to divide this number by the Square of the
+Vibrations, it gives the length sought: by the length, it gives the square of
+the Vibrations.
+
+If you operate by the Logarithms, you will much contract your labor. For if
+you seek the length, it is but Substracting the Logarithm of the Square of the
+Vibrations, out of the Logarithm of 141120, which is 5. 149588, and the
+Remainder is the Logarithm of the length sought.
+
+If you seek the Vibrations, it is but Substracting out of the aforesaid
+Logarithm 5. 149588, the Logarithm of the length given, and half the Residue is
+the Logarithm of the Vibrations required. The following examples will
+illustrate each particular.
+
+To find the Length.
+Logarithms. 141120 5. 149588 153 Squared is 23409 4. 369382 Length is more
+than 6. 0. 780206 To find the Vibrations.
+Logarithms. 141120 5. 149588 6 inches long 0. 778151 Square of the Vibr. 4.
+371437 Square-toor, or numb. of Vibr. is 153, and somewhat more. 2. 185718
+
+According to the foregoing Directions* I have calculated the following Table*
+to Pendulums of various lengths: and have therein showed the Vibrations in a
+minute, and an hour, from 1 to 100 inches. If any desire a more minute account,
+I refer Horolog. Disquis.
+him to Mr Smith's Tables in his late Book. The reason why his calculation and
+mine differ, is because he measures the length of the Pend. from the point of
+Suspension, to the lower part of the Bob; and I only to the center of the Bob.
+His Standards are 6 inches, and 41 inches; and mine is 39, 2, for the reasons
+aforegoing.
+
+A Table of Swings in a Minute, and in an hour, to Pendulums of several lengths.
+Pend. length in inches Vibrat. in a Minute. Vibrat. in an Hour. 1 375,7 22542
+2 265,6 15936 3 216,9 13014 4 187,8 11268 5 168,0 10080 6 153,3 9204 7 142,0
+8520 8 132,8 7968 9 125,2 7512 10 118,8 7128 20 84,0 5040 30 68,6 4116 39,2
+60.0 3600 40 59,4 3264 50 53,1 3186 60 48,5 2910 70 44,9 2694 80 42,0 2520 90
+39,6 2376 100 37,5 2250
+
+The use of this Table is manifest, and needs no explication. As to the
+Decimals in the column of Minute-Swings, I have ^dded them for the sake of
+calculating the column of Hour-Swings; which would have been judged false
+without them, and would not have been exactly true without them.
+
+5* I have but one thing more to add to this Chap. of Pendulums, and that is,
+^o Correct their Motion.
+
+The usual way is, to screw up, or let down the Ball. In doing of which, a
+small alteration will make a considerable ^ariation of Time: as you will find
+by calculation, according to the last paragraph. To prevent the inconvenience
+of ^crewing the Ball too high, or low, Mr Smith has contrived a very pretty
+Table Ibid.
+^or dividing the Nut of a Pendulum Screw, ^o as to alter your Clock but a
+Second in ^day. But by reason no Screw and Nut can be so made, as to be most
+exactly strait and true, therefore it may happen, that instead of altering your
+Watch to your mind, you may do quite contrary; as ^nstead of letting the Ball
+down, you may raise it higher, by the false running of the Nut upon the Screw.
+
+Considering this irremediable inconvenience, I am of opinion, that Mr Hugens's
+Ibid. de Centro Oscil. Prop. 23.
+way would do very well, added to this. His way is, To have a small Weight, or
+Bob, to slide up and down the Pend. rod, above the Ball (which is immovable.)
+But I would rather advise, that the Ball be made to screw up and down, to bring
+the Pend. pretty near its gauge: and that this little Bob should serve only for
+more nice corrections; as the alteration of a Second, or etc. Which it will do,
+better than the Great Ball. For a whole turn of this little Bob, will not
+affect the motion of the Pend. near so much as a small alteration of the Great
+Ball.
+
+The Directions Mr Hugens gives, about this little Corrector, is, That it
+should be equal to the weight of the Wire, or Rod of the Pend., or about a 50th
+part of the weight of the Great Ball, which he appoints to be three pounds.
+
+Perhaps this Bob may do its office, if it be made to screw only up and down
+the lower part of the Rod, below the Ball. If not, you must make it slide above
+the Ball, or be screwed up and down there.
+
+Seeing this little Bob is not the only Corrector (as in Mr Zulichem's way)
+therefore it is not necessary to insert here, that ingenious person's Table,
+showing what alterations of Time will be made by sliding the Bob up and down
+the rod. Only thus much may be observed in that Table of his, viz. That a small
+alteration of the Corrector toward the lower end of the Pend*, does make as
+great an alteration of Time, as a greater raising or falling of it, does make
+higher. Thus the little Bob raised 7 divisions of the Rod, from the Center of
+Oscillation, will alter the Watch 15 seconds; raised 15, 2 'twill alter it 30.
+But whereas, if it be raised to 154* 3 parts of the Rod, it will make the Watch
+go faster 3 minutes, 15 seconds, the Watch shall be but 3. 30 faster, if the
+Bob be raised to 192* 6. So that here you have but 15 variation, by raising the
+Bob above 38 parts; whereas lower, you had the same variation, when raised not
+above 7 or 8 parts.
+
+From what has been said, it appears, that about half a turn of this little
+justening Bob, will at no time alter the Watch, above a second in 24 hours* and
+that above a whole turn, will not alter it so much, higher on the Rod;
+supposing that the Bob at every turn ascended or descended a whole degree of
+the Rod; which perhaps it will not do in 20 turns: and consequently, it will
+require many turns, to alter the Watch but one second.
+
+CHAP. VI. The Antiquity, and general History of Watch, or Clock-work.
+1. IT is probable, that in all Ages, some Instruments or other have been used,
+for the Measuring of Time. But the earliest we read of, is the Dial of Ahaz.
+Concerning which, little of certainty 2 Kings ^0* 11. Isai. 38. 8.
+can be said. The Hebrew word Ma^aloth does properly signify Degrees, Steps, or
+Stairs, by which we ascend to any place. And so this word Ma^aloth is rendered
+Ezekiel. 40. 26. And accordingly the LXXII translate the Ma^aloth of Ahaz, by the
+words (...), and '(...), i. e. Steps or Ascents. The like does the Syriack,
+Arabic, and other Versions.
+
+Some pretend to give a description of this Dial of Ahaz: but it being mere
+guessing, and little to my purpose, I shall not trouble the Reader with the
+various opinions about it.
+
+Among the Greeks and Romans, there were two ways chiefly used to measure their
+Hours. One was by Clepsydrae, or Hour* glasses. The other by the Solaria, or
+Sun-dials. The (...), says Suidas and Phavorinus, was (...) Lexic. in verbo
+(...)
+(...) i. e. An Astronomical Instrument, by which the Hours were measured. Also,
+That it was a Vessel, having a little hole in the bottom, which was set in the
+Courts of Judicature, full of water; by which the Lawyers pleaded. This was,
+says Phavorinus, to prevent babbling, that such as spoke, ought to brief in
+their Speeches.
+
+As to the Invention of those Waterwatches (which were, no doubt, of more
+common use, than only in the Law-Courts) De die Natali c. 23.
+the Invention, I say, of them, is attributed, by Censorinus, to P. Cornelius
+Nasica, the Censor (Scipio Nasica, Pliny calls him.)
+
+The other way of measuring the Hours, Ibid.
+with Sun-dials, seems, from Pliny and Censorinus, to have been an earlier
+invention Not. Hist. l. 2. c. 76.
+than the last. Pliny says, that Anaximenes Milesius, the Scholar of
+Anaximander, invented Dialling, and was the first that showed a Sun-dial at
+Lacedoemon. Vitruvius De Archit. l. 6. c. 48.
+calls him Milesius Anaximander. This Anaximander or Anaximenes was cotemporary
+with Pythagoras, says Laertius; and flourished about the time of the Prophet
+Daniel.
+
+But enough of these ancient Timeengines, which are not very much to my
+purpose, being not pieces of Watch-work.
+
+I shall in the next place take notice of a few Horological Machines, that I
+have met with; which, whether pieces of Clock-work, or not, I leave to the
+Readers judgment.
+
+In the Life of Dions
+The first is that of Dionysius, which Plutarch commends for a very
+magnificent, and illustrious Piece. But this might be only a well delineated
+Sun-dial.
+
+Another Piece, is that of Sapor King of Persia. Whether that Sapor, who was
+Eusebius. Vit. Constable* l. 3.
+cotemporary with Constantine the Great, I ^ow not. ^ardan says it was made of
+De Subtle* l. 17.
+Glass; that the King could sit in the middle of it, and see its Stars rise and
+set* But not finding whether this Sphere was moved by Clock-work, or whether it
+^ad any regular motion, I shall say no ^ore concerning it.
+
+The last Machine I shall mention in ^his Paragraph, is one I find des^ribed by
+De Architect. l. 9. c. 9^
+^itruvius. Which to me seems to be a piece of Watch-work, moved by an equal
+^nflux of Water.
+
+If the Reader will consult the French ^dition of Vitruvius, he will find there
+a ^ir Cut of it.
+
+Among diverse seats which this Ma^hine performed (as sounding Trumpets,
+^hrowing Stones, etc.) one use of it was, ^o show the Hours (which were unequal
+^n that age) through every month of the ^ear. The words of Vitruvius are,
+Aequa^iter influens aqua sublevat Scaphum inversum (quod ^b artificibus Phellos
+sive Tympanam ^icitur) in quo collocata regula* versatilia ^^mpana denticuli^
+a*qualibus s^nt perfecta. ^ui denticuli alius alium impelientes, ver^^^iones
+modicas faciant, ac motiones. Item (...) Reg^loe, aliaque Tympana ad eundem
+modum dentata, quoe una motione coacta, versando faciunt effectus,
+varietatesque motionum: in quibus moventur Sigilla, vertuntur Metoe, calculi
+aut Tona projiciuntur, Buccinoe canunt, etc. In his etiam, aut in colu^na, ant
+parastatica Horoe describuntur; quas Sigillum egrediens ab imo virguloe,
+significat, in diem totum: quarum brevitates ant crescentias, cuneorum adjectus
+aut exemptus, in singulis diebus and mensibus, perficere cogit.
+
+The Inventer of this famous Machine, Vitruvius says, was one Ctesibius, a
+Barbers Son of Alexandria. Which Ctesibius flourished under Ptolomy Euergetes,
+says V^d. Phi^^nd. not. in Vitruv.
+Athenoeus, l. 4. And if so, he lived about 240 years before our Saviors days;
+and might be cotemporary with Archimedes.
+
+3. Thus having given a small account of the ancient ways of Measuring Time, it
+is time to come closer to our business, and say something more particularly of
+Clock-work.
+
+Which is thought to be a much younger invention, than the forementioned
+Pieces; and to have had its beginning in Germany, within less than these 200
+years.
+
+It is very probable, that our Balance Clocks, and some other Automata, might
+have their beginning there; or that Clock-work (which had long been buried in
+oblivion) might be revived there. But that Clock work was the Invention of that
+age purely, I utterly deny; having (besides what goes before) two instances to
+the contrary, of much earlier date.
+
+4. The first example is the Sphere of Archimedes; who lived about 200 years
+before our Saviors days. There is no mention of this Sphere in Archimedes his
+extant works: but we have an account of it in others. Cicero speaks of it more
+than once. In his 2d Book De Nature Deorum, are these words; Archimedem
+arbitrantur plus valuisse in imitandis Sphoeroe conversionibus, quam Naturam in
+efficiendis, etc. And in his Tusculane Questions, Lib. 1. 25. Edit. El^ivir.
+the Collocutor, proving the Soul to be of a Divine Nature, argues from this
+Contrivance of Archimedes, and says, Nam cum Archimedes Lunoe, Solis, quinque
+Errantium motus in Sphoeram illigavit, effecit, etc. The Sense is, That
+Archimedes contrived a Sphere, which showed the motion of the Moon, Sun, and
+five Planets.
+
+Epigr. in Sphoer. Archimed. Vid. Card. de Subtle. l. 17.
+But the most accurate description is that of Claudian, in these words.
+
+Jupiter in parvo cum cerneret oethera vitro,
+Risit, and ad Superos talia dicta dedit:
+Huccine mortalis progressa potentia curoe?
+Jam meus in fragili luditur or be labor.
+Jura poli, rerumque fidem, legesque Deorum,
+Ecce Syracusius transtulit art Senex.
+Inclusus variis famulatur Spiritus astris,
+Et vivum certis motibus urget opus.
+Percurrit proprium mentitus Signifer annum.
+Et simulata novo Cynthia mense redit.
+Jamque suum volvens audax industria mundum
+Gaudet, and humana Sidera mente regit.
+Quid falso insontem tonitru Salmonea miror?
+Aemula Naturoe parva reperta manus.
+In English thus:
+When Jove espied in Glass his Heavens made,
+He smiled, and to the other Gods thus said:
+Strange feats! when human art so far proceeds,
+To ape in brittle Orbs my greatest deeds.
+The heavenly motions, Natures constant course,
+Lo! here old Archimede to art transfers.
+The enclosed Spirit here each Star does drive;
+And to the living work sure motions give.
+The Sun in counterfeit his year does run,
+And Cynthia too her monthly circle turn.
+Since now bold man has Worlds of's own descried
+He joys, and the Stars by human art can guide.
+Why should we so admire proud Salmons cheats
+When one poor hand Natures chief work repeats.
+From this description it appears, that in this Sphere, the Sun, Moon, and
+other heavenly bodies, had their proper motion: and that this motion was
+effected by some enclosed Spirit. What this enclosed Spirit was, I cannot tell,
+but suppose it to be Springs, Wheels or Pullies, or some such means of
+Clock-work: Which being hidden from vulgar eyes, might be ^^ken for some Angel,
+Spirit, or Divine power; unless by Spirit here, you un^erstand some aerious,
+subtiliz'd liquor, (...) vapors. But how this, or indeed any thing, but
+Clock-work, could give such ^ue, and regular motions, I am not able ^o guess.
+
+5. The next instance I have met with (...) ancient Clock-work, is that famous
+^ne in Cicero, which, among other irre^agable De Not. Deor. Lib. 2. 34.
+arguments* is brought in to love, That there is some intelligent, divine, and
+wise Being, that inhabiteth, rules in, and is as an Architect of so great a
+work, as the World is, as the Collocutor expresses himself* His words (so far
+as they relate to my present purpose) are these: Cum Solarium vel descriptum,
+aut ex Aqua contemplere, intelligere declarari horas art,non casu, etc. And a
+little after, Quod si in Scythiam, aut in Britanniam, Sphaeram aliquis tulerit
+hanc, quam nuper familiaris noster effecit Posidonius, cujus singulae
+Conversiones idem efficient in Sole, and in Luna, and in quinque Stellis
+errantibus, quod efficitur in coelo singulis diebus, and noctibus; quis in illa
+barbary dubitet, quin ea Sphaera sit perfecta ratione? The sum of the Authors
+meaning is, That there were Sun-dials described, or drawn [with Lines, after
+the manner as our Sun-dials are:] and some made with Water(which were the
+Clepsydrae, or Hour-glasses, beforementioned.) That Posidonius had lately
+contrived a Sphere, whose Motions were the same in the Sun, Moon, and 5
+Planets, as were performed in the heavens each day and night.
+
+The age wherein this Sphere was in^ented, was Cicero's time, which was a^out
+80 years before our Saviors birth.
+
+And that it was a piece of Clock-work, ^s not (I think) to be doubted, if it
+be ^onsidered, that it kept time with those ^elestial bodies, imitating both
+their an^ual, and diurnal motions, as from the ^escription we may gather it did.
+
+It may be questioned, whether those Machines were common or not: I believe
+^hey were rarities then, as well as Mr Wat^n's and others are accounted now.
+But ^nethinks it is hard to imagine, that so ^seful an Invention should not be
+reduced ^to common use; it being natural, and ^sie to apply it to the measuring
+of ^ours (tho unequal) especially in two ^^ch Ages, as those of Archimedes and
+^ully were, in which the Liberal Arts so greatly flourished.
+
+6. After the times last mentioned, I and little worth remark, till the last
+Age; (...) which Clock-work was revived, or ^holly invented anew in Germany* as
+is ^enerally thought, because the ancient ^ieces are German work. But who was
+^e Inventer, or in what time, I cannot M^lyneaux, Scioth. Telescop. Ep. Dedic.
+discover. Some think Sever. Boethius invented it about the year 510. Perhaps
+it was in Regiomontanus his time (if not so early as Boethius) which was above
+200 years ago. It is very manifest, it was before Cardan's time, because he
+speaks of it, as a thing common then. And he lived about 150 years since.
+
+7. As to those curious contrivances in Clock-work, which perform strange,
+surprising feats, I shall say little. Dr. Heylin Cosmog. l. 2.
+tells us of a famous Clock and Dial in the Cathedral Church of Lunden in
+Denmark. In the Dial (says he) are to be seen distinctly the Year, Month,
+Weekday, and Hour of every day throughout the Year; with the Feasts, both
+moveable and fixed; together with the Motion of the Sun and Moon, and their
+passage through each degree of the Zodiac. Then for the Clock, it is so framed by
+artifical Engines, that whenever it is to strike, two Horsemen encounter one
+another, giving as many blows apiece, as the Bell sounds hours: And on the
+opening of a door, there appears a Theater, the Virgin Mary on a Throne, with
+Christ in her arms, and the three Kings or Magi (with their several trains)
+marching in order, doing humble reverence, and presenting severally their
+Gifts; two Trumpeters sounding all the while, to adorn the Pomp of that
+Procession.
+
+Magia Univers. P. 1. Proleg: and Magia Thaumaturg.
+To this I might add many more such curious performances; but I rather choose to
+refer the Reader to Schottus, where he may find a great variety, to please him.
+
+CHAP. VII. Of the Invention of Pendulum Watches.
+1. THe first that invented the way of applying Pendulums to Watch-work, was Mr
+Christian Hugens of Zulichem; as he affirms of himself, with very cogent
+reasons.
+
+This excellent invention, he says, he put first in practice in the year 1657*
+and Hor. Oscil. p. 3* Edit. Paris.
+in the following year 1658, he printed a delineation and description of it.
+
+Others have claimed the honor of this Invention; among which, the great
+Galileo has the most to be said on his side. Dr. John Joachim Becher (who
+printed a Book when he was in England, entitled; De Nova Temporis dimetiendi
+ratione Theoria, etc. which he dedicated to the English Royal Society, Anno
+1680.) he, I say, tells p. 8.
+us, That the Count Magalotti (the Great Duke of Tuscany's Resident at the
+Emperors Court) told him the whole History of these Pendulum Clocks, and denied
+Mr Zulichem to be the Author of them. Also, That one Treffler (Clock-maker to
+the Father of the then G. Duke of Tuscany) related to him the like History: and
+said moreover, That he had made the first Pend. Clock, at Florence, by the
+command of the Great Duke, and by the direction of his Mathematician Galilaeus
+a Galilaeo; a pattern of which was brought into Holland. And further he says,
+That one Caspar Doms, a Fleming, and Mathematician to John Philip a Schonborn,
+the late Elector of Mentz) told him, that he had seen at Prague, in the time of
+Rudolphus the Emperor, a Pend. Clock, made by the famous Justus Borgen,
+Mechanic and Clock-maker to the Emperor: which Clock the great Tycho-Brahe
+used in his Astronomical observations.
+
+Exper* made in the Acad* del Cimento by Mr. Wal^er, p. 12.
+Thus far Becher. To which I may add, what is said by the Academie del Cimento,
+viz. It was thought good to apply the Pendulum to the Movement of the Clock* a
+thing which Galilaeo first invented, and his Son Vincenzio Galilei put in
+practice in the year 1649.
+
+As to these matters thus related by hearsay by Becher, and so expressly
+affirmed by the Academy, I have little to reply, but that Mr Hugens does
+expressly say, He was the Inventer, and that if Galilaeo ever Hugen. ib.
+thought of any such thing, he never brought it to any perfection. It is
+certain, that this Invention never flourished till Mr Hugens set it abroad.
+
+2. After Mr Hugens had thus invented these Pendulum Watches, and caused
+several to be made in Holland, Mr Fromantil, a Dutch Clock-maker, came over
+into England, and made the first that ever were made here: which was about the
+year 1662. One of the first Pieces that was made in England, is now in
+Gresham-Colledg, given to that Honorable Society by the late eminent Seth, Lord
+Bishop of Salisbury: which is made exactly according to Mr Zulichem's
+directions.
+
+3. For several years this way of Mr Zulichem was the only method, viz.
+Crown-wheel Pendulums, to play between two cycloidal cheeks, etc. But
+afterward Mr W. Clement, a London Clock-maker, Horolog. Disquis. p. 3.
+contrived them (as Mr Smith says) to go with less weight, an heavier Ball (if
+you please) and to vibrate but a small compass. Which is now the universal
+method of the Royal Pendulums. But Dr Hook denies Mr Clement to have invented
+this; and says that it was his Invention, and that he caused a piece of this
+nature to be made, which he showed before the R. Society, soon after the Fire
+of London.
+
+4. The Use of these Pendulum Watches Mr. Hugens sets forth in several
+instances. Particnlarly, he gives two examples of their great use at Sea, in
+discovering the Difference of Meridians, more exactly than any other way: which
+he deduceth from the Observations of an English, and French Ship.
+
+On Land, they were found very serviceable, among other uses, particularly to
+these two. 1. To measure the time more exactly, and equally than the Sun. ^. To
+be (as Sir Christoph. Wren first proposed) a perpetual, and universal Measure,
+or Standard, to which all Lengths may be reduced, and by which they may be
+udged, in all ages, and countries. For as our Royal Society, Mr Hugens, and
+Mountonus have proposed after Sir Christopher Wren) this Horary foot, or
+Tripedal length, which vib^teth Seconds, will fit ill ages and places* But then
+respect must be had to the Center of Oscillation, which you have an account of
+in Mr Hugens his ^soresaid book, de Horologio Oscillatorio, ^s has before been
+said.
+
+5. There is one contrivance more of Pendulums, still behind, viz. the Circular
+Pendulum: which is mentioned by Mr Hugens as his own, but is claimed by the
+ngenious Dr. Hook as really his. This ^end* does not vibrate backward and
+forward, as those we have been speaking of ^o; but always round, round; the
+String being suspended above, at the tripedal length, and the Ball fi^ed below,
+as suppose at the end of the fly of a common ^ack.
+
+The motion of this Circular Pend* is as regular, and much the same with what
+goes before: and was thus far made very useful in Astronomical observations,
+by the said Dr Hook, viz. To give warning at any moment of its circumgyration,
+either when it had turned but a quarter, half, or any lesser, or greater part
+of its circle. So that here you had notice not only of a Second, but of the
+most minute part of a Second of Time. You may find a description of this
+Pendulum, and other matters belonging to it, in Dr Hook's Lectiones
+Cutlerianoe: Animad. in Hevelius Match* Caelest. p. 60.
+
+CHAP. VIII. Of the Invention of those Pocket-Watches, commonly called Pendulum
+Watches.
+1. THe reason they are called Pendulum-Watches, is from the regularity of
+their Strokes, and Motion. Which exactness is effected by the government of a
+small Spiral Spring, running round the upper part of the Verge of the Balance:
+which Spring is called the Regulator.
+
+2. The first Inventer hereof, was that ingenious and learned member of our
+Royal-Society, Dr Hook: who contrived va^ious ways of Regulation. One way was
+^ith a Lodestone: another was with a under strait Spring* one end whereof
+^layed backward, and forward, with the ^allance: So that the balance was to
+this ^pring as the bob of a Pendulum, and the ^ttle Spring, as the Rod thereof.
+And se^eral other contrivances he had besides of ^is nature.
+
+3. But the Invention which best an^ered expectation, was at first, with two
+^llances: of which I have seen two sorts, ^ho there were several others. One
+^ay was without Spiral Springs, the ^her with. They both agreed in this, that
+the outward Rims of both the Bal^nces, had alike number of Teeth; which ^nning
+in each other, caused each Bal^nce to vibrate alike.
+
+But as to the former of these, which had no Spiral Spring* the Verges of its
+Balances, had each but one Pallet apiece, about the middle of the Verge. The
+Crown-wheel lay (contrary to others) reversed, in the middle of the Watch, in
+the place, and after the manner of the Contrate-wheel. The teeth of this
+Crown-wheel, were cut after the manner of Contrate-wheel teeth, viz. lying
+upwards, but very wide apart, so as that the Pallets (which were about one
+tenth of an inch long, and n^rrow) might play in and out between each tooth.
+The Verges of the two Balances, were set one on one side, the other on the
+other side of the Crown-wheel, so that the Pallets might play freely in its
+teeth. And when the Crown-wheel in moving round, had delivered its self of one
+Pallet, the other Pallet on the opposite side, was drawn on to make its Beat,
+by means of the motion which the other Balance had given its Balance, (the
+two Balances moving one another, as has been said in the beginning of this
+Paragraph.) And so the same back again.
+
+It may be here noted, that for the more clear understanding of the last
+contrivance, I have described the two Balances, as having Teeth on the edges
+of their Rims, running in one another. But the contrivance was really thus*
+There was a small Wheel under each Balance, proportioned to the width of the
+Crown-wheel. But the Balances were much larger. And so the Teeth of these two
+little foresaid Wheels or Balances, running in one another, moved the larger
+Balances above them, all one, as if these two great Balances had been toothed
+and played in each other.
+
+4. The other way, with two Balances also, moving each other (as was said in
+the beginning of the last) had a Spiral Spring to each Balance, for its
+Regulator. In this Invention, only one Balance had the Pallets, as the common
+Balances have: and the Crown-wheel operated upon it, according to the usual
+way. But then when this Balance vibrateth, it gives the same motion backward
+and forward, to the other balance; as has been said.
+
+The first of these two ways, was never prosecuted so far, as perhaps it
+deserved. And the excellency of the latter is, that no jirk, or the most
+confused shake, can in the least alter its Vibrations. Which it will do in the
+best Pendulum Watch with one balance now commonly used. For if you lay one of
+these Watches upon a Table, and by the Pendant jirk it backward and forward,
+you will put it into the greatest hurry; whereas the last mentioned Watch, with
+two balances, will be nothing affected with it. But notwithstanding this
+inconvenience, yet the Watch with one balance and one Spring (which was also
+Dr. Hooks Invention) prevailed, and grew common, being now the universal Mode:
+but of the other very few were ever made. The reason hereof, I judge, was the
+great trouble and vast niceness required in it, and perhaps a little foulness
+in the ballance-teeth may retard the motion of the balances. But the other is
+easier made, and performs well enough, and in a pocket is scarce subject to
+the aforesaid disorder, which is caused rather by a turn, than a shake.
+
+5. The time of these Inventions was about the year 1658, as appears (among
+other evidence) from this inscription, upon one of the aforesaid double
+Ballance-Watches, presented to K. Charles II, viz. Robert Hook inven. 1658. T.
+Tompion fecit 1675.
+
+This Watch was wonderfully approved of by the King; and so the Invention grew
+into reputation, and was much talked of at home, and abroad. Particularly its
+same flew into France, from whence the Dauphine sent for two; which that
+eminent Artist Mr. Tompion made for him.
+
+6. Dr. Hook had long before this, caused several pieces of this nature, to be
+made, although they did not take till after 1675. However he had before so far
+proceeded herein, as to have a Patent (drawn, tho not sealed) for these, and
+some other Contrivances, about Watches, in the year 1660. But the reason why
+that Patent did no further proceed, was some disagreement about some Articles
+in it, with some Noble Persons who were concerned for the procuring it. The
+same ingenious Dr. had also a Grant for a Patent for this last way of Spring
+Watches in the year 1675: but he omitted the taking it out, as thinking it not
+worth the while.
+
+7. After these Inventions of Dr. Hook, and (no doubt) after the Publication of
+Mr. Hugens's book de Horolog. Oscil. at Paris 1673 (for there is not a word of
+this, tho of several other Contrivances) after this, I say, Mr. Hugen's Watch
+with a Spiral Spring came abroad, and made a great noise in England, as if the
+Longitude could be now found. One of these the Lord Bruncker sent for out of
+France, (where Mr Hugen^ had a Patent for them) which I have seen.
+
+This Watch of Mr. Zulichem's agreed with Dr. Hook's, in the application of the
+Spring to the balance: only Mr. Zulichem's had a longer Spiral Spring, and the
+Pulses and Beats were much slower. That wherein it differs, is 1. The Verge
+has a Pinion instead of Pallets; and a Contrate-wheel runs therein, and drives
+it round, more than one turn. 2. The Pallets are on the Arbor of this
+Contrate-wheel. 3. Then follows the Crown wheel, etc. 4. The balance,
+instead of turning scarce quite round (as Dr. Hook's) does turn several rounds
+every vibration.
+
+8. As to the great abilities of Mr. Hugens, no man can doubt, that is
+acquainted with his Books, and his share in the Philosophical Transactions,
+etc. But I have some reason to doubt, whether his fancy was not first set on
+work, by some Intelligence he might have of Dr Hook's Invention, from Mr
+Oldenburgh, or others his correspondents here in England.
+
+But whether or no that ingenious person does owe any thing herein to our
+ingenious Dr Hook, it is however a very pretty, and ingenious contrivance; but
+subject to some defects: viz. When it stands still, it will not vibrate,
+until it is set on vibrating: which, tho it be no defect in a Pendulum Clock,
+may be one in a Pocket-Watch, which is exposed to continual jogs. Also, it does
+somewhat vary in its Vibrations, making sometimes longer, sometimes shorter
+turns, and so some slower some quicker vibrations.
+
+I have seen some other contrivances of this sort, which I mention not, because
+they are of younger standing. But these two (of Dr Hook and Mr Hugens) I have
+taken notice of, because they were the first that ever appeared in the world.
+
+CHAP. IX. The Invention of Repeating Clocks.
+1. THe Clocks I now shall speak of, are such as by pulling of a String, etc.
+do strike the Hour, Quarter, or Minute, at any time of the day and night.
+
+2. These Clocks are a late Invention of one Mr Barlow, of no longer standing
+than the latter end of K. Charles II. about the year 1676.
+
+This ingenious Contrivance (scarce so much as thought of before) soon took
+air, and being talked of among the London Artists, set their heads to work; who
+presently contrived several ways to effect such a performance. And hence arose
+the diverse ways of Repeating work, which so early might be observed to be about
+the Town, every man almost practicing, according to his own Invention.
+
+3. This Invention was practiced chief^, if not only, in larger Movements,
+(...) K. James II.'s Reign: at which time it as transferred into Pocket-Clocks.
+But ^ere being some little contest concern^g the Author hereof, I shall relate
+the ^^e matter of fact, leaving the Reader to ^own judgment.
+
+About the latter end of K. James II.'s ^gn, Mr Barlow (the ingenious Inventer
+^ore-mentioned) contrived to put his ^ention into Pocket*watches; and en^voured
+(with the Lord Chief Justice ^bone, and some others) to get a Patent ^it. And
+in order to it, he set Mr Tom^ the famous Artist, to work upon it: ^o
+accordingly made a Piece according ^is directions.
+
+^r Quare (a very ingenious Watch*^er in London) had some years before (...)
+thinking of the like Invention: but bringing it to perfection, he laid by
+thoughts of it, until the talk of Mr Bar^ Patent revived his former thoughts;
+^ch he then brought to effect. This ^g known among the Watch-makers, (...) all
+pressed him to endeavor to hin^ Mr Barlow's Patent. And accordingly
+applications were made at Court, and a Watch of each Invention, produced before
+the King and Council. The King, upon trial of each of them, was pleased to give
+the preference to Mr Quare's: of which, notice was given soon after in the
+Gazette.
+
+The difference between these two Inventions was, Mr Barlow's was made to
+Repeat by pushing in two pieces on each side the Watch-box: one of which
+Repeated the Hour, the other the Quarter* Mr Quare's was made to Repeat, by a^
+Pin that stuck out near the Pendant which being thrust in (as now it is done by
+thrusting in the Pendant) did Repeat both the Hour, and Quarter, with the sam^
+thrust.
+
+It would (I think) be very frivolous, to^ speak of the various contrivances,
+and methods of Repeating work, and the Inventers of them; and therefore I shall
+sa^ nothing of them.
+
+CHAP. X.
+Numbers for several sorts of Movements.
+I Think it may be very convenient to set down some Numbers, fit for several
+Movements; partly, to be as Examples to exercise the young Reader, in the
+foregoing Art of Calculation: and partly, to serve such, who want leisure or
+understanding to attain to this Art.
+
+1. But first it may be requisite, to show the usual way of Watch-makers
+writing down their Numbers, which is somewhat different from that in the
+preceding Book.
+
+Their way represents the Wheel and Pinion, on the same Spindle; not as they
+play in one another. Thus the numbers of an old House-Watch, of 12 hours, is
+written thus;
+
+My way: The Watch-makers way. 4) 48 *48 7) 56 56 -- 4 6) 54 54 -- 7 19 19 -- 6
+
+According to my way, the Pin. of Report [4] drives the Dial-wheel [48:] the
+Pinion [7] plays in the Great-wheel [56] etc. But according to the other way,
+the Dial-wheel stands alone; the Great-wheel has the Pinion of Report on the
+same arbor: the Wheel [54] has the Pin: [7] and the Crown-wheel [19] the Pin:
+[6] on the same Spindles.
+
+This latter way (tho very inconvenient in Calculation) represents a piece of
+work handsomely enough, and somewhat naturally.
+
+2. Numbers of an 8 day Piece, with 16 turns the Barrel, the Pend. vibrates
+Seconds, the shows Minutes, Seconds, etc.
+
+The Watch-part. The Clock part. 8) 96 8) 78 8) 60 -- 48) 48 -- 6) 72 6) 48 8
+pins. 7) 56 6) 48 30 6) 48
+
+In the Watch-part, the Wheel 60 is the Minute-wheel, which is set in the
+middle of the Clock, that its Spindle may go through the middle of the Dial-plate
+to carry the Minute-hand.
+
+Also on this Spindle is a Wheel 48, which drives another Wheel of 48, which
+last has a Pinion 6, which drives round the Wheel 72 in 12 hours. Note here
+two things: 1. That the two Wheels 48, are of no other use, but to set the
+Pinion 6 at a convenient distance from the Minute-wheel, to drive the Wheel 72,
+which is concentrical with the Minute-wheel. For a Pinion 6 driving a Wheel 72,
+would be sufficient, if the Minute-hand and Hour-hand had two different
+centers. *2. These numbers, 60* 48) 48-6) 72, set thus, ought (according to the
+last) be thus read, viz. The Wheel 60, has another Wheel 48 on the same
+Spindle; which Wheel 48 divides, plays in, or turns round another Wheel 48;
+which has a Pinion 6 concentrical with it: which Pinion drives, or divides a
+Wheel of 72. For a Line parting two numbers (as 60-48) denotes those two
+numbers to be concentrical, or to be placed upon the same Spindle. And when two
+numbers have a hook between them (as 48) 48) it signifies one to run in the
+other, as has before been hinted.
+
+In the Striking-part, there are 8 Pins on the Second wheel 48. The Countwheel
+may be fixed unto the Great-wheel, which goes round once in 12 hours.
+
+3. A Piece of 32 days, with 16, or 12 turns both parts: the Watch shows
+Hours, Minutes, and Seconds; and the Pend. vibrateth Seconds*
+
+The Watch-part,
+With 16 turns. With 12 turns. 16) 96 12) 96 9) 72 9) 72 8) 60 -- 48) 48 -- 6)
+72 8) 60 -- 48) 48 -- 6) 72 7) 56 7) 56 30 30
+
+The Striking part.
+With 16 turns. With 12 turns. 10) 130 8) 128 8) 96 24 pins 8) 104 26 pins 12)
+39 8) 24 6) 72 Double hoop. 8) 96 Double hoop. 6) 60 8) 80
+
+The Pinion of Report is fixed on the and of the arbor of the Pin*wheel. This
+Pinion in the first is 12, the Count-wheel 39; thus, 12) 39. Or it may be 8)
+26. ^n the latter (with 12 turns) it may be 6) 18, or 8) 24.
+
+4. A two month Piece, of 64 days; with 16 turns; Pend. vibrateth Seconds, and
+shows Minutes, Seconds, etc.
+
+Watch-part. Clock-part. 9) 90 10) 80 8) 76 10) 65 8) 60 -- 48) 48 -- 6) 72 9)
+54 12 pins 7) 56 -- 8) 52 5) 60-Double Hoop 30 5) 50
+
+Here the third Wheel is the Pin-wheel; which also carries the Pinion of
+Report 8, driving the Count-wheel 52.
+
+Or thus.
+Watch-part. Clock-part. 8) 80 6) 144 8) 76 6) 78 26 pins 8) 60 -- 48) 48 -- 6)
+72 -- 8) 24 7) 56 6) 72-Double Hoop 30 6) 60
+
+5. A piece of 13 weeks, with Pendulum, Turns, and Motions, as before.
+
+The Watch part.
+8) 96 Or thus. 6) 72 8) 88 6) 66 8) 60 -- 48) 48 -- 6) 72 6) 48 -- 48) 48 --
+6) 72 7) 56 6) 45 30 30
+
+The Clock part.
+8) 72 Or thus. 5) 145 8) 64 -- 37) 30 6) 90 -- 30 pins 8) 48 -- 12 pins -- 24)
+62 6) 48 Double Hoop 6) 72 5) 40 6) 60
+
+6. A Seven Month Piece, with Turns, Pendulum, and Motions, as before.
+
+The Watch. The Clock. 8) 60 8) 96 8) 56 8) 88 -- 27) 12 8) 48 8) 64 -- 16 pins
+6) 45 -- 48) 48 -- 6) 72 6) 48 Double Hoop 5) 40 6) 48 30
+
+7. A Year Piece, of 384 days, with Turns, Pendulum, and Motions, as before.
+
+The Watch. The Clock. 12) 108 10) 120 9) 72 8) 96 -- 36) 9 8) 64 6) 78 26 pins
+8) 60 -- 48) 48*6) 72 6) 72 Double Hoop 7) 56 6) 60 30
+
+If you had rather have the Pinion of Report, on the Spindle of the Pin-wheel,
+it must be 13) 39.
+
+8. A Piece of 30 Hours, Pendulum about 6 inches.
+
+The Watch. The Clock. 12) 48 8) 48 6) 78 6) 78 13 pins 6) 60 6) 60 6) 42 6) 48
+15
+
+9. A Piece of 8 days, with 16 turns, Pendulum about 6 inches, to show Minutes,
+Seconds, etc.
+
+The Watch. The Clock may be the same with the 8 day piece before, 2. 8) 96 8)
+64 -- 48) 48 -- 6) 72 8) 60 8) 40 The Seconds Wheel. 15
+
+10. A Month Piece of 32 days, with Pendulum, Turns, and Motions, as the last.
+
+The Watch. The Clock may have the same numbers, as the Clock 3. 8) 64 8) 48 6)
+48 -- 48) 48 -- 6) 72 6) 45 6) 30 Seconds Wheel. 15
+
+11. A Year Piece of 384 days, with Pendulum, Turns, etc. as the last.
+
+The Watch part.
+10) 90 Or thus* with a Wheel less, and not to show Minutes and Seconds. 8) 64
+7) 56 8) 96 6) 48 6) 72 -- 36) 9 6) 45 -- 48) 48 -- 6) 72 6) 66 6) 30 6) 60
+Seconds Wheel. 6) 54 15 19
+
+In the latter of these two Numbers, the Pinion of Report is 36, on the Second
+Wheel. The Dial Wheel is 9.
+
+The Clock-part may have the same Numbers, as the Year-piece before 7.
+
+12. An 8 Day Piece, to show the Hour and Minute, Pend. about 3 inches long.
+
+6) 96 The Clock may have the same numbers, as the 8 day piece before, 2. 8) 64
+-- 6) 72 7) 49 6) 36 19
+
+Automata showing the Motion of the Celestial Bodies.
+1. Numbers for the Motion of the Sun and Moon. See before in Chap. 2. Sect. 5.
+3, 4.
+
+2. Numbers to show the Revolution of the Planet Saturn, which consists of
+10759 days.
+
+On the Dial-wheel. If you would make it depend upon a Wheel going round in a
+year, thus. 5) 69 4) 52 4) 48 10) 59 or thus, 4) 118 4) 40 6) 30
+
+Note, The lowermost Pinion in these, and the following numbers, is to be fixed
+concentrical to the Wheel, which is to drive the Motion, viz. the Dial-wheel,
+Year-wheel, or etc.
+
+3. Numbers for the Planet Jupiter, whose Revolution is 4332 days. On the
+Dial-wheel.
+
+4) 48 Or thus, on the Year-wheel. 4) 40 6) 71 4) 36 4) 32
+
+Note here, That the two last numbers of Saturn, may be the two first of
+Jupiter also.
+
+By the permission of my ingenious friend Mr Flamsteed, I here insert a
+description of Mr Olaus Romer, the French King's Mathematician's Instrument, to
+represent the Motion of Jupiter's Satellites; a copy of which he sent to Mr
+Flamsteed in 1679.
+
+Upon an axis (which turns round once in 7 days) are four Wheels fixed: one of
+87 teeth; a second of 63; the third 42; and the last of 28 teeth. On another
+axis run 4 other Wheels (or Pinions you may call them) which are driven by the
+asoresaid Wheels. The first is a Wheel, or Pinion of 22 leaves, driven by the
+Wheel 87, which carries round the first Satellite. The second is 32, driven by
+the Wheel 63, which carries round the second Satellite. The third has 43
+leaves, driven by the Wheel 42, which carries the third Satellite. And lastly,
+is the Pinion 67, driven by the Wheel 28, which carries round the fourth
+Satellite.
+
+On the first axis is an Index, that points to a circle divided into 168
+parts, which are the hours in 7 days.
+
+On the other axis all the Pinions run concentrically, by means of their being
+hollow in the middle. In the midst of them all, the axis of Jupiter himself is
+fixed, with a little Ball at the top, representing Jupiter's body. On the ends
+of 4 small Wires, fixed in the four several Sockets of the aforesaid Pinions,
+may 4 lesser Globules be placed (at their due distance from Jupiter's Globule)
+to represent the 4 Satellites going round that Planet.
+
+4. Numbers for Mars, whose Revolution is 1 year 322 days.
+
+On the Dial-wheel* 4) 48 The two last Numbers of Saturn may be the two first
+of Mars also. 4) 40 4) 45
+
+5. Numbers for Venus, whose Revolution is in 224 days.
+
+On the Dial-wheel. 4) 32 Note, The last number of Jupiter may be the first of
+Venus. 4) 32 4) 28
+
+6. Numbers for Mercury, whose Revolution is near 88 days.
+
+On the Dial-wheel. 4) 56 4) 52
+
+7. Numbers to represent the Motion of the Dragon's Head and Tail, (near 19
+years) to show the Eclipses of the Sun and Moon.
+
+On the Dial-wheel. On the Year-wheel. 4) 48 4) 76 4) 40 Note, The two last
+numbers of Saturn may be the two first of this on the Dial-wheel. 4) 44 4) 42
+
+As to the placing these several Motions on the Dial-plate, I shall leave it
+wholly to the Work-mans contrivance. He may perhaps make them to represent the
+Copernican, or some other Sys^em.
+
+Numbers for Pocket*Watches.
+1. A Watch to go 8 Days, with 1^ turns, to show Minutes and Seconds, the Train
+16000.
+
+6) 96 6) 48 -- 12) 48 -- 12) 36. 6) 45 On the Wheel [42] is the Second's hand
+placed, and on the Wheel [48] the Minute hand. 6) 42 19
+
+2. Another of the same, without Minutes and Seconds, to go with only 8 turns.
+
+20) 10 6) 66 6) 60 5) 50 5) 45 19
+
+3. A Pocket-Watch of 32 Hours, with 8 turns, to show Minutes and Seconds,
+Train as the last.
+
+12) 48 6) 48 -- 12) 48 -- 12) 36 6) 45 6) 42 -- Seconds Hand. 19
+
+4. The usual Numbers of 30 hours Pendulum Watches, with 8 turns, to show the
+Hour and Minute.
+
+12) 48 6) 54 -- 12) 48 -- 12) 36 6) 48 6) 45 15
+
+5. The usual Numbers of the old 30 hours Pocket-watches.
+
+With 5 Wheels. With 4 Wheels. 10) 30 6) 32 7) 63 6) 66 6) 42 5) 50 6) 36 5) 45
+6) 32 13 15
+
+If any of the Numbers of the preceding Wheels and Pinions should not please
+the Reader, he may easily correct them to his mind, by the Instructions in the
+foregoing Book. The way in short is this: Divide the Wheel by the Pinion, and
+so find the number of turns, according to Chap. 2. Sect. 1. 2. Multiply the
+Pinion you like better, by this number of turns, and the Product is the Wheel.
+Thus in the 8 day Pocket-watch 1, if you think the Great-wheel too large, you
+make it instead of 6) 96 (16 thus, viz. 5) 80 (16: i. e. choosing the Pinion
+only 5, and multiplying it by 16 (the turns) the Wheel will be 80.
+
+CHAP. XI
+Tables of Time relating to Watch-work.
+A Table of Time.
+Seconds. 60 Minutes. 3600 60 Hours. 86400 1440 24 Day. 604800 10080 168 7
+Week. 2592000 43200 720 30 4 Month. 31536000 525600 8760 365 52 12 Year.
+
+The foregoing Table will be of good use in Calculation, for the ready finding
+out the parts of Time: which is thus. Find the parts of time you seek for, the
+number in the concurrence of Squares, is the answer to your question. Thus,
+suppose you seek for the number of Seconds ^n a Year: in the Square under
+Seconds, and in the same line with Year (which is the ^owermost Square on the
+left hand) is the number sought, viz. 315, etc. So Minutes in a Month, are
+43200.
+
+If you would know any number, where there is the addition of an odd number to
+it, as the Seconds in a Month and one day; add the Seconds in a month (which
+are 259 --) and the Seconds in a Day (which are 86 --) and you have the number
+sought, viz. 2678400.
+
+A Table to set a Watch by the Fixed Stars*
+Night Hour. Min. Sec. Night Hour. Min. Sec. 1 0 3 57 16 1 3 20 2 0 7 54 17 1 7
+17 3 0 11 51 18 1 11 14 4 0 15 47 19 1 15 11 5 0 19 44 20 1 19 8 6 0 23 41 21 1
+23 5 7 0 27 38 22 1 27 1 8 0 31 35 23 1 30 58 9 0 35 32 24 1 34 55 10 0 39 29
+25 1 38 52 11 0 43 26 26 1 42 49 12 0 47 23 27 1 46 46 13 0 51 29 28 1 50 43 14
+0 55 26 29 1 54 40 15 0 59 23 30 1 58 36
+
+Explanation of the Table.
+This Table shows how much the Sidereal, goes faster than the Solar day, in
+any number of nights for a month. So that observing by your Watch, the nice
+time when any fixed Star comes to the Meridian, or any other point of the
+Heavens: if after one Revolution of that same Star to the same point, your
+Watch goes 3. 57 ^lower than the Star; or after two nights 7. 54; or 16
+nights, 1 h. 3. 20, etc. then does your Watch keep time rightly with the Mean
+motion of the Sun. If it vary from the Table, you must alter the length of your
+Pend* to make it so keep time.
+
+To observe the time nicely, when the Star comes again to the same point of
+the heavens, it is necessary to make the observation with a Telescope, that has
+cross threads in the focus of the object-glass; and so leaving the Telescope
+fixed in the same posture, till a second Observation. You may do this with the
+telescopular sights of a Quadrant, or Sextans, and so leaving it standing until
+anoher night of Observation. Or for want of this more nice way, you may do it
+by looking along by the edge of two Strings, suspended with Plumbets, in a
+room, at some distance from one another. Or by looking at the edge of a
+Chimney, etc. as Mr Watson has directed, at the end of Mr Smith's Horo^.
+Disquis. But to make a tolerable observation any of these last ways, it is
+necessary to have a Candle shine upon the edge of the furthermost String, or
+Chimney; without which you cannot see exactly when the Star comes thereto.
+
+A Table showing the Variations made in the true Hour of the Day, by the
+Refraction of *the Sun in the Equator, and both the Solstices.
+Sun's altitude. Degrees. Sun's Refraction. Variation at the N. Solstice. Variation
+at the Equator. Variation at the S. Solstice. 00 33 00 4 34 3 32 4 38 1 23 00 2
+34 2 28 3 19 2 17 00 2 24 1 49 2 31 3 13 30 1 46 1 27 2 3 4 11 30 1 29 1 12 1
+40 5 9 30 1 12 1 1 1 33 6 7 30 0 56 0 49 1 17 7 7 00 0 52 0 44 1 16 8 6 00 0 43
+0 39 1 8 9 5 00 0 36 0 34 1 2 10 4 40 0 25 0 29 1 2
+
+Remarks upon the Table.
+The Column of the Sun's Refractions, I owe to that accurate observer of the
+celestial motions, Mr* Flamsteed. Which Refractions, although in the Table the
+same, yet do differ at different seasons of the year, nay perhaps, according to
+the different temperature of the air sometimes, in the same day. Thus Mr
+Flamsteed found the Refractions in February, very different from those in
+April: and it is observed, that the Refractions are commonly greater, when the
+Mercury is higher in the Barometer.
+
+The Table therefore does not show what the Refractions always are, but only
+about the middle quantity of them, at every degree, of the 10 first of the
+Sun's altitude. And accordingly I have calculated the Variations thereby made
+in the hour of the day.
+
+These Variations of the hour are greater or lesser, according as the angle of
+the Sun's diurnal motion is acuter with the horizon. The reason is plain;
+because as the Sun appears by refraction higher than really he is; so this
+false height does affect the hours in Winter, more than the Summer half year.
+
+There is no ray indeed of the Sun, but what comes refracted to a Sun*dial*
+and consequently, there is no Dial but what goes more or less false (except at
+Noon in Dials that cast a Shade, where the refraction makes no variation*) But
+the Refraction decreaseth apace, as the Sun gets higher, and causes a
+variation of not above half a minute, at 10 degrees of the Sun's altitude;
+except when the Sun is in, or near the Southern Tropic. Nearer than half a
+minute, few common Sun-dials show the time. And therefore, partly for this
+reason, and partly, because Mr. Flamsteed's observations reach not much
+farther, I have calculated my Table to only 10 degrees.
+
+The Table needs little explication. For having the Sun's height, you have
+against it, in the next Column, the Refraction* and in the 3 next the
+alterations of the hour, at 3 times of the year. Taking therefore by a Quadrant
+the Sun's altitude, and observe at the same time, the hour of the day by a
+Sun-dial, by the Table, you see how many minutes, and seconds, the Dial is too
+fast. As at the Sunrising a Sun-dial is too fast 4. 34, about June 11, and 3.
+32, about Mar. 10. and Sept. 12, and 4 38 about Dec. 11.
+
+Addenda.
+TO the Fifth part of the Rule in 6. p. 21. If you have occasion to lay the
+Pinion of Report upon any other Wheel, and not the great-Wheel, you may do it
+by this Rule, As the Beats in one turn of any Wheel; To the Beats in an hour::
+So are the hours of the Dial; To the Quotient of the Hour-wheel divided by the
+Pinion of Report.
+
+To page 66. Suppose in altering an old Watch, you would have it show minutes,
+as well as hours; you may do it thus: Divide the Beats in one turn of the
+Great-wheel, by the Beats in an hour; the Quotient will show in how many hours
+the Great-wheel goes round once. If the Beats in the Great wheel exceed the
+Train, you must choose your Minute-wheel first, and multiply it by the Quotient;
+this will give the Pin. of Report. But if the Train exceeds the Beats of the
+Great-wheel, you must choose the Pin. of Rep. and multiply the Quotient by it:
+the product is the Minute-wheel.
+
+But it often falls out, that the Train and Beats of the Great-wheel will not
+exactly measure one another: if so, the best way is to half the two numbers, as
+far as they will equally admit of halfing; or divide them by some common
+divisor, and so having brought them to as small numbers as you can, you may
+suppose them to be a Wheel and Pinion, and reduce them to lesser numbers* by
+Chap. 2. Sect. 2. 5. Thus suppose you would make the old dull Movement there
+mentioned, a Minute-watch; you may reduce the numbers of the Great-wheel 2188^*
+and the Train 9368, to a Pinion and Wheel 28) 12. Which Pin. 28 being set upon
+the Spingle of the Gr. Wh. will drive a Wheel 12 round once in an hour, to show
+Minutes. If you make this* Wh. 12 drive another of 48; (concentrical to which,
+is a Pin. 12 driving a Wheel 36 (which Wheel is concentrical with the
+Minute-wheel) this will carry a Hand round in 12 hours. But in this case, you
+must place the Pin. 28 on the Spindle of the Gr. Wh. so as to slide round
+stiffly, when you turn the Minutehand to rectify the Watch.
+
+FINIS.
+

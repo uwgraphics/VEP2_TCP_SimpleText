@@ -1,0 +1,1216 @@
+The Doctrine of DECIMAL ARITHMETIC, Simple Interest, etc. AS ALSO Of Compound
+Interest AND ANNUITIES; Generally performed for any time of Payment, or Rate of
+Interest, by help of a particular Table of Forbearance of 1 l. Principal, with
+Enlarged Rules.
+
+Formerly abridged for portability in a Letter Case.
+
+By John Collins Accomptant, Philomath. And since his Death both made Public
+by J. D.
+
+LONDON, Printed by R. Holt for Nath. Ponder at the Peacock in the Poultry,
+near the Stocks-Market, 1685.
+
+THE EPISTLE TO THE READER.
+Courteous Reader,
+IT is the accustomed way to Dedicate Books to some Honorable Person, that
+thereby the Book might have the greater Esteem. This Book needs no such
+Dedication, for the Name of the Author (which will never dye, Ingenious Mr.
+John ted at the end of the Book, whereby the Reader may see it no ways
+derogates from the Old Copy, and thereby may see how full and plain the New
+Rules are in comparison to the Old.
+
+This Book is a fit Companion for all Gentlemen, Merchants, Scriveners, and
+other Tradesmen, that deal much in lending of Money upon Interest, Mortgages,
+buying of Estates either in Fee, Copy, or Lease, holding Annuities, Rent
+Charges, Forbearance of Money, Discompt, or any other way concerning Interest,
+etc.
+
+When any Person does perfectly understand the large Rules, he may if he
+pleases lay by the Book, and only use the Compendium with the Tables to be
+carried about in a Letter Case; and I hope in perusing this small Treatise the
+Reader will find that which will give him Satisfaction, both as to the Rules
+and Tables.
+
+Yours, J. D.
+
+Decimal Arithmetic.
+A Decimal Fraction is such a one whose Denominator is understood, and not
+expressed; and is an Unit with as many Ciphers following it, as there are
+Figures and Ciphers in the Numerator.
+
+Corollary, Wherefore the annexing of Ciphers toward the right hand of a
+Decimal, alters not its value. A Decimal Fraction of Coin may be easily valued
+without the help of Tables. For each Unit in the first place is in value 2 s. 5
+in the second place 1 s. and the rest Farthings; but if they exceed 25/48 there
+must be two farthings abated.
+
+Example.
+So,854 is in value 17 s. 1 d.,418 8. 4
+
+Addition and Substraction in Decimals is the same, as in whole Numbers,
+keeping the place of Units just under each other.
+
+Multiplication in Decimals is the same, as in Common Arithmetic, saving as
+many Decimal Parts as are in both Multipliers, so many must be cut off from the
+Product, which if it have not so many places, the Defect is to be supplied with
+Ciphers toward the left hand.
+
+Division is the same as in whole Numbers, without regard to Decimals till the
+Work is done, and then use the Converse of the Rule for Multiplication (viz.)
+so many Decimals as are in the Dividend, so many there must be in the Divisor
+and Quote, and if there be not so many, the Quotient must be supplied with
+Ciphers toward the left hand.
+
+Simple Interest.
+PROP. 1.
+TO compute the Interest for a day, 6/365 is the Interest of 100 l. for a Day
+the 1/100, whereof is the Interest of 1 l. for a Day (viz.) 6/36500; Or 6 (with
+Ciphers put on at pleasure) divided by 36500 is, 000164383 the Interest of 1 l.
+for a Day.
+
+Prop. 2. The Decimals of Days in the Table at the end will serve to find the
+amount of 1 l. Simple Interest of any Rate for any time under 365 Days or a
+Year.
+
+If you take the Decimal for one day (or more) and multiply that by, 06. 7. 8.
+etc. per Cent. or any other Rate, the Product will give the Interest of one
+pound for a Day, or more under 366 Days at Simple Interest.
+
+Example 1.
+The Decimal for a day is,002739726,06 The Interest of 1 l. for a
+day,00016438356
+
+Example 2.
+The Decimal of 121 days is,331506849,06 The Interest of 1 l. for 121
+days,01989041094,002739726 Decimal for a day,07 per Cent.,00019178082 The
+Interest of 1 l. for a day at 7 l. per Cent.
+
+And so of any other rate of Interest.
+
+Prop. 2. Forbearance of Money at Simple Interest.
+The Interest of 1 l. for any Number of days, at what rate of Interest you
+please, be first found by the first Proposition, that Product multiplied by the
+Sum propounded, gives the Interest thereof for the time required.
+
+Example.
+To know the Amount of 140 l. for 121 days, at 6 l. per Cent. Simple Interest.
+
+The Decimal of 1 l. for 121 days 1,019890410 Multiplied by 140 Which is 142 l.
+15 s. 8 d. 40795616400 1,019890410 142,784657400
+
+Prop. 3. Rebate, or the Present worth of Money due hereafter.
+Find the Interest of 1 l. for the time given, as in Prop. 1. And thereto add
+an Unit by it. Divide any other Sum propounded, and the Quote is its present
+Worth.
+
+Example.
+If 142 l. 15 s. 8 d. be due at the end of 121 days, what is it worth in ready
+Money? ^
+
+Worth in ready Money 140 l. at 6 l. per Cent. Simple Interest, and may be done
+for any other rate of Interest, working by the first Proportion and this former
+Rule.
+
+Prop. 4. Equation of Payments.
+By Prop. 3. compute all the Present Worths, and then by Proportion. If all
+those Present Worths amounted to the Total of all those Payments, what did one
+pound amount to in the said time? From the result substract an Unit, the
+Remainder is the Interest of 1 l. for the time sought, which divide by the
+Interest of 1 l. for a day, the Quote is the Number of days sought.
+
+If you are to Aequate an Annuity, at Simple Interest. I presume a Compendium
+may be found in Mengolus his Arithmetical Quadratures (a Book I never saw) who
+it is probable by a Compendium gets the fact of an Arithmetical Progression, and
+adds Fractions that have a constant Numerator, and an Arithmetical Progression
+for their Denominators.
+
+So much for Simple Interest, my Design being more for the Explanation of the
+Tables for Compound Interest and Annuities.
+
+Of Compound Interest.
+THe Original thereof is Derived from Simple Interest, for if it be Lawful to
+take Interest at all, then it is as Lawful to put out the Interest-Money to
+Use, as the Principal.
+
+For ease in Calculating Questions that concern Compound Interest,
+Arithmeticians do usually frame Tables in store, to show what 1 l. Principal
+forborne at any Rate for any determinate time shall amount unto; the
+Construction whereof is by the Golden Rule, as follows;
+
+As 100 l. Principal is to the amount thereof at the years end;
+
+So is an Unit. To its amount (to wit.)
+
+So is 1. 1, 06. If 6 be the rate of Interest, then it will hold again for the
+next year.
+
+As 1. 1, 06, so 1, 06, to 1, 1236, the principal and Interest at the second
+year.
+
+Now because an Unit is in the first place, which does not divide, it
+follows, that the second years amount Squares the Number 1, 06, being the
+Quotient of 1, 06 divided by 100, and that is the amount of 1 l. forborne a
+year, the Compound Interest the third year Cubes it, etc. And the said Number
+1, 06 is by Arithmeticians called the Ratio, Quote or Denominator of the Ratio
+propounded, and the Logarythm thereof multiplied by the time does raise those
+Powers agreeable to the nature of Logarythms.
+
+By the former Proportion was the following Table for years made, or for
+Abridgment by Addition, only by help of a Table of 1,06 multiplied by all the
+Digits; And this raising of Powers is by some called Involution, and as for
+that of Months may be made by finding mean Proportionals, and those of days by
+help of the Common Logarythms, or without, supplied far enough downward, by
+help of mean Proportionals, and a Decimal Table for time, and three Months here
+is understood to be the precise of a whole year, and so of the rest.
+
+That which we add concerning it, is, That it self is in effect no other than a
+Table of Logarythms, but of another kind than those in Print, yet herein
+agreeing therewith, that in both the Logarythm of an Unit is O, and therefore
+this Table may be continued for any large time by one or some few
+Multiplications, it is here continued to each year for 50 years, then for every
+10 years to 100, whereby you may perceive that an Inheritance, or a Sum due
+after such a time is worth little more than a three hundred and fortieth part
+of its present Worth.
+
+And in the next place it will supply the Defect of all other Tables
+(especially those that relate to the said rate of Interest) whether of Discount
+of Money or of Forbearance of and Discount of Annuities, or for the Purchase
+thereof.
+
+In the Tables following the number of years are the Logarythms or Indexes, and
+the Amounts are the Numbers to which the Logary thms belong, and because this
+is no full Table of Logarythms to ten or one hundred thousand, we therefore use
+Multiplication and Division to supply those Defects, wherefore the first Prop.
+is;
+
+Prop. 1. To continue the said Table.
+Multiply the Numbers together that belong to any Numbers of years, that added
+together make the years of Continuance required.
+
+Example.
+Let it be required to find the Amount of 1 l. for 50 years.
+
+20 Years 3,20713 30 Years 5,74349 50 Years Product is 18,42015
+
+and is the Number sought, omitting the five superfluous places of Decimals.
+
+Another Example.
+It is required to find the Amount of 1 l. forborne 20 years three quarters.
+
+20 Years is 3,20713 9 Months 1,04467 The Product 3,25180
+
+And the like may be done for days, and the Converse when an Amount is given,
+the time thereto may be found by Division, searching in the Table what Number
+amongst the Decimals for time agrees to the Divisors and last Quote. See Prop.
+8. the First Section.
+
+And here it is worth noting, That many Questions may be put concerning
+Compound Interest, which are of the like difficulty, as to raise the printed
+Logarythmetical Cannon.
+
+For Example such a Question may be put;
+One pound was put out at Compound Interest, and in 10 years time amounted to
+10 l. in what space of time did it amount to 2 l. the answer is the Logarythm
+of the Number two (to wit) 3,01023 years which was not raised without much
+toil, and the rate of Interest in those Logarythms is near 26 l. per Cent. to
+wit 25,89292.
+
+The Uses of the said Table.
+
+Prop. 2. A Sum forborne for any time, to find to what it shall amount to at 6
+l. per Cent. Compound Interest.
+Find in the Table, or Compute by 1. Prop. the amount of 1 l. for the said
+Time, and then it holds.
+
+As 1 l. is to its Amount;
+
+So any other Sum to its Amounts: Wherefore the Amount of 1 l. must be
+multiplied by the Sum proposed.
+
+Example.
+What shall 136 l. 15 s. 06 d. amount unto being forborne 20 years at 6 per
+Centum?
+
+The Amount of 1 l. for 3,20713 20 years is Which multiplied by 136,775 The
+Product is 438,655
+
+Reduced is 438 l. 13 s. 1 d. 4^
+
+Prop. 3. A Sum of Money due hereafter, to find what it is worth in ready Money.
+Find in the Table what 1 l. forborne, the like time shall amount unto at
+Compound Interest, then it holds.
+
+As the said Amount is to an Unit;
+
+So is any Sum propounded, to its present Worth.
+
+Corollary. Therefore if an Unit be the Sum whereof you would find the present
+Worth, you will frame the Numbers in the usual Table for Discount, and for all
+other Sums: Because an Unit does not Multiply, it will follow they must be
+divided by the Amount of 1 l. for the like time.
+
+Discount, or the present Worth of Money due hereafter.
+
+Example first, for making the Table of Discount.
+An Unit divided by 3,20713, the Quotient is 311804, the present Worth of 1 l
+due 20 years hence.
+
+Example second.
+If 400 l. be due 20 years hence, What is it worth in ready Money, abating
+Compound Interest at 6 per Centum per Annum?
+
+Divide 400 by 3,20713, the Amount of 1 l. forborne 20 years at Compound
+Interest, and the Quotient is 124 l. 722, or 124 l. 14 s. 5 d. And how to
+reduce sundry Payments, to an Equation of time at Compound Interest. See first
+Example of Prop. 8.
+
+Prop. 4. Of Forbearance of Annuities. To find the Arrearages of an Annuity.
+The Difference between the Forbearance of an Annuity, and of a Principal put
+out to Interest, is this, that every year there is a Principal like the first
+added.
+
+The Proportion holds.
+
+As, 06 the Compound Interest of 1. l. for a year, is to the Amount less by an
+Unit of one of one pound forborne at Compound Interest for the time proposed.
+
+So is any Annuity or yearly payment of Rent forborne the like time, and at the
+same Rate, to the Arrearages thereof due. And when the Rent
+
+is payable Half-yearly, Quarterly,
+
+the first term in the proportion must
+
+be the Compound Interest of 1 l. for acordingly, etc. Half a year, Quarter,
+
+Example.
+Let it be required to find what one pound a year Annuity forborne for 30 years
+at 6 per Centum shall amount to.
+
+One pound forborne at Compound Interest so long amounts to 5, 74349 which
+lessened by an Unit is 4, 74349 which divided by 06, the Quotient is 79, 0581
+and this is the Number found in the Vulgar Tables for forbearance of Annuities.
+
+Second Example.
+Let it be required to find what 20 l. Annuity forborne for 15 years shall
+amount unto at 6 per Centum.
+
+1 l. Principal forborne 15 years amounts to 2, 39655 from which subtracting an
+Unite it holds.
+
+As, 06 to 1,39655 so 20 to 465, 516, that is 475 l. 10 s. 4 d.
+
+Third Example.
+A Quarterly Rent of 25 l. was respited 20 years, by the first Proportion the
+amount of 1 l. so long forborne was 3, 34978. And the Interest of one pound for
+a quarter is 0, 14675 Wherefore by Proportion, As, 014675 Is to 2, 34978: So is
+25 to 4003, 032 that is 4003 l. 00 s. 7 d.
+
+This Useful Proportion I thus demonstrate which the Reader may pass by.
+
+Imagine the Land or Stock that yields an Annuity to be such a Principal sent
+out for the whole term as will bring in so much yearly Interest as the Annuity
+comes to, then at last the whole at Compound Interest is to be repaid, whereof
+so much is supposed to be repaid in the Value of the Land, as its first
+Principal came to, and the rest in Money; wherefore out of the whole Amount of
+that Principal and its Interest, the Principal must be deducted unless to shun
+it by that which Geometers call conversion. See Commentators on 16 Def. Quinti
+Euclidis etc. we say,
+
+As the first term is to the difference of the first and second;
+
+So the Third Term to the difference of the third and fourth.
+
+The Plain Proportion grounded upon the former Considerations runs thus,
+
+As 1 l. Principal. Is to its Amount for the time forborne;
+
+So the Principal that shall bring in any Annuity proposed. To the Sum of the
+said Principal and of the Arrearages of the Annuity.
+
+Then it will hold by conversion of Reason. As 1 l. forborne at Compound
+Interest is to its Amount less by an Unit for the time forborne;
+
+So is the Principal of an Annuity, forborne the like time,
+
+To the Arrearages of the Annuity.
+
+And instead of the third term of this Proportion, we may take in a fraction
+equivalent thereto, the Numerator whereof is the Annuity or yearly payment of
+Rent, and the Denominator the Interest of 1 l. for a year; for to find the
+Principal of an Annuity say,
+
+As 6 is to 100. Or rather, 06: 1.
+
+So is the Annuity to its Principal.
+
+And both these latter Proportions compounded into one will be the proportion
+first delivered, the Units in each being expunged as insignificant either in
+Multiplication or Division.
+
+Prop. 5. To find the present worth of an Annuity.
+If an Annuity be forborne till the last payment be due, then for as much as the
+Interest of each particular payment is by the former or 4th. Proposition
+computed, if by the 3d. Proportion the same, together with the rebate of each
+payment be destroyed (to wit) the present worth of the whole Arrearage be
+computed it shall be the present worth of the Annuity, the Proportion in both
+those Propositions being after the manner of the 4th. prop. composed into one
+it will hold for Annual payments at 6 per Centum.
+
+As the fact of (,06) the Interest of 1 l. for a year, and of the Amount of one
+pound Compound Interest for the time proposed, is to the said Amount less an
+Unit.
+
+So is the Annuity or yearly Rent to the present worth thereof.
+
+Example. First for making the Tables.
+To find the present worth of an Annuity of 1 l. per Annum, to continue 25
+years at 6 per Centum compound Interest.
+
+The Amount of 1 l. for that time is 4,29187 which Multiplied by,06 the fact
+is,257512, whereby dividing 3,29187 the Quote is 12 l.,78335 the present worth
+sought.
+
+Example. Secondly for half-yearly Payments.
+An Annuity of 40 l. payable, 20 l. each half year is to befold for 12 years at
+6 per Centum.
+
+The Compound Interst of 1 l. for half a year is --,029564 The amount of 1 l.
+forborne 12 years -- 2,012196
+
+Multiply these two together, and that added together makes the fact of both;
+
+Which is --,058487 It therefore holds,
+
+As,058487 is to,1,012196.
+
+So is 20 to 346, 166 that is 346 l. 3 s. 4 d. the present worth thereof.
+
+If this Annuity were paid yearly it must be of less Value because the money is
+longer in coming in, and accordingly the worth of it l. s. d. would be but --
+335 -- 7 -- 1 Admit it were required to know what an addition of 8 years more
+is worth after 12 are expired. The worth of the said Annuity for 20 years, is
+-- 458. 15. 11 The difference of these two is -- being the present worth of the
+8 years sought. 123. 8. 10
+
+Prop. 6. To find what Annuity any Sum of ready Money shall purchase.
+This is but the Converse of the former Proposition, and it holds therefore;
+
+As the Amount of 1 l. forborne at Compound Interest less an Unit is to the fact
+of, 06 and of the Amount of one pound so forborne,
+
+So is any Sum of ready money to the Annuity it shall purchase.
+
+In this and the two former propositions by,06 is understood the Compound
+Interest of 1 l. for a year, and when the payment is by quarters or half years,
+instead thereof must be put in the Interest of a quarter or half a year. And
+instead of the Annuity or yearly payment, the Quarterly or Half-yearly payment
+accordingly.
+
+Corollary.
+If 1 l. be the sum of ready money then the two middle Terms of the proportion
+are the fact above mentioned, and you will frame the other Vulgar Table for
+this purpose.
+
+Example the first.
+To find what Annuity 1 l. shall purchase to continue 30 years, it holds;
+
+As 4,74349 to,06. So 5,74349 to 0,07264.
+
+Example Second.
+Let it be required to find what rent payable yearly 8 l. shall purchase at 6
+per Centum to continue 21 years.
+
+As 2,39956 the Amount less an Unit of 1 l. for 21 years is to,20397 the fact
+of,06 and the amount,
+
+So is 8 to,68 or 13 s. 7 d. the Annuity sought.
+
+Memorandum, That by the Fact is meant that you should multiply the foregoing
+Figures by,06. Viz. 2,39956 by,06,
+
+Which makes 2,2039736.
+
+Now whereas the Lease of a house of 1 l. per Annum to continue 21 years is
+commonly sold for 8 l. or 8 years purchase, and your money will purchase a
+certainty but of 13 s. 7 d. ^ per Annum, you see by this supposition you are
+abated 6 s. 5 d. 3/^nt of Taxes Reparations and Casualties; and verygood Reason
+there is for great abatements, for a Tenant taking a Lease on a Tunber house,
+if it be burnt down by a Fire beginning at his Neighbors as leases commonly
+Run, is bound to build it up again and has no relief either in Law or Equity
+against his Landlord, as I am informed by able Council, only he has the
+benefit of a Benevolence, his Action against them where the fire began (who
+perchance are ruined.)
+
+s. s. d. will purchase an -- 11 -- 11 10 Annuity to continue 21 years of -- 12
+-- 9 10 -- 14 -- 5 -- 15 -- 17 1 -- 5 -- 3 -- 1-00-0
+
+Hence it appears that the Value of Leases of Houses cannot be estimated near
+the Truth by the Common Tables for Annuities at the current rate of Interest,
+and that if any one would use them to this purpose it were much nearer the
+truth first to abridge the Rent as aforesaid.
+
+Prop. 7. Any number of years in a Lease or Annuity being propounded to find
+the present Worth of any greater or lesser Number of years therein.
+This is one of the most usual and useful Propositions of this Nature, and as
+propounded is not sufficiently Limited, and the Question in this Cas^ will be,
+What is the most equitable rate of Interest whereby to resolve the Proposition;
+to find out which it is either necessary to assign how many years purchase the
+Fee Simple or Inheritance is worth, or the present Worth of a Lease of any
+Number of years therein.
+
+1. If the Worth of the Inheritance be assigned, then thereby divide 100 the
+Quote shows the Annual Interest for.
+
+Example:
+Let the Fee Simple or Copyhold Lands be worth 16 years 8 months Purchase,
+then dividing 100 by 16 the Quotient is 6, whereof 6 pound in the 100 is an
+equitable Rate of Interest whereby to compute the present worth of a Lease of
+any number of years therein, and so e contra if money were at 8 per Centum, the
+Laws of Arithmetic allow the worth of the Inheritance of the best Land that
+is, to be but 12 years Purchase, which some would confirm, from this reason,
+because otherwise their money would yield a better income at Simple or Compound
+Interest, but the most proper Reason is derived from the Nature of a
+Geometrical Progression decreasing ad Infinitum; for instance, admit you have a
+Tenant in the Tenure or Possession of 1 l. per Annum, and you say to him, pay
+the rent now that will be due at the end of 1 Years, etc. ad infinitum. 2 3 4
+and you will rebate him after the rate of Compound Interest. I say the Total of
+all those Payments shall never exceed 12 l. 10 s. 00 d.
+
+The Proportion for casting up the sum of a sinite Geometrical Progression runs
+thus,
+
+As the difference of an assumed extreme and its next inward mean is to the
+next inward mean;
+
+So is the difference of the remote extremes to the sum of the Progression,
+except the assumed extreme.
+
+The reason whereof is, That if a rank of Numbers be in Geometrical Progression
+their sums and differences are likewise in the same Proportion. See 35 of 9
+Book of Euclid, or Briggs his Arithmetica Logarithmica.
+
+Example.
+6, 18, 54, 162, 486, 3, 9, 27, 81, 243, 729
+
+Wherefore it holds by Euclid. 6 As one difference Is to its Consequent -- 9 So
+is the Sum of all the differences (which is here the difference between the
+first and last term) -- 726
+
+To the Sum of all the Consequents is 1089.
+
+Wherefore the sum of the whole progression is -- 1092.
+
+And supposing this Progression to decrease infinitely, then will the first
+term be o, and the sum of all the Differences 729, and it holds. As ^
+
+Wherefore the sum of this infinite Progression is 1093, and can never exceed
+it, and the said progression continued but in part toward the left hand, would
+stand thus, etc. 1/729 1/243 1/81 1/27 1/9 I.
+
+2. But admit the present worth of a Lease for a certain number of years be
+given, some third term must be further given, let that be the yearly rent, and
+then you cannot assign the rate; (and the contrary) in this Case to find the
+rate is one of the most difficult Questions that commonly happens about
+Annuities, because the Proposition in the 5, 6, (also 4th.) Prop. will not hold
+conversly, there are but two terms in the Proposition given, which contain but
+a bare ratio, etc. therefore though out of Tables of Forbearance of Money at
+compound Interest, you can make those for Annuities, yet the converse will not
+hold.
+
+In this Case you must either by help of the 5 Prop. and common Logarithms, or
+of Tables of the present worth of Annuities, calculated to the best rate that
+shall suit the Inheritance, find the present worth of the Number of years
+proposed according to two rates assumed as near the truth as you can possible,
+and then if you have not lighted upon the given worth of the years assigned,
+use the help of this Approximation.
+
+As the difference of the present worths found, is to the difference of the
+assumed rates of Interest;
+
+So the difference between the given worth and the truest of those Trial worths;
+
+To the difference between the rate of Interest of the trial worth and that
+sought.
+
+And when the rate of Interest is truly found, compute accordingly the present
+worth of the years sought.
+
+But this were to send away the Reader, as if we could in this Case give no
+answer to the question, by help of the table here used; whereto I answer, That
+if the worth of the Inheritance be assigned, repair to the following
+Proposition.
+
+But if not, let the Casualty as in the 6th. Proposition be reduced to a
+certainty; viz. if it concern the Lease of a house which is a Casualty, abridge
+the Annual Rent, and then you may by the 5th. Prop. cast up the Value of any
+Number of Years therein.
+
+But herein I would not be misunderstood, as if when a Lease of a House of 1 l.
+yearly for 21 Years is sold for 8 l. 10 s. the which will purchase an Annuity
+or Certainty of 14 s. 5 per Annum, and any Number of years in this Certainty
+shall be equivolent to as many in that Casualty, that therefore Tables made to
+both Rates, and a Computation to both the Yearly Rents must needs agree,
+because all Tables of Annuities are made for Certainties not Casualties.
+
+Or lastly, repair to the first and last Prop. and you will there find how to
+cast up the Amount of 1 l. Principal for any time, and at any Rate, where the
+true manner of such Equations is showed.
+
+In this second Case is couched two usual Questions, most commoly propounded
+without sufficient Limits: As,
+
+1. When a Lease is sunk by a Fine to a certain Yearly Rent, for a certain term
+of time, What the whole Lease is worth: Or,
+
+2. What any number of years to be added, after the term in Lease is expired,
+is worth.
+
+In Order to the Resolution of either of these Questions it must be agreed how
+much the sunk Rent was, or at least as much given as before was required, and
+then as before you have a foundation whereon to raise a Rate of Interest, for
+there is now given the yearly Rent sunk, its present worth, and the time, and
+the Rate being found, you may then, according as is done in the 5th. Prop.
+resolve both these Questions.
+
+Prop. 8. A Table for the forbearance of Money at any Rate of Interest being in
+store to extend it to serve to all other Rates.
+It was before asserted that any such Table was a Table of Logarithms, and if
+filled up with Proportionable Numbers (by 1. Prop.) or otherwise suitable to
+such time or Decimals thereof, as may come in use, might for these purposes be
+more convenient than those already made, because it would admit a manifold
+Proof, as also because the differences would not be so vast near the beginning,
+but in some other respects inferior thereto. And so contrarily, a Number being
+assigned to find the Logarithm thereto made, upon any kind of Rate or
+Supposition, it may easily be done out of the Common Logarithms, for the
+differences of all Logarithms are either equal or directly Proportional.
+
+Example first.
+As 74108, Speidells difference of the Logarithm of 13 and 14.
+
+Is to 32184 d. Brigs his difference of those Logarithms;
+
+So is 16000, Speidells difference of the Logarithms of 62 and 63.
+
+To 69487, the difference of those Logarithms in Mr. Brigs, or the Common
+Tables.
+
+Moreover Van Schooten in his Miscellanies gives you an Account of all Numbers
+under 1000, that are prime or incomposite, to wit, 1226 in Number, viz. the
+which no other Number will divide, to the which if the differences be first
+found by Proportion, which in this Case having the two fixed Terms fixed, may be
+converted into a Multiplication or Division, and that Multiplier or Divisor
+being Multiplied by all the Digits into an Addition or Substraction, the
+Logarithms of all the Composite Numbers will easily be made out of the rest, by
+the continual Addition of the Logarithm of 2, or otherwise.
+
+In the Table here used the time is the Logarithm, and the Amount the Number
+thereto belonging, and a Proportion accordingly may be applied to any kind of
+Logarithms, to find the Excess of time above a year, in which a 100 l. at 6 per
+Centum did amount to 108 l. But it may be more easily thus done.
+
+As, 02530586, the Logarithm of the Amount 1, 06.
+
+Is to 1, viz. One year the time that 1 l. Principal was forborne;
+
+So is, 03342375 the Logarithm of the Amount 1, 08.
+
+To 1, 32079, the time required, and that is 1 Year, 3 Months, and about 26
+Days, and thus the nearest way of resolving such a Proposition, having the
+Common Logarithms in Store, is by a Division of the Logarithms: But supposing
+no such Tables, it may be supplied by two Divisions by help of this Table,
+which I shall explain in two Cases.
+
+Sect. 1. The Amount of 1 l. being proposed, to find what time it must be
+forborne, at 6 per Centum to amount unto as much.
+
+Divide the given Amount by some Amount in the Table, next lesser, and that
+Quotient, again by the next lesser Amount, reserving the Quotient.
+
+If the time in the Tables belonging to the two first Divisors, and last Quote
+be added together, it is the time sought.
+
+Example.
+1 l. in a Year at 8 per Centum did amount to 1 s., 08, in what time at 6 per
+Centum, shall it amount to so much.
+
+In Decimals Time Dividend 108 1. Divisor -- 106 -- 1 Year 1 Quote -- 1,018867
+Second Dividend 2. Divisor -- 1,014675 -- 3 Months,25 1,0041 Quote 26 days
+fere,07079 1,32079
+
+But to save the Reader this trouble we have added the Equated time for these
+Rates.
+
+l. years 100 l. shall 105 In,83732 at 6 per 106 1 Centum 107 1,16114 amount
+108 1,32079 unto 109 1,47896
+
+And by the second Proposition the present worth of sundry payments due
+hereafter being computed, after the manner of this Example, a ^ue time may be
+found when the total of all those Payments may equitably be paid at once.
+
+Sect. 2. The Rate of Compound Interest, and the time being given to find what
+1 l. Principal did amount to in that time.
+
+Or rather let it be thus proposed:
+
+How long shall one pound at 6 per Cent. be forborne to amount to as much as 1
+l. forborne any space of time at any other Rate of Interest does amount unto,
+and what is the said Amount?
+
+By the time Proposed multiply the Equated time, next before found (in the
+first Case) that agrees to the Rate proposed, and you have the time sought, and
+what it shall amount, is found by the first Proposition.
+
+For instance, if 1 l. be forborne 18 years at 8 per Centum, what shall it
+amount to?
+
+Or (...)
+How long shall 1 l. at 6 per Centum be forborne, to amount 10 as much, as if
+the said 1 l. had been forborne 18 years at 8 per Centum, and what is the said
+Amount?
+
+By the former Example the Equated time or Logarithm of the Ratio found, was,
+
+years 1,3207 This Multiplied by 18, the Product is 23,7726
+
+To wit the time of forbearance.
+
+And the Product of the Interest Sums belonging to the true time is 3,99601 --
+or 3 l. 19 s. 11 d. the Amount of 1 l. forborne 18 years at Compound Interest,
+and the Amount of 1 l. being in Store, you see before that thereby all other
+Questions concerning Annuities are Resolved.
+
+But when the Law settles a New Rate of Interest, it may be more speedy to
+frame a Table thereto, or use such as the Scale of Interest, or other Authors
+afford. Now what I have hitherto wrote was chiefly to explain the Use of the
+Table, and to show, That in case of necessity, with a little more pains, it
+takes away those Multitudes of Tables that are made, as well for quarterly as
+yearly Payments, at several Rates for Interest and Annuity Questions, and by
+reason it, with its Precepts, is contained in one quarter of a sheet of Paper,
+which I made my constant Companion in my Letter Case, that thou might reap
+the like benefit of it, it is also Printed apart. It is not my intent to
+enlarge upon a Multitude of Particular Questions, which would all be reduced
+unto or resolved by some of the former Propositions. That I leave to the
+Practice of the Studious.
+
+ADVERTISEMENT.
+MErcennus in the Preface of his Synopsis Mathematica, speaking of certain
+Supplements made to Geometry, and amongst the rest of Torricello's Hyperbolical
+Solid of an infinite length, found equal to a finite Cylinder, says, That a
+certain Geometer found the like in a Space made by a curved Line drawn through
+the tops, all right proportional Lines (supposed) and by a right Line, on which
+the said Proportional Lines stand as Perpendiculars at a like parallel distance
+from each other; if it may be said to be a Space which is not closed, unless
+perchance at an infinite distance, which Proportionals, he says, would not
+long after be published: He wrote it in 1644, but as yet I cannot hear of any
+such Treatise.
+
+Now, as I said before, the time being the Logarithms, and the Amounts the
+Proportional Numbers thereto belonging, by the help of the Curved Line he
+mentions (which may also be described by mean or continual Proportionals in
+Lines without the help of Numbers) the Logarithmetical Lines of Numbers, Sines,
+Tangents, Versed Sines, on Gunter's Rule may be Graduated, and the Meridian
+Line of Mercator's Projection, or the true Sea Chart (being in the same Ratio
+with the Logarithmetical Tangents) supplied, and whereas he mentions by one
+Curved Figure, there will also arise another for the same purpose, when the
+equal parts increasing in Arithmetical Progression, are raised as
+Perpendiculars on their Proportional Numbers placed in a base Line, and then
+the tops of those Perpendiculars joined with a slexuous Curved Line passing
+through them; but the Properties of these Figures as their Areas or Contents,
+Centors of Gravity, round Solids, and their first and second Segments, etc. are
+not as yet treated of by Geometers, and perchance might be more worthy their
+Contemplation than diverse other Speculations, which seem to be of less Use, to
+which (amongst many) might be added the Curves made by the Annuity Lines, and
+the Curve in Mercator's Chart that represents a Semicircle of the great Arch,
+with a method of discribing it by Points, or Instrument (if possible) from its
+own Intrinsic Nature, without the help of Calculations or other Projections;
+also how to cut a Cylinder that the Surface thereof unrolled shall render the
+Curve proposed of the like Nature, standing upon the Stage of Proposal, have
+troubled all France and Galileus for 35 years together, and since his death
+received their Resolution.
+
+A Table of Decimals of Days, which may serve for any Rate of Simple Interest,
+and a Table of Forbearance, or Amount of 1 l. Compound Interest at 6 l. per
+Cent. per Annum, for 365 Days and 11 Months.
+Days Decimals of days Amounts 1,002739726 1,000159617 2,005479452 1,000319336
+3,008219178 1,000479037 4,010958904 1,000638768 5,013698630 1,000798522
+6,016438356 1,000958305 7,019178082 1,001118111 8,021917808 1,001277942
+9,024657534 1,001437800 10,027397260 1,001597683 11,030136986 1,001757592
+12,032876712 1,001917526 13,035616438 1,002077486 14,038356164 1,002237471 15
+041095890 1,002397482 16,043835616 1,002557511 17,046575342 1,002717580
+18,049315068 1,002877667 19,052054794 1,003077802 20,054794520 1,003197919
+21,057534246 1,003358083 22,060273972 1,003518273 23,063013699 1,003678488
+24,065753425 1,003938729 25,068493151 1,003998995 26,071232877 1,004159285
+27,073972602 1,004319605 28,076712329 1,004479948 29,079452055 1,004640310
+30,082191781 1,004800712 31,084931507 1,004961132 32,087671233 1,005121577
+33,090410959 1,005282467 34,093150685 1,005442545 35,095890411 1,005603068
+36,098630137 1,005763616 37,101369863 1,005924190 38,104109589 1,006084789
+39,106849315 1,006245414 40,109589041 1,006406528 41,112328767 1,006566741
+42,115068493 1,006727443 43,117808219 1,006888171 44,120547945 1,007048924
+45,123287671 1,007209703 46,126027397 1,007370508 47,128767123 1,007531338
+48,131306849 1,007692194 49,134246575 1,007853076 50,136986301 1,008013983
+51,139726027 1,008174916 52,142465753 1,008335850 53,145205479 1,008496859
+54,147945205 1,008657870 55,150684931 1,008817905 56,153424657 1,008979967
+57,156164383 1,009141054 58,158904109 1,009302121 59,161643835 1,009463306
+60,164383561 1,009624470 61,167123287 1,009785661 62,169863014 1,009946877
+63,172602739 1,010108118 64,175342466 1,010269386 65,178082192 1,010430680
+66,180821918 1,010591909 67,183561644 1,010753343 68,186301369 1,010914719
+69,189041096 1,011076110 70,191780822 1,011237532 71,194520548 1,011398513
+72,197260274 1,011560453 73,200000000 1,011721952 74,202739726 1,011883485
+75,205479452 1,012045028 76,208219178 1,012206604 77,210958904 1,012368207
+78,213698630 1,012529835 79,216438356 1,012691489 80,219178082 1,012853169
+81,221917808 1,013014874 82,224657534 1,013176606 83,227397260 1,013338368
+84,230136986 1,013500145 85,232876712 1,013661955 86,235616418 1,013823790
+87,238356164 1,013985650 88,241095891 1,014147538 89,243835617 1,014309449
+90,246575342 1,014471385 91,249315068 1,014633352 92,252054794 1,014795341
+93,254794520 1,014957357 94,257534246 1,015119399 95,260273972 1,015281466
+96,263013698 1,015443560 97,265753424 1,015605678 98,268493150 1,015767824
+99,271232876 1,015929992 100,273972602 1,016092892 101,276712320 1,016254415
+102,279452055 1,016416663 103,282191781 1,016578938 104,284931517 1,016741243
+105,287671243 1,016993540 106,290410960 1,017065919 107,293150695 1,017228295
+108,295890411 1,017396994 109,298630137 1,017553130 110,301369863 1,017715585
+111,304109589 1,017878065 112,306849315 1,018045851 113,309589041 1,018203108
+114,312328767 1,018365664 115,315068493 1,018528254 116,317808219 1,018690866
+117,320547945 1,018853504 118,323287671 1,019016177 119,326027397 1,019178857
+120,328767123 1,019345733 121,331506849 1,019504313 122,334246575 1,019667083
+123,336986301 1,019829875 124,339726027 1,019991694 125,342465753 1,020155541
+126,345205479 1,020318411 127,347945206 1,020481309 128,350684942 1,020644233
+129,353424667 1,020807182 130,356164393 1,020970158 131,358904119 1,021133159
+132,361643845 1,021296189 133,364383572 1,021461593 134,367123298 1,021622323
+135,369863024 1,021785425 136,372602749 1,021948558 137,375342476 1,022111715
+138,378082202 1,022274899 139,380821928 1,022438109 140,383561654 1,022601344
+141,386301379 1,022764607 142,389041106 1,022927895 143,391780832 1,023091208
+144,394520558 1,023254549 145,397260284 1,023417914 146,400000000 1,023581308
+147,402739736 1,023744727 148,405479462 1,023908170 149,408219188 1,024071642
+150,410958914 1,024235137 151,413698640 1,024398660 152,416438366 1,024562213
+153,419178092 1,024725785 154,421917818 1,024989386 155,425657544 1,025053613
+156,427397270 1,025216666 157,430136997 1,025380346 158,432876722 1,025544052
+159,435616448 1,025707783 160,438356174 1,025871541 161,441095900 1,026035316
+162,443835626 1,026199125 163,446575352 1,026362972 164,449315078 1,026526834
+165,452054804 1,026690723 166,454794531 1,026854641 167,457534256 1,027018579
+168,460273982 1,027182546 169,463013708 1,027346543 170,465753434 1,027510559
+171,468493161 1,027674605 172,471232887 1,027838677 173,473972613 1,028002774
+174,476712339 1,028166899 175,479452065 1,028331053 176,482191791 1,028495226
+177,484931517 1,028659434 178,487671243 1,028823659 179,490410969 1,028987914
+180,493150695 1,029152196 181,495890421 1,029316503 182,498630147 1,029480838
+183,501369873 1,029645199 184,504109599 1,029809584 185,506849325 1,029973997
+186,509589051 1,030138442 187,512328777 1,030302901 188,515068503 1,030467393
+189,517808229 1,030631911 190,520547955 1,030796454 191,523287681 1,030961026
+192,526027407 1,031125622 193,528767133 1,031290244 194,531506859 1,031454895
+195,534246585 1,031619570 196,536986311 1,0317^4^^^ 197,539726057 1,031949^^^
+198,542465763 1,032137521 199,545205489 1,032278534 200,547945215 1,032443342
+201,550684941 1,0326^8174 202,553424667 1,032773034 203,556164393 1,032937920
+204,558904119 1,033102832 205,561643845 1,033267771 206,564383571 1,033432736
+207,567123298 1,033597703 208,569863024 1,033757985 209,572602756 1,033927789
+210,575342478 1,034092859 211,578082204 1,034257956 212,580821929 1,034423079
+213,583561656 1,034588204 214,586301382 1,034753404 215,589041108 1,034918606
+216,591780834 1,035083763 217,594520559 1,035249089 218,597260286 1,035414370
+219,600000000 1,035579678 220,602739727 1,035745010 221,605479453 1,035910371
+222,608219179 1,036075759 223,610958905 1,036241173 224,613698631 1,036406611
+225,616438357 1,036572078 226,619178083 1,036737573 227,621917809 1,036903089
+228,624657535 1,037068659 229,627397261 1,037234207 230,630136987 1,037399804
+231,632876713 1,037565430 232,635616439 1,037731080 233,638356165 1,037896757
+234,641095891 1,038062462 235,643835617 1,038228192 236,646575343 1,038093948
+237,649315069 1,038559733 238,652054795 1,038725542 239,654794521 1,038891378
+240,657534247 1,039057241 241,660273973 1,039223106 242,663013699 1,039389046
+243,665753425 1,039554988 244,668293152 1,039720972 245,671232878 1,039886952
+246,673972604 1,040052974 247,676712329 1,040219022 248,679452056 1,040385096
+249,682191782 1,040551198 250,684931508 1,040717326 251,687671234 1,040888480
+252,690410959 1,041049661 253,693150686 1,041215868 254,695890412 1,041382102
+255,698630138 1,041548363 256,701369864 1,041714649 257,704109589 1,041880960
+258,706849316 1,042047303 259,709589042 1,042213669 260,712328768 1,042380062
+261,715068494 1,042546482 262,717808219 1,042712928 263,720547946 1,042879401
+264,723287672 1,043045901 265,726027398 1,043212426 266,728767124 1,043378979
+267,731506850 1,043545559 268,734246576 1,043712164 269,736986302 1,043878797
+270,739726028 1,044045456 271,742465754 1,044212141 272,745205480 1,044378853
+273,747945206 1,044545592 274,750684932 1,044712357 275,753424658 1,044879150
+276,756164384 1,045045969 277,758904110 1,045212813 278,761643836 1,045379786
+279,764383562 1,045548585 280,767123288 1,045713509 281,769863014 1,045884074
+282,772602740 1,046057440 283,775342466 1,046214445 284,778082192 1,046381477
+285,780821918 1,046548530 286,783561644 1,046710807 287,786301371 1,046882733
+288,789041097 1,047049872 289,791780823 1,047217036 290,794520548 1,047384229
+291,797260275 1,047551448 292,800000000 1,047718696 293,802739727 1,047885989
+294,805479453 1,048053264 295,808219179 1,048220589 296,810958905 1,048387941
+297,813698631 1,048555320 298,816438357 1,048722726 299,819178083 1,048890158
+300,821917809 1,049057400 301,824657535 1,049225103 302,827397261 1,049392616
+303,830136987 1,049560107 304,832876713 1,049727721 305,835616439 1,049895336
+306,838356165 1,050062933 307,841095891 1,050230335 308,843835617 1,050398261
+309,846575343 1,050565953 310,849315069 1,050733679 311,852054795 1,050901432
+312,854794521 1,051020810 313,857534247 1,051237020 314,860273973 1,051404858
+315,863013699 1,051572714 316,865753425 1,051738180 317,868493152 1,051908515
+318,871232877 1,052076452 319,873972603 1,052244425 320,876712329 1,052412418
+321,879452055 1,052580440 322,882191782 1,052748489 323,884931508 1,052916563
+324,887671234 1,053084180 325,890410954 1,053252794 326,893150686 1,053420949
+327,895890412 1,053589108 328,898630138 1,053757318 329,901369864 1,053925553
+330,904109589 1,054093831 331,906849316 1,054262131 332,909589042 1,054430478
+333,912328768 1,054598766 334,915068494 1,054767113 335,917808219 1,054935559
+336,920547946 1,055103982 337,923287672 1,055272407 338,926027398 1,055440912
+339,928767124 1,055609416 340,931506850 1,055778678 341,934246576 1,055946508
+342,936986302 1,056115093 343,939726028 1,056283706 344,942465754 1,056452343
+345,945205480 1,056621012 346,947945206 1,056789705 347,950684932 1,056958443
+348,953424658 1,057127172 349,956164384 1,057295946 350,958904110 1,057464748
+351,961643836 1,057633576 352,964383562 1,057802434 353,967123288 1,057971313
+354,969863014 1,058140222 355,972602741 1,058309157 356,975342467 1,058478129
+357,978082193 1,058647110 358,980821919 1,058816127 359,983561645 1,058985178
+360,986301371 1,059154242 361,989041097 1,059323339 362,991780823 1,059492461
+363,994520549 1,059661616 364,997260275 1,059837952 365,100000000 1,060000000
+Months Decimals Amounts 1,083333 1,004867 2,166667 1,009659 3,250000 1,014675
+4,333334 1,019613 5,416667 1,024576 6,500000 1,029564 7,583334 1,034574
+8,666667 1,039610 9,750000 1,044671 10,833334 1,049756 11,916667 1,054865
+
+A Table of Forbearance, or Amount of 1 l. at Compound Interest, at 6 l. per
+Cent. per Annum for 50 years, and from thence continued to 100.
+Years 1 1,06 2 1,236 3 1,191016 4 1,262477 5 1,338225 6 1,418519 7 1,503630 8
+1,593848 9 1,689479 10 1,790848 11 1,898298 12 2,012196 13 2,132928 14 2,260904
+15 2,396358 Years 16 2,540352 17 2,692773 18 2,854339 19 3,025599 20 3,207135
+21 3,399564 22 3,603537 23 3,819750 24 4,048935 25 4,291871 26 4,549383 27
+4,821346 28 5,111687 29 5,418388 30 5,743491 31 6,088101 32 6,453386 33
+6,840589 34 7,250025 35 7,686087 36 8,147252 37 8,636087 38 9,154252 39
+9,703507 46 10,285715 41 10,902857 42 11,557032 43 12,250453 44 12,985481 45
+13,764609 46 14,590486 47 15,465915 48 16,393869 49 17,377502 50 18,420152 60
+32,987488 70 59,075911 80 105,795933 90 189,464433 100 339,398871
+
+The Doctrine of DECIMAL ARITHMETIC, Simple Interest, etc.
+
+AS ALSO Of Compound Interest and Annuities:
+
+Generally performed for any time of Payment, or Rate of Interest, by help of
+any particular Table of Forbearance of 1 l. Principal.
+
+Abridged for Portability in a Letter Case.
+
+By John Collins Accomptant, Philomath.
+
+A Decimal Fraction is such a one whose Denominator is understood and not
+expressed; and is an Unit with as many Ciphers following it, as there are
+Figures and Ciphers in the Numerator.
+
+Corollary. Wherefore the annexing of Ciphers toward the right hand of a
+Decimal alters not its value. A Decimal Fraction of Coin may be easily valued
+without the help of Tables. For each Unit in the first place is in value 2 s. 5
+d. in the second place 1 s. and the rest Farthings; but if any exceed 15/48
+there must be Farthings abated:
+
+So,854 is in value 17 s. 1 d.,418 8 4.
+
+Addition and Substraction in Decimals is the same as in whole Numbers, keeping
+the place of Units under each other.
+
+Multiplication in Decimals; as many Decimal parts as are in both Multipliers,
+so many must be cut off from the Product; which if it have not so many places
+the Defect is to be supplied with Ciphers toward the left hand.
+
+Division in Decimals is the Converse annex Ciphers sufficient (if need be) to
+the Dividend toward the right hand, that it may have more Decimal Parts than
+the Divisor, then as many Decimal Parts as are in the Dividend, so many must be
+in the Divisor, and Quote, when the Division is finished; and in case of
+defect, the Quote is to be supplied with Ciphers toward the left hand.
+
+Simple Interest.
+Prop. 1. To compute the Interest of 1 l. for a Day.
+6/105 is the Interest of 100 l. for a day, the 1/100 whereof is the Interest
+of 1 l. for a day, viz. 6/16500, Or 6 divided by 36500, namely,
+
+Days Interest of 1 l. 1,000164384 2,000328768 3,000493152 4,000657536
+5,000821920 6,000986304 7,001150688 8,001315072 9,001479456
+
+Prop. 2. Forbearance of Money at Simple Interest.
+The Interest of one pound for any number of Days may be taken from this Table
+by Addition, (instead of a Multiplication, by the number of days, the trouble
+whereof is by the help of this Table spared) and that Product multiplied by any
+other given Sum, makes the Interest thereof for the time given.
+
+Prop. 3. Rebate, or the present worth of Money due hereafter.
+Find the Interest of one pound, for the time given, and thereto adding an
+Unit. By it divide any other Sum given, and the Quote is its present worth.
+
+Prop. 4. Equation of Payments.
+By Prop. 3. Compute all the present worths, and then by Proportion. If all
+those present worths amounted to the Total of all those Payments, What did 1 l.
+amount to in the said time? From the Result substract an Unit, the Remainder is
+the Interest of 1 l. for the time sought, which divide by the Interest of 1 l.
+for a day, the Quote is the number of days sought. If you are to Equate an
+Annuity at Simple Interest, I presume a Compendium may be found in Mengolus his
+Arithmetical Quadratures, (a Book I never saw) who its probable by a Compendium
+gets the Fact of an Arithmetical Progression, and adds Fractions that have a
+constant Numerator, and an Arithmetical Progression for their Denominators.
+
+Days Decimals Amount 5 Years Amounts 1,002739 1,000160 1 1,06 2,005479
+1,000319 2 1,1236 3,008219 1,000479 3 1,191016 4,010959 1,000639 4 1,262477
+5,013698 1,000798 5 1,338225 6,016438 1,000958 6 1,418519 7,019178 1,001118 7
+1,503630 8,021918 1,001278 8 1,593848 9,024657 1,001438 9 1,689479 10,027397
+1,001598 10 1,790848 11,030137 1,001757 11 1,898298 12,032877 1,001917 12
+2,012196 13,035617 1,002077 13 2,132928 14,038357 1,002237 14 2,260904
+15,041097 1,002397 15 2,3^6^58 16,043837 1,002557 16 2,540352 17,046577
+1,002717 17 2,692773 18,049316 1,002878 18 2,854339 19,05^055 1,003038 19
+3,025599 20,054795 1,003198 20 3,207135 21,057536 1,003358 21 3,399564
+22,060274 1,003518 22 3,603537 23,063016 1,003678 23 3,819750 24,065755
+1,003839 24 4,048935 25,068495 1,003999 25 4,291871 26,071233 1,004159 26
+4,549383 27,073973 1,004319 27 4,822346 28,076714 1,004480 28 5,111687
+29,079454 1,004640 29 5,418388 30,082193 1,004801 30 5,743491 60,164386
+1,009625 31 6,088101 90,246579 1,014472 32 6,453386 120,328772 1,019342 33
+6,840589 150,410965 1,024335 34 7,250025 180,493158 1,029153 35 7,686087
+210,575351 1,034093 36 8,147252 240,657544 1,039057 37 8,636087 270,7^9737
+1,044^45 38 9,154252 300,821930 1,049^^7 39 9,7^35^7 330,904193 1,054093 40
+10,285715 360,986316 1,^59154 50 18,420152 Mo. 1,083334 1,004867 60 32,927388
+2,166667 1,0^9759 70 50,075911 3,250^^^ 1,014^74 80 1^5,795933 6,500000
+1,^29563 90 189,464433 9,750000 1,014^71 100 339,398471
+
+The annexed Table is a Table of the Forbearance or Amount of 1 l. at Compound
+Interest at 6 per Cent. per An. This Table as to the Years, is composed by the
+continual Multiplication of 1,06 (or by Addition tabulating the same) and as to
+the Days may be supplied either by continual Proportionals, or the common
+Logarithms, which also are no other than Answers to Interest Questions, at the
+rate of near 26 per Cent. (or the Amount is as 1, to 1,2589292) supposing 1 l.
+in 10 Years to amount to 10 l. the Logarithms (distinguishing the first Figure
+with a Conmma) show the Years and Decimals when it amounted to 2 l. 3 l. etc.
+And those Logarithms may be raised from the former. For the differences of all
+sorts of Logarithms of any four Numbers, are directly Proportional, and may be
+raised from any Table of Forbearance of Money at Compound Interest.
+
+Prop. 1. To continue the said Table, or to find the Amount of 1 l. forborne for
+any time proposed.
+Multiply those Amounts together that belong to such time, as added together
+makes the time given.
+
+Prop. 2. The Amount of 1 l. being given, To find the time of Forbearance.
+Search the Amount in the Tables, and divide by the next lesser amount, and
+that Quote again by the next lesser Amount, etc. reserving the Quotes, the time
+belonging to the Divisors, and the last Quote is the time sought. Example, 1 l.
+did amount to 1,08 in 1,32079 years.
+
+Prop. 3. To compute the Amount of 1 l. for any time at any Rate of Interest.
+By Prop. 2. compute in what time at 6 per Cent. 1 l. shall amount to as much
+as in one Year at the Rate proposed, that keep in store, and multiply by the
+time proposed, the Fact is the time in which at 6 per Cent. 1 l. shall amount
+to as much as it should do at the other Rate given; to know which, use Prop. 1.
+
+Example, 100 l. did amount to 105 l. in, 83732 Years.
+l. Or, 1 l. did amount to 1,05 In Years,83732 1,06 1, 1,07 1,16114 1,08
+1,32079 1,09 1,47896 1,10 1,63569
+
+Admit it were required to find what 1 l. amounted to in 20 Years at 8 per
+cent. multiply 1,32079 by 20, the Fact or Product is 26,14158, and by Prop. 1.
+1 l. at 6 per cent. in that time did amount to 4 6609.
+
+Now if the Amount of 1 l. be given, Annuity Problems are salved thereby. And
+for the advantage of this Proposition the Decimals of time were added.
+
+Prop. 4. Forbearance of Moneys at Compound Interest.
+As an Unit is to its Amount in the Tables suitable to the time given:
+
+So is any other Sum to its Amount.
+
+Prop. 5. Discount of Money at Compound Interest, the Converse of the former.
+As the Tabular Number,
+
+Is to an Unit, its present Worth:
+
+So is any other Sum, To its present Worth.
+In Annuity Questions the Proportions are suited for yearly Payments; if the
+Payment be half-yearly, then instead of,06 (or 1,06) and the Annuity in any
+term, take half a years Interest,029565, and the half yearly Payment; and for
+quarterly Payments the Quarters Interest,014674, and the quarterly Payment, etc.
+
+Prop. 6. Forbearance of Annuities.
+As,06 the Annual Interest of 1 l.
+
+Is to the Amount less an Unit of 1 l. forborne any term:
+
+So is the Annuity or yearly Pension,
+
+To the Sum for the whole Arrearages thereof.
+
+Prop. 7. Discount of Annuities, or their present Worth.
+As the Fact of,06 and of the Amount of 1 l at Compound Interest for the time
+proposed,
+
+Is to the said Amount less an Unit:
+
+So is any Annuity, To its present Worth,
+To this Proposition belongs the Purchase of the Fee-simple.
+For yearly Payments divide the Rent 1 l. by the Interest,06 the Quotes are 16,
+half-yearly,5,0295613 16,91303 quarterly,25,01674 17,07843
+
+And so many pounds (or years purchase) is the Inheritance worth (as may be
+proved from Tacquet's Arithmetic) which Sums are no other than the Totals of
+the present Worths of the infinite Payments to be made. Hereto also belong
+Equation of Payments at Compound Interest: for having computed the present
+Worths, by proportion, you may find what 1 l. amounted to in the time sought,
+and by the second Proposition the time it self.
+
+Prop. 8. To find what Annuity any Sum of ready Money shall purchase for any
+time proposed.
+As the Amount less an Unit of 1 l. forborne at Compound Interest, the time
+proposed,
+
+Is to the Fact of, 06, and of the Amount of 1 l. so forborne:
+
+So is any Sum of ready Money,
+
+To the Annuity it shall purchase.
+
+From these three Propositions the Tables in common use may be raised, if you
+put an Unit in the third place.
+
+Prop. 9. The Worth of an Annuity being proposed, To find the time of its
+Continuance.
+Get the difference of the Facts of 1,06 into the Annuity,
+
+And of,06 into the Sum of the present Worth and Annuity,
+
+Then, as the said difference, is to an Unit:
+
+So is the Annuity, To the Amount of 1 l. for the time sought (to be found by
+the second Proposition.)
+
+Prop. 10. An Annuity, its present Worth, and time of Continuance proposed, To
+find the Rate of Interest.
+This is the hardest of Annuity Problems, and not to be resolved with
+Logarithms without Position or Trials; the use is to find the value of any
+other Number of Years therein: To facilitate which, observe, That by Prop. 8.
+for 21 years at 6 per Cent. you may purchase Annuity of
+
+s. d. For l. s. 11 11 7 00 12 9 7 10 13 7 8 00 14 5 8 10 15 3 9 00 17 10 00
+
+And these are the Rates for Leases of Houses of such a time, to wit, 1 l. a
+year for 21 years, is worth about 7 l. 10 s. or 8 l. as men agree, which is a
+certainty of 12 s. 9 d. or 13 s. 7 d. per Annum, whereby you have a direction
+to accord an abate for Casualty, and then use the 6 Proposition. Most of the
+many Propositions in the Learned Doctor Wallis his Arithmetic concerning
+Geometrical Progression; as also in Mr. Dary's sheet of Algebra, may be easily
+resolved by help of the former Table: But this I have handled in my Supplements
+to Accomptantship, where also somewhat of Logarithm Curves, derived from Mean
+or Continual Proportionals, or Tables of Interest, and serve for making the
+Logarithm Scales of Numbers, Sines, Tangents, (or Mercator's Meridian Line)
+Geometrically.
+
+Prop. 9. More easily.
+As on Annuity, less the Fact of,06 into its present Worth,
+
+Is to the Annuity: So is an Unit, To the Amount of 1 l. for the time sought.
+If the Payments be half yearly, for the Annuity in the first and third Terms,
+take half the Annuity, and for,06 in the first Term as a Multiplier, take,02956
+the half Years Interest.
+
+For another Rate of Interest as 8 per Cent. take in,08 as a Multiplier, and
+find the time in Years and Decimals by 2. Prop. as at 6 per Cent. which divide
+by the fitted Number of the Rate in Prop. 3. to wit 1,32079, the Quote is the
+true time sought in Years and Decimals, which is easily reduced into Days by
+the Decimal Table of Days.
+
+Example.
+50 l. a Year at 8 per Cent. is worth 490 l. 18 s. 2, or 490,91, the time of
+continuance is 20 years. ^
+
+An Amount is proposed for 20 years to be 4,6609, what is the Rate of Interest?
+
+1. The time in which 1 l. came to so much at 6 per Cent. is 26,4158, found by
+the second Proposition.
+
+2. Divide 26,4158 by 20, the time proposed, the Quote is 132079 years.
+
+3. 1 l. at 6 per Cent. in that time amounted to 1,08, the Ratio sought.
+
+A PERPETUAL ALMANAC,
+To find what day of the Week the first of March shall happen upon.
+
+ADD to the Number 2 the Year of our Lord, and the fourth part of that,
+neglecting the odd, and divide by 7, the Remainder is the day of the Week; but
+if none remains it is Saturday, for you must account from Sunday, Monday, etc..
+
+Example.
+So that the First of March is the First Day, that is, Sunday.
+
+The Number -- 2 The Year of our Lord, 1685. 1685 The fourth Part -- 421
+Divisor -- ^
+
+To find on what day of the Week any Day of any Month in the said Year happens.
+To perform this Proposition, the following Verse being in Effect a Perpetual
+Almanac, is to be kept in Memory.
+
+In this Verse are twelve Words relating to the Number of the twelve Months of
+the Year, accounting March the First; wherefore the word proper to that Month,
+is An, and so in order of the Alphabet, which will never exceed Seven; and the
+Number of the said Letter shows what day of the Month proper to the said word
+shall be the same day of the Week the First of March happened upon, as the
+Example above.
+
+To find the Prime or Golden Number and Epact.
+Add to the Number 1 the Year of our Lord, and divide by 19, the remainder
+gives the Prime. Multiply the Prime by 11, and divide by 30, gives the Epact.
+
+A Table of Primes or Golden Numbers and Epacts for ever. ^
+
+To find Easter for ever.
+Substract the Epact (if less than 28 or 29) from 47, if the Epact be 28 or 29
+from 77, the remainder is Easter limits; so the first Sunday after the
+remainder, beginning from March, is Easter Sunday.
+
+To find the Age of the Moon.
+Add to the Epact the Day of the Month, and so many more as there are Months
+from March (accounting March one) the Sum if less than 30 is the Moon's Age (if
+more) Substract 30, (when 31 Days in the Month) but if 30 Days or less,
+Substract 29, the Remainder is the Moon's Age.
+
+To find the Southing of the Moon, and High Water at London Bridge.
+Multiply the Moon's Age by 8/10 shows the Southing, to which add 3 hours,
+shows High Water at London Bridge.
+
+To find it another way.
+Multiply the Moon's Age by 4, and divide by 5, the Quotient shows it, every
+Unit that remains is in value 12 Minutes, at full Moon reject 15 from it. Add
+to this 3 hours, shows High Water at London Bridge.
+
+To find what Day of the Month the Sun enters into any Sign of the Zodiac, by
+the following Verse.
+Aries Taurus Gemini Cancer Leo Virgo
+
+
+
+Evil attends its Object, unva^^'d Vice,
+
+Libra Scorpio Sagittar. Capricorn Aquar. Pisces
+
+
+
+Vain Villains, jest into a Paradise.
+
+In which are twelve Words to represent the twelve Months of the Year, the
+first March, the second April, etc. and over the respective Words are the
+Characters of the twelve Signs of the Zodiac, thereby denoting, that in the
+Month to which the Word belongs, the Sun is in that Sign over head: And if it
+be required to know the day of the Month in which the Sun enters into any of
+those Signs; if the first Letter of the Word, proper to the Month, be a
+Consonant, the Sun enters into the Sign thereto belonging on the eighth Day of
+the said Month, as in the Word Paradise, belonging to February, in that Month
+he enters Pisces the eighth Day; but if it be a Vowel, as all the rest are, add
+so many Days unto eight, as the Vowel denotes; now the Vowels are but five in
+Number.
+
+To know in what Degree of the said Sign he is for any other Day.
+If the Number of the Day of the given Month exceed the Number of that Day in
+which the Sun enters into any Sign, Substract the lesser from the greater, and
+the Remainder is the Degree.
+
+Example.
+On the 21 of April I would find the Sun's place by the Verse. It appears the
+Sun enters into Taurus on the ninth of that Month, which taken from 21, there
+remains 12, showing that the Sun is in the 12 Degree of Taurus, the second Sign.
+
+2. But if the Number of the Day of the given Month be less than the Number of
+that Day in which the Sun enters into the beginning of any Sign, the Sun is not
+entered into the said Sign, but is still in the Sign belonging to the former
+Month. In this Case Substract the given Day from the Day of his Entrance into
+the next Sign, and again Substract the Remainder from 30, and the Remainder
+shows his place in the Sign of the former Month.
+
+Example.
+Let it be required to know the Sun's place the fifth of August on the
+thirteenth day of the Month the Sun enters into Virgo, 5 from 13 rests 8, and
+that taken from 30 there remains 22, showing that the Sun is in the 22 degree
+of Leo, the fifth Sign.
+
+FINIS.
+
